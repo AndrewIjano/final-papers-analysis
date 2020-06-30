@@ -1,0 +1,39 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: yes
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: no
+ini: Introdução
+secoes:
+ - Objetivo Geral
+ - Objetivos Específicos
+ - Metodologia
+ - Revisão bibliográfica e conceitos sobre identidade visual
+ - Histórico da Associação Solidariedança
+ - Identidade corporativa da Associação e entrevistas-chaves
+ - Identidade Visual Atual
+ - Identidade visual dos espetáculos de dança
+ - Benchmarking de instituições de dança e eventos culturais e análise crítica das características de marcas gráficas e signos semelhantes
+ - Conclusão das análises
+ - Requisitos
+ - Paineis semânticos
+ - Desenvolvimento da marca gráfica da Associação
+ - Desenvolvimento da marca gráfica do Espetáculo 2017
+ - Apresentação das propostas à Associação
+ - Refinamentos
+ - Identidade Visual da Associação Solidariedança
+ - Aplicações da Identidade Visual da Associação Solidariedança
+ - Aplicações da Identidade Visual do Espetáculo Entre Armas e Almas
+end: Considerações finais
+ref: Referências

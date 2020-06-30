@@ -1,0 +1,1840 @@
+Universidade de São Paulo
+Faculdade de Medicina de Ribeirão Preto
+
+Sistema RANKL na regulação gênica de PGC-1α
+
+Ana Júlia Rossoni Carvalho
+
+Trabalho
+
+de
+
+Conclusão
+
+de
+
+Curso
+
+apresentado para obtenção do título de
+Bacharel em Ciências Biomédicas com
+Ênfase em Ciências Básicas da Saúde.
+
+Ribeirão Preto
+2018
+
+Ana Júlia Rossoni Carvalho
+
+Sistema RANKL na regulação da expressão gênica de PGC-1α
+
+Orientadora:
+Prof. Dra. MARIANA KIOMY OSAKO
+
+Trabalho
+
+de
+
+Conclusão
+
+de
+
+Curso
+
+apresentado para obtenção do título de
+Bacharel em Ciências Biomédicas com
+Ênfase em Ciências Básicas da Saúde.
+
+Ribeirão Preto
+2018
+
+Dedicatória
+
+Dedico este trabalho aos meus avós, Hilda, Alda
+e Analdo: por suas palavras me transformo, e são
+elas que me dão asas.
+
+Agradecimentos
+Aos meus pais, que nunca mediram esforços ao proporcionarem oportunidades para
+mim e minha irmã; sempre foram inspiração e norte moral, e não poderia ser quem sou hoje
+sem o auxílio, paciência e dedicação dos melhores dos pais—crescer como cresci é privilégio
+de poucos, e nunca conseguirei agradecê-los por me darem tudo o que deram.
+À família forjada no mais cru dos lugares, só tenho de agradecer ao RANKLab. Por
+me receberem de volta sem pestanejar, e por me auxiliarem nos mais críticos dos meses; à
+Flávia, por ser minha companhia constante e, apesar de todas minhas falhas, ter uma
+paciência infinita para responder todas as minhas dúvidas, me deixando partilhar de todo seu
+vasto conhecimento; ao Paulo, por me proporcionar mais risadas do que eu consigo lembrar, e
+por estar do meu lado durante todas as dificuldades, me incentivando com as melhores
+palavras; ao Rye, por ser fonte conspiratória constante, capaz de me ensinar com os melhores
+comentários. Aos que se foram, Rodrigo, Karen e Mari, por terem sido parte de minha história
+e me proporcionarem as melhores memórias que eu poderia ter de um espaço físico restrito; e
+aos que se mudaram, pelas risadas e brincadeiras e memórias deixadas. Às técnicas de
+laboratório, Silvinha, Vani e Tuca, por me ensinarem muito mais do que simples técnicas
+laboratoriais; ao Laboratório de Microscopia Eletrônica, por toda dedicação e cuidado em um
+momento tão crucial de minha formação.
+À minha orientadora, Mariana K. Osako, por todos os ensinamentos passados e
+confiança criada. Crescer e conseguir ser um terço do que ela é será o mais honrável e belo
+dos desafios; as histórias contadas e as vividas, as broncas e momentos de calmaria, são coisas
+que carregarei para o restante de minha vida, pois aprendi com a melhor das mestres o que é
+ser cientista, e como essa luta é árdua e infinita, e deve ser calcada com paciência e amor.
+Obrigada por ser a melhor das professoras, hoje e sempre; a admiração e amor que carrego
+não pode ser medido em palavras, e só tenho a agradecer por tudo.
+Aos meus veteranos, por terem sido minha família longe de casa: cada um me
+modificou a seu modo, e não poderia ter encontrado mentes tão diferentes e tão semelhantes
+para me proporcionarem as melhores experiências; à Viviana, Marina, Thaís e Maycon, meu
+maior suporte e meus melhores companheiros, responsáveis por me segurarem quando não
+tinha chão e me aguentarem no pior do humores; à minha família da Farmácia, capazes de
+adotarem e amarem até mesmo quem não se encaixa; às amizades feitas esse ano, pelas noites
+de jogos, conversas alongadas e confiança criada, onde o espaço proporcionado manteve
+minha sanidade e me deu respiro para o que estava para vir em seguida—sua companhia foi
+
+essencial, e só posso agradecê-las por todas as ideias e energia trocada; à Sirius Biotecnologia
+Jr. e ao Coletivo Feminista Henrietta Lacks, por me proporcionarem espaço de crescimento
+pessoal e profissional inigualável, onde encontrei pessoas semelhantes e que buscavam
+caminhar ao meu lado por um mesmo propósito.
+À Nayme, Isabella e Isabelly, pelo apoio que me proporcionam desde menina, e que
+sei vai transpassar qualquer momento e qualquer lugar; o amor de vocês é infinito, e tenho a
+melhor das sortes por ter irmãs como vocês ao meu lado.
+Por fim, gostaria de agradecer a agência de fomento FAPESP (Processo
+2017/25848-3), que tenho sido bolsista desde fevereiro de 2018, por proporcionar os recursos
+necessários para o desenvolvimento de meu projeto de pesquisa.
+
+Epígrafe
+
+“Nothing in life is to be feared, it is only to be understood.
+Now is the time to understand more, so that we may fear less.”
+— Marie Curie (1867-1934)
+
+Sumário
+R E S U M O
+
+9
+
+ABSTRACT
+
+10
+
+1.
+
+11
+
+INTRODUÇÃO
+
+1.1 OS DIFERENTES TECIDOS ADIPOSOS
+
+11
+
+1.1.1 TECIDO ADIPOSO BRANCO
+
+11
+
+1.1.2 ORIGEM E DIFERENCIAÇÃO DO ADIPÓCITO BRANCO
+
+13
+
+1.1.3 TECIDO ADIPOSO MARROM
+
+15
+
+1.1.4 ORIGEM DO ADIPÓCITO MARROM
+
+15
+
+1.1.5 TECIDO ADIPOSO BEGE
+
+18
+
+1.1.6 ORIGEM DO TECIDO ADIPOSO BEGE
+
+18
+
+1.2 MITOCÔNDRIAS E O PROGRAMA TERMOGÊNICO
+
+20
+
+1.2.1 VIAS METABÓLICAS E A MITOCÔNDRIA
+
+21
+
+1.2.2 MORFOLOGIA MITOCONDRIAL E SUA FUNÇÃO
+
+24
+
+1.2.3 PGC-1α E A BIOGÊNESE MITOCONDRIAL
+
+25
+
+1.2.4 UCP1 E TERMOGÊNESE
+
+28
+
+1.3 O SISTEMA DE SINALIZAÇÃO RANK-RANKL-OPG
+
+29
+
+2. OBJETIVOS
+
+33
+
+2.1 GERAL
+
+33
+
+2.2
+
+33
+
+ESPECÍFICOS
+
+3. MATERIAL E MÉTODOS
+
+34
+
+3.1 EXPERIMENTAÇÃO ANIMAL
+
+34
+
+3.2 MICROSCOPIA ELETRÔNICA DE TRANSMISSÃO
+
+34
+
+3.3 CULTURA CELULAR
+
+34
+
+3.3.1 LINHAGEM 3T3-L1
+
+34
+
+3.3.2 CULTURA PRIMÁRIA DA FRAÇÃO VASCULAR ESTROMAL
+
+34
+
+3.3.3 LINHAGEM HEK-293
+
+35
+
+3.4 ENSAIO DE OIL RED O
+
+35
+
+3.5
+
+35
+
+RT-qPCR
+
+3.5.1 DESENHO DOS OLIGONUCLEOTÍDEOS INICIADORES (PRIMERS)
+
+36
+
+3.5.2 EXTRAÇÃO DE RNA E TRANSCRIÇÃO REVERSA
+
+36
+
+3.5.3 REAÇÃO EM CADEIA DA POLIMERASE EM TEMPO REAL - REAL TIME PCR
+
+37
+
+3.6 CLONAGEM DA REGIÃO PROMOTORA DE PGC-1α
+
+37
+
+3.7 ENSAIO DE LUCIFERASE COM REGIÃO PROMOTORA DE PGC-1α
+
+38
+
+3.8
+
+ESTATÍSTICA
+
+38
+
+RESULTADOS
+
+40
+
+4.
+
+4.1 AVALIAÇÃO
+
+DOS
+
+TECIDOS ADIPOSOS
+
+SUBCUTÂNEOS
+
+POR
+
+MICROSCOPIA
+
+ELETRÔNICA
+
+40
+
+4.2 CARACTERIZAÇÃO DA DIFERENCIAÇÃO DO ADIPÓCITO BEGE POR OIL RED O in vitro
+
+41
+4.3 EXPRESSÃO GÊNICA DE GENES TERMOGÊNICOS DIANTE A DIFERENCIAÇÃO A
+ADIPÓCITOS BEGE
+
+42
+
+4.4 CONSTRUÇÃO DE PLASMÍDEO CONTENDO PROMOTOR DE PGC-1α
+
+42
+
+4.5 REGULAÇÃO DA EXPRESSÃO GÊNICA DE PGC-1α MEDIADA POR RANKL
+
+43
+
+5. DISCUSSÃO
+
+45
+
+6. CONCLUSÃO
+
+47
+
+7. BIBLIOGRAFIA
+
+48
+
+RESUMO
+Sistema RANKL na regulação da expressão gênica de PGC-1α
+O tecido adiposo é atualmente considerado um órgão endócrino com funções
+importantes e variadas no organismo que envolvem, por exemplo, homeostase energética,
+termorregulação e reprodução. O tecido adiposo branco pode sofrer diferenciação para tecido
+adiposo bege, metabolicamente mais ativo, ao adquirir características termogênicas em um
+processo denominado browning, caracterizado por um aumento na concentração de
+mitocôndrias que permitem uma maior capacidade de transformação de energia química em
+calor, ou seja, maior gasto energético. O perfil termogênico tem sido alvo de muitos estudos
+visto a possibilidade de novas perspectivas no tratamento de obesidade e consequentemente
+doenças associadas como o diabetes. A biogênese mitocondrial é regulada por genes da
+família PGC-1 e, em especial, a PGC-1α é um fator de regulação co-transcricional
+responsável pelo aumento da atividade de PPARγ, que regula a diferenciação do adipócito. O
+sistema RANK-RANKL-OPG, por sua vez, é muito bem caracterizado no metabolismo ósseo,
+exercendo também papel anti-inflamatório em macrófagos, calcificação vascular, e dados
+preliminares do nosso grupo sugerem participação direta de RANKL no processo de
+diferenciação do tecido adiposo bege. E o objetivo do presente trabalho foi elucidar o papel de
+RANKL na regulação da transcrição do gene PGC-1α e avaliação da biogênese mitocondrial.
+Os dados mostram aumento do número de mitocôndrias no tecido adiposo subcutâneo de
+animais knockout para OPG, e ensaios in vitro demonstraram um aumento no número de
+gotículas lipídicas de adipócitos bege tratados com RANKL, o que indica maior mobilização
+lipídica. E experimentos em células HEK-293 demonstraram um aumento da ativação da
+região promotora de PGC-1α por RANKL, assim como indução de sua expressão e de outros
+marcadores de termogênese como UCP1, e de biogênese mitocondrial como a citrato sintase
+em células da fração vascular estromal diferenciadas para bege. Em resumo, as evidências
+indicam que RANKL pode regular a expressão de PGC-1a e contribuir para o aumento do
+número de mitocôndrias e do processo de browing do tecido adiposo branco.
+
+9
+
+ABSTRACT
+RANKL system in the genic expression regulation of PGC-1α
+The adipose tissue is regarded as an endocrine organ with different and important
+functions in the organism ranging from energy homeostasis, thermoregulation to
+reproduction. The white adipose tissue can be differentiated to the beige adipose tissue, which
+is more metabolic active, acquiring thermogenic characteristics in a process known as
+browning, which is characterized by a higher mitochondria concentration that allow a higher
+transformation of chemical energy into heat, and increase of energy expenditure. The
+thermogenic profile of the beige adipocyte has been the subject of many studies focusing on
+therapies for obesity and associated diseases such as type 2 diabetes. The mitochondrial
+biogenesis is regulated by PGC-1 family genes, in special by PGC-1α, a co-transcriptional
+factor responsible for higher PPARγ activity, which regulates adipocyte differentiation. The
+RANK-RANKL-OPG system, in turn, is characterized in the bone metabolism, and also
+induces an anti-inflammatory profile in macrophages, vascular calcification, and preliminary
+data from our group suggests an active role for RANKL in the differentiation of the beige
+adipocyte. The objective of the present work was to elucidate the role of RANKL in the
+regulation of the transcription of PGC-1α and mitochondrial biogenesis. And our data show a
+higher number of mitochondria in the subcutaneous adipose tissue of OPG knockout animals,
+and in vitro assays show higher amount of smaller lipid droplets in adipocytes treated with
+RANKL, indicating a higher lipid mobilization. Experiments with HEK-293 cells showed a
+higher activation of PGC-1α promoter region by RANKL stimulus, as well as induction of its
+expression and of other genes such as UCP1, a marker for thermogenesis, and citrate synthase
+for mitochondrial biogenesis in cells of the stromal vascular fraction. In short, the present
+study shows evidence that RANKL can regulate the expression of PGC-1α and may
+contribute to mitochondria biogenesis in the browning process of the white adipose tissue.
+
+10
+
+1. INTRODUÇÃO
+1.1 Os diferentes tecidos adiposos
+A obesidade é hoje um dos maiores problemas de saúde pública mundial, e é também
+um dos mais negligenciados. Por conta do estilo de vida do homem atual, houve um aumento
+do consumo de alimentos ricos em calorias vazias e redução da prática de atividades físicas, o
+que levou ao aumento do número de pessoas acima do peso ou obesas. Dados da Organização
+Mundial da Saúde (OMS) indicam que, em 2016, cerca de 1,9 bilhão de pessoas estavam com
+sobrepeso (IMC entre 25.0 e 29.9) e, dentro deste grupo, cerca de 650 milhões de pessoas
+eram obesas (IMC > 30.0) (OMS, 2017). A OMS ainda classifica a obesidade como um
+“acúmulo anormal ou excessivo de gordura que apresenta um risco à saúde”, que pode levar
+ao surgimento de doenças cardiovasculares, diabetes mellitus tipo II, dislipidemia,
+hipertensão e alguns tipos de câncer (MOZAFFARIAN et al., 2016; HARMS e SEALE,
+2013). Desta forma, o estudo do tecido adiposo tem relevância não só para a obesidade, mas
+para diversas outras doenças.
+O tecido adiposo é um tecido conjuntivo especializado relacionado à homeostase
+energética, e pode ser encontrado em diversas regiões do organismo, como ao redor de
+vísceras e depósitos subcutâneos. O tecido adiposo também possuí propriedades mecânicas,
+protegendo órgãos e amortecendo tecidos que sofrem de grande estresse mecânico; e é
+responsável pelo isolamento térmico em mamíferos (IRVING e HART, 1957; PRESTRUD e
+NILSSEN, 1992; NELSON, 1973). Esse tecido é classicamente dividido em duas formas:
+como tecido adiposo branco e como tecido adiposo marrom. E é classicamente dividido em
+duas formas: como tecido adiposo branco e como tecido adiposo marrom, e mais
+recentemente um terceiro tipo foi descrito: o tecido adiposo bege.
+
+1.1.1 Tecido adiposo branco
+O tecido adiposo branco é composto primariamente por adipócitos grandes e
+esféricos, agrupados de maneira confluente. Seu conteúdo lipídico ocupa a maior parte de seu
+volume celular, levando sua célula a ser chamada de adipócito unilocular (WRONSKA e
+KMIEC, 2012). Sua distribuição corporal deve-se a múltiplos fatores, e é mais comumente
+dividido entre tecido adiposo branco subcutâneo e visceral. Enquanto os depósitos
+subcutâneos mais estudados são os das regiões abdominais, glúteas e femorais, os depósitos
+viscerais estão associados com o sistema digestivo, compondo o mesentério, as alças omentais
+e o apêndice epiplóico (LEE et al., 2012). A diferença na distribuição corporal do tecido
+11
+
+adiposo branco se deve principalmente a fatores como sexo e etnia. Existe um dimorfismo
+sexual facilmente visto entre homens e mulheres, nos quais há um acúmulo de tecido adiposo
+na região abdominal em homens, e na região glúteo-femoral em mulheres (GEER e SHEN,
+2009), dando aos homens um aspecto em “forma de maçã”, e nas mulheres um aspecto em
+“forma de pera”. E há uma prevalência no acúmulo de gordura na região abdominal em
+homens e mulheres durante o envelhecimento. Há uma diferença também na deposição de
+gordura relacionada à etnia: trabalhos mostram que hispânicos e afro-americanos possuem
+menos gordura visceral do que pessoas brancas, enquanto estas são menos propensas à
+obesidade que as outras etnias (CARROLL et al., 2008; KATZMARZYK et al., 2010);
+embora nestes casos, tanto fatores genéticos quanto fatores externos, tais como alimentação e
+ambiente, têm papéis preponderantes.
+Assim, por muito tempo, o tecido adiposo esteve relacionado ao armazenamento
+energético. De fato, o tecido adiposo estoca energia em excesso na forma de triacilgliceróis.
+Em situações de jejum ou hipoglicemia, os triacilgliceróis são liberados por lipólise como
+ácidos graxos livres na circulação, que servem de substrato celular para obtenção de energia.
+Porém, estudos demonstraram que o tecido adiposo possui outros tipos celulares, como préadipócitos, macrófagos, células endoteliais, fibroblastos e leucócitos (WOZNIAK et al., 2009)
+e também está relacionado a outros processos, como a resposta imune, homeostase energética
+e funções reprodutivas, por exemplo.
+Em 1953, KENNEDY (1953) propôs que havia um fator de regulação negativo
+presente neste sistema, e que este estaria na circulação, atuando centralmente para
+manutenção do gasto energético e alimentação do indivíduo (GALIC et al., 2010), sendo
+secretado pelo tecido adiposo. Quase meio século depois, este fator foi identificado como
+sendo a leptina, e outros fatores também foram identificados nesta mesma época, como IL-6 e
+o TNF-α, e desta forma, além do papel metabólico, o tecido adiposo adquire um papel
+endócrino e imunológico (ZHANG et al., 1994; HOTAMISLIGIL et al., 1993). A leptina é um
+hormônio produto do gene Ob, que é produzido pelos adipócitos proporcionalmente à gordura
+corporal, é transportada pela corrente sanguínea e chega ao hipotálamo em processo mediado
+pelos tanicitos (BALLAND, 2014). E induz, através do seu receptor Ob-R em neurônios
+sensíveis presentes na região dorsal, ventral, medial e pré-mamilar, a produção de
+neuropeptídeos que regulam o comportamento alimentar e o peso corporal, resultando na
+inibição da ingestão de alimento (MOLINA, 2014).
+
+12
+
+As ações imunológicas, por sua vez, se devem à íntima relação entre adipócitos e
+células imunológicas e a inflamação no contexto da obesidade. A inflamação presente em
+indivíduos obesos difere da inflamação gerada por patógenos, por exemplo, onde há os sinais
+clássicos de inflamação como rubor, inchaço, calor e dor; na obesidade, a inflamação ocorre
+por uma razão metabólica em que os adipócitos mantém o insulto inflamatório e também são
+responsáveis pelo início da resposta inflamatória (GREGOR e HOTAMISLIGIL, 2011). O
+adipócito hipertrofiado eventualmente sofre lise e os ácidos graxos liberados atuam como
+moléculas de padrão associados à patógenos (PAMP) e ativam macrófagos ao serem
+reconhecidos pelo receptor TLR-4 (toll like receptor-4); e também é responsável pela
+liberação de citocinas (conhecidas como adipocinas) pró-inflamatórias, tais como TNF-α,
+IL-6 e IL-1β (HOTAMISLIGIL et al., 1993). Além do recrutamento, macrófagos residentes
+no tecido adiposo sofrem ativação e são polarizados também para o estado pró-inflamatório
+(conhecido como ativação M1 em contraposição ao perfil anti-inflamatório ou M2). Assim, na
+obesidade, há maior presença de macrófagos M1 e aumento de citocinas pró-inflamatórias
+naquela região.
+
+1.1.2 Origem e diferenciação do adipócito branco
+Os adipócitos brancos são provenientes de pré-adipócitos, que são oriundos de
+células precursoras mesenquimais, em processo conhecido como adipogênese, que ocorre em
+duas fases: a primeira chamada de determinação, em que ocorre comprometimento das células
+precursoras para pré-adipócitos e, a segunda chamada de diferenciação definitiva, em que préadipócitos
+
+diferenciarem-se
+
+em
+
+adipócitos
+
+completamente
+
+maduros
+
+(ROSEN
+
+e
+
+SPIEGELMAN, 2014).
+A fase de determinação envolve a sinalização Wnt e hedgehog, e fatores de
+transcrição adipogênicos como o receptor gamma ativado pelo proliferador peroxisomo
+(Peroxime proliferator-activated receptor gamma, PPARγ) e a proteína alfa ligada a CCAAT/
+potenciador (CCAAT/enhancer-binding protein alpha, C/EBPα). PPARγ é conhecido como
+um regulador da adipogênese e somente sua expressão é suficiente para início da adipogênese,
+e sua ausência leva à incapacidade de outros fatores de iniciarem a transformação de préadipócitos (OKAMURA et al, 2009; ROSEN e MACDOUGALD, 2006). PPARγ ainda é
+importante para a manutenção do estado diferenciado dos adipócitos, e sem sua expressão há
+redução no acúmulo de lipídeos e redução da expressão de marcadores de adipócitos
+(TAMORI et al., 2002). Sua regulação se dá por meio de fatores de transcrição da família C/
+13
+
+EBP, principalmente os fatores C/EBPα, C/EBPβ e C/EBPδ, que estimulam sua transcrição,
+além de outros fatores como o SREBP1c, fatores tipo Krueppel (Krueppel-like factor, KLF) 5,
+KLF15, e proteína de dedo de zinco (Zinc finger protein, ZFP) 423 (KAWAI e ROSEN,
+2010). A expressão dos fatores de transcrição C/EBPβ e C/EBPδ levam à indução da
+expressão de C/EBPα (CAO et al., 1991). Em animais deficientes para C/EBPβ, há redução
+da adiposidade, mas C/EBPδ pode compensar a perda de C/EBPβ (TANAKA et al., 1997).
+Estes dois fatores induzem a expressão de C/EBPα, que por sua vez induz a expressão de
+PPARγ. Porém, somente a expressão de C/EBPα e PPARγ não é suficiente para que o
+desenvolvimento adequado do tecido adiposo, sendo necessária expressão inicial de C/EBPδ
+e C/EBPβ para que o tecido seja formado (YEH et al., 1994).
+Os KLFs, por sua vez, em especial os fatores KLF15 e KLF5, induzem a
+diferenciação dos adipócitos assim como a expressão do transportador de glicose sensível à
+insulina 4 (Glucose transporter-4, GLUT4) (MORI et al, 2005; GRAY, 2002). KLF15 é
+responsável pela expressão de GLUT4, enquanto que KLF5 é induzido por C/EBPβ e C/
+EBPδ, ligando-se ao promotor de PPARγ, auxiliando e aumentando o efeito das C/EBPs neste
+gene (OISHI, 2005). Outros membros da família KLF não promovem a diferenciação dos
+adipócitos, mas a inibe; KLF2 e KLF7 são conhecidos fatores anti-adipogênicos, que
+reprimem o promotor de PPARγ e param a diferenciação (WU, 2005; BANERJEE, 2003).
+Estudos demonstram que o pré-adipócito possuí KLF2 ligado ao promotor de PPARγ, que é
+substituído por KLF5 na diferenciação inicial, e este é substituído pela KLF15, mantendo a
+diferenciação do adipócito enquanto PPARγ é expresso.
+Alguns produtos sintéticos, como as tiazolidinedionas (por exemplo, a rosiglitazona),
+também são capazes de induzir à expressão de PPARγ ao estimular sua atividade
+transcricional, levando ao aumento da regulação de genes relacionados ao metabolismo
+lipídico, tais como o grupo de diferenciação 36 (cluster of differentiation 36, CD36), a
+proteína 4 ligante de ácidos graxos (fatty-acid binding protein 4, FABP4) e a lipase
+lipoproteica (LPL) (KAWAI, 2010). O uso das tiazolidinedionas, no entanto, está relacionado
+à incorporação de ácidos graxos livres ao tecido adiposo, e à redistribuição do tecido adiposo
+visceral em subcutâneo, melhorando quadros de resistência à insulina, como ocorre com a
+diabetes. A ativação de PPARγ leva também a um aumento de adipócitos pequenos e
+expressão de fatores tais como a adiponectina, um fator secretor que sensibiliza o tecido à
+insulina e diminui a expressão de fatores causadores da resistência à insulina, como o TNFα
+(KAWAI e ROSEN, 2010).
+14
+
+1.1.3 Tecido adiposo marrom
+O tecido adiposo marrom se caracteriza por um conjunto especializado de células
+capaz de dissipar energia química armazenada na forma de calor após estimulação simpática.
+Seus adipócitos são pequenos e possuem múltiplas gotículas lipídicas, que lhe confere o nome
+de adipócitos multiloculares. Possuem uma grande concentração mitocondrial, responsável
+pela capacidade termogênica do tecido, e que garante sua coloração amarronzada devido ao
+citocromo c presente nesta organela. A termogênese ocorre pela atividade de uma proteína
+desacopladora presente na membrana mitocondrial interna de seus adipócitos, conhecida
+como proteína desacopladora 1 (uncoupling protein 1, UCP1), que atua no “vazamento” de
+prótons entre as duas membranas mitocondriais, desacoplando, assim, a síntese de ATP e
+dissipando a energia em forma de calor.
+O tecido adiposo marrom é responsável pela manutenção da temperatura corporal e
+foi descrito inicialmente em animais hibernantes. Em humanos, foi inicialmente encontrado
+em neonatos, sendo importante para mantê-los aquecidos por meio da termogênese
+independente de tremores (non-shivering thermogenesis) (AHERNE e HULL, 1966). Adultos,
+por sua vez, não possuiriam esse tecido a não ser que sofressem desafios específicos para
+desenvolvê-los, tais como exposição crônica ao frio ou um excesso de catecolaminas
+(HUTTUNEN et al., 1981; ENGLISH et al., 1973). Recentemente, porém, CYPESS e
+colaboradores (2009) conseguiram demonstrar a presença de depósitos de tecido adiposo
+marrom em adultos por meio de observações radiológicas com PET-scan de um banco de
+dados. O tecido adiposo marrom foi encontrado em uma região estendendo-se da região
+anterior do pescoço, clavícula, e descendo pelo tórax. A probabilidade de sua detecção era
+inversamente proporcional à idade dos pacientes analisados, à temperatura externa quando o
+scan foi realizado, ao uso de beta-bloqueadores e, com pacientes mais velhos, ao índice de
+massa corporal. Essa descoberta fez com que o interesse neste tecido retornasse, levando a
+pesquisas relacionadas à identidade do tecido, sua abundância, prevalência e significância em
+adultos.
+
+1.1.4 Origem do adipócito marrom
+Ao contrário do tecido adiposo branco, que possui uma origem mesenquimal, o
+tecido adiposo marrom tem origem e desenvolvimento diferentes. Em animais como ratos e
+camundongos, o tecido adiposo marrom desenvolve-se após o nascimento, pois possuem o
+15
+
+eixo hipotálamo-pituitária-adrenal (HPA) imaturo e não fazem termogênese independente de
+tremores, de modo que os filhotes se aninham entre si para poderem aumentar ou manter a
+temperatura corporal. Já em humanos, que nascem com o eixo HPA desenvolvido, eles
+possuem o tecido adiposo marrom desenvolvido, responsável pela termogênese (SYMONDS,
+2013), e sua origem é semelhante àquelas das células musculares esqueléticas, e seus
+progenitores que expressam o fator Myf5 no início do desenvolvimento das células como
+demonstrado por SEALE e colaboradores (2008). Este mesmo grupo demonstrou que a
+PRD1-BF-1-RIZ1 (PRD1-BF-1-RIZ1 homologous domain-containing protein-16, PRDM16) é
+um regulador dominante para a diferenciação do tecido adiposo marrom, pois sua ausência em
+culturas primárias de tecido adiposo marrom induz mudança fenotípica para músculo
+esquelético, enquanto sua expressão em mioblastos induz fenótipo de tecido adiposo marrom.
+PRDM16 é responsável pela expressão de genes termogênicos tais como UCP1 e PGC-1α,
+genes mitocondriais, entre outros (KAJIMURA et al., 2008; SEALE et al., 2007, 2008). Ele
+também induz o fenótipo de tecido adiposo marrom não por uma ligação direta com o DNA
+por meio de dedos de zinco, mas sim por meio de interações proteína-proteína, sendo
+responsável também por co-ativar a atividade transcricional de PGC-1α e PGC-1β, assim
+como PPARα e PPARγ por uma ligação física direta (SEALE et al., 2007, 2008). Além da
+supressão dos marcadores de diferenciação para tecido muscular esquelético, PRDM16
+também suprime marcadores seletivos para tecido adiposo branco, tais como resistina e
+angiotensinogênio, atuando por meio de sua associação com os co-repressores CtBP1 e 2. E a
+ligação de PRDM16 com PGC-1α ou PGC-1β forma um complexo que desassocia PRDM16
+dos CtBPs e permite que o novo complexo ative a expressão de genes característicos de tecido
+adiposo marrom, como o próprio PGC-1α (KAJIMURA et al., 2008).
+E semelhante, porém, ao tecido adiposo branco, a expressão de PPARγ também é
+importante nesse tecido, e os fatores C/EBPs também tem papel relevante em seu
+desenvolvimento. Estudos mostraram que a indução da expressão de C/EBPβ é capaz de
+reprogramar células de linhagem pré-adipócitas murinas 3T3-L1, conhecidas por se
+diferenciarem com estímulos adequados em adipócitos brancos, para a expressão de um
+padrão gênico semelhante ao tecido adiposo marrom, por meio da expressão da proteína
+desacopladora 1 (uncoupling protein 1, UCP1) e do co-ativador 1α de PPARγ (PPARγ
+coactivator-1α, PGC-1α) (KARAMANLIDIS et al., 2007).
+Outro regulador relevante para a diferenciação do tecido adiposo marrom é o coativador de PPARγ 1α (PPARγ coativator-1α, PGC-1α). Sua expressão se dá principalmente
+16
+
+pela exposição crônica ao frio, mediado pela via de PKA-CREB (HERZIG et al., 2001; CAO
+et al., 2004), e regula a biogênese mitocondrial, expressão de componentes de vias de βoxidação e genes termogênicos, como a UCP1 (PUIGSERVER, 1998). A regulação de
+PGC-1α, por sua vez, acontece por meio de diversas outras moléculas, como o co-repressor
+nuclear RIP140, que antagoniza a função de PGC-1α (SETH et al., 2007; HALLBERG et al,
+2008), e membros da família de co-ativadores do receptor de esteróides (steroid receptor
+coactivator, SRC) SRC-1, SRC-2 e SRC-3, que possuem algumas funções semelhantes e
+outras distintas no controle do metabolismo energético e desenvolvimento do tecido adiposo
+marrom (LOUET e O’MALLEY, 2007). Enquanto que animais knockout para o gene de
+SRC-1 apresentam termogênese prejudicada e uma redução dos níveis de UCP1, animais
+knockout para SRC-2 apresentam uma melhora em sua capacidade de gasto energético e uma
+melhor termogênese adaptativa. Observou-se também que SRC-1 melhora a co-ativação por
+PGC-1α da atividade transcricional de PPARγ, enquanto que SRC-2 seria responsável pela
+inibição dessa interação (PICARD et al., 2002). Animais knockout para SRC-3, por sua vez,
+apresentam adipócitos com múltiplas gotículas lipídicas e uma grande concentração
+mitocondrial, uma vez que SRC-3 é responsável pela indução de uma acetiltransferase que
+reprime a atividade transcricional de PGC-1α (COSTE et al., 2008; LERIN et al., 2006;
+LOUET e O’MALLEY, 2007). Sua ausência, assim, diminui a acetilação de PGC-1α, levando
+a um aumento da biogênese mitocondrial. De maneira geral tem-se, então, que PGC-1α
+possui um papel fundamental no desenvolvimento e na função do tecido adiposo marrom, de
+forma que sua ausência reduz a capacidade termogênica adaptativa deste tecido.
+Existem ainda outros sistemas e moléculas responsáveis por influenciar o
+aparecimento e funcionamento do tecido adiposo marrom. Sabe-se que este tecido é ricamente
+inervado pelo sistema nervoso simpático, e tem na noraepinefrina um grande regulador de
+suas funções. A noraepinefrina é responsável tanto pela proliferação quanto diferenciação do
+tecido adiposo marrom em roedores, e sua administração crônica aumenta a massa e o número
+de células presentes no tecido, assim como um aumento da expressão de UCP1 (GELOEN et
+al., 1988). Os efeitos da noraepinefrina no tecido adiposo marrom são dependentes dos
+receptores β-adrenérgicos, que possui 3 subtipos dentro de sua família (β1, β2 e β3) expressos
+no tecido adiposo marrom, com o receptor β3-adrenérgico sendo o mais abundante, embora
+possuam papéis complementares e que se sobreponham muitas vezes. Animais que não que
+não expressam receptores β-adrenérgicos apresentam tecido adiposo marrom com colaração
+pálida em relação aos animais controle, além da redução na expressão de UCP1 e na
+17
+
+capacidade termogênica, assemelhando-se inclusive morfologicamente ao tecido adiposo
+branco (BACHMAN et al., 2002).
+Outros reguladores do tecido adiposo marrom são os hormônios tireoidianos (HT),
+que atuam por meios endócrinos e parácrinos. Tanto o tecido adiposo marrom quanto os préadipócitos expressam grandes quantidades da enzima DIO2, responsável pela conversão de
+T4 em T3, que por sua vez aumenta a expressão de UCP1 (LEE et al., 2011). Os HT também
+atuam em vias nervosas centrais na regulação do balanço energético mediada pelo sistema
+nervoso simpático, pois o aumento de T3 no espaço intracerebroventricular aumenta a
+atividade termogênica do tecido adiposo marrom e diminui o peso corporal em roedores,
+assim como a inibição de receptores de HT centrais levam à inativação do tecido adiposo
+marrom e ao ganho de peso (LÓPEZ et al., 2010).
+
+1.1.5 Tecido adiposo bege
+Além do branco e marrom, um terceiro tipo de tecido adiposo denominado bege foi
+descrito recentemente. Animais expostos de forma crônica ao frio ou à sinalização
+adrenérgica apresentam, em depósitos de tecido adiposo branco, centros de células
+termogênicas com estrutura semelhante a adipócitos marrons. Estas células induzidas são
+chamadas de adipócitos bege, e surgem em um processo conhecido como “browning” do
+tecido adiposo branco. Enquanto o sistema nervoso simpático, responsável pelos estímulos βadrenérgicos, é responsável pela distribuição de sinal entre os tecidos adiposos brancos e
+marrons, sua influência no processo de browning é relativamente diferente do que ocorre com
+a exposição crônica ao frio (ROSEN e SPIEGELMAN, 2014).
+
+1.1.6 Origem do adipócito bege
+A origem embrionária deste tecido é distinta daquela do tecido adiposo marrom e,
+atualmente, há duas teorias para sua origem: a primeira é baseada em evidências que esses
+adipócitos derivariam de uma transdiferenciação de adipócitos brancos maduros, por meio de
+uma exposição crônica ao frio ou tratamento com agonistas β-adrenérgicos, para adipóitos
+multiloculados e com alta densidade mitocondrial (HIMMS-HAGEN et al., 2000; VITALI et
+al., 2012); e a segunda se baseia em experimentos de sorting celular e defende que os
+adipócitos bege derivam de células precursoras própria que se encontram na fração estromal
+do tecido adiposo branco (LEE et al., 2012; SCHULZ et al., 2011). Em concordância com
+esta segunda teoria, Spiegelman e colaboradores clonaram linhagem celulares de pré18
+
+adipócitos a partir da fração vascular estromal (SVF) de tecido adiposo branco subcutâneo, e
+identificaram por meio de análise genética e de diferenciação celular, dois tipos de préadipócitos: brancos e beges. Ambos os tipos celulares quando diferenciados para adipócitos
+sob condições normais de temperatura mostravam-se sem capacidade termogênica, porém,
+quando tratadas com agonistas β-adrenérgicos, somente os adipócitos bege eram capazes de
+expressar os genes termogênicos e apresentaram marcadores de surperfície específicos para
+seu tipo celular, como Tmem26 e Cd137 (WU et al., 2012). Assim, exposição crônica ao frio,
+que desencadeia a ativação β-adrenérgica, é capaz de iniciar a diferenciação de pré-adipócitos
+que contém os marcadores Tmem26 e Cd137, para adipócitos beges capazes de expressar
+UCP1, e necessitam de um estímulo constante para a manutenção de seu perfil termogênico.
+A plasticidade destes adipócitos beges foi demonstrada em experimentos em que sua
+resposta à exposição ao frio, e o retorno ao perfil de expressão e morfologia semelhante ao de
+adipócitos brancos assim que o animal retornava a condições de temperatura ambiente, em um
+movimento chamado de interconvenção bi-direcional (ROSENWALD et al., 2013). Isto é,
+uma subpopulação de células potencialmente termogênicas que podem se modificar conforme
+as demandas das condições ambientais.
+Assim como ocorre no tecido adiposo marrom, PRDM16 é responsável pela
+diferenciação e manutenção da expressão de genes termogênicos, em especial UCP1, por
+meio da ligação e modulação de PPARγ e PGC-1α. No tecido adiposo bege, sua deleção leva
+ao bloqueio da expressão do programa termogênico de adipócitos subcutâneos em resposta a
+agonistas β-adrenérgicos e de ativação PPARγ.
+Inicialmente acreditava-se que o sistema nervoso simpático era o único responsável
+pela indução da termogênese no tecido adiposo marrom e bege e capaz também de induzir a
+adipogênese dos adipócitos bege; porém, estudos demonstraram que hormônios e outros
+fatores também são capazes de regular esses fenômenos. Spiegelman e colaboradores
+demonstraram recentemente que a ativação de PGC-1α no músculo esquelético leva ao
+aumento na expressão de Fndc5, uma proteína de membrana que é também secretada e atua
+como hormônio, chamada de irisina. Esta, por sua vez, atua diretamente no tecido adiposo
+branco, estimulando a expressão de UCP1 e levando a ativação do programa termogênico
+desse tecido (BOSTRÖM et al., 2012). A produção de irisina está diretamente relacionada ao
+aumento do exercício físico em animais e humanos, porém, seu mecanismo de ação ainda é
+pouco esclarecido.
+
+19
+
+Outro hormônio responsável pela ativação do programa termogênico é o fator de
+crescimento de fibroblastos 21 (fibroblast growth factor 21, FGF21), descrito por regular os
+níveis de energia sistêmica do organismo, e sua expressão aumenta também durante a
+exposição crônica ao frio, e a indução do processo de browning pelo aumento de PGC-1α no
+tecido adiposo branco (CHARTOUMPEKIS et al., 2011; HONDARES et al., 2011;
+KLEINER et al., 2012).
+Tendo em vista esses três tipos de tecido, assim como sua formação e seus
+reguladores, aumentar a compreensão do funcionamento dos tecidos adiposos marrom e bege,
+e dos mecanismos de regulação do programa termogênico como forma de perder gorduras, é
+essencial para desenvolver terapias eficientes ao combate à obesidade e também doenças
+relacionadas, como diabetes mellitus tipo 2.
+
+1.2 Mitocôndrias e termogênese
+A grande característica do tecido adiposo marrom e bege é sua capacidade de oxidar
+glicose e ácidos graxos para a produção de calor. Este é um processo diretamente relacionado
+às mitocôndrias, e a compreensão dessa organela é fundamental para se compreender a
+termogênese independente de tremores (non-shivering thermogenesis), como é conhecida a
+termogênese destes tecidos.
+A mitocôndria é uma organela citoplasmática encontrada nos animais eucariotos,
+extremamente dinâmica, com características marcantes em sua estrutura: possui duas
+membranas, uma externa e outra interna, e esta se encontra dobrada em forma de cristas que
+aumentam sua área de superfície. Possui ainda um espaço intermembranar e intercristas,
+assim como uma matriz rica em proteínas, além de material genético próprio, semelhante
+àquele de procariotos. Por causa disso, na década de 1960, foi proposta a teoria
+endossimbiontica por Lynn Margulis. A partir de estudos genéticos, conseguiu-se identificar a
+α-proteobacteria como progenitora da mitocôndria; a proposta de Margulis não era nova,
+tendo esta teoria sendo proposta muito antes durante o século XIX e início do século XX,
+porém, ela agora defendia que a origem das mitocôndrias a partir de um progenitor
+procariótico foi um passo decisivo e benéfico para a célula eucariótica., pois sugeria que a
+origem de eucariotos se deu por uma necessidade dos diferentes organismos de sobreviver em
+um ambiente rico em oxigênio (GRAY e DOOLITTLE, 1982; GRAY, 2017).
+
+20
+
+1.2.1 Mitocôndrias e vias metabólicas
+Descritas no meio do século XIX, o papel da mitocôndria no metabolismo celular
+começou a ser esclarecido somente no começo do século XX. Battelli e Stern mostraram em
+estudos com desidrogenases que a oxidação biológica está associada a estruturas celulares
+insolúveis, e logo depois Warbug reportou que a respiração celular também estava associada a
+algumas partículas, chamando-as de “grana”, e que seu papel era aumentar a atividade de uma
+"enzima respiratória” (ERNSTER e SCHATZ, 1981). Em 1937, Krebs descreveu o ciclo do
+ácido cítrico, e Kalckar demonstrou a fosforilação aeróbica. Mais tarde Belitser e Tsybakova
+deduziram em experimentos com tecido muscular que pelo menos duas moléculas de ATP
+eram produzidas por átomo de oxigênio consumido, ligando a fosforilação com a respiração
+celular; em 1949, Friedkin e Lehninger deram evidências concretas da cadeia respiratória com
+a fosforilação, a partir do uso de NADH como substrato energético (ERNSTER e SCHATZ,
+1981).
+Nas vias metabólicas, os substratos energéticos celulares geram, como produto final,
+adenosina trifosfato (adenosine tri-phosphate, ATP), a “moeda energética” da célula, já que a
+desfosforilação de ATP é responsável por todas as funções celulares com gasto energético. O
+catabolismo de lipídeos, carboidratos e proteínas leva à produção de ácidos graxos, glicose e
+aminoácidos respectivamente, e estes vão gerar produtos que convergem para o ciclo do ácido
+cítrico (também conhecido como ciclo de Krebs), sendo finalmente oxidados em CO2 e H2O.
+A maior parte dos lipídeos e carboidratos são degradados e formam acetil-coA, o principal
+substrato do ciclo de Krebs. Os aminoácidos também podem ser degradados para formação de
+acetil-coA, mas originam ainda outros substratos que entram em outros pontos nessa cadeia
+(NELSON e COX, 2008, p. 616).
+Durante a catabolização dos carboidratos, o piruvato formado é transportado para
+dentro da mitocôndria pelo transportador piruvato translocase. Ali ocorre sua descarboxilação
+por meio do complexo piruvato desidrogenase, que libera CO2 e uma molécula de NADH, e
+formando a acetil-coA: uma molécula com grupo acetil ligado a uma coenzima A. E ao doar
+seu grupo acetil para oxaloacetato gera citrato e entra efetivamente no ciclo de Krebs
+(NELSON e COX, 2008, p. 620). Essa reação é intermediada pela citrato sintase, presente na
+matriz mitocondrial, que além da formação de citrato, libera coenzima A e uma molécula de
+NADH (WIEGAND e REMINGTON, 1986). Por isso, muitos estudos usam a atividade de
+citrato sintase como marcador de densidade mitocondrial (LARSEN et al., 2012).
+
+21
+
+Figura 1: Ciclo de Krebs, com respectivos substratos e enzimas do processo que ocorre na
+matriz mitocondrial, e NADH e FADH2 resultantes são encaminhados para a cadeia
+respiratória presente na membrana mitocondrial interna. Imagem adaptada de http://
+fisiolvegetal.blogspot.com/2012/11/respiracion-ii-ciclo-de-krebs.html, acessado em 17 de
+outubro de 2018.
+
+Após a formação do citrato, os próximos dois passos no ciclo de Krebs são a
+formação de isocitrato, com este rapidamente sendo descarboxilado para a formação de αcetoglutarato, novamente com a transferência de um elétron para um NAD+, gerando um
+NADH. A próxima reação também tem a formação de mais um NADH, dessa vez com a
+descarboxilação do α-cetoglutarato para a formação de succinil-coA. A conversão tem
+succinil-coA tem a formação do primeiro ATP do ciclo de Krebs, e a desidrogenação desse
+succinil-coA leva a formação de fumarato com um próton sendo doado para um FADH2. O
+fumarato é hidratado em malato, e esse malato é oxidado em oxaloacetato em uma reação que
+gera mais um NADH. Todo esse processo se dá no interior da matriz mitocondrial, com as
+enzimas presentes tanto na matriz quanto na membrana interna mitocondrial, como é o caso
+da enzima que desidrogeniza o succinato e gera o fumarato (figura 1) (NELSON e COX,
+2008, p. 621-630).
+Os ácidos graxos são catabolizados para entrarem no ciclo de Krebs em processo
+denominado β-oxidação. Ácidos graxos com 12 carbonos ou menos conseguem atravessar as
+membranas mitocondriais, porém a maioria dos ácidos graxos intracelulares apresentam 14
+22
+
+carbonos ou mais, de forma que eles são transportados através da membrana externa e interna
+da mitocôndria pela ligação à carnitina e com gasto energético (NELSON e COX, 2008, p.
+650-652). A β-oxidação começa pela desidrogenação do ácido graxo, em que há a perda de
+elétrons para produção de FADH2, em um processo que ocorre na membrana mitocondrial
+interna. Segue-se então pela hidratação da molécula, e mais uma desidrogenação, sendo que
+NAD+ agora é o aceptor, formando NADH. Finalmente há a transferência de uma coenzima A
+para a molécula, liberando o fim do terminal carboxila para que um acetil-coA seja formado
+(NELSON e COX, 2008, p. 652-656).
+Assim, em uma reação com palmitoil, um ácido graxo contendo 14 carbonos, por
+exemplo, há a formação de 8 acetil-coA, 7 moléculas de FADH2 e 7 moléculas de NADH,
+além de 7 H+. As moléculas de acetil-coA vão ser direcionadas todas para o ciclo do ácido
+cítrico, que gera 3 NADH e 1 FADH2, que são direcionados para a cadeia respiratória, além
+de um ATP (NELSON e COX, 2008, p. 654-655). Esta eficiência energética obtida com a
+mobilização de ácidos graxos é superior àquela obtida com os carboidratos e justifica o tecido
+adiposo branco ser reconhecido como reserva energética.
+A cadeia respiratória consiste em uma sequência de carreadores de elétrons, muitos
+dos quais são proteínas com grupos prostéticos capazes de aceitar ou doar elétrons e todas
+presentes nas cristas mitocondriais. Estes carreadores de elétrons recebem elétrons de NADH
+e FADH2 e os passam entre si por meio de um gradiente até que, na presença de O2, ocorra a
+produção de ATP. O primeiro passo da cadeia respiratória se dá pela transferência dos elétrons
+de NADH para o complexo I (NADH:ubiquinona oxirredutase), ou de FADH2 para o
+complexo II (succinato:ubiquinona oxirredutase), e estes vão doá-los para a ubiquinona,
+chamada também de coenzima Q (ou Q), que é uma enzima lipossolúvel, capaz de se mover
+pela membrana mitocondrial interna para transportar os elétrons para o próximo complexo na
+cadeia. Uma vez que ela pode carregar tanto prótons quanto elétrons, a ubiquinona possuí
+papel central em acoplar o fluxo de elétrons com o movimento dos prótons. Desta forma, o
+complexo I atua como uma bomba de prótons regulada pela transferência de elétrons, levando
+a matriz a ficar negativamente carregada, enquanto que o espaço intermembranas se torna
+positivamente carregado. A ubiquinona, por sua vez, transfere esses elétrons para o complexo
+III (ubiquinol:citocromo c oxirredutase), também conhecido como complexo de citocromo
+bc1, composto pelos citocromos b e c. O complexo IV (citocromo c oxidase) realiza a
+passagem dos elétrons do citocromo c para o oxigênio, reduzindo-o à água (NELSON e COX,
+2008, p. 710-718) (figura 2).
+23
+
+Figura 2: Complexos que compõem a cadeia respiratória de elétrons: o complexo NADH:ubiquinona redutase
+(complexo I), com passagem de 4 prótons para o espaço intermembranar, o complexo succinato-ubiquinona
+redutase (complexo II), sem passagem de prótons, complexo ubiquinol-citocromo c (complexo III), com passagem
+de mais 2 prótons para o espaço intermembranas, o complexo citocromo c oxidase (complexo IV), com consumo
+de oxigênio e formação de água. Ea ubiquinona (Q) e o citocromo c, responsáveis pelo carreamento de elétrons
+até o complexo IV. Há ainda a presença da ATP-sintase, responsável por sintetizar um ATP através do retorno de
+prótons, possibilitando a formação do gradiente de prótons que compõe a cadeia respiratória.
+Adaptado de https://www.scienceprofonline.org/publishImages/metabolism~electron-transport-chain-cellularrespiration-2~~element143.jpg, acessado em 18 de outubro de 2018.
+
+A diferença na concentração de prótons é responsável pela atividade da enzima ATPsintase, que é composta é composta por duas partes, uma presa à membrana mitocondrial
+interna, e uma do lado da matriz mitocondrial. A primeira, acoplada à membrana mitocondrial
+interna, é responsável pela passagem de prótons do espaço intermembranas para a matriz,
+enquanto que a segunda, presente na matriz mitocondrial, é capaz de rotacionar por conta da
+força próton-motriz, onde a passagem do próton pela primeira parte da proteína, leva a
+rotação da segunda parte, permitindo a fosforilação de um ADP, gerando um ATP
+(JONCKHEERE et al., 2012).
+1.2.2 Morfologia e função mitocondrial
+A mitocôndria é conhecida como uma organela extremamente dinâmica envolvida
+em diversos processos, como a respiração celular, apoptose e metabolismo, e sua estrutura em
+forma de redes alongadas é alterada por fusão e fissão em resposta às necessidades celulares e
+24
+
+para modular suas funções (TWIG et al., 2008). A fusão mitocondrial aumenta sua
+conectividade e permite redistribuição de metabólitos, proteínas e o próprio material genético
+mitocondrial pelas novas redes formadas (SANTEL et al., 2003); a fissão, por sua vez,
+permite a eliminação de mitocôndrias disfuncionais, que se desconectam da rede formada e
+são eliminadas pela mitofagia (ROMANELLO e SANDRI, 2015). Ativação de vias de
+autofagia, por exemplo, acabam por induzir alongamento das mitocôndrias em formas de
+rede, protegendo-as da degradação e levando a um aumento da produção de ATP para
+aumentar a eficiência de conversão energética em privação de nutrientes (GOMES et al.,
+2011). A situação oposta, onde há um excesso de nutrientes, leva a fragmentação
+mitocondrial, o que aumenta a dissociação da fosforilação oxidativa da produção de ATP
+(MOLINA et al., 2009).
+
+1.2.3 PGC-1α e a biogênese mitocondrial
+A biogênese mitocondrial pode ser definida como o crescimento e divisão de
+mitocôndrias já existentes em determinada célula, podendo ocorrer a partir de estímulos
+estressores como exercício físico, restrições calóricas, baixas temperaturas, estresse oxidativo,
+divisão, renovação e diferenciação celular, com variações no tamanho e massa mitocondrial
+(JORNAYVAZ e SCHULMAN, 2010). PGC-1α, o primeiro membro da família a ser descrito
+(PUIGSERVER et al., 1998), possuí forte atividade transcricional, pois mesmo sem ter
+atividade de histona acetil-transferases (histone acetyltransferases, HAT), conseguem se ligar
+a diversas proteínas que possuem as HATs, como SRC-1 (PUIGSERVER et al., 1999). A
+atividade de PGC-1α também é regulada por sua fosforilação direta, como feita pela AMPK,
+que não só é capaz de induzir a transcrição de PGC-1α como também pode ativá-lo ao
+fosforilar a treonina-177 e serina-538 (JAGER et al., 2007). Por outro lado, o estímulo com
+insulina diminui a transcrição de PGC-1α e também a inibe pela fosforilação na serina-570
+por meio da Akt, inibindo-a de outra forma (SOUTHGATE et al., 2005; LI et al., 2007).
+No tecido adiposo marrom, a ativação de receptores β-adrenérgicos acoplados a
+proteínas G aumentam a atividade de PKA, que fosforila CREB, e o aumento também induz a
+ativação de p38 MAPK, que fosforila e estabiliza PGC-1α (CAO et al., 2001; PUIGSERVER
+et al., 2001; AKIMOTO et al., 2005). CREB é conhecido por induzir a expressão do programa
+gliconeogênico por meio de PGC-1α, e sua ausência acaba por reduzir a expressão de
+PGC-1α, que contém em sua região promotora um sítio CRE (Figura 3), enquanto que a
+superexpressão de PGC-1α leva a retomada do programa gliconeogênico (HERZIG et al.,
+25
+
+2001). A região promotora de PGC-1α possuí ainda regiões onde elementos responsivos à
+insulina se ligam, sendo estes ativados pelo forkhead box class-O (FoxO1), que é regulado
+por sua vez por Akt. A sinalização por insulina ativa Akt, que fosforila FoxO1, levando a
+
+Figura 3: Região promotora de PGC-1α. Em negrito, região do promotor de -2,533 bp a +78 bp, como
+descrito por HANDSCHIN e colaboradores (2003); em sublinhado, os binding sites para FoxO1 e
+CREB.
+
+26
+
+supressão da expressão de PGC-1α, uma vez que não há ligação dele com os elementos
+responsivos à insulina na região promotora de PGC-1α (SOUTHGATE et al., 2005). De
+maneira geral, o estímulo de PGC-1α aumenta a capacidade enzimática para que ocorra a βoxidação, o ciclo do ácido cítrico e a fosforilação oxidativa, uma vez que o número de
+mitocôndrias e seu volume geral aumentam por conta da biogênese promovida por esse coativador. A ausência de PGC-1α não é capaz de abolir a diferenciação do tecido adiposo
+marrom, devido a presença de PGC-1β, mas o tecido não consegue desenvolver seu aparato
+termogênico. Quando ambos os genes se tornam ausentes, porém, o tecido não se diferencia, o
+que demonstra um papel complementar entre os co-ativadores para que aconteça a biogênese
+dependente de diferenciação (ULDRY et al., 2006).
+Na mitocôndria, as cristas são uma das partes mais dinâmicas e reúnem os
+supercomplexos, que são as proteínas da cadeia respiratória, e permite que o transporte de
+elétrons ocorra de forma mais eficiente. Experimentos demonstraram dímeros de ATP-sintase
+na parte mais curvada da crista mitocondrial (STRAUSS et al., 2008; DAVIES et al., 2011;
+DUDKINA et al., 2005), enquanto que o complexo I encontra-se em qualquer um dos lados
+
+Figura 4 - Posicionamento das cristas mitocondriais. O dinamismo das cristas permite a formação de
+supercomplexos (A), com dímeros da ATP-sintase localizando-se na curva da crista mitocondrial em uma
+espécie de “gargalo”, permitindo a formação do gradiente de prótons necessário para a formação do ATP e
+funcionamento geral da cadeia respiratória de elétrons. Imagem adaptada de COGLIATI, ENRIQUEZ e
+SORANO, 2016.
+
+27
+
+lisos da membrana (DAVIES et al., 2011). Assim, o posicionamento da ATP-sintase situado na
+curva da membrana, com os outros complexos situando-se ao redor, é fundamental para a
+criação de um gradiente de prótons, onde há um acúmulo destes na concavidade da crista
+mitocondrial (DAVIES et al., 2011) (figura 4). Desta forma, o consumo de prótons pela ATPsintase seguiria esse gradiente, permitindo que os prótons seguissem um movimento em
+direção ao fundo da crista, em uma espécie de ralo para prótons, que seria a ATP-sintase.
+Assim, o formato das cristas mitocondriais possuí papel chave na cadeia respiratória.
+
+1.2.4 UCP1 e termogênese
+Estudos de termogênese do tecido adiposo marrom levaram a descoberta de uma
+outra proteína presente na cadeia respiratória mitocondrial chamada de proteína
+desacopladora (uncoupling protein, UCP), sendo renomeada de UCP1 após a descoberta de
+proteínas homólogas que atuam em outros tecidos, como baço, rins, pâncreas e músculo
+esquelético, assim como sistema nervoso central e cérebro, porém os mecanismos de
+desacoplamento ainda permanecem sem esclarecimento (LIU et al., 2013). A UCP1 é um
+canal que permite a passagem de prótons do espaço intermembranas para a matriz
+mitocondrial, o que desfaz a energia potencial acumulada e gerada pela cadeia respiratória,
+impossibilitando assim a formação de ATP e dissipando esta energia em forma de calor.
+Estudos demonstraram que a atividade de UCP1 é ativada na presença de ácidos graxos não
+esterificados, enquanto que nucleotídeos inibem sua atividade (RIQUIER e BOUILLAUD,
+2000).
+A regulação de UCP1 no tecido adiposo marrom se dá por diferentes estímulos, entre
+eles a sinalização β-adrenérgica, induzida pela exposição crônica ao frio, que induz também
+biogênese mitocondrial, hiperplasia e hipertrofia do tecido (TRAYHURN et al., 1983;
+BARBATELLI et al., 2010). Animais expostos ao frio crônico (4°C), em um período de 3 a 7
+semanas, apresentaram aumento da expressão de UCP1 tanto em depósitos de tecido adiposo
+branco quanto marrom, e este aumento foi relacionado ao aumento da produção de calor do
+tecido adiposo marrom. Esta coordenação do aumento de UCP1 com a biogênese
+mitocondrial é essencial para que o tecido realize termogênese, mas mantenha níveis de ATP
+estáveis na presença desse desacoplamento da diferença de potencial (LOWELL e
+SPIEGELMAN, 2000).
+UCP1 pode ser induzido no tecido adiposo marrom tanto pela adição de AMPc
+quanto pela ativação da proteína quinase A (protein kinase A, PKA), e estudos com
+28
+
+tiazolidinedionas sintéticas, agonistas de PPARγ, mostraram que sua ativação promove tanto a
+diferenciação quanto a hipertrofia do tecido adiposo marrom in vivo (FOELLMI-ADAMS et
+al., 1996; TAI et al., 1996). Importante ressaltar que co-ativadores específicos regulam esta
+função tecido-específica de PPARγ, como por exemplo o PGC-1α, responsável por modular a
+expressão de UCP1.
+
+1.3 O sistema de sinalização RANK-RANKL-OPG
+O sistema RANK-RANKL-OPG foi inicialmente descrito no remodelamento ósseo,
+onde o osso é remodelado constantemente por meio de síntese da matriz óssea por meio dos
+osteoblastos, e reabsorção, promovida pelos osteoclastos (BOYLE et al., 2003; KARSENTY
+e WAGNER, 2002). A perturbação desse sistema leva ao desenvolvimento de doenças como
+osteoporose ou osteopetrose. A osteoporose ocorre normalmente em pessoas idosas,
+principalmente mulheres, assim como pacientes imobilizados e até mesmo astronautas, por
+experimentarem gravidade zero, uma vez que um dos estímulos para a formação da matriz
+óssea é o impacto mecânico; a osteopetrose, por sua vez, decorre de desordens genéticas,
+marcada por grande densidade óssea.
+O controle deste remodelamento, como dito anteriormente, e os fatores envolvidos
+no controle da formação de osteoclastos são o receptor ativador do fator nuclear κB (receptor
+activator of NF-κB, RANK), seu ligante, RANKL, e o receptor decoy de RANKL,
+osteoprotegerina (OPG). Este sistema funciona de maneira que a ligação de RANKL com seu
+receptor RANK sinaliza o desenvolvimento de osteoclastos a partir de células mielóides
+hematopoiéticas progenitoras, e OPG regula negativamente esta ligação pois atua como
+receptor solúvel de RANKL, e inibe a formação de osteoclastos. O início das descobertas
+desses fatores se deu com OPG, quando este foi clonado como um inibidor da
+osteoclastogênese (TSUDA et al., 1997; SIMONET et al., 1997). Experimentos subsequentes
+mostraram que OPG é capaz de se associar com RANKL, e age como receptor decoy para
+esta molécula. O verdadeiro receptor de RANKL, porém, é RANK, sendo ele uma proteína
+transmembranar que foi clonada originalmente a partir de células dendríticas (ANDERSON et
+al., 1997). RANKL por sua vez foi clonado por quatro diferentes grupos, que demonstraram
+que esse fator é apresentado tanto como uma proteína de membrana como uma proteína
+secretada pela célula pela ação de uma enzima sheddase (BOYLE et al., 2003; ANDERSON
+et al., 1997; WONG et al., 1997; YASUDA et al., 1998). A diminuição na expressão de
+RANK e RANKL faz com que o indivíduo apresente um quadro de osteopetrose, pois há
+29
+
+ausência de osteoclastos, e estudos mostram a necessidade desses dois fatores para a
+osteoclastogênese (LI et al., 2000; KONG et al., 1999). A ausência de OPG, por outro lado,
+resulta em osteoporose, uma vez que há alta atuação dos osteoclastos presentes, resultando em
+uma acentuada fragilidade óssea (MIZUNO et al., 1998).
+A ligação de RANKL a RANK ativa distintas cascatas de sinalização e controlam o
+comprometimento da linhagem celular para a formação de osteoclastos. Primeiramente, deve-
+
+Figura 5: Browning do tecido adiposo branco subcutâneo de animais controle, heterozigotos e knock-out para
+OPG. (A) As imagens foram coradas com hematoxilina e eosina (H&E, magnificação de 200x), e as
+concentrações sorológicas de RANKL estão indicadas no painel inferior. (B) Análise da média da área de cada
+adipócito para cada grupo. (C) Correlação da análise entre a média da área e o nível de RANKL sérico para
+cada animal. (D) e (E) são análises de PCR quantitativo com ou sem tratamento de RANKL; ND representa as
+amostras sem diferenciação. A análise estatística realizada foi One-way ANOVA seguida de teste de
+comparações múltiplas de Bonferroni para todos os grupos. * p<0.05; ** p<0.001. (MATSUO, F.S. et al.,
+dados não publicados)
+
+30
+
+se falar da ativação do fator nuclear NF-κB. A ativação de RANK por diferentes proteínas
+associadas ao fator do receptor de TNF (TRAF) leva a indução de NF-κB, e estudos
+mostraram que TRAF6 é essencial para a osteoclastogênese (LOMAGA et al., 1999); os
+fatores nucleares IKKα e IKKβ também são responsáveis por mediar a ativação de NF-κB, e
+são importantes para a sinalizacão de RANK-RANKL e a osteoclastogênese (RUOCCO et al.,
+2005). Outra cascata importante é a das proteínas quinases ativadas por mitogênio (mitogen
+activated protein kinase, MAPK), que consistem nas proteínas p38-MAPK, JNK1, 2 e 3 e
+ERK 1 e 2 (WADA e PENNINGER, 2004; CHANG e KARIN, 2001). Estudos com a inibição
+da p38-MAPK sugerem que essa proteína está envolvida na osteoclastogênese mediada por
+RANKL, e que ela fosforila o transdutor de sinal e ativador de transcrição 1 (signal
+transducer and activator of transcription 1, STAT1) e controla assim a expressão de diferentes
+genes (MATSUMOTO et al., 2000; KWAK et al., 2005).
+RANK e RANKL não atuam somente no tecido ósseo. RANKL é expresso em
+células T, e a ligação RANK-RANKL é importante para a interação de células T com células
+dendríticas, e sinaliza para a ativação de células T regulatórias (ANDERSON et al., 1997;
+KONG et al., 1999). A ausência de RANK e RANKL, além de causar osteopetrose, também
+faz com que as estruturas lóbulo-alveolares mamárias estejam comprometidas durante a
+gravidez. RANKL é induzido durante a gravidez nas células epiteliares em resposta a
+hormônios sexuais, levando a sua proliferação. Hormônios sexuais também estão ligados a
+incidência de doenças ósseas, como ocorre em casos de osteoporose em mulheres na
+menopausa; a queda da produção de estrogênio resulta na diminuição de OPG perda de massa
+óssea e, eventualmente, na osteoporose. Tanto o estrogênio quanto andrógenos são
+responsáveis pela supressão da diferenciação de osteoclastos por meio de RANKL ao
+inibirem a via de JNK, assim como são responsáveis por controlarem a expressão de OPG
+(SYED e KHOSLA, 2005).
+Sabe-se ainda que a calcificação arterial está associada a osteoporose, principalmente
+em mulheres na menopausa. Osako e colaboradores mostraram que RANKL contribui para a
+calcificação vascular ao regular proteínas relacionadas ao tecido ósseo, e que sua atuação é
+contra-regulada pela presença de estrogênio (OSAKO et al., 2010). Em outro estudo do nosso
+grupo, demonstramos que o aumento da sinalização de RANK-RANKL em camundongos
+knockout para OPG (OPG-/-) reduz a área infartada e o edema cerebral por meio de inflamação
+pós-isquêmica reduzida, com esse eixo de sinalização atenuando os efeitos inflamatórios em
+macrófagos e na micróglia (SHIMAMURA et al., 2014). Ainda, MARUYAMA e
+31
+
+colaboradores (2006) demonstraram que o tratamento com RANKL suprime a produção de
+citocinas pró-inflamatórias em macrófagos após estímulo por LPS (lipopolissacarídeos).
+Em estudos do nosso grupo, observamos que RANKL atua na polarização de
+macrófagos para estados anti-inflamatórios e reduz a infiltração leucocitária no tecido adiposo
+branco visceral de camundongos OPG knockout (OPG-/-), mesmo sob dieta hipercalórica, e
+apresentaram interessantemente uma diferenciação para o tecido adiposo bege, com evidente
+processo de browning correlacionado com o nível de RANKL sérico (figura 5A). O tamanho
+da área dos adipócitos dos animais OPG-/- é significantemente menor quando comparado com
+os grupos OPG+/- e controle (CTRL) (figura 5B), e a área média do adipócito correlaciona
+negativamente com o nível de RANKL circulante (figura 5C). Outros ensaios demonstraram
+ainda que pré-adipócitos da linhagem 3T3-L1 mesmo quando diferenciados para adipócito
+branco maduro na presença de RANKL, apresentam aumento da expressão de genes
+relacionados ao processo de browning, tais como UCP1 e PGC-1α (figura 5D e E). ISHII e
+colaboradores (2009) demonstraram que PGC-1β é capaz de mediar a ativação da biogênese
+mitocondrial em osteoclastos, e que sua ausência incapacita a diferenciação e maturação
+destes mesmos osteoclastos, e isso reforça a ideia de que PGC-1α também possa ser regulado
+pelo sistema RANKL nos adipócitos, induzindo a expressão de genes termogênicos, tais como
+UCP1, e a biogênese mitocondrial com um aumento do número de cristas mitocondriais, e por
+esta via RANKL induz a diferenciação do tecido adiposo bege. Assim, hipotetizamos que o
+eixo RANK-RANKL e p38 MAPK seja responsável pela ativação e aumento de PGC-1α e
+processo de browning do tecido adiposo observado em camundongos OPG-/-.
+
+32
+
+2. OBJETIVOS
+2.1 Geral
+Elucidar o papel de RANKL na regulação da transcrição do gene mitocondrial
+PGC-1α, avaliação da biogênese mitocondrial, e sua contribuição na diferenciação do
+adipócito bege durante processo de browning do tecido adiposo branco.
+
+2.2 Específicos
+2.2.1 Caracterizar a diferenciação do adipócito bege com o tratamento ou não de
+RANKL;
+2.2.2 Avaliar o perfil de expressão gênica no adipócito com o tratamento ou não de
+RANKL durante a diferenciação para bege;
+2.2.3 Avaliar a regulação do promotor do gene PGC-1α por RANKL.
+
+33
+
+3. MATERIAL E MÉTODOS
+3.1 Experimentação animal
+Os camundongos utilizados neste estudo são das linhagens pertencem as linhagens:
+C57BL6/J e B6.129S4-Tnfrsf11btm1Eax/J (OPG-/-) obtidos do The Jackson Laboratory e
+mantidos no biotério do Departamento de Biologia Celular, Molecular e Bioagentes
+Patogênicos da FMRP/USP. O experimento foi conduzido de acordo com as normas da
+Comissão de Ética em Experimentação Animal da Faculdade de Medicina de Ribeirão Preto,
+FMRP/USP, protocolo número 009/2016-1.
+3.2 Microscopia eletrônica de transmissão
+Os tecidos adiposos subcutâneos de animais selvagem e knock-out para OPG foram
+retirados e cortados em cubos de 1 mm para a fixação por imersão em 2.5% de glutaraldeído e
+2% de paraformaldeído (Solução de Karnovsky) em tampão de cacodilato 0.1 M (pH = 7.3).
+O tecido foi, então, pós-fixado com tetróxido de ósmio a 1% em tampão de cacodilato 0.1 M
+(pH = 7.3), em seguida feita contrastação em bloco com 1% de acetato de uranila. A amostra
+foi submetida a cortes ultrafinos de 70 nm. O microscópio eletrônico JEM-100CX II foi
+utilizado para a captura das imagens.
+3.3 Cultura Celular
+3.3.1 Linhagem 3T3-L1
+Pré-adipócitos da linhagem murina 3T3-L1 foram adquiridos do Banco de Células do
+Rio de Janeiro (BCRJ) e cultivados em meio DMEM suplementado com 10% de soro fetal
+bovino (SFB, Vitrocell) e 100 U/ml de penicilina e 100 μg/ml de estreptomicina (denominado
+DMEMc). As células foram cultivadas em placas de 3,5 cm em 1 ml de meio DMEMc (2x105
+células/placa). Para o ensaio de transfecção, as células foram estimuladas com 20 ng/ml de
+RANKL e 1 μM de rosiglitazona.
+3.3.2 Cultura Primária da Fração Vascular Estromal
+Células murinas da fração vascular estromal (stromal vascular fraction, SVF) do
+tecido adiposo foram extraídas do depósito subcutâneo de animais selvagem (C57BL6/J)
+seguindo o protocolo estabelecido por AUNE e colaboradores (2013). Resumidamente, o
+tecido retirado foi dissecado e lavado com PBS, sendo picado e digerido em PBS contendo
+1.5 U/ml de Colagenase D (Sigma-Aldrich), 2.4 U/ml de Dispase II (Sigma-Aldrich) e 10 mM
+34
+
+de CaCl em agitação, de 30 a 40 min, a 37°. O tecido é então filtrado e centrifugado, sendo
+ressuspendido em DMEMc. As células foram inicialmente cultivadas em placas de 10 cm em
+meio DMEM suplementado com 20% de SFB e 100 U/ml de penicilina e 100 μg/ml de
+estreptomicina. Depois, foram cultivadas em placas de 3,5 cm em 1 ml de meio de indução
+para a diferenciação em tecido adiposo bege (dia 0). O meio de indução consiste em DMEMc
+suplementado 125 μM de indometacina, 2 μg/ml de dexametasona, 0.5 mM de IBMX, 0.5 μM
+de rosiglitazona e 20 ng/ml de RANKL. Após 48h (dia 2), o meio de indução é substituído
+pelo meio de manutenção 1, que consiste em meio DMEMc suplementado 5 μg/ml de
+insulina, 1 nM de 3,3’,5-Triiodo-L-tironina (T3), 0.5 μM de rosiglitazona e 20 ng/ml de
+RANKL. Após mais 48h (dia 4), o meio é renovado pelo meio de manutenção 2, que consiste
+em DMEMc suplementado com 5 μg/ml de insulina, 1 nM de T3, 1μM de rosiglitazona e 0,02
+ng/μl de RANKL. As células foram diferenciadas até o dia 9.
+3.3.3 Linhagem HEK-293
+Células HEK-293 foram cultivadas em meio DMEMc, e para transfecção foram
+semeadas em placas de 3,5 cm em 1 ml de meio DMEMc na quantidade de 5 x 105 células/
+placa. Para ensaio de transfecção, receberam 5 μg de plasmídeo e 2 ml de lipofectamina
+(Lipofectamine® 2000, cat. 11668027, Invitrogen), e estimuladas com 5 μM rosiglitazona, 20
+ng/ml de RANKL, e 10 ng/ml de LPS.
+3.4 Ensaio de Oil Red O
+O ensaio de Oil Red O (O0625, Sigma-Aldrich) foi realizado de acordo com o
+protocolo do fabricante para coloração de gotículas de gordura. As células da fração vascular
+estromal foram semeadas em placa de 24-wells (1,5 cm) e diferenciadas para bege até o dia 9.
+As placas foram armazenadas a 5°C, com 1 ml de água destilada por placa para posterior
+visualização e documentação ao microscópio de fluorescência DMI 6000 Leica (Laboratório
+do Prof. Dr. Marcelo D. Gomes, Departamento de Bioquímica, FMRP/USP). A análise das
+imagens foi realizada pelo software ImageJ. Foram tiradas 3 fotos por poço, as imagens foram
+modificadas para binárias (8-bit) e o thresold de visualização foi ajustado, seguindo-se para
+quantificação da área com coloração positiva; por fim, foi feito uma média da área dos poços
+de cada grupo (n = 6).
+3.5 RT-qPCR
+35
+
+3.5.1 Desenho dos oligonucleotídeos iniciadores (primers)
+Os primers foram desenhados no software disponibilizado pela empresa Integrated
+DNA Technologies (IDT), através do link PrimerQuest Tool. Os parâmetros escolhidos foram:
+temperatura de melting próximo aos 60°C, porcentagem de CG em torno de 50%, tamanho do
+amplicon próximo a 100 pb, tamanho do primer próximo de 22 nucleotídeos, primers que
+estivessem em região na mesma exônica com anelamento na região intermediária do gene e
+interseção de dois exóns. O reconhecimento da sequência de interesse do gene alvo foi feito
+por meio da biblioteca gênica National Center for Biotechnology Information (NCBI)
+PubMed e a especificidade do primer avaliada por meio da ferramenta Basic Local Alignment
+Search Tool (BLAST). Eles foram padronizados para uma concentração total de uso de 600
+ng. A tabela 2 detalha os primers forward (F) e reverse (R) empregados no estudo de acordo
+com os parâmetros acima citados.
+Gene
+
+Sequência
+
+Referência NCBI
+
+GAPDH F
+
+AACGGATTTGGCCGTATT
+G
+
+NM_001289726.
+
+GAPDH R
+
+GTGGTGAAGACACCAGT
+AGA
+
+NM_001289726.
+
+UCP1 F
+
+GGCCCTTGTAAACAACAA NM_009463.3
+ATTAC
+
+UCP1 R
+
+GGCAACAAGAGCTGACA
+GTAAAT
+
+PGC-1α F
+
+GCTATGGTTTCATCACCTA NM_008904.2
+CC
+
+PGC-1α R
+
+GTACAGCTCGAAGTCAGT NM_008904.2
+TTC
+
+Citrato sintase F
+
+CAACATGGGAAGACAGT
+GG
+
+NM_026444.4
+
+Citrato Sintase R
+
+GTCAGGATCAAGAACCG
+AAG
+
+NM_026444.4
+
+NM_009463.3
+
+*F - Forward
+*R - Reverse
+
+3.5.2 Extração de RNA e transcrição reversa
+Após o início da indução (dia 0), o RNA das células SVF foram coletados nos dias 1,
+3, 5, 7 e 9 pelo método do TRIZOL (QIAGEN). As amostras foram vortexadas e incubadas a
+temperatura ambiente por cinco minutos, adicionando 1/5 do volume de TRIZOL de
+36
+
+clorofórmio P.A (SYNTH), vortexando-se as amostras novamente e incubando-as por 2 min a
+temperatura ambiente. As amostras foram centrifugadas a 12 000 rpm durante 20 min, à 4°C,
+e em seguida a fase aquosa foi coletada, igual volume de isopropanol P.A (SYNTH) foi
+adicionado, seguindo incubação por 10 min a temperatura ambiente. Em seguida, as amostras
+foram centrifugadas a 14 000 rpm por 10 min, a 4°C, e o sobrenadante descartado. O pellet
+formado foi lavado com 1 ml etanol (70-75%), seguido de centrifugação a 14 000 rpm por 10
+min, a 4°C, e o sobrenadante descartado. O pellet formado (RNA) foi ressuspendido em 20 μl
+de H2O RNAse free, e quantificado no NanoVue Plus (GE Healthcare). O RNA foi utilizado
+na concentração de 250 ng/μl para tratamento com DNAse I (Cat. AMPD1, Sigma-Aldrich). A
+transcrição reversa foi feita com o kit High-Capacity cDNA Reverse Transcription (Cat.
+4368814, Applied Biosystems), seguindo-se as instruções dos fabricantes.
+3.5.3 Reação em cadeia da polimerase em tempo real - Real time PCR
+A quantificação da expressão dos genes PGC-1α, UCP1 e citrato sintase foram
+realizadas por PCR em tempo real no aparelho ABI 7500 (Applied Biosystems) através do
+método comparativo de threshold cycles (Ct). Os experimentos foram montados em placas de
+96 poços e conduzidos em triplicata técnica com 1 controle negativo para cada gene. Cada
+biblioteca de cDNA foi analisada pela expressão dos genes de interesse e normalizada pela
+expressão do gene housekeeping GAPDH usando-se o método por detecção por fluorescência
+com o reagente QuantiFast SYBR® Green (Cat. 204052, QIAGEN) por RT-qPCR de acordo
+com as instruções do fabricante.
+3.6 Clonagem da região promotora de PGC-1α
+Para análise da região promotora de PGC-1α, utilizamos primers específicos
+descritos por SPIEGELMAN e colaboradores (2003). Utilizamos o seguinte par de primers
+para amplificação da região promotora (Forward: GCCAGGATTGCTTGATAATGATG;
+Reverse: CAACTCCAATCCACTCTGAC) de 2197 pares de base. Em seguida, na segunda
+rodada de PCR convencional, utilizamos o seguinte par de primers para a inserção das
+enzimas de restrição KpnI e SacI (Forward: GCGGTACCCAGGATTGCTTGATAATG;
+Reverse:
+
+G C G A G C T C T C C A AT C C A C T C T;
+
+Alternative
+
+Reverse:
+
+GCGAGCTCCCAGTCAAGCTTT) nas extremidades do amplicon; foram desenhados dois
+primers reverse com as enzimas em sua sequência. Os primers foram desenhados no software
+disponibilizado pela IDT, de acordo com os seguintes parâmetros: temperatura de melting
+37
+
+próximo aos 60°C, porcentagem de CG em torno de 50%, tamanho do primer próximo de 22
+nucleotídeos. O DNA genômico foi extraído de células murinas 3T3-L1, segundo protocolo
+do kit PureLink® Genomic DNA Kits (Invitrogen, número de catálogo K1820-01) para
+cultura de células mamíferas.
+3.7 Ensaio de luciferase com região promotora de PGC-1α
+Utilizamos o plasmídeo PGC-1 alpha promoter luciferase delta MEF, construído por
+Bruce Spiegelman e fornecido pela plataforma Addgene (Plasmídeo Addgene #8889) em
+bactérias E. coli, que foram cultivadas em meio LB (Luria Bertani) líquido suplementado com
+ampicilina (100 μg/ml) e posteriormente semeadas em meio LB sólido suplementado com
+ampicilina. As colônias isoladas foram submetidas a MiniPrep caseiro para amplificação e
+purificação do plasmídeo. O plasmídeo foi digerido utilizando as enzimas EcoRV e BsaI
+(New England Biolabs® Inc.), e após a confirmação do padrão de digestão indicado, a colônia
+originária foi amplificada e purificada via MaxiPrep usando o kit QIAGEN® Plasmid
+(QIAGEN). A transfecção foi realizada em células 3T3-L1 e células HEK-239 com
+lipofetamina (Lipofectamine® 2000, cat. 11668027, Invitrogen), na proporção de 2 μl/ml. Os
+plasmídeos usados estavam a uma concentração de 200 ng/μl, tendo 5 μg/placa de plasmídeo.
+Tanto a lipofetamina quanto os plasmídeos foram diluídos em meio Opti-MEM® (Gibco® by
+Life Technologies™). Após a adição da solução complexo lipofectamina-plasmídeo e 5 horas
+de incubação para a transfecção, o meio foi renovado com 1 ml de meio DMEMc. As células
+foram transfectadas no dia seguinte ao seu plaqueamento.
+As células 3T3-L1 foram estimuladas 24h após a transfecção com 20 ng/ml de
+RANKL e 1 μM de rosiglitazona, e 48h após a transfecção, foi realizado o ensaio de
+luciferase seguindo-se o protocolo descrito no kit Luciferase Assay System with Reporter
+Lysis Buffer (Cat. #E4030, Promega), e a luminescência detectada com o equipamento
+VICTOR X3 Multilabel Plate Reader (PerkinElmer®). Os dados foram normalizados pela
+concentração da proteína total obtida pelo método de Bradford.
+3.8 Estatística
+Todas as análises estatísticas foram realizadas utilizando-se o software GraphPad
+Prism 7.0. Para a definição do teste estatístico empregado utilizou-se previamente o teste de
+normalidade. Para as análises de múltiplas comparações, empregou-se One Way ANOVA,
+seguido do pós-teste de Bonferroni. Para análises comparativas entre dois grupos foi utilizado
+38
+
+o teste t de Student. Em todas as análises, p<0.05 foi definido como sendo estatisticamente
+significante.
+
+39
+
+4. RESULTADOS
+4.1 Avaliação dos tecidos adiposos subcutâneos por microscopia eletrônica
+Resultados prévios do nosso grupo demonstram intenso processo de browning no tecido
+adiposo subcutâneo em camundongos OPG-/- comparados com o grupo selvagem (figura 5), e
+hipotetizamos que a elevada ativação da sinalização RANK-RANKL no contexto de
+deficiência de OPG poderia induzir biogênese mitocondrial pela ativação de PGC-1α, visto
+que estas organelas atuam na metabolização de lipídeos e termogênese. Inicialmente,
+avaliamos o tecido adiposo subcutâneo por microscopia eletrônica de transmissão, e
+observamos uma grande gota lipídica central, com mitocôndrias pouco densas e cristas
+mitocondriais com espaços visíveis entre as membranas no grupo selvagem (figura 6A e C).
+No animal OPG-/-, por outro lado, é possível observar uma maior densidade mitocondrial
+
+Figura 6: Microscopia eletrônica de transmissão de animais controle (A e C) e knock-out para
+OPG (OPG-/-) (B e D). (A e B) Aumento de 10x; (C e D) aumento de 50x. Gotícula lipídica
+indicada por asterisco (*);mitocôndrias estão na ponta da seta (➞); e a crista mitocondrial está
+indicada pela cabeça da seta (▲).
+
+40
+
+(figura 6B e D). Além da presença da gotícula lipídica central, no animal OPG-/-, observamos
+também a presença de outras gotículas lipídicas menores mobilizando-se a partir da gotícula
+central. Portanto, esse resultado corrobora com os resultados histológicos obtidos previamente
+(figura 5) e demonstram maior densidade mitocondrial no grupo OPG-/- comparado ao
+selvagem.
+4.2 Detecção da diferenciação do adipócito bege por Oil Red O in vitro
+Células SVF do tecido adiposo subcutâneo foram extraídas e diferenciadas para
+adipócitos bege até o 9º dia para avaliar o efeito do estímulo de RANKL na diferenciação do
+adipócito bege e expressão de marcadores termogênicos e de biogênese mitocondrial.
+Observamos a diferenciação dos adipócitos com a coloração por Oil Red O (figura 7A e B), e
+detectamos um aumento significativo na área total positiva para a coloração de gotículas
+lipídicas ao tratarmos as células com RANKL (figura 7B e C) durante o período de
+diferenciação.
+
+Figura 7: Pré-adipócitos da fração vascular estromal (SVF) diferenciadas durante 9 dias para adipócitos bege e
+corados com Oil Red O. Células diferenciadas para adipócitos bege (A) e em (B) as células foram tratadas
+também com RANKL. (C) Área total dos adipócitos. ** p<0.05. A análise estatística utilizada foi Teste t não
+pareado.
+
+41
+
+4.3 Expressão gênica de genes termogênicos diante a diferenciação a adipócitos bege
+Durante este processo de diferenciação, o mRNA foi extraído nos dias 1, 3, 5, 7 e 9 e
+analisado em ensaios de PCR em tempo real. Observamos um aumento significativo na
+expressão de PGC-1α no quinto dia de diferenciação, assim como uma tendência da elevação
+da expressão de UCP1 comparado com o grupo não tratado (figura 8A e B). Observamos
+também um aumento agudo da citrato sintase no primeiro dia de diferenciação na presença de
+RANKL comparado ao grupo não tratado (figura 8C).
+4.4 Construção do plasmídeo contendo promotor de PGC-1α
+A região promotora desejada de 2197 pb de PGC-1α foi amplificada inicialmente
+com um par de primers sem sítio enzimático e por PCR convencional utilizando como
+amostra DNA genômico de células 3T3-L1 (figura 9A). A partir dela, foi realizado um novo
+PCR com primers contendo os sítios de restrição sítios enzimáticos para KpnI e SacI, para sua
+
+Figura 8: PCR quantitativo de amostras de pré-adipócitos diferenciados para adipócitos bege por 9 dias para
+detecção da expressão do gene PGC-1α (A), UCP1 (B) e citrato sintase (C). S/D são células sem diferenciação;
+CT são células controle; RL são células tratadas com RANKL. A análise estatística realizada foi one-way
+ANOVA. ** p<0.05.
+
+42
+
+ligação em sítio de clonagem no plasmídeo repórter para luciferase. Entretanto, devido as
+dificuldades de clonar a sequência promotora, adquirimos o plasmídeo PGC-1 alpha promoter
+luciferase delta MEF (pPGC1α) cedido por Bruce Spiegelman (Addgene), utilizando-o nos
+experimentos subsequentes. O plasmídeo foi digerido com as enzimas EcoRV e BsaI e os
+tamanhos dos fragmentos correspondentes aos descritos anteriormente foram detectados no
+gel de eletroforese (figura 9B).
+
+Figura 9: (A) Clonagem da região promotora de PGC-1α. Foi realizado um gradiente de temperatura para
+verificação da temperatura de melting com o primer sem os sítios enzimáticos. 1 - 56°C; 2 - 55,8°C; 3 55,4°C; 4 - 54,9°C; 5 - 54,2°C; 6 - 53,6°C; 7 - 53,2°C; 8 - 53°C; 9 - controle negativo; 10 - controle positivo
+com DNA genômico; 11 - controle positivo com cDNA. (B) Gel com digestão do plasmídeo; 1 - plasmídeo
+completo; 2 - plasmídeo digerido com a enzima de restrição EcoRV; 3 - plasmídeo digerido com BsaI; 4 plasmídeo digerido com EcoRV e BsaI.
+
+4.5 Regulação da expressão gênica de PGC-1α mediada por RANKL
+Células HEK-293 foram transfectadas com o plasmídeo pPGC1α e estimuladas com o
+agonista de PPARγ rosiglitazona, e RANKL. Como esperado, rosiglitazona ativa a região
+promotora de PGC-1α, e ainda, observamos que as células estimuladas com RANKL
+apresentaram maior atividade de luciferase em relação a rosiglitazona, demonstrando que o
+43
+
+estímulo de RANKL também ativa a expressão de PGC-1α, (figura 10). As células 3T3-L1
+foram transfectadas, porém não detectamos atividade da luciferase em nenhum dos grupos,
+possivelmente por serem resistentes à transfecção pelo método utilizado.
+
+Figura 10: Transfecção das células HEK-293 com os plasmídeos do promotor de PGC-1α, tratadas com
+rosiglitazona ou RANKL. ****p<0.0001
+
+44
+
+5. DISCUSSÃO
+As mitocôndrias são as principais responsáveis pela metabolização de lipídeos e
+termogênese no tecido adiposo marrom e bege e, neste trabalho, observamos que o processo
+de browning observado no tecido adiposo branco de camundongos com a sinalização RANKRANKL exacerbada sem oposição de OPG, como é o caso de animais OPG-/-, correlaciona
+com a presença de adipócitos com maior densidade mitocondrial e gotículas lipídicas
+multiloculadas. HACKENBROCK (1966) demonstrou que as cristas mitocondriais
+apresentam uma estrutura “ortodoxa" e uma estrutura “condensada”. Na primeira, a crista se
+apresenta em filamentos alongados e com opacidade reduzida na microscopia eletrônica por
+conta de uma diminuição da matriz mitocondrial, e esse estado é apresentado com a redução
+de ATP. O segundo estado apresenta cristas com redes alongadas e opacidade alta, sendo o
+estado para o qual as mitocôndrias convergem pois ATP encontra-se elevado. Desta maneira,
+as cristas observadas nos animais OPG-/- apresentam-se em sua forma “ortodoxa”, com menor
+concentração de ATP, condizendo a presença de UCP1 em sua estrutura, responsável por
+desfazer o gradiente de prótons responsável pela produção de ATP, convertendo-o em energia
+termogênica.
+A diferenciação de pré-adipócitos para adipócitos bege mostrou-se efetiva, e o
+tratamento com RANKL foi capaz de aumentar o número de gotículas lipídicas presentes,
+indicando a mudança para adipócitos multiloculares como detectado pela coloração Oil Red
+O. A presença desses adipócitos multiloculares indicam, assim, uma maior mobilização
+lipídica para consumo energético. E a fim de produzir a termogênese independente de
+tremores (non-shivering thermogenesis) observada em adipócitos beges, há necessidade tanto
+do aumento de mitocôndrias presentes como aumento de seu maquinário termogênico, e
+verificamos a expressão de três genes relacionados a essas funções: PGC-1α, relacionado à
+biogênese mitocondrial; UCP1, responsável pela proteína desacopladora capaz de gerar calor
+ao desfazer a diferença de potencial entre as duas membranas mitocondriais; e citrato sintase,
+responsável pela proteína presente no início do ciclo de Krebs, que forma citrato a partir de
+oxaloacetato e acetil-coA em uma reação altamente exergônica, possibilitando o início do
+ciclo. Tanto PGC-1α quanto UPC1 tem sua expressão aumentada na presença de RANKL
+após cinco dias de estímulo de diferenciação para adipócito bege, indicando que o aumento da
+biogênese mitocondrial se dá de forma concomitante com o aumento da maquinaria
+termogênica. Citrato sintase, por sua vez, aumenta no primeiro dia de diferenciação com
+
+45
+
+tratamento com RANKL, possivelmente indicando o início da preparação proteica para o
+aumento da densidade mitocondrial que ocorre nos dias seguintes.
+ISHII e colaboradores (2009) demonstraram que PGC-1β era induzido durante a
+diferenciação de osteoclastos por meio da proteína de ligação do elemento responsivo de
+AMPc (CREB), uma vez que a atividade de reabsorção óssea destas células é altamente
+dependentes da atividade mitocondrial. O knockdown desse gene inibe a diferenciação dos
+osteoclastos, inibindo também a biogênese mitocondrial. Assim como RANKL é responsável
+pela diferenciação de osteoclastos e, munido das observações feitas in vitro com células
+estímuladas com RANKL e in vivo no tecido de animais OPG-/-, iniciamos a clonagem da
+região promotora de PGC-1α, responsável pela biogênese mitocondrial em adipócitos, para
+análise da regulação gênica pela via de RANK-RANKL. Observamos que RANKL aumenta a
+expressão da luciferase em células HEK-293 transfectadas com o plasmídeo repórter para
+luciferase controlado pelo promotor de PGC-1α. HANDSCHIN e colaboradores (2003)
+mostraram em seu estudo que o promotor humano de PGC-1α contém a região CRE essencial
+para sua ativação por AMPc; essa mesma região é conservada no promotor murino, com
+ambas as regiões possuindo distância semelhante do sítio inicial de transcrição. Dessa
+maneira, apesar das células HEK-293 serem de origem humana, e a sequência promotora de
+PGC-1α clonada no plasmídeo ser de origem murina, observamos um aumento da atividade
+da luciferase no grupo estimulado com rosiglitazona (controle positivo) e significativamente
+maior com RANKL, e isto indica que a conservação evolutiva da região promotora entre as
+duas espécies é suficiente para possibilitar a regulação positiva pelo estímulo de RANKL. A
+expressão de PGC-1α é ativada pela sinalização p38 MAPK (AKIMOTO et al., 2005), e
+RANKL também ativa esta via na diferenciação de osteoclastos (MATSUMOTO et al., 2000).
+Portanto, o eixo RANK-RANKL e p38 MAPK será o foco de experimentos futuros para
+melhore compreensão dos efeitos de RANKL na regulação gênica de PGC-1α durante o
+processo de browning e biogênese mitocondrial.
+
+46
+
+6. CONCLUSÃO
+O presente trabalho teve como objetivo demonstrar que RANKL induz a biogênese
+mitocondrial no processo de browning do tecido adiposo branco por meio da regulação da
+expressão gênica de PGC-1α. Observamos o aumento da densidade mitocondrial, com
+diferenças estruturais marcantes relacionadas com o perfil termogênico nas mitocôndrias de
+animais OPG-/- comparadas aos animais selvagens, e correlacionadas com aumento da
+expressão de PGC-1α, UCP1 e citrato sintase em células estimuladas com RANKL e
+diferenciadas para adipócito bege in vitro. Ainda, células tratadas com RANKL apresentaram
+aumento da ativação da região promotora de PGC-1α em ensaio de luciferase, e isso indica
+que possivelmente RANKL induz a diferenciação do adipócito bege por atuar na biogênese
+mitocondrial via regulação de PGC-1α. Estes dados, embora preliminares, apontam o eixo
+RANK-RANKL-OPG como potencial indutor do processo de browning do tecido adiposo em
+situações de obesidade e doenças relacionadas.
+
+47
+
+7. REFERÊNCIAS BIBLIOGRÁFICAS
+Aherne, W., & Hull, D. (1966). Brown adipose tissue and heat production in the newborn
+infant. The Journal of pathology and bacteriology, 91(1), 223-234.
+Akimoto, T., Pohnert, S.C., Li, P., Zhang, M., Gumbs, C., Rosenberg, P.B., Williams, R.S.
+and Yan, Z. (2005). Exercise stimulates Pgc-1α transcription in skeletal muscle through
+activation of the p38 MAPK pathway. Journal of Biological Chemistry.
+Anderson, D.M., Maraskovsky, E., Billingsley, W.L., Dougall, W.C., Tometsko, M.E.,
+Roux, E.R., Teepe, M.C., DuBose, R.F., Cosman, D. and Galibert, L. (1997). A homologue
+of the TNF receptor and its ligand enhance T-cell growth and dendritic-cell function.
+Nature, 390(6656), 175.
+Bachman, E. S., Dhillon, H., Zhang, C. Y., Cinti, S., Bianco, A. C., Kobilka, B. K., &
+Lowell, B. B. (2002). βAR signaling required for diet-induced thermogenesis and obesity
+resistance. Science, 297(5582), 843-845.
+Balland, E., Dam, J., Langlet, F., Caron, E., Steculorum, S., Messina, A., Rasika, S.,
+Falluel-Morel, A., Anouar, Y., Dehouck, B. and Trinquet, E. (2014). Hypothalamic
+tanycytes are an ERK-gated conduit for leptin into the brain. Cell metabolism, 19(2),
+293-301.
+Banerjee, S.S., Feinberg, M.W., Watanabe, M., Gray, S., Haspel, R.L., Denkinger, D.J.,
+Kawahara, R., Hauner, H. and Jain, M.K. (2003). The Krüppel-like factor KLF2 inhibits
+peroxisome proliferator-activated receptor-γ expression and adipogenesis. Journal of
+Biological Chemistry, 278(4), 2581-2584.
+Barbatelli, G., Murano, I., Madsen, L., Hao, Q., Jimenez, M., Kristiansen, K., Giacobino,
+J.P., De Matteis, R. and Cinti, S. (2010). The emergence of cold-induced brown adipocytes
+in mouse white fat depots is determined predominantly by white to brown adipocyte
+transdifferentiation. American Journal of Physiology-Endocrinology and Metabolism,
+298(6), E1244.
+Boström, P., Wu, J., Jedrychowski, M.P., Korde, A., Ye, L., Lo, J.C., Rasbach, K.A.,
+Boström, E.A., Choi, J.H., Long, J.Z., Kajimura, S., Zingaretti, M.C., Vind, B.F., Tu, H.,
+Cinti, S., Højlund, K., Gygi, S.P. and Spiegelman, B.M. (2012). A PGC1-α-dependent
+myokine that drives brown-fat-like development of white fat and thermogenesis. Nature,
+481(7382), 463.
+Boyle, W. J., Simonet, W. S., & Lacey, D. L. (2003). Osteoclast differentiation and
+activation. Nature, 423(6937), 337.
+Cao, W., Daniel, K.W., Robidoux, J., Puigserver, P., Medvedev, A.V., Bai, X., Floering,
+L.M., Spiegelman, B.M. and Collins, S. (2004). p38 mitogen-activated protein kinase is
+the central regulator of cyclic AMP-dependent transcription of the brown fat uncoupling
+protein 1 gene. Molecular and cellular biology, 24(7), 3057-3067.
+Cao, W., Medvedev, A. V., Daniel, K. W., & Collins, S. (2001). β-Adrenergic activation of
+p38 MAP kinase in adipocytes: cAMP induction of the uncoupling protein-1 (UCP1) gene
+requires p38 MAP kinase. Journal of Biological Chemistry.
+
+48
+
+Cao, Z., Umek, R. M., & McKnight, S. L. (1991). Regulated expression of three C/EBP
+isoforms during adipose conversion of 3T3-L1 cells. Genes & development, 5(9),
+1538-1552.
+Carey, A.L., Vorlander, C., Reddy-Luthmoodoo, M., Natoli, A.K., Formosa, M.F.,
+Bertovic, D.A., Anderson, M.J., Duffy, S.J. and Kingwell, B.A. (2014). Reduced UCP-1
+content in in vitro differentiated beige/brite adipocytes derived from preadipocytes of
+human subcutaneous white adipose tissues in obesity. PloS one, 9(3), e91997.
+Carroll, J.F., Chiapa, A.L., Rodriquez, M., Phelps, D.R., Cardarelli, K.M., Vishwanatha,
+J.K., Bae, S. and Cardarelli, R. (2008). Visceral fat, waist circumference, and BMI: impact
+of race/ethnicity. Obesity, 16(3), 600-607.
+Chang, L., & Karin, M. (2001). Mammalian MAP kinase signalling cascades. Nature,
+410(6824), 37.
+Chartoumpekis, D. V., Habeos, I. G., Ziros, P. G., Psyrogiannis, A. I., Kyriazopoulou, V.
+E., & Papavassiliou, A. G. (2011). Brown adipose tissue responds to cold and adrenergic
+stimulation by induction of FGF21. Molecular medicine, 17(7-8), 736.
+Coste, A., Louet, J.F., Lagouge, M., Lerin, C., Antal, M.C., Meziane, H., Schoonjans, K.,
+Puigserver, P., O'Malley, B.W. and Auwerx, J. (2008). The genetic ablation of SRC-3
+protects against obesity and improves insulin sensitivity by reducing the acetylation of
+PGC-1α. Proceedings of the national academy of sciences, 105(44), 17187-17192.
+Cypess, A.M., Lehman, S., Williams, G., Tal, I., Rodman, D., Goldfine, A.B., Kuo, F.C.,
+Palmer, E.L., Tseng, Y.H., Doria, A. and Kolodny, G.M. (2009). Identification and
+importance of brown adipose tissue in adult humans. New England Journal of Medicine,
+360(15), 1509-1517.
+Davies, K.M., Strauss, M., Daum, B., Kief, J.H., Osiewacz, H.D., Rycovska, A.,
+Zickermann, V. and Kühlbrandt, W. (2011). Macromolecular organization of ATP synthase
+and complex I in whole mitochondria. Proceedings of the National Academy of Sciences,
+108(34), 14121-14126.
+Dudkina, N. V., Heinemeyer, J., Keegstra, W., Boekema, E. J., & Braun, H. P. (2005).
+Structure of dimeric ATP synthase from mitochondria: an angular association of monomers
+induces the strong curvature of the inner membrane. FEBS letters, 579(25), 5769-5772.
+English, J. T., Patel, S. K., & Flanagan, M. J. (1973). Association of pheochromocytomas
+with brown fat tumors. Radiology, 107(2), 279-281.
+Ernster, L., & Schatz, G. (1981). Mitochondria: a historical review. J Cell Biol, 91(3),
+227s-255s.
+Foellmi-Adams, L. A., Wyse, B. M., Herron, D., Nedergaard, J., & Kletzien, R. F. (1996).
+Induction of uncoupling protein in brown adipose tissue: synergy between norepinephrine
+and pioglitazone, an insulin-sensitizing agent. Biochemical pharmacology, 52(5), 693-701.
+Galic, S., Oakhill, J. S., & Steinberg, G. R. (2010). Adipose tissue as an endocrine organ.
+Molecular and cellular endocrinology, 316(2), 129-139.
+
+49
+
+Geer, E. B., & Shen, W. (2009). Gender differences in insulin resistance, body
+composition, and energy balance. Gender medicine, 6, 60-75.
+Geloen, A., Collet, A. J., Guay, G., & Bukowiecki, L. J. (1988). Beta-adrenergic
+stimulation of brown adipocyte proliferation. American Journal of Physiology-Cell
+Physiology, 254(1), C175-C182.
+Gomes, L. C., Di Benedetto, G., & Scorrano, L. (2011). During autophagy mitochondria
+elongate, are spared from degradation and sustain cell viability. Nature cell biology, 13(5),
+589.
+Gray, M. W. (2017). Lynn Margulis and the endosymbiont hypothesis: 50 years later.
+Molecular biology of the cell, 28(10), 1285-1287.
+Gray, M. W., & Doolittle, W. F. (1982). Has the endosymbiont hypothesis been proven?.
+Microbiological Reviews, 46(1), 1.
+Gray, S., Feinberg, M.W., Hull, S., Kuo, C.T., Watanabe, M., Sen, S., DePina, A., Haspel,
+R. and Jain, M.K. (2002). The Kruppel-like factor KLF15 regulates the insulin-sensitive
+glucose transporter GLUT4. Journal of Biological Chemistry.
+Hackenbrock, C. R. (1966). Ultrastructural bases for metabolically linked mechanical
+activity in mitochondria: I. Reversible ultrastructural changes with change in metabolic
+steady state in isolated liver mitochondria. The Journal of cell biology, 30(2), 269-297.
+Hallberg, M., Morganstein, D.L., Kiskinis, E., Shah, K., Kralli, A., Dilworth, S.M., White,
+R., Parker, M.G. and Christian, M. (2008). A functional interaction between RIP140 and
+PGC-1α regulates the expression of the lipid droplet protein CIDEA. Molecular and
+cellular biology, 28(22), 6785-6795.
+Handschin, C., Rhee, J., Lin, J., Tarr, P. T., & Spiegelman, B. M. (2003). An autoregulatory
+loop controls peroxisome proliferator-activated receptor γ coactivator 1α expression in
+muscle. Proceedings of the national academy of sciences, 100(12), 7111-7116.
+Harms, M., & Seale, P. (2013). Brown and beige fat: development, function and
+therapeutic potential. Nature medicine, 19(10), 1252.
+Herzig, S., Long, F., Jhala, U.S., Hedrick, S., Quinn, R., Bauer, A., Rudolph, D., Schutz,
+G., Yoon, C., Puigserver, P. and Spiegelman, B. (2001). CREB regulates hepatic
+gluconeogenesis through the coactivator PGC-1. Nature, 413(6852), 179.
+Himms-Hagen, J., Melnyk, A., Zingaretti, M. C., Ceresi, E., Barbatelli, G., & Cinti, S.
+(2000). Multilocular fat cells in WAT of CL-316243-treated rats derive directly from white
+adipocytes. American Journal of Physiology-Cell Physiology, 279(3), C670-C681.
+Hondares, E., Iglesias, R., Giralt, A., Gonzalez, F. J., Giralt, M., Mampel, T., & Villarroya,
+F. (2011). Thermogenic activation induces FGF21 expression and release in brown adipose
+tissue. Journal of Biological Chemistry, jbc-M110.
+Hotamisligil, G. S., Shargill, N. S., & Spiegelman, B. M. (1993). Adipose expression of
+tumor necrosis factor-alpha: direct role in obesity-linked insulin resistance. Science,
+259(5091), 87-91.
+
+50
+
+Huttunen, P., Hirvonen, J., & Kinnula, V. (1981). The occurrence of brown adipose tissue
+in outdoor workers. European journal of applied physiology and occupational physiology,
+46(4), 339-345.
+Irving, L., & Hart, J. S. (1957). The metabolism and insulation of seals as bare-skinned
+mammals in cold water. Canadian Journal of Zoology, 35(4), 497-511.
+Ishii, K.A., Fumoto, T., Iwai, K., Takeshita, S., Ito, M., Shimohata, N., Aburatani, H.,
+Taketani, S., Lelliott, C.J., Vidal-Puig, A. and Ikeda, K. (2009). Coordination of PGC-1β
+and iron uptake in mitochondrial biogenesis and osteoclast activation. Nature medicine,
+15(3), 259.
+Jäger, S., Handschin, C., Pierre, J. S., & Spiegelman, B. M. (2007). AMP-activated protein
+kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1α.
+Proceedings of the National Academy of Sciences, 104(29), 12017-12022.
+Jonckheere, A. I., Smeitink, J. A., & Rodenburg, R. J. (2012). Mitochondrial ATP synthase:
+architecture, function and pathology. Journal of inherited metabolic disease, 35(2),
+211-225.
+Jornayvaz, F. R., & Shulman, G. I. (2010). Regulation of mitochondrial biogenesis. Essays
+in biochemistry, 47, 69-84.
+Kajimura, S., Seale, P., Tomaru, T., Erdjument-Bromage, H., Cooper, M.P., Ruas, J.L.,
+Chin, S., Tempst, P., Lazar, M.A. and Spiegelman, B.M. (2008). Regulation of the brown
+and white fat gene programs through a PRDM16/CtBP transcriptional complex. Genes &
+development, 22(10), 1397-1409.
+Karamanlidis, G., Karamitri, A., Docherty, K., Hazlerigg, D. G., & Lomax, M. A. (2007).
+C/EBPβ reprograms white 3T3-L1 preadipocytes to a brown adipocyte pattern of gene
+expression. Journal of Biological Chemistry, 282(34), 24660-24669.
+Karsenty, G., & Wagner, E. F. (2002). Reaching a genetic and molecular understanding of
+skeletal development. Developmental cell, 2(4), 389-406.
+Katzmarzyk, P.T., Bray, G.A., Greenway, F.L., Johnson, W.D., Newton Jr, R.L., Ravussin,
+E., Ryan, D.H., Smith, S.R. and Bouchard, C. (2009). Racial differences in abdominal
+depot–specific adiposity in white and African American adults–. The American journal of
+clinical nutrition, 91(1), 7-15.
+Kawai, M., & Rosen, C. J. (2010). PPARγ: a circadian transcription factor in adipogenesis
+and osteogenesis. Nature Reviews Endocrinology, 6(11), 629.
+Kawai, M., Sousa, K. M., MacDougald, O. A., & Rosen, C. J. (2010). The many facets of
+PPARγ: novel insights for the skeleton. American Journal of Physiology-Endocrinology
+and Metabolism, 299(1), E3-E9.
+Kennedy, G. C. (1953). The role of depot fat in the hypothalamic control of food intake in
+the rat. Proc. R. Soc. Lond. B, 140(901), 578-592.
+
+51
+
+Kleiner, S., Douris, N., Fox, E.C., Mepani, R.J., Verdeguer, F., Wu, J., Kharitonenkov, A.,
+Flier, J.S., Maratos-Flier, E. and Spiegelman, B.M. (2012). FGF21 regulates PGC-1α and
+browning of white adipose tissues in adaptive thermogenesis. Genes & development,
+26(3), 271-281.
+Kong, Y.Y., Feige, U., Sarosi, I., Bolon, B., Tafuri, A., Morony, S., Capparelli, C., Li, J.,
+Elliott, R., McCabe, S. and Wong, T. (1999). Activated T cells regulate bone loss and joint
+destruction in adjuvant arthritis through osteoprotegerin ligand. Nature, 402(6759), 304.
+Kong, Y.Y., Yoshida, H., Sarosi, I., Tan, H.L., Timms, E., Capparelli, C., Morony, S.,
+Oliveira-dos-Santos, A.J., Van, G., Itie, A. and Khoo, W. (1999). OPGL is a key regulator
+of osteoclastogenesis, lymphocyte development and lymph-node organogenesis. Nature,
+397(6717), 315.
+Kwak, H.B., Lee, S.W., Jin, H.M., Ha, H., Lee, S.H., Takeshita, S., Tanaka, S., Kim, H.M.,
+Kim, H.H. and Lee, Z.H. (2005). Monokine induced by interferon-γ is induced by receptor
+activator of nuclear factor κB ligand and is involved in osteoclast adhesion and migration.
+Blood, 105(7), 2963-2969.
+Larsen, S., Nielsen, J., Hansen, C.N., Nielsen, L.B., Wibrand, F., Stride, N., Schroder,
+H.D., Boushel, R., Helge, J.W., Dela, F. and Hey‐Mogensen, M. (2012). Biomarkers of
+mitochondrial content in skeletal muscle of healthy young human subjects. The Journal of
+physiology, 590(14), 3349-3360.
+Lee, J.Y., Takahashi, N., Yasubuchi, M., Kim, Y.I., Hashizaki, H., Kim, M.J., Sakamoto, T.,
+Goto, T. and Kawada, T. (2011). Triiodothyronine induces UCP-1 expression and
+mitochondrial biogenesis in human adipocytes. American Journal of Physiology-Cell
+Physiology, 302(2), C463-C472.
+Lee, M. J., Wu, Y., & Fried, S. K. (2013). Adipose tissue heterogeneity: implication of
+depot differences in adipose tissue for obesity complications. Molecular aspects of
+medicine, 34(1), 1-11.
+Lee, Y. H., Petkova, A. P., Mottillo, E. P., & Granneman, J. G. (2012). In vivo
+identification of bipotential adipocyte progenitors recruited by β3-adrenoceptor activation
+and high-fat feeding. Cell metabolism, 15(4), 480-491.
+Lerin, C., Rodgers, J. T., Kalume, D. E., Kim, S. H., Pandey, A., & Puigserver, P. (2006).
+GCN5 acetyltransferase complex controls glucose metabolism through transcriptional
+repression of PGC-1α. Cell metabolism, 3(6), 429-438.
+Li, J., Sarosi, I., Yan, X.Q., Morony, S., Capparelli, C., Tan, H.L., McCabe, S., Elliott, R.,
+Scully, S., Van, G. and Kaufman, S. (2000). RANK is the intrinsic hematopoietic cell
+surface receptor that controls osteoclastogenesis and regulation of bone mass and calcium
+metabolism. Proceedings of the National Academy of Sciences, 97(4), 1566-1571.
+Li, X., Monks, B., Ge, Q., & Birnbaum, M. J. (2007). Akt/PKB regulates hepatic
+metabolism by directly inhibiting PGC-1α transcription coactivator. Nature, 447(7147),
+1012.
+Liu, J., Li, J., Li, W. J., & Wang, C. M. (2013). The role of uncoupling proteins in diabetes
+mellitus. Journal of diabetes research, 2013.
+52
+
+Lomaga, M.A., Yeh, W.C., Sarosi, I., Duncan, G.S., Furlonger, C., Ho, A., Morony, S.,
+Capparelli, C., Van, G., Kaufman, S. and Van Der Heiden, A. (1999). TRAF6 deficiency
+results in osteopetrosis and defective interleukin-1, CD40, and LPS signaling. Genes &
+development, 13(8), 1015-1024.
+López, M., Varela, L., Vázquez, M.J., Rodríguez-Cuenca, S., González, C.R., Velagapudi,
+V.R., Morgan, D.A., Schoenmakers, E., Agassandian, K., Lage, R. and De Morentin,
+P.B.M. (2010). Hypothalamic AMPK and fatty acid metabolism mediate thyroid regulation
+of energy balance. Nature medicine, 16(9), 1001.
+Louet, J. F., & O'Malley, B. W. (2007). Coregulators in adipogenesis: what could we learn
+from the SRC (p160) coactivator family?. Cell Cycle, 6(20), 2448-2452.
+Lowell, B. B., & Spiegelman, B. M. (2000). Towards a molecular understanding of
+adaptive thermogenesis. Nature, 404(6778), 652.
+Maruyama, K., Takada, Y., Ray, N., Kishimoto, Y., Penninger, J. M., Yasuda, H., &
+Matsuo, K. (2006). Receptor activator of NF-κB ligand and osteoprotegerin regulate
+proinflammatory cytokine production in mice. The Journal of Immunology, 177(6),
+3799-3805.
+Matsumoto, M., Sudo, T., Saito, T., Osada, H., & Tsujimoto, M. (2000). Involvement of
+p38 mitogen-activated protein kinase signaling pathway in osteoclastogenesis mediated by
+receptor activator of NF-κB ligand (RANKL). Journal of Biological Chemistry, 275(40),
+31155-31161.
+Mizuno, A., Amizuka, N., Irie, K., Murakami, A., Fujise, N., Kanno, T., Sato, Y.,
+Nakagawa, N., Yasuda, H., Mochizuki, S.I. and Gomibuchi, T. (1998). Severe osteoporosis
+in mice lacking osteoclastogenesis inhibitory factor/osteoprotegerin. Biochemical and
+biophysical research communications, 247(3), 610-615.
+Molina, A.J., Wikstrom, J.D., Stiles, L., Las, G., Mohamed, H., Elorza, A., Walzer, G.,
+Twig, G., Katz, S., Corkey, B.E. and Shirihai, O.S. (2009). Mitochondrial networking
+protects beta cells from nutrient induced apoptosis. Diabetes.
+Molina, Patricia E. Fisiologia Endócrina-4. AMGH Editora, 2014
+Mori, T., Sakaue, H., Iguchi, H., Gomi, H., Okada, Y., Takashima, Y., Nakamura, K.,
+Nakamura, T., Yamauchi, T., Kubota, N. and Kadowaki, T. (2005). Role of Krüppel-like
+factor 15 (KLF15) in transcriptional regulation of adipogenesis. Journal of Biological
+Chemistry, 280(13), 12867-12875.
+Mozaffarian, D, Benjamin, EJ, Go, AS, Arnett, DK, Blaha, MJ, Cushman, M, Das, SR, De
+Ferranti, S, Després, JP, Fullerton, HJ, Howard, VJ, Huffman, MD, Isasi, CR, Jiménez,
+MC, Judd, SE, Kissela, BM, Lichtman, JH, Lisabeth, LD, Liu, S, MacKey, RH, Magid,
+DJ, McGuire, DK, Mohler, ER, Moy, CS, Muntner, P, Mussolino, ME, Nasir, K, Neumar,
+RW, Nichol, G, Palaniappan, L, Pandey, DK, Reeves, MJ, Rodriguez, CJ, Rosamond, W,
+Sorlie, PD, Stein, J, Towfighi, A, Turan, TN, Virani, SS, Woo, D, Yeh, RW & Turner, MB.
+(2016). Heart disease and stroke statistics-2016 update: A Report from the American Heart
+Association. Circulation, 133(4):447-454
+Nelson, D. L. and Cox, M. M. Lehninger Principles of Biochemistry. 5th edition, W.H.
+Freeman and company, New York. 616, 620-630, 649-656, 710-720, 722-731, 736.
+53
+
+Nelson, R. A. (1973, October). Winter sleep in the black bear. A physiologic and metabolic
+marvel. In Mayo Clinic Proceedings (Vol. 48, No. 10, p. 733).
+Oishi, Y., Manabe, I., Tobe, K., Tsushima, K., Shindo, T., Fujiu, K., Nishimura, G.,
+Maemura, K., Yamauchi, T., Kubota, N. and Suzuki, R. (2005). Krüppel-like transcription
+factor KLF5 is a key regulator of adipocyte differentiation. Cell metabolism, 1(1), 27-39.
+Okamura, M., Kudo, H., Wakabayashi, K.I., Tanaka, T., Nonaka, A., Uchida, A., Tsutsumi,
+S., Sakakibara, I., Naito, M., Osborne, T.F. and Hamakubo, T. (2009). COUP-TFII acts
+downstream of Wnt/β-catenin signal to silence PPARγ gene expression and repress
+adipogenesis. Proceedings of the National Academy of Sciences, 106(14), 5819-5824.
+Organização Mundial da Saúde - World Health Organization | Obesity and overweight http://www.who.int/mediacentre/factsheets/fs311/en/ - 2017, outubro, 10 - acesso: 12 de
+março de 2018.
+Osako, M.K., Nakagami, H., Koibuchi, N., Shimizu, H., Nakagami, F., Koriyama, H.,
+Shimamura, M., Miyake, T., Rakugi, H. and Morishita, R. (2010). Estrogen Inhibits
+Vascular Calcification via Vascular RANKL SystemNovelty and Significance: Common
+Mechanism of Osteoporosis and Vascular Calcification. Circulation Research, 107(4),
+466-475.
+Picard, F., Géhin, M., Annicotte, J.S., Rocchi, S., Champy, M.F., O'Malley, B.W.,
+Chambon, P. and Auwerx, J. (2002). SRC-1 and TIF2 control energy balance between
+white and brown adipose tissues. Cell, 111(7), 931-941.
+Prestrud, P., & Nilssen, K. (1992). Fat deposition and seasonal variation in body
+composition of arctic foxes in Svalbard. The Journal of wildlife management, 221-233.
+Puigserver, P., Adelmant, G., Wu, Z., Fan, M., Xu, J., O'malley, B., & Spiegelman, B. M.
+(1999). Activation of PPARγ coactivator-1 through transcription factor docking. Science,
+286(5443), 1368-1371.
+Puigserver, P., Rhee, J., Lin, J., Wu, Z., Yoon, J.C., Zhang, C.Y., Krauss, S., Mootha, V.K.,
+Lowell B.B., & Spiegelman, B.M. (2001). Cytokine stimulation of energy expenditure
+through p38 MAP kinase activation of PPARγ coactivator-1. Molecular cell, 8(5),
+971-982.
+Puigserver, P., Wu, Z., Park, C. W., Graves, R., Wright, M., & Spiegelman, B. M. (1998).
+A cold-inducible coactivator of nuclear receptors linked to adaptive thermogenesis. Cell,
+92(6), 829-839.
+Ricquier, D., & Bouillaud, F. (2000). The uncoupling protein homologues: UCP1, UCP2,
+UCP3, StUCP and AtUCP. Biochemical Journal, 345(2), 161-179.
+Romanello, V., & Sandri, M. (2016). Mitochondria quality control and muscle mass
+maintenance. Frontiers in physiology, 6, 422.
+Rosen, E. D., & MacDougald, O. A. (2006). Adipocyte differentiation from the inside out.
+Nature reviews Molecular cell biology, 7(12), 885.
+Rosen, E. D., & Spiegelman, B. M. (2014). What we talk about when we talk about fat.
+Cell, 156(1-2), 20-44.
+54
+
+Rosenwald, M., Perdikari, A., Rülicke, T., & Wolfrum, C. (2013). Bi-directional
+interconversion of brite and white adipocytes. Nature cell biology, 15(6), 659.
+Ruocco, M.G., Maeda, S., Park, J.M., Lawrence, T., Hsu, L.C., Cao, Y., Schett, G.,
+Wagner, E.F. and Karin, M. (2005). IκB kinase (IKK) β, but not IKKα, is a critical
+mediator of osteoclast survival and is required for inflammation-induced bone loss.
+Journal of Experimental Medicine, 201(10), 1677-1687.
+Santel, A., Frank, S., Gaume, B., Herrler, M., Youle, R. J., & Fuller, M. T. (2003).
+Mitofusin-1 protein is a generally expressed mediator of mitochondrial fusion in
+mammalian cells. Journal of cell science, 116(13), 2763-2774.
+Schulz, T.J., Huang, T.L., Tran, T.T., Zhang, H., Townsend, K.L., Shadrach, J.L., Cerletti,
+M., McDougall, L.E., Giorgadze, N., Tchkonia, T. and Schrier, D. (2011). Identification of
+inducible brown adipocyte progenitors residing in skeletal muscle and white fat.
+Proceedings of the National Academy of Sciences, 108(1), 143-148.
+Seale, P., Bjork, B., Yang, W., Kajimura, S., Chin, S., Kuang, S., Scime, A., Devarakonda,
+S., Conroe, H.M., Erdjument-Bromage, H. and Tempst, P. (2008). PRDM16 controls a
+brown fat/skeletal muscle switch. Nature, 454(7207), 961.
+Seale, P., Kajimura, S., Yang, W., Chin, S., Rohas, L.M., Uldry, M., Tavernier, G., Langin,
+D. and Spiegelman, B.M. (2007). Transcriptional control of brown fat determination by
+PRDM16. Cell metabolism, 6(1), 38-54.
+Seth, A., Steel, J.H., Nichol, D., Pocock, V., Kumaran, M.K., Fritah, A., Mobberley, M.,
+Ryder, T.A., Rowlerson, A., Scott, J. and Poutanen, M. (2007). The transcriptional
+corepressor RIP140 regulates oxidative metabolism in skeletal muscle. Cell metabolism,
+6(3), 236-245.
+Shimamura, M., Nakagami, H., Osako, M.K., Kurinami, H., Koriyama, H., Zhengda, P.,
+Tomioka, H., Tenma, A., Wakayama, K. and Morishita, R. (2014). OPG/RANKL/RANK
+axis is a critical inflammatory signaling system in ischemic brain in mice. Proceedings of
+the National Academy of Sciences, 201400544.
+Simonet, W.S., Lacey, D.L., Dunstan, C.R., Kelley, M.C.M.S., Chang, M.S., Lüthy, R.,
+Nguyen, H.Q., Wooden, S., Bennett, L., Boone, T. and Shimamoto, G. (1997).
+Osteoprotegerin: a novel secreted protein involved in the regulation of bone density. Cell,
+89(2), 309-319.
+Southgate, R.J., Bruce, C.R., Carey, A.L., Steinberg, G.R., Walder, K., Monks, R., Watt,
+M.J., Hawley, J.A., Birnbaum, M.J. and Febbraio, M.A. (2005). PGC-1α gene expression
+is down-regulated by Akt-mediated phosphorylation and nuclear exclusion of FoxO1 in
+insulin-stimulated skeletal muscle. The FASEB journal, 19(14), 2072-2074.
+Strauss, M., Hofhaus, G., Schröder, R. R., & Kühlbrandt, W. (2008). Dimer ribbons of ATP
+synthase shape the inner mitochondrial membrane. The EMBO journal, 27(7), 1154-1160.
+Syed, F., & Khosla, S. (2005). Mechanisms of sex steroid effects on bone. Biochemical
+and biophysical research communications, 328(3), 688-696.
+Symonds, M. E. (2013). Brown adipose tissue growth and development. Scientifica, 2013.
+55
+
+Tai, T.A.C., Jennermann, C., Brown, K.K., Oliver, B.B., MacGinnitie, M.A., Wilkison,
+W.O., Brown, H.R., Lehmann, J.M., Kliewer, S.A., Morris, D.C. and Graves, R.A. (1996).
+Activation of the nuclear receptor peroxisome proliferator-activated receptor γ promotes
+brown adipocyte differentiation. Journal of Biological Chemistry, 271(47), 29909-29914.
+Tamori, Y., Masugi, J., Nishino, N., & Kasuga, M. (2002). Role of peroxisome
+proliferator-activated receptor-γ in maintenance of the characteristics of mature 3T3-L1
+adipocytes. Diabetes, 51(7), 2045-2055.
+Tanaka, T., Yoshida, N., Kishimoto, T., & Akira, S. (1997). Defective adipocyte
+differentiation in mice lacking the C/EBPβ and/or C/EBPδ gene. The EMBO journal,
+16(24), 7432-7443.
+Trayhurn, P., Richard, D., Jennings, G., & Ashwell, M. (1983). Adaptive changes in the
+concentration of the mitochondrial ‘uncoupling’protein in brown adipose tissue of
+hamsters acclimated at different temperatures. Bioscience reports, 3(12), 1077-1084.
+Tsuda, E., Goto, M., Mochizuki, S. I., Yano, K., Kobayashi, F., Morinaga, T., & Higashio,
+K. (1997). Isolation of a novel cytokine from human fibroblasts that specifically inhibits
+osteoclastogenesis. Biochemical and biophysical research communications, 234(1),
+137-142.
+Twig, G., Elorza, A., Molina, A.J., Mohamed, H., Wikstrom, J.D., Walzer, G., Stiles, L.,
+Haigh, S.E., Katz, S., Las, G. and Alroy, J. (2008). Fission and selective fusion govern
+mitochondrial segregation and elimination by autophagy. The EMBO journal, 27(2),
+433-446.
+Uldry, M., Yang, W., St-Pierre, J., Lin, J., Seale, P., & Spiegelman, B. M. (2006).
+Complementary action of the PGC-1 coactivators in mitochondrial biogenesis and brown
+fat differentiation. Cell metabolism, 3(5), 333-341.
+Vitali, A., Murano, I., Zingaretti, M. C., Frontini, A., Ricquier, D., & Cinti, S. (2012). The
+adipose organ of obesity-prone C57BL/6J mice is composed of mixed white and brown
+adipocytes. Journal of lipid research, jlr-M018846.
+Wada, T., & Penninger, J. M. (2004). Mitogen-activated protein kinases in apoptosis
+regulation. Oncogene, 23(16), 2838.
+Wiegand, G., & Remington, S. J. (1986). Citrate synthase: structure, control, and
+mechanism. Annual review of biophysics and biophysical chemistry, 15(1), 97-117.
+Wong, B.R., Rho, J., Arron, J., Robinson, E., Orlinick, J., Chao, M., Kalachikov, S.,
+Cayani, E., Bartlett, F.S., Frankel, W.N. and Lee, S.Y. (1997). TRANCE is a novel ligand
+of the tumor necrosis factor receptor family that activates c-Jun N-terminal kinase in T
+cells. Journal of Biological Chemistry, 272(40), 25190-25194.
+Wozniak, S. E., Gee, L. L., Wachtel, M. S., & Frezza, E. E. (2009). Adipose tissue: the
+new endocrine organ? A review article. Digestive diseases and sciences, 54(9), 1847-1856.
+Wronska, A., & Kmiec, Z. (2012). Structural and biochemical characteristics of various
+white adipose tissue depots. Acta Physiologica, 205(2), 194-208.
+
+56
+
+Wu, J., Boström, P., Sparks, L.M., Ye, L., Choi, J.H., Giang, A.H., Khandekar, M.,
+Virtanen, K.A., Nuutila, P., Schaart, G. and Huang, K. (2012). Beige adipocytes are a
+distinct type of thermogenic fat cell in mouse and human. Cell, 150(2), 366-376.
+Wu, J., Srinivasan, S. V., Neumann, J. C., & Lingrel, J. B. (2005). The KLF2 transcription
+factor does not affect the formation of preadipocytes but inhibits their differentiation into
+adipocytes. Biochemistry, 44(33), 11098-11105.
+Yasuda, H., Shima, N., Nakagawa, N., Yamaguchi, K., Kinosaki, M., Mochizuki, S.I.,
+Tomoyasu, A., Yano, K., Goto, M., Murakami, A. and Tsuda, E. (1998). Osteoclast
+differentiation factor is a ligand for osteoprotegerin/osteoclastogenesis-inhibitory factor
+and is identical to TRANCE/RANKL. Proceedings of the National Academy of Sciences,
+95(7), 3597-3602.
+Yeh, W. C., Cao, Z., Classon, M., & McKnight, S. L. (1995). Cascade regulation of
+terminal adipocyte differentiation by three members of the C/EBP family of leucine zipper
+proteins. Genes & development, 9(2), 168-181.
+Zhang, Y., Proenca, R., Maffei, M., Barone, M., Leopold, L., & Friedman, J. M. (1994).
+Positional cloning of the mouse obese gene and its human homologue. Nature, 372(6505),
+425.
+
+57
+
+

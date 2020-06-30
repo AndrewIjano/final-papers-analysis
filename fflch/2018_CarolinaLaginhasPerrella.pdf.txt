@@ -1,0 +1,2820 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE LETRAS MODERNAS
+
+CAROLINA LAGINHAS PERRELLA
+
+O tratamento do léxico na compreensão oral em FLE:
+as palavras que ouço, mas não escuto;
+as palavras que não ouço, mas escuto.
+
+São Paulo
+2018
+
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE LETRAS MODERNAS
+
+O tratamento do léxico na compreensão oral em FLE:
+as palavras que ouço, mas não escuto;
+as palavras que não ouço, mas escuto.
+
+CAROLINA LAGINHAS PERRELLA
+
+Trabalho de Graduação Individual apresentado
+à Área de Estudos Linguísticos, Literários e
+Tradutológicos em Francês da Faculdade de
+Filosofia, Letras e Ciências Humanas da
+Universidade de São Paulo.
+Orientador: Prof. Dr. Paulo Roberto Massaro
+
+São Paulo
+2018
+
+Escutar é mais do que ouvir.
+
+AGRADECIMENTOS
+Gostaria de agradecer, primeiramente, ao meu orientador, Paulo Roberto
+Massaro, por toda assistência, atenção e comprometimento ao longo de toda essa
+pesquisa. Seu exemplo e seus ensinamentos contribuíram de forma imensurável para
+minha formação profissional e suas palavras me motivaram não só a ir em frente e
+buscar novos desafios, mas a amar, cada vez mais, o que faço.
+Gostaria de agradecer também às professoras Vera Lúcia Marinelli e Heloísa
+Brito de Albuquerque Costa que, gentilmente, aceitaram fazer parte de minha banca
+avaliadora. A escolha, a meu ver, não poderia ter sido melhor pois, ao longo de suas
+aulas, pude não só comprovar o vasto conhecimento pedagógico que possuem, mas
+também refletir de forma mais profunda sobre os dados que já havia coletado para a
+pesquisa.
+Por fim, gostaria de agradecer aos participantes da pesquisa que, sempre muito
+dispostos e gentis, contribuíram, não só para o desenvolvimento da pesquisa mas para o
+meu próprio, como professora.
+
+RESUMO
+Tendo por objeto o tratamento cognitivo do léxico para a construção do sentido
+em tarefas de compreensão oral em francês, língua estrangeira, almejamos identificar e
+analisar as mais recorrentes estratégias de aprendizagem que o sujeito-aprendiz iniciante
+utiliza para aceder ao sentido de uma gama variada de discursos orais, desde os
+didaticamente concebidos até aos autênticos. Para tanto, tecemos uma fundamentação
+teórica em três capítulos. No primeiro, revisamos os principais estudos sobre as
+estratégias de aprendizagem em sua relação com as características individualizantes dos
+sujeitos-aprendizes. No segundo, operacionalizamos os conceitos chomskianos de
+competência e desempenho para identificar possíveis estratégias específicas ao
+desenvolvimento da compreensão oral. Em seguida, apresentamos a noção de paisagem
+sonora, a partir da qual se desenvolve uma tipologia de objetivos de escuta (LHOTE,
+1999). No terceiro, abordamos a aquisição lexical em língua materna, sobretudo no que
+diz respeito à memória e às associações para, por fim, discorrer sobre pesquisas que
+tratam do mesmo fenômeno em língua estrangeira. Adotando a perspectiva
+metodológica da pesquisa-ação, uma oficina experimental de compreensão e expressão
+orais foi então concebida pela professora em formação e gratuitamente ofertada a
+estudantes regularmente matriculados na disciplina Francês II do Bacharelado em Letras
+da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, ao
+longo do segundo semestre de 2017. Coletados por meio de registros videográficos, de
+questionários e de respostas escritas a propostas de atividades de escuta, os dados foram
+analisados de acordo com categorias inspiradas a partir da concepção teórica de
+Elisabeth Lhote (1999). Para além da discussão dos resultados que apontam para a
+necessidade de superação didática do que se convencionou denominar “escuta de
+identificação”, relacionada à estratégia de reconhecimento de unidades lexicais isoladas
+que nem sempre conduzem ao sentido do discurso, a pesquisa sublinha, em conclusão,
+as frutíferas relações entre pesquisa, prática pedagógica e postura crítico-reflexiva
+(PERRENOUD, 2002), quando ancoradas a um projeto individual de formação
+continuada, concomitante ao exercício da profissão de “professor”.
+
+Palavras-chave: Formação de professores; língua estrangeira; léxico; estratégias;
+compreensão oral
+
+SUMÁRIO
+INTRODUÇÃO
+
+1
+
+JUSTIFICATIVA
+
+4
+
+FUNDAMENTAÇÃO TEÓRICA
+
+10
+
+Capítulo 1: Um processo com foco no aprendiz
+
+11
+
+1.1 As estratégias de aprendizagem
+
+11
+
+1.2 As estratégias de aprendizagem específicas à compreensão oral
+
+16
+
+Capítulo 2: As estratégias de escuta face ao conceito de competência
+
+19
+
+Capítulo 3: O tratamento do léxico
+
+26
+
+3.1 O tratamento lexical enquanto processo cognitivo
+
+26
+
+3.2 O processo de aquisição lexical em língua estrangeira
+
+28
+
+METODOLOGIA CIENTÍFICA
+
+34
+
+ANÁLISE
+
+40
+
+DISCUSSÃO
+
+66
+
+CONCLUSÃO
+
+73
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+78
+
+ANEXOS
+
+80
+
+INTRODUÇÃO
+
+Um professor reflexivo não pára de refletir a partir do momento em que
+consegue sobreviver na sala de aula, no momento em que consegue entender
+melhor sua tarefa e em que sua angústia diminui. Ele continua progredindo
+em sua profissão mesmo quando não passa por dificuldades nem por
+situações de crise, por prazer ou porque não o pode evitar, pois a reflexão
+transformou-se em uma forma de identidade e de satisfação profissionais.
+(PERRENOUD, 2002, p. 43-44,)
+
+É comum que os professores de língua estrangeira se sintam inquietos a respeito
+da complexidade inerente à relação ensino-aprendizagem de língua estrangeira. Como
+tratar o livro didático em sala de aula? Como desenvolver um posicionamento crítico
+em relação aos princípios metodológicos que não se adequam aos públicos com os quais
+trabalhamos? O melhor caminho é adotar irrestritamente um único conjunto de
+princípios metodológicos? Como ter certeza de que as atividades didáticas aplicadas
+contribuem para o uso efetivo da língua pelosujeito-aprendiz? Qual a melhor forma de
+avaliar a progressão da aprendizagem?
+Essas inquietudes nos remetem às propostas de Perrenoud (2002), segundo as
+quais o aperfeiçoamento da prática pedagógica se encontra na dependência não só de
+conhecimentos teóricos, advindos de uma formação inicial, mas também de um projeto
+individual de formação continuada, fundamentada numa postura reflexiva constante no
+decorrer do exercício profissional.
+Nesse sentido, o professor ingressa em um ciclo permanente de formação,
+durante o qual questiona a si mesmo, tenta compreender os obstáculos que enfrentou
+para procurar proceder de maneira diferente quando se encontrar em uma situação
+semelhante, estabelece objetivos mais claros, explicita seus procedimentos e
+expectativas. A postura reflexiva não é espontaneamente construída, mas sim, é fruto do
+entrelaçamento de sua formação inicial e de sua prática em sala de aula, que lhe
+permitem assumir a autoria de suas próprias práticas pedagógicas.
+Eis por quais razões a perspectiva adotada para esse Trabalho de Graduação
+Individual é a da professora em formação inicial que sou, disposta a sempre discutir a
+experiência profissional que a cada dia construo em função das particularidades dos
+sujeitos-aprendizes: seus interesses, objetivos, necessidades e dificuldades.
+Elegemos o tratamento do léxico - pelo sujeito-aprendiz - na construção do
+sentido em compreensão oral, tanto como objeto de pesquisa, quanto como gatilho para
+1
+
+a prática reflexiva da professora em formação. Assim sendo, o objetivo geral deste
+trabalho é investigar de que formas o léxico incide sobre o funcionamento da
+compreensão oral em francês língua estrangeira (FLE), procurando identificar, para
+tanto, as mais recorrentes dificuldades de sujeitos-aprendizes de nível básico de francês,
+bem como estratégias que utilizam para enfrentá-las.
+Para atingir essa meta, pretende-se analisar um conjunto de sequências didáticas
+elaboradas pela pesquisadora, focalizadas nas competências orais e aplicadas a um
+grupo de sujeitos de pesquisa de nível A1-A2. Uma vez levantadas questões pertinentes
+ao tratamento cognitivo do léxico, pretende-se discutir a importância da tomada de
+consciência, por parte do professor, das estratégias utilizadas pelos sujeitos-aprendizes
+quando expostos a diferentes tipos de documentos sonoros (autênticos, didatizados e
+didáticos) para que, em seu futuro exercício profissional, consiga elaborar atividades de
+compreensão oral cada vez mais pertinentes em função dos diferentes perfis de seus
+alunos.
+Quanto a sua organização, o presente trabalho divide-se em cinco partes, a saber:
+Justificativa, Fundamentação Teórica, Metodologia Científica, Análise de dados e
+Discussão.
+Justificativa: Adotando uma perspectiva metametodológica, situamos os temas
+centrais desta pesquisa - a saber, o léxico e a compreensão oral -do ponto de vista da
+História das Metodologias.
+Fundamentação Teórica: No primeiro capítulo, Um processo com foco no
+aprendiz, tratamos das estratégias de aprendizagem. Primeiramente, concentramo-nos
+em explicitar quais são as diferentes estratégias de aprendizagem em língua materna,
+suas relações com outras particularidades do aprendiz para, em seguida, tratarmos das
+estratégias de aprendizagem específicas à compreensão oral, trazendo à tona o conceito
+de paisagem sonora e apresentando os diferentes objetivos de escuta segundo Lhote
+(1999). No segundo capítulo, As estratégias de escuta face ao conceito de competência,
+tratamos dos conceitos competência e desempenho, à luz de pesquisas abordando
+diferentes estratégias. No terceiro capítulo, discutimos algumas teorias sobre aquisição e
+aprendizagem do léxico tanto em língua materna quanto em língua estrangeira;
+destacando, por fim, fatores que podem favorecer o processo.
+Metodologia Científica: Parte em que serão explicitadas as escolhas
+metodológicas que orientaram a pesquisa, o contexto no qual foi desenvolvida e o perfil
+de seus participantes.
+2
+
+Análise de dados: Tomando por base tanto as respostas dos sujeitos-aprendizes
+a questionários aplicados quanto as atitudes por eles tomadas ao longo das sessões de
+uma oficina experimental, descreveremos o processo através do qual elaboramos as
+categorias de análise para, em seguida, detectar os elementos aquisicionais que
+tangenciam o tratamento do léxico na compreensão oral.
+Discussão: Valendo-nos da análise do corpus, discutiremos as perguntas de
+pesquisa em função dos objetivos deste TGI.
+
+3
+
+JUSTIFICATIVA
+
+Da memorização de listas de palavras à solução de problemas
+Ao analisar em sobrevoo a história de ensino das línguas, podemos perceber que
+nem sempre a compreensão oral ocupou um papel importante, diferentemente do léxico
+que, durante muito tempo, foi tido como elemento-chave para o bom desempenho
+linguístico em língua estrangeira. Na verdade, a importância da compreensão oral
+começou a ser apontada apenas nos anos 70, graças à introdução de documentos
+autênticos em sala de aula. Todavia, como afirma Louis Porcher "a competência de
+compreensão oral é de longe a mais difícil de ser adquirida e é, contudo, a mais
+indispensável. Seu mau domínio é angustiante e coloca o sujeito em grande insegurança
+linguística"1.
+Concordando com essa afirmação, convém assim destacar quando e como a
+compreensão oral começou a ganhar força em sala de aula e, dentro disto, quais foram
+as mudanças metodológicas ocorridas ao longo do tempo, no que diz respeito
+especificamente ao tratamento do léxico.
+Tendo em vista que as unidades lexicais são componentes fundamentais de uma
+língua e que a compreensão oral é uma das habilidades mais importantes para que haja
+comunicação, esta pesquisa se justifica na medida em que busca verificar quais são as
+estratégias de tratamento de léxico que um sujeito-aprendiz iniciante coloca em prática a
+fim de compreender um enunciado oral para, em seguida, discutir como o professor
+pode incentivá-lo a usar novas estratégias e contribuir assim para seu agir social.
+O agir social, porém, nem sempre foi uma preocupação dentro da sala de língua
+estrangeira. A designação de "Metodologia Tradicional" (MT) aborda, geralmente,
+todas as concepções teórico-metodológicas que, baseadas no ensino de línguas mortas
+como o grego e o latim, se sustentam nos métodos de "gramática-tradução" ou "leituratradução". Tendo por principal suporte de ensino o texto literário, cujo acesso se dava
+pela tradução em língua materna, para a MT, a aprendizagem da língua era
+compreendida como sinônima à identificação de sua estrutura gramatical, através do
+domínio da morfologia e sintaxe da língua estrangeira articulado à memorização do
+1
+
+PORCHER, L. Le Français langue étrangère: Émergence et enseignement d'une discipline. Paris:
+Hachette, 1995, p.45. Tradução nossa.
+
+4
+
+léxico. Entendendo por texto uma sequência de palavras, o vocabulário era
+disponibilizado pelo professor por meio de listas bilíngues de palavras que levavam à
+principal atividade nessa metodologia: a tradução. Percebe-se que, selecionado a partir
+dos textos literários clássicos, o léxico era não só objeto de memorização e ferramenta
+de tradução, mas o próprio sustentáculo dessa metodologia, centrada na competência de
+compreensão escrita.
+Conforme explicam Richards e Rodgers (1999), a partir do final do século XIX,
+o aumento do trânsito de pessoas entre os países da Europa gerou uma demanda por
+competência oral em língua estrangeira. Em resposta a essa nova necessidade, livros
+destinados ao estudo individual, com frases voltadas para a conversação, foram
+publicados. Enfatizando que a fala é a primeira forma de linguagem e não a escrita,
+especialistas começaram a se interessar sobre a forma como línguas estrangeiras eram
+ensinadas.
+Em decorrência desse processo de oposição à Metodologia Tradicional, foi
+fundada inclusive, em 1886, a Associação Internacional de Fonética que, por meio da
+elaboração de um Alfabeto Fonético Internacional, possibilitou a descrição dos sons de
+qualquer idioma com precisão. Um dos principais objetivos da Associação era, de
+acordo com os autores, melhorar o ensino de línguas modernas, e, para isso, cinco
+fatores eram defendidos: o ensino da língua falada; o treino fonético, a fim de
+estabelecer e exercitar a boa pronúncia; o ensino de gramática de modo indutivo; o uso
+de textos de conversação e diálogos para introduzir conversação coloquial e expressões
+idiomáticas; o ensino de novos significados por meio de associações dentro da própria
+língua estrangeira, em vez de associações com a língua materna.
+Richards e Rodgers explicam que os intelectuais envolvidos na busca por
+alternativas ao método gramática-tradução, embora, muitas vezes, divergissem a
+respeito dos procedimentos a serem adotados para o ensino de línguas estrangeiras,
+partilhavam ideias e princípios sobre os quais uma metodologia deveria ser baseada.
+Isso significa que já havia, nesse momento, preocupação em realizar uma abordagem
+científica do ensino, ou seja, em verificar como é o funcionamento da língua e sua
+aprendizagem para, posteriormente, desenvolver metodologias de ensino. Esses
+pesquisadores acreditavam, por exemplo, que a língua falada é primária e que isso
+deveria ser refletido em uma metodologia baseada no oral; que os sujeitos-aprendizes
+deveriam ouvir a língua antes de entrar em contato e estudar a forma escrita; as palavras
+deveriam ser apresentadas em frases, as sentenças em contextos e não como elementos
+5
+
+isolados; as regras gramaticais deveriam ser ensinadas após o sujeito-aprendiz ter
+praticado os pontos gramaticais em contexto; em suma, o ensino deveria ser feito de
+maneira dedutiva.
+A língua começa a ser concebida, assim, não mais como uma sequência de
+palavras, mas como expressão de ideias em contexto. Havendo necessidade de
+contextualizar palavras, torna-se imprescindível desenvolver competências de escuta e
+de fala.
+Pregando que significados deviam ser demonstrados e não traduzidos, incitando
+o sujeito-aprendiz a aprender a L2 sem recorrer à L1, recorrendo ao uso de desenhos,
+imagens, mímicas e ao próprio ambiente da sala de aula, os partidários dessa concepção
+fazem eclodir uma primeira revolução metodológica: a que passou a ser,
+posteriormente, designada por Metodologia Direta.
+Trata-se de uma metodologia em que as competências orais ocupam um lugar de
+destaque em relação às escritas. Objetivando a expressão oral, por meio da atenção
+sistemática à pronúncia e da repetição intensiva, o estudante era igualmente levado a
+memorizar vocabulário e estruturas gramaticais.
+Com o advento das teorias behavioristas, surge o Método Áudio-Oral, tendo por
+prioridades máximas a expressão oral e a boa pronúncia. Para isso, são realizados
+diversos exercícios de repetição e de discriminação auditiva, com auxílio de gravações
+de voz de nativos. O desenvolvimento da tecnologia contribui, portanto, para o que seria
+um primeiro esboço de atividades de compreensão oral, a partir de suportes produzidos
+fora da esfera da sala de aula, mas que objetivam o uso em sala de aula de língua
+estrangeira: os suportes didáticos.
+Apesar de haver uso de gravações em sala de aula, é importante perceber que os
+exercícios de compreensão oral não tinham como objetivo a compreensão de uma
+mensagem ou desenvolvimento de estratégias de compreensão, mas sim escutar para
+restituir a fala, em sua íntegra, priorizando a "perfeição", ou melhor, o "falar como
+nativo". As estruturas utilizadas nos diálogos gravados são reforçadas por meio de
+exercícios de substituição, transformação e repetição, a fim de automatizar as estruturas
+de base adquiridas pela escuta dos documentos sonoros. Assim sendo, o léxico é
+adquirido por exercícios repetitivos que facilitam a automatização e o reemprego em
+contextos similares.
+Segundo Germain (1993), nos princípios teóricos subjacentes à Metodologia
+Estrutural-global-áudio-visual (em francês, SGAV), a língua é concebida como um
+6
+
+meio de expressão que ganha sentido quando percebida globalmente por elementos
+sonoros e visuais. O tratamento cognitivo que conduz à compreensão oral passa por
+uma percepção global do fenômeno da fala, com seus parâmetros linguístico-estruturais,
+paralinguísticos (ritmo, timbre, entonação) e extralinguísticos (mímica, gestualidade)
+integrados.
+Em coerência com esses parâmetros teóricos, os conjuntos didáticos para o
+ensino de língua estrangeira passam a conter imagens em slides. Conforme aponta
+Germain (1993), o foco principal continua sendo a oralidade; contudo é com o SGAV
+que a compreensão oral se instaura como centro do processo de aprendizagem.
+Os diálogos apresentados ao sujeito-aprendiz eram fabricados, não autênticos,
+mas mostravam a língua em situações possíveis de uso. O léxico, portanto, é
+contextualizado nos áudios e restituído em atividades de dramatização 2.
+Ainda que reconheçamos a importância do SGAV para a evolução da Didática
+de Línguas Estrangeiras, nada pode ser comparado à reviravolta comunicativa. Antes
+vista como objeto de aprendizagem, a língua passa a ser concebida como um
+instrumento de comunicação e de interação social. De acordo com Germain (1993),
+considera-se que a língua possui aspectos linguísticos (sons, estruturas, léxico, etc) que
+constituem a competência gramatical que, por sua vez, é vista apenas como um dos
+componentes de uma competência mais global: a competência de comunicação.
+Germain explica ainda que, de acordo com Canele e Swain (1980)3, os outros
+componentes são a competência sociolinguística (que possui um componente
+sociocultural e um componente discursivo) e a competência estratégica.
+Cuq e Gruca (2005), seguindo este mesmo raciocínio, descrevem os
+componentes mobilizados pela competência de comunicação da seguinte forma:
+componente linguístico/gramatical (conhecimento de regras e estruturas gramaticais,
+fonologia,
+
+vocabulário);
+
+componente
+
+sociocultural
+
+(conhecimento
+
+de
+
+regras
+
+socioculturais de emprego da língua); componente discursivo (assegura a coesão e
+coerência dos diferentes tipos de discurso em função do contexto em que estão
+inseridos); componente estratégico (capacidade de utilizar estratégias verbais e não
+
+“Chamamos de dramatização toda interpretação, realizada pelos alunos, de um diálogo de seu método,
+seja esta interpretação fiel ao texto, ou que ela comporte algumas variantes e/ou alguns elementos de
+improvisação” (CARÉ, DEBYSER, 1978:64, apud MASSARO, 2008: 85)
+3
+CANALE, Michael; SWAIN, Merril. Theoretical bases of communicative approaches to second
+language teaching and testing. Applied Linguistics 1/1, 1980.
+2
+
+7
+
+verbais para compensar defasagens na comunicação causados por lacunas nos outros
+componentes).
+Valorizando as condições pragmáticas de uso da língua, esses quatro níveis
+passam a constituir o núcleo de todas as unidades didáticas que compõem o material
+didático. O sujeito-aprendiz deve ser capaz de adaptar os enunciados em função da
+situação de comunicação (status social dos falantes, idade, local de comunicação, etc) e
+da intenção de comunicação (pedir uma informação, fazer um convite, entre outros).
+Nesse sentido, percebe-se o núcleo central da Abordagem Comunicativa: a noção de ato
+de fala.
+Quanto aos suportes, é preciso ressaltar, no âmbito deste trabalho, que a
+Abordagem Comunicativa preza por documentos autênticos, sejam eles orais ou
+escritos: programas de rádio, entrevistas, cardápios, catálogos, entre outros.
+Quanto ao léxico, o sujeito-aprendiz o adquire por meio da própria interação
+comunicativa, inconscientemente, implicitamente ao ato de fala contextualizado.
+Levado a refletir sobre a língua, suas situações de uso e, mais do que isso, convidado a
+re-produzir cenas semelhantes às situações reais por meio de jogos de papéis4, o sujeitoaprendiz o internaliza.
+Os aspectos acima destacados revelam a outra razão pela qual a Abordagem
+Comunicativa é considerada uma segunda revolução5: o professor que exercia, até
+então, uma função central no processo de aquisição da língua, cede o seu lugar ao
+próprio sujeito-aprendiz que se lançará na interação em língua estrangeira. O professor
+passa a ser o regente de uma orquestra cujo papel é o de favorecer as interações entre os
+sujeitos-aprendizes, lhes fornecendo atividades estimulantes e repertório linguístico
+suficiente para realizá-las.
+Com o advento do Quadro Europeu Comum de Referência para as Línguas e de
+sua Abordagem Orientada para a Ação, no início dos anos 2000, os usuários de línguas,
+sejam eles aprendizes ou não, são vistos fundamentalmente como “agentes sociais”. De
+acordo com Tilda Saydı (2015), sendo um ator social, o sujeito-aprendiz é encorajado a
+usar a língua em contexto social, a fim de realizar uma ação, se envolvendo ativa e
+fisicamente na solução de um problema em língua estrangeira. A Abordagem Orientada
+“Jogo ou exercício no qual interpreta-se um certo papel social, definido amplamente: vendedor ou
+comprador – cliente, professor ou aluno, médico ou doente, garçom ou cliente consumidor, marido ou
+esposa, pai ou filho, policial ou ladrão, juiz, motorista de ônibus... (...)” (ANCELINSCHÜTZENBERGER, apud MASSARO, 2008)
+5
+Sendo a primeira, a Metodologia Direta.
+4
+
+8
+
+para a Ação almeja que o sujeito-aprendiz viva a língua; que ele seja mobilizado não só
+intelectualmente, mas também fisicamente por ela; e, não menos importante, incentiva o
+sujeito-aprendiz a lidar com discursos reais em língua estrangeira, a fim de interiorizálos através da realização de uma tarefa concreta e social.
+Assim sendo, como uma perspectiva do agir social, na Abordagem Orientada
+para a Ação, pela primeira vez, os aprendizes são pensados dentro de suas atividades
+cotidianas, do espaço e do tempo que lhes é próprio, vistos como atores sociais
+completos, enquanto que tanto as metodologias anteriores quanto a Abordagem
+Comunicativa almejavam que os alunos fossem capazes de se encontrar na sociedade,
+por si sós, ao final da aprendizagem. (Puren 2009: 123 apud Tilda Saydı p. 14-15).
+A nosso ver, convém ressaltar que o léxico é aprendido em uso social, com o
+objetivo de solucionar um problema. Se, por muito tempo, a competência em uma
+língua estrangeira estava subordinada ao domínio do léxico e à capacidade de produção
+oral na mesma, podemos perceber que, atualmente, o tratamento cognitivo do léxico
+deveria ser compreendido como uma das ferramentas para a ação social.
+
+9
+
+FUNDAMENTAÇÃO TEÓRICA
+
+10
+
+CAPÍTULO I
+
+Um processo com foco no aprendiz
+Considerando o cenário atual da didática das línguas estrangeiras, são as ações
+sociais do indivíduo que levam à aquisição/aprendizagem da língua estrangeira. Ora, se,
+de acordo com o dicionário Michaelis On-line, estratégia6, é a planificação de ações a
+fim de atingir um objetivo, torna-se possível conceber que um conjunto de operações
+cognitivas possam ser planificados de forma a atingir a realização de uma tarefa em uma
+determinada situação pedagógica.
+
+1.1 As estratégias de aprendizagem
+Cyr e Germain (1996) explicam que essas estratégias se manifestam por simples
+técnicas; são, algumas vezes, vistas como comportamentos; podem ser conscientes,
+inconscientes ou potencialmente conscientes. Além disso, a utilização das estratégias
+para favorecer o processo de aprendizagem varia em número e frequência de acordo
+com cada sujeito-aprendiz.
+De acordo com os autores, existem estratégias metacognitivas, cognitivas e
+socioafetivas. As primeiras consistem na reflexão, por parte do sujeito-aprendiz, sobre
+seu processo de aprendizagem e as condições que o favorecem, bem como sobre a
+organização de um plano de estudos, estabelecimento de objetivos e realização de
+autoavaliação.
+Cyr e Germain explicam que os sujeitos-aprendizes de nível mais avançado
+fazem maior uso das estratégias metacognitivas do que os iniciantes e precisam que as
+estratégias metacognitivas são: a antecipação/planificação (estudar por si só um aspecto
+linguístico ou tema ainda não abordado em sala de aula; previsão dos elementos
+linguísticos necessários para a realização de uma tarefa de aprendizagem ou de um ato
+de comunicação); a atenção (prestar atenção em todos os elementos linguísticos que
+possam contribuir para a aprendizagem; manter a atenção ao longo da realização de uma
+tarefa); a autogestão (o sujeito-aprendiz busca ativamente ocasiões para praticar a
+6
+
+Arte de utilizar planejadamente os recursos de que se dispõe ou de explorar de maneira vantajosa a
+situação ou as condições favoráveis de que porventura se desfrute, de modo a atingir determinados
+objetivos.
+Disponível
+em:
+https://michaelis.uol.com.br/moderno-portugues/busca/portuguesbrasileiro/estrat%C3%A9gia/ (último acesso: 05 de Julho de 2018).
+
+11
+
+língua, reserva tempo para estudar e revisar conteúdos); auto monitoramento (verificar e
+corrigir sua performance); a identificação do problema (capacidade de identificar o
+objetivo central de uma atividade); a autoavaliação (avaliar o resultado de sua
+performance linguística).
+As estratégias cognitivas, por outro lado, dizem respeito à relação do sujeitoaprendiz com o objeto de estudo que, no caso, é a língua estrangeira. Trata-se de
+procedimentos mentais, físicos e aplicação de técnicas específicas a fim de resolver um
+problema ou executar tarefas de aprendizagem. De acordo com Cyr e Germain (1996),
+as estratégias cognitivas são: memorizar (através de técnicas como repetição,
+agrupamento, contextualização, utilização de imagens, etc.); tomar notas (de palavras
+novas, conceitos, expressões); agrupar (ou seja, classificar o conteúdo aprendido de
+acordo com as características comuns a fim de facilitar sua aprendizagem, memorização
+e revisão); revisar (revisão esta que, quando feita com regularidade, permite que o
+sujeito-aprendiz esteja tão familiarizado com o conteúdo a ponto de recuperá-lo de
+forma espontânea); inferir (utilizar elementos conhecidos de um texto ou de um
+enunciado); deduzir (aplicar uma regra real ou hipotética a fim de produzir ou
+compreender a L2); traduzir/realizar comparações interlinguais; fazer associações
+intralinguais (ou seja, no interior da língua-alvo) a fim de compreender ou de produzir
+enunciados; parafrasear/reformular; resumir (uma regra ou uma informação) e praticar
+a língua (aproveitar situações e ocasiões que permitam comunicação na língua-alvo;
+repetir segmentos da língua; pensar e falar a si mesmo na língua-alvo).
+As estratégias socioafetivas, por fim, implicam numa interação com outras
+pessoas (por exemplo, locutores nativos) a fim de favorecer a apropriação da línguaalvo assim como o controle da dimensão afetiva pessoal que acompanha o processo de
+aprendizagem. Essas estratégias compreendem, por exemplo, pedidos de repetição,
+clarificação, reformulação; pedidos de avaliação de performance, entre outros.
+É possível perceber que algumas dessas estratégias são observáveis (ex.: tomada
+de notas, realização de perguntas) e outras não (ex.: inferência, comparação com a
+língua materna ou outra língua). Porém, mesmo que algumas não sejam observáveis, o
+professor pode questionar o sujeito-aprendiz sobre o que ele faz em determinada
+situação para resolver um problema de compreensão ou produção em língua estrangeira.
+Cyr e Germain (1996) apontam que as estratégias são modificáveis, ou seja, estratégias
+ineficazes podem ser alteradas ou descartadas, novas estratégias podem ser aprendidas
+e, aquelas que funcionam, podem ser adaptadas a novas situações.
+12
+
+Os autores apontam que as pesquisas que têm como objetivo examinar a relação
+de elementos pessoais ou situacionais e as estratégias de aprendizagem são escassas,
+porém, eles apresentam os resultados de alguns estudos, feitos por diferentes
+pesquisadores, que demonstram que as estratégias podem estar relacionadas à
+personalidade, a elementos de ordem biográfica, a elementos pessoais, ou até mesmo a
+elementos de ordem afetiva.
+No que diz respeito aos fatores ligados à personalidade, mais especificamente no
+que tange à tolerância à ambiguidade, Cyr e Germain (1996) citam Ely (1989)7 para
+explicar que esse fenômeno consiste na capacidade de não se sentir envergonhado,
+desconfortável ou irritado diante de informações vagas, incompletas, fragmentadas,
+incertas, inconsistentes ou aparentemente contraditórias.
+A impulsividade e a reflexão também foram estudadas e Cyr e Germain (1996)
+apontam que o sujeito reflexivo é normalmente descrito como lento e correto enquanto
+que o impulsivo é mais rápido e provavelmente mais incorreto. Contudo, pesquisas
+desenvolvidas por Oxford (1990)8 comprovam que outras combinações são possíveis
+como rápido e correto, lento e incorreto. Seus estudos demonstram ainda que uma
+preocupação muito grande com o uso correto da língua também pode ocasionar uma
+ansiedade capaz de impedir ou atrapalhar a performance.
+A extroversão e a introversão são igualmente citadas por Cyr e Germain (1996).
+Eles apontam que apenas uma pesquisa, de Ehrman e Oxford (1989)9, se dedicou a
+tentar associar esses fenômenos à escolha das estratégias de aprendizagem por parte do
+sujeito-aprendiz. Os autores concluíram que os extrovertidos tendem a usar um número
+maior de estratégias sociais e afetivas, enquanto que os introvertidos preferem
+estratégias cognitivas e metacognitivas.
+Nos fatores ligados à biografia, encontramos estudos sobre a idade, o sexo e a
+origem étnica. No que tange à idade, Cyr e Germain (1996), mencionam que duas
+pesquisas foram feitas tomando crianças como base: a de Wong-Fillmore (1976, 1979)10
+7
+
+Ely, C.M. (1989). Tolerance of ambiguity and use of second language learning strategies. Foreign
+Language Annals, 22.5, p.437-445
+8
+Oxford, R. Styles, strategies, and aptitude: Connections for language learning. In: Language, Aptitude
+Reconsidered. T.S. Parry e C.W Stansfield (dir).Englewood Cliffs, Prentice-Hall.
+9
+Ehrman, M., e R. Oxford (1989). Effects of sex differences, career choice, and psychological types on
+adult second language learning strategies. Modern Language Journal, 73.1, p. 1-13.
+10
+Wong-Fillmore, L. (1976). The Second Time Around: Cognitive ans Social Strategies in Second Language
+Acquisition. Thèse de doctorat. Stanford University. Não publicado/ Wong-Fillmore, L. (1979). Individual
+Differences In Second Language Acquisition. In: Individual Differences in Language Ability and Language
+Behavior. C.J Fillmore, W.-S.Y. Wang, e D. Kempler (dir). New York, Academic Press.
+
+13
+
+e de Chesterfield e Chesterfield (1985)11. Os resultados demonstram que as crianças
+parecem utilizar de maneira mais eficiente as estratégias ditas sociais. Por outro lado, o
+nível de consciência metalinguística e a utilização desse tipo de estratégia por esse perfil
+de sujeito-aprendiz é muito menor do que em adolescentes e adultos.
+No que diz respeito ao sexo, Cyr e Germain citam o trabalho desenvolvido por
+Ehrman e Oxford (1989)12. Os resultados obtidos pelos autores é de que as mulheres
+recorrem, em geral, a um número maior de estratégias de aprendizagem (de todos os
+tipos) do que os homens e que elas, já no que diz respeito à aprendizagem de língua
+materna, tendem a ser mais sociáveis, possuir habilidades linguísticas mais
+desenvolvidas e maior propensão a adequar-se à norma.
+Sobre a origem étnica e língua materna, Cyr e Germain, apontam que estudos de
+Politzer e McGroarty (1985)13 demonstram que estudantes asiáticos apresentam
+preferência por estratégias mnemônicas que implicam a memorização mecânica e
+aplicação de regras. Eles apresentavam resistência em abandonar suas estratégias
+habituais enquanto estudantes hispanófonos se dispunham a fazer mudanças e a
+experimentar novas estratégias.
+Nos fatores de ordem situacional, encontramos a competência do sujeito
+aprendiz. Para tratar do assunto, Cyr e Germain mencionam estudos de Chamot et coll
+(1987) em que estes constatam que a utilização de estratégias cognitivas diminui
+proporcionalmente com o tempo, enquanto que o uso de estratégias metacognitivas
+aumenta. Os iniciantes costumam se apoiar em traduções, repetições, enquanto
+sujeitos-aprendizes de nível mais avançado usam todas essas estratégias e outras, como
+inferências (Cyr e Germain, 1996, p. 91).
+Existem também fatores relacionados à afetividade que podem influenciar a
+utilização (ou não) de determinadas estratégias de aprendizagem. O primeiro fator
+citado por Cyr e Germain é a atitude e motivação e, para tratar do assunto, eles recorrem
+à pesquisa de Oxford e Nyikos (1989)14:
+
+11
+
+Chesterfield, R., e K.B. Chesterfield (1985). Natural order in children's use of second language learning
+strategies. Applied Linguistics, 6.1, p. 45-59.
+12
+Eherman, M; R. Oxford (1989). Effects of sex differences, career choice, and psychological types on
+adult second language learning strategies. Modern Language Journal, 73.1, p. 1-13.
+13
+Politzer, R. L.; M. McGroarty (1985). An exploratory study of learning behaviors and their relationship
+to gains in linguistic and communicative competence. TESOL Quarterly, 19.1, p. 103-123.
+14
+Oxford, R., e M. Nyikos (1989). Variables affecting choice of language learning strategies by university
+students. Modern Language Journal. 73.3 p.291-300
+
+14
+
+Oxford e Nyikos apontam que muitos de nós ficam tentados em estabelecer
+uma relação de causa e efeito entre a motivação e a utilização de estratégias.
+Parece óbvio que um aluno motivado utilizará frequentemente uma certa
+variedade de estratégias. Mas, na verdade, não é tão simples. Segundo as
+autoras, a motivação provoca, de fato, a utilização de estratégias. Mas, em
+determinado momento, o sucesso obtido na aprendizagem da língua,
+possibilitado graças à utilização de estratégias, proporciona ao aluno uma
+melhor visão de si mesmo que contribui para sua motivação e assim
+sucessivamente, como em um movimento em espiral. Seguindo este
+raciocínio, fica difícil saber se é a motivação que determina as estratégias ou
+o contrário. (Cyr e Germain, 1996, p. 95)
+
+As autoras observam ainda que a motivação não é um fenômeno interno, pessoal
+nem estático. A motivação é afetada por uma série de fatores externos: abordagens
+pedagógicas, práticas de avaliação, interação com colegas, exigências da instituição, etc.
+Há também fatores de ordem pessoal que podem impactar na utilização das
+estratégias de aprendizagem; a carreira ou orientação profissional é uma delas. Cyr e
+Germain (1996) explicam que Oxford e Nyikos (1989) estudaram a relação entre o
+domínio de especialização de estudantes universitários e as estratégias por eles usadas
+na aprendizagem de línguas estrangeiras. Os estudantes de ciências humanas, educação
+e ciências sociais pareciam se empenhar em procurar, fora da sala de aula,
+oportunidades para utilizar a língua-alvo em situações autênticas.
+A aptidão é outro fator levado em consideração. Cyr e Germain (1996) apontam
+que para Bialystok (1979)15, é a atitude em relação à língua-alvo e à aprendizagem, mais
+do que a aptidão, que determinam a escolha das estratégias de aprendizagem e o
+desempenho de um sujeito-aprendiz. Os autores ressaltam também que Oxford (1990)16
+afirma que as estratégias que costumam apresentar mais resultados são: perseverar na
+comunicação, mesmo sob condições adversas ou situações em que a competência
+linguística é insuficiente; prestar atenção no sentido e na estrutura da língua; conseguir
+superar as barreiras emocionais que estão atreladas ao processo de aprendizagem de
+uma língua estrangeira.
+
+15
+
+Bialystok, E. (1979). The role of conscious strategies in second language proficiency. Revue canadienne
+des langues vivantes, 35, p. 372-366.
+16
+Oxford, R. Styles, strategies, and aptitude: Connections for language learning. In: Language, Aptitude
+Reconsidered. T.S. Parry e C.W Stansfield (dir).Englewood Cliffs, Prentice-Hall.
+
+15
+
+Apesar de haver estudos relevantes a respeito das estratégias de aprendizagem e
+sua relação com as características dos sujeitos-aprendizes, parece que há maior interesse
+em traçar as características dos sujeitos-aprendizes com bom desempenho. Cyr e
+Germain (1996) explicam que para Stern (1975)17 e para Rubin (1975)18, um bom
+sujeito-aprendiz é aquele que adota uma posição ativa em seu aprendizado: busca e
+aproveita situações em que pode aprender; estabelece objetivos e adota um programa.
+Além disso, tem consciência de que a língua estrangeira é um sistema a ser descoberto
+e, eventualmente, faz referências à língua materna ou a outra língua, por meio de
+comparações, por exemplo. Busca também analisar a língua-alvo e fazer deduções sobre
+ela; estabelecer relações entre aquilo que aprende e aquilo que já aprendeu.
+O bom sujeito-aprendiz reconhece que a língua-alvo é um instrumento de
+comunicação e procura situações em que pode praticar a língua em situação natural.
+Sempre atento, utiliza o contexto e os gestos a fim de adivinhar ou deduzir o sentido dos
+enunciados e, quando necessário, utiliza estratégias compensatórias como paráfrases,
+gestos ou palavras de outras línguas.
+Esse aprendiz com bom desempenho sabe, de acordo com Stern e Rubin, levar
+em consideração a dimensão afetiva inerente à aprendizagem de uma língua estrangeira:
+é capaz de tolerar o sentimento de frustração e desorientação que geralmente
+acompanham as primeiras fases da aprendizagem de uma língua estrangeira e não tem
+medo de errar.
+Por fim, ele vigia sua performance: se preocupa com o registro de língua; se
+corrige; avalia suas performances.
+Com base nessas informações a respeito das estratégias de aprendizagem e as
+particularidades dos sujeitos-aprendizes, percebemos que as características individuais
+se sobrepõem, em simultaneidade, às estratégias de aprendizagem. Não é possível
+desvincular fatores (sobretudo afetivos) advindos da “personalidade” /“identidade” do
+aprendiz de fatores cognitivos advindos das estratégias de aprendizagem. Por essa
+razão, o professor precisa estar atento às características de suas turmas, suas
+dificuldades, as estratégias que costumam colocar em prática para só então elaborar suas
+sequências.
+1.2. As estratégias de aprendizagem específicas à compreensão oral
+17
+
+Stern, H. H (1975). What can we learn from the good language learner?. Revue canadienne des
+langues vivantes
+18
+Rubin, J. (1975) What the good language learner can teach us. TESOL. Quaterly, 9.1, p. 41-51.
+
+16
+
+Se na vida cotidiana, os ouvintes estabelecem objetivos de escuta e colocam em
+prática diferentes tipos de escuta inconscientemente, o mesmo ocorre em situações de
+ensino-aprendizagem. Por outro lado, é importante que o aprendiz-ouvinte esteja
+consciente dos objetivos a fim de colocar em prática tipos de escuta variados e
+estratégias diversificadas para construir o sentido da mensagem. Cabe ao professor,
+como já mencionamos anteriormente, estimular o comportamento e estratégias de
+compreensão para desenvolver a competência de compreensão oral de maneira ativa,
+visando que o sujeito-aprendiz se torne autônomo no processo de aprendizagem.
+Pensando no papel do professor para o desenvolvimento dessas estratégias,
+Daniel Gaonac’h (1990) explica que progredir em compreensão oral não significa
+apenas desenvolver habilidades de reconhecimento/discriminação de sons. Esta
+capacidade é, certamente, necessária, mas é apenas um componente de um processo
+mais complexo. O autor explica que o aumento dos saberes acumulados pelo aprendiz
+em compreensão oral não aumentarão apenas por meio de sua exposição a documentos
+sonoros. É necessário que o professor estimule suas turmas a utilizar seus
+conhecimentos prévios e os adquiridos em sala de aula em situações variadas de
+compreensão; contudo, existem atividades de outras naturezas que podem contribuir
+para o aperfeiçoamento da compreensão oral. O autor dá um exemplo interessante, o do
+jogador de tênis: existem determinados exercícios e atividades que compõem o treino de
+um atleta que não dizem respeito ao desenvolvimento de técnicas para o jogo
+propriamente dito, mas que contribuem, igualmente, para um bom desempenho em
+quadra, como assistir ao jogo de seu último adversário, correr para desenvolver
+resistência física, etc.
+Nesse sentido, Lhote (1999) desenvolve um conceito que, a nosso ver, se
+estabelece como central: o de paisagem sonora. Trata-se da capacidade que o sujeitoaprendiz possui de identificar melodias, grupos rítmicos, sílabas tônicas, ênfases em
+uma língua estrangeira, mesmo quando se trata de uma língua em que é iniciante - ou,
+inclusive, que desconhece- devido a sua competência em língua materna.
+É possível afirmar, portanto, que a dificuldade ligada à forma auditiva se
+relaciona à percepção auditiva, uma vez que o ouvinte percebe apenas aquilo que
+aprendeu a perceber. A percepção auditiva possui relação com as experiências do
+ouvinte, sua memória, sua atitude e ela evolui à medida que se domina o sistema
+fonológico e que outras competências são desenvolvidas, mas alguns recursos
+17
+
+empregados em sala de aula podem ajudar a contornar essas dificuldades relacionadas à
+percepção. Cuq e Gruca (2005) falam, por exemplo, da necessidade de treinar o ouvido:
+
+Abordagens podem ser colocadas em prática em função de uma pedagogia da
+escuta com o único objetivo de treinar o ouvido dos alunos: o
+reconhecimento de vozes, o número de locutores, a identificação de pausas,
+etc., são alguns dos elementos que não estão diretamente ligados ao conteúdo
+informativo, mas que permitem escutar e perceber o oral em sua própria
+materialidade. Essa etapa, apesar de realizada sem verdadeiro objetivo de
+compreensão, pode, porém, revelar elementos de informação que não podem
+ser negligenciados. (CUQ, GRUCA, 2005, p. 161)
+
+A percepção desses elementos possibilita, por exemplo, a formulação de
+hipóteses, e a relação entre eles, somada ao conhecimento prévio do ouvinte, podem
+contribuir para a construção do sentido global da mensagem a partir do momento em
+que se possui consciência dos objetivos a serem atingidos durante a escuta. Elisabeth
+Lhote (1999) elenca uma série de objetivos que devem ser levados em consideração no
+momento da compreensão oral: escutar para ouvir; escutar para detectar; escutar para
+selecionar; escutar para identificar; escutar para reconhecer; escutar para identificar
+ambiguidades; escutar para reformular; escutar para sintetizar; escutar para fazer;
+escutar para julgar.
+A autora identifica ainda cinco tipos de escuta: a escuta global que diz respeito à
+capacidade de compreender o tema geral do texto sem atribuir importância aos detalhes;
+a escuta de vigília que diz respeito à escuta feita de maneira inconsciente, que não tem
+como objetivo a compreensão efetiva da mensagem; a escuta seletiva (escuta que
+privilegiamos quando queremos uma informação precisa no texto); a escuta de análise
+que consiste na análise minuciosa do conteúdo da mensagem (sua duração é variável e
+exaustiva, pois o ouvinte pode ouvir quantas vezes precisar ou achar necessário, bem
+como solicitar as repetições, sempre que possível); escuta sintética que consiste na
+retirada das informações principais da mensagem a fim de realizar, por exemplo, um
+resumo, uma discussão em grupo, atividades escritas.
+
+18
+
+CAPÍTULO II
+
+As estratégias de escuta face ao conceito de competência
+Utilizado em diversas áreas do conhecimento, o termo competência, em senso
+comum, significa a habilidade que um determinado indivíduo possui para realizar
+determinada tarefa. Devido à natureza dessa pesquisa, centraremo-nos, sobretudo, nas
+definições concernentes à linguagem.
+De acordo com Margarida Petter (2012), a noção de competência linguística, foi
+amplamente estudada por Noam Chomsky, que a define como:
+
+(...) porção do conhecimento do sistema linguístico do falante que lhe permite
+produzir o conjunto de sentenças de sua língua; é um conjunto de regras que
+o falante construiu em sua mente pela aplicação de sua capacidade inata para
+a aquisição da linguagem aos dados linguísticos que ouviu durante a infância.
+(PETTER, 2012, p. 15)
+
+Sendo assim, segundo Chomsky, competência linguística relaciona-se com
+criatividade linguística, ou seja, a capacidade que o falante-ouvinte tem de produzir e
+entender sentenças originais. Contudo, ainda segundo Petter, Chomsky distingue o
+conceito de competência da noção de desempenho, definido como:
+
+[...] um comportamento linguístico, que resulta não somente da competência
+linguística do falante, mas também de fatores não linguísticos de ordem
+variada, como convenções sociais, crenças, atitudes, etc., de um lado; e, de
+outro, o funcionamento dos mecanismos psicológicos e fisiológicos
+envolvidos na produção dos enunciados. O desempenho pressupõe a
+competência, ao passo que a competência não pressupõe desempenho.
+(PETTER, 2012, p. 15)
+
+Em outras palavras, se o desempenho é resultado não apenas da competência
+linguística, mas também de atitudes, mecanismos psicológicos e outros fatores,
+podemos admitir que, no âmbito da compreensão oral em língua estrangeira, o
+desempenho linguístico está subordinado a diversos fatores como, por exemplo, da
+
+19
+
+maior ou menor familiarização do sujeito aprendiz com o tema abordado no discurso do
+outro enunciador.
+De acordo com o Quadro Europeu Comum de Referência para as Línguas
+(CONSELHO DA EUROPA, 2001), a noção de competência é dividida em
+competências gerais individuais e competências comunicativas em línguas, em busca de
+abarcar todos os diversos fatores que a compõem.
+As competências gerais individuais incluem o conhecimento declarativo, que diz
+respeito ao conhecimento de mundo e sociocultural do indivíduo; as capacidades e as
+competências de realização, que dizem respeito a conhecimentos adquiridos, passíveis
+de serem esquecidos; a competência existencial, que é entendida como os traços de
+personalidade do indivíduo, podendo estar relacionada, por exemplo, com crenças e
+cultura, que devem ser levados em conta no momento da aprendizagem e ensino de
+línguas. Por fim, há a competência de aprendizagem, tida como a disposição a participar
+de novas experiências, descobrir o outro, tomar iniciativas.
+As competências comunicativas, que são aquelas que permitem a um indivíduo
+agir utilizando especificamente meios linguísticos, são compostas pela competência
+linguística - que diz respeito aos conhecimentos relacionados ao sistema linguístico,
+abarcando assim, as competências lexical, gramatical, semântica, fonológica,
+ortográfica e ortoépica - pela competência sociolinguística, que está atrelada à
+capacidade do indivíduo para tratar os diferentes registros da língua, marcas de
+delicadeza, dialetos, etc; e, por fim, pela competência pragmática que diz respeito ao
+conhecimento sobre os princípios de acordo com os quais as mensagens são
+organizadas, adaptadas, estruturadas.
+Com base no conceito de competência linguística elaborado por Chomsky e,
+sobretudo, nas distinções propostas pelo QECRL, verificamos que a noção de
+competência é ampla, a fim de abarcar diferentes aspectos a serem desenvolvidos no
+âmbito de ensino-aprendizagem.
+Para que o bom desempenho em compreensão oral seja atingido, é preciso ter
+em mente que ela não é uma atividade passiva, mas uma atividade prática, ativa e
+voluntária, na qual cabe ao ouvinte reconhecer a significação de discursos e identificar
+suas funções a partir de seu conhecimento somado a estruturas linguísticas e às regras
+socioculturais nas quais o texto oral em questão é produzido. (BOYER et al, 1990, apud
+PORCHER, 1995). Percebe-se, mais uma vez, que, diferentemente do que foi pregado
+durante muito tempo nas diferentes metodologias, a compreensão oral mobiliza muitas
+20
+
+estratégias e operações mentais que vão além da escuta atenta e de reprodução da
+pronúncia.
+As dificuldades experimentadas por um não-nativo no momento da escuta de um
+documento sonoro está, entre outras coisas, de acordo com Lhote (1999), relacionada à
+redução do diálogo a sua simples reprodução. Não há contexto nem situação, por isso, o
+ouvinte não possui elementos extralinguísticos de outras naturezas que possam
+enriquecer e contribuir para sua compreensão.
+Como vimos anteriormente ao tratar do conceito de paisagem sonora
+desenvolvido por Lhote (1999), quando escuta uma nova língua, o sujeito-aprendiz
+reconhece unidades fonéticas, mas não lhes atribui um sentido. Não compreendendo o
+que ouve, não pode reproduzi-la de maneira reconhecível e aceita pela comunidade
+linguística. É preciso que o sujeito-aprendiz iniciante em determinada língua estrangeira
+desenvolva um desempenho no sistema prosódico, rítmico e de entonação próprios à
+língua estrangeira.
+Cornaire e Germain (1998) explicam que Nagle e Sanders (1986)19 propuseram
+um modelo do processo de compreensão oral com base em sujeitos-aprendizes adultos
+de inglês língua estrangeira. De acordo com esse modelo, o registro sensorial (sensory
+register) capta as informações sob a forma de imagens sonoras. Um segundo depois,
+essas imagens são encaminhadas à memória a curto prazo que as desmembra em
+unidades reconhecíveis, como palavras e enunciados, em função de conhecimentos
+existentes na memória a longo termo. Em alguns casos, as imagens captadas pelo
+registro sensorial podem se apagar muito rápido (trace decay) quando se trata, por
+exemplo, de um domínio pouco conhecido ou familiar ao ouvinte.
+De acordo com esse modelo, os fragmentos de informações (palavras,
+enunciados) são extraídos do corpus oral e, no fim do processo, será efetuada uma
+espécie de síntese do que foi apreendido do enunciado, por parte da reserva sensorial e
+da memória a curto prazo. Quando a síntese é julgada insuficiente, é necessário um
+segundo processamento, ou seja, o ouvinte tem necessidade de escutar novamente uma
+parte da mensagem para enriquecer as informações extraídas anteriormente.
+Nesse modelo há reflexões interessantes a respeito da atividade de compreensão,
+sobretudo porque, segundo ele, o sujeito-aprendiz mobiliza noções como tarefa a ser
+realizada, contexto e também seus conhecimentos/experiências prévias. Porém, de
+19
+
+NAGLE, SJ., SANDERS, S.L. (1986). Comprehension theory and second language pedagogy. TESOL
+Quarterly, 20.1.
+
+21
+
+acordo com Cornaire e Germain, não se pode ignorar a importância dos processos
+controlados, ou seja, as estratégias de compreensão.
+Existem diversas formas de definir estratégias e, em senso comum, pode-se dizer
+que é um comportamento consciente, um plano de ação com objetivo de resolver um
+problema. As estratégias de aprendizagem são, portanto, segundo Cornaire e Germain
+(1998), procedimentos conscientes realizados pelo sujeito-aprendiz para facilitar a
+aquisição, o armazenamento, a recuperação ou a reconstrução da informação.
+Os autores apontam que Murphy (1987) 20 analisou as estratégias de escuta de
+sujeitos-aprendizes de inglês língua estrangeira. O autor pôde determinar a utilização de
+quatro estratégias frequentemente usadas pelos ouvintes mais competentes:
+1) A lembrança consiste na capacidade de reformular, com suas próprias
+palavras, algumas partes de um texto; o sujeito tenta reconstruir as
+informações que obteve na primeira escuta do áudio.
+2) A especulação mobiliza a imaginação, a experiência, os conhecimentos
+prévios (por meio de associações entre o que conhecemos e o que é exposto
+no texto); é a capacidade de fazer inferência, prever a informação que será
+dada.
+3) A análise consiste em examinar atentamente as ideias apresentadas no texto
+e em conferir-lhes um olhar crítico. Murphy aponta que os ouvintes mais
+competentes efetuam a tarefa utilizando seus conhecimentos da estrutura de
+um texto enquanto que os menos competentes se apoiam no vocabulário ou
+nas palavras familiares presentes no texto.
+4) A introspecção mobiliza o estudante a analisar sua própria experiência de
+escuta. Ele poderia, por exemplo, dizer se o áudio foi muito difícil/fácil, se
+ele poderia prever o que iria escutar, etc.
+Cornaire e Germain explicam que O'Malley, Chamot e Küpper (1989)21 fizeram
+um estudo semelhante, com sujeitos-aprendizes de diferentes níveis de inglês língua
+estrangeira, dividindo-os de acordo com seu desempenho (bons e maus ouvintes) e
+observaram que os bons ouvintes costumam avaliar sua própria performance, tomam
+
+20
+
+MURPHY, J.M. (1987). Examining ESL listening as an interpretive process. TESOL Newsletter, XIX.6.
+O'MALLEY, J.M, CHAMOT, A.U., KÜPPER, L. (1989). Listening comprehension strategies in second
+language acquisition. Applied Linguistics, 10.4.
+21
+
+22
+
+notas durante a escuta dos áudios e possuem atenção seletiva, ou seja, sabem
+antecipadamente a quais elementos sua atenção será dirigida.
+A mesma equipe de pesquisadores analisou estratégias de escuta de sujeitosaprendizes de nível intermediário em inglês língua estrangeira. Os sujeitos-aprendizes
+foram divididos novamente em dois grupos (os ouvintes hábeis e os ouvintes com
+dificuldade). Os ouvintes mais competentes são capazes de manter sua concentração e
+atenção ou de, pelo menos, retomá-las em caso de problemas, enquanto os ouvintes
+menos competentes perdem-se completamente.
+Daniel Gaonac’h (1990) também faz observações pertinentes no âmbito da
+atenção em atividades de compreensão oral. Segundo ele, ao realizar esse tipo de
+atividade, o aprendiz – mesmo aquele de nível avançado– não mantém seu nível de
+atenção constante no que tange aos diferentes aspectos e níveis da atividade. Em geral,
+os aprendizes se concentram mais nos aspectos fonológicos e sintáticos e menos nos
+aspectos semânticos. O que é possível observar é que o ouvinte tenta decodificar o
+documento frase por frase, em vez de se atentar à estrutura do discurso, aos conectores
+lógicos e ao conteúdo global. Isso acarreta uma má compreensão da transição de ideias
+e, por consequência, uma má interpretação do documento como um todo. Além disso,
+durante atividades em língua estrangeira pode acontecer o que o autor chama de curtocircuito cognitivo, isto é, um distúrbio que bloqueia o sentido, geralmente ocasionado
+pelo domínio linguístico limitado.
+Com base nesses estudos, podemos afirmar que um bom ouvinte é aquele que
+detecta suas dificuldades e as supera por meio de novas estratégias de aprendizagem,
+demonstrando, assim, que consegue adaptar seu funcionamento cognitivo de acordo
+com a tarefa que deve realizar.
+O papel do professor também está em auxiliar o sujeito-aprendiz a conhecer e
+utilizar as estratégias que lhe serão úteis, a fim de maximizar suas performances de
+acordo com a tarefa pedagógica que ele deve cumprir. Durante esse processo, é
+importante refletir sobre as preferências do sujeito-aprendiz em relação ao aprendizado:
+cada pessoa possui um estilo de aprendizagem, geralmente relacionado ao seu estilo
+cognitivo.
+Cuq e Gruca (2005), explicam que Honey e Mumfield, inspirados pelos estudos
+de Kolb22, distinguem quatro estilos de aprendizagem: estilo ativo (relacionado à
+
+22
+
+Learning style inventory (LSI)
+
+23
+
+espontaneidade, ao papel ativo no aprendizado de língua; o aprendiz primeiro age e
+depois reflete), estilo reflexivo (o sujeito-aprendiz reflete as situações, estuda as facetas
+de uma questão antes de se manifestar, é prudente), estilo teórico (relacionado ao
+sujeito-aprendiz perfeccionista e analítico, que faz uso de procedimentos lógicos e
+sistemáticos) e estilo pragmático (sujeito-aprendiz entusiasta, imediatista, que coloca
+em prática novas ideias).
+Ao conhecer os perfis dos sujeitos-aprendizes, é possível constituir grupos de
+classe ou sub-grupos em uma única classe, propondo atividades adaptadas a cada um.
+Para um professor, conhecer o estilo de aprendizagem dos sujeitos-aprendizes, e o seu
+próprio, lhe permite refletir sobre seu modo de ensino e da sua tendência de ensinar com
+base no seu próprio estilo de aprendizagem. Sabendo disso, existem diversos elementos
+que podem ser observados a fim de caracterizar um sujeito-aprendiz de língua
+estrangeira.
+De acordo com Cornaire e Germain (1998), diversas características permitem
+distinguir um ouvinte iniciante de um ouvinte experiente. Primeiramente, o nível de
+competência linguística. Os autores explicam que, em nível iniciante, os sujeitosaprendizes costumam distinguir mal os sons, pois ignoram as regras fonológicas e suas
+nuances na língua. Para esses sujeitos-aprendizes iniciantes, a língua se resume,
+frequentemente, a uma sequência de barulhos que dificilmente podem ser segmentados
+em unidades significantes. Conforme a competência linguística se desenvolve, os
+sujeitos-aprendizes se tornam mais hábeis nas tarefas de compreensão.
+Outro fator importante é a falta de atenção, que costuma ser um problema
+comum durante atividades de compreensão oral. Como vimos anteriormente, O'Malley
+et al (1989) verificaram que sujeitos-aprendizes com bom desempenho em compreensão
+oral costumam dar-se conta no momento em que esses lapsos de atenção ocorrem e
+conseguem retomar o ritmo de escuta. Os ouvintes mais inexperientes, por outro lado,
+não percebem que seu nível de atenção baixou e, em caso de dificuldades (de falta de
+vocabulário, por exemplo), costumam abandonar a escuta.
+A afetividade é mais um elemento que distingue esses dois perfis de aprendizes;
+ela está relacionada às atitudes, crenças, emoções, autoconfiança e é importante para a
+aprendizagem de uma língua estrangeira. Os sujeitos-aprendizes costumam ser muito
+severos quando precisam avaliar sua capacidade de compreensão e se desestimulam
+facilmente diante de palavras não conhecidas. Por isso, é importante que o professor
+
+24
+
+lhes explique que existem diversas maneiras de contornar essas dificuldades, fazendo
+uso das diferentes estratégias de compreensão.
+Cornaire e Germain explicam ainda que, de acordo com pesquisas desenvolvidas
+por Call (1985)23 junto a 41 sujeitos-aprendizes de nível intermediário em inglês língua
+estrangeira, constatou-se que a memória a curto prazo é um componente importante
+para que a compreensão oral se realize e que a capacidade de memorizar é diferente em
+língua materna e em língua estrangeira.
+Os autores mencionam que outros fatores que contribuem para diferenciar
+ouvintes experientes de iniciantes são a idade, tendo em vista pesquisas que
+demonstram que a aprendizagem precoce de língua estrangeira propicia melhores
+resultados no nível da competência linguística, podendo levar, inclusive, o sujeitoaprendiz a uma competência comparável à de um locutor nativo; os conhecimentos
+anteriores e as dificuldades linguísticas em língua materna, considerando que estas
+serão refletidas na língua estrangeira.
+
+23
+
+Call, M. A (1985). Auditory short-term memory, listening comprehension and the input hypothesis.
+TESOL Quarterly, 19.4
+
+25
+
+CAPÍTULO III
+
+O tratamento do léxico
+Em linguística aplicada e em didática de línguas, estudiosos demonstram-se
+pouco interessados nas discussões desenvolvidas entre linguistas e
+lexicólogos, a ponto de, muitas vezes, tomarem a palavra como um dado
+incontestável e que, como a chuva ou o belo tempo, não há necessidade de
+qualquer explicação. (BOGAARDS, 1994).
+
+3.1 O tratamento lexical enquanto processo cognitivo
+
+Bogaards (1994) explica que uma das teorias mais adequadas para explicar os
+mecanismos fundamentais da aprendizagem lexical é a chamada níveis de tratamento
+(levels of processing). A ideia defendida nessa teoria é de que as informações tratadas
+por uma pessoa deixam registros em sua memória semântica e esses registros são mais
+duráveis e rastreáveis de acordo com a profundidade de tratamento que receberam.
+Sendo assim, um tratamento que se restringe à forma dos elementos é considerado
+superficial, enquanto que um tratamento do significado é tido como mais profundo. O
+autor explica que o que determina o nível do tratamento é a tarefa a ser realizada: a
+simples repetição de um elemento mobiliza apenas níveis superficiais enquanto
+atividades que requerem reflexão e comparações detalhadas mobilizam níveis
+profundos. Dessa forma, tarefas difíceis conduzem a traços memoriais mais consistentes
+e duradouros que tarefas simples.
+O autor chama a atenção para alguns estudos, desenvolvidos por diversos
+pesquisadores, acerca do tratamento do léxico. Ele menciona, por exemplo, experiências
+feitas por L.L. Jacoby & al. (1979)24 a respeito dos registros de memória. Nesse estudo,
+três grupos de estudantes eram expostos a uma lista de palavras. O primeiro grupo
+deveria memorizar a lista para uma posterior avaliação, o segundo deveria anotar as
+palavras que lhes despertavam sensações agradáveis ou desagradáveis e, o terceiro
+grupo, deveria classificar as palavras de acordo com uma importância para a
+sobrevivência em uma ilha deserta. O resultado demonstra que, posteriormente à
+atividade, o terceiro grupo se lembrou de mais palavras da lista. Isso quer dizer que a
+intenção de aprender não conduz, necessariamente, ao melhor resultado e que as tarefas
+24
+
+Jacoby, L.L., F.J.M. Craik, J. Begg (1979) Effects of decision difficulty o recognition and recall, Journal of
+Verbal Learning and Verbal Behavior 18, 585-600
+
+26
+
+significativas - aquelas em que o sujeito-aprendiz participe ativamente - provocam uma
+aprendizagem mais eficaz.
+É interessante atentar para o fato de que, ao serem expostas a palavras listadas
+aleatória e desordenadamente, as pessoas tendem a memorizá-las agrupando as que
+pertencem ao mesmo campo de sentido. O conteúdo significativo, portanto, é um fator
+de importância primordial na aprendizagem verbal. Isto quer dizer que o sentido deve
+ocupar um espaço central na aprendizagem e que, ao contrário do que foi aplicado
+durante muito tempo nas metodologias de ensino e, inclusive, até hoje, em alguns casos,
+a repetição intencional das palavras não é necessária para que o aprendizado lexical seja
+efetivo.
+Tendo isso em vista, Bogaards (1994) faz considerações a respeito das
+associações. Ele explica que o desejo de entender a natureza das redes lexicais mentais
+de locutores monolíngues e seu funcionamento, ou seja, a forma como aprendemos,
+levou à utilização de testes de associação. Neste tipo de teste, é apresentada às pessoas
+uma palavra e elas devem reagir o mais rápido possível, dizendo uma ou mais palavras
+que lhe vêm à cabeça ao lê-la ou ouvi-la. O autor aponta que as experiências que serão
+por ele analisadas são aquelas que solicitam uma só palavra (e não uma série de
+reações) para cada palavra-estímulo.
+Ele explica que, ao analisar os resultados desses testes - feitos em língua inglesao que chama a atenção é a esteriotipia das respostas: cerca de 70% das pessoas reagem
+da mesma forma ao mesmo estímulo. As palavras branco, homem e pão, suscitaram as
+palavras preto, mulher e manteiga. O autor explica que pesquisas de J. Deese (1965)25,
+baseadas no idioma inglês, demonstram que quando a palavra-estímulo é um
+substantivo, 80% as respostas também serão substantivos, enquanto que respostas em
+forma de verbos ou adjetivos se limitam a 50% e advérbios a 30%.
+Associações que pertencem a mesma classe de palavras são chamadas
+paradigmáticas enquanto aquelas que não pertencem a mesma classe são chamadas
+sintagmáticas. Pesquisas26 demonstram que, diferentemente das crianças com idade até
+7 anos, os adultos preferem respostas paradigmáticas. O funcionamento das associações
+já foi explicado de diversas maneiras. Bogaards (1994) explica que, segundo A.M.B De
+Groot (1980), as associações podem nascer por conta de palavras que geralmente são
+
+25
+
+Deese, J. (1965) The structure of associations in language and thought, Baltimore: Johns Hopkins Press
+Taylor, I., M. Taylor (1990) Psycholinguistics. Learning and using language, Englewood Cliffs NJ:
+Prentice Hall
+26
+
+27
+
+usadas com frequência e juntas no cotidiano (ex.: eles dormem em uma cama); a
+questão visual ou motriz também pode influenciar as respostas (bolo e garfo); e há
+ainda a possibilidade de as associações serem provenientes da memória semântica por
+conta da atividade mental autônoma que nos permite fazer inferências e pensar sem
+estímulos exteriores.
+Bogaards explica que é importante insistir sobre o papel da frequência e da
+atividade mental autônoma. Ele salienta que a frequência desempenha um papel
+importante no desenvolvimento das associações, mas que a aquisição lexical não é
+resultado da quantidade de vezes que uma palavra foi repetida ou empregada. Cada
+indivíduo dispõe de suas próprias redes lexicais, completamente particulares, em que
+alguns termos são melhores estruturados ou empregados mais frequentemente que
+outros. Essas redes lexicais são tão particulares que mesmo falantes da mesma língua,
+que dispõe, teoricamente, de uma base cultural semelhante, não terão adquirido o
+mesmo vocabulário. Além disso, a motivação pessoal e as necessidades individuais
+constituem, também, importantes fontes de diferença.
+Sendo assim, podemos afirmar que o processo de aquisição não é instantâneo,
+mas gradual e relativamente lento. É sob os efeitos da repetição e da manipulação
+mental que as associações se instauram, em ritmos diversos.
+
+3.2 O processo de aquisição lexical em língua estrangeira
+
+Os processos de aquisição do vocabulário de língua materna podem ser
+concebidos de acordo com o modelo dos traços de memória visto anteriormente. De
+acordo com esse modelo, cada emprego significativo de um item lexical ativa um
+registro mental já existente ou cria um novo registro. Não importa se ele for consciente
+ou não, nem se é produzido em contexto de produção ou recepção: este emprego
+desencadeia uma certa aquisição, seja pela criação de novos registros, criação de
+associações entre registros, reforço de registros ou reforço de associações já existentes.
+Para explicar o processo de aquisição de vocabulário estrangeiro, Bogaards (1994) parte
+do modelo27 abaixo, elaborado por J.F Kroll e A. Sholl (1992) 28, que explica a
+aprendizagem lexical em língua materna:
+
+27
+
+Apresentamos o modelo conforme elaborado pelos pesquisadores, mantendo a denominação L1 para
+o que optamos nomear neste trabalho como língua materna e L2 para o que optamos denominar língua
+estrangeira.
+
+28
+
+Imagem 1: Modelo da memória bilíngue, segundo Kroll e Sholl 1992: 196 (apud Bogaards, 1994)
+
+Como podemos perceber, as relações entre os diversos componentes não têm a
+mesma intensidade. A relação mais forte é entre o léxico da língua materna e o
+componente conceitual e vice-versa. Depois, a relação entre o léxico da língua
+estrangeira e o da língua materna. A relação entre o léxico da língua materna e da língua
+estrangeira, assim como o do léxico da língua estrangeira e o componente conceitual,
+são menos desenvolvidos.
+Este modelo aborda a estrutura dos conhecimentos bilíngues em nível iniciante:
+há, primeiramente, criação de relação em unidades lexicais (UL) da língua estrangeira e
+da língua materna. O autor explica que estudos mostraram que a tradução língua
+estrangeira-língua materna é feita mais rapidamente do que a tradução em sentido
+inverso. Isso acontece não apenas porque há uma menor disponibilidade de elementos
+em língua estrangeira, mas porque a forma de uma palavra em língua materna evoca,
+inevitavelmente, seu significado; isso não acontece com as formas de língua estrangeira,
+pois elas não estão ligadas a conceitos/significado, mas às formas da língua materna.
+Bogaards explica que Kroll e Sholl demonstram que, no caso de iniciantes, a
+abordagem da outra língua é feita com base na associação verbal: são, sobretudo, as
+relações lexicais entre os elementos das duas línguas que entram em jogo, sendo que os
+elementos produzidos em língua estrangeira se baseiam em conhecimentos da língua
+materna. Pouco a pouco, a língua estrangeira se emancipa da dominância da língua
+materna, ou seja, as relações diretas em léxico estrangeiros e conceitos são reforçados.
+28
+
+Kroll, J.F., A. Sholl (1992) Lexical and conceptual memory in fluent and non fluent bilinguals, in R.J
+Harris (ed.) 191-2014
+
+29
+
+O modelo descrito prevê que, no início da aprendizagem, as formas das palavras
+são mais importantes do que seu sentido. Bogaards (1994) menciona que uma pesquisa
+desenvolvida por G.H Henning (1973)29 confirma essa informação. Ao serem expostos
+a uma lista de 60 palavras, estudantes de nível iniciante memorizavam as palavras se
+baseando em suas características acústicas, enquanto sujeitos-aprendizes avançados se
+baseavam em seus significados.
+Bogaards ainda explica que o estudo de testes de associação em língua
+estrangeira também pode contribuir para a reflexão sobre o processo de aquisição. O
+caminho entre as associações em uma ou outra língua não é necessariamente reto: em
+muitos casos, as associações dos aprendizes se distanciam daquelas feitas em língua
+materna sem, necessariamente, se aproximar daquelas em língua estrangeira. A base de
+orientação é diferente em função do grau de equivalência das palavras correspondentes:
+se as palavras possuem sentidos muito próximos, o sujeito-aprendiz tenderá a se orientar
+pela língua materna; no caso de serem diferentes, ele se distanciará da língua materna
+(mas não necessariamente em direção à língua estrangeira). O autor ressalta que, uma
+vez que as associações são muito heterogêneas e lacunares, não é simples ter uma ideia
+clara da forma como os estudantes desenvolvem redes associativas em língua
+estrangeira. Porém, o que sabemos é que elas tendem a ser lentas, graduais e pouco
+estáveis.
+Cabe ressaltar o fato de que estudantes de línguas estrangeiras possuem sua
+própria cultura e conhecimentos linguísticos, por isso, seria insensato acreditar que as
+associações feitas por eles seriam as mesmas feitas por locutores nativos. No início, as
+experiências em língua estrangeira se darão, como visto anteriormente, através daquelas
+vividas em língua materna até que haja, gradualmente, uma emancipação da língua
+estrangeira.
+Podemos perceber que, como em qualquer outro tipo de conhecimento novo, a
+língua estrangeira só pode ser compreendida com base na língua materna, ou seja, com
+base em conhecimentos já existentes e experiências já vividas. Isso quer dizer que, em
+um primeiro estágio da aprendizagem, o estudante não tem como não se apoiar na
+língua materna, visto que ela é seu único meio de acesso ao seu sistema cognitivo e a
+suas capacidades de aprendizagem. Muitos estudantes consideram sua língua materna e
+os processos que lhes possibilitaram sua aprendizagem, importantes para a aquisição de
+29
+
+Henning, G.H. (1973) Remembering foreign language vocabulary: acoustic and semantic parameters,
+Language Learning 23, 185-196
+
+30
+
+outra língua. Isso explica a razão da maioria dos estudantes partirem daquilo que I.H
+Ijaz (1986)30 chama de hipótese de equivalência semântica, que prega que os modelos
+conceituais e as práticas semântico-linguísticas da língua materna fornecem os critériosbase para a língua estrangeira pois ela reduz essa aquisição à aquisição de novas formas
+cujos conceitos já foram adquiridos em língua materna.
+Boogards (1994) chama a atenção para o fato de que Ijaz ressalta, porém, que
+essa hipótese também complica a aquisição de língua estrangeira pois ignora as
+diferenças semânticas e conceituais que encontramos nas diferentes línguas. Essa
+hipótese de equivalência semântica pode conduzir a alguns erros na língua estrangeira,
+mas, como já discutimos, à medida em que o sujeito-aprendiz começa a adquirir
+familiaridade com a língua estrangeira, essas interferências diminuem.
+Bogaards explica que, conforme o conhecimento de língua estrangeira progride,
+ocorre um processo de "desambiguidade" das palavras, ou seja, o sujeito-aprendiz
+começa a estabelecer melhor fronteiras semânticas entre palavras que, antes, lhe eram
+sinônimos (ex.: connaître e savoir). Ou seja, se a estocagem da forma das palavras não
+causa muitos problemas, a estocagem do significado de uma palavra, de maneira que ela
+seja diferenciada de outras de forma adequada, exige diferenciações sutis, em nível
+conceitual, o que exige tempo.
+O fato de algumas palavras serem memorizadas/estocadas com mais facilidade
+nos levam, muitas vezes, a questionar se existem palavras fáceis e difíceis. É preciso
+esclarecer, contudo, que os fatores que tornam uma palavra fácil ou difícil a aprender
+dizem respeito à interação entre os sujeitos-aprendizes e os itens lexicais e não às
+propriedades inerentes às palavras.
+Bogaards (1994) explica que uma vez que os sujeitos-aprendizes iniciantes se
+baseiam em sua língua materna para tratar textos (sonoros os escritos) em língua
+estrangeira, as palavras que apresentam um aspecto familiar serão mais facilmente
+reconhecidas. Além disso, as sílabas que sugerem algum tipo de significado são mais
+facilmente aprendidas do que aquelas que não remetem a nenhum tipo de interpretação,
+por isso, as palavras consideradas "difíceis" são aquelas cujo sentido não está codificado
+no léxico da língua materna do sujeito-aprendiz. Ou seja, as palavras que não exigem
+uma reorganização do léxico mental são aprendidas mais facilmente do que aquelas que
+o exigem.
+30
+
+Ijaz, I.H (1986) Linguistic and cognitive determinants of lexical acquisition in a second language,
+Language Learning 36, 401-451
+
+31
+
+O autor menciona que, para J. Nattinger (1988)31, palavras concretas geralmente
+não causam problemas para serem memorizadas pois carregam consigo uma imagem
+definida, enquanto palavras que não possibilitam uma visualização clara, ou seja, que
+são abstratas, causam maior problema de memorização; é o caso dos verbos, adjetivos e
+advérbios. Bogaards diz ainda que uma pesquisa feita por Cohen (1987)32 demonstra
+que substantivos concretos são melhor memorizados que substantivos abstratos; que
+substantivos (todas as categorias) são melhor memorizados que verbos e adjetivos e que
+verbos são mais memorizados que adjetivos.
+É igualmente importante ter em mente que, ao ler ou escutar um texto em língua
+estrangeira, o sujeito-aprendiz pode encontrar elementos que lhe pareçam familiares, ou
+seja, cognatos. O primeiro fator que torna uma palavra reconhecível é sua forma. Em
+um texto falado, porém, é menos certo que essas palavras sejam reconhecidas.
+De qualquer forma, não é apenas a forma que determina se uma palavra será ou
+não reconhecida. Há também o contexto no qual o item lexical é empregado e o fato de
+o sujeito-aprendiz dispor ou não de certos conhecimentos e expectativas concernentes à
+correspondência sistemática entre língua materna e língua estrangeira. Bogaards (1994)
+explica, por exemplo, que o fato de um sujeito-aprendiz anglófono saber que as
+terminações francesas - (i) té, -eur correspondem a (i) ty -or, em inglês, aumenta a gama
+de palavras reconhecíveis. É evidente que os cognatos podem ser úteis para a
+compreensão de textos em língua estrangeira. Porém, também podem ser perigosos: há
+palavras em língua estrangeira que possuem uma forma semelhante em língua materna
+mas possuem um sentido diferente; são os chamados "falsos amigos".
+Muitos acreditam que a aprendizagem dos cognatos não necessita nenhum
+esforço. Porém, se na compreensão escrita algumas formas são imediatamente
+reconhecidas graças a sua ortografia praticamente idêntica, na compreensão oral a
+dificuldade aumenta. Bogaards aponta, pertinentemente, que para a produção escrita e
+produção oral é preciso se certificar de que o cognato que iremos utilizar existe, de fato,
+em língua estrangeira. Muitos sujeitos-aprendizes, possuindo algum conhecimento de
+língua estrangeira, criam palavras que não correspondem ao vocabulário da língua. Ao
+ter certeza de que a palavra existe, é preciso aprender sua pronúncia, o gênero
+gramatical, os sentidos e possibilidades de emprego.
+31
+
+Nattinger, J.R. (1988) Some current trends in vocabulary teaching, in R. Carter, M. McCarthy (eds) 6282
+32
+Cohen, A. D., (1987) The use of verbal and imagery mnemonics in second language vocabulary
+learning. Studies in Second Language Acquisition 9, 43-62
+
+32
+
+Apesar de ser importante ressaltar que a aquisição do léxico possui relação com
+a acústica, sentido e, muitas vezes, proximidade com a língua materna do aprendiz, é
+preciso lembrar que as características individuais também têm um papel fundamental
+nesse processo. Como sabemos, existem variações de vocabulário em locutores nativos:
+alguns dispõem de uma gama lexical muito mais diversificada que outros. O mesmo
+acontece em língua estrangeira: nem todos aprendem as mesmas palavras e nem todos
+aprendem da mesma maneira.
+Bogaards (1994) menciona que M.C Schouten-van Parreren (1993) observou
+que sujeitos-aprendizes com mais facilidade aprendem palavras concretas e cognatas
+com a mesma facilidade que aprendem palavras abstratas enquanto que estudantes com
+mais dificuldade demonstram mais problemas em aprender palavras abstratas (ex.:
+mauvais, jeu, exemple).
+O mesmo autor, em 1990, desenvolveu outro estudo em que constatou que
+sujeitos-aprendizes com mais dificuldades são, em geral, mais impulsivos e levam em
+consideração apenas uma fonte de informações quando devem adivinhar o sentido de
+uma palavra. Eles apresentam problemas para integrar as informações contidas no
+contexto linguístico, ilustrações, tema do texto e, por falta de flexibilidade, fazem
+hipóteses inesperadas, por exemplo: um sujeito-aprendiz anglófono que precisa traduzir
+il porte un uniforme, interpreta a forma porte como o substantivo (la porte = the door),
+mesmo que a forma uniforme lhe seja um cognato (uniforme = uniform). Observou-se
+também que, em contrapartida, os sujeitos-aprendizes com melhor desempenho
+costumam aprender diversos elementos de uma única palavra (emprego, ortografia) e
+usam diversas fontes e estratégias para compreender o texto: fazem perguntas,
+consultam o dicionário, se atentam ao contexto e às relações semânticas entre as
+palavras.
+Os conhecimentos lexicais possuem um papel importante na elaboração de um
+léxico em língua estrangeira, sobretudo nas primeiras fases da aprendizagem; isso
+acontece não apenas porque o sistema conceitual em voga deve levar em consideração,
+ao menos no início, os significados e distinções impostas pela outra língua, mas também
+porque esse sistema determina em que medida o aprendiz possui dificuldades em
+adquirir novas palavras ou de que forma ele se aproveita da presença de palavras que
+lhe são familiares.
+
+33
+
+METODOLOGIA CIENTÍFICA
+
+34
+
+Se há uma característica que constitui a marca dos métodos qualitativos ela
+é a flexibilidade, principalmente quanto às técnicas de coleta de dados,
+incorporando aquelas mais adequadas à observação que está sendo feita.
+(Souza Martins, 2004, p.292)
+
+A flexibilidadedos métodos qualitativos, apontada por Souza Martins, nos
+permitiu criar instrumentos de coleta que atendessem primeiramente à perspectiva
+adotada para esse Trabalho de Graduação Individual: a da professora em formação
+inicial que sou, particularmente atenta às individualidades dos sujeitos-aprendizes, seus
+interesses, objetivos, necessidades e dificuldades. Em segundo lugar, a abordagem
+qualitativa se adequa ao objetivo geral deste trabalho: investigar de que formas o léxico
+incide sobre o funcionamento da compreensão oral em francês língua estrangeira (FLE).
+Nosso processo investigativo foi construído por meio de ações planejadas,
+colocadas em prática ao longo de onze sessões de uma oficina experimental, visando
+que seus participantes exercitassem a compreensão oral em francês, por meio de
+diversos documentos (autênticos e didatizados) e a expressão oral, por meio de
+atividades lúdicas. Ao desenvolver essa oficina, foi criada uma relação direta com os
+participantes, o que contribuiu para que assumíssemos uma atitude participativa
+(FONSECA, 2002, p.35).
+Entendemos que esta pesquisa, dentro da abordagem qualitativa, aproxima-se
+dos paradigmas da pesquisa-ação, apontados por J. Fonseca, na medida em que, ao
+longo do nosso processo investigativo, definimos um método sistemático, originário de
+uma situação específica e que interferiu em um determinado contexto com o objetivo de
+gerar transformações na realidade observada. De acordo com o autor:
+
+A pesquisa-ação pressupõe uma participação planejada do pesquisador na
+situação problemática a ser investigada. Recorre a uma metodologia
+sistemática, no sentidode transformar as realidades observadas, a partir da sua
+compreensão, conhecimento e compromisso para a ação dos elementos
+envolvidos na pesquisa (Fonseca, 2002, p.34)
+
+Entendemos que a pesquisa-ação era o método mais adequado para a realização
+dessa pesquisa porque, de acordo com Thiollent (1986), ela se caracteriza como
+
+(...) um tipo de pesquisa social com base empírica que é concebida e
+realizada em estreita associação com uma ação ou com a resolução de um
+problema coletivo no qual os pesquisadores e os participantes representativos
+
+35
+
+da situação estão envolvidos de modo cooperativo ou participativo.
+(THIOLLENT, 1986, p.14)
+
+O caráter participativo se deu pela concepção didática de uma oficina de
+expressão e compreensão orais, relevantes tanto para a pesquisadora – que, como
+professora em formação, adotou uma postura reflexiva sobre sua prática de ensino e
+sobre os processos de aprendizagem mobilizados pelos sujeitos-aprendizes – quanto
+para os participantes, que tiveram um ambiente extracurricular para praticar o idioma.
+Quanto ao contexto da pesquisa, é digno de nota que a oficina foi oferecida no
+segundo semestre de 2017, aos sábados, e as sessões tinham duração de duas horas e
+meia. Ela foi desenvolvida para que os alunos aperfeiçoassem suas competências orais e
+foi também o espaço encontrado para que a pesquisadora verificasse como sujeitosaprendizes iniciantes compreendem o léxico, o incorporam e utilizam para compreender
+documentos sonoros autênticos e documentos sonoros didatizados, encontrados tanto na
+internet quanto em livros de ensino/aprendizagem de FLE.
+É digno de nota que, no início do semestre, a oficina foi apresentada aos alunos
+de Francês II como uma oficina de expressão oral; isso demonstra que o objeto da
+pesquisa não é a oficina em si, ela serviu, na verdade, como instrumento de coleta dos
+dados para verificar o tratamento do léxico em compreensão oral realizado pelos alunos.
+A oficina foi organizada com auxílio do Prof. Dr. Paulo Roberto Massaro e foi
+oferecida aos alunos regularmente matriculados na disciplina Francês II (FLM1131)
+oferecida pelo Departamento de Letras Modernas da Faculdade de Filosofia, Letras e
+Ciências Humanas da Universidade de São Paulo. A oficina foi composta de 11 sessões
+e a participação dos alunos não era obrigatória.
+Quatro alunos (sujeito-aprendiz A; sujeito-aprendiz B; sujeito-aprendiz C e
+sujeito-aprendiz D)33, com idade entre 19-22 anos participaram, com regularidade, das
+sessões. Eles possuíam nível A1-A2 de francês, de acordo com o Quadro Comum
+Europeu. Um dos participantes (SD) possuía um nível mais avançado, em torno de B1B2. É digno de nota que todos eles assinaram um termo de consentimento livre e
+esclarecido34.
+A coleta de dados partiu da concepção pela professora-pesquisadora das
+sequências didáticas subjacentes ao desenrolar das onze sessões da oficina. Nesse
+33
+
+A partir deste momento, os sujeitos aprendizes serão chamados de: SA (sujeitos-aprendiz A); SB
+(sujeito-aprendiz B); SC (sujeito-aprendiz C) e SD (sujeito-aprendiz D).
+34
+Disponível nos Anexos.
+
+36
+
+sentido, parte dos dados analisados se refere a essa concepção, sendo que as reações às
+atividades propostas foram gravadas em vídeo. Convém ressaltar que, coerente com os
+pressupostos da Pesquisa-Ação abaixo ilustrados, a professora-pesquisadora constituiu
+um diário de bordo ao longo da oficina, registrando assim, os elementos observados a
+cada sessão e suas reflexões provisórias, a partir das quais formulava as ações seguintes.
+
+Imagem 2: Caráter cíclico da Pesquisa-ação
+
+Dessa forma, a partir da sexta sessão, as respostas escritas que os sujeitosaprendizes forneceram a atividades didáticas de compreensão oral foram recolhidas.
+Ainda na sexta sessão, foi aplicado o seguinte questionário, focalizado nas estratégias de
+escuta dos sujeitos-aprendizes:
+QUESTIONÁRIO DE AUTOAVALIAÇÃO – I
+
+1. Antes de tomar conhecimento do conteúdo do documento:
+1.1 Como você se prepara para ouvir um documento sonoro em língua estrangeira?
+
+( ) Você pega papel e caneta para tomar nota?
+( ) Se concentra apenas no que vai ouvir, sem papel e caneta?
+( ) Fecha os olhos para se concentrar melhor no conteúdo do áudio?
+37
+
+Outros elementos? Quais?
+______________________________________________________________________
+______________________________________________________________________
+2. Após ter ouvido o documento sonoro uma primeira vez:
+2.1 O que você faz?
+
+( ) Tenta identificar o(s) enunciadores?
+( ) Identificar e caracterizar quem fala? (idade, sexo, profissão, etc)
+( ) Tenta identificar o contexto? (lugar, horário, etc)
+( ) Tenta identificar a intenção de quem fala?
+Outros elementos? Quais?
+______________________________________________________________________
+______________________________________________________________________
+
+2.2 Você costuma identificar cada palavra que está sendo dita ou você procura
+identificar o tema chave geral do documento?
+______________________________________________________________________
+______________________________________________________________________
+2.3 Enquanto você está ouvindo, quais elementos constroem a sua compreensão?
+
+( ) Palavras anteriormente conhecidas
+( ) Reconhecimento das frases como afirmativas, interrogativas, negativas
+Outros elementos? Quais?
+______________________________________________________________________
+______________________________________________________________________
+
+2.4 Antes de ouvir pela segunda vez o documento, como você reage ao que não
+compreendeu? Você tenta preencher as lacunas de compreensão? De que forma?
+______________________________________________________________________
+
+3. Ao ouvir pela segunda vez o documento:
+3.1 Em quais elementos você presta mais atenção?
+______________________________________________________________________
+
+38
+
+3.2 Você toma nota do que está ouvindo? Em caso negativo, como registra na memória
+o que ouve?
+______________________________________________________________________
+
+A fim de fundamentar a Análise e a Discussão deste TGI, selecionamos categorias
+baseadas nos objetivos de escuta tais como apontados por Lhote (1999), a saber: escutar
+para ouvir; escutar para detectar, escutar para selecionar, escutar para identificar, escutar
+para reconhecer, escutar para identificar ambiguidades, escutar para reformular, escutar
+para sintetizar, escutar para fazer, escutar para julgar.
+
+39
+
+ANÁLISE
+
+40
+
+Como dito anteriormente, a oficina proposta tinha como objetivo o
+desenvolvimento das competências de compreensão e expressão orais. É importante
+apontar que, devido ao objeto desta pesquisa, ao longo do capítulo da Análise de dados,
+nos dedicaremos, sobretudo, à descrição e análise detalhadas das atividades de
+compreensão oral e das atividades de aquecimento35 que tenham sido concebidas para
+familiarizar, motivar e sensibilizar os sujeitos-aprendizes.
+É igualmente digno de nota que as sessões da oficina eram independentes; isso
+quer dizer que os temas das sessões e, sobretudo, a dinâmica das atividades propostas,
+podiam variar, visto que a reação dos aprendizes contribuía para que a pesquisadora
+elaborasse as sessões seguintes.
+Desenvolvemos as atividades de compreensão oral da oficina considerando os
+objetivos de escuta apresentados por Lhote (1999), ou seja, escutar para ouvir; escutar
+para detectar; escutar para selecionar; escutar para identificar; escutar para reconhecer;
+escutar para identificar ambiguidades; escutar para reformular; escutar para sintetizar;
+escutar para fazer; escutar para julgar.
+As cinco primeiras sessões da oficina tiveram, de certa forma, a mesma
+composição: uma introdução ao tema, composta por discussão em grupo a partir de
+imagens, seguida de exercícios de compreensão oral e, ao fim, exercício de
+dramatização em dupla ou de expressão oral individual.
+A terceira sessão da oficina, por exemplo, foi intitulada Un voyage au Maroc. A
+sequência didática tinha um objetivo linguístico (a revisão dos partitivos, alimentos e
+expressões de localização geográfica) e objetivo cultural (analisar, de sobrevoo,
+aspectos geográficos, alimentares e da moda de um outro país).
+A primeira atividade consistia em observar, em duplas, algumas fotos (pratos
+típicos, mercados, objetos, roupas) e em descobrir qual país seria o tema da sessão. O
+objetivo dessa atividade era verificar quais os conhecimentos que os sujeitos-aprendizes
+já tinham sobre o Marrocos, permitir que se concentrassem em detalhes visuais e
+discutissem com o colega a fim de chegar a uma hipótese. As fotos apresentadas foram:
+
+35
+
+Mise en route
+
+41
+
+Imagem 3: Un voyage au Maroc
+
+Imagem 4: Un voyage au Maroc
+
+Imagem 5: Un voyage au Maroc
+
+42
+
+Imagem 6 : Un voyage au Maroc
+
+Imagem 7 : Un voyage au Maroc
+
+43
+
+Imagem 8: Un voyage au Maroc
+
+Imagem 9 : Un voyage au Maroc
+
+44
+
+Imagem 10 : Un voyage au Maroc
+
+Depois, os aprendizes compartilharam com as outras duplas suas hipóteses e
+mencionaram países como Índia, Argélia e Arábia Saudita. Mesmo após algumas
+tentativas, eles não citaram o Marrocos e, por isso, a pesquisadora disse de qual país se
+tratava.
+Em seguida, eles receberam um mapa do Marrocos e deviam falar sobre sua
+localização geográfica:
+
+Imagem 11: Un voyage au Maroc
+
+45
+
+O exercício serviu como revisão do conteúdo já estudado nas aulas de Francês
+II. Os sujeitos-aprendizes disseram, por exemplo: “le Maroc se trouve au bord de la
+mer, à gauche du continent africain” (SD); “au bord de l’océan Atlantique” (SB); “Il est
+près de l’Algérie” (SC)36.
+Após tratar da localização do país, a pesquisadora questionou sobre seu clima, a
+fim de verificar os possíveis estereótipos que os aprendizes poderiam nutrir e as
+respostas foram “j’imagine qu’il fait très chaud et que là il y a beaucoup de désert”
+(SD); “et la nuit c’est très [frio]” (SC); “il y a beaucoup de plages” (SB). Por fim, a
+pesquisadora questionou como pensavam que era a vida no Marrocos ; responderam
+“très pauvre” (SD); “des personnes qui vivent d’un mode très simple, qui gardent la
+tradition [pourquoi] de la ve{s}timent{e}, {de la} objets religieu{ses}, qui montrent la
+tradition cultur{al} de ce pays plus fort que les [otros]37” (SC).
+A pesquisadora, então, apresenta um vídeo 38, criado com o objetivo de promover
+o turismo no Marrocos (assim como os outros vídeos utilizados ao longo da sessão). No
+vídeo, percebe-se uma natureza exuberante, conforto, muita água e, até mesmo, neve.
+Após a reprodução do vídeo, os aprendizes são questionados sobre as imagens que
+viram e se elas correspondem às suas expectativas. O objetivo da atividade
+desenvolvida é atingido, pois houve quebra de expectativa e interação entre os
+aprendizes, como pode-se ver no diálogo reproduzido abaixo:
+SB: Je pense que c’est un pays très riche (risadas)
+SD: Non, pas riche, pas riche. C’est un pays touristique, mais pas riche,
+pourquoi riche? {Qu’est-ce qu’il fait d’}activité [que lui fait d’argent?]
+SB: Je pense que c’est un centre touristique...{très}d’argent
+SC: Les choses qu’on a vues dans la vidéo n’{est} pas pour le [povo]...c’est pour
+les touristes. C’est comme le {Brazil}39 dans la coupe du monde... pour les autres pays
+on montre une réalité qui {ne pas existe}
+Em seguida, a pesquisadora dispõe, no centro da sala, fotos de pratos típicos
+marroquinos. O objetivo da atividade é fazer uma revisão do vocabulário de
+36
+
+Neste trabalho, as respostas escritas dos sujeitos-aprendizes foram reproduzidas tais quais fornecidas
+à pesquisadora. As respostas orais foram transcritas em formas gráficas às mais próximas das
+produzidas. As expressões entre colchetes marcam lacunas lexicais; incorreções linguísticas no fluxo do
+discurso são marcadas entre chaves.
+37
+O aprendiz pronunciou em espanhol.
+38
+VisitMorocco. Highlights of Morocco. Disponível em:
+https://www.youtube.com/watch?v=aEVzVXXPGsw (último acesso: 03/08/2018)
+39
+O aprendiz pronunciou em inglês.
+
+46
+
+alimentação e dos partitivos para facilitar o desenvolvimento da atividade que virá na
+sequência. Eles se lembram de alguns alimentos como “viande” e “riz”, mas esquecem
+de colocar os partitivos; de outras palavras, por outro lado, eles não se lembram (ex.:
+“carottes”) ou não conhecem e pedem ajuda da pesquisadora para traduzi-las, como
+“especiarias” (épices), “azeitona” (olives).
+Depois da revisão de vocabulário, os aprendizes assistem outro vídeo 40. Trata-se
+de uma breve apresentação da cozinha marroquina, feita por uma apresentadora de um
+programa de culinária. Ela comenta que a cozinha familiar é muito presente e “rica”
+(diversificada) no Marrocos e que, para cada família, a culinária tem uma importância
+muito particular. Ela menciona que alguns ingredientes e pratos são muito
+característicos, como courgettes, herbes, poissons, taijine, citron confit, olives. Ela
+também comenta que existem vários tipos de culinária, entre elas a campagnarde,
+citadine, familiale, nomade e de montagne. Por fim, ela explica que os vilarejos trazem
+à tona a culinária regional que, aos poucos, está se perdendo.
+A pesquisadora inicia o vídeo sem solicitar que os aprendizes respondam
+questões. O objetivo é que sintetizem o conteúdo do vídeo, que façam uma escuta
+global. Ao serem questionados sobre o que entenderam a respeito da culinária
+marroquina, os sujeitos-aprendizes respondem: “c’est une cuisine très riche” (SA); “très
+{rique} d’ingrédients...{ } olives, { } poisson” (SB); “le principal message c’est que les
+villages sont petit{e}s et que la cuisine cherche {d’}utiliser les ingrédients traditionnels
+et oubliés” (SD).
+Em seguida, é feito um exercício de compreensão oral, a partir de um vídeo 41 a
+respeito da moda marroquina, mais especificamente, sobre o caftan. Neste vídeo, uma
+estilista fala sobre essa vestimenta e explica que se trata de uma roupa tradicional usada
+em cerimônias de família ricas e pobres. O caftan é o vestido usado por mulheres jovens
+e mais velhas e seu comprimento pode variar; as jovens podem usá-lo curto, mas as
+mulheres com mais idade costumam usá-lo até o tornozelo. Ela diz que as estampas são
+variadas e que o caftan é como um quadro: seus desenhos e bordados refletem as
+particularidades de uma região.
+A atividade relativa ao terceiro vídeo era responder a um breve questionário, em
+que deveriam assinalar a resposta correta. O objetivo da atividade era que os aprendizes
+40
+
+VisitMorocco. Maroc - Cuisine régionale. Disponível
+em :https://www.youtube.com/watch?v=INIHjA0z7hQ (último acesso: 03/08/2018)
+41
+VisitMorocco. Styliste Caftan. Disponível em: https://www.youtube.com/watch?v=DJ5c1iS83L4&t=1s
+(último acesso: 03/08/2018)
+
+47
+
+identificassem a alternativa correta por meio de uma escuta seletiva. As questões
+apresentadas estão reproduzidas abaixo e as alternativas corretas estão assinaladas:
+
+1) Qu'est-ce le caftan?
+(...) c'est un habit traditionnel porté dans les grandes cérimonies des familles riches
+(...) c'est un habit traditionnel porté dans le quotidien par des familles riches
+(...) des robes traditionnelles qui ne sont plus utilisées par les marocaines
+(X) c'est un habit traditionnel marocain porté à l'occasion de grandes cérimonies par des
+familles riches et pauvres
+
+2) À propos du style du caftan:
+(...) ce sont des robes démodées et longues, à la cheville
+(...) ce sont des robes modernes mais qui sont toujours longues
+(...) ce sont des robes toujours longues que les jeunes filles ne portent pas d'habitude
+(X) des robes avec une petite touche de modernité qui peuvent être courtes ou longues
+
+3) À propos des motifs:
+( ) les motifs sont toujours les mêmes et discrets
+(...) ils sont colorés mais n'ont pas beaucoup de motifs parce qu'ils sont interdits dans
+certaines régions marocaines
+(X) les motifs sont variés et réflètent les particularités culturelles d'une région
+( ) un caftan est sobre et parfait comme un tableau
+
+É importante mencionar que a alternativa correta da primeira questão reproduz a
+fala da estilista de forma quase integral. A frase dita no vídeo é: c'est un habit
+traditionnel marocain porté à l'occasion de grandes cérimonies par des familles riches
+et pauvres. A resposta da segunda questão reproduz a frase da estilista de uma forma um
+pouco diferente, mas mantém palavras-chave que possibilitem sua identificação, por
+exemplo: robe, petite touche de modernité, courte, longue - a saber, a frase dita no
+vídeo é: le caftan c'est la robe avec une petite touche de modernité... au lieu que la
+jelaba soit longue, alors à la cheville, la jeune va la porter courte. Além disso, em uma
+sessão anterior da oficina cujo tema era « moda » os sujeitos-aprendizes foram expostos
+à expressão “à la cheville”, o que poderia contribuir para a compreensão desse novo
+documento.
+48
+
+A terceira questão, por outro lado, foi elaborada de forma que os sujeitos
+precisassem não apenas identificar palavras-chave por meio de uma escuta seletiva, mas
+também sintetizar o que foi dito por meio de uma escuta global. A terceira questão foi
+elaborada a partir da seguinte frase dita pela estilista: les motifs de la région de (nome
+de cidade marroquina: incompreensível) sont différents de ceux de Fès, également ils
+sont différents de ceux de (nome de cidade marroquina: incompreensível) et ceux de
+Casa. Les broderies, elles réflètent beaucoup de choses, c'est comme un tableau.
+É digno de nota que todos os sujeitos-aprendizes acertaram a primeira e a
+segunda questões e que os sujeitos-aprendizes B e D erram a terceira questão,
+assinalando a última alternativa como correta. Além disso, a pesquisadora questionou se
+os aprendizes sabiam o significado de “broderie” e, até então, eles o desconheciam.
+Na quinta sessão, trabalhou-se a partir de um documento sonoro42 retirado de um
+site de didática de FLE. Em um primeiro momento, a transcrição do documento sonoro,
+disponibilizada no quadrado laranja abaixo, foi suprimida (por meio de recurso
+disponível no próprio site) e os sujeitos-aprendizes observaram apenas as imagens
+disponíveis na atividade.
+
+Imagem 12 : Partir en vacances
+
+Este documento sonoro foi utilizado porque serviria como revisão para o Futur
+Proche, estudado nas aulas de Francês II, e porque dava continuidade ao tema de
+viagem que havia sido explorado em sessões anteriores da oficina.
+
+42
+
+Disponível em: http://www.tapis.com.au/studentbook2/Unit3/u03_situation_a01.html (último acesso:
+26/02/2018).
+
+49
+
+A pesquisadora questionou, primeiramente, sobre o nome do rapaz da foto, sua
+idade e emprego. Em seguida, questionou sobre sua relação com a praia e os sujeitosaprendizes A e D disseram, respectivamente, que “c’est les vacances” e “il va partir à la
+plage pour ses vacances”. O SB, por outro lado, cria outra hipótese: “peut être il
+travaille près d’une plage” e logo é interrompido pelo SD que alega “il habite à Paris, il
+n’y a pas de plage à Paris”.
+A pesquisadora entrega uma folha com algumas perguntas a serem respondidas e
+pede para que se concentrem nas duas primeiras questões que, apesar de serem questões
+globais sobre o documento sonoro – considerando que tratam de quando será a viagem
+e com quem - exigem identificação de alguns elementos precisos pois, para saber se o
+rapaz fala de suas próximas férias, é preciso que identifiquem o uso do Futur Proche.
+As perguntas apresentas aos aprendizes são as que seguem:
+
+Écoutez les informations que le jeune homme donne sur ses vacances. Ensuite,
+répondez aux questions suivantes :
+
+1. De quoi parle le jeune homme?
+( ) De ses prochaines vacances
+( ) De ses dernières vacances
+
+2. Le jeune homme:
+A) va partir seul à la plage
+B) va partir à la compagne avec ses amis
+C) va faire du camping avec ses amis
+D) va partir à la plage avec ses amis
+
+Os sujeitos-aprendizes fazem uma primeira escuta do documento. Após isso, a
+pesquisadora questiona sobre o quê, exatamente, o documento trata e o SB responde
+“les vacances”. A pesquisadora pergunta, então, se são férias passadas ou férias futuras
+e o SA diz que são frases futuras. Ao perguntar quais eram os indícios que indicavam
+que indicavam que se tratava de uma viagem futura, todos os sujeitos aprendizes
+responderam prontamente que era por causa dos verbos no Futur Proche. Quando a
+pesquisadora solicita alguns exemplos, eles pedem para escutar novamente e tomam
+
+50
+
+nota durante a escuta. Em seguida, mencionam: je vais partir; on va aller; nous allons
+passer.
+No que diz respeito à segunda questão, todos os sujeitos-aprendizes assinalam a
+alternativa correta, ou seja, a alternativa D.
+Em seguida, a pesquisadora pede que respondam a terceira questão:
+3. À propos de l’endroit choisi pour les vacances:
+A) Il préfère aller à la côte Atlantique parce que la mer y est plus calme
+B) Il préfère aller à la côte Méditerrannéenne parce quelamer y est plus calme
+C) Il préfère aller à la côte Atlantique parce que lamer yest plus agitée
+D) Il préfère aller à la côte Méditerranéenne parce que la mer y est plus agitée.
+
+Ao elaborar essa questão, a pesquisadora optou por não reproduzir a fala do
+personagem como apresentada no documento e por não usar a palavra “vague”. O
+objetivo era verificar se os sujeitos-aprendizes encontrariam a resposta correta pelo
+contexto, por palavras conhecidas em francês e por conhecimento de mundo. Ora, se os
+aprendizes compreendessem que o rapaz prefere a costa Atlântica e que gosta de surfar,
+não seria, a nosso ver, muito difícil de deduzir que é porque ela é mais agitada e tem
+mais ondas.
+Os aprendizes escutam o áudio. O SB diz que o rapaz prefere a “côte
+Atlantique”, mas não sabe dizer a razão; ele faz uma hipótese “je crois que c’est parce
+que la côte méditerrannéenne est minuscule”. O SA concorda que ele prefere a costa
+Atlântica, mas não sabe justificar.
+Após reescutar o áudio, o SA afirma que o rapaz prefere a costa Atlântica porque
+a Mediterrânea é pequena. O mesmo aprendiz diz que acredita que o tamanho da costa
+influencia na agitação do mar: quanto maior a costa, mais agitado é o mar. Por isso, de
+acordo com o raciocínio do sujeito-aprendiz: o rapaz prefere o mar agitado. A
+pesquisadora pergunta, então, a razão de ele preferir o mar agitado e o SA diz que
+entendeu que o rapaz surfa.
+A segunda atividade de compreensão oral da quinta sessão era proveniente de
+um vídeo autêntico do YouTube. Trata-se uma jovem que, baseada em suas próprias
+experiências, dá conselhos de como organizar uma viagem. O vídeo, apesar de um
+pouco longo (8 minutos e 14 segundos), é divido em sub-temas, criados pela própria
+jovem. Sendo assim, a pesquisadora decidiu reproduzir aos sujeitos-aprendizes apenas
+51
+
+dois sub-temas. Primeiramente, os sujeitos-aprendizes assistem, juntos, a 2 minutos e 36
+segundos de vídeo. Em seguida, eles foram divididos em duplas e cada uma era
+responsável pela compreensão de um sub-tema.
+É importante notar que os sujeitos aprendizes não receberam uma lista de
+perguntas a serem respondidas. Eles foram informados que o objetivo da atividade era
+que informassem quais eram, em linhas gerais, os conselhos da jovem, ou seja, era
+preciso que sintetizassem o conteúdo do vídeo. A pesquisadora informou ainda que eles
+podiam, em um primeiro momento, apenas assistir o vídeo ou que podiam tomar notas
+enquanto ouviam, em um espaço disponível no próprio documento da sequência
+didática, que dispunha de uma tabela como a que segue:
+Regardez la vidéo d’une fille qui donne des conseils pour bien préparer son
+voyage. Ensuite, mettez-vous en petits groupes. Choississez dans la grille un des
+thèmes traités dans la vidéo et notez les conseils et les informations donnés par la
+fille :
+
+1. Trouver votre destination
+
+2. Billets d’avion
+
+3. L’hôtel
+
+4. L’itinéraire
+
+A primeira dupla, composta pelos sujeitos-aprendizes A e B decidiu tratar do
+sub-tema“escolher seu destino”. Após fazer a segunda escuta, o SB diz, em português,
+que “ela menciona a escolha do período da viagem, por conta do clima”. A pesquisadora
+pergunta o que pode acontecer caso um pessoa não escolha uma boa época para viajar e
+ele responde que “ela precisa se preparar para coisas extraordinárias que podem
+acontecer... se a cidade fica perto do mar ou de um rio, por exemplo, que tem enchente
+em uma determinada época do ano, a pessoa tem que se preparar para isso”. O exemplo
+52
+
+dado pelo aprendiz foi pertinente pois, no vídeo, a jovem fala, justamente, que foi para a
+Tailândia em uma época de enchentes (a palavra usada por ela foi, mais
+especificamente, “innondations”, um cognato do português). O SA informa que não
+compreendeu nada de relevante para dizer.
+Após a segunda passagem do áudio, o SA diz que “a moça diz algo sobre ter ido
+para a Tailândia e ter pegado inundações”.
+Por fim, os aprendizes fizeram uma atividade individual de expressão oral que
+demandava uso de vocabulário trabalhado nas aulas de Francês II e revisado em sessões
+anteriores da oficina:
+Vous devez tirer au sort une fiche où c’est écrit le destin de votre prochain
+voyage. Vous devez décrire le pays que vous a été attribué a fin que vos collègues
+découvrent où vous allez partir en vacances. A fin d’organiser vos idées et mieux
+décrire votre destin, réfléchissez sur quelques points importants
+
+-
+
+La localisation du pays
+
+-
+
+Les habitudes du peuple
+
+-
+
+La langue parlée dans le pays
+
+-
+
+Le type de vêtement portée par les personnes
+
+-
+
+La cuisine du pays
+
+Os países presentes nos papeis a serem sorteados eram : Índia, Japão, França,
+Portugal, Canadá, Rússia, Brasil, Itália e Alemanha.
+A partir da sexta sessão, a dinâmica das atividades foi alterada. Isso porque ao
+longo das cinco primeiras sessões, a pesquisadora observou que, ao fazer a discussão
+sobre o conteúdo dos documentos sonoros em grupo, muitas vezes, os aprendizes se
+deixavam influenciar pela resposta dos colegas e, em alguns casos, evitavam dizer
+aquilo que haviam compreendido por medo de julgamentos. Considerando que o
+objetivo da pesquisa é verificar como os aprendizes tratam o léxico para acessar o
+conteúdo de um documento sonoro, era importante ter conhecimento daquilo que cada
+um conseguia compreender.
+Ao saberem da nova dinâmica, os aprendizes questionaram o que a motivou e,
+em seguida, concordaram que a discussão sobre o documento sonoro, em grupo, muitas
+vezes influencia sua escuta pois, nas escutas seguintes, tentam identificar os elementos
+53
+
+citados pelos colegas. O SC disse ainda que, em determinados momentos, prefere não
+dizer aquilo que havia entendido porque o que outra pessoa comentou pareceu fazer, nas
+palavras dele, “mais sentido”.
+Sendo assim, no início da sexta sessão, aplicamos um questionário 43 aos
+sujeitos-aprendizes para verificar quais eram, ao ver deles, as estratégias de escuta que
+mais utilizavam. A primeira pergunta do questionário diz respeito ao comportamento
+dos sujeitos-aprendizes antes de o documento sonoro lhes ser apresentado. As opções
+apresentadas e as respostas dadas foram resumidas em forma de gráfico, como segue:
+
+Gráfico 1 - Preparação de escuta de documento sonoro
+
+O SA, ao assinalar "Outros", especifica que "algumas vezes anoto palavras ou
+expressões que consigo identificar de imediato no documento sonoro".
+É também digno de nota que o SC foi o único que assinalou a opção "Fecha os
+olhos para se concentrar melhor no conteúdo do áudio".
+A segunda pergunta diz respeito ao comportamento dos sujeitos aprendizes após
+terem realizado a primeira escuta do áudio. As opções fornecidas e assinaladas pelos
+sujeitos aprendizes foram as seguintes:
+
+43
+
+Apresentado no capítulo Metodologia, páginas 37-39. As respostas aos questionários encontram-se nos
+Anexos.
+
+54
+
+Gráfico 2 - Comportamento após a primeira escuta de documento sonoro
+
+Em relação ao Gráfico 2, apenas os sujeitos C e D assinalaram que tentam
+identificar os enunciadores.
+Todos, como demonstra o gráfico, apontaram que tentam identificar o contexto.
+O sujeito-aprendiz B e D especificaram aquilo em que tentam prestar atenção. Suas
+observações foram, respectivamente: "busco procurar ouvir sinais sonoros fora da fala,
+para conseguir distinguir um ambiente. Busco também ouvir entonações na fala, para
+saber o contexto" e "assunto da conversa, recursos sonoros como o som no fundo, tom
+de voz durante a conversa, o que pode imprimir formalidade, relações de poder, etc".
+Os aprendizes A e D foram os únicos que indicaram "Outros elementos". O
+primeiro afirmou que tenta "identificar se o enunciador dá informações sobre a situação
+que ele se encontra, o lugar que ele está, ou o que ele está fazendo/praticando" e o
+segundo que procura "identificar palavras-chave".
+Em relação à terceira pergunta, que questiona se, durante a escuta de um áudio,
+eles tentam identificar cada palavra que está sendo dita ou o tema geral do documento,
+três sujeitos-aprendizes declararam se concentrar em palavras-chave que contribuam
+para a compreensão do tema central. Apenas o SA afirmou: "fico tentando identificar
+cada palavra, me perco, pois não conheço a maioria delas e isso acarreta na não
+identificação do tema geral do documento".
+
+55
+
+A quarta questão é a respeito daquilo que contribui para a compreensão do
+documento sonoro. As respostas fornecidas seguem abaixo, em forma de gráfico:
+
+Gráfico 3 - Como a compreensão do documento sonoro é construída
+
+Como observado, todos os sujeitos-aprendizes assinalaram a opção "palavras
+anteriormente conhecidas". O SB especificou ainda, nessa alternativa: "[palavras
+anteriormente conhecidas] figurando contexto, palavras-chave".
+Cabe assinalar que o SD foi o único que assinalou a opção de reconhecimento de
+frases afirmativas, interrogativas e negativas. Os aprendizes C e D assinalaram "Outros
+elementos". Suas respostas foram, respectivamente: "entonação dos enunciadores" e
+"inferência de palavras desconhecidas e partir do contexto".
+Na quinta pergunta do questionário, em que eles eram questionados sobre seu
+comportamento na segunda escuta do documento (se tentam preencher as lacunas de
+compreensão e, se sim, como o fazem), o SA declarou que "a partir das palavras que eu
+compreendi, eu tento deduzir algo sobre o tema, mas no primeiro contato com o
+documento eu raramente consigo compreender muitas coisas, só após ouvir outras
+vezes"; o SB afirmou: "tento assimilar o conteúdo, buscar o conteúdo geral, pensar no
+contexto e busco preencher, vendo meio pela geral, se pode construir o diálogo"; o SC
+disse à pesquisadora que costuma sempre considerar que poderá escutar o documento
+uma segunda vez, sobretudo durante as aulas na faculdade e, por isso, escreveu: "eu não
+56
+
+tento preencher as lacunas, eu normalmente ouço uma segunda vez e faço anotações do
+que eu acho importante"; por fim, o SD declarou: "tento construir um sentido me
+baseando nas partes compreendidas".
+As duas últimas perguntas do questionário dizem respeito ao comportamento dos
+sujeitos-aprendizes durante a segunda escuta do documento. A primeira os questiona
+sobre os elementos em que costumam prestar mais atenção; o SA declarou "nas palavras
+e expressões"; o SB "nos elementos que não consegui compreender da primeira vez"; o
+SC "na construção gramatical da frase e em tentar entender direito as palavras que eu
+não havia entendido" e o SD "me atento às palavras que conectam os elementos chave".
+A última pergunta questiona se eles anotam o que estão ouvindo e, em caso
+negativo, como registram na memória o conteúdo do documento. O SA declara "não
+tomo nota e tento recordar algumas palavras chaves que eu consegui compreender"; o
+SB afirma "não. Busco assimilação do conteúdo, dando continuidade no que estou
+ouvindo, e fazendo a ligação como um todo"; o SC declara "sim, eu escrevo de vez em
+quando os assuntos centrais, mas sem me preocupar com a escrita correta (exemplo: os
+acentos que eu me perco) e se estou se estou só para ouvir, repito várias vezes até eu
+visualizar mentalmente a escrita"; por fim, o SD afirma "registro na memória ligando os
+elementos chave para construir um cenário".
+Após responder ao questionário, os sujeitos aprendizes receberam uma folha
+com algumas imagens. Essa atividade foi elaborada para que eles conhecessem o tema
+antes da passagem do áudio e para que tivessem acesso prévio a um vocabulário que
+pudesse ajudá-los na compreensão do documento oral, como: job étudiant, jeunesse,
+opportunité, salaire. As imagens apresentadas foram:
+
+Imagem 13: Job étudiant
+
+57
+
+Imagem 14: Job étudiant
+
+Imagem 15: Job étudiant
+
+Imagem 16: Job étudiant
+
+58
+
+Imagem 17- Job étudiant
+
+A pesquisadora pergunta aos aprendizes o que as imagens têm em comum. Eles
+prontamente respondem que se trata de diferentes profissões. A pesquisadora pergunta a
+idade média das pessoas das fotos e dizem que são jovens, com cerca de 20 anos de
+idade. O SD, então, diz que o tema que será tratado na sessão é o trabalho na juventude.
+A pesquisadora diz que está correto e questiona se eles já trabalharam e quais são suas
+atividades. Em seguida, questiona se, na opinião deles, é difícil para um jovem
+conseguir emprego e a razão disso.
+Após a discussão, os sujeitos-aprendizes deveriam fazer a segunda atividade. O
+documento escolhido foi um documento sonoro autêntico, extraído da Radio France
+Internationale (RFI), e intitulado "Les jobs étudiants: pièges ou opportunités?"44. Ele
+tratava das oportunidades de emprego para estudantes, questionando se eram
+verdadeiras oportunidades para alavancar a carreira profissional. Esse documento foi
+escolhido porque demanda a mobilização de um vocabulário que é, em linhas gerais,
+conhecido pelos alunos, mas também porque diz respeito a sua própria vivência e
+experiência enquanto jovem estudante.
+
+44
+
+MILOT, A.; MAUCOURT, P. Les jobs étudiants : pièges ou opportunités ?, 2016. Disponível em:
+http://www.rfi.fr/emission/20160814-france-jobs-etudiants-boulots-jeunes-pieges-opportunitesemploi-chomage (último acesso: 03/08/2018)
+
+59
+
+A atividade foi constituída por duas páginas com quatro retângulos em branco,
+sem perguntas a serem respondidas, conforme reproduzido a seguir45:
+
+Première écoute
+
+Deuxième écoute
+
+Troisième écoute
+
+Hypothèse
+
+Os sujeitos aprendizes foram informados de que escutariam o documento três
+vezes: eles anotariam46 no primeiro retângulo aquilo que compreendessem na primeira
+45
+
+O tamanho dos retângulos apresentados abaixo não corresponde ao tamanho daqueles que
+dispunham os aprendizes
+
+60
+
+escuta; no segundo retângulo anotariam o que compreendessem da segunda escuta, no
+terceiro retângulo seriam feitas as anotações a respeito da terceira escuta e, no quarto
+retângulo, deveriam escrever a hipótese que tinham sobre o conteúdo do documento.
+Os sujeitos-aprendizes foram instruídos a anotar aquilo que entenderam a
+respeito do áudio (palavras ou frases) e que, ao fim, contribuísse para a formulação de
+uma hipótese de conteúdo do áudio; as anotações poderiam ser feitas em francês ou em
+português; eles poderiam fazer suas anotações enquanto ouviam ou podiam ouvir o
+áudio e anotar posteriormente.
+Para realizar a atividade, portanto, era preciso que identificassem palavras e
+frases conhecidas para, ao fim, sintetizar o conteúdo do documento.
+Como no início da emissão há uma pequena apresentação do quadro e seu tema,
+os sujeitos-aprendizes escutaram o documento durante 6 minutos e 5 segundos.
+Durante a primeira escuta, todos os sujeitos-aprendizes mantiveram seus olhos
+abertos. Os sujeitos-aprendizes A e B faziam o máximo de anotações possível enquanto
+o SD fazia poucas anotações. As anotações feitas por cada sujeito-aprendiz no primeiro
+retângulo em branco foram as seguintes:
+SA: número de telefone/ 25 anos/ la journée radio/ la même journée/ diretor do
+espaço/ plus jamais supermarché/ obrigado/ étudiante/ eu sei que/ travaille/
+supermercado/ journaliste/ pequeno/ estudantes/ bom dia/ fête/ eles são/ après midi/
+salut/ carrefour/ jeune/ chanson de Felipe Catrine/ Je travaille/ projet professionnelle/
+internet/ les objetes
+SB: fermer la radio/ radiophone/ étudiantes/ oportunité/ supermarché/
+journalista/ bonjour/ salut/ chanson/ carrefour/ travaillé/ professionale/ adresse/
+capacité/ les étudiants qui travaille 73%
+SD: o áudio consiste em uma entrevista de rádio com alguns estudantes, onde os
+mesmos são questionados sobre a idade em que começaram a trabalhar, como o caso do
+primeiro entrevistado, que começou com 11 anos; ou sobre as mudanças que ocorreram
+no mercado de trabalho, além das diferentes oportunidades que têm surgido para os
+jovens. Uma das entrevistadoras contou suas experiências com o mercado de trabalho
+de antes e as mudanças que ocorreram no fluxo de informações.
+Passamos para a segunda escuta. Durante a segunda escuta, todos mantêm os
+olhos abertos; os sujeitos-aprendizes A e B diminuem um pouco o ritmo das anotações,
+46
+
+As respostas dadas pelos sujeitos-aprendizes foram reproduzidas no corpo da análise. Porém, os
+documentos originais, com as anotações dos aprendizes podem ser encontrados nos Anexos.
+
+61
+
+porém, elas ainda são muito frequentes quando comparadas às anotações do SD. As
+anotações nos retângulos foram:
+SA: entrevista na rádio/ hoje receberemos estudantes/ falando sobre profissão/
+ele pensa que as oportunidades de trabalho/ diretor do espaço carrefour> era estudante
+de jornalista/ estudante 18 anos/ carreira/ mercado de trabalho p/ jovem / há muitas
+oportunidades para os jovens/ por que os estudantes trabalham?/ chanson: non, plus
+jamais travailler/ sophie/ 3% dos estudantes na França/ ocupar a vaga/ premier/
+produção, faturação/ projeto profissional > carreira.
+SB: 73% dos estudantes "financiam" seus estudos (por isso trabalham)/ une
+matière que parle sobre le travaille de les etudiantes
+SD: no início é feita uma pequena apresentação da equipe da rádio e quem serão
+os entrevistados durante o programa do domingo à tarde. O primeiro entrevistado é o
+diretor do supermercado Carrefour, e ele comenta sobre seu primeiro emprego aos 18
+anos. Uma outra mulher a ser entrevistada é jornalista, começou a trabalhar com 17 anos
+com algo relacionado à fase e atividades de secretariado, e conta sobre as mudanças no
+ramo com adventos como o desuso do papel. O diretor do carrefour também comenta
+sobre isso ser uma oportunidade de início para a carreira.
+Após o término do áudio, não discutimos seu conteúdo, e passamos à terceira
+escuta. Na terceira escuta, o SA continua fazendo anotações sempre que parece
+compreender uma nova informação; o SB, por outro lado, passa a apenas escutar o
+áudio, de olhos fechados; o SD continua fazendo anotações com pouca frequência. As
+anotações são:
+SA: o diretor do carrefour trabalhou pela primeira vez quando tinha 18 anos.
+Talvez com produção, faturação/ através dos estudos ele criou um projeto profissional e
+agora tem uma carreira/ ele pensa que há muitas oportunidades de trabalho para os
+jovens/ hipótese: ele nunca pensou que trabalharia em um supermercado e por isso a
+canção que diz "jamais trabalharei/retornarei em um supermercado".
+SB: directeur de espace carrefour: directeur dans un supermarché> ele opina
+sobre o trabalho e oportunidade, ele diz que a idade em que começam é nos 18
+SD: em adição ao item 2: na introdução do programa, a locutora diz que o
+programa falará sobre empregos de jovens, como nos supermercados, empregos de
+verão, e empregos na vizinhança, e por isso também é proposta uma entrevista com um
+empregador (diretor do carrefour) onde ele diz que se deve sua primeira experiência
+
+62
+
+profissional. Além disso, no final é discutido o porque de hoje mais jovens trabalharem,
+o que se deve ao surgimento de mais oportunidades em relação à geração de ontem.
+Ao fim das três escutas, eles escrevem suas hipóteses no quarto e último
+retângulo:
+SA: alguns estudantes foram convidados para serem entrevistados, abordando o
+assunto "profissão". Questões como o porquê os jovens/estudantes trabalham e como é
+o mercado de trabalho para os jovens estavam presentes na entrevista. Um dos
+convidados era o diretor do carrefour que conta como foi sua trajetória profissional. Ele
+conta que trabalhou pela primeira vez quando tinha 18 anos. Talvez com
+produção/faturação. Conta que foi através dos estudos que ele criou um projeto
+profissional e agora tem uma carreira. Ele pensa que há muitas oportunidades de
+trabalho para os jovens. Talvez a canção que toca durante a apresentação do programa,
+algo como "jamais/trabalharei/retornarei a um supermercado" seja pelo fato dele jamais
+ter pensado que faria sua carreira trabalhando em um supermercado.
+SB: c'est une matière qui parle du travaille de les étudiants. La matière contém
+une persone que c'est le directeur dans un supermarché, qui parle de les oportunités qui
+sont oferecidas a les étudiants. Le thème central c'est la oportunité ou pièges. Les outres
+personnes sont de la radio, qui fait la entrevista et la matière. Ils levantam dados qui
+73% de lesétudiants financiam seus estudos et travaille por isso.
+Ao fim, eles comentam suas hipóteses. Questiono o SA sobre o que lhe fez
+pensar que se tratava de uma entrevista com estudantes. Ele afirma que a palavra
+"étudiants" era dita muitas vezes e que percebeu que havia pessoas jovens falando: "a
+jornalista falava com um, daí mudava pra outro"; disse que foi uma hipótese intuitiva.
+O SB afirmou que "o trabalho pode ser algo que pode ajudar ou atrapalhar os
+estudantes" e diz que não entendeu muito bem. Ele disse ainda que não sabia o que
+significava "piège", mas deduziu que era algo negativo. Quando questionado sobre a
+razão de achar que era negativo, ele disse que não sabia explicar, que ele apenas tentou
+dar um sentido para todas as palavras que tinha escrito usando o contexto do trabalho na
+juventude.
+Na oitava sessão, mantivemos a dinâmica anteriormente mencionada. O áudio
+foi novamente extraído da RFI e o tema era a "ajuda mútua" e o título da emissão era
+"Pourquoi l'entraide est dans notre nature?"47. A pesquisadora escolheu usar esse
+47
+
+LACHOWSKY, Caroline. Pourquoi l’entraide est dans notre nature?, 2017. Disponível em:
+http://www.rfi.fr/emission/20171012-pourquoi-entraide-est-notre-nature (último acesso: 03/08/2018)
+
+63
+
+documento sonoro para verificar qual era o desempenho dos aprendizes diante de um
+documento sonoro que não aborda um tema ao qual eles estão familiarizados e cuja
+palavra-chave central (entraide) não era conhecida por eles. Porém, dessa vez, não foi
+realizada mise en route, pois a pesquisadora queria verificar como os aprendizes se
+comportariam diante de um áudio com conteúdo mais complexo e descobrir se
+chegariam, sozinhos, a uma boa hipótese de conteúdo.
+Os sujeitos-aprendizes escutaram 6 minutos e 58 segundos da emissão. O
+objetivo da mesma era mostrar que, na evolução humana, não é apenas a "lei do mais
+forte/competição" que prevalece.
+Durante a primeira escuta, os sujeitos-aprendizes B e C anotam o máximo que
+conseguem. O resultado é o seguinte:
+SB: redijation/ competition/ animale/ organismo vegetal/ especialista/ publié/
+biologiste/ coperation/ livre/ synthese/ antropologie, economie, sociologie/ societé/
+nature/ comportement/ genetic/ biomedicine?/ bacterie/ differentes espèces/ biologiste/
+particulement sociale/ superorganisme/ animale e vegetale
+SC: plus fort/ competition para/ primordial/ vegetal, champignon/ super difficile/
+interdisciplinar/ professionel/ autre nouvage/ especialiste pour téléphone/ très/
+competition/ recherche/ 3000 poison/ antropologies, sociologie, psicologie/ voir le
+comportamentacion/ higienic, biomagnetism/ la même spèce/ sociale, donc/ particulier/
+forme de avaliacion biologic/ estudo de certos organismos/ animais, vegetais, bactérias
+vive chacun/ frederic lanuc> entrevistadora fala com 1 especialista sobre estudos
+biológicos e da espécie animal
+Sem discutir o conteúdo do áudio, partimos para a segunda escuta. Ambos os
+sujeitos-aprendizes continuam anotando tudo o que podem, desde o primeiro instante
+em que o áudio começa a ser produzido. As anotações foram:
+SB: competition/ edicion/ coperation/ publié/ condicion plus difficile/
+interdisciplinaire/ par téléphone/ formação pra biomedicine/ recherche/ article/
+publication/ syntese/ comportement altruiste/ genetic/ histoire/ sociale/ particulier/ super
+organisme/ economie/ super posicion/ qui se forme par
+SC: nature/ competition/ animale, bacteria/ biomedicin/ biologist/ economie/
+avoir en la societé/ péche et son comportement genetic/ procuram evidências/
+interdisciplinar/ formas de união de certos organismos/ l'ocean/ energic/ carriot/
+Frederic>institution organisation que incentiva o estudo > eles estão fazendo um estudo
+sobre organismos, mais especificamente organismos do oceano. Falam sobre evolução,
+64
+
+comportamento na sociedade animal. Frederique lanuc é uma instituição que patrocina
+estudos das espécies.
+Sem discutir o conteúdo, fazemos uma terceira escuta. O SB continua anotando
+com bastante frequência, sempre que entende uma palavra ou frase; o SC diz que irá
+apenas escutar e fazer suas anotações depois:
+SB: competition!!!/ primordial de une coperacion d'une competition/ recherche/
+livre/ comportement altruist/ genetic/ interdisciplinaire/ le deuxième interviewé qui
+parle de la bacterie/ biologist
+SC: parasenimotor/ misinimum/ populé/ microrganismos/ bacterie> reprodução
+rápida/ estudo de "pondon"
+Depois das escutas, conversamos sobre suas hipóteses. O SC diz que eles falam
+do comportamento dos microorganismos, que os pesquisadores irão estudar a
+reprodução das bactérias: "Eles fizeram um estudo da sociedade das bactérias, é algo
+ligado à evolução dos organismos, sociedade vegetal, animal, como se reproduzem e se
+organizam".
+O SB diz que se trata se uma competição entre pesquisadores onde eles
+apresentam aquilo que descobriram sobre novos organismos e aquilo que produziram ao
+longo do ano a fim de ganhar algum prêmio, ele menciona que "o segundo entrevistado
+fala sobre uma bactéria e o primeiro fala da genética, de um livro".
+A pesquisadora explica o que significa "entraide" e pergunta se isso muda a
+hipótese deles. Eles pedem para escutar o áudio novamente. Eles não fazem anotações
+durante a escuta.
+Após a passagem do áudio, o SC diz que "é um estudo sobre ajuda mútua dos
+componentes das comunidades de bactérias, microorganismos, para formação de
+sociedades, e como se organizam as espécies". Ele acredita que há um estudo sobre a
+organização das sociedades de bactérias e como elas ajudam umas as outras. Ele
+acredita que nesses estudos há uma comparação da organização de animais, vegetais e
+outras espécies, em vários níveis (ex.: reprodução, nível sociológico, psicológico,
+organização da comunidade, etc).
+O SB acredita que se trata de uma competição entre pesquisadores e que os
+pesquisadores que estão na emissão encontraram uma bactéria nova, com uma
+complexidade diferente das outras. Essa bactéria está, segundo ele, presente em animais,
+vegetais e superorganismos.
+
+65
+
+DISCUSSÃO
+
+66
+
+Considerando a análise de dados coletados realizada no capítulo anterior,
+destacaremos questionamentos a respeito do tratamento do léxico pelos sujeitosaprendizes observados que permitiriam responder às perguntas de pesquisa.
+Retomemos, primeiramente, a terceira sessão da oficina. Quanto ao tratamento
+do léxico específico ao segundo vídeo, foi solicitado como objetivo de escuta que
+sintetizassem o que a apresentadora dizia sobre a culinária marroquina. Os aprendizes
+apontaram algumas características (ex.: très riche – SA) e citam alguns ingredientes
+utilizados (ex.: très {rique} d’ingrédients...{ } olives, { } poisson – SC). Porém, com
+exceção do SD, eles não retêm como informação central do documento que essa
+culinária valoriza modos de cozinhar que estão, aos poucos, se perdendo.
+É possível, assim, perceber que os sujeitos-aprendizes foram capazes de atingir o
+objetivo de reconhecer elementos lexicais relativos às qualidades da cozinha em geral e
+os ingredientes principais da marroquina; isto é, vocabulário anteriormente adquirido
+graças a aulas na disciplina Francês II e rapidamente retomados na mise en route em
+que observaram imagens de pratos marroquinos. O que nos salta aos olhos é que não
+mencionaram a variedade da cozinha marroquina (citadine, familiale, de montagne),
+nem o fato de que são os habitantes dos vilarejos que conseguem manter viva sua
+tradição cultural através da cozinha.
+Ainda na terceira sessão, no que diz respeito aos exercícios de múltipla escolha
+sobre o caftan, podemos perceber que os aprendizes não apresentaram dificuldades em
+responder à primeira e à segunda questões. Por outro lado, na terceira questão, dois
+estudantes assinalaram a resposta incorreta e, mais do que isso, assinalaram a mesma
+alternativa.
+As alternativas corretas das duas primeiras questões eram compostas por muitas
+palavras semelhantes às do vídeo e acreditamos que é por essa razão que os aprendizes
+não encontraram dificuldades; bastava que identificassem as palavras da alternativa no
+áudio para assinalar a resposta correta. A alternativa correta da terceira questão, em
+contrapartida, era uma síntese do que a estilista disse e, além disso, no vídeo, havia
+menção a diferentes cidades do Marrocos.
+Ora, a nosso ver, quando, ao longo do processo de compreensão, os sujeitosaprendizes B e C se deparam com uma sequência de palavras desconhecidas e/ou árabes
+e com a palavra “broderie”, até então desconhecida, há um distúrbio que bloqueia o
+sentido, denominado por Daniel Gaonac’h (1990:44), conforme vimos no capítulo 2,
+página 23, de curto-circuito cognitivo. Pode ser percebido também como uma
+67
+
+sobrecarga que afeta o grau de atenção em relação ao que se escuta. O processo de
+compreensão do documento é apenas retomado ao escutarem a palavra “tableau”, ao fim
+do enunciado da estilista. Assim, os aprendizes acreditaram que a alternativa que
+continha essa palavra era a correta. Por mais que a frase fosse um pouco longa demais
+(les motifs de la région de [nome de cidade marroquina: incompreensível] sont
+différents de ceux de Fès, également ils sont différents de ceux de [nome de cidade
+marroquina: incompreensível] et ceux de Casa. Les broderies, elles réflètent beaucoup
+de choses, c'est comme un tableau), havia palavras ou mesmo trechos chaves que
+poderiam identificar no fluxo do discurso para assinalar a alternativa correta. Em nossa
+análise, estes elementos seriam: /motifs/48 /différents/, /réflètent beaucoup de choses/,
+/c’est comme un tableau/. É por identificar tableau que os aprendizes distorcem o
+sentido.
+Os estudos de O’Malley, Chamot e Küpper49, como vimos, apontam que sujeitos
+mais competentes conseguem manter o mesmo grau de concentração durante a escuta de
+um documento sonoro relativamente longo e, mesmo quando se deparam com
+problemas, são capazes de retomá-lo, ao passo que os ouvintes menos hábeis se perdem
+total ou parcialmente. Os sujeitos-aprendizes B e C fizeram uma escuta fragmentada,
+que consistia em identificar as palavras das alternativas no áudio e, não tendo sucesso,
+devido a uma grande quantidade de palavras desconhecidas e/ou árabes, tiveram uma
+queda de atenção e só conseguiram retomá-la ao fim da frase, quando ouviram uma
+palavra familiar: tableau. Não podemos dizer que se “perderam totalmente” pois, de
+qualquer forma, conseguiram identificar a palavra “tableau”. Por conta do “stress”
+gerado pelas palavras desconhecidas, não conseguiram fazer, à semelhança dos outros,
+uma escuta eficaz e concentrada que lhes permitiria relacionar uma gama de léxico
+anteriormente conhecida.
+No primeiro exercício da quinta sessão, o que chamou a nossa atenção, em
+primeiro lugar, foram as observações feitas pelos aprendizes a respeito do suporte visual
+que acompanhava o documento sonoro no próprio site consultado:
+
+48
+
+Vale ressaltar ainda que o componente lexical motifs já havia sido desenvolvido em sessão anterior da
+oficina
+49
+Apresentados no capítulo 2, páginas 22-23.
+
+68
+
+Imagem 18: Partir en vacances
+
+O SB faz uma hipótese sobre o conteúdo do documento sonoro, a partir da
+imagem, dizendo que talvez o rapaz trabalhe numa praia. Contudo, como apontou o SD,
+no próprio suporte visual, está escrito que o rapaz trabalha em um escritório em Paris. É
+importante relembrar que no questionário aplicado na sexta sessão, o SB alegou que
+tenta, ao longo das escutas do documento sonoro, identificar elementos que o ajudem a
+estabelecer o contexto. Na realidade, ele demonstrou não prestar muita atenção ao
+paratexto que pode auxiliá-lo a melhor compreender o áudio. Isso mostra que nem
+sempre os sujeitos-aprendizes têm consciência das estratégias de aprendizagem que
+costumam utilizar.
+No que tange ao conteúdo do documento sonoro, percebemos que os sujeitosaprendizes foram capazes de identificar elementos que demonstram que a viagem do
+rapaz ainda iria acontecer: verbos no Futur Proche.
+Quando questionados sobre o local das férias escolhido pelo rapaz e seus
+amigos, os sujeitos-aprendizes A e B demonstraram ter um pouco mais de dificuldade,
+pois as alternativas eram paráfrases do que era, de fato, dito no documento sonoro; era
+preciso, portanto, que identificassem algumas palavras-chave e mobilizassem seu
+conhecimento de mundo. O SB, por exemplo, conseguiu compreender uma parte da
+mensagem: afirmou que o rapaz prefere a costa Atlântica. Contudo, acrescentou que
+isso acontece porque “a costa Mediterrânea é minúscula”; ora, o documento traz a
+informação de que as ondas (vagues) é que são minúsculas. Percebemos, portanto, que o
+aprendiz B desconhecia a palavra “vague” e que, ao escutar o áudio, ignorou-a, tentando
+aceder à compreensão global do documento.
+69
+
+Ao escutar o trecho « Je préfère la côte Atlantique pour faire du surf. Sur la côte
+méditerranéenne les vagues sont minuscules », provavelmente, se apoiou nos elementos
+conhecidos : /Je préfère la côte Atlantique/; /côte méditerranéenne/; /minuscule/. Notase, além disso, que o SB não compreendeu que o rapaz era surfista. Se ele tivesse
+compreendido que o rapaz surfa, talvez tivesse conseguido identificar a alternativa
+correta.
+Mais adiante, ainda na quinta sessão, os sujeitos-aprendizes assistem ao vídeo da
+jovem que dá conselhos sobre como organizar uma viagem. A professora-pesquisadora
+elaborou uma atividade didática centralizada no objetivo de escuta sintetizar, a ser
+realizada em duplas. Cada dupla deveria formular um resumo das informações
+fornecidas sobre o subtema escolhido. O SB menciona que é preciso se preparar para
+“coisas extraordinárias” como “enchentes”. No vídeo, a jovem, de fato, fala sobre
+“innondations” e, ao ouvir esta palavra, cognata do português, ele provavelmente a
+relacionou com seu conhecimento de mundo e chegou a uma boa hipótese. Ao fim da
+primeira escuta, o SA afirmou não ter compreendido nada. Ora, após escutar a hipótese
+do colega, conseguiu, em uma segunda passagem do vídeo, fazer uma escuta seletiva
+em que pôde verificar que a informação retida estava correta e acrescentou mais um
+detalhe, o de que a jovem havia ido para a Tailândia em uma época de fortes chuvas.
+Isso nos faz acreditar que, além dos objetivos de escuta listados por Lhote (1999)50,
+podemos pensar no objetivo verificar, pois quando os sujeitos-aprendizes compartilham,
+uns com os outros, o sentido que constroem, as escutas seguintes do documento tendem
+a servir a verificar as informações reconstruídas aprofundando seu sentido com novos
+detalhes.
+Na sexta sessão, os sujeitos-aprendizes escutaram um documento sonoro
+autêntico sobre “Job étudiant”. O objetivo da atividade era sintetizar o conteúdo da
+emissão radiofônica. Ao fim das três escutas, observamos que não só os aprendizes
+conseguiram compreender o tema e o questionamento feito a partir dele – ou seja, se o
+trabalho durante a juventude é, de fato uma boa oportunidade – mas também, como foi
+o caso do SA, compreender detalhes do áudio como, por exemplo, o fato de o diretor do
+Carrefour já ter trabalhado com faturação/administração.
+A mise en route ajudou os alunos a saber qual seria o tema tratado no documento
+sonoro que integra a vivência deles enquanto jovens estudantes que trabalham.
+
+50
+
+Apresentados no capítulo 1, página 18.
+
+70
+
+Ressaltamos que o professor deveria procurar documentos sonoros cujo conteúdo lhes
+seja relativamente familiar, mesmo que seja um pouco mais longo e autêntico, visto que
+os sujeitos-aprendizes são capazes de, ainda assim, compreendê-lo por inferências
+ligadas ao seu conhecimento de mundo percebendo até algumas nuances de sentido. Um
+exemplo foi o caso do SB que, mesmo não atribuindo significado à palavra “piège”,
+afirmou ter conseguido compreender o sentido pelo contexto: algo negativo, um
+impedimento.
+Na oitava sessão da oficina, por outro lado, a pesquisadora decidiu partir de um
+documento que, justamente, não tivesse relação com o conhecimento prévio dos
+aprendizes. Ao fim das três escutas, os sujeitos conseguiram cumprir a tarefa solicitada:
+sintetizar o conteúdo do áudio. É deveras importante ressaltar, no entanto, que cumprir
+a tarefa não significa, necessariamente, atingir o objetivo da escuta, ou seja, sintetizar
+corretamente o conteúdo do documento sonoro. No caso em tela, os sujeitos elaboraram
+uma síntese a partir de hipóteses de sentido que não correspondiam ao documento. O
+SB, por exemplo, detectou palavras que, de certa forma, carregavam um significado
+semelhante ao de “entraide”, como “cooperação” e “comportamento altruísta”. Ainda
+assim, não conseguiu formular uma hipótese minimamente correta.
+Quando a pesquisadora explica o que significa “entraide” e passa, mais uma vez,
+o documento sonoro, os aprendizes mantêm suas hipóteses iniciais, porém tentam, de
+alguma forma, fazer com que a palavra “entraide” faça sentido dentro delas. Isso
+demonstra que, uma vez que os sujeitos-aprendizes criam uma hipótese, dificilmente
+irão alterá-la e, mais do que isso, demonstra que reconhecer o vocabulário presente em
+um documento sonoro nem sempre é suficiente para compreendê-lo. Não basta
+reconhecer as palavras e seus significados; é preciso lhes atribuir sentidos,
+relacionando-as.
+É importante notar, porém, que apesar de os sujeitos-aprendizes B e C não terem
+conseguido compreender do que o documento sonoro, de fato, tratava, eles conseguiram
+criar hipóteses coerentes com as palavras que haviam anotado. As hipóteses criadas por
+eles eram coerentes e plausíveis. A questão é que ambos os aprendizes identificaram
+palavras relacionadas às ciências biológicas (bactérias, organismos, espécies, natureza)
+e, assim sendo, acreditaram que ou se tratava de uma competição entre cientistas ou de
+apresentação oral de uma pesquisa científica sobre comportamentos de seres vivos. Ora,
+tratava-se de uma apresentação oral sobre os resultados de um estudo sociológico a
+
+71
+
+respeito da maneira pela qual as comunidades de seres vivos se constituem e evoluem a
+partir da cooperação, ressaltando, entre eles, o ser humano.
+Dessa forma, percebemos que os aprendizes parecem observar as palavras que
+anotaram e, a partir delas, identificar a qual domínio lexical a maioria delas pertence,
+para, em seguida, atribuir um fio condutor semântico que as inter-relacione, base de
+uma futura hipótese plausível de compreensão. No caso citado, muitas palavras
+remetiam, de fato, às ciências biológicas, ainda que o sentido do documento estivesse
+atrelado às humanidades.
+Eis o que justifica a formulação do subtítulo deste TGI: As palavras que ouço,
+mas não escuto; as palavras que não ouço, mas escuto. Conforme observado ao longo
+da oficina experimental, os sujeitos-aprendizes iniciantes, na maioria das vezes, ouvem
+a paisagem sonora, mas não escutam para além dela. Anotam palavras que remetem a
+significados, mas não são capazes de relacioná-los entre si, com o contexto e,
+principalmente, com o objetivo da escuta. O sentido lhes escapa total ou parcialmente,
+portanto.
+Outras vezes, anotam palavras que julgam ter escutado, mas que não são
+reconhecíveis nem aceitas pela comunidade linguística francófona. É o caso do SC no
+que tange à terceira escuta do documento da oitava sessão, visto que anotou no
+retângulo as palavras parasenimotor e misinimum. E a partir destas palavras que, do
+ponto de vista da pesquisadora, só podem ser caracterizadas como interlíngua, o SC
+constroi uma hipótese de sentido plausível, mas incorreta.
+Para que a compreensão oral seja bem-sucedida, não basta reconhecer a
+paisagem sonora, nem simplesmente identificar e reconhecer palavras conhecidas, é
+preciso atribuir sentido ao excerto ouvido. É igualmente necessário que adquiram um
+novo desempenho linguístico, pois cada língua possui um sistema prosódico, lexical e
+sintático próprios que culminam no nível semântico.
+Do ponto de vista da professora em formação, percebe-se que atividades com
+documentos que possuam diferentes níveis de dificuldade permitem verificar quais são
+as estratégias de escuta mais utilizadas por seus aprendizes e, a partir delas, conceber
+atividades adaptadas a cada turma e a cada sub-grupo seu permitindo, assim, que
+desenvolvam novas estratégias pertinentes a determinado objetivo de escuta.
+
+72
+
+CONCLUSÃO
+Considerando os dados acima apresentados e discutidos, acreditamos que há
+algumas medidas que possam ser tomadas pelos professores a fim de que a escuta dos
+sujeitos-aprendizes seja mais eficaz. A primeira delas talvez seja lhes explicar que não
+há uma forma correta de escutar um documento; cada um deles é um indivíduo e, por
+isso, possui suas particularidades no que diz respeito à aprendizagem de uma língua
+estrangeira, seja ela qual for.
+Ao mesmo tempo que o professor deve respeitar essa individualidade, ele
+precisa incentivar os sujeitos-aprendizes a experimentar novas estratégias de
+aprendizagem e, sobretudo, dar-lhes tempo, sempre que possível, para que possam
+refletir, individualmente, sobre o que estão escutando. Dessa forma, o aprendiz pode
+colocar em prática as estratégias de escuta apresentadas pelo professor, sem que as
+escutas seguintes sejam influenciadas pelos colegas no momento das discussões em
+grupo.
+Como observamos, a escuta com objetivo de “identificar” foi usada
+frequentemente por todos os sujeitos-aprendizes iniciantes; o único que não a usou foi o
+SD que, como mencionado, possuía um nível línguístico B (B1-B2). Enquanto o SD
+tem uma maturidade linguística que o permite compreender algumas nuances do
+documento e realizar inferências com maior frequência, os outros não a possuem. Isso,
+porém, não se deve às estratégias de aprendizagem de que fazem uso, mas aos seus
+níveis de competência e de desempenho linguísticos. É importante que o professor
+consiga discernir o nível linguístico dos sujeitos-aprendizes que, muitas vezes, apesar de
+estarem em uma mesma classe, desenvolvem suas habilidades linguísticas em ritmos
+diversos. Mesmo que um professor consiga fazer com que um sujeito-aprendiz iniciante
+aplique todas as estratégias de aprendizagem possíveis para a compreensão de um
+áudio, este não será capaz de compreendê-lo um sua integralidade pois lhe falta
+conhecimento linguístico. Caso o professor faça exigências que vão além do nível
+linguístico dos sujeitos-aprendizes, estes provavelmente se sentirão desestimulados.
+Sujeitos-aprendizes iniciantes tendem, como visto a partir dos exemplos
+descritos e discutidos, a ter uma escuta fragmentada e a assumir comportamentos de
+escuta em que visam detectar, selecionar, identificar e reconhecer palavras
+anteriormente estudadas ou que sejam cognatos. Tendem a listar o máximo de palavras
+73
+
+conhecidas e buscam deduzir o tema global a partir dessas palavras que escreveram e
+não a partir do áudio. A impressão que dá é que eles fazem uma escuta seletiva antes
+mesmo de saberem do que se trata o documento pois eles não sabem o que procuram,
+mas anotam as palavras no mesmo instante em que as escutam, simplesmente por
+conhecê-las ou acharem que as conhecem. Nesses casos, o professor pode evitar
+exercícios que visam, por exemplo, preenchimento de lacunas; exercícios cujas
+alternativas possuam as mesmas palavras presentes nos áudios pois isso reforça o hábito
+de identificar palavras.
+Uma medida que pode ser adotada pelo professor é fazer, no início da aula,
+exercícios que introduzam os sujeitos-aprendizes ao vocabulário necessário para a
+compreensão
+
+de
+
+palavras-chave documento. Esses exercícios
+
+não
+
+precisam,
+
+necessariamente, tratar do tema que será abordado pelo documento sonoro - caso o
+objetivo do professor seja verificar se os alunos conseguem compreender, sozinhos,
+qual é o tema tratado. Porém, exercícios que introduzem o sujeito-aprendiz às palavraschave são importantes, pois lhe ajudam a tornar o léxico que será ouvido menos
+desconhecido, aumentam suas capacidade de fazer inferências e sua chance de realizar
+uma escuta eficaz.
+Sendo assim, percebe-se que o professor deve constantemente estar atento às
+facilidades que possuem os aprendizes, à reação às atividades propostas; às dificuldades
+que enfrentam. É importante que se adapte diante dos desafios que lhe são impostos no
+decorrer das sequências didáticas e que desenvolva um olhar crítico sobre o material
+didático que utiliza, seja ele um manual, seja as atividades que cria para seus
+aprendizes.
+Ao final de todo o processo de formação à docência pelo qual passamos e no
+qual múltiplas vozes incidem51, criamos uma tabela a partir de parâmetros que nos
+parecem pertinentes para a concepção de atividades de compreensão oral.
+Nesta tabela, propomos parâmetros de elaboração, pelo professor, de atividades
+didáticas, que contribuam para que o aprendiz exercite diferentes estratégias de
+aprendizagem e potencialize, assim, seu desempenho em compreensão oral em língua
+estrangeira. Por essa razão, não nos baseamos apenas em documentos orais autênticos e
+didatizados, visto que a própria interação cooperativa e lúdica entre os aprendizes em
+salaaperfeiçoa suas habilidades de compreensão oral.
+51
+
+Disciplinas da graduação e da licenciatura em Letras português-francês na USP, a pesquisa realizada
+para este TGI, acrescida ainda por um estágio de formação de professores no CLA de Besançon.
+
+74
+
+Como no caso dos aprendizes observados, pudemos verificar que os mais
+frequentes objetivos de escuta espontaneamente realizados foram escutar ou para
+identificar, ou para reconhecer, ou ainda verificar; pudemos constatar, por outro lado,
+que o objetivo de sintetizar só foi colocado em prática de forma mais recorrente quando
+explicitamente solicitado pela pesquisadora enquanto tarefa.
+Enquanto pesquisadora-professora, considero que seria necessário realizar
+atividades que os permitisse compreender documentos orais em outros níveis que não
+apenas o lexical (como o do reconhecimento de palavras isoladas) para que, pouco a
+pouco, sejam capazes de identificar diferentes entonações, relacionando-as à intenção de
+de quem fala, compreender o sentido global do documento sonoro, reconhecer palavras
+e sequenciar as unidades lexicais de um único sintagma de modo a atingir o sentido do
+sintagma, reformular, identificar ambiguidades, sintetizar, etc.
+
+75
+
+Objetivo de
+
+Estratégias de
+
+Tipologia
+
+Objetivo da
+
+escuta
+
+aprendizagem
+
+de
+
+atividade
+
+suportes
+
+didática
+
+Modalidades
+
+Conscientização ou
+Automatização?
+
+Selecionar
+
+Metacognitivas:
+
+Em plenária?
+
+informações
+
+Cognitivas:
+
+Escuta
+individualizada?
+Interação em
+pares? Interação
+em subgrupos?
+
+Identificar
+
+Metacognitivas
+
+unidades
+
+Cognitivas
+
+lexicais
+Reconhecer
+
+Metacognitivas
+
+conteúdos
+temáticos
+
+Cognitivas
+
+Identificar
+
+Metacognitivas
+
+ambiguidades
+Cognitivas
+Reformular
+
+Metacognitivas
+Cognitivas
+
+Sintetizar
+
+Metacognitivas
+Cognitivas
+
+Julgar
+
+Metacognitivas
+Cognitivas
+
+Como tipologia de suportes, poderíamos indicar entrevistas e documentários
+para selecionar informações; canções e poemas para identificar unidades lexicais;
+entrevistas, conferências e palestras para reconhecer conteúdos temáticos; discursos em
+debates políticos para identificar ambiguidades; e documentários, entrevistas e palestras
+para os objetivos reformular, sintetizar e julgar.
+Quanto aos objetivos das atividades didáticas, podemos citar: a familiarização
+com a paisagem sonora; a discriminação fonética; o treino da memória auditiva; a
+interpretação da entonação; compensação de lacunas; solicitação de interação oral para
+
+76
+
+construir o sentido. Como exemplo de atividades didáticas, citamos a blablação, a
+escuta direcionada, a compreensão de mensagens incompletas, ditado de imagens.
+Escutar é mais do que ouvir.
+
+77
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+BOGAARDS, P. Aptitude et affectivité dans l'apprentissage des langues
+étrangères. Paris: Hatier, 1988.
+_______________. Le vocabulaire dans l'apprentissage des langues étrangères.
+Didier: 1994
+BANGE, P. Analyse conversationnelle et théorie de l'action. Paris: Les Éditions
+Didier: 1992.
+CONSELHO DA EUROPA. Quadro de referência para línguas. Aprendizagem,
+ensino,
+
+avaliação.
+
+Edições
+
+ASA:
+
+2001.
+
+Disponível
+
+em:
+
+http://www.dge.mec.pt/sites/default/files/Basico/Documentos/quadro_europeu_comum_
+referencia.pdf
+CORNAIRE, C; C. Germain. La compréhension orale. CLE International, 1998.
+CUQ, J.P. Dictionnaire de didactique du français langue étrangère et seconde.
+CLE International, 2003.
+CUQ, J.P., GRUCA, I. Cours de didactique du français langue étrangère et
+seconde. Grenoble: Presses universitaires de Grenoble, 2005.
+CYR, P.; GERMAIN, C.. Les stratégies d'apprentissage. Paris, CLE
+International, 1996.
+FONSECA, J. J. S. Metodologia da pesquisa científica. Fortaleza: UEC, 2002.
+GAONAC´H, D. Acquisition et utilisation d'une langue étrangère. Rennes,
+Hachette, 1990.
+GERMAIN, C. Évolution de l'enseignement des langues: 5000 ans
+d'histoire.Paris: CLE International, 1993.
+GERMAIN, C. Didactique générale, didactique des langues et linguistique
+appliquée. Canadian Journal of Applied Linguistics. Vol 3, no 1-2, (2000), p. 23-33,
+200.
+
+Disponível
+
+em:
+
+https://journals.lib.unb.ca/index.php/CJAL/article/view/19822/21587
+LHOTE, E. Enseigner l’oral en interaction : Percevoir, écouter, comprendre.
+Hachette, 1999.
+MARTINS, Heloisa Helena T. de Souza. Metodologia qualitativa de pesquisa
+Educação e Pesquisa, São Paulo, v.30, n.2, p. 289-300, maio/ago. 2004. Disponível em:
+http://www.scielo.br/pdf/%0D/ep/v30n2/v30n2a07.pdf
+78
+
+MASSARO, P. R. Teatro e Língua Estrangeira: entre teoria(s) e prática(s). São
+Paulo, Paulistana, 2008.
+PERRENOUD, P. A prática reflexiva no ofício do professor: profissionalização
+e razão pedagógica. Porto Alegre: Artmed, 2002.
+PETTER, M. Linguagem, língua, linguística. in: FIORIN, J.L. (org) Introdução
+à linguística volume 1. 2012. p. 11-24. São Paulo: Editora Contexto, 2012.
+PUREN, C. Histoire des méthodologies. Paris: Nathan-CLÉ International, 1988.
+Disponível em: file:///C:/Users/SILVA/Downloads/puren_histoire_methodologies.pdf
+PORCHER, L. Le Français langue étrangère: Émergence et enseignement d'une
+discipline. Paris: Hachette, 1995.
+RICHARDS, J. C; RODGERS, T. S. Approaches and Methods in Language
+Teaching.
+
+Cambridge
+
+University
+
+Press,
+
+1986.
+
+Disponível
+
+em:
+
+https://aguswuryanto.files.wordpress.com/2008/09/approaches-and-methods-inlanguage-teaching.pdf
+Saydı, T. L’approche actionnelle et ses particularités en comparaison avec
+l’approche communicative. Synergies Turquie n° 8 - 2015 p. 13-28. Disponível em:
+https://gerflint.fr/Base/Turquie8/saydi.pdf
+THIOLLENT, M. Metodologia da Pesquisa-Ação. 2º Ed. São Paulo: Editora
+Corteza, 1986
+
+Sites referenciados:
+
+LACHOWSKY, Caroline. Pourquoi l’entraide est dans notre nature?, 2017. Disponível
+em: http://www.rfi.fr/emission/20171012-pourquoi-entraide-est-notre-nature (último acesso:
+03/08/2018)Michaelis On-line: Dicionário Brasileiro da Língua Portuguesa. Editora
+
+Melhoramentos. Disponível em: https://michaelis.uol.com.br/
+MILOT, A.; MAUCOURT, P. Les jobs étudiants : pièges ou opportunités ?, 2016.
+Disponível em: http://www.rfi.fr/emission/20160814-france-jobs-etudiants-boulots-jeunespieges-opportunites-emploi-chomage (último acesso: 03/08/2018)
+
+Tapis,
+
+Unité
+
+03,
+
+situation
+
+01.
+
+Disponível
+
+em:
+
+http://www.tapis.com.au/studentbook2/Unit3/u03_situation_a01.html (último acesso:
+26/02/2018).
+
+79
+
+VisitMorocco.
+
+Highlights
+
+of
+
+Morocco.
+
+Disponível
+
+em:
+
+https://www.youtube.com/watch?v=aEVzVXXPGsw (último acesso: 03/08/2018)
+VisitMorocco.
+
+Maroc
+
+-
+
+Cuisine
+
+régionale.
+
+Disponível
+
+em :https://www.youtube.com/watch?v=INIHjA0z7hQ (último acesso: 03/08/2018)
+VisitMorocco.
+
+Styliste
+
+Caftan.
+
+Disponível
+
+em:
+
+https://www.youtube.com/watch?v=DJ5c1iS83L4&t=1s (último acesso: 03/08/2018)
+
+80
+
+ANEXOS:
+
+81
+
+1. Respostas aos questionários
+
+1.1 Respostas do sujeito-aprendiz A:
+
+82
+
+1.2 Respostas do sujeito-aprendiz B :
+
+83
+
+1.3 Respostas do sujeito-aprendiz C:
+
+84
+
+1.4 Respostas do sujeito-aprendiz D:
+
+85
+
+2. Documentos com anotações feitas pelos sujeitos-aprendizes durante
+escuta dos áudios na sessão 6 da oficina:
+
+2.1 Documento com anotações do sujeito-aprendiz A, página 1:
+
+86
+
+2.1 Documento com anotações do sujeito-aprendiz A, página 2:
+
+87
+
+2.1 Documento com anotações do sujeito-aprendiz A, página 3:
+
+88
+
+2.2 Documento com anotações do sujeito-aprendiz B, página 1:
+
+89
+
+2.2 Documento com anotações do sujeito-aprendiz B, página 2:
+
+90
+
+2.2 Documento com anotações do sujeito-aprendiz B, página 3:
+
+91
+
+2.3 Documento com anotações do sujeito-aprendiz D, página 1:
+
+92
+
+2.3 Documento com anotações do sujeito-aprendiz D, página 2:
+
+93
+
+3. Documentos com anotações feitas pelos sujeitos-aprendizes durante
+escuta dos áudios na sessão 8 da oficina:
+
+3.1 Documento com anotações do sujeito-aprendiz B, página 1:
+
+94
+
+3.1 Documento com anotações do sujeito-aprendiz B, página 2:
+
+95
+
+3.2 Documento com anotações do sujeito-aprendiz C, página 1:
+
+96
+
+3.1 Documento com anotações do sujeito-aprendiz B, página 2:
+
+97
+
+4. Modelo do termo de consentimento livre e esclarecido assinado pelos aprendizes
+4.1 Termo de consentimento livre e esclarecido, página 1:
+
+98
+
+4.1 Termo de consentimento livre e esclarecido, página 2:
+
+99
+
+4.1 Termo de consentimento livre e esclarecido, página 3:
+
+100
+
+

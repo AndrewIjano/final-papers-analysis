@@ -1,0 +1,22 @@
+# Final project info
+
+contra_cp: no
+c_citacao: no
+dedictria: yes
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: yes
+l_tabelas: yes
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: no
+ini: Introdução
+secoes:
+ - Fundamentação Teórica
+ - Métodos
+end: Conclusões
+ref: Referências Bibliográficas

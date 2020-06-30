@@ -1,0 +1,3360 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE DIREITO DE RIBEIRÃO PRETO
+
+MARIANA AGARIE SANT’ANA ALVES
+
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS
+REPETITIVAS
+
+Orientador: Prof. Dr. Fernando da Fonseca Gajardoni
+
+RIBEIRÃO PRETO – SP
+2017
+
+MARIANA AGARIE SANT’ANA ALVES
+
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS
+
+Trabalho de Conclusão de Curso apresentado à
+banca examinadora da Faculdade de Direito de
+Ribeirão Preto da Universidade de São Paulo
+como requisito parcial para obtenção do título
+de Bacharel em Direito.
+
+Orientador: Prof. Dr. Fernando da Fonseca
+Gajardoni
+
+RIBEIRÃO PRETO – SP
+2017
+
+Ficha catalográfica elaborada pela Biblioteca
+e Seção Técnica de Informática da FDRP/USP,
+com os dados fornecidos pelo(a) autor(a)
+
+A474i
+
+Alves, Mariana Agarie Sant Ana
+Incidente de Resolução de Demandas Repetitivas / Mariana Agarie
+Sant Ana Alves; orientador Fernando da Fonseca Gajardoni. -Ribeirão Preto, 2017.
+102 p.
+Trabalho de Conclusão de Curso (Graduação - Departamento de
+Direito Privado e Processo Civil) -- Faculdade de Direito de Ribeirão
+Preto, Universidade de São Paulo, 2017.
+1. DEMANDAS REPETITIVAS. 2. PROCESSO CIVIL. 3. CÓDIGO
+DE PROCESSO CIVIL DE 2015. 4. PRECEDENTE VINCULANTE.
+I. Gajardoni, Fernando da Fonseca, orient. II. Título
+
+Nome: ALVES, Mariana Agarie Sant Ana
+Título: Incidente de Resolução de Demandas Repetitivas
+
+Trabalho de Conclusão de Curso apresentado à banca
+examinadora da Faculdade de Direito de Ribeirão Preto da
+Universidade de São Paulo como requisito parcial para obtenção
+do título de Bacharel em Direito.
+
+Aprovado em:
+
+Banca Examinadora
+
+Prof.(a) Dr. (a) ___________________________ Instituição: _____________________
+Julgamento: _________________________________ Assinatura: _____________________
+
+Prof.(a) Dr. (a) ___________________________ Instituição: _____________________
+Julgamento: __________________________________Assinatura: _____________________
+
+Prof.(a) Dr. (a) ___________________________ Instituição: _____________________
+Julgamento: __________________________________Assinatura: _____________________
+
+Ribeirão Preto, ____ de __________________________ de 2017.
+
+AGRADECIMENTOS
+
+Aos meus pais, Cintia e Cesar, por realizarem meus sonhos. Por todo amor, carinho e
+paciência que tornaram mais leves meus passos durante este caminho.
+
+À minha tia, Cláudia e à minha avó, Tomi, por sempre torcerem pelas minhas
+conquistas.
+
+Ao meu namorado, Yuri, por ser meu grande companheiro.
+
+Às minhas amigas, Fernanda Borba, Paula Pagnano e Camila Chiaradia, por estarem ao
+meu lado durante todos esses anos.
+
+Aos amigos da República Ediglê por serem minha família ribeirão-pretana.
+
+À Associação Atlética Acadêmica Casa Sete e ao time de Futsal Feminino por terem
+proporcionado os melhores momentos da minha graduação.
+
+Ao meu professor, Fernando Gajardoni, por aceitar ser meu orientador e por ser fonte
+de inspiração.
+
+Agradeço, por fim, a todos professores, funcionários, amigos e colegas da Faculdade de
+Direito de Ribeirão Preto que enriqueceram, de alguma forma, minha caminhada acadêmica.
+
+RESUMO
+
+O presente estudo tem como objetivo analisar o incidente de resolução de demandas
+repetitivas, mecanismo criado pela Lei 13.105 de 16 de março de 2015, qual seja o Código de
+Processo Civil de 2015. Buscou-se, em todos os tópicos, trazer à baila pontos ainda polêmicos
+acerca do novel instituto e as opiniões de importantes juristas e doutrinadores. Inicialmente foi
+apresentado o tratamento processual conferido às demandas repetitivas pela ação coletiva, pelos
+recursos especiais e extraordinários repetitivos, pelo incidente de assunção de competência e
+por fim, pelo IRDR. Logo após, foi feita uma explanação acerca do regime jurídico do instituto
+protagonista do estudo, perpassando por seus antecedentes, pela legitimidade, pela
+admissibilidade e pela competência. Por fim, estudou-se a interação do incidente de resolução
+com outros institutos presentes no ordenamento jurídico brasileiro, sendo estes o julgamento
+liminar de improcedência, os precedentes vinculantes e o julgamento monocrático de recursos.
+
+Palavras chave: Incidente de resolução de demandas repetitivas; litigiosidade de massa;
+Código de Processo Civil de 2015; precedentes vinculantes.
+
+ABSTRACT
+
+The present study aims to analyze the incident of resolution of repetitive demands,
+mechanism created by Law 13.105 of March 16, 2015, which is the Civil Procedure Code of
+2015. In all of the topics, it was tried to bring up controversial points about one of the new
+institute and the opinions of important jurists and doctrinators. Initially, the procedural
+treatment given to repetitive demands for collective action, for the special and repetitive
+extraordinary resources, for the incident of assumption of competence and, finally, for the IRDR
+were presented. Subsequently, an explanation was made of the legal regime of the institute that
+is the protagonist of the study, going through its antecedents, legitimacy, admissibility and
+competence. Finally, we studied the interaction of the resolution incident with other institutes
+that exist in the Brazilian legal system, those being the preliminary injunction for dismissal,
+binding precedents and the monocratic judgment of appeals.
+
+Keywords: Incident of resolution of repetitive demands; mass litigation; Code of Civil
+Procedure of 2015; binding precedents.
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+§: Parágrafo
+Art.: Artigo
+Arts.: Artigos
+CDC: Código de Defesa do Consumidor
+CF/88: Constituição Federal de 1988
+CNJ: Conselho Nacional de Justiça
+CPC/73: Código de Processo Civil de 1973
+CPC/15: Código de Processo Civil de 2015
+Ed.: Edição
+GLO: Group Litigation Order
+IRDR: Incidente de Resolução de Demandas Repetitivas
+IAC: Incidente de Assunção de Competência
+MP: Ministério Público
+STF: Supremo Tribunal Federal
+STJ :Superior Tribunal de Justiça
+TJ: Tribunal de Justiça
+TRF: Tribunal Regional Federal
+Vol.: Volume
+
+SUMÁRIO
+
+1
+
+INTRODUÇÃO.............................................................................................................. 17
+
+2
+
+TRATAMENTO PROCESSUAL DAS DEMANDAS REPETITIVAS .....................19
+2.1
+
+Ações Coletivas ............................................................................................. 20
+
+2.1.1 Histórico ...................................................................................................... 21
+2.1.2 Direito difusos, coletivos e individuais homogêneos ............................... 23
+2.1.2.1 Direitos individuais homogêneos ...................................................... 24
+2.1.3 A ineficácia da ação coletiva ..................................................................... 26
+2.2
+
+Recursos Extraordinário e Especial Repetitivos ....................................... 28
+
+2.2.1 Admissibilidade ....................................................................................... 29
+2.2.1.1 Requisitos ............................................................................................ 29
+2.2.1.1.1 Multiplicidade de recursos....................................................... 29
+2.2.1.1.2 Mesma questão unicamente de direito ................................... 29
+2.2.1.2 Duplo juízo de admissibilidade....................................................... 30
+2.2.2 Força vinculante ......................................................................................... 30
+2.2.3 Repercussão geral ...................................................................................... 33
+2.2.3.1 Exclusão de litigantes e direito de ação. ........................................... 34
+2.3
+
+Incidente de Assunção de Competência ..................................................... 35
+
+2.3.1. Admissibilidade ......................................................................................... 35
+2.3.1.1 Requisitos ............................................................................................ 36
+2.3.1.1.1 Relevante questão de direito ...................................................... 36
+2.3.1.1.2 Questão de grande repercussão social ....................................... 36
+2.3.1.1.3 Sem repetição de múltiplos processos ....................................... 37
+2.3.1.2 Duplo juízo de admissibilidade e procedimento .............................. 38
+2.3.2 Artigo 947, § 4º: relevante questão de direito.......................................... 39
+2.3.3 Força vinculante ......................................................................................... 39
+2.4
+
+Incidente de Resolução de Demandas Repetitivas - IRDR ....................... 42
+
+2.4.1 Denominação .............................................................................................. 43
+2.4.2 Mesma questão unicamente de direito ..................................................... 44
+
+2.4.3 Técnica objetiva para julgamento de demandas repetitivas .................. 46
+3
+
+INCIDENTE
+
+DE
+
+RESOLUÇÃO
+
+DE
+
+DEMANDAS
+
+REPETITIVAS ....................................................................................................................... 49
+3.1 Antecedentes ...................................................................................................... 49
+3.1.1 Antecedentes no direito estrangeiro ......................................................... 49
+3.1.1.1 Musterverfahren ou procedimento-modelo ....................................... 50
+3.1.1.2 Group Litigation Order (GLO) ........................................................... 52
+3.1.1.3 Class Action.......................................................................................... 52
+3.1.1.3.1 Representatividade adequada..................................................... 53
+3.1.2 Antecedentes no direito brasileiro ............................................................ 54
+3.1.2.1 Súmula vinculante .............................................................................. 55
+3.1.2.2 Incidente de uniformização de jurisprudência ................................ 56
+3.1.2.3 Juizados especiais................................................................................ 57
+3.2
+
+Legitimidade .................................................................................................. 58
+
+3.2.1 Das partes .................................................................................................... 59
+3.2.2 Do Ministério Público e da Defensoria Pública ....................................... 60
+3.2.3 Do juiz ou relator ........................................................................................ 61
+3.3 Admissibilidade ................................................................................................. 62
+3.3.1 Requisitos .................................................................................................... 62
+3.3.1.1 Efetiva repetição de processos ........................................................... 63
+3.3.1.2. Mesma questão de direito ................................................................. 64
+3.3.1.3 Risco de ofensa à isonomia e à segurança jurídica. ......................... 64
+3.3.1.4 Requisito negativo ............................................................................... 66
+3.3.1.5 A existência de causa pendente no tribunal seria um requisito de
+admissibilidade? ......................................................................................................... 66
+3.3.2 Decisão de admissão e suas consequências .............................................. 68
+3.3.3 Decisão de inadmissão ................................................................................ 70
+3.3.4 Publicidade do IRDR ................................................................................. 71
+3.4 Competência ...................................................................................................... 71
+3.4.1 Inconstitucionalidade formal do parágrafo único do artigo 978. .......... 73
+
+4
+
+INTERAÇÃO ENTRE O INCIDENTE DE RESOLUÇÃO DE DEMANDAS
+
+REPETITIVAS COM OUTROS INSTITUTOS .................................................................75
+4.1
+
+Julgamento liminar de improcedência ....................................................... 75
+
+4.1.1 Hipóteses de incidência do julgamento liminar de improcedência ..... 75
+4.1.2 Artigo 332 do CPC/2015 x artigo 285-A do CPC/73 ............................... 76
+4.1.3 Constitucionalidade do artigo 332 do CPC/2015 .................................... 78
+4.2
+
+Precedente Vinculante ................................................................................. 79
+
+4.2.1 Conceito ...................................................................................................... 79
+4.2.2 Precedente vinculante no ordenamento jurídico brasileiro ................... 81
+4.2.2.1 Precedente vinculante no CPC de 2015 ........................................... 81
+4.2.3 O IRDR forma precedentes vinculantes? ................................................ 85
+4.2.3.1 Representatividade adequada. .......................................................... 86
+4.3
+
+Julgamento Monocrático de Recursos ........................................................ 89
+
+4.3.1 Julgamento no âmbito dos tribunais ........................................................ 89
+4.3.2 Hipóteses de julgamento monocrático ..................................................... 89
+5
+
+CONCLUSÕES ................................................................................................................93
+
+6
+
+REFERÊNCIAS ...............................................................................................................97
+
+17
+
+1. INTRODUÇÃO
+
+Sem dúvida, uma das maiores novidades trazidas pelo Código de Processo Civil de 2015
+(CPC/2015) foi o Incidente de Resolução de Demandas Repetitivas – IRDR.
+Tal incidente, como revela a Exposição de Motivos do CPC/20151, busca tornar mais
+célere as medidas processuais cujo objetivo seja o julgamento conjunto de demandas que
+gravitam em torno da mesma questão de direito, por dois ângulos:
+a) o relativo àqueles processos, em si mesmos considerados, que, serão decididos
+conjuntamente; e
+b) no que concerne à atenuação do excesso de carga de trabalho do Poder Judiciário – já
+que o tempo usado para decidir tais processos poderá ser mais eficazmente aproveitado em
+todos os outros, tornando menores os ditos “tempos mortos” (períodos em que nada acontece
+no processo).
+Neste sentido, o IRDR se propõe a trazer maior segurança jurídica às decisões judiciais
+e, ao mesmo tempo, agilizar a enorme carga de trabalho do poder judiciário, tornando mais
+eficaz a prestação jurisdicional.
+Perpassando, pois, pelo universo de instrumentos processuais, que também se voltam à
+justiça ideal – rápida, segura e, consequentemente, concreta, o presente estudo aprofunda-se na
+análise dos principais contornos doutrinários do IRDR, desenvolvendo-se em três tópicos.
+No primeiro deles, aborda o tratamento processual das demandas repetitivas, com ênfase
+nas ações coletivas, nos recursos extraordinários e especiais repetitivos, no incidente de
+assunção de competência e no incidente de resolução de demandas repetitivas.
+
+1
+
+BRASIL. Congresso Nacional. Senado Federal. Comissão de Juristas Responsável pela Elaboração de
+Anteprojeto de Código de Processo Civil. Código de Processo Civil: anteprojeto / Comissão de Juristas
+Responsável pela Elaboração de Anteprojeto de Código de Processo Civil – Brasília: Senado Federal, Presidência,
+2010. p. 20. Disponível em: <https://www.senado.gov.br/senado/novocpc/pdf/Anteprojeto.pdf> Acesso em: 26 de
+ago 2017
+
+18
+No segundo, trata, especificamente, dos contornos do IRDR, seus antecedentes,
+legitimidade, admissibilidade e competência.
+Por fim, no terceiro tópico, apresenta a interação entre o e IRDR e outros institutos,
+especialmente, o julgamento liminar, o precedente vinculante e o julgamento monocrático de
+recursos.
+
+19
+2. TRATAMENTO PROCESSUAL DAS DEMANDAS REPETITIVAS
+
+De início e de forma genérica, aponta-se que demandas repetitivas constituem o
+ajuizamento em massa de ações individuais similares quanto a causa de pedir e o pedido, em
+decorrência de relações jurídicas de origem comum.2
+
+No contexto do CPC/2015, demandas repetitivas possuem uma conotação um pouco
+mais restritiva, abarcando as questões comuns que envolvem apenas matéria de direito, seja ele
+material ou processual. Nesta senda, estas questões comuns não são necessariamente a matéria
+de fundo das ações repetitivas, podendo constituir apenas uma parte da discussão.
+
+De um jeito ou de outro, o fato é que as demandas repetitivas começaram a ser
+identificadas em um contexto de alteração do panorama socioeconômico do Brasil, com o
+avanço da tecnologia, o aperfeiçoamento dos modos de distribuição de produtos, e
+consequentemente, a diversificação de relações jurídicas.
+Na mesma toada, a ampliação do acesso à justiça3, trazido, especialmente, pela
+Constituição Federal de 1998, foi determinante, dentre outros inúmeros fatores, para a
+proliferação dos conflitos de massa no âmbito do Poder Judiciário.4
+
+2
+
+MENDES, Aluisio Gonçalves de Castro; RODRIGUES, Roberto de Aragão Ribeiro. Reflexões sobre o incidente
+de demandas repetitivas previsto no projeto de novo código de processo civil. vol. 211. ano 37. São Paulo: Editora
+Revista dos Tribunais, set. 2012. p. 191-208.
+3
+Acerca do tema, Antônio Veloso Peleja Júnior ao falar da expressão criada por Mauro Cappelletti “ondas de
+acesso à Justiça, diz: “ Em sua visão conjunta com Bryant Garth, na obra Acesso à Justiça, são três grandes ondas:
+a primeira é a gratuidade da justiça para os pobres; a segunda relaciona-se às reformas tendentes a proporcionar a
+representação jurídica para os interesses difusos (especialmente nas áreas de proteção ambiental e do consumidor);
+a terceira e mais recente, é o enfoque de acesso à justiça, que inclui os dois posicionamentos anteriores, mas vai
+além, representando uma tentativa de atacar as barreiras do acesso de modo mais articulado e compreensivo. Esta
+última não receia o novo e provoca modificações estruturais no Judiciário, no processo e procedimento, rumo à
+celeridade, eficiência e, consequentemente, melhor prestação jurisdicional.” (PELEJA JÚNIOR, Antônio Veloso.
+Manual de processo civil: fase postulatória. 2. ed. Curitiba: Juruá, 2012. p.107.)
+4
+AMARAL, Guilherme Rizzo. Efetividade, segurança, massificação e a proposta de um “incidente de resolução
+de demandas repetitivas”. vol. 196. ano 36. São Paulo: Editora Revista dos Tribunais, set. 2011. p. 238-294.
+
+20
+Diante deste quadro, e através dos Relatórios Justiça em Números feitos pelo Conselho
+Nacional de Justiça desde 20045, sabe-se que a máquina judiciária, tanto do ponto de vista
+estrutural, quanto do ponto de vista processual não foi (e não é) capaz de lidar com a quantidade
+de processos em tramitação nos tribunais brasileiros.
+Veja-se que, se “o Poder Judiciário fosse paralisado sem ingresso de novas demandas,
+com a atual produtividade, de magistrados e servidores, seriam necessários, estima-se, cerca de
+3 anos de trabalho para zerar o estoque”6.
+
+Neste universo, as demandas repetitivas, além de contribuírem para a morosidade do
+Poder Judiciário, ainda, criam uma “anomalia no sistema processual”7, pois delas derivam,
+muitas vezes, decisões diferentes acerca de relações jurídicas iguais, ferindo, pois, os princípios
+da isonomia e da segurança jurídica.
+
+Diante disto, inicialmente, se faz essencial analisar o tratamento processual conferido as
+demandas repetitivas em nosso ordenamento jurídico, abordando-o, especialmente, nas ações
+coletivas, nos recursos extraordinários e especiais repetitivos, no incidente de assunção de
+competência e no IRDR.
+2.1 Ações Coletivas
+O presente estudo toma emprestado o conceito de ação coletiva de Didier e Zaneti:
+“demanda que dá origem a um processo coletivo, pela qual se firme a existência de uma situação
+jurídica coletiva ativa ou passiva exigida para a tutela de grupo de pessoas”8.
+
+5
+
+CONSELHO NACIONAL DE JUSTIÇA. Disponível em <http://www.cnj.jus.br/programas-e-acoes/pj-justicaem-numeros>. Acesso em: 04 de out. 2017.
+6
+
+CONSELHO NACIONAL DE JUSTIÇA. Justiça em números 2016: ano-base 2015. Brasília: 2016. Disponível em: <
+http://www.cnj.jus.br/programas-e-acoes/pj-justica-em-numeros >. Acesso em: 04 set. 2017. p.42.
+7
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. O novo processo civil. 2. ed.
+São Paulo: Editora Revista dos Tribunais, 2016, p.564.
+8
+DIDIER JR., Fredie; ZANETI JR., Hermes. Curso de direito processual civil: processo coletivo. 11. ed. Salvador:
+Editora Juspodivm, 2017, p.34.
+
+21
+Para adoção do referido conceito, os autores estabeleceram previamente o significado de
+processo coletivo, considerando como elementos essenciais o objeto do litígio e a tutela do
+grupo.
+Desta forma, o processo cujo requerimento verse acerca de um direito coletivo lato sensu
+ou que envolva um grupo de pessoas relacionadas juridicamente no polo passivo pode ser
+chamado de coletivo.9
+De fato, não há um código de processo coletivo, mas sim um microssistema formado
+por algumas leis e instrumentos, integrados, evidentemente, com a CF/88 e com o CPC/201510,
+a seguir delineado.
+Ademais, este tipo de ação conta com um legitimado extraordinário para representar em
+juízo os interesses de um grupo de pessoas, ou até de toda a sociedade, a depender do direito
+envolvido na lide.
+2.1.1 Histórico
+Em uma brevíssima retomada histórica, vale mencionar que, após o Código Civil de 1916
+tentar suprimir as poucas formas de tutela coletiva existentes na ordem jurídica brasileira,
+instituindo que o proponente de uma ação deveria ter interesse econômico ou moral
+relacionados diretamente a si mesmo ou a sua família11, a tutela dos direitos coletivos, inspirada
+nos processualistas italianos, foi revivida no Brasil a partir da década de setenta12.
+O processo coletivo brasileiro ganhou força mais especificamente em 1977 quando houve
+uma reforma da Lei 4.717 de 29 de junho de 1965, a Lei de Ação Popular, incluindo a defesa
+
+9
+
+Ibidem, p. 32.
+“[...] o CPC-2015, diferentemente do CPC-1973, passou a dialogar de outra maneira com o microssistema do
+processo coletivo, seja porque o pressupõe expressamente, seja porque incorporou a esse microssistema novas
+normas jurídicas. A relação com o microssistema passou a ser de mão dupla, em um vaivém do núcleo para a
+periferia (centrífuga) e da periferia para o núcleo (centrípeta). A eficácia do CPC sobre esse microssistema deixou
+de ser exclusivamente supletiva, subsidiária ou residual e passou a ser, também, direta.”. (DIDIER JR, Fredie.;
+ZANETI JR., Hermes. Curso de Direito Processual Civil: Processo Coletivo. 8ª. ed. Salvador: Editora Juspodivm,
+2013. p. 59).
+11
+DIDIER JR., Fredie.; ZANETI JR., Hermes. Curso de Direito Processual Civil: Processo Coletivo. 8ª. ed.
+Salvador: Editora Juspodivm, 2013. p.27.
+12
+Ibidem, p.30.
+10
+
+22
+dos direitos difusos relacionados ao patrimônio ambiental, colocando o Brasil na vanguarda em
+matéria de processo coletivo.13
+Conquanto a citada lei já estivesse em vigor e vinha ganhado força, ainda se tratava de
+uma forma muito singela de proteção dos direitos coletivos, por conferir ao cidadão a
+legitimidade individual para ajuizar uma ação visando proteger o patrimônio público, apenas.
+Seguidamente, em 1985 foi publicada a Lei de Ação Civil Pública, que conferiu
+legitimidade para o Ministério Público ingressar em juízo em defesa do meio ambiente e do
+consumidor. Importante mencionar que, por força legislativa, posteriormente, o rol de
+legitimados foi se ampliando e, da mesma forma, foi aumentado o rol de direitos a serem
+tutelados.
+Neste quadro o papel da doutrina foi fundamental, sem o ativismo de gigantes
+do direito processual civil brasileiro como Barbosa Moreira, Kazuo Watanabe,
+Ada Pelegrini Grinover e Waldemar Mariz Oliveira Junior o desenvolvimento
+dos processos coletivos no Brasil teria o mesmo resultado que as tentativas
+europeias, um sonoro desinteresse do legislador.14
+
+Didier e Zaneti consideram ter havido uma revolução processual impulsionada pelo
+renascimento do Direito Coletivo, que encontrou terreno fértil com a ascensão do Estado
+Democrático Constitucional.15
+Bem da verdade, com o advento da CF/88 o regime da Ação Civil Pública foi ampliado e
+foi dada base para instituição de novas leis tutelando os interesses transindividuais.
+Dentre estas, surge um diploma para amparar, mais especificamente, o direito dos
+consumidores, promulgando-se, então, em 1990 o Código de Defesa do Consumidor – CDC lei nº 8.078 de 1990.
+O texto da lei (CDC), que teve seu anteprojeto elaborado por eminentes
+professores da área processual, entre estes Ada Pellegrini Grinover, Kazuo
+Watanabe e Nelson Ney Jr., levou em consideração as modernas preocupações
+com a efetividade e com a facilitação do acesso à Justiça pelo consumidor.
+
+13
+
+GRINOVER, Ada Pellegrini; MENDES, Aluisio Gonçalves de Castro; WATANABE, Kazuo (coords.). Direito
+Processual Coletivo e o anteprojeto do Código Brasileiro de Processos Coletivos. São Paulo: Editora Revista dos
+Tribunais, 2007, p.11-15.
+14
+Idem.
+15
+Ibidem, p.31
+
+23
+Nesse diapasão, apresentam-se, como mudança ontológicas, um novo enfoque
+da par conditio (com a transposição de uma igualdade formal para uma
+igualdade mais substancial entre as partes: igualar os desiguais) e novas
+técnicas para as ações coletivas, tudo sem afastar a garantia do devido
+processo legal.16
+
+Apesar de tratar de uma norma para defesa específica do consumidor, o CDC representa
+um marco essencial na tutela dos direitos coletivos.
+2.1.2 Direito difusos, coletivos e individuais homogêneos
+A lei nº 8.078 de 1990 categorizou os direitos coletivos lato sensu em três, quais sejam:
+direitos difusos, coletivos e individuais homogêneos em seu artigo 81:
+Art. 81. A defesa dos interesses e direitos dos consumidores e das vítimas
+poderá ser exercida em juízo individualmente, ou a título coletivo.
+Parágrafo único. A defesa coletiva será exercida quando se tratar de:
+I - interesses ou direitos difusos, assim entendidos, para efeitos deste código,
+os transindividuais, de natureza indivisível, de que sejam titulares pessoas
+indeterminadas e ligadas por circunstâncias de fato;
+II - interesses ou direitos coletivos, assim entendidos, para efeitos deste
+código, os transindividuais, de natureza indivisível de que seja titular grupo,
+categoria ou classe de pessoas ligadas entre si ou com a parte contrária por
+uma relação jurídica base;
+III - interesses ou direitos individuais homogêneos, assim entendidos os
+decorrentes de origem comum. (sem grifo no original).17
+
+Tendo em vista o escopo do presente estudo, descarta-se os direitos coletivos e os difusos,
+pois, diferentemente do que acontece com os direitos individuais homogêneos, dificilmente18,
+
+16
+
+Ibidem, p.49.
+BRASIL. Lei 8.079, de 11 de setembro de 1990. Institui o Código de Defesa do Consumidor. Diário Oficial da
+União. Brasília: 12 setembro 1990. Disponível em: < http://www.planalto.gov.br/ccivil_03/leis/L8078.htm>
+Acesso em: 22 ago. 2017.
+18
+Dificilmente não quer dizer que seja impossível. Vejamos: “Mas também podemos cogitar em demandas de
+massa que envolvem interesses coletivos. Basta tomarmos o exemplo em que cada conselho de classe (ex.
+OAB/BA, OAB/SP, CREA/BA, CREA/RJ, CRM/MG, CRM/RS, etc.) propõe uma ação questionando se as
+sociedades simples de profissionais que integram a respectiva categoria estão obrigadas a recolher certo tributo
+(ex. Confins). Elas possuem homogeneidade quanto à causa de pedir e quanto ao pedido, Por isso, estarão sujeitas
+ao regime dos processos repetitivos. Assim, podem ser julgadas conjuntamente; o Judiciário pode determinar
+sobrestamento de todas elas, para que se faça o julgamento das que são consideradas paradigmas; os tribunais
+podem fixar uma só tese acerca da obrigatoriedade do pagamento do tributo por tais pessoas jurídicas,
+independentemente de consistirem em sociedades de advogados, engenheiros, arquitetos, médicos, da Bahia, do
+Rio de Janeiro etc; o precedente poderá ser aplicado às futuras ações coletivas semelhantes, ajuizadas por outros
+conselhos de classe.
+Temos aí situações jurídicas coletivas e homogêneas, o que evidencia que as técnicas de processamento de causas
+massificadas não estão adstritas aos interesses individuais isomórficos. (BASTOS, Antonio Adonias Aguiar.
+Situações jurídicas homogêneas: um conceito necessário para o processamento das demandas de massa. vol. 186.
+ano 35. São Paulo: Editora Revista dos Tribunais. ago. 2010, p. 87-107).
+17
+
+24
+tais direitos ensejariam o ajuizamento em massa de demandas, em razão da indivisibilidade de
+seu objeto.
+2.1.2.1 Direitos individuais homogêneos
+Os direitos individuais homogêneos, cujo objeto é divisível, advém de uma origem
+comum e os sujeitos são determinados ou determináveis.
+Esta espécie de direito tem um elo com as demandas repetitivas, eis que estas são
+originadas, em parte, pela disseminação dos direitos individuais homogêneos. Diz-se em parte
+pois as demandas repetitivas vão além destes direitos, englobando também questões de direito
+processual.19
+A partir deste nexo entre demandas repetitivas e direitos individuais homogêneos deduzse a existência de uma relação entre o IRDR e as ações coletivas. 20 Primeiro, porque uma
+questão de direito pode se reiterar no âmbito das ações coletivas e ensejar a instauração de um
+incidente. Segundo, porque o Ministério Público, a título de exemplo, pode se deparar com um
+caso em que seja possível a tutela através do processo coletivo ou pelo IRDR. Assim, ele deverá
+optar pelo instrumento que melhor tutelará aqueles direitos que estão em jogo.
+Adiante, há, na doutrina, uma discussão em torno de qual seria a natureza dos direitos
+individuais homogêneos. Para alguns, se tratam de direitos individuais com dimensão coletiva.
+Para outros, estaríamos diante de direitos individuais coletivamente tratados.
+A defesa deste último grupo é representada com a seguinte exposição do pensamento de
+Sérgio Arenhart por Sofia Temer:
+Sérgio Arenhart aponta que a identificação de um direito como individual
+homogêneo “está ligada, exclusivamente, a questões processuais, ou seja, à
+maior ou menor utilidade em tratar de todos os interesses individuais
+(idênticos ou semelhantes) em um processo único”. O autor entende que não
+há elemento de direito material que distinga essa categoria dos direitos
+individuais, afirmando que os direitos individuais homogêneos “não
+constituem a rigor, espécie distinta de interesses, apartada dos direitos
+individuais e dos direitos metaindividuais”, mas são direitos subjetivos
+
+19
+
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Salvador:
+Juspodivm, 2015, p.41-42.
+20
+Idem.
+
+25
+clássicos que apresentam “coloração processual distinta”. Para o autor, “os
+direitos individuais homogêneos são direitos individuais enfeixados pelo
+tratamento coletivo”.21
+
+Ademais,
+o fato de ser possível determinar individualmente os lesados não altera a
+possibilidade e pertinência da ação coletiva. Permanece o traço distintivo: o
+tratamento molecular, nas ações coletivas, em comparação à fragmentação da
+tutela (tratamento atomizado), nas ações individuais. É evidente a vantagem
+do tratamento uno, das pretensões em conjunto, para obtenção de um
+provimento genérico. (sem grifo no original).22
+
+Por sua vez, Didier e Zaneti:
+Ora, pelo que pudemos perceber até aqui, a tutela desses direitos não se
+restringe aos direitos individuais das vítimas. Vai além, tutelando a
+coletividade mesmo quando os titulares dos direitos individuais não se
+habilitarem em número compatível com a gravidade do dano, com a reversão
+dos valores ao Fundo de Defesa dos Direitos Difusos. Assim, não se pode
+continuar afirmando serem esses direitos estruturalmente direitos individuais,
+sua função é notavelmente mais ampla. Ao contrário do que se costuma
+afirmar, não se trata de direitos acidentalmente coletivos, mas de direitos
+coletivizados pelo ordenamento para os fins de obter a tutela jurisdicional
+constitucionalmente adequada.23
+
+Bem da verdade é que a divisão do direito coletivo lato sensu em espécies serve à
+instrumentalidade, ou seja, categorizou-se na tentativa de conferir um tratamento processual
+adequado na tutela de direitos.
+É assim que podemos apontar como vantajosa a utilização da técnica processual coletiva,
+pois o tratamento molecular de demandas com potencial para se multiplicarem em milhares de
+processos traz economia processual e, consequentemente, diminuição de custos financeiros,
+pois o ajuizamento de uma ação coletiva certamente é menos custoso para a máquina judiciária
+do que o ajuizamento de milhares.24
+
+21
+
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Salvador: Editora Juspodivm, 2016.
+DIDIER JR., Fredie; ZANETI JR, Hermes. Curso de direito processual civil: processo coletivo. 8ª. ed. Salvador:
+Editora Juspodivm, p. 81
+23
+DIDIER JR., Fredie; ZANETI JR., Hermes. Curso de direito processual civil: processo coletivo. 11ª. ed.
+Salvador: Editora Juspodivm, 2017, p.80.
+24
+GAJARDONI, Fernando da Fonseca. Direitos difusos e coletivos I (teoria geral do processo coletivo). São
+Paulo: Saraiva, 2012. – (Coleção saberes do direito: 34).
+22
+
+26
+Além disso, a molecularização do conflito dificulta a existência de decisões contraditórias,
+auxiliando na garantia de uniformidade das decisões em respeito ao princípio da isonomia. E,
+por fim, garante um maior acesso à Justiça ao permitir que demandas individuais
+desinteressantes do ponto de vista econômico ganhem um forte calibre se ajuizadas em forma
+de ação coletiva.25
+2.1.3 A ineficácia da ação coletiva
+Diante do exposto, cabe mencionar que, somado à CF/88 e ao CPC/2015, a Lei de Ação
+Civil Pública e o Código de Defesa do Consumidor formam, em conjunto com a ação popular,
+a Lei de Improbidade Administrativa e o mandado de segurança coletivo, um microssistema da
+tutela coletiva26, e é este microssistema que poderia ter sido o protagonista na tutela das
+demandas massificadas.
+Na prática, porém, viu-se a ação coletiva não conseguir evitar a propositura, em larga
+escala, de demandas repetitivas, por diversos motivos, dentre eles, a inexistência de
+litispendência entre ações coletivas e individuais27, à suspensão opcional do processo
+individual28, à legitimação ope legis para propositura de ações coletivas, coisa julgada secndum
+eventum probationes, coisa julgada secundum eventum litis e à proibição de ajuizar ação
+coletiva quanto a matérias que, naturalmente, levam a litigiosidade repetitiva.
+Ademais, o fato de não ter conferido, de alguma forma, legitimidade para o Poder
+Judiciário impulsionar uma solução, diante da proliferação de demandas em massa, também foi
+algo que esvaziou o poder das ações coletivas. Nada obstante os juízes possam notificar os
+legitimados (MP, DP, associações, etc), estes podem optar por ajuizar ou não a ação coletiva, e
+ainda podem demorar um certo tempo.29
+
+25
+
+Idem.
+DIDIER JR., Fredie; ZANETI JR., Hermes. Curso de direito processual civil: processo coletivo. 8ª. ed. Salvador:
+Editora Juspodivm, p. 50.
+27
+CDC, art. 104. As ações coletivas, previstas nos incisos I e II e do parágrafo único do art. 81, não induzem
+litispendência para as ações individuais, mas os efeitos da coisa julgada erga omnes ou ultra partes a que aludem
+os incisos II e III do artigo anterior não beneficiarão os autores das ações individuais, se não for requerida sua
+suspensão no prazo de trinta dias, a contar da ciência nos autos do ajuizamento da ação coletiva.
+28
+Idem.
+29
+AMARAL, Guilherme Rizzo. Efetividade, segurança, massificação e a proposta de um “incidente de resolução
+de demandas repetitivas”. vol. 196. ano 36. São Paulo: Editora Revista dos Tribunais, set. 2011. p. 238-294.
+26
+
+27
+Em que pese o debate acerca do objetivo da criação do processo coletivo, não deixa de
+saltar aos olhos, entretanto, que o princípio da economia processual é uma das justificativas de
+ordem sociológica e política das ações coletivas, pois geram
+redução de custos materiais e econômicos na prestação jurisdicional; a
+uniformização dos julgamentos, com a consequente harmonização social,
+evitação de decisões contraditórias e aumento da credibilidade dos órgãos
+jurisdicionais e o próprio Poder Judiciário como instituição republicana. Outra
+consequência benéfica para as relações sociais é a maior previsibilidade e
+segurança jurídica decorrente do atingimento das pretensões constitucionais
+de uma Justiça mais célere e efetiva (EC 45/04).30
+
+Mesmo com as enormes vantagens elencadas acima, vimos que o processo coletivo não
+combateu de forma incisiva as demandas repetitivas.
+Veja-se, então, como dito supra, que prevalecem as bases individualistas do nosso
+processo civil, estruturado a fim de tutelar o direito subjetivo da parte, tendo como parâmetro
+o conflito de interesses individuais.
+E mais,
+o Poder Executivo tem tomado diversas iniciativas capazes de limitar a
+abrangência das ações coletivas; o Poder Judiciário, como um todo, tem
+hesitado em relação a teses que oscilam entre a abertura e o fechamento das
+vias coletivas; que o juiz via de regra, não sabe lidar e não gosta das ações
+coletivas, preferindo sempre a solução individual; que os legitimados
+subutilizam as ações coletivas, sobretudo em campos como o da saúde, em
+que s e multiplicam e proliferam as ações individuais. E o legislador brasileiro
+não tem se mostrado sensível à necessidade de aperfeiçoamento do sistema.31
+
+O caso do ajuizamento em massa de ações, no ano de 2004, contestando a cobrança de
+tarifa de assinatura básica residencial em face das concessionárias do serviço telefônico é um
+exemplo da dificuldade enfrentada pelo Poder Judiciário com o ingresso em massa de demandas
+repetitivas, além de ser uma amostra das barreiras enfrentadas no uso do processo coletivo.
+Isso por que, ao mesmo tempo foram ajuizadas 95 mil ações individuais e 26 ações
+coletivas em diferentes comarcas do Estado de São Paulo. Acresça-se a estes espantosos
+números a instauração de conflitos de competência e a dúvida quanto à reunião de todos as
+
+30
+
+DIDIER JR., Fredie; ZANETI JR, Hermes. Curso de direito processual civil: processo coletivo. 8ª. ed. Salvador:
+Editora Juspodivm, p. 35.
+31
+GRINOVER, Ada Pellegrini. Requiem para a reforma dos processos coletivos. Revista de Processo. Vol. 265.
+Ano 42. p. 213-218. São Paulo: Ed. RT, mar. 2017.
+
+28
+ações individuais para julgamento uno, ou quanto a reunião de todas as ações coletivas para
+julgamento único, ou, ainda, a reunião das ações individuais com as ações coletivas, dentre
+outras particularidades que contribuíram para aumentar a complexidade de solução do caso.
+Ante o exposto, e levando-se em consideração o fato de o Poder Legislativo não ter
+aprovado um Código de Processo Coletivo em 2009 e o CPC de 2015 não ter trazido mudanças
+significativas para a sistemática coletiva, é notório que o processo coletivo, por inúmeros
+fatores, não é e não será capaz de conferir um adequado tratamento processual às demandas
+repetitivas.
+Por fim, nas palavras de Ada Pellegrini Grinover: “tudo parece conspirar contra o
+aperfeiçoamento deste (ação coletiva) importantíssimo instrumento processual: e isso,
+sobretudo por falta de vontade política”32.
+Vejamos os próximos instrumentos.
+2.2 Recursos Extraordinário e Especial Repetitivos
+De forma sucinta, o recurso extraordinário é uma forma de impugnação de acórdãos que
+ferem a CF/88, sendo destinado ao STF, tribunal responsável pela guarda da Constituição
+Federal. O recuso especial, por seu turno, se presta a questionar acórdãos que afrontem lei
+federal, sendo direcionado ao STJ.
+Para melhor gerenciar a quantidade massiva de recursos especiais que chegam para
+apreciação do STJ, foi inserida, no CPC/73, a técnica do julgamento por amostragem.
+Já, o CPC/2015 dedicou uma subseção para regular e aprimorar o procedimento de
+julgamento dos recursos repetitivos, previsto nos artigos 1.036 a 1.040. Adicionou, também, a
+previsão de recurso extraordinário repetitivo, não existente no CPC/73, e ampliou a vinculação
+do acórdão para além dos processos sobrestados.
+
+Analisemos, então, como se dá o tratamento processual das demandas repetitivas, pela
+técnica do julgamento por amostragem de recursos extraordinários e especiais repetitivos.
+
+32
+
+Idem.
+
+29
+2.2.1 Admissibilidade
+2.2.1.1 Requisitos
+O artigo 1.036 prevê a afetação para julgamento dos recursos extraordinários e especiais
+quando forem múltiplos e seus fundamentos baseados em uma idêntica questão de direito. Deve
+ser observado, ainda, além das disposições da subseção, o regimento interno do Supremo
+Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ).
+2.2.1.1.1 Multiplicidade de recursos
+Para que seja utilizada a técnica do julgamento por amostragem de recursos repetitivos
+o primeiro requisito, de cunha quantitativo, é a existência de multiplicidade de recursos
+repetitivos.
+
+Acerca disto, importante lembrar que o artigo 928 do CPC de 2015 criou uma espécie
+de microssistema do julgamento de questões repetitivas ao considerar o IRDR e os recursos
+extraordinários e especiais repetitivos os meios através dos quais o Poder Judiciário deve se
+valer para encarar o fenômeno das demandas em massa.33-34
+2.2.1.1.2 Mesma questão unicamente de direito
+O segundo requisito é o de que os recursos repetitivos só poderão ser afetados em relação
+a questão de direito, tanto material, quanto processual.35
+
+Entretanto, mesmo que o IRDR e os recursos repetitivos integrem um microssistema de
+julgamento de questões repetitivas, as questões de direito que podem ser afetadas no caso dos
+recursos devem obedecer às suas particularidades.36
+
+33
+
+GAJARDONI, Fernando da Fonseca. et al. Execução e recursos: comentários ao CPC 2015. 1ª ed. Rio de
+Janeiro: Forense; São Paulo: Método, 2017. p. 601.
+34
+Enunciado 345 do Fórum Permanente de Processualistas Civis: “O incidente de resolução de demandas
+repetitivas e o julgamento dos recursos extraordinários e especiais repetitivos formam um microssistema de
+solução de casos repetitivos, cujas normas de regência se complementam reciprocamente e devem ser interpretadas
+conjuntamente.”
+35
+DIDIER JR., Fredie; ZANETI JR., Hermes. Curso de direito processual civil: processo coletivo. 11ª. ed.
+Salvador: Editora Juspodivm, 2017, p.750.
+36
+Idem
+
+30
+
+Assim, no caso dos recursos extraordinários só teremos questões de direito constitucional
+e no caso dos recursos especiais só haverá questões envolvendo leis federais.37
+2.2.1.2
+
+Duplo juízo de admissibilidade
+
+Nos parágrafos do artigo 1.036 do CPC/2015, há a previsão de que presidente ou o vicepresidente do TJ ou do TRF devem selecionar, no mínimo, 2 recursos representativos da
+controvérsia e devem enviá-los para o STF ou para o STJ, cortes responsáveis por sua afetação.
+
+Acerca da escolha dos processos, o Tribunal Superior ainda pode trazer à discussão outros
+recursos que julgar bem representar o caso em questão.
+
+E mais, o relator do tribunal superior também pode pinçar 2 ou mais recursos sobre o
+assunto, não havendo, assim, vinculação entre aquela escolha feita pelo presidente ou vicepresidente do TRF ou do TJ.
+
+A partir disto, percebe-se haver uma certa preocupação do legislador quanto a escolha
+dos recursos que vão representar os outros processos afetados e sobrestados. Isso é importante
+para que haja um correto levantamento de todos os fundamentos em debate.
+
+O artigo 1.036, em seu parágrafo 6º, ratifica a afirmação acima, impondo aos magistrados
+o dever de bem escolher os processos levados a julgamento, permitindo apenas a seleção
+daqueles “que contenham abrangente argumentação e discussão a respeito da questão
+decidida”38.
+2.2.2 Força vinculante
+Outro ponto de destaque em relação ao julgamento de recursos repetitivos, é o fato de que
+o artigo 927 do CPC/2015 lhe atribui força vinculativa, prevendo o dever de sua observação
+pelos juízes ou tribunais.
+
+37
+
+Idem
+BRASIL. Lei nº 13.105, de 16 de março de 2015. Institui o Código de Processo Civil. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm#art1046 >. Acesso em: 13 set. 2017.
+38
+
+31
+
+Dessa forma, a parte só não terá seu processo suspenso se demonstrar a distinção entre
+seu caso e o caso afetado em recurso repetitivo, tal qual ocorre com um precedente judicial.
+
+Os precedentes vinculantes serão tratados no capítulo 4 deste trabalho, mas, neste ponto,
+é mister evidenciar a existência de uma certa imprecisão do CPC/2015 ao restringir a força
+vinculante dos precedentes do STF e do STJ ao julgamento dos recursos extraordinários e
+especiais repetitivos.39
+Segundo nosso texto constitucional, cabe ao STF a guarda da Constituição40 e ao STJ a
+interpretação da lei federal41, assim as decisões de tais cortes supremas têm o poder de
+influenciar todas as outras decisões judiciais ao ditar a interpretação que deve ser conferida à
+Constituição Federal ou às leis federais.
+
+Em outras palavras, as decisões do STF e do STJ tem o condão de formar precedentes
+vinculantes em consequência da própria função de tais tribunais, qual seja a de conferir unidade
+e coerência ao direito.42 Sem esquecer que estes apenas serão formados quando estiver presente
+um fundamento determinante, ou seja, a ratio decidendi, e esta terá vinculação obrigatória.43
+
+Assim, Marinoni considerou equivocada a disposição do artigo 927 do CPC/2015,
+apontando que ela restringe a eficácia obrigatória dos precedentes formados pelas cortes
+superiores às decisões proferidas no julgamento de recursos extraordinários e especiais.44
+
+Na verdade, a formação de precedentes no STF e no STJ não decorre da presença de
+multiplicidade de recursos acerca de uma mesma questão de direito, mas sim, como dito acima,
+da função inerente a tais tribunais de garantirem a unidade do direito.45 De forma que qualquer
+
+39
+
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. São Paulo: Editora Revista dos Tribunais, 2016. p.135.
+40
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: promulgada em 5
+de outubro de 1988. Disponível em: < http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm>
+Acesso em 13 set. 2017.
+41
+Idem.
+42
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. op.cit. p.137.
+43
+Ibidem, p. 135-142.
+44
+Ibidem, p.135.
+45
+Ibidem, p. 136.
+
+32
+decisão, desde que contenha a ratio decidendi, deve ter o condão de formar precedentes nos
+citados tribunais.
+
+É preciso perceber que o elemento que define a atuação das Cortes Supremas
+não está na estrutura individual ou coletiva do litígio, mas na qualidade da
+questão de direito nele envolvida. Um caso repetitivo, assim como um caso
+individual, pode eventualmente conter uma questão constitucional dotada de
+repercussão geral e, apenas nessa hipótese, ser julgado pelo Supremo Tribunal
+Federal. Como é obvio, casos repetitivos podem envolver questões de direito
+de simples resolução e sem qualquer significação para o desenvolvimento do
+direito. Nessas situações, a discussão do caso não deve ultrapassar as barreiras
+dos tribunais estaduais e regionais federais sob pena, inclusive de ser
+estabelecida uma ideia teoricamente grosseira, de que a função dos tribunais
+é resolver apenas litígios individuais.46
+
+Essencial apontar, então, que o artigo 927 do CPC/2015 não observa a função das Cortes
+Supremas - de guarda e manutenção da unidade do direito – e impõe a elas a função de otimizar
+o julgamento de demandas repetitivas.47
+
+Nelson Nery Junior, por sua vez, em divergência a Marinoni, acredita que os tribunais
+superiores não são cortes de fixação de tese, mas sim cortes julgadoras de casos concretos, pois
+na Constituição Federal de 1988 não haveria qualquer previsão no sentido defendido por
+Marinoni.48
+
+O respeitado doutrinador crê ser possível adotar a posição defendida por Marinoni, desde
+que se diga que é lege ferenda, ou seja, a fim de se alterar o texto constitucional haverá uma
+discussão para sabermos se as cortes superiores fixam teses ou não. Entretanto, em observância
+atenta à CF/88, o STF e o STJ, em sede de recursos extraordinários e especiais, respectivamente,
+não fixam teses, mas sim rejulgam os casos concretos.49
+
+Ademais, tanto Marinoni quanto Nelson Nery creem estar equivocada a previsão do
+CPC/2015 de que os recursos especiais e extraordinários repetitivos devem ser observados tal
+
+46
+
+Ibidem, p. 142.
+Ibidem, p. 143.
+48
+NERY JR., Nelson. Recursos extraordinário e especial repetitivos. In: CONGRESSO PROCESSO CIVIL E
+FAZENDA PÚBLICA, 2017, Rio de Janeiro. Procuradoria Geral do Estado do Rio de Janeiro. Disponível em: <
+https://www.youtube.com/watch?v=iIBesJgz0u0>. Acesso em: 16 set. 2017.
+49
+Idem.
+47
+
+33
+qual um precedente vinculante. O primeiro pelos motivos já expostos e o segundo por acreditar
+que apenas as súmulas vinculantes e as decisões em controle de constitucionalidade têm o poder
+de vincular, por força de previsão constitucional.50
+
+Assim, segundo o citado autor, as previsões de vinculação dispostas no CPC/2015, que
+não sejam as das súmulas vinculantes e das decisões de controle concentrado, estariam
+equivocadas, inclusive a dos recursos repetitivos.51
+
+2.2.3 Repercussão geral
+
+Bem assim, a repercussão geral em recurso extraordinário leva a suspensão dos outros
+recursos do território nacional52 não havendo razão em se falar em recursos extraordinários
+repetitivos.53
+
+Melhor dizendo, para que seja admitido um recurso extraordinário imperiosa a existência
+de repercussão geral, e ela, uma vez identificada, implica na suspensão do processamento dos
+outros recursos que versem sobre a mesma questão de direito. Por outro lado, a inadmissão por
+falta de repercussão geral também atingirá o restante dos recursos.54
+
+No STJ, por sua vez, diante da ausência de mecanismo similar à repercussão geral, há
+sentido em se pensar na técnica de julgamento de recursos repetitivos. Muito embora “uma
+corte voltada ao desenvolvimento do direito não precise tomar conhecimento de todas as
+decisões equivocadas, já que sua função não é dar tutela aos litigantes, mas elaborar precedentes
+para orientar a sociedade e regular casos futuros”.55
+
+50
+
+Idem.
+Idem.
+52
+CPC/2015, art. 1.035. (...) § 5o Reconhecida a repercussão geral, o relator no Supremo Tribunal Federal
+determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem
+sobre a questão e tramitem no território nacional.
+53
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. Op. cit. p.142
+54
+Ibidem, p.143.
+55
+Idem.
+51
+
+34
+2.2.3.1 Exclusão de litigantes e direito de ação.
+De outro giro, muito embora pareça ter havido certa preocupação com a escolha dos
+recursos que vão representar todos os outros casos a fim de se levantar adequadamente os
+fundamentos quando do julgamento, o artigo 1.037, II do CPC/2015, ao prever a suspensão dos
+recursos pendentes que versem sobre a mesma questão56 excluiu “os litigantes da discussão da
+questão de direito contra a qual se rebelaram mediante o exercício do direito de ação”57
+No recurso extraordinário a repercussão geral “elimina a suposição de que o recurso
+extraordinário é um direito subjetivo da parte” e, assim, não haveria problema em suspender os
+demais recursos. Entretanto, a suspensão de recursos especiais “exclui aqueles que impugnam
+a decisão da discussão perante a Corte” por não haver uma seleção igual à do recurso
+extraordinário.58
+
+Com a finalidade de se garantir o direito de influenciar a corte, é essencial que o relator
+determine a participação do amicus curie, conforme permitido pelo artigo 1.038, I do CPC de
+201559:
+Art. 1.038. O relator poderá:
+I - solicitar ou admitir manifestação de pessoas, órgãos ou entidades com
+interesse na controvérsia, considerando a relevância da matéria e consoante
+dispuser o regimento interno;
+
+Assim, os terceiros cujos processos foram sobrestados teriam seus interesses defendidos
+ou pela possibilidade de sua própria a atuação ou pela participação de um órgão ou entidade
+com interesse na demanda.
+
+De tudo, percebe-se a existência de dúvidas acerca do procedimento estabelecido pelo
+CPC/2015 para o julgamento dos recursos repetitivos, principalmente no que tange à sua
+
+56
+
+Art. 1.037. Selecionados os recursos, o relator, no tribunal superior, constatando a presença do pressuposto do
+caput do art. 1.036, proferirá decisão de afetação, na qual: (...)
+II - determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que
+versem sobre a questão e tramitem no território nacional; (...).
+57
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. Op. cit. p.145.
+58
+Ibidem, p.146.
+59
+Ibidem, p.147.
+
+35
+formação de precedente vinculante. Veremos que o mesmo ponto cinzento paira sobre o IRDR,
+eis que são figuras complementares na tentativa de conter a litigiosidade de massa.
+
+Da mesma maneira, discorrer-se-á no capítulo 4 acerca da interação entre o IRDR e os
+precedentes vinculantes, fazendo-se oportuno, pelo momento, finalizar tal debate neste ponto
+do estudo.
+2.3 Incidente de Assunção de Competência
+O incidente de assunção de competência foi instituído pelo CPC/2015, em seu artigo
+947 e parágrafos, visando uniformizar a jurisprudência através da técnica do deslocamento de
+competência para julgamento de determinada questão por um órgão de maior composição.
+
+(...) a finalidade do instituto é clara: consolidar a compreensão do tribunal a
+respeito de certa questão de direito relevante, tornando clara a orientação para
+a população e para os outros órgãos judiciários – os quais, aliás, se estiverem
+submetidos àquele tribunal, ficarão vinculados àquela decisão (art. 947, §3º).
+Trata-se de técnica de compatibilização das decisões complementar ao
+incidente de resolução de demandas repetitivas.60
+
+Ademais, a técnica em comento não é completamente nova, tendo o CPC/2015
+aprimorado a previsão do artigo 555, § 1º do Código de Processo Civil de 197361, criado pela
+Lei 10.352 de 2001.
+2.3.1. Admissibilidade
+Nos termos do artigo 947 do CPC/2015, o incidente será admitido em caso de “relevante
+questão de direito, com grande repercussão social, sem repetição de múltiplos processos”,
+quando houver julgamento de processos de competência originária, de recursos e de remessa
+necessária.62
+
+60
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. 2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.560.
+61
+Art. 555, § 1o. Ocorrendo relevante questão de direito, que faça conveniente prevenir ou compor divergência
+entre câmaras ou turmas do tribunal, poderá o relator propor seja o recurso julgado pelo órgão colegiado que o
+regimento indicar; reconhecendo o interesse público na assunção de competência, esse órgão colegiado julgará o
+recurso.
+62
+BRASIL. Lei nº 13.105, de 16 de março de 2015. Institui o Código de Processo Civil. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm>. Acesso em: 03 set. 2017
+
+36
+2.3.1.1 Requisitos
+2.3.1.1.1 Relevante questão de direito
+O primeiro requisito para sua instauração é a existência de relevante questão de direito63
+no âmbito do julgamento de recursos, de remessa necessária ou de processos de competência
+originária.
+Houve a opção, mais uma vez, pelo CPC/2015, de selecionar matéria de direito,
+estabelecendo a busca da interpretação adequada das normas, como diretriz das técnicas usadas
+para combater a litigiosidade de massa (recursos repetitivos, incidente de assunção de
+competência, IRDR, etc..).
+A matéria de fato, por sua vez, no caso do incidente de assunção de competência, será
+apreciada pelo colegiado que adquiriu a competência quando houve a instauração do incidente.
+Veja-se, também, que pode se tratar de questão de direito material ou direito
+processual64, tal qual ocorre no IRDR e nos recursos repetitivos. Mas vale mencionar que no
+IRDR haverá a resolução da “questão contida nos processos”65 e na assunção haverá a solução
+do “caso que contém a questão”66. Isso por que se deslocará a competência para um órgão de
+maior composição julgar todo o caso que envolve a questão de direito, justamente por conta do
+seu valoroso significado para a sociedade.
+2.3.1.1.2 Questão de grande repercussão social
+O segundo requisito, para admissão do incidente de assunção de competência, é
+presença de questão de grande repercussão social.
+Trata-se de uma condição que, a princípio, parece ser muito ampla, mas ao utilizarmos
+o disposto no §1º do artigo 1.035 do CPC/2015, que versa sobre a repercussão geral do recurso
+
+63
+
+Devemos atentar para o fato de que tanto em sede de julgamento repetitivo de recursos, quanto no caso do
+incidente de assunção de competência e do IRDR decidiu-se manejar apenas questão de direito, evitando-se a
+dilação probatória nestes institutos.
+64
+Enunciado 600 do Fórum Permanente de Processualistas Civis: “O incidente de assunção de competência pode
+ter por objeto a solução de relevante questão de direito material ou processual”.
+65
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. São Paulo: Editora Revista dos Tribunais, 2016, p. 158.
+66
+Idem.
+
+37
+extraordinário, a delimitamos para uma questão de extrema relevância para sociedade,
+ultrapassando os limites do pleito sob apreciação. Em outras palavras, seu impacto na vida
+social deve ter magnitude jurídica, cultural, política, religiosa e econômica.67
+Ressalta-se não haver conexão entre a questão de grande repercussão social e um grupo
+determinado de pessoas, muito menos haverá a “resolução de uma questão prejudicial à tutela
+de direitos de sujeitos que não podem discuti-la diretamente”, a despeito do que ocorre no
+IRDR.68
+Haverá, assim, a apreciação de um tema fundamental para a sociedade e não será
+formada coisa julgada erga omnes, justamente por não resolver questão de terceiros,69 mas será
+firmado um precedente acerca do tema resolvido, como se verá adiante.
+2.3.1.1.3 Sem repetição de múltiplos processos
+Indo além, a questão de direito, na assunção de competência, não precisa atingir
+processos em massa, devendo ser uma questão isolada com grande repercussão social, ou seja,
+foca-se na qualidade da questão de direito, e não na quantidade de repetições da questão em
+diversos processos, tal qual ocorre no IRDR e nos recursos repetitivos.70
+Acerca da questão dever ser isolada cabe a reflexão:
+Esclareça-se, de toda sorte, que o “isolado” acima indicado não quer dizer que
+a questão seja única e que jamais tende a repetir-se. No mais das vezes, se a
+questão é única, inexistirá interesse público em sua solução sob o regime
+estudado, por conta da inexistência de repercussão da questão em outro
+contexto. Aliás, o cabimento do incidente em razão da divergência potencial
+ou efetiva na interpretação da questão de direito já é indicativo de que ela pode
+e deve repetir-se em outros casos. O que se impõe, porém, é que ela não seja
+frequente, massiva, no sentido de não se repetir constantemente no cotidiano
+do tribunal. Havendo essa repetição frequente, é caso de usar-se do outro
+instrumento, o incidente de resolução de demandas repetitivas.71
+
+67
+
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. Op. cit., p. 159.
+68
+Ibidem, p.158.
+69
+Ibidem, p.159.
+70
+Idem.
+71
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. 2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.562.
+
+38
+2.3.1.2 Duplo juízo de admissibilidade e procedimento
+Ademais, nos termos dos parágrafos primeiro e segundo do artigo 947 do CPC/2015, o
+relator, de ofício, ou as partes, o Ministério Público, ou a Defensoria Pública, através de
+requerimento, devem propor o Incidente de Assunção de Competência com a finalidade de o
+recurso, a remessa necessária ou o processo de competência originária serem julgados pelo
+órgão colegiado determinado pelo regimento interno do tribunal competente.
+Haverá, então, um primeiro juízo de admissibilidade que será feito pelo colegiado
+originalmente competente para o julgamento do caso.
+Em seguida, o órgão colegiado definido pelo regimento interno como competente para
+o julgamento da assunção de competência, também fará outro juízo de admissibilidade,
+analisando a existência de interesse público no incidente. Assim, é fundamental o juízo positivo
+em ambos os órgãos, para que a competência seja realmente deslocada.
+Se o órgão indicado pelo regulamento interno fizer juízo negativo de admissibilidade,
+ocorrerá a devolução do feito ao órgão originalmente responsável pelo julgamento. E, caso este
+mesmo não admita a incidência da assunção, não haverá o deslocamento.
+Mister lembrar que o procedimento e a distribuição são estabelecidos pelo regimento
+interno do órgão colegiado. O regimento interno do STJ o prevê em seus artigos 14, II e 127.
+Já, o regimento interno do STF o prevê nos artigos 11 e 22. Em relação a tais previsões,
+considera-se que: “o regimento interno do STJ apresenta procedimento específico e
+perfeitamente delineado. Já o regimento interno do STF oferece disciplina mais complexa,
+omitindo-se em prever todos os passos da formação do incidente”72.
+Defende-se que o seu procedimento deveria ser baseado no procedimento do IRDR,
+previsto no CPC, por ser mais garantista em relação ao procedimento previsto no regimento
+interno de um tribunal, feito pelo próprio tribunal.73
+
+72
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. 2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.563.
+73
+Idem.
+
+39
+2.3.2 Artigo 947, § 4º: relevante questão de direito
+O último parágrafo do artigo 947 amplia a aplicação da assunção de competência para
+quando houver “relevante questão de direito a respeito da qual seja conveniente a prevenção ou
+a composição de divergência entre câmaras ou turmas do tribunal.”
+Neste caso, não é preciso ter uma questão de grande repercussão social, mas, sim,
+questão de direito em que haja conveniência de se evitar a divergência ou mesmo solucioná-la.
+Aliás, esta deve estar se repetindo ou ter potencial de repetição, eis que a assunção de
+competência poderá ser suscitada quando houver divergência entre os órgãos de um mesmo
+tribunal. E para que haja dissonância entre eles difícil não se pensar em repetição.
+Entretanto, diferentemente do IRDR, a questão de direito não, obrigatoriamente, precisa
+ser idêntica, podendo surgir em diferentes lides.
+Preza-se pela isonomia e segurança jurídica ao tentar evitar a divergência, tal qual ocorre
+no IRDR.
+2.3.3 Força vinculante
+De outro giro, é importante notar que o julgamento do incidente de assunção de
+competência, por força do artigo 927, III do CPC/2015, deve ser observado pelos juízes e
+tribunais. Infere-se, então, que, da mesma forma como se pretendeu criar precedentes
+obrigatórios no julgamento dos recursos repetitivos e do IRDR, incluiu-se o acórdão em
+incidente de assunção de competência neste balaio.
+Nesta esteira, aponta-se a instituição de um “microssistema de formação concentrada de
+precedentes obrigatórios”74 no ordenamento jurídico brasileiro. Ele é composto pelo incidente
+ora em comento e pelo julgamento de lides repetitivas, formado pela solução por amostragem
+de recursos repetitivos e pelo IRDR.
+
+74
+
+DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual civil nos tribunais, recursos,
+ações de competência originária de tribunal e querela nullitatis, incidentes de competência originária de tribunal.
+v. 3. 14. ed. Reform. Salvador: Editora Juspodivm, 2017. p. 760.
+
+40
+Didier e Cunha acreditam que no âmbito deste microssistema há “normas que determinam
+a ampliação da cognição, com qualificação do debate para a formação de precedente, com a
+exigência de fundamentação reforçada e de ampla publicidade”.
+Assim, aponta-se a necessidade da participação do amicus curiae, da designação de
+audiência pública, da intervenção do MP e da publicidade para a adequada formação do
+precedente.
+O rol citado acima não está previsto nos artigos referentes ao julgamento do incidente de
+assunção de competência, mas, em razão do citado microssistema é possível trazer estes deveres
+para a assunção, por estarem previstos no julgamento do IRDR e dos recursos repetitivos.75
+Nesta senda, a participação do amicus curiae e a designação de audiência pública tem o
+escopo de permitir um maior envolvimento da sociedade em julgamentos com capacidade para
+vincular decisões futuras. Assim, é essencial a ventilação da maior quantidade de fundamentos
+acerca de uma questão de direito de relevância para a sociedade, e mais, imprescindível a
+garantia da qualidade de tais argumentos, chamando-se para o debate pessoas e órgãos com
+conhecimento específico sobre o assunto que estará em julgamento.76
+A ampla publicidade anda ao lado dos deveres citados acima, pois é a partir dela que os
+interessados no debate da temática em incidente de assunção de competência tomarão
+conhecimento.77
+Ato contínuo, a participação do órgão público com função de fiscal da lei, qual seja o MP,
+é de suma importância para ampliar a qualidade do debate e dar legitimidade à formação do
+precedente obrigatório na assunção de competência.78
+Por fim, veja-se que é possível defender inclusive a fungibilidade entre o IRDR e IAC,
+em razão de ambos darem ensejo a formação de precedentes obrigatórios.
+Assim, se o órgão julgador entender que não é o caso de assunção de
+competência, por existirem diversos processos em que se discuta a mesma
+questão de direito, admitirá que se instaure o incidente de resolução de
+demandas repetitivas, uma vez preenchidos os demais pressupostos; se, por
+
+75
+
+Ibidem, p. 762.
+Ibidem, p. 762-763.
+77
+Ibidem, p. 765.
+78
+Ibidem, p. 764.
+76
+
+41
+outro lado, entender que não é caso de incidente de resolução de demandas
+repetitivas, por não existir risco de ofensa à isonomia ou à segurança jurídica,
+admitirá que se instaure o incidente de assunção de competência, uma vez
+constatada a relevância da questão discutida.79
+
+Impende, ainda, mencionar que, da mesma forma como critica-se a formação de
+precedentes obrigatórios no âmbito do IRDR, também existem posições contrárias no seio da
+assunção de competência.
+Marinoni assevera que a decisão da assunção de competência não deveria ter o condão de
+formar precedentes, pois ela busca afastar a divergência através de uma “definição imediata”
+da questão de direito.80
+Por seu turno, os precedentes formados pelas decisões das cortes superiores não têm
+previsão legal, tal qual tem aquele formado em assunção de competência. Além disso, os
+precedentes são formados ao longo do tempo, através do debate de questões divergentes. Notase que o precedente busca orientar o sentido do direito que deve prevalecer na sociedade,
+norteando a tomada de decisão dos juízes e tribunais nos casos futuros.81
+É assim que o referido autor defende a não confusão entre a eficácia da decisão tomada
+em incidente de assunção de competência e a eficácia inerente ao precedente judicial emanado
+da decisão dos tribunais superiores.82
+Esta defesa se torna mais robusta quando se pensa que, praticamente, não há possibilidade
+de se demonstrar a distinção em um caso posterior envolvendo uma questão de direito já
+decidida em assunção de competência, pois ele deverá se submeter a esta decisão.83
+O meio para “fugir” da decisão em assunção de competência é comprovar ser outra
+questão de direito.
+Constata-se, assim, uma maior rigidez na preclusão das decisões em assunção de
+competência, justamente por que seu objetivo é uniformizar a jurisprudência, evitando decisões
+futuras divergentes acerca da questão de direito afetada.84
+
+79
+
+Ibidem, p. 722.
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. Op. cit. p.171.
+81
+Ibidem, p.172.
+82
+Idem.
+83
+Ibidem, p.174.
+84
+Idem.
+80
+
+42
+Nos precedentes vinculantes há uma margem maior para se fazer a distinção e também
+para os tribunais julgarem casos similares, tanto para estendê-lo, quanto para restringi-lo. E isso
+é benéfico quando se pensa que a sociedade está em constante mutação e o direito precisa, de
+alguma forma, acompanhar essas mudanças.
+Portanto, realizar distinção para aplicar ou deixar de aplicar um precedente é
+algo que milita, a um só tempo, para a estabilidade e para o desenvolvimento
+do direito, ao contrário da mera distinção realizada para dizer que uma questão
+de direito é igual ou não àquela que já foi decidida. Uma decisão proferida em
+incidente de assunção não tem autoridade para regular caso diverso, mas
+também não dá ao litigante de novo caso espaço para argumentar que este,
+apesar de a princípio contemplado, por ela não deve ser regulado.85
+
+2.4 Incidente de Resolução de Demandas Repetitivas - IRDR
+Ao lado das ações coletivas e dos recursos extraordinários e especiais repetitivos, o
+Incidente de Resolução de Demandas Repetitivas – IRDR, previsto nos artigos 976 ao 987 do
+CPC/2015, passa a integrar o rol de instrumentos a regular as demandas repetitivas.
+O IRDR, como demais figuras criadas pelo (CPC/2015), objetiva, segundo a exposição
+de motivos do anteprojeto do citado código86, evitar a dispersão excessiva da jurisprudência,
+criando condições de se atenuar o assoberbamento de trabalho do Poder Judiciário, sem
+comprometer a qualidade da prestação jurisdicional.
+Em resumo, o incidente busca uma justiça mais rápida, segura e concreta.
+O IRDR, continua a exposição de motivos87, consiste na identificação de processos que
+contenham a mesma questão de direito para decisão conjunta.
+É admissível quando identificada, em primeiro ou em segundo grau, controvérsia gerando
+a multiplicação expressiva de demandas e o correlato risco da coexistência de decisões
+conflitantes.
+
+85
+
+Ibidem, p.175.
+BRASIL. Congresso Nacional. Senado Federal. Comissão de Juristas Responsável pela Elaboração de
+Anteprojeto de Código de Processo Civil. Código de Processo Civil: anteprojeto / Comissão de Juristas
+Responsável pela Elaboração de Anteprojeto de Código de Processo Civil – Brasília: Senado Federal, Presidência,
+2010. Disponível em: <https://www.senado.gov.br/senado/novocpc/pdf/Anteprojeto.pdf> Acesso em: 26 de ago.
+2017.
+87
+Idem.
+86
+
+43
+É instaurado perante o Tribunal local, por iniciativa do juiz, do MP, das partes, da
+Defensoria Pública ou pelo próprio Relator.
+O juízo de admissibilidade e de mérito caberão ao tribunal pleno ou ao órgão especial,
+onde houver, e a extensão da eficácia da decisão acerca da tese jurídica limita-se à área de
+competência territorial do tribunal, salvo decisão em contrário do STF ou dos Tribunais
+superiores, pleiteada pelas partes, interessados, MP ou Defensoria Pública. Há, ainda, a
+possibilidade de intervenção de amici curiae.
+O incidente deve ser julgado no prazo de um ano, tendo preferência sobre os demais
+feitos, salvo os que envolvam réu preso ou pedido de habeas corpus.
+O recurso especial e o recurso extraordinário, eventualmente interpostos da decisão do
+incidente, têm efeito suspensivo e se considera presumida a repercussão geral, de questão
+constitucional eventualmente discutida.
+Não observada a tese firmada, caberá reclamação ao tribunal.
+2.4.1 Denominação
+Cândido Rangel Dinamarco assim define demanda: “O ato inicial de comparecimento a
+juízo com uma pretensão chama-se demanda. Demandar é pedir, postular. Demanda é um ato e
+não se confunde com ação, que é um direito, ou poder”. 88
+Pautados em tal definição técnica, do doutrinador processualista, alguns autores, tais
+quais Marcos de Araújo Cavalcanti89 e Sofia Temer90, acreditam que o termo “demanda” é
+usado de forma atécnica na denominação do incidente, devendo ser substituído pelo termo
+“questões” repetitivas, pois o incidente teria como objetivo solucionar questões repetitivas e
+não as demandas em si particularizadas.91
+
+88
+
+DINAMARCO, Cândido Rangel. Instituições de Direito Processual Civil. Vol. I.5.ed. São Paulo: Malheiros,
+2005, p.322.
+89
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op.cit. p.44.
+90
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op.cit. p.61.
+91
+Outro fator indicativo de que o IRDR não julga a demanda é que em caso de desistência da causa piloto o
+prosseguimento do incidente não vai ser obstado.
+
+44
+No IRDR não se leva para a apreciação do Poder Judiciário uma relação jurídica
+conflituosa bem delimitada, com polo ativo e polo passivo. Na verdade, busca-se firmar uma
+tese acerca de uma questão de direito que se reitera em uma multiplicidade de processos.
+As demandas já estão postuladas, mas, por conter uma determinada questão de direito
+idêntica sendo decidida de forma diversa pelos juízos de uma localidade, podem ser afetadas
+pelo incidente.92
+2.4.2 Mesma questão unicamente de direito
+Essencial tecer alguns apontamentos acerca da escolha legislativa de inserir apenas
+questões de direito e não, também, questões de fato.
+Reconhece-se, de início, a dificuldade de se desvincular completamente uma questão de
+direito aos fatos que lhe deram origem e uma questão de fato do direito que lhe constitui, pois
+não se tratam de categorias “ontologicamente diferentes”93
+Nesta senda, o objetivo de se utilizar questão apenas de direito é, segundo Marinoni, o de
+evitar a instauração do incidente na ocasião em que haja necessidade de se discutir questões de
+fato. A questão de direito pode estar assentada em fatos, porém não pode exigir a dilação
+probatória.94
+De acordo com Sofia Temer, há questão de direito quando o julgamento pretender
+resolver os seguintes temas: a) como deve ser entendido o texto normativo e quais as
+consequências jurídicas daí extraídas; b) qual a norma aplicável a uma situação fática; e c) a
+compatibilidade entre o texto normativo e outras normas da Constituição Federal. 95
+Em suma, será definida a melhor solução para uma questão jurídica.
+Ademais, não obrigatoriamente a questão idêntica é a única questão em todos os
+processos, muito menos a causa de pedir e o pedido serão os mesmos. Pode haver apenas uma
+área de homogeneidade que carece de pacificação.96
+
+92
+
+Ibidem, p. 58-64.
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. Op. cit., p. 53.
+94
+Ibidem, p.54.
+95
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit., p.71.
+96
+Ibidem, p.58-64.
+93
+
+45
+Além disso, e aqui relembrando que as demandas repetitivas não se resumem apenas em
+direitos individuais homogêneos, pois o artigo 928, parágrafo único do CPC/2015
+expressamente prevê que as questões de direito material e de direito processual são passíveis
+de julgamento.
+Neste sentido, vê-se que um prazo (questão processual) pode ser objeto do IRDR.
+Pensemos na contagem de prazo nos juizados especiais. A lei nº 9.099 de 1995 (Lei dos
+Juizados Especiais) não tem nenhuma disposição acerca da forma de contagem de prazo. O
+CPC/2015, por sua vez, estabeleceu que os prazos processuais devem ser contados em dias
+úteis. Embora na lei nº 9.099/95 haja previsão para se usar as disposições do CPC em caso de
+omissões, muitos magistrados continuaram contando o prazo em dia corridos, tal qual se fazia
+durante a vigência do CPC/1973.
+Assim, desde março de 2016, afloraram uma série de decisões contraditórias no âmbito
+do juizado especial. Algumas reconhecendo a contagem de prazo em dias úteis, outras em dias
+corridos, em claro desrespeito ao princípio da isonomia e ameaça à segurança jurídica, uma vez
+que os operadores do direito não tinham bases sólidas para saber como deviam contar os prazos.
+Felizmente tal celeuma, que facilmente ensejaria o requerimento de um IRDR, parece
+estar chegando ao fim com a edição do recente enunciado nº 19 97 das Jornadas de Direito
+Processual Civil do Conselho da Justiça Federal, que prevê a aplicação do prazo em dias úteis
+também ao procedimento regido pela lei nº 9.099/95 e decisões dos colegiados recursais no
+sentido de que se deve seguir a disposição do CPC de 2015.
+Tal exemplo demonstra que o incidente pode ser iniciado a partir de situações que não se
+ajustam ao conceito de direito individual homogêneo.98 Em outras palavras, da maneira como
+está disposto em nosso CPC/2015, as demandas repetitivas abarcam direitos além daqueles
+classificados pelo direto coletivo como direitos individuais homogêneos, como outrora
+apontado neste estudo.99
+
+“ENUNCIADO 19 – O prazo em dias úteis previsto no art. 219 do CPC aplica-se também aos procedimentos
+regidos pelas Leis n. 9.099/1995, 10.259/2001 e 12.153/2009”. <http://s.conjur.com.br/dl/jornada-direitoprocessual-civil-cjf.pdf> Acesso em: 15 set. 2017.
+98
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit., p.58-64.
+99
+Idem.
+97
+
+46
+Vale mencionar, entretanto, que, justamente pelo fato de as ações coletivas terem deixado
+lacunas para um adequado tratamento das demandas repetitivas, inclusive aquelas envolvendo
+direitos individuais homogêneos, é que se abriu espaço para criação do IRDR.100
+2.4.3 Técnica objetiva para julgamento de demandas repetitivas
+Na toado do que foi exposto, e adotando o entendimento de Sofia Temer, o IRDR vai
+oferecer um tratamento processual objetivo para as demandas repetitivas.101
+Dito de outra maneira, não haverá o julgamento do pleito subjetivo entre o autor e o réu,
+mas sim uma apreciação objetiva de uma questão de direito processual ou material repetitiva,
+através da qual se buscará uma única interpretação do direito a ser observada pelos magistrados
+sob jurisdição do tribunal que julgou o incidente.102
+Estabelecido o entendimento em julgamento do IRDR, ele será aplicado nos casos
+suspensos, consagrando, então, a tutela subjetiva tradicional do nosso processo civil.103
+Aduz-se, assim, que o CPC/2015, e por consequência o incidente, seguem um movimento
+de objetivação do processo muito presente no direito constitucional em controle abstrato de
+constitucionalidade, cuja função é resguardar a unidade do ordenamento jurídico.104
+Essa dessubjetivação muitas vezes tem como escopo ampliar a eficácia do julgamento
+para além de uma única lide, como forma de uniformizar a jurisprudência ou, mesmo, de
+combater a litigiosidade repetitiva.105
+No caso do incidente, segundo Sofia Temer, há uma mistura de “abstração e concretude”,
+pois “embora haja abstração em relação aos casos concretos, não há desconsideração dos dados
+emergentes dos conflitos subjetivos”106.
+
+100
+
+MENDES, Aluisio Gonçalves de Castro; RODRIGUES, Roberto de Aragão Ribeiro. Reflexões sobre o
+incidente de demandas repetitivas previsto no projeto de novo código de processo civil. vol. 211. Ano 37. São
+Paulo: Editora Revista dos Tribunais, set. 2012. p. 191-208.
+101
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit.79-90.
+102
+Idem.
+103
+Idem.
+104
+Idem.
+105
+Idem.
+106
+Ibidem, p.88.
+
+47
+Em outras palavras, a concretude se dá:
+por não ignorar as circunstâncias fáticas ocorridas nas situações repetitivas
+que motivaram a instauração do IRDR e pela necessidade de solucionar a
+controvérsia e fixar uma tese que esteja contextualizada com a realidade e com
+as situações concretas que virá a regular.107
+
+107
+
+Ibidem, p. 84
+
+48
+
+49
+
+3. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS
+Descritos os contornos genéricos do IRDR, o presente tópico se ocupa em traçar o regime
+jurídico que o circunscreve, especialmente a legitimidade, a admissibilidade e a competência,
+não sem antes analisar seus antecedentes.
+3.1 Antecedentes
+O fenômeno das demandas em massa atinge também outros países, de tal forma que, aqui,
+exploraremos três técnicas, adotadas por três países diferentes utilizadas para conferir maior
+racionalidade no processamento dessas ações.
+Sem deixar de mencionar que um dos instrumentos inspirou diretamente a criação do
+IRDR, reforçando a importância de compreendê-lo.
+Além do mais, previamente à instituição do incidente pelo CPC/2015, o sistema jurídico
+brasileiro também recebeu alguns instrumentos destinados a lidar com as demandas repetitivas,
+auxiliando, assim, na conformação do instituto tal qual o identificamos hoje.
+3.1.1 Antecedentes no direito estrangeiro
+Neste tópico será feita uma reflexão acerca do Musterverfahren, do Group Litigation
+Order e da Class Action, sem a pretensão de se fazer uma análise histórica de todos os institutos
+já criados por outros países com a finalidade de racionalizar o tratamento processual das
+demandas em massa.
+Os citados instrumentos foram pinçados por conterem particularidades que enriquecerão
+o estudo do IRDR.
+De fato, segundo a já mencionada exposição de motivos do Anteprojeto do Código de
+Processo Civil de 2015, o IRDR teve como inspiração o instituto alemão denominado de
+Musterverfahren ou procedimento-modelo.108
+
+108
+
+BRASIL. Congresso Nacional. Senado Federal. Comissão de Juristas Responsável pela Elaboração de
+Anteprojeto de Código de Processo Civil. Código de Processo Civil: anteprojeto / Comissão de Juristas
+Responsável pela Elaboração de Anteprojeto de Código de Processo Civil – Brasília: Senado Federal, Presidência,
+
+50
+Por seu turno, embora a Class Action americana seja uma ação coletiva e não,
+propriamente, um incidente para resolução de demandas reiteradas, sua análise também é
+valiosa para o escopo deste trabalho.
+3.1.1.1 Musterverfahren ou procedimento-modelo
+O procedimento-modelo foi instituído pela Lei de Introdução do Procedimento-Modelo
+para os Investidores em Mercados de Capitais [Gesetz zur Einführung Von KapitalanlegerMusterverfahren ou KapMuG], com o escopo de gerenciar um volumoso número de ações
+envolvendo investidores da Bolsa de Frankfurt, que obtiveram largos prejuízos em razão da
+veiculação de informações enganosas.
+Embora seja declarada a inspiração do IRDR no Musterverfahren, bem apontaram
+Marcos Cavalcanti109 e Sofia Temer110, que da forma como o incidente foi trazido ao
+ordenamento jurídico brasileiro não mais pode ser igualado ao procedimento-modelo.
+O procedimento-modelo foi criado para uma situação específica e tem prazo determinado.
+A vigência da lei, inicialmente, seria de 5 anos, mas foi prorrogada até 2020111. Já o IRDR, por
+sua vez, foi instituído para tutelar qualquer situação envolvendo, apenas, matéria de direito e
+que esteja em processos repetitivos, sem qualquer previsão para seu término.
+Outrossim, o requerimento de instauração do procedimento-modelo não tem como
+legitimados os juízes112, diferentemente do incidente em que podem instaurá-lo de ofício.
+Há divergência, também, quanto a possibilidade de não participar do julgamento em
+ambos os institutos. No brasileiro, o indivíduo cujo processo foi afetado pelo IRDR é obrigado
+a “participar” do julgamento, tendo como única opção a de demonstrar a distinção de seu caso
+em relação ao caso paradigma do incidente. No alemão, o indivíduo também não pode optar
+por integrar ou não julgamento, mas tem a opção de pedir a desistência da sua demanda
+
+2010. p. 30. Disponível em: <https://www.senado.gov.br/senado/novocpc/pdf/Anteprojeto.pdf> Acesso em: 26 de
+ago. 2017.
+109
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p. 416.
+110
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit., p.97.
+111
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p. 331.
+112
+Ibidem, p. 336.
+
+51
+individual quando for notificado da deflagração do procedimento e da suspensão dos processos
+que serão afetados113.
+Ademais, no procedimento-modelo há um controle da representatividade adequada114,
+havendo também uma seleção dos processos que mais bem representam a questão levada
+adiante. Enquanto no IRDR, a escolha do processo paradigma não precisa seguir uma regra
+específica.
+Outra diferença diz respeito ao fato de o IRDR vincular as decisões em processos futuros
+que contenham controvérsia sobre a mesma questão de direito, se estiverem em processamento
+no território de competência do tribunal que exarou a decisão do incidente. O procedimentomodelo, por seu turno, vincula apenas as lides pendentes ao tempo de seu julgamento, nas quais
+houve suspensão durante o processamento do Musterverfahrein115.
+Indo além, quando for admitida a instauração do procedimento-modelo é vedada a
+admissão de outros, evitando-se o surgimento de dois procedimentos iguais em localidades
+diferentes116. O Brasil não fez esta opção, sendo possível a instauração de dois incidentes em
+dois tribunais diferentes, correndo-se o risco da formação de teses diferentes sobre a mesma
+temática, indo de encontro ao escopo do IRDR de garantir a isonomia.
+Por fim, impede apontar que o Musterverfahrein pode abarcar questões de direito e
+fato117, e o incidente tem como requisito a instauração apenas envolvendo questões de direito.
+Elencadas tais diferenciações, é possível dizer que o IRDR tem contornos próprios,
+afastando-se, demasiadamente, daquele instituto que lhe serviu de inspiração.
+
+113
+
+114
+
+Ibidem, p. 340.
+
+Ibidem, p. 343.
+Ibidem, p. 349.
+116
+Ibidem, p. 340.
+117
+Ibidem, p. 335.
+115
+
+52
+3.1.1.2 Group Litigation Order (GLO)
+A Group Litigation Order é um instituto inglês criado para lidar com conflitos
+massificados através de um gerenciamento de processos repetitivos. Está previsto no Código
+de Processo Civil da Inglaterra e do País de Gales.
+Tal qual ocorre no IRDR, na GLO o procedimento pode ser instaurado de ofício ou a
+pedido das partes. Na GLO, porém, há uma dupla instância de admissibilidade sendo necessária
+a confirmação por um sênior judge para sua continuidade.
+Ademais, um dos requisitos de admissibilidade é a criação de um grupo que será
+denominado group register. Neste grupo devem ser reunidos os processos referentes à questão
+repetitiva. Desta forma, os indivíduos escolhem se querem ou não fazer parte do grupo.
+Diferentemente, no IRDR em que a participação do processamento para ações referentes a
+questão de direito afetada é obrigatória.
+Ainda, todas as ações inclusas no group register até o momento da decisão vinculam-se
+a ela, podendo a corte decidir se os processos habilitados posteriormente deverão se submeter
+à decisão. Veja-se que, no incidente, os processos futuros obrigatoriamente observarão o
+acórdão em IRDR.
+3.1.1.3 Class Action
+O instituto da Class Action (Ação de Classe) é oriundo dos Estados Unidos, sendo criado
+para lidar com as demandas coletivas. Está previsto na regra 23 do Federal Rules of Civil
+Procedure, embora a maioria dos Estados possua também regras acerca de suas próprias ações
+de classe.118
+O destaque de tal instrumento é por instituir um ou mais indivíduos para representar todos
+os outros da classe, justamente um aspecto que não está presente no incidente brasileiro,
+criticado por não fornecer uma representatividade adequada.
+O primeiro requisito para o indivíduo ou os indivíduos poderem representar toda a classe
+é a extrema dificuldade de união de todos que poderiam ser partes de um mesmo processo.
+
+118
+
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p. 65.
+
+53
+Deve haver também, como um requisito, uma questão de direito ou de fato comum a toda classe
+e suas reivindicações devem ser as mesmas (tipicidade). Além disso, os representantes devem
+ter condições de exercer uma representação de forma justa e adequada.119
+Nota-se que não é conferida legitimidade para um órgão público tal qual é conferida para
+o MP e para a defensoria no IRDR, muito menos para os juízes. Isso por que o desenho da ação
+de classe tem uma forte preocupação com o representante adequado, que, pelo requisito da
+tipicidade, deve ser um membro do grupo lesado.120
+Na class action temos a decisão de certificação, na qual o juiz certifica se a ação
+individual tem o condão de prosseguir como uma ação de classe. Feita a certificação positiva
+será nomeado pelo tribunal um conselheiro de classe que será um advogado, sendo analisada
+sua experiência com ações coletivas e suas condições para representar a classe.121
+Isto feito, a classe deve ser notificada da melhor forma possível acerca da ação de classe,
+sua natureza, o que ela representa e quais são as reinvindicações. Desta forma, é dada
+oportunidade para o membro da classe decidir pela sua auto exclusão. Diferentemente do IRDR,
+como já apontado, em que a participação do processamento do incidente é obrigatória. 122
+3.1.1.3.1 Representatividade adequada
+Ante ao panorama geral acerca da Class Action, exposto acima, voltar-se-á os olhos para
+a necessária representatividade adequada.
+Tal requisito significa uma adaptação do princípio constitucional do contraditório. Essa
+adequação é necessária porque a ação de classe vai tutelar os direitos de muitos sujeitos através
+de uma única via processual. Assim, da mesma forma que milhares de processos individuais
+causariam um transtorno para o Poder Judiciário, a garantia de um day in court para todas os
+indivíduos da classe seria inviável.
+
+119
+
+ESTADOS UNIDOS DA AMÉRICA. Federal Rules of Civil Procedure. Disponível em <
+https://www.law.cornell.edu/rules/frcp/rule_23.> Acesso em: 21 set. 2017.
+120
+Idem.
+121
+Idem.
+122
+Idem.
+
+54
+A maneira encontrada para assegurar o contraditório e a ampla defesa foi, então, através
+de um representante. Entretanto, nada seria assegurado se não se tratar de um indivíduo que
+tenham condições de representar tantos interesses em juízo.
+Ademais, se pensarmos que a decisão da class action formará coisa julgada material em
+relação aos indivíduos que optaram por dela participar, é mesmo essencial a existência de um
+mecanismo e de pré-requisitos de aferição destas condições.
+O magistrado, então, a partir das informações fornecidas pelo próprio indivíduo que
+deseja representar a classe, vai analisar se está comprovado que ele é um membro da classe, se
+tem capacidade financeira e disponibilidade para litigar. Além disso, a competência técnica do
+advogado também será analisada através da aferição de sua experiência com ações coletivas,
+do seu trabalho perante o Poder Judiciário. Além da capacidade financeira e humana de seu
+escritório para representar a classe.
+Durante o processo e após o seu julgamento a representatividade adequada continua sendo
+analisada, podendo o representante ser substituído no primeiro caso e o julgamento declarado
+inválido no segundo caso, quando a representação não se mostrar eficiente.
+É importante perceber que a representatividade vai ser aferida pelo juízo, não carecendo
+de autorização dos membros da classe. A alternativa que os membros têm, no caso da class
+action for damages123 é optar por não participar da class action caso acreditem que aquele
+representante não cumprirá seu papel de forma eficiente.
+3.1.2 Antecedentes no direito brasileiro
+A reflexão em torno dos institutos antecedentes ao IRDR no direito brasileiro não tem o
+objetivo de ser exaustiva, de tal maneira que serão expostas, brevemente, algumas técnicas e
+seus aspectos similares ao incidente.
+
+“As categorias e as hipóteses de cabimento estão previstas em quatro subdivisões da Regra 23, quais sejam:
+(b) (1) (A) incompatibilidade de conduta; (b) (1) (B) prejuízo aos interesses do grupo; (b) (2) conduta ilícita e
+uniforme do réu; e (b) (3) predominância de questões comuns e superioridade da tutela coletiva.
+A doutrina norte-americana, com base nessas hipóteses de cabimento, classifica as class actions em dois tipos:
+(a) injunctions class actions previstas nas subdivisões (b) (1) e (b) (2) da Rule 23, são demandas a direito civis
+(civil rights) ou que tem pretensões de condenação da parte ré em obrigações de fazer ou não fazer; e (b) class
+action for damages ou commom question class action, previstas na alínea (b) (3), são demandas que buscam
+medidas ressarcitória de um dano sofrido.” (CAVALCANTI, Marcos. Incidente de resolução de demandas
+repetitivas e ações coletivas. Op. cit. p. 88.).
+123
+
+55
+Não serão tratados aqui o julgamento liminar nem o julgamento monocrático de recursos,
+eis que receberão atenção especial no capítulo 4 deste estudo. Muito menos a ação coletiva e o
+julgamento por amostragem, já dispostos no capítulo 2.
+3.1.2.1 Súmula vinculante
+A súmula vinculante foi inserida na Constituição Federal de 1988 pelo artigo 103-A
+através da Emenda Constitucional nº45 de 2004.
+Assim prevê o dispositivo:
+Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação,
+mediante decisão de dois terços dos seus membros, após reiteradas decisões
+sobre matéria constitucional, aprovar súmula que, a partir de sua publicação
+na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do
+Poder Judiciário e à administração pública direta e indireta, nas esferas
+federal, estadual e municipal, bem como proceder à sua revisão ou
+cancelamento, na forma estabelecida em lei.124
+
+O parágrafo primeiro do artigo em comento evidencia que a súmula vinculante é um
+instrumento criado a fim de evitar “relevante multiplicação de processos sobre idêntica
+questão”125, prezando-se, assim, pela segurança jurídica do ordenamento brasileiro.
+Em que pese o apontamento de Humberto Theodoro Junior, Dierle Nunes e Alexandre
+Bahia, de que tal técnica se preocupa mais com uma “padronização superficial das decisões do
+que com a sua solução legítima e constitucional”126, acredita-se que a eficácia vinculante
+atribuída às sumulas vinculantes confere mais força e estabilidade para as decisões do STF e,
+consequentemente, à Constituição Federal, pois o referido tribunal tem justamente a função de
+zelar pela sua guarda.
+Nesta esteira, é possível afirmar ser um antecedente ao instituto do IRDR e do sistema de
+precedentes vinculantes que vem sendo estruturado no Brasil, na medida em que visa conter a
+
+124
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: promulgada em 5
+de outubro de 1988. Disponível em: < http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm>
+Acesso em 15 set. 2017.
+125
+CF/88, art. 103-A. § 1º A súmula terá por objetivo a validade, a interpretação e a eficácia de normas
+determinadas, acerca das quais haja controvérsia atual entre órgãos judiciários ou entre esses e a administração
+pública que acarrete grave insegurança jurídica e relevante multiplicação de processos sobre questão idêntica.
+126
+JÚNIOR, Humberto Theodoro; NUNES, Dierle; BAHIA, Alexandre. Litigiosidade em massa e repercussão
+geral no recurso extraordinário. vol. 177. ano 34. São Paulo: Editora Revista dos Tribunais, nov. 2009. p. 9-46.
+
+56
+litigiosidade de massa por meio da vinculação obrigatória às decisões do tribunal constitucional
+brasileiro.
+Inclusive, Nelson Nery Junior defende que, ao lado das decisões em ações de controle
+concentrado, a súmula vinculante é um dos únicos institutos detentores de força vinculante no
+sistema brasileiro, em razão da previsão constitucional.127
+3.1.2.2 Incidente de uniformização de jurisprudência
+O Incidente de uniformização de jurisprudência estava previsto nos artigos 476 a 479 do
+CPC/73, e só poderia ser deflagrado quando houvesse causa pendente em tribunal.
+Desta forma, seria instaurado quando o juiz percebesse a existência de divergência de
+interpretação do direito no momento de proferir seu voto na turma, câmara, ou grupo de
+câmaras, ou através de requerimento das partes via razões de recurso ou petição avulsa.
+A divergência poderia ser tanto no âmbito do próprio órgão em que estava inserido o juíz
+instaurador do incidente, quanto no âmbito de diferentes órgãos de um mesmo tribunal. Assim,
+o órgão fracionário do tribunal deveria requerer a instauração através de um acórdão, e este era
+enviado ao órgão especial que seria responsável por emitir um posicionamento através de um
+outro acórdão. Somente após o posicionamento deste é que o julgamento do caso concreto
+prosseguiria.
+Assim é que o procedimento do incidente de uniformização de competência foi
+caracterizado como “burocrático e moroso”128, dando espaço para a criação de mais um
+incidente de uniformização de jurisprudência através da inserção do parágrafo primeiro no
+artigo 555 do CPC/73, pela Lei nº 10.352 de 2001.
+Art. 555, § 1o. Ocorrendo relevante questão de direito, que faça conveniente
+prevenir ou compor divergência entre câmaras ou turmas do tribunal, poderá
+o relator propor seja o recurso julgado pelo órgão colegiado que o regimento
+
+127
+
+NERY JR., Nelson. Recursos extraordinário e especial repetitivos. In: CONGRESSO PROCESSO CIVIL E
+FAZENDA PÚBLICA, 2017, Rio de Janeiro. Procuradoria Geral do Estado do Rio de Janeiro. Disponível em: <
+https://www.youtube.com/watch?v=iIBesJgz0u0>. Acesso em: 16 set. 2017.
+128
+DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual civil nos tribunais, recursos,
+ações de competência originária de tribunal e querela nullitatis, incidentes de competência originária de tribunal.
+Op. cit. p. 756.
+
+57
+indicar; reconhecendo o interesse público na assunção de competência, esse
+órgão colegiado julgará o recurso129.
+
+O referido dispositivo simplificou a possibilidade de uniformizar a jurisprudência ao
+atribuir a competência para o julgamento de recurso ao órgão especial quando fosse necessário
+evitar ou resolver a dissonância entre os órgãos fracionários. Deslocou, então, a atribuição para
+solucionar tanto a divergência quanto o caso concreto, diferentemente da previsão do artigo 476
+do CPC/73 que fracionava a competência para análise da divergência e para julgar o caso
+concreto.130
+
+O parágrafo primeiro do artigo 555 do CPC/73 deu origem ao incidente de assunção de
+competência, tal qual explanado no capítulo 2.
+Ademais, o artigo 479 previa a feitura de súmula e a constituição de precedente de
+uniformização de jurisprudência dos julgamentos em que a votação se desse por maioria
+absoluta dos membros.
+3.1.2.3 Juizados especiais
+Os juizados especiais são regidos pela Lei nº 9.099 de 1995 caracterizando-se por serem
+órgãos do Poder Judiciário destinados a solucionar demandas de maneira mais rápida,
+simplificada e principalmente, gratuita. Não há, também, a necessidade do acompanhamento
+por parte de um advogado, podendo o próprio cidadão ajuizar seu requerimento, desde que ele
+não ultrapasse o limite de 60 salários mínimos nos juizados cíveis federais e 40 salários nos
+juizados estaduais.
+Não é difícil imaginar que os juizados especiais têm uma grande probabilidade de
+proliferação de conflitos em massa, por isso o artigo 14 da Lei nº 10.259 de 2001131 referente
+aos juizados especiais federais merece atenção.132
+
+129
+
+BRASIL. Lei nº 10.352, de 26 de dezembro de 2001. Altera dispositivos da Lei no 5.869, de 11 de janeiro de
+1973 – Código de Processo Civil, referentes a recursos e ao reexame necessário. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10352.htm>. Acesso em: 09 nov. 2017.
+130
+Ibidem, p. 757.
+131
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre
+decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+132
+AUFIERO, Mario Vitor M. Técnicas para julgamento de casos repetitivos no novo Código de Processo Civil.
+Revista de Processo. vol. 265. ano 42. p. 277-297. São Paulo: Editora Revista dos Tribunais, mar. 2007
+
+58
+Ele busca a uniformizar a interpretação da lei federal quando uma Turma Recursal julgar
+questões de direito material em desacordo com outra Turma Recursal ou com jurisprudência
+dominante do STJ. Tal objetivo também é encontrado na criação do IRDR.
+
+3.2 Legitimidade
+
+A legitimidade para instaurar o IRDR está prevista nos incisos do artigo 977 do CPC/
+2015.
+O juiz ou relator do caso podem requerer a instauração do IRDR de ofício, e as partes, o
+Ministério Público e a Defensoria Pública devem requerer através de petição. 133 Ambos os
+pedidos devem ser encaminhados ao presidente do tribunal, o qual, por sua vez, encaminhará
+ao órgão responsável por uniformizar a jurisprudência, conforme indicado pelo regimento
+interno do tribunal.
+Diferentemente da legitimidade nas ações coletivas, bem devemos observar, não foi
+conferida legitimidade, no incidente, para pessoas jurídicas de direito público, nem para as
+associações, que só poderão participar caso sejam parte em algum dos processos atingidos pelo
+IRDR.
+Nota-se, também, que o poder de requerimento de instauração do incidente não é
+relacionado a uma legitimidade ordinária, através da qual o sujeito recorre ao juízo para
+reivindicar um direito próprio. Trata-se de uma legitimidade extraordinária específica, em razão
+de os legitimados, que requererem a deflagração do incidente, não possuírem uma associação
+direta com todos os conflitos que serão afetados pelo IRDR134.
+Dessa forma, também é possível constatar que não cabe o modelo de legitimação
+extraordinária por substituição utilizado nas ações coletivas. No IRDR, o indivíduo cujo
+
+133
+
+Art. 977. O pedido de instauração do incidente será dirigido ao presidente de tribunal:
+I - pelo juiz ou relator, por ofício;
+II - pelas partes, por petição;
+III - pelo Ministério Público ou pela Defensoria Pública, por petição.
+134
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit., p. 103.
+
+59
+processo foi afetado não agirá como substituto de todos os outros indivíduos cujos processos
+foram afetados.
+Não haverá a discussão do direito subjetivo de nenhum dos indivíduos durante o
+processamento do incidente, tão somente haverá o debate acerca do estabelecimento de uma
+diretriz, que, posteriormente, no âmbito de cada processo individual, será aplicada pelo juiz
+competente, conforme os outros elementos fáticos do caso concreto.
+Entretanto, para que o direito ao contraditório seja exercido, é essencial que se pense em
+alguma maneira dele se efetivar. Tal debate será travado no quarto capítulo no item 4.2.3.1
+pelos motivos lá descritos.
+Dito isto, apontar-se-á questionamentos acerca da legitimidade conferida pelo dispositivo
+em comento.
+3.2.1 Das partes
+A legitimidade, para requerer a instauração do IRDR por meio de petição, é conferida às
+partes através do inciso II do artigo 977 do CPC/2015. Ser parte, neste caso, é figurar em um
+dos polos processuais de uma lide que contenha uma questão de direito idêntica e repetitiva em
+outros processos. Assim, para se concretizar a legitimidade da parte, deve haver a pertinência
+subjetiva entre ela e a questão discutida no seio do IRDR.135
+Acerca disto, Marinoni faz a seguinte crítica:
+O que mais chama atenção é o fato de as partes, o autor de uma das demandas
+repetitivas ou o réu que pode estar em todas elas, terem expressa autorização
+para requerer a instauração do incidente. Ora, se aquele a quem são atribuídos
+os ilícitos que deram origem às demandas repetitivas pode requerer a
+instauração do processo e dele participar, mas a mesma autorização de
+requerimento só oportuniza a participação do litigante-lesado de uma das
+demandas repetitivas, o incidente certamente é o procedimento “dos sonhos”
+daquele que habitualmente viola direitos em massa, que, assim, deve estar
+muito agradecido à generosidade do legislador.136
+
+135
+
+DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual civil nos tribunais, recursos,
+ações de competência originária de tribunal e querela nullitatis, incidentes de competência originária de tribunal.
+Op. cit. p. 727.
+136
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. Op. cit., p. 76.
+
+60
+Infere-se do apontamento que não parece estar resguardado o Princípio da Isonomia
+quando o réu, causador de demandas em massa, for o mesmo em todos os processos afetados
+pelo incidente, pois sua defesa e participação no IRDR abarcaria todos os seus processos, ao
+passo que todos os indivíduos atingidos pelo incidente não poderão exercer seu direito de
+defesa, apenas aquele escolhido para ser o procedimento-modelo.
+Desta forma, defende-se que “associações legitimadas à tutela dos direitos individuais
+homogêneos” participem do processamento do IRDR, a fim de conferir constitucionalidade ao
+seu julgamento. Na falta de tais associações deverá o Ministério Público fazer as vezes de
+representar os “litigantes excluídos”137.
+3.2.2 Do Ministério Público e da Defensoria Pública
+A legitimidade para requerer a deflagração do IRDR é conferida ao Ministério Público e
+a Defensoria Pública por força do inciso III do artigo 977 do CPC/2015. Acerca desta
+legitimação surgem alguns questionamentos. Vejamos.
+Quando o MP age em um processo coletivo, há a necessidade de se demonstrar o relevante
+interesse social. Da mesma forma, para poder atuar no IRDR, deve haver tal interesse? Por sua
+vez, a Defensoria Pública precisa demonstrar pertinência funcional, ao requerer a instauração
+do IRDR? Ela só poderá agir em defesa do interesse de hipossuficientes?
+Marcos Cavalcanti138, Aluisio Mendes e Roberto Rodrigues139, dentre outros autores,
+acreditam no dever de demonstração das pertinências funcionais, a fim de se cumprir a função
+destinada pela CF/88 aos referidos órgãos140-141.
+
+137
+
+Idem.
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p.545-549.
+139
+MENDES, Aluisio Gonçalves de Castro; RODRIGUES, Roberto de Aragão Ribeiro. Reflexões sobre o
+incidente de demandas repetitivas previsto no projeto de novo código de processo civil. vol. 211. Ano 37. São
+Paulo: Editora Revista dos Tribunais, set. 2012. p. 191-208.
+140
+Art. 127. O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado,
+incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais
+indisponíveis.
+141
+Art. 134. A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado,
+incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica,
+a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e
+coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso LXXIV do art. 5º desta Constituição
+Federal.
+138
+
+61
+Ademais, quando a defensoria não for a requerente, poderá atuar quando tiver um
+processo sob sua égide afetado ou como amicus curiae, bastando apenas que o incidente tenha
+capacidade para adentrar aos interesses jurídicos de hipossuficientes para legitimar sua atuação,
+não havendo necessidade de que uma das partes dos processos afetados seja vulnerável142.
+Outrossim, quando o órgão ministerial não for o requerente ele deverá atuar como custus
+legis, ou poderá atuar quando for parte. E mais, em caso de desistência ou abandono poderá
+assumir a titularidade do incidente, vide artigo 976, §2º.
+Note-se que o MP não tem a obrigatoriedade de prosseguir como titular do incidente, caso
+acredite não estarem presentes seus requisitos de admissibilidade. Neste caso, após a devida
+fundamentação do referido órgão, o juízo poderá dar continuidade de ofício se não concordar
+com a posição do MP, eis que legitimado para tal.143
+Obviamente as possibilidades de atuação dos dois órgãos públicos é diferenciada em
+razão de suas funções constitucionais divergentes.
+Em suma, MP e DP podem atuar por força de sua função institucional – legitimidade
+conferida pelo inciso III do artigo 977 -, ou podem atuar quando forem parte no processo –
+legitimidade conferida pelo inciso II do artigo 977.
+O MP também deve intervir obrigatoriamente como fiscal da lei, conforme artigo 976,
+§2º.
+A participação destes órgãos é de extrema importância para ampliação do debate, pois a
+partir do acórdão do IRDR haverá a formação de precedente vinculante. É através da
+intervenção do MP e da DP que se confere força vinculante a um incidente acusado de ser
+inconstitucional por ferir o princípio do contraditório.
+3.2.3 Do juiz ou relator
+Por fim, verifica-se que o juiz de primeiro grau ou o desembargador, na qualidade de
+relator, são detentores de legitimidade para instaurar o incidente de ofício.
+
+142
+
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p.548.
+GAJARDONI, Fernando da Fonseca et. al. Execução e recursos: comentários ao CPC 2015. 1ª ed. Rio de
+Janeiro: Forense; São Paulo: Método, 2017. p. 845.
+143
+
+62
+Entretanto, isto não significa a atuação do magistrado como se parte fosse. Na verdade,
+ele apenas proporá a deflagração do incidente para o tribunal, a fim de solucionar de forma
+isonômica controvérsia acerca de uma questão de direito repetitiva.144
+Ademais, esta previsão legislativa salta aos olhos pois, diferentemente da ação coletiva,
+em que os legitimados são o MP, a DP, e as associações, dentre outros, optou-se por garantir
+ao próprio Poder Judiciário a oportunidade de agir ao identificar a existência seriada de lides
+idênticas.
+
+A despeito de existir no processo coletivo a opção de notificação dos legitimados
+extraordinários pelo magistrado, quando este identificar uma potencial ação coletiva, legitimar
+o próprio judiciário a instaurar um incidente para conter a repetição excessiva de processos
+idênticos, parece ser uma opção mais célere.
+
+Porquanto, mesmo alertados pelo magistrado, os legitimados vão ainda analisar se há o
+interesse e motivo para demandar. Em caso positivo, a desvantagem é a perda de tempo da
+notificação até a decisão do órgão. E em caso negativo, o juiz não teria tantos mecanismos para
+julgar os processos em massa de uma forma mais racionalizada.
+
+3.3 Admissibilidade
+Conforme apontado supra, nos termos do artigo 947 do CPC/2015, o incidente pode ser
+requerido pelo Ministério Público, pela Defensoria Pública, pelas partes ou pode ser instaurado
+de ofício pelo juiz ou relator. Importante ressaltar que, tanto no requerimento pelos legitimados,
+quanto na instauração de ofício, haverá análise da presença dos requisitos fundamentais para a
+admissão do incidente.
+3.3.1 Requisitos
+Os requisitos estão previstos nos incisos do artigo 976 do CPC/2015. São eles a 1) efetiva
+repetição de processos, 2) mesma questão de direito e 3) risco de ofensa à isonomia e à
+segurança jurídica.
+
+144
+
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p.544.
+
+63
+3.3.1.1 Efetiva repetição de processos
+O primeiro requisito para a admissão, de cunho quantitativo, elencado no artigo 976 do
+CPC/2015 é a efetiva repetição de processos. Acerca de tal pressuposto questiona-se o que seria
+esta efetiva repetição de processos. Haveria um número especifico de demandas mínimas para
+se permitir instaurar o incidente?
+Como se pode extrair do artigo acima citado, não há um critério objetivo para aferir a
+efetiva repetição de processos, de tal forma que será analisado casuisticamente.
+Nesta senda, essencial apontar o entendimento do Enunciado nº 87 do Fórum Permanente
+de Processualistas Civis:
+A instauração do incidente de resolução de demandas repetitivas não
+pressupõe a existência de grande quantidade de processos versando sobre
+a mesma questão, mas preponderantemente o risco de quebra da isonomia e
+de ofensa à segurança jurídica.145 (sem grifo no original).
+
+Verifica-se, portanto, a desnecessidade da existência de um número exorbitante de
+demandas cuja decisões sejam divergentes, muito embora também não haja um mínimo. E deve
+ser mesmo este o entendimento, eis que o IRDR tem o escopo de conter a proliferação de
+demandas em massa, não havendo racionalidade em deixar a divergência abarcar uma grande
+quantidade de processos. Mais adequado é a identificação de repetição logo de início e a busca
+da orientação do tribunal competente.
+Outra discussão que decorre deste dispositivo é saber se bastaria a efetiva repetição de
+processos para instauração do incidente ou se seria necessário que houvesse contradição nas
+decisões referente a tais processos repetitivos.
+Nelson Nery Junior auxilia na solução desta indagação, eis que aponta não haver interesse
+processual na instauração do IRDR caso as decisões em processos repetitivos sejam de mesmo
+teor. Chega a tal conclusão baseado no terceiro requisito de admissibilidade, desta vez de cunho
+qualitativo, que é o de que haja dissenso jurisprudencial capaz de oferecer risco à isonomia e à
+
+145
+
+ENCONTRO DO FÓRUM PERMANENTE DE PROCESSUALISTAS CIVIS, 2, 2015, Salvador. Anais
+Eletrônicos. Salvador: JusPodivm, 2015. Disponível em: < http://www.cpcnovo.com.br/wpcontent/uploads/2016/06/FPPC-Carta-de-Sa%CC%83o-Paulo.pdf > Acesso em: 28 ago. 2017.
+
+64
+segurança jurídica. Em outras palavras, deve haver uma divergência em relação à interpretação
+de determinada questão jurídica, pois se as decisões forem idênticas, não haveria ofensa à
+isonomia nem à segurança jurídica146, como se verá no tópico 3.3.1.3.
+3.3.1.2. Mesma questão de direito
+O segundo requisito de admissão envolve ser uma mesma questão de direito. Dessa forma
+não será cabível o IRDR acerca de questões idênticas de fato, tal qual exposto no item 2.4.2
+deste trabalho.
+É conhecida a dificuldade de desvincular as questões de direito dos aspectos fáticos do
+processo, reconhecendo-se, assim, que o intuito de tal previsão é, na verdade, evitar a
+instauração do incidente sobre casos em que haja necessidade de dilação probatória.147
+De acordo com Sofia Temer, há questão de direito quando o julgamento pretender
+resolver os seguintes temas: a) como deve ser entendido o texto normativo e quais as
+consequências jurídicas daí extraídas; b) qual a norma aplicável a uma situação fática; e c) a
+compatibilidade entre o texto normativo e outras normas da Constituição Federal. 148
+Por fim, segundo o artigo 928 do CPC/2015 a questão de direito pode envolver direito
+processual ou material.
+3.3.1.3 Risco de ofensa à isonomia e à segurança jurídica.
+O Princípio da Isonomia consiste na observância do artigo 5º da CF/88 em que há previsão
+de igualdade para todos os seres humanos perante a lei. No âmbito processual esse mandamento
+também pode ser entendido no dever do juiz de agir de forma diferente para equilibrar uma
+relação em que haja uma parte hipossuficiente. A exemplo do que ocorre com a inversão do
+ônus da prova.
+
+146
+
+NERY JR., Nelson; NERY, Rosa Maria de Andrade. Comentários ao código de processo civil. São Paulo:
+Editora Revista dos Tribunais, 2015, p.2041.
+147
+GAJARDONI, Fernando da Fonseca et. al. Execução e recursos: comentários ao CPC 2015. 1ª ed. Op. cit. p.
+842.
+148
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit., p.71.
+
+65
+Outro contorno processual da isonomia, e de interesse neste estudo, é o igualitário
+tratamento processual conferido a processos cujo conteúdo seja similar, incluindo aí a mesma
+decisão acerca dos mesmos direitos. Este é o objetivo da tutela do IRDR.
+Ademais, o Princípio da Segurança Jurídica está estampado no artigo 5º, XXXVI da
+CF/88, prevendo-se a não prejudicialidade do direito adquirido, do ato jurídico perfeito e da
+coisa julgada em detrimento da lei. Assim, visa garantir uma certa previsibilidade das decisões
+judicias a fim de que a sociedade possa estabelecer suas relações jurídicas com convicção e
+segurança.
+Nesta senda, decisões diferentes acerca de processos com conteúdo semelhante vão de
+encontro a tal princípio, e geram a chamada “justiça de loteria”, pois uma decisão favorável
+dependerá da “sorte” de se distribuir um processo em uma vara cujo pensamento se alinhe a
+tese pretendida. Sem deixar de mencionar que tal justiça estimula a litigância exacerbada, pois
+não se sabe qual a posição adotada pelo Poder Judiciário, então não há nada a se perder em
+demandar a Justiça.149
+Apura-se, então, o terceiro requisito, pois o incidente só poderá ser instaurado se a efetiva
+repetição de idêntica questão de direito oferecer ameaça à isonomia e à segurança jurídica.
+Há uma certa controvérsia acerca da carência de demonstração da existência de tal risco.
+Com respeito à opinião contrária, não parece que o artigo 976, II tenha o condão de exigir uma
+comprovação de que a isonomia e a segurança jurídica tenham sido feridas. Imagina-se que a
+existência de julgamentos discrepantes implique automaticamente no risco de se ferir tais
+princípios e isto já bastaria para preencher tal requisito de admissibilidade.
+Entretanto, também não se pode conferir um caráter preventivo ao IRDR, tal qual lhe foi
+atribuído pela comissão de juristas responsáveis pela elaboração do CPC/2015 e conforme o
+projeto de lei aprovado pelo Senado Federal.150
+O texto do Projeto Lei nº 166 de 2010 previa que o potencial de gerar multiplicação de
+processos era suficiente para instaurar o IRDR. Contudo, quando o projeto foi para a Câmara
+
+149
+
+MARINONI, Luiz Guilherme. Precedentes obrigatórios. 3ª ed. São Paulo: Editora Revista dos Tribunais, 2013,
+p. 179-180.
+150
+GAJARDONI, Fernando da Fonseca. et. al. Execução e recursos: comentários ao CPC 2015. Op. cit. p. 843.
+
+66
+dos Deputados seu caráter preventivo foi retirado após sofrer muitas críticas durante as
+audiências públicas.
+Em suma, o incidente só pode ser instaurado se houver ao mínimo algumas decisões
+conflitantes, o que colocaria em risco a segurança jurídica e isonomia.
+3.3.1.4 Requisito negativo
+Há, ainda, um requisito de cunho negativo, ou seja, constatando-se sua presença não
+poderá ser implantado o IRDR.
+O parágrafo 4º do artigo 976 do CPC/2015 prevê ser incabível o incidente quando houver
+recurso especial ou extraordinário repetitivo afetado para fixar tese de direito material ou
+processual no âmbito do STJ e STF, respectivamente.
+Deve-se atentar para a palavra “afetados” que indica o marco temporal a partir do qual se
+veda a instauração do IRDR: apenas a decisão de afetação prevista no artigo 1.037 do CPC/2015
+tem capacidade de afastar a incidência do incidente.151
+O objetivo de tal dispositivo é o de evitar a perigosa instauração de IRDR e de recursos
+repetitivos acerca da mesma questão. Frustra-se, assim, a possibilidade de existência de duas
+teses diferentes relativas a mesma questão de direito, tão nociva a segurança jurídica prezada
+pela sistemática do julgamento de casos repetitivos.152
+Veja-se, também, que há predileção da técnica do julgamento por amostragem de recursos
+à técnica do IRDR, isso porque a primeira vai firmar uma tese de aplicação nacional.153
+3.3.1.5 A existência de causa pendente no tribunal seria um requisito de
+admissibilidade?
+Aponta-se a existência de uma controvérsia acerca da necessidade ou não da presença
+causa pendente no tribunal para fins de admissão do incidente.
+
+151
+
+Idem.
+Idem.
+153
+DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual civil nos tribunais, recursos,
+ações de competência originária de tribunal e querela nullitatis, incidentes de competência originária de tribunal.
+Op. cit. p. 718.
+152
+
+67
+Em observância ao parágrafo único do artigo 978 do CPC/2015154, alguns autores155
+acreditam que a atribuição do tribunal de julgar o IRDR advém de uma demanda já em deslinde
+neste mesmo tribunal, seja através de remessa necessária, recurso ou processo de competência
+originária. Em outras palavras, o assunto em controvérsia não ensejaria a instauração do IRDR
+se a discussão estivesse apenas em primeiro grau.
+
+Tal defesa é pautada em argumento constitucional, ou seja, não há previsão na CF/88 de
+que os tribunais detêm competência para julgamento do IRDR. Desta forma, uma lei ordinária
+não pode criar competência para estes tribunais, apenas pode criar a instauração de um incidente
+que atue no âmbito das competências já prescritas pela nossa Carta Magna.
+Neste sentido está o Enunciado 344156 do Fórum Permanente de Processualistas Civis:
+“A instauração do incidente pressupõe a existência de processo pendente no respectivo
+tribunal”.
+
+Por outro lado, autores como Mitidiero, Marinoni e Arenhart acreditam que tal
+posicionamento, se adotado, frustraria a utilidade do IRDR. Para os autores o adequado é tratar
+o artigo 978 como uma regra de prevenção157, sendo que ao analisar o IRDR o órgão detém
+também a competência para julgar a causa que deu origem ao incidente. Neste sentido, a efetiva
+repetição de processos em primeiro grau já seria suficiente para o uso da ferramenta. Eis que
+quando o assunto chega em segundo grau, o primeiro grau já está repleto de demandas
+repetitivas, e não parece muito efetivo esperar a multiplicação exagerada de demandas para se
+instaurar o incidente, sob pena de esvaziar seu escopo.158
+
+154
+
+Art. 978. Parágrafo único. O órgão colegiado incumbido de julgar o incidente e de fixar a tese jurídica julgará
+igualmente o recurso, a remessa necessária ou o processo de competência originária de onde se originou o
+incidente.
+155
+Fredie Didier Jr. e Leonardo Carneiro da Cunha in DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso
+de direito processual civil nos tribunais, recursos, ações de competência originária de tribunal e querela nullitatis,
+incidentes de competência originária de tribunal. Op. cit. p. 716.
+156
+ENCONTRO DO FÓRUM PERMANENTE DE PROCESSUALISTAS CIVIS, 2, 2015, Salvador. Anais
+Eletrônicos. Salvador: Juspodivm, 2015. Disponível em: < http://www.cpcnovo.com.br/wpcontent/uploads/2016/06/FPPC-Carta-de-Sa%CC%83o-Paulo.pdf > Acesso em: 28 ago. 2017.
+157
+No mesmo sentido está o pensamento de Sofia Temer. (TEMER, Sofia. Incidente de Resolução de Demandas
+Repetitivas. Op. cit. p. 107.)
+158
+MARINONI, Luiz Guilherme; ARENHART, Sergio Cruz; MITIDIERO, Daniel. Novo curso de processo civil:
+tutela dos direitos mediante procedimento comum. vol. II. São Paulo: Editora Revista dos Tribunais, 2015. p.580.
+
+68
+Ainda apontaram os autores:
+Ao que parece, a solução da questão exige uma interpretação histórica do
+IRDR. Enquanto o código tramitava como projeto, o substituto apresentado
+pela Câmara dos Deputados (Substitutivo n.8.046, de 2010) acrescentou um
+parágrafo ao primeiro artigo que tratava do IRDR, exigindo que, para a
+instauração do incidente, seria necessária a pendência de qualquer causa de
+competência do tribunal. Esse preceito, porém, foi suprimido na versão final
+do código, o que indica a intenção do legislador em não manter essa
+imposição. Por isso, não parece lógico pretender extrair do art. 978, parágrafo
+único, interpretação que exija a pendência de causa perante o tribunal para que
+se viabilize o incidente. 159 (grifo nosso).
+
+Por este ângulo também o Enunciado nº22 da Escola Nacional de Formação e
+Aperfeiçoamento de Magistrados: “a instauração do IRDR não pressupõe a existência de
+processo pendente no respectivo tribunal.”
+Outra justificativa argumentada pelos favoráveis a necessidade de existência de causa
+pendente no tribunal é a de que assim se evitaria a instituição de caráter preventivo ao incidente.
+Entretanto, e como dito supra, durante o processo legislativo estabeleceu-se que o requisito
+para a deflagração do IRDR seria a efetiva repetição de processos e não a possível repetição de
+processos. Desta forma não há se falar em caráter preventivo.
+Com o devido respeito a opinião adversa, parece mais adequada a inexigência de causa
+pendente no tribunal.
+Isso porque, além das justificativas já apontadas, ao observarmos que o pedido de
+instauração do incidente pode ser feito pelo juíz de primeiro grau, vide artigo 977, I, do
+CPC/2015, fica evidente que se trata de um processo que esteja sob a sua competência.
+3.3.2 Decisão de admissão e suas consequências
+O presidente do tribunal estadual ou regional receberá o pedido de instauração,
+encaminhando, após, ao órgão responsável pela uniformização da jurisprudência, conforme
+indicação do regimento interno do tribunal.
+
+159
+
+Idem.
+
+69
+Feito o juízo positivo de admissibilidade, que deve ser fundado em uma decisão colegiada
+segundo o artigo 981 do CPC/2015160, ter-se-á a definição provisória do objeto do incidente e
+haverá a suspensão dos processos cujo conteúdo seja afeto à questão repetitiva.161
+
+Trata-se de uma delimitação provisória pois o conteúdo que a decisão de admissibilidade
+indicou para ser posto em julgamento pode ser alterado posteriormente, embora a referida
+decisão seja um primeiro parâmetro para a suspensão dos processos.
+
+Outrossim, os processos que serão suspensos são aqueles que estão sob a competência do
+tribunal que instaurou o incidente, conforme artigo 982, I do CPC/2015. Só haverá expansão
+para o âmbito nacional quando um dos legitimados requerer “ao tribunal competente para
+conhecer do recurso extraordinário ou especial, a suspensão de todos os processos individuais
+ou coletivos em curso no território nacional que versem sobre a questão objeto do incidente já
+instaurado”, vide artigo 982, §3º do CPC/2015.
+
+Ainda que a suspensão seja automática, Sofia Temer entende ser imprescindível
+intimação das partes acerca da afetação do seu processo,162 usando-se supletivamente o artigo
+1.037, §8º do CPC/2015, referente aos recursos especiais e extraordinários repetitivos.
+
+Defende-se a intimação das partes cujos processos foram afetados por ser de suma
+importância que elas tenham o efetivo conhecimento acerca da discussão do IRDR. Ademais,
+para possibilitar sua participação através da sustentação de suas razões no dia do julgamento
+como interessados nos termos do artigo 984, II, b do CPC/2015 e, também, para se permitir
+demonstrar a distinção do seu caso em relação ao caso do incidente.163
+
+Nesta esteira, podemos pensar que pode haver a suspensão errônea de um processo ou a
+não suspensão de um processo que deveria ser suspenso. O que seria muito gravoso para toda
+sistemática do incidente.
+
+No mesmo sentido está o Enunciado 91 do Fórum Permanente de Processualistas Civis: “Cabe ao órgão
+colegiado realizar o juízo de admissibilidade do incidente de resolução de demandas repetitiva, sendo vedada a
+decisão monocrática”.
+161
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit. p. 121.
+162
+Idem.
+163
+Ibidem, p. 122.
+160
+
+70
+
+Não há no CPC/2015 a previsão de um recurso em face de uma decisão errônea de
+afetação, mas é possível, mais uma vez, usar supletivamente as disposições acerca dos recursos
+repetitivos164, de tal forma que se conclui pela utilização do agravo ou do agravo interno, a
+depender do emissor da decisão.165
+
+Outro ponto relevante tange a possibilidade de suspensão parcial dos processos quando
+houver cumulação de pedidos, por exemplo. Detectados aspectos do processo que não estão
+relacionados a questão de direito repetitiva e diante da possibilidade de se continuar
+parcialmente seu andamento, parece razoável a desnecessidade da suspensão total.166
+3.3.3 Decisão de inadmissão
+Nos termos do parágrafo 3º do artigo 976 do CPC/2015167, a decisão de inadmissão não
+inviabiliza uma nova tentativa de deflagração do IRDR, desde que, nesta investida, estejam
+presentes os requisitos de admissibilidade ora elencados neste capítulo.
+
+Nesta oportunidade, ressalta-se, também, que tanto a decisão de admissão quanto a de
+inadmissão são recorríveis apenas de embargos de declaração.
+Neste sentido está o enunciado 556 do Fórum Permanente de Processualistas Civis: “É
+irrecorrível a decisão do órgão colegiado, que em sede de juízo de admissibilidade, rejeita a
+instauração do incidente de resolução de demandas repetitivas, salvo o cabimento de embargos
+de declaração”.168
+
+164
+
+Tais disposições são as do artigo 1.037, §§8º ao 13º do CPC/2015.
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit. p 123.
+166
+Ibidem, p.125.
+167
+Art. 976. (…) § 3o A inadmissão do incidente de resolução de demandas repetitivas por ausência de qualquer
+de seus pressupostos de admissibilidade não impede que, uma vez satisfeito o requisito, seja o incidente novamente
+suscitado.
+168
+ENCONTRO DO FÓRUM PERMANENTE DE PROCESSUALISTAS CIVIS, 2, 2015, Salvador. Anais
+Eletrônicos. Salvador: Juspodivm, 2015. Disponível em: < http://www.cpcnovo.com.br/wpcontent/uploads/2016/06/FPPC-Carta-de-Sa%CC%83o-Paulo.pdf > Acesso em: 28 ago. 2017
+165
+
+71
+3.3.4 Publicidade do IRDR
+Por fim, merece destaque o artigo 979 do CPC/2015, pois prevê a ampla divulgação da
+deflagração e do julgamento do IRDR, através de “registro eletrônico no CNJ”169.
+
+Considera-se que ao divulgar amplamente a instauração do incidente legitima-se a
+eficácia da decisão de admissibilidade, pois ela permite o envolvimento dos interessados e o
+estabelecimento adequado dos casos repetitivos. E mais, a divulgação evita a instauração de
+novos incidentes acerca da mesma matéria, naquela jurisdição.
+
+Na prática, através da Resolução nº 235 do CNJ foi criado o Banco Nacional de Demandas
+Repetitivas e Precedente Obrigatórios cujo escopo é de reunir informações.
+
+O parágrafo 1º do artigo 5º da referida resolução prevê que a alimentação dos dados
+deverá ser feita pelos tribunais, devendo estes informarem acerca “dados relativos à repercussão
+geral, aos recursos repetitivos, ao incidente de resolução de demandas repetitivas e ao incidente
+de assunção de competência admitidos e julgados pelos tribunais”.170
+3.4 Competência
+No que tange a competência para julgar o IRDR devemos observar o artigo 978 do
+CPC/2015:
+Art. 978. O julgamento do incidente caberá ao órgão indicado pelo regimento
+interno dentre aqueles responsáveis pela uniformização de jurisprudência do
+tribunal.
+Parágrafo único. O órgão colegiado incumbido de julgar o incidente e de fixar
+a tese jurídica julgará igualmente o recurso, a remessa necessária ou o
+processo de competência originária de onde se originou o incidente.171
+
+169
+
+BRASIL. Lei nº 13.105, de 16 de março de 2015. Institui o Código de Processo Civil. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm#art1046 >. Acesso em: 21 set. 2017.
+170
+CONSELHO NACIONAL DE JUSTIÇA. Resolução nº 235, de 13 de julho de 2016. Disponível em
+<http://www.cnj.jus.br/busca-atos-adm?documento=3155>. Acesso em: 02 de out. de 2017.
+171
+BRASIL. Lei nº 13.105, de 16 de março de 2015. Institui o Código de Processo Civil. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm>. Acesso em: 26 ago. 2017.
+
+72
+De início, veja-se que o CPC/2015 determinou como competente para o julgamento do
+IRDR o órgão colegiado responsável pela uniformização de jurisprudência do tribunal, devendo
+este ser estabelecido de acordo com o próprio regimento interno do tribunal.
+Considera-se que tal disposição está de acordo com o artigo 96 da CF/88172, pois cabe ao
+respectivo tribunal produzir seu regimento interno e nele dispor a competência de seus
+órgãos.173
+
+Além disso, tal dispositivo força que os tribunais adequem seus regimentos internos a fim
+de estabelecer o órgão a quem incumbirá o processamento do novel instituto. Sem esquecer que
+este mesmo órgão ficará responsável por julgar o recurso, a remessa necessária e o processo de
+competência originária de onde foi gerado o incidente.
+
+De plano se pode imaginar a dificuldade de lidar com um novo instituto, principalmente
+se não houver empenho dos tribunais em modificar sua estrutura organizacional. Sérgio Cruz
+Arenhart comenta durante sua exposição no painel II do Seminário O Novo Código de Processo
+Civil a dificuldade que enfrentou o Tribunal Regional do Trabalho na tentativa de instaurar um
+IRDR negado por falta de previsão do procedimento no regimento interno e da negativa do
+Presidente do Tribunal de o criar.174
+
+Importante mencionar, também, que o artigo em questão atribui a competência de forma
+genérica para o órgão responsável pela uniformização de jurisprudência do tribunal. Assim,
+tanto os TJs e TRFs são competentes para o julgamento, quanto o STJ e o STF o são. Em outras
+palavras, o IRDR pode ser deflagrado no âmbito dos tribunais superiores.
+
+172
+
+Art. 96. Compete privativamente:
+I - aos tribunais:
+a) eleger seus órgãos diretivos e elaborar seus regimentos internos, com observância das normas de processo e das
+garantias processuais das partes, dispondo sobre a competência e o funcionamento dos respectivos órgãos
+jurisdicionais e administrativos;
+173
+GAJARDONI, Fernando da Fonseca. et. al. Execução e recursos: comentários ao CPC 2015. Op. cit. p. 853.
+174
+ARENHART, Sérgio Cruz. Incidente de resolução de demandas repetitivas. In: SEMINÁRIO O NOVO
+CÓDIGO DE PROCESSO CIVIL, 2016, Auditório do Pleno do Tribunal Regional Federal da 5ª Região, Recife.
+Centro de Estudos Judiciários do Conselho da Justiça Federal. Disponível em: <
+https://www.youtube.com/watch?v=DqKoJkJc4PQ>. Acesso em: 16 set. 2017.
+
+73
+Defende-se que não cabe IRDR no âmbito dos juizados especiais federais e da fazenda
+pública, eis que já se valem dos instrumentos de uniformização de jurisprudência.175
+
+Ademais, acerca de previsão do artigo em comento, Marinoni tece a crítica de que o
+dispositivo faz uma confusão entre o incidente e a uniformização de jurisprudência.176
+
+O respeitado doutrinador infere que o IRDR não tem como escopo a uniformização de
+jurisprudência, mas sim de vedar a “multiplicação da litigação”, produzindo o efeito contrário
+da uniformização da jurisprudência, eis que a sua instauração impede a formação de
+entendimento, pois evita a multiplicação de julgados contraditórios.177
+3.4.1 Inconstitucionalidade formal do parágrafo único do artigo 978.
+A inconstitucionalidade formal do parágrafo único do artigo 978 tem sido destacada por
+diversos doutrinadores.
+Aponta-se que tal disposição não passou pelo crivo do Senado Federal, nem pela
+deliberação da Câmara dos Deputados, sendo inserido no CPC/2015 apenas quando os
+senadores foram revisar a versão alterada dos deputados.178
+Desta forma, tal dispositivo padece de vício formal pela inobservância do processo
+legislativo devendo ser reconhecida sua inconstitucionalidade.
+
+175
+
+DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual civil nos tribunais, recursos,
+ações de competência originária de tribunal e querela nullitatis, incidentes de competência originária de tribunal.
+Op. cit. p. 723.
+176
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. São Paulo: Editora Revista dos Tribunais, 2016, p. 70.
+177
+Idem.
+178
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas. Op. cit. p.453.
+
+74
+
+75
+4. INTERAÇÃO ENTRE O INCIDENTE DE RESOLUÇÃO DE DEMANDAS
+REPETITIVAS COM OUTROS INSTITUTOS
+
+Analisados os principais aspectos que circunscrevem o IRDR, o presente tópico volta-se
+a verificação de sua interação com outras ferramentas processuais vigentes no processo civil
+brasileiro, vez que o CPC/2015 foi feito sob a grande preocupação de se “preservar a forma
+sistemática das normas processuais”179, a fim de “obter um grau mais intenso de
+funcionalidade”.180.
+4.1 Julgamento liminar de improcedência
+
+O julgamento liminar de improcedência do pedido está previsto no artigo 332 do
+CPC/2015 e ocorrerá quando o juiz findar o processo, antes da citação do réu, pois o pedido do
+autor contraria uma das opções do rol de incisos do artigo em questão, se não houver
+necessidade de dilação probatória.
+
+Trata-se de uma das regras que devem ser observadas após o julgamento do IRDR em
+razão da formação do precedente vinculante.
+
+Em outras palavras, o julgamento liminar de improcedência é uma das consequências da
+aplicação do precedente formado no âmbito do incidente, havendo, assim, o diálogo entre os
+institutos.
+4.1.1 Hipóteses de incidência do julgamento liminar de improcedência
+As hipóteses de incidência do julgamento liminar de improcedência estão previstas nos
+incisos do artigo 332 do CPC/2015 e elas indicam que, mais do que o julgamento liminar ser
+
+179
+
+BRASIL. Congresso Nacional. Senado Federal. Comissão de Juristas Responsável pela Elaboração de
+Anteprojeto de Código de Processo Civil. Código de Processo Civil: anteprojeto / Comissão de Juristas
+Responsável pela Elaboração de Anteprojeto de Código de Processo Civil – Brasília: Senado Federal, Presidência,
+2010. p. 12. Disponível em: <https://www.senado.gov.br/senado/novocpc/pdf/Anteprojeto.pdf> Acesso em: 26 de
+ago. 2017
+180
+Idem.
+
+76
+uma consequência da formação de precedentes no IRDR, ela está intrinsecamente relacionada
+à vinculação obrigatória conferida aos precedentes e súmulas pelo artigo 927 do CPC/2015.181
+
+Desta forma, está autorizado o julgamento liminar quando houver pedido contrário a:
+I - enunciado de súmula do Supremo Tribunal Federal ou do Superior Tribunal
+de Justiça182;
+II - acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal
+de Justiça em julgamento de recursos repetitivos;
+III - entendimento firmado em incidente de resolução de demandas repetitivas
+ou de assunção de competência;
+IV - enunciado de súmula de tribunal de justiça sobre direito local.
+
+4.1.2 Artigo 332 do CPC/2015 x artigo 285-A do CPC/73
+Ademais, o artigo 332 do CPC/2015 é uma versão aprimorada do antigo artigo 285-A do
+CPC/73:
+Art. 285-A. Quando a matéria controvertida for unicamente de direito e no
+juízo já houver sido proferida sentença de total improcedência em outros casos
+idênticos, poderá ser dispensada a citação e proferida sentença, reproduzindose o teor da anteriormente prolatada.183
+
+O atual 332 do CPC/15, por sua vez, assim prevê:
+Art. 332.
+Nas causas que dispensem a fase instrutória, o juiz,
+independentemente da citação do réu, julgará liminarmente improcedente o
+pedido que contrariar: (rol já elencado acima).
+
+Tanto o artigo 285-A do CPC/73, quanto o artigo 332 do CPC/2015, ressalvadas as suas
+diferenças, preveem a possibilidade de julgamento de plano, dispensando-se a citação do réu
+pelo magistrado. Embora não haja expressa permissão para julgamento liminar no extinto 285A, podemos extrair de sua leitura que ele conferia tal poder ao juiz.184
+
+181
+
+GAJARDONI, Fernando da Fonseca. et. al. Processo de conhecimento e cumprimento de sentença: comentários
+ao CPC de 2015. Op. cit. p. 57.
+182
+Segundo o enunciado 146 do Fórum de Processualistas “na aplicação do inciso I do art. 332, o juiz observará o
+inciso IV do caput do art. 927”. Dessa forma, entende-se que apenas a contrariedade às súmulas emitidas pelo STF
+após a CF/88 é que autoriza o julgamento liminar do pedido.
+183
+BRASIL. Lei 5.869, de 11 de janeiro de 1973. Institui o Código de Processo Civil. Diário Oficial da União.
+Brasília: 17 janeiro 1973. Disponível em: < http://www.planalto.gov.br/ccivil_03/leis/L5869.htm> Acesso em: 04
+set. 2017.
+184
+MARINONI, Guilherme Luiz; ARENHART, Sérgio Cruz. Curso de processo civil. vol. 2. Processo de
+conhecimento. 12ª. ed. São Paulo: Editora Revista dos Tribunais, 2014, p.99.
+
+77
+O novel artigo, entretanto, aumentou e a aprimorou as hipóteses de incidência da
+improcedência liminar do pedido, ao substituir seu cabimento em “matéria controvertida
+unicamente de direito” por “causas que dispensem a dilação probatória”.
+
+A previsão antiga não atendia tão bem ao objetivo de proporcionar celeridade processual,
+pois a controvérsia só poderia ser verificada quando o réu apresentasse sua contestação, e para
+isto acontecer, carecia de citação.
+
+A nova previsão atende realmente ao escopo a que se presta, pois basta a simples aferição
+pelo magistrado de dispensabilidade da produção de provas.
+
+Acerca das alterações trazidas pelo CPC/2015 vejamos:
+As hipóteses de improcedência liminar foram significativamente alteradas do
+CPC/1973 para o CPC/2015. No código anterior, tratava-se de instituto
+voltado essencialmente à resolução de demandas repetitivas e improcedente
+de plano em determinado juízo, tanto que se permitia ao juíz reproduzir o teor
+da sentença de total improcedência anteriormente prolatada em outro processo
+(art. 285-A do CPC/1973). O CPC/2015, confiando que conseguirá evitar
+parcela significativa da litigiosidade seriada por meio da ampliação dos casos
+de precedentes jurisprudências vinculantes (art. 927) e das técnicas de
+julgamento de casos repetitivos por amostragem ( art.928 – incidente de
+resolução de demandas repetitivas e recurso especial e extraordinários
+repetitivos), passa a considerar tais institutos como o novo paradigma da
+definição de demandas fadadas ao insucesso, e que, portanto, merecem ser
+julgadas improcedentes de plano.185
+
+Vale relembrar que a disposição do artigo 285-A causou celeuma em 2006, e culminou
+no ajuizamento da ADI 3695/DF pelo Conselho Federal da Ordem dos Advogados, sob a
+alegação de afronta a diversos princípios constitucionais, tais quais o da isonomia, do
+contraditório, do devido processo legal, o do livre convencimento do juiz, dentro outros.186
+
+185
+
+GAJARDONI, Fernando da Fonseca. et. al. Processo de conhecimento e cumprimento de sentença: comentários
+ao CPC de 2015. Op. cit. p. 56.
+186
+BRASIL. Supremo Tribunal Federal. Decisão monocrática na ação direta de inconstitucionalidade n.3695/DF.
+Requerente: CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS. Requeridos: PRESIDENTE DA
+REPÚBLICA. CONGRESSO NACIONAL. Relator: Alexandre de Morais. Brasília, 12 de maio de 2017.
+Disponível em: <http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp > Acesso em 04 set. 2017.
+
+78
+O Instituto Brasileiro de Direito Processual [IBDT], como amicus curiae, e outros autores
+defenderam, na época, não haver a apontada inconstitucionalidade, eis que o objetivo de tal
+norma seria, justamente, o de tutelar o direito fundamental de ação e o princípio da razoável
+duração do processo.187
+
+O debate ficou sem deslinde até o dia 12 de maio de 2017, quando o processo foi extinto
+sem resolução de mérito em detrimento da promulgação da Lei 13.105, de 16 de março de 2015,
+que instituiu o novo Código de Processo Civil, revogando a norma impugnada na ADI
+3695/DF.188 Dessa forma, houve esvaziamento da eficácia do dispositivo, pouco utilizado em
+razão da discussão de sua constitucionalidade.
+4.1.3 Constitucionalidade do artigo 332 do CPC/2015
+Nesta esteira, o mesmo debate acerca da constitucionalidade vem ocorrendo em torno do
+artigo 332 do CPC/2015.
+
+Os argumentos se tangenciam: o artigo feriria os princípios do contraditório e do devido
+processo legal, por não permitir a demonstração, pela parte autora do processo, de que seu caso
+não é afetado pelo rol estabelecido pelo artigo em questão.
+
+De plano percebe-se não haver afronta ao direito de contraditório do réu, pelo simples
+fato de que a decisão de improcedência o favorece, sendo mesmo desnecessária sua citação.
+
+Frisa-se, entretanto, estar resguardada a constitucionalidade do artigo em questão, pois a
+lógica aqui é de obediência ao sistema de precedentes vinculantes.
+
+Indo além, alguns defensores da constitucionalidade ressalvam a necessidade de
+intimação do autor da demanda para se manifestar quando não houver nada disposto na petição
+inicial acerca da súmula ou dos precedentes obrigatórios que poderiam ensejar a improcedência
+
+187
+
+Ibidem, p.97.
+BRASIL. Supremo Tribunal Federal. Decisão monocrática na ação direta de inconstitucionalidade n.3695/DF.
+Requerente: CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS. Requeridos: PRESIDENTE DA
+REPÚBLICA. CONGRESSO NACIONAL. Relator: Alexandre de Morais. Brasília, 12 de maio de 2017.
+Disponível em: <http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp > Acesso em 04 set. 2017.
+188
+
+79
+liminar do seu pleito, a fim de se concretizar o contraditório nos termos do artigo 10 do
+CPC/2015.189
+
+4.2 Precedente Vinculante
+4.2.1 Conceito
+O precedente é formado a partir de uma decisão judicial em um determinado caso
+concreto, de tal forma que a tese utilizada na tomada da decisão servirá de parâmetro para
+determinações futuras, em casos similares àquele que deu origem ao precedente.190
+
+Aponta-se a essencialidade de se analisar os motivos pelos quais se chegou ao
+mandamento judicial, pois não há formação do precedente pela simples existência da decisão
+do juiz. Dito de outra forma, nem todas as decisões formam precedentes, mas sim aquelas das
+quais se pode extrair uma ratio decidendi.
+A ratio decidendi – ou, para os norte-americanos, a holding – são os
+fundamentos jurídicos que sustentam a decisão; a opção hermenêutica adotada
+na sentença, sem a qual a decisão não teria sido proferida como foi; trata-se
+da tese jurídica acolhida pelo órgão julgador no caso concreto.191
+
+Além da ratio decidendi, o precedente tem outro elemento, a obter dictum. Trata-se da
+argumentação utilizada pelo magistrado para auxiliar na racionalidade de decisão, mas que não
+vinculará os casos futuros por não ser a parte essencial da fundamentação jurídica.
+
+A elucidação desses dois elementos do precedente é importante, pois é plausível que haja
+a necessidade de se extrair o precedente da decisão a partir do estabelecimento do que não é
+obter dictum. Além disso, ela pode assinalar uma possível mudança de entendimento do tribunal
+e auxiliar na busca da superação do precedente.192
+
+189
+
+GAJARDONI, Fernando da Fonseca. et. al. Processo de conhecimento e cumprimento de sentença: comentários
+ao CPC de 2015. Op. cit. p. 60.
+190
+DIDIER JR, Fredie; BRAGA, Paula Sarno; OLIVEIRA, Rafael Alexandria de. Curso de direito processual
+civil. Vol.2. 8ª ed. Salvador: Editora Juspodivm, 2013, p.427.
+191
+Idem.
+192
+Ibidem, p. 431.
+
+80
+Em suma, são “as razões de decidir do precedente que operam a vinculação”.193 Dessa
+forma, a partir das razões, será pinçada a norma geral de direito194, criada pelo magistrado ao
+solucionar o caso concreto e, esta norma, será a diretriz para o julgamento de casos futuros.
+
+Ao tecer algumas reflexões acerca da eficácia dos precedentes, é possível dividi-los em
+três tipos: os precedentes persuasivos, os vinculativos e os obstativos das revisões de
+decisões.195
+
+Os precedentes persuasivos são aqueles que exercem uma força meramente persuasiva
+sobre decisões futuras de casos análogos. Os juízes não precisam observar obrigatoriamente
+este tipo de precedente, apenas o farão se estiverem convencidos de sua aplicabilidade no caso
+sub judice.
+
+Por sua vez, os precedentes vinculantes são aqueles dotados de eficácia obrigatória. Tais
+precedentes são largamente utilizados nos países de commom law em um contexto da doutrina
+do stare decises. Desta forma, o julgador, diante de um caso similar ao que formou o precedente
+vinculante, deve utilizar a mesma tese jurídica para solucionar o caso sob sua
+responsabilidade.196
+
+Os precedentes obstativos das revisões de decisões são aqueles que afastam o julgamento
+de recursos ou de remessas necessárias quando estes estão em desacordo com precedentes
+vinculantes. Nesta senda, o magistrado tem autorização para negar o seguimento de tais
+recursos.197
+
+Consoante, através da utilização de precedentes, é possível aferir que a decisão judicial
+não mais apenas põe fim a determinada lide em algum caso concreto, vai além, possui
+
+193
+
+Ibidem, p. 432.
+Defende-se que em uma decisão judicial o magistrado cria uma norma jurídica individual para solucionar o
+caso concreto e uma norma jurídica geral que resulta da sua interpretação e aplicação da lei ao caso concreto. Esta
+última servirá de parâmetro para decisões futuras de casos semelhantes.
+195
+DIDIER JR, Fredie; BRAGA, Paula Sarno; OLIVEIRA, Rafael Alexandria de. Curso de direito processual
+civil. Op. cit, p.442.
+196
+Ibidem, p.442-444.
+197
+Ibidem, p.444.
+194
+
+81
+“elementos capazes de reduzir a indeterminação do discurso jurídico, podendo servir como
+concretizações reconstrutivas de mandamentos normativos”198
+A partir disso infere-se a importância dos precedentes judicias em um sistema jurídico,
+o que justifica o seguinte estudo acerca da aplicabilidade dos precedentes vinculantes no Brasil.
+4.2.2 Precedente vinculante no ordenamento jurídico brasileiro
+Desde a criação da Súmula da Jurisprudência Predominante do Supremo Tribunal Federal
+em 1963199 nota-se uma crescente valorização da jurisprudência no Brasil.
+
+É desta maneira que os operadores do direito processual civil vêm, gradativamente,
+tentando estruturar no ordenamento jurídico brasileiro os precedentes judiciais, presentes
+originalmente nos países de common law, de tradição anglo-saxônica.200
+
+Mister lembrar que, embora haja questionamentos, a tradição jurídica brasileira é de civil
+law (romano-germânica) para a maioria dos doutrinadores. 201
+
+Em verdade, o sistema jurídico brasileiro convive com um paradoxo
+metodológico: a necessidade de compatibilizar uma tradição constitucional
+extremamente influenciada pelo direito americano (common law) e uma
+tradição infraconstitucional sustentada em influências oriundas da Europa
+continental (civil law). 202
+
+4.2.2.1 Precedente vinculante no CPC de 2015
+Isto posto, o CPC de 2015 representa uma destas tentativas de consolidação de um sistema
+de precedentes na ordem jurídica brasileira e valorização da jurisprudência através dos artigos
+926 a 928.
+
+198
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel 2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.547
+199
+A Súmula da Jurisprudência Predominante do Supremo Tribunal Federal foi criada em alteração do regimento
+interno do STF com o objetivo de fixar a jurisprudência do tribunal. A iniciativa foi liderada pelo Ministro Victor
+Nunes Leal.
+200
+Resguardadas aqui as diferenças entre jurisprudência (decisões reiteradas dos tribunais) e precedentes (uma
+decisão tomada em um caso concreto, que, por sua ratio decidendi, servirá de parâmetro para decisões futuras).
+201
+DIDIER JR, Fredie. (Org.), et al. Precedentes. Salvador: Editora Juspodivm, 2015. p. 186-187.
+202
+Ibidem, p. 188.
+
+82
+Vejamos o artigo 926:
+
+Art. 926. Os tribunais devem uniformizar sua jurisprudência e mantê-la
+estável, íntegra e coerente.
+§ 1o Na forma estabelecida e segundo os pressupostos fixados no regimento
+interno, os tribunais editarão enunciados de súmula correspondentes a sua
+jurisprudência dominante.
+§ 2o Ao editar enunciados de súmula, os tribunais devem ater-se às
+circunstâncias fáticas dos precedentes que motivaram sua criação.
+
+Marinoni, Arenhart e Mitidiero, em análise do dispositivo acima e de seus parágrafos,
+apontaram nada menos que cinco equívocos teóricos.
+
+De início indicam a utilização da palavra tribunais de forma genérica esquecendo-se da
+divisão da ordem jurídica brasileira entre as “Cortes de Justiça e as Cortes Supremas” 203. O
+segundo problema, é o dispositivo estabelecer serem os tribunais detentores do dever de
+uniformização. O terceiro, é usar o termo jurisprudência ignorando a diferença entre os termos
+súmula, precedentes e jurisprudência. O quarto equívoco, é prever que devem manter a
+jurisprudência estável “quando na verdade, esse é apenas um dos seus deveres no que tange à
+necessidade de prover segurança jurídica”204. Por fim, o artigo aponta que a jurisprudência deve
+ser íntegra.205
+
+Em que pese a interessante discussão sobre os cinco tópicos elucidados, o presente estudo
+fará um recorte utilizando-se do debate acerca da distinção entre cortes de justiça e cortes
+supremas e acerca do tratamento genérico conferido ao termo jurisprudência pelo artigo em
+comento.
+
+Por força constitucional o Supremo Tribunal Federal deve guardar a constituição e o
+Superior Tribunal de Justiça deve guardar as leis federais. Nas palavras de Daniel Mitidiero, o
+primeiro deve adscrever sentido a CF de 1988 e o segundo adscrever sentido às leis federais.206
+
+203
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel.2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.549.
+204
+Idem.
+205
+Idem.
+206
+MITIDIERO, Daniel. O respeito aos precedentes no Novo CPC. In: SEMINÁRIO O NOVO CÓDIGO DE
+PROCESSO CIVIL, 2016, Auditório do Pleno do Tribunal Regional Federal da 5ª Região, Recife. Centro de
+
+83
+Tais cortes não se prestam a uniformizar a jurisprudência, mas sim a dizer o que é o direito,
+tendo como finalidade a interpretação do direito.207
+
+Por sua vez, as Cortes de Justiça (TRF, TJ e TRT) devem atuar de acordo com o artigo 6º
+do CPC/2015208, buscando a decisão justa para cada caso concreto. Tais cortes tem
+compromisso com os fatos e provas de cada caso particularizado, devendo usar a interpretação
+do direito como um meio para se chegar a solução justa da lide. Obviamente, também, devem
+manter sua jurisprudência uniforme e julgar questões repetitivas de maneira concentrada,
+entretanto, tais cortes não se prestam, ou não deveriam se prestar a formar precedentes.209
+
+Dessa forma, defende-se que os tribunais superiores e as cortes de justiça não podem ter
+o mesmo tratamento justamente por possuírem funções diferentes. Seria, então, improdutivo
+que tribunais diferentes exercessem as mesmas funções.210
+
+Ainda, o tratamento genérico conferido aos tribunais, pelo artigo em comento, implica
+também em uma abordagem uniforme entre os conceitos de precedentes, súmulas e
+jurisprudências quando, na verdade, não são idênticos. Reforçando o dito acima, a formação
+dos precedentes, para os autores em questão, ocorre nos Tribunais Superiores (STJ e STF) e a
+formação da jurisprudência se dá nos TRFs e TJs. As Súmulas, por sua vez, podem ser criadas
+por qualquer um dos tribunais citados.211
+
+Importante mencionar que nem a jurisprudência, nem as súmulas, possuem força
+vinculante. Aquela é caracterizada pela reiteração de decisões que ocorrem da mesma maneira.
+
+Estudos
+Judiciários
+do
+Conselho
+da
+Justiça
+Federal.
+Disponível
+em:
+<
+https://www.youtube.com/watch?v=DqKoJkJc4PQ>. Acesso em: 16 set. 2017.
+207
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. 2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.548.
+208
+Art. 6o Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão
+de mérito justa e efetiva.
+209
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. Op. cit. p.548.
+210
+MITIDIERO, Daniel. O respeito aos precedentes no Novo CPC. In: SEMINÁRIO O NOVO CÓDIGO DE
+PROCESSO CIVIL, 2016, Auditório do Pleno do Tribunal Regional Federal da 5ª Região, Recife. Centro de
+Estudos
+Judiciários
+do
+Conselho
+da
+Justiça
+Federal.
+Disponível
+em:
+<
+https://www.youtube.com/watch?v=DqKoJkJc4PQ>. Acesso em: 16 set. 2017.
+211
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. Op. cit. p.549-550.
+
+84
+E esta é um “método de trabalho, um meio para ordenar e facilitar a tarefa judicante de controle
+de interpretação e aplicação do direito no caso concreto” (...).212
+
+O novo Código claramente outorga outro sentido ao termo
+jurisprudência – ao menos para determinados casos. Para essas situações, o
+novo Código exige a sua ressignificação: isso por que, ao emprestar força
+vinculante aos julgamentos de casos repetitivos e àqueles tomado em incidente
+de assunção de competência (art. 927, III) no âmbito das Cortes de justiça e
+dispensar a múltipla reiteração de julgamentos como requisito para sua
+configuração, na medida em que basta um único julgamento mediante
+incidente de resolução de demandas repetitivas ou se assunção de
+competência, o direito brasileiro rompe em grande parte com a caracterização
+tradicional da jurisprudência.213
+
+Na mesma toada, os autores continuam revelando equívocos cometidos pelo CPC/2015.
+
+O Código introduziu o conceito de precedentes, levando a crer que o rol do artigo 927
+indica a origem dos precedentes. Estabeleceu, assim, o dever de observação pelos tribunais e
+juízes das súmulas vinculantes, do IRDR, do incidente de assunção de competência, dos
+recursos repetitivos, das decisões do STF em controle concentrado de constitucionalidade e a
+orientação do plenário ou órgão especial do STF em matéria constitucional e do STJ em matéria
+infraconstitucional.214
+
+Da forma como está disposto, a formação dos precedentes tem razões quantitativas e
+formais, ou seja, sua constituição está baseada em um rol criado por lei.
+
+Em discordância com tal posição, os autores apontam que a força vinculante do
+precedente é de caráter material e depende da potência e da confiabilidade dos Tribunais
+Superiores. Também é qualitativa por ter “a ver com o fato de as razões constantes da
+justificação serem necessárias e suficientes para a solução de determinada questão de
+direito.”215 Assim, não necessariamente uma decisão em recursos repetitivos deveria formar um
+precedente, por exemplo. 216
+
+212
+
+Idem.
+Idem.
+214
+Ibidem, p.551.
+215
+Ibidem, p. 552.
+216
+Idem.
+213
+
+85
+
+Daniel Mitiero ainda leciona que “os artigos 926 e 927 não criam o sistema de precedentes
+vinculantes, eles refletem um sistema de precedentes vinculantes.”217 Isso porque não foi dada
+às cortes supremas o poder de dizer o direito, elas, intrinsecamente, detêm tal poder e agora
+procurou-se normatizar e disciplinar para usar de forma racional.218
+
+4.2.3 O IRDR forma precedentes vinculantes?
+Como o acórdão proferido em âmbito de IRDR deve ser observado de forma obrigatória
+pelos juízes e tribunais, nos termos do artigo 927 do CPC/2015, muito tem se questionado se
+tal decisão teria mesmo o condão de formar precedentes vinculantes.
+
+Dentre os defensores de que a decisão em IRDR não deveria formar precedentes
+vinculantes, está Marinoni. O autor faz forte crítica ao CPC/2015, apontando que não se pode
+criar precedentes vinculantes a partir de determinação legislativa.
+
+Para ele a decisão tomada em IRDR não poderia formar precedente simplesmente por que
+o artigo 927, III do CPC/2015 prevê o dever de observação pelos magistrados e pelos
+tribunais.219
+
+Sustenta que, para ser precedente, é necessária a formação da ratio decidendi. Como no
+incidente há a decisão de questão idêntica e impeditiva de novos casos acerca da mesma
+questão, não se permite a “regulação de casos por meio da consideração da ratio decidendi ou
+dos fundamentos determinantes”220.
+
+217
+
+MITIDIERO, Daniel. O respeito aos precedentes no Novo CPC. In: SEMINÁRIO O NOVO CÓDIGO DE
+PROCESSO CIVIL, 2016, Auditório do Pleno do Tribunal Regional Federal da 5ª Região, Recife. Centro de
+Estudos
+Judiciários
+do
+Conselho
+da
+Justiça
+Federal.
+Disponível
+em:
+<
+https://www.youtube.com/watch?v=DqKoJkJc4PQ>. Acesso em: 16 set. 2017.
+218
+Idem.
+219
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de questão idêntica x
+precedente. Op. cit., p. 20.
+220
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. 2. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p.552.
+
+86
+Por sua vez, Sofia Temer reconhece que no sistema da commom law só se sabe que uma
+decisão é precedente quando um juiz utiliza a ratio decidendi do precedente para solução de
+um caso futuro. A decisão não nasce como precedente, a despeito do que ocorre com a decisão
+em IRDR. Entretanto, a autora acredita que essa opção do legislador deve ser tratada como uma
+“diferença substancial entre o sistema brasileiro – notadamente a partir do CPC de 2015 – e o
+sistema do commom law, no que se refere ao momento e à caracterização de uma decisão como
+precedente”221.
+
+Ademais, a autora aponta que no IRDR só será formada uma norma geral de direito ante
+a sua finalidade de fixar teses a respeito de uma questão de direito repetitiva. Não se formará a
+normal individual do caso, tal qual ocorre na formação do precedente vindo da commom law.
+Isso por que, como exposto acima, o IRDR não visa o julgamento de uma demanda, mas sim
+uma questão de direito.222
+
+Nesta esteira, a autora defende que o IRDR forma precedente vinculantes, por força do
+CPC/2015, sendo essencial a compreensão acerca das peculiaridades do nosso ordenamento
+jurídico e do instituto em comento, a fim de analisarmos o que podemos ou não aplicar em
+nosso ordenamento que advém de outros sistemas jurídicos.223
+
+4.2.3.1 Representatividade adequada.
+O efeito vinculante conferido ao IRDR traz à baila o debate acerca de representatividade
+adequada. Isso porque não há previsão no CPC/2015 de controle judicial da representação
+apropriada a fim de garantir aos litigantes excluídos do processamento do incidente direitos
+fundamentais, tais quais o direito de ação e de contraditório.
+
+Neste ponto há uma divisão de opiniões entre os doutrinadores e estudiosos do IRDR.
+
+221
+
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Op. cit., p. 200-201.
+Ibidem, p.205.
+223
+Ibidem, p. 200-2001.
+222
+
+87
+Alguns224 apontam que a vinculação prevista no artigo 927 do CPC/2015 justamente por
+ser obrigatória, independentemente do resultado do julgamento, e por abarcar todos os
+processos, tanto os afetados, quanto os futuros, torna imprescindível a representação adequada
+dos interesses dos indivíduos, cujos processos foram afetados pelo incidente, para se concretizar
+o princípio do contraditório.
+
+O aludido controle de representatividade tem a finalidade de conferir ao tribunal um
+momento para escolha consciente do processo mais representativo da controvérsia. Esta
+representatividade teria duas vertentes. A primeira, seria a de pinçar o processo levando-se em
+conta a fundamentação nele levantada em termos de completude. A segunda, com o escopo de
+escolher um processo envolvendo uma parte com condições de representar todas os outros
+indivíduos durante o processamento do incidente.
+Para outros autores225, o princípio do contraditório não foi ferido pelo incidente, mas, sim,
+adequado ao panorama atual da sociedade, pela necessidade de lidar com os conflitos de massa.
+Não haveria, assim, a necessidade de um representante adequado.
+
+Ademais, consideram, inclusive, que a decisão final poder ser pro et contra os autores
+dos processos afetados pelo IRDR sana uma das falhas responsáveis por diminuir a eficácia do
+processo coletivo, qual seja a de a coisa julgada não ser erga omnes.226
+
+Apontam que o incidente é uma terceira categoria de ação, diferente das ações individuais
+e coletivas, e por isso houve a necessidade de se adaptar os princípios constitucionais ao seu
+processamento.
+
+Assim é que o CPC/2015 conferiu oportunidade de se exercer o contraditório em dois
+momentos. O primeiro através da previsão do artigo 983:
+Art. 983. O relator ouvirá as partes e os demais interessados, inclusive
+pessoas, órgãos e entidades com interesse na controvérsia, que, no prazo
+comum de 15 (quinze) dias, poderão requerer a juntada de documentos, bem
+224
+
+Tal como Luiz Guilherme Marinoni (MARINONI, Luiz Guilherme. Incidente de resolução de demandas
+repetitivas: decisão de questão idêntica x precedente. São Paulo: Editora Revista dos Tribunais, 2016.)
+225
+Aluisio Gonçalves De Castro Mendes, Roberto De Aragão Ribeiro Rodrigues, Antonio Adonias Aguiar Bastos.
+226
+AMARAL, Guilherme Rizzo. Efetividade, segurança, massificação e a proposta de um “incidente de resolução
+de demandas repetitivas”. Op. cit.. p. 238-294.
+
+88
+como as diligências necessárias para a elucidação da questão de direito
+controvertida, e, em seguida, manifestar-se-á o Ministério Público, no mesmo
+prazo.
+§ 1o Para instruir o incidente, o relator poderá designar data para, em
+audiência pública, ouvir depoimentos de pessoas com experiência e
+conhecimento na matéria.
+
+Desta forma, antes de se firmar a tese jurídica qualquer interessado pode participar de sua
+construção, permitindo-se também a figura do amicus curiae.
+
+O segundo momento de exercício do contraditório, é aquele em que, determinada a tese,
+ela será aplicada pelos juízes competentes daqueles processos que estavam suspensos diante da
+afetação pelo incidente. Isso porque, embora o magistrado deva aplicar a tese, ele também
+analisará outros fundamentos jurídicos e as particularidades fáticas de cada caso.227
+
+Ainda assim, afirmam que a parte pode demonstrar que seu caso possui questão diferente
+em relação a questão afetada pelo IRDR, fazendo o distinguishing e, ainda, pode demonstrar
+que aquela tese foi superada em decorrência da alteração dos valores da sociedade, o overruling.
+Tais técnicas utilizadas no sistema do stare decises, auxiliam na adaptação do princípio do
+contraditório.
+
+Em que pese a opinião contrária, acredita-se, então, que o IRDR traz novidade em relação
+a formação de precedentes, e mesmo que “não haja necessariamente uma formação
+jurisprudencial para a aplicação do caso concreto, existe uma única decisão e formado o
+precedente com força vinculante nas hipóteses especificadas pelo Código, deverá este ser
+aplicado a caso posterior idêntico (caso repetitivo), ao ser posto em cotejo. ”228
+
+Por assim dizer, embora os mecanismos de incidente de resolução de
+demandas repetitivas, assunção de competência e recursos repetitivos não
+serem baseados em uma sistemática de jurisprudência ou precedentes em si,
+há um efetivo empréstimo legal da eficácia existente nas súmulas dos tribunais
+superiores, exsurgindo um precedente com nítido caráter vinculante, devendo
+o magistrado sumarizar o julgamento toda a vez que deparar com um caso em
+que existia já precedente de tal natureza. 229
+
+227
+
+MENDES, Aluisio Gonçalves de Castro; RODRIGUES, Roberto de Aragão Ribeiro. Reflexões sobre o
+incidente de demandas repetitivas previsto no projeto de novo código de processo civil. Op. cit.. p. 191-208
+228
+AUFIERO, Mario Vitor M. Técnicas para julgamento de casos repetitivos no novo Código de Processo Civil.
+Revista de Processo. vol. 265. ano 42. p. 277-297. São Paulo: Editora Revista dos Tribunais, mar. 2007
+229
+Idem.
+
+89
+
+4.3 Julgamento Monocrático de Recursos
+O julgamento monocrático de recursos está previsto no artigo 932, incisos IV e V do
+CPC/2015.
+Através deste dispositivo, é conferido poder para o relator negar provimento a recursos
+contrários a um rol estipulado nas alíneas do inciso IV e, para o relator, dar provimento ao
+recurso de decisão contrária ao mesmo rol, replicado nas alíneas do inciso V230.
+4.3.1 Julgamento no âmbito dos tribunais
+De início, vale relembrar que o julgamento nos tribunais deve ser colegiado, ou seja, a
+decisão caberá não apenas a um juiz, tal qual ocorre no primeiro grau de jurisdição, mas, sim,
+a um colegiado de juízes.
+Espera-se do julgamento colegiado uma melhor apuração do caso, haja vista a
+possibilidade de discussão entre os magistrados que compõe o órgão, e, assim, uma decisão
+mais justa e acertada.
+Ademais, os tribunais foram divididos em órgão fracionários com competências
+diferenciadas, pois seria inviável a análise de um recurso, por exemplo, por todos os
+desembargadores que compõem um tribunal.231
+Dentro de cada órgão fracionário ainda é possível haver outras divisões, entretanto, nos
+interessa que, quando um caso é atribuído a um órgão, é necessário incumbir um dos
+desembargadores de dar andamento a este processo.
+Assim, temos a figura do relator. No CPC/2015 suas atribuições estão contidas
+principalmente, mas não apenas, no artigo 332. Nesta esteira, ele será responsável pela direção
+de um determinado processo, devendo certificar se está pronto para julgamento, determinando
+a realização de todas diligências necessárias para este fim.
+
+230
+231
+
+As disposições contidas nas alíneas citadas serão analisadas no tópico 4.3.2.
+O Tribunal de Justiça do Estado de São Paulo possui 360 desembargadores, por exemplo.
+
+90
+Em seguida, deve fazer o relatório, levar o caso para o julgamento colegiado e proferir
+seu voto. Ademais, homologar pedido de autocomposição, apreciar pedido de tutela provisória
+e determinar a intimação do Ministério Público também são algumas de suas atribuições.
+4.3.2 Hipóteses de julgamento monocrático
+Conforme exposto acima, os incisos IV e V contém alíneas com hipóteses de julgamento
+monocrático pelo relator. São elas:
+Art. 932. Incumbe ao relator:
+IV - negar provimento a recurso que for contrário a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou
+do próprio tribunal;
+b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior
+Tribunal de Justiça em julgamento de recursos repetitivos;
+c) entendimento firmado em incidente de resolução de demandas repetitivas
+ou de assunção de competência;
+V - depois de facultada a apresentação de contrarrazões, dar provimento ao
+recurso se a decisão recorrida for contrária a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou
+do próprio tribunal;
+b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior
+Tribunal de Justiça em julgamento de recursos repetitivos;
+c) entendimento firmado em incidente de resolução de demandas repetitivas
+ou de assunção de competência;
+
+Veja-se que o inciso IV autoriza o relator a decidir monocraticamente pela negativa de
+provimento ao recurso que contrariar as alíneas dispostas acima. Autorizando, também, a
+decisão monocrática, no inciso V, para dar provimento ao recurso quando a decisão recorrida
+contrariar as mesmas alíneas do inciso anterior.
+
+As alíneas contêm previsões de institutos já apresentados neste trabalho, cujas
+finalidades são conter a litigiosidade repetitiva e uniformizar a jurisprudência. Sejam eles as
+súmulas, os acórdãos proferidos em recursos repetitivos, IRDR e assunção de competência.
+
+Essa previsão coroa o efeito vinculante atribuído a todos estes institutos, e se trata de uma
+exceção à regra de que o julgamento dos recursos se dará de forma colegiada. Para mais, confere
+um grande poder ao relator de julgar de plano nestes casos, justamente para consagrar toda uma
+sistemática de economia processual, uniformização da jurisprudência e combate a litigiosidade
+de massa.
+
+91
+Em que pese ser uma exceção, vale relembrar que durante o processamento dos institutos
+elencados nas alíneas dos incisos IV e V houve a devida apreciação pelos órgãos colegiados
+competentes.
+
+92
+
+93
+5. CONCLUSÕES
+
+Ao longo do presente estudo, pôde-se verificar que o Incidente de Resolução de
+Demandas Repetitivas – IRDR, constitui um valioso instrumento processual, que pode
+contribuir, e muito, para uma justiça mais rápida, segura e concreta.
+Neste sentido, o IRDR, ao lado, em especial, das ações coletivas, dos recursos
+extraordinários e especiais repetitivos e do incidente de assunção de competência, passa a
+integrar o rol de instrumentos a regular as demandas repetitivas.
+O IRDR e as ações coletiva tem um forte elo no tratamento dos conflitos repetitivos,
+todavia não se pode confundir o tratamento conferido por cada um dos instrumentos. O primeiro
+proporciona um tratamento uno às questões repetitivas e controvertidas. Já o segundo as trata
+verdadeiramente de forma coletiva através da junção do que poderiam ser várias ações em uma
+só de calibre alargado.
+Conquanto se aponte o esvaziamento de poder da ação coletiva como uma força
+impulsionadora da criação do IRDR, acredita-se que um instrumento não deve prevalecer em
+detrimento do outro. Desta maneira, nos casos em que seja cabível tanto a deflagração do IRDR,
+quanto ajuizamento de ação coletiva, defende-se a escolha pela melhor forma de tutela dos
+indivíduos, que será aferida casuisticamente.
+Em outras palavras, deve-se atentar para não deixar um importante instrumento de tutela
+de direitos coletivos lato sensu se esvair em detrimento de outra técnica também muito
+importante para o avanço da sistemática processualista.
+Já os recursos extraordinários e especiais repetitivos e o IRDR formam um
+microssistema de resolução de questões repetitivas, possuindo mecanismos extremamente
+similares: suspensão de processos para fixação de uma tese, cuja vinculação é obrigatória, a
+partir de um caso modelo.
+Difere, o IRDR, do incidente de assunção de competência, basicamente, porque aquele
+tem como pressuposto de admissibilidade a reiteração de demandas, sendo que este é o
+contrário, podendo ser ajuizado justamente se não houver a repetição. Entretanto, são
+instrumentos complementares em um sistema de valorização dos precedentes vinculantes.
+
+94
+Da análise do regime jurídico do IRDR, destaca-se a legitimidade, a admissibilidade e
+a competência.
+A legitimidade para a propositura do IRDR, em nosso sentir, é acurada ao conferir poder
+para o próprio judiciário instaurar um incidente a fim de conter a litigiosidade massiva. Neste
+sentido, também acertada a permissibilidade para as partes, Defensoria Pública e Ministério
+Público.
+Duas ressalvas precisam ser feitas. A primeira é a de falta previsões acerca da escolha
+do processo que será a causa-piloto com vistas a se conferir uma representatividade adequada.
+A despeito do que ocorre na Class Action o magistrado poderia ter melhores chances de analisar
+se se trata de um caso bem representativo da controvérsia. Ademais, quando uma das partes
+instaurar o incidente, se ela tem condições verdadeiras de levar adiante seu processamento.
+Diante do requerimento de instauração em cima de um processo não muito bom ou do
+requerimento de uma parte não bem preparada, poderia ser conferida oportunidade de se trazer
+à baila mais um processo, desta vez bem selecionado.
+Tudo isso com vista à formação de precedentes vinculantes que se mostram como uma
+possível resposta do sistema jurídico processual à reiteração de demandas e na busca da garantia
+da segurança jurídica, mas ao mesmo tempo tão arriscada pelas possibilidades de se criar um
+precedente vinculante ruim.
+O segundo apontamento diz respeito ao fato de não haver previsão de legitimidade para
+instauração do incidente por associações civis. Levando em consideração a formação de
+precedentes vinculantes, parece sensato conferir legitimidade para tais associações que
+poderiam bem representar múltiplos interesses em juízo.
+No campo da admissibilidade, acredita-se ser superada a controvérsias acerca da
+necessidade de causa pendente no tribunal como um requisito para instauração do IRDR. Isso
+em razão de o escopo do incidente ser o de trazer celeridade ao nosso sistema, parecendo
+controverso esperar a repetição abundante de demandas chegar ao segundo grau para poder
+tomar alguma providência.
+Carecendo de atenção também a necessidade de se redigir uma clara decisão de
+admissão para permitir a correta suspensão dos processos que contenham a mesma controvérsia.
+
+95
+Além disso, a publicidade dessa decisão é fator determinante para conferir validade à técnica
+em comento.
+Já, a competência para o processamento do IRDR cabe ao órgão responsável pela
+uniformização de jurisprudência que deverá ser determinado pelo regimento interno do próprio
+tribunal.
+Evidencia-se, por fim, a interação entre o e IRDR e outros institutos processuais, em
+especial, o julgamento liminar, o precedente vinculante e o julgamento monocrático de
+recursos.
+O IRDR interage com o julgamento liminar e com o julgamento monocrático de recursos
+na medida em que os três atuam em conjunto para a aceleração do julgamento de processos.
+Desta forma, se uma demanda recém-ajuizada desrespeitar a tese vinculante em
+incidente de resolução, o julgamento imediato da causa deve ser utilizado. Da mesma maneira,
+o relator deve negar provimento a um recurso cuja tese afronte um precedente formando em
+IRDR ou dar provimento a um recurso de decisão que afrontou a tese de um precedente
+formando em IRDR.
+Tais mecanismos são essenciais para lidar com o fator do tempo do processo, trazendo
+completude ao sistema de precedentes. Assim, alguns mecanismos foram criados para a fixação
+de teses (IRDR, IAC e recursos repetitivos) e sua força vinculante é assegurada por outros
+mecanismos tais quais o julgamento liminar de improcedência e o julgamento monocrático de
+recursos.
+No caso do precedente vinculante, talvez a vinculação obrigatória da tese fixada em
+IRDR seja uma das maiores polêmicas acerca deste instrumento. A celeuma perpassa também
+a criação de um microssistema de valorização dos precedentes vinculantes, envolvendo o
+julgamento de recursos repetitivos e o incidente de assunção de competência.
+Em que pese a importância das críticas para que não tenhamos ferimento do
+contraditório e de outros importantes princípios balizadores do processo civil brasileiro,
+defende-se que devemos entender o alargamento da utilização dos precedentes vinculantes
+como uma adequação das normas processuais à realidade.
+
+96
+Da mesma forma, os princípios também carecem de adaptação. Válida assim a atenção
+para a devida publicidade da decisão de admissão e de julgamento do incidente. Essencial
+também a participação de órgãos como MP, defensoria, e a possibilidade de participação do
+amicus curiae, no IRDR, no IAC e no julgamento por amostragem.
+
+97
+
+6. REFERÊNCIAS
+AMARAL, Guilherme Rizzo. Efetividade, segurança, massificação e a proposta de um
+“incidente de resolução de demandas repetitivas”. Revista de Processo. vol. 196. ano 36.
+São Paulo: Editora Revista dos Tribunais, set. 2011, p. 238-294.
+
+ARENHART, Sérgio Cruz. Incidente de resolução de demandas repetitivas. In:
+SEMINÁRIO O NOVO CÓDIGO DE PROCESSO CIVIL, 2016, Auditório do Pleno do
+Tribunal Regional Federal da 5ª Região, Recife. Centro de Estudos Judiciários do Conselho da
+Justiça Federal. Disponível em: < https://www.youtube.com/watch?v=DqKoJkJc4PQ>. Acesso
+em: 16 set. 2017
+
+AUFIERO, Mario Vitor M. Técnicas para julgamento de casos repetitivos no novo Código
+de Processo Civil. Revista de Processo. vol. 265. ano 42. São Paulo: Editora Revista dos
+Tribunais, mar. 2007, p. 277-297.
+
+BASTOS, Antonio Adonias Aguiar. Situações jurídicas homogêneas: um conceito
+necessário para o processamento das demandas de massa. vol. 186. ano 35. São Paulo:
+Editora Revista dos Tribunais, ago. 2010, p. 87-107
+
+BRASIL. Congresso Nacional. Senado Federal. Comissão de Juristas Responsável pela
+Elaboração de Anteprojeto de Código de Processo Civil. Código de Processo Civil:
+anteprojeto / Comissão de Juristas Responsável pela Elaboração de Anteprojeto de Código de
+Processo Civil – Brasília: Senado Federal, Presidência, 2010. p. 20. Disponível em:
+<https://www.senado.gov.br/senado/novocpc/pdf/Anteprojeto.pdf> Acesso em: 26 de ago
+2017
+
+________. Constituição (1988). Constituição da República Federativa do Brasil. Brasília,
+DF:
+
+promulgada
+
+em
+
+5
+
+de
+
+outubro
+
+de
+
+1988.
+
+Disponível
+
+em:
+
+<
+
+http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm> Acesso em 13 set. 2017.
+
+98
+
+_________. Lei nº 5.869, de 11 de janeiro de 1973. Institui o Código de Processo Civil.
+Revogada pela Lei nº 13.105, de 16 de março de 2015. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/leis/L5869.htm >. Acesso em: 27 set. 2017.
+
+_________. Lei nº 8.079, de 11 de setembro de 1990. Institui o Código de Defesa do
+Consumidor. Diário Oficial da União. Brasília: 12 setembro 1990. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/leis/L8078.htm> Acesso em: 22 ago. 2017.
+
+__________. Lei nº 10.352, de 26 de dezembro de 2001. Altera dispositivos da Lei no 5.869,
+de 11 de janeiro de 1973 – Código de Processo Civil, referentes a recursos e ao reexame
+necessário.
+
+Disponível
+
+em:
+
+<http://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10352.htm>. Acesso em: 09 nov.
+2017.
+
+_________. Lei nº 13.105, de 16 de março de 2015. Institui o Código de Processo Civil.
+Disponível
+
+em:
+
+<
+
+http://www.planalto.gov.br/ccivil_03/_Ato2015-
+
+2018/2015/Lei/L13105.htm#art1046 >. Acesso em: 27 set. 2017.
+
+_________. Supremo Tribunal Federal. Decisão monocrática na ação direta de
+inconstitucionalidade n.3695/DF. Requerente: CONSELHO FEDERAL DA ORDEM DOS
+ADVOGADOS. Requeridos: PRESIDENTE DA REPÚBLICA. CONGRESSO NACIONAL.
+Relator: Alexandre de Morais. Brasília, 12 de maio de 2017. Disponível em:
+<http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp > Acesso em 04 set. 2017.
+
+CAVALCANTI, Marcos. Incidente de resolução de demandas repetitivas e ações coletivas.
+Salvador: Juspodivm, 2015.
+
+99
+CONSELHO NACIONAL DE JUSTIÇA. Disponível em <http://www.cnj.jus.br/programas-eacoes/pj-justica-em-numeros>. Acesso em: 04 de out. 2017.
+
+CONSELHO NACIONAL DE JUSTIÇA. Resolução nº 235, de 13 de julho de 2016.
+Disponível em <http://www.cnj.jus.br/busca-atos-adm?documento=3155>. Acesso em: 02 de
+out. de 2017.
+
+DIDIER JR., Fredie; BRAGA, Paula Sarno; OLIVEIRA, Rafael Alexandria de. Curso de
+direito processual civil. vol. 2. 8ª ed. Salvador: Editora Juspodivm, 2013.
+
+DIDIER JR., Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual civil nos
+tribunais, recursos, ações de competência originária de tribunal e querela nullitatis,
+incidentes de competência originária de tribunal. v. 3. 14ª. ed. Reform. Salvador: Editora
+Juspodivm, 2017.
+
+DIDIER JR, Fredie. (Org.), et al. Precedentes. Salvador: Editora Juspodivm, 2015.
+
+DIDIER JR., Fredie; ZANETI JR., Hermes. Curso de direito processual civil: processo
+coletivo. 8ª. ed. Salvador: Editora Juspodivm, 2013.
+
+_________________. ________________. Curso de direito processual civil: processo
+coletivo. 11ª. ed. Salvador: Editora Juspodivm, 2017.
+
+DINAMARCO, Cândido Rangel. Instituições de Direito Processual Civil. vol. I. 5ª.ed. São
+Paulo: Malheiros, 2005.
+
+ENCONTRO DO FÓRUM PERMANENTE DE PROCESSUALISTAS CIVIS, 2, 2015,
+Salvador.
+
+Anais
+
+Eletrônicos.
+
+Salvador:
+
+Juspodivm,
+
+2015.
+
+Disponível
+
+em:
+
+<
+
+100
+http://www.cpcnovo.com.br/wp-content/uploads/2016/06/FPPC-Carta-de-Sa%CC%83oPaulo.pdf > Acesso em: 28 ago. 2017.
+
+I JORNADA DE DIREITO PROCESSUAL CIVIL, 2017, Brasília. Anais Eletrônicos.
+Disponível em: < file:///C:/Users/User/Desktop/copy_of_Enunciadosaprovadosvfpub.pdf>
+Acesso em: 28 ago. 2017.
+
+ESTADOS UNIDOS DA AMÉRICA. Federal Rules of Civil Procedure. Disponível em <
+https://www.law.cornell.edu/rules/frcp/rule_23.> Acesso em: 21 set. 2017.
+
+GAJARDONI, Fernando da Fonseca. Direitos difusos e coletivos I (teoria geral do processo
+coletivo). São Paulo: Saraiva, 2012. – (Coleção saberes do direito: 34)
+
+GAJARDONI, Fernando da Fonseca. et. al. Execução e recursos: comentários ao CPC de
+2015. 1ª ed. Rio de Janeiro: Editora Forense; São Paulo: Método, 2017.
+
+__________________________________. Processo de conhecimento e cumprimento de
+sentença: comentários ao CPC de 2015. 1ª ed. Rio de Janeiro: Editora Forense; São Paulo:
+Método, 2017.
+
+GRINOVER, Ada Pellegrini. Requiem para a reforma dos processos coletivos. Revista de
+Processo. vol. 265. ano 42. São Paulo: Editora Revista dos Tribunais, mar. 2017. p. 213-218.
+
+GRINOVER, Ada Pellegrini; MENDES, Aluisio Gonçalves de Castro; WATANABE, Kazuo
+(coords.). Direito processual coletivo e o anteprojeto do Código Brasileiro de Processos
+Coletivos. São Paulo: Editora Revista dos Tribunais, 2007.
+
+101
+JÚNIOR, Humberto Theodoro; NUNES, Dierle; BAHIA, Alexandre. Litigiosidade em massa
+e repercussão geral no recurso extraordinário. vol. 177. ano 34. São Paulo: Editora Revista
+dos Tribunais, nov. 2009. p. 9-46.
+
+MARINONI, Luiz Guilherme. Incidente de resolução de demandas repetitivas: decisão de
+questão idêntica x precedente. São Paulo: Editora Revista dos Tribunais, 2016.
+
+_________________________. Precedentes obrigatórios. 3ª ed. São Paulo: Editora Revista
+dos Tribunais, 2013.
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz. Curso de processo civil: processo
+de conhecimento. vol. 2. 12ª. ed. São Paulo: Editora Revista dos Tribunais, 2014
+
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. O Novo
+processo civil. 2. ed. São Paulo: Editora Revista dos Tribunais, 2016.
+
+_______________________. _______________________. ______________. Novo curso de
+processo civil: tutela dos direitos mediante procedimento comum. vol. II. São Paulo:
+Editora Revista dos Tribunais, 2015.
+
+MITIDIERO, Daniel. O respeito aos precedentes no Novo CPC. In: SEMINÁRIO O NOVO
+CÓDIGO DE PROCESSO CIVIL, 2016, Auditório do Pleno do Tribunal Regional Federal da
+5ª Região, Recife. Centro de Estudos Judiciários do Conselho da Justiça Federal. Disponível
+em: < https://www.youtube.com/watch?v=DqKoJkJc4PQ>. Acesso em: 16 set. 2017.
+
+MENDES, Aluisio Gonçalves de Castro; RODRIGUES, Roberto de Aragão Ribeiro. Reflexões
+sobre o incidente de demandas repetitivas previsto no projeto de novo código de processo
+civil. vol. 211. Ano 37. São Paulo: Editora Revista dos Tribunais, set. 2012. p. 191-208.
+
+102
+
+NERY JR., Nelson. Recursos extraordinário e especial repetitivos. In: CONGRESSO
+PROCESSO CIVIL E FAZENDA PÚBLICA, 2017, Rio de Janeiro. Procuradoria Geral do
+Estado do Rio de Janeiro. Disponível em: < https://www.youtube.com/watch?v=iIBesJgz0u0>.
+Acesso em: 16 set. 2017
+
+NERY JR., Nelson; NERY, Rosa Maria de Andrade. Comentários ao código de processo
+civil. São Paulo: Editora Revista dos Tribunais, 2015.
+
+PELEJA JÚNIOR, Antônio Veloso. Manual de processo civil: fase postulatória. 2ª. ed.
+Curitiba: Juruá, 2012.
+
+TEMER, Sofia. Incidente de Resolução de Demandas Repetitivas. Salvador: Editora
+Juspodivm, 2016.
+
+

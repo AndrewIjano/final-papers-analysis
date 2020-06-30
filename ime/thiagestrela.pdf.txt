@@ -1,0 +1,2205 @@
+Universidade de São Paulo
+Instituto de Matemática e Estatística
+Bacharelado em Ciência da Computação
+
+Emparelhamentos estáveis
+em grafos de preferências
+
+Thiago Estrela Montenegro
+
+Monografia Final
+mac 499 — Trabalho de
+Formatura Supervisionado
+
+Supervisor: Prof. Dr. Carlos Eduardo Ferreira
+
+São Paulo
+20 de novembro de 2019
+
+Resumo
+Thiago Estrela Montenegro. Emparelhamentos estáveis em grafos de preferências. Monografia (Bacharelado). Instituto de Matemática e Estatística, Universidade de São Paulo, São
+Paulo, 2019.
+
+Emparelhamentos em grafos é um tema muito abordado em ciência da computação, sobretudo
+pela sua riqueza em modelar uma grande variedade de problemas de natureza prática. Quando
+consideramos que cada vértice ordena os seus vizinhos segundo uma ordem de preferência, dáse origem ao conceito de um grafo de preferências. Nesse pano de fundo, em vários problemas,
+emparelhamentos com a propriedade que existam dois vértices que prefiram a si próprios
+do que os seus parceiros são indesejáveis, já que eles seriam instáveis em um certo sentido.
+Assim, surge o conceito de emparelhamento estável, que é um emparelhamento que não
+apresenta essa propriedade. O presente trabalho consiste de um estudo de natureza algorítmica
+e matemática da classe dos emparelhamentos estáveis. No primeiro capítulo, nos restringimos
+a grafo de preferências bipartidos. Nele, descrevemos o algoritmo de Gale-Shapley que em
+tempo linear encontra um emparelhamento estável e, além disso, abordamos outros conceitos
+que julgamos essenciais. No capítulo seguinte, abordamos o algoritmo de Irving que decide,
+em tempo linear, a existência de um emparelhamento estável e devolve um em caso positivo.
+Palavras-chave: emparelhamentos estáveis, grafos de preferências, Gale-Shapley, Irving.
+
+iii
+
+Sumário
+1 Introdução
+1.1 Motivação . . . . . . . .
+1.2 Noções preliminares . . .
+1.2.1 Convenções . . .
+1.2.2 Teoria dos Grafos
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+1
+1
+2
+2
+2
+
+2 Emparelhamentos Estáveis em Grafos Bipartidos
+2.1 Algoritmo de Gale-Shapley . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.1 Exemplo de execução do algoritmo . . . . . . . . . . . . . . . . .
+2.1.2 Corretude do algoritmo . . . . . . . . . . . . . . . . . . . . . . .
+2.1.3 Consumo de tempo do algoritmo . . . . . . . . . . . . . . . . . .
+2.2 Emparelhamentos A-ótimos . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.1 Algoritmo estendido de Gale-Shapley . . . . . . . . . . . . . . . .
+2.3 Teorema dos hospitais rurais . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4 Estrutura Algébrica dos Emparelhamentos Estáveis . . . . . . . . . . . .
+2.4.1 Terminologia básica de teoria da ordem . . . . . . . . . . . . . .
+2.4.2 O conjunto dos emparelhamentos estáveis é um reticulado distributivo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20
+
+3 Emparelhamentos Estáveis em Grafos Quaisquer
+3.1 Algoritmo de Irving . . . . . . . . . . . . . . . . . . .
+3.1.1 Primeira etapa . . . . . . . . . . . . . . . . .
+3.1.2 Teorema dos hospitais rurais generalizado . .
+3.1.3 Preliminares para a segunda etapa . . . . . .
+3.1.4 Segunda etapa . . . . . . . . . . . . . . . . . .
+3.1.5 Exemplo de execução do algoritmo de Irving .
+
+25
+26
+26
+30
+31
+35
+36
+
+4 Conclusão
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+5
+6
+7
+8
+9
+10
+12
+14
+19
+19
+
+41
+
+iv
+
+Apêndices
+Anexos
+
+Referências
+
+43
+
+1
+
+Capítulo 1
+Introdução
+1.1
+
+Motivação
+
+A motivação para o presente trabalho advém dos dois seguintes problemas.
+1. O Problema do Casamento Estável. O problema consiste em parear cada um de
+𝑛 homens com cada uma de 𝑛 mulheres de modo que não haja um homem e uma
+mulher que preferem um ao outro do que os seus parceiros. Posteriormente, veremos
+que esse problema pode ser visto como o de achar um emparelhamento estável em
+um grafo de preferências bipartido. Gale e Shapley [4] provaram que esse problema
+sempre possui solução e descreveram um algoritmo que o resolve. Tal algoritmo
+passou a ser conhecido por algoritmo de Gale-Shapley.
+2. O Problema dos Colegas de Quarto. Temos 𝑛 quartos e 2𝑛 pessoas. Cada quarto
+acomoda no máximo 2 pessoas. O Problema consiste em acomodar as 2𝑛 pessoas
+nesses 𝑛 quartos de modo que não existam duas pessoas acomodadas em quartos diferentes que prefiram um ao outro aos seus parceiros. Tal problema pode ser encarado
+como o de achar um emparelhamento estável em um grafo de preferências arbitrário.
+Diferente do caso do problema anterior, tal emparelhamento nem sempre existe.
+Irving [5] formulou um algoritmo que determina a existência de um emparelhamento
+estável e, caso exista, devolve um.
+Apesar de, a primeira vista, parecerem modelar problemas muito específicos, tais
+problemas modelam muitas outras situações de natureza prática. Dentre elas, podemos
+citar: processos seletivos de admissão à universidades, seleção de residentes por hospitais
+e alocação de doadores de órgãos a pacientes necessitando de um transplante.
+Além da riqueza de aplicações práticas, há algoritmos lineares para resolução de ambos
+os problemas que, embora sofisticados, se utilizam de conceitos elementares normalmente
+encontrados no currículo de uma graduação em Ciência da Computação. Isso torna o
+presente material uma ótima oportunidade para graduandos testarem e aprofundarem os
+seus conhecimentos na área de Algoritmos.
+O presente trabalho consiste de um estudo de natureza puramente matemática. Buscouse definir os conceitos matemáticos e terminologias na medida em que são necessários.
+
+2
+1 | INTRODUÇÃO
+
+Isso evita sobrecarregar o início do texto com conteúdo que, muitas vezes, só seria referido
+num momento bem posterior.
+No primeiro capítulo, introduzimos os conceitos de grafo de preferências e de emparelhamento estável. Em seguida, descrevemos o chamado algoritmo de Gale-Shapley que dado
+um grafo de preferências bipartido, devolve um emparelhamento estável e, prosseguimos,
+provando sua corretude e analisando o seu consumo de tempo. Na seção seguinte, provamos
+que o emparelhamento devolvido pelo algoritmo possui algumas propriedades especiais
+e, aproveitamos, para descrever uma versão "estendida"do algoritmo de Gale-Shapley.
+Posteriormente, provamos de modo rigoroso um resultado importante para área, o teorema
+dos hospitais rurais. Encerramos o capítulo, provando que o conjunto dos emparelhamentos
+estáveis de um grafo de preferências forma um reticulado distributivo.
+No segundo capítulo, estamos interessados em resolver o problema de encontrar um
+emparelhamento estável em um grafo de preferências arbitrário (não necessariamente
+bipartido). Mostramos que, diferentemente do caso bipartido, existem instâncias que não
+apresentam emparelhamentos estáveis. Prosseguimos descrevendo o chamado algoritmo
+de Irving, que decide em tempo linear se um grafo de preferências apresenta um emparelhamento (e devolve um, em caso positivo). Encerramos o capítulo, providenciando uma
+prova completa e detalhada de sua corretude.
+
+1.2
+1.2.1
+
+Noções preliminares
+Convenções
+
+• 𝐴 ⧵ 𝐵 refere-se ao conjunto {𝑥 ∈ 𝐴 ∶ 𝑥 ∉ 𝐵 }.
+• 𝐴 × 𝐵 é o produto cartesiano de 𝐴 por 𝐵.
+• |𝐴| é a cardinalidade do conjunto 𝐴.
+• Um 𝑘-conjunto é um conjunto de cardinalidade 𝑘. Similarmente, um 𝑘-subconjunto
+de um conjunto 𝐴 é um subconjunto de 𝐴 de cardinalidade 𝑘.
+
+1.2.2
+
+Teoria dos Grafos
+
+Esta seção contém o pré-requisito essencial de Teoria dos Grafos para o entendimento
+do presente texto. Para os leitores em busca de uma referência mais completa, recomenda-se
+[1].
+Um grafo (não-direcionado) é um par ordenado 𝐺 = (𝑉 , 𝐸) onde 𝑉 (𝐺) ∶= 𝑉 é um conjunto não-vazio enumerável e 𝐸(𝐺) ∶= 𝐸 é um conjunto cujos elementos são 2-subconjuntos
+de 𝑉 . Os elementos de 𝑉 são denominados de vértices e os elementos de 𝐸 são chamados
+de arestas.
+Seja 𝑒 = {𝑎, 𝑏} uma aresta de um grafo 𝐺. Denotamos 𝑒 por 𝑎𝑏 (= 𝑏𝑎). Nesse caso,
+dizemos que 𝑎 e 𝑏 são extremos de 𝑒 e que 𝑎 e 𝑏 são vértices adjacentes ou vizinhos.
+Um grafo direcionado é um par ordenado 𝐺 = (𝑉 , 𝐸) onde 𝑉 (𝐺) ∶= 𝑉 é um conjunto
+não-vazio enumerável e 𝐸(𝐺) ∶= 𝐸 é um conjunto de pares ordenados de elementos distin-
+
+3
+1.2 | NOÇÕES PRELIMINARES
+
+tos de 𝑉 . Os elementos de 𝑉 são denominados nós e os elementos de 𝐸 são denominados
+de arcos.
+Seja 𝑒 = (𝑎, 𝑏) um arco de um grafo direcionado 𝐺. Denotamos 𝑒 por 𝑎𝑏. Nesse caso,
+dizemos que 𝑏 é adjacente ou vizinho a 𝑎. Note que, diferentemente do caso não-direcionado,
+não necessariamente temos que 𝑎 é adjacente a 𝑏, já que (𝑎, 𝑏) ≠ (𝑏, 𝑎).
+Seja 𝐺 um grafo que pode ser direcionado ou não. Um passeio de comprimento
+𝑘 ≥ 0 em 𝐺 é uma sequência finita 𝑃 ∶= (𝑣0 , 𝑒1 , 𝑣1 , 𝑒2 , ..., 𝑒𝑘 , 𝑣𝑘 ) onde 𝑣𝑖 ∈ 𝑉 (𝐺) para todo
+𝑖 ∈ {0, ..., 𝑘} e 𝑒𝑖 ∈ 𝐸(𝐺) é tal que 𝑒𝑖 = 𝑣𝑖−1 𝑣𝑖 para todo 𝑖 ∈ {1, ..., 𝑘}. Quando 𝑣0 = 𝑣𝑘
+dizemos que 𝑃 é fechado. No caso em que os 𝑒𝑖 ’s são distintos dois a dois, dizemos que 𝑃
+é uma trilha. Quando os 𝑣𝑖 ’s são distintos dois a dois, dizemos que 𝑃 é um caminho. É
+fácil ver que todo caminho é uma trilha. Finalmente, dizemos que 𝑃 é um circuito quando
+é uma trilha fechada e os vértices diferentes de 𝑣0 e 𝑣𝑘 são distintos dois a dois. Em geral,
+escrevemos a sequência de vértices (ou nós) (𝑣0 , ..., 𝑣𝑘 ) para indicar 𝑃, já que a sequência
+de vértices (ou nós) determina unicamente 𝑃.
+Seja 𝐺 = (𝑉 , 𝐸) um grafo e 𝐴 um conjunto de arestas. Denotamos por 𝐺 − 𝐴 o grafo
+obtido de 𝐺 ao se remover as arestas do conjunto 𝐴. Formalmente, 𝐺 ⧵ 𝐴 é o grafo dado
+por 𝑉 (𝐺 ⧵ 𝐴) ∶= 𝑉 (𝐺) e 𝐸(𝐺 ⧵ 𝐴) ∶= 𝐸(𝐺) ⧵ 𝐴.
+Seja 𝐺 um grafo e 𝑀 um conjunto de arestas de 𝐺. Dizemos que 𝑀 é um emparelhamento em 𝐺 quando cada vértice 𝑣 de 𝐺 é extremo de no máximo uma aresta de 𝑀. Todo
+vértice 𝑣 que é extremo de uma aresta de 𝑀 é dito coberto por 𝑀.
+Uma bipartição de um grafo 𝐺 é um par de conjuntos (𝐴, 𝐵) tais que 𝐴 ∪ 𝐵 = 𝑉 (𝐺)
+e 𝐴 ∩ 𝐵 = ∅. Dizemos que 𝐺 é bipartido quando admite uma bipartição. Escrevemos
+𝐺 = (𝐴 ∪ 𝐵, 𝐸) para indicar que 𝐺 é um grafo e (𝐴, 𝐵) é uma bipartição de 𝐺.
+
+5
+
+Capítulo 2
+Emparelhamentos Estáveis em
+Grafos Bipartidos
+Nosso estudo dos emparelhamentos estáveis tem como pano de fundo o estudo de
+grafos. Note que a estrutura de um grafo não é suficiente para modelar os problemas
+abordados no Capítulo 1. Uma parte essencial de tais problemas é a noção de preferência
+entre agentes. Portanto, faz-se necessário considerar grafos com uma estrutura adicional,
+a qual chamaremos de listas de preferências.
+Seja 𝐺 = (𝑉 , 𝐸) um grafo. Para cada vértice 𝑣, uma lista de preferências de 𝑣 é uma
+ordenação total 𝐿𝑣 das arestas incidentes a 𝑣. Se todo vértice de 𝑣 possui uma lista de
+preferências, 𝐺 = (𝑉 , 𝐸, 𝐿) é denominado um grafo de preferências, onde 𝐿 é o conjunto
+de todas as listas de preferências de 𝐺. Note que uma ordenação total das arestas incidentes
+a um vértice 𝑣 corresponde, de modo natural, à uma ordenação dos vizinhos de 𝑣. De fato,
+dado um vértice 𝑣 e dois vértices 𝑎, 𝑏 vizinhos de 𝑣, diremos que 𝑣 prefere 𝑎 a 𝑏 se 𝑣 prefere
+a aresta 𝑣𝑎 à aresta 𝑣𝑏 em relação à ordenação total 𝐿𝑣 . Se 𝑣 prefere 𝑎 a 𝑏 em relação a 𝐿𝑣 ,
+escreveremos que 𝑎 >𝐿𝑣 𝑏 ou, quando 𝐿 estiver subentendido, 𝑎 >𝑣 𝑏. Finalmente, dado um
+vértice 𝑣 de 𝐺 e um vizinho 𝑎 de 𝑣 em 𝐺, o 𝑣-𝑝𝑜𝑠𝑡𝑜 de 𝑎 é a posição que 𝑎 ocupa na lista
+de preferências de 𝑣. Mais precisamente, o 𝑣-𝑝𝑜𝑠𝑡𝑜 de 𝑎 é |{𝑥 ∈ 𝑁 (𝑣); 𝑥 >𝑣 𝑎}| + 1. Por
+exemplo, se 𝑎 é o vizinho preferido de 𝑣, seu 𝑣-𝑝𝑜𝑠𝑡𝑜 é 1.
+Sejam 𝐺 = (𝑉 , 𝐸, 𝐿) e 𝐻 = (𝑉 ′ , 𝐸 ′ , 𝐿′ ) grafos de preferências. Dizemos que 𝐻 é subgrafo
+de preferências de 𝐺 quando:
+1. 𝐻 é subgrafo de 𝐺.
+2. Para quaisquer vértices 𝑢, 𝑣, 𝑤 ∈ 𝑉 ′ tem-se que 𝑢 <𝐿′𝑤 𝑣 ⟺ 𝑢 <𝐿𝑤 𝑣.
+Seja 𝑀 um emparelhamento de 𝐺 = (𝑉 , 𝐸, 𝐿). Para cada vértice 𝑣 coberto por 𝑀,
+defina 𝑀(𝑣) como o seu parceiro em 𝑀. Agora considere 𝑥𝑦 ∉ 𝑀. Dizemos que 𝑥𝑦 é
+uma aresta bloqueadora de 𝑀 se 𝑥 e 𝑦 preferem um ao outro do que os seus parceiros
+(caso hajam). Formalmente, 𝑥𝑦 é uma aresta bloqueadora de 𝑀 se satisfizer as 3 seguintes
+condições:
+1. 𝑥𝑦 ∉ 𝑀.
+
+6
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+2. 𝑥 não é coberto por 𝑀 ou 𝑥 prefere 𝑦 a 𝑀(𝑥).
+3. 𝑦 não é coberto por 𝑀 ou 𝑦 prefere 𝑥 a 𝑀(𝑦).
+Seja 𝑀 um emparelhamento de 𝐺 = (𝑉 , 𝐸, 𝐿). 𝑀 é chamado de emparelhamento
+estável se nenhuma aresta bloqueia 𝑀. Vale notar que todo emparelhamento estável 𝑀
+é maximal. De fato, se existisse uma aresta que pudesse ser adicionada a 𝑀 de modo a
+torná-lo um emparelhamento estável ainda maior, tal aresta bloquearia 𝑀.
+𝑎1
+
+𝑏1
+
+𝑎1 ∶ 𝑏1
+𝑎2 ∶ 𝑏1 𝑏2
+
+𝑎2
+
+𝑏2
+
+𝑏1 ∶ 𝑎2 𝑎1
+𝑏2 ∶ 𝑎2
+
+Figura 2.1: Considere o grafo de preferências definido por meio da figura acima, onde à direita
+estão indicadas as listas de preferências de cada vértice em ordem decrescente de preferência (por
+exemplo, 𝑎2 prefere 𝑏1 a 𝑏2 ). Note que a aresta 𝑎2 𝑏1 bloqueia 𝑀1 = {𝑎1 𝑏1 , 𝑎2 𝑏2 } já que 𝑎2 prefere 𝑏1
+a 𝑏2 = 𝑀1 (𝑎2 ) e 𝑏1 prefere 𝑎2 a 𝑎1 = 𝑀1 (𝑏1 ). Por outro lado, embora 𝑀2 = {𝑎2 𝑏1 } não cubra nem 𝑎1 e
+nem 𝑏2 , ele é um emparelhamento estável. De fato, 𝑏1 prefere 𝑎2 a 𝑎1 e 𝑎2 prefere 𝑏1 a 𝑏2 , de modo
+que nem 𝑎1 𝑏1 e nem 𝑎2 𝑏2 bloqueiam 𝑀2 .
+
+Iremos, inicialmente, considerar o caso particular onde as instâncias envolvem grafos
+bipartidos. Em tais instâncias, Gale e Shapley provaram a existência de ao menos um
+emparelhamento estável. Mais do que isso, eles formularam um algoritmo que, dado como
+entrada um grafo de preferências bipartido, devolve um emparelhamento estável [4].
+O Problema do Casamento Estável consiste em achar um emparelhamento estável em
+um grafo bipartido com lista de preferências 𝐺 = (𝐴 ∪ 𝐵, 𝐸, 𝐿). 𝑎𝑏 é uma aresta de 𝐺 se 𝑎 e 𝑏
+consideram um ao outro como possíveis parceiros (isto é, 𝑎 pertence à lista de preferências
+de 𝑏 e vice-versa). o algoritmo de Gale-Shapley (descrito na seção a seguir), em particular,
+prova o seguinte teorema.
+Teorema 1. Qualquer grafo de preferências bipartido possui ao menos um emparelhamento
+estável.
+
+2.1
+
+Algoritmo de Gale-Shapley
+
+Seja 𝐺 = (𝐴∪𝐵, 𝐸, 𝐿) um grafo de preferências bipartido. Podemos descrever o algoritmo
+da seguinte forma. Em sequência, cada vértice 𝑎 de 𝐴 não emparelhado faz um pedido para
+se emparelhar com o seu vizinho favorito 𝑏 dentre os vértices que ainda não rejeitaram 𝑎.
+Note que dizemos que um vértice 𝑣 rejeitou um vértice 𝑤 quando, ou 𝑣 rejeitou o pedido
+de 𝑤 para se emparelhar com ele, ou 𝑣 desfez o emparelhamento com 𝑤. Se 𝑏 não está
+emparelhado ou se 𝑏 está emparelhado a um vértice 𝑐 mas 𝑎 >𝑏 𝑐, 𝑏 aceita o pedido de 𝑎;
+Se 𝑏 estava emparelhado a 𝑐, ele rejeita 𝑐 o tornando não emparelhado. Em qualquer outro
+caso, 𝑏 rejeita a proposta de 𝑎. Tal vértice 𝑎 então faz um pedido para o seu próximo vizinho
+preferido. Esse processo para quando, para cada vértice 𝑎 de 𝐺, ou 𝑎 está emparelhado ou
+𝑎 fez pedidos para todos os seus vizinhos.
+
+7
+2.1 | ALGORITMO DE GALE-SHAPLEY
+
+O pseudocódigo a seguir formaliza a descrição anterior.
+Algoritmo 1: Gale-Shapley
+Entrada: Um grafo de preferências bipartido 𝐺 = (𝑉 = 𝐴 ∪ 𝐵, 𝐸, 𝐿)
+Saída: Um emparelhamento estável 𝑀 de 𝐺
+1 início
+2
+Faça 𝑀 ∶= ∅
+3
+para cada 𝑣 ∈ 𝑉 faça
+4
+𝑃(𝑣) ∶= 𝐿𝑣
+enquanto existe 𝑎 ∈ 𝐴 não coberto por 𝑀 tal que 𝑃(𝑎) ≠ ∅ faça
+Seja 𝑏 o vizinho preferido de 𝑎 em 𝑃(𝑎)
+se 𝑏 não é coberto por 𝑀 então
+𝑀 ∶= 𝑀 ∪ {𝑎𝑏}
+
+5
+6
+7
+8
+
+11
+
+senão se 𝑎 >𝑏 𝑀(𝑏) então
+𝑀 ∶= 𝑀 ⧵ {𝑀(𝑏)𝑏}
+𝑀 ∶= 𝑀 ∪ {𝑎𝑏}
+
+12
+
+𝑃(𝑎) ∶= 𝑃(𝑎) ⧵ {𝑏}
+
+9
+10
+
+retorna M
+
+13
+
+2.1.1
+
+Exemplo de execução do algoritmo
+
+Para facilitar a compreensão, consideremos a execução do algoritmo para alguns
+exemplos de entrada. Nos exemplos abaixo, "𝑥 → 𝑦"significa que o vértice x fez um pedido
+para o vértice y.
+𝑎1
+
+𝑏1
+
+𝑎2
+
+𝑏2
+
+𝑎3
+
+𝑏3
+
+𝑎4
+
+𝑏4
+
+𝑎1
+𝑎2
+𝑎3
+𝑎4
+
+∶
+∶
+∶
+∶
+
+𝑏4 𝑏3 𝑏1 𝑏2
+𝑏2 𝑏3 𝑏4 𝑏1
+𝑏4 𝑏1 𝑏3 𝑏2
+𝑏2 𝑏1 𝑏4 𝑏2
+
+𝑏1
+𝑏2
+𝑏3
+𝑏4
+
+∶
+∶
+∶
+∶
+
+𝑎2 𝑎3 𝑎4 𝑎1
+𝑎4 𝑎2 𝑎3 𝑎1
+𝑎2 𝑎1 𝑎3 𝑎4
+𝑎3 𝑎1 𝑎2 𝑎4
+
+Figura 2.2
+
+Exemplo 2.1.1. Se o grafo da figura acima é dado como entrada, uma possível execução é
+a seguinte:
+• 𝑎1 → 𝑏4 , 𝑎2 → 𝑏2 ; Como 𝑏4 e 𝑏2 não estavam emparelhados, cada um deles se
+emparelha com o seu respectivo vértice.
+• 𝑎3 → 𝑏4 ; Como 𝑏4 prefere 𝑎3 a 𝑎1 , ele rejeita 𝑎1 e se emparelha com 𝑎3 .
+
+8
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+• 𝑎1 → 𝑏3 ; Como 𝑏3 não estava emparelhado, ele se emparelha com 𝑎1 .
+• 𝑎4 → 𝑏2 ; Como 𝑏2 prefere 𝑎4 a 𝑎2 , ele desfaz o seu emparelhamento com 𝑎2 e se
+emparelha com 𝑎4 .
+• 𝑎2 → 𝑏3 ; Como 𝑏3 prefere 𝑎2 a 𝑎1 , ele desfaz o seu emparelhamento com 𝑎1 e se
+emparelha com 𝑎2 .
+• 𝑎1 → 𝑏1 ; Como 𝑏1 não estava emparelhado, ele se emparelha com 𝑎1 .
+• Como todos os vértices estão emparelhados, a execução se encerra devolvendo o
+emparelhamento 𝑀 = {𝑎1 𝑏1 , 𝑎2 𝑏3 , 𝑎3 𝑏4 , 𝑎4 𝑏2 } (é possível verificar que toda aresta
+fora de 𝑀 não é bloqueadora de modo que 𝑀 é estável).
+Exemplo 2.1.2. Consideremos como entrada o grafo da figura acima trocando-se os papéis
+de {𝑎1 , 𝑎2 , 𝑎3 , 𝑎4 } e {𝑏1 , 𝑏2 , 𝑏3 , 𝑏4 }, de modo que, agora são os vértices 𝑏𝑖 ’s que fazem os
+pedidos e os 𝑎𝑖 ’s quem recebem (isto é, considere que 𝐴 = {𝑏𝑖′ 𝑠} e 𝐵 = {𝑎𝑖′ 𝑠}). Nesse caso,
+uma possível execução seria:
+• 𝑏1 → 𝑎2 , 𝑏2 → 𝑎4 ; Como 𝑎2 e 𝑎4 não estavam emparelhados, cada um deles aceita o
+seu respectivo pedido.
+• 𝑏3 → 𝑎2 ; Como 𝑎2 prefere 𝑏3 a 𝑏1 , 𝑎2 desfaz o seu emparelhamento com 𝑏1 e se
+emparelha com 𝑏3 .
+• 𝑏1 → 𝑎3 ; Como 𝑎3 não estava emparelhado, ele se emparelha com 𝑏1 .
+• 𝑏4 → 𝑎3 ; Como 𝑎3 prefere 𝑏4 a 𝑏1 , ele desfaz o seu emparelhamento com 𝑏1 e se
+emparelha com 𝑏4 .
+• 𝑏1 → 𝑎4 ; Como 𝑎4 prefere 𝑏2 a 𝑏1 , ele desfaz o seu emparelhamento com 𝑏1 .
+• 𝑏1 → 𝑎1 ; Como 𝑎1 não estava emparelhado, ele se emparelha com 𝑏1 .
+• Como todos os vértices estão emparelhados, a execução se encerra devolvendo o
+emparelhamento 𝑀 = {𝑎1 𝑏1 , 𝑎2 𝑏3 , 𝑎3 𝑏4 , 𝑎4 𝑏2 } (é possível verificar que toda aresta
+fora de 𝑀 não é bloqueadora de modo que 𝑀 é estável).
+Note que o emparelhamento obtido neste exemplo é idêntico ao obtido no exemplo anterior.
+No entanto, isso foi acidental. Como será provado na seção 2.2, em geral, o emparelhamento obtido é tal que cada vértice de 𝐴 está com o seu melhor parceiro possível em um
+emparelhamento estável e cada vértice de 𝐵 está com o seu pior parceiro possível. Usando
+esse fato, segue imediatamente que o grafo da figura 2.2 possui um único emparelhamento
+estável.
+
+2.1.2
+
+Corretude do algoritmo
+
+O passo inicial é provar a corretude do algoritmo.
+Teorema 2. O algoritmo de Gale-Shapley termina devolvendo um emparelhamento estável.
+Demonstração. Seja 𝐺 = (𝐴 ∪ 𝐵, 𝑉 , 𝐿) o grafo de preferências dado como entrada para o
+algoritmo de Gale-Shapley. Primeiramente, provemos que o algoritmo termina. De fato,
+
+9
+2.1 | ALGORITMO DE GALE-SHAPLEY
+
+cada iteração do bloco enquanto que compreende as linhas 5 à 12, remove um elemento
+de 𝑃(𝑎) para algum vértice 𝑎 de 𝐺. Como, para cada vértice 𝑎 de 𝐺, 𝑃(𝑎) foi inicializado
+como 𝐿𝑎 que é um conjunto finito, após uma quantidade finita de iterações, a condição do
+laço não será mais satisfeita.
+Agora, seja 𝑀 ∗ o conjunto de arestas devolvido pelo algoritmo quando 𝐺 é dado
+como entrada. Note que, 𝑀 ∗ é inicializado como o conjunto vazio, que é, trivialmente,
+um emparelhamento. Assim, basta provar que se 𝑀 é um emparelhamento antes de uma
+iteração do laço enquanto, ele será um emparelhamento ao final da iteração. Sejam 𝑎
+e 𝑏 definidos conforme o algoritmo nas suas linhas 5 e 6, respectivamente. Se 𝑏 não é
+coberto por 𝑀, então claramente 𝑀 ∪ {𝑎𝑏} é um emparelhamento, pois 𝑎, por definição,
+não é coberto por 𝑀. Se 𝑏 é tal que 𝑎 >𝑏 𝑀(𝑏), 𝑀 ⧵ {𝑀(𝑏)𝑏} é um emparelhamento, pois
+estamos apenas removendo uma aresta do emparelhamento. Note que 𝑏 não é coberto por
+𝑀 ⧵ {𝑀(𝑏)𝑏}, e assim, por um argumento análogo ao do caso anterior, concluímos que
+(𝑀 ⧵ {𝑀(𝑏)𝑏}) ∪ {𝑎𝑏} é um emparelhamento. Isso prova que 𝑀 ∗ é um emparelhamento.
+Resta-nos provar que 𝑀 ∗ é um emparelhamento estável. Suponha, por absurdo, que
+exista uma aresta 𝑎𝑏 que bloqueia 𝑀 ∗ . Então, ou existe 𝑐 ∈ 𝐴 que fez um pedido a 𝑏 durante
+o algoritmo tal que 𝑐 >𝑏 𝑎 ou 𝑏 nunca recebeu uma proposta de 𝑎. Note que se 𝑏 recebeu
+um pedido, é garantido que ele estará emparelhado ao final do algoritmo (isto é, 𝑏 é coberto
+por 𝑀 ∗ ) e ele só rejeitará um pedido em razão de um pedido melhor. Isso implica que, se 𝑏
+recebeu um pedido, então 𝑏, ao final do algoritmo, estará emparelhado com um 𝑑 ∈ 𝐴 tal
+que 𝑑 ≥𝑏 𝑐 > 𝑎 e, assim, 𝑎𝑏 não é aresta bloqueadora. Suponha então que 𝑏 nunca recebeu
+uma proposta de 𝑎. Isso só pode acontecer se 𝑎, durante o algoritmo, fez um pedido à um
+vértice 𝑐 ∈ 𝐵 e não foi rejeitado. Implicando que 𝑎𝑐 ∈ 𝑀 ∗ e, como cada vértice de 𝐴 faz as
+propostas em ordem decrescente de preferência, 𝑐 >𝑎 𝑏, o que contradiz o fato de 𝑎𝑏 ser
+uma aresta bloqueadora. Isso encerra a demonstração.
+
+2.1.3
+
+Consumo de tempo do algoritmo
+
+Para realizarmos uma análise do consumo de tempo do algoritmo de Gale-Shapley,
+devemos fazer algumas considerações iniciais. Primeiramente, consideramos que a entrada
+do algoritmo de Gale-Shapley será especificada por um vetor 𝐿𝑣 para cada vértice 𝑣 do
+grafo 𝐺 tal que:
+𝐿𝑣 [𝑖] = 𝑢 ⟺ 𝑢 ocupa a 𝑖-ésima posição na lista de preferências de 𝑣
+Assim, é possível construir em tempo 𝑂(𝑚) o vetor 𝐴pos indexado pelas arestas de 𝐺
+tal que, sendo 𝑎 ∈ 𝐴 e 𝑏 ∈ 𝐵, vale que:
+𝐴pos [𝑎𝑏] = 𝑖 ⟺ 𝑎 ocupa a 𝑖-ésima posição na lista de preferências de 𝑏
+Note que, dado um vértice 𝑎 ∈ 𝐴 e dois vértices 𝑏, 𝑏 ′ ∈ 𝑁 (𝑎) e obtido o vetor 𝐴pos ,
+podemos determinar em tempo constante qual é o vértice preferido de 𝑎 entre os vértices 𝑏 e
+𝑏 ′ . Para isso, basta comparar 𝐴pos [𝑎𝑏] com 𝐴pos [𝑎𝑏 ′ ]. O menor dentre os dois corresponderá
+ao vértice preferido por 𝑎.
+
+10
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+Consideramos também que o emparelhamento 𝑀 do algoritmo será especificado por
+um vetor 𝑒𝑚𝑝 indexado pelos vértices de 𝐺 de tal forma que, dado 𝑣 ∈ 𝑉 (𝐺):
+𝑒𝑚𝑝[𝑣] = 𝑤 ⟺ 𝑤 = 𝑛𝑢𝑙𝑙 ou (𝑣 é coberto por 𝑀 e 𝑤 = 𝑀(𝑣))
+Assim, remover uma aresta 𝑎𝑏 de 𝑀 corresponde a fazer 𝑒𝑚𝑝[𝑎] = 𝑛𝑢𝑙𝑙 e 𝑒𝑚𝑝[𝑏] =
+𝑛𝑢𝑙𝑙; adicionar uma aresta 𝑎𝑏 à 𝑀 corresponde a fazer 𝑒𝑚𝑝[𝑎] = 𝑏 e 𝑒𝑚𝑝[𝑏] = 𝑎. Em
+particular, obtemos que as operações de adição e remoção de arestas de 𝑀 consomem
+tempo constante.
+Um importante requisito para se conseguir uma eficiente implementação do algoritmo
+de Gale-Shapley é o de conseguir encontrar em tempo constante um vértice de 𝑎 ∈ 𝐴 não
+coberto por 𝑀 tal que 𝑃(𝑎) ≠ ∅ (chamamos tais vértices de vértices livres). Um modo de
+alcançar esse objetivo seria usar uma fila que durante o algoritmo armazenaria os vértices
+livres de 𝐴.
+Tal fila seria inicializada com todos os vértices de 𝐴, já que, no início do algoritmo,
+todos os vértices de 𝐴 são livres. A cada iteração do bloco enquanto, tomamos como
+vértice 𝑎 o vértice da frente da fila e o removemos da fila. Se o vértice 𝑏 preferido de 𝑎
+é tal que 𝑏 é coberto por 𝑀, temos dois casos. Se 𝑎 >𝑏 𝑀(𝑏), verificamos se 𝑃(𝑀(𝑏)) ≠ ∅
+e, caso a resposta seja positiva, 𝑀(𝑏) é devolvido para o final da fila. Caso contrário, se
+𝑎 <𝑏 𝑀(𝑏), 𝑎 é devolvido para o final da fila. Note que cada aresta de 𝐺 corresponde a no
+máximo duas operações na fila (uma remoção e uma adição), de modo que o número de
+operações na fila é limitado por 2𝑚 = 𝑂(𝑚).
+Dado o exposto acima, estamos em condições de provar o seguinte resultado:
+Teorema 3. O algoritmo de Gale-Shapley, no pior caso, consome um tempo 𝑂(𝑚), onde 𝑚 é
+o número de arestas do grafo dado como entrada.
+Demonstração. Note inicialmente que, como cada vértice 𝑎 ∈ 𝐴 só faz pedidos a cada
+vizinho no máximo uma única vez, temos que o número de pedidos é limitado por 𝑚, onde
+𝑚 ∶= |𝐸|. Como cada iteração do bloco enquanto corresponde a exatamente um pedido (e
+vice-versa), temos que o número de iterações é 𝑂(𝑚).
+Veja que a execução das linhas de números 2 a 4 consome tempo 𝑂(𝑚). Assim, resta-nos
+provar que cada iteração do bloco enquanto consome tempo constante. De fato, pelas
+considerações acima, cada operação no interior do bloco enquanto pode ser executada
+em tempo constante.
+Irving e Gusfield provaram que não pode existir algoritmo que consuma no pior caso
+tempo 𝑜(𝑚) [5] e, portanto, o algoritmo de Gale-Shapley é assintoticamente ótimo.
+
+2.2
+
+Emparelhamentos A-ótimos
+
+O leitor mais atento pode ter observado que o algoritmo de Gale-Shapley mostrado
+anteriormente possui um elemento de não-determinismo. A saber, a ordem em que os
+vértices de 𝐴 fazem os pedidos não está especificada. Assim, uma pergunta natural que
+
+11
+2.2 | EMPARELHAMENTOS A-ÓTIMOS
+
+surge é: "A ordem das realizações dos pedidos influencia na resposta dada pelo algoritmo?".
+Veremos mais a frente, nesta seção, que a resposta é negativa. Para responder à pergunta,
+lançaremos mão de que o emparelhamento estável devolvido por uma execução qualquer
+do algoritmo de Gale-Shapley possui uma propriedade especial que implicará na unicidade
+do emparelhamento.
+Definiremos agora uma terminologia que nos será posteriormente útil. Seja 𝐺 =
+(𝑉 , 𝐸, 𝐿) um grafo de preferências (não necessariamente bipartido). Considere uma aresta
+𝑎𝑏 ∈ 𝐸. Dizemos que 𝑎𝑏 é uma aresta estável se ela pertence a algum emparelhamento
+estável de 𝐺. Nesse caso, 𝑏 é um parceiro estável de 𝑎 (e vice-versa). Um vértice 𝑣 é dito
+vértice estável se possui ao menos um parceiro estável. Se (𝐴, 𝐵) é uma bipartição de 𝐺 e
+𝑀 é um emparelhamento estável de 𝐺 dizemos que 𝑀 é A-ótimo se, cada vértice 𝑎 ∈ 𝐴
+estável está emparelhado, em 𝑀, com o seu parceiro estável preferido. Note que, em um
+emparelhamento 𝐴-ótimo podem existir vértices de 𝐴 não emparelhados. Nesse caso, tais
+vértices devem ser necessariamente não estáveis.
+Teorema 4. O emparelhamento estável devolvido pelo algoritmo de Gale-Shapley é A-ótimo.
+Demonstração. Seja 𝐺 = (𝐴 ∪ 𝐵, 𝐸, 𝐿) um grafo de preferências bipartido e seja 𝑀 ∗ o
+emparelhamento devolvido pelo algoritmo de Gale-Shapley. Suponha, por absurdo, que 𝑀 ∗
+não é 𝐴-ótimo. Isso implica a existência de um vértice 𝑎 ∈ 𝐴 e um emparelhamento estável
+𝑀 tal que 𝑀(𝑎) >𝑎 𝑀 ∗ (𝑎). Isso significa que 𝑀(𝑎) rejeitou 𝑎 ∈ 𝐴 em razão de um pedido de
+um vértice 𝑎′ ∈ 𝐴 em algum momento da execução do algoritmo (Em particular, 𝑎′ >𝑀(𝑎) 𝑎
+e 𝑎′ 𝑀(𝑎) ∈ 𝐸). Podemos supor, sem perda de generalidade, que tal rejeição corresponde
+a primeira vez em que um vértice rejeitou um parceiro estável. Assim, 𝑎′ não possui um
+parceiro estável que ele prefira à 𝑀(𝑎) (caso contrário, 𝑎′ teria sido rejeitado anteriormente
+e isso contradiria o fato de 𝑎 ter sido o primeiro vértice rejeitado). Logo, 𝑀(𝑎) >𝑎′ 𝑀(𝑎′ ),
+donde 𝑎′ 𝑀(𝑎) é uma aresta bloqueadora de 𝑀, o que é uma contradição.
+O Teorema acima nos conduz a duas conclusões interessantes. Primeiramente, ele
+nos garante que toda instância de um grafo de preferências bipartido possui um emparelhamento estável 𝐴-ótimo. Em outras palavras, se para cada vértice 𝑎 ∈ 𝐴 tomarmos a
+aresta com um extremo em 𝑎 e outro no seu parceiro estável preferido o resultado é um
+emparelhamento estável 𝑀. No entanto, à primeira vista, nada nos leva a crer que 𝑀 seja
+um emparelhamento, quiçá um emparelhamento estável!
+A segunda conclusão decorre diretamente do fato de que só existe um único emparelhamento 𝐴-ótimo (como é fácil notar). Assim, o Teorema 4 nos mostra que a ordem em que
+os pedidos são realizados não influencia na resposta dada pelo algoritmo de Gale-Shapley.
+A saída do algoritmo é sempre o emparelhamento 𝐴-ótimo para a instância dada como
+entrada. Isso responde a questão suscitada no início da seção.
+Em muitas situações em Ciência da Computação, geralmente o ganho em relação a
+algum aspecto se dá à custa da perda em outro aspecto. Nesse contexto, são várias as
+ocasiões onde um algoritmo resolve um problema de modo ótimo no tempo à custa de um
+maior consumo de espaço. Dessa forma, não seria de se surpreender se o emparelhamento
+devolvido pelo algoritmo de Gale-Shapley fosse sub-ótimo em algum sentido em relação
+ao conjunto B.
+
+12
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+Teorema 5. No emparelhamento 𝐴-ótimo, cada vértice 𝑏 ∈ 𝐵 estável está emparelhado com
+o seu parceiro estável menos preferido.
+
+Demonstração. Suponha que não seja o caso. Seja 𝑀𝐴 o emparelhamento 𝐴-ótimo. Então,
+deve existir um vértice 𝑏 ∈ 𝐵 estável e um emparelhamento estável 𝑀 tal que 𝑀𝐴 (𝑏) >𝑏
+𝑀(𝑏). Como 𝑀 é um emparelhamento estável, 𝑀(𝑀𝐴 (𝑏)) >𝑀𝐴 (𝑏) 𝑏 (Caso contrário, 𝑀𝐴 (𝑏)𝑏
+bloquearia 𝑀). Portanto, 𝑏 não é o parceiro estável preferido de 𝑀𝐴 (𝑏), o que contradiz o
+fato de 𝑀𝐴 ser um emparelhamento 𝐴-ótimo.
+
+Motivado pelo Teorema 5, o emparelhamento 𝐴-ótimo é também chamado de 𝐵péssimo.
+Note que se trocarmos os papéis de 𝐴 e 𝐵 no algoritmo de Gale-Shapley (Os vértices de
+𝐵 passam a ser os que fazem os pedidos e os vértices de 𝐴 passam a ser os que recebem os
+pedidos) obtemos que o emparelhamento devolvido pelo algoritmo é 𝐵-ótimo e 𝐴-péssimo.
+Assim, diz-se que o algoritmo de Gale-Shapley possui duas orientações possíveis, sendo
+uma a que os vértices de 𝐴 fazem os pedidos (e os de 𝐵 recebem) e a outra a que os
+vértices de 𝐵 fazem os pedidos (e os de 𝐴 recebem). No primeiro caso o algoritmo de
+Gale-Shapley é denominado 𝐴-orientado e, no segundo, 𝐵-orientado. A menos de menção
+em contrário, quando escrevemos algoritmo de Gale-Shapley estaremos nos referindo a
+versão 𝐴-orientada.
+
+2.2.1
+
+Algoritmo estendido de Gale-Shapley
+
+Considere que, em uma execução arbitrária do algoritmo de Gale-Shapley, um vértice
+𝑏 ∈ 𝐵 aceita um pedido proveniente de um vértice 𝑎 ∈ 𝐴. Como um vértice de 𝐵 só rejeita
+um vértice 𝑣 ′ em favor de um pedido de um vértice de 𝑣 quando 𝑣 <𝑏 𝑣 ′ e, levando em
+conta que o grafo devolvido pelo algoritmo de Gale-Shapley é 𝐵-péssimo (fato provado na
+subseção anterior), concluímos que não existem emparelhamentos estáveis onde o vértice
+𝑏 está emparelhado com um vértice pior do que 𝑎 ∈ 𝐴. Isso significa que, se 𝑎′ ∈ 𝐴 é
+um vértice tal que 𝑎′ <𝑏 𝑎, 𝑎′ 𝑏 não bloqueia nenhum emparelhamento estável de 𝐺 e,
+portanto, os conjuntos dos emparelhamentos estáveis de 𝐺 e 𝐺 − {𝑎′ 𝑏} são idênticos. Em
+outras palavras, remover a aresta 𝑎′ 𝑏 não conduz a nenhum prejuízo do ponto de vista de
+encontrar emparelhamentos estáveis.
+A simples observação do parágrafo anterior nos conduz ao chamado algoritmo de
+
+13
+2.2 | EMPARELHAMENTOS A-ÓTIMOS
+
+Gale-Shapley estendido, descrito abaixo.
+Algoritmo 2: Gale-Shapley estendido
+Entrada: Um grafo de preferências bipartido 𝐺 = (𝑉 = 𝐴 ∪ 𝐵, 𝐸, 𝐿)
+Saída: Um subgrafo de preferências 𝐺 ′ de 𝐺 e um emparelhamento estável 𝑀 de
+𝐺
+1 início
+2
+Faça 𝑀 ∶= ∅ e 𝐺 ′ ∶= 𝐺
+3
+para cada 𝑣 ∈ 𝑉 faça
+4
+𝑃(𝑣) ∶= 𝐿𝑣
+5
+6
+7
+8
+9
+
+enquanto existe 𝑎 ∈ 𝐴 não coberto por 𝑀 tal que 𝑃(𝑎) ≠ ∅ faça
+Seja 𝑏 o vizinho preferido de 𝑎 em 𝑃(𝑎)
+se 𝑏 é coberto por 𝑀 então
+𝑀 ∶= 𝑀 ⧵ {𝑀(𝑏)𝑏}
+
+11
+
+𝑀 ∶= 𝑀 ∪ {𝑎𝑏}
+para cada 𝑎′ ∈ 𝐴 vizinho de 𝑏 em 𝐺 ′ tal que 𝑎′ <𝑏 𝑎 faça
+𝐺 ′ ∶= 𝐺 ′ − {𝑎′ 𝑏}
+
+12
+
+𝑃(𝑎) ∶= 𝑃(𝑎) ⧵ {𝑏}
+
+10
+
+13
+
+retorna (𝑀, 𝐺 ′ )
+
+Vale notar que, diferentemente do algoritmo de Gale-Shapley, a versão estendida
+devolve um subgrafo de preferências 𝐺 ′ de 𝐺 além de um emparelhamento estável 𝑀.
+Denotaremos 𝐺 ′ por 𝐺𝐴 . Além disso, denotaremos por 𝐺𝐵 o grafo de preferências devolvido
+pela versão 𝐵-orientada do algoritmo de Gale-Shapley estendido quando um grafo de
+preferências bipartido 𝐺 é dado como entrada.
+Vale observar também que a remoção das arestas executada na linhas 10-11 garante
+apenas que não haverá mais “rejeições imediatas” durante a execução do algoritmo, isto
+é, um vértice 𝑎 nunca realiza um pedido a um vértice 𝑏 tal que 𝑀(𝑏) >𝑏 𝑎. A partir dessa
+observação, é possível concluir que o emparelhamento estável devolvido pelo algoritmo de
+Gale-Shapley estendido é o mesmo devolvido pela versão original e, portanto, é o 𝐴-ótimo
+de 𝐺 e, logo, de 𝐺𝐴 (já que 𝐺 e 𝐺𝐴 possuem os mesmos emparelhamentos estáveis). Analogamente, conclui-se o emparelhamento devolvido pela versão 𝐵-orientada do algoritmo é
+o 𝐵-ótimo de 𝐺 e de 𝐺𝐵 .
+Agora, denote por 𝑀𝐴 e 𝑀𝐵 os emparelhamentos 𝐴-ótimo e 𝐵-ótimo de um grafo de
+preferências bipartido 𝐺, respectivamente. Note que 𝐺𝐴 corresponde a 𝐺 após a remoção
+de todas as arestas 𝑎𝑏 ∈ 𝐸(𝐺) tais que 𝑀𝐴 (𝑏) >𝑏 𝑎 e que 𝐺𝐵 é 𝐺 sem as arestas 𝑎𝑏 ∈ 𝐸(𝐺)
+tais que 𝑀𝐵 (𝑎) >𝑎 𝑏 (𝐼 ). Além disso, a observação de que 𝐺, 𝐺𝐴 e 𝐺𝐵 possuem os mesmos
+emparelhamentos estáveis nos conduz a de que o conjunto de emparelhamentos estáveis
+de 𝐺, 𝐺𝐴𝐵 , 𝐺𝐵𝐴 é o mesmo (𝐼 𝐼 ). Assim, segue de (𝐼 ) e (𝐼 𝐼 ), que 𝐺𝐴𝐵 e 𝐺𝐵𝐴 corresponde ao
+grafo 𝐺 após a remoção das arestas 𝑎𝑏 ∈ 𝐸(𝐺) tais que 𝑀𝐴 (𝑏) >𝑏 𝑎 ou 𝑀𝐵 (𝑎) >𝑎 𝑏. Em
+particular, 𝐺𝐴𝐵 = 𝐺𝐵𝐴 .
+Vamos chamar o grafo de preferências 𝐺𝐴𝐵 (= 𝐺𝐵𝐴 ) de Gale-Shapley-reduzido ou, mais
+
+14
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+simplesmente, de 𝐺𝑆-reduzido. O teorema a seguir resume as propriedades relevantes do
+grafo 𝐺𝑆-reduzido.
+Teorema 6. Seja 𝐺 um grafo de preferências bipartido. Então:
+1. todos os emparelhamentos estáveis de 𝐺 são também emparelhamentos estáveis do
+grafo 𝐺𝑆-reduzido de 𝐺.
+2. nenhum emparelhamento estável do grafo 𝐺𝑆-reduzido é bloqueado por uma aresta de
+𝐺 não contida no grafo 𝐺𝑆-reduzido.
+3. Seja 𝑀𝐴 (𝑀𝐵 ) o emparelhamento 𝐴-ótimo (𝐵-ótimo) de 𝐺. Se 𝑎 ∈ 𝐴 é coberto por 𝑀𝐴
+(𝑀𝐵 ) então 𝑀𝐴 (𝑎) (𝑀𝐵 (𝑎)) é o vizinho (menos) preferido de 𝑎 no grafo 𝐺𝑆-reduzido e se
+𝑏 ∈ 𝐵 é coberto por 𝑀𝐴 (𝑀𝐵 ), então 𝑀𝐴 (𝑏) (𝑀𝐵 (𝑏)) é o vizinho menos (mais) preferido
+de 𝑏 no grafo 𝐺𝑆-reduzido.
+Demonstração.
+1. A prova segue diretamente do fato que os conjuntos dos emparelhamentos estáveis de 𝐺 e do grafo 𝐺𝑆-reduzidos são os mesmos (demonstrado na
+discussão acima).
+2. Seja 𝑎𝑏 ∈ 𝐸(𝐺) uma aresta não contida no grafo 𝐺𝑆-reduzido de 𝐺 e 𝑀 um emparelhamento estável arbitrário de 𝐺 tal que 𝑎𝑏 ∉ 𝑀. Denote por 𝑀𝐴 , 𝑀𝐵 os emparelhamentos estáveis 𝐴-ótimo e 𝐵-ótimo de 𝐺, respectivamente. Assim, 𝑀(𝑏) ≥𝑏 𝑀𝐴 (𝑏)
+(𝑀𝐴 é 𝐵-péssimo) e 𝑀(𝑎) ≥𝑎 𝑀𝐵 (𝑎) (𝑀𝐵 é 𝐴-péssimo) (𝐼 ). Por outro lado, como 𝑎𝑏
+não pertence ao grafo 𝐺𝑆-reduzido, segue que 𝑀𝐵 (𝑎) >𝑎 𝑏 ou 𝑀𝐴 (𝑏) >𝑏 𝑎 (𝐼 𝐼 ). De
+(𝐼 ) e (𝐼 𝐼 ), vem que 𝑀(𝑏) ≥𝑏 𝑀𝐴 (𝑏) >𝑏 𝑎 ou 𝑀(𝑎) ≥𝑏 𝑀𝐵 (𝑎) >𝑏 𝑏, donde, 𝑀(𝑏) >𝑏 𝑎 ou
+𝑀(𝑎) >𝑎 𝑏, isto é, 𝑎𝑏 não bloqueia 𝑀.
+3. Vamos provar apenas as afirmações referentes a 𝑀𝐴 , pois a prova das referentes a
+𝑀𝐵 é inteiramente análoga. Sejam 𝑎 ∈ 𝐴 e 𝑏 ∈ 𝐵. Se 𝑎𝑏 ′ ∈ 𝐸(𝐺) é tal que 𝑀𝐴 (𝑎) <𝑎 𝑏 ′ ,
+como 𝑀𝐴 é estável, tem-se que 𝑀𝐴 (𝑏 ′ ) >′𝑏 𝑎, implicando que 𝑎𝑏 ′ não pertence ao
+grafo 𝐺𝑆-reduzido. Assim, segue que 𝑀𝐴 (𝑎) é o vizinho preferido de 𝑎 no grafo
+𝐺𝑆-reduzido. Se 𝑎′ 𝑏 ∈ 𝐸(𝐺) é tal que 𝑀𝐴 (𝑏) >𝑏 𝑎′ segue diretamente que 𝑎′ 𝑏 não
+pertence ao grafo 𝐺𝑆-reduzido.
+
+2.3
+
+Teorema dos hospitais rurais
+
+Seja 𝐺 = (𝐴 ∪ 𝐵, 𝐸, 𝐿) um grafo de preferências bipartido e seja 𝑀 um emparelhamento
+estável de 𝐺. Seja 𝑎 um vértice de 𝐺 que não é coberto por 𝑀. Será que existe um outro
+emparelhamento estável 𝑀 ′ de 𝐺 tal que 𝑎 é coberto por 𝑀 ′ ? Nesta seção encontraremos
+a resposta para essa questão.
+Como ponto de partida, buscaremos estender a noção de preferência entre vértices
+de modo que ela se aplique a emparelhamentos. Sejam 𝑀 e 𝑀 ′ emparelhamentos (não
+necessariamente estáveis) de 𝐺 e 𝑎 um vértice de 𝐺. Dizemos que 𝑎 prefere 𝑀 a 𝑀 ′ , e
+escrevemos 𝑀 ′ <𝑣 𝑀, quando vale uma das seguintes condições:
+1. 𝑎 é coberto por 𝑀 e 𝑎 não é coberto por 𝑀 ′
+
+15
+2.3 | TEOREMA DOS HOSPITAIS RURAIS
+
+2. 𝑎 é coberto por 𝑀 e por 𝑀 ′ e 𝑀 ′ (𝑎) <𝑣 𝑀(𝑎).
+Dizemos que 𝑎 é indiferente a 𝑀 e 𝑀 ′ , e escrevemos 𝑀 =𝑎 𝑀 ′ quando, ou não é coberto
+tanto por 𝑀 quanto por 𝑀 ′ , ou quando é coberto por ambos e 𝑀(𝑎) = 𝑀 ′ (𝑎). Por fim,
+escrevemos 𝑀 ≤𝑎 𝑀 ′ quando 𝑀 =𝑎 𝑀 ′ ou 𝑀 <𝑎 𝑀 ′ .
+Com o exposto acima, estamos em condições de provar um resultado que, embora à
+priori pareça arbitrário, será de fundamental importância nessa seção (na prova do Teorema
+dos hospitais rurais) e na seção a seguir.
+Lema 1. Considere um grafo de preferências 𝐺 = (𝑉 = 𝐴 ∪ 𝐵, 𝐸, 𝐿) e dois emparelhamentos
+estáveis 𝑀 e 𝑀 ′ . Se 𝑎 ∈ 𝐴 e 𝑏 ∈ 𝐵 são tais que 𝑀(𝑎) = 𝑏 e 𝑏 não é parceiro de 𝑎 em 𝑀 ′ , então,
+um dos dois vértices prefere 𝑀 a 𝑀 ′ e o outro prefere 𝑀 ′ a 𝑀.
+Demonstração. Seja 𝐴𝑀 o conjunto dos vértices 𝑎 ∈ 𝐴 tais que 𝑀 ′ <𝑎 𝑀 e 𝐴𝑀 ′ o conjunto
+dos vértices 𝑎 ∈ 𝐴 tais que 𝑀 <𝑎 𝑀 ′ . Defina 𝐵𝑀 e 𝐵𝑀 ′ de maneira análoga. Levando em
+conta essas definições, a figura 2.3 ilustra o lema.
+Note, inicialmente, que se 𝑎 ∈ 𝐴𝑀 e 𝑎𝑏 ∈ 𝐸, então 𝑏 ∈ 𝐵𝑀 ∪ 𝐵𝑀 ′ ou, em outras palavras,
+todo vizinho de 𝑎 ∈ 𝐴𝑀 não é indiferente a 𝑀 e 𝑀 ′ (I) (De fato, se assim o fosse, teríamos,
+por definição de indiferença, que 𝑀 ′ (𝑏) = 𝑀(𝑏) = 𝑎, o que, por sua vez, implicaria que 𝑎 é
+indiferente a 𝑀 e 𝑀 ′ ).
+Note que não pode haver aresta 𝑎𝑏 ∈ 𝑀 com 𝑎 ∈ 𝐴𝑀 e 𝑏 ∈ 𝐵𝑀 (𝐼 𝐼 ). Para provar isso,
+suponha, por absurdo, que haja tal aresta 𝑎𝑏. Se 𝑎 não fosse coberto por 𝑀 ′ , 𝑏 não seria
+coberto por 𝑀 ′ (pois 𝑏 prefere 𝑀 a 𝑀 ′ ), implicando que 𝑎𝑏 bloqueia 𝑀 ′ e 𝑀 ′ não é estável.
+Logo, 𝑎 é coberto por 𝑀 ′ , implicando que 𝑏 também é coberto por 𝑀 ′ . Daí, como ambos
+os vértices 𝑎 e 𝑏 preferem 𝑀 a 𝑀 ′ , segue-se que 𝑎𝑏 bloqueia 𝑀 ′ , o que é uma contradição.
+De forma inteiramente análoga, conclui-se que não pode haver aresta 𝑎′ 𝑏 ′ ∈ 𝑀 ′ tal que
+𝑎′ ∈ 𝐴𝑀 ′ e 𝑏 ′ ∈ 𝐵𝑀 ′ (𝐼 𝐼 𝐼 ).
+De (𝐼 𝐼 ) e por (𝐼 ), segue que, se 𝑎𝑏 ∈ 𝑀 e 𝑎 ∈ 𝐴𝑀 , então 𝑏 ∈ 𝐵𝑀 ′ (𝐼 𝑉 ), donde |𝐴𝑀 | ≤ |𝐵𝑀 ′ |,
+pois 𝑀 induz uma injeção de 𝐴𝑀 em 𝐵𝑀 ′ . De (𝐼 𝐼 𝐼 ), conclui-se, de modo análogo, que
+|𝐵𝑀 ′ | ≤ |𝐴𝑀 |. Portanto, |𝐴𝑀 | = |𝐵𝑀 ′ | (𝑉 ).
+Para encerrar a demonstração, tome uma aresta 𝑎𝑏 ∈ 𝑀 tal que 𝑎 e 𝑏 não são parceiros
+em 𝑀 ′ . Se 𝑎 ∈ 𝐴𝑀 , por (𝑉 ), temos que 𝑏 ∈ 𝐵𝑀 ′ . Resta-nos provar que 𝑎 ∈ 𝐴𝑀 ′ ⟹ 𝑏 ∈ 𝐵𝑀 .
+Suponha, por absurdo, que 𝑎 ∈ 𝐴𝑀 ′ e 𝑏 ∈ 𝐵𝑀 ′ . Assim, por (𝑉 ), vem que 𝑀 induz uma
+bijeção de 𝐴𝑀 para 𝐵𝑀 ′ , e portanto, existiria 𝑎′ ∈ 𝐴𝑀 tal que 𝑀(𝑎′ ) = 𝑏 e 𝑀 não seria um
+emparelhamento.
+
+Uma consequência imediata do lema anterior é:
+Corolário 1. Considere um grafo de preferências 𝐺 = (𝑉 = 𝐴 ∪ 𝐵, 𝐸, 𝐿) e dois emparelhamentos estáveis 𝑀 e 𝑀 ′ . O número de vértices que preferem 𝑀 a 𝑀 ′ é igual ao número de
+vértices que preferem 𝑀 ′ a 𝑀.
+Um emparelhamento 𝑀 tal que, para qualquer outro emparelhamento 𝑀 ′ , o número
+de vértices que preferem 𝑀 a 𝑀 ′ é maior ou igual ao número de vértices que preferem 𝑀 ′
+
+16
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+Caso 1:
+𝐴
+
+𝐵
+𝐵𝑀
+
+𝐴𝑀
+𝑎
+
+𝑏
+𝐵𝑀}
+
+𝐴𝑀 ′
+Caso 2:
+𝐴
+𝐴𝑀
+
+𝐵
+𝐵𝑀
+𝑏
+
+𝑎
+𝐴𝑀 ′
+
+𝐵𝑀}
+
+Figura 2.3: O Lema 1 nos diz que, dada uma aresta 𝑎𝑏 ∈ 𝑀 tal que 𝑎 e 𝑏 não são parceiros em 𝑀 ′ ,
+só um dos casos acima pode ocorrer.
+
+a 𝑀 é denominado emparelhamento popular. Assim, o Corolário 1, implica que todo
+emparelhamento estável é popular.
+A classe dos emparelhamentos populares é foco de grande estudo devido às suas
+aplicações em ciências aplicadas, tais como a economia. Um emparelhamento ser popular
+significa em um certo sentido que ele é ótimo globalmente. Se imaginarmos cada vértice
+como um eleitor e cada emparelhamento como um candidato à presidência, digamos, um
+emparelhamento popular corresponderia a um candidato que não perderia uma eleição
+numa disputa com qualquer outro candidato.
+Agora temos o ferramental necessário para provar o Teorema que dá o nome à presente
+seção e que responde a questão suscitada no início dela.
+Teorema 7 (hospitais rurais). Seja 𝐺 = (𝐴 ∪ 𝐵, 𝐸, 𝐿) um grafo de preferências bipartido e
+𝑣 um vértice de 𝐺. Se existe um emparelhamento estável que não cobre 𝑣 então nenhum
+emparelhamento estável cobre 𝑣.
+
+17
+2.3 | TEOREMA DOS HOSPITAIS RURAIS
+
+Demonstração. Seja 𝐺𝑀,𝑀 ′ o grafo direcionado cujo conjunto de nós é 𝑉 e o conjunto
+𝐸(𝐺𝑀,𝑀 ′ ) de arcos é definido da seguinte forma. Para cada vértice 𝑎 ∈ 𝐴 coberto por 𝑀,
+existe um arco de 𝑎 para 𝑀(𝑎) e para cada vértice de 𝑏 ∈ 𝐵 coberto por 𝑀 ′ , temos um arco
+de 𝑏 para 𝑀 ′ (𝑏). A figura a seguir ilustra 𝐺𝑀,𝑀 ′ . Note que todo nó de 𝐺𝑀,𝑀 ′ possui grau de
+entrada e de saída ambos no máximo 1 (𝐼 ). Além disso, o grau de entrada de 𝑣 em 𝐺𝑀,𝑀 ′ é
+0 (𝐼 𝐼 ).
+𝐺𝑀,𝑀 ′
+𝐴
+
+𝐵
+
+𝑎1
+
+𝑀(𝑎)
+
+𝑀 ′ (𝑏2 )
+
+𝑏2
+
+Figura 2.4: As arestas pintadas de azul correspondem as induzidas pelo emparelhamento 𝑀 e as
+pintadas de vermelho são as induzidas pelo emparelhamento 𝑀 ′ .
+
+Suponha, por absurdo, que exista um vértice 𝑣 de 𝐺 e emparelhamentos estáveis 𝑀
+e 𝑀 ′ tais que 𝑣 é coberto por 𝑀 mas não é coberto por 𝑀 ′ . Podemos supor, sem perda
+de generalidade, que 𝑣 ∈ 𝐴. Seja 𝑇 = (𝑣0 , 𝑣1 , ..., 𝑣𝑟 ) uma trilha mais longa partindo de 𝑣
+em 𝐺𝑀,𝑀 ′ (isto é, 𝑣0 = 𝑣). Tal trilha deve existir pois 𝐺𝑀,𝑀 ′ é finito. Por (𝐼 ) e (𝐼 𝐼 ), vem
+imediatamente que 𝑣𝑖 ≠ 𝑣𝑗 para todo 𝑖, 𝑗 ∈ {0, ..., 𝑟} (𝐼 𝐼 𝐼 ).
+Note que 𝑣0 ∈ 𝐴 prefere 𝑀 a 𝑀 ′ e 𝑣0 e 𝑣1 não são parceiros em 𝑀 ′ . Assim, pelo Lema
+1, 𝑣1 ∈ 𝐵 prefere 𝑀 ′ a 𝑀. Aplicando o Lema 1 novamente, já que 𝑣1 e 𝑣2 não são parceiros
+em 𝑀, obtemos que 𝑣2 ∈ 𝐴 prefere 𝑀 a 𝑀 ′ . Assim, por um argumento indutivo, é possível
+concluir que 𝑣𝑖 prefere 𝑀 a 𝑀 ′ se 𝑖 for par e prefere 𝑀 ′ a 𝑀 se 𝑖 for ímpar.
+Finalmente, se 𝑟 for ímpar, 𝑣𝑟 prefere 𝑀 ′ a 𝑀 e 𝑣𝑟 ∈ 𝐵. Note que 𝑀(𝑣𝑟−1 ) = 𝑣𝑟 . Assim, 𝑣𝑟
+é coberto por 𝑀 ′ e 𝑣𝑟+1 ∶= 𝑀 ′ (𝑣𝑟 ) é tal que 𝑣𝑟 𝑣𝑟+1 ∈ 𝐸(𝐺𝑀,𝑀 ′ ). Daí, por (𝐼 𝐼 𝐼 ), 𝑣𝑟 𝑣𝑟+1 ∉ 𝐸(𝑇 ),
+implicando que 𝑇 ′ = (𝑣0 , 𝑣1 , ..., 𝑣𝑟 , 𝑣𝑟+1 ) é uma trilha de 𝐺𝑀,𝑀 ′ mais longa que 𝑇 , o que é
+uma contradição. A prova do caso em que 𝑟 é par é inteiramente análoga.
+
+Um corolário imediato do teorema é o seguinte.
+Corolário 2. Se um vértice de um grafo de preferências bipartido 𝐺 é coberto por um
+emparelhamento estável então ele é coberto por qualquer emparelhamento estável de 𝐺. De
+modo equivalente, Se um vértice não é coberto por um emparelhamento estável, ele não é
+coberto por nenhum outro emparelhamento estável.
+Um problema interessante de Teoria dos Jogos é o de alocação de residentes a hospitais.
+Em tal problema, temos médicos se candidatando a hospitais. Suponhamos que cada médico
+
+18
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+se candidata a um conjunto de hospitais e que ele possui uma ordem de preferência estrita
+em relação aos hospitais aos quais ele se candidatou. Cada hospital tem um número fixo
+e limitado de vagas. Além disso, cada hospital avalia os seus candidatos através de um
+exame. Assuma, por simplicidade, que dois candidatos não podem receber a mesma nota
+em um exame de um mesmo hospital. Por meio dessa avaliação, cada hospital cria uma
+lista de classificação dos seus candidatos. Queremos encontrar uma alocação de médicos a
+hospitais de modo que o número de médicos alocados a um hospital ℎ arbitrário não seja
+maior que o número de vagas de ℎ. Cada médico só pode ser alocado a um hospital ao qual
+ele se candidatou. Além disso, em uma dada alocação, não pode ocorrer de um médico 𝑚
+ser alocado a um hospital ℎ tal que haja um médico 𝑚′ ≠ 𝑚 abaixo na lista de classificação
+de ℎ em relação a 𝑚 e que 𝑚 prefira ℎ ao hospital a que ele foi alocado.
+Tal problema pode ser modelado matematicamente como o de encontrar um emparelhamento estável em um grafo de preferências bipartido 𝐺 = (𝑉 = 𝐴 ∪ 𝐵, 𝐸, 𝐿) definido da
+seguinte forma:
+1. 𝐴 representa o conjunto dos residentes e 𝐵 representa o conjunto dos hospitais.
+2. Para cada hospital ℎ com número de vagas 𝑐ℎ temos 𝑐ℎ vértices de 𝐵 que se referem
+a ℎ. A cada tal vértice, associamos um índice de 1 a 𝑐ℎ .
+3. Cada residente 𝑟 é representado por um único vértice 𝑎𝑟 ∈ 𝐴.
+4. Se um residente 𝑟 se candidatou a um hospital ℎ, existe uma aresta do vértice 𝑎𝑟 ∈ 𝐴
+que representa 𝑟 para cada vértice que se refere ao hospital ℎ. A lista de preferências
+de 𝑎𝑟 é tal que: se 𝑟 prefere o hospital ℎ ao ℎ′ , então vértices que se referem a ℎ
+aparecem na frente de vértices de se referem a ℎ′ . Vértices que se referem a um
+mesmo hospital ℎ aparecem na lista de preferência em ordem crescente do seu índice
+(isto é, o de ordem menor aparece na frente).
+Modelando o problema dessa forma, ele se reduz ao de encontrar um emparelhamento
+estável em um grafo de preferências bipartido.
+Nos Estados Unidos, existe um órgão, o National Resident Matching Program (NRMP),
+responsável por realizar a alocação de seus médicos residentes aos hospitais. O Órgão utiliza
+um algoritmo que, em essência, é o de Gale-Shapley de encontrar um emparelhamento
+estável [9]. Lá, em geral, o número de vagas é maior que o número de aplicantes e, portanto,
+existem hospitais onde nem todas as suas vagas são preenchidas. Devido a uma preferência
+dos residentes aos hospitais urbanos, o emparelhamento estável encontrado pelo algoritmo
+em geral ocasionava uma grande quantidade de vagas não preenchidas nos hospitais
+rurais.
+Isso levantou a questão de se talvez fosse possível alterar o algoritmo de modo a fazê-lo
+encontrar um emparelhamento estável onde o número de vagas preenchidas nos hospitais
+rurais fosse maior. O Teorema dos Hospitais Rurais responde a essa questão negativamente
+(e daí o seu nome).
+
+19
+2.4 | ESTRUTURA ALGÉBRICA DOS EMPARELHAMENTOS ESTÁVEIS
+
+2.4
+
+Estrutura Algébrica dos Emparelhamentos
+Estáveis
+
+É possível munir o conjunto dos emparelhamentos estáveis de um grafo bipartido com
+preferências de uma relação de ordem de modo natural de modo a constituir o que os
+algebristas chamam de um reticulado distributivo (conceito que será definido precisamente
+mais a frente). Nessa seção usaremos esse fato e daremos uma demonstração da existência
+de um emparelhamento estável 𝐴-ótimo sem lançar mão da corretude do algoritmo de
+Gale-Shapley.
+Iniciaremos a seção introduzindo uma terminologia básica de teoria da ordem suficiente
+para os propósitos dessa seção. O leitor familiarizado com conceitos básicos de Teoria da
+Ordem pode pular para a subseção 2.4.2.
+
+2.4.1
+
+Terminologia básica de teoria da ordem
+
+Seja ≼ uma relação definida num conjunto 𝑆 (isto é, ≼ é um subconjunto de 𝑆 × 𝑆).
+Dizemos que ≼ é uma ordem parcial em 𝑆 se ela possui as seguintes propriedades:
+1. Para todo 𝑎 ∈ 𝑆 vale que 𝑎 ≼ 𝑎. (Reflexividade)
+2. Para todo 𝑎, 𝑏, 𝑐 ∈ 𝑆 tem-se que (𝑎 ≼ 𝑏 e 𝑏 ≼ 𝑐 ⟹ 𝑎 ≼ 𝑐). (Transitividade)
+3. Para todo 𝑎, 𝑏 ∈ 𝑆 tem-se que (𝑎 ≼ 𝑏 e 𝑏 ≼ 𝑎 ⟹ 𝑎 = 𝑏). (Antissimetria)
+O par (𝑆, ≼) é chamado de conjunto ordenado. Se 𝑎, 𝑏 ∈ 𝑆 são tais que 𝑎 ≼ 𝑏 ou 𝑏 ≼ 𝑎,
+dizemos que 𝑎 e 𝑏 são comparáveis. Caso contrário, 𝑎 e 𝑏 são ditos incomparáveis. Se
+todo par de elementos de 𝑆 forem comparáveis, diremos que ≼ é uma ordem total e que
+(𝑆, ≼) é um conjunto totalmente ordenado.
+Seja (𝑆, ≼) um conjunto ordenado e 𝐻 ⊆ 𝑆. Dizemos que 𝐻 é limitado superiormente
+quando existe um 𝑠 ∈ 𝑆 tal que ℎ ≼ 𝑠 para todo ℎ ∈ 𝐻 . Tal 𝑠 é denominado uma cota
+superior de 𝐻 . De modo análogo, dizemos que 𝐻 é limitado inferiormente quando
+existe 𝑖 ∈ 𝑆 tal que 𝑖 ≼ ℎ para todo ℎ ∈ 𝐻 . Tal 𝑖 é dito uma cota inferior de 𝐻 . 𝐻 é dito
+limitado se é limitado superiormente e inferiormente. Se 𝑠 é cota superior (inferior) de
+𝐻 e 𝑠 ∈ 𝐻 , então 𝑠 é dito máximo (mínimo) de 𝐻 . Vale notar que se 𝐻 possui máximo
+(ou mínimo) então ele é único e isso não é verdade, em geral, quando falamos de cotas
+(superiores ou inferiores).
+Se 𝐻 é limitado superiormente (inferiormente) e conjunto das cotas superiores (inferiores) possui mínimo (máximo), tal mínimo (máximo) é chamado de supremo (ínfimo) de
+𝐻.
+Seja (𝑆, ≼) um conjunto ordenado. Dizemos que 𝑆 é um reticulado se todo {𝑎, 𝑏} ⊆ 𝑆
+possui supremo e ínfimo. Denotamos tais supremo e ínfimo por 𝑎 ∨ 𝑏 e 𝑎 ∧ 𝑏, respectivamente.
+Uma observação importante é a de que os operadores ∨ e ∧ são associativos. Vamos
+provar apenas que ∨ é associativo (A associatividade de ∧ pode ser provada de modo
+análogo). Para isso, suponha que (𝑆, ≼) é um reticulado e considere 𝑎, 𝑏, 𝑐 ∈ 𝑆. Defina
+
+20
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+𝑠 ′ = (𝑎 ∨ 𝑏) ∨ 𝑐 e 𝑠 ′′ = 𝑎 ∨ (𝑏 ∨ 𝑐). Assim, 𝑠 ′ ≽ 𝑎 ∨ 𝑏, isto é, 𝑠 ′ ≽ 𝑎 e 𝑠 ′ ≽ 𝑏. Além disso, 𝑠 ′ ≽ 𝑐.
+Logo, 𝑠 ′ ≽ (𝑏 ∨ 𝑐) e 𝑠 ′ ≽ 𝑎. Daí, 𝑠 ′ é cota superior de {𝑎, 𝑏 ∨ 𝑐} e, portanto, 𝑠 ′ ≽ 𝑠ε, pois é 𝑠ε é a
+menor das cotas superiores de {𝑎, 𝑏 ∨ 𝑐}. Analogamente, vem que 𝑠ε ≽ 𝑠 ′ . Pela propriedade
+antissimétrica de ≼, vem que 𝑠ε = 𝑠 ′ , como queríamos provar. Assim, podemos ocultar os
+parênteses e escrever 𝑎 ∨ 𝑏 ∨ 𝑐 (ou 𝑎 ∧ 𝑏 ∧ 𝑐) sem corrermos os risco de incorrermos em
+ambiguidade.
+Um reticulado (𝑆, ≼) é dito distributivo quando o operador ∨ se distribui em relação ao
+operador ∧ (e vice-versa), isto é, para todo 𝑎, 𝑏, 𝑐 ∈ 𝑆, tem-se que 𝑎 ∨ (𝑏 ∧ 𝑐) = (𝑎 ∨ 𝑏) ∧ (𝑎 ∨ 𝑐)
+e que 𝑎 ∧ (𝑏 ∨ 𝑐) = (𝑎 ∧ 𝑏) ∨ (𝑎 ∧ 𝑐).
+
+2.4.2
+
+O conjunto dos emparelhamentos estáveis é um reticulado
+distributivo
+
+Seja 𝐺 = (𝑉 = 𝐴 ∪ 𝐵, 𝐸, 𝐿) um grafo bipartido com preferências e denote por 𝑆(𝐺) o
+conjunto dos emparelhamentos estáveis de 𝐺. Defina em 𝑆(𝐺) a relação ≼𝐴 do seguinte
+modo. Dados dois emparelhamentos estáveis 𝑀1 e 𝑀2 , 𝑀1 ≼𝐴 𝑀2 se, e somente se, para
+cada vértice 𝑎 ∈ 𝐴 tem-se que 𝑀1 <𝑎 𝑀2 ou 𝑎 é indiferente a 𝑀1 e 𝑀2 .
+O intuito desta seção é provar o seguinte teorema.
+Teorema 8. (𝑆(𝐺), ≼𝐴 ) é um reticulado distributivo.
+Inicialmente, demonstremos que ≼𝐴 define uma ordem parcial em 𝐺.
+Lema 2. ≼𝐴 é uma ordem parcial em 𝐺.
+Demonstração. Considere abaixo que 𝑀1 , 𝑀2 e 𝑀3 são emparelhamento estáveis arbitrários
+de 𝐺.
+1. Para cada vértice 𝑎 ∈ 𝐴, de 𝑀1 (𝑎) = 𝑀1 (𝑎) segue trivialmente que 𝑎 é indiferente a
+𝑀1 e 𝑀1 . Logo, ≼𝐴 é reflexivo.
+2. Se 𝑀1 ≼𝐴 𝑀2 e 𝑀2 ≼𝐴 𝑀3 , então, para cada vértice 𝑎 ∈ 𝐴, tem-se que 𝑀1 ≤𝑎 𝑀2 e
+𝑀2 ≤𝑎 𝑀3 . Assim, pela transitividade de ≤𝑎 , segue que 𝑀1 ≤𝑎 𝑀3 , para todo 𝑎 ∈ 𝐴,
+donde segue que 𝑀1 ≼𝐴 𝑀3 . Portanto, ≼𝐴 é transitivo.
+3. Suponha que 𝑀1 ≼𝐴 𝑀2 e 𝑀2 ≼𝐴 𝑀1 e tome um vértice 𝑎 ∈ 𝐴. Por definição de ≼𝐴 ,
+tem-se que 𝑀1 ≤𝑎 𝑀2 e 𝑀2 ≤𝑎 𝑀1 . Se 𝑎 não é coberto por 𝑀1 , de 𝑀2 ≤𝑎 𝑀1 , segue que
+𝑎 não é coberto por 𝑀2 . Analogamente, se 𝑎 não é coberto por 𝑀2 segue que 𝑎 não é
+coberto por 𝑀1 . Suponha então que 𝑎 é coberto por 𝑀1 e 𝑀2 . Assim, 𝑀1 (𝑎) ≤𝑎 𝑀2 (𝑎)
+e 𝑀1 (𝑎) ≤𝑎 𝑀2 (𝑎). Se 𝑀1 (𝑎) ≠𝑎 𝑀2 (𝑏), teríamos que 𝑀1 (𝑎) <𝑎 𝑀2 (𝑎) e 𝑀2 (𝑎) <𝑎 𝑀1 (𝑎),
+o que é um absurdo. Logo, 𝑀1 (𝑎) = 𝑀2 (𝑎).
+Assim, provamos que, para cada vértice 𝑎 ∈ 𝐴, ou 𝑎 não é coberto por ambos 𝑀1 e 𝑀2
+, ou 𝑎 é coberto por 𝑀1 e por 𝑀2 e 𝑀1 (𝑎) = 𝑀2 (𝑎). Daí segue que 𝑀1 = 𝑀2 . Portanto,
+≼𝐴 possui a propriedade antissimétrica.
+
+21
+2.4 | ESTRUTURA ALGÉBRICA DOS EMPARELHAMENTOS ESTÁVEIS
+
+Assim, (𝑆, ≼𝐴 ) é um conjunto ordenado. Vale notar que, em geral, ≼𝐴 não é uma ordem
+total em 𝐺, como mostra o exemplo exibido na figura abaixo.
+𝑎1
+
+𝑏1
+
+𝑎2
+
+𝑏2
+
+𝑎3
+
+𝑏3
+
+𝑎4
+
+𝑏4
+
+𝑎1
+𝑎2
+𝑎3
+𝑎4
+
+∶
+∶
+∶
+∶
+
+𝑏2
+𝑏1
+𝑏3
+𝑏4
+
+𝑏1
+𝑏2
+𝑏4
+𝑏3
+
+𝑏3
+𝑏4
+𝑏1
+𝑏1
+
+𝑏4
+𝑏3
+𝑏2
+𝑏2
+
+𝑏1
+𝑏2
+𝑏3
+𝑏4
+
+∶
+∶
+∶
+∶
+
+𝑎1
+𝑎2
+𝑎4
+𝑎3
+
+𝑎2
+𝑎1
+𝑎3
+𝑎4
+
+𝑎4
+𝑎4
+𝑎2
+𝑎1
+
+𝑎3
+𝑎3
+𝑎1
+𝑎2
+
+Figura 2.5: Considere o grafo de preferências definido por meio da figura acima, onde à direita estão indicadas as listas de preferências de cada vértice em ordem decrescente de preferência (por exemplo, 𝑎2 prefere 𝑏2 a 𝑏3 ). É possível verificar que 𝑀1
+=
+{𝑎1 𝑏2 , 𝑎2 𝑏1 , 𝑎3 𝑏4 , 𝑎4 𝑏3 } e
+𝑀2 = {𝑎1 𝑏1 , 𝑎2 𝑏2 , 𝑎3 𝑏3 , 𝑎4 𝑏4 } são emparelhamentos estáveis. Note que 𝑀2 (𝑎1 ) = 𝑏1 ≤𝑎1 𝑏2 = 𝑀1 (𝑎1 )
+e, logo, não é o caso que 𝑀1 ≼𝐴 𝑀2 . Por outro lado, 𝑀1 (𝑎3 ) = 𝑏4 ≤𝑎3 𝑏3 = 𝑀2 (𝑎3 ) e, logo, é falso que
+𝑀2 ≼𝐴 𝑀1 . Portanto, 𝑀1 e 𝑀2 não são comparáveis por ≼𝐴 .
+
+O natural seria provar agora que (𝑆, ≼𝐴 ) é um reticulado, o que virá como consequência
+do lema abaixo.
+Lema 3. Sejam 𝑀1 e 𝑀2 dois emparelhamentos estáveis. Seja 𝑀 o conjunto de arestas definido
+da seguinte forma. Para cada vértice 𝑎 ∈ 𝐴 tal que 𝑎 é coberto por 𝑀1 ou é coberto por 𝑀2 , se
+𝑀1 ≤𝑎 𝑀2 , 𝑎𝑀2 (𝑎) ∈ 𝑀. Caso contrário, 𝑎𝑀1 (𝑎) ∈ 𝑀. Temos que 𝑀 é um emparelhamento
+estável.
+Demonstração. Primeiramente, provemos que 𝑀 é um emparelhamento. Pela definição
+de 𝑀, fica claro que 𝑎 é extremo de no máximo uma aresta em 𝑀 para todo 𝑎 ∈ 𝐴. Seja
+𝑏 ∈ 𝐵 coberto por 𝑀. Para provar o requerido, é suficiente provar que 𝑎𝑏, 𝑎′ 𝑏 ∈ 𝑀 implica
+𝑎 = 𝑎′ . Note que 𝑎𝑏 e 𝑎𝑏 ′ são arestas de 𝑀1 ∪ 𝑀2 . Assim, no caso de ambas pertencerem a
+𝑀1 ou de ambas pertencerem a 𝑀2 , segue, da definição de emparelhamento, que 𝑎 = 𝑎′ .
+Suponha então, sem perda de generalidade, que 𝑎𝑏 ∈ 𝑀1 e 𝑎′ 𝑏 ∈ 𝑀2 . Como 𝑎𝑏 ∈ 𝑀1 e
+𝑎𝑏 ∈ 𝑀, temos, pela definição de 𝑀, que 𝑀2 (𝑎) ≤𝑎 𝑏 e isso, por sua vez, pelo fato de 𝑀2
+ser um emparelhamento estável, implica que 𝑎 ≤𝑏 𝑎′ (Caso contrário, 𝑎′ 𝑏 seria uma aresta
+bloqueadora de 𝑀2 ). De modo inteiramente análogo, conclui-se que 𝑎′ ≤𝑏 𝑎. Logo, 𝑎 = 𝑎′ .
+Isso prova que 𝑀 é um emparelhamento.
+Resta-nos provar que 𝑀 é um emparelhamento estável. Suponha, por absurdo, que 𝑎𝑏
+é uma aresta bloqueadora de 𝑀. Assim, (𝑎 não é coberto por 𝑀 ou 𝑀(𝑎) <𝑎 𝑏) e (𝑏 não é
+coberto por 𝑀 ou 𝑀(𝑏) <𝑏 𝑎). Consideremos 2 casos:
+1. 𝑎 não é coberto por 𝑀: Nesse caso, se 𝑏 também não é coberto por 𝑀, teríamos
+que 𝑎𝑏 claramente bloqueia 𝑀1 e 𝑀2 . Suponha então que 𝑏 é coberto por 𝑀 e
+𝑀(𝑏) <𝑏 𝑎. Assim, pela definição de 𝑀, teríamos duas possibilidades: 𝑀(𝑏) = 𝑀1 (𝑏)
+ou 𝑀(𝑏) = 𝑀2 (𝑏). A primeira implicaria que 𝑎𝑏 bloqueia 𝑀1 e a segunda implicaria
+que 𝑎𝑏 bloqueia 𝑀2 .
+
+22
+2 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS BIPARTIDOS
+
+2. 𝑎 é coberto por 𝑀: Nesse caso, 𝑀(𝑎) <𝑎 𝑏 (𝐼 ). Note que 𝑀(𝑎) = 𝑀1 (𝑎) ou 𝑀(𝑎) = 𝑀2 (𝑎).
+Assim, se 𝑏 não fosse coberto por 𝑀, 𝑎𝑏 bloquearia 𝑀1 ou 𝑀2 , o que não pode ocorrer
+já que 𝑀1 e 𝑀2 são emparelhamento estáveis por hipótese. Daí, 𝑏 é coberto por 𝑀 e
+𝑀(𝑏) <𝑏 𝑎. Considere a partir de agora que 𝑀(𝑏) = 𝑀1 (𝑏) (o outro caso é análogo).
+Se 𝑀(𝑎) = 𝑀1 (𝑎), então 𝑎𝑏 bloquearia 𝑀1 . Logo, 𝑀(𝑎) = 𝑀2 (𝑎). Mas, pela definição
+de 𝑀 e (𝐼 ), segue que 𝑀1 (𝑎) ≤𝑎 𝑀2 (𝑎) = 𝑀(𝑎) <𝑎 𝑏, donde segue que 𝑎𝑏 bloqueia 𝑀1 ,
+o que é uma contradição.
+
+Em outras palavras, o que o lema 3 nos revela é que, dados dois emparelhamentos
+estáveis quaisquer, o emparelhamento obtido tomando-se para cada vértice de 𝐴 o seu
+parceiro preferido em relação aos dois emparelhamentos é um emparelhamento estável.
+Assim, sendo 𝑀1 , 𝑀2 e 𝑀 como no enunciado do 3, é claro que 𝑀 é cota superior de 𝑀1 e
+𝑀2 em relação à ordem ≼𝐴 . Mais ainda, 𝑀 é a menor das cotas superiores (isto é, supremo)
+de {𝑀1 , 𝑀2 }. De fato, se 𝑀 ′ é um emparelhamento estável tal que 𝑀 ′ ≼𝐴 𝑀1 e 𝑀 ′ ≼𝐴 𝑀2 ,
+então, para todo 𝑎 ∈ 𝐴, 𝑀 ′ (𝑎) ≤𝑎 𝑀1 (𝑎) e 𝑀 ′ (𝑎) ≤𝑎 𝑀2 (𝑎), donde 𝑀(𝑎) ≤𝑎 𝑀 ′ (𝑎). Logo,
+𝑀 ′ (𝑎) ≤𝑎 𝑀1 (𝑎). Assim, provamos que 𝑀 é menor (segundo ≼𝐴 ) que qualquer cota superior
+de {𝑀1 , 𝑀2 }. Assim, 𝑀 = 𝑀1 ∨ 𝑀2 .
+Dados dois emparelhamentos estáveis 𝑀1 e 𝑀2 e definindo 𝑀 ′ como o conjunto de
+arestas dado tomando-se, para cada 𝑎 ∈ 𝐴 tal que 𝑎 é coberto por 𝑀1 ou 𝑀2 , a aresta de
+menor preferência (com respeito a 𝑎) dentre 𝑎𝑀1 (𝑎) e 𝑎𝑀2 (𝑎), é possível provar que 𝑀 ′
+é um emparelhamento estável e que 𝑀 ′ = 𝑀1 ∧ 𝑀2 . A prova é inteiramente análoga à do
+caso ∨. Portanto, (𝑆(𝐺), ≼) é, de fato, um reticulado.
+Estamos agora em condições de provar a existência do emparelhamento 𝐴-ótimo sem
+lançar mão do algoritmo de Gale-Shapley. Não só isso, obtemos uma descrição elegante
+puramente algébrica de tal objeto. Note que, usando a terminologia de Teoria da Ordem
+exposta na seção anterior, é fácil ver que:
+
+𝑀 é 𝐴-ótimo ⟺ 𝑀 ≽𝐴 𝑀 ′ para qualquer emparelhamento estável 𝑀 ′ .(𝐼 )
+.
+Considere que 𝑆(𝐺) = {𝑀1 , ..., 𝑀𝑟 } para algum 𝑟 natural (Note que 𝑆(𝐺) é finito pois o
+número de emparelhamentos é finito) e defina 𝑀 = 𝑀1 ∨ 𝑀2 ∨ 𝑀3 ∨ ... ∨ 𝑀𝑟 . Daí, 𝑀 ≽ 𝑀𝑖 para
+todo 𝑖, donde, por (𝐼 ), concluímos que 𝑀 é 𝐴-ótimo. Substituindo no argumento acima ∨
+por ∧ obtemos uma descrição do emparelhamento 𝐵-ótimo.
+Para encerrarmos a seção, resta-nos provar que (𝑆(𝐺), ≼) é distributivo. Primeiramente
+provemos um lema que simplificará a prova de tal fato.
+Lema 4. Seja (𝑆, ≼) um reticulado. Então ∧ se distribui em relação ao operador ∨ se, e somente
+se, ∨ se distribui em relação ao operador ∧.
+Demonstração. Por simetria, basta provarmos um sentido da equivalência do enunciado.
+Deste modo, suponha que ∧ se distribui em relação ao operador ∨ (𝐼 ). Daí, dados 𝑎, 𝑏, 𝑐 ∈ 𝑆,
+
+23
+2.4 | ESTRUTURA ALGÉBRICA DOS EMPARELHAMENTOS ESTÁVEIS
+
+temos:
+(𝑎 ∨ 𝑏) ∧ (𝑎 ∨ 𝑐) = ((𝑎 ∨ 𝑏) ∧ 𝑎) ∨ ((𝑎 ∨ 𝑏) ∧ 𝑐), por (I)
+= ((𝑎 ∧ 𝑎) ∨ (𝑏 ∧ 𝑎)) ∨ ((𝑎 ∧ 𝑐) ∨ (𝑏 ∧ 𝑐)), novamente por (I)
+= (𝑎 ∨ (𝑏 ∧ 𝑎)) ∨ ((𝑎 ∧ 𝑐) ∨ (𝑏 ∧ 𝑐)), pois 𝑎 = 𝑎 ∧ 𝑎
+= (𝑎 ∨ (𝑏 ∧ 𝑎) ∨ (𝑎 ∧ 𝑐)) ∨ (𝑏 ∧ 𝑐), pois ∨ é associativo
+= 𝑎 ∨ (𝑏 ∧ 𝑐), pois 𝑎 é claramente o máximo de {𝑎, 𝑏 ∧ 𝑎, 𝑎 ∧ 𝑐}.
+
+Segue abaixo a demonstração do Teorema 8.
+Demonstração. Pelo exposto anteriormente, segue que (𝑆(𝐺), ≼) é um reticulado. O Lema
+4 nos garante que basta demonstrarmos que ∧ distribui em relação a ∨ para provarmos o
+Teorema.
+Sejam 𝑀1 , 𝑀2 , 𝑀3 emparelhamentos estáveis. Considere 𝑀 ∶= 𝑀1 ∧ (𝑀2 ∨ 𝑀3 ) e 𝑀 ′ ∶=
+(𝑀1 ∧ 𝑀2 ) ∨ (𝑀1 ∧ 𝑀3 ).
+Tome 𝑎 ∈ 𝐴. Inicialmente, suponha que 𝑎 não é coberto por 𝑀. Então 𝑎 não é coberto
+por 𝑀1 (𝐼 ) ou 𝑎 não é coberto por 𝑀2 ∨ 𝑀3 (𝐼 𝐼 ). Se (𝐼 ), teríamos que 𝑎 não é coberto nem
+por 𝑀1 ∨ 𝑀2 e nem por 𝑀1 ∨ 𝑀3 e, logo, se seguiria que 𝑎 não é coberto por 𝑀 ′ . No caso (𝐼 𝐼 ),
+obteríamos que 𝑎 não é coberto nem por 𝑀2 e nem por 𝑀3 , donde se seguiria facilmente que
+𝑎 não é coberto por 𝑀1 ∧ 𝑀2 e 𝑀1 ∧ 𝑀3 , isto é, que 𝑎 não é coberto por 𝑀 ′ . Reciprocamente,
+suponha que 𝑎 não é coberto por 𝑀 ′ . Disso segue que 𝑎 não é coberto por 𝑀1 ∧ 𝑀2 e nem
+por 𝑀1 ∧ 𝑀3 , donde vem que, ou 𝑎 não é coberto por 𝑀1 , ou 𝑎 é coberto por 𝑀1 mas não
+é coberto nem por 𝑀2 e nem por 𝑀3 . Em qualquer um dos casos, obtemos que 𝑎 não é
+coberto por 𝑀. Logo, concluímos que (𝑎 não é coberto por 𝑀 ⟺ 𝑎 não é coberto por
+𝑀 ′ ) para todo 𝑎 ∈ 𝐴.
+Agora, tome 𝑎 ∈ 𝐴 e suponha que 𝑎 é coberto por 𝑀 (e, portanto, coberto por 𝑀 ′ ).
+Suponha, sem perda de generalidade, que 𝑀2 ≤𝑎 𝑀3 . É fácil ver que isso implica que 𝑎 deve
+ser coberto por 𝑀1 e por 𝑀3 (e, logo, por 𝑀2 ∨ 𝑀3 ). Pela caracterização dos operadores
+∨ e ∧, temos que 𝑀(𝑎) = 𝑀1 (𝑎) (𝐼 ) ou 𝑀(𝑎) = 𝑀3 (𝑎) (𝐼 𝐼 ). Supondo (𝐼 ), vem que (𝑀1 ∧
+𝑀3 )(𝑎) = 𝑀3 (𝑎) e, como 𝑀2 ≼𝑎 𝑀3 , concluímos que 𝑀3 (𝑎) ≥𝑎 (𝑀2 ∧ 𝑀1 )(𝑎), de modo que
+𝑀 ′ (𝑎) = 𝑀3 (𝑎) = 𝑀(𝑎). Supondo (𝐼 𝐼 ), vem que 𝑀3 ≤𝑎 𝑀1 . Daí, (𝑀1 ∧ 𝑀3 )(𝑎) = 𝑀3 (𝑎) e, como
+𝑀2 ≤𝑎 𝑀3 ≤𝑎 , segue que (𝑀1 ∧ 𝑀2 )(𝑎) = 𝑀2 (𝑎). Finalmente, dado que 𝑀2 ≤𝑎 𝑀3 , vem que
+𝑀 ′ (𝑎) = 𝑀3 (𝑎) = 𝑀(𝑎). Isso encerra a demonstração.
+
+25
+
+Capítulo 3
+Emparelhamentos Estáveis em
+Grafos Quaisquer
+O nosso objeto de estudo principal do capítulo anterior eram grafos de preferências com
+a propriedade particular de possuírem uma bipartição. Vimos, por exemplo, que em tais
+grafos é possível garantir a existência de ao menos um emparelhamento estável. Portanto,
+ao considerarmos grafos quaisquer, uma pergunta natural seria se ainda podemos fazer tal
+garantia. Infelizmente, a resposta é negativa. A figura abaixo define um exemplo de um
+grafo de preferências que não possui emparelhamento estável.
+
+𝑎
+
+𝑏
+𝑎∶𝑐𝑏
+𝑏∶𝑎𝑐
+𝑐∶𝑏𝑎
+
+𝑐
+Figura 3.1: Primeiramente, vale recordar que todo emparelhamento estável é maximal (Fato
+observado imediatamente após a definição de emparelhamento estável no capítulo 2). Assim, os
+candidatos a emparelhamentos estáveis são 𝑀1 = {𝑎𝑏}, 𝑀2 = {𝑏𝑐}, 𝑀3 = {𝑎𝑐}. No entanto, 𝑎𝑐, 𝑎𝑏, e
+𝑏𝑐 bloqueiam 𝑀1 , 𝑀2 e 𝑀3 , respectivamente.
+
+Knuth [7] chegou a conjecturar que o problema de decidir se um grafo de preferências
+arbitrário possui algum emparelhamento estável seria 𝑁 𝑃-completo. No entanto, Irving
+[5] refutou essa hipótese, elaborando um algoritmo que, em tempo linear, decide se um
+grafo de preferências possui um emparelhamento estável e, em caso positivo, devolve um.
+Neste capítulo, descreveremos tal algoritmo e provaremos a sua corretude.
+
+26
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+3.1
+
+Algoritmo de Irving
+
+Para facilitar a compreensão, o algoritmo de Irving é classicamente subdividido em
+duas etapas.
+
+3.1.1
+
+Primeira etapa
+
+Esta etapa consiste em realizar um pré-processamento no grafo de preferências dado
+como entrada. Tal pré-processamento possui bastante semelhanças com o algoritmo estendido de Gale-Shapley no sentido que arestas não estáveis (isto é, arestas que não
+aparecem em nenhum emparelhamento estável) são removidas resultando num grafo com
+algumas propriedades especiais. Apresentamos a seguir uma descrição em alto nível do
+algoritmo.
+Considere que 𝐺 é o grafo de preferências dado como entrada. Defina 𝐺 ′ ∶= 𝐺 e
+um conjunto 𝐹 , denominado como o conjunto dos vértices livres de 𝐺 ′ . Inicialmente,
+esse conjunto corresponde a todos os vértices de 𝐺 ′ . Além disso, considere um conjunto 𝑆 de pares ordenados de vértices de 𝐺 ′ . Se (𝑣, 𝑤) ∈ 𝑆, então diremos que 𝑣 está
+semi-comprometido com 𝑤. Enquanto 𝐹 apresentar vértices de grau não-nulo em 𝐺 ′ o
+algoritmo procede realizando os seguintes passos em sequência:
+1. Remove um vértice 𝑣 de 𝐹 de grau não-nulo em 𝐺 ′ .
+2. Considere que 𝑤 é o vizinho preferido de 𝑣 em 𝐺 ′ . 𝑣 passa a ficar semi-comprometido
+com 𝑤, isto é, fazemos 𝑆 ∶= 𝑆 ∪ {(𝑣, 𝑤)}.
+3. Se algum vértice 𝑢 ≠ 𝑣 estava semi-comprometido com 𝑤, (𝑢, 𝑤) é removido de 𝑆 e
+𝑢 é adicionado de volta a 𝐹 .
+4. Todas as arestas 𝑤𝑥 em 𝐺 tais que 𝑣 >𝑤 𝑥 são removidas de 𝐺.
+Note que quando um par (𝑢, 𝑤) é removido de 𝑆 no passo 3, a aresta correspondente
+𝑢𝑤 certamente é removida no passo 4. Isso garante que tal par (𝑢, 𝑤) não será considerado
+novamente. Assim, como a cada execução dos passos acima, um novo par (𝑣, 𝑤) é considerado no passo 2, podemos afirmar que o algoritmo para em no máximo 2𝑚 execuções do
+laço acima, onde 𝑚 é o número de arestas de 𝐺. Deste modo, em algum instante, ou 𝐹 = ∅
+ou todos os vértices presentes em 𝐹 são isolados em 𝐺.
+Finalmente, o algoritmo procede removendo os vértices isolados de 𝐺 ′ . A saída do
+
+27
+3.1 | ALGORITMO DE IRVING
+
+algoritmo é o grafo 𝐺 ′ . Abaixo temos uma descrição formal do algoritmo.
+Algoritmo 3: Primeira etapa do algoritmo de Irving.
+Entrada: Um grafo de preferências 𝐺 = (𝑉 , 𝐸, 𝐿)
+Saída: Um subgrafo com preferências 𝐺 ′ de 𝐺
+1 início
+2
+Faça 𝐹 ∶= 𝑉 , 𝑆 ∶= ∅ e 𝐺 ′ ∶= 𝐺
+3
+enquanto existe 𝑣 ∈ 𝐹 não isolado em 𝐺 ′ faça
+4
+Seja 𝑤 o vizinho preferido de 𝑣 em 𝐺 ′
+5
+se existe 𝑢 ∈ 𝑉 tal que (𝑢, 𝑤) ∈ 𝑆 então
+6
+𝑆 ∶= 𝑆 ⧵ {(𝑢, 𝑤)}
+7
+𝐹 ∶= 𝐹 ∪ {𝑢}
+8
+
+10
+
+𝑆 ∶= 𝑆 ∪ {(𝑣, 𝑤)}
+para cada 𝑥 ∈ 𝑉 vizinho de 𝑤 em 𝐺 ′ tal que 𝑥 <𝑤 𝑣 faça
+𝐺 ′ ∶= 𝐺 ′ − {𝑥𝑤}
+
+11
+
+𝑉 (𝐺 ′ ) ∶= {𝑣 ∈ 𝑉 (𝐺 ′ ) ∶ 𝑣 não é isolado em 𝐺 ′ }
+
+9
+
+12
+
+retorna G’
+
+Na discussão abaixo, considere que 𝐹 ∗ e 𝑆 ∗ são os estados de 𝐹 e 𝑆 ao final da execução
+do algoritmo.
+O grafo produzido pelo algoritmo acima ao aplicá-lo em um grafo de preferências 𝐺
+será denotado por 𝐺1 . Uma observação importante é que ao longo da execução do loop
+principal temos a seguinte invariante para todo 𝑣, 𝑤 ∈ 𝑉 : (𝑣, 𝑤) ∈ 𝑆 ⟹ 𝑣𝑤 ∈ 𝐸(𝐺 ′ ).
+De fato, supondo que em algum momento durante a execução do algoritmo tivéssemos
+(𝑣, 𝑤) ∈ 𝑆 tal que 𝑣𝑤 ∉ 𝐸(𝐺 ′ ), a remoção de tal 𝑣𝑤 só poderia ter sido devido algum
+vértice 𝑢 ter ficado semi-comprometido com 𝑣 tal que 𝑤 <𝑣 𝑢. Isso, no entanto, entraria
+em contradição com o fato de 𝑤 ter sido em algum instante anterior o vizinho preferido
+de 𝑣 em 𝐺 ′ (já que ele ficou semi-comprometido com 𝑤).
+Outra observação útil é a de que se 𝑣 ∈ 𝑉 (𝐺1 ) então existe vértice 𝑢 tal que 𝑢 está semicomprometido com 𝑣 ao final do algoritmo. De fato, sendo 𝑣 ∈ 𝑉 (𝐺1 ) segue que 𝑣 não foi
+removido na linha 11 e, portanto, 𝑣 ∉ 𝐹 ∗ , donde conclui-se que 𝑣 está semi-comprometido
+com algum vértice 𝑤 de 𝐺, isto é, (𝑣, 𝑤) ∈ 𝑆 ∗ . Assim, 𝑣𝑤 ∈ 𝐸(𝐺1 ) (pela observação do
+parágrafo anterior) e 𝑤 ∈ 𝑉 (𝐺1 ) e, de modo análogo, concluímos que existe 𝑢0 ∈ 𝑉 (𝐺1 ) tal
+que (𝑤, 𝑢0 ) ∈ 𝑆 ∗ . Se 𝑢0 = 𝑣, acabou. Caso contrário, existe 𝑢1 tal que (𝑢0 , 𝑢1 ) ∈ 𝑆 ∗ . Se 𝑢1 = 𝑣,
+acabou. Note que 𝑢1 ∉ {𝑢0 , 𝑤} (já que cada vértice só pode estar semi-comprometido com
+no máximo um vértice). Como o número de vértices é finito, procedendo dessa forma,
+encontraremos 𝑢𝑖 tal que 𝑣 = 𝑢𝑖 e (𝑢𝑖−1 , 𝑢𝑖 ) ∈ 𝑆 ∗ e assim, segue o requerido.
+Antes de enunciarmos algumas propriedades de 𝐺1 convém introduzir a seguinte
+terminologia: Dado um véŕtice 𝑣 de um grafo de preferências 𝐺, 𝑓𝐺 (𝑣) é o vizinho de 𝑣
+preferido em 𝐺; 𝑠𝐺 (𝑣) é o segundo vizinho preferido de 𝑣 em 𝐺 e 𝑙𝐺 (𝑣) é o vizinho menos
+preferido de 𝑣 em 𝐺. Note que 𝑓𝐺 (𝑣) e 𝑙𝐺 (𝑣) não estão bem definidos quando 𝑣 é isolado
+e 𝑠𝐺 (𝑣) não está bem quando 𝑣 tem grau menor que 2. O subscrito 𝐺 pode ser omitido
+quando fica claro pelo contexto o grafo de preferências que está sendo referido.
+
+28
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+Lema 5.
+
+1. 𝑤 = 𝑓𝐺1 (𝑣) se, e somente se, 𝑣 = 𝑙𝐺1 (𝑤).
+
+2. Sejam 𝑣, 𝑤 ∈ 𝑉 (𝐺1 ) tais que 𝑣𝑤 ∈ 𝐸(𝐺). Então 𝑣𝑤 não é aresta de 𝐺1 se, e somente se,
+𝑣 prefere 𝑙𝐺1 (𝑣) a 𝑤 em 𝐺 ou 𝑤 prefere 𝑙𝐺1 (𝑤) a 𝑣 em 𝐺.
+Demonstração.
+1. Vale notar que todo vértice 𝑣 de 𝑉 (𝐺1 ) é não isolado e, portanto,
+𝑓𝐺1 (𝑣) e 𝑙𝐺1 (𝑣) estão bem definidos. Inicialmente, vamos provar que 𝑣 = 𝑙𝐺1 (𝑤) se,
+e somente se, (𝑣, 𝑤) ∈ 𝑆 ∗ . De fato, se (𝑣, 𝑤) ∈ 𝑆 ao final do algoritmo, então, pela
+descrição do algoritmo, todas as arestas 𝑤𝑥 tais que 𝑣 >𝑤 𝑥 foram removidas de
+𝐺1 . Além disso, como (𝑣, 𝑤) ∈ 𝑆 ∗ então 𝑣𝑤 ∈ 𝐸(𝐺1 ). Daí, 𝑣 = 𝑙𝐺1 (𝑤). Para provar
+a recíproca, suponha que 𝑣 = 𝑙𝐺1 (𝑤). Isso implica, em particular, que 𝑣𝑤 ∈ 𝐸(𝐺1 ).
+Assim, 𝑤 não é isolado em 𝐺1 e todo vértice não isolado em 𝐺1 possui um vértice 𝑢
+tal que (𝑢, 𝑤) ∈ 𝑆 ∗ (fato observado acima). Assim, 𝑢𝑤 ∈ 𝐸(𝐺1 ) e todas as arestas 𝑤𝑥
+tais que 𝑥 <𝑤 𝑢 foram removidas, donde 𝑢 = 𝑙𝐺1 (𝑤) = 𝑣 e a conclusão se segue.
+Resta-nos provar que 𝑤 = 𝑓𝐺1 (𝑣) se, e somente se, (𝑣, 𝑤) ∈ 𝑆 ∗ . De fato, se (𝑣, 𝑤) ∈ 𝑆 ∗ ,
+então 𝑣𝑤 ∈ 𝐸(𝐺1 ) e, pela descrição do algoritmo, segue que 𝑤 é o vizinho preferido
+de 𝑣 em 𝐺1 . Reciprocamente, suponha que 𝑤 = 𝑓𝐺1 (𝑣). Assim, 𝑣𝑤 ∈ 𝐸(𝐺1 ) e, portanto,
+𝑣 não é isolado em 𝐺1 . Disso vem que 𝑣 ∉ 𝐹 ∗ e, logo, existe vértice 𝑢 tal que (𝑣, 𝑢) ∈ 𝑆 ∗
+e, assim, fica claro que 𝑢 é o vértice menos preferido de 𝑣 em 𝐺1 . Logo, 𝑤 = 𝑢 e o
+resultado segue.
+2. Se 𝑣𝑤 não é aresta de 𝐺1 , pela descrição do algoritmo, segue que 𝑣𝑤 foi removido
+ou devido a algum vértice 𝑢 ter ficado semi-comprometido com 𝑣 e 𝑢 >𝑣 𝑤 (𝐼 ) ou
+devido a algum vértice 𝑢 ′ ter ficado semi-comprometido com 𝑤 tal que 𝑢 ′ >𝑤 𝑣 (𝐼 𝐼 ).
+Suponha (𝐼 ) (a prova para o caso (𝐼 𝐼 ) é análoga). Assim, temos que 𝑣𝑥 foi removido
+para todos os vértices 𝑥 tal que 𝑢 >𝑣 𝑥 e, portanto, 𝑤 <𝑣 𝑢 ≤𝑣 𝑙𝐺1 (𝑣), donde, por
+transitividade, 𝑤 <𝑣 𝑙𝐺1 (𝑣), como queríamos.
+Reciprocamente, suponha, sem perda de generalidade, que 𝑢 ∶= 𝑙𝐺1 (𝑣) <𝑣 𝑤 e,
+pela prova do item anterior, 𝑢 esteve comprometido com 𝑣 em algum momento do
+algoritmo, implicando que todas as arestas 𝑣𝑥 tal que 𝑥 <𝑣 𝑢 foram removidas de 𝐺
+e, em particular, a aresta 𝑣𝑤.
+
+O lema abaixo expõe informações que podem ser obtidas de 𝐺1 sobre emparelhamentos
+estáveis em 𝐺.
+Lema 6.
+1. Se 𝑣𝑤 é uma aresta de 𝐺 que não é uma aresta de 𝐺1 , então 𝑣𝑤 não é estável
+em 𝐺.
+2. Se 𝑣𝑤 é uma aresta de 𝐺 e 𝑣 e 𝑤 não são vértices de 𝐺1 , então 𝐺 não apresenta
+emparelhamentos estáveis.
+Demonstração.
+1. Seja 𝑣𝑤 ∈ 𝐸(𝐺) tal que 𝑣𝑤 ∉ 𝐸(𝐺1 ). Suponha, por absurdo, que exista
+um emparelhamento 𝑀 estável em 𝐺 tal que 𝑣𝑤 ∈ 𝑀. Pelo item 2 do lema 5, ou 𝑣
+prefere 𝑙𝐺1 (𝑣) a 𝑤 (𝐼 ) ou 𝑤 prefere 𝑙𝐺1 (𝑤) a 𝑣 (𝐼 𝐼 ). Se (𝐼 ), pelo item 1 do lema anterior,
+𝑢 ∶= 𝑙𝐺1 (𝑣) ⟹ 𝑓𝐺1 (𝑢) = 𝑣 e, portanto, 𝑢 prefere 𝑣 a 𝑤, donde 𝑢𝑣 bloqueia 𝑀.
+
+29
+3.1 | ALGORITMO DE IRVING
+
+Se (𝐼 𝐼 ), de modo análogo, concluiríamos que 𝑙𝐺1 (𝑤)𝑤 bloqueia 𝑀. Assim, 𝑣𝑤 não é
+estável.
+2. Suponha que 𝑣𝑤 é uma aresta de 𝐺 tal que 𝑣 e 𝑤 não são vértices de 𝐺1 . Além disso,
+suponha, por absurdo, que 𝐺 apresenta um emparelhamento estável 𝑀. Como 𝑣 e 𝑤
+não pertencem a 𝑉 (𝐺1 ), pelo item anterior, segue que 𝑣 e 𝑤 não são cobertos por 𝑀.
+Isso implica que 𝑀 ∪ {𝑣𝑤} é um emparelhamento, e, portanto, 𝑀 não é maximal, o
+que é uma contradição, já que todo emparelhamento estável é maximal e 𝑀 é, por
+hipótese, estável.
+
+Note que há casos em que 𝐺1 já nos dá informações suficientes para determinar rapidamente se 𝐺 possui um emparelhamento estável. Um desses casos corresponde ao item 2 do
+lema anterior, onde chegamos à conclusão que 𝐺 não apresenta emparelhamentos estáveis.
+Outro seria quando cada vértice de 𝐺1 apresenta grau 1 (relembre que 𝐺1 não apresenta
+vértices isolados) e, assim, 𝐺1 se reduziria a um emparelhamento estável, ou seja, 𝐸(𝐺1 )
+seria um emparelhamento estável. De fato, suponha que esse seja o caso, e seja 𝑣𝑤 uma
+aresta de 𝐺 tal que 𝑣𝑤 ∉ 𝐸(𝐺1 ). Pelo item 2 do lema 5 𝑣𝑤 não bloquearia 𝐸(𝐺1 ).
+Infelizmente, após a etapa 1 nem sempre estaremos em algum dos casos anteriores, como
+nos mostra exemplo da figura abaixo. Chamaremos tais casos de casos degenerados.
+𝑎
+
+𝑏
+𝑎∶𝑐𝑏
+𝑏∶𝑎𝑐
+𝑐∶𝑏𝑎
+
+𝑐
+Figura 3.2: A figura acima representa o grafo produzido ao aplicar o pré-processamento da
+etapa 1 do algoritmo de Irving ao grafo 𝐺 representado na figura 3.1. Os arcos coloridos de azul
+representam o estado de 𝑆 ao final do algoritmo (Note que 𝑆 induz um grafo dirigido nos vértices de
+𝐺). Assim, vemos que 𝐺1 = 𝐺. Note que cada vértice de 𝐺1 apresenta grau 2.
+
+Dada a importância dos grafos produzidos pela etapa 1 serem relevantes para as
+discussões que vem a seguir, introduzimos a seguir o conceito de subgrafo estável de um
+grafo de preferências.
+Dado um grafo de preferências 𝐺, um subgrafo de preferências 𝐺 ′ é dito estável (com
+respeito a 𝐺):
+1. Para quaisquer 𝑣, 𝑤 ∈ 𝑉 (𝐺 ′ ): 𝑣 = 𝑙𝐺 ′ (𝑤) se, e somente, se 𝑤 = 𝑓𝐺 ′ (𝑣).
+2. Para quaisquer 𝑣, 𝑤 ∈ 𝑉 (𝐺 ′ ) tais que 𝑣𝑤 ∈ 𝐸(𝐺): 𝑣𝑤 ∉ 𝐸(𝐺 ′ ) se, e somente, se 𝑣
+prefere 𝑙𝐺 ′ (𝑣) a 𝑤 ou 𝑤 prefere 𝑙𝐺 ′ (𝑤) a 𝑣.
+
+30
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+3. Não existem vértices 𝑣, 𝑤 ∈ 𝑉 (𝐺) tais que 𝑣𝑤 ∈ 𝐸(𝐺) e 𝑣, 𝑤 ∉ 𝑉 (𝐺 ′ ).
+4. Não existem vértices isolados em 𝐺 ′ .
+Note que se 𝐺1 não se encontra em nenhum dos casos degenerados, ele é estável. O
+lema abaixo enumera propriedades interessantes de subgrafos estáveis que serão úteis na
+discussão da seção seguinte.
+Lema 7. Sejam 𝐺 um grafo de preferências e 𝐺 ′ , 𝐺 ′′ subgrafos estáveis de 𝐺. Então:
+1. Se 𝑀 é um emparelhamento de 𝐺 contido em 𝐺 ′ , então toda aresta 𝑣𝑤 de 𝐺 ausente
+em 𝐺 ′ não bloqueia 𝑀.
+2. Se todo vértice de 𝐺 ′ apresenta grau no máximo 1, então 𝐺 ′ se reduz a um emparelhamento estável de 𝐺, isto é, 𝐸(𝐺 ′ ) é um emparelhamento estável de 𝐺.
+3. Se 𝑉 (𝐺 ′ ) = 𝑉 (𝐺 ′′ ) e, para todo vértice 𝑣 ∈ 𝑉 (𝐺 ′ )(= 𝑉 (𝐺 ′′ )), 𝑓𝐺 ′ (𝑣) = 𝑓𝐺 ′′ (𝑣), então
+𝐺 ′ = 𝐺 ′′ .
+Demonstração.
+estável.
+
+1. Tal fato segue diretamente dos itens 2 e 3 da definição de subgrafo
+
+2. Pelo item anterior, 𝐸(𝐺 ′ ) é um emparelhamento que não é bloqueado por nenhuma
+aresta fora de 𝐸(𝐺 ′ ) e obtemos o requerido.
+3. Suponha que 𝑓𝐺 ′ (𝑣) = 𝑓𝐺 ′′ (𝑣) para todo 𝑣 ∈ 𝑉 (𝐺 ′ ). Fixe um 𝑣 ∈ 𝑉 (𝐺 ′ ) arbitrário e
+considere 𝑢1 ∶= 𝑙𝐺 ′ (𝑣) e 𝑢2 ∶= 𝑙𝐺 ′′ (𝑣). Pelo item 1 da definição de subgrafo estável e
+pela hipótese anterior, 𝑓𝐺 ′′ (𝑢1 ) = 𝑓𝐺 ′ (𝑢1 ) = 𝑣 e, novamente pelo item 1 da definição
+de subgrafo estável, conclui-se que 𝑢1 = 𝑙𝐺 ′′ (𝑣) = 𝑢2 . Assim provamos que 𝑙𝐺 ′ (𝑢) =
+𝑙𝐺 ′′ (𝑢) para todo 𝑢 ∈ 𝑉 (𝐺 ′ ) e, pelo item 2 da definição de subgrafo estável, segue
+imediatamente que 𝐸(𝐺 ′ ) = 𝐸(𝐺 ′′ ) e obtemos o requerido.
+
+3.1.2
+
+Teorema dos hospitais rurais generalizado
+
+Relembre que 𝐺1 é o grafo de preferências obtido após aplicação da etapa 1 em um grafo
+de preferências 𝐺. Assim, pelo item 1 do lema 6, segue imediatamente que todo vértice de
+𝑣 de 𝑉 (𝐺) ⧵ 𝑉 (𝐺1 ) não é estável. Agora, com relação aos vértices de 𝑉 (𝐺1 ), podemos tirar
+alguma conclusão geral que relaciona tal conjunto com os emparelhamentos estáveis de 𝐺
+(caso existam)? A resposta é positiva(!). Segue abaixo uma generalização do Teorema dos
+Hospitais Rurais.
+Teorema 9 (hospitais rurais generalizado). Seja 𝐺 = (𝑉 , 𝐸, 𝐿) um grafo de preferências que
+apresenta emparelhamentos estáveis. Então qualquer vértice de 𝐺1 é coberto por cada um dos
+emparelhamentos estáveis de 𝐺. Além disso, todo vértice de 𝐺 fora de 𝑉 (𝐺1 ) não é estável.
+Demonstração. Seja 𝑣 ∈ 𝑉 (𝐺1 ), então foi observado anteriormente que nesse caso existe
+𝑢 ∈ 𝑉 (𝐺1 ) tal que (𝑢, 𝑣) ∈ 𝑆 ∗ , implicando que 𝑣 = 𝑓𝐺1 (𝑢) (𝐼 ). Seja 𝑀 um emparelhamento
+de 𝐺 tal que 𝑣 não é coberto por 𝑀. Sabemos, pelo item 1 do lema 6, que 𝑀 está contido
+em 𝐸(𝐺1 ) (𝐼 𝐼 ). Assim, ou 𝑢 não é coberto por 𝑀, caso em que claramente 𝑣𝑢 bloqueia 𝑀,
+
+31
+3.1 | ALGORITMO DE IRVING
+
+ou 𝑢 é coberto por 𝑀, donde 𝑀(𝑢) ∈ 𝑉 (𝐺1 ), por (𝐼 𝐼 ), e, por (𝐼 ), 𝑀(𝑢) <𝑢 𝑣, implicando que
+𝑢𝑣 bloqueia 𝑀.
+A segunda afirmação do enunciado segue diretamente do item 1 do lema 6.
+
+3.1.3
+
+Preliminares para a segunda etapa
+
+Antes de descrevermos a segunda etapa propriamente dita, introduziremos um
+conceito que será de imensa utilidade para a discussão que vem a seguir. Seja 𝐺 =
+(𝑉 , 𝐸, 𝐿) um grafo de preferências e 𝐺 ′ um subgrafo estável de 𝐺. Uma sequência
+𝜌 = (𝑥0 , 𝑦0 ), (𝑥1 , 𝑦1 ), ..., (𝑥𝑟−1 , 𝑦𝑟−1 ) tal que 𝑦𝑖 = 𝑓𝐺 ′ (𝑥𝑖 ) e 𝑦(𝑖+1 mod 𝑟) = 𝑠𝐺 ′ (𝑥𝑖 ), para todo
+𝑖 ∈ {0, ..., 𝑟 − 1}, é dita uma rotação exposta em 𝐺 ′ . Definimos 𝑋𝜌 ∶= {𝑥0 , ..., 𝑥𝑟−1 } e
+𝑌𝜌 ∶= {𝑦0 , ..., 𝑦𝑟−1 }. Como de praxe, o subscrito 𝜌 pode ser omitido quando estiver subentendido no contexto. Para evitar carregar a notação, quando estivermos nos referindo a
+um índice de um elemento de 𝑋𝜌 ou 𝑌𝜌 considere que ele está sendo tomado módulo 𝑟.
+Assim, por exemplo, escrevemos 𝑥𝑖+1 e 𝑦𝑖−1 nos lugares de, respectivamente, 𝑥(𝑖+1 mod 𝑟) e
+𝑦(𝑖−1 mod 𝑟) .
+Vale notar a natureza cíclica da rotação, de modo, que diremos que duas rotações são
+iguais se as sequências que as definem são iguais a menos de rotações. Mais precisamente,
+′
+′
+𝛼 = (𝑥0 , 𝑦0 ), (𝑥1 , 𝑦1 ), ..., (𝑥𝑟−1 , 𝑦𝑟−1 ) e 𝛽 = (𝑥0′ , 𝑦0′ ), (𝑥1′ , 𝑦1′ ), ..., (𝑥𝑡−1
+, 𝑦𝑡−1
+) expostas em 𝐺 ′ são
+iguais quando 𝑟 = 𝑡 e existir um 𝑘 ∈ {0, .., 𝑟 − 1} tal que 𝑥𝑖+𝑘 = 𝑥𝑖′ e 𝑦𝑖+𝑘 = 𝑦𝑖′ para
+todo 𝑖 ∈ {0, ..., 𝑟 − 1}. O lema a seguir nos dá uma maneira mais simples de verificar se
+duas rotações são iguais. Note que quando falamos que uma rotação está completamente
+determinada, estamos dizendo que ela está determinada a menos de rotações.
+Lema 8. Se 𝛼 e 𝛽 são rotações distintas expostas em um subgrafo estável 𝐺 ′ de um grafo de
+preferências 𝐺, então 𝑋𝛼 ∩ 𝑋𝛽 = ∅ e 𝑌𝛼 ∩ 𝑌𝛽 = ∅.
+Demonstração. Para provar o enunciado, basta provar que uma rotação 𝜌 está completamente determinada por cada um dos seus 𝑥𝑖 ’s e 𝑦𝑖 ’s. De fato, note que 𝑓𝐺 ′ (𝑥𝑖 ) = 𝑦𝑖 = 𝑠𝐺 ′ (𝑥𝑖−1 )
+e, assim, 𝑥𝑖 = 𝑙𝐺 ′ (𝑠𝐺 ′ (𝑥𝑖−1 )). Assim, dado 𝑥𝑖 para algum 𝑖 e, visto que 𝑦𝑖 = 𝑓𝐺′ (𝑥𝑖 ) para todo
+𝑖, segue que 𝜌 está completamente determinada. Note que 𝑥𝑖 = 𝑙𝐺 ′ (𝑦𝑖 ) para todo 𝑖 e, logo,
+segue que, dado 𝑦𝑖 , 𝜌 está completamente determinada.
+Assim, para verificar que duas rotações 𝛼 e 𝛽 são iguais basta verificar se 𝑋𝛼 e 𝑋𝛽 (ou
+𝑌𝛼 e 𝑌𝛽 ) apresentam algum elemento em comum.
+Encontrar rotações expostas em subgrafos estáveis é de suma importância para a
+segunda etapa do algoritmo de Irving. Nesse sentido, O lema a seguir nos garante a
+existência de rotações expostas em subgrafos estáveis que não se reduzem a um emparelhamento.
+Lema 9. Seja 𝐺 ′ um subgrafo estável de um grafo de preferências 𝐺. Se existe um vértice
+𝑣 ∈ 𝑉 (𝐺 ′ ) tal que 𝑔𝐺 ′ (𝑣) ≥ 2, então existe uma rotação exposta em 𝐺 ′ .
+Demonstração. Suponha que exista um vértice 𝑣 tal que 𝑔𝐺 ′ (𝑣) ≥ 2. Seja 𝑆(𝐺 ′ ) o conjunto
+dos vértices de 𝐺 ′ tal que 𝑔𝐺 ′ (𝑣) ≥ 2. Provemos que, dado 𝑢 ∈ 𝑉 (𝐺), 𝑙𝐺 ′ (𝑠𝐺 ′ (𝑢)) ≠ 𝑢 e
+𝑙𝐺 ′ (𝑠𝐺 ′ (𝑢)) ∈ 𝑆(𝐺 ′ ). De fato, se 𝑙𝐺 ′ (𝑠𝐺 ′ (𝑢)) = 𝑢, teríamos 𝑠𝐺 ′ (𝑢) = 𝑓𝐺 ′ (𝑢), o que é um absurdo.
+
+32
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+Para concluir a veracidade da segunda afirmação, basta notar que se 𝑤 ∈ 𝑉 (𝐺 ′ ) é tal que
+𝑔𝐺 ′ (𝑤) = 1, então seu único vizinho 𝑤 ′ ∈ 𝑉 (𝐺 ′ ) é tal que 𝑤 ′ = 𝑓𝐺 ′ (𝑤) = 𝑙𝐺 ′ (𝑤) e, portanto,
+pela estabilidade de 𝐺 ′ , segue que 𝑤 = 𝑙𝐺 ′ (𝑤 ′ ) = 𝑓𝐺 ′ (𝑤 ′ ), implicando que 𝑔𝐺 ′ (𝑤 ′ ) = 1. Logo,
+dado que 𝑢 ∈ 𝑆(𝐺 ′ ) e que 𝐺 ′ não apresenta vértices isolados, segue que 𝑠𝐺 ′ (𝑢) ∈ 𝑆(𝐺 ′ ), que
+por sua vez, implica 𝑙𝐺 ′ (𝑠𝐺 ′ (𝑢)) ∈ 𝑆(𝐺 ′ ), como não há vértices isolados em 𝐺 ′ , segue que
+𝑙𝐺 ′ (𝑠𝐺 ′ (𝑢)) ∈ 𝑆(𝐺 ′ ), como queríamos demonstrar.
+Assim está bem definido o grafo direcionado 𝐺(𝑆(𝐺 ′ )) definido a seguir. 𝑉 (𝐺(𝑆(𝐺 ′ ))) ∶=
+𝑆(𝐺 ′ ) e para cada 𝑢 ∈ 𝑆(𝐺 ′ ) tem-se um arco de 𝑢 para 𝑙𝐺 ′ (𝑠𝐺 ′ (𝑢)) ∈ 𝑆(𝐺 ′ ). Desta forma,
+cada nó de 𝐺(𝑆(𝐺 ′ )) apresenta grau de saída exatamente 1 e, portanto, existe um circuito
+simples 𝐶 = (𝑥0 , 𝑥1 , ..., 𝑥𝑟−1 , 𝑥0 ).
+Finalmente, resta-nos provar que 𝜌 ∶= (𝑥0 , 𝑓𝐺 ′ (𝑥0 )), (𝑥1 , 𝑓𝐺 ′ (𝑥1 )), ..., (𝑥𝑟−1 , 𝑓𝐺 ′ (𝑥𝑟−1 )) é uma
+rotação exposta em 𝐺 ′ . Tal afirmação segue diretamente do fato que 𝑥𝑖 = 𝑙𝐺 ′ (𝑠𝐺 ′ (𝑥𝑖−1 )) se, e
+somente se, 𝑓𝐺 ′ (𝑥𝑖 ) = 𝑠𝐺 ′ (𝑥𝑖−1 ).
+Note que a demonstração do lema acima nos dá um algoritmo para encontrar uma
+rotação exposta em 𝐺 ′ : Comece com 𝑃 ∶= (𝑢0 ), onde 𝑢0 é um vértice arbitrário de 𝑆(𝐺 ′ ),
+e, enquanto 𝑃 não contiver vértices repetidos, acrescente ao final de 𝑃 o vizinho do até
+então vértice final de 𝑃. Ao final, 𝑃 será da forma 𝑃 = (𝑢0 , 𝑢1 , ..., 𝑢𝑘 , ..., , 𝑢𝑘+𝑟 , 𝑢𝑘 ) e, assim,
+(𝑢𝑘 , ..., 𝑢𝑘+𝑟−1 , 𝑢𝑘 ) será um circuito e 𝜌 = (𝑢𝑘 , 𝑓𝐺 ′ (𝑢𝑘 )), ..., (𝑢𝑘+𝑟−1 , 𝑓𝐺 ′ (𝑢𝑘+𝑟−1 )) é uma rotação
+exposta em 𝐺 ′ .
+Denotamos por 𝐺 ′ ⧵ 𝜌 o subgrafo obtido ao se remover de 𝐺 ′ as arestas do conjunto
+𝑟
+
+𝐸(𝜌) ∶= ⋃ {𝑎𝑦𝑖 ∶ 𝑥𝑖−1 >𝑦𝑖 𝑎}. Dizemos que 𝐺 ′ ⧵ 𝜌 é 𝐺 ′ após a remoção da rotação 𝜌.
+𝑖=1
+
+O lema abaixo nos dá uma caracterização de 𝐺 ′ ⧵ 𝜌 quando a remoção de 𝜌 nos conduz
+a um subgrafo estável de 𝐺 (isto é, quando 𝐺 ′ ⧵ 𝜌 não possui vértices isolados).
+Lema 10. Seja 𝐺 ′ um subgrafo estável de um grafo de preferências 𝐺 e 𝜌 =
+(𝑥0 , 𝑦0 ), ..., (𝑥𝑟−1 , 𝑦𝑟−1 ) uma rotação exposta em 𝐺 ′ . Se 𝐺 ′ ⧵ 𝜌 é tal que não apresenta
+vértices isolados, temos:
+1. 𝑓𝐺 ′ ⧵𝜌 (𝑥𝑖 ) = 𝑦𝑖+1 para todo 𝑖 ∈ {0, ..., 𝑟 − 1}.
+2. 𝑙𝐺 ′ ⧵𝜌 (𝑦𝑖 ) = 𝑥𝑖−1 para todo 𝑖 ∈ {0, ..., 𝑟 − 1}.
+3. Para todo 𝑥 ∈ 𝑉 (𝐺 ′ ) ⧵ 𝑋𝜌 , 𝑓𝐺 ′ ⧵𝜌 (𝑥) = 𝑓𝐺 ′ (𝑥).
+4. Para todo 𝑦 ∈ 𝑉 (𝐺 ′ ) ⧵ 𝑌𝜌 , 𝑙𝐺 ′ ⧵𝜌 (𝑦) = 𝑙𝐺 ′ (𝑦).
+5. 𝐺 ′ ⧵ 𝜌 é um subgrafo estável de 𝐺.
+Demonstração.
+1. Note que a remoção de 𝜌 remove, em particular, as arestas 𝑥𝑖 𝑦𝑖 com
+𝑖 ∈ {0, ..., 𝑟 − 1}. Se para algum 𝑖, 𝑥𝑖 𝑦𝑖+1 fosse removido, seria devido a existência de
+algum 𝑗 tal que 𝑦𝑗 = 𝑥𝑖 e 𝑦𝑖+1 <𝑥𝑖 𝑥𝑗−1 . Nesse caso, como cada vizinho 𝑢 ≠ 𝑦𝑖 de 𝑥𝑖 é tal
+que 𝑢 ≤𝑥𝑖 𝑦𝑖+1 <𝑥𝑖 𝑥𝑗−1 (pois 𝑦𝑖+1 = 𝑠𝐺 ′ (𝑥𝑖 ) e 𝑦𝑖 = 𝑓𝐺 ′ (𝑥𝑖 )), concluiríamos que todos os
+vizinhos de 𝑥𝑖 foram removidos, o que contradiz a hipótese de não haverem vértices
+isolados em 𝐺 ′ ⧵ 𝜌. Assim, segue o requerido.
+
+33
+3.1 | ALGORITMO DE IRVING
+
+2. Como observado no item anterior, ao se remover 𝜌, remove-se as arestas 𝑥𝑖 𝑦𝑖 com
+𝑖 ∈ {0, ..., 𝑟 − 1}. Além disso, pela definição de remoção de rotação, dado 𝑖, todo
+vizinho 𝑢 de 𝑦𝑖 tal que 𝑢 <𝑦𝑖 𝑥𝑖−1 são removidos. Assim, se 𝑥𝑖−1 𝑦𝑖 fosse removido,
+seria devido a existência de algum 𝑗 tal que 𝑦𝑗 = 𝑥𝑖−1 e, por um argumento análogo
+ao do item 1 concluiríamos que 𝑥𝑖−1 é isolado em 𝐺 ′ ⧵ 𝜌, o que é uma contradição.
+Assim, segue o enunciado.
+3. Seja 𝑥 ∈ 𝑉 (𝐺 ′ ) tal que 𝑥 ∉ 𝑋𝜌 . Logo, 𝑓𝐺 ′ (𝑥) ∉ 𝑌𝜌 . Além disso, para que 𝑥𝑓𝐺 ′ (𝑥) fosse
+removido, deveríamos ter um 𝑗 tal que 𝑦𝑗 = 𝑥 e 𝑓𝐺 ′ (𝑥) <𝑥 𝑥𝑗−1 o que contradiria a
+definição de 𝑓𝐺 ′ (𝑥).
+4. Seja 𝑦 ∈ 𝑉 (𝐺 ′ ) tal que 𝑦 ∉ 𝑌𝜌 . Logo, 𝑙𝐺 ′ (𝑦) ∉ 𝑋𝜌 . Assim, fazendo 𝑥 ∶= 𝑙𝐺 ′ (𝑦) ∉ 𝑋𝜌 ,
+temos que 𝑦 = 𝑓𝐺 ′ (𝑥) ∉ 𝑌𝜌 e, pelo item anterior, 𝑥𝑓𝐺 ′ (𝑥) = 𝑦𝑙𝐺 ′ (𝑦) não é removido de
+de 𝐺 ′ .
+5. Note que, como 𝑉 (𝐺 ′ ⧵𝜌) = 𝑉 (𝐺 ′ ) e 𝐺 ′ é estável, 𝐺 ′ ⧵𝜌 satisfaz trivialmente a condição
+3 da definição de subgrafo estável. Além disso, como 𝐺 ′ ⧵ 𝜌 não apresenta vértices
+isolados, a condição 4 é automaticamente satisfeita. A condição 1 segue dos itens
+anteriores.
+Resta-nos provar que a condição 2 de subgrafo estável é satisfeita por 𝐺 ⧵ 𝜌. Para
+isso, tomemos uma aresta 𝑥𝑦 ∈ 𝐸(𝐺) tal que 𝑥, 𝑦 ∈ 𝑉 (𝐺 ′ ⧵ 𝜌) = 𝑉 (𝐺 ′ ). Se 𝑥𝑦 ∉ 𝐸(𝐺 ′ ),
+então o resultado segue imediatamente do fato que 𝑙𝐺 ′ ⧵𝜌 (𝑣) ≤𝑣 𝑙𝐺 ′ (𝑣) (já que 𝐺 ′ ⧵ 𝜌
+é obtido de 𝐺 ′ removendo-se arestas). Suponha então que 𝑥𝑦 ∈ 𝐸(𝐺 ′ ). Assim, 𝑥𝑦
+é removido de 𝐺 ′ se, e somente se, 𝑥 = 𝑦𝑗 e 𝑦 <𝑥 𝑥𝑗−1 = 𝑙𝐺 ′ ⧵𝜌 (𝑥) para algum 𝑗 (𝐼 ) ou
+𝑦 = 𝑦𝑖 e 𝑥 <𝑦 𝑥𝑖−1 = 𝑙𝐺 ′ ⧵𝜌 (𝑦) para algum 𝑖 (𝐼 𝐼 ). Isso prova o requerido.
+
+Os lemas expostos a seguir são de fundamental importância para prova da corretude
+da etapa 2.
+Lema 11. Seja 𝐺 ′ um subgrafo estável de um grafo de preferências 𝐺 e 𝜌 uma rotação
+exposta em 𝐺 ′ . Se 𝑀 é um emparelhamento estável de 𝐺 contido em 𝐺 ′ e existe 𝑥 ∈ 𝑋𝜌 tal
+que 𝑀(𝑥) ≠ 𝑓𝐺 ′ (𝑥), então 𝑀 está contido em 𝐺 ′ ⧵ 𝜌.
+Demonstração. Suponha que exista um 𝑀 definido conforme o enunciado e suponha que
+𝜌 ∶= (𝑥0 , 𝑦0 ), ..., (𝑥𝑟−1 , 𝑦𝑟−1 ). Pelo caráter cíclico de uma rotação, podemos supor, sem perda
+de generalidade, que 𝑀(𝑥0 ) ≠ 𝑓𝐺 ′ (𝑥0 ). Então, temos dois casos, a saber: 𝑀(𝑥0 ) = 𝑠𝐺 ′ (𝑥0 )
+(𝐼 ) ou 𝑀(𝑥0 ) <𝑥0 𝑠𝐺 ′ (𝑥0 ) = 𝑓𝐺 ′ (𝑥1 ) = 𝑦1 (𝐼 𝐼 ). Se (𝐼 ), temos que 𝑀(𝑥0 ) = 𝑦1 e, como 𝑀 é um
+emparelhamento, devemos ter 𝑀(𝑥1 ) ≠ 𝑀(𝑥0 ) = 𝑦1 = 𝑓𝐺 ′ (𝑥1 ). Se (𝐼 𝐼 ), dado que 𝑥0 𝑦1 não
+bloqueia 𝑀 (pois 𝑀 é estável), devemos ter 𝑥0 <𝑦1 𝑀(𝑦1 ) e, visto que 𝑥1 = 𝑙𝐺 ′ (𝑦1 ) <𝑦1 𝑥0 ,
+segue que 𝑥1 ≠ 𝑀(𝑦1 ), isto é, 𝑀(𝑥1 ) ≠ 𝑦1 = 𝑓𝐺 ′ (𝑥1 ). Por indução, é possível provar que
+𝑀(𝑥𝑖 ) ≠ 𝑓𝐺 ′ (𝑥𝑖 ) para todo 𝑖 ∈ {0, ..., 𝑟 − 1}.
+Agora, suponha, por absurdo, que algum 𝑥𝑀(𝑥) ∈ 𝐸(𝐺 ′ ) é removido ao se remover 𝜌
+de 𝐺 ′ . Pela definição de remoção de rotação, para que isso tenha ocorrido, existe algum
+𝑗 tal que 𝑥 = 𝑦𝑗 e 𝑀(𝑥) <𝑥 𝑥𝑗−1 (𝐼 ) ou algum 𝑗 tal que 𝑀(𝑥) = 𝑦𝑗 e 𝑥 <𝑀(𝑥) 𝑥𝑗−1 (𝐼 𝐼 ). No
+caso (𝐼 ), pela estabilidade de 𝑀, obtemos que 𝑠𝐺 ′ (𝑥𝑗−1 ) = 𝑦𝑗 = 𝑥 <𝑥𝑗−1 𝑀(𝑥𝑗−1 ), donde vem
+que 𝑀(𝑥𝑗−1 ) = 𝑓𝐺 ′ (𝑥𝑗−1 ), o que contradiz a conclusão do parágrafo anterior. Supondo (𝐼 𝐼 ),
+
+34
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+de modo inteiramente análogo ao caso anterior, chegamos a uma contradição. Portanto,
+nenhuma aresta de 𝑀 é removida ao se remover 𝜌 de 𝐺 ′ e, portanto, 𝑀 está contido em
+𝐺 ′ ⧵ 𝜌.
+Lema 12. Seja 𝐺 ′ um subgrafo estável de um grafo de preferências 𝐺 e 𝜌 uma rotação
+exposta em 𝐺 ′ . Se 𝐺 ′ contém algum emparelhamento estável de 𝐺, então 𝐺 ′ ⧵ 𝜌 contém algum
+emparelhamento estável de 𝐺.
+Demonstração. Suponha que 𝐺 ′ contenha algum emparelhamento estável e seja 𝑀 um
+emparelhamento estável de 𝐺 contido em 𝐺 ′ . Inicialmente, veja que, como 𝑀 é um emparelhamento estável contido em 𝐺 ′ , pelo Teorema 9, 𝑉 (𝑀) = 𝑉 (𝐺1 ). Por outro lado, pelo item
+4 do lema 7, 𝑉 (𝐺 ′ ) ⊂ 𝑉 (𝐺1 ) = 𝑉 (𝑀) ⊂ 𝑉 (𝐺 ′ ), donde 𝑉 (𝐺 ′ ) = 𝑉 (𝑀) = 𝑉 (𝐺1 ). Considere que
+𝜌 ∶= (𝑥0 , 𝑦0 ), ..., (𝑥𝑟−1 , 𝑦𝑟−1 ). Se 𝑀(𝑥𝑖 ) ≠ 𝑓𝐺 ′ (𝑥𝑖 ) para algum 𝑖, então, pelo lema anterior, 𝑀
+está contido em 𝐺 ′ ⧵ 𝜌 e obtemos o requerido. Suponha então que 𝑀(𝑥𝑖 ) = 𝑓𝐺 ′ (𝑥𝑖 ) = 𝑦𝑖 para
+todo 𝑖. Então, pelo lema 9, segue que 𝑥𝑖 𝑦𝑖 ∉ 𝐺 ′ ⧵ 𝜌 para todo 𝑖. Note que 𝑥𝑀(𝑥) ∈ 𝐸(𝐺 ′ ) só
+é removido quando 𝑥𝑀(𝑥) = 𝑥𝑖 𝑦𝑖 para algum 𝑖 (𝐼 ). De fato, para que 𝑥𝑀(𝑥) ∈ 𝐸(𝐺 ′ ) fosse
+removido, deveria existir 𝑗 tal que 𝑥 = 𝑦𝑗 (implicando que 𝑀(𝑥) = 𝑀(𝑦𝑗 ) = 𝑥𝑗 ) ou existir 𝑗
+tal que 𝑀(𝑥) = 𝑦𝑗 (implicando que 𝑥𝑗 = 𝑀(𝑦𝑗 ) = 𝑥).
+Assim, considere 𝑀 ′ ∶= (𝑀 ⧵ {𝑥𝑖 𝑦𝑖 ∶ 𝑖 ∈ {0, ..., 𝑟 − 1}}) ∪ {𝑥𝑖 𝑦𝑖+1 ∶ 𝑖 ∈ {0, ..., 𝑟 − 1}. Note
+que se 𝑥𝑖 𝑦𝑖+1 ∉ 𝐺 ′ ⧵ 𝜌 para algum 𝑖, existiria 𝑗 tal que 𝑥𝑖 = 𝑦𝑗 = 𝑓𝐺 ′ (𝑥𝑗 ) e 𝑦𝑖+1 <𝑥𝑖 𝑥𝑗−1 , donde
+𝑓𝐺 ′ (𝑥𝑖 ) = 𝑦𝑖 = 𝑀(𝑥𝑖 ) = 𝑀(𝑦𝑗 ) = 𝑥𝑗 = 𝑙𝐺 ′ (𝑥𝑖 ), implicando que o grau de 𝑥𝑖 é 1 em 𝐺 ′ , o que é
+um absurdo. Logo, 𝑀 ′ está contido em 𝐺 ⧵ 𝜌.
+Provemos agora que 𝑀 ′ se trata de um emparelhamento. Note que 𝑀 ⧵ {𝑥𝑖 𝑦𝑖 ∶ 𝑖 ∈
+{0, ..., 𝑟 − 1}} não pode cobrir nenhum vértice de 𝑋𝜌 ou 𝑌𝜌 (caso contrário, 𝑀 não seria um
+emparelhamento) e, portanto, se 𝑅 ∶= {𝑥𝑖 𝑦𝑖+1 ∶ 𝑖 ∈ {0, ..., 𝑟 − 1}} é um emparelhamento,
+𝑀 ′ também o é. Suponha, por absurdo, que 𝑥𝑖 𝑦𝑖+1 e 𝑥𝑗 𝑦𝑗+1 , onde 𝑖 é distinto de 𝑗 módulo
+𝑟, possuem algum extremo em comum. Nesse caso, temos as seguintes possibilidades:
+𝑥𝑖 = 𝑥𝑗 (implicaria que 𝑀 não é emparelhamento); 𝑦𝑖+1 = 𝑦𝑗+1 (idem); 𝑥𝑖 = 𝑦𝑗+1 (𝑥𝑖 𝑦𝑖 e 𝑥𝑗+1 𝑦𝑗+1
+teriam algum extremo em comum, donde 𝑗 + 1 = 𝑖 (módulo 𝑟)e 𝑥𝑖 = 𝑦𝑖 = 𝑀(𝑥𝑖 ), o que é um
+absurdo); 𝑥𝑗+1 = 𝑦𝑖 (de modo análogo ao caso anterior, chegaríamos a uma contradição).
+Assim, 𝑀 ′ é um emparelhamento. Note que 𝑉 (𝑀 ′ ) = 𝑉 (𝑀) = 𝑉 (𝐺 ′ ).
+Resta-nos provar que 𝑀 ′ é estável. De fato, como 𝑉 (𝑀 ′ ) = 𝑉 (𝐺 ′ ) = 𝑉 (𝐺 ′ ⧵ 𝜌), temos,
+em particular, que 𝐺 ⧵ 𝜌 não contém vértices isolados e, portanto, é estável (item 5 do lema
+10). Assim, pelo item 1 do lema 7, nenhuma aresta fora de 𝐸(𝐺 ⧵ 𝜌) bloqueia 𝑀 ′ . Tome
+então uma aresta arbitrária 𝑢𝑣 ∈ 𝐸(𝐺 ′ ⧵ 𝜌) e suponha, por absurdo, que 𝑢𝑣 bloqueia 𝑀 ′ .
+Como 𝑦𝑖+1 = 𝑓𝐺 ′ ⧵𝜌 (𝑥𝑖 ) para todo 𝑖, segue que 𝑥𝑖 não pode ser extremo de uma aresta de 𝐺 ′
+que bloqueia 𝑀 ′ e, logo, 𝑢, 𝑣 ∉ 𝑋𝜌 . Temos 3 casos a considerar:
+• (ambos os extremos de 𝑢𝑣 não pertencem a 𝑌𝜌 ): uma vez que 𝑀(𝑢) = 𝑀 ′ (𝑢) e
+𝑀(𝑣) = 𝑀 ′ (𝑣), isso implicaria que 𝑢𝑣 bloqueia 𝑀, o que contradiz a estabilidade de
+𝑀.
+• (um dos extremos é elemento de 𝑌𝜌 e o outro não): Nesse caso, podemos supor,
+sem perda de generalidade, que 𝑢 = 𝑦𝑗 para algum 𝑗 e 𝑣 ∉ 𝑌𝜌 . Assim, teríamos que
+𝑢 >𝑣 𝑀 ′ (𝑣) = 𝑀(𝑣) e 𝑣 >𝑢 𝑀 ′ (𝑢) = 𝑥𝑗−1 >𝑢 𝑙𝐺 ′ (𝑦𝑗 ) = 𝑥𝑗 = 𝑀(𝑢), implicando que 𝑢𝑣
+bloqueia 𝑀, o que é uma contradição.
+
+35
+3.1 | ALGORITMO DE IRVING
+
+• (ambos os extremos pertencem a 𝑌𝜌 ): Nesse caso, 𝑢 = 𝑦𝑗 e 𝑣 = 𝑦𝑖 para 𝑖, 𝑗 distintos
+módulo 𝑟 e assim, 𝑦𝑖 >𝑢 𝑀 ′ (𝑦𝑗 ) = 𝑥𝑗−1 >𝑢 𝑙𝐺 ′ (𝑦𝑗 ) = 𝑥𝑗 e 𝑦𝑗 >𝑣 𝑀 ′ (𝑦𝑖 ) = 𝑥𝑖−1 >𝑣 𝑥𝑖 ,
+implicando que 𝑢𝑣 bloqueia 𝑀, o que é uma contradição.
+
+3.1.4
+
+Segunda etapa
+
+Com os resultados anteriores, estamos em plenas condições de provar a corretude da
+segunda etapa, descrita a seguir. Se 𝐺 ′ ∶= 𝐺1 se encontra em alguns dos casos degenerados
+discutidos anteriormente, ou devolvemos 𝐸(𝐺 ′ ) (no caso em que cada vértice de 𝐺 ′ tem grau
+exatamente 1) ou acusamos que 𝐺 ′ apresenta emparelhamento estáveis. Caso contrário, 𝐺 ′
+é estável e possui algum vértice de grau 2. Assim, pelo lema 9, existe uma rotação exposta
+em 𝐺 ′ e, como observado anteriormente, a prova do lema 9 nos dá um algoritmo para uma
+encontrar uma tal rotação 𝜌. O algoritmo prossegue removendo rotações de 𝐺 ′ até que
+nos deparamos com um dos casos abaixo:
+• (Todos os vértices de 𝐺 ′ grau exatamente 1): Nesse caso, o algoritmo se encerra
+devolvendo 𝐸(𝐺 ′ ).
+• (𝐺 ′ apresenta algum vértice isolado): Nesse caso, o algoritmo se encerra acusando
+que 𝐺 não apresenta emparelhamentos estáveis.
+Algoritmo 4: Segunda etapa do algoritmo de Irving.
+Entrada: Um grafo de preferências 𝐺 = (𝑉 , 𝐸, 𝐿) e 𝐺1
+Saída: Um emparelhamento estável de 𝐺 ou ∅ indicando que 𝐺 não possui emparelhamentos estáveis
+1 início
+2
+se existe 𝑣, 𝑤 ∉ 𝑉 (𝐺1 ) tais que 𝑣𝑤 ∈ 𝐸(𝐺) então
+3
+retorna ∅
+4
+5
+
+se para todo 𝑣 ∈ 𝑉 (𝐺1 ), 𝑔𝐺1 (𝑣) = 1 então
+retorna 𝐸(𝐺1 )
+
+12
+
+Faça 𝐺 ′ ∶= 𝐺1
+repita
+Tome uma rotação 𝜌 exposta em 𝐺 ′
+𝐺 ′ ∶= 𝐺 ′ ⧵ 𝜌
+até existe algum vértice isolado em 𝐺 ′ ou 𝑔𝐺 ′ (𝑣) ≤ 1 para todo 𝑣 ∈ 𝑉 (𝐺 ′ )
+se existe vértice isolado em 𝐺 ′ então
+retorna ∅
+
+13
+
+retorna 𝐸(𝐺 ′ )
+
+6
+7
+8
+9
+10
+11
+
+A fim de verificar a corretude da segunda etapa, observe que o laço da linha 7 possui a
+seguinte invariante: 𝐺 ′ é um subgrafo de 𝐺 obtido após a remoção de uma rotação exposta
+de um subgrafo estável (𝐼 ). De fato, imediatamente após a primeira iteração do laço, 𝐺 ′ é o
+grafo obtido após a remoção de uma rotação exposta em 𝐺1 (Vale observar que, como 𝐺1
+não se encontra em nenhum caso degenerado, 𝐺1 é estável e apresenta algum vértice de
+
+36
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+grau maior ou igual a 2) e temos a veracidade de (𝐼 ). Suponha agora que (𝐼 ) e a condição do
+laço são verdadeiras logo após a 𝑗-ésima iteração, para um 𝑗 arbitrário. Provemos que (𝐼 )
+será verdadeira imediatamente após a (𝑗 + 1)-ésima iteração do laço. De fato, imediatamente
+antes da linha 8 da (𝑗 + 1)-ésima, por (𝐼 ) e pela veracidade da condição do laço, segue que
+𝐺 ′ é um subgrafo estável de 𝐺 e o lema 10 nos garante a existência de uma rotação exposta
+em 𝐺 ′ , portanto o 𝜌 da linha 8 está bem definido. Assim, a linha 9 prossegue removendo 𝜌,
+donde segue a veracidade de (𝐼 ) logo após a (𝑗 + 1)-ésima iteração. Demonstramos então
+que (𝐼 ) se trata de uma invariante de laço.
+Vale notar que em algum momento a condição do laço da linha 7 será verdadeira, já
+que, ao se remover uma rotação exposta, removemos uma quantidade positiva de arestas,
+de modo que há um decréscimo do grau de alguns vértices.
+Assim, logo antes da linha 11, vale a invariante (𝐼 ) e a condição do laço da linha 7. Se
+algum 𝑣 ∈ 𝑉 (𝐺 ′ ) = 𝑉 (𝐺1 ) é isolado, pelo Teorema dos Hospitais Rurais Generalizado, 𝐺 ′
+não apresenta emparelhamentos estáveis (com respeito a 𝐺). Portanto, usando a contrapositiva do lema 12, segue que 𝐺 não apresenta emparelhamentos estáveis e a linha 12 está
+justificada.
+No caso em que a condição da linha 11 é falsa, segue que 𝐸(𝐺 ′ ) é um emparelhamento,
+o qual é estável pois 𝐺 ′ é subgrafo estável de 𝐺 ((𝐼 ) e item 1 do lema 7). Assim, na linha 13,
+o algoritmo devolve um emparelhamento estável.
+
+3.1.5
+
+Exemplo de execução do algoritmo de Irving
+
+Vamos descrever a execução do algoritmo para o grafo de preferências 𝐺 representado
+na figura abaixo. Escrevemos 𝑥 → 𝑦 para indicar que o vértice 𝑥 fez um pedido para o
+vértice 𝑦.
+𝑣2
+
+𝑣1
+
+𝑣3
+
+𝑣6
+
+𝑣4
+
+𝑣1
+𝑣2
+𝑣3
+𝑣4
+𝑣5
+𝑣6
+
+∶
+∶
+∶
+∶
+∶
+∶
+
+𝑣6 𝑣3 𝑣4 𝑣5 𝑣2
+𝑣4 𝑣1 𝑣3 𝑣6 𝑣5
+𝑣4 𝑣5 𝑣6 𝑣2 𝑣1
+𝑣5 𝑣3 𝑣6 𝑣2 𝑣1
+𝑣6 𝑣1 𝑣3 𝑣2 𝑣4
+𝑣4 𝑣2 𝑣5 𝑣1 𝑣3
+
+𝑣5
+Figura 3.3
+
+Etapa 1
+Uma possível execução do algoritmo é a seguinte.
+• 𝑣1 → 𝑣6 . A aresta 𝑣3 𝑣6 é removida. 𝑆 = {(𝑣1 , 𝑣6 )} e 𝐹 = 𝑉 ⧵ {𝑣1 }.
+
+37
+3.1 | ALGORITMO DE IRVING
+
+• 𝑣2 → 𝑣4 . A aresta 𝑣1 𝑣4 é removida. 𝑆 = {(𝑣1 , 𝑣6 ), (𝑣2 , 𝑣4 )} e 𝐹 = 𝑉 ⧵ {𝑣1 , 𝑣2 }.
+• 𝑣3 → 𝑣4 . As arestas 𝑣2 𝑣4 e 𝑣6 𝑣4 são removidas. 𝑆 = {𝑣1 , 𝑣6 ), (𝑣3 , 𝑣4 )} e 𝐹 = 𝑉 ⧵{𝑣1 , 𝑣3 }.
+Note que 𝑣2 voltou a ser um vértice livre.
+• 𝑣2 → 𝑣1 . Nenhuma aresta é removida. 𝑆 = {(𝑣1 , 𝑣6 ), (𝑣3 , 𝑣4 ), (𝑣2 , 𝑣1 } e 𝐹 =
+{𝑣4 , 𝑣5 , 𝑣6 }.
+• 𝑣4 → 𝑣5 . Nenhuma aresta é removida. 𝑆 = {𝑣1 , 𝑣6 ), (𝑣3 , 𝑣4 ), (𝑣2 , 𝑣1 ), (𝑣4 , 𝑣5 )} e 𝐹 =
+{𝑣5 , 𝑣6 }.
+• 𝑣5 → 𝑣6 . A aresta 𝑣1 𝑣6 é removida. 𝑆 = {𝑣1 , 𝑣6 ), (𝑣3 , 𝑣4 ), (𝑣2 , 𝑣1 ), (𝑣4 , 𝑣5 ), (𝑣5 , 𝑣6 )} e
+𝐹 = {𝑣6 }.
+• 𝑣6 → 𝑣2 . A aresta 𝑣5 𝑣2 é removida. 𝑆 = {𝑣1 , 𝑣6 ), (𝑣3 , 𝑣4 ), (𝑣2 , 𝑣1 ), (𝑣4 , 𝑣5 ), (𝑣5 , 𝑣6 )} e
+𝐹 = ∅.
+• Como 𝐹 = ∅, o loop principal se encerra devolvendo 𝐺1 (representado na figura
+abaixo).
+
+𝑣2
+
+𝑣1
+
+𝑣3
+
+𝑣6
+
+𝑣4
+
+𝑣1
+𝑣2
+𝑣3
+𝑣4
+𝑣5
+𝑣6
+
+∶
+∶
+∶
+∶
+∶
+∶
+
+𝑣3 𝑣5 𝑣2
+𝑣1 𝑣3 𝑣6
+𝑣4 𝑣5 𝑣2 𝑣1
+𝑣5 𝑣3
+𝑣6 𝑣1 𝑣3 𝑣4
+𝑣2 𝑣5
+
+𝑣5
+Figura 3.4
+
+Etapa 2
+Primeiramente, note que 𝐺1 não está em nenhum caso degenerado. Agora, o algoritmo
+prossegue buscando uma rotação que será, em seguida, removida. Aplicando o algoritmo
+para encontrar rotações (demonstração do lema 9) para cada vértice, é possível verificar
+que a única rotação exposta no momento é 𝜌1 = (𝑣1 , 𝑣5 ), (𝑣4 , 𝑣3 ). Ao remover esta rotação,
+são removidas as arestas 𝑣3 𝑣1 , 𝑣3 𝑣2 , 𝑣3 𝑣5 e 𝑣5 𝑣4 . Abaixo temos representado o grafo de
+preferências que resulta dessa operação.
+
+38
+3 | EMPARELHAMENTOS ESTÁVEIS EM GRAFOS QUAISQUER
+
+𝑣2
+
+𝑣1
+
+𝑣3
+
+𝑣6
+
+𝑣4
+
+𝑣1
+𝑣2
+𝑣3
+𝑣4
+𝑣5
+𝑣6
+
+∶
+∶
+∶
+∶
+∶
+∶
+
+𝑣5 𝑣2
+𝑣1 𝑣6
+𝑣4
+𝑣3
+𝑣6 𝑣1
+𝑣2 𝑣5
+
+𝑣5
+Figura 3.5
+
+Note que nenhum vértice se tornou isolado. Assim, o algoritmo prossegue buscando
+outra rotação exposta. Desta vez, temos duas rotações expostas: 𝜌2 = (𝑣2 , 𝑣6 ), (𝑣5 , 𝑣1 )
+e 𝜌3 = (𝑣1 , 𝑣2 ), (𝑣6 , 𝑣5 ). O emparelhamento estável devolvido pelo algoritmo depende
+da escolha da rotação a ser removida. As figuras 3.6 e 3.7 correspondem aos grafos de
+preferências resultantes ao se remover 𝜌2 e 𝜌3 , respectivamente. Em ambos os casos, o
+grafo de preferências obtido corresponde a um emparelhamento estável.
+
+𝑣2
+
+𝑣1
+
+𝑣3
+
+𝑣6
+
+𝑣4
+
+𝑣1
+𝑣2
+𝑣3
+𝑣4
+𝑣5
+𝑣6
+
+∶
+∶
+∶
+∶
+∶
+∶
+
+𝑣5
+𝑣6
+𝑣4
+𝑣3
+𝑣6
+𝑣2
+
+𝑣5
+Figura 3.6: Grafo de preferências resultante da remoção de 𝜌2 = (𝑣2 , 𝑣6 ), (𝑣5 , 𝑣1 ) do grafo da figura
+3.5.
+
+39
+3.1 | ALGORITMO DE IRVING
+
+𝑣2
+
+𝑣1
+
+𝑣3
+
+𝑣6
+
+𝑣4
+
+𝑣1
+𝑣2
+𝑣3
+𝑣4
+𝑣5
+𝑣6
+
+∶
+∶
+∶
+∶
+∶
+∶
+
+𝑣2
+𝑣1
+𝑣4
+𝑣3
+𝑣6
+𝑣5
+
+𝑣5
+Figura 3.7: Grafo de preferências resultante da remoção de 𝜌3 = (𝑣1 , 𝑣2 ), (𝑣6 , 𝑣5 ) do grafo da figura
+3.5.
+
+41
+
+Capítulo 4
+Conclusão
+O presente estudo teórico nos permitiu aplicar os conceitos de Algoritmos e Teoria
+dos Grafos normalmente encontrados em um currículo de uma graduação em Ciência da
+Computação. Vale notar que, a partir de conceitos elementares, como o de emparelhamento
+estável e de grafos de preferências, foi possível fazer uma análise profunda e rigorosa de
+dois algoritmos: o algoritmo de Gale-Shapley e o algoritmo de Irving. Sendo o primeiro,
+mais simples, mas não menos relevante, e, o segundo, mais sofisticado.
+Além disso, usando conceitos abstratos de Teoria da Ordem, conseguimos concluir
+a existência do emparelhamento 𝐴-ótimo por meio de um raciocínio puramente nãoconstrutivo. Isso evidencia que o estudo de áreas puramente abstratas, como Álgebra
+Abstrata, não deve ser negligenciado até mesmo no estudo de uma área com um teor mais
+construtivo, como a de Algoritmos.
+A investigação aqui presente em nenhum momento teve a intenção de ser exaustiva
+e nem teria como ser. Ao leitor interessado em se aprofundar nos temas aqui discutidos,
+sugere-se a leitura de [5] e de [3]. Para o leitor interessado em expandir o seu conhecimento
+na área de pesquisa de emparelhamentos estáveis, vale mencionar um tema que tem forte
+relação com o conteúdo deste material e vem sendo alvo de muitos estudos ultimamente:
+o dos emparelhamentos populares ([8], [6]).
+
+43
+
+Referências
+[1] A. Bondy e U.S.R. Murty. Graph Theory. Graduate Texts in Mathematics. Springer
+London, 2011. isbn: 9781846289699 (citado na pg. 2).
+[2] B.A. Davey, H.A. Priestley e H.A.P. Priestley. Introduction to Lattices and Order. Cambridge mathematical textbooks. Cambridge University Press, 2002. isbn:
+9780521784511. url: https://books.google.com.br/books?id=vVVTxeuiyvQC.
+[3] M. David. Algorithmics Of Matching Under Preferences. Series On Theoretical Computer Science. World Scientific Publishing Company, 2013. isbn: 9789814425261
+(citado na pg. 41).
+[4] D. Gale e L. S. Shapley. “College Admissions and the Stability of Marriage”. Em:
+The American Mathematical Monthly 69.1 (1962), pgs. 9–15. doi: 10.1080/00029890.
+1962.11989827 (citado nas pgs. 1, 6).
+[5] Dan Gusfield e Robert W. Irving. The Stable Marriage Problem: Structure and
+Algorithms. Cambridge, MA, USA: MIT Press, 1989. isbn: 0-262-07118-5 (citado nas
+pgs. 1, 10, 25, 41).
+[6] Chien-Chung Huang e Telikepalli Kavitha. “Popular Matchings in the Stable
+Marriage Problem”. Em: Automata, Languages and Programming. Ed. por Luca Aceto,
+Monika Henzinger e Jiří Sgall. Berlin, Heidelberg: Springer Berlin Heidelberg,
+2011, pgs. 666–677. isbn: 978-3-642-22006-7 (citado na pg. 41).
+[7] D.E. Knuth. Stable Marriage and Its Relation to Other Combinatorial Problems: An
+Introduction to the Mathematical Analysis of Algorithms. CRM proceedings & lecture
+notes. American Mathematical Soc. isbn: 9780821870129 (citado na pg. 25).
+[8] Krishnapriya A M, Meghana Nasre, Prajakta Nimbhorkar e Amit Rawat. How
+good are Popular Matchings? 2018. arXiv: 1805.01311 [cs.GT] (citado na pg. 41).
+[9] Sara Robinson. “Are medical students meeting their (best possible) match”. Em:
+SIAM News 36.3 (2003), pgs. 8–9 (citado na pg. 18).
+[10] Szestopalow, Michael Jay. Properties of Stable Matchings. 2010.
+
+

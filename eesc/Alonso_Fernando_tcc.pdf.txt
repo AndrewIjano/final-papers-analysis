@@ -1,0 +1,3616 @@
+UNIVERSIDADE DE SÃO PAULO
+ESCOLA DE ENGENHARIA DE SÃO CARLOS
+
+FERNANDO DEXTRO ALONSO
+
+Proposição de medidas para adequação da gestão dos resíduos domiciliares,
+de limpeza urbana, da construção civil e de serviços de saúde à Política
+Nacional de Resíduos Sólidos no município de Aguaí (SP)
+
+São Carlos
+2018
+
+FERNANDO DEXTRO ALONSO
+
+Proposição de medidas para adequação da gestão dos resíduos domiciliares,
+de limpeza urbana, da construção civil e de serviços de saúde à Política
+Nacional de Resíduos Sólidos no município de Aguaí (SP)
+
+Trabalho de Graduação apresentado ao Curso
+de Engenharia Ambiental da Escola de
+Engenharia de São Carlos da Universidade de
+São Paulo, como parte dos requisitos para
+obtenção do título de Engenheiro Ambiental.
+Orientador: Prof. Dr. Valdir Schalch
+
+VERSÃO CORRIGIDA
+
+São Carlos
+2018
+
+RESUMO
+ALONSO, F. D. Proposição de medidas para adequação da gestão dos resíduos
+domiciliares, de limpeza urbana, da construção civil e de serviços de saúde à Política
+Nacional de Resíduos Sólidos no município de Aguaí (SP). 2018. 108 f. Monografia
+(Trabalho de Graduação) - Escola de Engenharia de São Carlos, Universidade de São Paulo,
+São Carlos, 2018.
+A gestão dos resíduos sólidos por parte das prefeituras municipais se tornou um problema no
+Brasil, devido à alta geração, periculosidade dos resíduos e a falta de investimentos para
+realizar um planejamento e colocá-lo em prática. Sendo assim, esse trabalho tem como
+objetivo principal propor medidas para adequar a gestão dos resíduos estudados ao proposto
+pela Política Nacional de Resíduos Sólidos no município de Aguaí (SP). Na primeira parte da
+pesquisa, foi feito o diagnóstico, por meio de estratégias de gestão dos resíduos e da
+elaboração e aplicação de questionários, da atual gestão dos resíduos domiciliares, de limpeza
+urbana, da construção civil e de serviços de saúde. Em seguida, foram propostas diversas
+ações em determinados prazos e períodos para serem executadas, afim de atingir objetivos e
+metas estabelecidas. Nessa etapa foram utilizados como base os Planos Municipais de Gestão
+Integrada de Resíduos Sólidos de Porto Ferreira (SP) e de Rio Brilhante (MS). No diagnóstico
+foi constatado a má gestão por parte da Prefeitura de Aguaí, já que a disposição final dos
+resíduos é inadequada, não há programas de educação ambiental e de incentivo a não geração,
+redução, reutilização e reciclagem e também a cidade não tem Plano Municipal de Gestão
+Integrada de Resíduos Sólidos. Além disso, não há registro sobre os custos das operações e da
+quantidade gerada de cada resíduo estudado. Já na etapa de proposição de medidas para
+adequação da gestão dos resíduos à PNRS foram propostas ações viáveis para se aplicar em
+prazos de até 20 anos, sendo ações para promover a educação ambiental, a coleta seletiva,
+para reduzir a quantidade de resíduos orgânicos enviados a disposição final. Além de ações
+para reduzir os pontos de disposição final irregulares, de resíduos da construção civil, e para
+melhorar a gestão dos resíduos de serviços de saúde. Portanto, pode-se analisar que a gestão
+desses resíduos estudados não está de acordo com a Política Nacional de Resíduos Sólidos em
+Aguaí, pelos motivos citados, e que diversas ações tiveram que ser propostas para adequar a
+gestão aos princípios da lei.
+Palavras-chave: Resíduos domiciliares. Resíduos de limpeza urbana. Resíduos da construção
+civil. Resíduos de serviços de saúde. Política Nacional de Resíduos Sólidos. Gestão.
+
+ABSTRACT
+
+ALONSO, F. D. Proposition of measures to adapt the management of household waste,
+urban cleaning, construction and health services to the National Solid Waste Policy in
+the city of Aguaí (SP). 2018. 108 f. Monography (Bachelor Final Thesis). São Carlos School
+of Engineering, st University of São Paulo, São Carlos, 2018.
+The management of solid waste by city hall has become a problem in Brazil, due to the high
+generation, dangerousness of waste and the lack of investments to carry out planning and put
+it into practice. Therefore, this work has as main objective to propose measures to adapt the
+waste management studied to that proposed by the National Solid Waste Policy in the city of
+Aguaí (SP). In the first part of the research, it was made the diagnosis, through strategies of
+waste management and the elaboration and application of questionnaires, of the current
+management of household waste, urban cleaning, construction and health services.
+Subsequently, several actions were proposed in certain deadlines and periods to be executed,
+in order to achieve established goals and targets. At this stage, the Municipal Plans of
+Integrated Solid Waste Management of Porto Ferreira (SP) and Rio Brilhante (MS) were used
+as a basis. In the diagnosis, it was verified the poor management by the Prefecture of Aguaí,
+since the final disposition of the waste is inadequate, there are no environmental education
+programs and incentive not to generate, reduce, reuse and recycle and also the city does not
+have Municipal Plan Integrated Management of Solid Waste. In addition, there is no record
+on the costs of operations and the amount generated of each waste studied. Already in the
+stage of proposing measures for adequacy of waste management to the PNRS, feasible actions
+were proposed to be applied in terms of up to 20 years, being actions to promote
+environmental education, selective collection, to reduce the amount of organic waste sent to
+final disposition. In addition to actions to reduce irregular final disposal points, construction
+waste, and to improve the management of waste health services. Therefore, it can be analyzed
+that the management of these wastes is not in accordance with the National Solid Waste
+Policy in Aguaí, for the reasons cited, and that several actions had to be proposed to adapt the
+management to the principles of the law.
+Keywords: household waste; urban cleaning waste; construction waste; health services waste;
+National Solid Waste Policy; management.
+
+LISTA DE FIGURAS
+
+Figura 1 - Caracterização e classificação de resíduos sólidos .................................................. 32
+Figura 2 - Relação da área urbana e rural de Aguaí ................................................................. 61
+Figura 3 – Distribuição da cidade de Aguaí ............................................................................. 64
+Figura 4 - Organograma das secretarias da prefeitura .............................................................. 65
+Figura 5 - Estratégia de gestão para resíduos domiciliares ...................................................... 68
+Figura 6 - Estratégia de gestão para resíduos de limpeza urbana ............................................. 69
+Figura 7 - Estratégia de gestão para resíduos da construção civil ............................................ 70
+Figura 8 - Estratégia de gestão para resíduos de serviços de saúde ......................................... 71
+Figura 9 - Gestão dos resíduos domiciliares em Aguaí ............................................................ 74
+Figura 10 - Indicação do local de disposição final dos resíduos estudados ............................. 75
+Figura 11 - Imagem aérea do aterro municipal ........................................................................ 76
+Figura 12 – Resíduos domiciliares dispostos no aterro municipal ........................................... 76
+Figura 13 – Último local de disposição no aterro municipal .................................................... 77
+Figura 14 - Gestão dos resíduos de limpeza urbana em Aguaí ................................................ 78
+Figura 15 - Resíduos de limpeza urbana dispostos sobre os resíduos domiciliares ................. 79
+Figura 16 - Gestão dos resíduos da construção civil em Aguaí................................................ 80
+Figura 17 – Identificação da disposição final de RCC ............................................................. 82
+Figura 18 – RCC no local de disposição final .......................................................................... 83
+Figura 19 - Gestão dos resíduos de serviços de saúde em Aguaí ............................................. 84
+
+LISTA DE TABELAS
+
+Tabela 1 - Benefícios econômicos da reciclagem .................................................................... 36
+Tabela 2 - Quantidade de municípios por tipo de disposição final adotada. ............................ 45
+Tabela 3 - Composição dos resíduos da construção civil (%) .................................................. 47
+Tabela 4 - Número de municípios, total e os com serviços de manejo de RCC, por forma de
+disposição (valor em porcentagem em relação ao total)........................................................... 52
+Tabela 5 - Número de municípios com serviço de manejo de RCC, por tipo de processamento
+(valor em porcentagem em relação ao total) ............................................................................ 53
+Tabela 6 - Ações para promover a educação ambiental ........................................................... 86
+Tabela 7 - Ações para promover a coleta seletiva .................................................................... 87
+Tabela 8 - Ações para promover a redução da quantidade de resíduos enviados à disposição
+final ........................................................................................................................................... 88
+Tabela 9 - Ações para reduzir os pontos de descarte irregular de RCC ................................... 89
+Tabela 10 - Ações para fiscalizar e adequar a gestão de RSS .................................................. 90
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+3R’s
+
+Redução, Reutilização e Reciclagem
+
+ABNT
+
+Associação Brasileira de Normas Técnicas
+
+ABRELPE
+
+Associação Brasileira de Empresas de Limpeza Pública e
+Resíduos Especiais
+
+ANVISA
+
+Agência Nacional de Vigilância Sanitária
+
+CEMPRE
+
+Compromisso Empresarial para Reciclagem
+
+CNEN
+
+Comissão Nacional de Energia Nuclear
+
+CONAMA
+
+Conselho Nacional do Meio Ambiente
+
+IBGE
+
+Instituto Brasileiro de Geografia e Estatística
+
+IPEA
+
+Instituto de Pesquisa Econômica Aplicada
+
+IPT
+
+Instituto de Pesquisas Tecnológicas
+
+ONU
+
+Organização das Nações Unidas
+
+PEV’s
+
+Pontos de Entrega Voluntária
+
+PIB
+
+Produto Interno Bruto
+
+PMGIRS
+
+Plano Municipal de Gestão Integrada de Resíduos Sólidos
+
+PNRS
+
+Política Nacional de Resíduos Sólidos
+
+RCC
+
+Resíduos da Construção Civil
+
+RD
+
+Resíduos Domiciliares
+
+RDC
+
+Resolução da Diretoria Colegiada
+
+RLU
+
+Resíduos de Limpeza Urbana
+
+RS
+
+Resíduos Sólidos
+
+RSS
+
+Resíduos de Serviços de Saúde
+
+RSU
+
+Resíduos Sólidos Urbanos
+
+SEADE
+
+Sistema Estadual de Análise de Dados
+
+SINIR
+
+Sistema Nacional de Informações sobre a Gestão dos Resíduos
+Sólidos
+
+SINISA
+
+Sistema Nacional de Informações em Saneamento Básico
+
+SISNAMA
+
+Sistema Nacional do Meio Ambiente
+
+SNVS
+
+Sistema Nacional de Vigilância Sanitária
+
+SSRH
+
+Secretaria de Estado de Saneamento e Recursos Hídricos de São
+Paulo
+
+SUASA
+
+Sistema Unificado de Atenção à Sanidade Agropecuária
+
+UGRHI
+
+Unidade de Gerenciamento de Recursos Hídricos
+
+LISTA DE QUADROS
+
+Quadro 1 – Critérios técnicos ................................................................................................... 38
+Quadro 2 - Critérios econômico-financeiros ............................................................................ 40
+Quadro 3 - Critérios político-sociais ........................................................................................ 41
+Quadro 4 - Classificação dos Resíduos de Serviços de Saúde ................................................. 54
+Quadro 5 - Descrição da cor do recipiente por grupo de resíduos ........................................... 56
+Quadro 6 - Descrição e vantagens e desvantagens de cada tipo de tratamento ........................ 58
+Quadro 7 - Aspectos demográficos - 2018 ............................................................................... 61
+Quadro 8 - Participação do valor adicionado setorial no PIB - 2015 ....................................... 62
+Quadro 9 - Participação dos vínculos empregatícios por setor (%) - 2017 .............................. 62
+Quadro 10 - Rendimento médio dos vínculos empregatícios por setor (em reais) - 2017 ....... 62
+Quadro 11 - Indicadores de saúde (por mil) - 2017 .................................................................. 63
+Quadro 12 - Taxa de analfabetismo (%) - 2010 ....................................................................... 63
+
+SUMÁRIO
+1
+
+INTRODUÇÃO ............................................................................................................. 22
+
+2
+
+OBJETIVOS .................................................................................................................. 24
+
+2.1
+
+OBJETIVO GERAL ............................................................................................................ 24
+
+2.2
+
+OBJETIVO ESPECÍFICO.................................................................................................... 24
+
+3
+
+REVISÃO BIBLIOGRÁFICA..................................................................................... 25
+
+3.1
+
+POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS ................................................................ 25
+3.1.1
+
+Política Estadual de Resíduos Sólidos .................................................................. 27
+
+3.2
+
+DEFINIÇÃO E CLASSIFICAÇÃO DOS RESÍDUOS SÓLIDOS ................................................ 30
+
+3.3
+
+RESÍDUOS SÓLIDOS URBANOS ......................................................................................... 33
+
+3.4
+
+3.5
+
+3.6
+
+4
+
+3.3.1
+
+Resíduos domiciliares ........................................................................................... 33
+
+3.3.2
+
+Resíduos de Limpeza Urbana ............................................................................... 42
+
+3.3.3
+
+Panorama Nacional de Resíduos Sólidos Urbanos ............................................... 44
+
+RESÍDUOS DA CONSTRUÇÃO CIVIL ................................................................................. 45
+3.4.1
+
+Definição e classificação ...................................................................................... 45
+
+3.4.2
+
+Origem, geração e caracterização ......................................................................... 46
+
+3.4.3
+
+Coleta e transporte ................................................................................................ 48
+
+3.4.4
+
+Áreas de triagem e reciclagem.............................................................................. 49
+
+3.4.5
+
+Disposição final .................................................................................................... 50
+
+3.4.6
+
+Panorama nacional de resíduos da construção civil ............................................. 52
+
+RESÍDUOS DE SERVIÇOS DE SAÚDE ................................................................................. 54
+3.5.1
+
+Definição e classificação ...................................................................................... 54
+
+3.5.2
+
+Segregação ............................................................................................................ 55
+
+3.5.3
+
+Acondicionamento ................................................................................................ 56
+
+3.5.4
+
+Coleta interna e externa e armazenamento temporário e externo ......................... 57
+
+3.5.5
+
+Transporte ............................................................................................................. 57
+
+3.5.6
+
+Tratamento e disposição final ............................................................................... 58
+
+3.5.7
+
+Panorama nacional de resíduos de serviço de saúde ............................................ 60
+
+CARACTERIZAÇÃO DE AGUAÍ (SP) ................................................................................ 60
+3.6.1
+
+Aspectos socioeconômicos e de uso e ocupação do solo ..................................... 60
+
+3.6.2
+
+Organograma e Leis Municipais de gestão de Resíduos Sólidos ......................... 65
+
+MATERIAL E MÉTODOS .......................................................................................... 67
+
+4.1
+
+4.2
+
+DIAGNÓSTICO DA GESTÃO DOS RESÍDUOS ESTUDADOS ................................................. 67
+4.1.1
+
+Estratégias de gestão dos resíduos ........................................................................ 67
+
+4.1.2
+
+Questionários sobre a gestão dos resíduos estudados ........................................... 71
+
+PROPOSIÇÃO DE MEDIDAS PARA ADEQUAÇÃO DA GESTÃO DOS RESÍDUOS ESTUDADOS À
+
+PNRS.. ...................................................................................................................................... 72
+5
+
+RESULTADOS E DISCUSSÃO .................................................................................. 73
+
+5.1
+
+DIAGNÓSTICO DA GESTÃO DOS RESÍDUOS ESTUDADOS ................................................. 73
+
+5.2
+
+5.1.1
+
+Resíduos domiciliares ........................................................................................... 73
+
+5.1.2
+
+Resíduos de limpeza urbana ................................................................................. 77
+
+5.1.3
+
+Resíduos da construção civil ................................................................................ 79
+
+5.1.4
+
+Resíduos de serviços de saúde .............................................................................. 83
+
+PROPOSIÇÃO DE MEDIDAS PARA ADEQUAÇÃO DA GESTÃO DOS RESÍDUOS ESTUDADOS À
+
+PNRS.. ...................................................................................................................................... 84
+
+6
+
+5.2.1
+
+Educação ambiental .............................................................................................. 85
+
+5.2.2
+
+Resíduos domiciliares ........................................................................................... 86
+
+5.2.3
+
+Resíduos de limpeza urbana ................................................................................. 87
+
+5.2.4
+
+Resíduos da construção civil ................................................................................ 89
+
+5.2.5
+
+Resíduos de serviços de saúde .............................................................................. 90
+
+CONCLUSÕES ............................................................................................................. 91
+
+REFERÊNCIAS ..................................................................................................................... 92
+Anexo A - Roteiro De Entrevista Para Gestor Do Município Responsável Pela Gestão E
+Gerenciamento Integrado Dos Resíduos Domiciliares ........................................................ 98
+Anexo B - Roteiro De Entrevista Para Gestor Do Município Responsável Pela Gestão E
+Gerenciamento Integrado Dos Resíduos De Limpeza Urbana ......................................... 101
+Anexo C - Roteiro De Entrevista Para Gestor Do Município Responsável Pela Gestão E
+Gerenciamento Integrado De Resíduos Da Construção Civil .......................................... 103
+Anexo D - Roteiro De Entrevista Para Gestor Do Município Responsável Pela Gestão E
+Gerenciamento Integrado Dos Resíduos De Serviços De Saúde ...................................... 106
+
+22
+
+1 INTRODUÇÃO
+
+Um dos grandes problemas enfrentados pela administração pública nas cidades é o
+causado pela grande geração ou pela periculosidade dos resíduos sejam eles domiciliares, de
+construção civil, limpeza urbana ou os de serviços de saúde. Cada um desses tipos de
+Resíduos Sólidos (RS) tem suas melhores práticas de gestão, como a adequada segregação e
+acondicionamento na fonte geradora, o correto tratamento dos resíduos e a disposição final
+adequada, a fim de evitar significativos impactos ambientais.
+No entanto, no Brasil ainda há muito a ser feito sobre esse tema. Segundo a
+Organização das Nações Unidas (ORGANIZAÇÃO DAS NAÇÕES UNIDAS, 2016) 80 mil
+toneladas de resíduos sólidos urbanos são descartadas de maneira incorreta no país e apesar de
+ter um crescimento de 6,2% ao ano no volume descartado adequadamente, o volume absoluto
+dos resíduos descartados inadequadamente ainda tem aumentado.
+Isso se deve ao fato de que a questão ambiental no Brasil só se tornou mais relevante a
+partir da segunda metade do século XX, quando foi observada as consequências na saúde da
+população e no meio ambiente devido as atividades exercidas sem qualquer planejamento
+ambiental.
+Um bom exemplo desse fato é o caso das disposições inadequadas em que a maioria
+das cidades brasileiras dispõem os resíduos sólidos, considerados inadequados para o destino
+final de resíduos por não ter manta que impede a infiltração do chorume, os resíduos ficam ao
+ar livre onde são queimados e ainda há a atividade insalubre por parte de pessoas que catam e
+separam os RS.
+Segundo o Panorama de Resíduos Sólidos no Brasil da Associação Brasileira de
+Empresas de Limpeza Pública e Resíduos Especiais (ASSOCIAÇÃO BRASILEIRA DE
+EMPRESAS DE LIMPEZA PÚBLICA E RESÍDUOS ESPECIAIS, 2017) de 5.570
+municípios no país apenas 2.239 tem como destino final o aterro sanitário (considerado como
+a adequada disposição final para os resíduos) o que corresponde a 40% do total. O restante
+dos municípios possui destinos inadequados que somam 60% ou 3.331 municípios.
+Somada a essa questão de destinação inadequada ainda se tem a quantidade gerada,
+que é bem significativa, e esse conjunto torna o impacto ambiental significativo. Segundo a
+Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (2017) a
+geração de Resíduos Sólidos Urbanos (RSU) é de 1,04 kg/hab/dia concluindo que é gerado
+
+23
+
+milhares de toneladas por dia nas cidades brasileiras sem a destinação adequada. Nesse caso
+não está considerando os Resíduos da Construção Civil (RCC) nem os Resíduos de Serviços
+de Saúde (RSS) que geralmente também não tem o destino correto.
+Pode-se responsabilizar por essa grande geração de resíduos o crescimento
+populacional do Brasil nas últimas décadas e pelo aumento da população urbana. Segundo o
+Instituto Brasileiro de Geografia e Estatística (INSTITUTO BRASILEIRO DE GEOGRAFIA
+E ESTATÍSTICA, 2010a) a população era de, aproximadamente, 52 milhões de pessoas em
+1950, de 121 milhões em 1980 e de 191 milhões em 2010 e o crescimento da população nas
+cidades cresceu no mesmo ritmo.
+Ainda, nessa era os produtos são feitos para durar menos, o que é chamado de
+obsolescência programada e o consumo passou a ser mais para produtos descartáveis do que
+para reutilizáveis.
+
+24
+
+2 OBJETIVOS
+
+2.1
+
+Objetivo geral
+
+Recomendar ações com a finalidade de adequar a gestão dos resíduos sólidos urbanos,
+da construção civil e de serviços de saúde à Política Nacional de Resíduos Sólidos no
+município de Aguaí (SP).
+
+2.2
+
+Objetivo específico
+
+− Realizar o diagnóstico da gestão dos resíduos a serem estudados.
+
+25
+
+3 REVISÃO BIBLIOGRÁFICA
+
+3.1
+
+Política Nacional de Resíduos Sólidos
+
+No dia 02 de agosto de 2010 foi sancionada a Lei 12.305 que institui a Política
+Nacional de Resíduos Sólidos. Essa lei foi regulamentada pelo Decreto 7.404, de 23 de
+dezembro de 2010, que criou o Comitê Interministerial da PNRS e o Comitê para a
+Implantação dos Sistemas de Logística Reversa (BRASIL, 2010a).
+A Política Nacional de Resíduos Sólidos possui onze princípios, listados abaixo:
+I – a prevenção e precaução;
+II – o poluidor-pagador e protetor-recebedor;
+III – a visão sistêmica, na gestão dos resíduos sólidos, que considere as variáveis
+ambiental, social, cultural, econômica, tecnológica e de saúde pública;
+IV – desenvolvimento sustentável;
+V – a ecoeficiência, mediante a compatibilização entre o fornecimento, a preços
+competitivos, de bens e serviços qualificados que satisfaçam as necessidades humanas e
+tragam qualidade de vida e a redução do impacto ambiental e do consumo de recursos naturais
+a um nível, no mínimo, equivalente à capacidade de sustentação estimada do planeta;
+VI – cooperação entre as esferas do poder público, empresariado e demais segmentos
+da sociedade;
+VII – a responsabilidade compartilhada pelo ciclo de vida dos produtos;
+VIII – reconhecimento do resíduo sólido reciclável como um bem de valor econômico
+e social;
+IX – respeito às diversidades locais e regionais;
+X – direito da sociedade à informação e ao controle social;
+XI – a razoabilidade e a proporcionalidade (BRASIL, 2010b).
+
+Ainda, seus quinze objetivos também estão listados a seguir:
+I – proteção da saúde pública e da qualidade ambiental;
+
+26
+
+II – não geração, redução, reutilização, reciclagem, tratamento e disposição final
+ambientalmente adequada dos resíduos;
+III – adoção de padrões sustentáveis de produção e consumo de bens e serviços;
+IV – desenvolvimento de tecnologias limpas;
+V – redução do volume e periculosidade dos resíduos perigosos;
+VI – incentivo à indústria de reciclagem;
+VII – gestão integrada de resíduos sólidos;
+VIII – articulação das esferas do poder público, destas com o empresariado com vistas
+à cooperação técnica e financeira para a gestão integrada de resíduos sólidos;
+IX – capacitação técnica continuada na área resíduos sólidos;
+X – regularidade, continuidade, funcionalidade e universalização da prestação de
+serviços públicos de limpeza urbana e manejo de resíduos sólidos;
+XI – aquisições e contratações governamentais para produtos reciclados e recicláveis e
+bens, serviços e obras com critério compatíveis aos padrões de consumo social e
+ambientalmente sustentáveis;
+XII – integração dos catadores de materiais recicláveis a ações que envolvam a
+responsabilidade compartilhada pelo ciclo de vida dos produtos;
+XIII – estímulo a implementação da avaliação do ciclo de vida dos produtos;
+XIV – melhoramento de sistemas de gestão ambiental e empresarial voltados para os
+processos produtivos, aproveitamento energético e ao reaproveitamento dos resíduos sólidos;
+XV – estímulo a rotulagem ambiental e consumo sustentável (BRASIL, 2010b).
+
+Além disso, os instrumentos da Política Nacional de Resíduos Sólidos são:
+I – planos de resíduos sólidos;
+II – inventários e o sistema declaratório anual de resíduos sólidos;
+III – a coleta seletiva, os sistemas de logística reversa e outras ferramentas sobre a
+gestão compartilhada do ciclo de vida dos produtos;
+IV – incentivo a criação das cooperativas de catadores de materiais reutilizáveis e
+recicláveis;
+V – monitoramento e fiscalização;
+VI – cooperação técnica e financeira entre os setores público e privado para
+desenvolver novos produtos, métodos, processos e tecnologias de gestão, reciclagem,
+reutilização e tratamento de resíduos e disposição final adequada;
+
+27
+
+VII – pesquisa científica e tecnológica;
+VIII – educação ambiental;
+IX – incentivos fiscais, financeiros e de crédito;
+X – Fundo Nacional do Meio Ambiente e Fundo Nacional de Desenvolvimento
+Científico e Tecnológico;
+XI – Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir);
+XII – Sistema Nacional de Informações em Saneamento Básico (Sinisa);
+XIII – conselhos de meio ambiente;
+XIV – órgãos colegiados municipais destinados ao controle social dos serviços de
+resíduos sólidos urbanos;
+XV – Cadastro Nacional de Operadores de Resíduos Perigosos;
+XVI – acordos setoriais;
+XVII – instrumentos da Política Nacional de Meio Ambiente;
+XVIII – termos de compromisso e de ajustamento de conduta;
+XIV – incentivo à adoção de consórcios entre federados, com vista à elevação de
+aproveitamento e à redução dos custos envolvidos (BRASIL, 2010b).
+
+Portanto, a Lei 12.305/10 tem como ideia central a redução da quantidade de resíduos
+destinados a disposição final, com isso, será destinado aos aterros o mínimo possível, somente
+o que não pode ser aproveitado, assim, invertendo a lógica de manejo de resíduos sólidos
+(FARIA, 2012).
+Nesse tópico foi explorado a base da Política Nacional de Resíduos Sólidos, apenas
+como uma introdução, sendo que seus objetivos e instrumentos serão explorados em mais
+detalhes ao longo do trabalho, já que eles são parte essencial para a adequação ambiental da
+gestão dos resíduos sólidos.
+
+3.1.1 Política Estadual de Resíduos Sólidos
+
+Antes mesmo de ser sancionada a Lei Federal 12.305/10, o Estado de São Paulo já
+havia sancionado a Lei Estadual 12.300, em 16 de março de 2006, que institui a Política
+Estadual de Resíduos Sólidos e define princípios e diretrizes, objetivos, instrumentos para a
+
+28
+
+gestão integrada e compartilhada de resíduos sólidos, visando o controle e prevenção da
+poluição, à estabilidade e recuperação da qualidade do meio ambiente no Estado de São Paulo
+e à promoção da saúde pública, prometendo o uso adequado dos recursos ambientais. (SÃO
+PAULO, 2006).
+Em 05 de agosto de 2009 foi aprovado o Decreto 54.645 que regulamenta dispositivos
+da Lei 12.300/06 e altera o inciso I do artigo 74 do Regulamento da Lei 997/76, aprovado
+pelo Decreto 8468/76 (SÃO PAULO, 2009).
+A Política Estadual de Resíduos Sólidos possui doze princípios, os quais são muito
+próximos aos princípios da PNRS, baseados na promoção de produção e consumo sustentável
+que tem como finalidade a mínima geração de resíduos, sendo, sempre que possível,
+reaproveitados ou reciclados. Também mantendo a responsabilidade compartilhada por cada
+fase do ciclo de vida de um produto ao devido encarregado que pode ser desde o produtor de
+matéria-prima até os coletores.
+Dentre os sete objetivos da Lei Estadual 12.300/06, que estão alinhados aos da Lei
+Federal 12.305/10, vale destacar os seguintes:
+
+III - reduzir a quantidade e a nocividade dos resíduos sólidos, evitar os
+problemas ambientais e de saúde pública por eles gerados e erradicar os
+"lixões", "aterros controlados", "bota-foras" e demais destinações
+inadequadas;
+IV - promover a inclusão social de catadores, nos serviços de coleta
+seletiva;
+V - erradicar o trabalho infantil em resíduos sólidos promovendo a sua
+integração social e de sua família (SÃO PAULO, 2006).
+
+Segundo o artigo 4 da Política Estadual de Resíduos Sólidos (SÃO PAULO, 2006), há
+vinte e cinco instrumentos para se atingir os objetivos já citados. Por meio de planos de
+gerenciamento de resíduos sólidos, planos dos geradores, termos de compromisso,
+licenciamento, monitoramento de indicadores ambientais e acordos voluntários que o Estado
+de São Paulo utiliza como instrumento da lei. Além de diversos incentivos tais como fiscais e
+tributários para prevenção da poluição, ao desenvolvimento de tecnologias limpas, ao uso de
+resíduos e materiais reciclados como matéria-prima, dentre outros.
+
+29
+
+3.1.1.1 Plano Municipal de Gestão Integrada de Resíduos Sólidos
+
+A elaboração de plano municipal de gestão integrada de resíduos sólidos é condição
+para o Distrito Federal e os municípios terem acesso a recursos da União, ou por ela
+controlados, destinados a empreendimentos e serviços relacionados à limpeza urbana e ao
+manejo de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de
+entidades federais de crédito ou fomento para tal finalidade. Os municípios terão acesso
+priorizado aos recursos da União se optarem por soluções consorciadas intermunicipais para a
+gestão dos resíduos sólidos ou se implantarem a coleta seletiva com a participação de
+cooperativas ou outras formas de associação formadas por pessoas físicas de baixa renda
+(BRASIL, 2010b).
+Segundo o artigo 19 da Política Nacional de Resíduos Sólidos há 19 incisos que
+compõem o conteúdo mínimo para o PMGIRS. De forma resumida deve fazer parte do plano
+o diagnóstico (origem, volume, caracterização, formas de destinação e disposição final) da
+situação dos resíduos sólidos, identificação de áreas favoráveis para disposição final,
+possibilidades de soluções consorciadas e dos geradores sujeitos a plano de gerenciamento
+específico nos termos do artigo 20 ou a sistema de logística reversa do artigo 33. Além de
+especificações mínimas e indicadores de desempenho dos serviços públicos de limpeza
+urbana, regras para transporte, definição de responsabilidades quanto a implementação e
+operacionalização e programas e ações de capacitação técnica, educação ambiental e
+participação dos grupos interessados.
+Ainda sobre os 19 incisos, pode-se citar também os mecanismos para criação de
+emprego, sistema para cálculo de custos e cobrança a ser feita pelos serviços públicos, metas
+para reduzir a quantidade de rejeitos para disposição final, descrição de formas e limites da
+participação do poder público na coleta seletiva e logística reversa disposto no artigo 33, meio
+para controle e fiscalização. Por fim, tem-se ainda ações preventivas e corretivas,
+identificação de passivos ambientais relacionados aos resíduos sólidos e a periodicidade de
+revisão do plano.
+
+30
+
+3.2
+
+Definição e classificação dos Resíduos Sólidos
+
+A definição de Resíduos Sólidos segundo o artigo 3 inciso XVI da PNRS é:
+
+material, substância, objeto ou bem descartado resultante de atividades
+humanas em sociedade, a cuja destinação final se procede, se propõe
+proceder ou se está obrigado a proceder, nos estados sólido ou semissólido,
+bem como gases contidos em recipientes e líquidos cujas particularidades
+tornem inviável o seu lançamento na rede pública de esgotos ou em corpos
+d’água, ou exijam para isso soluções técnica ou economicamente inviáveis
+em face da melhor tecnologia disponível (BRASIL, 2010b)
+
+Portanto, pode-se dizer em poucas palavras que resíduos sólidos são materiais,
+substâncias ou objetos em estado sólido ou semi-sólido que resultem de diversas atividades e
+que não podem serem lançados na rede pública de esgoto pela inviabilidade técnica ou
+econômica do tratamento.
+Os resíduos sólidos são classificados, de acordo com a Política Nacional de Resíduos
+Sólidos (BRASIL, 2010b), quanto a origem:
+
+a) resíduos domiciliares: os originários de atividades domésticas em residências
+urbanas;
+b) resíduos de limpeza urbana: os originários da varrição, limpeza de logradouros e
+vias públicas e outros serviços de limpeza urbana;
+c) resíduos sólidos urbanos: os englobados nas alíneas “a” e “b”;
+d) resíduos de estabelecimentos comerciais e prestadores de serviços: os gerados
+nessas atividades, excetuados os referidos nas alíneas “b”, “e”, “g”, “h” e “j”;
+e) resíduos dos serviços públicos de saneamento básico: os gerados nessas atividades,
+excetuados os referidos na alínea “c”;
+f) resíduos industriais: os gerados nos processos produtivos e instalações industriais;
+g) resíduos de serviços de saúde: os gerados nos serviços de saúde, conforme definido
+em regulamento ou em normas estabelecidas pelos órgãos do Sisnama e do SNVS;
+
+31
+
+h) resíduos da construção civil: os gerados nas construções, reformas, reparos e
+demolições de obras de construção civil, incluídos os resultantes da preparação e escavação
+de terrenos para obras civis;
+i) resíduos agrossilvopastoris: os gerados nas atividades agropecuárias e silviculturais,
+incluídos os relacionados a insumos utilizados nessas atividades;
+j) resíduos de serviços de transportes: os originários de portos, aeroportos, terminais
+alfandegários, rodoviários e ferroviários e passagens de fronteira;
+k) resíduos de mineração: os gerados na atividade de pesquisa, extração ou
+beneficiamento de minérios.
+
+Ainda, segundo a Associação Brasileira de Normas Técnicas (2004a) pela NBR
+10.004 os resíduos são classificados também quanto a periculosidade:
+Resíduos classe I – Perigosos: são aqueles que apresentam periculosidade ou
+
+a)
+
+outras características como inflamabilidade, corrosividade, reatividade, toxicidade e
+patogenicidade;
+Resíduos classe II – Não perigosos: que não apresentam periculosidade e são
+
+b)
+divididos em:
+
+a. Classe IIA – Não inertes: que tem propriedades de biodegradabilidade,
+combustibilidade ou solubilidade em água;
+b. Classe IIB – Inertes: quaisquer resíduos que quando submetidos a um contato
+dinâmico e estático com água destilada ou deionizada, a temperatura ambiente,
+não tiverem nenhum de seus constituintes solubilizados a concentrações
+maiores que as consideradas para água potável, exceto pela cor, turbidez,
+dureza e sabor.
+
+Como forma de facilitar a caracterização e classificação dos resíduos sólidos, a Figura
+1 apresenta um esquema que compete a isso.
+
+32
+
+Figura 1 - Caracterização e classificação de resíduos sólidos
+
+Fonte: Adaptado de Associação Brasileira de Normas Técnicas (2004a)
+
+33
+
+3.3
+
+Resíduos sólidos urbanos
+
+3.3.1 Resíduos domiciliares
+
+Segundo Leite (2003) após a Segunda Guerra Mundial houve um rápido
+desenvolvimento tecnológico que permitiu a introdução de novas tecnologias e materiais que
+contribuíram para a redução de preços e da vida útil da maioria de bens de consumo duráveis.
+Ainda, o acelerado ímpeto de lançamento de novos produtos no mercado criou um alto nível
+de obsolescência com clara tendência a descartabilidade.
+Esse fato somado ao crescimento populacional, além de outros fatores como os
+padrões de consumo, propiciaram um rápido crescimento na geração de resíduos. Sendo essa
+etapa, a geração, muito relevante para a gestão, pois nela é estudada a quantidade e
+composição dos resíduos que dependem de alguns fatores como renda, clima local e época do
+ano.
+
+3.3.1.1 Acondicionamento
+
+A etapa de acondicionamento, na estratégia de gestão de resíduos domiciliares, é a
+que, como conceituam Monteiro et al. (2001), significa a preparação para coleta
+sanitariamente adequada de acordo com o tipo e a quantidade.
+O acondicionamento adequado é importante para evitar acidentes e a proliferação de
+vetores, além de minimizar o impacto visual e olfativo, reduzir a heterogeneidade dos
+resíduos e facilitar a realização da etapa da coleta e do transporte dos RD (MONTEIRO et al.,
+2001).
+Por fim, ainda de acordo com Monteiro et al. (2001), a melhor embalagem para
+acondicionar os resíduos são os sacos plásticos porque são facilmente amarrados nas “bocas”
+(garantindo o fechamento), são leves, sem retorno (resultando em coleta mais produtiva),
+permitem recolhimento silencioso (útil para coletas noturnas) e possuem preço acessível,
+permitindo a padronização. Além disso, as pessoas podem usar os sacos plásticos de
+
+34
+
+supermercado, que podem ser grátis, e colaboram para menores índices de ferimentos dos
+garis pelo fácil manuseio desses sacos.
+
+3.3.1.2 Coleta
+
+Já a etapa de coleta consiste em recolher o resíduo domiciliar acondicionado por quem
+o produziu para enviá-lo, utilizando o transporte adequado a essa tarefa, a uma possível
+estação de transferência, tratamento e à disposição final adequada (MONTEIRO et al., 2001).
+Geralmente a coleta é realizada pelo sistema porta a porta a qual significa que os
+resíduos são coletados em cada domicílio. Para isso, a equipe de coleta pode recolher o
+resíduo que está disposto ao longo das vias ou acumular em determinados pontos (esquinas)
+para posterior carregamento. A coleta pode ser convencional (misturada) ou seletiva, o que
+difere uma da outra é que a coleta convencional não exige segregação na fonte enquanto que a
+seletiva requer a separação em diversas frações (MASSUKADO, 2004).
+Segundo a Lei Federal 12.305/10 entende-se por coleta seletiva “coleta de resíduos
+sólidos previamente segregados conforme sua constituição ou composição” (BRASIL,
+2010b).
+A coleta seletiva é um instrumento concreto de incentivo à redução, reutilização e
+separação do material para a reciclagem, incentivando uma mudança de comportamento,
+principalmente em relação aos desperdícios inerentes à sociedade de consumo (RIBEIRO;
+LIMA, 20001 apud TIERNO, 2017).
+
+1
+
+RIBEIRO, T. F.; LIMA, S. C. Coleta seletiva de lixo domiciliar: estudo de casos. Caminhos de Geografia, p.
+v. 2, n. 2, 50-69, dez. 2000. Disponível em:
+<http://www.seer.ufu.br/index.php/caminhosdegeografia/article/download/15253/8554>. Acesso em: 25 maio
+2018.
+
+35
+
+3.3.1.3 Transferência
+
+De acordo com Compromisso Empresarial para Reciclagem (2010) as estações de
+transferência ou transbordo são locais intermediários onde os resíduos dos veículos coletores
+são transferidos para veículos maiores (possuem capacidade de mais de 40 m³), os quais
+conduzem todos os resíduos para o local de disposição final. Ainda, os locais de transbordo
+são necessários no caso de a distância entre a coleta e a disposição final ser maior que 6 km
+no caso do uso de caminhões convencionais e entre 12 km e 25 km para os veículos
+compactadores (COMPROMISSO EMPRESARIAL PARA RECICLAGEM, 2010). Desse
+modo, é possível gerar maior economia no transporte.
+
+3.3.1.4 Tratamento
+
+O conceito de tratamento de resíduos sólidos urbanos é definido com uma série de
+processos que visam a redução da quantidade ou do potencial de poluir desses resíduos, seja
+impedindo o descarte em locais inadequados ou transformando os RD em materiais inertes ou
+biologicamente estáveis (MONTEIRO et al., 2001).
+Há três tipos principais de tratamento que podem ser utilizados, são eles a reciclagem,
+compostagem e incineração. Cada um tem suas particularidades e é mais indicado para
+determinados tipos de resíduos.
+A reciclagem é definida pela Política Nacional de Resíduos Sólidos (BRASIL, 2010b)
+como um processo de transformação dos resíduos que envolve a alteração de propriedades
+físicas, físico-químicas ou biológicas, transformando em insumos ou novo produtos.
+Conforme Compromisso Empresarial para Reciclagem (2010) as vantagens de reciclar
+são a diminuição da quantidade de resíduos a ser aterrada, preservação de recursos naturais,
+economia de energia, diminuição dos impactos ambientais, fomento de novos negócios e
+geração de empregos. Essas vantagens se traduzem em benefícios econômicos na ordem de
+R$460 por tonelada de material reciclado por dia, como está na Tabela 1.
+
+36
+
+Material
+
+Tabela 1 - Benefícios econômicos da reciclagem
+Ambiental
+Custos
+Reciclagem
+Insumos
+(CO2, energia e adicional da
+incremental
+(R$)
+biodiversidade) reciclagem
+(ton/dia)
+(R$)
+(R$/ton)
+
+Benefício
+total
+(R$/dia)
+
+Aço
+
+253
+
+32.164
+
+18.741
+
+113
+
+22.287
+
+Alumínio
+
+61
+
+164.496
+
+20.539
+
+113
+
+178.189
+
+Celulose
+
+1.397
+
+460.854
+
+33.517
+
+113
+
+336.563
+
+Plástico
+
+554
+
+644.545
+
+31.009
+
+113
+
+612.982
+
+Vidro
+
+246
+
+29.572
+
+2.711
+
+113
+
+4.436
+
+Total
+
+2.511
+
+1.331.632
+
+106.517
+
+1.154.457
+
+Fonte: COMPROMISSO EMPRESARIAL PARA RECICLAGEM (2013)
+
+Porém, para que esses benefícios realmente ocorram a participação da população é
+fundamental, conforme Monteiro et al. (2001), a reciclagem ideal é aquela proporcionada pela
+separação dos resíduos em casa, isso se dá pelo fato de que a eficiência de reciclar os resíduos
+domiciliares misturados é muito baixa e depende da tecnologia utilizada na usina. Por isso, na
+etapa de acondicionamento deve ser feita a segregação dos resíduos para facilitar a reciclagem
+e, consequentemente, aumentar o potencial de reaproveitamento (TIERNO, 2017).
+Uma outra forma de tratamento citada, a compostagem, é definida como processo
+natural de decomposição biológica de materiais orgânicos (possuem carbono em sua
+estrutura), de origem animal e vegetal, pela ação de microrganismos, não sendo necessário a
+adição de qualquer componente físico ou químico. Há a compostagem anaeróbia realizada por
+microrganismos que vivem sem a presença de oxigênio e demora mais tempo para que a
+matéria orgânica se estabilize. Por outro lado, a aeróbia, que é mais adequada ao tratamento
+de RD, é mais rápida que a anterior e ocorre com microrganismos que vivem na presença de
+oxigênio (MONTEIRO et al., 2001).
+Segundo Massukado (2004) os principais fatores que interferem na eficiência do
+processo são a umidade, oxigenação, temperatura, relação carbono/nitrogênio, pH e a
+granulometria das partículas de matéria orgânica. Por fim, os benefícios da compostagem que
+merecem destaque são a redução da quantidade de resíduo a ser aterrado, eliminação de
+patógenos, economia no tratamento de efluentes e, como o processo produz um novo
+composto que pode melhorar a estrutura do solo, há a possibilidade de diminuição da
+necessidade de fertilizantes industrializados.
+
+37
+
+O último processo, a incineração é uma oxidação térmica que ocorre em temperaturas
+superiores a 800ºC, com excesso de oxigênio gerando calor, vapor de água, nitrogênio,
+dióxido de carbono e material particulado. Além disso, dependendo da composição do RD
+pode -se gerar também ácido clorídrico e fluorídrico, óxido de nitrogênio e outras substâncias.
+(D’ALOIA, 2011).
+De acordo com Monteiro et al. (2001) as grandes vantagens desse processo são a
+garantia da eficiência do tratamento (quando está em perfeitas condições) e a redução do
+volume de resíduos que é bem elevada, cerca de 95%. Por outro lado, as principais
+desvantagens são o alto custo operacional, de manutenção e de tratamento dos efluentes
+gasosos e líquidos e exige-se constante trabalho de limpeza para incineradores que não usam
+gás natural. Além disso, há o elevado risco de contaminação do ar por emissão de materiais
+particulados e dioxinas.
+Por esse motivo e conforme cita Massukado (2004) existe muita polêmica na
+utilização deste processo pela questão de se é aceitável o alto custo dessa tecnologia e as
+emissões de gases nocivos à saúde pública em troca do tratamento em si e da geração de
+energia e calor que são aproveitados no processo.
+
+3.3.1.5 Disposição final
+
+Vale destacar nesse tópico a diferença entre disposição final e destinação final que
+segundo a Política Nacional de Resíduos Sólidos é:
+“VII - destinação final ambientalmente adequada: destinação de resíduos
+que inclui a reutilização, a reciclagem, a compostagem, a recuperação e o
+aproveitamento energético ou outras destinações admitidas pelos órgãos
+competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição final,
+observando normas operacionais específicas de modo a evitar danos ou
+riscos à saúde pública e à segurança e a minimizar os impactos ambientais
+adversos;
+
+VIII - disposição final ambientalmente adequada: distribuição ordenada de
+rejeitos em aterros, observando normas operacionais específicas de modo a
+
+38
+
+evitar danos ou riscos à saúde pública e à segurança e a minimizar os
+impactos ambientais adversos” (BRASIL, 2010b).
+
+De acordo com Tierno (2017) no Brasil há três formas de disposição final de resíduos,
+sendo elas: o lixão, aterro controlado e aterro sanitário. Dentre as três somente o aterro
+sanitário é considerado uma forma ambientalmente adequada, pelo o que está disposto na
+PNRS, as outras duas alternativas deveriam estar extintas desde 2014 e, portanto, são
+consideradas disposições finais inadequadas.
+Monteiro et al. (2001) definem aterro controlado como uma forma de confinar
+tecnicamente os resíduos sólidos coletados sem poluir o ambiente externo, mas não promove
+coleta e tratamento do lixiviado e reaproveitamento ou queima do gás. Já aterro sanitário
+também é um método de confinamento dos resíduos sólidos coletados cobertos com camadas
+de material inerte, mas que drena, trata e reaproveita o lixiviado e o gás gerado.
+Mesmo o aterro sanitário possui algumas desvantagens, sendo elas: a necessidade de
+grandes áreas para locação, longo período para estabilização do aterro e a interferência
+causada pela infiltração da água pluvial, além de outros fatores climáticos. Em contrapartida
+as vantagens são que há o controle na proliferação de vetores, o custo de operação é baixo e
+há a possibilidade de dispor o lodo proveniente do tratamento de água e esgoto
+(MASSUKADO, 2004).
+A escolha de áreas disponíveis para a implantação de aterro sanitário deve respeitar
+alguns critérios, conforme define Monteiro et al. (2001), eles são técnicos, econômicofinanceiros e político-sociais e são apresentados nos Quadros 1, 2 e 3.
+Quadro 1 – Critérios técnicos
+(continua)
+
+Critérios
+Uso do solo
+
+Observações
+As áreas têm que se localizar numa região onde o uso do solo seja rural ou
+industrial o fora de qualquer Unidade de Conservação Ambiental.
+As áreas não podem se situar a menos de 200 metros de corpos d’água
+
+Proximidade a
+
+relevantes, tais como, rios, lagos, lagoas e oceanos. Também não poderão
+
+cursos d’água
+
+estar a menos de 50 metros de qualquer corpo d’água, inclusive valas de
+
+relevantes
+
+drenagem que pertençam ao sistema ao sistema de drenagem municipal ou
+estadual.
+Fonte: Monteiro et al. (2001)
+
+39
+
+Quadro 1 – Critério técnicos
+(continuação)
+Proximidade a
+núcleos
+
+As áreas não devem se situar a menos de mil metros de núcleos
+
+residenciais
+
+residenciais urbanos que abriguem 200 ou mais habitantes.
+
+urbanos
+Proximidade a
+
+As áreas não podem se situar próximas a aeroportos ou aeródromos e
+
+aeroportos
+
+devem respeitar a legislação em vigor.
+As distâncias mínimas recomendadas pelas normas federais e estaduais
+são as seguintes:
+• Para aterros com impermeabilização inferior através de manta plástica
+
+Distância do
+lençol freático
+
+sintética, a distância do lençol freático à manta não poderá ser inferior
+a 1,5 metro.
+• Para aterros com impermeabilização inferior através de camada de
+argila, a distância do lençol freático à camada impermeabilizante não
+poderá ser inferior a 2,5 metros e a camada impermeabilizante deverá
+ter um coeficiente de permeabilidade menor que 10-6 cm/s.
+
+Vida útil
+mínima
+
+É desejável que as novas áreas de aterro sanitário tenham, no mínimo,
+cinco anos de vida útil.
+É desejável que o solo do terreno selecionado tenha uma certa
+
+Permeabilidade impermeabilidade natural, com vistas a reduzir as possibilidades de
+do solo natural
+
+contaminação do aquífero. As áreas selecionadas devem ter características
+argilosas e jamais deverão ser arenosas.
+
+Extensão da
+
+A bacia de drenagem das águas pluviais deve ser pequena, de modo a
+
+bacia de
+
+evitar o ingresso de grandes volumes de água de chuva na área do aterro.
+
+drenagem
+Facilidade de
+
+O acesso ao terreno deve ter pavimentação de boa qualidade, sem rampas
+
+acesso a
+
+íngremes e sem curvas acentuadas, de forma a minimizar o desgaste dos
+
+veículos
+
+veículos coletores e permitir seu livre acesso ao local de vazamento
+
+pesados
+
+mesmo na época de chuvas muito intensas.
+Fonte: Monteiro et al. (2001)
+
+40
+
+Quadro 1 – Critérios técnicos
+(conclusão)
+
+Disponibilidade
+
+Preferencialmente, o terreno deve possuir ou se situar próximo a
+
+de material de
+
+jazidas de material de cobertura, de modo a assegurar a permanente
+
+cobertura
+
+cobertura dos RS a baixo custo.
+Fonte: Monteiro et al. (2001)
+
+Critérios
+
+Quadro 2 - Critérios econômico-financeiros
+Observações
+É desejável que o percurso de ida (ou de volta) que os veículos de
+
+Distância ao
+centro geométrico
+de coleta
+
+coleta fazem até o aterro, através das ruas e estradas existentes, seja o
+menor possível, com vistas a reduzir o seu desgaste e o custo de
+transporte dos resíduos
+Se o terreno não for de propriedade da prefeitura, deverá estar,
+
+Custo de
+aquisição do
+terreno
+
+preferencialmente, em área rural, uma vez que o seu custo de
+aquisição será menor do que o de terrenos situados em áreas
+industriais.
+É importante que a área escolhida disponha de infraestrutura
+
+Custo de
+investimento em
+construção e
+infraestrutura
+Custos com a
+manutenção do
+sistema de
+drenagem
+
+completa, reduzindo os gastos de investimento em abastecimento de
+água, coleta e tratamento de esgotos, drenagem de águas pluviais,
+distribuição de energia elétrica e telefonia.
+A área escolhida deve ter um relevo suave, de modo a minimizar a
+erosão do solo e reduzir os gastos com a limpeza e manutenção dos
+componentes do sistema de drenagem.
+Fonte: Monteiro et al. (2001)
+
+41
+
+Critérios
+
+Quadro 3 - Critérios político-sociais
+Observações
+Aterros são locais que atraem pessoas desempregadas, de baixa renda
+ou sem outra qualificação profissional, que buscam a catação dos
+resíduos domiciliares como forma de sobrevivência e que passam a
+viver desse tipo de trabalho em condições insalubres, gerando, para a
+prefeitura, uma série de responsabilidades sociais e políticas. Por
+
+Distância de
+núcleos urbanos
+de baixa renda
+
+isso, caso a nova área se localize próxima a núcleos urbanos de baixa
+renda, deverão ser criados mecanismos alternativos de geração de
+emprego e/ou renda que minimizem as pressões sobre a
+administração do aterro em busca da oportunidade de catação. Entre
+tais mecanismos poderão estar iniciativas de incentivo à formação de
+cooperativas de catadores, que podem trabalhar em instalações de
+reciclagem dentro do próprio aterro ou mesmo nas ruas da cidade, de
+forma organizada, fiscalizada e incentivada pela prefeitura.
+
+Acesso à área
+através de vias
+com baixa
+densidade de
+ocupação
+
+O tráfego de veículos transportando os resíduos sólidos é um
+transtorno para os moradores das ruas por onde estes veículos
+passam, sendo desejável que o acesso à área do aterro passe por
+locais de baixa densidade demográfica.
+É desejável que, nas proximidades da área selecionada, não tenha
+
+Inexistência de
+problemas com a
+comunidade local
+
+havido nenhum tipo de problema da prefeitura com a comunidade
+local, com organizações não-governamentais (ONG's) e com a mídia,
+pois esta indisposição com o poder público irá gerar reações
+negativas à instalação do aterro.
+Fonte: Monteiro et al. (2001)
+
+Dessa forma, pode-se ver que são necessários vários critérios a serem respeitados para
+encontrar uma área que seja adequada a implantação do aterro sanitário. Portanto, além de ser
+um empreendimento que exige um elevado investimento para a preparação da área, ainda é
+necessário encontrar esse local que respeite os critérios, por outro lado o aterro sanitário é
+essencial para a melhor gestão de resíduos domiciliares.
+
+42
+
+3.3.2 Resíduos de Limpeza Urbana
+
+No dia 05 de janeiro de 2007 foi instituída a Lei nº 11.445 que estabelece diretrizes
+nacionais para o saneamento básico, altera outras leis e dá outras providências. No artigo 7º
+inciso III estabelece que varrição, capina e poda de árvores em vias e logradouros públicos e
+outros eventuais serviços pertinentes à limpeza pública urbana faz parte do serviço público de
+limpeza urbana e de manejo de resíduos sólidos (BRASIL, 2007).
+
+3.3.2.1 Varrição
+
+Varrição é a principal atividade de limpeza de logradouros públicos. Os resíduos de
+limpeza urbana por varrição são compostos por areia, folhas que são carregadas pelo vento,
+pontas de cigarro, entre outros, que dependendo das características do local ocorrem em
+função de arborização existente, intensidade de trânsito de veículos, calçamento e estado de
+conservação do local, uso dominante (comercial, residencial etc.) ou pela circulação de
+pedestres (MANSUR; MONTEIRO, 1991).
+Além disso, segundo Mansur e Monteiro (1991), um fator que tem muita influência na
+limpeza urbana é o que eles chamam de grau de educação sanitária da população em que
+todos deveriam estar conscientes que mais importante que limpar é não sujar. Por isso, o
+próprio poder público poderia dar o exemplo e plantar árvores que não percam muitas folhas
+em certas épocas do ano e instalar caixas coletoras bem visíveis por toda parte. Assim, as
+prefeituras verão seu próprio trabalho diminuir no caso da varrição das vias públicas.
+Apesar disso, esse serviço tem que ser prestado e as tarefas a serem cumpridas são a
+de recolher os resíduos domiciliares espalhados na rua, efetuar varrição da calçada e da
+sarjeta, esvaziar caixas coletoras e arrancar o mato da sarjeta e ao redor das árvores e postes
+uma vez a cada 15 dias (MONTEIRO et al., 2001).
+Existem duas maneiras para fazer a varrição: mecânica e manual. A mecânica ocorre,
+geralmente, em grandes centros urbanos, já que é mais indicada para situações perigosas para
+varrição como pistas de trânsito rápido, túneis e viadutos. Ainda, apresenta melhores
+resultados em vias urbanas de grande extensão com boas condições de pavimentação. Já a
+
+43
+
+varrição manual é um serviço de limpeza urbana que exige um elevado número de
+trabalhadores e requer a elaboração de um projeto específico que deve ser ajustado
+periodicamente. Independente da maneira usada, o serviço tem que ser prestado para a beleza
+da cidade, segurança do tráfego, prevenir doenças e evitar o entupimento do sistema de
+drenagem de águas pluviais (REDE NACIONAL DE CAPACITAÇÃO E EXTENSÃO
+TECNOLÓGICA EM SANEAMENTO AMBIENTAL, 20092 apud MAEDA, 2013).
+
+3.3.2.2 Poda e capina
+
+Todas as cidades possuem áreas verdes como, principalmente, as praças ou também os
+parques, vias arborizadas, entre outros. Esses locais são muito importantes por proporcionar
+áreas de lazer ou um belo paisagismo, além de contribuir para o controle da temperatura e
+purificação do ar. Apesar disso, tem que ser feita a poda e capina desses locais afim de manter
+um ambiente agradável. Com isso, são gerados os resíduos de poda e capina que podem ser
+um problema para a gestão do município.
+Diversos municípios do país encontram dificuldades para a destinação desses resíduos,
+devido ao seu grande volume e às características que inviabilizam a compactação e aumentam
+o risco de combustão. A destinação deles para os aterros gera um custo elevado, além do
+desperdício de materiais lignocelulósicos, que poderia ser enviado a compostagem, por
+exemplo. Ainda, com essa prática, a vida útil dos aterros fica reduzida pelo grande volume de
+resíduo (MEIRA, 2010).
+No entanto, pode-se aproveitar esses resíduos de diversas formas, assim, evitando os
+impactos por eles causados nos aterros sanitários, conforme Vale, Sarmento e Almeida
+(2005)3 apud Meira (2010):
+− Adubo: serragem em geral e madeira sólida picada. É usada in natura ou, após
+etapas de compostagem, para a proteção do solo e como adubo.
+
+2
+
+REDE NACIONAL DE CAPACITAÇÃO E EXTENSÃO TECNOLÓGICA EM SANEAMENTO
+AMBIENTAL. Otimização do sistema de varrição pública. [S.l.: s.n.], 2009.
+3
+VALE, A. T.; SARMENTO, T. R.; ALMEIDA, A. N. Caracterização e uso de madeiras de galhos de árvores
+provenientes da arborização de Brasília-DF. Ciência Florestal, v. 15, n. 4, p. 411-420, jun. 2005.
+
+44
+
+− Cama de animais: serragem em geral, de preferência macia, para contato com
+os animais. Após o uso, a serragem suja com estrume pode ser usada como adubo.
+− Carvão e combustíveis: pontas, tocos, sobras, rejeitos, costaneiras, cascas e
+galhos usados em processos industriais para a produção de carvão, álcool, metanol e gás
+combustível.
+− Energia elétrica: pontas, tocos, sobras, rejeitos, costaneiras, cascas e galhos,
+bem como briquetes, são usados como lenha em usinas termoelétricas para a obtenção de
+energia elétrica. Contudo, há o problema da emissão de poluentes na atmosfera.
+− Energia térmica: pontas, tocos, sobras, rejeitos, costaneiras, cascas, galhos e
+briquetes, usados na queima para obtenção de calor em fornos de padarias, pizzarias,
+olarias e em caldeiras industriais. Também há o problema da emissão de poluentes.
+− Extração de óleos e resinas: serragem em geral, utilizada para a extração
+industrial de óleos e resinas para uso como combustível, resinas plásticas, colas e
+essências.
+− Madeira reconstituída: serragem em geral, usada na fabricação de chapas de
+madeira reconstituída.
+
+3.3.3 Panorama Nacional de Resíduos Sólidos Urbanos
+
+De acordo com Associação Brasileira de Empresas de Limpeza Pública e Resíduos
+Especiais (2017), a geração de RSU foi de 214.405 toneladas por dia no Brasil, o que dá em
+torno de 1,04 quilos por habitante por dia. No entanto, a coleta foi de 195.452 ton/dia ou
+0,948 kg/hab/dia. Dividindo a coleta pela geração, tem-se o índice de cobertura da coleta de
+RSU que foi de, aproximadamente, 91% em 2016.
+No caso da coleta seletiva, a Associação Brasileira de Empresas de Limpeza Pública e
+Resíduos Especiais (2017) estima que no Brasil há 3.878 municípios ou quase 70% das
+cidades há coleta seletiva. Vale ressaltar que nessa estimativa qualquer iniciativa de coleta
+seletiva é considerada, então muitos desses 3.878 municípios não realizam a coleta em toda
+sua área urbana.
+Por fim, um dado importante é que no Brasil havia 2.239 aterros sanitários em 2016,
+número menor que em 2015 e que a maioria deles estava nas regiões sul e sudeste. Sendo que
+
+45
+
+há um total de 5.570 locais de disposição final (lixões, aterros controlados e sanitários) vê-se
+que apenas 40% são da forma mais adequada de disposição final dos resíduos sólidos urbanos
+(ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE LIMPEZA PÚBLICA E RESÍDUOS
+ESPECIAIS, 2017).
+
+Tabela 2 - Quantidade de municípios por tipo de disposição final adotada.
+Disposição Final
+Brasil
+2016 – Regiões e Brasil
+2015
+
+Norte
+
+Aterro Sanitário
+
+2.244
+
+92
+
+458
+
+161
+
+Aterro Controlado
+
+1.774
+
+112
+
+500
+
+Lixão
+
+1.552
+
+246
+
+Brasil
+
+5.570
+
+450
+
+Nordeste Centro-oeste Sudeste
+
+Sul
+
+Brasil
+
+822
+
+706
+
+2.239
+
+148
+
+644
+
+368
+
+1.772
+
+836
+
+158
+
+202
+
+117
+
+1.559
+
+1.794
+
+467
+
+1.668
+
+1.191
+
+5.570
+
+Fonte: Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (2017)
+
+3.4
+
+Resíduos da construção civil
+
+3.4.1 Definição e classificação
+
+Em 05 de julho de 2002 foi publicada no Diário Oficial da União a Resolução nº 307
+do Conselho Nacional do Meio Ambiente (CONAMA) que estabelece diretrizes, critérios e
+procedimentos para a gestão dos resíduos da construção civil (BRASIL, 2002).
+Sendo assim, segundo a CONAMA nº307/02 (BRASIL, 2002), resíduos da construção
+civil são definidos como os provenientes de construções, reformas, reparos e demolições de
+obras de construção civil, e os resultantes da preparação e da escavação de terrenos, tais
+como: tijolos, blocos cerâmicos, concreto em geral, solos, rochas, metais, resinas, colas,
+tintas, madeiras e compensados, forros, argamassa, gesso, telhas, pavimento asfáltico, vidros,
+plásticos, tubulações, fiação elétrica, entre outros, comumente chamados de entulhos de obras.
+Além disso, essa mesma resolução classifica os RCC como:
+
+46
+
+“I – Classe A – são os resíduos reutilizáveis ou recicláveis como agregados,
+tais como:
+a) de construção, demolição, reformas e reparos de pavimentação e de
+outras obras de infraestrutura, inclusive solos provenientes de
+terraplanagem;
+b) de construção, demolição, reformas e reparos de edificações:
+componentes
+
+cerâmicos
+
+(tijolos,
+
+blocos,
+
+telhas,
+
+placas
+
+de
+
+revestimento, etc.), argamassa e concreto;
+c) de processo de fabricação e/ou demolição de peças pré-moldadas
+em concreto (blocos, tubos, meio-fios, etc.) produzidas nos canteiros
+de obras;
+II – Classe B – são os resíduos recicláveis para outras destinações, tais
+como plásticos, papel, papelão, metais, vidros, madeiras, embalagens vazias
+de tintas imobiliárias e gesso; (Redação dada pela Resolução nº 469/2015).
+III – Classe C – são os resíduos para os quais não foram desenvolvidas
+tecnologias ou aplicações economicamente viáveis que permitam a sua
+reciclagem ou recuperação; (Redação dada pela Resolução nº 431/11).
+IV – Classe D – são os resíduos perigosos oriundos do processo de
+construção, tais como tintas, solventes, óleos e outros ou aqueles
+contaminados ou prejudiciais à saúde oriundos de demolições, reformas e
+reparos de clínicas radiológicas, instalações industriais e outros, bem como
+telhas e demais objetos e materiais que contenham amianto ou outros
+produtos nocivos à saúde. (Redação dada pela Resolução nº 348/04)”
+
+(BRASIL, 2002).
+
+3.4.2 Origem, geração e caracterização
+
+A classificação da origem dos RCC é dividida em materiais de obras viárias, materiais
+de escavação, demolição de edificações, construção e renovação de edifícios e em limpeza de
+terrenos, sendo que essa classificação é bastante útil para a quantificação da geração dos
+
+47
+
+resíduos (THE SOLID WASTE ASSOCIATION OF NORTH AMERICA, 19934 apud
+PINTO, 1999).
+Segundo Marques Neto (2009) o processo de geração dos RCC é relacionado a quatro
+fatores que fazem parte do dia-a-dia nas construções, sendo eles: a ausência de gestão dos
+resíduos nos canteiros de obras, mão-de-obra despreparada no que diz respeito à gestão de
+resíduos, perdas e desperdícios de materiais devido a projetos pouco otimizados e métodos
+ineficazes e consumo excessivo de recursos naturais por superdimensionamento de serviços
+da construção.
+Dessa forma, a geração de resíduos pela ineficaz gestão das obras é elevada no caso de
+cimento e areia que correspondem a 56% e 44% do material adquirido para a construção,
+respectivamente. Além disso, para o aço é de cerca de 9%, 13% para blocos e tijolos e 9% no
+caso do concreto usinado (JOHN; AGOPYAN, 2000). Vale ressaltar que a porcentagem é em
+relação ao volume adquirido que é diferente para cada material.
+De acordo com Pinto (1999) a argamassa é o principal resíduo de construção civil que
+corresponde a 64% de todos os doze resíduos observados em obras típicas brasileiras. A
+Tabela 3 apresenta cada resíduo e sua respectiva porcentagem no total.
+
+Tabela 3 - Composição dos resíduos da construção civil (%)
+(continua)
+
+Composição dos RCC
+
+Composição Percentual
+
+Argamassas
+
+64,0
+
+Concreto
+
+4,2
+
+Madeira
+
+0,1
+
+Componentes cerâmicos
+
+11,1
+
+Blocos de concreto
+
+0,1
+
+Tijolos
+
+18,0
+Fonte: Adaptado de Pinto (1999)
+
+4
+
+THE SOLID WASTE ASSOCIATION OF NORTH AMERICA. Construction waste & demolition debris
+recycling. Maryland: Solid Waste Association of North America, 1993.
+
+48
+
+Tabela 3 - Composição dos resíduos da construção civil (%)
+(conclusão)
+
+Ladrilhos de concreto
+
+0,4
+
+Pedra
+
+1,4
+
+Cimento amianto
+
+0,4
+
+Papel e orgânicos
+
+0,2
+
+Solo
+
+0,1
+Total
+
+100
+Fonte: Adaptado de Pinto (1999)
+
+3.4.3 Coleta e transporte
+
+Conforme Marques Neto (2009) cidades em que o sistema de manejo dos RCC é
+repassado para a iniciativa privada, os serviços de coleta e transporte são realizados por
+empresas, conhecidas como caçambeiros. Muito embora seja dos geradores as
+responsabilidades pelos resíduos, são as empresas que cumprem o papel de eliminá-los. Por
+isso, elas têm papel fundamental na gestão, já que recolhem os entulhos das cidades
+transportando-os até as áreas de disposição final.
+Essas empresas que deveriam fazer o descarte adequado dos resíduos as vezes não
+executam a tarefa corretamente devido a alguns fatores como: novamente a capacidade de
+fiscalização e controle dos municípios, altos custos com combustíveis e manutenção da frota
+pelas empresas e falta de incentivo ao beneficiamento dos RCC realizando a triagem e
+reciclagem dos mesmos (MARQUES NETO, 2003).
+Portanto, essas etapas da gestão dos resíduos da construção civil merecem elevada
+atenção, já que depende delas para a disposição final ambientalmente adequada, que se não
+for realizada pode provocar significativos impactos ambientais.
+
+49
+
+3.4.4 Áreas de triagem e reciclagem
+
+De acordo com a Resolução CONAMA nº 307/2002 áreas de triagem são destinadas a
+receber RCC para a própria triagem, além de armazenamento temporário dos materiais
+separados e remoção para disposição final, respeitando normas específicas afim de evitar
+danos à saúde pública e minimizar impactos ambientais. Podem ser implementados em
+lugares estratégicos nas cidades na forma de Ecopontos e Pontos de Entrega Voluntária
+(PEV’s) que, segundo Tierno (2017), são estações onde o gerador, por iniciativa própria, deve
+entregar os resíduos separados por suas características físicas.
+Por sua própria característica os PEV’s e os Ecopontos são para pequenos geradores
+de resíduos, já que funcionam por entrega voluntária e estão localizados e divididos dentro
+das cidades. Há também as áreas de triagem para grandes geradores que diminuem ou
+eliminam o envio de RCC para os bota-foras.
+Desta forma, os Ecopontos que são bem gerenciados favorecem a reciclagem, já que
+auxiliam na separação dos resíduos e geram um elo entre os geradores e as usinas de
+reciclagem (CÓRDOBA, 2010).
+A reciclagem de RCC no Brasil começou no início da década de 1980 com o uso de
+equipamentos que faziam a moagem dos resíduos menos resistentes, como argamassas,
+utilizando o novo produto no revestimento da própria obra (PINTO, 1999).
+Aliás, frações de rochas naturais e concretos estruturais podem ser reciclados como
+agregados e usados para produzir concretos estruturais. Já frações de solo misturado e
+materiais cerâmicos com baixos teores de gesso são transformados, pelas centrais de
+reciclagem, em agregados que são utilizados em pavimentação de estradas, sendo essa uma
+vantagem desse processo por ter garantia de mercado do produto reciclado.
+Além do uso como revestimento e na base para pavimentação há outros usos para os
+produtos reciclados que, de acordo com Córdoba (2010), podem ser para agregados de
+concreto sem ter função estrutural na edificação ou então para fabricação de utensílios de
+cimento, dentre eles bancos, blocos e pisos em concreto.
+O uso dos produtos reciclados apresenta vantagens econômicas, sociais e ambientais
+como a economia na aquisição de matéria-prima, consequentemente, na preservação de
+reservas minerais, na criação de alternativas para os produtores e redução no consumo de
+combustíveis fósseis e energia na produção e transporte dos materiais. Ademais, diminui o
+
+50
+
+uso de aterro de inertes e a poluição gerada pela disposição inadequada de entulho,
+minimizando o impacto em rios e o causado pelas enchentes (CARNEIRO et al., 20015 apud
+MARQUES NETO, 2003).
+Uma outra vantagem econômica entre o custo de reciclar os resíduos e o custo de
+limpeza urbana pelo descarte irregular, seguido da correção da disposição e aterramento.
+Esses últimos processos custam para as prefeituras, aproximadamente, U$ 10 por metro
+cúbico, já a reciclagem corresponde a U$ 2,50/m³ (MARQUES NETO, 2003).
+Portanto, a reciclagem de resíduos da construção civil é viável técnica e
+ambientalmente, já que o risco de contaminação oriundo dessa atividade é considerado baixo,
+embora seja desejável um controle dos processos. As prefeituras operam centrais de
+reciclagem para utilizar os novos produtos, principalmente, na pavimentação. Sendo assim, o
+novo desafio é desenvolver essa prática tendo como base políticas públicas consistentes,
+pesquisa e desenvolvimento, uma legislação para essa área e promover a educação ambiental
+para os geradores de RCC (JOHN; AGOPYAN, 2000).
+
+3.4.5 Disposição final
+
+Em 18 de janeiro de 2012 foi publicada a Resolução CONAMA nº 448 que altera os
+artigos 2º, 4º, 5º, 6º, 8º, 9º, 10º e 11º da Resolução nº 307/02. O artigo 10º estabelece os
+critérios para a disposição final dos resíduos da construção civil, conforme sua classe, pelas
+seguintes formas:
+“I – Classe A: deverão ser reutilizados ou reciclados na forma de agregados
+ou encaminhados a aterro de resíduos classe A de reservação de material
+para usos futuros” (BRASIL, 2012).
+“II – Classe B: deverão ser reutilizados, reciclados ou encaminhados a
+áreas de armazenamento temporário, sendo dispostos de modo a permitir a
+sua utilização ou reciclagem futura;
+
+5
+
+CARNEIRO et al. (2001). Característica do entulho e do agregado reciclado. In: CARNEIRO, A. P.; BRUM, I.
+A. S.; CASSA, J. C. S. (Orgs.). Reciclagem de entulho para produção de materiais de construção. Salvador:
+EDUFBA, Caixa Econômica Federal. cap. 5, p. 144-187.
+
+51
+
+III – Classe C: deverão ser armazenados, transportados e destinados em
+conformidade com as normas técnicas específicas” (BRASIL, 2002).
+“IV – Classe D: deverão ser armazenados, transportados e destinados em
+conformidade com as normas técnicas específicas” (BRASIL, 2012).
+
+Para melhor entendimento um aterro de resíduos classe A de reservação de material
+para usos futuros é definido, pela própria Resolução CONAMA nº 448/12, como:
+“área tecnicamente adequada onde serão empregadas técnicas de
+destinação de resíduos da construção civil classe A no solo, visando a
+reservação de materiais segregados de forma a possibilitar seu uso futuro
+ou futura utilização da área, utilizando princípios de engenharia para
+confina-los ao menor volume possível, sem causar danos à saúde pública e
+ao meio ambiente e devidamente licenciado pelo órgão ambiental
+competente” (BRASIL, 2012).
+
+As disposições finais adequadas expostas pelas Resoluções citadas acima não são
+observadas na prática em muitos casos de descarte de resíduos da construção civil por uma
+série de fatores e a disposição irregular é frequentemente observada nos municípios
+brasileiros.
+Os pequenos geradores, que realizam obras informais como reformas ou ampliações,
+buscam áreas livres próximas para depositar os resíduos. Consequentemente, essas áreas
+acabam por servir como local para destinação de qualquer resíduo que não se tenha solução.
+Com isso, há a deterioração do ambiente pelo comprometimento da paisagem, tráfego de
+pedestres, drenagem urbana e multiplicação de vetores. Ainda, a incidência dessas áreas
+depende da capacidade de fiscalização e gestão do município e da existência de áreas
+suficientes para a disposição final ambientalmente adequada (PINTO, 1999).
+Segundo Pinto (1999) geralmente os grandes geradores fazem a disposição adequada
+dos RCC em aterros de inertes. Esse tipo de aterro pode ser em grandes ou pequenas áreas,
+públicos ou privados, que são designados para a recepção de resíduos da construção civil ou
+outros resíduos inertes. No entanto, o problema encontrado nesse caso é o rápido esgotamento
+dessas áreas.
+Portanto, vale ressaltar que deve haver por parte do Poder Público a fiscalização da
+disposição desses resíduos para evitar maiores impactos pelo descarte irregular. Ainda, deve-
+
+52
+
+se incentivar a triagem, com a construção de Ecopontos em locais estratégicos nas cidades, e
+reciclagem de parte desses resíduos e os que não há tecnologia e viabilidade devem ser
+descartados conforme as normas técnicas específicas, apresentadas na NBR 15.113 de 2004
+que estabelece diretrizes para projeto, implantação e operação de aterros de inertes.
+
+3.4.6 Panorama nacional de resíduos da construção civil
+
+De acordo com a Associação Brasileira de Empresas de Limpeza Pública e Resíduos
+Especiais (2017) foram coletadas 123.619 toneladas por dia de resíduos da construção civil
+que corresponde a 0,6 quilos por habitante por dia em 2016, um pouco abaixo de 2015 em que
+foi coletado 123.721 toneladas por dia. A região brasileira com a maior coleta foi a sudeste
+com 63.981 t/dia e a menor coleta foi a norte com 4.720 t/dia. Já o maior índice do volume
+coletado por habitante foi na região centro-oeste com 0,882 kg/hab/dia e o menor foi de novo
+na região norte com 0,266 kg/hab/dia.
+No Brasil em 1.330 municípios os RCC são dispostos em vazadouros junto com outros
+resíduos, que corresponde a 23,90% do total de municípios e em apenas 392 ou 7,05% é feito
+processamento (INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2010b).
+As Tabelas 4 e 5 apresentam mais detalhes.
+
+Tabela 4 - Número de municípios, total e os com serviços de manejo de RCC, por forma de
+disposição (valor em porcentagem em relação ao total)
+(continua)
+
+Total de municípios*
+Total
+Disposição em vazadouro em conjunto com os demais resíduos
+
+5.564 (100)
+4.031
+(72,45)
+1.330
+(23,90)
+
+Disposição/utilização sob controle em aterro convencional em conjunto
+com os demais resíduos
+* O município pode apresentar mais de uma forma de disposição.
+Fonte: Instituto Brasileiro de Geografia e Estatística (2010b)
+
+442 (7,94)
+
+53
+
+Tabela 4 - Número de municípios, total e os com serviços de manejo de RCC, por forma de
+disposição (valor em porcentagem em relação ao total)
+(conclusão)
+
+Disposição sob controle em pátio ou galpão de estocagem da prefeitura
+específico para resíduos especiais
+
+176 (3,16)
+
+Disposição sob controle em aterro da prefeitura específico para resíduos
+267 (4,80)
+
+especiais
+Disposição sob controle em aterro de terceiros específico para resíduos
+
+181 (3,25)
+
+especiais
+Utilização definitiva e sob controle dos resíduos como material de aterro
+pela prefeitura após triagem e remoção dos resíduos classes B, C e D
+
+503 (9,04)
+
+Utilização definitiva e sob controle dos resíduos como material de aterro
+por terceiros após triagem e remoção dos resíduos classes B, C e D
+Outra
+
+292 (5,25)
+1.235
+(22,20)
+
+Fonte: Instituto Brasileiro de Geografia e Estatística (2010b)
+
+Tabela 5 - Número de municípios com serviço de manejo de RCC, por tipo de processamento
+(valor em porcentagem em relação ao total)
+Total de municípios*
+5.564 (100)
+Total
+
+4.031 (72,45)
+
+Total com processamento
+
+392 (7,05)
+
+Triagem simples dos RCC reaproveitáveis (classes A e B)
+
+124 (2,23)
+
+Triagem de trituração simples dos resíduos classe A
+
+14 (0,25)
+
+Triagem e trituração dos resíduos classe A com classificação
+granulométrica dos agregados reciclados
+Reaproveitamento dos agregados produzidos na fabricação de
+componentes construtivos
+Outro
+
+20 (0,36)
+
+79 (1,42)
+204 (3,67)
+
+* O município pode apresentar mais de um tipo de processamento.
+Fonte: Instituto Brasileiro de Geografia e Estatística (2010b)
+
+Com esses dados pode-se ver que há muito o que ser feito nessa área para promover
+uma gestão adequada desses resíduos visando a melhor disposição e, acima disso, a não
+geração seguida dos 3R’s.
+
+54
+
+3.5
+
+Resíduos de serviços de saúde
+
+3.5.1 Definição e classificação
+
+No dia 04 de maio de 2005 foi publicada a Resolução CONAMA nº 358 que dispõe
+sobre o tratamento e disposição final dos resíduos dos serviços de saúde e dá outras
+providências. Essa Resolução define resíduos de serviços de saúde como:
+“todos aqueles resultantes de atividades exercidas nos serviços definidos no
+art. 1º desta Resolução que, por suas características, necessitam de
+processos diferenciados em seu manejo, exigindo ou não tratamento prévio
+à sua disposição final” (BRASIL, 2005).
+
+As atividades exercidas nos serviços definidos no art. 1º são de atendimento à saúde
+humana ou animal; laboratórios de análise de produtos para saúde; necrotérios e funerárias;
+serviços de medicina legal, drogarias e farmácias; instituições de ensino e pesquisa; centros de
+controle de zoonoses; distribuidores de produtos farmacêuticos; importadores, distribuidores e
+produtores de materiais e controle para diagnóstico in vitro; unidades móveis de serviços de
+saúde e serviços de acupuntura e tatuagem (BRASIL, 2005).
+Esta mesma Resolução classifica os RSS conforme o Quadro 4:
+
+Quadro 4 - Classificação dos Resíduos de Serviços de Saúde
+(continua)
+Grupo
+A
+
+Classificação
+Resíduos que podem conter agentes biológicos em maior virulência ou
+concentração apresentando risco de infecção
+Resíduos contendo substâncias químicas que podem apresentar risco à saúde
+
+B
+
+pública ou ao meio ambiente, dependendo de suas características de
+inflamabilidade, corrosividade, reatividade e toxicidade
+Fonte: Resolução CONAMA nº 358/05 adaptado pelo autor.
+
+55
+
+Quadro 4 - Classificação dos Resíduos de Serviços de Saúde
+(conclusão)
+Quaisquer materiais resultantes de atividades humanas que contenham
+C
+
+radionuclídeos em quantidades superiores aos limites de eliminação especificados
+nas normas da Comissão Nacional de Energia Nuclear (CNEN)
+
+D
+
+Resíduos que não apresentam risco biológico, químicos ou radiológico à saúde ou
+ao meio ambiente, podendo ser equiparados aos resíduos domiciliares
+
+E
+
+Materiais perfurocortantes ou escarificantes
+Fonte: Resolução CONAMA nº 358/05 adaptado pelo autor.
+
+3.5.2 Segregação
+
+No dia 07 de dezembro de 2004 foi publicada a Resolução RDC nº 306 da Agência
+Nacional de Vigilância Sanitária (ANVISA) que dispõe sobre o Regulamento Técnico para o
+gerenciamento de resíduos de serviços de saúde. Essa Resolução define segregação como a
+“separação de resíduos no momento e local de sua geração, de acordo com as características
+físicas, químicas, biológicas, o seu estado físico e os riscos envolvidos” (BRASIL, 2004).
+Essa etapa do gerenciamento dos RSS é muito importante porque reduz a quantidade
+de resíduos que necessita de cuidados especiais, já que os infecciosos, patogênicos ou
+perigosos quando misturados com os outros coloca em risco toda a massa sendo, nesse caso,
+necessário o manejo específico do todo como se fossem resíduos especiais (MACHADO,
+1988 apud PUGLIESI, 2010).
+Já Ferreira (2012) cita que as dificuldades na segregação dos resíduos apontam na falta
+de conhecimento técnico no manejo e que há a necessidade de intervenção no setor dando
+orientação aos profissionais desse ramo afim de que a segregação e as outras etapas sejam
+executadas satisfatoriamente.
+Analogamente aos resíduos domiciliares, a etapa de segregação norteará as seguintes
+etapas, principalmente, se haverá reutilização ou reciclagem dos resíduos e quais poderão ser
+os tratamentos empregados para dispor adequadamente. Portanto é de extrema importância a
+boa execução para não comprometer a estratégia de gestão dos resíduos de serviços de saúde.
+
+56
+
+3.5.3 Acondicionamento
+
+De acordo com a RDC nº 306/04 (BRASIL, 2004) “acondicionamento consiste no ato
+de embalar os resíduos segregados, em sacos ou recipientes que evitem vazamentos e resistam
+às ações de punctura e ruptura. A capacidade dos recipientes de acondicionamento deve ser
+compatível com a geração diária de cada tipo de resíduo”.
+Portanto, o acondicionamento deve ser feito respeitando as características físicas e em
+vasilhames que os suportem química e fisicamente, sendo que os mais usados são os sacos
+plásticos branco leitosos e as caixas para materiais perfurocortantes (FERREIRA, 2012).
+Ainda, o acondicionamento deve respeitar alguns critérios com relação as cores dos
+recipientes, com o grupo e o material dos resíduos, como está no Quadro 5.
+
+Grupo
+
+Quadro 5 - Descrição da cor do recipiente por grupo de resíduos
+Risco
+Descrição da cor do recipiente
+
+A
+
+Infectante
+
+Saco branco leitoso
+
+B
+
+Químico
+
+Saco laranja
+
+C
+
+Radioativo
+
+Saco magenta
+Cinza
+
+D
+
+E
+
+Comum
+
+Perfurocortante
+
+Material
+
+Cor
+
+Papel
+
+Azul
+
+Plástico
+
+Vermelho
+
+Metal
+
+Amarelo
+
+Vidro
+
+Verde
+
+Orgânico
+
+Marrom
+
+Caixa rígida específica
+
+Fonte: RDC nº 306/2004 adaptado por Pugliesi (2010)
+
+57
+
+3.5.4 Coleta interna e externa e armazenamento temporário e externo
+
+A coleta interna é definida como o transporte interno dos resíduos dos pontos de
+geração até o local de armazenamento temporário. Ela deve ser feita em horários que não há
+distribuição de roupas, alimentos e medicamentos, períodos de visitas, ou seja, de maior fluxo
+de pessoas. Além disso, deve-se ter uma coleta para cada grupo de resíduos em recipientes de
+material rígido, lavável, impermeável, com tampa articulada, cantos e bordas arredondadas e
+com o respectivo símbolo para identificação (BRASIL, 2004).
+Já o armazenamento temporário representa o local próximo aos pontos de geração dos
+resíduos e tem como objetivo otimizar a coleta dentro do estabelecimento e o deslocamento
+entre a coleta interna e o armazenamento externo (BRASIL, 2004).
+Portanto,
+
+esse
+
+sistema
+
+com
+
+armazenamento
+
+temporário
+
+deve
+
+ocorrer
+
+em
+
+estabelecimentos em que se justifique a utilização do mesmo pela maior distância entre o
+armazenamento externo e os pontos de geração.
+Então, nos estabelecimentos que houver um local para armazenamento temporário
+deve ter também a coleta externa que, segundo Ferreira (2012), consiste no transporte dos
+RSS desse armazenamento até o abrigo de resíduos, também chamado de armazenamento
+externo. Nessa etapa também vale as mesmas exigências com relação a segurança ocupacional
+da coleta interna.
+Por fim, o abrigo de resíduos ou armazenamento externo é o local, em ambiente
+exclusivo e de fácil acesso para os veículos coletores, onde é guardado os recipientes de
+resíduos até a realização da etapa de transporte (BRASIL, 2004).
+
+3.5.5 Transporte
+
+A etapa de transporte consiste na coleta dos resíduos que estão no armazenamento
+externo dos estabelecimentos transportando-os até os locais de tratamento e/ou disposição
+final. Para isso, deve-se utilizar técnicas, de acordo com as diretrizes dos órgãos de limpeza
+urbana, para assegurar a integridade dos trabalhadores, da população e do meio ambiente e a
+preservação do acondicionamento dos RSS (BRASIL, 2004).
+
+58
+
+Ferreira (2012) enfatiza o fato de que deve respeitar normas para o transporte, já que
+os veículos coletores irão circular pelas cidades ou fora delas, dependendo do local de
+tratamento ou disposição final. Logo, o cumprimento das normas é de extrema importância
+para evitar problemas de saúde pública.
+Segundo a Resolução RDC nº 306/2004 (BRASIL, 2004) as normas a serem
+respeitadas são a NBR 12.810 e 14.652 da ABNT.
+
+3.5.6 Tratamento e disposição final
+
+O tratamento dos RSS significa a aplicação de método, técnica ou processo que altere
+o risco inerente desses resíduos, minimizando ou eliminando o risco de contaminação, de
+acidentes ou danos ao meio ambiente (BRASIL, 2004).
+Em outras palavras, o tratamento tem como finalidade alterar as características físicas,
+químicas, biológicas ou mesmo a composição dos resíduos de serviços de saúde afim de se
+ajustar aos padrões de disposição final (ANDRADE, 19976 apud PUGLIESI, 2010).
+No Quadro 6 é apresentado as características, vantagens e desvantagens dos principais
+tipos de tratamento no Brasil, que são: a autoclavagem, incineração e micro-ondas.
+
+Quadro 6 - Descrição e vantagens e desvantagens de cada tipo de tratamento
+(continua)
+
+Tratamento
+
+Autoclavagem
+
+descontaminação
+
+de Vantagens: baixo custo de investimento, econômico para
+com pequenos empreendimentos, relativamente fácil de operar
+
+utilização de vapor em e não gera emissões para a atmosfera.
+altas
+
+temperaturas, Desvantagens: eficiência de esterilização depende da
+
+podendo chegar a 135 correta operação, algumas embalagens impedem a
+°C.
+
+entrada de vapor comprometendo a esterilização completa
+e não pode ser usada para resíduos anatômicos.
+Fonte: Crema et al. (2009) apud Pugliesi (2010)
+
+6
+
+ANDRADE, J. B. L. Análise do fluxo e das características físicas, químicas e microbiológicas dos resíduos
+de serviço de saúde: proposta de metodologia para o gerenciamento em unidades hospitalares. 1997. 208 f. Tese
+(Doutorado) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 1997.
+
+59
+
+Quadro 6 - Descrição e vantagens e desvantagens de cada tipo de tratamento
+(conclusão)
+
+Converte
+
+combustíveis Vantagens: aplicável a todos os resíduos, grande redução
+
+em cinzas e gases de no volume (aproximadamente 80%), calor gerado pode
+combustão. Utiliza gás ser usado para gerar energia elétrica e diminui custos do
+
+Incineração
+
+natural,
+
+metano
+
+ou transporte de escória aos aterros.
+
+diesel para combustão, Desvantagens: elevado custo de investimento, emissão
+geralmente
+
+possuem de poluentes gasosos (caso não exista um sistema
+
+câmara primária (atua eficiente de tratamento dos gases) e necessidade de
+com temperatura de 800 sistema de monitoramento ambiental.
+a 1.000 °C) e secundária
+(atua com temperatura
+de 900 a 1.200 °C).
+Indução
+
+elétrica Vantagens: redução de 80% do volume, fácil operação,
+
+produzida por campos ocupa pequena área e não produz efluente líquido nem
+elétricos alternados com emite gases na atmosfera.
+frequências
+
+Micro-ondas
+
+que
+
+elevadas Desvantagens: impedimento de operação no cone de
+
+entram
+
+ressonância
+
+em recepção, quando entra objetos rígidos no triturador, que
+
+com
+
+as aceita somente pequenas peças de metal.
+
+moléculas
+
+de
+
+água
+
+existentes
+
+nos
+
+RSS
+
+provocando
+aquecimento
+(frequências
+
+utilizadas
+
+varia de 915 a 2.450
+MHz.
+Fonte: Crema et al. (2009) apud Pugliesi (2010)
+
+Por fim, a última etapa do gerenciamento dos resíduos de serviços de saúde é a
+disposição final que, analogamente aos outros resíduos aqui explorados e conforme a
+Resolução RDC nº 306/04 (BRASIL, 2004) é definida como a “disposição de resíduos no
+solo, previamente preparado para recebe-los, obedecendo a critérios técnicos de construção e
+operação, e com licenciamento ambiental”.
+
+60
+
+3.5.7 Panorama nacional de resíduos de serviço de saúde
+
+No Brasil em 2016 foram coletadas 256.238 toneladas de resíduos de serviços de
+saúde o que equivale a 3,38 gramas por habitante por dia. Desse montante coletado foram
+destinados a incineração 50,2%, a autoclave 22,3%, a micro-ondas 1,8% e o restante de
+25,7% não foram tratados previamente antes de serem dispostos em aterros, valas sépticas ou
+mesmo em lixões (ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE LIMPEZA
+PÚBLICA E RESÍDUOS ESPECIAIS, 2017).
+Ainda segundo a Associação Brasileira de Limpeza Pública e Resíduos Especiais
+(ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE LIMPEZA PÚBLICA E RESÍDUOS
+ESPECIAIS, 2017) a capacidade instalada para tratamento de RSS no Brasil em 2016 era de
+363.285 tonelada por ano divididos em 56.940 t/ano para micro-ondas, 114.026 t/ano no caso
+da incineração e 192.319 t/ano no uso de autoclaves.
+
+3.6
+
+Caracterização de Aguaí (SP)
+
+3.6.1 Aspectos socioeconômicos e de uso e ocupação do solo
+
+3.6.1.1 Dinâmica populacional
+
+Aguaí e o Estado de São Paulo possuem um alto grau de urbanização, acima de 90%,
+por outro lado, a cidade possui menor densidade demográfica (FUNDAÇÃO SISTEMA
+ESTADUAL ANÁLISE DE DADOS, 2018), já que detém uma grande área municipal e uma
+mancha urbana concentrada, representadas na Figura 2. Outros aspectos demográficos estão
+no Quadro 7.
+
+61
+
+Unidade
+Aguaí
+Estado de
+São Paulo
+
+Quadro 7 - Aspectos demográficos - 2018
+Grau de
+População
+População
+urbanização
+urbana
+Área (km²)
+(hab.)
+(%)
+(hab.)
+34.919
+91,85
+32.073
+474,55
+43.993.159
+
+96,42
+
+42.418.204
+
+Densidade
+demográfica
+(hab/km²)
+73,58
+
+248.219,63
+
+177,23
+
+Fonte: FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS (2018).
+
+Figura 2 - Relação da área urbana e rural de Aguaí
+
+Fonte: SECRETARIA DE ESTADO DE SANEAMENTO E RECURSOS HÍDRICOS DE SÃO
+PAULO (2014).
+
+3.6.1.2 Características econômicas
+
+Em Aguaí, assim como no Estado de São Paulo, os setores que mais adicionam valor
+ao produto interno bruto (PIB) são o de serviços e da indústria que correspondem a,
+aproximadamente, 92% do PIB da cidade. Ainda, o PIB per capita é de, cerca de, R$22.000
+na cidade enquanto que no Estado é de R$45.064,93 (FUNDAÇÃO SISTEMA ESTADUAL
+ANÁLISE DE DADOS, 2018).
+
+62
+
+Unidade
+Aguaí
+Estado de
+São Paulo
+
+Quadro 8 - Participação do valor adicionado setorial no PIB - 2015
+Participação do valor adicionado
+PIB (em
+PIB per Participação
+(%)
+milhões capita (em no Estado
+de reais)
+reais)
+(%)
+Agropecuária Indústria
+Serviços
+7,73
+32,13
+60,14
+747,43
+22.042,20
+0,038
+1,62
+
+21,93
+
+76,45
+
+1.939.890
+
+45.064,93
+
+100
+
+Fonte: FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS (2018).
+
+No caso das participações dos vínculos empregatícios, o setor agropecuário, com
+21,03%, é um dos setores que mais emprega em Aguaí, porém, no Estado de São Paulo, esse
+setor é o que menos emprega, com 2,51% de participação. Além disso, o setor que mais
+emprega em Aguaí é o de indústria enquanto que o de construção civil é o que menos
+emprega, apenas 1,69% de participação (FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE
+DE DADOS, 2018).
+
+Quadro 9 - Participação dos vínculos empregatícios por setor (%) - 2017
+Unidade
+Agropecuário
+Indústria
+Construção
+Comércio
+Serviços
+Aguaí
+21,03
+29,70
+1,69
+19,87
+27,71
+Estado de
+2,51
+17,72
+4,04
+20,21
+55,52
+São Paulo
+Fonte: FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS (2018).
+
+Ainda segundo a Fundação SEADE (FUNDAÇÃO SISTEMA ESTADUAL
+ANÁLISE DE DADOS, 2018), sobre o rendimento médio de cada vínculo empregatício, o
+setor que possui o maior rendimento em Aguaí, assim como no Estado de São Paulo, é da
+indústria. Os rendimentos dos demais setores estão no Quadro 10.
+
+Quadro 10 - Rendimento médio dos vínculos empregatícios por setor (em reais) - 2017
+Unidade
+Agropecuário
+Indústria
+Construção
+Comércio
+Serviços
+Aguaí
+1.754,69
+2.957,31
+1.653,04
+1.719,93
+2.337,79
+Estado de
+2.006,99
+3.796,28
+2.719,49
+2.509,24
+3.507,50
+São Paulo
+Fonte: FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS (2018).
+
+Com relação as finanças públicas municipais, a arrecadação da prefeitura foi de
+R$75.688.743,12 que corresponde a R$2.131,60 por habitante no ano de 2017 (PORTAL DA
+TRANSPARÊNCIA MUNICIPAL, 2018).
+
+63
+
+3.6.1.3 Infraestrutura urbana e social
+
+Segundo o site da Câmara Municipal de Aguaí (CÂMARA MUNICIPAL DE AGUAÍ,
+2018) a distância da cidade à capital é de 200km e há três rodovias no sistema viário: a SP225, SP-340 e a SP-344.
+Com relação ao consumo de energia houve aumento tanto do número de consumidores
+quanto do consumo total. Em 2016, o consumo foi de 81.817 MWh por 13.184 consumidores,
+contudo, em 2017 o número de consumidores foi para 13.389 que fizeram o uso de 84.601
+MWh (FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS, 2018).
+Em Aguaí não há nenhum hospital em funcionamento, mas, segundo o IBGE
+(INSTITUTO BRASILEIRO DE GEOGRAFICA E ESTATÍSTICA, 2017) há 12
+estabelecimentos de saúde em funcionamento, com base no ano de 2009. Ainda, o Quadro 11
+apresenta dois indicadores de saúde no município e no Estado de São Paulo.
+
+Quadro 11 - Indicadores de saúde (por mil) - 2017
+Unidade
+Taxa de Natalidade
+Taxa de Mortalidade infantil
+Aguaí
+13,01
+15,56
+Estado de São Paulo
+14,00
+10,74
+Fonte: FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS (2018).
+
+No que se refere ao tema de educação, no município há 20 escolas de ensino
+fundamental e 5 de ensino médio, além disso, apresenta uma das piores taxas de escolarização
+de 6 a 14 anos do país, na posição 4.692 de 5.570 cidades (INSTITUTO BRASILEIRO DE
+GEOGRAFICA E ESTATÍSTICA, 2017). No Quadro 12 há mais um dado sobre o ensino na
+cidade.
+
+Quadro 12 - Taxa de analfabetismo (%) - 2010
+Unidade
+Taxa de analfabetismo da população com 15 anos e mais
+Aguaí
+7,73
+Estado de São Paulo
+4,33
+Fonte: FUNDAÇÃO SISTEMA ESTADUAL ANÁLISE DE DADOS (2018).
+
+3.6.1.4 Uso do solo
+
+Vegetação de porte médio a alto, vegetação de porte rasteiro a baixo e outros usos
+(naturais e antrópicos) são as categorias do uso do solo. Segundo a SSRH (SECRETARIA DE
+
+64
+
+ESTADO DE SANEAMENTO E RECURSOS HÍDRICOS DE SÃO PAULO, 2014) a
+categoria de vegetação de porte médio a alto é dividida em mata, mata ciliar e
+reflorestamento, que correspondem a 13,82% da área do município. Já, a categoria de
+vegetação de porte rasteiro a baixo é a maior e corresponde a 82,12% da área e é dividida em
+cultuas perene e pastagem e campo antrópico (SECRETARIA DE ESTADO DE
+SANEAMENTO E RECURSOS HÍDRICOS DE SÃO PAULO, 2014).
+Por fim, ainda de acordo com a SSRH (SECRETARIA DE ESTADO DE
+SANEAMENTO E RECURSOS HÍDRICOS DE SÃO PAULO, 2014), a categoria de usos
+naturais e antrópicos é dividida em corpos d’água e área urbanizada que correspondem,
+respectivamente, a 2,69% e 1,37% da área total do município. Na Figura 3 está representada a
+distribuição da área urbanizada.
+Figura 3 – Distribuição da cidade de Aguaí
+
+Fonte: Google Earth
+
+65
+
+3.6.2 Organograma e Leis Municipais de gestão de Resíduos Sólidos
+
+A gestão de resíduos sólidos em Aguaí é feita pela subsecretaria de Meio Ambiente
+que pertence, com outras quatro subsecretarias, a Secretaria de Engenharia que é uma das
+nove secretarias pertencentes a Prefeitura Municipal de Aguaí. Além disso, o responsável pela
+subsecretaria de Meio Ambiente é o gestor Gelson Vallim. O organograma dessa divisão de
+secretarias está representado na Figura 4.
+
+Figura 4 - Organograma das secretarias da prefeitura
+
+Fonte: PREFEITURA MUNICIPAL DE AGUAÍ (2018).
+
+Com relação as Leis Municipais de gestão de Resíduos Sólidos, tem-se que no dia 26
+de maio de 1995 foi promulgada a Lei nº 1.572 que criou o Conselho Ecológico Municipal de
+Aguaí, instituiu o Fundo Municipal de Meio Ambiente, além de outras providências (AGUAÍ,
+1995).
+Segundo a Lei nº 1.572 (AGUAÍ, 1995) o Conselho Ecológico Municipal de Aguaí
+tem alguns objetivos com relação a melhoria da gestão dos resíduos sólidos, são eles:
+− Apresentar ao Poder Público Municipal sugestões de melhoria nos serviços de
+limpeza das vias púbicas, assim como na destinação de resíduos domiciliares,
+industriais, de estabelecimentos comerciais e de serviços de saúde;
+− Apresentar ao Poder Público sugestões de coleta seletiva;
+
+66
+
+− Sugerir ao Poder Público um programa de educação ambiental a ser inserido como
+disciplina nas escolas municipais.
+
+Em 30 de junho de 2000 foi promulgada a Lei Municipal nº 1.782 que estabeleceu um
+convênio entre a Prefeitura de Aguaí e a Secretaria de Estado do Meio Ambiente de São Paulo
+para a implantação do aterro municipal, sendo liberado pelo Estado R$20.477,00 e pela
+prefeitura R$7.193,00 (AGUAÍ, 2000).
+A última lei em vigor que estabelece melhoria para a gestão dos resíduos é a Lei nº
+2.783, promulgada no dia 24 de janeiro de 2018 e que dispõe sobre o recolhimento e a
+destinação de RCC e resíduos volumosos em Aguaí e dá outras providências (AGUAÍ, 2018).
+Com relação aos RCC, segundo o artigo 3 parágrafo 2º (AGUAÍ, 2018) os resíduos da
+construção civil não podem ser dispostos em áreas de “bota-fora”, encostas de corpos d’água,
+lotes vagos e outras áreas públicas ou protegidas por lei. Portanto, a partir de 2018 se tornou
+lei a proibição de disposição irregular de RCC.
+Além disso, a partir desse ano começou a ser feito o cadastro de todas as empresas ou
+pessoas físicas que transportam os resíduos da construção civil, podendo o município cobrar
+despesas referentes a utilização das áreas de disposição final dos resíduos (AGUAÍ, 2018).
+
+67
+
+4 MATERIAL E MÉTODOS
+
+4.1
+
+Diagnóstico da gestão dos resíduos estudados
+
+4.1.1 Estratégias de gestão dos resíduos
+
+Para a realização dessa primeira etapa da pesquisa foi utilizada como base um
+exemplo de estratégia adequada de gestão integrada para cada tipo de resíduo estudado,
+conforme as Figuras 5, 6, 7 e 8. Foi considerado esse um modelo adequado de gestão para
+cada tipo de resíduo estudado, feito respeitando leis e resoluções sobre os mesmos, o qual foi
+utilizado para comparar ao modelo atual de gestão do município de Aguaí, com a finalidade
+de guiar o modo como o diagnóstico seria feito e sem considerar essas estratégias como os
+únicos modos de fazer a gestão desses resíduos.
+Então, por meio de consultas com o gestor de meio ambiente da prefeitura foram
+obtidos dados e documentos sobre a gestão dos resíduos. As consultas foram duas reuniões
+feitas na prefeitura de Aguaí, a primeira no dia 11 de janeiro de 2018 e a segunda no dia 15 de
+março de 2018, em que na primeira foram apresentados os diagramas ao gestor e solicitado os
+dados e documentos que o município tivesse sobre a gestão dos resíduos estudados. Já na
+segunda reunião foram obtidos e analisados os documentos. A análise foi feita sobre quais
+itens dos diagramas estão sendo praticados ou não nesse modelo de gestão atual para cada tipo
+de resíduo estudado.
+
+68
+
+Figura 5 - Estratégia de gestão para resíduos domiciliares
+
+Fonte: SCHALCH (2016)
+
+No caso dos resíduos domiciliares a consulta começou abordando se há incentivos, por
+parte da prefeitura, a não geração, redução e reutilização dos resíduos, seguido dos outros
+itens, como a maneira em que é feito o acondicionamento, se há coleta seletiva e de resíduos
+sólidos orgânicos, como e quando é feito o transporte dos RD. Além disso, se há reciclagem
+do material seco e úmido que podem ser utilizados em outros processos ou até para gerar
+energia e, por fim, onde são dispostos os rejeitos atualmente e qual a situação do local.
+
+69
+
+Figura 6 - Estratégia de gestão para resíduos de limpeza urbana
+
+Fonte: SCHALCH (2016)
+
+Já para a estratégia dos resíduos de limpeza urbana abordou-se o modo em que é feito
+o acondicionamento dos resíduos de poda e capina e se há área de triagem para separar
+troncos de pequenos galhos e folhas. Ainda, se há triturador para esses materiais afim de
+poder utiliza-los em processos como a compostagem ou para gerar energia também. No fim
+desses processos, os compostos que não foram utilizados são caracterizados como rejeitos e
+foi consultado qual a disposição final deles.
+
+70
+
+Figura 7 - Estratégia de gestão para resíduos da construção civil
+
+Fonte: SCHALCH (2016)
+
+O penúltimo resíduo estudado, o da construção civil, tem a estratégia elaborada de
+acordo com as Resoluções CONAMA nº 308/2002 e nº 448/2012 e, primeiramente, foi
+observado se tem Plano Municipal de Gestão Integrada de RCC e Plano de Gerenciamento de
+RCC por parte dos grandes geradores do município. Em seguida, se há Ecopontos, se há a
+separação desses resíduos por classe e o quanto foi constatado de cada uma, se é feita a
+reutilização ou reciclagem e qual a disposição final.
+
+71
+
+Figura 8 - Estratégia de gestão para resíduos de serviços de saúde
+
+Fonte: SCHALCH (2016)
+
+Por último, na estratégia dos resíduos de serviços de saúde foi abordado se há por
+parte do município o Plano Integrado de Gerenciamento de RSS e programas que incentivam
+a não geração e os 3R’s para esses resíduos. Já por parte dos geradores também foi abordado
+se há um plano de gerenciamento que oriente eles sobre as ações de manejo de cada grupo.
+Para finalizar, observou-se como é feita a coleta e transporte e onde é disposto os RSS.
+
+4.1.2 Questionários sobre a gestão dos resíduos estudados
+
+A segunda parte dessa etapa foi feita com base nos questionários presentes nos anexos
+A, B, C e D, sendo eles para os resíduos domiciliares, de limpeza urbana, da construção civil
+e de serviços de saúde, respectivamente, que complementam o diagnóstico. Em cada anexo há
+um questionário que busca a maior compreensão de questões qualitativas e quantitativas de
+como está sendo administrada cada etapa das estratégias de gestão.
+
+72
+
+Esses roteiros de perguntas foram apresentados ao responsável pela área de meio
+ambiente da prefeitura que ficou encarregado de levantar as informações necessárias e
+disponíveis para responde-los.
+Foi combinado um prazo de, aproximadamente, 7 dias úteis para o gestor de meio
+ambiente levantar as informações necessárias afim de preencher os questionários sobre a
+gestão integrada de cada resíduo estudado.
+Por fim, com as informações em mãos, foi feita uma reunião, no dia 08 de maio de
+2018, em que foi possível preencher os questionários conforme os dados que a prefeitura tinha
+registrado.
+
+4.2
+
+Proposição de medidas para adequação da gestão dos resíduos estudados à PNRS
+
+Na última etapa foram propostas melhorias para o sistema de gestão dos resíduos
+estudados a partir das estratégias de gestão utilizadas na etapa anterior e das informações
+obtidas com a aplicação dos questionários.
+Com esses dados obtidos na etapa 4.1 foi possível entender em detalhes como é a
+gestão dos resíduos por parte da prefeitura. Assim, pode-se observar quais itens das
+estratégias adequadas (Figuras 5, 6, 7 e 8) são praticados satisfatoriamente ou não. Para os
+que não são satisfatórios foram propostas medidas para adequá-los ao que está na Política
+Nacional de Resíduos Sólidos.
+Portanto, nessa última etapa foi feita a junção das estratégias com os questionários
+afim de poder desenvolver a gestão dos resíduos domiciliares, de limpeza urbana, da
+construção civil e de serviços de saúde em Aguaí. Foram considerados três prazos de atuação:
+o curto prazo até 5 anos, o médio prazo até 10 anos e o longo prazo até 20 anos.
+
+73
+
+5 RESULTADOS E DISCUSSÃO
+
+5.1
+
+Diagnóstico da gestão dos resíduos estudados
+
+5.1.1 Resíduos domiciliares
+
+Conforme o Anexo A, respondido pelo gestor de meio ambiente Gelson Vallim, o
+município de Aguaí não possui o plano de gestão integrada de resíduos domiciliares, mas está
+em elaboração.
+Por meio do número de viagens que o caminhão da prefeitura faz na coleta dos
+resíduos domiciliares, o gestor de meio ambiente estima que é coletada, aproximadamente, 28
+toneladas por dia. Essa coleta é dividida em 4 setores, sendo que é realizada 3 vezes por
+semana em cada, abrangendo toda a área urbana, porém não é feita na zona rural do
+município. Ainda, não se sabe quais os custos da coleta regular que é feita por 12 funcionários
+utilizando 3 caminhões compactadores.
+Como não foi realizado a caracterização e composição gravimétrica e não há coleta
+seletiva na cidade, os resíduos sólidos orgânicos não são aproveitados nem se sabe a
+quantidade coletada. Também não há programas de incentivo a população a redução da
+quantidade destinada ao aterro.
+A disposição final dos RD é inadequada, pois o local onde são dispostos não possui
+impermeabilização de base, e não há área de transbordo, já que não é necessária pela distância
+entre o aterro e a zona urbana. Por fim, na prefeitura não há registro de qual o custo de
+operação e manutenção do aterro controlado, também essas etapas são simples nesse caso, já
+que não há coleta de gases, líquidos percolados e, como citado acima, o fundo das valas não é
+revestido com material impermeabilizante.
+Com as informações obtidas pelo questionário e a estratégia de gestão dos resíduos
+domiciliares utilizada nesse trabalho, foi elaborado um diagrama (Figura 9) conciliando cada
+etapa dessa estratégia com o que está sendo executado em Aguaí, ou seja, o que foi
+respondido no questionário.
+
+74
+
+Figura 9 - Gestão dos resíduos domiciliares em Aguaí
+
+Fonte: Elaborado pelo autor.
+
+Sendo assim, pode-se ver que as 28 toneladas por dia coletadas vão direto ao aterro
+controlado sem ser realizada qualquer separação de resíduos que possam ser reciclados, tanto
+os secos como os orgânicos. Esse fato prejudica a vida útil do aterro, já que boa parte do
+volume gerado não deveria ser disposto, além de que a forma de disposição é inadequada e,
+portanto, não respeita todos os critérios, principalmente, do ponto de vista ambiental.
+De acordo com Franceschi (2017) a média da massa diária de resíduos domiciliares
+coletada per capita em 19 de 20 municípios estudados da Bacia Hidrográfica Tietê-Jacaré é de
+0,66 kg/hab.dia. Já, de acordo com o Instituto Brasileiro de Geografia e Estatística
+(INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2017) a população
+estimada para o município de Aguaí em 2017 era de 35.508 pessoas. Realizando a
+multiplicação do dado do IBGE com o do Franceschi, tem-se que, aproximadamente, 23,5
+toneladas por dia seriam coletadas na cidade, o que difere da estimativa do Gelson em torno
+de 16%.
+Ainda, no Brasil, 51,4% dos resíduos são de matéria orgânica, além de 2,9% metais,
+13,5% plásticos, 13,1% de papel e papelão e 2,4% de vidros, o que corresponde a 31,9% de
+resíduos recicláveis secos (IPEA, 2012).
+Portanto, em uma situação ideal, poderia diminuir em até 83,3% o volume de RD
+destinado ao aterro de Aguaí que, segundo Gelson Vallim, já está no fim da sua vida útil,
+sendo dispostos em torno de 3,9 a 4,7 toneladas por dia apenas. Além de poder promover a
+reciclagem de um grande volume, que são os materiais secos e orgânicos, em relação ao total
+gerado.
+Segue as Figuras 10, 11, 12 e 13 que demonstram a localidade e as características
+atuais do aterro do município de Aguaí.
+
+75
+
+Figura 10 - Indicação do local de disposição final dos resíduos estudados
+
+Fonte: Google Earth adaptado pelo autor.
+
+76
+
+Figura 11 - Imagem aérea do aterro municipal
+
+Fonte: Google Earth.
+
+Figura 12 – Resíduos domiciliares dispostos no aterro municipal
+
+Fonte: Autor.
+
+77
+
+Figura 13 – Último local de disposição no aterro municipal
+
+Fonte: Autor.
+
+Na Figura 13 pode-se ver o último local de disposição de resíduos no aterro de Aguaí
+(limite do aterro indicado pelo muro no canto esquerdo superior da figura). Segundo o gestor
+de meio ambiente, a partir de 2019 os resíduos serão dispostos em um aterro no município de
+Casa Branca (SP).
+
+5.1.2 Resíduos de limpeza urbana
+
+A gestão dos resíduos de limpeza urbana em Aguaí é a que se tem menos informações,
+pois a prefeitura não possui dados quantitativos desses resíduos coletados em escadarias e
+sanitários públicos, em logradouros públicos devido a materiais depositados pelas águas
+pluviais, na desobstrução de bueiros e após a realização de feiras. Além disso, o município
+não possui plano de gestão integrada de RLU, não reaproveita ou recicla alguns desses
+resíduos e não sabe qual o custo total dos serviços de limpeza urbana.
+As únicas informações que se tem são que 8 funcionários estão envolvidos no sistema
+de limpeza urbana equipados com roçadeiras manual, assopradores, roçadeira acoplada a
+trator, caminhão caçamba e máquinas retroescavadeira. Com isso, a coleta feita por esses
+funcionários é transportada, pela prefeitura, para uma área no aterro municipal.
+
+78
+
+Desse modo, com os poucos dados obtidos, respondidos no questionário no Anexo B,
+aliados a estratégia considerada adequada para este tipo de resíduo foi elaborado o diagrama
+(Figura 14) que representa a gestão atual dos resíduos de limpeza urbana em Aguaí.
+
+Figura 14 - Gestão dos resíduos de limpeza urbana em Aguaí
+
+Fonte: Elaborado pelo autor.
+
+A gestão dos RLU é a mais crítica no município já que não se sabe nenhum dado
+quantitativo referente a geração, qual o custo total ou pelo menos de alguma etapa realizada e
+que a disposição final é feita em cima das valas tamponadas após serem depositados os
+resíduos domiciliares no aterro municipal, como demonstra a Figura 15.
+
+79
+
+Figura 15 - Resíduos de limpeza urbana dispostos sobre os resíduos domiciliares
+
+Fonte: Autor.
+
+Por fim, com os dados obtidos pode-se comparar a situação de Aguaí com um
+indicador muito utilizado no caso dos serviços de limpeza urbana que é a quantidade de
+funcionários envolvidos na atividade para cada 1.000 habitantes. De acordo com
+FRANCESCHI (2017), em 12 dos 20 municípios estudados da Bacia Hidrográfica TietêJacaré a média é de 0,575 empregados por 1.000 habitantes, ou seja, considerando que Aguaí
+tinha 35.508 habitantes em 2017 (INSTITUTO BRASILEIRO DE GEOGRAFIA E
+ESTATÍSTICA, 2017), pode ser que, se o município tivesse cerca de 20 funcionários atuando
+nessa área, que é o resultado do cálculo considerando a média citada acima, outras etapas
+estariam sendo executadas e mais informações teria a respeito da gestão dos RLU.
+
+5.1.3 Resíduos da construção civil
+
+No caso dos RCC também não há plano de gestão integrada. Ainda, a coleta é feita por
+duas empresas particulares licenciadas e seis carroceiros que não possuem ao menos alguma
+estimativa do quanto é coletado no total. O município não possui caracterização física dos
+
+80
+
+resíduos da construção civil e nem há registro de quantos depósitos clandestinos tem na
+cidade, qual a quantidade removida desses lugares e o custo dessa remoção. Além disso, não
+há fiscalização para impedir os descartes clandestinos.
+O local de disposição final fica dentro do perímetro urbano e nada mais é que uma
+área ao lado do aterro municipal, chamada pela prefeitura de Área de Triagem, onde separam
+o que é possível dos RCC das classes A e B para reutilizar em estradas rurais e o restante fica
+disposto nesse local.
+No que diz respeito a Ecopontos não há nenhum em Aguaí e a resposta no
+questionário no Anexo C foi que a prefeitura não pretende implantar o que seria o primeiro
+Ecoponto da cidade.
+Por fim, segundo o gestor de meio ambiente de Aguaí, há uma área de triagem no
+município, comentada acima que é a mesma área de disposição final, onde quatro catadores
+tem a função de fazer a triagem dos RCC e não existe uma área ou usina de reciclagem para
+esses resíduos no município.
+Da posse dessas informações do Anexo C unindo com a estratégia adequada para a
+gestão dos resíduos da construção civil, pode ser feito o diagrama da gestão atual desses
+resíduos em Aguaí representado na Figura 16.
+
+Figura 16 - Gestão dos resíduos da construção civil em Aguaí
+
+Fonte: Elaborado pelo autor.
+
+Nesse caso, pode-se estimar alguns dados relevantes para a gestão de RCC a partir de
+indicadores. Primeiramente, a média da massa diária de resíduos da construção civil em 15
+cidades de 20 estudadas na UGRHI-13 é de 1,341 kg/hab.dia (FRANCESCHI, 2017).
+
+81
+
+Considerando a população de Aguaí em 2017 de 35.508 habitantes (INSTITUTO
+BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2017) pode ser que a cidade faça a
+coleta de, aproximadamente, 47,6 toneladas por dia. Ainda, pode-se considerar que a
+densidade dos RCC é igual a 1,2 toneladas para cada metro cúbico (PINTO, 20057 apud
+FRANCESCHI, 2017). Portanto, realizados os cálculos, talvez o município de Aguaí faça a
+coleta de, cerca de, 39,7 m³/dia.
+Outro indicador que pode ser analisado nesse caso é o número de locais de disposição
+irregular em relação ao número de habitantes. De acordo com Franceschi (2017),
+considerando locais de disposição irregular que possuem mais de 1 m³, há uma média de
+0,186 locais para cada 1.000 habitantes. Aplicando esse dado, pode ser que na cidade tenha,
+aproximadamente, 6 ou 7 locais onde não deveriam estar dispostos os resíduos da construção
+civil.
+Enfim, pode-se estimar alguns dados importantes para a gestão de RCC, mas sabendo
+que há muito o que ser feito também já que não há plano de gestão integrada de resíduos da
+construção civil, não é feita a separação dos resíduos na fonte e não tem nenhum tipo de
+registro de informações importantes para a gestão.
+Segue as Figuras 17 e 18 que demonstram o local de disposição dos resíduos da
+construção civil que fica em uma área ao lado da disposição final dos resíduos domiciliares.
+
+7
+
+PINTO, T. P. Resíduos da Construção Civil: soluções sustentáveis para um grave problema urbano: novas
+normas, legislação e soluções. São Paulo: Informações e Técnicas, 2005.
+
+82
+
+Figura 17 – Identificação da disposição final de RCC
+
+Fonte: Google Earth adaptado pelo autor.
+
+83
+
+Figura 18 – RCC no local de disposição final
+
+Fonte: Autor.
+
+5.1.4 Resíduos de serviços de saúde
+
+O último resíduo estudado também não possui plano de gestão integrada. Ainda, as
+etapas de coleta, transporte, tratamento e disposição final são feitas por uma empresa
+terceirizada que coleta, em torno de, 1.000 quilos por mês.
+No questionário respondido, que está no Anexo D, Gelson Vallim assinalou que não
+existe cadastro dos geradores de RSS, mas que a coleta é feita em todos os geradores
+cadastrados. Segundo o gestor de meio ambiente, realmente não existe uma ficha cadastral de
+cada gerador, mas que a empresa realiza a coleta em cada ponto da cidade onde gera resíduos
+de serviços de saúde.
+A empresa contratada para fazer os serviços utiliza um caminhão baú para o transporte
+dos RSS do local de armazenamento até o tratamento. Essa etapa de armazenamento é feita
+nos próprios locais onde é gerado, sendo que o controle de entrada e saída é feito pelos
+geradores e pela empresa contratada. Já a etapa de tratamento é feita por incineração e
+autoclave.
+Por fim, a prefeitura está desenvolvendo um programa, que até então não tinha, para
+incentivar os geradores de RSS a produzirem menos e segregarem adequadamente os
+resíduos.
+
+84
+
+Com as informações do Anexo D foi obtido o diagrama (Figura 19) da gestão atual
+dos RSS em Aguaí conforme a estratégia considerada adequada para a gestão desses resíduos,
+sendo que se pode observar que as principais etapas são feitas pela empresa terceirizada.
+
+Figura 19 - Gestão dos resíduos de serviços de saúde em Aguaí
+
+Fonte: Elaborado pelo autor.
+
+De acordo com a Figura 19 a única etapa da gestão que é possível analisar é a de
+geração por ser informada pela prefeitura. Sabendo que o indicador da média de geração de
+15 das 20 cidades estudadas da Bacia Hidrográfica Tietê-Jacaré é de 1,192 g/hab.dia
+(FRANCESCHI, 2017) e que a população estimada para Aguaí em 2017 era de 35.508
+habitantes (INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2017), resulta,
+que a cidade pode gerar, por volta de, 42 quilos por dia ou 1.260 quilos por mês.
+Portanto, pode-se ver que o valor encontrado pelo indicador é próximo ao informado
+pelo gestor de meio ambiente de Aguaí, no Anexo D.
+
+5.2
+
+Proposição de medidas para adequação da gestão dos resíduos estudados à PNRS
+
+As ações para a melhoria da gestão dos resíduos estudados serão divididas em: ações
+que ajudarão no desenvolvimento da gestão de todos os resíduos e ações específicas para cada
+tipo de resíduo. Elas terão como finalidade atingir um objetivo e metas determinadas
+conforme cada prazo estabelecido e cada período de execução. Então, essa etapa terá o
+seguinte padrão representado em tabelas:
+
+85
+
+•
+
+Objetivo;
+
+•
+
+Metas, conforme os prazos estabelecidos:
+
+− Curto prazo: até 5 anos;
+− Médio prazo: até 10 anos;
+− Longo prazo: até 20 anos.
+•
+
+Ações para a melhoria da gestão dos resíduos;
+
+•
+
+Prazo para executar a ação.
+
+•
+
+Período de execução:
+
+− Ação contínua;
+− Ação pontual.
+
+Os objetivos a serem atingidos, bem como as metas escalonadas, ações propostas e
+cada prazo e período de execução foram feitos com base nos Planos Municipais de Gestão
+Integrada de Porto Ferreira (SP) e Rio Brilhante (MS).
+
+5.2.1 Educação ambiental
+
+Nessa etapa é necessário acrescentar um tópico sobre a educação ambiental, já que de
+nada adianta a gestão por parte da prefeitura funcionar se os habitantes não cooperar. Sendo
+assim, é preciso conscientizar a população sobre os danos causados ao ambiente pelas ações
+por ela executadas, como queimada de resíduos de poda e capina, não separação dos resíduos
+recicláveis dos orgânicos produzidos em suas casas, o descarte irregular dos RCC em terrenos
+e também dos RSS junto com os resíduos domiciliares.
+Além disso, deve-se ensinar as pessoas as maneiras corretas de lidar com os resíduos
+produzidos e fornecer a elas saídas, como coleta seletiva, Ecopontos, logística reversa, entre
+outros, para que possam mudar os hábitos atuais no manejo dos resíduos.
+
+86
+
+Tabela 6 - Ações para promover a educação ambiental
+Período
+Objetivo
+
+Meta
+
+Ações
+
+Prazo
+
+de
+execução
+
+A – Promover atividades de educação
+ambiental visando a não geração e a
+política dos 3R’s e a separação na fonte
+Mudar os
+hábitos dos
+
+Atingir
+
+Curto
+
+Contínua
+
+Curto
+
+Contínua
+
+Curto
+
+Contínua
+
+dos materiais recicláveis e reutilizáveis
+
+100% dos B – Estabelecer uma relação entre a
+
+habitantes no habitantes secretaria do meio ambiente e a de
+manejo dos
+
+no curto
+
+resíduos
+
+prazo.
+
+educação para promover o tema de
+resíduos sólidos nas escolas
+C – Envolver setores representativos da
+comunidade para potencializar a educação
+ambiental
+Fonte: Elaborado pelo autor.
+
+5.2.2 Resíduos domiciliares
+
+No caso dos RD a prefeitura deve promover a separação dos resíduos na fonte e dar
+continuidade no processo efetuando a coleta seletiva para a reutilização ou reciclagem dos
+resíduos e a coleta dos resíduos sólidos orgânicos afim de promover a compostagem.
+Para tal deve-se primeiramente fazer a caracterização e composição gravimétrica
+desses resíduos para poder mensurar a quantidade de cada coleta, o tamanho da cooperativa e
+das composteiras. Enfim, é necessário saber a composição gravimétrica para poder planejar as
+outras ações.
+
+87
+
+Tabela 7 - Ações para promover a coleta seletiva
+Período
+Objetivo
+
+Metas
+
+Ações
+
+Prazo
+
+de
+execução
+
+A – Realizar a caracterização e
+composição gravimétrica
+− 10% de coleta
+seletiva no curto
+Promover
+a coleta
+
+prazo;
+− 40% de coleta
+
+seletiva em
+
+seletiva no médio
+
+100% do
+
+prazo;
+
+município
+
+− 100% de coleta
+seletiva no longo
+prazo.
+
+B – Cadastrar os catadores de
+recicláveis
+
+Curto
+
+Pontual
+
+Curto
+
+Pontual
+
+Curto
+
+Contínua
+
+Curto
+
+Pontual
+
+Médio
+
+Pontual
+
+Longo
+
+Contínua
+
+C – Incentivar a formação de
+cooperativa e/ou associação de
+catadores
+D – Elaborar um Plano de Coleta
+Seletiva
+E – Identificar e construir pontos
+de entrega voluntária
+F – Promover treinamento para
+os catadores
+Fonte: Elaborado pelo autor.
+
+5.2.3 Resíduos de limpeza urbana
+
+Primeiramente, na gestão dos resíduos de limpeza urbana, deve ser feito um trabalho
+de acompanhamento nos serviços prestados a fim de saber a quantidade gerada por mês
+desses resíduos. A partir disso, pode-se pensar em definir área para triagem, construir um
+sistema com triturador e enviar o resíduo as composteiras da cidade.
+As ações propostas para adequar a gestão desses resíduos estão alinhadas ao mesmo
+objetivo da parte dos RD de realizar compostagem, que é de reduzir a quantidade de resíduos
+sólidos orgânicos enviados à disposição final. Portanto, tanto as ações estabelecidas para a
+gestão dos RD quantos as dos resíduos de limpeza urbana estão em uma única tabela.
+
+88
+
+Tabela 8 - Ações para promover a redução da quantidade de resíduos enviados à disposição
+final
+Período
+Objetivo
+
+Metas
+
+Ações
+
+Prazo
+
+de
+execução
+
+A – Fomentar o aproveitamento da
+matéria orgânica por meio de
+
+Médio
+
+Contínua
+
+Médio
+
+Contínua
+
+Longo
+
+Contínua
+
+Curto
+
+Pontual
+
+Curto
+
+Pontual
+
+Médio
+
+Pontual
+
+Médio
+
+Pontual
+
+Longo
+
+Contínua
+
+composteiras caseiras
+B – Incentivar o aproveitamento
+dos resíduos sólidos orgânicos em
+hortas
+
+municipais,
+
+atividade,
+Reduzir a
+
+− Reduzir em
+
+quantidade de
+
+15% no
+
+resíduos
+
+médio
+
+orgânicos
+
+prazo;
+
+enviados à
+
+− Reduzir em
+
+disposição
+
+35% no
+
+final
+
+longo prazo.
+
+por
+
+ou
+meio
+
+outra
+de
+
+composteiras em bairros
+C – Fornecer treinamentos para a
+população da zona rural adotar a
+compostagem
+D – Medir a quantidade gerada por
+mês de RLU
+E – Analisar possíveis áreas de
+triagem
+F – Construir a área de triagem
+com triturador
+G – Conciliar os RLU e os RD na
+compostagem
+H – Fiscalizar e minimizar as
+queimadas de resíduos de poda e
+capina
+Fonte: Elaborado pelo autor.
+
+89
+
+5.2.4 Resíduos da construção civil
+
+Na gestão dos RCC deve ser feito o Plano Municipal de Gestão dos Resíduos da
+Construção Civil e para os grandes geradores o Plano de Gerenciamento de RCC. Além disso,
+deve-se estabelecer um cadastro dos caçambeiros, a quantidade gerada por mês e um esquema
+com Ecopontos ou PEV’s, que podem ser os mesmos que receberão os RD.
+Ainda, é preciso mapear os pontos de disposição irregular dos RCC afim de eliminálos e realizar estudos visando a viabilidade econômica e ambiental de reciclar e reaproveitar
+os RCC de classes A e B.
+
+Tabela 9 - Ações para reduzir os pontos de descarte irregular de RCC
+Período
+Objetivo
+
+Metas
+
+Ações
+
+Prazo
+
+de
+execução
+
+A – Elaborar o Plano Municipal de
+Gestão de RCC e o Plano de
+
+Curto
+
+Pontual
+
+Curto
+
+Pontual
+
+Curto
+
+Pontual
+
+Médio
+
+Pontual
+
+Curto
+
+Contínua
+
+Médio
+
+Pontual
+
+Longo
+
+Pontual
+
+Gerenciamento de RCC
+B – Cadastrar os caçambeiros do
+− Reduzir em
+25% no curto
+Reduzir os
+pontos de
+disposição
+final
+irregulares
+
+prazo;
+− Reduzir em
+
+município
+C – Medir a quantidade gerada por
+mês de RCC
+D – Identificar e construir Ecopontos
+
+50% no médio ou PEV’s
+prazo;
+− Reduzir em
+
+E – Identificar e fiscalizar os pontos
+de disposição irregular
+
+100% no
+
+F – Realizar estudo de viabilidade
+
+longo prazo.
+
+para tratamento e disposição final de
+RCC no município
+G – Realizar estudo de viabilidade de
+um consórcio intermunicipal para
+tratamento e disposição final de RCC
+Fonte: Elaborado pelo autor.
+
+90
+
+5.2.5 Resíduos de serviços de saúde
+
+Por fim, no caso da gestão dos RSS deve ser feito o Plano de Gestão Integrada de
+Resíduos de Serviços de Saúde e exigir dos estabelecimentos da área de serviços de saúde o
+Plano de Gerenciamento de Resíduos de Saúde.
+Além disso, como há uma empresa responsável por todas as etapas de gestão, cabe a
+prefeitura fiscalizar todos os processos, sendo que esta ação deve se estender até o final do
+ano 20. Ainda, deve promover na cidade campanhas para que a população saiba descartar
+corretamente medicamentos vencidos, que podem ser em farmácias ou em postos de saúde
+municipais, em um esquema de logística reversa.
+
+Tabela 10 - Ações para fiscalizar e adequar a gestão de RSS
+Período
+Objetivo
+
+Meta
+
+Ações
+
+Prazo
+
+de
+execução
+
+A – Fazer o Plano de Gestão
+Integrada de RSS
+
+Curto
+
+Pontual
+
+Curto
+
+Pontual
+
+Curto
+
+Contínua
+
+Curto
+
+Pontual
+
+Curto
+
+Contínua
+
+B – Exigir dos estabelecimentos
+Fiscalizar a
+
+Confirmar
+
+atuação da
+
+que a
+
+empresa
+
+empresa está
+
+responsável
+
+cumprindo o
+
+pela gestão
+
+contrato
+
+o Plano de Gerenciamento de
+Resíduos de Saúde
+C – Fiscalizar a gestão da
+empresa contratada
+D – Cadastrar locais para receber
+medicamentos vencidos
+E – Realizar campanhas para o
+correto
+
+descarte
+
+de
+
+medicamentos pela população
+Fonte: Elaborado pelo autor.
+
+91
+
+6 CONCLUSÕES
+
+O levantamento da presente pesquisa indica que a gestão dos resíduos domiciliares, de
+limpeza urbana, da construção civil e de serviços de saúde em Aguaí-SP não está de acordo
+com o proposto pela Política Nacional de Resíduos Sólidos.
+Pode-se ver no diagnóstico, e pelas ações de melhoria propostas, os motivos para a
+gestão não estar de acordo com a PNRS, como a disposição inadequada dos resíduos
+domiciliares e a falta de incentivo ao reaproveitamento e reciclagem. Além disso, apesar de
+ter a Lei Municipal nº 1.572 desde 1995, que tem como um dos objetivos promover a
+educação ambiental nas escolas, ainda não se observa na prática.
+Aliás, pela falta de registro de dados quantitativos e qualitativos a respeito da gestão
+dos resíduos, principalmente de limpeza urbana, que quase não se tem informações, assim
+como os outros estudados, a gestão é prejudicada tornando-a inadequada de acordo com os
+princípios e objetivos da Política Nacional de Resíduos Sólidos.
+Contudo, a aplicação dos questionários e os dados obtidos pelas consultas com o
+gestor de meio ambiente de Aguaí, Gelson Vallim, se mostraram como ferramentas essenciais
+para a realização do diagnóstico da gestão dos resíduos estudados.
+A partir desse diagnóstico foi possível estabelecer metas mais precisas para a
+implementação de melhorias, dentro de prazos determinados e com a finalidade de adequar a
+gestão dos resíduos estudados à PNRS.
+Portanto, foi possível atingir os objetivos estabelecidos para a pesquisa, já que as
+informações necessárias para a realização do diagnóstico foram levantadas junto a Prefeitura
+Municipal, foi analisada a atual gestão e foram propostas ações para a melhoria da gestão de
+cada resíduo estudado e para a melhoria do conjunto, como o caso das ações para promover a
+educação ambiental, visando respeitar os objetivos definidos pela Política Nacional de
+Resíduos Sólidos.
+
+92
+
+REFERÊNCIAS
+
+AGUAÍ. Lei nº 1.572, de 26 de maio de 1995. Cria o Conselho Ecológico Municipal de Aguaí
+e institui o Fundo Municipal do Meio Ambiente e dá outras providências. Secretaria da
+Prefeitura Municipal de Aguaí, Aguaí, SP, 26 de maio de 1995.
+
+AGUAÍ. Lei nº 1.782, de 30 de junho de 2000. Autoriza o Poder Executivo Municipal a
+celebrar convênio com o Estado de São Paulo, por meio de sua Secretaria de Estado do Meio
+Ambiente, conforme autorização concedida no Decreto Estadual nº 45.001 de 27 de junho de
+2000. Secretaria da Prefeitura Municipal de Aguaí, Aguaí, SP, 30 de junho de 2000.
+
+AGUAÍ. Lei nº 2.783, 24 de janeiro de 2018. Dispõe sobre o recolhimento e a destinação de
+resíduos da construção civil e resíduos volumosos no município de Aguaí e dá outras
+providências. Secretaria da Prefeitura Municipal de Aguaí, Aguaí, SP, 24 de janeiro de
+2018.
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10004: resíduos sólidos:
+classificação. 2 ed. Rio de Janeiro, 2004a.
+
+______. NBR 15113: resíduos sólidos da construção civil e resíduos inertes: aterros:
+diretrizes para projeto, implantação e operação. Rio de Janeiro, 2004b.
+
+ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE LIMPEZA PÚBLICA E RESÍDUOS
+ESPECIAIS. Panorama de resíduos sólidos no Brasil: 2016. São Paulo: Abrelpe, 2017.
+
+BRASIL. Decreto nº 7.404, de 23 de dezembro de 2010. Regulamenta a Lei nº 12.305, de 2
+de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, cria o Comitê
+Interministerial da Política Nacional de Resíduos Sólidos e o Comitê Orientador para a
+Implantação dos Sistemas de Logística Reversa, e dá outras providências. Diário Oficial [da]
+República Federativa do Brasil, Brasília, DF, 23 de dezembro de 2010a. Seção 1, p. 1-6.
+Disponível em:
+<http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/12/2010&jornal=1000&p
+agina=1&totalArquivos=8>. Acesso em: 25 maio 2018.
+
+______. Lei nº 11.445, de 05 de janeiro de 2007. Estabelece as diretrizes nacionais para o
+saneamento básico, cria o Comitê Interministerial de Saneamento Básico, altera a Lei nº
+6.766, de 19 de dezembro de 1979, a Lei nº 8.036, de 11 de maio de 1990, a Lei nº 8.666, de
+21 de junho de 1993, e a Lei nº 8.987, de 13 de fevereiro de 1995, e revoga a Lei nº 6.528, de
+11 de maio de 1978. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 8 de
+janeiro de 2007. Seção 1, p. 3-7. Disponível em:
+
+93
+
+<http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/01/2007&jornal=1&pagi
+na=3&totalArquivos=64>. Acesso em: 25 maio 2018.
+
+______. Lei nº 12.305 de 02 de agosto de 2010. Institui a Política Nacional de Resíduos
+Sólidos; altera a Lei 9.605, de 12 de fevereiro de 1998; e dá outras providências. Diário
+Oficial [da] República Federativa do Brasil, Brasília, DF, 3 ago. 2010b. Seção 1, p. 3-7.
+Disponível em:
+<http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/08/2010&jornal=1&pagi
+na=1&totalArquivos=84>. Acesso em: 8 jun. 2018.
+
+______. Resolução CONAMA nº 307, de 05 de julho de 2002 (alterada pelas Resoluções nsº
+348/2004, 431/2011, 448/2012 e 469/2015). Estabelece diretrizes, critérios e procedimentos
+para a gestão dos resíduos da construção civil. Diário Oficial [da] República Federativa do
+Brasil, Brasília, DF, 17 jul. 2002. Seção 1, p. 95-96. Disponível em:
+<http://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=307>. Acesso em: 1 abr. 2018.
+
+______. Resolução CONAMA nº 358, de 29 de abril de 2005. Dispõe sobre o tratamento e a
+disposição final dos resíduos dos serviços de saúde e dá outras providências. Diário Oficial
+[da] República Federativa do Brasil, Brasília, DF, 4 maio 2005. Seção 1, p. 63-65.
+Disponível em: <http://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=462>. Acesso
+em: 8 abr. 2018.
+
+______. Resolução CONAMA nº 448, de 18 de janeiro de 2012. Altera os arts. 2º, 4º, 5º, 6º,
+8º, 9º, 10 e 11 da Resolução nº 307, de 5 de julho de 2002, do Conselho Nacional do Meio
+Ambiente – CONAMA. Diário Oficial [da] República Federativa do Brasil, Brasília, DF,
+19 jan. 2002. Seção 1, p. 76. Disponível em:
+<http://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=672>. Acesso em: 8 abr. 2018.
+______. Resolução da Diretoria Colegiada – RDC nº 306, de 7 de dezembro de 2004. Dispõe
+sobre o Regulamento Técnico para o gerenciamento de resíduos de serviços de saúde. Diário
+Oficial [da] República Federativa do Brasil, Brasília, DF, 10 dez. 2004. Seção 1, p. 49-56.
+Disponível em:
+<http://portal.anvisa.gov.br/documents/33880/2568070/res0306_07_12_2004.pdf/95eac678d441-4033-a5ab-f0276d56aaa6>. Acesso em: 28 out. 2018.
+CÂMARA MUNICIPAL DE AGUAÍ. Aspectos Gerais do Município de Aguaí – SP. 2018.
+Disponível em: <http://www.cmaguai.sp.gov.br/Cidade/AspectosGerais.htm>. Acesso em 15
+de abril de 2018.
+
+COMPROMISSO EMPRESARIAL PARA RECICLAGEM. Lixo municipal: manual de
+gerenciamento integrado. São Paulo: [s.n.], 2010.
+
+94
+
+COMPROMISSO EMPRESARIAL PARA RECICLAGEM. Cempre: review 2013. São
+Paulo: CEMPRE, 2013.
+
+CÓRDOBA, R. E. Estudo do sistema de gerenciamento integrado de resíduos de
+construção e demolição do município de São Carlos – SP. 2010. 406 f. Dissertação
+(Mestrado em Hidráulica e Saneamento) - Escola de Engenharia de São Carlos, Universidade
+de São Paulo, São Carlos. 2010.
+D’ALOIA, L. G. P. Avaliação multicritério de cenários em gerenciamento de resíduos
+sólidos urbanos. 2011. 170 f. Dissertação (Mestrado) - Escola de Engenharia de São Carlos,
+Universidade de São Paulo, São Carlos, 2011.
+
+FARIA, C. R. S. M. A política nacional de resíduos sólidos. Brasília: Senado Federal, 2012.
+(Boletim Legislativo, n. 15).
+
+FERREIRA, E. R. Gestão e gerenciamento de resíduos de serviços de saúde pela
+administração pública municipal na UGRHI do Pontal do Paranapanema – SP. 2012.
+358 f. Tese (Doutorado) - Escola de Engenharia de São Carlos, Universidade de São Paulo,
+São Carlos, 2012.
+
+FRANCESCHI, F. R. A. A proposição de Indicadores de desempenho para plano
+municipais de gestão integrada de resíduos sólidos e a aplicação na Bacia Hidrográfica
+Tietê-Jacaré (UGRHI-13). 2017. 180 f. Dissertação (Mestrado) - Escola de Engenharia de
+São Carlos, Universidade de São Paulo, São Carlos, 2017.
+
+FUNDAÇÃO SISTEMA ESTADUAL DE ANÁLISE DE DADOS. Perfil Municipal.
+Disponível em: <http://www.perfil.seade.gov.br>. Acesso em 08 de novembro de 2018.
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Censo Demográfico:
+séries históricas: população, 1950 – 2010. Rio de Janeiro: IBGE, 2010a. Disponível em:
+<https://www.ibge.gov.br/estatisticas-novoportal/sociais/populacao/9662-censo-demografico2010.html?=&t=series-historicas>. Acesso em: 17 mar. 2018.
+
+______. Panorama. Rio de Janeiro: IBGE, 2017. Disponível em:
+<https://cidades.ibge.gov.br/brasil/sp/aguai/panorama>. Acesso em: 4 jul. 2018.
+
+______. Pesquisa nacional de saneamento básico 2008. Rio de Janeiro: IBGE, 2010b.
+
+INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Diagnóstico dos resíduos sólidos
+urbanos: relatório de pesquisa. Brasília: IPEA, 2012.
+
+95
+
+JOHN, V. M.; AGOPYAN, V. Reciclagem de resíduos da construção. In: SEMINÁRIO
+NACIONAL SOBRE RECICLAGEM DE RESÍDUOS SÓLIDOS DOMICILIARES, 2001,
+São Paulo. Anais... São Paulo: Secretaria de Estado de Meio Ambiente/CETESB, 2001. p. 112. Disponível em:
+<https://www.researchgate.net/profile/V_Agopyan/publication/228600228_Reciclagem_de_r
+esiduos_da_construcao/links/0046352af919c1984c000000.pdf>. Acesso em: 1 abr. 2018.
+
+LEITE, P. R. Logística reversa: meio ambiente e competitividade. São Paulo: Prentice Hall,
+2003.
+
+MAEDA, E. E. Diagnóstico da gestão de resíduos sólidos nos municípios do Estado de
+São Paulo, a partir dos planos municipais de gestão integrada. 2013. 160 f. Dissertação
+(Mestrado) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos,
+2013.
+
+MARQUES NETO, J. C. Diagnóstico para estudo de gestão dos resíduos de construção e
+demolição do município de São Carlos-SP. 2003. 181 f. Dissertação (Mestrado) - Escola de
+Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2003.
+
+MARQUES NETO, J. C. Estudo da gestão municipal dos resíduos de construção e
+demolição na bacia hidrográfica do Turvo Grande (UGRHI-15). 2009. 669 f. Tese
+(Doutorado) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos,
+2009.
+
+MASSUKADO, L. M. Sistema de apoio a decisão: avaliação de cenários de gestão
+integrada de resíduos sólidos urbanos domiciliares. 2004. 272 f. Dissertação (Mestrado) Centro de Ciências Exatas e de Tecnologia, Universidade Federal de São Carlos, São Carlos,
+2004.
+
+MEIRA, A. M. Gestão de resíduos de arborização urbana. 2010. 178 f. Tese (Doutorado) Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo, Piracicaba,
+2010.
+
+MONTEIRO, J. H. P. et al. Manual de gerenciamento integrado de resíduos sólidos. Rio
+de Janeiro: IBAM, 2001.
+
+MONTEIRO, J. H. P.; MANSUR, G. L. Cartilha de limpeza urbana. Rio de Janeiro:
+CPU/IBAM; Brasília: SNS/MAS, 1991. Disponível em: <http://www.resol.com.br/cartilha/>.
+Acesso em: 30 mar. 2018.
+
+96
+
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS. No Brasil, 80 mil toneladas de resíduos
+sólidos são descartadas de forma inadequada por dia, afirma ONU. 2016. Disponível em:
+<https://nacoesunidas.org/no-brasil-80-mil-toneladas-de-residuos-solidos-sao-descartados-deforma-inadequada-afirma-onu/>. Acesso em: 17 mar. 2018.
+
+PINTO, T. P. Metodologia para a gestão diferenciada de resíduos sólidos da construção
+urbana. 1999. 189 f. Tese (Doutorado) - Escola Politécnica, Universidade de São Paulo, São
+Paulo, 1999.
+
+PORTAL DA TRANSPARÊNCIA MUNICIPAL. Receita total anual per capita.
+Disponível em: <https://transparencia.tce.sp.gov.br/receita-total-anual-per-capita-pormunicipio/aguai>. Acesso em 08 de novembro de 2018.
+
+PORTO FERREIRA (Município). Prefeitura Municipal de Porto Ferreira. Plano Municipal
+de Gestão Integrada de Resíduos Sólidos de Porto Ferreira. Porto Ferreira, 2018.
+
+PREFEITURA
+MUNICIPAL
+DE
+AGUAÍ.
+Secretarias.
+Disponível
+<https://aguai.sp.gov.br/home/secretaria-de-planejamento-servicos-urbanos-e-meioambiente/>. Acesso em 08 de novembro de 2018.
+
+em:
+
+PUGLIESI, E. Estudo da evolução da composição dos Resíduos de Serviços de Saúde
+(RSS) e dos procedimentos adotados para o seu gerenciamento integrado, no Hospital
+Irmandade Santa Casa de Misericórdia de São Carlos – SP. 2010. 174 f. Tese
+(Doutorado) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos,
+2010.
+
+RIO BRILHANTE (Município). Prefeitura Municipal de Rio Brilhante. Plano Municipal de
+Gestão Integrada de Resíduos Sólidos de Rio Brilhante. Rio Brilhante, 2013.
+
+SÃO PAULO (Estado). Decreto nº 54.645, de 05 de agosto de 2009. Regulamenta
+dispositivos da Lei nº 12.300 de 16 de março de 2006, que institui a Política Estadual de
+Resíduos Sólidos, e altera o inciso I do artigo 74 do Regulamento da Lei n° 997, de 31 de
+maio de 1976, aprovado pelo Decreto n° 8.468, de 8 de setembro de 1976. Diário Oficial [do]
+Estado de São Paulo, São Paulo, SP, 6 ago. 2009. Seção 1, p. 4-5.
+
+SÃO PAULO (Estado). Lei nº 12.300, de 16 de março de 2006. Institui a Política Estadual de
+Resíduos Sólidos e define princípios e diretrizes. Diário Oficial [do] Estado de São Paulo,
+São Paulo, SP, 17 mar. 2006. Seção 1, p. 1-4.
+
+SCHALCH, V. Divisão dos resíduos sólidos quanto à origem e a periculosidade de
+acordo com a PNRS. São Carlos: USP/EESC/SHS, 2016. (Notas de aula).
+
+97
+
+SECRETARIA DE ESTADO DE SANEAMENTO E RECURSOS HÍDRICOS DE SÃO
+PAULO. Produto 6 (P6) – Proposta de Plano Municipal Integrado de Saneamento Básico
+– Município: Aguaí. São Paulo, 2014.
+
+TIERNO, R. Diagnóstico e sistematização de estratégias para a gestão dos resíduos
+domiciliares aplicáveis a políticas de planejamento urbano. 2017. 180 f. Dissertação
+(Mestrado) - Escola Politécnica, Universidade de São Paulo, São Paulo, 2017.
+
+98
+
+ANEXO A - Roteiro de entrevista para gestor do município responsável pela gestão e
+gerenciamento integrado dos resíduos domiciliares
+
+99
+
+100
+
+101
+
+ANEXO B - Roteiro de entrevista para gestor do município responsável pela gestão e
+gerenciamento integrado dos resíduos de limpeza urbana
+
+102
+
+103
+
+ANEXO C - Roteiro de entrevista para gestor do município responsável pela gestão e
+gerenciamento integrado de resíduos da construção civil
+
+104
+
+105
+
+106
+
+ANEXO D - Roteiro de entrevista para gestor do município responsável pela gestão e
+gerenciamento integrado dos resíduos de serviços de saúde
+
+107
+
+108
+
+

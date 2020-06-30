@@ -1,0 +1,306 @@
+
+
+## fmrp ##
+ 1----TCC-PatriciaReginaMoromisatodeOliveira.pdf----
+ 2----TCC-ThaisCrivelini.pdf----
+ 3----GabrielaSimoesPazelli1.pdf----
+ 4----TCC_ViniciusNaresse.pdf----
+ 5----TCCIsadoraFinal.pdf----
+ 6----TCC-MarianeFaveroCarraro.pdf----
+ 7----TCCHelenaFrancelin.pdf----
+ 8----TCC-MarinaSaavedraAzzem.pdf----
+ 9----TCC-LarissaKoopman.pdf----
+10----ANAJULIASistemaRANKL.pdf----
+########
+
+
+## direitorp ##
+ 1----AMANDA.pdf----
+ 2----TCCMarianaCunhaAndrade.pdf----
+ 3----GabrielaPerissinottoAlmeida.pdf----
+ 4----JulianaAlexandre.pdf----
+ 5----TCC_MarianaAgarieSantAnaAlves.pdf----
+ 6----10.pdf----
+ 7----TCCAndreLVedovatoAmato.pdf----
+ 8----AnaPaulaPavanelloAmaral.pdf----
+ 9----TCCAGUIARCarolinaCostade.pdf----
+10----LucasAndradeAguiar.pdf----
+########
+
+
+## fsp ##
+ 1----TCCHeloisaToledoGarcia.pdf----
+ 2----TCCFernandaBarretoLemedeMagalhaeseMarianaBomfimdeJesus.pdf----
+ 3----TCCBiancadeMeloGuedes.pdf----
+ 4----TCCBrunaPOAlveseRouglanaRSantos.pdf----
+ 5----TCCGustavoHenriqueFerreiraGoncalinho.pdf----
+ 6----TCCBrunaNogueira.pdf----
+ 7----TCCHeloisaNardiVilellaMarianaGasparNicolau.pdf----
+ 8----TCCGabrielaRigoteeMarinaPrataMartins.pdf----
+ 9----TCCManuelaCapezzutoFernandesDiaseMayraFigueiredoBarata.pdf----
+10----TCCGiovanaMFBritoEMarinaLGDemasi.pdf----
+########
+
+
+## iqsc ##
+ 1----GuilhermeTeruakiKuwaharadeToledo.pdf----
+ 2----Lucas_Furniel.pdf----
+ 3----Renato_Grigolon_Capelo.pdf----
+ 4----DanielLuisdoNascimento.pdf----
+ 5----Larissa_Diniz.pdf----
+ 6----Ana_Paula_Prudente.pdf----
+ 7----AmandaHikariImamura.pdf----
+ 8----FELIPEDESANTISGONCALVES.pdf----
+ 9----AlineRoque.pdf----
+10----AndersonMassahirodeCampos.pdf----
+########
+
+
+## ime ##
+ 1----bortolli.pdf----
+ 2----matheusmso.pdf----
+ 3----thiagestrela.pdf----
+ 4----mateusanjos.pdf----
+ 5----pedrospspl.pdf----
+ 6----vinne.pdf----
+ 7----iblucher.pdf----
+ 8----nickmessias.pdf----
+ 9----tiagonapoli.pdf----
+10----luizkiichi.pdf----
+########
+
+
+## eesc ##
+ 1----Engelbrecht_Raquel_de_Mendonca.pdf----
+ 2----Alencar_LeticiaSantos_tcc.pdf----
+ 3----Brandolim_Rinaldo.pdf----
+ 4----Andrade_Saul_Araujo.pdf----
+ 5----Almeida_Luis_Gustavo_Magnanini_de.pdf----
+ 6----Abdala_Felipe_Krugmann.pdf----
+ 7----Alonso_Fernando_tcc.pdf----
+ 8----Ajeje_Guilherme_Antonio_Faustini_tcc.pdf----
+ 9----Almeida_Daniel_Litvin_de.pdf----
+10----Alvarenga_JuliaDavilla_tcc.pdf----
+########
+
+
+## fau ##
+ 1----Akioka_Thiago_Takagaki.pdf----
+ 2----2017_JuliaRamosPolli.pdf----
+ 3----AnaLidiaMarini.pdf----
+ 4----TatianaMezaMosqueira.pdf----
+ 5----angelamideacoelho.pdf----
+ 6----TERUELIZABETHEGUTI.pdf----
+ 7----TCC_Denise-Ikuno_NUSP7177205_ano-conclusao-2017.pdf----
+ 8----2017_AlejandroManzanares.pdf----
+ 9----Caderno.Final..pdf----
+10----Abe_Jun_Rafael.pdf----
+########
+
+
+## fflch ##
+ 1----2017_PedroDavidCavalcantiDeAlbuquerque.pdf----
+ 2----2016_CristianoAlba.pdf----
+ 3----2018_CarolinaLaginhasPerrella.pdf----
+ 4----2016_ViniciusSantosAlmeida.pdf----
+ 5----2016_IgorGomes.pdf----
+ 6----2016_EndersonDeJesusPinto.pdf----
+ 7----2017_CristianeMarinsPereira.pdf----
+ 8----2017_GabrielEijiAkamine.pdf----
+ 9----2019_DanielaFernandesSobrinho.pdf----
+10----2017_FlaviaLemosAguiar.pdf----
+########
+
+
+RESULTS
+count_mean	unique_mean	pages
+   17522.5	     3406.0	  73
+
+
+RESULTS BY COLLEGE
+college     	count_mean	unique_mean	ratio_unique	pages
+fmrp        	   13960.9	     3108.4	        22.3%	  59
+direitorp   	   36959.9	     5690.2	        15.4%	 114
+fsp         	    9644.7	     2534.4	        26.3%	  37
+iqsc        	   11219.2	     2762.9	        24.6%	  55
+ime         	   10208.3	     1894.0	        18.6%	  43
+eesc        	   15991.9	     3104.1	        19.4%	  77
+fau         	   23072.5	     4375.0	        19.0%	 122
+fflch       	   19122.4	     3779.3	        19.8%	  80
+
+
+RESULTS BY FIELD
+field     	count_mean	unique_mean	ratio_unique	pages
+human       	   26384.9	     4614.8	        17.5%	 105
+exact       	   12473.1	     2587.0	        20.7%	  58
+bio         	   11802.8	     2821.4	        23.9%	  48
+
+
+ INTRO RESULTS
+93.75%   75	introdução
+ 1.25%    1	apresentação e introdução
+ 1.25%    1	contextualização
+ 1.25%    1	introdução e justificativa
+ 1.25%    1	uma introdução à teoria dos grafos
+ 1.25%    1	do trabalho - apresentação
+
+
+ ENDING RESULTS
+48.75%   39	conclusão
+22.50%   18	considerações finais
+18.75%   15	conclusões
+ 2.50%    2	conclusão e considerações finais
+ 1.25%    1	conclusões e perspectivas futuras
+ 1.25%    1	conclusões e trabalho futuro
+ 1.25%    1	conclusão e trabalhos futuros
+ 1.25%    1	considerações
+ 1.25%    1	
+ 1.25%    1	resultados
+
+
+ REFERENCE RESULTS
+38.75%   31	referências
+38.75%   31	referências bibliográficas
+21.25%   17	bibliografia
+ 1.25%    1	referência
+
+
+ MIDDLE SECTION RESULTS
+27.50%   22	objetivos
+23.75%   19	resultados
+21.25%   17	discussão
+20.00%   16	resultados e discussão
+15.00%   12	metodologia
+12.50%   10	materiais e métodos
+ 8.75%    7	revisão bibliográfica
+ 6.25%    5	objetivo geral
+ 5.00%    4	justificativa
+ 5.00%    4	material e métodos
+ 5.00%    4	objetivo
+ 5.00%    4	procedimento experimental
+ 5.00%    4	fundamentação teórica
+ 3.75%    3	métodos
+ 2.50%    2	objetivos específicos
+ 2.50%    2	métodos e implementações
+ 2.50%    2	método
+ 2.50%    2	requisitos
+ 1.25%    1	hipótese
+ 1.25%    1	dicussão
+ 1.25%    1	a sociedade global de risco
+ 1.25%    1	crimes de perigo abstrato
+ 1.25%    1	crimes de perigo abstrato na sociedade global de risco
+ 1.25%    1	análise de julgado
+ 1.25%    1	a (síndrome) da alienação parental
+ 1.25%    1	a implantação de falsas memórias
+ 1.25%    1	análise jurisprudencial e discussão
+ 1.25%    1	possíveis soluções para a alienação parental
+ 1.25%    1	a obrigação de cumprir a lei
+ 1.25%    1	o direito de resistência
+ 1.25%    1	a desobediência civil
+ 1.25%    1	a (in)justiça das leis
+ 1.25%    1	conjuntura atual da desobediência civil manifestações
+ 1.25%    1	estruturas básicas do método dialético
+ 1.25%    1	a dialética no processo deliberativo
+ 1.25%    1	tratamento processual das demandas repetitivas
+ 1.25%    1	incidente de resolução de demandas repetitivas
+ 1.25%    1	interação entre o incidente de resolução de demandas repetitivas com outros institutos
+ 1.25%    1	capítulo 1 - efeitos do álcool no corpo humano e sua interferência no desempenho do condutor
+ 1.25%    1	capítulo 2 – histórico da alteração dos artigos da lei seca
+ 1.25%    1	capítulo 3 – críticas à lei n° 12.760/2012 e análise dos seus temas controversos
+ 1.25%    1	capítulo 4 – panorama estatístico sobre o trânsito viário
+ 1.25%    1	capítulo 5 – políticas públicas melhor método para obtenção de um transito viário mais seguro
+ 1.25%    1	da ordem econômica
+ 1.25%    1	ato de concentração nº. 08700.005447/2013-12 e a conformação do setor da educação superior privada
+ 1.25%    1	do acordo em controle de concentração
+ 1.25%    1	concorrência e regulação
+ 1.25%    1	das teorias conciliadoras entre a supremacia do direito regulatório e o direito antitruste
+ 1.25%    1	mercados de energia elétrica
+ 1.25%    1	brasil um setor em transição
+
+
+ MIDDLE SECTION NUMBER RESULTS
+31.25%   25	4
+26.25%   21	3
+17.50%   14	5
+11.25%    9	2
+ 3.75%    3	6
+ 3.75%    3	8
+ 3.75%    3	7
+ 1.25%    1	19
+ 1.25%    1	1
+MEAN: 4.175
+
+
+ OBJECTIVE SECTION RESULTS
+27.50%   22	objetivos
+ 6.25%    5	objetivo geral
+ 5.00%    4	objetivo
+
+
+ METHODS SECTION RESULTS
+15.00%   12	metodologia
+12.50%   10	materiais e métodos
+ 5.00%    4	material e métodos
+ 3.75%    3	métodos
+ 2.50%    2	métodos e implementações
+ 2.50%    2	método
+ 1.25%    1	estruturas básicas do método dialético
+ 1.25%    1	capítulo 5 – políticas públicas melhor método para obtenção de um transito viário mais seguro
+ 1.25%    1	material e método
+ 1.25%    1	percurso metodológico
+ 1.25%    1	aspectos metodológicos
+ 1.25%    1	ferramentas e métodos
+ 1.25%    1	métodos de pesquisa
+ 1.25%    1	método de desenvolvimento
+ 1.25%    1	metodologia de pesquisa
+ 1.25%    1	metodologia de projeto no processo criativo
+ 1.25%    1	materiais e métodos de pesquisa
+ 1.25%    1	procedimentos metodológicos e desenvolvimento
+ 1.25%    1	procedimentos metodológicosetécnicos
+ 1.25%    1	metodologia científica
+
+
+ RESULTS AND DISCUSSION SECTION RESULTS
+23.75%   19	resultados
+20.00%   16	resultados e discussão
+ 2.50%    2	discussão
+ 1.25%    1	análise jurisprudencial e discussão
+ 1.25%    1	resultados do estudo de caso
+ 1.25%    1	descrição e discussão de lições aprendidas
+ 1.25%    1	resultados obtidos
+ 1.25%    1	estudos de caso e resultados
+ 1.25%    1	resultado
+ 1.25%    1	análise de resultados
+ 1.25%    1	capítulo 1 - contextualizando a discussão energia eletrica, geografia da população e características do município de ouroeste
+ 1.25%    1	capítulo 2 - resultados da análise empírica as estatísticas da área
+ 1.25%    1	capítulo 3 - resultados da análise empírica entrevistas com a população impactada
+
+
+ ABSTRACT RESULTS
+71.25%   57	True
+26.25%   21	False
+ 1.25%    1	esp
+ 1.25%    1	3
+
+
+ ABSTRACT KEY-WORDS RESULTS
+85.00%   68	True
+15.00%   12	False
+
+
+ EPÍGRAFE RESULTS
+75.00%   60	False
+25.00%   20	True
+
+
+ DEDICATÓRIA RESULTS
+68.75%   55	False
+31.25%   25	True
+
+
+ AGRADECIMENTOS RESULTS
+68.75%   55	True
+31.25%   25	False
+
+
+PROJECTS COUNT 80

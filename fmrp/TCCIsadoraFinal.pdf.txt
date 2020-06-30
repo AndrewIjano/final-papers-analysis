@@ -1,0 +1,1763 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINIA DE RIBEIRÃO PRETO
+DEPARTAMENTO DE FARMACOLOGIA
+
+Investigação do possível efeito antipsicótico do HU-910, um agonista
+seletivo de receptores canabinoide do tipo 2 (CB2)
+
+ISADORA LOPES CORTEZ
+
+Ribeirão Preto
+2018
+
+ISADORA LOPES CORTEZ
+
+Investigação do possível efeito antipsicótico do HU-910, um agonista
+seletivo de receptores canabinoide do tipo 2 (CB2)
+
+Trabalho de conclusão de curso apresentado como parte das exigências para a
+conclusão da ênfase em Ciências Básicas da Saúde e para a obtenção do
+bacharel em Ciências Biomédicas.
+
+Orientador: Prof° Dr° Francisco Silveira Guimarães
+Coorientadoras: Naielly Rodrigues da Silva e Nicole Rodrigues da Silva
+
+Ribeirão Preto / SP
+2018
+
+Aos meus pais, Sheila e Vanderlei
+e à minha irmã, Carol, por todo
+apoio e carinho dedicados a mim
+durante os anos de graduação.
+Aos meus tios, Bernadete e
+Carlos, por tornarem esse
+trabalho possível da maneira mais
+nobre.
+
+AGRADECIMENTOS
+Agradeço aos meus pais, Sheila e Vanderlei, por tudo que sempre fizeram por
+nossa família. Por me darem as oportunidades que precisei para chegar aqui,
+por me apoiarem, pela paciência e amor puro. Agradeço à minha irmã, Carol,
+pelos momentos de distração nas visitas de final de semana, por me receber
+com tanta alegria cada vez que voltava para casa. Eu amo vocês, imensa e
+verdadeiramente.
+Aos meus tios, Bernadete e Carlos, por me receberem em sua casa no ano mais
+difícil da graduação. Obrigada por cada conversa e orientação sobre essa etapa
+de minha vida, por cada churrasco de final de semana. Eu sou e sempre serei
+grata. Vocês são minha inspiração profissional e pessoal.
+Aos meus tios e tias, primos e avós, pelo apoio, por compartilharem das minhas
+pequenas conquistas, por torcerem por mim em tudo que faço. Por me
+receberem deliciosamente nos retornos à Presidente Prudente. Muito obrigada!
+Às minhas amigas Nathália e Rafaela, que mesmo de longe foram me
+acompanhando nos mais diversos desafios enfrentados nesses quatro anos.
+Obrigada pelas conversas, fossem elas apenas distrativas ou reflexivas.
+À minha amiga e colega de turma, Gabriela, por tornar esses anos de graduação
+mais leves (quando possível), por todos os vinhos tomados na sacada de casa,
+pelas palavras de apoio, pelo “empurrão” quando precisei e pelas vezes que me
+abrigou nos finais de semana em Ribeirão Preto. Te desejo todo sucesso nessa
+nova fase que iniciamos e que nossos caminhos, tão distintos desde o
+comecinho da graduação, não nos afaste nunca.
+Ao meu namorado, Leonardo, que me deu suporte tão sólido nesse período que
+tudo pareceu bem mais fácil. Obrigada pelo seu companheirismo, apoio,
+dedicação, por cada momento que não me deixou desistir. Sempre vou lembrar
+do que fez por mim!
+Às minhas colegas do Laboratório de Psicofarmacologia, Alice, Andreza, Carla,
+Naielly, Nicole e Sabrina que me receberam de braços abertos, me acolheram,
+me aconselharam e me ensinaram tanto nesses anos de laboratório. Obrigada
+por cada Silvão, por cada churrasco. Obrigado especial à Andreza, sem a qual
+
+as imunohistoquímicas deste trabalho não seriam possíveis. Muito obrigada por
+me ensinar a técnica e pelas discussões científicas. Eu adoro demais cada uma
+de vocês!
+Às minhas coorientadoras, Naielly e Nicole, por me ensinarem tudo que sabiam,
+pela paciência em explicar, em discutir. Por me acalmarem nos momentos que
+a ciência parecia difícil demais para continuar. Obrigada por aceitarem me
+acompanhar em minha iniciação científica e trabalho de conclusão de curso e
+pela confiança que depositaram em mim durante esse período.
+Agradeço ao professor Felipe Villela Gomes, que em pouco tempo de
+convivência me deu a oportunidade de discutir este trabalho e, assim, contribuiu
+significativamente para as interpretações destes resultados.
+Ao professor Francisco Guimarães, por me aceitar em seu laboratório, por me
+dar a oportunidade de trabalhar com pessoas incríveis e inspiradoras e com um
+projeto tão bem construído. Obrigada por cada discussão científica e cultural,
+contribuindo para minha formação acadêmica, profissional e pessoal. Obrigada
+por todas as indicações de filmes, séries e roteiros de viagens. Vou me lembrar
+desses roteiros quando chegar a hora. Muito obrigada pela confiança em meu
+trabalho!
+À todos os funcionários da Faculdade de Medicina de Ribeirão Preto, que de
+alguma forma passaram pelo meu caminho e contribuíram para conclusão desse
+processo.
+Á Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) pelo
+apoio financeiro e incentivo à pesquisa realizada também por alunos da
+graduação.
+Meu muito obrigada a todos e todas que, de alguma, contribuíram para meu
+crescimento pessoal e professional durante esses anos. Obrigada aos alunos do
+Laboratório de Neuroplasticidade, da professora Dra Alline Cristina de Campos,
+pelo convívio dentro e fora do laboratório, pelos momentos de construção
+científica e de descontração. Eu sou muito grata a todos vocês!
+
+RESUMO
+Os fármacos utilizados para o tratamento da esquizofrenia modulam,
+principalmente, os sintomas positivos da doença, tem baixa tolerabilidade e altos
+índices de descontinuação do tratamento. Recentes evidências sugerem que o
+sistema endocanabinoide pode ser um novo alvo no tratamento deste transtorno.
+O receptor canabinoide do tipo 2 pode modular a neurotransmissão
+dopaminérgica, assim como atenuar o efeito de citocinas pró-inflamatórias e
+ativação de micróglia, alterações observadas em pacientes com esquizofrenia.
+O composto HU-910, um agonista CB2, mostrou-se eficaz em atenuar citocinas
+pró-inflamatórias e injúrias/danos teciduais em um modelo de isquemia. A
+administração aguda e crônica de MK-801 tem sido proposta como modelo para
+estudar efeitos de novos antipsicóticos sobre sintomas positivos, negativos e
+cognitivos da esquizofrenia. No presente estudo avaliamos a capacidade do
+composto HU-910 em reverter comportamentos relacionados à esquizofrenia em
+modelos baseados no tratamento agudo (causando hiperlocomoção) ou repetido
+(resultando em prejuízos na memória e interação social) com MK-801, bem como
+a capacidade desse composto em produzir a tétrade canabinoide, um conjunto
+de alterações comportamentais (analgesia, hipolocomoção, catalepsia e
+hipotermia) que depende da ativação de receptores CB1. Nos resultados
+obtidos, o HU-910 preveniu a hiperlocomoção induzida pelo MK-801, mas não
+pela anfetamina. Além disso, o HU-910 reverteu os prejuízos no teste de
+reconhecimento de objetos causados pela administração repetida de MK-801. O
+pré-tratamento com AM630, antagonista de receptores CB2, não bloqueou os
+efeitos do HU-910 no teste de reconhecimento de objetos, mas bloqueou os
+efeitos do composto na hiperlocomoção induzida por MK-801. Não foram
+observadas alterações na expressão da proteína FosB, utilizada como marcador
+de ativação neuronal após estímulo repetido no córtex pré-frontal medial, no
+estriado e no núcleo accumbens. Na dose efetiva no teste de hiperlocomoção, o
+HU-910 não promoveu a tétrade canabinoide, sugerindo ausência de atividade
+agonística CB1 na dose utilizada. Esses resultados corroboram a hipótese de
+que o HU-910 possui provável atividade antipsicótica, sem induzir os efeitos da
+tétrade canabinoide.
+Palavras-chaves: esquizofrenia; CB2; HU-910, canabinoide
+
+ABSTRACT
+Drugs used to treat schizophrenia usually modulate only the positive symptoms
+of the disorder, have low tolerability and high rates of treatment discontinuation.
+Recent evidence suggests that the endocannabinoid system may be a new target
+in the treatment of this disorder. The type 2 cannabinoid receptor modulates
+dopaminergic neurotransmission and attenuates the effect of proinflammatory
+cytokines and microglial activation, changes observed in patients with
+schizophrenia. HU-910, a CB2 agonist, decreases proinflammatory cytokines
+and injury/tissue damage in a model of ischemia. The acute or chronic
+administration of MK-801 has been proposed as a model for studying the effects
+of new antipsychotics on positive, negative, and cognitive symptoms of
+schizophrenia. Thus, the hypothesis of the present work is that HU-910, by
+activating CB2 receptors, would be able to revert schizophrenia-related behaviors
+(hyperlocomotion, memory impairment and social interaction) induced by MK801. Furthermore, since it is a CB2 agonist, HU-910 would not produce the
+cannabinoid tetrad, a set of behavioral changes (analgesia, hypolocomotion,
+catalepsy and hypothermia) that depend on CB1 receptor activation. HU-910
+prevented MK-801 but not amphetamine-induced hyperlocomotion. Besides that,
+it reversed the impairment on the object recognition test caused by repeated MK801 administration. Pretreatment with AM630, a CB2 receptor antagonist, did not
+block the effects of HU-910 on the object recognition tests, but attenuated the
+effect of this compound on the MK-801-induced hyperlocomotion. No change was
+observed in FosB protein expression, used as a marker of neuronal activation
+after repeated stimulation on pre-frontal cortex, striatum, and nucleus
+accumbens. At the effective dose, HU-910 did not promote all the effects of
+cannabinoid tetrad, suggesting absence of CB1 agonistic activity at that dose.
+These data corroborate the hypothesis that HU-910 has potential antipsychoticproperties without inducing the cannabinoid tetrad.
+
+Key-words: schizophrenia, CB2, HU-910 and cannabinoid
+
+LISTA DE FIGURAS
+Figura 1. Representação esquemática do procedimento experimental do teste
+de hiperlocomoção induzida por MK-801.
+Figura 2. Representação esquemática do procedimento experimental do teste
+de hiperlocomoção induzida por anfetamina.
+Figura 3. Representação esquemática do procedimento experimental dos
+tratamentos repetidos com MK-801 e HU-910 mostrando os dias de tratamento
+e dos testes a serem realizados.
+Figura 4. Representação esquemática do procedimento experimental do
+tratamento com MK-801, AM630 e HU-910.
+Figura 5. Representação esquemática do procedimento experimental da tétrade
+canabinoide, indicando os testes realizados, o tempo da injeção e o tempo dos
+testes.
+Figura 6. Efeito do tratamento agudo com HU-910 no teste de hiperlocomoção
+induzida por MK-801 (0,25 mg/kg) (n = 5-6/grupo).
+Figura 7. Efeito do tratamento agudo com HU-910 na hiperlocomoção induzida
+com anfetamina (2,5 mg/kg) (n = 10-12/grupo).
+Figura 8. Efeito do tratamento repetido com HU-910 e clozapina sobre o prejuízo
+no teste de interação social pelo pré-tratamento com MK-801 (n = 8-10/grupo).
+
+Figura 9. Efeito do tratamento repetido com HU-910 e clozapina sobre o prejuízo
+no teste de reconhecimento de objetos pelo pré-tratamento com MK-801 (n = 810/grupo).
+Figura 10. Efeito do tratamento repetido com AM630 e HU-910 após o prétratamento com MK-801 no teste de interação social (n = 6/grupo).
+Figura 11. Efeito do tratamento repetido com AM630 e HU-910 sobre prejuízos
+causados pelo tratamento com MK-801 no teste de reconhecimento de objetos
+(n = 6/grupo).
+Figura 12. Efeito do tratamento com AM630 (0,1 e 1 mg/kg) e HU-910 no teste
+de hiperlocomoção induzida por MK-801 (n = 5-7/grupo).
+Figura 13. Efeitos do tratamento com HU-910 (30 mg/kg) e WIN55,212-2 (5
+mg/kg) na tétrade canabinoide (n = 5-6/grupo).
+Figura 14. Efeito do tratamento repetido com MK-801, HU-910 e clozapina sobre
+a expressão de proteína FosB/ΔFosB no CFPm porções pré-límbica e infralímbica, e núcleo accumbens porção core.
+Figura 15. Efeito do tratamento repetido com MK-801, HU-910 e clozapina sobre
+a expressão de proteína FosB/ΔFosB no núcleo accumbens porção shell e CPu
+porções medial e lateral.
+
+SUMÁRIO
+1. INTRODUÇÃO ......................................................................................... 11
+1.1 Esquizofrenia ......................................................................................... 11
+1.1.1 Aspectos gerais do transtorno ......................................................... 11
+1.1.2 Neurobiologia da esquizofrenia: a hipótese dopaminérgica e a teoria
+da hipofunção glutamatérgica .................................................................... 13
+1.1.3 Modelo animal baseado no antagonismo de receptores NMDA ..... 15
+1.2 Sistema Endocanabinoide e os receptores CB2 .................................... 16
+1.3 O composto HU-910 ............................................................................... 19
+2. HIPÓTESE ............................................................................................... 19
+3. OBJETIVO ............................................................................................... 20
+3.1 Objetivos Gerais ..................................................................................... 20
+3.2 Objetivos Específicos ............................................................................. 20
+4. MATERIAIS E MÉTODOS........................................................................ 21
+4.1 Animais .................................................................................................. 21
+4.2 Drogas ................................................................................................... 21
+4.3 Procedimentos experimentais comportamentais ................................... 22
+4.3.1 Hiperlocomoção ............................................................................ 22
+4.3.2 Tratamento repetido com HU-910 .................................................. 24
+4.3.2.1 Interação Social .................................................................... 26
+4.3.2.2 Reconhecimento de Objetos ................................................... 26
+4.3.2.3 Tétrade Canabinoide .............................................................. 27
+4.3.2.3.1 Catalepsia ....................................................................... 28
+4.3.2.3.2 Medida da temperatura da causa .................................... 29
+4.3.2.3.3 Atividade locomotora ...................................................... 29
+4.3.2.3.4 Atividade antinociceptiva................................................. 29
+4.4 Imunohistoquímica para detecção de proteína FosB/ ΔFosB ............... 30
+4.5 Avaliação quantitativa de células FosB/ΔFosB positivas ....................... 32
+4.6 Análise Estatística ................................................................................. 32
+5. RESULTADOS ......................................................................................... 33
+5.1 Experimento 1: Efeito do tratamento com HU-910 no teste de
+hiperlocomoção induzida por MK-801 (0,25 mg/kg) e anfetamina (2,5
+mg/kg)............................................................................................................33
+
+5.2 Experimento 2: Efeito do tratamento crônico com HU-910 e clozapina sobre
+os prejuízos nos testes de IS e RO induzidos pelo tratamento crônico com o MK801 ................................................................................................................... 35
+5.3 Experimento 3: Efeito do tratamento crônico com AM630 e HU-910 sobre os
+prejuízos nos testes de IS e RO induzidos pelo tratamento crônico com MK-801
+......................................................................................................................... 38
+5.4 Experimento 4: Efeito do tratamento com AM630 (0,1 e 1 mg/kg) e HU-910
+(30 mg/kg) no teste de hiperlocomoção induzida por MK-801 (0,25 mg/kg)......41
+5.5 Experimento 5: Efeitos do tratamento com HU-910 (30 mg/kg) e WIN55,2122 (5 mg/kg) na tétrade canabinoide....................................................................42
+5.6 Avaliação da alteração da expressão de FosB/ ΔFosB induzidas pelo
+tratamento crônico com HU-910 e clozapina em estruturas cerebrais específicas
+......................................................................................................................... 43
+6. DISCUSSÃO ................................................................................................ 47
+7. CONCLUSÃO............................................................................................... 53
+8. REFERÊNCIAS ............................................................................................ 54
+
+1. INTRODUÇÃO
+1.1. Esquizofrenia
+1.1.1. Aspectos gerais do transtorno
+A esquizofrenia é um transtorno psiquiátrico complexo e crônico que
+acomete cerca de 21 milhões de pessoas no mundo todo, se destacando em
+2001 como uma das principais causas de incapacidade, segundo a Organização
+Mundial de Saúde (OMS, 2017). O transtorno aumenta de duas a três vezes o
+risco de mortalidade do indivíduo em comparação à população geral (Mcgrath et
+al., 2008).
+A sintomatologia da esquizofrenia é geralmente organizada em três
+grupos denominados de sintomas positivos, negativos e cognitivos. Os sintomas
+positivos são caracterizados por alucinações, delírios e transtornos de
+pensamento, eventos mentais ausentes na população geral sadia. Os sintomas
+negativos são caracterizados pelo embotamento afetivo, perda de motivação,
+distúrbios de expressão de afeto e interação social (Wong e Van Tol, 2003). Por
+fim, os sintomas cognitivos estão relacionados a prejuízos na execução de
+tarefas como memória, atenção e função intelectual do indivíduo acometido
+(Weickert et al., 2000). Esses sintomas costumam aparecer na adolescência ou
+início da vida adulta e provocam importantes efeitos sobre a vida do indivíduo e
+familiares, sobre a sociedade e sobre as relações profissionais, o que culmina
+em alto custo econômico (Silverstein, et al., 2013).
+Até o século XX os pacientes com esquizofrenia eram internados em
+hospitais para serem retirados do convívio social. Essa prática não amenizava
+
+11
+
+os sintomas e, além disso, favorecia a evolução crônica do transtorno. Foi então
+na década de 1950 que os primeiros antipsicóticos começaram a ser
+desenvolvidos. O principal mecanismo de ação desses fármacos é o bloqueio de
+receptores dopaminérgicos D2 com alta afinidade. Essa primeira geração de
+antipsicóticos, também chamados de típicos ou neurolépticos, incluem a
+clorpromazina, o haloperidol e tioridazina.
+Apesar de efetivos contra os sintomas positivos, os antipsicóticos típicos
+possuem pouca ou nenhuma ação contra os sintomas negativos e cognitivos,
+além de provocarem os chamados efeitos extrapiramidais (distonias agudas,
+Parkinsonismo, acatisia e discinesia tardia). Assim, novos antipsicóticos que não
+causam efeitos extrapiramidais nas doses efetivas como antipsicóticos foram
+desenvolvidos e classificados como antipsicóticos atípicos. Eles incluem
+fármacos como a clozapina e risperidona, por exemplo. Os fármacos dessa
+classe têm ação sobre diversos receptores, como receptores D4, D2 e de
+serotonina (5-HT). Estes últimos têm sido associados com a ação contra os
+sintomas cognitivos e negativos que esses fármacos possuem (Graeff e
+Guimarães, 2012)
+Entretanto, os novos fármacos desenvolvidos, com exceção da clozapina
+(que provoca agranulocitose grave em cerca de 1% dos pacientes, não sendo,
+por isso, fármaco de primeira escolha para o tratamento), não tem se
+demonstrado mais eficazes que os fármacos já disponíveis há 20 anos (Lewis e
+Lieberman, 2008), e apresentam pouco efeito sobre os sintomas negativos e
+cognitivos (Elvevag e Goldberg, 2000; Hanson et al., 2010). Além disso, o alto
+índice de efeitos colaterais, somado à baixa eficácia desses fármacos, resultam
+em alta taxa de abandono do tratamento (Lieberman et al., 2005). Nesse
+12
+
+contexto, existe a necessidade do desenvolvimento de novas drogas que sejam
+melhor toleradas e mais eficazes em todos os três grupos de sintomas da
+esquizofrenia.
+1.1.2. Neurobiologia da esquizofrenia: a hipótese dopaminérgica e a
+teoria da hipofunção glutamatérgica
+Como dito anteriormente, a esquizofrenia é um transtorno complexo, cuja
+etiologia ainda não é completamente entendida. Exemplo desta complexidade é
+o fato de ainda não haver consenso no campo científico se a esquizofrenia é um
+conjunto de diversos transtornos que se apresentam concomitantemente ou um
+transtorno único. Entretanto, a heterogeneidade etiológica é consenso na
+literatura, envolvendo fatores genéticos, socioambientais e psicológicos (Lewis
+e Lieberman, 2000).
+A primeira hipótese formulada para explicar a neurobiologia deste
+transtorno foi a hipótese dopaminérgica. A administração de compostos que
+aumentam a neurotransmissão dopaminérgica, como a anfetamina, em pessoas
+sadias induz sintomas semelhantes aos experimentados por pacientes com
+esquizofrenia. Em paciente com esquizofrenia essa administração exacerba os
+sintomas do transtorno. Além disso, drogas que depletam a dopamina
+extracelular, como a reserpina, mostraram-se capazes de atenuar sintomas
+psicóticos (Seeman e Kapur, 2000). Essas evidências suportam o papel
+essencial da neurotransmissão dopaminérgica na gênese do transtorno. A teoria
+dopaminérgica sugere que há uma redução na atividade da dopamina na via
+mesocortical (o que estaria relacionado aos sintomas negativos) e uma atividade
+excessiva deste mesmo neurotransmissor na via mesolímbica (o que estaria
+
+13
+
+relacionada aos sintomas positivos) (Davis et al., 1991). As vias nigroestriatais e
+tuberoinfundibular não parecem possuir relevância para o transtorno, porém
+possuem papel importante no que diz respeito aos efeitos colaterais dos
+antipsicóticos, principalmente os de primeira geração (típicos) (Graeff e
+Guimarães, 2012)
+Embora o papel central da dopamina na neurobiologia do transtorno seja
+bem aceito, essa teoria não é suficiente para explicar, sozinha, a complexidade
+do transtorno. Nesse sentido, a hipótese da hipofunção glutamatérgica foi
+formulada. O glutamato é o principal neurotransmissor excitatório do sistema
+nervoso central (SNC) e na via mesocortical sua liberação, fisiologicamente,
+promove aumento da estimulação de neurônios dopaminérgicos, resultando na
+liberação de dopamina; na via mesolímbica o glutamato estimula interneurônios
+inibitórios (gabaérgicos) dos neurônios dopaminérgicos, resultando em redução
+da liberação de dopamina (Stephen, 2007). Nesse sentido, a hipótese
+glutamatérgica sugere que, em paciente com esquizofrenia, há hipofunção deste
+neurotransmissor nas vias descritas e, assim, na via mesocortical esta
+hipofunção promoveria a diminuição do tônus dopaminérgico, descrita pela
+primeira hipótese, e na via mesolímbica resultaria na diminuição da inibição da
+liberação de dopamina, o que culminaria no aumento do tônus dopaminérgico
+nesta via (Jentsch e Roth, 1999; Gonzalez-Burgos e Lewis, 2012).
+O glutamato atua através de receptores metabotrópicos (mGLU) e
+ionotrópicos. Os primeiros possuem sete domínios transmembrana e são
+divididos em três grupos, de acordo com sua homologia, farmacologia e
+segundos mensageiros, em: tipo I (mGLU 1 e 5), tipo II (mGLU 2 e 3) e tipo III
+(mGLU 4, 6, 7 e 8). Os receptores ionotrópicos possuem três subtipos: cainato,
+14
+
+AMPA e NMDA (Dingledine et al., 1999; Kew e Kemp, 2005). Desses receptores,
+os do tipo NMDA possuem papel mais relevante para o estudo da esquizofrenia.
+Mohn e colaboradores (1999) mostraram que o knockdown da subunidade
+GluN1 desses receptores provocaram alterações comportamentais do tipoesquizofrenia em animais, as quais foram atenuadas por antipsicóticos. Além
+disso, drogas que antagonizam os receptores NMDA, como a ketamina,
+fenciclidina e o MK-801, são capazes de induzir alterações comportamentais que
+se assemelham aos sintomas da esquizofrenia em humanos sadios e em
+animais (Tsai e Coyle, 2002). Esses dados sugerem o envolvimento do
+glutamato na neurobiologia da esquizofrenia, e de certa forma complementam a
+hipótese dopaminérgica descrita primeiramente para explicar os sintomas do
+transtorno.
+1.1.3. Modelo animal baseado no antagonismo de receptores NMDA
+Conforme
+
+apresentado
+
+anteriormente,
+
+drogas
+
+que
+
+antagonizam
+
+receptores NMDA provocam alterações comportamentais que mimetizam os
+sintomas presentes nos indivíduos com esquizofrenia. Animais tratados com
+essas drogas apresentam prejuízos no filtro sensório motor e em funções
+cognitivas, evidenciadas por testes como reconhecimento de objeto (RO) e
+inibição do pré-pulso (PPI) (Stefani e Moghanddam, 2005; Fegjin et al.,2007),
+além de prejuízos no teste de interação social (IS), que poderia refletir os
+sintomas negativos em humanos (Rung et al., 2005).
+Apesar dessas alterações serem observadas com o tratamento agudo,
+tem sido proposto que o tratamento crônico com antagonistas NMDA representa
+melhor as alterações neuroquímicas, comportamentais e neuroanatômicas
+
+15
+
+observadas em pacientes (Gomes et al., 2015). Além disso, essas alterações
+parecem ser duradouras, uma vez que alguns estudos observaram sua
+persistência até seis semanas após o fim do tratamento (Jentsch e Roth, 1999,
+Hashimoto et al., 2005, Nagai et al., 2009). Essas alterações foram revertidas
+pelo tratamento com antipsicóticos atípicos, como a clozapina, mas não com o
+antipsicóticos típico haloperidol.
+Adicionalmente, o tratamento com antagonistas de receptores NMDA
+parece mimetizar os sintomas negativos e cognitivos da doença ao contrário da
+administração de drogas que atuam diretamente no sistema dopaminérgico, que
+parece estar mais relacionada a sintomas positivos (Krystal et al., 2005). Sendo
+assim, o antagonismo de receptores NMDA tem sido amplamente empregado no
+estudo de substâncias com possível efeito antipsicótico.
+1.2. Sistema Endocanabinoide e os receptores CB2
+
+O sistema endocanabinoide é um importante sistema de sinalização
+lipídica que atua na modulação fisiológica de respostas dos sistemas nervoso
+central, imune, endócrino, reprodutivo e cardiovascular (Roche e Finn, 2010). É
+constituído pelos receptores endocanabinoides do tipo I e II (CB1 e CB2,
+respectivamente), seus agonistas endógenos, denominados endocanabinoides,
+anandamida
+
+(AEA)
+
+e
+
+2-araquidonoilglicerol
+
+(2-AG)
+
+e
+
+pelas
+
+enzimas
+
+responsáveis pela síntese e degradação desses endocanabinoides (Campos et
+al, 2016). O receptor CB1 está localizado em áreas cerebrais envolvidas com o
+controle das funções motoras e cognitivas e áreas relacionadas à motivação
+(Giuffrida et al., 2004). Os efeitos de preparações psicoativas como a maconha
+e haxixe são usualmente atribuídos ao agonismo CB1 pelo principal
+16
+
+fitocanabinoide,
+
+o
+
+delta-9-tetra-hidro-canabinol
+
+(THC).
+
+Em
+
+roedores
+
+a
+
+administração do THC ou de agonistas CB1 seletivos causa um conjunto de
+alterações
+
+comportamentais
+
+denominado
+
+de
+
+“tétrade
+
+canabinoide”
+
+(hipolocomoção, catalepsia, diminuição da temperatura corporal e analgesia)
+(Silva, et al., 2017)
+Receptores CB2 são expressos majoritariamente em células dos
+sistemas hematopoiético e imune e em células da glia, mas também estão
+presentes em neurônios (Luongo et al., 2014).
+Diversos estudos investigaram o papel do sistema endocanabinoide em
+transtornos psiquiátricos, dentre eles a esquizofrenia. Um estudo clínico mostrou
+que os níveis de anandamida no líquido cerebroespinhal são oito vezes mais
+elevados em pacientes com esquizofrenia em comparação a indivíduos
+saudáveis (Giuffrida et al., 2004). Além disso, há uma menor expressão do
+receptor CB2 em pacientes com esquizofrenia (Roche e Finn, 2010) e, em
+modelos pré-clínicos utilizando animais knockout para o receptor CB2, estes
+apresentam comportamentos semelhantes a um modelo de esquizofrenia
+baseado no tratamento com cocaína nos testes de inibição pelo pré-pulso (PPI)
+e esquiva inibitória, indicando um possível envolvimento do receptor CB2 na
+neurobiologia da esquizofrenia (Ortega-Alvaro et al., 2011).
+Evidências recentes sugerem um envolvimento do receptor CB2 em
+transtornos psiquiátricos que envolvem o sistema dopaminérgico na sua
+neurobiologia. Zhang e colaboradores observaram que há expressão de
+receptores CB2 em neurônios dopaminérgicos da área tegmental ventral, local
+aonde se iniciam as vias dopaminérgicas associadas à esquizofrenia, e que
+esses receptores modulam a excitabilidade neuronal e o comportamento
+17
+
+relacionado com a neurotransmissão dopaminérgica (Zhang et al., 2014). Além
+disso, a ativação de receptores canabinoides pode ter ação inibitória sobre a
+atividade motora induzida pela dopamina e ligantes do receptor CB2 foram
+capazes de reverter a hiperlocomoção induzida por MK-801 (Giuffrida et al. 2004;
+Kruk-Slomka et al., 2017). Essa provável modulação da neurotransmissão
+dopaminérgica pelo receptor CB2 sugere que este poderia ser um possível alvo
+para o tratamento farmacológico da esquizofrenia.
+O receptor CB2 tem chamado a atenção como um importante alvo
+terapêutico para a modulação de neuroinflamação e atenuação da ativação de
+microglia e astrócitos na substância nigra e no estriado (Bento et al., 2008;
+Concannon et al., 2015). A ativação farmacológica deste receptor parece reduzir
+a ativação de microglia e melhorar prejuízos funcionais em transtornos
+neurodegenerativos como Alzheimer (Ramírez et al., 2005), Huntington
+(Palazuelos et al., 2009; Sagredo et al., 2009), esclerose múltipla (Palazuelos et
+al., 2008), e Parkinson (Price et al., 2009). Além disso, animais knockout para o
+receptor CB2 apresentaram aumento da ativação de microglia e inflamação
+(Palazuelos et al., 2008; Price et al., 2009). Estas alterações neuroinflamatórias
+foram associadas a diversos transtornos neuropsiquiátricos. Polimorfismos no
+gene que codifica o receptor CB2 têm sido descritos em depressão, transtornos
+alimentares e esquizofrenia (Roche e Finn, 2010). Estes estudos sugerem que
+compostos que ativam o receptor CB2 poderiam preservar a homeostase
+neuronal e sobrevivência em doenças com um componente neurodegenerativo
+e inflamatório, como a esquizofrenia (Fernandez-Ruiz et al., 2007).
+
+18
+
+1.3. O composto HU-910
+O composto HU-910 é um agonista dos receptores CB2 sintetizado pelo
+grupo do Prof. Raphael Mechoulam, da Hebrew University, Israel. Estudo
+recente sugere que, entre os agonistas CB2 disponíveis no mercado, ele seja
+um dos mais seletivos no sentido de ativar a via canônica do receptor CB2, tendo
+pouco efeito como agonista tendencioso (“bias agonist”) quando comparado, por
+exemplo, com o HU-308 e JWH-133. Assim como estes compostos, no entanto,
+ele foi capaz de atenuar a injúria no tecido hepático induzida por isquemia. Este
+trabalho verificou também que o tratamento com o HU-910 atenua a expressão
+de
+
+citocinas
+
+pró-inflamatórias
+
+e
+
+quimiocinas
+
+hepáticas
+
+induzida
+
+por
+
+isquemia/reperfusão (Horváth et al., 2012; Soethoudt et al., 2017).
+
+2. HIPÓTESE
+Considerando que o receptor CB2 parece ter um importante papel na
+modulação da liberação de dopamina na área tegmental ventral e pode inibir a
+ativação de microglia, dois fenômenos associados às manifestações clínicas
+observadas na esquizofrenia, a hipótese do presente trabalho é a de que o HU910 teria efeito tipo-antipsicótico em um modelo animal baseado no antagonismo
+dos receptores NMDA nos testes de hiperlocomoção induzida por MK-801,
+interação social (IS) e reconhecimento de objetos (RO) e este efeito seria
+dependente da ativação dos receptores CB2. Além disso, o HU-910 não seria
+capaz de causar a tétrade canabinoide em doses que produziriam efeito
+antipsicótico. Por fim, o HU-910 atenuaria o aumento na expressão neuronal da
+proteína delta-FosB induzida pelo MK-801.
+
+19
+
+3. OBJETIVOS
+3.1. Objetivos Gerais
+O objetivo do presente trabalho foi avaliar se o tratamento agudo e repetido
+com HU-910 seria capaz de reverter as alterações comportamentais induzidas
+pelo MK-801, um antagonista dos receptores NMDA, sem produzir a tétrade
+canabinoide e se este efeito é dependente da ativação dos receptores CB2.
+3.2. Objetivos Específicos
+
+
+Avaliar se, a semelhança do que acontece com outras drogas
+ligantes de CB2, o tratamento com o HU-910 é capaz de inibir a
+hiperlocomoção
+
+induzida
+
+pelo
+
+tratamento
+
+com
+
+MK-801
+
+ou
+
+anfetamina.
+
+
+Avaliar se o tratamento repetido com HU-910 é capaz de reverter
+prejuízos induzidos por MK-801 nos testes de interação social (IS) e
+reconhecimento de objetos (RO).
+
+
+
+Avaliar se os efeitos do HU-910 sobre os prejuízos induzidos por MK801 nos testes de IS, RO e hiperlocomoção são dependentes da
+ativação do receptor CB2.
+
+
+
+Avaliar se o HU-910 é capaz de produzir os efeitos característicos
+da tétrade canabinoide.
+
+
+
+Avaliar a expressão da proteína FosB em áreas cerebrais
+específicas associadas à fisiopatologia da esquizofrenia.
+
+20
+
+4. MATERIAIS E MÉTODOS
+4.1. Animais
+Para a realização dos procedimentos experimentais foram utilizados
+camundongos C57BL/6 machos, com 6 semanas de idade no início do
+tratamento, provenientes do Biotério Central da Faculdade de Medicina de
+Ribeirão Preto (FMRP-USP). Os animais foram alojados no biotério do
+departamento, em grupos de até 5 animais por caixa (41 x 33 x 17cm), sob ciclo
+de luz (12 hrs claro/12 hrs escuro, sendo o período claro iniciado as 6:00 h),
+temperatura de 23 ± 1°C e umidade controlada, além de livre acesso à água e à
+comida, excetuando-se o período da realização dos testes comportamentais. O
+protocolo experimental foi aprovado pela Comissão de Ética no Uso de Animais
+em Experimentação da Faculdade de Medicina de Ribeirão Preto da
+Universidade de São Paulo, registrado com o número 127/2017.
+
+4.2. Drogas
+ AM630 (Tocris, USA); Veículo: 1% DMSO e salina. Dose de 0,1 e 1
+mg/kg (baseadas em Rodrigues, N.S. et al., dados não publicados e
+Silva et al., 2017).
+ Anfetamina (Pervitin®, Brasil) Veículo: salina. Dose 2,5 mg/kg
+(baseado em Rodrigues, N.S. et al., dados não publicados).
+ Clozapina (Sigma, EUA); Veículo: salina. Dose de 1 mg/kg (baseada
+em Gomes et al.,2015).
+ HU-910 (Doado pelo Professor Raphael Mechoulam, Universidade
+Hebraica, Israel); Veículo: 3% DMSO, 2% Tween 80 e salina. Doses
+de 0,3 a 30 mg/kg (baseada em Horváth et al., 2012).
+
+21
+
+ MK-801 (Sigma, EUA); Veículo: salina. Doses de 0,25 mg/kg e
+0,5mg/kg para os testes de hiperlocomoção e tratamento crônico,
+respectivamente (baseadas em Rodrigues, N.S. et al., dados não
+publicados).
+ WIN55,212-2 (Tocris, USA); Veículo: 2% Tween 80 e salina. Dose de
+5 mg/kg (baseada em Silva et at., 2017).
+
+4.3. Procedimentos experimentais comportamentais
+4.3.1. Hiperlocomoção
+A administração aguda de drogas que antagonizam receptores
+NMDA, como o MK-801, promove o aumento da atividade locomotora de
+animais devido a alterações na neurotransmissão dopaminérgica, e a
+reversão desta hiperlocomoção tem sido utilizada como teste preditivo da
+atividade antipsicótica de drogas testadas (Diana e Sagratella, 1994).
+Para verificar o possível efeito dos tratamentos sobre a atividade
+locomotora os animais receberam uma injeção via intraperitoneal (i.p) de HU910 (0,3; 1; 3; 10 ou 30 mg/kg; i.p) ou salina. Após 10 minutos da primeira
+injeção, os animais receberam uma injeção de MK-801 (0,25 mg/kg) ou salina.
+Decorridos 20 minutos da segunda injeção, os animais foram posicionados no
+centro de uma arena circular de acrílico (40 cm de diâmetro x 40 cm de altura)
+onde puderam percorrer livremente toda a arena por um período de 20 minutos.
+A distância total percorrida pelos animais foi registrada com o auxílio do software
+Any-Maze (Stoelting, Irlanda).
+Para avaliar o envolvimento dos receptores CB2 no efeito do HU-910
+sobre a hiperlocomoção induzida por MK-801, os animais receberam injeção
+
+22
+
+aguda de AM630 (0,1 e 1 mg/kg; i.p), um antagonista de receptores CB2, ou
+veículo. Após 10 minutos da primeira injeção, os animais receberam uma injeção
+de HU-910 (30 mg/kg; i.p) ou veículo. Em seguida, 10 minutos após, os animais
+receberam a terceira injeção, MK-801 (0,25 mg/kg; i.p) ou salina e, após 20
+minutos da última injeção, foram posicionados na arena e a atividade locomotora
+foi avaliada por 20 minutos.
+
+Figura 1. Representação esquemática do procedimento experimental do teste de
+hiperlocomoção induzida por MK-801. Em A, representação esquemática do teste de
+hiperlocomoção com HU-910 (0,3; 1; 3, 10 e 30 mg/kg). Em B, representação
+esquemática do teste de hiperlocomoção com HU-910 (30 mg/kg) com o pré-tratamento
+com AM630 (0,1 e 1 mg/kg).
+
+Para avaliar o efeito do HU-910 sobre a atividade locomotora induzida por
+anfetamina, os animais receberam injeção aguda de HU-910 (1; 3; 10 e 30
+mg/kg; i.p) ou salina e, após 30 ou 60 minutos, uma injeção de anfetamina (2,5
+
+23
+
+mg/kg; i.p) ou salina. Decorridos 10 minutos da segunda injeção, os animais
+foram posicionados no centro da arena já descrita. A distância total percorrida
+foi registrada durante o período de 20 minutos.
+
+Figura 2. Representação esquemática do procedimento experimental do teste de
+hiperlocomoção induzida por anfetamina. A anfetamina foi administrada na dose de
+2,5 mg/kg e o HU-910 nas doses de 1; 3, 10 e 30 mg/kg.
+
+4.3.2. Tratamento repetido com HU-910
+Para avaliar o efeito do tratamento repetido com HU-910, o MK-801
+(0,5 mg/kg) foi administrado por 14 dias consecutivos (2 vezes ao dia/ i.p.) e
+um dia após o fim do tratamento, ou seja, no 15° dia de tratamento, as injeções
+de HU-910 (3, 10 e 30 mg/kg) ou clozapina (1mg/kg) foram administradas por
+7 dias consecutivos (1 vez ao dia/ i.p.). Após 48 horas da última injeção de
+HU-910, os animais foram submetidos aos testes de IS e habituação a arena
+e 24 horas depois, ao teste de RO.
+24
+
+Figura 3. Representação esquemática do procedimento experimental dos
+tratamentos repetidos com MK-801 e HU-910 mostrando os dias de tratamento
+e dos testes a serem realizados. O MK-801 foi administrado na dose de 0,5 mg/kg,
+o HU-910 nas doses de 3, 10 e 30 mg/kg e a clozapina na dose de 1mg/kg.
+
+Para avaliar o envolvimento dos receptores CB2 no efeito do HU-910
+sobre o prejuízo causado pelo MK-801 nos testes de IS e RO, os animais foram
+tratados por 14 dias com MK-801 (0,5 mg/kg) ou salina. Nos 7 dias
+subsequentes, os animais foram tratados com AM-630 (0,1 mg/kg). Após 10
+minutos da injeção do antagonista, os animais receberam uma injeção de HU910 (30 mg/kg). Quarenta e oito horas após os animais foram submetidos à
+habituação e teste de IS e, no dia seguinte, ao teste de RO.
+
+Figura 4. Representação esquemática do procedimento experimental do
+tratamento com MK-801, AM630 e HU-910. A figura mostra o pré-tratamento com MK801, seguido pelo tratamento repetido com AM-630 (0,1 mg/kg) e HU-910 (30 mg/kg),
+apresentando os dias de tratamento e dos testes a serem realizados.
+
+25
+
+4.3.2.1.
+
+Interação Social
+
+O teste de IS é um modelo utilizado para o estudo dos sintomas
+negativos da esquizofrenia (Ellenbroek e Cools, 2000). O teste foi realizado em
+uma caixa retangular de acrílico (28 x 17 x 13 cm), onde os animais (testado e
+não familiar) foram colocados em lados opostos para explorar a caixa livremente
+durante 10 minutos. O tempo total de comportamentos sociais ativos executados
+pelo camundongo "teste" como cheirar, seguir, fazer grooming e subir sobre o
+camundongo não familiar foi registrado. Os animais não foram previamente
+expostos uns aos outros e a caixa onde o teste foi realizado.
+
+4.3.2.2.
+
+Reconhecimento de Objetos
+
+O teste de reconhecimento de objetos é baseado no comportamento
+natural dos camundongos em aproximarem-se e explorarem por mais tempo um
+objeto novo em comparação a um objeto familiar, quando expostos a ambos os
+objetos ao mesmo tempo (Ennaceur, 2010). Sendo assim, este teste é utilizado
+como modelo para estudo de funções cognitivas, como memória e
+aprendizagem, as quais são diminuídas em modelos animais de esquizofrenia
+(Wong et al., 1997; Hashimoto et al., 2005).
+No dia anterior ao teste, cada animal foi submetido a uma sessão de
+habituação a arena, com duração de 15 minutos. No dia do teste, os animais
+foram posicionados na mesma arena contendo dois objetos idênticos, por um
+período de 10 min (sessão de aquisição) com liberdade para explorá-los. Após
+um intervalo de 60 minutos, um dos objetos presentes na sessão de aquisição
+foi substituído por um objeto novo com tamanho, textura e cor diferentes dos
+objetos anteriores. Os animais foram, então, novamente colocados na arena
+26
+
+contendo este objeto novo e o objeto familiar por um período de 5 minutos,
+registrando-se o tempo de interação com cada objeto (sessão de retenção).
+Todos os objetos possuíam, aproximadamente, 16 cm de altura e peso suficiente
+para que não fossem deslocados pelos animais durante o experimento. Definiuse exploração dos objetos como o direcionamento de sua face ao objeto até uma
+distância de 2 cm enquanto o observa, cheira ou toca.
+Para análise do tempo de exploração entre o objeto novo e o familiar foi
+utilizado o índice de discriminação. Este índice foi calculado pela diferença entre
+a exploração do objeto novo (TN) e do objeto familiar (TF) dividido pelo tempo
+de exploração total do objeto familiar e novo [DI= (TN – TF) / (TN + TF)]. O
+resultado pode variar entre valores positivos e negativos, sendo valores positivos
+indicativos de maior tempo de exploração do objeto novo e valores negativos
+indicativo de maior tempo explorando o objeto familiar, enquanto zero indica
+ausência de preferência exploratória.
+4.3.3. Tétrade Canabinoide
+A tétrade canabinoide é um conjunto de quatro efeitos clássicos
+desencadeados pela ativação de receptores CB1. Em animais, esses efeitos são
+a hipotermia, a catalepsia, a antinocicepção e a hipolocomoção e estão
+relacionados com alguns efeitos adversos produzidos por tratamentos com
+agonistas do receptor CB1, incluindo dependência. Embora descrito como
+agonista seletivo CB2, a ausência de atividade agonista em CB1 nas suas
+eventuais doses antipsicóticas é de relevância para seu uso clínico. Além disso,
+a catalepsia é um teste preditivo para avaliar a possível presença do efeito
+colateral extrapiramidal em humanos, comum no tratamento com antipsicóticos
+típicos (Gobira et al., 2013).
+27
+
+Para avaliar se o HU-910 é capaz de produzir os efeitos da tétrade
+canabinoide os animais receberam injeções (i.p) de veículo, HU-910 (30 mg/kg)
+ou WIN55-212-2 (5 mg/kg). Todos os animais foram submetidos à sequência de
+quatro testes, onde o WIN55,212-2 (agonista CB1/CB2) foi utilizado como
+controle positivo.
+
+Figura 5. Representação esquemática do procedimento experimental da tétrade
+canabinoide, indicando os testes realizados, o tempo da injeção e o tempo dos
+testes. T1: Temperatura basal da cauda. T2: medida basal da placa quente. T3: teste
+da catalepsia. T4: medida da temperatura da cauda. T5: teste da atividade locomotora.
+T6: teste da placa quente.
+
+4.3.3.1.
+
+Catalepsia
+
+O teste da catalepsia consiste em posicionar o animal em uma postura
+pouco comum e registrar o tempo que este permanece imóvel nessa posição.
+Para o teste foi utilizado uma barra fixa de vidro, a uma altura de 4 cm da
+superfície (Sanberg et al., 1988). Após 30 minutos da injeção das drogas ou
+veículo, os animais foram posicionados na barra, de tal forma que suas patas
+dianteiras ficaram sobre a barra. Registrou-se o tempo que ambas as patas
+permaneceram sobre a barra, sendo o tempo máximo de 300 segundos (Gomes
+et al., 2013).
+
+28
+
+4.3.3.2.
+Com
+
+Medida da temperatura da cauda
+
+uma
+
+câmera
+
+térmica,
+
+Termovisor
+
+Modelo
+
+NV
+
+384
+
+(THERMOCOM®, Nashua, NH 03062, EUA), a temperatura da cauda dos
+animais foi registrada antes (basal) e 35 minutos após a injeção das drogas ou
+veículo, posicionando a câmera a uma distância de 50 cm do animal. Foram
+registradas cinco fotos de cada animal, sendo coletadas as medidas de 5 pontos
+distintos da cauda de cada imagem. Uma média destes pontos foi calculada e,
+para o resultado final, foi feita a média de cada imagem após o tratamento menos
+a basal.
+4.3.3.3.
+
+Atividade locomotora
+
+Este teste avalia possíveis efeitos motores das drogas administradas.
+Após 37 minutos das injeções, os animais foram colocados, individualmente, em
+uma arena circular (campo aberto; 40 cm de diâmetro; paredes de 40 cm de
+altura) e a distância total percorrida durante 10 minutos foi registrada e
+determinada pelo software Any-maze®.
+
+4.3.3.4.
+
+Atividade antinocicptiva
+
+Para analisar a atividade antinociceptiva utilizou-se o teste da placa
+quente, que consiste em avaliar a nocicepção térmica manifestada pelo reflexo
+de lamber ou de retirada da pata. Os animais foram posicionados em um cilindro
+de plexiglas de 10 cm de diâmetro sobre uma placa quente, mantida a
+aproximadamente
+
+56°C.
+
+Foi
+
+registrada
+
+uma
+
+medida
+
+basal
+
+para
+
+os
+
+comportamentos de lamber as patas, “sapatear” ou pular, após o que os animais
+foram imediatamente retirados da placa. Quarenta e cinco minutos após
+
+29
+
+receberem injeção (i.p) de drogas (HU-910, WIN55,212-2 ou veículo) novas
+medidas de latência para os mesmos comportamentos foram feitas.
+A fim de evitar danos teciduais aos animais, o tempo máximo de
+permanência sobre a placa quente em cada medida foi de 30 segundos (Kisney
+et al., 2011). Os resultados são expressos em delta do tempo em segundos,
+calculado subtraindo o valor após tratamento do valor basal.
+
+4.4. Imunohistoquímica para detecção de proteína FosB/ΔFosB
+A proteína ΔFosB, um fator de transcrição da família Fos, é produto do
+gene fosB e é rapidamente induzida em regiões específicas no cérebro após
+estímulos agudos ou crônicos, como a administração repetida de drogas de
+abusos e tratamento com antidepressivos e antipsicóticos. Animais que não
+possuem o gene fosB apresentam respostas comportamentais e bioquímicas
+deturpadas ao tratamento com antidepressivos e à administração de drogas de
+abuso, o que demonstra a relevância desta proteína para a adaptação plástica
+do cérebro. Por isso, esta proteína é considerada como um marcador de ativação
+neuronal que reflete alterações moleculares de longo prazo (Nestler, et al.,
+1999).
+Imediatamente após o fim do teste de RO, os animais foram
+anestesiados com uretana (25%, 40µL por animal, i.p) e perfundidos
+transcardiacamente com solução fosfato-salina (PBS) 0,01M e paraformaldeído
+(PFA) 4%. Após a perfusão os cérebros foram removidos e permaneceram em
+PFA 4% por 24 h, sendo posteriormente crioprotegidos em solução de sacarose
+30% tamponada com PBS 0,01M, à 4°C, por 48 h ou até apresentarem
+saturação. Em seguida, os encéfalos foram congelados com isopentana a -30°C
+
+30
+
+e armazenados em freezer (-80°C) até o processamento. Foram obtidos cortes
+frontais das regiões de interesse com 30µm de espessura em criostato (Leica,
+Alemanha) à -20°C e armazenados em solução anticongelamento contendo
+etilenoglicol, glicerol e PBS 1x, à 20°C. Os cortes de interesse foram aqueles
+que continham o córtex pré-frontal (CPF), o núcleo accumbens (NAc) e estriado.
+Para a técnica de marcação por imunohistoquímica os cortes foram
+inicialmente lavados (3 x 5 min) com PBS 0,1 M + Triton-X 0,15% (pH 7,4;
+tampão A), seguindo a recuperação antigênica com tampão citrato (pH 6). Após,
+os cortes foram incubados (30 min) com solução H2O2 0,5% em tampão A para
+bloqueio da peroxidase endógena e então lavados novamente com tampão A (3
+x 5 min) para serem incubados com soro albumina bovina (BSA) 2%, em tampão
+A e soro 5% por 60 min, para o bloqueio de sítios de ligação inespecífica. Após
+o bloqueio dos sítios inespecíficos, os cortes foram incubados com o anticorpo
+primário mouse (1:2000; Abcam, EUA) overnight. Ao período de incubação com
+o anticorpo primário, seguiu-se lavagem (3 x 5 min, com tampão A) e as secções
+foram, então, incubadas com anticorpo biotinilado anti-mouse (1:400; Abcam,
+EUA), por 90 min. Todos os anticorpos foram diluídos em tampão A e as
+incubações ocorreram a 21°C com agitação branda e constante. Em seguida, o
+anticorpo secundário foi recuperado e as secções foram novamente lavadas (3
+x 5 min) com tampão A e então incubadas com o complexo AB avidina-biotinaperoxidase. (1:300, diluído em tampão A, Vectastain® ABC System) por 2 hrs. A
+atividade da peroxidase foi revelada com tetracloreto de 3’3’-diaminobenzidina
+(DAB, Sigma-Aldrich, EUA) diluída em TBS 0,1M com 0,15% de H2O2 30%. Após
+as devidas lavagens, as secções foram organizadas em lâminas gelatinizadas,
+as quais foram diafanizadas em uma série de álcoois e cobertas com lamínula.
+
+31
+
+As lâminas foram analisadas em microscópio de luz Olympus BX50
+(Olympus, Japão) com câmera acoplada Olympus DP72 (Olympus, Japão), pela
+qual as imagens foram capturadas e processadas através do software Image
+Pro-Plus 6.0 (Mediacybernetics, EUA).
+
+4.5. Avaliação quantitativa de células FosB/ΔFosB positivas
+A captura das imagens para quantificação das células FosB/ΔFosB foi
+realizada com objetiva de 10x1 e foram analisadas de 3 à 6 secções de tecido
+por área e animal, utilizada para o cálculo da média final por área e animal. As
+áreas de interesse foram identificadas com o auxílio do Atlas The Mouse Brain
+(Paxinos e Franklin, 2008). As áreas avaliadas foram: porções pré-límbica (PrL)
+e infra-límbica (IL) do CPFm, estriado lateral e medial e NAc core e shell.
+Foram consideradas células positivas aquelas que apresentavam
+coloração marrom em tom escuro e as células foram contadas usando o software
+Image Pro-Plus 6.0 (Mediacybernetics, EUA), o qual considerou apenas os
+objetos no tom pré-determinado com uma área entre 10 e 80 µm 2. O tamanho
+das áreas analisadas foram de 0,43 mm2 para o CPFm (0,21 mm2 para a porção
+PrL e 0,22 mm2 para a porção IL), 0,24 mm2 para o NAc (0,12 mm2 para a porção
+core e 0,12 mm2 para a porção shell) e 0,32 mm2 para o estriado (0,16 mm2
+para a porção medial e 0,16 mm2 para a porção lateral).
+4.6. Análise Estatística
+Para os testes realizados, utilizamos ANOVA de uma via, seguido pelos
+testes de Student-Newman-Keuls (S-N-K) ou Dunnett para análise da
+hiperlocomoção e para a análise do teste de interação social e índice de
+32
+
+discriminação do teste de reconhecimento de objetos. Para avaliar o tempo de
+exploração nas sessões de aquisição e retenção do teste de reconhecimento de
+objetos foi utilizado teste t de Student. Os grupos experimentais foram de 6-12
+animais para todos os testes, em acordo com estudos prévios utilizando os
+mesmos métodos. As
+
+diferenças foram
+
+consideradas estatisticamente
+
+significativas se p<0,05.
+
+5. RESULTADOS
+5.1. Experimento 1: Efeito do tratamento com HU-910 no teste de
+hiperlocomoção induzida por MK-801 (0,25 mg/kg) e anfetamina (2,5
+mg/kg).
+No teste de hiperlocomoção induzida por MK-801 (0,25 mg/kg) houve
+aumento pronunciado da locomoção nos animais tratados agudamente com MK801 em relação ao grupo tratado com salina. O pré-tratamento com o HU-910
+(30 mg/kg) foi capaz de prevenir a hiperlocomoção induzida pelo MK-801
+(F(6,31)=8,897; p<0,05, ANOVA de uma via seguida pelo post-hoc de S-N-K)
+(Figura 6).
+
+33
+
+Figura 6. Efeito do tratamento agudo com HU-910 no teste de hiperlocomoção
+induzida por MK-801 (0,25 mg/kg) (n = 5-6/grupo). Os dados estão apresentados
+como a média e o EPM. *p<0,05 em relação ao grupo salina+salina #p<0,05 em relação
+ao grupo salina+MK-801; ANOVA de uma via seguida pelo teste de post-hoc S-N-K.
+
+No teste de hiperlocomoção induzida por anfetamina (2,5 mg/kg) houve
+aumento pronunciado da locomoção nos animais tratados agudamente com
+anfetamina em relação ao grupo tratado com salina. O pré-tratamento com o HU910 não foi capaz de prevenir a hiperlocomoção induzida pela anfetamina em
+nenhuma das doses testadas 30 minutos (F(5,51) = 4,103; p = 0,003, ANOVA de
+uma via seguido pelo post-hoc de S-N-K) e também 60 minutos antes da injeção
+de anfetamina (F(3,19)=12,82; p < 0,0001, ANOVA de uma via seguido pelo posthoc de S-N-K) (Figura 7).
+
+34
+
+Figura 7. Efeito do tratamento agudo com HU-910 na hiperlocomoção induzida
+com anfetamina (2,5 mg/kg) (n = 10-12/grupo). Injeção de HU-910 30 (A) e 60 (B)
+minutos antes da administração de anfetamina. Os dados estão apresentados como
+média e EPM. * P<0.05; ** p<0,01; *** p<0,001 em relação ao grupo salina+salina;
+#
+
+p<0,05 em relação ao grupo HU-910+anfetamina; ANOVA de uma via seguida pelo
+
+post-hoc de S-N-K.
+
+5.2. Experimento 2: Efeito do tratamento crônico com HU-910 e
+clozapina sobre os prejuízos nos testes de IS e RO induzidos pelo
+tratamento crônico com o MK-801.
+Interação Social: o tratamento repetido com MK-801 (0,5 mg/kg) não
+induziu prejuízo no teste de IS (F(7,50)= 0,6421, p> 0,05; ANOVA de uma via;
+Figura 8). Rodrigues e colaboradores (dados não publicados, 2017) mostraram
+que o tratamento repetido com MK-801 por 14 dias diminui o tempo de interação
+social em até uma semana após o fim do tratamento. Entretanto, neste
+experimento, não ocorreu redução no tempo de interação entre os grupos
+salina+veículo e MK-801+veículo, o que inviabiliza que quaisquer conclusões
+sobre o tratamento com HU-910 após o tratamento com o MK-801 sejam
+formuladas.
+35
+
+Figura 8. Efeito do tratamento repetido com HU-910 e clozapina sobre o prejuízo
+no teste de interação social pelo pré-tratamento com MK-801 (n = 8-10/grupo). Os
+dados estão apresentados como a média e o EPM. P>0,05; ANOVA de uma via seguida
+pelo post-hoc de S-N-K.
+
+Reconhecimento de Objetos: na sessão de aquisição, houve preferência
+para a exploração do objeto à direita em relação ao objeto à esquerda nos grupos
+salina+HU-910 (30 mg/kg), salina+clozapina e MK-801+HU-910 (30 mg/kg)
+(p<0,05, teste t de Student) (Figura 9A). Na sessão de retenção, o tempo de
+exploração
+
+do
+
+objeto
+
+novo
+
+foi
+
+significativamente
+
+maior
+
+nos
+
+grupos
+
+salina+veículo, salina+HU-910 (30 mg/kg), salina+clozapina, MK-801+HU-910
+(3 mg/kg) e MK-801+HU-910 (30 mg/kg) (p<0,05, teste t de Student) (Figura 9B).
+Em relação ao índice de discriminação, os animais que receberam MK801+veículo tiveram uma preferência menor pelo objeto novo em relação ao
+familiar, comparado aos animais salina+veículo, alteração não observada nos
+animais tratados com MK-801+HU-910 (30 mg/kg) (F(6,43)= 2,732; p < 0,05,
+ANOVA de uma via, post hoc S-N-K) (Figura 9C).
+
+36
+
+Figura 9. Efeito do tratamento repetido com HU-910 e clozapina sobre o prejuízo
+no teste de reconhecimento de objetos pelo pré-tratamento com MK-801 (n = 810/grupo). Sessão de aquisição (A) e retenção (B). Dados representados como índice
+de discriminação (C). Os dados estão apresentados como a média e o EPM. *p<0.05
+em relação ao objeto à esquerda (A) ou familiar (B) ou em relação ao grupo
+37
+
+salina+veículo (C); #p<0,05 em relação ao grupo MK-801+salina; (A e B) teste t de
+Student e (C) ANOVA de uma via seguida pelo post-hoc de S-N-K.
+
+5.3. Experimento 3: Efeito do tratamento crônico com AM630 e HU-910
+sobre os prejuízos nos testes de IS e RO induzidos pelo tratamento
+crônico com MK-801.
+Interação social: O tratamento repetido com MK-801 (0,5 mg/kg) não
+induziu prejuízo no teste de interação social (F(4,24)= 0,463; p = 0,761, ANOVA
+de uma via, post hoc S-N-K) (Figura 10). Dessa forma, não é possível se concluir
+qual o efeito do tratamento com HU-910 no teste e se este efeito é bloqueado
+pelo tratamento prévio com o antagonista CB2, AM630 (1 mg/kg).
+
+Figura 10. Efeito do tratamento repetido com AM630 e HU-910 após o prétratamento com MK-801 no teste de interação social (n = 6/grupo). Os dados estão
+apresentados em média e EPM. P>0,05; ANOVA de uma via seguida pelo post-hoc de
+S-NK.
+
+Reconhecimento de Objetos: não houve preferência de nenhum dos
+grupos por algum dos objetos iguais na sessão de aquisição (p> 0,05, teste t de
+38
+
+Student; Figura 11A). Entretanto, na sessão de retenção o tempo de exploração
+do objeto novo em relação ao objeto velho foi significativamente maior nos
+grupos
+
+salina+veículo+veículo,
+
+MK-801+veículo+HU+910
+
+e
+
+MK-
+
+801+AM630+HU-910 (p<0,05, teste t de Student; Figura 11B). Em relação ao
+índice de discriminação, houve diminuição do índice nos animais tratados com
+MK-801+veículo+veículo
+
+em
+
+relação
+
+aos
+
+animais
+
+tratados
+
+com
+
+salina+veículo+veículo e essa diminuição foi atenuada pelo tratamento com HU910 e revertida pelo tratamento com AM630+HU-910 (F
+
+(4,25)
+
+= 3,525; p>0,05
+
+ANOVA de uma via, post-hoc S-N-K).
+
+39
+
+#
+
+40
+
+Figura 11. Efeito do tratamento repetido com AM630 e HU-910 sobre prejuízo
+causado pelo tratamento com MK-801 no teste de reconhecimento de objetos (n =
+6/grupo). Sessão de aquisição (A) e retenção (B). Dados representados como índice
+de discriminação (C). Os dados estão apresentados como a média e o EPM. *p<0.05
+em relação ao objeto familiar (B) ou em relação ao grupo salina+veículo+veículo (C).
+#
+
+p<0,05 em relação ao grupo MK-801+veículo+veículo; (A e B) teste t de Student e (C)
+
+ANOVA de uma via seguida pelo post-hoc de S-N-K.
+
+5.4. Experimento 4: Efeito do tratamento com AM630 (0,1 e 1 mg/kg) e
+HU-910 (30 mg/kg) no teste de hiperlocomoção induzida por MK-801
+(0,25 mg/kg).
+O pré-tratamento com AM630 (1 mg/kg) bloqueou o efeito do HU-910 (30
+mg/kg) em prevenir a hiperlocomoção induzida por MK-801 (F(6,32) = 10,92 e p <
+0,0001, ANOVA de uma via seguida por S-N-K) (Figura 12).
+
+Figura 12. Efeito do tratamento com AM630 (0,1 e 1 mg/kg) e HU-910 no teste de
+hiperlocomoção induzida por MK-801 (n = 5-7/grupo). Os dados estão apresentados
+como a média e o EPM. ** p=0,01 e ***p=0,0001 em relação ao grupo
+41
+
+véiculo+veículo+veículo,
+
+#
+
+p<0,05 em relação ao grupo veículo+veículo+MK-801;
+
+ANOVA de uma via seguida pelo teste de post-hoc S-N-K.
+
+5.5. Experimento 5: Efeitos do tratamento com HU-910 (30 mg/kg) e
+WIN55,212-2 (5 mg/kg) na tétrade canabinoide.
+O tratamento com WIN55,212-5 induziu as quatro alterações
+comportamentais características da tétrade canabinoide, causando a catalepsia,
+antinocicepção, hipolocomoção e hipotermia (Figura 13). Não foram observados
+após o tratamento com HU-910 (30 mg/kg) os efeitos de catalepsia e hipotermia
+quando comparado ao grupo veículo (F(2,14)=46,23; F(2,14)=10,32 e p<0,05,
+ANOVA de uma via seguido de Dunnett). Entretanto, foram observadas
+diferenças significativas em relação ao grupo veículo nos testes de placa quente
+e hipolocomoção, sugerindo efeito antinociceptivo e locomotor do HU-910
+(F(2,14)=9,057; F(2,14)=16,09; e p<0,05, ANOVA de um via seguido de Dunnett)
+(Figura 13).
+
+42
+
+Figura 13. Efeitos do tratamento com HU-910 (30 mg/kg) e WIN55,212-2 (5 mg/kg)
+na tétrade canabinoide (n = 5-6/grupo). Dados apresentados como média ± EPM.
+*p<0,05 em relação ao grupo veículo; **p<0,01 em relação ao grupo veículo ***p<0,001;
+ANOVA de uma via seguida pelo post-hoc de Dunnett.
+
+5.6. Avaliação da alteração da expressão de FosB/ΔFosB induzidas pelo
+tratamento crônico com HU-910 e clozapina em estruturas cerebrais
+específicas.
+Não houve alteração na expressão da proteína em nenhuma das regiões
+avaliadas para nenhum dos grupos (p>0,05, ANOVA de uma via seguida pelo
+post-hoc de S-N-K). Entretanto, a análise estatística demonstrou interação entre
+a expressão de FosB e o experimento, indicando que a expressão de fosB entre
+os grupos de mesmo tratamento diferem significativamente de acordo com o
+experimento realizado.
+43
+
+Houve correlação negativa entre os níveis de FosB e o Índice de
+Discriminação no teste de RO na porção IL do CPFm (r = -0,32, p = 0,036), nas
+porções core e shell do NAc (r = -0,44,p =0,0035; r = -0,45, p = 0,0023) e nas
+divisões medial e lateral do estriado (r = -,038, p = 0,012; r = -0,37, p = 0,014).
+
+44
+
+Figura 14. Efeito do tratamento repetido com MK-801, HU-910 e clozapina sobre a
+expressão de proteína FosB/ΔFosB no CFPm porções pré-límbica e infra-límbica,
+e núcleo accumbens porção core. Não houve alteração da expressão de FosB/ΔFosB
+
+45
+
+em nenhuma das regiões avaliadas e em nenhum dos grupos. P>0,05, ANOVA de uma
+via seguida pelo S-N-K.
+
+Figura 15. Efeito do tratamento repetido com MK-801, HU-910 e clozapina sobre a
+expressão de proteína FosB/ΔFosB no núcleo accumbens porção shell e CPu
+porções medial e lateral. Não houve alteração da expressão de FosB/ΔFosB em
+nenhuma das regiões avaliadas e em nenhum dos grupos. P>0,05, ANOVA de uma via
+seguida pelo S-N-K.
+46
+
+6. DISCUSSÃO
+O presente trabalho mostrou que o tratamento com HU-910 na dose de 30
+mg/kg preveniu o aumento da atividade locomotora induzida pelo tratamento
+com o MK-801 mas não teve efeito sobre a hiperlocomoção induzida pela
+anfetamina. A administração aguda e crônica de antagonistas de receptores
+NMDA como o MK-801 tem sido utilizada como modelo para o estudo de
+compostos com possível atividade antipsicótico. O canabidiol (CBD), um
+fitocanabinoide não psicotomimético, previne a hiperlocomoção induzida pela Danfetamina (agonista indireto dopaminérgico) e pela ketamina (antagonista de
+receptores NMDA) (Moreira e Guimarães, 2005). Além disso, o efeito do CBD
+inibindo a hiperlocomoção induzida por anfetamina foi bloqueado pelo prétratamento com AM630 (Rodrigues, N.S et al, dados não publicados), sugerindo
+que os receptores CB2 são relevantes para este efeito do CBD.
+
+Embora o
+
+mecanismo do CBD não seja completamente elucidado, por ser um inibidor da
+enzima FAAH poderia gerar um aumento de endocanabinoides levando a
+ativação indireta de receptores CB2 (Zuardi, et al., 2012). Esta possiblidade é
+corroborada pelo bloqueio da hiperlocomoção induzida por MK-801 pelo HU-910.
+Os efeitos locomotores do MK-801 e da anfetamina são resultados de
+mecanismos distintos de ação. O MK-801 induz aumento da atividade
+locomotora através facilitação da neurotransmissão dopaminérgica, em
+consequência do bloqueio da neurotransmissão glutamatérgica, em áreas como
+NAc e CPu (Liljequist et al., 1991). A anfetamina, por sua vez, induz aumento de
+locomoção através da facilitação da neurotransmissão dopaminérgica,
+impedindo a receptação da dopamina e facilitando sua liberação ao atuar sobre
+47
+
+os transportadores presentes na membrana de neurônios dopaminérgicos (Carr
+e White, 1987). Nesse contexto, nosso achado sugere que os efeitos do HU-910
+se relacionem mais a neurotransmissão glutamatérgica, em detrimento da
+dopaminérgica. Além disso, a diferença no efeito do HU-910 no teste de
+hiperlocomoção com indutores distintos sugere que, apesar de o HU-910 induzir
+a hipolocomoção no teste da tétrade canabinoide (Figura 13), o efeito atenuador
+da hiperlocomoção induzida por MK-801 observado neste trabalho não é
+exclusivamente dependente da propriedade hipolocomotora do HU-910, pois
+caso a prevenção da hiperlocomoção observada dependesse exclusivamente da
+hipolocomoção causada pelo composto, efeito similar deveria ser observado
+para a hiperlocomoção com anfetamina e outras drogas psicoestimulantes.
+Adicionalmente, o bloqueio do efeito atenuador do HU-910 pelo pré-tratamento
+com AM630 demonstra a relevância dos receptores CB2 para o efeito observado
+no teste de hiperlocomoção.
+A administração crônica de MK-801 tem sido muito utilizada no estudo das
+alterações
+
+comportamentais,
+
+neuroquímicas
+
+e
+
+neuroanatômicas
+
+da
+
+esquizofrenia, sendo a redução do tempo de interação social representativo dos
+sintomas negativos e prejuízos no teste de reconhecimento de objetos,
+relacionados dos sintomas cognitivos (Gomes, et al., 2015). Gomes e
+colaboradores mostraram que a administração crônica de MK-801 por 28 dias
+causa alterações comportamentais e comprometimento cognitivo em animais
+nos testes de interação social, reconhecimento de objetos e inibição do prépulso, sendo essas alterações atenuadas pelo tratamento crônico com
+clozapina, um antipsicótico atípico, e com CBD. No teste de reconhecimento de
+objetos, o HU-910 foi capaz de reverter os prejuízos induzidos pelo MK-801.
+48
+
+Sendo este um teste relacionado com comprometimentos cognitivos observados
+em pacientes com esquizofrenia o composto HU-910 poderia ser uma alternativa
+terapêutica importante visto que este perfil de drogas antipsicóticas é necessário
+na clínica (Elvevag e Goldberg, 2000; Hanson et al., 2010).
+No teste de interação social os dados onde o mesmo protocolo de tratamento
+com MK-801 induziu prejuízo não foram reproduzidos no presente trabalho
+(Rodrigues, et al., dados não publicados). O comportamento social de roedores
+é diretamente influenciado por eventos estressantes ao longo da vida do animal,
+e em alguns casos o comportamento social está reduzido após o evento
+estressor (Beery & Kaufer, 2014). Considerando uma análise mais detalhada dos
+dados, podemos observar que o tempo de interação social dos animais controle
+(salina+salina) foi muito menor que o tempo de interação dos animais dos
+trabalhos obtidos como referência para este projeto (Figura 8). Com o tempo de
+interação dos controles abaixo do normal, o efeito do MK-801 em diminuir o
+tempo de interação social não pôde ser observado. Apesar de não ter ocorrido
+de maneira proposital nenhum tipo de evento estressante, diversos fatores
+podem ter ocasionado o estresse dos animais e assim, interferido no teste de IS,
+como mudanças estruturais no biotério onde os animais foram alojados,
+background dos animais, entre outros, os quais não puderam ser controlados.
+Além disso, diferentemente do teste de RO, onde os animais são previamente
+habituados à arena, no teste de interação social os animais não são habituados
+à caixa. Assim, a caixa seria uma novidade para os animais, os quais poderiam
+dispender grande parte do tempo de análise (10 minutos) explorando o ambiente,
+prejudicando a interação com o animal não familiar. Dessa forma, um novo teste
+
+49
+
+poderia ser feito habituando-se previamente os animais à caixa onde o teste será
+realizado.
+Nossos dados mostram que o antagonismo de receptores CB2 não bloqueou
+o efeito do HU-910 no teste de reconhecimento de objetos. No entanto, apenas
+uma dose foi utilizada, e é possível que doses maiores fossem necessárias para
+reduzir o efeito do HU-910 com o uso prolongado. Outra possiblidade seria a de
+que ativação de receptores CB2 não seja essencial para o efeito do composto
+neste protocolo experimental. Sabe-se que alguns ligantes possuem maior
+afinidade por um determinado receptor, ou seja, são seletivas a ele. Entretanto,
+essa seletividade é prejudicada pela concentração ou dose na qual o ligante se
+encontra, podendo, desta forma, se ligar a outros receptores, de maneira
+inespecífica (Rang & Dale, 7ª Ed, 2012). Sendo assim, o efeito observado do
+HU-910 no teste de RO poderia estar relacionado à ativação de outros
+receptores, que devem ser, posteriormente, investigados. Diversos trabalhos
+que utilizam o modelo de psicose baseado no antagonismo de receptores NMDA
+têm mostrado que a ativação de receptores serotoninérgicos é importante para
+atenuar a hiperlocomoção induzida por esses antagonistas bem como para
+reverter os prejuízos no teste de RO causados pelo tratamento repetido com MK801 (Meltzer et al., 2011). Além disso, alguns antipsicóticos atípicos, como a
+clozapina e aripiprazol, possuem atividade sobre receptores serotoninérgicos 5HT, característica que estaria relacionada aos efeitos desses fármacos sobre os
+sintomas negativos e cognitivos (Meltzer et al., 2011). Adicionalmente, o prétratamento com o antagonista de receptores 5-HT1A WAY100635 bloqueou os
+efeitos benéficos do CBD nos testes de IS e RO (Rodrigues, et al., dados não
+publicados), corroborando com a hipótese de que a ativação desses receptores
+
+50
+
+seja necessária para o efeito antipsicótico. Dessa forma, esse receptor poderia
+também ser um importante alvo na investigação do mecanismo pelo qual o HU910 apresenta efeito sobre sintomas cognitivos em modelo animal.
+O HU-910 apresentou efeito hipolocomotor no teste da tétrade
+canabinoide (Figura 13) e efeito similar a este é observado com o tratamento
+com haloperidol, antipsicótico típico utilizado na clínica para tratamento da
+esquizofrenia, o qual promove redução da atividade locomotora de ratos e
+previne a hiperlocomoção induzida por anfetamina (Moreira e Guimarães, 2005).
+Diferente deste antipsicótico típico, no entanto, o HU-910 não causou catalepsia.
+Como discutido anteriormente, a interferência na locomoção observada com o
+HU-910 na tétrade canabinóide (Figura 13), no entanto, não parece ter interferido
+no efeito observado após a administração aguda do MK-801, uma vez que o
+mesmo efeito não foi observado após administração aguda de anfetamina
+(Figuras 6 e 7).
+Como o HU-910 não produziu as quatro alterações descritas na tétrade
+canabinoide, é improvável que o composto, nas doses utilizadas, ativa
+receptores CB1. Drogas que ativam estes receptores produzem efeitos
+semelhantes ao do delta-9-tetrahidrocanabinol (THC), o que limita seu emprego
+na clínica. Quanto ao efeito tipo antinociceptivo do HU-910, observado no teste
+de placa quente da tétrade canabinoide, diversos trabalhos vêm demonstrando
+o potencial analgésico dos canabinoides, especialmente de agonistas de
+receptores CB2, em modelos de dor neuropática, dor aguda e dor crônica. Malan
+e colaboradores demonstraram que o AM1241, agonista seletivo do receptor
+CB2, aumenta a latência de retirada da pata na placa quente, resultado similar
+ao observado para o HU-910 (Figura 13). Além disso, no mesmo estudo foi
+
+51
+
+observado que tal efeito era bloqueado pela administração prévia de antagonista
+de receptores CB2, o AM630, mas não pelo antagonismo de receptores CB1
+com AM251, indicando que esse efeito é possivelmente mediado por CB2 (Malan
+et al., 2001). O composto HUF-101, um derivado fluorado da molécula do CBD,
+também apresentou efeito antinociceptivo na placa quente em modelo de
+hiperalgesia induzida por carragenina. Esse efeito foi atenuado pela
+administração de antagonistas de receptores CB1 (AM251) e CB2 (AM630),
+sugerindo que a ativação desses receptores está envolvida no potencial
+analgésico do composto (Silva et al., 2017). Embora os mecanismos pelos quais
+os receptores canabinoides medeiam o efeito antinociceptivo ainda não sejam
+completamente elucidados, a administração local de agonista CB2 também é
+capaz de reduzir a hipersensibilidade térmica induzida por carragenina e esse
+efeito também é bloqueado por antagonista seletivo CB2, AM630 (Quartilho et
+al., 2003). Nesse sentido, o efeito antinociceptivo induzido pelo HU-910
+observado na tétrade canabinoide aqui apresentada corrobora com dados da
+literatura que demonstram o potencial analgésico de agonistas CB1 e CB2.
+Gomes e colaboradores mostraram que ocorre aumento da expressão de
+FosB/ΔFosB no CPFm de animais tratados com MK-801 e no NAc core de
+animais tratados com clozapina, MK-801 e CBD (Gomes et al., 2015). Nossa
+quantificação da proteína FosB/ΔFosB, entretanto, não mostrou alteração de
+expressão em nenhuma das regiões observadas para nenhum dos tratamentos
+realizados (Figuras 14 e 15). Porém, a análise da distribuição dos valores
+individuais
+
+dos
+
+animais
+
+(representado
+
+pelos
+
+círculos)
+
+evidencia
+
+uma
+
+variabilidade acentuada dentro de cada grupo de tratamento. Uma vez que os
+testes comportamentais de IS e RO são extensos, é preciso ser feito em
+
+52
+
+duplicata para se atingir um tamanho amostral satisfatório, além de garantir a
+reprodutibilidade dos dados. Dessa forma, os encéfalos tiveram tempo de
+armazenamento distintos no freezer à -80°C. Essa diferença no tempo de
+armazenamento das amostras pode ter acarretado em degradação tecidual,
+prejudicando a detecção da proteína de interesse e, assim, justificar a diferença
+acentuada de expressão entre os animais do mesmo grupo, porém de
+experimentos diferentes. Outro fator que pode ter implicado na diferença entre
+as amostras foi o fato de o freezer no qual se armazenaram as primeiras
+amostras ter sofrido um problema no motor de refrigeração, provocando o
+descongelamento das amostras, contribuindo para sua degradação e redução
+de sua viabilidade.
+Além disso, o protocolo de injeção utilizado neste trabalho difere do
+protocolo utilizado no trabalho citado acima, uma vez que as injeções de MK801(1 mg/kg) e CBD foram administrada concomitantemente, com intervalo de
+30 minutos entre as injeções, durante 28 dias no trabalho de referência. Assim,
+o período de recuperação das injeções de MK-801 em nosso trabalho é
+significativamente maior. Isso pode justificar porque não foi observado aumento
+da expressão de FosB/ΔFosB no CPFm no grupo MK-801+veículo, não
+reproduzindo os dados de Gomes e colaboradores (2015).
+
+7. CONCLUSÃO
+Os dados obtidos permitem sugerir que o composto HU-910 possui uma
+possível atividade antipsicótica em modelo animal de esquizofrenia baseado no
+antagonismo de receptores NMDA e não induz todos os efeitos da tétrade
+canabinoide. Além disso, como não foi observado bloqueio do efeito do HU-910
+53
+
+pelo pré-tratamento com AM630 no teste de reconhecimento de objetos, os
+receptores CB2 parecem não serem essenciais para o efeito do composto neste
+teste, mas sim no teste de hiperlocomoção, onde foi observado bloqueio do efeito
+com o pré-tratamento com AM630.
+
+8. REFERÊNCIAS BIBLIOGRÁFICAS
+BENTO, A. F.; LEITE, D. F., CLAUDINO, R. F., HARA, D. B., LEAL, P. C., and
+CALIXTO, J. B. The selective nonpeptide CXCR2 antagonist SB225002
+ameliorates acute experimental colitis in mice. J. Leukoc. Biol. 84, 1213–1221,
+2008.
+
+BEERY AK, KAUFER D. Stress, social behavior, and resilience: Insights from
+rodents. Neurobiology of Stress.1:116-127, 2014.
+
+CAMPOS, A.C.; MOREIRA, F.A.; GOMES, F.V.; DEL BEL, E.A.; GUIMARÃES,
+F.S. Multiple mechanisms involved in the large-spectrum therapeutic potential of
+cannabidiol in psychiatric disorders. Philos Trans R Soc Lond B Biol Sci.
+v.5367, n.1607, p.3364-78, 2012.
+
+CARR, G.D., WHITE, N.M. Effects of systemic and intracranial amphetamine
+injections on behavior in the open field: a detailed analysis. Pharmacol.
+Biochem. Behav. 27, 113–122, 1987.
+
+CONCANNON, R. M., OKINE, B. N., FINN, D. P., and DOWD, E. Differential
+upregulation
+
+of
+
+the
+
+cannabinoid
+
+CB2
+
+receptor
+
+in
+
+neurotoxic
+
+and
+
+inflammationdriven rat models of Parkinson’s disease. Exp. Neurol. 269, 133–
+141, 2015.
+
+54
+
+DAVIS, K. L.; KAHN, R. S.; KO, G.; DAVIDSON, M. Dopamine in schizophrenia:
+a review and reconceptualization. Am J Psychiatry, v. 148, n. 11, p. 1474-86,
+1991.
+
+DIANA, G.; SAGRATELLA, S. Different capability of N-methyl-d-aspartate
+antagonists to affect locomotor/exploratory activity of mice in a computerized online open field test. Pharmacol. Biochem. Behav. v.48, p. 291–295, 1994.
+
+DINGLEDINE, R.; BORGES, K.; BOWIE, D.; TRAYNELIS, S. F. The glutamate
+receptor ion channels. Pharmacol Rev, v. 51, n. 1, p. 7-61, 1999.
+
+ELLENBROEK, B. A.; COOLS, A. R. Animal models for the negative symptoms
+of schizophrenia. Behav Pharmacol, v. 11, n. 3-4, p. 223-33, 2000.
+
+ELVEVAG, B.; GOLDBERG, T. E. Cognitive impairment in schizophrenia is the
+core of the disorder. Crit Rev Neurobiol, v. 14, n. 1, p. 1-21, 2000.
+
+ENNACEUR, A.; One-trial object recognition in rats and mice: Methodological
+and theoretical issues. Behav Brain Research v.215 p.244–254, 2010.
+
+FEJGIN, K.; SAFONOV, S.; PÅLSSON, E.; WASS, C.; ENGEL, J. A.;
+SVENSSON, L.; KLAMER, D.; The atypical antipsychotic, aripiprazole, blocks
+phencyclidineinduced
+
+disruption
+
+of
+
+prepulse
+
+inhibition
+
+in
+
+mice.
+
+Psychopharmacology (Berl),v.191, n.2, p.377-85, 2007.
+
+FERNANDEZ-RUIZ, J., ROMERO, J., VELASCO, G., TOLON, R. M., RAMOS,
+J. A., and GUZMAN, M. Cannabinoid CB2 receptor: a new target for controlling
+neural cell survival? Trends Pharmacol. Sci. 28, 39–45,2007.
+
+GIUFFRIDA, A., LEWEKE, F.M., GERTH, C.W., SCHREIBER, D., KOETHE, D.,
+FAULHABER, J., KLOSTERKÖTTER, J., PIOMELLI, D. Cerebrospinal
+anandamide levels are elevated in acute schizophrenia and are inversely
+
+55
+
+correlated with psychotic symptons. Neuropsychopharmacology. 29(11):210814, 2004.
+GOBIRA, P.H. et al. Animal models for predicting the efficacy and side effects of
+antipsychotic drugs. Rev. Bras. Psiquiatr., São Paulo, v. 35, supl. 2, p. S132S139, 2013.
+
+GOMES, F. V.; DEL BEL, E. A.; GUIMARÃES, F. S. Cannabidiol attenuates
+catalepsy induced by distinct pharmacological mechanisms via 5-HT1A receptor
+activation in mice. Prog Neuropsychopharmacol Biol Psychiatry, v. 46, p. 43–
+47, 2013.
+GOMES F.V., LLORENTE R., DEL BEL E.A., VIVEROS M.P., LÓPEZGALLARDO M., GUIMARÃES F.S. Decreased glial reactivity could be involved
+in the antipsychotic-like effect of cannabidiol. Schizophr. Res., 164:155–163,
+2015.
+
+GONZALEZ-BBURGOS, G., LEWIS, D.A. NMDA receptor hypofunction,
+parvalbumin-posite neurons, and cortical gamma oscillations in schizophrenia.
+Schizophr Bull, v. 38, n. 5, p.950-7, 2012.
+
+GUIMARÃES, F.G; MOREIRA, F.A; ZUARDI, A.W. Medicamentos antipsicóticos.
+GRAEFF F.G, GUIMARÃES F.F. Fundamentos de Psicofarmacologia. 2ªEdição.
+Editora Atheneu: São Paulo, p 93-120, 2012.
+
+HASHIMOTO, K.; FUJITA, Y.; SHIMIZU, E.; IYO, M. Phencyclidine-induced
+cognitive deficits in mice are improved by subsequent subchronic administration
+of clozapine, but not haloperidol. Eur J Pharmacol, v. 519, n. 1-2, p. 114-7, 2005.
+
+HANSON, E.; HEALEY, K.; WOLF, D.; KOHLER, C. Assessment of
+pharmacotherapy for negative symptoms schizophrenia. Curr Psychiatry Rep,
+v. 12, n. 6, p.563-71, 2010.
+
+56
+
+HORVÁTH, B. et al. A new cannabinoid CB 2receptor agonist HU-910 attenuates
+oxidative stress, inflammation and cell death associated with hepatic
+ischaemia/reperfusion injury. Br. J. Pharmacol. 165, 2462–2478 (2012).
+
+JENTSCH, J. D.; ROTH, R. H. The neuropsychopharmacology of phencyclidine:
+from NMDA receptor hypofunction to the dopamine hypothesis of schizophrenia.
+Neuropsychopharmacology, v. 20, n. 3, p. 201-25, 1999.
+
+KEW, J. N.; KEMP, J. A. Ionotropic and metabotropic glutamate receptor
+structure and pharmacology. Psychopharmacology (Berl), v. 179, n. 1, p. 4-29,
+2005.
+
+KRUK-SLOMKA, M.; BANASZKIEWICZ, I.; BIALA, G. The Impact of CB2
+Receptor Ligands on the MK-801-Induced Hyperactivity in Mice; Neurotox Res.
+Apr;31(3):410-420, 2017.
+
+KRYSTAL, J. H.; PERRY, E. B., JR.; GUEORGUIEVA, R.; BELGER, A.;
+MADONICK, S. H.; ABI-DARGHAM, A.; et al. Comparative and interactive human
+psychopharmacologic effects of ketamine and amphetamine: implications for
+glutamatergic and dopaminergic model psychoses and cognitive function. Arch
+Gen Psychiatry, v. 62, n. 9, p. 985-94, 2005.
+
+LEWIS, D. A.; LIEBERMAN, J. A. Catching up on schizophrenia: natural history
+and neurobiology. Neuron, v.28, n.2, p.325-34, 2000.
+
+LEWIS, S.; LIEBERMAN, J. CATIE and CUTLASS: can we handle the truth? Br
+J Psychiatry, v. 192, n. 3, p. 161-3, 2008
+
+LIEBERMAN, J. A.; STROUP, T. S.; MCEVOY, J. P.; SWARTZ, M. S.;
+ROSENHECK, R. A.; PERKINS, D. O.; et al. Effectiveness of antipsychotic drugs
+in patients with chronic schizophrenia. N Engl J Med, v. 353, n. 12, p. 1209-23,
+2005.
+
+57
+
+LILJEQUIST S, OSSOWSKA K, GRABOWSKA-ANDÉN M, ANDÉN NE. Effect
+of the NMDA receptor antagonist, MK-801, on locomotor activity and on the
+metabolism
+
+of
+
+dopamine
+
+in
+
+various
+
+brain
+
+areas
+
+of
+
+mice. Eur
+
+J
+
+Pharmacol 195:55–61,1991.
+
+LUONGO, L.; MAIONE, S.; DI MARZO, V. Endocannabinoids and neuropathic
+pain: focus on neuron-glia and endocannabinoid-neurotrophin interactions. Eur
+J Neurosci, v. 39, n. 3, p. 401–408, 2014.
+
+MALAN, T.P JR., IBRAHIM, M.M., DENG, H., LIU, Q., MATA, H.P., VANDERAH,
+T., PORRECA, F., MAKRIYANNIS, A; CB2 cannabinoid receptor mediated
+peripheral antinociception. Pain 93:239–245, 2001.
+
+MCGRATH, J.; SAHA, S., CHANT, D., WELHAM, J. Schizophrenia: A Concise
+Overview of Incidence, Prevalence, and Mortality. Epidemiol Rev; 30 (1): 67-76,
+2008.
+
+MELTZER, H.Y.; HORIGUCHI, M.; MASSEY, B.W. The role os serotonin in the
+NMDA receptor antagonist models of psychosis and cognitive impairment.
+Psychopharmacology (Berl). 213(2-3):289-350, 2011.
+
+MOHN, A. R.; GAINETDINOV, R. R.; CARON, M. G.; KOLLER, B. H. Mice with
+reduced NMDA receptor expression display behaviors related to schizophrenia.
+Cell, v. 98, n. 4, p. 427-36, 1999.
+
+MOREIRA F. A., GUIMARÃES F. S. Cannabidiol inhibits the hyperlocomotion
+induced by psychotomimetic drugs in mice. Eur. J. Pharmacol. 512 199–205,
+2005.
+
+NAGAI, T.; MURAI, R.; MATSUI, K.; KAMEI, H.; NODA, Y.; FURUKAWA, H.;
+NABESHIMA, T. Aripiprazole ameliorates phencyclidine-induced impairment of
+recognition memory through dopamine D1 and serotonin 5-HT1A receptors.
+Psychopharmacology, v.202, p.315–328, 2009.
+
+58
+
+NESTLER, E.J.; KELZ, M.B.; CHEN, J. Delta-fosB: a molecular mediator of longterm neural and behavioral plasticity. Brain Res. V.835, n. 1, p. 10-7, 1999.
+
+ORTEGA-ALVARO A.; ARACIL-FERNÁNDEZ A.; GARCÍA-GUTIÉRREZ M.S.;
+NAVARRETE F.; MANZANARES J. Deletion of CB2 Cannabinoid Receptor
+Induces
+
+Schizophrenia-Related
+
+Behaviors
+
+in
+
+Mice.
+
+Neuropsychopharmacology. 2011;36(7):1489-1504. 2011
+
+PALAZUELOS, J., AGUADO, T., PAZOS, M. R., JULIEN, B., CARRASCO, C.,
+RESEL, E., et al. Microglial CB2 cannabinoid receptors are neuroprotective in
+Huntington’s disease excitotoxicity. Brain 132(Pt 11), 3152–3164, 2009
+
+PALAZUELOS, J., DAVOUST, N., JULIEN, B., HATTERER, E., AGUADO, T.,
+MECHOULAM, R., et al. The CB2 cannabinoid receptor controls myeloid
+progenitor trafficking: involvement in the pathogenesis of an animal model of
+multiple sclerosis. J. Biol. Chem. 283, 13320–13329, 2008.
+
+PAXINOS, G; FRANKLIN, K. B. J. The mouse brain in stereotaxic coordinates:
+3th Ed. New York. Academic Press, 360p, 2008.
+
+PRICE, D. A., MARTINEZ, A. A., SEILLIER, A., KOEK, W., ACOSTA, Y.,
+FERNANDEZ, E., et al. WIN55, 212–2, a cannabinoid receptor agonist, protects
+against nigrostriatal cell loss in the MPTP mouse model of Parkinson’s disease.
+Eur. J. Neurosci. 29, 2177–2186, 2009.
+
+QUARTILHO, A.; MATA, H.P.; IBRAHIM, M.M.; VANDERAH, T.W.; PORRECA,
+F., MAKRIYANNIS, A., MALAN T.P JR. Inhibition of inflammatory hyperalgesia
+by activation of peripheral CB2 cannabinoid receptors. Anesthesiology 99:955–
+960, 2003.
+RAMÍREZ, B. G., BLÁZQUEZ, C., GÓMEZ DEL PULGAR, T., GUZMÁN, M., and
+CEBALLOS, M. L. Prevention of Alzheimer’s disease pathology by cannabinoids:
+neuroprotection mediated by blockade of microglial activation. J. Neurosci. 25,
+1904–1913,2005.
+59
+
+RANG & DALE [recurso eletrônico] : Farmacologia, 7ª Ed / H.P. Rang et al;
+[tradução de Tatiana Ferreira Robaina et al.], - Rio de Janeiro: Elseiver, 2012.
+
+ROCHE, M.; FINN, D.P. Brain CB2 Receptors: Implications for Neuropsychiatric
+Disorders, Pharmaceuticals, 3, 2517-2553, 2010.
+RUNG, J. P.; CARLSSON, A.; RYDEN MARKINHUHTA, K.; CARLSSON, M. L.
+(+)-MK-801 induced social withdrawal in rats; a model for negative symptoms of
+schizophrenia. Prog Neuropsychopharmacol Biol Psychiatry, v. 29, n. 5, p.
+827-32, 2005.
+SAGREDO, O., GONZÁLEZ, S., AROYO, I., PAZOS, M. R., BENEDITO, C.,
+LASTRES-BECKER, I., et al. Cannabinoid CB2 receptor agonists protect the
+striatum against malonate toxicity: relevance for Huntington’s disease. Glia 57,
+1154–1167, 2009.
+
+SANBERG, P. R. et al. The catalepsy test: its ups and downs. Behav Neurosci,
+v. 102, n. 5, p. 748-759, 1988.
+SEEMAN, P.; KAPUR, S. Schizophrenia: more dopamine, more D2 receptors
+PNAS, 97 (14) 7673-7675; July 5, 2000.
+SILVA, N.R., GOMES, F.V., FONSECA, M.D., MECHOULAM, R., BREUER, A.,
+CUNHA, T.M,. GUIMARÃES, F.S (2017) Antinociceptive effects of HUF-101, a
+fluorinated
+
+cannabidiol
+
+derivative.
+
+Prog
+
+Neuropsychopharmacol
+
+Biol
+
+Psychiatry v. 79, p. 369–377.
+SILVERSTEIN, S.M.; MOGHADDAM, B.; WYKES, T. Schizophrenia: evolution
+and synthesis. The MIT Press, 2013. 390p.
+SOETHOUDT, Marjolein et al. Cannabinoid CB2 receptor ligand profiling reveals
+biased signalling and off-target activity. Nature Communications, v. 8, 2017.
+
+STEFANI, M. R.; MOGHADDAM, B. Transient N-methyl-D-aspartate receptor
+blockade in early development causes lasting cognitive deficits relevant to
+schizophrenia. Biol Psychiatry, v. 57, n. 4, p. 433-6, 2005.
+60
+
+STEPHEN, S. M. Beyond the Dopamine Hypothesis to the NMDA Glutamate
+Receptor Hypofunction Hypothesis of Schizophrenia. Journal Spectrum CNS.
+12 (4): 265-268, 2007.
+
+TSAI, G.; COYLE, J.T. Glutamatergic mechanisms in schizophrenia. Annu Rev
+Pharmacol Toxicol. V.42, p.165-79, 2002.
+WEICKERT T.W.; GOLDBERG, T.E.; GOLD, J.M.; BIGELOW, L.B.; EGAB, M.F.
+WEINBERGER, D.R. Cognitive impairments in patients with schizophrenia
+displaying preserved and compromised intellect. Arch Gen Psychiatry,
+57(9):907–13, 2000.
+
+WHO.
+
+Schizophrenia
+
+Fact
+
+sheet,
+
+2016.
+
+http://www.who.int/mediacentre/factsheets/fs397/en/
+
+Disponível
+
+Acesso
+
+em:
+
+em:
+07
+
+de
+
+novembro de 2017.
+
+WONG, A. H.; VAN TOL, H. H. Schizophrenia: from phenomenology to
+neurobiology. Neurosci Biobehav Rev, v. 27, n. 3, p. 269-306, 2003.
+
+WONG, A. H.; VORUGANTI, L. N.; HESLEGRAVE, R. J.; AWAD, A. G.
+Neurocognitive deficits and neurological signs in schizophrenia. Schizophr Res,
+v. 23, n. 2, p. 139-46, 1997.
+
+ZHANG, H.Y.; GAO, M.; LIU, Q.R.; BI, G.H.; LI, X.; YANG, H.J.; GARDNER, E.L.;
+WU, J.; XI, Z.X Cannabinoid CB2 receptors modulate midbrain dopamine
+neuronal activity and dopamine-related behavior in mice. Proc Natl Acad Sci U
+S A 111:E5007–E5015. 10.1073/pnas.1413210111, 2014.
+
+ZUARDI, A. W.; CRIPPA, J. A.; HALLAK, J. E.; BHATTACHARYYA, S.; ATAKAN,
+Z.; MARTIN-SANTOS, R.; et al. A critical review of the antipsychotic effects of
+cannabidiol: 30 years of a translational investigation. Curr Pharm Des, v. 18, n.
+32, p. 5131-40, 2012.
+
+61
+
+62
+
+

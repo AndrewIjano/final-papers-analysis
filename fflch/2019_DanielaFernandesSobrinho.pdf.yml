@@ -1,0 +1,23 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no
+dedictria: no
+agradecim: yes
+resumo_ab: yes 
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: 0
+ini: INTRODUÇÃO
+secoes:
+ - ARQUITETURA MODERNA E HABITAÇÃO SOCIAL
+ - MODERNIZAÇÃO E POLÍTICA HABITACIONAL
+ - O CONJUNTO HABITACIONAL ZEZINHO MAGALHÃES PRADO  
+end: CONSIDERAÇÕES FINAIS
+ref: REFERÊNCIAS

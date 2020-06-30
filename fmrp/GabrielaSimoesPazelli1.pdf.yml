@@ -1,0 +1,23 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no
+dedictria: yes
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: yes
+l_tabelas: no
+l_abr_sig: yes
+l_quadros: yes
+n_sub_sec: no
+n_ssb_sec: no
+n_sss_sec: no
+tem_anexo: yes
+ini: INTRODUÇÃO
+secoes:
+ - MATERIAIS E MÉTODOS
+ - RESULTADOS
+ - DISCUSSÃO
+end: CONCLUSÕES
+ref: REFERÊNCIAS

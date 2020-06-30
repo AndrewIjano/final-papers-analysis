@@ -1,0 +1,3136 @@
+UNIVERSIDADE DE SÃO PAULO
+FFLCH - Faculdade de Filosofia, Letras e Ciências Humanas
+Departamento de Geografia
+
+Análise das alterações da paisagem e seus condicionantes
+em Ilha Comprida - SP
+
+Aluno: Cristiano Alba
+Orientador: Luis Antonio Bittar Venturi
+
+São Paulo
+Setembro de 2016
+
+CRISTIANO ALBA
+
+Análise das alterações da paisagem e seus condicionantes
+em Ilha Comprida - SP
+
+v.1
+
+Trabalho de Graduação Individual apresentado ao
+Departamento de Geografia da Faculdade de Filosofia,
+Letras e Ciências Humanas da Universidade de São
+Paulo para a obtenção do título de Bacharel em Geografia
+sob orientação do Prof. Dr. Luis Antonio Bittar Venturi.
+
+São Paulo
+2016
+
+_______________________________________________________________
+Este
+
+trabalho
+
+foi
+
+formatado
+
+segundo
+
+as
+
+normas
+
+da
+
+ABNT,
+
+disponíveis
+
+<http://biblioteca.fflch.usp.br/sites/biblioteca.fflch.usp.br/files/caderno_estudos_9_pt_1.pdf>
+
+em:
+
+AGRADECIMENTOS
+
+Agradeço ao meu orientador, Luis A. B. Venturi por ter
+propiciado meu retorno à academia e me orientado nesta
+pesquisa; à Comissão de Ensino que acreditou no meu potencial
+e autorizou meu retorno; aos professores Jurandyr L. S. Ross e
+Sueli A. Furlan, pelo apoio recebido. À minha mãe, Sra. Alaídes
+Alves, pela paciência e compreensão em todos os momentos
+decisivos e importantes de minha vida.
+
+O pessimista se queixa do vento,
+O otimista espera que ele mude
+E o realista ajusta as velas
+William George Ward
+
+RESUMO
+
+Considerando que a maior parte da população brasileira vive em áreas
+costeiras, as quais, por sua vez, apresentam alto grau de instabilidade e
+fragilidade, este trabalho buscou compreender a da dinâmica paisagem de Ilha
+Comprida, no que se refere às suas transformações, seja por mecanismos
+naturais ou desencadeados pela ação antrópica. O estudo teve como base
+teórica a Ecodinâmica de Tricart, que classifica as paisagens segundo seus
+diferentes graus de estabilidade, e Ross, que as classifica segundo suas
+fragilidades e potenciais. Metodologicamente, este estudo orientou-se pela
+análise evolutiva da ilha, focando nos processos de geomorfologia costeira,
+especialmente
+
+relacionados
+
+à
+
+erosão
+
+e
+
+acreção
+
+em
+
+seu
+
+território.
+
+Tecnicamente, esta pesquisa operacionalizou-se com base em interpretação
+de imagens de satélite, software ArcGis e observações em campo, por vezes
+com instrumentos específicos, como os de medição climáticas, além de
+registros fotográficos, croquis de campo e entrevistas. Entre os resultados
+obtidos, além da compreensão satisfatória da dinâmica da ilha e suas
+alterações naturais e antrópicas, foi possível mensurar as transformações
+ocorridas e, a partir daí, elaborar um prognóstico para os próximos 10 anos, o
+que pode vir a subsidiar o planejamento do uso e ocupação da ilha.
+Palavras-chave: Ilha Comprida – geomorfologia costeira – dinâmica da
+paisagem
+
+LISTA DE FIGURAS
+Página
+
+Figura 1 – Mapa de localização e acesso à área de estudo.............................24
+Figura 2 – Mapa de compartimentação da zona costeira do Estado de São
+Paulo..................................................................................................................24
+Figura 3 – Localização da área de estudo........................................................26
+Figura 4 - Domínios Morfoclimáticos Brasileiros...............................................26
+Figura 5 - Compartimentação geomorfológica do litoral sul paulista................27
+Figura 6 – Classificação climática de Köppen simplificada...............................28
+Figura 7 - Pluviosidade média anual no complexo estuarino-lagunar de
+Cananéia-Iguape ..............................................................................................30
+Figura 8 - Climograma de Ilha Comprida..........................................................31
+Figura 9 - Direção predominante dos ventos....................................................34
+Figura 10 - Mapa pedológico do estado de São Paulo.....................................37
+Figura 11 - O litoral paulista: distribuição espacial do embasamento
+geológico............................................................................................................38
+Figura 12 - Litoral Sul: municípios, relevo, hidrografia e Unidades de
+Conservação......................................................................................................40
+Figura 13 - Compartimentação geomorfológica do litoral sul do Estado de São
+Paulo ............................................................................................................. ...41
+Figura 14 - Formas de relevo de Ilha Comprida, segundo Campos.................43
+Figura 15 - Aguapé com micro raízes, agregado junto às barrancas do Mar
+Pequeno.............................................................................................................44
+Figura 16 – Sedimentos e restos vegetais sendo carreados pelo movimento da
+maré, colaborando no processo de acreção de certas porções do complexo
+estuarino-lagunar...............................................................................................45
+Figura 17 - Casarões restaurados no entorno da Praça da Basílica – Iguape.
+Testemunho dos tempos de pujança econômica da região..............................48
+Figura 18 - Projeto de implantação do projeto “Valo Grande”..........................50
+Figura 19 – Imagem atual do Valo Grande.......................................................53
+Figura 20 – Mapa da evolução da Ilha Comprida.............................................55
+
+Figura 21 – Foto panorâmica do centro de Iguape, tirada a partir do Morro do
+Espia (cujo nome se deve ao antigo posto por onde “vigias” controlavam a
+entrada e saída de embarcações no Porto de Iguape). É possível avistar o
+entroncamento entre o canal do Valo Grande e o Mar Pequeno......................61
+Figura 22 - Foto das bermas sendo erodidas...................................................62
+Figura 23 - Processo erosivo avançado na porção praial (lado externo) de Ilha
+Comprida...........................................................................................................63
+Figura 24 – Imagem que permite visualizar bem o aterro promovido com solo
+proveniente de outras áreas sobre o Espodossolo (parte inferior da figura).....63
+Figura 25 – Imagem das bermas sofrendo processo de retrogradação (erosão)
+na margem leste de Ponta de Icapara...............................................................64
+Figura 26 - Imagem que evidencia como o processo erosivo do lado marinho
+avança com a elevação das marés.................................................................65
+Figura 27 - Uma outrora casa de veraneio, localizada no limite da área de
+loteamentos, sentido NE em direção à Ponta de Icapara, susceptível às
+correntes de deriva............................................................................................65
+Figura 28 - Destroços da antiga casa de veraneio, na área praial externa,
+próximo à Ponta de Icapara...............................................................................66
+Figura 29 - Barrancas do Mar Pequeno sofrendo processo de retrogradação
+(erosão) na porção oeste de Ponta de Icapara.................................................67
+Figura 30 - Campo de dunas transgressivas, localizado na porção mais estreita
+de Ilha Comprida................................................................................................67
+Figura 31 - Foto de construção sendo erodida ao longo das barrancas do Mar
+Pequeno.............................................................................................................68
+Figura 32 - Foto tirada na foz do Rio Ribeira de Iguape, em sua margem
+esquerda (município de Iguape) podendo ser avistado ao fundo a Ponta de
+Icapara, zona de acreção localizada no norte de Ilha Comprida.......................69
+Figura 33 - Ponta de Icapara, de onde é possível notar uma “zona de
+arrebentação” alguns metros à frente da margem direita do local. Tal formação
+de ondas deve-se ao fato de ali, se encontrar um banco de areia, obstáculo
+semi-submerso,
+
+que
+
+serve
+
+de
+
+anteparo
+
+às
+
+correntes
+
+de
+
+deriva.................................................................................................................70
+Figura 34 – Mapa de projeção da Ilha Comprida para os próximos 10 anos...73
+
+SUMÁRIO
+Página
+
+1. INTRODUÇÃO..........................................................................................7
+Contextualização.....................................................................................7
+Justificativa.............................................................................................8
+Objetivo..................................................................................................10
+Procedimentos......................................................................................10
+Resultados.............................................................................................10
+Estrutura da pesquisa..........................................................................11
+
+2. EMBASAMENTO TEÓRICO-CONCEITUAL.........................................12
+2.1 Teoria da Ecodinâmica de Tricart.................................................12
+Meios estáveis.................................................................................13
+Meios intergrades...........................................................................14
+Meios fortemente instáveis............................................................15
+2.2 Dinâmica de ambientes costeiros dunares..................................16
+Dunas frontais.................................................................................16
+Campo de dunas ativas transgressivas.......................................17
+Erosão e acreção costeiras...........................................................18
+3. PROCEDIMENTOS METODOLÓGICOS E TÉCNICOS........................21
+4. LOCALIZAÇÃO E CARACTERIZAÇÃO DA ÁREA DE ESTUDO........23
+4.1 Aspectos físicos.............................................................................26
+4.2 Uso e ocupação do solo.................................................................45
+5. ANÁLISE DE RESULTADOS.................................................................53
+5.1 A evolução da ilha entre 1987 e 2011............................................53
+5.2 A observação da dinâmica atual em campo................................56
+5.3 Prognóstico para os próximos 10 anos........................................71
+6. CONCLUSÃO E CONSIDERAÇÕES FINAIS........................................74
+REFERÊNCIAS BIBLIOGRÁFICAS......................................................77
+APÊNDICES...........................................................................................82
+ANEXO...................................................................................................86
+
+7
+
+1. INTRODUÇÃO
+
+Contextualização
+
+O Brasil tem mais de 8.500 km de litoral, por onde se deu o início da
+ocupação territorial pelos europeus. Portanto, desde os primórdios da
+colonização, o território brasileiro sempre teve uma ligação simbiótica com os
+sistemas costeiros. O fator histórico de assentamento e desenvolvimento das
+atividades econômicas preponderantemente ao longo da costa, por séculos,
+ajuda a explicar o fato de hoje aproximadamente 25% de a população
+brasileira ocupar a zona costeira. Segundo o IBGE (2010), são mais de 50,7
+milhões de habitantes distribuídos de forma irregular, desde o litoral do Amapá
+até o do Rio Grande do Sul, abrangendo 17 estados da federação. Há que se
+salientar que a zona costeira é a faixa mais antiga de urbanização do país, já
+que desde sua ocupação pelos portugueses no século XVI, dos dezoito
+primeiros núcleos de povoamento da nova colônia, apenas o de São Paulo de
+Piratininga não se encontrava no litoral. Como herança deste período colonial,
+das 28 regiões metropolitanas do país, 16 situam-se na costa, abrigando
+quase 36 milhões de habitantes que moram e desenvolvem suas atividades
+em um ambiente extremamente instável e complexo, pois se trata da interface
+entre o continente, o oceano e a atmosfera1.
+Esse processo de ocupação da zona costeira ocorre de forma acelerada
+e contínua principalmente nos eixos metropolitanos. Porém, especialmente nas
+últimas três décadas, observamos uma intensificação do processo de
+ocupação e especulação imobiliária em áreas ainda pouco adensadas e em
+áreas limítrofes das grandes e tradicionais áreas de concentração urbana no
+país. No caso específico do litoral sul paulista, devido a sua proximidade com
+as regiões metropolitanas da Baixada Santista e de São Paulo, tem havido um
+número cada vez maior de novos residentes, além de a região estar se
+configurando como destino turístico, inclusive de população de baixa e média
+renda, já que o preço médio do metro quadrado de terreno no litoral sul
+
+1
+
+BRASIL. Macrodiagnóstico da Zona Costeira e Marinha do Brasil. Ministério do Meio Ambiente.
+
+8
+
+mantém-se menor e muito competitivo se comparado ao valorizado litoral
+norte. Esta pressão populacional tem se intensificado nas últimas três
+décadas, potencializando os impactos naquele ambiente de alta fragilidade
+natural. Neste contexto de aumento de aumento da atividade turística, o
+município de Ilha Comprida tem sido foco de grande especulação imobiliária.
+Sem dúvida, esse é o principal problema a ser abordado: como uma ilha
+sedimentar holocênica, cujas altitudes variam entre 2m e 8m em relação ao
+nível do mar, situada junto a um canal antrópico construído há 160 anos e
+cujos problemas (assoreamento do rio Ribeira de Iguape) tais como a erosão
+que tende a causar a secção de uma parte da ilha e, ao mesmo tempo, um
+processo de sedimentação que “alimenta” um campo de dunas ativas
+transgressivas pode comportar novas ocupações e moradores?
+As zonas costeiras já são, naturalmente, áreas muito dinâmicas e
+complexas. Quando ocorre a conjunção da influência antrópica sem a devida
+atenção às fragilidades naturais, o homem fica a mercê de sua própria sorte.
+Somente através do planejamento ambiental que leve em consideração todos
+os condicionantes ambientais e antrópicos, de forma profunda e adequada
+para um embasamento técnico que dê sustentabilidade às novas ocupações
+em tais áreas que se podem sanar questões futuras para as populações
+residentes e flutuantes de forma que seja possível delimitar as áreas propícias
+para ocupação permanente ou de veraneio. Isto posto, emerge a necessidade
+de voltarmos a atenção para a melhor compreensão da dinâmica dos
+processos naturais de tal área assim como sua interação com o homem, de
+modo a prevenir os problemas ambientais e, consequentemente, sociais,
+decorrentes da incompatibilidade entre a dinâmica social e natural gerada por
+ocupações e intervenções inadequadas.
+
+Justificativa
+
+O estudo e compreensão da dinâmica costeira são de suma importância
+para a antecipação de problemas ambientais relacionados à ocupação e
+desenvolvimento de atividades ao longo dessa intersecção entre atmosfera X
+oceano X continente, notadamente em um país de ocupação essencialmente
+
+9
+
+costeira, abrangendo 80% da população brasileira em uma faixa de apenas
+500 km.
+No contexto da ciência geográfica, este estudo justifica-se ao incorporar
+as bases da Geografia Sistêmica como forma de abordagem na qual se criam
+interfaces
+
+fortes
+
+entre
+
+a
+
+Geomorfologia,
+
+Meteorologia,
+
+Climatologia,
+
+Oceanografia e Urbanização. A pesquisa, portanto, configura-se como um
+autêntico estudo geográfico ao articular aspectos naturais e sociais situados no
+tempo e no espaço, na busca da compreensão de um contexto específico e os
+processos adjacentes que o formaram.
+Nós, geógrafos, sendo dotados da habilidade de fazer correlações entre
+diversas áreas do conhecimento, já que a geografia é mãe de muitas outras
+ciências, além das próprias já citadas como “interdisciplinares” para a melhor
+compreensão dos sistemas costeiros, devemos contribuir cada vez mais com
+trabalhos que se proponham a melhor conhecer e identificar tais ambientes
+costeiros. Nossa formação, ao abranger as dimensões sociais e naturais,
+fornece-nos subsídios para trabalharmos de maneira “simbiótica” com
+situações que articulam problemáticas entre homem e ambiente. Mesmo
+fazendo parte do universo das humanidades, devemos ocupar nosso espaço
+dentro das Ciências Naturais ou Ciências da Terra, de maneira a valorizar e
+firmar a Geografia com a importância merecida em tais estudos, como forma de
+mitigar problemas tão recorrentes em nosso país devido à falta de
+planejamento adequado subsidiado por conhecimento científico e capacitação
+técnica. É o geógrafo que deve dar o aval em relação a questões que envolvam
+a interposição entre homem e natureza.
+Além disso, esta pesquisa justifica-se social e ambientalmente.
+Socialmente,
+
+já
+
+que
+
+as
+
+populações
+
+dos
+
+ambientes
+
+costeiros
+
+são
+
+freqüentemente afetadas pelos impactos advindos da inadequação do uso e
+ocupação diante das fragilidades naturais do ambiente, sendo afetadas por
+deslocamento dunar, enchentes, instabilidades de terreno, erosão da linha de
+costa, entre outros. E ambientalmente, esta pesquisa justifica-se na medida em
+que busca compreender os frágeis e ricos ambientes costeiros que há muito
+têm sido impactados.
+Embora já exista legislação para dar suporte legal à preservação, ainda
+se necessitam de mais estudos das complexas dinâmicas desses ambientes.
+
+10
+
+Existem diversos estudos sobre áreas costeiras, especificamente sobre Ilha
+Comprida. É o caso de Ross, que foca o estudo da paisagem com base na
+morfogênese da ilha, fazendo um detalhamento da dinâmica costeira com a
+perspectiva dos desastres naturais. Outros, ainda, analisam a ilha sob a
+perspectiva de unidade de conservação e de planos de manejo.
+Contudo, ainda não há estudos que relacionem estes ambientes
+diretamente com a Teoria da Ecodinâmica de Tricart, com a perspectiva de
+identificar os diferentes graus de estabilidade/instabilidade ali existentes. Esta
+pesquisa, portanto, pretende preencher esta lacuna temática, trazendo para os
+estudos de ambientes costeiros um arcabouço teórico-conceitual consagrado
+na ciência geográfica pelo seu alto poder explicativo.
+
+Objetivo
+
+Este trabalho tem por objetivo analisar a dinâmica da paisagem de Ilha
+Comprida, articulando aspectos naturais com os de uso e ocupação. O estudo
+teve como foco a porção NE da ilha, precisamente a ponta de Icapara.
+
+Procedimentos
+
+A pesquisa é orientada pela análise dedutiva, buscando explicar
+aspectos da realidade empírica sob a luz dos conceitos da Teoria da
+Ecodinâmica. Este procedimento analítico é pautado em instrumental técnico,
+como bases cartográficas e de sensoriamento remoto, além de ambiente SIG,
+especificamente o Arcgis.
+
+Resultados
+
+Entre os resultados alcançados, acreditamos ter contribuído para uma
+melhor contribuição de ambientes costeiros de alta fragilidade natural, o que
+pode, eventualmente, contribuir tanto para novos estudos como para o
+planejamento do uso e ocupação destas áreas. Consideramos, ainda, ter dado
+mais um passo na consolidação da abordagem sistêmica como apoio teórico e
+metodológico das pesquisas geografias, apontando, inclusive, limitações da
+
+11
+
+Teoria da Ecodinâmica para a compreensão do caso estudado. Finalmente,
+mas não menos importante, produzimos um prognóstico do que pode
+acontecer com a parte NE de Ilha Comprida, caso nenhuma intervenção
+adequada seja feita. Concretamente, estamos convencidos de que o mapa que
+ilustra esta projeção pode, efetivamente, subsidiar o planejamento do uso e
+ocupação daquela área, contribuindo para minimizar os impactos sociais e
+ambientais atualmente em curso, decorrentes dos processos evidenciados por
+esta pesquisa.
+
+Estrutura da pesquisa
+
+A pesquisa estrutura-se da seguinte maneira. Seguindo-se a esta
+introdução, discutiremos os conceitos da Teoria da Ecodinâmica, definindo
+meios estáveis, intergrades e fortemente instáveis, além das definições de
+dunas frontais, campo de dunas ativas progressivas e erosão e acreção
+costeiras. Em seguida, são esclarecidos os procedimentos metodológicos e
+técnicos usados, além dos instrumentos de apoio e fontes de dados. Então,
+caracterizamos a área no que se refere aos aspectos físicos e de uso e
+ocupação. Nos aspectos físicos serão aplicados os conceitos definidos da
+teoria e testado seu poder explicativo. Os aspectos de uso e ocupação, já com
+a base física compreendida, fornecerão parâmetros para a análise das
+adequações ou inadequações entre as dinâmicas naturais e sociais e
+permitirão a elaboração de um prognóstico para os próximos dez anos. Tendo
+cumprido estas etapas, teceremos então as conclusões e reflexões finais,
+quando refletimos sobre em que medida a pesquisa alcançou seus objetivos.
+
+12
+
+2. EMBASAMENTO TEÓRICO-CONCEITUAL
+
+2.1 Teoria da Ecodinâmica de Tricart
+
+A Teoria da Ecodinâmica foi desenvolvida por Jean Tricart (1977),
+geógrafo francês, apoiando-se nos conceitos de ecologia e sistemas, mais
+precisamente utilizando os conceitos sobre ecossistemas, ou seja, a
+sistematização da ecologia, na qual os seres vivos são mutuamente
+dependentes uns dos outros e do meio ambiente em que eles estão inseridos.
+Esta teoria, como diversas outras elaboradas por autores da Geografia Física,
+notadamente na década de 1970, a exemplo de Georges Bertrand (1971),
+Marcel Delpoux (1974), R. Chorley (1971), H. Erhart (1966) e Carlos Augusto
+Figueiredo Monteiro (1971), entre outros, derivam-se do mesmo paradigma
+explicativo criado pela Teoria Geral de Sistemas (BERTALANFFY, 1973). A
+análise sistêmica proporciona uma visão integrada na qual os fenômenos se
+articulam através de fluxos de matéria e energia, criando conjuntos
+indissociáveis, interdependentes e em contínua evolução. Ou seja, uma
+paisagem apreendida sob a análise sistêmica sugere que a alteração de um de
+seus componentes pode alterar o conjunto, desencadeando uma série de
+outros eventos que, sob outras perspectivas, estariam isolados e não
+constituiriam um evento de desestabilização da paisagem como um todo. Esta
+orientação teórica e metodológica foi considerada adequada para ajudar a
+compreender um ambiente costeiro que apresenta grande complexidade de
+fenômenos articulados. Assim, esta proposta adéqua-se aos estudos de
+geografia física que se ocupam com o funcionamento (ou a fisiologia) da
+paisagem, como é o caso desta pesquisa que busca compreender a dinâmica
+de uma paisagem específica. Portanto, é necessário um estudo analítico
+completo, abarcando todos seus passos: a definição do universo analítico, que
+no caso é a Ponta de Icapara; o desmembramento daquela paisagem em seus
+componentes e como se relacionam; e, finalmente, a recomposição desta
+paisagem, agora tendo conhecimento de seus componentes e compreendendo
+seu funcionamento, assim como sua dinâmica inter-relacionada e os possíveis
+eventos decorrentes da desestabilização de um ou mais destes componentes.
+
+13
+
+Outra característica de uma abordagem tendo como base uma análise
+sistêmica da paisagem é a possibilidade de aplicabilidade dos resultados, na
+medida em que, entre outras coisas, sugerem classificações da paisagem de
+acordo com suas características específicas dentro do contexto em que está
+inserida, permitindo também, sob o olhar sistêmico do estudo, a elaboração de
+prognósticos.
+O apoio técnico cartográfico favorece a análise de sistemas das
+questões do meio ambiente, pois organizam as informações empíricas, a
+exemplo dos mapas que, ao espacializarem
+
+diferentes informações,
+
+possibilitam ao geógrafo obter uma visão integrada dos fatos observados,
+podendo ser elaborados, portanto, outros mapas que reflitam o estudo de uma
+área sob à análise sistêmica. Outro recurso técnico que favorece a
+visualização do sistema ambiental é o fluxograma da energia solar e como tal
+fluxo interage em quatro níveis distintos e interdependentes: o nível da
+atmosfera, o da área de vegetação, nível da superfície do solo e da parte
+superior da litosfera. Torna-se possível notarmos como cada ecótopo, aqui
+definido como subsistemas, pode ser contemplado com o conhecimento
+específico de cada ramo da geografia física, além do que, a interconexão de
+conhecimentos das diversas disciplinas geográficas, concomitantemente,
+resulta numa visão geral mais detalhada de uma determinada área, sendo
+possível sua classificação em graus de estabilidade, resultando num estudo
+mais elaborado e respaldado em uma série de dados e mesmo em produtos
+cartográficos que permitem a mitigação de erros de planejamento, sem
+aumento de custos ou possíveis falhas graves de análise.
+Descrevemos agora as três categorias de paisagem propostas por
+Tricart: meios estáveis, intergrades e fortemente instáveis para, então, as
+utilizarmos na compreensão da área de estudo:
+
+Meios Estáveis
+
+Caracteriza-se uma unidade como meio estável quando a mesma
+apresenta modificações em seu modelado muito lentas, marcadas por uma
+continuidade e constância de evolução dos processos morfogênicos e
+pedogênicos. Tais meios apresentam condições específicas, como cobertura
+
+14
+
+vegetal suficientemente fechada, de forma a servir de anteparo às intempéries
+físicas da atmosfera, evitando o desencadeamento de processos mecânicos
+morfogenéticos; suaves cursos d´água com vertentes de lenta evolução além
+de se localizarem em áreas onde não ocorre intensa atividade vulcânica e
+sísmica. No caso da cobertura vegetal, Tricart refere-se à fitostasia como o
+equilíbrio favorecido pela cobertura vegetal, ao proteger os solos da erosão e
+favorecer a infiltração e decorrente desenvolvimento pedogenético. Assim, um
+meio pode estar em equilíbrio fitostático. Erhart, por sua vez, desenvolveu um
+conceito semelhante, referindo-se a um equilíbrio proporcionado por toda a
+vida presente em determinado meio: o equilíbrio biostático em contraposição e
+alternância com a resistasia (desequilíbrio). Contudo, mantivemos o apoio
+conceitual de Tricart, já que conta com três categorias, o que poderia ser mais
+adequado para um ambiente tão dinâmico como Ilha Comprida em que muitos
+processos ocorrem simultaneamente e em diversos estágios sucessionais.
+Embora não caracterizem nossa área de estudo, outras áreas
+geodinamicamente estáveis ocorrem em ambientes com escassez de
+vegetação, como em desertos hiperáridos quentes ou frios, onde as condições
+climáticas extraordinárias acabam “conservando” as feições morfogênicas e
+permitindo um extenso e continuo processo pedológico, sem ser afetado com
+importância pelas ações mecânicas da atmosfera.
+Nos meios estáveis, a pedogênese contínua, sem interferência direta
+sobre seus horizontes de fenômenos de morfogênese importantes, será
+responsável pela classificação de seus solos segundo seu período de
+estabilidade: se são há longo tempo estáveis ou se esta condição é mais
+recente.
+
+Meios intergrades
+
+São meios que se encontram na transição das condições de estabilidade
+e instabilidade, onde morfogênese e pedogênese ocorrem concomitantemente,
+sendo
+
+áreas
+
+susceptíveis
+
+às
+
+influencias
+
+locais,
+
+podendo
+
+ocorrer
+
+desestabilização muitas vezes, tornando-os instáveis. Geralmente é possível
+identificar uma determinada área que se apresenta como estável atualmente,
+mas que já passou por períodos de instabilidade (através da análise dos
+
+15
+
+horizontes do solo). Dessa forma, resultara no desencadeamento de processos
+pedológicos de instabilidade.
+A observação geormorfológica neste meio se faz muito valiosa, pois, a
+morfogênese nesta escala pode acarretar instabilidades abruptas, dependendo
+de como esteja a interação entre vegetação, solo e processos morfogênicos.
+
+Meios fortemente instáveis
+
+Destaca-se a morfogênese como grande atuante na dinâmica natural
+neste meio, sendo os outros processos subordinados a ela. A morfogênese é
+muito superior à dinâmica pedogenética. Áreas inseridas num contexto de
+tectonismo e vulcanismo ativos são exemplos de meios fortemente instáveis,
+pois qualquer evento dessa natureza provocará mudanças imediatas na
+paisagem apresentada. As forças tectônicas deformam a crosta, originando
+áreas elevadas que por sua vez fornecem ambiente propício ao fissuramento
+do cristalino, através de grandes dissecações, onde o processo erosivo (seja
+pluvial, glacial) ganha maior poder de ação graças à gravidade potencializada
+pelas declividades mais altas. Dessa maneira, a força erosiva torna-se muito
+mais atuante no modelado do relevo, mesmo ainda jovem (em referência aos
+relevos jovens, maduros e senis, de W. M. DAVIS, 1899).
+Outro exemplo emblemático sobre tais meios instáveis e que se
+relacionam diretamente com nossa área de estudo, são os campos dunares,
+planícies sedimentares pluviais, restingas e falésias em que a acelerada
+dinâmica morfogênica desencadeada e orientada pelos ventos, ausência de
+vegetação enraizada que pudesse servir de anteparo às intempéries, a não
+ocorrência de um solo desenvolvido, com horizontes, que pudesse dar suporte
+à fixação de vegetação, tudo isso acaba originando um conjunto caracterizado
+por um meio extremamente instável e morfogeneticamente dinâmico. Além da
+ação eólica, as marés são fundamentais para compreendermos a dinâmica de
+tais ambientes costeiros fortemente instáveis. Sua amplitude diária e anual,
+além das mudanças em longo prazo, modifica a linha costeira, selecionam os
+grânulos e, em conjunto com as correntes marinhas podem erodir, acrescer e
+redesenhar os ambiente praiais, como mostraremos adiante. As ondas e a
+variação de sua intensidade na zona de arrebentação, sem dúvida é outro fator
+
+16
+
+primordial para compreendermos os processos morfodinâmicos das zonas
+costeiras.
+O clima, por sua vez, é o principal agente nessa inter-relação continente
+X atmosfera X oceano e os condicionantes climáticos como chuva e vento
+causam modificações notáveis em tais ambientes instáveis costeiros num curto
+espaço de tempo. Tendo em vista tal fragilidade, os condicionantes a seguir
+são de suma importância para compreendermos a dinâmica da paisagem
+costeira: 1. Frequência dos ventos; 2. Velocidade dos ventos; 3. Orientação
+dos ventos em relação à costa; 4. Frequência e energia das tempestades; 5.
+Suprimento de areia; 6. Vegetação. (UFPR – DG)
+
+2.2 Dinâmica de ambientes costeiros dunares
+
+Dunas frontais
+
+Genericamente, as dunas frontais podem ser subclassificadas como
+incipientes e/ou embrionárias ou desenvolvidas e são comuns em praias
+marcadas por constantes ondas.
+As denominadas embrionárias ou incipientes ocorrem e desenvolvem-se
+após a linha de arrebentação das ondas e no limite das altas marés, sob a
+forma de pequenas acumulações de areia entre a vegetação pós-praia, sendo
+geralmente transversais às linhas formadas e observadas após o avanço e
+recuo de marés (Micro dunas).
+Tais dunas também são denominadas ou classificadas em publicações e
+artigos científicos com outras terminações (foredunes, dunes bordières).
+Recebem uma grande variedade de termos: além da terminologia “dunas
+frontais”, elas também têm sido chamadas de dunas embrionárias (embryo
+dunes), cristas de retenção (retention ridges), cristas de praia (beach ridges),
+cordões de dunas paralelas (parallel dune ridges) e dunas transversais
+(transverse dunes), a exemplo de Hesp & Tom (2002, p.120).
+
+17
+[...] são cristas dunares arenosas vegetalizadas formadas nos
+setores mais próximos do mar das faixas de pós-praia. Elas
+podem ser formadas em uma diversidade de ambientes
+litorâneos:
+
+na
+
+faixa
+
+de
+
+praia
+
+em
+
+mar
+
+aberto,
+
+baías
+
+semifechadas, estuários, lagos e lagoas [...]
+
+Campo de dunas ativas transgressivas
+
+Dunas eólicas ativas ou transgressivas são dunas costeiras não
+vegetadas que, alimentadas por areias praiais, migram para o interior da costa,
+recobrindo ou “transgredindo” terrenos mais antigos. Também podem ser
+chamadas de dunas móveis, migratórias, livres e se formam em locais de
+planície sedimentar, com grande disponibilidade de areia e que recebam
+ventos constantes que soprem do mar no sentido continental. Segundo Hesp
+&Tom (2002), campos de dunas transgressivos são importantes feições
+deposicionais em costas com elevada disponibilidade de areia na praia e
+regime de ventos dominantes soprando no sentido do continente.
+No caso de Ilha Comprida, tal campo de dunas ativas transgressivas
+localiza-se a nordeste da ilha, numa área próxima à parte mais populosa, e que
+é alimentada pelos sedimentos trazidos pelo antigo Valo Grande, que promove
+a erosão da linha de costa de Iguape e promove a deposição e sedimentação
+no norte de Ilha Comprida, aumentando, portanto, a quantidade de areia
+disponível para movimentação, havendo um acréscimo de sedimentos nessas
+dunas já instáveis, tornando-as mais potencialmente ativas.
+De forma resumida, devemos conhecer a dinâmica dos processos
+sedimentares para, dessa forma, conseguirmos compreender exatamente
+como tais dunas movimentam-se.
+O transporte de sedimentos ocorre de várias maneiras na natureza,
+tanto em ambiente subaéreo quanto em ambiente subaquoso. Para que uma
+partícula repousando em uma superfície entre em movimento é necessária a
+atuação de forças que superem não apenas as forças de gravidade mas
+também a de atrito atuando nesta partícula. Fluidos em movimento, como o ar
+(ventos) ou a água (correntes fluviais, lacustres ou marinhas), atuam na
+interface sedimento-ar ou sedimento-água, provocando o transporte sedimentar
+
+18
+
+nos diversos ambientes naturais. De outra forma, o equilíbrio de repouso pode
+ser rompido pela própria força da gravidade deslocando grandes massas de
+material em deslizamentos de encostas. O processo de “deslizamento de
+encostas” citado na referência acima é visível nas dunas ativas, no momento
+em que sua face a sotavento tende a “deslizar” sobre o próprio peso, devido
+aos sedimentos acumulados na face a barlavento. O nome “transgressivo”
+advém do fato de os sedimentos provenientes desses campos ultrapassarem
+áreas que até então encontravam-se sem ocorrência de dunas ou distante da
+linha da costa.
+Com este ciclo de erosão-transporte-sedimentação contínuo, os
+problemas decorrentes ao estuário marinho-lagunar tendem a se intensificar.
+Cada vez são mais comuns e recorrentes as ocorrências do acelerado
+processo de avanço de tais feições geomorfológicas extremamente instáveis
+sobre áreas já antes urbanizadas e que foram “invadidas” pelo deslocamento
+dos campos dunares transgressivos e até mesmo a possível secção da ilha, no
+extremo nordeste, separando uma parte do município.
+O fato de a planície sedimentar e o complexo estuarino-lagunar terem
+uma configuração de vertentes voltadas no sentido S/SW, faz com que a área
+fique mais suscetível aos fortes ventos frontais da MPA em boa parte do
+outono e inverno. No restante do ano, os ventos de S/SE também são
+predominantes. Devemos salientar que a área está inserida num clima
+mesotérmico superúmido com elevada precipitação anual, sem estação seca, o
+que facilita o processo de erosão e desagregação da areia que, por sua vez,
+acaba
+
+assoreando
+
+o
+
+rio,
+
+levando
+
+uma
+
+série
+
+de
+
+sedimentos
+
+que
+
+retroalimentarão os campos ativos dunares e contribuirão diretamente com o
+processo de acreção sedimentar ocorrido na área de estudo.
+
+Erosão e acreção costeiras
+
+A erosão costeira constitui-se num dos principais problemas dos litorais,
+não somente no Brasil, mas em todo o mundo. Em nosso país, há centenas de
+praias onde o processo já é bastante intenso e avançado, necessitando de
+medidas de recuperação ou contenção.
+
+19
+
+Apesar de ser um tema bastante abordado academicamente e seus
+problemas bem conhecidos e catalogados, as políticas de planejamento ligadas
+à gestão costeira não têm dado a devida importância aos estudos costeiros,
+resultando
+
+em
+
+desperdício
+
+de
+
+recursos
+
+financeiros
+
+públicos
+
+com
+
+a
+
+implementação de obras equivocadas na linha costeira que acabam agravando
+e até mesmo acelerando os processos erosivos e interferindo negativamente
+na dinâmica costeira (acreção, assoreamento de complexos estuarinolagunares, retrogradação marinha, dentre muitos outros).
+De acordo com Souza (2009, p.2),
+
+[...] os ecossistemas costeiros são ambientes influenciados por
+processos continentais e marinhos, que interagem através de
+variáveis físicas, químicas, biológicas, climáticas e antrópicas,
+as
+
+quais
+
+se
+
+inter-relacionam
+
+de
+
+maneira
+
+complexa,
+
+estabelecendo um equilíbrio dinâmico.
+
+Segundo Ab´Saber (2000, p. 29), “...método e visualização, pode-se
+afiançar que os litorais se constituem em zonas de contatos tríplices: terra, mar
+e dinâmica climática”. Portanto, quando ocorre o desequilíbrio de uma variável
+constituinte de um desses três grandes sistemas inter-relacionados,em se
+tratando de um ambiente tão susceptível e frágil, até mesmo pequenas
+oscilações ou modificações em sua interface são capazes de causar sérios
+problemas ambientais, desestabilizando o equilíbrio ecodinâmico da área.
+A erosão costeira pode trazer várias consequências não somente à
+praia, mas também a vários ambientes naturais e aos próprios usos e
+atividades antrópicas na zona costeira (SOUZA, 2009), destacando-se: a)
+redução na largura da praia e retrogradação ou recuo da linha de costa (se a
+área adjacente da planície costeira não for urbanizada a tendência de longo
+período será de migração transversal do perfil praial rumo ao continente; se for
+urbanizada, pode não haver “espaço” físico para essa migração);
+b) desaparecimento da zona de pós-praia;
+c) perda e desequilíbrio de habitats naturais, como praias ou alguma de
+suas zonas, dunas, manguezais, florestas de “restinga” (SOUZA et al., 2008)
+
+20
+
+(Inserir na bibliografia) que bordejam as praias e costões rochosos, com alto
+potencial de perda de espécies que habitam esses ambientes;
+d) aumento na frequência e magnitude de inundações costeiras, causadas
+por ressacas (marés meteorológicas) ou eventos de marés de sizígia muito
+elevados;
+e) aumento da intrusão salina no aquífero costeiro e nas drenagens
+superficiais da planície costeira;
+f) perda de propriedades e bens públicos e privados ao longo da linha de
+costa;
+g) destruição de estruturas artificiais paralelas e transversais à linha de
+costa;
+h) perda do valor imobiliário de habitações costeiras;
+i) perda do valor paisagístico da praia e/ou da região costeira;
+j) comprometimento do potencial turístico da região costeira;
+k) prejuízos nas atividades socioeconômicas da região costeira;
+l) artificialização da linha de costa devido à construção de obras costeiras
+(para proteção e/ou recuperação ou mitigação);
+m) gastos astronômicos com a recuperação de praias e reconstrução da
+orla marítima (incluindo propriedades públicas e privadas, equipamentos
+urbanos diversos e estruturas de apoio náutico, de lazer e de saneamento).
+Na área analisada, podemos identificar todos os itens citados por Souza,
+com grande destaque para a redução da zona praial e retrogradação da linha
+de costa, com o agravante de ser uma área urbanizada, próximas a campos de
+dunas transgressivas, o que resulta em inevitáveis perdas de propriedades e
+bens públicos e privados ao longo da linha de costa, destruição de estruturas
+artificiais paralelas e transversais à linha de costa (que muitas vezes acabam
+acelerando e não mitigando os problemas já ocorrentes), a perda do valor
+imobiliário de loteamentos e habitações costeiras, além do aumento na
+frequência e magnitude de inundações costeiras, causadas por marés
+meteorológicas ou eventos de marés de sizígia muito elevados.
+Na área em estudo, podemos observar o fenômeno de erosão na
+margem ocupada pelo município de Iguape, além das margens do Mar de
+Iguape, que contribuem com seus sedimentos para o processo de
+assoreamento do rio nesta porção setentrional do complexo estuarino-lagunar,
+
+21
+
+havendo uma acumulação ou acreção de sedimentos na parte oposta, mais
+precisamente em Barra de Icapara, cuja dinâmica de orientação e acumulação
+sedimentar, direcionada pela conjunção do fluxo pluvial do Rio Ribeira de
+Iguape, juntamente com as alterações dos ventos e marés dionoturnas e
+sazonais irão contribuir para o consequente crescimento da área desta parte de
+Ilha Comprida e retrogradação das margens em Iguape. Feições sedimentares
+deposicionais como pequenas ilhas, bancos submersos e os chamados
+“esporões arenosos” são comuns na área em estudo, notadamente no Mar
+Pequeno ou de Iguape.
+A escolha do estudo sobre as zonas costeiras, mais precisamente em
+áreas onde ocorrem intervenções antrópicas de grande repercussão, como é o
+caso da construção do canal do Valo Grande no complexo estuarino-lagunar de
+Cananéia-Iguape procura, como já mencionado anteriormente nas justificativas,
+colaborar na melhor compreensão de tais áreas problemáticas, cujos impactos
+podem vir a torná-las até mesmo anecúmenas, de sua dinâmica, pois, tanto o
+oceano quanto a dinâmica climática estão intimamente relacionadas a
+processos interconectados que se estendem desde aspectos astronômicos
+que, por exemplo, são fundamentais na compreensão das marés, assim como
+seus ciclos não apenas em curto período, o que seria a escala humana, mas
+também em escalas geológicas, mudanças nos diversos tipos de movimentos
+realizados pela Terra, como a precessão e nutação, ciclos e tempestades
+solares etc, ou seja, uma série de fatores importantes para a melhor
+compreensão da dinâmica e “anomalias” na atmosfera e oceanos que são os
+grandes condicionantes de toda a dinâmica costeira.
+
+3 PROCEDIMENTOS METODOLÓGICOS E TÉCNICOS
+
+Metodologicamente, a pesquisa foi conduzida pela análise dedutiva que
+se caracteriza pela explicação de fatos particulares a partir de conceitos
+teóricos. Assim, os ambientes costeiros foram estudados com base nos
+
+22
+
+conceitos da Teoria da Ecodinâmica e seus três táxons: meios estáveis,
+intergrades e fortemente instáveis.
+Tecnicamente, a análise da paisagem apoiou-se em trabalho de campo,
+interpretação de imagens aéreas e de satélites, além de mapas, tabelas e
+gráficos e diversos instrumentos descritos a seguir (VENTURI, 2011).
+Entre os dias 19 e 20 de dezembro de 2015 realizamos um primeiro
+trabalho
+
+de
+
+campo
+
+no
+
+qual
+
+foram
+
+aplicadas
+
+algumas
+
+técnicas
+
+operacionalizadas por instrumentos, gerando alguns resultados parciais.
+Utilizamos equipamentos de campo como uma biruta e uma bússola, para
+definir com exatidão a direção dos ventos e um anemômetro analógico para
+mensurar sua velocidade. As medições foram programadas para serem feitas
+com intervalo de uma hora entre cada uma delas, para que ao final do trabalho
+e de todas as aferições, fosse possível a elaboração de um gráfico com sua
+variação ao longo deste primeiro trabalho de campo.
+Recorremos também ao auxílio de imagens de satélite para melhor
+compreensão das condições meteorológicas em grande escala. Imagens de
+satélites Meteosat (realçada e colorida) além das disponíveis pelo Goes 13
+(realçada e colorida) do Sudeste do país.
+Enquanto técnica primordial ao geógrafo, a observação da paisagem
+orientou todo este primeiro trabalho. Para tal, apoiamo-nos também na técnica
+de registros fotográficos, além de técnicas de interlocução. A observação
+também
+
+teve
+
+o
+
+apoio
+
+prévio
+
+e
+
+in
+
+loco
+
+de
+
+bases
+
+cartográficas.
+
+Complementarmente, utilizamos alguns instrumentos intermediários de apoio,
+como mapas, gráficos e carta de direção e intensidade dos ventos. Os mapas
+foram produzidos em ambiente SIG, especificamente ArcGis.
+Diversos trabalhos utilizando técnicas de sensoriamento remoto, para
+analisar variações da linha de costa de médio período têm sido realizados para
+registrar, mapear, comparar e monitorar as diferentes posições dos limites das
+formas erosionais e acrecionais, ao longo do tempo. As mudanças dos limites e
+das formas podem ser compiladas, digitalizadas e manipuladas em Sistema de
+Informação Geográfica (SIG), sendo expressas em áreas, distâncias lineares,
+taxas e porcentagens.
+
+23
+
+Como fonte de dados, utilizamos alguns trabalhos como o Relatório de
+Qualidade Ambiental da Zona Costeira Paulista (2012), além do Atlas das
+Unidades de Conservação Ambiental do Estado de São Paulo (2001).
+
+4 LOCALIZAÇÃO E CARACTERIZAÇÃO DA ÁREA DE ESTUDO
+
+No Estado de São Paulo, a zona costeira apresenta uma extensão de 700
+km e uma área de aproximadamente 22.000 km2, cerca de 9% do território
+estadual, divididos em quatro setores costeiros: Litoral norte, Baixada Santista,
+complexo estuarino-lagunar de Iguape - Cananéia e Vale do Ribeira. Os dois
+últimos, compostos por 23 municípios que abrigam cerca de 365 mil habitantes,
+ou seja, 0,9% da população do estado (IBGE, 2011), recebem a
+subclassificação de Litoral Sul, devido aos seus aspectos naturais intrínsecos,
+como por exemplo, uma extensa e contínua área de planície encaixada a
+Noroeste entre os Morros e Escarpas das Serras do Mar e Paranapiacaba e a
+Oeste pelo Sistema de Morros e Superfícies de Cimeira dos Planaltos do Alto
+Ribeira, sendo drenada pela bacia do Rio Ribeira do Iguape, cujos afluentes
+convergem para o complexo estuarino-lagunar (Ross 2002).
+Ilha Comprida é um município do litoral sul de São Paulo localizado entre
+as coordenadas 24º40’46’’S e 25º00’56’’S e 47º25’41’’W e 47º54’42’’W. Está a
+uma distância de cerca de 210 km da capital paulista e a 260 km de Curitiba.
+Da capital, o acesso se dá pela BR116 Régis Bittencourt e SP222
+Rodovia Prefeito Casemiro Teixeira. Sua população é, segundo o censo de
+2012, de 9 mil habitantes, mas é acrescida de 300 mil habitantes na alta
+temporada, devido à alta demanda turística.
+
+24
+
+Área de estudo
+
+Figura 1 - Mapa de localização e acesso à área de estudo.
+Fonte: <http://www.guiamonteverde.com.br/mapas/sp04.html>.
+
+Figura 2 – Mapa de compartimentação da zona costeira do Estado de São Paulo.
+Fonte: FIGUEIREDO, 2012, p.8.
+
+25
+
+Juntamente com a Ilha do Cardoso, Cananéia e Iguape formam um
+complexo estuarino-lagunar no extremo sul do litoral paulista, separados entre si
+por um sistema de canal, rios e lagunas que entram em contato com o mar
+através de desembocaduras. É onde se encontra o curso inferior do rio Ribeira
+de Iguape, que tem seu maior volume d´água desembocado no canal do Mar
+Pequeno.
+A hidrografia da região é bem densa e caudalosa, fluindo desde os vales
+bem dissecados do sistema serrano, adentrando na bacia sedimentar na bacia
+do Rio Ribeira do Iguape até atingir a planície costeira, no seu trecho final. O rio
+Ribeira do Iguape localiza-se no sul do estado de São Paulo, nascendo no
+Estado do Paraná e apresentando um desenvolvimento quase que paralelo à
+linha de costa.
+No que se refere à Ilha Comprida, esta encontra-se separada do
+continente por um canal, que é delimitado da seguinte maneira: entre a Pedra do
+Tombo (ponto de marcação de marés) até a Barra de Icapara recebe o nome de
+Mar Pequeno ou de Iguape (TESSLER, 1982) e forma, juntamente com o outro
+lado que se estende da Pedra do Tombo até Cananéia, o Mar de Dentro ou Mar
+da Cananéia (TESSLER, op cit), estendendo-se por cerca de 72 km.
+Ilha Comprida tem em sua porção mais estreita 500 metros, e 2 km de
+largura em sua parte mais larga, sendo uma ilha barreira muito plana, com altura
+máxima de 10m (região do campo de dunas transgressivas). Esta configuração
+longitudinal de Ilha Comprida entre Iguape e Cananéia, com a forma de um
+grande “cordão arenoso” confere uma característica “lagunar” para a paisagem
+notoriamente da porção de Icapara, onde ocorre parte da vazão de água do rio
+Ribeira de Iguape juntamente com o encontro com o oceano, havendo durante
+as marés baixas uma água predominantemente doce, passando à salobra com a
+variação das marés ao longo do dia.
+Localmente, a área de estudo desta pesquisa define-se como um
+polígono que vai desde o extremo NE da Ilha Comprida até a cidade de Iguape,
+por onde flui mais de 2/3 da vazão do rio Ribeira de Iguape em decorrência da
+construção do Canal do Valo Grande, e onde é possível a observação
+integrada de três interfaces interdependentes: a marinha, lagunar e a fluvial.
+
+26
+
+Figura 3 - Mapa de localização da área de estudo. Alba e Vastella, 2016
+
+4.1 Aspectos físicos
+
+Ab´Saber inclui a área de estudo dentro dos Domínios Morfoclimáticos
+Brasileiros como pertencente aos Mares de Morros, áreas de clima
+predominantemente tropical atlântico, quente e chuvoso, que ao longo do
+tempo foi intemperizando e erodindo o relevo cristalino da porção oriental do
+Brasil em formas mamelonares ou também conhecidos como de “meias
+laranjas”, devido seu modelado arredondado, resultado decorrente do processo
+de constante intemperismo químico e chuvas.
+
+Figura 4 - Domínios Morfoclimáticos Brasileiros de acordo com Aziz Ab´Saber. Org.: Alba, 2015.
+
+27
+
+É importante nos atermos ao fato de que, ao observarmos a área de
+estudo numa escala maior, sua localização geomorfológica encontra-se
+encaixada entre o Oceano Atlântico e o Vale do Rio Ribeira de Iguape, portanto
+na planície que constitui a zona costeira brasileira.
+Dessa maneira, devemos nos focar na setorização do litoral brasileiro
+concebida por Aziz Ab`Saber (2000) na qual divide a costa litorânea brasileira
+em 49 zonas, estando 8 dessas localizadas no Estado de São Paulo, das quais
+4 na porção meridional de nossa zona costeira: Setor Praia Grande, Itanhaém,
+Peruíbe; Setor Maciço da Juréia/Rio Verde; Setor Lagunar-Estuarino de
+Cananéia-Iguape/Baía de Trepandé e Setor Baía de Paranaguá-Antonina.
+Segundo o autor, Ilha Comprida encontra-se no Setor Lagunar-Estuarino
+de Cananéia-Iguape/Baía de Trepandé e caracteriza-se por um “[...] conjunto
+de três restingas separadas por lagunas salobras [...]” (AB’SABER, 2000, p.39),
+com presença de manguezais nos bordos internos das restingas.
+O rio Ribeira de Iguape forma uma planície, cuja dinâmica
+aparentemente simples envolve questões ligadas a variações do nível do mar,
+paleoclimas e história vegetacional. (AB'SABER,2000).
+A área de estudo, compreendida pelo complexo estuarino-lagunar de
+Cananéia – Iguape, onde encontramos a restinga de llha Comprida está
+encaixada na interface continente X atmosfera X oceano, podendo ser
+classificada dentro da Teoria da Ecodinâmica de Tricart como um meio
+fortemente instável.
+Importante salientar que, segundo Ab´Saber (2000, p.80), “... pode-se
+afiançar que os litorais se constituem em zonas de contatos tríplices: terra, mar
+e dinâmica climática”.
+
+Figura 5 - Compartimentação geomorfológica do litoral sul paulista. Org.: Alba, 2016.
+
+28
+
+Analisando os aspectos morfoclimáticos propostos por Ab´Saber, há a
+possibilidade de uma análise mais aprofundada de cada característica física da
+área em questão, de forma a tecer um panorama mais elaborado dos
+fenômenos ocorridos no complexo estuarino-lagunar de Cananéia-Iguape.
+Em termos climáticos observados em pequena escala, conforme
+abordagem de Köppen, a região analisada encontra-se na classificação Aw, ou
+tropical com chuvas excessivas, porém, com inverno “seco” (sendo o mês de
+julho o com menor pluviosidade, com 87 mm).
+Porém, deve-se ressaltar o caráter zonal de área de transição entre o
+Aw e o Cfa, com um inverno mais bem definido, incursões de massas de ar
+polar no outono e inverno, tendo ocorrência de temperaturas mínimas próximas
+a 10º C constantemente nos meses de junho, julho e agosto e máximas abaixo
+de 22º C nos mesmos meses, além de apresentar uma amplitude térmica anual
+de 7,9º C, divergindo em alguns aspectos das características habituais das
+áreas que apresentam um clima Aw típico.
+Temperatura média
+Normal
+do mês
+mais frio
+
+do mês mais
+quente
+
+Total
+de A
+Total de chuva anual
+chuva
+do
+(P)
+mês
+mais
+seco (Pms)
+
+>=60mm
+>=18ºC
+
+Descrição do Tipo de Clima
+segundo Köppen (Climas
+Úmidos)
+
+TROPICAL
+
+Símbolo
+
+sem estação
+seca
+
+Af
+
+>=22ºC
+<60mm
+
+Aw
+
+< 2500 - 27,27.Pms
+
+>= 2500 - 27,27.Pms
+
+TROPICAL com
+Chuvas excessivas
+
+<30mm
+
+Inverno
+Seco
+
+Am
+
+Quente
+
+Cwa
+
+Temperado
+
+Cwb
+
+<18ºC
+
+>=22ºC
+<22ºC
+
+>=30mm
+
+SUBTROPICAL
+
+<22ºC
+
+Quente
+Temperado
+
+sem
+estação
+seca
+
+Cfa
+Cfb
+
+Figura 6 - Chave para a classificação climática de Köppen simplificada por SETZER (1966).
+Org.: Alba, 2015
+
+Apesar de esta classificação ser de cômputo mais zonal, está
+intrinsecamente atrelada aos processos da dinâmica da paisagem observados
+
+29
+
+e analisados na área estudada. Conforme adquirimos maior conhecimento dos
+diferentes táxons climáticos e sua atuação sobre a área de pesquisa, podemos
+inferir fenômenos que possam ser mais bem compreendidos como forma de
+colaborar no entendimento da complexa dinâmica de sistemas costeiros,
+notadamente os lagunares e estuarinos como é bem caracterizado o complexo
+estuarino-lagunar de Cananéia-Iguape.
+Dentre as inferências, tomemos como exemplo os meses de inverno,
+mais secos, com predominância de ventos de NW, S e SW, indicando as
+incursões da Mpa, tendo nos ventos de NW um indício de aproximação de um
+sistema pré-frontal e de S e SW, mais intensos, comuns nesta época do ano
+em latitudes maiores.
+Tendo o conhecimento desta análise da dinâmica eólica, é possível
+traçar um modelo de como tais incursões de massas de ar em meses mais
+secos e com ventos de maior intensidade estão influenciando o deslocamento
+dunar e praial, além do processo de erosão eólica e sedimentação na área de
+estudo.
+A pluviosidade é outro dado imprescindível para a análise de uma área
+tendo em vista sua classificação taxonômica de acordo com a Teoria da
+Ecodinâmica de Tricart.
+Para Monteiro (1973), no setor meridional do litoral paulista ocorre uma
+maior variação da pluviosidade em relação ao litoral norte, devido o
+afastamento da Serra de Paranapiacaba da linha de costa. Apenas pequenos
+maciços isolados (Itens, Juréia e Ilha do Cardoso) interferem de maneira mais
+perceptível na pluviosidade da região, havendo consequentemente um
+aumento pluviométrico no encontro da umidade proveniente do oceano com
+tais unidades topográficas.
+A unidade rítmica, portanto, é caracterizada pelo maior índice de
+penetração das massas polares e passagens frontais. Daí a importância de
+citarmos as peculiaridades climáticas da área de estudo.
+Novamente se faz necessária uma boa compreensão da dinâmica
+climática da área, pois esta é de suma importância para analisarmos os
+processos ocorridos, tais como os fluxos de transporte e acomodação de
+sedimentos
+
+no
+
+complexo
+
+estuarino-lagunar,
+
+uma
+
+vez
+
+que
+
+estão
+
+intrinsecamente correlacionados ao clima (as chuvas e ao vento notadamente).
+
+30
+
+A interação entre clima e relevo revela-se, portanto, no perceptível
+distanciamento do planalto em relação ao oceano e, consequentemente, no
+menor volume pluviométrico em relação às áreas litorâneas ao norte e mesmo
+ao sul, onde o planalto novamente reaproxima-se da orla.
+2900
+2800
+PerodeToledo
+
+2700
+
+Miracatu
+
+2600
+
+Juquiá
+Itarar
+é
+
+2500
+2400
+
+Registro
+
+2300
+2200
+Pariquera-Acu
+
+Iguape
+
+2100
+2000
+
+Jacupiranga
+IlhaComprida
+
+1900
+
+Cananeia
+
+Figura 7 - Pluviosidade média anual no complexo estuarino-lagunar de Cananéia-Iguape.
+Fonte: Lima et. al 2008 (situação sem escala). Org.: Alba, 2015.
+
+Mesmo sendo menores que em outras porções litorâneas do Sudeste
+Brasileiro (entre 2000mm e 2200mm) os volumes pluviométricos do complexo
+estuarino-lagunar são elevados e a compreensão de seu ritmo e intensidade
+são de grande importância na análise de áreas com características
+pedológicas, geológicas e geomorfológicas como a estudada.
+A dinâmica climática da área de estudo em especial é complexa, pois é
+necessário salientarmos o fato de que se encontra na porção litorânea de uma
+área de transição climática entre o Tropical Atlântico e o Subtropical (por onde
+significativa parte da bacia do Rio Ribeira de Iguape percorre).
+Essa localização transicional entre clima Tropical Atlântico e Subtropical,
+associada à uma área de vale por onde grande parte da bacia do Rio Ribeira
+
+31
+
+de Iguape está assentada, cria condições para choques entre massas de ar
+quente e úmidas (ou secas, dependendo da época do ano e quando nos
+atemos mais para o interior do Vale do Ribeira) com as incursões da MPA,
+ocasionando tempestades não apenas no verão, mas no decorrer do ano, com
+certa frequência.
+Considerando a Teoria da Ecodinâmica de Tricart, é de suma
+importância ressaltarmos que o clima é o principal agente condicionante na
+área de estudo, a inter-relação continente X atmosfera X oceano e os
+condicionantes climáticos como chuva e vento causam modificações notáveis
+em tais ambientes. Segundo tal teoria a dinâmica da paisagem costeira está
+submetida às seguintes variantes: 1: Frequência dos ventos; 2: Velocidade dos
+ventos; 3: Orientação dos ventos em relação à costa; 4: Frequência e energia
+das tempestades; 5: Suprimento de areia e 6: Vegetação.
+
+300
+
+40
+
+Ilha Comprida (SP)
+250
+30
+200
+150
+
+20
+
+100
+10
+50
+0
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+J
+
+J
+
+A
+
+S
+
+O
+
+N
+
+D
+
+Figura 8 - Climograma de Ilha Comprida. Org.: Alba, 2016
+
+Observando o mapa de pluviosidade (anteriormente mostrado na figura
+7), é possível notar que os grandes volumes pluviométricos não se limitam à
+costa, adentrando o continente, na área drenada pelo rio Ribeira de Iguape.
+Correlacionando a alta pluviosidade, elevada e bem distribuída ao longo
+do ano, com as características geológicas, pedológicas e geomorfológicas do
+Vale do Ribeira, podemos inferir que a carga de sedimentos flúvio-pluviais é
+muito significativa, contribuindo em muito no transporte de sedimentos até o
+
+32
+
+complexo estuarino-lagunar e, consequentemente, no entendimento da
+dinâmica de acreção, progradação e transgressão marinhas ocorridas de forma
+acelerada em sua foz.
+Através do mapeamento dos ventos, sua intensidade e direção durante
+o ano, assim como a pluviosidade na parte tangente à erosão, assoreamento
+das margens do rio Ribeira de Iguape e notadamente do Mar Pequeno,
+analisados de forma conjunta com as variações do fluxo e intensidade fluviais
+que estão intimamente ligados ao sistema climático zonal da área analisada, é
+possível, juntamente com os dados pedológicos e geológicos, ter uma
+compreensão da dinâmica costeira da área em estudo e de como o material
+erodido e deslocado na bacia do Rio Ribeira do Iguape será retrabalhado em
+sua foz.
+As formas de relevo também são um aspecto primordial na
+compreensão da dinâmica das modificações nas linhas de costa desprotegidas
+de
+
+mangues
+
+e
+
+com
+
+material
+
+erodido
+
+e
+
+retrabalhado
+
+recentemente
+
+(retrogradação da linha de costa em Ilha Comprida e acreção e progradação
+costeira na margem oposta, onde se encontra Iguape).
+Do ponto de vista hidrográfico, ao analisarmos o comportamento e a
+dinâmica dentro do estuário-lagunar, temos como característica uma área típica
+de regiões semi-confinadas, onde os canais localizados no complexo estuarinolagunar
+
+de
+
+Cananéia-Iguape
+
+apresentam
+
+tendência
+
+a
+
+assoreamento,
+
+evidenciado pela presença de feições sedimentares de deposição (BESNARD,
+1950).
+Pode-se notar que ocorre um fluxo meandrante com a ocorrência de
+ilhas na maior parte do Mar da Cananéia e de Iguape, assim como em
+praticamente toda a porção da ilha, enquanto que na maior parte do percurso
+entre as duas margens, até a desembocadura de Icapara, temos um fluxo mais
+retilíneo.
+A região de Barra de Icapara recebe sedimentos tanto da drenagem
+continental do Rio Ribeira de Iguape, quanto da deriva litorânea. Tais fluxos
+são os principais vetores dos sedimentos que serão retrabalhados contando
+com a condicionante dos ventos, ondas e marés e variação do fluxo e
+intensidade de corrente fluvial.
+
+33
+
+Voltando a focar no tocante ao “clima”, tendo o fator vento como uma
+das variantes analisadas, de acordo com Galvani (novembro de 2015,
+comunicação pessoal), “... Ilha Comprida apresenta, na maior parte do ano,
+ventos condicionados pela variação dionoturna da brisa marítima...”. Isso
+significa que na maior parte do tempo, a área de estudo apresenta ventos de
+leste provindos do mar, devido à diferença de temperatura entre oceano,
+retentor de calor, e o continente, que se esfria mais rapidamente, de forma que
+os ventos mais quentes e úmidos do Atlântico adentrem a porção continental
+noturnamente e, juntamente com a elevação da maré no mesmo período, criem
+situação favorável ao retrabalhamento da costa, sendo importante associarmos
+tal fenômeno com as condições geomorfológicas e pedológicas da área
+enquanto uma planície sedimentar quaternária com Neossolos Quartzarênicos,
+estreita e plana (até 10m acima do nível do mar) ficando, portanto, muito
+vulnerável a tais condições de pequena escala. Ainda mais levando-se em
+consideração sua constituição de areias de predominância granulométrica
+entre muito finas, finas e, em menor quantidade, média, o transporte eólico
+quer seja por suspensão, saltação ou arrasto é perceptível, intenso e
+constante.
+A posição de llha Comprida e sua linha de costa em relação ao
+continente (de forma transversal, de NE à SW, num contorno relativamente
+abrupto em relação a costa sul brasileira) torna a localização da área de estudo
+mais susceptível aos ventos e correntes de deriva.
+A entrada de sistemas frontais acompanhada de ressacas e correntes de
+deriva mais intensas são exemplos de como sua localização geográfica na
+linha continental oriental da América do Sul, no extremo sul do sudeste
+brasileiro, lhe configura uma situação de maior instabilidade relacionada ao
+clima e ao oceano.
+Após a passagem de uma frente fria, por exemplo, ocorre uma série de
+perturbações
+
+atmosféricas
+
+(e
+
+oceanográficas)
+
+fundamentais
+
+para
+
+compreensão dos processos condicionantes nas modificações da paisagem.
+
+a
+
+34
+
+Figura 9 - Direção predominante dos ventos – Barra do Ribeira – Iguape.
+Fonte: Lima (2014). Org.: Alba, 2015
+
+Em se tratando de ambiente costeiro, é necessário ressaltar sempre um
+apurado olhar sobre os oceanos, estendendo-se seu conhecimento e dinâmica
+desde a escala astronômica, no que confere, por exemplo, na compreensão
+das marés, assim como seus ciclos não apenas em curto período, o que seria
+a escala humana, mas também em escalas geológicas, mudanças nos
+diversos tipos de movimentos realizados pela Terra, como a precessão e
+nutação, ciclos e tempestades solares etc. sem negligenciar, lógico, os
+fenômenos de escala humana, como seu comportamento durante incursões de
+massas de ar polar, ressacas, comportamento das correntes de deriva, etc.
+Cabe ressaltar a importância de estudos mais aprofundados de tais
+condicionantes (atmosféricos, oceanográficos, vegetacionais etc.) de forma à
+um entendimento mais elaborado dos fatores determinantes na dinâmica
+costeira.
+Ao analisarmos o processo histórico de formação do complexo
+estuarino-lagunar de Cananéia-Iguape juntamente com o surgimento da ilha
+
+35
+
+barreira de Ilha Comprida, temos subsídios para melhor analisar e
+compreender os processos que se seguem atualmente na área de estudo.
+Desta forma, podemos iniciar dizendo que sua gênese começa a partir
+de processos transgressivos e regressivos no nível relativo do mar durante o
+período Quaternário (Pleistoceno e Holoceno). Tais oscilações marinhas,
+marcadas por recuos e avanços do mar promoveram uma sucessão de
+acúmulos de feixes de cordões litorâneos, também denominados de cristas
+praiais a partir do Morrete, a única intrusão alcalina de 47 m na porção sul da
+Ilha, que serviu de anteparo aos sedimentos até a foz do rio Ribeira de Iguape,
+“... possibilitando o início da sua formação e o seu consequente crescimento
+em sentido nordeste” (SUGUIO e MARTIN, 1978).
+Os principais estágios, descritos por Suguio e Martin (op cit) e Tessler
+(1982), no processo de desenvolvimento de Ilha Comprida tiveram início com a
+evolução da planície litorânea sul paulista, formada por depósitos marinhos,
+entre a ilha do Cardoso e o Maciço da Juréia.
+No denominado 1.º estágio ocorreu a Transgressão Cananéia, onde
+houve uma elevação do nível do mar entre ±8 e ±10m acima do nível atual, há
+aproximadamente 120.000 anos AP (antes do presente), atingindo até o médio
+Vale do Ribeira, chegando ao sopé da Serra de Paranapiacaba de forma que
+se formou um grande golfo onde foram depositadas as argilas transicionais e
+areias marinhas da Formação Cananéia, que recobriram a Formação
+Pariquera-Açu de origem continental e idade terciária.
+Na regressão subsequente, também classificada como 2.º estágio, o mar
+retorna para níveis compatíveis com os atuais e ocorre um processo de
+deposição de sedimentos e a formação de cordões litorâneos que preencheram
+a extensa planície flúvio-marinha.
+No período seguinte, regressivo (3.º estágio), há 17.000 anos AP,
+coincidindo com a última Era Glacial, o nível do mar esteve entre 100 e 110 m
+abaixo do atual, com um recuo do oceano em aproximadamente 200 km a
+partir da costa atual. Dessa forma, houve condições propícias para que os rios
+das planícies costeiras erodissem os depósitos da Formação Cananéia. Esse
+retrabalhamento ocorrido com a erosão fluvial permitiu que ocorresse a
+formação de calhas profundas na então planície expandida, dando lugar
+futuramente aos atuais canais lagunares característicos da área.
+
+36
+
+Há 5.600 anos AP, o mar subiu entre 4 e 5 m acima do nível atual, na
+denominada Transgressão Santos, considerada o 4° estágio marcante na
+configuração do complexo estuarino-lagunar, invadindo dessa forma as áreas
+rebaixadas e “entalhadas” pela erosão na então superfície costeira mais
+extensa. Consequentemente, formou-se um extenso sistema de lagunas, que,
+contando com um ambiente de calmaria, favoreceu o processo de decantação
+de sedimentos areno-argilosos, ricos em matéria orgânica. De acordo com
+Ross (março de 2016, comunicação pessoal) “... o Vale do Ribeira, na
+transgressão denominada Santos, apresentava uma configuração deltaica...”.
+Foi neste período que a Ilha Comprida começa a “crescer”, alongandose rumo ao nordeste, em direção a Iguape, havendo um alargamento da
+mesma através da acreção sedimentar mantida pela formação de cordões
+litorâneos paralelos à linha da costa atual.
+A denominada última fase, ou 5.º estágio, é marcada por mudanças
+bruscas nos níveis máximos e mínimos do oceano, permitindo a ocorrência de
+muitas fases de deposições de cordões arenosos litorâneos. Entre 3.800 e
+3.500 anos AP houve uma flutuação do nível do mar de cerca de 7 m, sendo
+que a princípio ocorreu um novo rebaixamento do nível marinho próximo ao
+ocorrido na Transgressão Santos, quando o mar baixou de 4 a 0,5 m voltando
+a subir novamente e atingir 3 m acima do nível atual em 3.500 anos AP. Após
+este último evento transgressivo, há aproximadamente 1.800 anos AP, o mar
+estabiliza-se em cerca de 0,5 m acima da cota atual. Depósitos marinhos
+holocênicos arenosos, decorrentes do material erodido da Formação Cananéia,
+durante este último período, conduziram o crescimento da Ilha Comprida por
+acreção de cordões justapostos paralelamente à linha de costa, alargando a
+porção SW pronunciando ainda mais a ilha no sentido NE.
+Do ponto de vista geológico, o substrato rochoso onde está inserida Ilha
+Comprida, ocorrem três formações: a Formação Pariquera-Açú, constituída
+basicamente de sedimentos fluviais; a Formação Cananéia, com depósitos
+arenosos marinhos e a Formação Ilha Comprida, que representa um ambiente
+misto. Em conjunto, estas formações constituem o Grupo Mar Pequeno (IPT,
+1989). O denominado Grupo Mar Pequeno engloba depósitos de sedimentos
+marinhos e continentais, que se relacionam às variações glácio-eustáticas
+marinhas (PONÇANO,1985). A distribuição dos sedimentos revela a ação dos
+
+37
+
+eventos tectono-sedimentares ocorridos durante o Cenozóico. Com relação à
+Formação Pariquera-Açu, foi o primeiro autor a constatar a existência de
+depósitos com dois níveis de terraços. Mais de 80% da ilha é composta pela
+Formação Ilha Comprida (SUGUIO e MARTIN, 1976), de formação holocênica.
+Apenas 18% da área total, localizada na porção sul interior da ilha, foi
+provisoriamente mapeada por Suguio e Martin (1978), como a Formação
+Pleistoceno Superior Cananéia. Do ponto de vista pedológico, a área de estudo
+é classificada, segundo o Mapa de solos do IPT, como de solos Podzol
+Hidromórficos e Hidromórfico, denominados Api e Apm, sendo caracterizados
+por ser uma ilha barreira sujeita a inundações periódicas, com lençol freático
+pouco profundo e sedimentos inconsolidados sujeitos a acomodação. Ainda
+tendo o Mapa de Solos do IPT como base, a planície litorânea de IguapeCananéia apresentam uma altimetria entre 0 e 20 m e declividades dominantes
+menores que 2%. Já o Mapa Pedológico do Estado de São Paulo classifica
+como Espodossolo praticamente toda a planície litorânea entre Iguape e
+Cananéia.
+
+Figura 10 - Mapa pedológico do estado de São Paulo.
+Fonte: IAC 1999/ Embrapa. Org.: Alba, 2016
+
+38
+
+Correlacionando o clima, o tipo de formação geológica, pedológica e
+geomorfológicas,
+
+(Formação
+
+Cananéia,
+
+de
+
+composição
+
+basicamente
+
+arenosa) forma-se uma base que sustenta a tese de constantes e intensas
+erosões, devido ao volume d’água tanto pluvial quanto fluvial em toda área
+drenada pela Bacia do Rio Ribeira do Iguape e Vale do Ribeira como um
+todo, tendo como consequência maior quantidade de sedimentos disponível
+em sua foz, contribuindo com material não consolidado, sendo fundamental
+na compreensão da dinâmica de formação dos cordões arenosos na jusante
+da Bacia, na área de estudo compreendida como complexo estuarino-lagunar
+de Cananéia-Iguape, no sul do Estado de São Paulo. Desta forma, tendo
+conhecimento prévio do processo de formação da área de estudo, podemos
+inferir também que tal região é extremamente suscetível aos processos
+naturais de variação de marés, chuvas e ventos além da vazão do volume
+d´água do Rio Ribeira de Iguape, condições essas que, inseridas dentro de
+um quadro de formação e configuração atuais tão instáveis (principalmente
+pedológica e geomorfologicamente), criam condições ideais para ação de
+tais agentes modificadores da paisagem atuarem de forma muito marcante e
+acelerada, não apenas em Ilha Comprida, mas em todo seu entorno, ou seja,
+no complexo estuarino-lagunar de Cananéia-Iguape, gerando notáveis
+modificações visíveis em curto espaço de tempo.
+
+Figura 11 - O litoral paulista: distribuição espacial do embasamento ígneo-metamórfico e dos depósitos
+cenozóicos (planícies costeiras quaternárias) (Fonte: Souza, 2003). As sedes municipais estão indicadas conforme os
+setores costeiros definidos no Plano Estadual de Gerenciamento (SMA,2000) (Apud SOUZA 2012)
+
+39
+
+Outro fator que irá incidir de forma direta na dinâmica costeira da área
+de estudo é sua localização e posição singular em relação à linha costeira
+brasileira e na América do Sul.
+Tal
+
+condicionante
+
+deve
+
+ser
+
+mais
+
+bem
+
+estudado,
+
+com
+
+maior
+
+aprofundamento, de maneira a compreender de fato como a localização,
+marcadamente
+
+na
+
+posição
+
+SW-NE
+
+no
+
+extremo
+
+sul
+
+paulista,
+
+terá
+
+susceptibilidade às correntes marinhas de deriva, que apresentam um papel
+fundamental no retrabalhamento da orla notadamente em Ilha Comprida,
+A explicação para o formato característico do litoral sul paulista e Vale
+do Ribeira apresenta duas teorias: uma delas afirma que o Vale do Ribeira,
+assim como a Plataforma Continental no litoral sul do Estado, apresentam tal
+configuração desde o momento de desagregação da Pangéia (a costa oeste
+da atual Angola estaria interligada à América do Sul, onde hoje se encontra o
+que é atualmente o sul do Estado de São Paulo). Portanto, a linha de costa
+dessa porção litorânea sul teria tal configuração como resquício da falha entre
+os dois continentes, até então conectados. Por sua vez, a outra linha de
+abordagem enfoca a gênese dos processos erosivos sobre os terrenos
+proterozóicos pós-afastamento da Pangéia.
+Portanto, os processos erosivos (incluindo as transgressões marinhas)
+concentraram-se em uma porção mais suscetível e menos resistentes do
+substrato rochoso que até então constituía uma parte do embasamento
+cristalino no qual estavam “conectados” os continentes na Pangéia, cujo tal
+afastamento abriu espaço para o progressivo processo erosivo ocorrido no
+Vale do Ribeira em relação ao seu entorno marcadamente cristalino.
+Tomando como ponto de partida a questão morfoescultural, é de suma
+importância aqui tomarmos como base a abordagem da área de estudo sob a
+ótica de Ross e Moroz (1997).
+Através da articulação de 6 táxons distintos, de diferentes grandezas,
+Ross consegue uma compreensão ampla e completa da paisagem abordada no
+estudo. Portanto, Ross e Moroz (op cit), baseando-se na geomorfologia,
+mapeamento do uso da terra, bacia hidrográfica, unidades de conservação,
+aspectos
+
+socioeconômicos
+
+e
+
+comportamento
+
+hidroclimático,
+
+conseguem
+
+sintetizar todos os elementos relevantes para a compreensão da dinâmica
+paisagística dos sistemas ambientais costeiros paulistas.
+
+40
+
+Figura 12 - Litoral Sul: municípios, relevo, hidrografia e Unidades de Conservação
+Fonte: labtrop.ib.usp/br/doku.php?id=projetos:restingas:restsul:divulga:atlas
+
+Segundo Ross e Moroz (op cit), as planícies litorâneas estão subdivididas
+em cinco unidades morfológicas:
+I Sistema da Planície Costeira Cananéia-Iguape (Zonas de Unidades de
+Conservação);
+II Sistema das Planícies e Terraços Fluviais do Ribeira;
+III Sistema de Colinas e Morretes da Depressão Tectônica do Baixo
+Ribeira;
+IV Sistema de Morros e Escarpas das Serras do Mar e Paranapiacaba
+(Zonas de Unidade de Conservação);
+V Sistema de Morros e Superfícies de Cimeira dos Planaltos do Alto
+Ribeira.
+Ilha Comprida encaixa-se na unidade I, estando posicionada entre a
+Planície costeira de Cananéia ao sul e de Iguape ao norte, onde a área de
+estudo observada na monografia está inserida.
+Ross (2002) descreve o Sistema da Planície Costeira Cananéia-Iguape
+como
+[...] uma importante região estuarina de grande complexidade
+biofísica, onde ocorrem os ecossistemas de mangues ao lado
+das planícies e cordões arenosos marinhos, recortados por
+planícies fluviais cujos sedimentos marinhos são retrabalhados
+
+41
+pelos rios e acrescidos de outros sedimentos procedentes do
+interior do continente.
+
+Figura 13 - Compartimentação geomorfológica do litoral sul do estado de São Paulo,
+segundo a proposta de Ross e Moroz (1997). Org.: Alba, 2015
+
+Setzer (1966), partindo do ponto de vista pedológico, tendo como base as
+análises climáticas e a interação geológica, elaborou uma classificação do
+Estado de São Paulo, contribuindo através de inúmeros trabalhos relacionados à
+clima, geologia, fito e pedologia.
+Tendo como referência sua publicação do Atlas Climático e Ecológico do
+Estado de São Paulo, dividiu o Estado em 6 Regiões Ecológicas, havendo
+subdivisões entre os domínios.
+As características observadas e identificadas em cada subdivisão
+baseiam-se nos critérios:
+I – Clima: verão menos quentes que na região ABq, por ser muito mais
+úmido. Apesar de nítida diminuição de chuvas no inverno, este é ainda úmido,
+sem deficiência de umidade mesmo no mês mais seco (julho ou agosto).
+II- Geologia: areias de paria, mangues, areia de decomposição das serras
+costeiras. No baixo Ribeira, areias e argilas humosas flúvio-lacustres cobrindo
+areias marinhas subjacentes. Alcalinas perto de Cananéia. Terraços com seixos
+graúdos perto dos sopés das serras.
+
+42
+
+III- Topografia: não se contando os contrafortes laterais da Serra do Mar
+que descem até as praias, formando entre elas promontórios rochosos e ilhas
+escarpadas, esta é a região de topografia mais suave, de 1-2% em média.
+IV- Hidrologia: nas baixas planícies interiores a vazão dos furos até o
+fundo cristalino da bacia depende da espessura dos sedimentos, podendo-se
+esperar cerca de 6 m³/h com 50m, 10m³/h com 75m e 15m³/h com 100m. Se a
+parte inferior, mais arenosa, for de notável espessura, tais vazões aumentam
+bem, e ainda mais se o furo der em fenda no chão cristalino, caso este em que
+se deve obter até artesianismo verdadeiro.
+V- Fitogeografia: a natureza da vegetação primária dependeu em primeiro
+lugar da espessura de solo livre do excesso de água. Sobre alúvios siltosos
+permanentemente enxutos, havia árvores enormes dos melhores padrões de
+terra boa. Sobre os argilosos as matas eram mais modestas, mas areias
+praianas e de antigas praias e restingas eram cobertas de densa floresta
+latifoliada, porém de troncos muito finos, altura de 5 a 10 m, cheia de cipós e
+palmeiras. Ao N e NE de Iguape, tal vegetação não passa de 5 m de altura com
+o lençol freático a 1/2m de profundidade, mas alcança 10m de altura com o
+lençol pouco abaixo de 1m. A densidade de população e a altura das árvores
+grossas aumentam muito com o teor da argila nas areias, além da profundidade
+de solo livre de inundação. Devido às matas densas de árvores finas existentes
+nas áreas arenosas de Iguape, alcançando o sopé das serras do Cordeiro, do
+Bananal, dos Itatins e da Juréia, e graças à abundância de alagadiços, brejos e
+mangues, a área florestada ultrapassa de 35% da região (quase 1.300 km²).
+VI- Pedologia: planícies alagadiças de areias finas, sendo de solos tipo
+19d quando alagadas por braços de mar, 19c quando apenas com influência das
+marés, e 19b quando o alagamento é por águas continentais doces. Não
+havendo alagamento, como nas cristas de antigas restingas e nos terraços,
+pequenos e esparsos, os solos são do tipo 19a. Nos tipos 19c, e 19d o horizonte
+inóspito está saturado de água e o ambiente redutor (odor de H2S) prova a
+ausência de oxigênio necessário para a respiração das raízes. No tipo 19a o
+segundo horizonte, de 25 a 60 cm de profundidade, é A2 quase branco,
+praticamente isento de húmus e nutrientes.
+Através das análises dos históricos de compartimentação, como de
+Setzer, Ab’Saber, Monteiro, Ross e Moroz, e referências como a de Campos W
+
+43
+
+(2013) em sua tese sobre a análise e mapeamento da estrutura da paisagem
+de Ilha Comprida, é possível ter um bom entendimento dos processos
+ocorridos na dinâmica da paisagem do local analisado.
+Dentre as abordagens aqui descritas como forma de descrever e
+compreender os fenômenos que serão decorrentes da inter-relação dos
+aspectos físicos X influência antrópica, a sugerida por Ross e Moroz contempla
+de forma mais completa e dinâmica a complexidade da área de estudo,
+possibilitando uma sobreposição de fatores (antrópicos sobre os naturais) de
+maneira mais prática e objetiva resultando numa melhor compreensão dos
+desequilíbrios ocorridos na área de estudo tendo como foco a intervenção
+humana em tal ambiente tão frágil e instável.
+
+Figura 14 - Formas de relevo de Ilha Comprida, segundo Campos. W (2013). Org.: Alba, 2015
+
+Variações de área praial (diminuição ou aumento, dependendo do
+local onde se esteja observando), modificações no formato da ilha barreira,
+
+44
+
+surgimento e formação de outras ilhotas que se aglutinam com o auxílio de
+“aguapés” e originam, em curto espaço de tempo, novas áreas de acreção
+que irão se fundindo junto às barrancas do Mar Pequeno e em sua jusante
+são fenômenos observáveis e que causam impactos socioeconômicos
+notáveis em todo complexo estuarino-lagunar de Cananéia-Iguape, sendo
+mais evidente em Ponta de Icapara.
+
+Figura 15 - Aguapé com micro raízes, agregado junto às barrancas do Mar Pequeno. Autor: Alba, 2016
+
+Nesta imagem, é possível perceber a água com muitos sedimentos
+(areia) sendo capilarizada pela planta e a aglutinação da mesma com outras
+próximas, colaborando no processo de acreção de certas porções do
+complexo estuarino-lagunar.
+Os sedimentos e o suprimento de areia constantemente carreados
+tanto pela variação das marés como pelo Rio Ribeira de Iguape que
+transporta até sua foz “artificial” grande quantidade de material oriundo da
+Bacia hidrográfica do Vale do Ribeira criam, em conjunto, condições ideais
+para as modificações drásticas e rápidas ocorridas principalmente nesta área
+
+45
+
+do complexo estuarino-lagunar de Cananéia-Iguape.
+
+Figura 16 – Sedimentos arenosos, além de restos vegetais sendo carreados pelo movimento da maré, colaborando no
+processo de acreção de certas porções do complexo estuarino-lagunar. Autor: Alba, 2016
+
+Logo, podemos deduzir e inferir com base em outros autores e estudos,
+que as zonas costeiras são áreas problemáticas e podem até mesmo atingir
+um nível de instabilidade que as tornem anecúmenas, dependendo de sua
+dinâmica.
+
+4.2 Uso e ocupação do solo
+
+A região de Ilha Comprida está a uma distância de 209 km da cidade de
+São Paulo e 260 km de Curitiba; apresenta uma área de 192,09 km2 e uma
+população absoluta de 10.102 habitantes (2014) com uma densidade
+demográfica aproximada de 53 hab/km2.
+A ilha passou a ter status de município a partir de março de 1992, após
+um plebiscito no ano anterior, no qual a maioria de sua população optou pela
+
+46
+
+emancipação em relação aos municípios limítrofes de Iguape, que detinha 70%
+de sua área e de Cananéia, que possuía os outros 30% da ilha.
+A Estância Balneária de Ilha Comprida, que faz parte do complexo
+estuarino-lagunar de Cananéia Iguape, tem este título de “estância turística”
+por apresentar alguns pré-requisitos, como características naturais e culturais
+específicas, dentre elas, estar situada em uma área envolta por remanescentes
+de Mata Atlântica, extensas e planas praias, aliadas a dunas em certos pontos
+da ilha, além de sítios arqueológicos e manguezais e por ser rota migratória de
+muitas espécies da fauna marinha que, principalmente durante o inverno, se
+perdem e aparecem nas praias, como pinguins, lobos marinhos e outros.
+Encontra-se no litoral do Vale do Ribeira, sudeste do estado de São
+Paulo, região mais pobre e menos habitada do mesmo, explicado por fatores
+históricos e econômicos, além das próprias limitações impostas pela natureza.
+O turismo de veraneio, caracterizado por turistas majoritariamente de renda
+média e baixa faz com que sua população flutuante, aguardada principalmente
+nas férias de verão e feriados, tenha grande incremento, já tendo atingido seu
+ápice no verão de 1998, com uma população flutuante que chegou a atingir a
+marca de 930 mil pessoas, embora a média anual de incremento populacional
+de férias de verão fique na faixa de 300 mil turistas. Ou seja, mais de 30 vezes
+a população residente no município em apenas três meses.
+Ilha Comprida passou por um processo de loteamento intenso a partir da
+década de 70 do século XX, sendo completamente loteada atualmente, porém,
+com poucas áreas construídas devido às rápidas modificações observadas
+pelos moradores, tanto na linha de costa como na parte margeada pelo Mar
+Pequeno, além dos problemas decorrentes de ressacas, marés astronômicas,
+chuvas e ventos em um local muito plano e com altitudes muito modestas
+(máximo de 10 m), com exceção de Morrete, a única incrustação alcalina
+situada na área, com 46m de altura e a partir do qual se originou a formação de
+cordões arenosos que posteriormente originaram Ilha Comprida.
+Sua população absoluta baixa pode ser explicada não apenas pelas
+limitações naturais (principal fator), mas também por sua localização entre a
+Grande São Paulo e Curitiba, centros que oferecem melhores oportunidades
+de trabalho, sendo dois pólos de atração populacional, cabendo à região a
+vocação para casas de veraneio de paulistas (principalmente) e paranaenses.
+
+47
+
+Iguape, que outrora, conheceu o desenvolvimento e a riqueza,
+atualmente se encontra em estado bem deteriorado, fato este comprovado
+através da observação do mau estado de conservação de grande parte de
+casarões, casas e vilas que remetem aos ciclos de pujança econômica da
+mineração e do arroz. Com a exceção de uma pequena parte do centro
+histórico restaurado, o restante da cidade encontra-se repleta de resquícios de
+seu passado de outrora desenvolvido e de relevância econômica nacional.
+A região já passou por três ciclos de prosperidade econômica: a fase do
+ouro, ocorrida por volta do século XVI, quando se encontrava ouro de aluvião
+em quantidade razoável, fazendo com que a Coroa portuguesa inaugurasse a
+primeira Casa de Fundição do Império em Iguape, como forma de evitar a
+evasão do minério. O ciclo findou com a descoberta de ouro na região das
+Minas Gerais, no século XVII, havendo inclusive um fluxo de migração de
+iguapenses para essa nova área.
+Após esta fase de desenvolvimento econômico, a região passou por
+um longo processo de estagnação, voltando a se reerguer a partir de meados
+do século XVIII, desta vez com a atividade da construção naval, quando
+diversos estaleiros foram estabelecidos nas margens dos rios da bacia
+hidrográfica
+
+do
+
+Vale
+
+do
+
+Ribeira,
+
+fornecendo
+
+barcos
+
+de
+
+cabotagem
+
+principalmente para Santos e Rio de Janeiro.
+O último e mais marcante ciclo de pujança econômica da região foi o do
+arroz, que perdurou desde o fim do século XVIII até a primeira metade do
+século XIX.
+As condições naturais favoráveis para o desenvolvimento dessa cultura
+no Vale do Ribeira e áreas adjacentes, com vastas planícies alagáveis, grande
+disponibilidade de água e clima favorável culminou na fase econômica mais
+marcante da região, a dos arrozais, tendo um bem sucedido início no final do
+século XVIII e atingindo seu ápice nas primeiras décadas do Século XIX,
+quando capitalistas abastados, muitos deles barões do café, destinaram seu
+capital, investindo no plantio de arroz, tendo expressivos ganhos com essa
+cultura.
+Nessa época, construíram-se imponentes casarões de pedra e cal,
+como os que ainda se encontram ornamentando a Praça da Basílica. Em
+1841, o imperador D. Pedro II concedeu o título de Barão de Iguape ao
+
+48
+
+agricultor e político Antônio da Silva Prado, patriarca de uma aristocrática
+família paulista. O arroz de Iguape era o novo “ouro branco”, e devido à sua
+qualidade teve sua fama espalhada pela Europa, recebendo inclusive prêmios
+nacionais e internacionais pela sua qualidade, como o de Turim, Itália, no ano
+de 1911.2
+
+Figura 17 - Casarões restaurados no entorno da Praça da Basílica - Iguape; Testemunho dos tempos de
+pujança econômica da região. Autor: Alba, 2016
+
+Já nas últimas décadas do século XIX, a decadência do arroz ocorreu
+devido a diversos fatores, como a falta de modernização da lavoura do arroz, a
+abolição da escravatura e, ironicamente, devido à intervenção da abertura do
+Valo Grande, cujos problemas decorrentes da falta de planejamento da obra
+logo foram notados, devido ao carreamento de sedimentos para o Mar
+Pequeno, assoreando-o rapidamente e impedindo sua navegação. O canal do
+Valo Grande passou em poucas décadas de “grande e importante obra de
+2
+
+Dados disponíveis em: < https://diariodeiguape.com/informacoes/nossa-historia/ >. Acessado em: 03 setembro,
+2016.
+
+49
+
+engenharia” para um “grande problema e empecilho para o desenvolvimento
+econômico”, pois começou a impossibilitar desta forma o seu objetivo principal,
+que era escoar a produção de arroz, além de, no século XX, tornar-se um
+“grande desastre ambiental” para todo o complexo estuarino-lagunar de
+Cananéia-Iguape.
+O que parecia ter sido uma obra de engenharia eficaz e que traria
+prosperidade e pujança econômica para a região, encurtando o caminho entre
+as áreas produtoras de arroz e o Porto de Iguape, logo se mostrou ser um
+grande equívoco de projeto sem precedentes no país.
+Atualmente, Ilha Comprida tem no turismo seu principal ramo
+econômico, que movimenta pousadas, quiosques, bares e restaurantes,
+principalmente o turismo de veraneio, sendo que no inverno a atração turística
+deve-se aos animais, como pássaros, pinguins, lobos marinhos e outros que
+costumam aparecer em suas praias, por se tratar de uma rota de migração
+sazonal para muitos animais.
+Mais recentemente, os municípios de Ilha Comprida, assim como
+Iguape e Cananéia que correspondem aos integrantes do complexo estuarinolagunar estão se beneficiando da arrecadação de royalties do petróleo, neste
+caso específico, devido à produção no Campo de Baúna, localizado no póssal.
+A produção de petróleo nos campos localizados no litoral do estado de
+São Paulo aumentou em quatro vezes desde o final da década de 1990, com
+grande incremento a partir de 2005, sendo que municípios como Ilha Comprida
+tiveram um acréscimo acima de 5.000% na arrecadação de royalties do
+petróleo, contando em 2016 com uma receita de R$ 46 milhões provenientes
+do mesmo.
+
+Criação da APA
+
+Em março de 1987, Ilha Comprida foi declarada Área de Proteção
+Ambiental (APA) época em que o município ainda não havia sido emancipado
+de Iguape e Cananéia;
+Dentre os fatores que motivaram a criação dessa área de conservação,
+que constam no decreto estadual No. 26.881 de 11 de março de 1987,
+
+50
+
+destacam-se: “área lagunar-estuarina de Iguape-Cananéia constitui um
+importante refúgio de recursos genéticos das espécies marinhas e aves
+migratórias, além de área com dinâmica atual intensa de erosão e
+sedimentação e com um sistema de drenagem parcialmente definido”; “Ilha
+Comprida se constitui em ilha-barreira que protege o “Mar Pequeno” e o “Mar
+da Cananéia” das influências diretas do oceano”.
+Outros fatores e preocupações referem-se à manutenção da qualidade
+da água no Mar Pequeno, já que este se constitui numa importante fonte de
+renda para um dos últimos complexos de ecossistemas preservados no litoral
+brasileiro, cuja importância é essencial como viveiro natural de espécies
+marinhas e terrestres no Atlântico Sul, também utilizada por mais de trinta
+espécies de aves migratórias, além de abrigar um importante acervo
+arqueológico constituído por sambaquis.
+
+O Canal do Valo Grande
+De acordo com Galvani, “... o Valo Grande foi um o primeiro grande
+desastre ambiental ocorrido no Brasil...”.
+
+Figura 18 - Projeto de implantação do projeto “Valo Grande”.
+Disponível em :http://noticias.ambientebrasil.com.br/artigos/2007/06/19/31786-valo-grande-uma-ferida-aberta-deenorme-carga-didatica.html. Org.: Alba, 2015
+
+51
+
+No século XIX, a cidade de Iguape constituía um importante porto por
+onde, a bordo de navios da época, movidos à vapor, escoava a maior parte das
+riquezas, no caso o arroz produzido no Vale do Ribeira. As embarcações
+desciam o Rio Ribeira de Iguape e iam ao Porto da Ribeira, em um trecho do
+rio próximo à cidade de Iguape, de onde eram transportadas em carroças até o
+Porto de Iguape.
+A partir do porto fluvial de Iguape, havia duas formas de a produção ser
+escoada: ou os produtos eram descarregados no próprio porto fluvial de
+Iguape, trazidos em carroças por terra até o porto marítimo, percorrendo quase
+3 Km, ou as canoas poderiam ir direto pelo Rio Ribeira de Iguape, tendo
+acesso ao Oceano Atlântico através de sua foz e tendo que retornar através do
+Mar Pequeno até o porto marítimo, o que aumentava em muito a distância,
+causando demora e aumento de despesas.
+Para reduzir custos, facilitar o transporte e tornar mais rápido e eficaz o
+escoamento do arroz do vale até o porto, em Iguape, iniciou-se em 1827 a obra
+de abertura de um canal, que seria concluído em 1852, ligando o Rio Ribeira
+de Iguape até o Porto de Iguape, que foi “batizado” como “Canal do Valo
+Grande”. O canal foi escavado com pás e utilizando mão de obra escrava; suas
+obras duraram 20 anos e, quando inaugurado, tinha como dimensões iniciais 4
+m de largura, 2 m de profundidade e 2 km de extensão.
+No entanto, o que parecia ter sido uma importante obra, a maior do país
+na época, e de repercussão internacional, demonstrou-se uma perigosa e
+desastrosa alternativa, já que pouco em menos de 50 anos (final do século XIV,
+início do XX) o Mar Pequeno tornou-se inviável devido ao assoreamento
+causado pelos sedimentos carreados pelo processo de erosão do canal até o
+Porto de Iguape. Houve também influência na alternância das cheias das
+várzeas da região, o que tornou alguns terrenos dominados pelos arrozais
+inférteis, além do aumento da concentração de água doce que alterou a
+reprodução de mariscos e afugentou outros peixes de água salgada e salobra.
+Ocorreu um desequilíbrio de toda dinâmica do sistema estuarino-lagunar em
+curto espaço de tempo, com a ocorrência de erosão das margens do canal
+(desbarrancamentos devido à força das águas do Rio Ribeira) que começaram
+a assorear o Mar Pequeno levando uma grande quantidade de sedimentos até
+
+52
+
+o Porto de Iguape, fato que foi dificultando a entrada de embarcações
+primeiramente de maior calado e posteriormente até a pesca artesanal.
+O Valo tornou-se a passagem preferencial das águas do Rio Ribeira,
+diminuindo consideravelmente a vazão que passava pelo trecho original do rio
+e chegava a sua jusante, o que levou à mudança no fluxo do mesmo, causando
+assoreando no Mar Pequeno e um processo de progradação da área devido à
+acreção do material erodidos sendo retrabalhados em outros trechos.
+O porto e grande extensão do Mar Pequeno foram assoreados e várias
+ilhotas “artificiais” foram formadas pelos sedimentos carreados pelas águas ao
+longo do canal.
+Em 1975, foi elaborado pelo DAEE – Departamento de Águas e Energia
+Elétrica do Estado de São Paulo, o projeto básico de fechamento do Valo
+Grande, sendo a obra de barramento provisório concluída em 1978, com
+objetivos principais de restabelecer as condições ambientais naturais da região
+Estuarina-Lagunar de Iguape e Cananéia, proteger as margens contra as
+constantes erosões, além de possibilitar a ligação rodoviária entre as duas
+bordas.
+No entanto, no tempo superior a um século em que permaneceu aberto,
+o Rio Ribeira de Iguape teve sua capacidade de dar vazão às cheias
+drasticamente diminuída pelo assoreamento, ao mesmo tempo em que as
+cheias se tornavam maiores e mais frequentes, principalmente em decorrência
+do uso e ocupação dos solos de forma intensa na bacia. Em uma dessas
+cheias, ocorridas em 1983, a barragem não aguentou e se rompeu.
+Em 1990, após uma outra enchente que acarretou enormes prejuízos à
+região, foi iniciada a implantação de uma barragem definitiva, por meio da
+construção de soleiras de vertedouro, de acordo com a proposta aprovada pelo
+CEEIGUAPE e pelo Conselho Estadual do Meio Ambiente (CONSEMA).
+As obras civis do vertedouro foram concluídas em 1992, ficando para
+etapa posterior a instalação de comportas.
+Em 1993, uma nova barragem foi concluída, porém, as comportas e
+eclusas que faziam parte desse novo projeto, que incluía proteção das
+margens e do fundo do canal contra a erosão, não foram instaladas e o projeto
+não foi concluído.
+
+53
+
+Em 2011, o DAEE, órgão responsável pela supervisão do projeto de
+instalação das comportas, apresentou o “Relatório de Sistematização de base
+de dados ambientais do complexo estuarino-lagunar de Iguape e Cananéia”
+que tem como objetivo apresentar e analisar os trabalhos realizados para a
+avaliação ambiental do impacto das vazões de água doce afluentes pelo Valo
+Grande ao complexo estuarino-lagunar de Iguape-Cananéia, atendendo à
+Deliberação CONSEMA 24, de 23/06/1997, a fim de subsidiar os estudos para
+definição da regra operativa das comportas que vierem a ser instaladas.
+Atualmente, o canal, que foi projetado e construído com 4m de largura,
+apresenta, após 164 anos de sua conclusão, aproximados 400 metros entre as
+barrancas de suas duas margens que transformaram Iguape em uma “ilha”.
+
+Figura 19 – Imagem do Valo Grande inaugurado no século XIX com 4m de largura, hoje com 400m de
+largura. Fonte: disponível em: http://noticias.ambientebrasil.com.br/artigos/2007/06/19/31786-valo-grande-umaferida-aberta-de-enorme-carga-didatica.html. Autor: Alba, 2015
+
+5 ANÁLISE DE RESULTADOS
+
+5.1 A evolução da ilha entre 1987 e 2011
+
+A análise evolutiva da ilha foi tecnicamente apoiada na interpretação de
+imagens de satélite Landsat 5 e 7 dos anos de (1987, 1991, 1999 e 2011) pela
+
+54
+
+qual pudemos verificar as áreas que sofreram acreção e as que sofreram
+degradação ao longo deste período. Primeiramente, foi desenvolvido um mapa
+que demonstra a dinâmica do processo de erosão e acreção durante um
+período de 24 anos (de 1987 até 2011) em que é possível vislumbrar as
+modificações ao longo das margens ocorridas na porção norte do complexo
+estuarino-lagunar, ou seja, as mudanças decorrentes da retirada e do
+retrabalhamento de sedimentos na área após o Valo Grande, incluindo os
+meandros do Rio Ribeira de Iguape, do canal do Mar Pequeno, assim como as
+mudanças ocorridas nas margens das barrancas do próprio canal antrópico. No
+que concerne às modificações ocorridas na linha de costa externa de Ilha
+Comprida, na porção praial do complexo, foi possível também o mapeamento
+das alterações ao longo dos anos, decorrentes das denominadas “correntes de
+deriva”. Notamos o acelerado processo de formação e desaparecimento de
+feições geomorfológicas (ilhotas, bancos de areia), mudanças no modelado das
+curvas do rio e dos canais além das perceptíveis alterações na linha costeira
+de Ilha Comprida, em curto espaço de tempo, já que se trata de período de
+poucas décadas. Pudemos verificar o quão instáveis são as condições
+geomorfológicas apresentadas no lagamar, cujas características de seus
+aspectos físicos associadas ao desequilíbrio de vazão da Bacia do Rio Ribeira
+de Iguape, cuja foz original foi modificada com a construção do Valo Grande,
+passando a ter mais de 2/3 das águas de sua jusante fluindo preferencialmente
+dentro do complexo estuarino e não mais em sua foz natural, tem causado
+notáveis e aceleradas modificações em seu modelado. Uma das mais
+perceptíveis e relevantes modificações observadas na elaboração deste
+primeiro mapa refere-se ao estreitamento de Ilha Comprida, em especial
+próximo ao Campo de Dunas Transgressivo. Tal fenômeno decorre tanto do
+lado externo, onde as bermas são erodidas pelas correntes de deriva
+adentrando no campo de dunas, aumentando a área praial e, portanto,
+permitindo maior interiorização da água por ocasião da maré alta. Todo esse
+material erodido das bermas, cujo processo será ilustrado na seção seguinte,
+será carreado e depositado mais à frente, onde a ilha sofre acreção.
+No lado interno do complexo estuarino, a entrada das águas do canal do
+Valo Grande no Mar Pequeno aumenta a erosão das barrancas da ilha, na
+altura do Campo de Dunas Transgressivo, sendo notável o processo de
+
+55
+
+“estrangulamento” da área e provável secção da mesma. Ou seja, de um lado e
+de outro a ilha tende a se estreitar, enquanto todo esse material é depositado
+na ponta da Ilha, na Barra de Icapara.
+Com auxílio do software ArcGis e a interpolação das imagens de satélite,
+foi possível delimitar as áreas onde houve acreção e erosão assim como
+calcular, em hectares, a taxa anual de ocorrência de tais fenômenos nos locais
+concomitantes. Desta forma, no período analisado, houve um processo erosivo
+na área de estudo, incluindo a parte interna do lagamar (voltada para o rio e o
+continente) e a parte “externa”, (na confluência com o oceano) que resultou
+numa retirada total de 480 ha de sedimentos e detritos à uma taxa de 20
+ha/ano. Por sua vez, o acúmulo ocorrido nas áreas acrescidas, no mesmo
+intervalo de tempo, resultou em 420 ha de material retrabalhado em suas
+margens (tanto interna quanto praial), a uma taxa de 17,5 ha/ano. Os
+resultados destas alterações são ilustrados no mapa seguinte.
+
+Figura 20 – Mapa da evolução de Ilha Comprida. Alba, 2016.
+Ver versão maior no Apêndice 1.
+
+56
+
+É importante salientar que a partir desta análise evolutiva e das
+medições de perdas e ganhos de área, a identificação de uma taxa anual nos
+permitirá elaborar um prognóstico, como será mostrado no item 5.3, mas não
+antes de analisarmos a dinâmica da paisagem in loco pela prática
+essencialmente geográfica da observação em campo, como se segue.
+
+5.2 A observação da dinâmica atual em campo
+
+Descrição do primeiro trabalho de campo
+
+Entre os dias 19 e 20 de dezembro de 2015 realizamos um primeiro
+trabalho de campo. Logo ao chegarmos à Barra de Icapara, fizemos um
+reconhecimento da porção praial, das bermas erodidas assim como do material
+exposto e das dunas frontais que a acompanham, juntamente com as dunas
+transgressivas na parte mais estreita da ilha.
+O ponto de partida dessa observação teve início nos campos de dunas
+transgressivas, área mais estreita da ilha, onde, devido às condições
+atmosféricas, havia grandes áreas “encharcadas”, com grande quantidade de
+água retida um pouco antes de acessarmos de fato as dunas. Foi necessário
+seguir adiante a pé, para um melhor reconhecimento do terreno e da paisagem
+como um todo, caminhando no sentido NE, em linha reta, até a Ponta de
+Icapara, acompanhando a porção externa desta área (sudeste da ilha, voltada
+ao Oceano Atlântico).
+A locomoção em campo foi difícil, pois caminhávamos sobre um solo
+arenoso e encharcado que oferecia resistência ao passos, já que nossos pés
+ficavam presos numa espécie de “manguezal”. O tempo estava instável, com
+solo já saturado pela semana chuvosa que havia antecedido o trabalho de
+campo. Tais condições, associadas a ventos fortes constantes, tornou muito
+dificultoso o andamento desde as dunas transgressivas até uma parte da Ponta
+de Icapara, onde já não era perceptível onde terminava a área de “terra firme”
+praial e iniciava-se um ambiente parecido com “mangue”. Na verdade,
+estávamos experimentando sensorialmente o que significa um meio fortemente
+instável proposto por Tricart.
+
+57
+
+A intensidade e influência marítima nesta porção da ilha, assim como
+sua susceptibilidade a esta condição é muito perceptível, já que é possível
+observar muitas algas ao longo do trajeto (aparentemente acumuladas de
+alguns dias concentrando-se próximo das dunas frontais), restos de peixes,
+seixos e troncos apodrecidos, além de lixo deixado pelos turistas que são
+levados pelo mar, carreados e deixados pelo ciclo das marés, que atuam muito
+fortemente em toda ilha, atingindo toda a extensão praial devido a sua baixa
+altitude média da ilha e das condições de planície litorânea praticamente plana
+em relação ao nível do mar.
+Após o reconhecimento do campo, retornamos até a parte mais estreita
+da ilha, atravessando novamente o campo de dunas transgressivas, e iniciando
+as aferições.
+A observação das condições meteorológicas do dia, como alta
+nebulosidade, ventos intensos e contínuos, chuva orográfica no encontro do
+Maciço de Itatins e, posteriormente, chuvas intensas também na outra borda da
+margem (Iguape) e em Ilha Comprida completaram a observação inicial.
+Através da interpolação dos dados observados in loco, imagens de
+satélite e mensurações no campo, foi possível constatar que a área em estudo
+se encontrava numa condição de sistema meteorológico pré-frontal, com fortes
+ventos e rajadas de NW, alta nebulosidade e início de precipitação pluvial.
+As medições iniciaram-se às 13h00 (horário local) do dia 19 de
+dezembro e tiveram uma sequência de aferições a cada 1 hora. No início das
+medições, a direção predominante do vento era de NW, a 7,5km/h, passando a
+NE às 14h00 com velocidade de 33 km/h. Nesse momento, era possível
+observar uma intensa chuva no Maciço de Itatins, a NW de onde estávamos
+posicionados. O céu estava completamente fechado, com a presença de
+nuvens cúmulos nimbus e estratus cúmulos ao se observar o horizonte em
+direção ao mar (Leste).
+Às 15h00 a direção do vento continuou em NE a 24 km/h, sendo que às
+15h25min uma forte tempestade teve início no local das medições,
+interrompendo a sequência de aferições. O veículo utilizado para percorrer a
+distância do campo de dunas transgressivas e a Ponta de Icapara ficou atolado
+na areia, sendo necessário pedido de auxílio externo. A chuva continuou de
+forma intensa e ininterrupta, adentrando a noite e continuando durante toda a
+
+58
+
+madrugada, com muitos raios e fortes rajadas de vento, impossibilitando a
+continuidade das medições que se reiniciaram no dia seguinte.
+Às 10h00 do dia 20/12/15, quando iniciamos as aferições do segundo
+dia de campo, os ventos provinham de S/SE a uma velocidade de 10,5 km/h,
+com céu totalmente encoberto. Às 11h00, a direção dos ventos continuava de
+S/SE a uma velocidade de 7,8km/h, com o céu permanentemente nublado. Às
+12h00, a velocidade passou para 5,6 km/h continuando de S/SE, com
+pequenas aberturas de Sol, porém, iniciou-se uma fraca precipitação ao
+mesmo tempo. Às 13h00 os ventos continuavam soprando na mesma direção
+(S/SE) com intensidade de 8,1 km/h. O céu tornou a ficar intensamente
+nublado, sem nenhuma abertura de Sol e a leve precipitação parou em torno
+das 13h15min. Já às 14h00 houve uma modificação na direção dos ventos e na
+intensidade, passando a vir de S com velocidade de 33,9 km/h. Era visível o
+deslocamento de areia pelas fortes rajadas de vento, tanto por saltação quanto
+por arrastamento.
+Na sequência (15h00) houve nova mudança na direção do vento,
+passando à SW com velocidade de 36,6 km/h. Devido às fortes rajadas de
+vento, era possível ver montículos de areia se formando rapidamente junto às
+dunas frontais e acumulando-se em qualquer obstáculo que houvesse na praia
+(vegetação, troncos, raízes e nas próprias ondulações da areia), assim como
+junto às bermas. O céu continuava muito encoberto. Na aferição seguinte
+(16h00) o vento seguia sentido SW agora com velocidade de 40 km/h.
+A areia movimentava-se velozmente e era até mesmo difícil o processo
+de medição, pois tivemos que nos proteger da areia. Era possível observar não
+apenas areia e lixo deixado na área praial sendo arrastado pelos fortes ventos,
+mas também galhos e grande quantidade de vegetação proveniente do
+processo de diminuição da área praial (retrogradação marinha).
+Às 17h00, a direção do vento mantinha-se em SW, porém, agora a 42,7
+km/h. Nesse momento, as pessoas haviam se deslocado da praia, pois, a
+abrasão decorrente da areia e dos fortes ventos não possibilitava mais a
+presença de pessoas no local.
+Às 18h00 o vento mantinha-se de SW, porém com menor intensidade,
+com 28,8 km/h. O céu continuava fechado e iniciou-se uma fraca precipitação.
+Por vota das 18h40min iniciou-se outra forte tempestade, com raios e ventos
+
+59
+
+de 16,8 km/h impossibilitando novamente a continuidade das aferições. A
+chuva manteve-se forte e contínua adentrando a noite.
+As difíceis condições de observação das paisagens e aferição dos
+atributos condicionantes da mesma (notadamente os climáticos), não
+possibilitou o recolhimento de dados de maneira contínua e intervalada,
+impossibilitando a elaboração de uma tabela de temperatura, direção e
+velocidade dos ventos de hora em hora como era de início programado.
+O reconhecimento da área de estudo a ser trabalhada, desde a chegada
+ao município de Ilha Comprida, foi marcada pela constatação da tentativa de
+contenção das dunas transgressivas que devido ao estreitamento da área
+praial deslocaram-se em direção à parte já urbanizada
+Como medida mitigadora e forma de interromper a formação de outras
+dunas frontais que acompanhassem a retrogradação da área praial, nas
+proximidades da Avenida Beira Mar, observamos a plantação de Eucaliptos ao
+longo da extensão das bermas já muito próximas à ciclovia e à avenida
+principal.
+À noite, com a maré alta, foi possível constatar que a zona de
+arrebentação aproximava-se em muito da área urbana.
+O processo de movimentação dunar não é facilmente controlado pela
+intervenção humana. Uma vez havendo as condições ideais onde haja material
+inconsolidado e a presença de praias abertas sujeitas a constantes ações dos
+ventos, as medidas mitigadoras são insuficientes e ineficazes.
+Importante ressaltar que o processo de erosão e retrogradação atingem
+desde a própria zona praial, zona de arrebentação das ondas e,
+consequentemente, a maior proximidade das marés junto ao espaço ocupado
+pelo homem.
+O fato de a Ilha Comprida ser constituída predominantemente por areias
+de granulometria fina ou muito fina, aliado à sua posição geográfica e aos
+condicionantes climáticos e oceanográficos (marés, ondas, predomínio das
+correntes marinhas) explica a retrogradação marinha (interiorização da área da
+área de praial) e, consequentemente, da zona de arrebentação, além do
+avanço das dunas frontais em direção ao interior da ilha, sendo perceptível a
+quantidade de areia que “invade” a parte urbana, especialmente em condições
+meteorológicas adversas (entrada de sistemas frontais, perturbações devido à
+
+60
+
+formação de tempestades e zonas de instabilidades no verão, além da brisa
+dionoturna), fatores todos presentes no momento das observações. Na
+verdade, este primeiro campo serviu de reconhecimento preliminar da
+paisagem e da constatação de que, de fato, se trata de um meio fortemente
+instável.
+
+Descrição do segundo trabalho de campo
+
+O segundo trabalho de campo ocorreu entre os dias 12 e 13 de março
+de 2016 e teve como objetivo principal a observação do campo em condições
+meteorológicas mais favoráveis (um sistema de alta pressão conferiu tanto ao
+primeiro quanto ao segundo dia tempo estável, com pouca nebulosidade, sol
+principalmente no segundo dia, sem precipitação). Levamos a campo bússola,
+câmera fotográfica, caderneta e gravador a fim de descrever a paisagem
+observada.
+Neste segundo trabalho, fizemos uma série de registros fotográficos que
+constatam e corroboram as leituras, estudos e análises feitas durante o
+processo
+
+de
+
+elaboração
+
+desta
+
+monografia.
+
+Através
+
+desse
+
+arquivo,
+
+acompanhado de suas respectivas explicações, pudemos ter uma melhor
+compreensão da complexidade e dos atributos singulares que fazem da área
+de estudos uma área de grande interesse na compreensão da instabilidade de
+ambientes costeiros frente à intervenção humana.
+As condições meteorológicas favoráveis possibilitaram uma boa
+observação e análise da gênese dos processos ocorridos através da
+visualização dos fenômenos aqui descritos que ocorrem junto ao lagamar.
+
+61
+
+Figura 21 - Foto panorâmica do centro de Iguape, tirada a partir do Morro do Espia (cujo nome se deve ao
+antigo posto por onde “vigias” controlavam a entrada e saída de embarcações no Porto de Iguape). É possível avistar
+o entroncamento entre o canal do Valo Grande e o Mar Pequeno. Autor: Alba, 2016
+
+Através dessa imagem mais geral da paisagem, podemos visualizar, no
+canto direito, a Igreja Matriz e o centro antigo de Iguape. Do lado esquerdo, um
+trecho do Mar Pequeno, já bem assoreado junto a uma ilhota que está muito
+próxima de “juntar” sua margem com a do continente, num processo de
+acreção. Mais acima, podemos constatar a confluência do Valo Grande com o
+Mar Pequeno. A partir deste ponto, toda a dinâmica relacionada aos processos
+internos do lagamar, de erosão, sedimentação e assoreamento do complexo
+estuarino passa a ser influenciada pelas águas do Rio Ribeira de Iguape.
+De certa forma, as modificações no formato e na gênese de Ilha
+Comprida, podem ser definidas em duas frentes de observação: a interna
+(interior) na área subsequente ao Valo Grande e ao canal lagunar do Mar
+Pequeno e, a outra externa (aberta) para o oceano, sendo que ambas se interrelacionam, mesmo de forma indireta, já que o processo erosivo das bermas
+externas e das barrancas internas ocorrem sucessivamente, notadamente na
+parte mais estreita da ilha, na porção onde há o campo de dunas
+transgressivas. Neste segundo campo, foi possível observar e compreender
+
+62
+
+mais detalhadamente os processos que alteram o formato da ilha, como
+descritos a seguir.
+Do lado externo de Ilha Comprida, as “correntes de deriva” são
+responsáveis pela retirada de material praial, chegando à bermas e erodindoas, contribuindo no remodelamento da linha de costa.
+
+Figura 22 - Foto das bermas sendo erodidas. Autor: Alba, 2016
+
+As correntes de deriva que tangenciam a ilha no sentido SW-NE erodem
+as bermas (os desníveis que marcam o fim da área praial e início da vegetação
+de restinga, no lado esquerdo da foto) aumentando a largura da praia. Ao
+mesmo tempo, na maré alta, o avanço da água mais para o interior da ilha
+(devido à erosão das bermas) a torna apenas aparentemente mais estreita.
+Todo o material retirado neste processo continua sendo carreado pelas
+próprias correntes e vão sendo gradativamente depositados mais ao norte da
+ilha aumentando-a de tamanho na sua porção NE, como mostrou o mapa
+evolutivo na seção anterior. É interessante observar que os processos
+desencadeados neste lado da ilha são decorrentes de dinâmicas naturais
+maiores (correntes marítimas, ventos), mas com efeito marcadamente local.
+
+63
+
+Figura 23 - Processo erosivo avançado na porção praial (lado externo) de Ilha Comprida.
+Autor: Alba, 2016
+
+Nesta figura, o agressivo processo erosivo da berma expõe o
+Espodossolo com horizonte orgânico bem definido (em cinza). É muito nítido o
+trabalho erosivo das correntes de deriva que, ao erodirem as bermas, alargam
+a praia para o interior da ilha, carregando e depositando este material ao longo
+da ilha em direção à NE, razão pela qual a ilha se alarga nesta direção. De
+acordo com o proprietário do terreno comprometido logo acima do perfil
+mostrado, foi realizado um “aterro” com solo alóctone. Por isso notamos a
+presença de um horizonte orgânico, cinza/ cinza escuro logo abaixo da
+vegetação.
+
+Figura 24 - Imagem que permite visualizar bem o “aterro” promovido com solo alóctone sobre o
+Espodossolo (parte inferior da figura). Autor: Alba, 2016
+
+64
+
+Com o intuito de “plantar grama” na propriedade, foi utilizada uma
+sobreposição de solo com maior teor de argila. Com as correntes de deriva
+avançando sobre as bermas, todo o material é carreado.
+Na foto, podemos constatar as ravinas abertas através das bermas,
+devido à elevação e consequente avanço das correntes de deriva na maré alta.
+
+Figura 25 - Imagem das bermas sofrendo processo de retrogradação (erosão) na margem leste de Ponta de
+Icapara, Fonte: Alba, 2016
+
+Em Ponta de Icapara e no istmo de Iguape, Icapara Norte, os solos
+muito jovens são mal drenados, contribuindo para uma formação vegetal pobre,
+pouco desenvolvida, já que são solos também pouco desenvolvidos e
+frequentemente encharcados por água salobra (o que contribui para a
+existência de solos arenosos, sem grande quantidade de matéria orgânica e
+argilas). A combinação de solo inadequado para a ocupação humana, ou seja,
+para a construção civil, combinada com a dinâmica de instabilidade
+geomorfológica da linha de costa desta porção de Ilha Comprida, gera
+resultados desastrosos para os loteamentos ocupados há certo tempo na
+região.
+
+65
+
+Figura 26 - Imagem que evidencia como o processo erosivo do lado marinho avança com a elevação das marés.
+Autor: Alba, 2016
+
+Nem mesmo a vegetação é capaz de frear o violento processo erosivo.
+
+Figura 27 - Uma outrora casa de veraneio localizada no limite da área de loteamentos, sentido NE em direção à
+Ponta de Icapara, susceptível às correntes de deriva. Autor: Alba, 2016
+
+66
+
+Figura 28 - Destroços da antiga casa de veraneio, na área praial externa, próximo à Ponta de Icapara.
+Autor: Alba, 2016
+
+Já, no Mar Pequeno, há um processo real de estreitamento da mesma
+devido ao deságüe do canal do Valo Grande que, associado às correntes SWNE, erode o lado interno da ilha. A abertura e expansão do Valo Grande,
+através do Rio Ribeira de Iguape, ao qual teve sua foz alterada, tendo 2/3 de
+seu fluxo de água “drenado” por este canal, e os materiais erodidos, carreados
+e liberados no Mar Pequeno até seu encontro com o Oceano Atlântico, entre
+Iguape e Ilha Comprida, é responsável pela adição anormal de sedimentos
+nesta porção do complexo estuarino-lagunar, originando uma nova “foz” ao rio.
+Porém, devido a essa intervenção, o canal do Valo Grande que descarrega seu
+fluxo de água doce no canal estuarino-lagunar do Mar Pequeno, acabou
+transformando-se numa extensão do próprio rio Ribeira do Iguape, com fluxo
+de água doce predominando onde a água deveria ser salobra, alterando não
+apenas as características geomorfológicas da área de Ilha Comprida e Iguape,
+mas também sua função e características naturais de Lagamar, enquanto
+complexo estuarino-lagunar, causando grandes problemas ao equilíbrio
+biogeográfico
+
+da
+
+área,
+
+interferindo
+
+diretamente
+
+nos
+
+mangues
+
+e,
+
+consequentemente, na reprodução de mexilhões, ostras, camarões e peixes
+como robalos e manjubas, ou seja, havendo um impacto para as comunidades
+locais dependentes da pesca e da produção de mariscos.
+
+67
+
+Do mesmo modo que os sedimentos retirados das bermas externas
+pelas correntes de deriva do outro lado da ilha, estes sedimentos erodidos pelo
+canal são carreados e depositados na porção NE, na Barra der Icapara, que
+aumenta gradativamente de tamanho. Ao contrário do lado externo da ilha,
+estes processos são desencadeados como conseqüência de uma intervenção
+antrópica (Valo Grande), mais do que por dinâmicas naturais.
+
+Figura 29 - Barrancas do Mar Pequeno sofrendo processo de retrogradação (erosão) na porção oeste de
+Ponta de Icapara. Autor: Alba, 2016
+
+Figura 30 - Campo de dunas transgressivas, localizado na porção mais estreita de Ilha Comprida. Autor:
+Alba, 2016
+
+68
+
+Tal área está sofrendo um acelerado processo de “estrangulamento”, já
+que está ocorrendo retrogradação tanto do lado das bermas (lado oceânico)
+quanto do lado das barrancas (fluvial). Pouco menos de 2 km separam o
+Oceano Atlântico do canal do Mar Pequeno, sendo possível avistar a outra
+margem onde se localiza Iguape e o Oceano Atlântico do alto mesmo das
+dunas mais baixas. O processo de erosão do campo de dunas contribui em
+muito com material sedimentar que está sendo retrabalhado tanto na Ponta de
+Icapara como no outro lado, em Barra de Icapara. As bermas coincidindo com
+a linha de dunas demonstram como o processo erosivo marinho está
+avançando sobre esta área.
+
+Figura 31 - Foto de construção sendo erodida ao longo das barrancas do Mar Pequeno.
+Autor: Alba, 2016
+
+É possível notar o comprometimento das instalações de uma casa que,
+até pouco tempo atrás, localizava-se às margens do canal, e hoje, é vitimada e
+“engolida” pela erosão intensa que ocorre em tal área, contribuindo com
+material que é retrabalhado ao longo do complexo estuarino-lagunar.
+O fluxo do Mar Pequeno, carregado de sedimentos das barrancas,
+juntamente com as correntes de deriva, responsável pelo carreamento de
+sedimento praial se encontram na “foz preferencial” do rio, em sua jusante,
+dando origem a uma complexa área de feições geomorfológicas instáveis,
+desencadeando fenômenos estes que ocorrem de forma muito rápida e abrupta
+
+69
+
+quando associadas às características climáticas, geológicas, geomorfológicas,
+junto ao traçado do próprio Rio Ribeira de Iguape e do canal do Mar Pequeno,
+associados à intervenção humana (canal do Valo Grande, loteamento e
+construção de moradias em áreas impróprias).
+A movimentação das dunas e a modificação da linha costeira em Ilha
+Comprida estão geneticamente interligadas à dinâmica climática. Sua posição
+no sentido NE–SW é uma condicionante fundamental na compreensão das
+modificações na linha de costa com o Oceano Atlântico, sendo neste caso, o
+fator “Valo Grande”, um condicionante secundário, com exceção da confluência
+de dinâmicas ocorridas junto ao encontro da “foz” do Rio Ribeira de Iguape e
+as águas oceânicas, na desembocadura do Mar Pequeno- Ponta de Icapara.
+Estes
+
+processos
+
+erosivos
+
+nos
+
+dois
+
+lados
+
+de
+
+Ilha
+
+Comprida,
+
+externamente pelas correntes de deriva e internamente pelo canal do Valo
+Grande vão resultar em acreções sedimentares na ponta da ilha, como
+mostramos no mapa evolutivo (seção 5.1).
+
+Figura 32 - Imagem tirada na foz do Rio Ribeira de Iguape, em sua margem esquerda (município de Iguape)
+podendo ser avistado ao fundo a Ponta de Icapara, zona de acreção localizada no norte de Ilha Comprida.
+Autor: Alba, 2016
+
+No encontro de águas salobras, na intersecção da foz com o oceano,
+está havendo um estreitamento entre o istmo localizado em Iguape e o
+alongamento da ponta NE de Ilha Comprida (Barra de Icapara), devido ao
+
+70
+
+retrabalhamento de todo material sedimentar erodido ao longo dos dois lados
+da ilha e carreados para este ponto. Desta forma, ambas as margens, em
+processo de acreção, tendem a estreitar o fluxo da jusante, tornando o canal
+mais profundo.
+Nesta área são comuns bancos de areia e feições geomorfológicas
+instáveis, como ilhotas, que se formam em curto espaço de tempo e tendem a
+desaparecer ou se aglutinar, devido ao dinâmico processo que ocorre em tal
+porção do complexo estuarino-lagunar.
+
+Figura 33 - Ponta de Icapara, de onde é possível notar uma “zona de arrebentação” alguns metros à frente da margem
+direita do local. Tal formação de ondas deve-se ao fato de ali, se encontrar um banco de areia, obstáculo semisubmerso, que serve de anteparo às correntes de deriva. Autor: Alba, 2016
+
+Em campo, é muito visível e de grande destaque o processo de acreção
+(progradação) de Ponta de Icapara, já na jusante do lagamar, juntamente com
+a progradação de Barra de Icapara (istmo localizado na outra margem da
+jusante, no município de Iguape). É notável o grau de instabilidade de tal área,
+onde a dinâmica dos processos geomorfológicos é muito complexa, sendo
+possível,
+
+através
+
+da
+
+leitura
+
+e
+
+interpretação
+
+dos
+
+mapas
+
+elaborados,
+
+identificarmos tanto a formação como o desaparecimento de feições
+geomorfológicas, notadamente ilhotas e bancos de areia.
+O que se pode concluir destas observações de campo é muito claro. A
+Ilha Comprida constitui-se de um ambiente de alta fragilidade natural e
+
+71
+
+fortemente
+
+instável,
+
+características
+
+que
+
+foram
+
+potencializadas
+
+tanto
+
+historicamente com a construção de Valo Grande, como pelas mais recentes
+formas de uso e ocupação que não consideram adequadamente estas
+fragilidades, agravando-as.
+
+5.3 Prognóstico para os próximos 10 anos
+A melhor maneira de prever o futuro é criá-lo
+Peter Druckner
+
+Com base na análise evolutiva da ilha entre 1987 e 2011 apoiada
+tecnicamente pela interpretação de imagens (Item 5.1), assim como nas
+observações em campo da dinâmica atual (item 5.2), foi possível elaborar um
+prognóstico para os próximos 10 anos focando, especificamente, as áreas que
+sofrerão acreção e as que sofrerão erosão.
+Na análise evolutiva, foram medidas as áreas que cresceram e que
+diminuíram no período estudado. Isto permitiu-nos encontrar uma taxa anual,
+tanto de perda como de ganho de área. Considerando estas mesmas taxas
+anuais, pudemos prognosticar como será a ilha daqui a 10 anos. Neste caso,
+sendo contínuo o processo de retirada e retrabalhamento de sedimentos nesta
+porção da ilha, e de acordo com as aferições neste intervalo de 24 anos, Ilha
+Comprida deverá ser dividida, em breve, em duas porções: a Ponta de Icapara,
+onde ocorre um acelerado e complexo processo de progradação de área,
+decorrente do material erodido, carreado e retrabalhado tanto pelas correntes
+de deriva no Atlântico como pelas águas pluviais da bacia do Rio Ribeira de
+Iguape, e por outro lado, a continuação da área da ilha desde esta área
+seccionada até Cananéia. Outra tendência constatada na observação do mapa
+que salienta o dinâmico processo de erosão e acreção local é que Ponta de
+Icapara, em Ilha Comprida e Barra de Icapara, o istmo do lado do município de
+Iguape, estão em um processo de “aproximação” contínuo, sendo que tanto a
+“ponta” de um lado quanto a do outro passam por um fenômeno de
+progradação de área, ou seja, aumento de suas porções terrestres, devido ao
+retrabalhamento dos sedimentos carreados até a atual foz. Consequentemente,
+
+72
+
+o estreitamento da jusante acarreta um processo no qual o fluxo d´água tende
+a aprofundar a “calha” de escoamento do rio, já que as margens se
+aproximando uma da outra criam empecilho para o deságue de água doce para
+o oceano, gerando condições propícias para mais acreção e retrabalhamento
+de sedimentos nas duas margens, pois, devemos também levar em
+consideração a condicionante da variação na altura das marés, que também
+altera o processo deposicional dos sedimentos carreados até o oceano.
+É flagrante também o desaparecimento de vastas áreas erodidas e
+retrabalhadas nesta complexa área de condições geomorfológicas muito
+instáveis. Em especial, nas duas últimas décadas, o desaparecimento, ou seja,
+a retrogradação ou erosão de uma ampla área que se estendia desde a
+margem continental de Iguape até a proximidade da linha costeira de Barra de
+Icapara, já adentrando o Oceano Atlântico e que hoje não existe mais, cedeu
+espaço para o contínuo processo de “aproximação” entre o istmo de Barra de
+Icapara, em Iguape e a Ponta de Icapara, em Ilha Comprida.
+A se considerar o processo analisado contínuo, em poucas décadas
+haverá a junção entre as duas partes de Icapara (juntando o município de
+Iguape à parte seccionada de Ilha Comprida), e, por sua vez, o
+desenvolvimento de uma nova “jusante” para as águas doces do Mar Pequeno,
+desta vez através da abertura criada pela secção de Ilha Comprida na área de
+dunas transgressivas, cerca de 2,5 km ao sul da atual desembocadura.
+O surgimento e desaparecimento de ilhotas, tanto ao longo do Mar
+Pequeno, mas principalmente na jusante do lagamar, é constante, a se
+observar o comportamento das feições geomorfológicas locais na projeção
+elaborada tendo como base a observação das imagens de satélite durante o
+período de 1985 até 2011.
+De acordo com as inferências relativas à elaboração do mapa de
+projeção, até 2021, se fazem necessários estudos mais aprofundados no que
+concerne à batimetria, comportamento oceanográfico, climático, hidrográfico,
+vegetacionais, além das futuras alterações antrópicas, de forma a analisar o
+contexto geomorfológico em diversas frentes abarcando diferentes táxons, de
+maneira a corroborar e colaborar na melhor compreensão dos fenômenos
+ocorridos e melhorar a aferição de tais prognósticos, procurando mitigar os
+impactos ambientais e sociais do complexo estuarino-lagunar.
+
+73
+
+Evidentemente, estamos nos apoiando em um dos pressupostos do
+raciocínio indutivo, pelo qual se afirma que, se as condições se mantiverem as
+mesmas, podemos esperar os mesmos resultados. Isto que dizer que se novas
+variáveis se inserirem no contexto da ilha, seja como novas intervenções
+inadequadas à dinâmica natural, ou como forma de obras corretivas, isto pode
+alterar o prognóstico aqui elaborado. Em outras palavras, ele será tanto mais
+fidedigno quanto mais estáveis se mantiverem as condições atuais, sem novas
+intervenções. O resultado deste prognóstico foi sistematizado num mapa
+produzido em ambiente ArcGis, como se segue.
+
+Figura 34 – Mapa de projeção da Ilha Comprida para os próximos 10 anos. Alba, 2016.
+Ver versão maior no Apêndice 2.
+
+A despeito de possíveis interferências que poderão alterar este
+prognóstico, ainda assim ele se reveste de um forte caráter pragmático,
+
+74
+
+especialmente para subsidiar o poder público em suas ações corretivas e
+preventivas. Do mesmo modo, este mapa pode influenciar o mercado
+imobiliário, já que aponta as áreas que serão mais erodidas e as que estariam
+seriamente ameaçadas, a exemplo de ocorrências recentes que continuam
+alterando fortemente a paisagem3. Assim, acreditamos ser este prognóstico um
+dos principais produtos desta pesquisa, já que pode subsidiar o planejamento
+do uso e ocupação da ilha.
+
+6 CONCLUSÕES E REFLEXÕES FINAIS
+
+Considerando que esta pesquisa buscou compreender a dinâmica da
+linha costeira de Ilha Comprida com base na Teoria da Ecodinâmica de Tricart,
+podemos afirmar que, inicialmente, este objetivo foi parcialmente alcançado.
+Isto se deveu pelo fato de que, no decorrer da pesquisa, durante a descrição
+da paisagem e com os trabalhos de campo realizados, pudemos constatar que
+as dinâmicas observadas foram desencadeadas por importantes intervenções
+antrópicas, notadamente a abertura do denominado “Valo Grande”, um canal
+construído no em meados do século XIX, que a princípio, parecia ser a mais
+importante obra de engenharia do país, já que encurtava o caminho entre os
+arrozais e o Porto de Iguape, através de uma abertura que interliga o Rio
+Ribeira de Iguape, por aonde vinham os barcos com a produção de arroz, até
+o canal do Mar Pequeno. Tal obra resultou no processo de desestabilização de
+grande parte do complexo estuarino-lagunar, com grandes e graves
+implicações especialmente na porção norte de Ilha Comprida, contribuindo
+também para a potencialização deste “desastre” a série de loteamentos
+iniciada a partir de 1950 e a especulação imobiliária ocorrida de forma mais
+intensa a partir dos anos de 1970.
+Outra interferência antrópica que merece atenção concerne à própria
+delimitação da APA de Ilha Comprida, na qual foram consideradas e
+contempladas áreas propícias para a urbanização de forma imprópria,
+3
+
+Disponível em: < http://g1.globo.com/sp/santos-regiao/noticia/2016/09/ressaca-destroi-pousada-e-paisagem-emodificada-em-sp-estrago-gigante.html >. Acessado em: 20 setembro, 2016. Disponível também no Anexo 1, p. 86.
+
+75
+
+abrangendo
+
+porções
+
+da
+
+ilha
+
+extremamente
+
+frágeis
+
+e
+
+instáveis
+
+geomorfologicamente.
+Tais fatos fizeram emergir as limitações da Ecodinâmica de Tricart, já
+que nesta teoria há uma predominância dos fatores naturais como
+preponderantes na classificação entre áreas estáveis, intergrades e fortemente
+instáveis. Segundo Tricart, para a análise de paisagens costeiras, há uma
+predominância dos agentes climáticos para sua definição taxonômica. São
+eles: 1. Frequência dos ventos; 2. Velocidade dos ventos; 3. Orientação dos
+ventos em relação à costa; 4. Frequência e energia das tempestades; 5.
+Suprimento de areia; 6. Vegetação. De certa forma, tal teoria pareceu
+insuficiente para abarcar toda a complexidade da área de estudo contemplada
+na pesquisa. Podemos afirmar, então, que a Teoria da Ecodinâmica de Tricart
+foi mais eficiente na explicação dos processos que ocorrem do lado externo da
+ilha, decorrentes de processos mais naturais.
+Contudo, considerando a importância das intervenções antrópicas no
+desencadeamento dos processos do lado interno da ilha (juntamente com as
+características
+
+pedológicas,
+
+geológicas,
+
+geomorfológicas,
+
+hidrológicas,
+
+climáticas, vegetacionais) para podermos caracterizar e compreender a
+dinâmica e o grau de susceptibilidade de tal paisagem costeira, houve a
+necessidade de trazer para a pesquisa em uma outra proposta conceitualmetodológica que abarcasse todas as variáveis presentes no estudo.
+Desta forma, encontramos em Ross (2002), através da análise conjunta
+de 6 táxons distintos, a proposta adequada onde é possível compreendermos a
+dinâmica paisagística dos sistemas ambientais costeiros de modo que contemple
+adequadamente todas as variantes envolvidas no processo. São elas:
+geomorfologia, mapeamento do uso da terra, bacia hidrográfica, unidades de
+conservação, aspectos socioeconômicos e comportamento hidroclimático.
+Ao final, utilizando o embasamento teórico-conceitual de Ross e de Tricart
+de forma combinada, foi possível compreender de forma mais abrangente a
+dinâmica veloz e instável que ocorre na Barra de Icapara, na ponta da ilha, já
+que resulta da convergência dos processos descritos nos dois lados da ilha. Com
+base na compreensão desta dinâmica, é possível auferir os impactos
+decorrentes, não apenas do ponto de vista geomorfológico, mas no que
+
+76
+
+concerne aos impactos na sociedade e diretamente na população que habita o
+lagamar da porção norte do complexo estuarino-lagunar.
+Foi pensando nisso que elaboramos uma projeção da área de estudo,
+cuja aferição baseou-se no comportamento da linha costeira da região durante
+um intervalo de 24 anos (1987 até 2011), utilizando-se como parâmetros a
+delimitação das áreas de acreção e erosão e calculando-se a taxa média anual
+de “retirada de material” ou “acréscimo de material” em hectares, juntamente
+com o retrabalhamento de tais sedimentos ao longo da linha de costa, sendo
+possível obter um prognóstico visual da área, inferindo algumas modificações
+geomorfológicas do que é possível acontecer até o ano de 2021.
+Assim, através do cruzamento de informações levantadas durante a
+pesquisa, com a elaboração de um mapa de erosão e acreção da área de estudo
+durante o levantamento do comportamento geomorfológico da área durante um
+período de 24 anos, juntamente com as inferências da projeção do formato da
+ilha e suas áreas adjacentes num prazo de 10 anos, foi possível traçarmos um
+prognóstico do que ocorrerá no complexo estuarino-lagunar em curto prazo.
+A Teoria da Ecodinâmica de Tricart ajudou numa compreensão parcial
+da paisagem, sendo caracterizada como meio fortemente instável, porém,
+através dos estudos de Ross e Moroz tal entendimento da paisagem pôde ser
+mais bem analisado, já que tais autores compreendem a dinâmica da paisagem
+de maneira multiescalar. Fenômenos que ocorrem localmente necessitam de
+uma abordagem em outras escalas, de forma a explicar a dinâmica da
+paisagem costeira em estudo (acreção, erosão, progradação e retrogradação
+costeira) através da melhor compreensão de processos e fenômenos
+multiescalares, como no caso das correntes marinhas e da dinâmica
+atmosférica global para dar respostas mais satisfatórias a respeito do assunto
+abordado.
+Assim, com a complementação das teorias de Tricart e Ross, apoiadas
+empiricamente com as observações de campo, conseguimos produzir uma
+satisfatória compreensão daquela paisagem, de modo que podemos considerar
+que o objetivo central foi alcançado.
+
+77
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+AB´SABER, A.N. Os Domínios de Natureza no Brasil – Potencialidades
+Paisagísticas. São Paulo: Ateliê Editorial, 2003.
+AB’SABER, A. N. Fundamentos da Geomorfologia Costeira do Brasil Atlântico
+Inter e Subtropical. Revista Brasileira de Geomorfologia, Rio de Janeiro, v.1,
+n.1. Nov. 2000. p.27-43.
+AB’SABER, A. N. Litoral do Brasil. São Paulo: Metalivros, 2003
+
+BERTALANFFY, L. Teoria Geral dos Sistemas. Trad. F. M. Guimarães.
+Petrópolis: Vozes, 1973.
+
+BERTRAND, G. Paisagem e Geografia Física Global: esboço metodológico.
+São Paulo: Revista IG-USP (Caderno de Ciências da Terra, n.13), 1971.
+
+BESNARD, W. Considerações gerais em tomo da região lagunar de Cananéialguape. 11. Diversos aspectos atuais da região lagunar. Bobn Instituto Paulista
+Oceanográfico, 1(2): p. 3-28, 1950.
+
+CAMPOS W. W. Análise e mapeamento da estrutura da paisagem da Ilha
+Comprida, no litoral sul de São Paulo. Dissertação de mestrado. Universidade
+de São Paulo, FFLCH, 2013.
+
+CHORLEY, R. J. A Geomorfologia e a Teoria dos Sistemas Gerais. Campinas:
+Notícias Geomorfológicas, n.11. 1971.
+
+CHRISTOFOLETTI. Geomorfologia. 1 ed. São Paulo: Edgard Blücher, 1974.
+
+DAVIS, W. M. O ciclo geográfico. EUA: 1899 (trad. Novello, L.L.)
+
+DELPOUX, Marcel. Ecossistema e Paisagem. São Paulo: Revista do IG-USP
+(Métodos em Questão, n.7), 1974.
+
+78
+
+ERHART, H. Teoria bio-resistásica e os problemas biogeográficos e
+paleobiológicos. Campinas: Revista Notícia Geomorfológica, n. 11, 1966.
+
+FILHO L. S. L. A competência do município na zona costeira urbana. Tese de
+doutorado da Faculdade de Direito – Universidade de São Paulo, 2014.
+
+FRANÇA C. F.; SOUZA FILHO, W. M. Análise das mudanças morfológicas
+costeiras de médio período na margem leste da Ilha de Marajó (PA) em
+imagem Landsat. Revista Brasileira de Geociências, 33. 2003.
+
+HESP. P. A Gênese de cristais e dunas frontais Geography and Anthropology
+Louisiana State University Mercator - Revista de Geografia da UFC, ano 01,
+número 02, 2002.
+
+KAWAKUBO F. S.; MORATO R. G.; CAMPOS K. C.; LUCHIARI A.; ROSS J. L.
+S.
+
+Caracterização
+
+empírica
+
+da
+
+fragilidade
+
+ambiental
+
+utilizando
+
+geoprocessamento. Anais XII Simpósio Brasileiro de Sensoriamento Remoto,
+Goiânia 16 a 24 de abril 2005 INPE p. 2203-2210. 2005.
+
+LIMA C. O. Compartimentação geomorfológica para o município de Ilha
+Comprida – SP. TCC de Geografia da Unicamp. Campinas, 2011.
+LIMA, N. G. B. Análise microclimática dos manguezais da Barra do RibeiraIguape/SP. 2009. Dissertação (Mestrado em Geografia Física) – Faculdade de
+Filosofia Letras e Ciências Humanas, Universidade de São Paulo, 2009.
+LUHMANN N. Sistemas Sociales: lineamentos para uma teoria general. Alianza
+Editorial/Universidad Iberoamericana, México, 1991.
+
+HENRIQUE, W.; MENDES, I. A. Zoneamento Ambiental em Áreas Costeiras:
+uma Abordagem Geomorfológica. In GERARDI, L. H. O.; MENDES, I. A. (orgs).
+Teoria, Técnicas, Espaços e Atividades: Temas de Geografia Contemporânea.
+Rio Claro: Programa de Pós-Graduação em Geografia UNESP/Associação de
+
+79
+
+Geografia Teorética - AGETEO, 2001. Parte II Espaços e Atividades. p.199222. Disponível em: http://www.ageteo.org.br/download/livros/2001/09_Henrique.pdf
+
+MAHIQUES, M. M.; SUGUIO, K.; TESSLER, M. G.; FURTADO, V. V. &
+EICHELER, B. B. 1990. Parâmetros oceanográfico - geológico geomorfológicos
+de interesse na caracterização de ecossistemas costeiros do Estado de São
+Paulo. In: SIMPÓSIO SOBRE ECOSSISTEMAS DA COSTA SUL E SUDESTE
+BRASILEIRA: ESTRUTURA, FUNÇÃO E MANEJO, 2. Águas de Lindóia, 1990.
+Anais. São Paulo, ACIESP, 71(1):142-150. 1990.
+
+MONTEIRO, C. A. Análise Rítmica em Climatologia. Instituto de Geografia,
+Universidade de São Paulo. São Paulo. 1971.
+
+MONTEIRO, C. A. de F. A dinâmica climática e as chuvas no Estado de São
+Paulo: estudo geográfico sob a forma de Atlas. São Paulo: IG/USP, 1973.
+
+OLIVEIRA, J. B. Solos do Estado de São Paulo: descrição das classes
+registradas no mapa pedológico. In: Boletim Científico, n.45, Instituto
+Agronômico, Campinas, 1999.
+
+PONÇANO W. L. Sedimentação atual aplicada a portos do Brasil. Tese de
+doutorado. Universidade de São Paulo, Instituto de Geociências. 278p. 1985.
+
+RIBEIRO L. V; DUPONT H.; BODEVAN C; LUCIO P.S.; Direção de Transporte
+Sedimentar na Desembocadura do Rio Itanhaém, Extremo Sul da Bahia.
+Aplicação do método de GAO & COLLINS e krigagem vetorial. GEONOMOS 8
+(2): 9-18
+
+ROSS, J. L. S.; MOROZ, I. C. Mapa Geomorfológico do Estado de São Paulo.
+São Paulo: IPT/FAPESP, 1997.
+ROSS, J. L. S. A morfogênese da bacia do Ribeira de Iguape e os sistemas
+ambientais. São Paulo: GEOUSP, vol.12, p.21-46, 2002.
+
+80
+
+ROSS, J. L. S. Ecogeografia do Brasil: subsídios para planejamento ambiental.
+São Paulo: Oficina de textos, 2006
+
+SANTOS V. C. Alterações ambientais no município de Ilha Comprida, SP:
+Estudo de caso da comunidade caiçara do bairro Pedrinhas. Campinas 2012
+
+SÃO PAULO (Estado). Secretaria do Meio ambiente / Coordenadoria de
+Planejamento Ambiental. Zona Costeira Paulista: Relatório de Qualidade
+Ambiental 2012. Org.: Fabiano Eduardo L. Figueiredo. São Paulo: SMA/CPLA,
+2012.
+
+SETZER, J. Atlas Climático e Ecológico do Estado de São Paulo. São Paulo:
+Comissão Interestadual da Bacia Paraná-Uruguai, 1966.
+
+SOUZA, C. R. A Erosão nas Praias do Estado São Paulo: Causas,
+Conseqüências, Indicadores de Monitoramento e Risco. São Paulo: Instituto de
+Botânica, 2009.
+
+SOUZA, C. R. Praias arenosas oceânicas do estado de São Paulo (Brasil):
+síntese dos conhecimentos sobre morfodinâmica, sedimentologia, transporte
+costeiro e erosão costeira Revista do Departamento de Geografia - USP,
+Volume Especial 30 Anos, p. 308-371. 2012.
+
+SOUZA, L. A. P. A planície costeira Cananéia - Iguape, litoral sul do Estado de
+São Paulo: um exemplo de utilização de métodos geofísicos no estudo de
+áreas costeiras. Dissertação de mestrado. Universidade de São Paulo, Instituto
+Oceanográfico. 207p. 1995.
+
+SOUZA, C. R.; HIRUMA, S. T.; SALLUN, A. E. M.; RIBEIRO, R. R.;
+SOBRINHO, J. M. A. Restinga, conceitos e empregos do termo no Brasil e
+implicações na legislação ambiental, Instituto Geológico, São Paulo, 2008.
+
+81
+
+SUGUIO, K. & MARTIN, L. Formações Quaternárias Marinhas do Litoral
+Paulista e Sul Fluminense. In: International Symposium on Coastal Evolution in
+the Quaternary, n.I, p.1-55. São Paulo, 1978.
+
+SUGUIO, K. & MARTIN, L. Brazilian coastline quaternary formations: the State
+of São Paulo and Bahia littoral zone evolutive schemes. Anais da Acad. Bras.
+de Ciências., 48:325-334. 1976.
+
+SUGUIO, K. Tópicos de geociências para o desenvolvimento sustentável: as
+regiões litorâneas. Geologia USP: Série Didática, v.2, n.1, p.1-40. 2003.
+Disponível: < http://www.igc.usp.br/geologiausp/downloads/geoindex598.pdf >
+
+TESSLER, M. G. Sedimentação atual na região lagunar de Cananéia-lguape,
+Estado de São Paulo. Dissertação de mestrado. Universidade de São Paulo,
+Instituto de Geociências. 1982.
+
+TOMAZELLI l.; DILLENBURG J.; BARBOZA S. R.; ROSA E. G.; CAMARA M.
+L. C. Geomorfologia e potencial de preservação dos campos de dunas
+transgressivos de Cidreira e Itapeva, litoral norte do Rio Grande do Sul. Porto
+Alegre. Revista Pesquisas em Geociências. Vol. 35, n.2 p.47-55, 2008.
+
+TRICART J. Ecodinâmica. Superintendência de Recursos Naturais e Meio
+Ambiente – SUPREN. Rio de Janeiro, 1977.
+
+TOMINAGA, L. K. ; SANTORO, J. ; AMARAL, R. Desastres Naturais: conhecer
+para prevenir. Instituto Geológico, Secretaria do Meio Ambiente . São Paulo,
+2009
+VENTURI, L. A. B. Geografia – práticas de campo, laboratório e sala de aula.
+São Paulo: Editora Sarandi, 2011.
+
+TESSLER, M. G. Dinâmica sedimentar quaternária no litoral sul-paulista. Tese
+de doutorado. Universidade de São Paulo, Instituto de Geociências. 276p.
+1988
+
+82
+
+APÊNDICES
+
+83
+
+APÊNDICE 1 - Mapa da evolução da Ilha Comprida
+
+84
+
+APÊNDICE 2 - Mapa de projeção da Ilha Comprida para os próximos 10 anos
+
+85
+
+APÊNDICE 3 – Entrevistas realizadas no primeiro trabalho de campo.
+
+Durante o primeiro trabalho de campo, realizado nos dias 19 e 20 de
+dezembro de 2015, foram coletados alguns depoimentos orais de moradores
+da região sobre a percepção das modificações na paisagem local. Aqui se
+seguem a transcrição de alguns trechos:
+Primeiro depoimento: Dona Aparecida, proprietária de quiosque na praia.
+Nascida no Paraná, foi “tentar a sorte” em Ilha Comprida há 26 anos. Relatou
+que a impressão que ela tem é que desde que ela adquiriu o quiosque, a praia
+“cresceu” e o mar ficou “mais longe”.... segundo ela, “antigamente o mar ficava
+aqui na frente do quiosque e hoje em dia tá lá longe”.... além do que, “o
+quiosque ficava mais no alto, depois tinha uma descida e você já “caía” na
+água....mudou muito a praia desde que vim pra cá” . Segundo Aparecida, “hoje
+tá tudo plano....sumiu o morrinho, o mato, plantas...” e que “ a praia tá mais
+longe, mas a maré chega agora até o quiosque e alaga tudo mesmo....hoje em
+dia é normal a água ir parar lá na rua” ( Avenida Beira Mar).
+Segundo depoimento: Funcionário de restaurante na Avenida São Paulo.
+Com apenas 19 anos, nasceu e sempre morou em Ilha Comprida. Ao ser
+questionado sobre a paisagem da área, disse que seria melhor eu perguntar
+pra quem mora perto do Mar Pequeno ou do lado de Iguape, ou então ir visitar
+a Ponta de Icapara, porque, segundo o rapaz “muita desgraça já aconteceu por
+lá... coisa de casa sumir do dia pra noite e a água do rio levar tudo”. Segundo
+este morador, quando era criança, andava de bicicleta e ia até o “final da ilha”
+onde havia restaurantes e quiosques próximos à praia, e que “hoje em dia o
+mar tomou conta de tudo...virou um lugar fantasma... só tem resto de
+construção daquela época... você que tá estudando isso precisa ir lá ver...o
+que tinha naquela época, hoje tá debaixo d´água ou o mar levou uma parte”.
+Outras moradores deram depoimentos parecidos, sempre relatando as casas e
+estabelecimentos comerciais próximos da praia que foram “invadidos e levados
+pelo mar”
+
+86
+
+ANEXO 1 – Reportagem sobre ressaca e destruição em Ilha Comprida.
+
+Ressaca destrói pousada e paisagem é modificada em SP:
+'Estrago gigante' 19/09/2016 05h21 - Atualizado em 19/09/2016 07h09
+Fenômeno mudou a paisagem em Ilha Comprida durante o fim de semana. Pedras de contenção foram
+arrastadas e chegaram na avenida principal. Mariane Rossi Do G1 Santos
+
+Pousada foi
+'levantada' pela água do mar em Ilha Comprida, SP (Foto: Ricardo Luiz/Arquivo Pessoal)
+
+Uma pousada foi arrastada e completamente destruída pela água do mar durante uma
+ressaca que ocorreu durante todo o fim de semana em Ilha Comprida, no litoral de São
+Paulo. Várias casas também foram atingidas pela força da maré e os moradores ainda
+contabilizavam, nesta segunda-feira (19), todos os estragos. Boa parte da paisagem na
+orla foi modificada pela maré.
+A forte ressaca atingiu o bairro Ponta da Praia, onde a faixa de areia tem sofrido
+alterações nos últimos anos por causa do avanço do mar. A pousada ‘Filhas do Sol’, que
+estava vazia no momento do colapso, foi destruída pela força das ondas. De acordo com
+testemunhas, a água entrou e arrebentou o piso do imóvel, o que fez a pousada tombar
+para o lado e ficar inclinada. A ressaca derrubou pilastras e paredes e fez também fez o
+telhado desmoronar, arrastando parte da estrutura para o alto mar.
+Segundo os moradores da região, a pousada estava cheia de móveis, eletrodomésticos e
+armários, que ficaram completamente estragados. O local estava fechado devido a baixa
+temporada e, por esse motivo, não havia ninguém na pousada na hora da ressaca.
+
+87
+
+Paredes e pilastras não aguentaram a ressaca (Foto: Ricardo Luiz/Arquivo Pessoal)
+
+O marceneiro Ricardo Luiz de Carvalho, de 40 anos, mora em Iguape, uma cidade
+vizinha. Durante o fim de semana, ele foi pescar em Ilha Comprida e ficou assustado
+com o cenário que encontrou na Ponta da Praia.
+“Eu fiquei mais impressionado pela pousada, destruiu tudo lá. O mar invadiu, por causa
+da ressaca. Ao lado da pousada também teve um bar que estava caído. Fez um estrago
+gigante. Outras casas caíram, foi tudo para dentro do mar. O mar jogou a sujeira todo
+para cima do asfalto. Eu já tinha visto isso acontecer. Quando a casa fica em risco, eles
+(moradores) já desmontam tudo. Mas, na pousada não foi isso que aconteceu”, conta.
+
+Piso da pousada ficou destruído e paredes estão rachadas
+(Foto: Ricardo Luiz/Arquivo Pessoal)
+
+88
+
+Segundo a Prefeitura de Ilha Comprida, além do hotel, várias casas foram invadidas
+pela água. As famílias tiveram danos materiais, porém, depois que a água abaixou, elas
+voltaram para as moradias.
+Grandes pedras, colocadas na areia para conter a ação do mar, foram levadas pela
+ressaca e rolaram até a avenida Beira-Mar. Galhos, troncos de árvores e pedaços de
+materiais de construção ficaram espalhados pela areia da praia e em parte da avenida.
+Equipes da prefeitura trabalharam durante o fim de semana para retirar as pedras e
+limpar o local. Ainda segundo a prefeitura, não há dados sobre o nível da maré durante a
+ressaca do fim de semana.
+Histórico
+Em junho deste ano, uma forte ressaca também foi registrada na cidade. A água do mar
+invadiu algumas casas e destruiu parte de um muro. Uma das casas que fica em frente a
+Ponta da Praia foi atingida. A ressaca destruiu parte de um muro e invadiu o quintal,
+quebrando também a cerca de uma horta.
+
+Construção ficou destruída com força da ressaca (Foto: G1)
+
+Ressaca fez estrago em praia de Ilha Comprida, SP (Foto: G1)
+
+

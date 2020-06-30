@@ -1,0 +1,2691 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINA DE RIBEIRÃO PRETO
+
+CIÊNCIAS BIOMÉDICAS
+
+VINICIUS DA SILVA NARESSE
+
+CULTIVO E OBTENÇÃO DE VLP DE VÍRUS CHIKUNGUNYA
+
+SÃO PAULO
+2018
+
+VINICIUS DA SILVA NARESSE
+
+CULTIVO E OBTENÇÃO DE VLP DE VÍRUS CHIKUNGUNYA
+
+Monografia apresentada ao curso de Ciências
+Biomédicas, da Faculdade de Medicina de
+Ribeirão Preto, da Universidade de São Paulo,
+como requisito para obtenção do título de
+Bacharel em Ciências Biomédicas, Ênfase em
+Biotecnologia em Saúde.
+
+Orientador: Dr. Renato Mancini Astray
+
+São Paulo
+2018
+
+Aos meus pais, Gilberto e Maria Zenilda e minha irmã por todo amor e apoio
+incondicional!
+
+AGRADECIMENTOS
+A todos os meus familiares, especialmente minha irmã que apesar da distância
+constante sempre estiveram me ajudando.
+
+A cada um da família Turma 1, por mostrar que apesar de poucos nós podemos
+construir muitas coisas.
+
+Agradeço a família CB, a qual vejo crescer e ocupar um lugar de destaque a cada ano
+que passa me enchendo cada vez mais de orgulho.
+
+A todos os amigos do LIV, que entre muitas risadas ajudaram na minha evolução
+pessoal e profissional.
+
+Ao Renato, por possuir uma dedicação e paciência em ensinar que conheci em
+poucos.
+
+Aos amigos, que apesar das distâncias e da minha ausência sempre me apoiaram e
+incentivaram.
+
+Agradeço também a todos os funcionários e professores da FMRP que através do seu
+conhecimento de mundo e experiências de vida me possibilitaram chegar onde estou
+hoje.
+
+Ao Instituto Butantan por possibilitar a oportunidade de frequentar um ambiente de
+referência na área de biotecnologia voltada para a saúde.
+
+Agradeço a CNPq pelo auxílio financeiro deste projeto para a iniciação científica.
+
+RESUMO
+O vírus Chikungunya (CHIKV, Togaviridae, Alphavirus) se espalhou pelos trópicos e
+causou surtos em vários países da África, Ásia, Europa e América. A transmissão para
+humanos é promovida por mosquitos do gênero Aedes ssp, particularmente Ae. aegypti
+e Ae. albopictus, duas espécies abundantes em nosso país. A patogênese causada na
+infecção pelo CHIKV manifesta-se primeiro como um estágio agudo de inflamação
+articular grave e doença febril, a qual pode evoluir para um estágio crônico de artrite.
+Diante deste cenário, percebe-se a necessidade da realização de estudos sobre
+estratégias de controle e prevenção da infecção pelo CHIKV, uma vez que não existem
+vacinas ou terapia antiviral específica contra este arbovírus. A principal abordagem deste
+trabalho compreende a expressão das proteínas imunogênicas do CHIKV e sua
+apresentação como partículas semelhantes a vírus (VLP) usando o sistema de células S2
+de Drosophila melanogaster. Uma população de células S2 recombinantes (S2CHIKVHy) foi estabelecida anteriormente, demonstrando habilidade de expressar as proteínas
+de CHIKV na forma de VLP. Este trabalho se concentrou na avaliação de parâmetros
+cinéticos das células S2 adaptadas a diferentes meios de cultura e na análise da produção
+das proteínas de CHIKV. As células foram adaptadas aos meios de cultura IPL-41
+modificado ou Schneider, pelo aumento semanal de uma fração de 10 % do meio de
+cultura final, sendo adicionada ao meio de cultura SF900III, no qual as células estavam
+crescendo originalmente. Após finalizada a adaptação, 2x106 células/mL S2CHIKV-Hy
+foram inoculadas em 20 mL de SF900 III, IPL-41 ou Schneider e crescidas a 28°C. A
+cinética de crescimento celular foi monitorada diariamente pela análise do crescimento e
+expressão das proteínas de Chikungunya nas células e sobrenadantes. A expressão das
+proteínas do CHIKV foi analisada por Western blot, imunofluorescência e citometria de
+fluxo. Inicialmente as cinéticas de crescimento revelaram que as células cresceram de
+maneira similar nos meios utilizados para adaptação e no meio original, embora com
+maior quantidade de células final neste último. A maior quantidade de proteína expressa
+foi encontrada em diferentes partes da cinética de crescimento, dependendo do meio
+utilizado. Embora as quantidades de proteínas expressas não tenham sido avaliadas
+quantitativamente, uma comparação relativa mostrou que as células cultivadas em IPL41 e Schneider foram capazes de expressar mais proteínas de CHIKV por célula que em
+SF900III.
+Palavras chave: células S2, Chikungunya, Alphavirus, VLP
+
+ABSTRACT
+The Chikungunya virus (CHIKV, Togaviridae, Alphavirus) has spread through the
+tropics and caused outbreaks in several countries in Africa, Asia, Europe and America.
+The transmission to humans is promoted by mosquitoes of the genus Aedes ssp,
+particularly Ae. aegypti and Ae. albopictus, which are abundantly found in urban areas.
+The pathogenesis caused by CHIKV infection manifests firstly as an acute stage of
+severe joint inflammation and febrile disease, which may evolve to a chronic stage of
+arthritis. It is clear the need to carry out studies on strategies for the control and
+prevention of CHIKV infection, once there are no vaccines or specific antiviral therapy
+against this arbovirus. The main approach of this work comprises the expression of the
+immunogenic proteins of CHIKV and their presentation as virus-like particles (VLP)
+using the S2 Drosophila melanogaster cell system. A recombinant S2 cell population
+(S2CHIKV-Hy) was previously established and showed the ability to express CHIKV
+proteins in the form of VLP. This work concentrated in the evaluation of kinetic
+parameters of recombinant S2 cells adapted to different culture media and in the
+analysis of the expression of CHIKV proteins. The cells were adapted to both
+supplemented IPL-41 and Schneider culture media, by weekly increasing a 10 %
+fraction of the final culture medium to the original SF900 III medium, until cells finally
+adapted to 100 % of final culture medium. After complete adaptation, 2x106 S2CHIKVHy cells were inoculated in 20 mL of SF900-III, IPL-41 or Schneider medium at 28°C
+and a cell growth kinetic was monitored daily by analyzing cell growth and expression
+of Chikungunya’s proteins in the cells and in the supernatant (VLP). Expression of
+CHIKV proteins was analyzed by Western blot, Immunofluorescence and flow
+cytometry. In the first moment, cell growth kinetics revealed a satisfactory result, with
+similar behaviors of S2 grown in SF900III, the original medium, and in media used for
+adaptation of S2CHIKV-Hy cells. The higher protein expression was found in different
+parts of the cell growth kinetics, depending on the medium used. Although the amounts
+of protein were not evaluated quantitatively, a relative comparison showed that cells
+cultivated in IPL-41 and Schneider expressed more CHIKV proteins/cell than in
+SF900III.
+Keywords: S2 cells, Chikungunya, Alphavirus, VLP
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+BSA
+
+Albumina Sérica Bovina
+
+CHIKV
+
+Vírus Chikungunya
+
+CuSO4
+
+Sulfato de cobre
+
+DENV
+
+Vírus da Dengue
+
+DMSO
+
+Dimetilsulfóxido
+
+EEEV
+
+Vírus da Encefalite Equina Oriental
+
+ELISA
+
+Enzyme-linked Immunosorbent Assay
+
+ICTV
+
+International Committee on Taxonomy of Viruses
+
+IgG
+
+Imunoglobulina G
+
+IgM
+
+Imunoglobulina M
+
+MAYV
+
+Vírus Mayaro
+
+ORF
+
+Open Read Frames
+
+OROV
+
+Vírus Oropouche
+
+PBS
+
+Solução Tampão de Salina Fosfatada
+
+PCR
+
+Reação em Cadeia da Polimerase
+
+S2
+
+Célula de Drosophila melanogaster (Schneider S2)
+
+SFB
+
+Soro Fetal Bovino
+
+VEEV
+
+Vírus da Encefalite Equina Venezuelana
+
+VLP
+
+Virus like particle
+
+WHO
+
+Organização Mundial de Saúde
+
+WNV
+
+Vírus West Nile
+
+YFV
+
+Vírus da Febre Amarela
+
+ZIKV
+
+Vírus Zika
+
+LISTA DE FIGURAS
+
+Figura 1. Ciclo biológico dos arbovírus.......................................................................16
+Figura 2. Representação esquemática da organização genômica dos Alphavirus....17
+Figura 3. Representação esquemática do ciclo de replicação dos Alphavirus............18
+Figura 4. Esquema representativo da estrutura dos Alphavirus.................................19
+Figura 5. Tipos de vacinas..........................................................................................24
+Figura 6. Esquema representativo do método de produção de VLP...........................36
+Figura 7. Diagrama representativo da adaptação aos novos meios de cultura...........42
+Figura 8. Cinética de crescimento em meio SF900III.................................................43
+Figura 9. Cinética de crescimento em meio IPL-41 modificado.................................43
+Figura 10. Cinética de crescimento em meio Schneider + 10% SFB..........................44
+Figura 11. Expressão de proteínas estruturais CHIKV no sobrenadante....................45
+Figura 12. Cinética de crescimento celular.................................................................46
+Figura 13. Imunofluorescência para avaliação da expressão de proteína viral...........48
+Figura 14. Expressão de proteínas estruturais de CHIKV em lisado celular...............49
+Figura 15. Gráfico da intensidade de sinal relativa no Dot Blotting.............................50
+Figura 16. Dot blotting para verificar ligação cruzada.................................................65
+Figura 17. Gráfico de absorbância das diluições........................................................67
+
+LISTA DE TABELAS
+
+Tabela 1. Plataformas de produção de VLP e suas vantagens e desvantagens.........26
+Tabela 2. Características dos anticorpos utilizados no IFI..........................................37
+Tabela 3. Composição dos géis utilizados para SDS-PAGE e Western blotting.........38
+Tabela 4. Características dos anticorpos utilizados no (FACS)..................................40
+Tabela 5. Análise de expressão de proteínas de CHIKV em células S2CHIKV-Hy por
+citometria de fluxo.......................................................................................................47
+Tabela 6. Características dos anticorpos utilizados na ELISA....................................67
+
+SUMÁRIO
+1. INTRODUÇÃO........................................................................................................12
+2. REVISÃO BIBLIOGRÁFICA................................................................................... 15
+2.1. Arbovírus............................................................................................................ . 15
+2.2. Genoma, estrutura e replicação dos Alphavirus...................................................16
+2.3 Vírus Chikungunya................................................................................................19
+2.3.1. Sintomas de infecção por CHIKV......................................................................21
+2.3.2. Diagnóstico de CHIKV......................................................................................22
+2.3.3. Tratamento de CHIKV.......................................................................................22
+2.4. Vacinas virais.......................................................................................................23
+2.4.1. Tipos de VLP.....................................................................................................25
+2.4.2 Métodos de produção de VLP............................................................................25
+2.4.2.1. Plantas.......................................................................................................... .27
+2.4.2.2. Bactérias e leveduras.....................................................................................27
+2.4.2.3. Células de mamíferos....................................................................................27
+2.4.2.4. Células de insetos..........................................................................................28
+3. OBJETIVOS............................................................................................................31
+3.1. Objetivo geral.......................................................................................................31
+3.2. Objetivos específicos...........................................................................................31
+4. MATERIAIS E MÉTODOS......................................................................................32
+4.1. Meios de Cultura..................................................................................................32
+4.1.1. SF900III............................................................................................................32
+4.1.2. IPL-41.............................................................................................................. .32
+4.1.3. Schneider..........................................................................................................32
+4.2. Linhagem Celular (Drosophila melanogaster Schneider 2)..................................32
+4.3. Adaptação aos Meios de Cultura..........................................................................33
+4.4. Criopreservação e manutenção do banco de células...........................................34
+4.4.1. Congelamento.................................................................................................. 34
+4.4.2. Descongelamento.............................................................................................34
+4.5. Determinação da concentração e viabilidade celular...........................................34
+4.6. Determinação da curva de crescimento celular nos diferentes meios de
+cultura.........................................................................................................................35
+4.7. Produção de VLP.................................................................................................35
+
+4.8. Análise de expressão e obtenção de VLP............................................................37
+4.8.1. Imunofluorescência indireta (IFI).......................................................................37
+4.8.2. Western blot......................................................................................................37
+4.8.3. Dot Blot............................................................................................................ .39
+4.8.4. Citometria de fluxo (FACS)................................................................................39
+5. RESULTADOS....................................................................................................... 41
+5.1. Adaptação das células S2CHIKV-Hy aos meios de cultura IPL-41 e Schneider...41
+5.2. Cinética preliminar de crescimento celular e expressão de VLP...........................42
+5.3. Cinética de crescimento celular e expressão de VLP...........................................45
+5.4. Expressão de proteínas CHIKV e VLP.................................................................46
+6. DISCUSSÃO...........................................................................................................51
+7. CONCLUSÃO........................................................................................................ .56
+8. REFERÊNCIAS BIBLIOGRÁFICAS....................................................................... 57
+9. APÊNDICE............................................................................................................. 65
+
+1. INTRODUÇÃO
+Nos últimos anos tem sido observado o aparecimento de arboviroses em
+diferentes partes do mundo, principalmente nos trópicos dos continentes africano,
+asiático e americano. A intensa dispersão desses patógenos se intensificou devido à
+ampliação dos sistemas de transportes globais e alterações ecológicas promovidas
+pelo homem, sendo essas alterações responsáveis também pelo aumento da
+quantidade do vetor, pela criação de novos reservatórios e ciclo da doença.
+O vírus Chikungunya (CHIKV), do gênero Alphavirus da família Togaviridae, é
+um vírus de RNA transmitido para humanos através da picada do mosquito Aedes
+ssp. (Aedes aegypti e Aedes albopictus) e possui taxa de letalidade próxima de
+1:1000. Os mosquitos Ae. aegypti e Ae. albopictus são duas espécies invasoras,
+cosmopolitas e presentes em todo o território brasileiro, isso faz com que a
+disseminação das arboviroses, incluindo a febre Chikungunya, seja potencializada em
+território nacional (Figueiredo e Figueiredo, 2014).
+Se comparada com a dengue, a epidemiologia da febre Chikungunya apresenta
+características que amplificam a sua disseminação e aumentam a possibilidade de
+epidemias. Entre elas estão um menor tempo de incubação intrínseca, maior período
+de viremia e menor período de incubação extrínseca (Figueiredo e Figueiredo, 2014).
+Em números, só no último triênio foram mais de 500 mil casos prováveis de febre
+Chikungunya relatados no Brasil, elevando assim a atenção dos órgãos públicos de
+saúde do país.
+A patologia da infecção, por desenvolver sintomas semelhantes aos de outras
+arboviroses, faz com que a doença seja facilmente confundida com a dengue, sendo
+anteriormente descrita como “uma variante clínica da dengue clássica”. Contudo, um
+sintoma comum a febre Chikungunya é a artralgia inflamatória nas articulações mais
+próximas à picada do mosquito, sendo que alguns indivíduos desenvolvem artrite
+semelhante à artrite reumatoide. A gravidade da artrite causada pela febre
+Chikungunya chama à atenção visto que metade dos casos tem evoluído para a forma
+crônica da doença (Runowska et al., 2018).
+No momento não há tratamento antiviral específico para a infecção por CHIKV,
+portanto as estratégias terapêuticas são voltadas aos sintomas da doença. Com isso,
+12
+
+os pacientes são mantidos em repouso enquanto drogas anti-inflamatórias nãoesteroidais e analgésicos são administrados, os quais podem aliviar a dor e a febre
+do paciente.
+Tendo em vista esse cenário, é fundamental que sejam propostas alternativas
+para o combate a esse vírus emergente. Neste trabalho buscamos a expressão
+recombinante das proteínas estruturais e imunogênicas desse Alphavirus, de maneira
+a possibilitar futuros estudos da utilização dessas preparações para fins de
+imunização ou diagnóstico.
+A abordagem planejada pelo laboratório de Imunologia Viral envolve a
+obtenção das proteínas imunogênicas do CHIKV, visando sua apresentação como
+partículas semelhantes a vírus (VLP), consideradas uma das formas mais promissoras
+para a imunização contra Alphavirus. As VLP são compostas basicamente por
+algumas ou mesmo todas as proteínas estruturais que compõem o vírus, porém sem
+o material genético. Dessa forma, as VLP desencadeiam uma alta resposta
+imunológica, porém sem a possibilidade de se replicarem ou de causar infecção
+patogênica.
+O uso de VLP em vacinação é uma abordagem relativamente nova. Isso é
+melhor representado quando pesquisamos o termo “vlp vaccine” na plataforma
+PubMed, onde em 2007 foram encontrados apenas 7 artigos relacionados enquanto
+que em 2016 foram mais de 30 artigos. Em outra consulta sobre “vlp” e “vacinas”, no
+site clinicaltrials.gov, foi possível encontrar 129 estudos associados aos termos.
+Alguns desses estudos se encontram em fases iniciais enquanto outros já estão
+concluídos, sendo que grande parte deles são associados a vacinas contra Influenza,
+Papilomavírus e Norovírus. No mesmo site estão cadastrados 15 ensaios
+relacionados a vacinas de CHIKV, entre as fases I e III.
+A abordagem utilizada para a obtenção das VLP envolveu a utilização de
+células de inseto Drosophila melanogaster S2, amplamente estudadas pelo nosso
+grupo de pesquisa (Moraes et al., 2012). Essa estratégia é inicialmente atrativa, pois
+além de permitir a expressão estável das proteínas recombinantes, envolve um
+sistema de inseto em que não deve haver modificações importantes nas
+características estruturais das proteínas, dado que em seu ciclo zoonótico o vírus
+realiza passagem em insetos da ordem Diptera das células S2. Dessa forma espera13
+
+se que as proteínas produzidas pelas células de inseto tenham as características de
+modificações pós-traducionais e imunogenicidade desejadas.
+Inicialmente a linhagem de células S2CHIKV-Hy, que expressa VLP do vírus
+Chikungunya, estava sendo cultivada em meio SF900 III, que foi originalmente
+desenvolvido para o cultivo de células de Lepdopteros, mais especificamente células
+Sf9 e Sf21. O cultivo de células no meio SF900 III do Laboratório de Imunologia Viral
+iniciou-se em 2003, quando se buscava desenvolver meios de cultura sem soro para
+o cultivo de células S2. Inicialmente não havia método padronizado para a
+quantificação da expressão recombinante, então o desenvolvimento do sistema foi
+realizado principalmente com base no crescimento celular, assumindo que a
+expressão fosse associada positivamente ao crescimento. Assim, o meio SF900 foi
+escolhido por promover altas concentrações celulares em altas velocidades de
+crescimento.
+Utilizando um dos meios desenvolvidos pelo grupo de pesquisa (Batista et al.,
+2011), as células S2-HBsAg (Jorge et al., 2008) foram capazes de crescer a
+quantidades semelhantes ao crescimento observado em SF900 e, em uma das
+configurações, expressando glicoproteína do vírus da Hepatite B, apresentou melhor
+produtividade. Isso era um indicativo de que a expressão poderia ser melhorada em
+outro meio diferente do SF900 III, uma vez que as células utilizadas neste trabalho
+(S2CHIKV-Hy) são semelhantes as S2-HBsAg, pois ambas expressam proteínas na
+forma de VLP.
+Dessa forma, este trabalho teve como foco avaliar a utilização de diferentes
+meios de cultura para a expressão das proteínas de CHIKV. Para isso foram
+realizados procedimentos de adaptação celular e estudos cinéticos da expressão
+recombinante. Os resultados apontam que de fato o meio SF900 III apresenta
+limitações à expressão das proteínas de interesse, podendo ser substituído no futuro
+por um dos outros dois meios testados.
+
+14
+
+2. REVISÃO BIBLIOGRÁFICA
+2.1. Arbovírus
+O termo arbovírus origina-se da expressão inglesa arthropod-borne virus, os
+quais são vírus transmitidos ao homem exclusivamente pela picada de um vetor
+artrópode. Os arbovírus constituem o maior grupo conhecido de vírus, sendo em torno
+de 545 espécies registradas no International Catalogue of Arboviruses including
+certain other viruses of vertebrates (ICTV, 2017).
+Nos últimos anos tem se observado um aparecimento, ou mesmo um
+reaparecimento, de arboviroses em diferentes partes do mundo. A principal questão é
+que atualmente o surgimento e a dispersão dos arbovírus se intensificaram, sendo
+ampliadas devido ao crescimento de sistemas de transportes globais, adaptação dos
+artrópodes à crescente urbanização, por fatores ambientais causados pela ação
+humana e alteração da dinâmica da população de hospedeiros e vetores (Gould et
+al., 2017; Donalisio et al., 2017).
+Essas mudanças ecológicas produzidas pelo homem podem ainda aumentar a
+prevalência do vetor, criar novos reservatórios ou mesmo induzir os arbovírus a se
+adaptarem a outros ciclos de manutenção. Além disso, o fato dos arbovírus serem
+capazes de se disseminarem por várias regiões do globo eleva ainda mais seu
+potencial de causar uma pandemia, embora cada vírus tenha suas próprias variáveis
+que colaboram para sua epidemiologia (Morens et al., 2004; Figueiredo, 2007).
+Os arbovírus são mantidos na natureza em ciclos complexos envolvendo
+vetores artrópodes hematófagos, principalmente mosquitos e carrapatos. O ciclo se
+fecha pela infecção de novos artrópodes que se alimentam de animais com viremia.
+A transmissão vertical, através da via transovariana, e a transmissão venérea também
+podem ocorrer (Figura 1) (Figueiredo, 2007; Vasconcelos et al., 2009; Bandeira et al.,
+2016). Os vírus mais importantes para a saúde humana são aqueles transmitidos
+principalmente por mosquitos dos gêneros Culex e Aedes (Weaver & Reisen, 2010).
+Os arbovírus que causam doenças em humanos e outros animais de sangue
+quente são membros de cinco famílias virais: Bunyaviridae, Flaviviridae, Reoviridae,
+Rhabdoviridae e Togaviridae. Dentro dessas famílias, estudos apontam que existam
+
+15
+
+cerca de 150 espécies de arbovírus capazes de provocar doença em humanos, sendo
+responsáveis por significativos problemas de saúde pública (Mayer et al., 2016).
+
+Figura 1. Ciclo biológico dos arbovírus
+
+(Adaptado de Silva JVJ et al., 2018)
+
+Em sua maioria esses vírus não causam doenças, contudo em alguns casos
+pode ocorrer uma doença branda que apresenta febre, dor de cabeça e mal-estar.
+Alguns arbovírus podem causar uma doença mais severa à um indivíduo ou mesmo
+a uma população como um todo. Dentre os vírus mais conhecidos estão incluídos
+Dengue virus (DENV), Yellow Fever virus (YFV), Japanese encephalitis virus (JEV),
+Zika virus (ZIKV), West Nile virus (WNV), Oropouche virus (OROV), Chikungunya virus
+(CHIKV), Mayaro virus (MAYV), e Venezuelan equine encephalitis virus (VEEV)
+(Vasconcelos e Calisher, 2016; Napoleão-Pego et al., 2014).
+
+2.2. Genoma, estrutura e replicação dos Alphavirus
+Os Alphavirus, como CHIKV e MAYV, possuem genoma composto por RNA
+positivo de fita simples e tamanho aproximado de 11,7 kb que funciona como RNA
+16
+
+mensageiro, além disso, essa família de vírus possui aproximadamente 70 nm de
+diâmetro, são envelopadas e seu nucleocapsídeo é icosaédrico (J H Strauss e E G
+Strauss, 1994; King et al., 2011). O genoma viral é dividido em duas ORFs (Open
+Read Frames) separadas por uma região intergênica (Figura 2). A região ORF 5’
+corresponde a dois terços do genoma e é responsável pela codificação das proteínas
+não estruturais (nsP1, nsP2, nsP3 e nsP4) necessárias para a transcrição e replicação
+viral. A segunda ORF localizada na porção 3’, correspondente a um terço do genoma
+viral, codifica as proteínas estruturais C (capsídeo), E3, E2, E1 e 6K, sob o controle
+de um promotor subgenômico denominado 26S (Jose J et al., 2009; Mota et al., 2015).
+
+Figura 2. Representação esquemática da organização genômica dos Alphavirus
+
+Na replicação viral (Figura 3), o vírus entra na célula alvo por endocitose
+mediada por clatrina, onde a proteína E2 interage com receptores específicos na
+superfície celular. Dentro do endossomo, o baixo pH desencadeia uma mudança
+conformacional do envelope viral. Devido a essa mudança conformacional, a proteína
+E1 é exposta e desencadeia a fusão do envelope viral com a membrana endossômica.
+Com esta fusão o nucleocapsídeo é liberado no citoplasma, desmontado e o RNA livre
+é traduzido na 5’ ORF produzindo uma poliproteína que se cliva em nsP1, nsP2, nsP3
+e nsP4 (Mota et al.,2015).
+Após o processamento, as proteínas não estruturais formam um complexo, a
+replicase viral, que catalisa a síntese de uma fita de RNA intermediária negativa. Este
+RNA é então usado como molde para a síntese tanto do mRNA viral quanto do mRNA
+subgenômico 26S. O mRNA subgenômico 26S é traduzido para produzir a
+17
+
+poliproteína estrutural (C-pE2-6K-E1), a qual é processada por autoclivagem pela
+atividade serino-protease presente na proteína C, levando a sua liberação no
+citoplasma. As outras proteínas são direcionadas ao retículo endoplasmático, onde
+sofrem modificações pós-traducionais. A proteína pE2 é clivada no Golgi e forma
+então as glicoproteínas E2 e E3. As glicoproteínas E1 e E2 se associam formando um
+heterodímero que é então transportado para a membrana plasmática da célula
+hospedeira. No momento do brotamento, esse heterodímero é incorporado à
+superfície viral na forma de espículas triméricas (R. Abdelnabi et al., 2015).
+
+Figura 3. Representação esquemática do ciclo de replicação dos Alphavirus
+
+(R. Abdelnabi et al., 2015)
+
+Ao final do processo de replicação o vírus é envelopado por uma bi-camada
+lipídica derivada da célula e contendo espículas triméricas heterodiméricas
+constituídas de E1, E2 e eventualmente E3 (Figura 4). Em destaque, a proteína E3
+18
+
+tem função de direcionar as proteínas estruturais ao retículo endoplasmático após a
+sua síntese nos ribossomos, para que estas sejam processadas adequadamente e
+adquiram a conformação adequada. Outra proteína, a 6K, a qual está associada a
+formação e brotamento viral e associada a permeabilidade da membrana. (José J et
+al., 2009)
+
+Figura 4. Esquema representativo da estrutura dos Alphavirus
+
+2.3 Vírus Chikungunya
+O vírus Chikungunya (CHIKV), primeiramente isolado na Tanzânia em 19521953, é um vírus de RNA pertencente ao gênero Alphavirus da família Togaviridae e
+é transmitido para humanos através da picada do mosquito Aedes ssp. (Aedes aegypti
+e Aedes albopictus), possuindo taxa de letalidade de 1:1000 (Powers e Logue, 2007).
+Como diversos Alphavirus transmitidos por mosquitos, o CHIKV causa em humanos
+febre, artralgia e erupções discretas. O nome Chikungunya deriva de uma palavra do
+idioma originário da Tanzânia que é entendida como “aqueles que se dobram”, em
+alusão a aparência encurvada de pacientes que sofrem de artralgia intensa (Lumsden,
+1955; Robinson, 1955). A artralgia pode persistir por meses ou alguns anos podendo
+progredir para artrite crônica. Os sintomas da doença ocorrem tipicamente em 72 a
+97% dos infectados (Thiberville et al., 2013).
+A patologia da infecção, por desenvolver sintomas semelhantes aos de outras
+arboviroses, faz com que a doença seja facilmente confundida com a dengue, sendo
+anteriormente descrita como “uma variante clínica da dengue clássica diferindo na
+
+19
+
+ausência de dor de cabeça, pressão do globo ocular e dores nos movimentos
+oculares” (Ross, 1956).
+São conhecidos 3 genótipos virais do CHIKV: Oeste Africano, Leste Central Sul
+Africano e Asiático. Na África, o vírus é mantido no ciclo silvestre envolvendo primatas
+e mosquitos silvestres do gênero Aedes ssp. Nas regiões rurais, os surtos humanos
+tendem a ser baixos e dependentes de condições ambientais que possibilitam o
+crescimento da população de mosquitos silvestres. O ciclo de transmissão silvestre
+não foi identificado na Ásia, mas é provável que ocorra devido à atividade humana em
+zonas de mata (Petersen e Powers, 2016).
+Embora os genótipos de CHIKV possa ter variações, as cepas são genicamente
+relacionadas, sendo possível que o desenvolvimento de uma vacina funcione contra
+as 3 cepas existentes (Harrison et al., 1967). Um estudo realizado com voluntários de
+fase clínica 1, para vacina de VLP de CHIKV, revelou que a vacinação com uma única
+cepa de CHIKV pode gerar anticorpos contra todos os genótipos, confirmando que
+vacina baseada em uma cepa seja efetiva contra as outras cepas (Goo et al., 2016).
+Na última década o CHIKV reemergiu causando uma série de grandes surtos.
+Iniciando na costa do Quênia em 2004, o vírus começou a se espalhar para as ilhas
+do oceano Índico, Índia e sudeste da Ásia, com mais de 6 milhões de casos prováveis
+(Sergon et al., 2008; Powers, 2009; Thiberville et al., 2013). Em 2005 um surto de
+CHIKV foi relatado nas Ilhas Comoros, resultando na infecção de aproximadamente
+215 mil pessoas (Sergon et al., 2007). Da primavera de 2004 até o verão de 2006
+ocorreu um número estimado em 500 mil casos.
+As preocupações com o CHIKV aumentaram depois de 2007, quando o vírus
+foi encontrado no norte da Itália, tendo sido introduzido por um viajante infectado na
+Índia. Em setembro de 2010, um caso autóctone da doença também foi relatado no
+sudeste da França. No mesmo ano, o CHIKV causou doenças na Índia, Indonésia,
+Mianmar, Tailândia, Ilhas Maldivas e foi reintegrado na Ilha da Reunion. Casos
+importados foram identificados no ano de 2010 em Taiwan, França, Estados Unidos e
+Brasil, trazidos por viajantes, respectivamente, da Indonésia, Ilha Reunion, índia e do
+sudeste asiático. A transmissão do CHIKV foi reportada pela primeira vez nas
+Américas em 2013. Indivíduos virêmicos com CHIKV foram encontrados no Caribe,
+nos Estados Unidos e na Guiana Francesa (Leparc-Goffart et al., 2014).
+20
+
+Segundo o Boletim Epidemiológico 16, volume 49, publicado em abril de 2018
+pelo Ministério da Saúde, nos anos de 2016 e 2017 foram registrados,
+respectivamente, 277.882 e 185.854 casos prováveis de febre Chikungunya. Em
+2018, até a Semana Epidemiológica 34 (31/12/2017 a 25/08/2018), foram registrados
+72.117 casos prováveis de febre Chikungunya no país, com uma incidência de 34,7
+casos/100 mil hab., destes, 50.356 (69,8%) foram confirmados e outros 17.910 casos
+suspeitos foram descartados. Ainda em 2018, a região Sudeste apresentou o maior
+número de casos prováveis de febre de Chikungunya (59,5%) em relação ao total do
+país. Em seguida aparecem as regiões Centro-Oeste (18,8%), Nordeste (13,4%),
+Norte (7,9%) e Sul (0,3%). Quanto aos óbitos, até a Semana Epidemiológica 34/2018,
+foram confirmados laboratorialmente 22 óbitos por Chikungunya e existem ainda 51
+óbitos em investigação. No mesmo período de 2017, foram confirmados 186 óbitos e
+existiam 30 óbitos em investigação.
+Ao se comparar com a dengue, a epidemiologia da Chikungunya apresenta
+características que amplificam a disseminação da doença e aumenta a possibilidade
+de epidemias. Entre elas estão a maior proporção de casos sintomáticos (> 90%),
+menor tempo de incubação intrínseca (2 a 7 dias), maior período de viremia (2 dias
+antes e 10 dias após a febre) e menor período de incubação extrínseca (no mosquito).
+Existe, ainda, o risco de estabelecimento de um ciclo endêmico do Chikungunyamacaco-mosquito no Brasil, dificultando a erradicação da doença no país (Figueiredo
+e Figueiredo, 2014).
+
+2.3.1. Sintomas de infecção por CHIKV
+A maioria dos pacientes apresentam a doença de forma sintomática após o
+período de incubação de dez dias após a picada do mosquito. Contudo,
+aproximadamente 10% dos pacientes não apresentam sinais clínicos da infecção
+(Thiberville et al., 2013).
+A viremia persiste por até 5 dias após o início dos sintomas, incluindo febre
+(92% dos casos) tipicamente associada a artralgia (87%), dor nas costas (67%) e dor
+de cabeça (62%). A febre ocorre com um início súbito, podendo atingir 40°C, com
+calafrios e durabilidade tipicamente de 24 a 48 horas. Os tornozelos, punhos e
+21
+
+pequenas articulações das mãos são os locais mais afetados. Após um período de
+aparente remissão de sintomas, febre, artrite e erupção cutânea podem reaparecer
+(Simon et al., 2011). Um estudo que analisou a artralgia induzida pelo CHIKV
+demonstrou cura completa em 87,9% dos casos, enquanto 3,7% apresentaram dor
+episódica e rigidez articular, 2,8% apresentaram rigidez persistente sem dor e 5,6%
+tiveram movimento articular doloroso persistente (Kennedy, 1980).
+O sintoma persistente mais comum é a artralgia inflamatória nas mesmas
+articulações afetadas durante os estágios agudos, sendo que alguns indivíduos
+desenvolvem artrite semelhante à artrite reumatoide ou artrite psoriática (Roosenhoff
+et al., 2016). Casos mais graves ocorrem frequentemente em recém-nascidos e
+pacientes acima de 65 anos de idade. Além disso, há relatos de transmissão de CHIKV
+da mãe para o bebê com alta taxa de morbidade (Morrison, 2014).
+2.3.2. Diagnóstico de CHIKV
+O diagnóstico de infecção por CHIKV baseia-se no isolamento viral, na
+detecção do RNA viral e na sorologia. As técnicas empregadas devem fornecer uma
+melhor conduta ao paciente, assim como a detecção e o controle de surtos. Métodos
+moleculares de diagnóstico do CHIKV, como o PCR em tempo real (RT-PCR) ganham
+importância crescente por fornecer um diagnóstico rápido e sensível em estágios
+iniciais da viremia. O RT-PCR vem sendo empregado com o uso de primers
+específicos para Alphavirus ou primers específicos para as regiões dos genes nsP1,
+nsP2 e E1 (Zuchi et al., 2014; Sam et al., 2015)
+A resposta às infecções por CHIKV pode ser detectada no soro por ELISA, IFI,
+ensaio de hemaglutinação e ensaio de neutralização. O teste ELISA é uma técnica
+rápida e sensível para detecção de anticorpos específicos e pode distinguir entre IgG
+e IgM. A IgM é tipicamente detectada 3 dias após o desaparecimento dos sintomas e
+pode persistir por até 3 meses. A IgG para ambos os vírus surge após o aparecimento
+dos anticorpos IgM e persiste por anos (Grivard et al., 2007; Reddy et al., 2012).
+
+2.3.3. Tratamento de CHIKV
+Não existem medicamentos específicos para o tratamento de infecções
+causadas por CHIKV, portanto as estratégias terapêuticas são voltadas aos sintomas
+22
+
+da doença (OMS, 2008; Kaur e Chu, 2013). Nesse contexto, os pacientes são
+mantidos em repouso e submetidos a tratamento com analgésicos e drogas antiinflamatórias não-esteroidais, as quais podem aliviar a dor e a febre (WHO, 2008). Em
+casos agudos de Chikungunya, a administração de anti-inflamatórios não-esteroidais
+juntamente com baixas doses de corticosteroides tem mostrado uma redução da dor
+e melhora na qualidade de vida (Padmakumar et al., 2009).
+A imunização passiva pode ser uma terapia preventiva apropriada bem como
+uma opção para as manifestações causadas pela infecção de CHIKV, uma vez que
+não existe terapias alternativas disponíveis. Em modelo animal de camundongo foi
+administrada IgG purificada de plasma de um doador CHIKV+ em processo de
+recuperação da saúde, demonstrando alta atividade neutralizante, assim um poder
+terapêutico e ação profilática anti-CHIKV. Portanto, a imunização passiva poderia ser
+usada para o tratamento da febre Chikungunya e para a prevenção em pacientes com
+grave risco de manifestar a doença, bem como adultos em condições subjacentes
+(Tharmarajah et al., 2017).
+
+2.4. Vacinas virais
+A grande maioria das vacinas preventivas para vírus consiste em um vírion
+atenuado ou inativado que é administrado ao indivíduo, sendo capaz de gerar uma
+resposta imune protetora. Esses tipos de vacinas são altamente efetivos e algumas
+não requerem a administração de uma segunda dose. Entretanto, especificamente as
+vacinas atenuadas apresentam riscos operacionais de produção ou administração,
+uma vez que o vírus pode reverter em sua forma patogênica (Makela, 2000). As
+vacinas de nova geração apresentam uma maior segurança por não utilizar o virion
+completo em sua formação, entre elas pode-se utilizar as vacinas de subunidades
+proteicas, vacinas de DNA/RNA ou as virus-like particles (VLP). As vacinas de
+subunidades são compostas por proteínas virais recombinantes ou proteínas
+purificadas do vírus selvagem que agem como antígenos. A vacinação com DNA
+consiste em uma técnica direta de administração de um plasmídeo de DNA que
+codifica uma proteína antigênica, essas proteínas são apresentadas por receptores
+celulares e subsequentemente são capazes de gerar uma resposta imune (Makela,
+2000; Fuenmayor et al., 2017).
+23
+
+A evolução das vacinas requer o uso de ferramentas interdisciplinares que
+conduzem à produção de novas alternativas mais eficientes e seguras. Uma nova
+abordagem conta com tecnologias recombinantes para entregar uma vacina ou então
+DNA recombinante que resultará em uma ou mais proteínas recombinantes. Assim,
+podem resultar em partículas recombinantes como uma VLP. Essas novas vacinas
+recombinantes têm apresentado um mercado com potencial de inovação no
+desenvolvimento de vacinas biotecnológicas (Fernandes et al., 2013).
+As VLP consistem em uma nanoestrutura artificial que se assemelha às
+estruturas virais. Elas são compostas basicamente por algumas, ou mesmo todas as
+proteínas estruturais que compõem o vírus, contudo o material genético se encontra
+ausente, evitando qualquer possibilidade de mutação reversiva ou infecção. Apesar
+de não serem capazes de se replicarem ou mesmo causar infecção patogênica, as
+VLP desencadeiam uma alta resposta imunológica humoral e celular devido às suas
+estruturas repetitivas. Por essas vantagens, o interesse na tecnologia de VLP tem
+aumentado consideravelmente nos últimos anos (Mäkelä, 2000; Fuenmayor et al.,
+2017).
+
+Figura 5. Tipos de vacinas
+
+Fuenmayor et al., 2017
+
+24
+
+2.4.1. Tipos de VLP
+As VLP são compostas por uma ou mais proteínas estruturais capazes de se
+auto-formar quando expressas de forma recombinante. As proteínas podem ser
+organizadas em camadas simples, duplas ou triplas, como no caso do papiloma vírus
+humano (HPV) onde as VLP são formadas por uma única proteína estrutural. Já as
+VLP mais complexas possuem várias proteínas estruturais, por exemplo, temos as da
+família Reoviridae, as quais são formadas por 2 a 4 proteínas diferentes dispostas em
+várias camadas (Lua et al., 2014). Diversas vacinas baseadas em VLP já estão
+disponíveis comercialmente, como exemplo temos vacinas contra HPV, Cervarix®,
+Gardasil® e Gardasil9®, para Hepatite B temos a Sci-B-VacTM, e recentemente a
+primeira vacina licenciada para a malária, a Mosquirix TM (Mohsen et al., 2017).
+Recentemente foi desenvolvido um novo tipo de VLP, nomeada como VLP
+quimérica. Sua estrutura é composta por proteínas de um vírus enquanto que as
+proteínas do envelope são derivadas de um segundo vírus. Como exemplo temos o
+desenvolvimento da VLP quimérica do circovírus suíno tipo 2 com o epítopo B do vírus
+da Sindrome Respiratória e Reprodutiva dos Suínos GP5. A forma de VLP quimérica
+possibilita o uso de VLP como sistema de entrega, em virtude de que as proteínas de
+cápside específicas para entrega à célula alvo tendo uma nova aplicação na
+administração de medicamentos, terapia genética e tratamento de câncer (Fuenmayor
+et al., 2017).
+
+2.4.2 Métodos de produção de VLP
+A escolha de um sistema de expressão para a produção de VLP deve ser
+levada em consideração a capacidade desse sistema em realizar o dobramento e
+modificações pós-traducionais adequados para o produto que se pretende fabricar
+(Lua et al., 2014). Para esse fim, diversos sistemas de expressão possuem vantagens
+e desvantagens (Tabela 1).
+
+25
+
+Tabela 1. Plataformas de produção de VLP e suas vantagens e desvantagens
+Plataforma
+de produção
+
+Plantas
+
+E. coli
+
+Levedura
+
+Células de
+mamíferos
+
+Células de
+insetos
+
+Vantagens
+
+•
+
+Fácil expressão
+
+•
+
+Possibilidade de escalonamento
+
+•
+
+Não possui contaminação derivada
+de vírus humano
+
+•
+
+Fácil expressão
+
+•
+
+Possibilidade de escalonamento
+
+•
+
+Baixo custo
+
+•
+
+Fácil expressão
+
+•
+
+Possibilidade de escalonamento
+
+•
+
+Baixo custo
+
+•
+
+Produção semelhante ao
+hospedeiro natural
+
+•
+
+Realiza formação correta de VLP
+
+•
+
+Pode produzir grandes quantidades
+de VLP formada corretamente em
+alta densidade celular
+
+•
+
+Possibilidade de escalonamento
+
+•
+
+Baixo risco de cultivo de patógenos
+quando comparado a células de
+mamíferos
+
+•
+
+Componentes do hospedeiro
+podem atuar como adjuvantes
+vacinais
+
+Desvantagens
+
+•
+
+Baixo nível de
+expressão
+
+•
+
+Baixa estabilidade
+
+•
+
+Presença de
+endotoxinas
+
+•
+
+Não faz glicosilação
+
+•
+
+Não apropriado para
+glicosilação de
+proteínas (ex: alta
+modificação de
+manose)
+
+•
+
+Risco de formação e
+folding incorreto
+
+•
+
+Baixa produtividade
+
+•
+
+Alto custo
+
+•
+
+Limitado para
+modificações
+traducionais de alta
+manose
+
+•
+
+Difícil a remoção de
+baculovírus
+
+Fuenmayor et al., 2017
+26
+
+2.4.2.1. Plantas
+As plantas podem produzir compostos terapêuticos em diversas formas, sendo
+também usadas para a produção de VLP. Como exemplo, temos a produção de VLP
+de HPV 16 e influenza. A Agrobacterium tumefaciens é comumente utilizada para
+infecção e transformação dessas células, de forma que um gene específico de
+interesse é introduzido no genoma do hospedeiro (D’Aoust, 2010; Van Zyl e Hitzeroth,
+2016).
+
+2.4.2.2. Bactérias e leveduras
+Bactérias e leveduras representam um sistema de fácil escalonamento e uma
+produção de bom custo-efetivo. Bactérias são mais utilizadas como sistema de
+expressão de VLP não envelopadas formadas com uma ou duas proteínas estruturais.
+A sua principal vantagem está relacionada ao alto rendimento de proteína de
+interesse, porém não são capazes de realizar modificações pós-traducionais (MPT)
+complexas, que são de extrema importância para a imunogenicidade das VLP (Tan et
+al., 2004). Diversas VLP produzidas em leveduras obtiveram a aprovação de agências
+reguladoras, como as VLP de papiloma vírus mesmo não apresentando o mesmo
+perfil de MPT como de humanos (Saraswat et al. 2016).
+
+2.4.2.3. Células de mamíferos
+Vários tipos de células de mamíferos estão disponíveis para a produção de
+VLP. Ao ser comparado com outros sistemas essas células apresentam um menor
+rendimento de produção de proteínas, entretanto possuem a capacidade de formar
+mais proteínas complexas e realizar MPT. Por essa razão, células de mamíferos são
+utilizadas na produção de VLP envelopadas, mais complexas, compostas por
+múltiplas proteínas estruturais. Uma das células mais utilizadas é a células CHO
+(Chinese Hamster Ovary), que apresenta a vantagem de não ser uma célula derivada
+de humano, tendo assim baixo risco de contaminação por vírus humano. Esta célula
+já foi utilizada na produção de VLP de hantavírus que foi capaz de induzir uma
+resposta imune em camundongos (Li et al., 2010). Outras células utilizadas com a
+27
+
+finalidade de produzir VLP são HEK293 e células derivadas de fluido amniótico (Lua
+et al., 2014).
+
+2.4.2.4. Células de insetos
+Células de insetos são ferramentas promissoras para a expressão de proteínas
+complexas, fornecendo um ambiente eucariótico propício para a realização das
+modificações pós-traducionais necessárias para a atividade biológica da proteína.
+Vários são os exemplos da aplicação desse sistema para a produção de biofármacos
+para uso veterinário, como Porcilis®, Bayovac e Vibragem, entretanto a produção
+comercial para uso humano ainda é recente.
+Os sistemas de expressão baseados em células de insetos possuem
+numerosas vantagens frente a outros sistemas de expressão de proteínas
+recombinantes. Entre as vantagens temos o fato de em geral não possuírem agentes
+externos que possam infectar e replicar em células de mamíferos. Entretanto, esse
+sistema apresenta um baixo histórico de regulamentação quando comparados a
+outros sistemas de expressão, sendo essa uma das razões do seu curto histórico
+comercial.
+A expressão baseada em células de insetos pode ser dividida em dois
+diferentes modos de expressão, a expressão lítica e a expressão por linhagens
+estáveis. Na expressão lítica, com o uso do sistema de Baculovírus, as células são
+derivadas de mariposa (Spodoptera frugiperda: Sf9 e Sf21 e Trochioplusiani: Hi-5).
+Entre as vantagens desse sistema de expressão, existe o fato de que os Baculovírus
+são inofensivos aos humanos e permitem um acesso relativamente rápido para a
+atividade biológica da proteína. Entretanto, desvantagens como proteolização da
+proteína, padrão de glicosilação heterogêneo e dificuldade de reprodutibilidade e
+coerência nos ciclos de produção caracterizam suas principais dificuldades para uma
+produção industrial.
+Na expressão estável e expressão não-lítica, o vetor é estável e se integra ao
+cromossomo da célula de inseto. A proteína recombinante então é expressa de forma
+que não ocorra a lise celular. As células mais comuns para esse sistema são a Sf9,
+Sf21, Hi-5 e D. melanogaster como a S2. A maior desvantagem em relação ao sistema
+28
+
+de Baculovírus é a necessidade de se estabelecer uma linhagem estável de
+expressão, o que demanda tempo (John e Salgueiro, 2013).
+O sistema de expressão baseado em células S2 foi desenvolvido no começo
+da década de 70 por Imogene Schneider e vem sendo usado na pesquisa há mais de
+40 anos. As células de Drosophila melanogaster S2 são células derivadas de uma
+cultura primaria de embriões em estágio tardio de desenvolvimento. São relativamente
+pequenas (8-10 µm), de fácil cultivo, rápido crescimento em meio livre de soro e
+podem ser cultivadas em monocamadas ou em suspensão. Essas células podem
+alcançar densidades de aproximadamente 70 milhões de células por mL, maior
+magnitude quando comparadas a outras células de insetos e mamíferos em batelada
+(Dyring, 2011).
+Os sistemas de expressão em células de Drosófilas, utilizando eficientes
+promotores gênicos e elevado número de cópias de plasmídeos por célula
+transfectada, tem obtido sucesso em relação as demais estratégias, produzindo um
+elevado nível de expressão de proteínas heterólogas (Mccarroll e King, 1997). Os
+promotores mais utilizados para a expressão em células S2 são os promotores da
+actina e da metalotioneína.
+O promotor da actina de drosófila é constitutivo, o que equivale a dizer que seu
+funcionamento está ligado ao funcionamento fisiológico normal das células, sendo
+regulado por mecanismos de regulação gênica da própria célula e de seu próprio
+promotor. O promotor da metalotioneína é um promotor forte, que é induzido pela
+exposição das células a um meio contendo metais pesados (Chung e Keller, 1990).
+Normalmente, a obtenção de linhagens estáveis é feita pela co-transfecção dos
+vetores contendo o gene da proteína de interesse e um vetor auxiliar, que codifica
+para um gene de resistência. Os vetores de resistência mais utilizados são os que
+carregam o gene da resistência à higromicina ou à penicilina. Nessas condições é
+possível estabelecer uma população de células transfectadas e produtoras em apenas
+três semanas (Iwaki et al., 2003; Iwaki e Castellino, 2008). O emprego das células S2
+no desenvolvimento de vacinas foi relatado para expressão de proteínas virais como
+Vírus da Dengue (DENV), Vírus Oeste do Nilo e Glicoproteína do Lyssavirus da raiva
+(RVGP).
+
+29
+
+No caso da RVGP, o Laboratório de Imunologia Viral do Instituto Butantan e
+seus colaboradores possuem diversas publicações nessa área. A expressão da
+glicoproteína utilizando a plataforma de células S2 atinge a concentração de 705
+µg/mL, sendo a síntese de RVGP melhorada pelo desempenho do vetor para seleção
+e expressão, seleção das subpopulações celulares, exposição da cromatina e
+emprego de formulações de meios de cultura. A RGVP expressa foi utilizada para
+imunização de camundongos e apresentou proteção contra o Lyssavius da raiva no
+teste experimental de desafio (Ventini et al., 2010; Moraes et al., 2012; Astray et al.,
+2013; Santos et al., 2016).
+Um exemplo da vantagem em utilizar essa plataforma foi descrito para a
+produção de HIV-1 VLP em células S2, mostrando que o rendimento foi maior do que
+com o sistema de células de mamíferos e leveduras. A expressão de proteínas do
+HIV-1 pelo sistema de baculovírus também apresentou uma alta quantidade de VLP,
+no entanto, há o desafio deste sistema em separar as VLP dos baculovírus
+recombinantes. Neste caso, o sistema de S2 é uma alternativa atraente para a
+produção de HIV-1 VLP (Yang et al., 2012).
+
+30
+
+3. OBJETIVOS
+
+3.1. Objetivo geral
+O principal objetivo desse trabalho consistiu em avaliar parâmetros cinéticos de
+células S2 recombinantes (S2CHIKV-Hy) e analisar a produtividade de VLP em
+diferentes meios de cultura.
+
+3.2. Objetivos específicos
+•
+
+Adaptar células S2 recombinantes, originalmente cultivadas em meio de cultura
+SF900 III (ThermoScietific), a diferentes meios de cultura: IPL-41 modificado
+(Batista et al., 2011) e Schneider.
+
+•
+
+Estudar a cinética de crescimento e a expressão das proteínas de Chikungunya
+em Células adaptadas a cada meio de cultura.
+
+31
+
+4. MATERIAIS E MÉTODOS
+4.1. Meios de Cultura
+4.1.1. SF900III + CD Lipid
+O meio de cultura SF900III® (Thermo) é o meio padrão utilizado para células
+S2 no Laboratório de Imunologia Viral. Possui formulação fechada, porém as
+quantidades de aminoácidos e glicose são bem conhecidas devido às diversas
+análises de metabolismo já realizadas pelo grupo. Também foi adicionado CD-Lipid
+(Life Technologies) na diluição 1:100 ao meio.
+
+4.1.2. IPL-41 modificado
+O meio de cultura IPL-41 (Thermo) modificado (Batista et al., 2011) é
+quimicamente definido, sem soro fetal bovino (SFB) e livre de proteínas de origem
+animal. Em sua composição são adicionados 10 g/L glicose (Synth Laboratórios), 6
+g/L yeastolate ultrafiltrate (Life Technologies), 1% chemically defined lipid (Life
+Technologies), 2 g/L lactose (Sigma), 5 g/L glutamina (Sigma) e 0.1% m/v Pluronic F68 (Sigma).
+
+4.1.3. Schneider + 10% SFB
+O meio Schneider (LCG) com 1,8 g/L de L-Glutamina e 2 g/L de D+ Glicose
+trata-se do meio de referência para o cultivo de células S2. Este meio requer
+suplementação com 10 % de SFB.
+
+4.2. Linhagem Celular (Drosophila melanogaster Schneider 2)
+Foi utilizada a linhagem de células recombinantes de Drosophila melanogaster
+Schneider 2 (células S2), denominada S2CHIKV-Hy inicialmente cultivada em meio
+SF900III® (Puglia, 2018). Essa linhagem foi obtida pela transfecção de vetor contendo
+os genes das proteínas estruturais do CHIKV, com expressão indutível por metais
+(promotor methalotioneína). Além disso, possuem resistência à higromicina. Sua
+manutenção foi realizada em meio de cultura SF900III com adição de CDLipid
+32
+
+(Chemically Defined Lipid Concentrate – ThermoFisher), IPL-41 modificado (após
+adaptação) e Schneider (após adaptação), todos à temperatura de 28 °C (± 2 °C),
+sendo sub cultivadas (repicadas) em intervalos de 4 a 6 dias. As células S2, por serem
+células semiaderentes, possuem a capacidade de serem cultivadas de forma estática,
+mas também podem ser cultivadas em suspensão.
+As culturas estáticas foram realizadas em frascos T de 25 cm2 e 75 cm2 de
+superfície, com volume de trabalho de 5 mL e 10 mL respectivamente. As culturas em
+suspensão foram realizadas em frascos de Duran (Schott-shakers) de 100 ml com
+volume de trabalho de 20 ml, concentração celular inicial de 2x106 células/ml e
+agitação orbital a 100 rpm em incubadora (New Brunswick).
+Antes de se iniciar um experimento, toda vez que foi feita a mudança das
+células de um cultivo estático para um cultivo em suspensão, uma etapa de adaptação
+foi realizada. Essa etapa consiste na diluição de 25% do inóculo de um frasco T 25
+cm2 com aproximadamente 90% de confluência em 15 mL de meio de cultura fresco
+e transferidos para frasco tipo Schott de 100 mL. Após 48 horas mantidas em agitação
+as células estão adaptadas para iniciar um novo experimento sob agitação.
+
+4.3. Adaptação aos Meios de Cultura
+A partir das células S2CHIKV-Hy recebidas do banco de origem do Laboratório
+de Imunologia Viral, foram obtidas células adaptadas ao meio de cultura desejado.
+Primeiramente, foram cultivadas células em meios compostos por 50% do meio a ser
+adaptado e 50% do meio SF900III. Essa composição de meio de cultura foi mantida
+durante uma semana. Não havendo alterações visíveis de crescimento, as
+porcentagens de meio IPL-41 modificado e Schneider dos cultivos foram aumentadas.
+As porcentagens de meio IPL-41 e Schneider ao longo da adaptação foram: 50%,
+60%, 70%, 80%, 90%, 95%, 98% e finalmente 100%. Quando a adaptação já havia
+sido finalizada, foi aplicado um recurso de seleção populacional, pela inserção de
+higromicina (600 µg/ml).
+
+33
+
+4.4. Criopreservação e manutenção do banco de células
+4.4.1. Congelamento
+O banco de trabalho foi estabelecido em frascos T 75 cm² após a adaptação
+das células aos novos meios. Para isso, as células em fase exponencial foram
+centrifugadas por 5 minutos a 3000 rpm e ressuspendidas em meio de congelamento
+contendo 10% de Dimetilsulfóxido (DMSO), 40% de soro fetal bovino (SFB) e 50% de
+meio. Com uma concentração de 1x107 células/mL as alíquotas foram distribuídas em
+1 mL por criotubo. Os criotubos foram transferidos para o container de congelamento
+(Mr. FrostyTM Freezing Container – ThermoFisher) e armazenados a -80°C. Após 24h,
+os criotubos foram transferidos para o nitrogênio líquido para a preservação das
+células.
+
+4.4.2. Descongelamento
+Um criotubo do banco de células foi descongelado à temperatura ambiente e
+as células foram transferidas para um frasco T 25 cm2 contendo 4 ml de meio de
+cultura. Após 24h ocorreu a adesão celular ao frasco de cultivo e o meio de cultura foi
+totalmente trocado e adicionado meio de cultura fresco, assim é retirado o DMSO
+presente no meio de congelamento. Em seguida as células foram mantidas a 28°C (±
+2°C).
+
+4.5. Determinação da concentração e viabilidade celular
+A concentração celular em um dado cultivo foi determinada pela contagem em
+câmara de Neubauer, utilizando microscópio invertido, sendo realizadas contagens
+diárias em duplicata. Foi utilizado o corante azul de Trypan (0,2%) com o intuito de
+excluir as células inviáveis da contagem celular. O azul de Trypan só penetra nas
+células com a membrana celular comprometida, deixando-as azuladas. Assim, essas
+células revelaram um aumento de permeabilidade característico da perda de
+viabilidade.
+A viabilidade celular foi determinada pela razão entre o número de células
+viáveis e o número de células totais no meio (células viáveis e inviáveis), multiplicados
+34
+
+por 100. A concentração celular foi determinada após a correção dos cálculos de
+diluição e a multiplicação por 104, obtendo assim o número de células por mililitro de
+suspensão.
+
+4.6. Determinação da curva de crescimento celular nos diferentes meios de
+cultura
+Após adaptação das células S2CHIKV-Hy aos novos meios de cultura foram
+estudadas cinéticas de crescimento onde as células S2CHIKV-Hy foram analisadas
+em triplicatas em cada um dos três meios de cultura e as células S2WT foram
+analisadas em duplicata no meio SF900III. Os 11 Schott-shakers de 100 ml com
+volume de trabalho de 20 ml foram inoculados com 2x106 células/ml e submetidos à
+agitação orbital a 100 rpm, a 28 °C em incubadora (New Brunswick). Em 24h após
+inóculo, as células foram induzidas com 1 mM de CuSO4. A contagem celular foi
+realizada a cada 24 horas, durante 144 horas, obtendo assim, dados diários da
+concentração celular, X. Define-se Xmáx como concentração máxima no período
+analisado.
+Para o cálculo da velocidade de crescimento celular, μ x, foram obtidas
+regressões lineares a partir da plotagem dos dados de LnX x Tempo (h). Selecionando
+apenas parte dos dados em que foi observado comportamento linear, μ x é dado pelo
+coeficiente angular da reta aproximada, ou seja, a velocidade de crescimento
+calculada refere-se apenas ao período em que as células crescem exponencialmente.
+O parâmetro μmx é dado pela média aritmética dos dados coletados de μ x.
+A taxa específica de crescimento (µ) é determinada pelo balanço de massa de
+células em um cultivo em batelada com a equação
+𝑑𝑋𝑣
+= 𝜇𝑡
+𝑑𝑡
+Onde dXv/dt é uma variação de células, µ a taxa específica de crescimento
+celular e Xv a concentração de células. Por meio da integração do balanço descrito,
+temos a equação:
+ln(𝑋𝑣 ) = 𝜇𝑡
+35
+
+Plotando os dados do logaritmo neperiano de Xv contra o tempo, temos uma
+curva de crescimento celular (ln(Xv) = f(t)) que ao se linearizar, representa uma reta
+durante a fase exponencial de crescimento. A taxa específica máxima de crescimento
+(μmax) foi obtida através da derivação dessa reta para a obtenção do coeficiente
+angular correspondente a μmax.
+
+4.7. Produção de VLP
+Para a produção de VLP de CHIKV, células S2CHIKV-Hy foram inoculadas na
+concentração 2x106 células/mL e cultivadas por 6 dias a 28°C em frasco tipo Schott
+contendo 20 mL de meio de cultura, sob agitação de 100 rpm. As células foram
+induzidas após 24 horas por adição de 1 mM de CuSO4, e a análise de expressão de
+proteína foi feita após 96 horas e 120 horas de indução por Western blotting (Figura
+6). A análise em 120 horas foi feita em um primeiro momento enquanto a de 96 horas
+foi analisada nos outros ensaios.
+Para análise, foram retiradas amostras de cada cultivo e o sobrenadante
+coletado por ultracentrifugação e armazenado a -20°C até o momento do ensaio.
+
+Figura 6. Esquema representativo do método de produção de VLP
+
+36
+
+4.8. Análise de expressão e obtenção de VLPs
+4.8.1. Imunofluorescência indireta (IFI)
+Em intervalos de 24h após indução, foram coletadas amostras contendo 5x105
+células. As amostras foram centrifugadas a 3000 rpm, por 3 minutos a 4°C sendo
+resuspendidas e aplicadas 1x105 células por poço (10µl) para a fixação em
+metanol/acetona 1:1. Após a fixação, as lâminas com os poços foram lavadas três
+vezes com PBS 1X e posteriormente foram aplicados 10 µL de anticorpo primário antiCHIKV (tabela 2) e encubado por 1 hora em estufa à temperatura de 37°C. O processo
+de lavagem foi repetido e aplicados 10 µL por poço de anticorpo secundário antimouse IgG conjugado a FITC na diluição de 1:250 juntamente com uma solução Azul
+de Evans (1:2000) encubados por 1 hora no escuro à temperatura ambiente. Ao final
+desse período foram adicionados 10 µl de SlowFade-Gold antifade reagent e as
+amostras analisadas em microscópio de fluorescência Olympus BX21 em objetiva de
+40x, sendo descontado o background do negativo quando da análise do positivo. As
+imagens foram adquiridas por meio do aplicativo CellSens (Olympus).
+
+Tabela 2. Características dos anticorpos utilizados no IFI
+Anticorpo
+
+Descrição
+
+Anticorpo Policlonal Anti- (ATCC®)
+CHIKV
+
+Hyperimmune
+
+Diluição
+ascitic
+
+fluid 1:250
+
+(mouse)
+Reference reagent – produzido em
+camundongo.
+
+Anticorpo IgG-FITC
+
+FITC-Goat anti-mouse
+
+1:250
+
+Invitrogen®
+
+4.8.2. Western blotting
+Foram montados dois géis de poliacrilamida (Tabela 3), para a realização
+simultânea de dois processos de Western Blot, sendo um para a utilização de
+anticorpo policlonal anti-CHIKV e monoclonal anti-CHIKV. No processo destinado a
+37
+
+análise com anticorpo policlonal foram utilizados 25 µL do sobrenadante juntamente
+com 5 µL de Loading Buffer 6x com β-mercaptoretanol e a reação foi incubada a 100°C
+por 5 minutos. No outro processo, destinado a análise com anticorpo monoclonal,
+foram usados 25 µL do sobrenadante juntamente com 5 µL Loading Buffer 6x. Após
+esse procedimento cada amostra foi aplicada em seu respectivo gel. A corrida do gel
+foi realizada a 0,6 Ampere por 2 horas.
+Após a corrida, o gel para Western blotting foi colocado em um aparato
+específico para realizar a transferência úmida para a membrana de nitrocelulose
+Amersham Hybond – ECL (GE Healthcare), a 100 Ampere por 1 hora. Sendo
+posteriormente, a membrana transferida para a solução de bloqueio (leite em pó
+desnatado 5% em PBS 1x), e incubada por 1 hora com agitação. A membrana para
+Western blotting foi então lavada 2x por 10 minutos com PBS 1x. Logo após, foi
+adicionado o anticorpo primário, diluído 1:1000 em 20 mL de BSA 1%, sendo incubado
+overnight a 4°C. Após esse período, três novos procedimentos de lavagem com PBS
+1x foram realizados, e em seguida adicionou-se o anticorpo secundário, diluído 1:2000
+em 20 mL de BSA 1%, sendo novamente incubado por 1 hora sob agitação. O mesmo
+procedimento de lavagem já descrito foi realizado novamente. A membrana foi
+revelada com o reagente ECL Select, da empresa GE HealthCare, no
+fotodocumentador Uvitec Cambridge, com análise no aplicativo Alliance (Uvitec
+Cambridge).
+
+Tabela 3. Composição dos géis utilizados para SDS-PAGE e Western blotting
+Reagentes
+Acrilamida/Bis 37/ 1–40%
+
+Gel de Separação (mL) Gel de Empilhamento (mL)
+1,5
+
+0,312
+
+Tris-HCl 1,5 M - pH 8,8
+
+-
+
+0,35
+
+Tris-HCl 0,5 M - pH 8,8
+
+0,35
+
+-
+
+H2O Milli Q
+
+2,1
+
+1,85
+
+SDS 20%
+
+0,025
+
+0,0125
+
+38
+
+4.8.3. Dot Blotting
+As amostras de células foram submetidas a um processo de lise, adicionandose 100 µL de tampão RIPA, com posterior homogeneização por vortex, incubação por
+15 minutos no gelo e centrifugação em 4°C por 15 minutos a 8000 g. Posteriormente
+foi utilizado 50 µL do sobrenadante para aplicar na membrana de nitrocelulose
+Amersham Hybond – ECL (GE Healthcare). Para as amostras de vírus, aplicação de
+10 µL diretamente na membrana de nitrocelulose. Após 20 minutos de secagem, a
+membrana foi então incubada em solução de bloqueio (leite em pó desnatado 3% em
+PBS 1x) por 1 hora. A membrana foi então lavada 3x por 10 min com PBS + Tween
+20 (0,05%), e posteriormente foi adicionado o anticorpo primário, diluído 1:1000 em 3
+ml de BSA 1%, sendo encubado overnight a 4°C. Após esse período, três novos
+procedimentos de lavagem foram realizados e, em seguida, adicionou-se o anticorpo
+secundário, diluído 1:2000 em 3 ml de BSA 1%, sendo novamente incubado por 1
+hora sob agitação. O mesmo procedimento de lavagem já descrito foi realizado
+novamente. A membrana foi revelada com o reagente ECL Select, da empresa GE
+HealthCare, no fotodocumentador Uvitec Cambridge, com análise no aplicativo
+Alliance (Uvitec Cambridge).
+
+4.8.4. Citometria de fluxo (FACS)
+Em intervalos de 24 horas após a indução por CuSO4 foram coletadas amostras
+contendo 5x106 células. As células foram centrifugadas a 3000 rpm, por 3 minutos a
+4°C sendo ressuspendidas em solução com 2% de formaldeído e fixadas por 15
+minutos em temperatura ambiente. A permeabilização das células ocorreu com adição
+lenta de metanol 100%, sendo encubadas por 30 minutos no gelo e guardadas em
+freezer -20°C.
+Ao descongelar as células, foi realizada centrifugação a 3000 rpm, por 4
+minutos a 4°C para a retirada do metanol. Posteriormente as células foram
+ressuspensas com PBS 1x e novamente centrifugadas. Após o descarte do
+sobrenadante, os precipitados celulares foram incubados com 50 µL de anticorpo
+primário (descrição tabela 4) por 1 hora a temperatura de 4°C. Após ligação de
+anticorpo primário as células foram centrifugadas e ressuspendidas em 50 µL do
+39
+
+anticorpo secundário e incubadas a 4°C por 1 hora. Novamente as células foram
+centrifugadas e ressuspendidas em solução de PBS 1x e armazenadas ao abrigo de
+luz. A análise da proporção de células fluorescentes e da mediana de fluorescência
+foram realizadas no aparelho FACSCanto (Becton Dickinson), a partir da contagem
+de 10.000 eventos para cada amostra. O anticorpo conjugado ao FITC é detectado
+pelo filtro de 530 nm (FL1) sendo capaz de detectar a proteína marcada pela
+fluorescência.
+
+Tabela 4. Características dos anticorpos utilizados no (FACS)
+Anticorpo
+
+Descrição
+
+Anticorpo Policlonal Anti- (ATCC®)
+CHIKV
+
+Hyperimmune
+
+Diluição
+ascitic
+
+fluid 1:250
+
+(mouse)
+Reference reagent – produzido em
+camundongo.
+
+Anticorpo IgG-FITC
+
+FITC-Goat anti-mouse
+
+1:250
+
+Invitrogen®
+
+40
+
+5. RESULTADOS
+5.1. Adaptação das células S2CHIKV-Hy aos meios de cultura IPL-41 e Schneider
+Foi realizada a adaptação gradual das células S2CHIKV-Hy, inicialmente
+cultivadas em SF9000 III, aos meios de cultura IPL-41 modificado e Schneider. O
+processo de adaptação pode ser melhor visualizado com o diagrama abaixo (Figura
+7), de modo que cada nível representa uma semana. Na passagem com 60% de meio
+de cultura Schneider foi observada uma dificuldade na adaptação, sendo necessária
+a repetição da etapa por mais uma semana. Contudo, não apresentando um
+crescimento e adaptação ao novo meio, as células foram submetidas ao acréscimo
+de 5% de SFB, assim o meio de cultura passou de 5% para 10% de SFB em sua
+composição. Após esta modificação, as adaptações ocorreram normalmente. É
+importante ressaltar que a partir do momento que a porcentagem de adaptação atingiu
+100% de meio novo, parte da cultura celular foi congelada para constituição de um
+banco de trabalho.
+A partir de um determinado momento, foi observada modificação morfológica e
+de aderência das células devido à mudança do meio de cultura. As células S2
+apresentam formato esférico, contudo no meio Schneider foram encontradas células
+mais dispersas, semelhantes a pequenos cristais. Comparando as culturas em meio
+100% SF900III, 100% IPL-41 e 100% Schneider percebemos que nos dois primeiros
+a aderência aos frascos T eram semelhantes, enquanto que no meio Schneider a
+aderência ao frasco T era menor.
+
+41
+
+Figura 7. Diagrama representativo da adaptação aos novos meios de cultura
+
+•50% SF900III
+•50% IPL-41
+
+•40% SF900III
+•60% IPL-41
+•30% SF900III
+•70% IPL-41
+•20% SF900III
+•80% IPL-41
+•10% SF900III
+•90% IPL-41
+•5% SF900III
+•95% IPL-41
+•2% SF900III
+•98% IPL-41
+•0% SF900II
+•100% IPL-41
+
+50%
+
+50%
+
+•50% SF900III
+•50% Schneider + 5% SFB
+
+60%
+
+60%
+
+•40% SF900III
+•60% Schneider + 5% SFB
+
+60%
+
+•40% SF900III
+•60% Schneider + 5% SFB
+
+60%
+
+•40% SF900III
+•60% Schneider + 10% SFB
+
+70%
+
+•30% SF900III
+•70% Schneider + 10% SFB
+
+80%
+
+•20% SF900III
+•80% Schneider + 10% SFB
+
+90%
+
+•10% SF900III
+•90% Schneider + 10% SFB
+
+95%
+
+•5% SF900III
+•95% Schneider + 10% SFB
+
+98%
+
+•2% SF900III
+•98% Schneider + 10% SFB
+
+100%
+
+•0% SF900II
+•100% Schneider + 10% SFB
+
+70%
+
+80%
+
+90%
+
+95%
+
+98%
+
+100%
+
+5.2. Cinética preliminar de crescimento celular e expressão de VLP
+Para a determinação da melhor concentração celular inicial para os estudos,
+foram inoculados1x106 células/mL, 1,5x106 células/mL ou 2x106 células/mL. Destes,
+apenas o último foi capaz de gerar cultivos com crescimento adequado, enquanto os
+outros dois não produziram crescimento celular. Determinada a concentração do
+inóculo, foi realizada uma cinética de crescimento de células S2CHIKV-Hy induzidas
+e não induzidas com CuSO4 (Figuras 8, 9, 10) nos meios SF900III, IPL-41 e Schneider
+para comparação do meio mais eficiente para o crescimento dessas células
+transfectadas.
+O crescimento celular da linhagem S2CHIKV-Hy apresentado nos três meios
+analisados foi semelhante ao crescimento de outras células S2 transfectadas e já
+caracterizadas no laboratório. Tipicamente a concentração celular pode atingir de 1 a
+2x106 células/mL (Ventini et al., 2010).
+42
+
+Entre os tempos de 24 horas e 48 horas após inóculo, as células apresentaram
+crescimento discreto compatível com as características de fase lag (Galesi et al.,
+2008). Nas culturas induzidas, a fase exponencial de crescimento perdurou por um
+dia nos meios SF900III e IPL-41, enquanto que no cultivo com o meio de cultura
+Schneider esse comportamento foi observado durante 48 horas. A velocidade de
+crescimento celular obteve um menor valor no meio Schneider, com 0,0221 h-1,
+enquanto que nos meios SF900III e IPL-41 o crescimento se mostrou próximo entre
+os dois, sendo respectivamente, 0,0437 h-1 e 0,0406 h-1.
+
+Figura 8. Cinética de crescimento em meio SF900III
+A
+
+B
+
+Gráficos representativos da cinética de células S2CHIKV-Hy em meio de cultura SF900III, incubadas a
+28 °C a 100 rpm. Concentração celular Xv (triângulos); Viabilidade celular (traços); Indução da
+expressão em 24 horas de cultivo pela adição de 1 mM de CuSO4 (seta); (A) Células induzidas; (B)
+Células não induzidas.
+
+Figura 9. Cinética de crescimento em meio IPL-41
+A
+
+B
+
+43
+
+Gráfico representativo da cinética de células S2CHIKV-Hy em meio de cultura IPL-41, incubadas a 28
+°C a 100 rpm. Concentração celular Xv (triângulos); Viabilidade celular (traços); Indução da expressão
+em 24 horas de cultivo pela adição de 1 mM de CuSO 4 (seta); (A) Células induzidas; (B) Células não
+induzidas.
+
+Figura 10. Cinética de crescimento em meio Schneider
+A
+
+B
+
+Gráfico representativo da cinética de células S2CHIKV-Hy em meio de cultura, incubadas a 28 °C a
+100 rpm. Concentração celular Xv (triângulos); Viabilidade celular (traços); Indução da expressão em
+24 horas de cultivo pela adição de 1 mM de CuSO 4 (seta); (A) Células induzidas; (B) Células não
+induzidas.
+
+Em todos os casos, a concentração celular foi maior nas culturas não induzidas
+e suas velocidades de crescimento médio também se mantiveram elevadas se
+comparadas aos ensaios com células induzidas.
+Outro fator observado foi a expressão de VLP nas culturas celulares (Figura
+11). Amostras de sobrenadante, coletadas no período 144 horas pós inóculo, foram
+submetidas ao processo de concentração por ultracentrifugação e posteriormente
+usadas em Western Blotting, o qual revelou a ausência de proteínas estruturais
+relacionadas a CHIKV.
+
+44
+
+Figura 11. Expressão de proteínas estruturais CHIKV no sobrenadante
+
+Western Blotting para a avaliação da presença de proteínas estruturais de CHIKV no sobrenadante
+concentrado a partir do tempo de cultivo 144 horas. (1) SF900III não induzido; (2) SF900III induzido;
+(3) IPL-41 modificado não induzido; (4) IPL-41 modificado induzido; (5) Schneider 10% SFB não
+induzido; (6) Schneider 10% SFB induzido; (7) Controle positivo. A marcação foi realizada com
+anticorpo policlonal anti-CHIKV (ATCC).
+
+5.3. Cinética de crescimento celular
+Todas as culturas de células S2 recombinantes e selvagem foram induzidas em
+24 horas de cultivo com 1 mM CuSO4 para produção de VLP. Entre as quatro culturas
+celulares analisadas, a maior taxa máxima de crescimento foi observada em
+S2CHIKV-Hy SF900III (µmax de 0.0275 h-1) enquanto que nas culturas Wt SF900III e
+S2CHIKV-Hy Schneider apresentaram taxas, respectivamente, 0.0234 h-1 e 0.0182
+h-1 (Figura 12). A cultura S2CHIKV-Hy IPL-41 não demonstrando uma fase
+exponencial nítida seu µmax não foi considerado.
+Mesmo após repiques consecutivos antes do início do ensaio, foi constatado
+uma curva de crescimento celular diferente do habitual no ensaio envolvendo
+S2CHIKV-Hy IPL-41, onde apresentou uma taxa de crescimento celular médio abaixo
+das demais culturas (µmedio de 0.0098 h-1).
+
+45
+
+Figura 12. Cinética de crescimento celular
+A
+
+C
+
+B
+
+D
+
+Gráfico representativo da cinética de células S2 Wt e S2CHIKV-Hy incubadas a 28 °C a 100 rpm.
+Concentração celular Xv (triângulos); Viabilidade celular (traços); Indução da expressão em 24 horas
+de cultivo pela adição de 1 mM de CuSO4 (seta); (A) Wt em meio SF900III; (B) S2CHIKV-Hy em meio
+SF900III; (C) S2CHIKV-Hy em meio IPL-41; (D) S2CHIKV-Hy em meio Schneider.
+
+5.4. Expressão de proteínas CHIKV e VLP
+Para avaliar quantitativamente a porcentagem de células que expressam as
+proteínas estruturais de CHIKV foi realizado um ensaio por citometria de fluxo (FACS),
+assim foi possível identificar a necessidade de uma maior seleção das células
+S2CHIKV-Hy nas culturas (Tabela 5). O resultado do ensaio revelou uma taxa maior
+que 95% de células expressando proteínas de CHIKV, assim uma nova aplicação de
+higromicina para seleção populacional não foi necessária.
+
+46
+
+Tabela 5. Análise de expressão de proteínas de CHIKV em células S2CHIKV-Hy
+por citometria de fluxo
+Meio
+
+Tempo de
+
+Porcentagem de
+
+Mediana de
+
+Cultivo pós
+
+Células
+
+Fluorescência
+
+indução
+
+Fluorescentes
+
+(FITC)
+
+SF900III
+
+24h
+
+99,2
+
+10,8
+
+SF900III
+
+48h
+
+99
+
+35,5
+
+SF900III
+
+72h
+
+99,4
+
+39,6
+
+SF900III
+
+96h
+
+99,1
+
+25,5
+
+SF900III
+
+120h
+
+98,9
+
+16,8
+
+IPL-41
+
+24h
+
+99,7
+
+35,4
+
+IPL-41
+
+48h
+
+99,5
+
+19,7
+
+IPL-41
+
+72h
+
+99
+
+16,4
+
+IPL-41
+
+96h
+
+99,3
+
+11,2
+
+IPL-41
+
+120h
+
+98,6
+
+10,8
+
+Schneider
+
+24h
+
+98,9
+
+14,2
+
+Schneider
+
+48h
+
+98,7
+
+15,1
+
+Schneider
+
+72h
+
+97,5
+
+11,8
+
+Schneider
+
+96h
+
+97,3
+
+14,7
+
+Schneider
+
+120h
+
+97,1
+
+12,7
+
+Com
+
+as
+
+amostras
+
+coletadas
+
+diariamente
+
+foi
+
+realizado
+
+ensaio
+
+de
+
+Imunofluorescência Indireta (IFI) com a finalidade de avaliar por imagem a intensidade
+da expressão de proteínas virais pelas células (Figura 13). Em todos os meios a
+fluorescência em 24 horas apresentou a mesma intensidade, sendo que ao final da
+cinética, em 120 horas, a diferença de intensidade entre os meios analisados se torna
+47
+
+mais evidente. Nesta última amostragem (A 120h, B 120h, C 120h e D 120h) uma
+fluorescência de pequena intensidade foi evidenciada nas células S2 wt (selvagens).
+No entanto essa fluorescência é nitidamente distinta da encontrada nas células
+recombinantes marcadas. Entre as células S2CHIKV-Hy, o meio SF900III se mostrou
+com a menor fluorescência, seguido pelo meio IPL-41, o qual apresentou melhor
+resultado. Entre todos os cultivos, as células S2CHIKV-Hy em meio Schneider
+apresentaram uma maior marcação se comparada a todos os outros meios e tempos
+de coleta.
+
+Figura 13. Imunofluorescência para avaliação da expressão de proteína viral
+
+O teste de IFI foi realizado em diferentes tempos de cultivo com anticorpo policlonal anti-CHIK (ATCC)
+seguido de anticorpo anti-camundongo conjugado com FITC. As imagens foram obtidas em
+microscópio de fluorescência (Olympus, BX21). Aumento 40X. (A) S2 WT em meio SF900III; (B)
+S2CHIKV-Hy em meio SF900III; (C) S2CHIKV-Hy em meio IPL-41; (D) S2CHIKV-Hy em meio
+Schneider.
+
+Uma quantidade de células predefinida (1x106 células) foi amostrada a partir de
+cada cultura e os lisados celulares foram analisados por Dot Blotting. A intensidade
+48
+
+da marcação foi determinada com o auxílio do programa ImageJ, e os resultados
+comparados. À maior intensidade entre todas as amostras foi atribuído o valor de 100,
+que foi utilizado para a normalização das demais (Figuras 14 e 15). Sendo a amostra
+de Schneider 96h observada como de maior intensidade todas as outras são relativas
+a essa. As células S2CHIKV-Hy em meio SF900III apresentam um pico de incidência
+em 72 horas, com 45,78 da intensidade máxima, decrescendo gradativamente após
+esse ponto. O meio IPL-41 mostrou inicialmente uma intensidade maior que os outros
+meios atingindo um pico em 96 horas com 73,55 na escala determinada para o
+experimento, apresentando uma queda brusca em 120 horas. O meio Schneider
+apresentou as maiores intensidades a partir de 72 horas e mantendo, a partir desse
+ponto, ampla vantagem se comparado aos outros meios. Seu pico, assim como o meio
+IPL-41 ocorre em 96 horas, porém diferentemente das outras amostras a queda de
+intensidade ocorreu de forma menos acentuada.
+
+Figura 14. Expressão de proteínas estruturais de CHIKV em lisado celular
+
+Dot Blotting de lisado de células wt em meio SF900III e S2CHIKV-Hy em meio de cultura SF900III, IPL41 e Schneider. Tempos de amostras a cada 24 horas após indução por 1mM de CuSO 4.
+
+49
+
+Figura 15. Gráfico da intensidade de sinal relativa no Dot Blotting
+
+100,00
+80,00
+60,00
+40,00
+20,00
+0,00
+24H
+
+48H
+WT
+
+72H
+SF900
+
+IPL-41
+
+96H
+
+120H
+
+Schneider
+
+Gráfico com a intensidade de sinal relativa a amostra Schneider 96H no Dot Blotting. Uso do programa
+ImageJ. Tempos de cultivo pós indução por CuSO 4. (Azul) Células wt em meio SF900III; (Laranja)
+S2CHIKV-Hy em meio SF900III; (Cinza) S2CHIKV-Hy em meio IPL-41 modificado; (Amarelo)
+S2CHIKV-Hy em meio Schneider +10% SFB. Tempo de cultivo referente ao período pós indução.
+
+Os dados quando analisados em conjunto com as cinéticas indicam que a
+expressão das proteínas recombinantes está ocorrendo em todos os meios de cultura
+enquanto as células estão em crescimento, ainda que lento. No momento em que as
+células deixam de crescer, a proteína começa a cair. Isso está mais claro nos
+resultados de dot blotting, mas pode ser visto também nos resultados de FACs. De
+fato, a pequena queda de intensidade na leitura do dot blotting para o meio Schneider
+em 120 h, pode não ser significativa, uma vez que o ensaio de fluorescência apresenta
+uma expressão constante, em consequência de um crescimento lento, mas
+igualmente constante durante toda a cinética.
+
+50
+
+6. DISCUSSÃO
+As células de Drosophila melanogaster S2 aparecem como uma alternativa
+valiosa a linhagens celulares de mamífero ou outros sistemas de células de inseto
+infectadas por vírus. Esse sistema baseado na expressão recombinante a partir da
+transfecção de um plasmídeo, constitui uma ferramenta celular com grande potencial
+para a produção de proteínas de membrana em várias aplicações. Dessas aplicações
+incluímos perfis farmacológicos, kits diagnósticos, análises estruturais e geração de
+vacinas. (Brillet et al., 2010).
+O Laboratório de Imunologia Viral faz uso desse sistema de expressão baseado
+em células S2 há mais de uma década. Os primeiros trabalhos publicados do grupo
+envolvendo esse sistema foram para avaliar a expressão de glicoproteína do vírus da
+raiva e caracterizar o crescimento e metabolismo das células. (Yokomizo et al., 2007;
+Swiech et al., 2008). Devido aos resultados anteriores do grupo, esse sistema foi
+selecionado para a expressão de proteínas estruturais de arbovírus.
+A abordagem de utilização de VLP como candidato vacinal, se deve ao fato de
+existir uma combinação da eficácia das vacinas inativadas com a segurança das
+vacinas de subunidades. As VLP possuem a mesma morfologia do vírus, devido à
+expressão das proteínas estruturais, porém sem a presença do ácido nucleico, sendo
+incapazes de causar a doença. Outro fator que caracteriza a vantagem de se utilizar
+VLP é o nível de segurança. As VLP podem ser produzidas em condições normais de
+laboratório, diferentemente das vacinas com vírus inativado que necessitam de
+laboratórios com níveis de segurança mais elevados.
+O risco de contaminação em meios de cultura com soro animal dificulta a
+segurança e a padronização dos cultivos, tornando o soro um suplemento não
+desejável. Isso torna o uso de meios livres de soro e meios quimicamente definidos
+uma alternativa a esse tipo de suplementação para cultivo de células. Desta forma, a
+escolha dos meios SF900III e IPL-41 modificado foi pautada na necessidade de se
+encontrar alternativas livres de soro fetal (Puglia, 2018; Batista et al., 2011). Em
+contrapartida, o meio Schneider apesar de apresentar suplementação de SFB, foi
+escolhido por ser um meio específico para células S2.
+
+51
+
+Tendo em vista essas particularidades em relação aos meios de cultura, a
+adaptação das células a IPL-41 modificado foi realizada sem dificuldades,
+corroborando a adequação desse meio a células S2 recombinantes (Batista et al.,
+2011). Por outro lado, mesmo sendo um meio específico para células de inseto, a
+cultura em Schneider mostrou dificuldades de adaptação em meio contendo 5 % de
+SFB, visto que as células obtiveram menor crescimento e sofreram alterações em sua
+morfologia. O fornecimento insuficiente de lipídios pode ter ocasionado essa
+dificuldade (Rodrigues et al., 2012), que foi superada quando ao meio foram
+adicionados 10 % de SFB.
+Como as células S2CHIKV-Hy utilizam o promotor indutível da metalotioneína,
+existe a necessidade da adição de um metal pesado à cultura celular, para que as
+células realizem a produção da proteína heteróloga. Nas culturas induzidas com 1 mM
+de CuSO4, padrão já estabelecido pelo laboratório em células S2CHIKV-Hy (Puglia,
+2018), as células atingiram uma concentração celular máxima (Xv max) menor do que
+nas culturas não induzidas. Esse crescimento menor pode ser associado a toxicidade
+do indutor ou mesmo das proteínas de CHIKV, além disso um menor crescimento
+pode ser consequência de um metabolismo voltado não só para a síntese de proteínas
+e enzimas necessárias à multiplicação celular como também para a síntese das
+proteínas estruturais de CHIKV.
+Os dados do Western blotting (Figura 11), revelam que não foi possível detectar
+as proteínas estruturais do CHIKV no sobrenadante na cultura celular sem a devida
+concentração do material. Era esperado um padrão de bandas semelhantes a estudos
+sobre expressão de CHIKV VLP (C, E3, E2, 6k, E1) por outros sistemas de expressão
+(Noronate et al., 2014). Para esse experimento, a coleta do sobrenadante se deu no
+tempo de cultivo 144 horas (120 horas após a indução (hpi) com CuSO4). Esse
+período pode ser considerado tardio para a coleta de VLP, uma vez que as proteínas
+podem não ser tão estáveis quanto o desejado e sofrerem algum tipo de degradação.
+Também podemos considerar que a linhagem das células analisadas poderia não
+estar expressando corretamente as proteínas estruturais de CHIKV ou mesmo uma
+concentração baixa das VLP, inviabilizando a sua detecção no ensaio. Devido a esse
+resultado, foi considerado avaliar a expressão de proteínas virais e o comportamento
+das células a cada 24 horas pós indução.
+52
+
+Em uma segunda cinética (Figura 12) é notado que a concentração máxima de
+células corresponde a um número maior do que o encontrado no primeiro ensaio, para
+os meios SF900 e Schneider. Isso pode ser associado ao fato das células terem sido
+cultivadas por um período maior antes da inoculação nos frascos para a realização do
+experimento, e assim estarem mais adaptadas ao meio. O oposto ocorreu com células
+S2CHIKV-Hy no meio IPL-41 modificado (Figura 12C). Esta variação de
+comportamento pode ser associada à ação epigenética presente nas células S2 (Lyko
+et al., 2006) alterando assim a adaptação alcançada pela cultura original.
+Para analisar a expressão das proteínas de CHIKV, foram realizados
+imunoensaios, como Dot Blotting, IFI e citometria de fluxo. Em todos esses
+experimentos, foi utilizado um anticorpo policlonal anti-CHIKV (ATCC), oriundo de
+camundongos. Experimentos de citometria de fluxo foram realizados com as células
+S2CHIKV-Hy cultivadas nos diferentes meios de cultura. O intuito deste ensaio foi
+verificar a porcentagem da população de células positivas para a expressão de
+proteínas virais. Os resultados mostraram populações com mais de 95% de células
+positivas para a expressão das proteínas de CHIKV. Isso levou à conclusão de que
+novas etapas de seleção ou adaptação não eram necessárias.
+Para confirmar os dados de citometria de fluxo, foi utilizada a técnica de
+imunofluorescência indireta (IFI). O ensaio, tal qual a marcação realizada para a
+citometria, evidencia a presença de proteínas de CHIKV nas membranas de células
+S2CHIKV-Hy, porém, devido à permeabilização realizada com metanol, proteínas no
+ambiente intracelular também poderiam ser reconhecidas. Apesar dessa técnica não
+ser quantitativa, ela é válida para comparações entre diferentes condições variáveis
+de cultivo, uma vez que as amostragens e procedimentos de marcação sejam
+realizados de maneira padronizada. Como as diferenças de fluorescência não foram
+muito grandes, é possível verificar uma correspondência entre os resultados de FACs
+e IFI apenas nas células SF900 III. Esse resultado mostrou que embora a marcação
+por IFI seja capaz de mostrar a grande proporção de células expressando a proteína,
+a facilidade com que a medição da intensidade relativa de fluorescência (mediana)
+dada pela análise de FACs, torna essa técnica muito mais útil na definição de
+melhores condições de cultivo para a expressão recombinante.
+
+53
+
+Finalmente, a expressão das proteínas estruturais foi avaliada pela técnica de
+dot blotting (Figura 14). Todas as amostras foram inseridas partindo-se de uma
+mesma quantidade de células, portanto a quantidade relativa de proteínas de CHIKV
+é diretamente comparável. Dessa forma, pode-se afirmar que a amostra SF900III / 96
+hpi apresenta apenas 35% da intensidade de marcação alcançada para a mesma
+quantidade de células cultivadas em meio Schneider, no mesmo tempo (considerado
+100 % para fins de comparação). Isso pode ser consequência de duas situações: a
+menor expressão das proteínas de CHIKV em SF900III em consequência de um
+crescimento celular mais acelerado (Swiech, 2008; Rossi, 2012), ou o esgotamento
+de algum nutriente fundamental para a produção das proteínas.
+No primeiro caso, sabe-se que células com elevadas taxas de crescimento
+podem apresentar um metabolismo mais voltado à síntese de proteínas necessárias
+à multiplicação celular. Como o objetivo é expressar uma proteína recombinante
+complexa, com modificações pós-traducionais essenciais, o tempo de maturação
+pode ser importante para a sua quantidade e qualidade finais. Por outro lado, uma
+evidência clara para a tese do esgotamento de nutriente, se dá quando as células
+continuam a crescer, porém diminuem a expressão da proteína. É o que sugerem os
+resultados encontrados para a expressão em IPL-41.
+A análise de Dot blotting nesse caso foi fundamental para a diferenciação dos
+melhores tempos de produção das proteínas de CHIKV. Embora todos os cultivos
+apresentassem quantidades de células expressando as proteínas, acima de 95 % da
+população, em praticamente todos os tempos após a indução, ficou evidente que a
+quantidade de proteína expressa variou diferencialmente, segundo o meio de cultura
+utilizado. Assim, para SF900III, a maior quantidade de proteína expressa / célula se
+deu em 72 hpi, enquanto para IP-41 e Schneider, isso ocorreu em 96 hpi (Figura 15).
+Em resumo, este trabalho avaliou a utilização de meios alternativos ao SF900III
+para a cultura de S2CHIKV-Hy. Os resultados demonstraram que o meio Schneider
+com suplementação de 10% de SFB apresentou a maior quantidade de proteína de
+CHIKV expressa por célula, indicando ao mesmo tempo que a suplementação lipídica
+pode ser importante para a expressão dessas proteínas e que a taxa de crescimento
+reduzida também pode favorecer a expressão. Estudos prévios de nosso grupo de
+trabalho demonstram que as proteínas estruturais de CHIKV expressas no sistema de
+54
+
+células S2 se associam em estruturas de VLP (Puglia, 2018), assim, espera-se que o
+aumento da expressão das proteínas virais nas células se correlacione com o
+aumento da quantidade de VLP no sobrenadante.
+Contudo, para análises mais precisas do processo produtivo, é fundamental o
+desenvolvimento de um método analítico quantitativo. Para esse fim, foi parte das
+atividades deste trabalho o desenvolvimento de um teste de ELISA que ainda está em
+andamento. Quando finalizado, o teste de ELISA baseado em sensibilização com
+anticorpos policlonais de coelho anti-CHIKV, captura das VLP ou vírus padrão, e
+revelação com anticorpos policlonais de camundongo anti-CHIKV + anti-anticorposHRP, poderá correlacionar as quantidades de proteína de CHIKV produzidas pelas
+células S2 com amostras de vírus purificadas.
+
+55
+
+7. CONCLUSÃO
+•
+
+As células S2CHIKV-Hy foram capazes de se adaptar aos meios IPL-41
+modificado e Schneider + 10 % SFB e continuarem expressando proteínas de
+CHIKV.
+
+•
+
+O meio Schneider, apesar de ser específico para células de inseto, apresentou
+maior dificuldade na adaptação.
+
+•
+
+O crescimento celular foi melhor no meio SF900III.
+
+•
+
+Em todos os meios de cultura utilizados as células apresentaram populações
+com mais de 95 % de células expressando as proteínas de CHIKV.
+
+•
+
+A expressão específica relativa de proteínas estruturais de CHIKV se mostrou
+maior em partes distintas da cinética de crescimento celular, dependendo do
+meio utilizado.
+
+•
+
+A maior expressão específica foi encontrada nas células cultivadas em meio
+Schneider + 10 % SFB, 96 h após a indução.
+
+56
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+ABDELNABI R.; NEYTS, J.; DELANG L. “Towards antivirals against chikungunya
+virus”. Antiviral Reserch, v. 121, p. 59-68. Sep 2015. Disponível em: <
+https://www.ncbi.nlm.nih.gov/pubmed/26119058 >.
+AKAHATA, W. et al. “A VLP Vaccine for Epidemic Chikungunya Virus Protects NonHuman Primates against Infection.” Nature medicine. v. 16, n. 3, p. 334-8, Mar 2010.
+ISSN
+
+1546-170X.
+
+Disponível
+
+em:
+
+<
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2834826/ >.
+ASTRAY, R. M. et al. “Kinect studies of recombinant rabies virus glycoprotein (RVGP)
+cDNA transcription and mRNA translation in Drosophila melanogaster S2 cell
+population”. Cytotechnology, v. 65, n. 5, p. 829-38, Oct 2013. ISSN 0920-9096.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/23340966 >.
+BATISTA, F. R. et al. “Behavior of wild-type and transfected S2 cells cultured in two
+different media”. Appl Biochem Biotechnol, n. 163, p. 1–13. 2011. ISSN 0273-2289.
+Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/21161610 >.
+BRILLET, K.; PEREIRA, C. A.; WAGNER, R. “Expression of membrane proteins in
+Drosophila melanogaster S2 cells: production and analysis of a EGFP-fused G proteincoupled receptor as a model. Methods Mol Biol, v. 601, p. 119-33, 2010. ISSN 19406029. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/20099143 >.
+CHUNG, Y. T.; KELLER, E. B. “Regulatory elements mediating transcription from the
+Drosophila melanogaster actin 5C proximal promoter.” Mol Cell Biol, v. 10, n. 1, p. 20616,
+
+Jan
+
+1990.
+
+ISSN
+
+0036-4665.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/2104658 >.
+CUNHA, R. V. D.; TRINTA, K. S. “Chikungunya Virus: Clinical Aspects and Treatment
+- A Review.” Memórias do Instituto Oswaldo Cruz, v. 8, n. 112, p. 523–531. 2017.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/28767976 >.
+57
+
+DEZURE, A. D. et al. “Whole-Inactivated and Virus-Like Particle Vaccine Strategies for
+Chikungunya Virus.” The Journal of Infectious Diseases. v. 214. Suppl 5, p. S497–
+S499. (Dec 2016. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/27920180 >.
+DONALISIO, M. R.; FREITAS, A. R. “Chikungunya in Brazil: an emerging challenge.”
+Ver Bras Epidemiol, v. 18, n. 1, p. 283-5, 2015 Jan-Mar 2015. ISSN 1980-5497.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/25651028 >.
+DOS SANTOS, A. S. et al. “Rabies vírus glycoprotein expression. In Drosophila S2
+cells: influence of reselection on protein expression.” Biotechnol J, v. 4, n. 11, p. 157881,
+
+Nov
+
+2009.
+
+ISSN
+
+1860-7314.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/19824020 >.
+DYRING C. “Optimising the Drosophila S2 Expression System for Production of
+Therapeutic Vaccines”. BioProcess J, v. 10, n. 2, p. 28-35. 2011. Disponível em: <
+http://dx.doi.org/10.12665/J102.Dyring >.
+EDELMAN, R. et al. “Phase II safety and immunogenicity study of live chikungunya
+virus vaccine TSI-GSD-218. Am J Trop Med Hyg, v. 62, n.6, p. 681-5, Jun 2000. ISSN
+0002-9637. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/11304054 >.
+ERASMUS, J. H. et al. “A Chikungunya Fever Vaccine Utilizing an Insect-Specific Virus
+Platform.” Nature medicine, v. 23, n. 2, p. 192–199. Oct 2017. ISSN 1526-170X.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/27991917 >
+FERNANDES, F. et al. “Insect cells as a production platform of complex virus-like
+particle”. Nat Med, v. 12, n. 2, p. 225-36, Feb 2013. ISSN 1744-8395. Disponível em:
+< http://www.ncbi.nlm.nih.gov/pubmed/23414412 >.
+FIGUEIREDO, L. T. “Emergent arboviruses in Brazil”. Rev. Soc. Bras. Med. Trop.,
+Uberaba, v. 40, n. 2, p. 224-229, Apr. 2007. ISSN 0037-8682. Disponível em: <
+http://www.ncbi.nlm.nih.gov/pubmed/17568894 >.
+58
+
+FIGUEIREDO, M. L.; FIGUEIREDO, L. T. “Emerging alphaviruses in the Americas:
+Chikungunya and Mayaro”. Rev. Soc. Bras. Med. Trop., Uberaba, v. 47, n. 6, p. 677683,
+
+Dec.
+
+2014.
+
+ISSN
+
+1678-9849.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/25626645 >.
+FUENMAYOR, J.; GÒDIA, F.; CERVERA, L. “Production of virus-like particles for
+vaccines.” N Biotechnol, v. 39, n. Pt B, p. 174-180, Oct 2017. ISSN 1876-4347.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/28778817 >.
+GOO, L. et al. “A Virus-Like Particle Vaccine Elicits Broad Neutralizing Antibody
+Responses in Humans to All Chikungunya Virus Genotypes.” The Journal of Infectious
+Diseases.
+
+Sep
+
+2016.
+
+ISSN
+
+1537-6613.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/27655868 >.
+GRIVARD, P. et al. “Molecular and serological diagnosis of Chikungunya virus
+infection”. Pathol Biol, v. 55, n. 10, p. 490-494. Dec 2007. Disponível em: <
+https://www.ncbi.nlm.nih.gov/pubmed/17920211 >.
+HANDLER, M. Z. et al. “Chikungunya fever: an emerging viral infection threatening
+North America and Europe”. Int J Dermatol. Sep 2016. ISSN 1365-4632. Disponível
+em: < http://www.ncbi.nlm.nih.gov/pubmed/27667734 >.
+IWAKI, T.; CASTELLINO. F. J. “A Single Plasmid Transfection That Offers a Significant
+Advantage Associated with Puromycin Selection in Drosophila Schneider S2 Cells
+Expressing Heterologous Proteins.” Cytotechnology v. 57 n.1 p. 45–49. May 2008.
+ISSN 0902-9069. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/19003171 >.
+IWAKI, T. et al “Rapid selection of Drosophila S2 cells with the puromycin resistance
+gene”. Biotechniques, v.35, n.3, p. 482-484, Sep 2003. ISSN 0736-6205. Disponível
+em: < http://www.ncbi.nlm.nih.gov/pubmed/14513552 >.
+
+59
+
+JOHN, W. A.; SALGUEIRO, S. “The use of Drosophila S2 in R&D and bioprocessing”.
+Pharmaceutical Bioprocessing. I: 197-213 p. 2013.
+JORGE, S. A. et al. “Expression of the hepatitis B virus surface antigen in Drosophila
+S2 cells”. Cytotechnology, v. 57, p. 51–59. Jun 2008. ISSN 09209069. Disponível em:
+< https://www.ncbi.nlm.nih.gov/pubmed/19003172 >
+JOSE, J.; SNYDER J. E.; KUHN R. J. “A structural and functional perspective of
+alphavirus replication and assembly”. Future Microbiology. v. 4, p. 4:837-856. Set
+2009.
+
+ISSN
+
+1746-0921
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/19722838 >.
+KENNEDY, A. C. et al. “Chikungunya viral arthropathy: a clinical description”. J
+Rheumatol,
+
+v.
+
+7,
+
+n.
+
+2,
+
+p.
+
+231-236.
+
+Mar
+
+1980.
+
+Disponível
+
+em:
+
+<
+
+https://www.ncbi.nlm.nih.gov/pubmed/7373626 >.
+KRUTIKOV, M.; MANSON, J. “Chikungunya Virus Infection: An Update on Joint
+Manifestations and Management”. Rambam Maimonides Medical Journal. v. 7 n. 4,
+Oct
+
+2016.
+
+ISSN
+
+2076-9172.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/27824550 >.
+LEPARC-GOFFART, I. et al. “Chikungunya in the Americas”. Lancet, v. 383, n. 9916,
+p.
+
+514,
+
+Feb
+
+2014.
+
+ISSN
+
+1474-547X.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/24506907 >.
+LUA, L. H. et al. “Bioengineering virus-like particle as vaccines”. Biotechnol Bioeng v.
+111,
+
+n.
+
+3,
+
+p.
+
+425-40,
+
+Mar
+
+2014.
+
+ISSN
+
+1097-0290.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/24347238 >.
+LYKO, F. et al. “Epigenetic regulation in Drosophila”. Curr Top Microbiol Immunol, v.
+3,
+
+n.
+
+10,
+
+p.
+
+23-44.
+
+2006.
+
+Disponível
+
+em:
+
+<
+
+https://www.ncbi.nlm.nih.gov/pubmed/16909905 >.
+
+60
+
+MÄKELÄ, P. H. “Vaccines, coming of age after 200 years”. FEMS Microbiol Rev, n. 24,
+p. 9-20. Jan 2000. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/10640596
+MCCARROLL, L.; KING, L. A. “Stable insect cell cultures for recombinant protein
+production”. Curr Opin Biotechnol, v. 8, n. 5, p. 590-594, Oct 1997. ISSN 0958-1669.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/9353223 >.
+METZ, S. W. et al. “Chikungunya virus-like particles are more immunogenic in a lethal
+AG129 mouse model compared to glycoprotein E1 or E2 subunits”. Vaccine, v. 31, n.
+51,
+
+p.
+
+6092-6,
+
+Dec
+
+2013.
+
+ISSN
+
+1873-2518.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/27233282 >.
+METZ, S. W.; PIJLMAN, G. P. “Prodution of Chikungunya Virus-Like Particles and
+Dubunits Vaccines in Insect Cells.” Methods Mol Biol, v. 1426, p. 297-309, 2016. ISSN
+1940-6029. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/7533909 >.
+MOHSEN, M. O. et al. “Major findings and recent advances in virus-like particle (VLP)based vaccines”. Semin Immunol. v. 34, p. 123-132, Dec 2017. ISSN 1096-3618.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/28887001 >.
+MORAES, A. M. et al. “Drosophila melanogaster S2 cells for expression of
+heterologous genes: from gene cloning to bioprocess development”. Biotechnol Adv.
+v.
+
+30,
+
+n.
+
+3,
+
+p.613-28,
+
+May 2012.
+
+ISSN 1873-1899.
+
+Disponível em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/22079894 >.
+MORRISON, T. E. “Reemergence of chikungunya virus”. J Virol. v. 88, n. 20, p. 116447,
+
+Oct
+
+2014.
+
+ISSN
+
+1098-5514.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/25078691 >.
+MOTA, M. et al. “Mosquito-transmitted viruses - the great Brazilian challenge. Braz. J.
+Microbiol, vol. 47, suppl.1, p.38-50. Oct 2016. ISSN 1517-8382. Disponível em: <
+https://www.ncbi.nlm.nih.gov/pubmed/27818091 >.
+
+61
+
+NORANATE, N. et al. “Characterization of chikungunya virus-like particles”. PLoS One.
+v.
+
+9,
+
+n.
+
+9,
+
+p.108169,
+
+2014.
+
+ISSN
+
+1932-6203.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/25265335 >.
+PETERSEN, L. R.; POWERS, A. M. “Chikungunya: epidemiology”. F1000Res. v. 5,
+2016.
+
+ISSN
+
+2046-1402.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/26918158 >.
+PIJLMAN, G. P. “Enveloped virus-like particles as vaccines against pathogenic
+arboviruses”. Biotechnol J, v. 10, n. 5, p. 659-70, May 2015. ISSN 1860-7314.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/25692281 >.
+POWERS, A. M.; LOGUE, C. H. “Changing patterns of chikungunya virus: reemergence of a zoonotic arbivirus. J Gen Virol, v. 88, n. Pt 9, p. 2363-77, Sep 2007.
+ISSN 0022-1317. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/17698645 >.
+RODRIGUES, A. F. et al. “Adaptation of retrovírus producer cells to serum deprivation:
+Implications in lipid biosynthesis and vector production”. Biotechnol Bioeng, v. 109, n.
+5,
+
+p.
+
+1269-79,
+
+May
+
+2012.
+
+ISSN
+
+1097-0290.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/22179842 >
+ROODENHOFF, R.; ANFASA, F.; MARTINA, B. “The pathogenesis of chronic
+chikungunya: envolving concepts
+ROSS, R. W. “The virus: isolatin, pathogenic properties and relationship to the
+epidemic”. The Newala epidemic, v. 54, n. 2, p. 177-91, Jun 1956. ISSN 0022-1724.
+Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/13346078 >.
+ROSSI, N. et al. “Effect of hypothermic temperatures on production of rabies virus
+glycoprotein by recombinant Drosophila melanogaster S2 cells cultured in
+suspension”. J Biotechnol, v. 157, n. 1, Jan 2012. ISSN 0168-1656. Disponível em: <
+https://www.ncbi.nlm.nih.gov/pubmed/22820340 >.
+
+62
+
+RUNOWSKA, M. et al. “Chikungunya virus: a rheumatologist’s perspective”. Clin. Exp.
+Rheumatol. Mar 2018. n. 36, p. 494–501. ISSN 0392-856X. Disponível em: <
+http://www.ncbi.nlm.nih.gov/pubmed/29533749 >.
+SAM, I. C. et al. “Updates on chikungunya epidemiology, clinical disease, and
+diagnostics. Vector Borne Zoonotic Dis. v. 15, n. 4, p. 223-30, Apr 2015. ISSN 15577759. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/25897809 >.
+SANTOS, N. G. et al. “Impacto f recombinant Drosophila S2 cell population enrichment
+on expression of rabies virus glycoprotein. Cytotechnology, May 2016. ISSN 09209069. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/27216014 >.
+SERGON. K. et al. “Seroprevalence of chikungunya virus infection on grande comore
+island, union of the comoros, 2005”. Am. J. Trop. Med. Hyg, v. 6, n. 76, p. 1189-1193.
+Jun 2007. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/17556634 >.
+SWIECH, K. et al. “Enhanced production of recombinant rabies virus glycoprotein
+(rRVGP) by Drosophila melanogaster S2 cells through control of culture conditions”.
+Cytotechnology,
+
+v.
+
+57,
+
+p.
+
+67-72,
+
+Feb
+
+2008.
+
+Desponível
+
+em:
+
+<
+
+https://www.ncbi.nlm.nih.gov/pubmed/19003174 >.
+THARMARAJAH, K.; MAHALINGAM, S.; ZAID, A. “Chikungunya: vaccines and
+therapeutics”. F1000Res, v. 6, p. 2114, 2017. ISSN 2046-1402. Disponível em: <
+http://www.ncbi.nlm.nih.gov/pubmed/29259782 >.
+THIBERVILLE, S. D. et al. “Chikungunya fever: a clinical and virological investigation
+of outpatients on Reunion Island, South-West Indian Ocean”. PLoS Negl Trop Dis, v.
+7,
+
+n.
+
+1,
+
+p.
+
+e2004,
+
+2013.
+
+ISSN
+
+1935-2735.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/23350006 >.
+VAN DER VALK, J. et al. “Optimization of chemically defined cell culture media –
+replacing fetal bovine serum in mammalian in vitro methods”. Toxical In Vitro, v. 24,
+
+63
+
+n.4,
+
+p.1053-63,
+
+Jun
+
+2010.
+
+ISSN
+
+1879-3177.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/13346078 >.
+VASCONCELOS, P. C.; CALISHER, C. H. “Emergence of Human Arboviral Diseases
+in the Americas”, 2000-2016. Vector-Borne and Zoonotic Dideases, v. 16, n. 5, p. 295301,
+
+May
+
+2016.
+
+ISSN
+
+1530-3667.
+
+Disponível
+
+em:
+
+<
+
+https://www.ncbi.nlm.nih.gov/pubmed/26991057 >.
+WEAVER, S. C. et al. “Chikungunya virus and prospects for a vaccine”. Expert Rev
+Vaccines, v. 11, n. 9, p. 1087-101, Sep 2012, ISSN 1744-8395. Disponível em: <
+http://www.ncbi.nlm.nih.gov/pubmed/23151166 >.
+WEAVER, S. C.; REISEN W. K. “Present and Future Arboviral Threats”. Antiviral
+Research.
+
+v.
+
+85,
+
+n.
+
+2,
+
+p.
+
+328-45.
+
+Feb
+
+2010.
+
+Disponível
+
+em:
+
+<
+
+https://www.ncbi.nlm.nih.gov/pubmed/19857523 >.
+YANG, L. et al. “HIV-1 virus like particles produced by stably transfected Drosophila
+S2 cells: a desirable vaccine component”. J Virol, v. 86, n. 14, p. 7662-76, Jul 2012.
+ISSN 1098-5514. Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/22553333 >.
+YOKOMIZO, A. Y. et al. “Rabies vírus glycoprotein expression. In Drosophila S2 cells.
+I. Functional recombinant protein in stable co-transfected cell line”. Biotechnol J, v. 2,
+n.
+
+1,
+
+p.
+
+102-9,
+
+Jan
+
+2007.
+
+ISSN
+
+1860-7314.
+
+Disponível
+
+em:
+
+<
+
+http://www.ncbi.nlm.nih.gov/pubmed/17225257 >.
+ZELTINS, A. “Construction and characterization of virus-like particles: a review. Mol
+Biotechnol, v. 53, n. 1, p. 92-107, Oct 2012. ISSN 1873-1899. Disponível em: <
+http://www.ncbi.nlm.nih.gov/pubmed/23001867 >.
+
+64
+
+APÊNDICE
+
+Apêndice A
+Devido a possíveis fatores limitantes que pudessem surgir ao longo do projeto,
+foi necessária uma verificação da presença de ligação cruzada entre anticorpos para
+CHIKV e MAYV, uma vez que estudos apontam esse ocorrido (Figueiredo e
+Figueiredo, 2014). Isso garantiria a continuidade dos trabalhos de padronização caso
+ocorresse algum problema com um dos anticorpos.
+
+Figura 16. Dot blotting para verificar ligação cruzada
+
+A
+
+B
+
+C
+
+D
+
+Dot blot para verificar ligação cruzada entre anticorpos de coelho e camundongo anti-MAYV e antiCHIKV. Foram aplicados 10 µL de MAYV e CHIKV inativados em cada teste. (A) Anticorpo primário anti
+MAYV camundongo. (B) Anticorpo primário anti MAYV coelho. (C) Anticorpo primário anti CHIKV
+camundongo. (D) Anticorpo primário anti CHIKV coelho.
+
+Apêndice B
+Devido a necessidade do grupo de pesquisa em analisar quantitativamente a
+expressão de proteínas virais e análise de produtividade de VLP, tanto de proteínas
+de CHIKV quanto de MAYV, foi iniciada a padronização de um teste de ELISA.
+65
+
+Materiais e Métodos
+As placas foram sensibilizadas com anticorpo policlonal de coelho anti-CHIKV
+(tabela 6) diluído em tampão carbonato pH 9.6, incubadas a 37 °C por 1 hora e, em
+seguida, incubadas overnight a 4 °C. As placas foram bloqueadas com tampão
+carbonato contendo BSA a 3 %. Em seguida foi feita a lavagem com PBS contendo
+0,05 % Tween 20 e adicionada a amostra contendo vírus Mayaro inativado ou VLP
+em diversas diluições seriadas em tampão PBS contendo Tween 20 (0,05 %) e BSA
+(0,5 %), sendo a placa incubada novamente a 37°C por 1 hora. Após a incubação das
+amostras foram adicionados o anticorpo secundário policlonal de camundongo antiMAYV e o anticorpo terciário de cabra anti-camundongo, conjugado com peroxidase,
+cada um diluído em PBS-Tween-BSA, com incubação de uma hora e separados por
+4 lavagens. Na etapa final, a placa foi lavada 5 vezes antes da adição de substrato
+cromógeno OPD (Sigma) com concentração de 2 mg/mL em tampão citrato pH 5,4
+contendo peróxido de hidrogênio (Merck). Ao término de 15 minutos ao abrigo de luz
+foi adicionado o tampão stop (H2SO4, 4 N). A análise das amostras foi realizada no
+aparelho Multiskan (ThermoFisher) com o uso do aplicativo Ascent®. A peroxidase
+presente nos anticorpos terciários ligados após a série de procedimentos, converte o
+peróxido de hidrogênio em água e oxigênio, que por sua vez oxida o substrato
+cromógeno, fazendo com que mude de cor. A leitura da transmitância da amostra a
+492 nm é convertida em valores de absorbância, ou que são proporcionais à
+quantidade da amostra capturada na placa.
+
+66
+
+Tabela 6. Características dos anticorpos utilizados na ELISA
+Anticorpo
+
+Descrição
+
+Anticorpo Policlonal Anti- (ATCC®)
+CHIKV
+
+Hyperimmune
+
+Diluição
+ascitic
+
+fluid 1:500
+
+(rabbit)
+Reference reagent – produzido em
+coelho.
+
+Anticorpo Policlonal Anti- (ATCC®)
+MAYV
+
+Hyperimmune
+
+ascitic
+
+fluid 1:2000
+
+(mouse)
+Reference reagent – produzido em
+camundongo.
+
+Anticorpo IgG-HRP
+
+Goat anti-mouse HRP
+
+1:2000
+
+KPL®
+
+Resultado e Discussão
+
+Figura 17. Gráfico de absorbância das diluições
+3,5
+3
+2,5
+
+2
+1,5
+1
+0,5
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Padronização incompleta de teste ELISA. Sensibilização de placa com anticorpo anti CHIKV coelho
+(1:500); anticorpo secundário mouse anti CHIKV (1:2000); anticorpo terciário anti mouse HRP (1:2000);
+(1) Diluição 1:10; (2) Diluição 1:100; (3) Diluição 1:1000; (4) Diluição 1:2000; (5) Diluição 1:4000; (6)
+Diluição 1:8000; (7) Branco. OPD em 2 mg/mL.
+
+67
+
+É possível notar que em diluições menores o gráfico tende a uma reta com
+tendência a zero, o que é esperado do teste ELISA, contudo quando aumentamos a
+diluição todos os pontos apresentam o mesmo valor de absorbância que o controle
+negativo. Possivelmente pode estar ocorrendo ligações inespecíficas dos anticorpos
+ou a concentração de OPD pode estar elevada a ponto de omitir o sinal do anticorpo
+ligado a proteína viral. Para a continuidade do trabalho, novos ensaios com essas
+variantes são necessários.
+
+68
+
+

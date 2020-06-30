@@ -1,0 +1,1307 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINA DE RIBEIRÃO PRETO
+
+MARIANE FÁVERO CARRARO
+
+PRODUÇÃO HETERÓLOGA E CARACTERIZAÇÃO FUNCIONAL DE
+ANTICORPOS DE CADEIA ÚNICA ANTI-OLIGÔMEROS DO PEPTÍDEO βAMILOIDE.
+
+RIBEIRÃO PRETO
+2018
+
+MARIANE FÁVERO CARRARO
+
+PRODUÇÃO HETERÓLOGA E CARACTERIZAÇÃO FUNCIONAL DE
+ANTICORPOS DE CADEIA ÚNICA ANTI-OLIGÔMEROS DO PEPTÍDEO βAMILOIDE.
+
+Trabalho de Conclusão de Curso apresentado ao
+Curso de Ciências Biomédicas da Faculdade de
+Medicina de Ribeirão Preto da Universidade de São
+Paulo como requisito à obtenção de título de
+Bacharel em Ciências Biomédicas com Ênfase em
+Ciências Básicas da Saúde.
+
+Orientador: Adriano Silva Sebollela
+
+RIBEIRÃO PRETO
+2018
+
+Dedico este trabalho aos meus pais, Luiz e
+Sueli por me ensinaram os valores mais
+preciosos da vida, por me ensinarem a ser forte
+diante das dificuldades e por me ensinarem o
+simples e verdadeiro significado de amor e
+família. Ao meu irmão, Luiz Gustavo por
+sempre estar ao meu lado com seu ombro
+amigo. E ao meu companheiro, Igor, por me
+incentivar e por acreditar tanto em mim.
+
+AGRADECIMENTOS
+
+Agradeço à Deus por ter iluminado meus caminhos para alcançar meus sonhos, e pelas
+pessoas incríveis que Ele colocou no meu caminho.
+Agradeço aos meus pais Luiz e Sueli, por nunca mediram esforços pela minha
+educação e pelos meus sonhos, podem ter certeza que se eu cheguei até aqui foi por vocês.
+Ao meu irmão Luiz Gustavo, que sempre foi meu melhor amigo, por ter me incentivado tanto
+em cada uma das minhas conquistas e por ser alguém tão especial para mim. A minha vozinha
+Glória e aos meus avôs Vicente, Luiz e Geralda, que não estão mais aqui, mas estão sempre
+ao meu lado me iluminando e protegendo, e a toda minha família por acreditarem em mim,
+por me apoiarem, por cada cafezinho e pão de queijo que fizeram enquanto eu estudava. Eu
+amo muito vocês.
+Ao meu companheiro Igor, por me apoiar e me incentivar a correr atrás dos meus
+sonhos, por não me deixar abalar diante das dificuldades e por cuidar de mim com tanto amor.
+Aos amigos que fiz na CB, em especial ao Jojo, a Jéssica, a Warzinha, a Samuzinha e
+a Morgs, pela nossa união em todos os momentos incríveis e desesperadores que passamos
+juntos nestes anos. Pelas madrugadas viradas fazendo seminários, pelos cafés da cantina,
+pelas conversas no balanço, pelos almoços no bandex, pelas festas juntos e pelos abraços
+aconchegantes. Amo vocês, meus formations.
+Aos professores e coordenadores que participaram da criação e da história do curso de
+CB, em especial a Prof. Angela, que se dedicaram a nos ensinar o amor pela ciência e a lutar
+pelo conhecimento. Eu admiro muito vocês, obrigada por acreditarem na CB e em nós.
+Ao meu orientador, Adriano, por acreditar em mim e pelas oportunidades recebidas,
+por ter acompanhado as minhas conquistas e a minha evolução nesses anos, e por ter me
+ensinado tanto sobre o valor da ciência, especialmente a bioquímica.
+Ao pessoal do laboratório, agradecendo a cada um de uma forma especial. Ao André
+por ensinar tanto sobre bioquímica e por me incentivar a ser curiosa, buscando o
+conhecimento. A Nath, por me ensinar a ser persistente e a Glaucia por ser companheira de
+lab e CB. E a Niele, a Raquel e a Andressa por todo apoio que me deram como amigas, pelo
+nosso cafezinho de cada manhã que tornava o dia mais leve, e por todas alegrias divididas.
+Aos funcionários do departamento de Bioquímica e Imunologia da FMRP, por todo
+suporte e por toda estrutura.
+À FAPESP pela concessão da bolsa de Iniciação Científica.
+
+LISTA DE FIGURAS
+
+Tabela 1 - Comparação entre o rendimento dos protocolos de produção de NUsc1, de acordo
+com a linhagem de E.coli utilizada e a fonte de purificação do anticorpo................................27
+Figura 1 - Processamento da proteína precursora amiloide (APP)..........................................15
+Figura 2 - Esquema de uma Ig e de um fragmento de anticorpo do tipo scFv........................17
+Figura 3 - Análise por SDS- PAGE de NUsc1 purificado por cromatografia de afinidade....28
+Figura 4 - Gráfico da dosagem de proteína nos eluatos da purificação de NUsc1 em coluna de
+proteína A..................................................................................................................................29
+Figura 5 - Comparação da purificação de NUsc1 a partir do meio de cultura ou pellet
+bacteriano..................................................................................................................................30
+Figura 6 - SDS- PAGE de NUsc1 purificado mantido a 4ºC, e após liofilização ou
+desalting....................................................................................................................................31
+Figura 7 - Detecção da formação de NUsc1/ AβO em comparação com a interação de um
+scFv controle com AβOs...........................................................................................................33
+Figura 8. Alinhamento das sequências codificantes dos anticorpos tipo scFv NUsc1, 3, 5, 6, 7
+e 10............................................................................................................................................35
+Figura 9. Alinhamento das sequências de aminoácidos das CDR-Hs dos NUscs e outros
+anticorpos..................................................................................................................................37
+Figura 10. Alinhamento das sequências de aminoácidos das CDR-Ls dos NUscs e outros
+anticorpos..................................................................................................................................39
+
+ABREVIAÇÕES
+Aβ: β-amiloide
+AβOs: oligômeros do peptídeo Aβ
+APP: Amyloid Precursor Protein
+BACE1: β- secretase 1
+BSA: Bovine Serum Albumin
+CDR: Complementarity-determinig region
+CDR-L Complementarity-determining region on the light chain
+CDR-H Complementarity-determining region on the heavy chain
+DA: Doença de Alzheimer
+DNA: Deoxyribonucleic acid
+DO: densidade óptica
+E. coli: Escherichia coli
+EDTA: Ethylenediamine tetraacetic acid
+ELISA: Enzyme-Linked Immunosorbent assay
+Fc: Fragment crystallizable
+HRP: Horseradish Peroxidase
+IgG: Imunoglobulina G
+IPTG: Isopropil- β-D-1-tiogalactopiranosídeo
+LPS: lipopolissacarídeos
+MAP: proteína associada a microtúbulos
+MEGA: Molecular Evolutionary Genetics Analysis
+NFT: emaranhados neurofibrilares
+NUsc: Northwestern University single-chain
+NSB: Núcleo de Serviços em Biotecnologia
+NMDA: N-metil-D-aspartato
+NMDAR: Receptor do tipo NMDA
+PBS: phosphate-buffered saline
+PET: tomografia por emissão de pósitrons
+PMSF: phenylmethane sulfonyl fluoride
+sAPP: APP solúvel
+scFv: single-chain variable fragment (Fragmento de anticorpo de cadeia única)
+
+SDS-PAGE: sodium dodecyl sulfate–polyacrylamide gel electrophoresis
+TMB: Solução Cromogênica de Tetrametilbenzidina
+TNF-α: Fator de Necrose Tumoral α
+
+RESUMO
+
+A Doença de Alzheimer (DA) é caracterizada pelo acúmulo de agregados do peptídeo βamiloide, sendo os oligômeros solúveis as principais espécies responsáveis pela perda
+sináptica e consequente demência. Entretanto, a estrutura dos oligômeros solúveis de Aβ
+(AβOs), assim como os mecanismos moleculares pelos quais os AβOs exercem sua
+neurotoxicidade, ainda não são completamente conhecidos. Nesse projeto, buscamos ampliar
+o estudo bioquímico e funcional dos anticorpos artificiais de cadeia única (scFv) anti- AβOs
+denominados NUsc’s, que são anticorpos capazes de discriminar oligômeros de Aβ de
+monômeros e de agregados insolúveis. Os objetivos específicos do projeto envolveram a
+produção heteróloga do scFv NUsc1 em E.coli, e a avaliação da especificidade da formação
+do complexo entre NUsc1 e os AβOs. Além disso, a determinação da sequência codificante de
+outros anticorpos NUsc’s, e a identificação dos sítios de ligação ao antígeno (CDR) nesses
+anticorpos, foram realizados. Acreditamos que os dados gerados nesse trabalho contribuirão
+na determinação do potencial dos NUscs como ferramenta diagnóstica e terapêutica para a
+Doença de Alzheimer em um futuro próximo.
+
+Palavras chaves: Doença de Alzheimer, peptídeo β amiloide; oligômeros, anticorpos
+artificiais de cadeia única; NUsc’s
+
+ABSTRACT
+
+Alzheimer's Disease (AD) is characterized by the accumulation of β-amyloid peptide
+aggregates, with soluble oligomers being the main species responsible for the synaptic loss
+and the consequent dementia. However, the structure of Aβ soluble oligomers (AβOs), as well
+as the molecular mechanisms by which the AβOs exert their neurotoxicity, are not yet fully
+understood. In this project, we sought to expand the biochemical and functional studies on the
+artificial single-chain antibodies (scFv) anti-AβOs named NUsc's, which are antibodies
+capable of discriminating Aβ oligomers from monomers and insoluble aggregates. The
+specific goals of this work were the heterologous production of the scFv NUsc1 in E. coli, and
+the evaluation of the specificity of NUsc1 complex formation with AβOs. In addition,
+determination of the coding sequences for other NUsc's, and the identification of the
+complementarity determining regions (CDRs) in those antibodies, were performed. We
+believe that the data generated in this work will contribute to the determination of the
+potential of NUscs as diagnostic and therapeutic tools for Alzheimer's disease in the near
+future.
+
+Keywords: Alzheimer's
+antibodies; NUsc's
+
+disease,
+
+β-amyloid
+
+peptide;
+
+oligomers,
+
+single-chain
+
+SUMÁRIO
+
+1) INTRODUÇÃO..........................................................................................................13
+1.1-
+
+A Doença de Alzheimer: aspectos moleculares.....................................................13
+
+1.2-
+
+Anticorpos artificias de tipo scFv anti-AβOs.........................................................16
+
+1.3-
+
+Anticorpos NUsc....................................................................................................17
+
+2) OBJETIVOS...............................................................................................................20
+2.1-
+
+Objetivo Geral........................................................................................................20
+
+2.2-
+
+Objetivos Específicos.............................................................................................20
+
+3) MATERIAIS E MÉTODOS......................................................................................22
+3.1-
+
+Produção heteróloga do anticorpo NUsc1 em E.coli .............................................22
+
+3.2-
+
+Purificação do anticorpo NUsc1.............................................................................22
+3.2.1- Purificação do anticorpos a partir do meio de cultura..................................22
+3.2.2- Purificação do anticorpo NUsc1 a partir do pellet........................................23
+
+3.3-
+
+Desalting e Liofilização do anticorpo NUsc1.........................................................23
+
+3.4-
+
+ELISA para identificação de formação de complexo entre NUsc1 e AβOs...........23
+
+3.5-
+
+Sequenciamento de DNA e alinhamento de NUscs................................................24
+
+4) RESULTADOS............................................................................................................27
+4.1-
+
+Produção e purificação do anticorpo NUsc1...........................................................27
+
+4.2-
+
+Especificidade da formação do complexo NUsc1- AβOs.......................................31
+
+4.3-
+
+Obtenção das sequências codificante dos anticorpos NUsc e comparação de
+CDRs.......................................................................................................................33
+
+5) DICUSSÃO..................................................................................................................41
+6) CONCLUSÃO.............................................................................................................47
+REFERÊNCIAS BIBLIOGRÁFICAS............................................................................50
+
+INTRODUÇÃO
+
+1
+
+1) INTRODUÇÃO
+
+1.1- A Doença de Alzheimer: aspectos moleculares.
+
+Com o aumento da expectativa de vida da população mundial, o número de indivíduos
+acometidos por doenças degenerativas cresce significativamente. Dentre estas doenças estão
+incluídas as amiloidoses, que são patologias caracterizadas pelo acúmulo proteico anormal em
+diversos tecidos. Uma amiloidose relevante que gera custos significativos para saúde pública
+é a Doença de Alzheimer (DA), responsável pela maioria dos casos de demência no mundo
+(SCHELTENS et al., 2016). Dados de 2009 apontaram cerca de 35 milhões de casos de
+demência no mundo, sendo a maioria em pessoas acima de 60 anos, com perspectiva de
+chegar a 115,4 milhões de casos em 2050 (Relatório sobre a doença de Alzheimer no Mundo,
+2009). O aumento da prevalência de DA é ainda mais significativo em países em
+desenvolvimento, em que a população se encontra em processo de envelhecimento, do que em
+países da Europa Ocidental e os EUA, que já apresentam uma população majoritariamente
+idosa (SCHELTENS et al., 2016).
+A DA foi descrita pela primeira vez em 1906, pelo neuropatologista alemão Alois
+Alzheimer (BERCHTOLD; COTMAN, 1998). Trata-se de um transtorno neurodegenerativo,
+caracterizado pela perda de sinapses, que leva ao declínio progressivo de funções cognitivas,
+como memória, atenção e linguagem (KOROLEV, 2014). Os sintomas clínicos que
+caracterizam o estágio inicial da DA resultam da perda de sinapses e morte neuronal em
+regiões particularmente associadas às memórias, (LAFERLA; GREEN; ODDO, 2007). Com
+o avanço da doença, o declínio inicialmente sutil das funções cognitivas se acentua, de forma
+que o paciente passa a apresentar grande dificuldade em executar tarefas do seu cotidiano de
+forma independente, e aos poucos é retirado de suas funções sociais. Ao atingir o estágio mais
+severo, o paciente perde sua capacidade de interagir com o meio, apresentando confusões com
+relação ao tempo e lugar. Perde aos poucos a capacidade de se comunicar, apresentando
+déficit em linguagem, perda significativa de memórias e mudanças de personalidade,
+incluindo apatia e depressão, sintomas que se agravam progressivamente até o estágio final da
+vida do paciente (THE ALZHEIMER’S ASSOCIATION, 2017).
+Apesar da clara relevância da doença para saúde pública mundial, ainda não existem
+tratamentos que possibilitem a regressão da DA, nem método diagnóstico pré-óbito definitivo.
+
+2
+
+Atualmente, existem apenas abordagens farmacológicas que buscam retardar o avanço da
+doença e o consequente agravamento dos sintomas. Além disso, o diagnóstico preciso é dado
+apenas pela identificação post mortem de marcadores histopatológicos no cérebro dos doentes
+(placas senis e emaranhados neurofibrilares). O diagnóstico também é feito a partir das
+observações clínicas dos sintomas em conjunto com mapeamento estrutural do cérebro, por
+meio de exames como tomografia por emissão de pósitrons (PET), e ressonância magnética
+funcional. Contudo, essas abordagens diagnósticas tem limitações. Quando o paciente
+apresenta queixas quanto aos sintomas, característicos da DA, e através do imageamento notase aumento significativo da densidade de fibras e placas, a doença já está em um estágio mais
+avançado, e os tratamentos são pouco eficientes em comparação caso a doença tivesse sido
+diagnosticada precocemente.
+Os mecanismos moleculares para o desenvolvimento da DA ainda não estão
+completamente esclarecidos. A complexidade da doença, que envolve diversos fatores como a
+idade, histórico de outras doenças, fatores moleculares, genéticos e até mesmo ambientais
+(BLENNOW; DE LEON; ZETTERBERG, 2006), tem dificultado a compreensão completa da
+patogênese da DA. Contudo, já está bem estabelecido que a DA é caracterizada pelo acúmulo
+do peptídeo β-amiloide (Aβ) no cérebro (GOLDGABER et al., 1987; SISODIA, 1992;
+ROHER et al., 1993), que por sua vez se agrega formando estruturas solúveis (oligômeros) e
+insolúveis (fibras e placas senis); e também pelo acúmulo da proteína tau na forma
+hiperfosforilada, que forma os emaranhados neurofibrilares (NFTs) (TOMLINSON et al.,
+1968; TOMLINSON et al., 1970; GOLDSTEIN, 1990; O'BRIEN; WONG 2011).
+A Tau é uma proteína associada a microtúbulos (MAP) abundante em neurônios, que
+atua na estabilização dos microtúbulos axonais. Entretanto, quando a Tau é anormalmente
+hiperfosforilada, ela se agrega formando os NFTs, o que por sua vez leva a desestabilização
+dos microtúbulos, defeitos no transporte de neurotransmissores, e consequente disfunção
+neuronal (KOLAROVA et. al.,2012). Já o peptídeo Aβ, que pode ter 40 ou 42 aminoácidos, é
+gerado a partir do processamento fisiológico da proteína precursora amiloide (APP)
+(O'BRIEN; WONG 2011). A APP é uma proteína transmembranar, produzida de forma
+abundante em neurônios, e seu processamento ocorre por duas vias principais: a via nãoamiloidogênica, na qual as enzimas α- e γ-secretase liberam os fragmentos p3 e sAPPα, não
+patogênicos; e a via amiloidogênica, em que a ação das enzimas β- secretase (BACE1) e γsecretase geram um fragmento não patogênico (sAPPβ) e o peptídeo Aβ, que pode apresentar
+tamanhos distintos dependendo da posição em que a γ-secretase cliva a APP (CARDINALE;
+BIOCCA 2008) (Fig. 1).
+
+3
+
+Figura 1: Processamento da proteína precursora amiloide (APP). O processamento pode ocorrer
+pela via não-amiloidogênica, no qual a clivagem pela α-secretase gera os fragmentos sAPPα e C83
+(um fragmento C-terminal de 83 aminoácidos), que por sua vez é clivado pela γ-secretase, liberando
+p3. Ou pela via amiloidogênica que inicia-se com a BACE-1, que cliva a AAP gerando sAPPβ (nãopatogênico) e C99, e este então é clivado pela γ-secretase produzindo o peptídeo Aβ (reproduzido de
+QUERFURTH; LAFERLA, 2010).
+
+Sabe-se que o peptídeo Aβ só é neurotóxico se houver formação de agregados
+(LORENZO; YANKNER, 1994; WALSH; SELKOE, 2007), e que esse peptídeo têm
+capacidade de agregar espontaneamente no cérebro, especialmente a forma de 42 aminoácidos
+(Aβ42), que possui uma cinética de agregação mais rápida (GREICIUS; ROSEN; MILLER,
+2003; WU, 2013). De acordo com a hipótese da cascata amiloide, proposta originalmente por
+Hardy e Higgins (1992), o acúmulo de um peptídeo no cérebro (Aβ), que se agrega formando
+as placas senis (fibras insolúveis), seria o principal fator de patogênese da doença. Porém,
+estudos mais recentes indicaram que agregados solúveis de Aβ, denominados oligômeros
+(AβOs), são as principais espécies que desempenham o papel de neurotoxina na patogênese
+da DA (FERREIRA; KLEIN, 2011; CLINE et al., 2018). Apesar de não se saber com detalhes
+os mecanismos de patogênese da DA, alguns possíveis mecanismos já foram propostos, e tem
+como base os meios pelos quais os oligômeros exerceriam sua neurotoxicidade. Alguns
+estudos indicam que a neurotoxicidade é mediada pela interação dos AβOs com receptores
+neuronais como o receptor de glutamato do tipo NMDA (NMDAR), causando um
+desequilíbrio na homeostase de cálcio e estresse oxidativo (SAKONO; ZAKO 2010).
+
+4
+
+A despeito do conhecimento acumulado sobre a atividade neurotóxica dos agregados
+de Aβ, a identidade bioquímica das espécies de AβOs que são relevantes para DA ainda é
+desconhecida (VIOLA; KLEIN, 2015). Alguns estudos propõem que oligômeros de baixo
+peso molecular tem um papel chave na patogênese da DA (LI et al., 2011; FIGUEIREDO et
+al., 2013), enquanto outros propõem que os oligômeros solúveis de alto peso possuem o papel
+principal de neurotoxina (VELASCO et al. 2012; SEBOLLELA et al. 2014; 2017; SAVIOZ
+et al. 2016). Apesar dessas divergências, já é reconhecido pela literatura que conformações
+distintas de AβOs apresentam neurotoxicidade diferencial (FIGUEIREDO et al. 2013).
+
+1.2- Anticorpos artificias de tipo scFv anti-AβOs.
+A partir dos estudos que apontaram os AβOs como principais neurotoxinas
+relacionadas à patogênese da DA, aumentou-se a busca por anticorpos específicos para as
+espécies oligoméricas. Foram descritos alguns anti-AβOs, gerados por imunização animal,
+com capacidade de neutralizar os oligômeros tanto in vitro, quanto in vivo (LAMBERT et al.,
+2007;XIAO et al., 2013). Esses anticorpos específicos para oligômeros, chamados de
+conformacionais, apareceram como alternativa promissora aos anticorpos anti-Aβ
+previamente usados que, apesar de reduzir a neurotoxicidade do Aβ em modelos animais, não
+apresentaram melhoras significativas na perda cognitiva em portadores de DA quando levados
+a testes clínicos (DODART et al., 2002; KOTILINEK et al., 2002; KLYUBIN et al., 2008).
+Uma possível causa para a falha nos testes clínicos pode estar relacionada ao fato de que os
+anticorpos tipo IgG anti-Aβ utilizados, por não serem específicos para oligômeros, ao serem
+administrados nos pacientes, interagiam com os abundantes monômeros de Aβ e com os
+agregados fibrilares insolúveis de Aβ presentes no cérebro, resultando em poucas moléculas
+disponíveis para neutralizar o alvo mais importante, os AβOs.
+Mais recentemente, nosso grupo tem avaliado o potencial da utilização de fragmentos
+de anticorpos do tipo scFv (single-chain variable fragment) que apresentam alta
+especificidade e afinidade pelos AβOs (VELASCO et al., 2012;SEBOLLELA et al., 2017).
+Os scFv’s são anticorpos artificiais formados por uma cadeia única de 30kDa, que não
+apresentam a porção Fc, e são compostos pelas regiões variáveis das cadeias leve e pesada das
+imunoglobulinas, sendo estas ligadas por um curto peptídeo, de cerca de 25 aminoácidos, rico
+em Gly e Ser, que garante flexibilidade a molécula (Fig. 2).
+
+5
+
+Figura 2. Esquema de uma Ig e de um fragmento de anticorpo do tipo scFv. O scFv é composto
+pelas as cadeias leve e pesada da região variável. Estas são conectadas por um linker de glicina/serina.
+
+Além disso, os anticorpos scFv apresentam características interessantes como
+estratégia terapêutica para doenças neurodegenerativas, pois se comparados aos anticorpos do
+tipo IgG, os scFvs são moléculas pequenas, o que é atraente quando o alvo terapêutico é um
+órgão de difícil acesso como o cérebro, e ainda são poucos imunogênicos por não
+apresentarem a porção Fc, diminuindo a possibilidade de provocar uma reação inflamatória no
+paciente (TURNER et al., 1997). Além disso, podem ser produzidos em E.coli, permitindo
+uma produção em larga escala a baixo custo (GAO et al., 1999; MONNIER, 2013).
+
+1.3- Anticorpos NUsc.
+
+Os NUsc’s são anticorpos artificiais humanizados do tipo scFv, com alta
+especificidade por espécies oligoméricas de Aβ. Foram selecionados por nosso grupo, em
+colaboração com o grupo do Professor William Klein (Northwestern University, EUA), a
+partir da biblioteca de scFv Tomlinson I e J (NISSIM et al., 1994). Essa biblioteca é composta
+por fagomídeos (vetores de clonagem com capacidade tanto para replicação plasmidial quanto
+para replicação derivada de bacteriófago), que carregam cerca de 107 diferentes sequências de
+scFv, que estão fusionadas a sequência de uma proteína do capsídeo do bacteriófago. Esta
+biblioteca de scFv foi utilizada para obtenção de fragmentos de anticorpos específicos para
+AβOs através do método de phage display (VELASCO et al., 2012). Na seleção por phage
+display, os scFvs dessa biblioteca foram testados contra os AβOs, e foram isolados apenas os
+
+6
+
+scFvs que apresentaram alta afinidade e especificidade para AβOs, que foram isolados e
+denominados NUsc’s (SEBOLLELA et al., 2017).
+Desde então, estudos vem sendo realizados, com foco em NUsc1, um dos NUsc’s
+selecionados. Verificou-se que NUsc1 é capaz de interagir especificamente com oligômeros,
+sem reconhecer outras estruturas de Aβ, como agregados insolúveis ou monômeros
+(VELASCO et al., 2012, SEBOLLELA et al., 2017). NUsc1 foi capaz de detectar os AβOs
+em cultura primária de neurônios e em cérebro de camundongos transgênicos APP/PS1. Além
+disso, NUsc1 se mostrou neuroprotetor em estudos in vitro ao reduzir o acúmulo de espécies
+reativas de oxigênio e hiperfosforilação de Tau, (SEBOLLELA et al., 2017). E ainda, análises
+bioquímicas indicaram que a subpopulação de AβO alvo de NUsc1 tem massa molecular
+acima de 50kDa (SEBOLLELA et al., 2017). Essa observação é de grande relevância, pois
+sabe-se que há uma relação entre a neurotoxicidade e a massa molecular dos oligômeros de
+Aβ (FIGUEIREDO et al., 2013).
+Portanto, estes resultados apontam que NUsc1 tem como alvo principal uma espécie
+de AβO específica (ou uma subpopulação) que é relevante para patogênese da DA.
+Pretendemos a partir de agora expandir esses estudos para os outros anticorpos do conjunto,
+realizando análises bioquímicas para identificação do padrão de oligômeros neurotóxicos
+reconhecidos por outros NUsc’s. Acreditamos que, nesse caminho, poderemos chegar ao
+desenvolvimento de anticorpos artificiais com potencial terapêutico contra oligômeros de Aβ
+e, portanto, para tratar a DA.
+
+7
+
+OBJETIVOS
+
+8
+
+2) OBJETIVOS
+
+2.1- Objetivo Geral:
+
+O Objetivo geral desse projeto foi aumentar o conhecimento bioquímico e funcional
+sobre os anticorpos de cadeia única anti-AβOs NUsc, considerando possíveis aplicações
+futuras em pesquisa, diagnóstico e tratamento da Doença de Alzheimer com base na
+neutralização dos AβOs.
+
+2.2- Objetivos Específicos:
+
+
+Expressão heteróloga e purificação do anticorpo NUsc1 em E.coli.
+
+
+
+Avaliação da especificidade da formação de complexo entre NUsc1 com AβOs
+
+
+
+Determinar a sequência codificante de outros NUsc’s, e identificar os sítios de
+ligação ao antígeno (CDRs) nesses anticorpos.
+
+9
+
+MATERIAIS E MÉTODOS
+
+10
+
+3) MATERIAIS E MÉTODOS
+
+3.1- Produção heteróloga do anticorpo NUsc1 em E.coli
+A expressão de NUsc1 foi realizada usando bactérias E.coli da cepa HB2151 transformadas
+previamente com o vetor pIT-2 contendo a sequência codificadora para NUsc1 (Velasco et al.,
+2012; Sebollela et al., 2017). As bactérias foram crescidas em uma placa de petri contendo
+meio TYE sólido, com ampicilina e 1% de glucose. Foi utilizada uma colônia isolada para
+inocular 10 ml de meio 2xTy, suplementado com ampicilina e 1% de glucose, que foi
+incubado no shaker a 37°C, 220-250 rpm, overnight. No dia seguinte, o pré-inóculo foi
+diluído 1:100 em 1 litro de meio 2xTy, com ampicilina e 0,1% de glucose, que foi incubado a
+37ºC sob agitação de 250 rpm, até a cultura atingir a D.O. de 0,7. Em seguida, foi adicionado
+0,5mM de IPTG (Isopropil-b-D-galactosídeo) a fim de induzir a expressão do anticorpo. A
+cultura foi incubada overnight sob agitação de 220 rpm a 30°C. No dia seguinte, a cultura foi
+centrifugada a 5000g por 60 minutos a 4°C. Após a centrifugação, o sobrenadante foi coletado
+e centrifugado novamente a 5000g por 30 minutos a 4°C, e imediatamente usado na
+purificação do anticorpo.
+
+3.2 -Purificação do anticorpo NUsc1
+3.2.1- Purificação do anticorpos a partir do meio de cultura
+O meio de cultura utilizado para a purificação do NUsc1, proveniente da centrifugação
+descrita acima, foi diluído na proporção 1:2 em PBS pH 7,4 gelado. A coluna de proteína A
+utilizada foi a HiTrap Protein A HP (GE), de 1 ml, que foi previamente lavada com água
+milli-Q (5 volumes de coluna), e depois equilibrada com 10 volumes de coluna de PBS pH
+7,4, sendo que todo o processo de preparação da coluna e purificação do anticorpo ocorreu a
+4°C (em câmara fria). O meio diluído em PBS foi carregado na coluna em fluxo de
+0,7ml/min. Após o carregamento, a coluna foi lavada com 50 volumes de coluna de PBS pH
+7,4 + 300mM de NaCl e depois, lavada com 80 volumes de coluna de PBS pH 7,4. Os
+microtubos que iriam receber os eluatos foram identificados e receberam 60 μL de Tris 1M
+pH 8 para neutralizar a glicina utilizada na eluição. NUsc1 foi eluído da coluna com tampão
+glicina 100 mM pH 3, com fluxo máximo de 0,7ml/min, em frações de 250μl. Após a eluição,
+a quantificação de NUsc1 foi realizada pelo método de Bradford (BioRad). Cada fração
+obtida na eluição foi diluída 10 vezes em PBS, e quantificada em triplicata.
+
+11
+
+3.2.2- Purificação do anticorpo NUsc1 a partir do pellet
+O pellet bacteriano utilizado para a purificação do NUsc1, proveniente da
+centrifugação, foi ressuspendido em 30ml do tampão de lise (20mM de fosfato de sódio +
+500mM de NaCl pH 7,4), com adição de PMSF, com concentração final de 1mM, e MgCl ²
+com concentração final de 0,5mM. Durante todo o processo de lise o pellet foi mantido em
+gelo. Após isto, foi adicionado também DNAse (concentração final de 0,01mg/ml), lisozima
+(concentração final de 30μg/ml) e EDTA (concentração final de 2mM). E então, o pellet
+ressuspendido foi sonicado em 6 ciclos de 30 segundos, com amplitude de 50%. Após o
+processo de lise, o lisado foi centrifugado a 25000g por 60 minutos a 4ºC. Após a
+centrifugação, o sobrenadante do lisado foi aplicado na coluna de proteína A, seguindo o
+mesmo protocolo de purificação que o meio de cultura.
+
+3.3- Desalting e Liofilização do anticorpo NUsc1
+O desalting de NUsc1 purificado foi realizado em uma coluna HiTrap Desalting 5ml
+(GE). A coluna de Desalting foi equilibrada com 25ml de tampão 5mM de Fosfato de Sódio
+pH 7.4, com fluxo de 5ml/min. Foram aplicados 250l de NUsc1 purificado, e as frações com
+os eluatos foram coletadas. Após quantificação de proteína total pelo método de Bradford, foi
+selecionada apenas a fração principal (com o maior sinal de leitura), que foi aliquotado em
+criotubos. Em um isopor, os criotubos foram inseridos em gelo seco moído com etanol, para o
+congelamento da amostra. Após o congelamento, os criotubos foram colocados no
+liofilizador. Estes foram destampados e cobertos com Parafilm, para evitar a perda do
+anticorpo liofilizado, no qual foram feitos pequenos furos para a saída de ar. Os criotubos
+foram submetidos ao vácuo por 4 horas no interior do liofilizador. Ao final do processo, a
+amostra apresenta-se com aspecto de pó.
+3.4- ELISA para identificação de formação de complexo entre NUsc1 e AβOs
+A detecção de formação de complexo entre NUsc1 e AβOs foi realizado seguindo protocolo
+estabelecido pelo Doutorando de nosso grupo André Bitencourt. Resumidamente, a formação
+do complexo foi induzida utilizando beads magnéticas cobertas com cobalto (Dynabeads HisTag Isolation and Pulldown. Thermo Fisher), que apresentam alta afinidade para tags de polihistidina (presente em NUsc1). Além de NUsc1, beads também foram funcionalizadas com
+um scFv controle previamente isolado pela capacidade de ligar toxinas do escorpião Tityus
+serrulatus (gentilmente cedido pelo Prof. Jose Elpídio, Depto. Bioquímica e Imunologia,
+
+12
+
+FMRP). Foram usados 5μl de Dynabeads em cada reação. Os anticorpos foram conjugados às
+beads, em Binding/Wash Buffer diluído 1:2 (100mM Fosfato de Sódio, 600 mM NaCl e
+0,02% Tween™ -20) em volume final de 500μl. Os tubos foram mantidos sob agitação
+vertical por 30 minutos a 4ºC, e então submetidos a precipitação usando estante magnética por
+aproximadamente 1 minuto. O líquido foi retirado com uma ponteira posicionada na parede
+oposta a parede em que as Beads estão concentradas, e descartado. Dessa forma, as beads
+foram lavadas três vezes com 700μl de Binding/Wash Buffer. Após bloqueio (0,5% de BSA
+diluído em Binding Buffer por 1 hora, a 4ºC, sob agitação vertical), foram adicionados 5μl da
+solução de AβOs, produzidos em nosso laboratório segundo o protocolo de Chromy et al.
+(2003). Os AβOs foram diluídos para 0,32μM em PBS, volume final de 500μl. Os tubos
+foram então incubados por 2 horas, sob agitação vertical, a 4ºC. Após três lavagens, com
+700μl de Binding/Wash Buffer, como descrito acima, foi adicionado o anticorpo primário
+anti-Aβ 6E10 (BioLegend), 1: 2000 diluído em Binding Buffer com 0,1% BSA. Após 1 hora
+de incubação a temperatura ambiente, as beads foram lavadas com 700μl Binding/Wash
+Buffer três vezes, e foi adicionado o anticorpo secundário anti-mouse IgG-HRP (Santa Cruz
+Biotechnology), diluído 1:20000 em Binding Buffer com 0,1% BSA. Os tubos foram
+incubados por 1 hora, em temperatura ambiente, sob agitação. Após quatro ciclos de lavagem
+como já descrito, todo o líquido foi retirado, e foi adicionado 100μl de TMB (Sigma). A
+reação foi incubada no escuro e em temperatura ambiente, até se notar a alteração de cor de
+castanho para azul. A reação foi parada com 50μl de ácido sulfúrico 0,5M. O líquido de cada
+tubo foi transferido para uma placa de ELISA para leitura no espectrofotômetro, no
+comprimento de onda de 450nm.
+
+3.5- Sequenciamento de DNA e alinhamento de NUscs.
+Para obter a sequência de DNA codificante dos anticorpos NUsc5 e NUsc6, bactérias E.coli
+XL1- Blue previamente transformadas com o vetor pIT-2, contendo a sequência que codifica
+esses anticorpos, foram crescidas em uma placa de petri contendo meio TYE sólido, com
+ampicilina e 1% de glucose. No dia seguinte, uma colônia isolada foi inoculada em 5 ml de
+meio 2xTy com ampicilina e 1% de glicose. O pré-inóculo foi incubado no shaker a 37ºC sob
+agitação de 220-250 rpm overnight. O DNA plasmidial foi extraído usando o kit GenElute HP
+Plasmid Miniprep Kit (Sigma). As preparações de pIT-2- NUsc5 e pIT-2-NUsc6 foram
+utilizadas nas reações de sequenciamento conforme o protocolo cedido pelo Núcleo de
+Serviços em Biotecnologia - Hemocentro de Ribeirão Preto. Os primers usados nas reações de
+
+13
+
+sequenciamento foram pHEN (5’CTATGCGGCCCCATTCAG3’) e Link Seq New
+(5’CGACCCGCCACCGCGCTG3’). Foram realizadas duas reações para cada anticorpo, uma
+com cada primer, sendo que em cada reação foram adicionados: 2μl de Big Dye Terminator
+v3.1 (Applied??), 2 μl de 5x Sequencing Buffer, 0,5 μl do primer Link Seq New 5 μM em
+uma reação e 0,25 μl do primer pHEN 10 μM na outra reação, 150 ng de DNA template, e
+H20 ultrapura milli-Q qsp 10 μl. As ciclagens, realizadas em um termociclador Applied
+Biosystems 9700, foram: 1 ciclo de 95ºC por 1 minuto, 25 ciclos de 96ºC por 10 segundos,
+50ºC por 5 segundos, e 60ºC por 4 minutos. As amostras foram enviadas para o Núcleo de
+Serviços em Biotecnologia, no Hemocentro de Ribeirão Preto, para serem sequenciadas no
+equipamento ABI 3500XL (Applied Biosystems). Os resultados das reações de
+sequenciamento foram analisados usando o software Chromas Lite. Este software gera um
+arquivo FASTA contendo as sequências de nucleotídeos, que são traduzidas para sequências
+de aminoácidos pela ferramenta Expasy (GASTEIGER et al., 2003). Para a identificação das
+CDRs (não só do NUsc5 e NUsc6, mas também dos demais anticorpos analisados) foi
+utilizada uma ferramenta online, a Bitgene (BITGENE, 2018), e o alinhamento das sequências
+codificadores de NUsc’s e CDRs foi realizado com auxílio do software MEGA7 (KUMAR;
+STECHER; TAMURA, 2015).
+
+14
+
+RESULTADOS
+
+15
+
+4) RESULTADOS
+
+4.1- Produção e purificação do anticorpo NUsc1:
+
+A produção do anticorpo scFv NUsc1 foi inicialmente realizada a partir da expressão
+heteróloga em bactérias E.coli da cepa BL21 transformada previamente pela ex-aluna de IC
+do laboratório, Izabela Silva Santos, com o vetor de expressão pET20 (Novagen) contendo a
+sequência do anticorpo NUsc1. A linhagem BL21-pET20-NUsc1 foi plaqueada, e então
+selecionou-se uma colônia isolada para ser inoculada e crescer overnight. No outro dia, a
+cultura foi colocada para crescer até atingir a D.O de 0,6. A D.O ideal representa um ponto da
+fase log de crescimento bacteriano em que a população seja o suficiente para uma boa
+expressão da proteína de interesse e não seja excessiva, para as bactérias não começarem a
+disputar por nutrientes do meio e morrerem. Após atingir a D.O, foi induzida a expressão do
+anticorpo overnight com IPTG. No dia seguinte, a cultura foi centrifugada separando o meio
+de expressão do pellet bacteriano.
+Assim, utilizando a linhagem BL21-pET20-NUsc1, e purificando o NUsc1 a partir do
+pellet lisado por cromatografia de afinidade com coluna de proteína A, obtivemos rendimento
+médio de cerca de 60 μg para cada litro de cultura (Tabela 1). A pureza do NUsc1 nessa
+produção foi avaliada por SDS-PAGE (Fig. 3), e mostrou-se satisfatória, uma vez que a banda
+única revelada apresentou massa molecular compatível com o esperado para o scFv NUsc1,
+cuja massa teórica é 29kDa.
+
+Tabela 1. Comparação entre o rendimento dos protocolos de produção de NUsc1, de acordo com
+a linhagem de E.coli utilizada e a fonte de purificação do anticorpo. As linhagens de E.coli
+utilizadas foram BL21-pET20-NUsc1 e HB2151-pIT2-NUsc1, e o anticorpo NUsc1 foi purificado a
+partir do meio de expressão ou do pellet. Em ambos os casos o anticorpo foi purificado por
+cromatografia de afinidade usando coluna de proteína A.
+
+16
+
+Figura 3. Análise por SDS- PAGE de NUsc1 purificado por cromatografia de afinidade. O
+anticorpo scFv foi purificado em coluna de proteína A e eluído em tampão glicina pH 3. O gel foi
+corado com Coomassie Blue.
+
+Com o intuito de melhorar o rendimento da produção do anticorpo, realizamos a
+expressão em outra cepa de E.coli descrita na literatura como adequada para produção de
+scFv, a cepa HB2151. Células dessa cepa foram transformadas com o vetor pIT2 contendo a
+sequência do scFv NUsc1. O protocolo de expressão foi mantido o mesmo, já que o vetor
+pIT-2 também apresentava o gene de resistência a ampicilina, assim como a purificação a
+partir do pellet lisado.
+Segundo a quantificação da fração principal (com maior sinal), o rendimento da
+produção de NUsc1 foi de 630μg/L (Fig.4). De forma marcante, o rendimento da produção de
+NUsc1 com esse sistema aumentou mais de 10 vezes (Tabela I), alterando apenas a cepa de
+E.coli e o vetor de expressão.
+
+17
+
+Figura 4. Gráfico da dosagem de proteína nos eluatos da purificação de NUsc1 em coluna de
+proteína A. A quantificação foi feita pelo método de Bradford e a fração 8 representa a eluição de
+NUsc1. A expressão foi realizada em E.coli HB2151-pIT2-NUsc1, e o pellet da cultura foi usado
+nessa purificação.
+
+Alcançado o objetivo de aumentar o rendimento da produção de NUsc1, passamos a
+trabalhar no refinamento da qualidade na nossa preparação. Com intuito de reduzir a
+contaminação da cultura com lipopolissacarídeos (LPS) e proteínas bacterianas, presentes em
+abundância no pellet lisado, testamos a purificação de NUsc1 a partir do meio de cultura. O
+protocolo de expressão de NUsc1 com E.coli HB2151-pIT2 foi mantido, assim como o
+protocolo de purificação. O meio de cultura após a expressão foi centrifugado, diluído em
+PBS na proporção 1:2, e então submetido ao processo de purificação. Com esse
+procedimento, o rendimento da produção de NUsc1 foi de 690μg/L (Tabela 1), portanto
+similar aquele obtido com o pellet.
+Para otimizar ainda mais o processo de purificação do NUsc1, foi adicionado uma
+etapa a mais no processo de lavagem durante a cromatografia de afinidade, com PBS+ NaCl
+300mM, com intuito de reduzir possíveis contaminantes bacterianos. O resultado final do
+protocolo otimizado foi avaliado por SDS-PAGE (Fig. 5). O resultado do SDS-PAGE revelou
+em todas amostras uma banda cuja massa molecular era compatível com NUsc1, de cerca de
+29kDa (Figura 4). E ainda, foi possível observar a presença de bandas menores com massa
+molecular por volta de 15kDa. Provavelmente, essas bandas representam a quebra do Linker
+de NUsc1, originando fragmentos que correspondem as regiões variáveis da cadeia leve e
+pesada separadas, com metade do peso molecular do anticorpo integral.
+O resultado indicou também que a proporção de NUsc1 purificado a partir do meio de
+expressão (M) foi significativamente maior que do pellet lisado (P). Entretanto, essa
+
+18
+
+observação não era condizente com a quantificação por Bradford, que indicava que os
+rendimentos de NUsc1 purificado a partir do meio de expressão e do pellet eram parecidos.
+Uma possível justificativa para essa alteração seria que, antes de adicionarmos mais uma
+etapa de lavagem, algumas proteínas bacterianas abundantes no pellet lisado interagiam com a
+matriz da coluna e poderiam não ser lavadas completamente. Assim, ao serem eluídas
+juntamente com NUsc1, superestimavam o sinal indicado por Bradford. Com isso, é possível
+notar que apesar da purificação a partir do pellet lisado gerar uma quantidade razoável de
+NUsc1, é significativamente inferior a quantidade fornecida pela purificação do meio de
+expressão.
+
+Figura 5. Comparação da purificação de NUsc1 a partir do meio de cultura ou pellet bacteriano.
+Análise por SDS- PAGE de NUsc1 purificado do meio (M) ou do pellet (P), por cromatografia de
+afinidade em coluna de proteína A, lavagem adicional com 300 mM NaCl, e eluição em tampão
+glicina pH 3.O gel foi corado com Coomassie Blue. Os volumes aplicados estão indicados.
+
+Considerando que NUsc1 é utilizado em diversas linhas de pesquisa do Laboratório, e
+que portanto a preservação da sua funcionalidade após a purificação é de grande importância
+para o grupo, decidimos avaliar o melhor protocolo de armazenamento por longo período do
+anticorpo purificado. Para isso, NUsc1 purificado a partir do meio de cultura foi submetido
+aos processos de desalting e liofilização. Em seguida, as amostras foram analisadas por SDSPAGE, para confirmar se o anticorpo permanecia integro após esses processos, e foi incluído
+na análise o anticorpo que foi apenas purificado e mantido a 4ºC até o momento da
+
+19
+
+eletroforese. As amostras aplicadas nos três poços derivavam da mesma produção de NUsc1.
+O resultado (Fig. 6) revelou uma banda com massa molecular compatível com NUsc1 nas três
+amostras, e não revelou outras bandas que pudessem indicar degradação do anticorpo. Porém,
+foi possível observar que as bandas que representam o anticorpo que foi liofilizado ou
+dessalinizado estavam menos intensas, em comparação à banda do anticorpo apenas
+purificado, possivelmente devido ao processo de desalting. Com esse resultado, foi
+estabelecido como padrão no laboratório o armazenamento do NUsc1 purificado a -20ºC sem
+etapa de desalting/liofilização. E a preferência pelo desalting seguido de liofilização para o
+transporte do anticorpo e armazenamento de logos períodos, além do uso do desalting para
+experimentos que envolvam tratamento de células/animais.
+
+Figura 6. SDS- PAGE de NUsc1 purificado mantido a 4ºC, e após liofilização ou desalting. O
+anticorpo NUsc1 foi purificado através da cromatografia de afinidade com proteína A em PBS e
+eluído por tampão glicina pH 3. O gel foi corado com Coomassie Blue.
+
+4.2- Especificidade da formação do complexo NUsc1- AβOs:
+Nosso Laboratório produziu recentemente dados claros do isolamento bioquímico do
+complexo NUsc1/AβOs (Trabalho de Doutorado em andamento de André Bitencourt). O
+resultado obtido por André usando beads magnéticas funcionalizadas com NUsc1, e
+incubadas com AβOs produzidos in vitro, mostrou que os AβOs formaram um complexo com
+o anticorpo, que pode ser eluído com solução concentrada de imidazol. Esse resultado
+
+20
+
+demonstrou a capacidade de isolamento do complexo NUsc1-AO, e a preservação da função
+de
+
+NUsc1
+
+produzido
+
+em
+
+nosso
+
+Laboratório,
+
+após
+
+um
+
+ciclo
+
+de
+
+congelamento/descongelamento.
+Outra pergunta importante envolvendo NUsc1 é a sua seletividade de interação com
+oligômeros de Aβ. Para avaliar essa questão, reproduzimos o experimento descrito
+anteriormente (realizado pelo Doutorando André Bitencourt), usando ELISA para monitorar a
+formação de complexo com AβOs (Fig. 7). Todas as condições foram incubadas com
+anticorpo primário anti-Aβ (6E10) e anticorpo secundário anti-mouse IgG-HRP. Como
+esperado, as beads funcionalizadas com NUsc1, e incubadas com AβOs, apresentaram o
+maior sinal. Para testar a especificidade desse sinal, beads foram funcionalizadas com um
+scFv controle dirigido contra antígeno não relacionado a AβOs (cedido gentilmente pelo Prof.
+Dr, José Elpídio Barbosa, Depto. de Bioquímica e Imunologia – FMRP).
+O resultado do ELISA indicou um baixo sinal nas amostras que representam a
+condição Beads+ AβO, possivelmente por consequência de alguma interação inespecífica
+entre os AβOs e as Beads. E também, indicou que apesar da amostra de Beads+ scFv
+controle+ AβO ter apresentado um sinal superior a amostra que apresenta apenas Beads e
+scFv controle, indicando uma possível interação entre o scFv controle e AβOs, o sinal
+encontrado por essa interação é inferior a metade do sinal encontrado na amostra Beads+
+NUsc1 + AβO. Concluímos, portanto, que a formação do complexo NUsc1/AβO é
+significativamente maior que a interação entre o scFv controle e AβO.
+
+21
+
+Figura 7. Detecção da formação de NUsc1/ AβO em comparação com a interação de um scFv
+controle com AβOs. AβOs foram incubados com beads magnéticas funcionalizadas com NUsc1 ou
+scFv controle. Os valores de cada condição foram normalizados de acordo com a absorbância da
+amostra Beads + NUsc1 + AβO (considerado como 1). O ensaio foi realizado duas vezes, portanto o
+gráfico apesenta valores dos dois experimentos independentes e as médias entre eles.
+
+4.3- Obtenção das sequências codificante dos anticorpos NUsc e comparação de
+CDRs:
+As CDRs (regiões determinantes de complementariedade) são regiões que determinam
+a ligação específica do anticorpo ao antígeno. Estas são constituídas de seis loops nos
+domínios variáveis das cadeias leves e pesadas. Os loops de cadeia pesada são chamados de
+CDRH1, CDRH2 e CDRH3, e os da cadeia leve, de CDRL1, CDRL2 e CDRL3 (MOREA et
+al., 1998). Ao longo da minha Iniciação Científica, um dos objetivos centrais passou a ser a
+compreensão de como as diferenças entre as sequencias de aminoácidos que compõem as
+CDRs dos anticorpos NUsc’s poderiam influenciar no reconhecimento seletivo dos
+oligômeros de Aβ. Dei continuidade ao trabalho de uma ex-aluna de IC do laboratório,
+Izabela Silva Santos, que obteve as sequências de DNA que codificam os anticorpos NUsc3,
+NUsc7 e NUsc10, e realizei os sequenciamentos dos anticorpos NUsc5 e NUsc6. Após
+extração dos vetores plasmidiais contendo as sequências que codificam esses anticorpos (pIT2- NUsc5 e pIT-2- NUsc6) de bactérias E.coli XL1-Blue, realizamos as reações de
+
+22
+
+sequenciamento, que forma encaminhadas ao Núcleo de Serviços em Biotecnologia (NSB) do
+Hemocentro de Ribeirão Preto. As sequências de DNA foram geradas, e analisadas com uso
+do software Chromas Lite, e por fim traduzidas para sequências de aminoácidos com uso da
+ferramenta Expasy (GASTEIGER et al., 2003). As sequências de aminoácidos obtidas foram
+então agrupadas com as sequências do nosso conjunto de anticorpo obtidas anteriormente pela
+aluna Izabela, e submetidas a análise de alinhamento das sequências usando o software
+MEGA (Molecular Evolutionary Genetics Analysis) (KUMAR; STECHER; TAMURA,
+2015).
+
+23
+
+Figura 8. Alinhamento das sequências codificantes dos anticorpos tipo scFv NUsc1, 3, 5, 6, 7 e 10. Estão destacadas as
+CDRs (H1, H2, H3 e L1, L2, L3) de cada anticorpo, além do linker composto pelos aminoácidos Glicina e Serina, e também as
+tags de poli-histidina e c-myc.
+
+24
+
+A partir do alinhamento de todos os NUsc (Fig. 8), foi possível notar que os anticorpos
+NUsc7 e NUsc10 apresentaram sequências idênticas e, a partir de então, ambos foram
+denominados como NUsc7. Também observamos que NUsc6 não apresenta a tag de polihistina, que é uma tag importante para produção de scFv em E.coli, principalmente para a
+purificação deste por cromatografia. Não foram encontradas também as tags c-myg nos
+demais NUscs além do NUsc1.
+Foi possível observar também que as diferenças entre os resíduos de aminoácidos dos
+NUsc estão concentradas nas regiões hipervariáveis (CDRs), como esperado, sendo o restante
+da sequência altamente conservada. Foi possível identificar as regiões de todas as CDRs dos
+seis anticorpos NUsc, tanto da cadeia leve quanto da pesada, com exceção da CDRH2, que
+parece estar truncada nos anticorpos NUsc3, NUsc5 e NUsc6. Além disso, foi possível
+identificar a presença de um stop códon na sequência da CDRH2 de todos os anticorpos
+exceto NUsc1. O stop codon foi encontrado após o 6º aminoácido da CDRH2 nos NUsc3, 5 e
+6, e após o 7º aminoácido da CHR-H2 no NUsc7.
+A comparação entre os NUscs revelou também que NUsc7 é o anticorpo mais similar
+a NUsc1, sendo que NUsc7 apresenta sequência do Linker completa, CDRH3 completa e histag. As diferenças entre NUsc1 e NUsc7 estão concentradas nos resíduos de aminoácidos nas
+regiões de CDR, que podem representar diferenças na especificidade e afinidade a oligômeros
+de Aβ. Com isso, foi iniciado um estudo com o NUsc7 (ver detalhes na Discussão), que,
+acreditamos, será importante para identificar o padrão de oligômeros reconhecidos pelos
+anticorpos artificiais NUsc.
+Após a identificação das sequências das CDRs, foi possível realizar um alinhamento
+comparando as CDRs dos anticorpos NUsc’s com outros anticorpos anti-oligômeros de Aβ
+descritos por outros grupos, os scFvs denominados AS e o MO6 (ZHANG et al., 2015). Como
+comparação, incluímos também na analise o anticorpo IgG 6E10, que não é conformacional, e
+portanto reconhece A em diferentes conformações, inclusive monômeros (PERDIVARA et.
+al, 2008). Além disso, foram acrescentados ao alinhamento fragmentos de anticorpos com
+alvos diferentes de Aβ, como o scFv C1, que é um fragmento de anticorpo humano que tem
+como alvo a toxina Cn2 do veneno do escorpião Centruroides noxius (Riaño- Umbarila et al.,
+2013) e um outro scFv produzido a partir da mesma biblioteca que o nosso conjunto de scFv
+NUsc, (Tomlinson I and J; NISSIM et al., 1994). que reconhece especificamente TNF-α
+(Safarpour et al., 2018). O intuito desse alinhamento foi estudar como as diferenças entre os
+resíduos dos aminoácidos que compõem as CDRs de cada um desses anticorpos influenciam
+no reconhecimento do antígeno alvo. Além de analisar similaridades e diferenças entre as
+
+25
+
+CDRs dos anticorpos com o mesmo alvo, no caso os AβOs, e fragmentos de anticorpos que
+foram originados da mesma biblioteca de scFv. Cada comando de cor do software no
+resultado final (Fig. 9) representa um padrão de resíduos de aminoácidos. Os aminoácidos
+marcados em amarelo são os apolares (como alanina, isoleucina, leucina, metionina, valina,
+que são alifáticos, e fenilalanina que é aromático); marcado em roxo, a glicina (apolar); em
+marrom claro, a cisteína (polar e neutro); em vermelho, os polares ácidos (aspartato e
+glutamato); em verde, são os aminoácidos polares e neutros (asparagina, glutamina, serina,
+treonina e tirosina), com exceção do triptofano que é apolar e aromático; e em azul, os polares
+básicos (lisina, arginina e histidina), com exceção da prolina (apolar).
+
+Figura 9. Alinhamento das sequências de aminoácidos das CDRHs dos NUscs e outros
+anticorpos. Além dos NUsc’s, foram incluídos os anticorpos anti-AβOs AS e MO6 (conformacionais)
+e o anti pan-Abeta 6E10 (linear), além dos anticorpos C1 (anti-toxina Cn2) e um scFv anti-TNFα.
+
+Ao comparar as CDRs presentes na cadeia pesada dos anticorpos, nota-se diferenças
+significativas quanto ao tamanho das CDRs, e alterações nas características químicas dos
+aminoácidos que as compõem (Fig.9). Na CDR-H1, houve conservação do tamanho da CDR
+(7 resíduos de aminoácidos), e ainda, do primeiro resíduo da CDR (glicina) com característica
+apolar, e do sexto resíduo (serina) com característica polar neutra, em todos os anticorpos
+analisados, independente do alvo. Além disso, o terceiro resíduo tem característica apolar e
+neutra em todos anticorpos, sendo um resíduo de serina no scFv C1 e de treonina nos demais.
+Outra observação importante é que todos os NUsc’s apresentaram a mesma sequência de
+resíduos da CDR-H1, inclusive o anticorpo anti-TNFα, que foi produzido a partir da mesma
+biblioteca de scFv. Vale ressaltar também que a CDR-H1 do anticorpo AS é bastante similar a
+CDR-H1 dos NUsc’s. A única alteração entre eles está no 7º resíduo, uma glutamina no AS, e
+
+26
+
+uma tirosina nos NUsc’s. Porém, ambos resíduos são polares e neutros, portanto não
+representa uma alteração significativa na reatividade da CDR.
+Para a análise da CDR-H2 foram excluídos os NUsc3, 5 e 6 por não apresentaram a
+sequência completa desta CDR. Na CDR-H2, todos os anticorpos possuem 6 aminoácidos,
+com exceção do NUsc7 que apresenta apenas 5, devido a presença de um stop códon. Ao
+observar as sequências alinhadas desta CDR, é possível notar que apenas a glicina está
+presente em todos os anticorpos, porém em posições distintas. Nos anticorpos AS, C1, antiTNFα, NUsc1 e NUsc7 a glicina está na posição do 4º resíduo, enquanto nos demais (6E10 e
+MO6) está na posição do 5º. E ainda, é possível observar um predomínio de resíduos apolares
+e neutros, como asparagina, serina, treonina, glutamina e tirosina. Apesar disso, as CDR-H2
+são relativamente diferentes entre si, algumas delas (dos anticorpos AS, C1 e anti-TNFα)
+apresentam um resíduo polar e ácido, enquanto que outras apresentam um ou dois resíduos
+polares básicos (histidina, arginina e lisina), como os anticorpos 6E10, AS, anti- TNFα e
+NUsc1. É interessante notar que NUsc1 e NUsc7 só apresentam o primeiro resíduo (serina) e
+o quarto resíduo (glicina) conservados, sendo que NUsc1 apresenta um resíduo básico, que
+não é encontrado em NUsc7, pois este apresenta apenas resíduos apolares e polares neutros.
+Na análise das CDR-H3, também foram excluídos os NUsc3, 5 e 6 por não possuírem
+essa CDR. Na CDR-H3, é notável as diferenças entre os tamanhos das sequências dos
+anticorpos, sendo que enquanto MO6 possui 16 resíduos, e, 6E10 e C1 possuem 15, o scFv
+anti-TNFα, NUsc1 e NUsc7 possuem apenas 7, e AS, apenas 6. Comparando as sequências de
+todos os anticorpos, percebe-se que estas são muito diferentes entre si, havendo apenas um
+resíduo conservado em todas as sequências, que possui característica ácida, o aminoácido
+aspartato, e a glicina que está presente nas sequências de todos anticorpos, com exceção de
+C1. O anticorpo C1 é o que possui a sequência mais distinta dos demais, com 4 resíduos
+polares ácidos e duas cisteínas, que não estão presentes na CDRH3 de nenhum outro
+anticorpo. Já os anticorpos anti-TNFα, NUsc1 e NUsc7 apresentam uma região similar entre
+si, glicina-treonina-fenilalanina-aspartato-tirosina, com a única alteração de uma serina na
+posição de treonina em NUsc7. Além disso, todos os anticorpos possuem maioria de resíduos
+polares, com exceção do AS, que possui 4 resíduos apolares, 1 polar neutro, e 1 polar ácido. O
+anticorpo 6E10 possui a maioria dos resíduos polares neutros (7) e 3 polares ácidos; o
+anticorpo MO6 possui também a maioria dos resíduos polares neutros (9) e 2 polares ácidos;
+o C1 possui além dos 3 polares neutros, 4 polares ácidos, apresenta um resíduo básico; o antiTNFα apresenta apenas um resíduo ácido (além dos 3 neutros). Entre os NUscs, a principal
+
+27
+
+diferença entre a características dos resíduos da CDR-H3 é a presença de uma lisina (polar
+básico) na sequência de NUsc1, enquanto NUsc7 não apresenta nenhum resíduo básico.
+
+Figura 10. Alinhamento das sequências de aminoácidos das CDR-Ls dos NUscs e outros
+anticorpos. Além dos NUsc’s, foram incluídos os anticorpos anti-AβOs AS, MO6 (conformacionais)
+e anti pan-Abeta 6E10 (linear), além dos anticorpos C1 (anti-toxina Cn2), e um scFv anti-TNFα.
+
+Na comparação entre as CDRs da cadeia leve, podemos notar que a CDR-L1
+apresenta-se idêntica para todos os NUsc’s, inclusive para o scFv anti-TNFα, sendo composta
+majoritariamente por resíduos polares (7 resíduos polares neutros e 1 resíduo polar básico, a
+arginina) e apenas 3 resíduos apolares. É interessante notar também que o tamanho da CDR é
+comum para a maioria dos anticorpos, uma vez que os anticorpos NUsc’s, anti-TNFα, MO6 e
+AS apresentam 11 resíduos na CDR-L1. São diferentes apenas o anticorpo C1, com 10
+resíduos, e 6E10, que se destaca por possuir a maior CDR-L1, com 17 resíduos. Além disso,
+um resíduo polar básico (arginina) é conservado na primeira posição dessa CDR em
+praticamente todos os anticorpos, com exceção de 6E10 e C1. Há também semelhanças entre
+todas as sequências dos anticorpos na CDR-L1, como a posição do terceiro resíduo, sempre
+um resíduo polar neutro (serina ou asparagina), a posição do sexto resíduo, que é apolar
+(isoleucina ou leucina) e o penúltimo resíduo, que também é apolar (leucina ou valina).
+Na análise do alinhamento da CDR-L2, é possível observar que o tamanho da
+sequência é comum para todos os anticorpos (7 resíduos). Existem ainda alguns resíduos que
+são conservados em todos os anticorpos, como os resíduos polares neutros na terceira e última
+posições (todos representados por serina, com exceção do C1, que apresenta uma asparagina
+na terceira posição). Ao analisar os NUsc’s, nota-se a presença de 5 resíduos conservados
+entre todos, uma asparagina (apolar) na segunda posição, uma serina (polar neutro) na
+terceira, uma leucina (apolar) na quinta, uma glutamina (polar neutro) e uma serina (polar
+
+28
+
+neutro) na última posição. Além disso, todos os NUsc’s apresentam 1 resíduo polar básico na
+CDR-L2, porém em posições distintas, nos NUsc1 e 3 encontra-se na primeira posição e nos
+NUsc5, 6 e 7 na quarta posição. Interessante notar que os anticorpos AS e MO6 apresentam
+CDR-L2 idênticas, e muito similar a sequência do scFv anti-TNFα, que apresenta um resíduo
+apolar na quarta posição, e do NUsc7 que apresenta um resíduo polar básico na quarta
+posição. Entre os NUsc’s, o NUsc6 se destaca como sendo o único NUsc a apresentar um
+resíduo polar ácido na CDR-L2, assim como o 6E10.
+Já a CDR-L3 representa a CDR com mais diferenças entre as sequências dos
+anticorpos, sendo um dos poucos pontos em comum o tamanho da CDR, que é semelhante
+para os anticorpos 6E10, AS, C1, anti-TNFα e NUsc’s (9 resíduos) e diferente para MO6 (7
+resíduos). Dentre os NUsc’s, podemos notar que há um predomínio nas posições iniciais de
+resíduos polares neutros, como glutamina e serina, e um predomínio nas posições centrais de
+resíduos polares básicos (arginina, histidina e lisina). Além disso, há três resíduos
+conservados em todos os NUsc’s e no anti-TNFα: o resíduo polar neutro (glutamina) na
+segunda posição da CDR, o resíduo apolar (prolina) na sétima posição, e o resíduo polar
+neutro (treonina) na última posição. Nota-se também que a sequência dessa CDR no anticorpo
+AS é composta praticamente apenas por resíduos polares neutros, apresentando apenas 2
+resíduos apolares (leucina e triptofano). E ainda, que os anticorpos 6E10 e MO6 possuem um
+resíduo ácido (aspartato) conservado na terceira posição, que não é observado em nenhum
+outro anticorpo, inclusive nos NUsc’s, que não apresentam nenhum resíduo ácido.
+
+29
+
+DISCUSSÃO
+
+30
+
+5) DISCUSSÃO
+
+O anticorpo NUsc1 é um anticorpo do tipo scFv, e que portanto apresenta apenas as
+regiões variáveis das cadeias leve e pesada, conectadas por um linker, que é capaz de interagir
+especificamente com oligômeros de Aβ. Estudos in vitro mostraram que NUsc1 é
+neuroprotetor (VELASCO et al., 2012, SEBOLLELA et al., 2017), e que tem como alvo
+principal uma subpopulação de AβO com massa molecular acima de 50kDa. Com isso,
+entende-se a importância de estudos não só do NUsc1, mas de todos os anticorpos artificiais
+deste conjunto, para a identificação do padrão de oligômeros neurotóxicos que estes
+reconhecem. Porém, para realização de estudos bioquímicos e testes funcionais com NUsc1,
+foi necessário a padronização de um protocolo de produção heteróloga desse scFv, com
+intuito de garantir um rendimento de produção satisfatório que permita o desenvolvimento
+dos estudos envolvendo NUsc1.
+Inicialmente, o NUsc1 foi produzido a partir da expressão heteróloga em E.coli da
+cepa BL21 transformada com o vetor de expressão pET20 contendo a sequência codificadora
+desse scFv. O NUsc1 foi expresso pelas bactérias BL21-pET20-NUsc1, e então a cultura foi
+centrifugada, separando o meio de expressão do pellet bacteriano. O pellet obtido foi lisado,
+centrifugado, e o sobrenadante foi aplicado em uma coluna de proteína A para cromatografia
+de afinidade. Entretanto, apesar de conseguirmos expressar e purificar NUsc1, com um bom
+grau de pureza, através da linhagem BL21-pET20-NUsc1, o rendimento da produção de
+NUsc1 com a expressão em BL21 era baixo, e portanto insuficiente para a demanda
+experimental do laboratório. Por isso, iniciamos um processo de otimização do protocolo de
+expressão e purificação do scFv NUsc1 com intuito de melhorar o rendimento da produção
+deste anticorpo.
+A primeira modificação no protocolo de expressão heteróloga de NUsc1 foi a
+substituição da cepa e do vetor utilizados. Passamos a usar a cepa de E.coli HB2151 descrita
+na literatura como adequada para a produção de scFv (BARBAS et al., 2004), previamente
+transformada com o vetor pIT2-NUsc1. As primeiras purificações do NUsc1 expresso por
+HB2151-pIT2-NUsc1 foram feitas a partir do pellet lisado, assim como era feito com a cepa
+BL21. O nosso anticorpo scFv possui algumas tags e sítios que facilitam a utilização de
+técnicas bioquímicas e a purificação deste (VELASCO et al., 2012, SEBOLLELA et al.,
+2017). Uma das tags que ele apresenta é a c-myc tag, e a outra é uma tag de poli-histidina.
+Além disso, NUsc1 apresenta um sítio de ligação para proteína A, que permite que ele seja
+purificado por cromatografia de afinidade com o uso da coluna de Proteína A (NISSIM et al.,
+
+31
+
+1994). Após o procedimento, obtivemos bom rendimento (630 μg/L de cultura). Com isso,
+concluímos que havíamos alcançado o objetivo de aperfeiçoar a produção heteróloga de
+NUsc1 com a utilização da linhagem E.coli HB2151-pIT2-NUsc1, com um aumento de 10
+vezes no rendimento de NUsc1 produzido.
+A construção plasmidial do scFv NUsc1 expresso em E.coli permite que este seja tanto
+secretado para o meio, quanto se acumular no interior da bactéria (NISSIM et al., 1994). Por
+isso, iniciamos também a purificação de NUsc1 a partir do meio de expressão, que se mostrou
+bem sucedida. Assim, temporariamente produzimos NUsc1 tanto a partir do meio de cultura
+como do pellet, a fim de aumentar a quantidade de anticorpo obtido por produção. Porém,
+purificar uma proteína de interesse a partir de pellet bacteriano lisado tem limitações, dentre
+elas a abundância de proteínas contaminantes bacterianas e LPS, um dos componentes
+principais da membrana externa de bactérias gram-negativas como E.coli, que estão em
+excesso no lisado se comparado ao meio de cultura. Como o scFv NUsc1 era aplicado em
+diferentes linhas de pesquisas, inclusive em estudos com cultura celular, optou-se por
+purificar o NUsc1 apenas do meio de expressão, em que a presença de contaminantes
+sabidamente citotóxicos como LPS, deveria ser inferior do que no pellet. Outro fator
+incentivador para manter a produção de NUsc1 apenas a partir do meio de cultura foi
+resultado de comparação da purificação de NUsc1 a partir do meio de expressão e do pellet
+lisado (Fig. 5), no qual foi demonstrado que o rendimento de NUsc1 obtido é
+significativamente maior quando a purificação é realizada a partir do meio de expressão.
+Considerando a importância da produção de NUsc1 para diversas linhas de pesquisa
+do Laboratório, a fim de manter sua funcionalidade, uma questão relevante para o laboratório
+é o estabelecimento de um protocolo eficiente para o armazenamento por longo período de
+NUsc1. Por isso, avaliamos a consequência do desalting e da liofilização sobre a função de
+NUsc1. NUsc1 purificado foi testado em três condições: armazenado a 4ºC, submetido ao
+processo de desalting, ou desalting seguido de liofilização. A análise por SDS-PAGE revelou
+bandas majoritárias com aproximadamente 29kDa, massa do nosso anticorpo, em todas as
+condições, indicando que NUsc1 permanece íntegro. Além disso, foi possível observar
+também que a banda que representa o NUsc1 pós-desalting é mais fraca que a banda que
+representa o NUsc1 liofilizado (e que também passou pelo desalting). Como foi aplicado o
+mesmo volume de amostra em cada poço do SDS-PAGE, e como a técnica de desalting é
+caracterizada pela diluição da amostra em tampão, enquanto que a liofilização é um processo
+que concentra a proteína de interesse, que então pode ser ressuspendida no volume ideal para
+o experimento, é justificável essa diferença entre as bandas. A partir desse resultado,
+
+32
+
+indicando que o anticorpo se mantém integro após esses processos, foi estabelecido como
+protocolo padrão para o laboratório manter o NUsc1 purificado a -20ºC para o
+armazenamento em períodos curtos. Para armazenamento por longos períodos, ou transporte
+do anticorpo, optou-se pelo desalting acompanhado de liofilização, e para estudos com
+aplicação do NUsc1 em cultura celular, foi estabelecido a preferência pelo desalting.
+A função de NUsc1 apos um ciclo de congelamento/descongelamento a -20ºC foi
+avaliado em um experimento de isolamento bioquímico do complexo NUsc1/AβOs realizado
+pelo Doutorando Andre Bitencourt. Neste experimento, as beads magnéticas foram
+funcionalizadas com NUsc1 e incubadas com AβOs. Após a incubação, as beads foram
+lavadas e os oligômeros que não eram espécies alvo de NUsc1 foram descartados. Os
+oligômeros que ligaram, e portanto, formaram um complexo com NUsc1, foram eluídos das
+beads com Imidazol. Após a eluição, foi realizado um WB com todas as condições. O
+resultado comprovou as beads que estavam funcionalizadas com NUsc1 ligaram AβOs,
+indicando função preservada de NUsc1. Nesse trabalho, nos reproduzimos esse dado, usando
+ELISA (Fig. 7).
+Havia ainda a necessidade de avaliar se a formação desse complexo também ocorreria
+com um scFv que não fosse selecionado para o mesmo alvo (AβOs). Realizamos ELISA no
+qual foi comparado a capacidade de NUsc1 e de um scFv controle, conjugados a beads
+magnéticas, de formar complexo com AβOs. O scFv utilizado como controle foi previamente
+selecionado para neutralizar toxinas do escorpião (fornecido gentilmente pelo Prof. Dr, José
+Elpídio Barbosa, Depto. de Bioquímica e Imunologia – FMRP). O resultado obtido revelou o
+maior sinal de Aβ na amostra de beads funcionalizadas com NUsc1 e incubadas com AβOs,
+com esperado. A amostra de Beads+ scFv controle+ AβO apresentou um sinal superior a
+amostra de apenas Beads e scFv controle, indicando uma possível interação entre o scFv
+controle e AβOs. Porém, o sinal proveniente dessa interação foi inferior a metade do sinal
+obtido na amostra Beads+ NUsc1 + AβO. Este resultado corrobora com outros estudos que
+demonstram a especificidade da formação do complexo NUsc1/AβO (VELASCO et. al.,
+2012; SEBOLLELA et al., 2017).
+Nesse trabalho, realizamos também estudos para uma compreensão das diferenças
+entre as sequências das CDRs do nosso conjunto de anticorpos scFv, os NUsc’s. As CDRs são
+regiões que determinam a ligação específica do anticorpo ao antígeno. Estão distribuídas entre
+as cadeias pesada (CDRH1, CDRH2 e CDRH3) e leve (CDRL1, CDRL2 e CDRL3) dos
+anticorpos. As CDRs podem ser identificadas através de alguns sistemas numéricos, como o
+sistema de Chothia e de Kabat, que foram estabelecidos através de um padrão encontrado nas
+
+33
+
+regiões que determinam o início e final das CDRs (AL-LAZIKANI; LESK; CHOTHIA,
+1997) ou através de ferramentas online que identificam as CDRs com base nesses sistemas,
+como é o caso do Bitgene (BITGENE, 2018). Já foi demonstrado que existe uma correlação
+entre os aminoácidos que compõem as sequências das CDRs e a conformação dos sítios de
+ligação ao antígeno. Isso porque, as características físico-químicas dos resíduos de
+aminoácidos das sequências, influenciam na conformação das regiões hipervariáveis e por
+consequência na capacidade do anticorpo de reconhecer o antígeno (MOREA et al., 1998;
+TRAMONTANO; CHOTHIA; LESK, 1990; CHOTHIA; LESK, 1987; WU; KABAT, 1970;
+JONES et al., 1986). Portanto, a identificação das CDRs é essencial para estudos estruturais
+futuros de compreensão do papel das diferenças entre as características dos aminoácidos que
+compõem as CDRs dos anticorpos NUsc’s e o reconhecimento dos oligômeros de Aβ.
+Em uma etapa anterior, uma ex-aluna de Iniciação Científica do nosso grupo, Izabela
+Silva Santos, iniciou os estudos de CDRs e obteve as sequências codificantes de alguns
+NUscs. Dei continuidade a esse estudo realizando o sequenciamento de outros anticorpos do
+conjunto, além de uma análise mais aprofundada das CDRs desses anticorpos.
+O resultado do alinhamento dos NUsc's, revelou, por exemplo, que os anticorpos
+NUsc7 e NUsc10 apresentaram sequências idênticas, ou seja eram o mesmo anticorpo. Isso
+pode ter ocorrido ainda não seleção dos anticorpos NUsc’s a partir da biblioteca de fagos,
+uma vez que os anticorpo são selecionados apenas pela capacidade de ligação específica a
+oligômeros de Aβ, sendo possível que dois ou mais fagos carregando a mesma sequência de
+scFv tenham sido selecionados. Além disso, não foram encontradas as tags c-myg nos demais
+NUsc’s, a exceção de NUsc1. Acreditamos que o primer utilizado para o sequenciamento dos
+NUsc’s 3, 5, 6 e 7, pHEN, por anelar no final da sequência dos scFvs, justamente onde fica
+localizado a tag c-myc, pode ter dificultado a leitura dessa região no sequenciamento, levando
+a impressão de que os as tags c-myc não estão presentes nos anticorpos.
+Outra informação relevante obtida a partir das sequências traduzidas para
+aminoácidos, foi a presença de um stop codon no interior da sequência da CDRH2 de todos
+NUsc’s, com exceção de NUsc1. É provável que esses stop codons já estivessem na sequência
+dos scFv’s desde a construção da biblioteca, já que na seleção dos anticorpos foram utilizadas
+bactérias E. coli da cepa TG1, que são capazes de substituir stop codons (TAG) por glutamato
+(PATEL et al., 2011).
+Após a identificação das sequências das CDRs, foi realizado um alinhamento
+comparando as CDRs dos anticorpos NUsc’s com outros anticorpos scFv anti-oligômeros de
+Aβ, AS e MO6 (Zhang et al., 2015), com um anticorpo que reconhece diferentes
+
+34
+
+conformações de Ao anticorpo 6E10 (PERDIVARA et. al, 2008), e ainda anticorpos com
+alvos diferentes de Aβ, como o scFv C1 contra toxina Cn2 (Riaño- Umbarila et al., 2013) e
+um scFv com alvo em TNF-α (Safarpour et al., 2018). O intuito desse alinhamento foi estudar
+como as diferenças entre os resíduos dos aminoácidos que compõem as CDRs de cada um
+desses anticorpos influenciam no reconhecimento do antígeno alvo.
+Em estudo foi mostrado que o anticorpo scFv MO6, assim como o scFv AS,
+apresentam em sua estrutura uma superfície côncava hidrofóbica, e um sulco específico nessa
+superfície entre os domínios VH e VL, no qual os oligômeros de Aβ42 se ligam (Zhang et al.,
+2014, ZHANG et al., 2015). Neste estudo, foi mostrado que a superfície côncava do scFv
+MO6 determina o reconhecimento e especificidade na ligação das espécies de Aβ42, de tal
+forma que os oligômeros se ajustam espacialmente (em relação ao tamanho e forma) dentro
+da molécula do scFv, formando os epítopos conformacionais “integrados”. Os monômeros,
+dímeros e trímeros não exibem esses epítopos integrados, porém, quando eles se desenvolvem
+(agregando-se) em oligômeros maiores, formam-se os epítopos e passam a serem
+reconhecidos pelo scFv MO6 (ZHANG et al., 2015).
+O alinhamento da sequência de aminoácidos entre MO6 e AS revelou que o MO6
+apresenta a CDR-H3 mais longa e a CDR-L3 mais curta que o scFv AS. E em geral, as CDRs
+de um anticorpo scFv influenciam diretamente nas propriedades de ligação e nas
+características funcionais com relação ao antígeno, portanto essas diferenças podem estar
+correlacionadas com o fato do scFv MO6 reconhecer agregados oligoméricos entre 18 e
+37kDa e o scFv AS reconhecer oligômeros relativamente maiores, entre 25 e 55 kDa
+(ZHANG et al., 2015). É interessante notar, que ao comparar a CDR-H3 entre o scFv AS e o
+NUsc1 (uma CDR importante para o reconhecimento de antígeno), nota-se ambos os scFv
+apresentam 2 resíduos apolares, 1 polar neutro e 1 polar ácido conservados. Esses resíduos
+conservados podem ter relação com as espécies oligoméricas alvo, uma vez que NUsc1
+reconhece oligômeros acima de 50kDa (SEBOLLELA et al., 2017) e o scFv AS reconhece
+oligômeros até 55kDa (ZHANG et al., 2015), portanto, possivelmente ambos reconhecem um
+pequeno range de oligômeros em comum. Além disso, a sequência da CDR-H3 de NUsc7
+apresenta a alta similaridade com a de NUsc1, sendo diferenciada pela presença de um
+resíduo polar básico. Este resíduo básico, que não é encontrado em nenhum outro scFv com
+alvo em oligômeros de Aβ, pode representar uma estrutura diferenciada da CDR-H3 de
+NUsc7 que possibilite este anticorpo a reconhecer espécies oligoméricas diferentes das
+espécies alvos de NUsc1.
+
+35
+
+A comparação entre todos os NUscs revelou ainda que NUsc7 apresenta maior
+similaridade a NUsc1. Além disso, NUsc7 apresenta as sequências do Linker e da CDRH3
+completas, e ainda apresenta his-tag. Comparando as sequências dos anticorpos NUsc1 e
+NUsc7, nota-se que as diferenças entre os resíduos de aminoácidos estão concentradas nas
+regiões de CDR, que podem representar diferenças na especificidade e afinidade a oligômeros
+de Aβ. Com isso, foram iniciados experimentos para realizar uma mutação sítio dirigida na
+sequência do anticorpo NUsc7, com intuito de substituir o stop codon por um códon que
+codifica o aminoácido glutamato. Esse trabalho já está em andamento, com perspectiva futura
+de expressão de NUsc7 em bactérias E.coli e purificação do anticorpo para testar sua
+capacidade de ligação a oligômeros de Aβ de diferentes massas moleculares.
+
+36
+
+CONCLUSÃO
+
+37
+
+6) CONCLUSÃO
+
+Fomos capazes de desenvolver um protocolo otimizado para a produção do scFv
+NUsc1, através da expressão heteróloga em bactérias E.coli, e sua purificação por
+cromatografia de afinidade. Estabelecemos ainda um protocolo de armazenamento do
+anticorpo NUsc1 que mantem sua função. Obtivemos também dados que demonstraram
+especificidade da formação do complexo NUsc1/ AβOs.
+A partir das sequências codificantes dos anticorpos NUscs, foram identificadas as
+CDRs da cadeia leve e pesada desses anticorpos, possibilitando um análise detalhada dos
+resíduos que compõem as CDRs. Essa análise é essencial para os estudos estruturais futuros
+do papel das CDRs dos anticorpos NUsc’s no reconhecimento preferencial de oligômeros de
+Aβ.
+
+38
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+39
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+AL-LAZIKANI, B.; LESK, A. M.; CHOTHIA, C. Standard conformations for the canonical
+structures of immunoglobulins. Journal of molecular biology, v. 273. n. 4. p. 927-948.
+1997.
+BERCHTOLD, N. C.; COTMAN, C. W. Evolution in the conceptualization of dementia and
+Alzheimer's disease: Greco-Roman period to the 1960s. Neurobiol Aging, v. 19, n. 3, p. 17389, May-Jun 1998. ISSN 0197-4580 (Print) 0197-4580.
+BITGENE, 2018. Disponível em: < http://www.bitgene.net/antibody/cdr_finder> Acesso em:
+20/09/2018.
+BLENNOW, K.; DE LEON, M. J.; ZETTERBERG, H. Alzheimer’s disease. The Lancet, v.
+368, n. 9533, p. 387–403, 29 jul. 2006.
+CARDINALE, A. and BIOCCA, S. "The potential of intracellular antibodies for therapeutic
+targeting of protein-misfolding diseases." Trends Mol Med, v. 14, n. 9, p. 373-380, 2008.
+CHOTHIA, C.; LESK, A. M. Canonical structures for the hypervariable regions of
+immunoglobulins. Journal of molecular biology, v. 196. n. 4. p. 901-917. 1987.
+CHROMY, B. A. et al. "Self-assembly of Abeta(1-42) into globular neurotoxins."
+Biochemistry, v. 42, n. 44, p. 12749-12760, 2003.
+CLINE, E. N. et al. The Amyloid-β Oligomer Hypothesis: Beginning of the Third Decade. J
+Alzheimers Dis, v. 64, n. s1, p. s567-s610, 2018.
+DODART, J. C. et al. Immunization reverses memory deficits without reducing brain Abeta
+burden in Alzheimer's disease model. Nat Neurosci, v. 5, n. 5, p. 452-7, 2002. ISSN 10976256 (Print) 1097-6256.
+FERREIRA, S. T.; KLEIN, W. L. The Abeta oligomer hypothesis for synapse failure and
+memory loss in Alzheimer's disease. Neurobiol Learn Mem, v. 96, n. 4, p. 529-43, Nov
+2011. ISSN 1074-7427.
+FIGUEIREDO, C. P. et al. Memantine rescues transient cognitive impairment caused by highmolecular-weight abeta oligomers but not the persistent impairment induced by lowmolecular-weight oligomers. J Neurosci, v. 33, n. 23, p. 9626-34, 2013. ISSN 0270-6474.
+GASTEIGE, E. et al. ExPASy: the proteomics server for in-depth protein knowledge and
+analysis. Nucleic Acids Res, v. 31, n. 13, p. 3784-8, 2003. Ferramenta disponível em
+<https://web.expasy.org/translate/.> Acesso em: 18/09/2018.
+GAO, C. et al. "Making artificial antibodies: a format for phage display of combinatorial
+heterodimeric arrays." Proc Natl Acad Sci U S A, v. 96, n. 11, p. 6025-6030, 1999.
+GOLDGABER, D. et al. "Characterization and chromosomal localization of a cDNA
+encoding brain amyloid of Alzheimer's disease." Science, v. 235, n. 4791, p. 877-880, 20 fev.
+1987.
+
+40
+
+GOLDSTEIN, A. L. Biomedical Advances in Aging. New York, Plenum Press, 1990.
+GREICIUS, M. D., ROSEN, H. J., MILLER, B. L. Alzheimer’s Disease. Encyclopedia of the
+Neurological Sciences R. A. Daroff, M. J., Academic Press: 3474, 2003.
+HARDY, J. A.; HIGGINS, G. A. Alzheimer’s disease: the amyloid cascade hypothesis.
+Science (New York, N.Y.), v. 256, n. 5054, p. 184–5, 1992.
+JONES, P. T. et al. Replacing the complementarity-determining regions in a human antibody
+with those from a mouse. Nature, v. 321. n. 6069. p. 522-525. 1986.
+KLYUBIN, I. et al. Amyloid beta protein dimer-containing human CSF disrupts synaptic
+plasticity: prevention by systemic passive immunization. J Neurosci, v. 28, n. 16, p. 4231-7,
+2008. ISSN 0270-6474.
+KOLAROVA, M. et al. Structure and pathology of tau protein in Alzheimer disease. Int J
+Alzheimers Dis., v. 2012, p. 731526, 2012.
+KOROLEV, I. Alzheimer’s Disease: A Clinical and Basic Science Review. Medical Student
+Research Journal, v. 4, n. Fall, p. 24–33, 2014.
+KOTILINEK, L. A. et al. Reversible memory loss in a mouse transgenic model of
+Alzheimer's disease. J Neurosci, v. 22, n. 15, p. 6331-5, 2002. ISSN 0270-6474.
+KUMAR S., STECHER G., TAMURA K. MEGA7: Molecular Evolutionary Genetics
+Analysis version 7.0. Molecular Biology and Evolution (2015). Disponível
+em: <https://www.megasoftware.net/> Acesso em: 18/09/2018.
+LAFERLA, F. M.; GREEN, K. N.; ODDO, S. Intracellular amyloid-β in Alzheimer’s disease.
+Nature Reviews Neuroscience, v. 8, n. 7, p. 499–509, 2007.
+LAMBERT, M. P. et al. Monoclonal antibodies that target pathological assemblies of Abeta.
+J Neurochem, v. 100, n. 1, p. 23-35, 2007. ISSN 0022-3042 (Print) 0022-3042.
+Li, S. et al. Soluble Abeta oligomers inhibit long-term potentiation through a mechanism
+involving excessive activation of extrasynaptic NR2B-containing NMDA receptors. J.
+Neurosci, v. 31, n. 18, p. 6627–6638, 2011.
+LORENZO, A.; YANKNER, B. A. Beta-amyloid neurotoxicity requires fibril formation and
+is inhibited by congo red. Proc Natl Acad Sci U S A, v. 91, n. 25, p. 12243-7, 1994. ISSN
+0027-8424 (Print) 0027-8424.
+MONNIER, P. P., VIGOUROUX, R. J., TASSEW, N. G. "In Vivo Applications of Single
+Chain Fv (Variable Domain) (scFv) Fragments." Antibodies, v. 2, p. 193-208, 2013.
+NISSIM, A. et al. Antibody fragments from a ―single pot‖ phage display library as
+immunochemical reagents. The EMBO journal, v. 13, n. 3, p. 692–8, 1 fev. 1994.
+MOREA, V. et al. Conformations of the third hypervariable region in the VH domain of
+immunoglobulins. Journal of molecular biology, v. 275. n. 2. p. 269-294. 1998.
+O'BRIEN, R. J.; WONG, P. C. Amyloid precursor protein processing and Alzheimer's
+disease. Annu Rev Neurosci, v. 34, p. 185-204, 2011.
+
+41
+
+PATEL, C. A. et al. Parallel selection of antibody libraries on phage and yeast surfaces via
+cross-species display. Protein Eng Des Sel, v. 24, n. 9, p. 711-9, 2011.
+PERDIVARA, I. et al. Determination of primary structure and microheterogeneity of a βamyloid plaque-specific antibody using high-performance LC–tandem mass spectrometry.
+Analytical and bioanalytical chemistry, v. 391, n. 1, p. 325-336, 2008.
+QUERFURTH, H. W.; LAFERLA, F. M. Alzheimer’s Disease. New England Journal of
+Medicine, v. 362, n. 4, p. 329–344, 2010.
+Relatório sobre a Doença de Alzheimer no Mundo, 2009. Alzheimer’s Disease Internacional.
+Disponível
+em
+<https://www.alz.co.uk/research/files/WorldAlzheimerReportPortuguese.pdf>.
+RIAÑO-UMBARILA L. et al. A novel human recombinant antibody fragment capable of
+neutralizing Mexican scorpion toxins. Toxicon, v. 76, p. 370-376, 2013.
+ROHER, A. E. et al. (1993). "Structural alterations in the peptide backbone of beta-amyloid
+core protein may account for its deposition and stability in Alzheimer's disease." J Biol
+Chem, v. 268, n. 5, p. 3072-3083, 1993.
+SAFARPOUR H. et al. Isolation and Characterization of Novel Phage Displayed scFv
+Fragment for Human Tumor Necrosis Factor Alpha and Molecular Docking Analysis of Their
+Interactions. Iran J Pharm Res, v. 17, n. 2, p. 743-752, 2018.
+SAKONO, M. and ZAKO, T. "Amyloid oligomers: formation and toxicity of Abeta
+oligomers." FEBS J, v. 277, n. 6, p. 1348-1358, 2010.
+SAVIOZ, A. et al. A study of abeta oligomers in the temporal cortex and cerebellum of
+patients with neuropathologically confirmed Alzheimer’s disease compared to aged controls.
+Neurodegener. Dis, v. 16, n. 5-6, p. 398–406, 2016.
+SCHELTENS, P. et al. Alzheimer’s disease. The Lancet, v. 388, n. 10043, p. 505–517, 2016.
+SEBOLLELA, A. et al. Elucidating molecular mass and shape of a neurotoxic Aβ oligomer.
+ACS chemical neuroscience, v. 5, n. 12, p. 1238–45, 2014.
+SEBOLLELA, A. et al. A human scFv antibody that targets and neutralizes high molecular
+weight pathogenic amyloid-beta oligomers. J Neurochem, Jul 3 2017. ISSN 0022-3042.
+SISODIA, S. S. "Beta-amyloid precursor protein cleavage by a membrane-bound protease."
+Proc Natl Acad Sci U S A, v. 89, n.13, p. 6075-6079, 1992.
+THE ALZHEIMER’S ASSOCIATION. Stages of Alzheimer’s. Disponível em:
+<http://www.alz.org/alzheimers_disease_stages_of_alzheimers.asp>. Acesso em: 20 out.
+2018.
+TOMLINSON, B. E.; BLESSED, G.; ROTH, M. "Observations on the brains of nondemented old people." J Neurol Sci, v. 7, n. 2, p. 331-356, 1968.
+TOMLINSON, B. E.; BLESSED, G.; ROTH, M. "Observations on the brains of demented old
+people." J Neurol Sci, v. 11, n. 3, p. 205-242, 1970.
+
+42
+
+TRAMONTANO, A.; CHOTHIA, C.; LESK, A. M. Framework residue 71 is a major
+determinant of the position and conformation of the second hypervariable region in the V H
+domains of immunoglobulins. Journal of molecular biology, v. 215. n. 1. p. 175-182. 1990.
+TURNER, D. J.; RITTER, M. A.; GEORGE, A. J. Importance of the linker in expression of
+single-chain Fv antibody fragments: optimisation of peptide sequence using phage display
+technology. J Immunol Methods, v. 205, n. 1, p. 43-54, 1997. ISSN 0022-1759 (Print) 00221759.
+VELASCO, P. T. et al. Synapse-binding subpopulations of Abeta oligomers sensitive to
+peptide assembly blockers and scFv antibodies. ACS Chem Neurosci, v. 3, n. 11, p. 972-81,
+2012. ISSN 1948-7193.
+VIOLA, K. L.; KLEIN, W. L. Amyloid β oligomers in Alzheimer’s disease pathogenesis,
+treatment, and diagnosis. Acta neuropathologica, v. 129, n. 2, p. 183–206, 2015.
+XIAO, C. et al. Brain transit and ameliorative effects of intranasally delivered anti-amyloidbeta oligomer antibody in 5XFAD mice. J Alzheimers Dis, v. 35, n. 4, p. 777-88, 2013. ISSN
+1387-2877.
+WALSH, D. M.; SELKOE, D. J. Abeta Oligomers - a decade of discovery. Journal of
+Neurochemistry, v. 101, n. 5, p. 1172–1184, 2007.
+WU, J., BREYDO, L. Conformation-Dependent Antibodies as Tools for Characterization of
+Amyloid Protein Aggregates. Bio-nanoimaging: Protein Misfolding and Aggregation. V. L.
+Uversky, Y., Academic Press: 552, 2013.
+WU, T. T.; KABAT, E. A. An analysis of the sequences of the variable regions of Bence
+Jones proteins and myeloma light chains and their implications for antibody complementarity.
+The Journal of experimental medicine, v. 132. n. 2. p. 211-250. 1970.
+ZHANG, Y. et al. Functional Characteristics and Molecular Mechanism of a New scFv
+Antibody Against Aβ42 Oligomers and Immature Protofibrils. Mol Neurobiol, v. 52, n. 3, p.
+1269-1281, 2014.
+ZHANG, Y. et al. The protective effects and underlying mechanism of an anti-oligomeric
+Aβ42 single-chain variable fragment antibody. Neuropharmacology, v. 99, p. 387-395,
+2015.
+
+

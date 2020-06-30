@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: yes
+dedictria: yes
+agradecim: yes
+resumo_ab: no
+kw: yes
+l_figuras: yes
+l_tabelas: yes
+l_abr_sig: no
+l_quadros: yes
+n_sub_sec:
+n_ssb_sec:
+n_sss_sec:
+tem_anexo: no
+ini: Introdução
+secoes:
+ - Objetivo geral
+ - Objetivos específicos
+ - Aspectos metodológicos
+ - Resultados
+ - Discussão
+end: Considerações finais
+ref: Bibliografia

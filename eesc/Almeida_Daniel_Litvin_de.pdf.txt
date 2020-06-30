@@ -1,0 +1,3955 @@
+UNIVERSIDADE DE SÃO PAULO
+ESCOLA DE ENGENHARIA DE SÃO CARLOS
+DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+DANIEL LITVIN DE ALMEIDA
+
+Proposta de um método de priorização de projetos em programas de melhoria
+baseados na Produção Enxuta
+
+São Carlos
+2008
+
+ii
+DANIEL LITVIN DE ALMEIDA
+
+Proposta de um método de priorização de projetos para disseminação dos
+conceitos da Produção Enxuta
+
+Trabalho de Conclusão de Curso apresentado à
+Escola de Engenharia de São Carlos da
+Universidade de São Paulo para a obtenção do
+título de Engenheiro de Produção Mecânica
+Orientador: Prof. Dr. Daniel Capaldo Amaral
+
+São Carlos
+2008
+
+iii
+RESUMO
+
+ALMEIDA, D. L. - Proposta de um método de priorização de projetos para
+disseminação dos conceitos da Produção Enxuta. Trabalho de Conclusão de Curso –
+Escola de Engenharia de São Carlos – USP, 2008.
+
+Este trabalho apresenta o estudo de caso realizado numa empresa de materiais
+cerâmicos. Tem como objetivo a proposta de um método de priorização de projetos para
+disseminação dos conceitos da Produção Enxuta. Para apoiar o objetivo do presente
+trabalho, a revisão bibliográfica contempla dois assuntos principais: o primeiro é a
+origem e os fundamentos da Produção Enxuta, com maior ênfase às ferramentas,
+métodos e dificuldades de sua implantação, em seguida aborda-se a gestão de portfólio
+discutindo os conceitos básicos e métodos para a priorização de projetos disponíveis.
+Propõe a utilização de um quadro de gestão visual que possibilite a gestão dos projetos
+em três etapas: exposição e escolha de possíveis projetos, acompanhamento e análise de
+projetos em andamento e exposição dos resultados e ganhos obtidos. A utilização do
+quadro possibilita um maior alavancagem de projetos, principalmente de pequeno e
+médio porte, além de um melhor balanceamento e controle dos mesmos.
+
+Palavras-chaves: Produção Enxuta, Priorização de Projetos.
+
+iv
+ABSTRACT
+
+ALMEIDA, D. L. - Proposta de um método de priorização de projetos para
+disseminação dos conceitos da Produção Enxuta. Trabalho de Conclusão de Curso –
+Escola de Engenharia de São Carlos – USP, 2008.
+
+This paper presents a case study conducted in a business of ceramics. The main
+objective is to propose a method for prioritization of projects to spread the concepts of
+Lean Production. To support the objective of this work, the review covers two main
+issues: the first is the origin and the foundations of Lean Production, with more
+emphasis on tools, methods and difficulties of its implementation, then looks up the
+portfolio management discussing the basic concepts and methods for the prioritization
+of projects. Proposes the use of a management framework that enables visual
+management of projects in three stages: exposure and selection of potential projects,
+monitoring and analysis of ongoing projects and exposure of results and earnings. Using
+the framework allows a greater leverage of projects, mainly for small and médium
+opportunities, and a better balance and control of them.
+
+Keywords: Lean Manufacturing, Prioritization of Projects.
+
+v
+LISTA DE FIGURAS
+Figura 1 – O Sistema Toyota de Produção ....................................................... 16
+Figura 2 – Modelo ideal a partir da inovação................................................... 19
+Figura 3 – Modelo real a partir da inovação. ................................................... 19
+Figura 4 – Inovação mais KAIZEN. ................................................................ 20
+Figura 5 – Quantidade típica de oportunidades disponíveis............................. 23
+Figura 6 – Oportunidades capturadas por empresas comuns. .......................... 24
+Figura 7 – Oportunidades de alavancagem na Toyota em todos os níveis....... 26
+Figura 8 – O 4 P’s do Modelo Toyota. ............................................................. 31
+Figura 9 – Diferença entre processos e projetos............................................... 35
+Figura 10 – Comparação dos métodos para análise e avaliação do portfólio de
+projetos. .......................................................................................................................... 39
+Figura 11 – Organograma MCM da empresa. .................................................. 43
+Figura 12 – Quantidade típica de oportunidades disponíveis........................... 44
+Figura 13 – Folha de Proposta de Melhoria. .................................................... 46
+Figura 14 – Folha de Detalhamento da Proposta. ............................................ 47
+Figura 15 – Folha de Avaliação da Proposta.................................................... 48
+Figura 16 – Folha de Pontuação dos Projetos. ................................................. 48
+Figura 17 – Folha de Acompanhamento do Projeto. ........................................ 51
+Figura 18 – Folha de Projetos Encerrados........................................................ 52
+Figura 19 – Folha de Fotos / Oportunidades de Melhoria................................ 53
+Figura 20 – Folha de Fotos / Antes x Depois. .................................................. 53
+Figura 21 – Quadro de Projetos de Melhoria. .................................................. 54
+Figura 22 – Etapa de Oportunidades de Melhoria. ........................................... 54
+Figura 23 – Etapa de Detalhamento dos Projetos............................................. 55
+Figura 24 – Etapa de Acompanhamento do Projeto. ........................................ 55
+Figura 25 – Etapa de Projetos Encerrados........................................................ 56
+
+vi
+LISTA DE TABELAS
+Tabela 1 – Sete Ferramentas do controle de qualidade. ................................... 17
+Tabela 2 – Características do KAIZEN e da Inovação. ................................... 18
+Tabela 3 – Os 10 mandamentos do Kaizen. ..................................................... 21
+Tabela 4 – Abordagem de questões de grande porte na Toyota....................... 27
+Tabela 5 – Abordagem de questões de médio porte na Toyota........................ 27
+Tabela 6 – Abordagem de questões de pequeno porte na Toyota .................... 27
+Tabela 7 – Documentação do processo de solução de problemas. ................... 29
+Tabela 8 – Cronograma de Atividades do Projeto. .......................................... 58
+Tabela 9 – Avaliação Do Projeto. .................................................................... 59
+
+vii
+SUMÁRIO
+
+1.
+
+INTRODUÇÃO ...................................................................................... 9
+1.1. JUSTIFICATIVAS ..................................................................................... 9
+1.2. OBJETIVOS ........................................................................................... 10
+1.3. MÉTODOS ............................................................................................ 10
+1.4. APRESENTAÇÃO DO TRABALHO ........................................................... 10
+
+2.
+
+REVISÃO BIBLIOGRÁFICA ............................................................ 12
+2.1. PRODUÇÃO ENXUTA ............................................................................ 12
+2.1.1. Origem da Produção Enxuta ........................................................ 12
+2.1.2. Desperdícios a serem eliminados ................................................. 12
+2.1.3. Princípios da Produção Enxuta .................................................... 14
+2.1.4. Pilares e ferramentas da Produção Enxuta .................................. 15
+2.2. TIPOS DE MELHORIA ............................................................................ 16
+2.2.1. Kaizen x Inovação ......................................................................... 17
+2.2.2. Estratégia para o Kaizen .............................................................. 20
+2.3. ABORDAGEM DE SOLUÇÃO DE PROBLEMAS NA PRODUÇÃO ENXUTA ... 21
+2.3.1. Solução de problemas na Toyota .................................................. 21
+2.3.2. Oportunidades de melhoria .......................................................... 23
+2.3.3. Definição do processo de solução de problemas .......................... 27
+2.3.4. Relatório de informação na solução de problemas ...................... 28
+2.4. DIAGNÓSTICOS E DEFINIÇÃO DE PROJETOS NA PRODUÇÃO ENXUTA .... 30
+2.4.1. Abordagem de melhoria de processo ............................................ 31
+2.4.2. Abordagem de projetos críticos .................................................... 31
+2.4.3. Abordagem de ferramentas enxutas em toda a planta .................. 32
+2.4.4. Abordagem do sistema de produção da empresa ......................... 32
+2.4.5. Abordagem de linha modelo de fluxo de valor ............................. 33
+2.5. GESTÃO DE PORTFÓLIOS ...................................................................... 34
+2.5.1. Processos de negócio e projetos ................................................... 34
+2.5.2. Gestão de portfólio........................................................................ 35
+
+3.
+
+METODOLOGIA DA PESQUISA ..................................................... 40
+3.1. CLASSIFICAÇÃO DA PESQUISA ............................................................. 40
+
+viii
+3.2. CRONOGRAMA ..................................................................................... 40
+3.2.1. Revisão da bibliografia ................................................................. 40
+3.2.2. Levantamento de dados ................................................................. 41
+3.2.3. Desenvolvimento do trabalho ....................................................... 41
+3.2.4. Geração de resultados e conclusão do trabalho .......................... 41
+PROPOSTA DO TRABALHO ..................................................................... 42
+3.3. A EMPRESA .......................................................................................... 42
+3.4. ESTRUTURA DO SETOR DE ESTUDO....................................................... 43
+3.5. DESCRIÇÃO DO CONTEXTO DA APLICAÇÃO .......................................... 43
+3.6. DESCRIÇÃO DA PROPOSTA ................................................................... 44
+3.6.1. Oportunidades de melhoria .......................................................... 45
+3.6.2. Detalhamento dos projetos ........................................................... 46
+3.6.3. Acompanhamento dos projetos ..................................................... 50
+3.6.4. Projetos encerrados ...................................................................... 51
+3.6.5. Protótipo do quadro ...................................................................... 53
+3.7. ETAPAS DO MÉTODO ........................................................................... 56
+3.7.1. Oportunidades de melhoria .......................................................... 56
+3.7.2. Detalhamento dos projetos ........................................................... 57
+3.7.3. Acompanhamento dos projetos ..................................................... 59
+3.7.4. Projetos encerrados ...................................................................... 60
+CONSIDERAÇÕES FINAIS......................................................................... 61
+REFERÊNCIAS BIBLIOGRÁFICAS ......................................................... 63
+APÊNDICE A – FOLHAS DE PROJETO E QUADRO DE PROJETOS
+DE MELHORIA ........................................................................................................... 64
+APÊNCICE B – FERRAMENTAS DE SUPORTE PARA O
+DETALHAMENTO DO PROJETO .......................................................................... 73
+APÊNDICE C – EXEMPLO DE APLICAÇÃO DA PROPOSTA ............ 76
+
+9
+1. INTRODUÇÃO
+
+1.1.
+
+Justificativas
+
+Atualmente muitas empresas estão adotando as práticas da Produção Enxuta
+como forma de melhorar a eficiência de seus processos através da eliminação de
+desperdícios e busca da melhoria contínua. Para realizá-la é comum a criação de
+programas de melhoria baseados nessa filosofia que tem como objetivo central capacitar
+as organizações para responder com rapidez às constantes flutuações da demanda do
+mercado através do alcance efetivo das principais dimensões da competitividade:
+flexibilidade, custos, qualidade, atendimento e inovação. (Cf. SHINGO, 1996, p. v)
+Um dos problemas é priorizar projetos. As empresas comumente focam as
+práticas da Produção Enxuta na implantação de algumas ferramentas como Just-in-Time
+e Kanban, e acabam por obter somente melhorias pontuais, ao invés de obter melhorias
+em todo o fluxo de valor.
+Este trabalho analisa o caso de uma empresa do setor de materiais cerâmicos
+(refratárias e cerâmicas finas) pertencente a um grande grupo multinacional que criou
+uma equipe de implantação de Produção Enxuta.
+O programa ainda está no início, no segundo ano de implantação. A equipe
+responsável pela Produção Enxuta é reduzida e encontra dificuldades de formar grupos
+de trabalho.
+A matriz utiliza workshops e benchmarking para difundir os conceitos da
+Produção Enxuta para a empresa. A meta é uma rápida implantação baseada na redução
+de custos e melhoria de processos, e por isso precisa realizar um grande número de
+projetos de redução de custos, conduzidos por uma ou duas pessoas e de implantação
+fácil e de baixa necessidade de investimentos.
+A escolha correta dos projetos é, portanto, fundamental para o caso, tema que
+vem sendo explorado na literatura de gestão de portfólio. O trabalho analisa, portanto, a
+adoção de técnicas de gestão de portfólio no contexto de programas de melhoria da
+Produção Enxuta.
+
+10
+1.2.
+
+Objetivos
+
+O objetivo do trabalho é propor uma metodologia para priorização de projetos
+de melhoria, capaz de aperfeiçoar a disseminação dos princípios da produção enxuta,
+para um caso específico de empresa de materiais cerâmicos. O método deverá auxiliar
+na implantação de programas de melhoria em todas as etapas do processo de produção:
+a fábrica, a pesquisa e desenvolvimentos de produtos, o suprimento de componentes e o
+consumidor, possibilitando sua sustentabilidade e garantindo que suas metas em curto
+prazo sejam atingidas.
+1.3.
+
+Métodos
+
+Para cumprir este objetivo será realizada uma revisão da bibliografia sobre
+produção enxuta, especialmente no que diz respeito aos métodos e indicadores para
+avaliação dos projetos, sobre gerenciamento de portfólio, no que diz respeito aos
+objetivos e métodos de priorização e balanceamento de projetos. A revisão bibliográfica
+será utilizada então para analisar o caso e gerar a proposta de um método para avaliar e
+priorizar os projetos de melhoria e eliminação de desperdícios da empresa em questão.
+1.4.
+
+Apresentação do trabalho
+
+O Primeiro Capítulo apresenta uma contextualização e justificativas sobre a
+problemática e o conceito estudado. Além disso, apresenta os objetivos e método do
+trabalho.
+O Segundo Capítulo apresenta a revisão bibliográfica sobre Produção Enxuta e
+Gestão de Portfólio. A revisão sobre Produção Enxuta está direcionada para os tipos de
+melhoria existentes e metodologias e dificuldades para sua implantação. A revisão sobre
+gestão de portfólio está direcionada para critérios de priorização de projetos.
+O Terceiro Capítulo apresenta a metodologia de pesquisa e a descrição das
+etapas executadas no estudo.
+O Quarto Capítulo apresenta a proposta do trabalho. Começa com a descrição
+da empresa, do setor de estudo e do contexto de atualização. Posteriormente há uma
+descrição detalhada da proposta. O Capítulo termina com um exemplo de aplicação do
+método para facilitar o entendimento da proposta.
+
+11
+O Quinto Capítulo apresenta as considerações finais, que analisa os pontos
+positivos e negativos da abordagem, as dificuldades encontradas e são apresentadas
+recomendações para a aplicação da proposta.
+No Apêndice A são mostradas, em tamanho real, as Folhas de Projetos
+utilizadas para descrição das informações necessárias na proposta. É mostrado também
+o layout do Quadro de Projetos de Melhoria.
+No Apêndice B são apresentadas ferramentas de apoio para o detalhamento do
+projeto.
+No Apêndice C é apresentado um exemplo de utilização das Folhas de Projeto
+para facilitar o entendimento da proposta.
+
+12
+
+2. REVISÃO BIBLIOGRÁFICA
+
+Para apoiar o objetivo do presente trabalho, a revisão bibliográfica contempla
+dois assuntos principais. O primeiro é a origem e os fundamentos da Produção Enxuta,
+com maior ênfase às ferramentas, métodos e dificuldades de sua implantação. Em
+seguida aborda-se a gestão de portfólio discutindo os conceitos básicos e métodos para a
+priorização de projetos disponíveis. Além de compreender quais são os métodos e
+medidores de desempenho utilizados para a gestão de portfólios de projetos.
+2.1.
+
+Produção Enxuta
+
+2.1.1. Origem da Produção Enxuta
+
+A Produção Enxuta teve início no Japão na década de 50, na Toyota Motor
+Company, devido à necessidade de se quebrar o paradigma da produção em massa, já
+que a mesma não se aplicava às condições e dificuldades existentes na época. No Japão,
+pós segunda Guerra Mundial, havia grande dificuldade de estruturação industrial devido
+ao pouco capital para investimentos, mercado doméstico limitado, trabalhadores com
+posição fortalecida na negociação de condições mais favoráveis de emprego e grandes
+produtores de veículos externos ansiosos por operarem no Japão (Cf. WOMACK;
+JONES; ROOS, 2004, p. 38-9).
+Com isso observou-se a grande necessidade de se buscar a eliminação de
+desperdícios, aumentando a eficiência dos processos e, conseqüentemente, a
+competitividade da empresa. Na Toyota procura-se pelo desperdício que normalmente
+não é notado, porque se tornou aceito como uma parte natural do trabalho diário (Cf.
+SHINGO, 1996, p. 110).
+2.1.2. Desperdícios a serem eliminados
+
+A Toyota identificou os sete tipos principais de atividades sem valor agregado
+em processos empresariais ou de manufatura, os quais são descritos abaixo. Eles podem
+estar presentes no desenvolvimento de produtos, na tomada de pedidos e no escritório, e
+
+13
+não somente na linha de produção. Segundo os autores, um oitavo tipo de perda poderia
+ser adicionado aos outros (Cf. LIKER; MEIER, 2007, p. 53).
+“1. Superprodução. Produzir itens mais cedo ou em maiores
+quantidades do que o cliente necessita. Produzir antes ou mais do que
+é necessário gera outras perdas, tais como custos com excesso de
+pessoal, armazenagem e transporte devido ao estoque excessivo. O
+estoque pode ser físico ou um conjunto de informações.
+2. Espera (tempo à disposição). Trabalhadores meramente servindo
+como vigias de uma máquina automatizada ou tendo que ficar
+esperando pela próxima etapa do processamento ou próxima
+ferramenta, suprimento, peça, etc. ou, ainda, simplesmente não tendo
+trabalho por falta de estoque, atrasos de processamento, paralisação do
+equipamento e gargalos de capacidade.
+3. Transporte ou transferência. Movimentação de trabalho em
+processo de um local para outro, mesmo se for a uma curta distância.
+Movimentação de materiais, peças ou produtos acabados para estocálos ou retirá-los do estoque ou entre processos.
+4. Superprocessamento ou processamento incorreto. Realização de
+atividades/tarefas desnecessárias para processar peças. Processamento
+ineficiente devido à má qualidade das ferramentas e do projeto do
+produto, causando deslocamentos desnecessários ou produzindo
+defeitos. A perda é gerada quando são oferecidos produtos de maior
+qualidade do que o necessário. Às vezes, “trabalho” extra é usado para
+preencher o excesso de tempo em vez de esperá-lo passar.
+5. Excesso de estoque. Excesso de matéria-prima, estoque em
+processo ou produtos acabados, causando lead times mais longos,
+obsolescência, produtos danificados, custos com transporte e
+armazenagem e atrasos. Além disso, o estoque extra oculta problemas,
+tais como desequilíbrios na produção, entregas com atraso por parte
+dos fornecedores, defeitos, paralisação de equipamentos e longos
+períodos de preparação de equipamentos (setup).
+6. Deslocamentos desnecessários. Qualquer movimento que os
+funcionários têm que fazer durante seu período de trabalho que não
+seja para agregar valor a peça, tais como localizar, procurar ou
+
+14
+empilhar peças, ferramentas, etc. Além disso, caminhar também é
+perda.
+7. Defeitos. Produção ou correção de peças defeituosas. Conserto ou
+retrabalho, descarte, produção para substituição e inspeção significam
+desperdício de tempo, de manuseio e de esforço.
+8. Não-utilização da criatividade dos funcionários. Perda de tempo,
+idéias, habilidades, melhorias e oportunidades de aprendizagem por
+não envolver ou não escutar os funcionários.” (LIKER; MEYER,
+2007, p. 53-4)
+
+2.1.3. Princípios da Produção Enxuta
+
+Para se entender a Produção Enxuta de maneira correta faz-se necessário
+examinar cada etapa do processo, iniciando com o projeto e engenharia do produto e, no
+outro extremo, ultrapassando suprimentos e a fábrica, para atingir o consumidor que
+depende dos produtos em seu dia-a-dia. Faz-se necessário, também, entender o
+mecanismo de coordenação para harmonizar todas essas etapas (Cf. WOMACK;
+JONES; ROOS, 2004, p. 61).
+É possível definir a Produção Enxuta como um processo de cinco passos:
+definir o valor do cliente, definir o fluxo de valor, fazê-lo “fluir”, “puxar” a partir do
+cliente e lutar pela excelência.
+De acordo com Liker, o modelo Toyota é constituído de 14 princípios que
+estão organizados em quatro categorias amplas, conforme mostrado a seguir:
+•
+
+“Seção I: Filosofia de longo prazo.
+o Princípio 1. Basear as decisões administrativas em uma filosofia de
+longo prazo, mesmo em detrimento de metas financeiras de curto
+prazo.”
+
+•
+
+“Seção II: O processo certo produzirá os resultados certos.
+o Princípio 2. Criar um fluxo de processo contínuo para trazer os
+problemas à tona.”
+o “Princípio 3. Usar sistemas puxados para evitar superprodução.”
+o “Princípio 4. Nivelar a carga de trabalho (heijunka).”
+o “Princípio 5. Construir uma cultura de parar e resolver os
+problemas, obtendo a qualidade logo na primeira tentativa.”
+
+15
+o “Princípio 6. Tarefas padronizadas são a base para a melhoria
+contínua e a capacitação dos funcionários.”
+o “Princípio 7. Usar controle visual para que nenhum problema fique
+oculto.”
+o “Princípio 8. Usar somente tecnologia confiável e completamente
+testada que atenda aos funcionários e processos.”
+•
+
+“Seção III: Valorização da organização através do desenvolvimento de seus
+funcionários e parceiros.
+o Princípio 9. Desenvolver líderes que compreendam completamente
+o trabalho, que vivam a filosofia e a ensinem aos outros.”
+o “Princípio 10. Desenvolver pessoas e equipes excepcionais que
+sigam a filosofia da empresa.”
+o “Princípio 11. Respeitar sua rede de parceiros e de fornecedores
+desafiando-os e ajudando-os a melhorar.”
+
+•
+
+“Seção IV: A solução contínua de problemas na origem estimula a
+aprendizagem organizacional.
+o Princípio 12. Ver por si mesmo para compreender completamente a
+situação (genchi genbutsu).”
+o “Princípio
+
+13.
+
+Tomar
+
+decisões
+
+lentamente
+
+por
+
+consenso,
+
+considerando completamente todas as opções; implementá-las com
+rapidez.”
+o “Princípio 14. Tornar-se uma organização de aprendizagem através
+da reflexão incansável (hansei) e da melhoria contínua (kaizen).”
+(LIKER, 2005, p. 55-8).
+2.1.4. Pilares e ferramentas da Produção Enxuta
+
+O diagrama “Casa do STP” foi criado com a intenção de facilitar a visualização
+e entendimento da relação dos conceitos da Produção Enxuta. Utiliza-se o modelo de
+uma casa para demonstrar o sistema estrutural, ou seja, todos os elementos, telhado,
+colunas e fundações devem ser fortes para que a casa, também o seja. Uma conexão
+fraca fragiliza todo o sistema. Outro ponto importante é entender que cada elemento
+isolado é crítico, mas mais importante é o modo como os elementos reforçam uns aos
+outros (Cf. LIKER, 2005, p. 51-2).
+
+16
+
+Figura 1 – O Sistema Toyota de Produção
+Fonte – O modelo Toyota: 14 princípios de gestão do maior fabricante do
+mundo. (LIKER, 2005, p. 51)
+O sistema de Produção Enxuta utiliza várias ferramentas para a eliminação de
+desperdícios. As ferramentas e conceitos utilizados para implantar o sistema enxuto são:
+Just in time, kanban, autonomação (jidoka), kaizen, mapa de fluxo de valor, poka-yoke,
+troca rápida de ferramentas, melhoria contínua e layout celular. Esses conceitos são
+descritos em detalhes em SHINGO (1996, p. 25-6; 46-7), OHNO (1997, p. 55-7; 77-81;
+189-193; 195-198) , LIKER, MEIER (2007, p.55-66; 66-69)
+No caso desse trabalho o aspecto mais importante é a escolha e priorização de
+projetos.
+2.2.
+
+Tipos de melhoria
+
+Atualmente, é razoável admitir haver carência nas empresas quanto à
+coordenação das atividades de melhoria dentro de uma visão sistêmica dos processos
+existentes. As atividades normalmente focam a solução necessária para se adequar a um
+
+17
+ou outro indicador de desempenho, e não estendem a análise para implicações em outros
+processos.
+Segundo Imai, existem dois tipos de melhoria, que contrastam entre si. Um
+enfoque gradual e outro onde ocorrem grandes saltos de progresso. Ainda segundo Imai,
+as empresas japonesas geralmente favorecem o enfoque gradual, enquanto que, as
+empresas ocidentais favorecem o enfoque de grandes saltos (Cf. IMAI, 2005, p. 20).
+Para este trabalho iremos resumir o enfoque gradual de Kaizen e o enfoque de
+grandes saltos pelo termo Inovação.
+2.2.1. Kaizen x Inovação
+
+A Inovação é vista como mudanças importantes seguindo os avanços
+tecnológicos, ou como a introdução dos mais recentes conceitos de administração ou
+técnicas de produção. O Kaizen, por outro lado, freqüentemente, é realizado por
+mudanças mais simples, com metas menos ambiciosas e mais freqüentes, e raramente os
+seus resultados são visíveis de imediato. Enquanto o Kaizen é um processo contínuo, a
+Inovação é, geralmente, um fenômeno momentâneo.
+Uma das vantagens em relação ao Kaizen é que ele não exige, necessariamente,
+técnicas sofisticadas, nem tecnologias avançadas. Para sua implantação utilizam-se
+apenas técnicas simples e convencionais, como as sete ferramentas do controle de
+qualidade, mostradas na Tabela 1. Por outro lado, a inovação geralmente exige
+tecnologias altamente sofisticadas, bem como altos investimentos (Cf. IMAI, 2005, p.
+20-1).
+Diagrama de Pareto
+Diagramas de causa e efeito
+Histogramas
+Cartas de controle
+Diagramas de dispersão
+Gráficos
+Folhas de verificação
+Tabela 1 – Sete Ferramentas do controle de qualidade.
+
+Ao se analisar o Kaizen e a Inovação, percebe-se que eles possuem
+características contrastantes. A Tabela 2 compara as principais características do Kaizen
+e da Inovação
+
+18
+
+KAIZEN
+1. Efeito
+
+Inovação
+
+A longo prazo e duradouro, A curto prazo, porém
+porém monótono
+
+empolgante
+
+2. Ritmo
+
+Pequenos progressos
+
+Grandes progressos
+
+3. Estrutura de tempo
+
+Contínua e incremental
+
+Intermitente e não
+incremental
+
+4. Mudança
+
+Gradual e constante
+
+Repentina e passageira
+
+5. Envolvimento
+
+Todos
+
+Poucos “defensores”
+selecionados
+
+6. Enfoque
+
+Coletivismo, esforços em
+
+Forte individualismo,
+
+grupo, enfoque sistêmico
+
+idéias e esforços
+individuais
+
+7. Método
+
+Manutenção e
+
+Refugo e retrabalho
+
+melhoramento
+8. Estímulo
+
+“Know-how” e
+
+Avanços tecnológicos,
+
+atualizações convencionais
+
+novas invenções, novas
+teorias
+
+9. Exigências práticas
+
+10. Orientação
+
+Exige pouco investimento,
+
+Exige grande investimento,
+
+porém grande esforço para
+
+porém pouco esforço para
+
+mantê-lo
+
+mantê-la
+
+do Pessoas
+
+Tecnologia
+
+de Processos e esforços por
+
+Resultados por lucros
+
+esforço
+11. Critérios
+avaliação
+12. Vantagem
+
+melhores resultados
+É útil na economia de
+
+Adapta-se melhor à
+
+crescimento lento
+
+economia de crescimento
+rápido
+
+Tabela 2 – Características do KAIZEN e da Inovação.
+Fonte – KAIZEN, A estratégia para o sucesso competitivo (IMAI, 2005, p.21)
+Embora o Kaizen não exija necessariamente um grande investimento para a sua
+implantação, ele exige o comprometimento de todos os indivíduos da empresa, desde o
+
+19
+operário até o gerente. Consiste numa forma de gestão orientada para a maximização da
+produtividade e da rentabilidade e que não implica em significativo aumento de custos.
+A estratégia da inovação deve ocasionar o progresso em saltos significativos de
+desempenho, conforme representado na Figura 2. Porém, geralmente, essa estratégia
+não segue esse progresso em modelo de escada. O progresso real obtido através da
+inovação geralmente seguirá o modelo mostrado na Figura 3, se não tiver a estratégia do
+Kaizen para acompanhá-lo. Isto acontece porque o sistema implantado como resultado
+de inovação está sujeito à deterioração constante, a menos que sejam feitos esforços
+contínuos, primeiro para mantê-lo e depois para melhorá-lo (Cf. IMAI, 2005, p. 22).
+
+Figura 2 – Modelo ideal a partir da inovação.
+Fonte – KAIZEN, A estratégia para o sucesso competitivo (IMAI, 2005, p.22)
+
+Figura 3 – Modelo real a partir da inovação.
+Fonte – KAIZEN, A estratégia para o sucesso competitivo (IMAI, 2005, p.22)
+
+20
+Todos os sistemas produtivos estão passíveis de certa deterioração, uma vez
+alterados, por isso, deve haver um esforço contínuo de melhoramento até para manter o
+“status quo”. Quando não existe tal esforço, a decadência é inevitável. Assim, sempre
+que uma inovação é realizada, ela deve ser acompanhada por uma série de esforços de
+Kaizen para mantê-la e melhorá-la. Este padrão da Inovação realizada em conjunto com
+o Kaizen é mostrado na Figura 4, a seguir:
+
+Figura 4 – Inovação mais KAIZEN.
+Fonte – KAIZEN, A estratégia para o sucesso competitivo (IMAI, 2005, p.23)
+2.2.2. Estratégia para o Kaizen
+
+É necessário que as empresas tenham um enfoque mais prático e busquem os
+passos que devem ser seguidos para a implantação do Kaizen.
+Isso é importante para saber mais claramente onde a melhoria se aplica, como
+proceder e que recursos organizacionais usar, ajudando, assim, na contextualização das
+competências nas práticas das organizações, ou seja, é uma forma de identificar e
+desenvolver comportamentos para chegar às competências essenciais. Afinal, é na
+prática das atividades de melhoria contínua que se formam os comportamentos para
+adquirir algum tipo de competência essencial visando à melhoria contínua da produção
+(Cf. Mesquita & Alliprandini; 2003, p. 19).
+A participação nos programas Kaizen ocorre de baixo para cima no
+organograma organizacional, em que os funcionários são estimulados a examinar e
+
+21
+recomendar mudanças nos processos de trabalho dos quais participam. Por outro lado, a
+Inovação ocorre de cima para baixo, pois exige administração forte da alta gerência,
+afinal, apenas os que estão em posições que controlam funções múltiplas podem ser
+capazes de reconhecer oportunidades. Obviamente, para que níveis organizacionais e
+operacionais tomem iniciativas para melhorar processos, a alta administração precisa
+estar comprometida com essa prática. A alavanca para o Kaizen não pode ficar apenas
+no nível operacional. Deve estar alinhada com as estratégias da empresa e, assim,
+desdobrada de cima para baixo, caso contrário, tende a tornar-se um evento isolado (Cf.
+Mesquita & Alliprandini; 2003, p. 19).
+A Tabela 3, a seguir, apresenta os 10 mandamentos para o Kaizen.
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+O desperdício é o inimigo nº1. Para eliminá‐lo é preciso sujar as mãos.
+Melhorias graduais feitas continuadamente; não é ruptura pontual.
+Todos na empresa tem de estar envolvidos, desde os gestores do topo e intermédios, até o pessoal de
+base; a metodologia não é elitista.
+A estratégia deve ser barata. O aumento da produtividade deve ser feito sem investimentos
+significativos. Não se deve aplicar somas astronômicas em tecnologia e consultorias.
+Aplicar‐se em qualquer lugar; não serve só para os japoneses.
+Apóia‐se numa gestão visual, numa total transparência de procedimentos, processos e valores; torna os
+problemas e os desperdícios visíveis aos olhos de todos.
+Focaliza a atenção no local onde se cria realmente o valor ('gemba', em japonês).
+Orienta‐se para os processos.
+
+9
+
+Dá prioridade às pessoas, ao humanware; acredita que o esforço principal de melhoria deve vir de uma
+nova mentalidade e estilo de trabalho das pessoas (orientação pessoal para a qualidade, trabalho em
+equipe, cultivo da sabedoria, elevação da moral, autodisciplina, círculos de qualidade e prática de
+sugestões individuais ou de grupo)
+
+10
+
+O lema essencial da aprendizagem organizacional é aprender fazendo.
+
+Tabela 3 – Os 10 mandamentos do Kaizen.
+Fonte: Banas Qualidade, Novembro de 2005, nº 162.
+
+2.3.
+
+Abordagem de solução de problemas na Produção Enxuta
+
+2.3.1. Solução de problemas na Toyota
+
+O modelo da Produção Enxuta busca identificar e remover obstáculos no
+caminho para a perfeição. Este é um modelo cíclico de conquista de estabilidade,
+
+22
+padronização de práticas e contínua pressão sobre o processo a fim de expor os
+obstáculos. Liker e Meier possuem a seguinte visão a respeito da Toyota.
+“A Toyota é capaz de gerar melhores resultados com menos esforço,
+em um menor período de tempo e de maneira mais sistemática do que
+qualquer um de seus concorrentes. Seu processo de solução de
+problemas proporciona uma estrutura para alinhar recursos de modo
+eficaz, garantir a compreensão mútua de importância do problema,
+identificar com clareza a necessidade e o benefício da solução do
+problema e, com alto grau de precisão, prever o verdadeiro resultado.”
+(LIKER; MEIER, 2007, p. 285).
+
+Tecnicamente a metodologia de solução de problemas é bastante simples e não
+requer complexas ferramentas de análise estatística. O método básico pode ser
+aprendido em cursos de treinamento, mas a verdadeira aprendizagem provém da
+aplicação prática diária, do uso continuado e da avaliação de terceiros na organização.
+Ou seja, a metodologia de solução de problemas é uma habilidade que deve percorrer
+intensamente todos os níveis da organização e todas as funções, desde a fabricação até
+as compras, as vendas e os demais setores.
+Os problemas encontrados diariamente pela maioria dos funcionários,
+normalmente, exigem somente habilidades analíticas básicas. Técnicas mais complexas
+são desnecessárias e muitas vezes confundem as pessoas que têm um problema, mas
+não foram treinadas no método (Cf. LIKER; MEIER, 2007, p. 285-6).
+Para obter melhores resultados é necessário que se realize um processo de
+pensamento crítico e lógico. A metodologia de solução de problemas exige completa
+avaliação e reflexão, atenta consideração de várias opções e um curso de ação
+cuidadosamente pensado, tudo isso levando a metas mensuráveis e sustentáveis.
+Segundo Liker e Meier, o uso repetido e a prática, institucionalizam o
+procedimento, garantindo que seja virtualmente empregado em todas as situações em
+que se deseja melhoria, quando processos novos ou modificados são adicionados e até
+mesmo como estrutura para o desenvolvimento de um processo de implantação enxuto.
+O processo de solução de problemas pode ser utilizado em diversas situações,
+conforme citadas a seguir:
+
+23
+• Correção de pontos fracos nos níveis de habilidades e desenvolvimento
+de um plano de treinamento
+• Compra de novos equipamentos
+• Atividades de redução de custos
+• Atividades de melhoria de equipe (Círculos da Qualidade, eventos de
+kaizen)
+• Melhoria da produtividade e do fluxo do processo
+• Planejamento anual e desenvolvimento de estratégia
+2.3.2. Oportunidades de melhoria
+
+O fato de que todo problema pode ser visto como uma oportunidade somente
+se torna real quando a cultura organizacional concentra-se na melhoria contínua. Em
+todas as empresas há uma grande quantidade de problemas, e, conseqüentemente,
+oportunidades de melhoria. Estas oportunidades podem ser classificadas em três
+categorias amplas, grandes, médias e pequenas. Estas categorias podem ser melhor
+entendidas na Figura 5.
+
+Figura 5 – Quantidade típica de oportunidades disponíveis.
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.287)
+De acordo com Liker e Meier, existe um grande número de empresas que não
+possuem uma metodologia capaz de capturar oportunidades nessas três categorias.
+
+24
+Normalmente, as questões de pequeno porte quase não são aproveitadas porque as
+oportunidades são vistas como “insignificantes”, ou porque “não valem o esforço”.
+Além disso, as categorias de questões médias e grandes não são totalmente exploradas
+devido ao número reduzido de pessoas treinadas ou qualificadas para resolvê-las.
+Nessa estrutura, o ímpeto primário para a melhoria é dirigido e controlado pela
+administração. Nesse caso, a mudança ocorre de fora do processo. Isso continua a
+promover barreiras entre a gerência e os operários, o que implica que apenas a
+administração ou determinados indivíduos são responsáveis pela melhoria e que os
+trabalhadores esperam por “eles” para corrigir problemas.
+Nesses casos os esforços individuais não são incentivados, principalmente
+porque não há estrutura organizada para apoiá-los, e, além disso, porque os
+administradores temem a perda de controle. Existem empresas onde os problemas não
+são vistos como oportunidades de melhoria, mas sim como fracassos e, desse modo, são
+ocultados em vez de serem abordados.
+A Figura 6 mostra as oportunidades capturadas por empresas comuns.
+
+Figura 6 – Oportunidades capturadas por empresas comuns.
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.287)
+De acordo com Liker e Meier, a Toyota é capaz de capturar um número maior
+de oportunidades através de duas táticas e com isso maximizar seu desempenho.
+
+25
+1. Alavancagem. Todos os funcionários são treinados e encorajados para
+usar o processo diariamente, o que possibilita uma sinergia entre
+esforços de melhoria Isso contrasta com a estratégia de empresas onde
+indivíduos selecionados (como engenheiros ou Black belts) são
+treinados e designados para a solução de problemas, freqüentemente
+sem nenhuma contribuição daqueles que estão realmente mais próximos
+do processo.
+2. Foco. Utilizam-se os recursos para abordar questões nos três níveis de
+problemas. Os esforços devem ser concentrados nos itens mais
+significativos através de avaliação e comparação das questões. Com
+isso, os resultados são multiplicados, uma vez que, uma quantidade
+menor de esforço concentrado produz maiores resultados ao serem
+atacadas as maiores oportunidades. Além disso, os indivíduos são
+capazes de concentrar esforços nos itens menores que controlam e que
+os afetem diretamente (LIKER; MEIER, 2007, p.288).
+Na Produção Enxuta ocorre a divisão das oportunidades nas três categorias de
+problemas e busca-se utilizar os recursos adequadamente para todos os três níveis. As
+questões maiores são abordadas por meio de atividades dirigidas e controladas pela
+administração, tais como, treinamentos para os operadores, expansão de linhas
+produtivas e aquisição de novos equipamentos. Também é responsabilidade da
+administração estabelecer expectativas para a organização, identificar pontos fracos no
+sistema e aplicar os recursos adequados. As oportunidades do nível intermediário em
+geral são iniciadas pelo supervisor, pela equipe ou por um indivíduo. Esses itens podem
+basear-se em objetivos gerais de melhoria da empresa ou em questões especialmente
+desafiadoras para o grupo afetado. Finalmente, o sistema de Produção Enxuta é capaz
+de capturar uma grande oportunidade facilitando os esforços individuais em direção à
+melhoria. É o indivíduo ou a pequena equipe que quase sempre dá início a esses
+esforços. Cada pessoa entende o processo de melhoria contínua e busca esse objetivo
+em suas atividades diárias (LIKER; MEIER, 2007, p.288-9).
+Pode-se observar na Figura 7, que na Produção Enxuta é possível capturar um
+número maior de oportunidades de melhoria. Além disso, observa-se, também, que as
+melhorias, na Produção Enxuta, estão distribuídas nos três níveis de questões.
+
+26
+
+Figura 7 – Oportunidades de alavancagem na Toyota em todos os níveis.
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.288)
+No sistema da Produção Enxuta é possível ter um melhor desempenho do
+processo de melhoria contínua por que há uma quebra de paradigma em relação ao
+pensamento das pessoas, fazendo com que elas busquem melhorias em todos os estágios
+do ciclo de vida de um produto. Se as pessoas acreditarem que as melhorias só são
+desejadas sob as condições “corretas”, elas, na verdade, não farão melhorias porque as
+condições podem nunca se tornar corretas. De acordo com Liker e Meier, as pessoas
+afirmam, com freqüência, que um produto ou processo “terminará” dentro de seis meses
+e, por isso, não é prático despender tempo e dinheiro para melhorá-lo.
+Na Produção Enxuta acredita-se que uma pequena melhoria, implantada com
+pouco esforço, que produz talvez uma economia de um segundo ou um centavo por
+peça ao longo de seis meses é, na realidade, uma idéia prática. Esse sistema promove a
+noção de que a melhoria deve ocorrer todo o tempo, em todos os níveis e em todos os
+indivíduos. Se houverem regras sugerindo momentos e condições apropriadas para a
+melhoria, a eficácia do processo da melhoria contínua será reduzida (Cf. LIKER;
+MEIER, 2007, p.289).
+Para se ter um melhor resultado do processo de melhoria contínua deve-se
+ensinar habilidades básicas de solução de problemas para todos os funcionários, de
+modo que todos se tornam solucionadores de problemas. Com um maior número de
+pessoas resolvendo problemas diariamente, a Produção Enxuta pode efetivamente
+alavancar seu contingente de pessoas implantando projetos de melhoria.
+
+27
+As tabelas, 4, 5 e 6 apresentam as características dos três níveis de questões, o
+escopo típico da questão específica, exemplos de cada nível e métodos de implantação.
+
+Tabela 4 – Abordagem de questões de grande porte na Toyota.
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.289)
+
+Tabela 5 – Abordagem de questões de médio porte na Toyota.
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.290)
+
+Tabela 6 – Abordagem de questões de pequeno porte na Toyota
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.290)
+2.3.3. Definição do processo de solução de problemas
+
+Na Produção Enxuta os funcionários são ensinados a seguir um padrão para a
+implantação da solução de problemas. Liker e Meier comparam o processo de solução
+de problemas ao processo de se contar uma história. Toda boa história tem uma
+
+28
+introdução ou apresentação, desenvolvimento dos personagens e conteúdo no meio,
+uma conclusão e talvez uma pista para possível seqüência. Segundo os autores, o
+processo de solução de problemas segue o mesmo padrão de uma história, ou seja,
+possuí capítulos ou passos distintos.
+Se o processo de solução de problemas for corretamente planejado e detalhado,
+irá fluir uniformemente entre cada etapa, havendo uma clara conexão de uma para a
+outra. A finalização de uma etapa levará à próxima, e não haverá interrupção. A seguir
+são apresentadas as etapas que devem ser consideradas no processo de solução de
+problemas: (Cf. LIKER; MEIER, 2007, p.290)
+• Desenvolvimento de uma completa compreensão da situação presente e
+definição do problema.
+• Realização de uma análise completa da raiz do problema.
+• Total consideração de soluções alternativas enquanto se constrói o
+consenso.
+• Utilização do Ciclo PDCA (Planejar – Fazer – Verificar - Agir);
+o Planejar: Desenvolver um plano de ação
+o Fazer: Implantar soluções rapidamente
+o Verificar: Conferir o resultado
+o Agir: Fazer os ajustes necessários nas soluções e no plano de ação
+e determinar passos futuros
+• Reflexão e aprendizagem com o processo.
+2.3.4. Relatório de informação na solução de problemas
+
+A documentação do processo de solução de problemas utiliza diferentes
+formatos de informação, dependendo do que está sendo apresentado e do momento do
+processo em que as mesmas estão sendo transmitidas. Há três estágios distintos no
+processo de solução de problemas, citados a seguir:
+1. Estágio da proposta.
+2. Relatório de status.
+3. Relatório final.
+O estágio da proposta pode ser divido em dois níveis. Primeiramente é feita
+uma proposta inicial, que é realizada para obter consenso quanto à abordagem do
+problema. Para isso é importante avaliar o problema no contexto de outras questões. O
+
+29
+próximo nível do estágio da proposta ocorre após se estabelecer a concordância em se
+prosseguir com a proposta. Nesse momento, é necessário identificar as causas raízes do
+problema, além disso, também é possível explorar alternativas, como quem deve
+trabalhar no problema, quantas pessoas e em que período deve ser implantado,
+dependendo da urgência do problema. A proposta inicial de um problema deve fazer
+emergir muitas perguntas, assegurando-se que o problema foi corretamente identificado
+e que a aprovação para seguir em frente foi garantida.
+O estágio de relatório de status inicia após a aceitação das contramedidas, isto
+é, quando a implantação tem início. Este estágio fornece informações e atualiza as
+pessoas sobre o status da implantação e os atuais resultados da melhoria. A atualização
+de status incluirá informações relativas ao tempo restante até a finalização, atrasos no
+progresso, planos para retornar à programação e quaisquer desafios ou questões que
+exijam apoio de terceiros. Um erro comum nesse estágio é esperar demais para elaborar
+um plano de contingência, o que pode atrasar uma atividade. Neste estágio há, também,
+a oportunidade de questionar e explorar a totalidade do raciocínio e oferecer recursos
+adicionais, se necessário, para completar a atividade conforme programado. Os
+relatórios de status são freqüentes. Dependendo da atividade, podem ser semanais ou
+mensais.
+O estágio de relatório final ocorre quando a atividade termina. O foco do
+relatório final está na obtenção do resultado, e, geralmente não há a necessidade de
+ainda questionar os detalhes da própria atividade. De modo geral, a apresentação final
+não é feita antes que as contramedidas tenham sido bem-sucedidas na eliminação do
+problema e os resultados desejados tenham sido alcançados. O primeiro propósito do
+relatório final é mostrar a atividade e o sucesso da equipe ou do indivíduo. Após a
+realização do relatório final deve-se perguntar quais são as próximas atividades e
+projetos a serem realizados (Cf. LIKER; MEIER, 2007, p.347-8).
+A Tabela 7 apresenta os três estágios do processo de solução de problema e
+como o relatório é usado durante cada um.
+Antes
+Durante
+Depois
+Apresentação da proposta
+Relatório de Status
+Relatório final
+• Comparação geral com outros
+• Verificação do progresso
+• Verificação da realização bem
+problemas
+sucedida e da obtencão de resultados
+• Esclarecimento dos objetivos
+• Verificação da direção da atividade
+• Celebração do sucesso
+• Oferecimento de orientação
+• Oferecimento de orientação
+• Avaliação de outras considerações
+• Consideração de outras opções
+• Oferecimento de apoio adicional
+• Obtençãa de consenso e aprovação
+• Oferecimento de recursos adicionais
+
+Tabela 7 – Documentação do processo de solução de problemas.
+Fonte - O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.348)
+
+30
+2.4.
+
+Diagnósticos e definição de projetos na Produção Enxuta
+
+De acordo com Shingo, o sistema de Produção Enxuta não pode ser aplicado de
+uma maneira correta sem que antes haja uma compreensão geral dos princípios sobre o
+qual ele está embasado. Conforme explicado anteriormente, é necessário compreender
+que mais importante do que cada processo por si só, o importante é o modo como os
+elementos da Produção Enxuta reforçam-se. Com isso, a sua implantação depende do
+entendimento de como as técnicas individuais se encaixam no quadro geral (Cf.
+SHINGO, 1996, p. 245).
+Pode-se pensar na organização dividida em níveis, de um nível maior, diretoria
+até o menor, operários do chão de fábrica. As atividades relacionadas à introdução da
+Produção Enxuta afetarão todas as pessoas. No planejamento de atividades de
+implantação, deve-se considerar cada nível como um processo individual. (Cf. LIKER;
+MEYER, 2007, p.360).
+Liker e Meyer sugerem, no mínimo, quatro opções por onde a implantação
+poderia começar (Cf. LIKER; MEIER, 2007, p. 359).
+“1. Filosofia. Pode-se começar com uma reunião, com a presença dos
+principais executivos e fora do local de trabalho, com o objetivo de
+definir, de maneira clara, a visão para tornar-se uma empresa enxuta.
+2. Processo. Pode-se começar a implementar o sistema enxuto
+corretamente como um fluxo de valor estendido.
+3. Pessoas. Pode-se trabalhar para treinar e doutrinar as pessoas no
+novo sistema enxuto de pensar, tendo efeito direto na mudança de
+cultura.
+4. Solução de Problemas. Pode-se treinar as pessoas na metodologia
+de solução de problemas e dar-lhes tempo para se reunir em grupos e
+resolver os problemas.” (LIKER; MEYER, 2007, p. 359)
+
+Estas quatro categorias podem ser mais bem compreendidas na figura a seguir:
+
+31
+
+Figura 8 – O 4 P’s do Modelo Toyota.
+Fonte – O modelo Toyota, 14 princípios de gestão do maior fabricante do
+mundo (LIKER, 2005).
+2.4.1. Abordagem de melhoria de processo
+
+Na abordagem de melhoria de processo deve haver um objetivo específico de
+melhoria para o processo individual, que é aquele feito em máquina específica, por
+determinados funcionários e operação, como por exemplo, realização de uma montagem
+ou prensa de peças.
+Para tal, é comum utilizar-se do evento kaizen, com uma semana de duração,
+como estratégia enxuta. Este pode ser estruturado da seguinte maneira:
+1. Preparação antecipada.
+2. Realização do evento.
+3. Acompanhamento do evento (Cf. LIKER; MEYER, 2007, p. 360-1).
+2.4.2. Abordagem de projetos críticos
+
+Na abordagem de projetos críticos busca-se solucionar rapidamente os
+problemas nos processos que estejam causando grandes problemas ou perdas para a
+empresa, como por exemplo, uma operação congestionada que constantemente atrasa a
+programação. Pode-se utilizar eventos kaizen para rapidamente identificar e solucionar
+estes tipos de problemas.
+
+32
+Este tipo de abordagem pode ser utilizado para obter apoio da administração,
+em casos em que esta é cética em relação ao sistema enxuto, isto é, a administração
+acredita no potencial do sistema enxuto, mas precisa constatar resultados para realmente
+apoiá-lo. Porém um dos problemas desse tipo de abordagem é que uma vez que a
+administração percebe o que o sistema enxuto pode fazer pelos projetos críticos, passa a
+querer mais, e pode-se acabar em um ciclo interminável de kaizens pontuais (Cf.
+LIKER; MEYER, 2007, p. 367-8).
+2.4.3. Abordagem de ferramentas enxutas em toda a planta
+
+Esta abordagem pode ser classificada como “ferramentas críticas” e
+pertencente à família de projetos críticos. O foco é aprender ferramentas enxutas que
+podem ser aplicadas, não dando a importância necessária para a teoria, e implantá-las,
+uma de cada vez, em toda a planta.
+Uma crítica a essa abordagem é que as ferramentas existem para respaldar a
+eliminação de perdas e não como ferramentas isoladas. O foco das atividades enxutas no
+início do processo deve estar no domínio e ampla implantação de uma ferramenta de
+cada vez (Cf. LIKER; MEYER, 2007, p. 371-2).
+2.4.4. Abordagem do sistema de produção da empresa
+
+A abordagem do sistema de produção da empresa utiliza como principal
+ferramenta o mapeamento de fluxo de valor. Esta ferramenta consiste em uma
+representação visual de cada processo no fluxo de material e informação, desde o
+consumidor até o fornecedor (Cf. SHOOK; ROTHER, 2003, p. 4)
+Este tipo de abordagem é utilizado quando o objetivo é implantar a Produção
+Enxuta no nível de organização como um todo e é necessária a criação de um Sistema
+de Produção Enxuta. Para isso é necessário uma avaliação enxuta em diferentes graus de
+procedimentos operacionais padrão, desenvolve-se indicadores de desempenho
+“enxutos” para substituir o atual sistema de indicadores, que favorece o comportamento
+de produção em massa. Ocorre um processo de educação dos conceitos enxutos básicos
+e treinamento nos detalhes específicos do sistema de operação (Cf. LIKER; MEYER,
+2007, p. 372-3).
+
+33
+O problema dessa abordagem é que a Produção Enxuta baseia-se na ação e
+aprendizagem prática. De acordo com Liker e Meyer, temos:
+“A crença inerente é que as pessoas não entendem verdadeiramente o
+sistema enxuto antes de vivenciá-lo. De outro modo, será apenas uma
+abstração, que você pode assimilar com a mente, mas não com a alma.
+Se você o assimila com a mente, é fácil intelectualizá-lo.” (LIKER;
+MEYER, 2007, p. 373)
+
+Além disso, esta é uma abordagem que acarreta um processo lento e
+dispendioso.
+2.4.5. Abordagem de linha modelo de fluxo de valor
+
+Pode-se dizer que a abordagem de linha modelo de fluxo de valor é adequada
+para a maioria das organizações, sendo o mapa de fluxo de valor uma ferramenta central
+para visualizar os fluxos de valor enxutos. Através do mapa de estado presente as perdas
+tornam-se aparentes e este é o ponto de partida para o desenvolvimento de uma visão do
+estado futuro enxuto. O mapa de fluxo de valor não tem como objetivo determinar um
+conjunto de atividades kaizen pontual.
+É recomendável que as ações para atingir o estado futuro sejam organizadas em
+loops, que são ciclos de fluxo de material e informações, conforme descritos a seguir:
+“1º. Loop do marcador de ritmo. Esse loop é o que está mais próximo do
+cliente e marca todas as operações anteriores. Também é o ponto de programação na
+planta.”
+“2º. Loop do processo intermediário. Esse processo fornece materiais e
+reabastece o supermercado que mantém os produtos para seu cliente – o loop do
+marcador de ritmo.”
+“3º. Loop do fornecedor. Inclui o fornecedor de matérias-primas e o ciclo de
+reabastecimento para manter o supermercado de peças fornecidas com estoque de
+materiais.” (LIKER; MEYER 2007, p.374)
+Nesta abordagem, é necessário trabalhar cada ciclo puxado e fazer o que for
+necessário para estabilizar, criar fluxo, padronizar e nivelar incrementalmente cada ciclo
+específico (LIKER; MEYER, 2007, p. 374-6).
+
+34
+As abordagens de processos críticos e de ferramentas enxutas podem gerar
+concorrência entre recursos e de prioridade de implantação entre os projetos. Isso reduz
+a qualidade e estende o prazo de implantação das melhorias e, portanto, faz-se
+necessária uma metodologia de priorização destes projetos.
+2.5.
+
+Gestão de Portfólios
+
+Na literatura de desenvolvimento de novos produtos a gestão de portfólios e a
+priorização de projeto de novos produtos são definidas como sendo tarefas críticas de
+gerenciamento. Gerenciamento de portfólio diz respeito à alocação de investimentos,
+isto é, qual projeto deve receber investimentos. Além disso, define quais devem receber
+prioridade e quais estão alinhados com a estratégia da empresa.
+Falta de foco e excesso de projetos ativos significa desperdício de recursos e
+impactos negativos nos projetos em andamento. Como resultado, cria-se uma fila de
+projetos e o tempo de ciclo dos mesmos começam a aumentar. Como conseqüência a
+qualidade começa a diminuir, e corre-se o risco de que os melhores projetos fiquem sem
+recursos e demorem um longo tempo para serem concluídos.
+Sem um método rigoroso de gerenciamento de portfólio os projetos errados são
+selecionados com freqüência pelos motivos errados. Ao invés de decisões baseadas em
+fatos e critérios objetivos, decisões são baseadas em política, opiniões e emoções.
+Muitos desses projetos mal escolhidos simplesmente falham (Cf. COOPER; EDGETT;
+KLEINSCHMIDT, 1998, p. 1-4).
+2.5.1. Processos de negócio e projetos
+
+Para um melhor entendimento da gestão de portfólios é necessário que se
+compreenda a diferença entre processos de negócio e projetos.
+Processos de negócios é um conjunto de atividades organizadas entre si que
+visam produzir um bem ou um serviço para um tipo específico de cliente (interno ou
+externo a empresa). Essas atividades podem representar operações repetitivas da
+empresa que normalmente são estruturadas, como no caso dos processos de gestão
+financeira
+
+ou
+
+de
+
+produção.
+
+Os
+
+processos
+
+possuem objetivos
+
+estabelecidos
+
+periodicamente, como por exemplo, o aumento do retorno financeiro a ser estabelecido
+como meta do processo de gestão financeira da empresa.
+
+35
+De uma maneira semelhante projetos também representam um conjunto de
+atividades, porém, eles são únicos e temporários, ou seja, possuem início, meio e fim.
+Os projetos possuem objetivos únicos e específicos a serem atingidos no final de sua
+realização. No caso de um projeto de desenvolvimento de um produto, as metas
+normalmente estabelecidas indicam a data de lançamento do produto e o seu custo, entre
+outras. (Cf. AMARAL et al., 2006, p.40-1)
+A figura a seguir apresenta as principais diferenças entre processos de negócio
+e projetos.
+
+Figura 9 – Diferença entre processos e projetos.
+Fonte – Gestão de desenvolvimento de produtos, uma referência para melhoria
+do processo (AMARAL et al., 2006, p.41)
+2.5.2. Gestão de portfólio
+
+Um novo projeto pode ser visto como um negócio que visa obter resultados
+para a empresa, que, em geral são: obter lucro, atender a quesitos específicos da
+estratégia, ou obter algum aprendizado. Uma característica que deve ser destacada é o
+fato de todo projeto possuir um risco associado. Os riscos inerentes a cada projeto
+podem ser maiores ou menores, dependendo da natureza do projeto. O importante é que
+a empresa aprimore seu processo de escolha e priorização de projetos de forma a
+
+36
+aprimorar seu embasamento no momento da previsão, permitindo-lhe aprimorar cada
+vez mais essa escolha. (Cf. AMARAL et al., 2006, p.133)
+“A gestão de portfólio de projetos é um processo estruturado de
+decisão sobre quais projetos devem ou não ser desenvolvidos dentro
+da organização. Esse processo deve ser bem formalizado dentro da
+empresa e envolve atividades de avaliação dos projetos e produtos
+existentes, identificação de novas idéias, priorização e escolha.”
+(AMARAL et al., 2006, p.134).
+
+A gestão de portfólio possui três objetivos básicos: maximizar o retorno
+financeiro, alinhar com a estratégia da empresa e balancear o portfólio de projetos.
+Esses objetivos devem ser satisfeitos no processo de decisão de cada projeto ou produto
+da empresa, que envolve um dos cinco tipos básicos de escolha, como mostrado a
+seguir.
+• Criar novo projeto.
+• Aprovar o projeto em desenvolvimento, na forma como está atualmente.
+• Redirecionar um projeto. É o caso no qual o projeto será mantido com a
+condição de que haja um conjunto específico de modificações no
+escopo.
+• Congelar um projeto. É a alternativa de suspender o projeto até que ele
+possa ser retomado no futuro, do ponto em que se encontra.
+• Cancelar um projeto. É a alternativa de abandonar ou matar um projeto
+(Cf. AMARAL et al., 2006, p.134).
+De acordo com Amaral os três objetivos básicos da gestão de portfólio podem
+ser descritos como:
+• “Maximizar o retorno financeiro: o conjunto de projetos deve
+trazer a maior rentabilidade possível para a empresa. Os
+investimentos realizados em todos os projetos deverão ser
+superados com grande vantagem pelos retornos a serem
+produzidos.
+• Alinhar com a estratégia da empresa: este critério é o grau com
+que tais projetos se alinham com as metas estratégicas da
+empresa.
+
+37
+• Balancear o portfólio de projetos: os dois critérios anteriores
+são capazes de atender à missão da organização: ter lucro por
+meio de uma determinada estratégia. Mas avaliar os projetos
+utilizando apenas os dois critérios anteriores pode levar ao
+erro de não se considerar o nível de risco da carteira de
+projetos. Balancear o portfólio é manter uma proporção
+adequada de inovação, risco e lucratividade, atendendo, além
+da estratégia da empresa, às realidades de curto e longo prazo
+do mercado.” (AMARAL et al., 2006, p.134)
+
+As técnicas utilizadas para se analisar uma carteira de projetos são similares às
+utilizadas na análise de mercados, segmentação em unidades de negócio e até mesmo na
+análise de carteiras. Tal conjunto de técnicas pode ser dividido em três tipos básicos.
+• “Análise do valor comercial esperado: é a avaliação por meio
+de
+
+modelos
+
+de
+
+matemática
+
+financeira,
+
+considerando
+
+investimento, retorno e risco. Esses modelos utilizam os
+índices de avaliação financeira, tais como: valor presente
+líquido, taxa interna de retorno e outros para medir qual a
+média (esperança) de retorno financeiro de cada projeto.”
+• “Modelos baseados em notas (score): são os modelos que
+utilizam um conjunto de critérios predefinidos e baseados em
+notas para avaliar os projetos. O primeiro passo é a definição
+dos
+
+critérios,
+
+tais
+
+como:
+
+facilidade
+
+de
+
+implantação,
+
+participação de mercado, dificuldade técnica, nível de risco
+etc. Cada um dos critérios é definido, incluindo uma escala
+qualitativa ou um índice quantitativo que serão utilizados para
+medir cada projeto. Os critérios são priorizados e aplicados
+para avaliar cada projeto.”
+• “Modelos de gráficos de bolhas: os gráficos de bolha são
+gráficos que possuem três dimensões (dois eixos e o diâmetro
+dos pontos) e se caracterizam por separar o espaço em
+quadrantes. Avaliar portfólio utilizando gráficos de bolhas
+significa desenhar o gráfico para o conjunto de projetos da
+empresa. O significado dos eixos e do raio da circunferência
+pode variar de acordo com a necessidade dos avaliadores. Os
+
+38
+eixos geralmente representam o retorno financeiro e a
+probabilidade de sucesso técnico, e o raio significa a
+quantidade de investimento necessária para o projeto.”
+(AMARAL et al., 2006, p.135-6)
+
+Cada um desses métodos apresenta vantagens e desvantagens para o
+gerenciamento de portfólio. A Análise do valor econômico esperado é uma ótima
+técnica para identificar os projetos que maximizam o retorno financeiro, além disso,
+auxilia no balanceamento porque considera o risco dos projetos, no entanto é
+inadequada para apontar quais deles se alinham com a estratégia da empresa. O Gráfico
+de Bolhas é o mais eficaz no balanceamento do portfólio, auxilia no alinhamento
+estratégico, mas não contribui de maneira eficaz para priorização da maximização do
+valor. Já o Modelo de Notas pode ser utilizado para adequar os projetos aos três
+objetivos, bastando, para isso, considerar critérios para cada um deles. O problema é
+que ele é menos eficiente que os demais em objetivos específicos, pois sua implantação
+está sujeita a uma série de vieses conforme são escolhidos os critérios e seus pesos e é
+mais suscetível a erros de interpretação.
+Por isso ao invés de utilizar essas técnicas isoladamente o ideal é que a
+empresa adapte esses diferentes índices e técnicas criando uma metodologia própria de
+avaliação de portfólio. Com isso conseguirá obter mais vantagens para o gerenciamento
+do portfólio, já que as diferentes metodologias se complementam e se fundem. Por
+exemplo, pode-se adicionar um índice de um Modelo de Notas em um Gráfico de
+Bolhas, o Valor Econômico Esperado como um critério do Modelo de Notas e assim por
+diante. (Cf. AMARAL et al., 2006, p. 137-8)
+Uma comparação dos métodos para análise e avaliação do portfólio de projetos
+é mostrada na figura a seguir:
+
+39
+
+Figura 10 – Comparação dos métodos para análise e avaliação do portfólio de
+projetos.
+Fonte – Gestão de desenvolvimentos de produtos: uma referência para a
+melhoria do processo. (AMARAL et al., 2006)
+
+40
+
+3. METODOLOGIA DA PESQUISA
+
+3.1.
+
+Classificação da Pesquisa
+
+Pode-se dizer que o estudo de caso tem como objetivo aprofundar o
+conhecimento sobre um problema não suficientemente definido, visando estimular a
+compreensão, sugerir hipóteses e questões ou desenvolver a teoria (Cf. CAUCHICK;
+p.4; MATTAR, 1996)
+Será utilizado um estudo de caso configurativo-disciplinado, para que se possa
+interpretar os padrões encontrados em termos de postulados teóricos gerais,
+identificando se a teoria deveria ter sido aplicada ao caso e não o fez e apontar a
+necessidade de novas teorias em áreas negligenciadas. (Cf. ROESCH, 1999, p. 201).
+Para tanto, o pesquisador terá participação ativa no processo, além de utilizar entrevistas
+para aquisição de informações retroativas.
+De acordo com Cauchick este estudo de caso é classificado como: descritivo,
+caso único, incorporado e com unidade de análise (uma intervenção em determinada
+área).
+3.2.
+
+Cronograma
+
+O presente trabalho foi construído observando-se a necessidade de uma
+metodologia sistêmica de implantação e gerenciamento de projetos de Produção Enxuta
+para a empresa em questão. Para tal, foram realizadas as etapas conforme a descrição a
+seguir.
+3.2.1. Revisão da bibliografia
+
+Foi realizada a revisão da bibliografia sobre Produção Enxuta, focando-se as
+metodologias e dificuldades de implantação. Esta revisão trata dos princípios da
+Produção Enxuta, solução de problemas e definição de projetos na Produção Enxuta.
+Além disso, realizou-se a revisão bibliográfica sobre projetos de inovação e projetos de
+melhoria contínua para que se pudesse identificar suas semelhanças e diferenças para se
+identificar os tipos de projetos a serem realizados. Realizou-se, também, a revisão
+
+41
+bibliográfica sobre gestão de portfólio. Neste caso, utilizou-se uma revisão para a gestão
+de desenvolvimento de produtos e adaptaram-se os fundamentos para a gestão de
+projetos de melhoria. A revisão bibliográfica foi realizada predominantemente em
+livros, para se entender os fundamentos necessários para a proposta.
+3.2.2. Levantamento de dados
+
+O levantamento de dados foi realizado através de uma pesquisa-ação que pôde
+identificar as características da empresa, suas dificuldades e oportunidades em relação à
+implantação da metodologia da Produção Enxuta.
+3.2.3. Desenvolvimento do trabalho
+
+Após realizar a revisão bibliográfica e analisar as características da empresa
+deu-se início ao desenvolvimento da proposta. Conforme verificado, os projetos de
+melhoria do tipo inovação da empresa são mais restritos e estão vinculados à alta
+gerência. Por isso, a proposta é baseada para a implantação e gestão de portfólio de
+projetos de melhoria contínua de médio e pequeno porte. Foi observada a necessidade
+de maior integração dos operadores na escolha e desenvolvimento dos projetos para
+possibilitar uma maior alavancagem de projetos e maior estímulo dos operadores.
+Assim, a proposta é um quadro de gestão a vista onde ocorra a integração dos
+operadores com a média gerência para a escolha e gerenciamento dos projetos de
+melhoria.
+3.2.4. Geração de resultados e conclusão do trabalho
+
+A partir do detalhamento da proposta, foram definidas todas as etapas e
+,respectivas
+
+informações necessárias em cada fase de implantação do projeto de
+
+melhoria. Foram criadas Folhas do Projeto para auxiliar a visualização dessas
+informações. A proposta não foi implantada na empresa, mas a fim de facilitar a
+compreensão da proposta foi descrito um exemplo de um projeto da empresa com os
+dados alterados.
+
+42
+
+PROPOSTA DO TRABALHO
+
+3.3.
+
+A empresa
+
+A empresa estudada, daqui em diante designada como X faz parte de um grupo
+multinacional, fabricante de materiais com alto valor de tecnologia agregada,
+diversificado e líder nas suas diversas atividades, transforma materiais conhecidos de
+longa data, tais como o vidro, o ferro fundido, o plástico e as cerâmicas.
+O grupo está presente em 50 países, possuindo cerca de 1200 empresas
+consolidadas, 206.000 funcionários e faturamento em 2006 de 41,2 bilhões de Euros.
+A empresa define-se como um produtor mundial de materiais de forte conteúdo
+tecnológico e prestador de serviços associados a esses materiais.
+Dentro de cada atividade tem uma missão dupla: produzir, transformar ou
+distribuir os melhores materiais e crescer de forma segura e rentável a partir da sua
+posição de líder.
+Na estrutura atual do Grupo, suas 11 atividades industriais e uma atividade de
+distribuição são agrupadas em 5 Pólos, classificados em atividades históricas e novas
+atividades
+A Empresa X está presente no Brasil desde 1937, atuando há 70 anos no Brasil,
+apresenta contínuo crescimento, tanto em volume de operação, como em número de
+atividades. O Brasil é hoje um dos países onde o grupo está presente com a sua gama
+mais completa de atuação.
+A empresa está presente em todo território nacional e apresenta os seguintes
+números:
+• 13 empresas operacionais;
+• 45 unidades industriais, 9 sítios de mineração, 25 lojas em 48 cidades e 8
+estados;
+• Número de funcionários: 12.000;
+• Faturamento bruto em 2006: R$ 5,7 bilhões.
+A unidade analisada produz materiais cerâmicos e está localizada no interior
+do Estado de São Paulo.
+
+43
+3.4.
+
+Estrutura do setor de estudo
+
+O setor estudado da empresa é denominado Melhoria Contínua da Manufatura
+(MCM) e começou a ser implantado na empresa há cerca de dois anos.
+A estrutura organizacional descrita na Figura 11, no qual está contida a área de
+melhorias através de conceitos da Produção Enxuta apresenta o seguinte organograma
+organizacional.
+
+Figura 11 – Organograma MCM da empresa.
+3.5.
+
+Descrição do contexto da aplicação
+
+A Produção Enxuta começou a ser implantada há, aproximadamente, dois anos,
+com o objetivo de melhorar os processos, através da melhoria contínua e eliminação de
+desperdícios.
+Conforme descrito anteriormente, as melhorias são, atualmente, classificadas
+em três tipos: grande, médio e pequeno porte. Por ter um organograma enxuto e estar
+ligada à matriz francesa as melhorias de grande porte estão sob responsabilidade do
+gerente industrial, gerente de engenharia e diretor da unidade, e dependem de aprovação
+da matriz na França, portanto a equipe MCM tem pouco controle sobre esse tipo de
+melhoria.
+O foco deste trabalho são os pequenos e médios projetos, representados por
+melhorias de menor impacto e necessitem investimentos menores, que, realizados
+
+44
+continuamente, geram bons resultados. Conforme mostrado na Figura 12, existem mais
+oportunidades de melhorias para projetos de pequeno e médio porte.
+
+Figura 12 – Quantidade típica de oportunidades disponíveis.
+Fonte – O Modelo Toyota, manual de aplicação (LIKER; MEIER, 2007, p.287)
+As oportunidades de médio e pequeno porte são mais abundantes nas empresas
+e por isso é necessário uma metodologia para gerenciá-los. Esse gerenciamento permite
+alavancar um maior número de oportunidades de melhoria, além de conseguir realizar
+um controle de portfólio e priorização de projetos para que sejam realizados aqueles
+mais alinhados com as metas e necessidades da empresa.
+Para alavancar um maior número de projetos é necessário incentivar a
+participação ativa dos operadores fazendo com que eles façam parte tanto das escolhas
+como da implantação dos projetos.
+3.6.
+
+Descrição da Proposta
+
+O objetivo da proposta é criar uma metodologia para gerenciamento de
+portfólio de projetos baseados na Produção Enxuta. Para isso, pretende-se criar um
+quadro de gestão visual que possibilite a gestão dos projetos em três etapas, conforme
+mostrado a seguir.
+1. Exposição e escolha de possíveis projetos.
+2. Acompanhamento e análise de projetos em andamento.
+3. Exposição dos resultados e ganhos obtidos.
+
+45
+O quadro deve ser exposto na área de operação possibilitando que qualquer
+pessoa tenha acesso às informações e possa também adicionar críticas, sugestões e
+notas.
+A base para a proposta é dividida em quatro etapas:
+1. Oportunidades de melhorias.
+2. Detalhamento dos possíveis projetos.
+3. Acompanhamento dos projetos.
+4. Descrição dos projetos encerrados.
+A seguir são apresentadas as descrições de cada etapa e as Folhas de Projetos
+necessárias em cada uma delas. As Folhas de Projeto são apresentadas em tamanho real
+no Apêndice A.
+3.6.1. Oportunidades de melhoria
+
+Nesta etapa ocorre a identificação e exposição de possíveis projetos de
+melhoria. Deve ser criada uma sistemática para que os operadores, encarregados e
+gerentes sejam estimulados e identificar e apresentar possíveis melhorias para a
+empresa. Todos os projetos devem ser avaliados e classificados como viáveis ou
+inviáveis.
+Nesta etapa deve ocorrer um detalhamento simples dos projetos, conforme os
+seguintes itens:
+• Nome do projeto.
+• Responsável(eis) pela proposta de melhoria.
+• Setor da(s) pessoa(s) responsável pela proposta.
+• Área e local.
+• Melhoria identificada.
+• Resultado esperado.
+• Perdas decorrentes do problema.
+• Setores envolvidos
+A Folha de Proposta de Melhoria deve ter o formato apresentado na Figura 13,
+a seguir.
+
+46
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 1 - Oportunidades de Melhoria
+Nome do Projeto:
+Responsável(eis):
+Setor:
+Área e local
+
+Data da proposta:
+
+Melhoria identificada
+
+Resultado esperado
+
+Perdas decorrentes do problema
+
+Setores envolvidos
+
+Cargo
+
+Assinatura
+
+Avaliação
+Data da avaliação:
+Viável:
+Não Viável:
+Observações:
+
+Nome
+(
+
+)
+
+(
+
+)
+
+Figura 13 – Folha de Proposta de Melhoria.
+3.6.2. Detalhamento dos projetos
+
+Após a exposição das oportunidades de melhoria ocorre uma primeira
+classificação e alinhamento dos projetos. Nesta etapa os encarregados das áreas,
+engenheiros de processo do setor, o coordenador de fluxo de valor (MCM) e o
+coordenador de produção devem se reunir e analisar os seguintes fatores das
+oportunidades de melhoria:
+• Alinhamento com a estratégia e objetivos da empresa.
+• Viabilidade em relação ao custo, tempo e mudanças necessárias.
+Os projetos selecionados devem ser encaminhados novamente aos responsáveis
+pela melhoria, para que possam dar continuidade ao detalhamento da mesma. Nesta
+etapa deve ocorrer um maior aprofundamento do projeto, para isso devem ser
+considerados os seguintes fatores:
+• Melhoria identificada.
+• Identificação da causa raiz do problema.
+• Escopo do projeto.
+• Resultado esperado.
+• Estimativa de custo.
+• Dificuldade de implantação.
+• Cronograma das atividades para implantação.
+• Setores envolvidos.
+
+47
+• Líder e equipe responsável.
+Possíveis ferramentas de suporte para esta etapa são: Diagrama das causas e
+Efeitos, Quadro dos 5 Por quês e 5W2H. Estas ferramentas são mostradas no Anexo B.
+Quando utilizadas, estas ferramentas devem ser expostas no quadro juntamente com a
+Folha de Detalhamento da Proposta, apresentada na Figura 14.
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Detalhamento dos Projetos
+Nome do Projeto:
+
+Data da proposta:
+Equipe do Projeto
+
+Setor:
+
+Líder da Equipe:
+Participantes:
+
+Data da aprovação da
+proposta:
+Data do detalhamento da
+proposta:
+
+Classificação Final do Projeto
+Nota do Projeto
+Média 1
+Média 2
+Média 3
+
+Melhoria identificada
+
+Item
+
+O Que
+
+Causa Raiz
+
+Escopo do Projeto
+
+Por Quê
+
+Quem
+
+Resultado esperado
+
+Cronograma das atividades para implantação
+Onde
+
+Setores envolvidos
+
+Dificuldades
+
+Estimativa do Custo
+Total
+
+Quando
+
+Como
+
+Quanto
+
+Figura 14 – Folha de Detalhamento da Proposta.
+Junto com a Folha de Detalhamento da Proposta deve ser preenchida e exposta
+a Folha de Avaliação da Proposta, para que seja verificada a avaliação do projeto e os
+respectivos avaliadores, conforme mostrado na Figura 15.
+
+48
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Detalhamento dos Projetos
+
+Data da avaliação:
+
+Nome do Projeto:
+
+Data da proposta:
+
+Equipe do Projeto
+
+Setor:
+
+Líder da Equipe:
+Participantes:
+
+Data da aprovação da
+proposta:
+Data do detalhamento da
+proposta:
+
+Classificação Final do Projeto
+Nota do Projeto
+Média 1
+Média 2
+Média 3
+
+Avaliação
+Viável:
+
+(
+
+Nº
+
+)
+
+(
+
+Não Viável:
+
+Nome
+
+Cargo
+
+Nota
+
+)
+
+Assinatura
+
+Observações:
+
+Figura 15 – Folha de Avaliação da Proposta.
+Para a avaliação é utilizada a Folha de Pontuação dos Projetos, que é
+apresentada na Figura 16. Observa-se que a Folha de Pontuação dos Projetos apresenta a
+forma de classificação e ponderação das notas.
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Pontuação dos Projetos
+Nome do Projeto:
+
+Nota Final
+
+Líder da Equipe:
+Dados do Avaliador
+Setor:
+
+Cargo:
+
+Data da avaliação:
+
+Resultado esperado
+Maior melhor
+4
+
+Avaliação
+Estimativa do Custo Total
+Menor melhor
+4
+
+Dificuldades
+Menor melhor
+2
+
+Tempo de implantação
+Menor melhor
+2
+
+Bom
+8
+
+Classificação das Notas
+Regular
+6
+
+Ruim
+4
+
+Muito Ruim
+2
+
+Nome:
+
+Classificação
+Peso
+Nota
+Total
+Muito bom
+10
+
+Figura 16 – Folha de Pontuação dos Projetos.
+
+49
+Os projetos detalhados devem ser expostos no quadro para serem avaliados.
+Nesta etapa as avaliações devem ser expostas no quadro e devem ser feitas pelas
+seguintes funções:
+• Operadores (Opi).
+• Encarregado da área (Ec).
+• Engenheiro de processo do setor (Ep).
+• Coordenador de fluxo de valor (Fv).
+• Coordenador de produção (Cp).
+Para o cálculo de quais projetos serão executados é necessário fazer uma
+ponderação dessas notas. Deve-se realizar a média de três notas:
+1. M1: média das notas dos operadores
+•
+2. M2: média das notas do encarregado e do engenheiro de processo do
+setor.
+•
+3. M3: média das notas do coordenador de fluxo de valor e do coordenador
+de produção.
+•
+Portanto, a nota final de cada projeto será formada pela média de M1, M2 E
+M3, como mostrado a seguir:
+•
+Os projetos devem ficar expostos por três semanas para serem analisados e
+avaliados. Após esse período o projeto deve ser arquivado na carteira de projetos para
+ser implantado. Para que seja implantado o projeto deve ter uma pontuação maior igual
+a sessenta (NP ≥60).
+Conforme existam recursos financeiros disponíveis e disponibilidade da
+equipe, os projetos melhor classificados, na carteira de projetos, devem ser implantados.
+
+50
+3.6.3. Acompanhamento dos projetos
+
+Nesta etapa ocorre o acompanhamento dos projetos que estão sendo
+implantados. Além disso, deve ser exposta uma lista com os próximos projetos que
+devem ser implantados, de acordo com a sua classificação na carteira de projetos.
+Cada projeto deve apresentar todas as informações detalhadas anteriormente,
+que são:
+• Melhoria identificada.
+• Causa raiz do problema.
+• Escopo do projeto.
+• Resultado esperado.
+• Estimativa de custo.
+• Dificuldade de implantação.
+• Tempo de implantação.
+• Áreas envolvidas.
+• Líder e equipe responsável.
+Além disso, deve apresentar, também, um cronograma e os andamentos do
+projeto, conforme o seguinte detalhamento:
+• Etapas planejadas x etapas finalizadas.
+• Custo orçado x Custo real.
+• Tempo planejado x tempo efetivamente gasto.
+• Dificuldades e restrições encontradas.
+• Fotos das áreas afetadas.
+Nesta etapa o líder do projeto deve estar em contato constante com o
+coordenador de fluxo de valor e o encarregado da área, para que seja mantido o escopo
+do projeto, e sejam realizados planos de ação para as divergências de custos e prazos do
+projeto. O plano de ação também deve ser exposto no quadro de acompanhamento.
+Para controle do planejamento será utilizado o quadro apresentado na Figura
+17. O acompanhamento deve ser realizado para que o escopo, o prazo e o orçamento
+detalhados no planejamento sejam cumpridos.
+
+51
+
+jun/09
+
+abr/09
+
+mai/09
+
+fev/09
+
+mar/09
+
+jan/09
+
+Quando
+
+dez/08
+
+Onde
+
+nov/08
+
+Quem
+
+set/08
+
+Por Quê
+
+out/08
+
+O Que
+
+jul/08
+
+Item
+
+ago/08
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 3 - Acompanhamento dos Projetos
+Status do
+Cronograma
+
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+Como
+
+Quanto
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+Figura 17 – Folha de Acompanhamento do Projeto.
+3.6.4. Projetos encerrados
+
+Ao término de cada projeto, o líder responsável deve entregar um relatório ao
+coordenador de fluxo de valor, com as informações detalhadas do planejamento e
+implantação do projeto, conforme a Figura 18. Este relatório deve conter:
+• Nome do projeto.
+• Problema.
+• Causa raiz do problema.
+• Escopo do projeto.
+• Líder e equipe responsável.
+• Dificuldades de implantação.
+• Áreas envolvidas.
+• Resultados esperados x resultados obtidos.
+• Custo orçado x custo real.
+• Tempo planejado x tempo efetivamente gasto.
+• Comentários sobre as possíveis divergências.
+• Premiação recebida pela equipe do projeto.
+
+Status do
+Custo
+
+52
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 4 - Projetos Encerrados
+Nome do Projeto:
+
+Classificação Final do Projeto
+Equipe do Projeto
+
+Setor:
+
+Participação:
+
+Líder da Equipe:
+Participantes:
+
+Avaliação Final
+
+Nota do Projeto
+Observações
+
+Média 1
+Média 2
+
+Data da proposta:
+
+Data da aprovação da
+proposta:
+
+Data do detalhamento da
+proposta:
+
+Data do ínico do projeto:
+
+Data do encerramento do
+projeto:
+
+Média 3
+
+Planejado
+Melhoria identificada
+
+Causa Raiz
+
+Escopo do Projeto
+
+Resultado esperado
+
+Melhoria identificada
+
+Causa Raiz
+
+Escopo do Projeto
+
+Resultado esperado
+
+Setores envolvidos
+
+Dificuldades para
+implantação
+
+Cronograma para
+implantação
+
+Estimativa do Custo
+Total
+
+Setores envolvidos
+
+Dificuldades para
+implantação
+
+Cronograma para
+implantação
+
+Estimativa do Custo
+Total
+
+Realizado
+
+Observações
+
+Premiação da equipe
+
+Figura 18 – Folha de Projetos Encerrados.
+Nesta etapa os projetos encerrados que obtiveram melhores resultados são
+apresentados nos quadros para incentivar a realização de novos projetos. Devem ser
+apresentados os seguintes itens:
+• Relatório do Projeto Encerrado.
+• Fotos das mudanças.
+Para colocação das fotos devem-se utilizar as Folhas de Fotos, como nos
+modelos apresentados nas Figuras 19 e 20.
+
+53
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Fotos do Projeto
+Oportunidade de Melhoria
+
+Área e local
+
+Melhoria Identificada
+Foto
+Resultado eperado
+
+Observaçoes:
+
+Figura 19 – Folha de Fotos / Oportunidades de Melhoria.
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Fotos do Projeto
+Antes
+
+Depois
+
+Foto
+
+Foto
+
+Observaçoes:
+
+Observaçoes:
+
+Figura 20 – Folha de Fotos / Antes x Depois.
+
+3.6.5. Protótipo do quadro
+
+Todas as Folhas do Processo devem ser expostas de forma clara e simples para
+serem acompanhadas. O quadro para exposição das Folhas do Processo deve ter o
+formato mostrado na Figura 21. As Folhas e o Quadro de Projetos de Melhoria estão no
+Apêndice A, para melhor visualização.
+
+54
+
+Figura 21 – Quadro de Projetos de Melhoria.
+As quatro partes do Quadro de Projeto de Melhoria são mostradas nas Figuras
+22, 23, 24 e 25.
+
+Figura 22 – Etapa de Oportunidades de Melhoria.
+
+55
+
+Figura 23 – Etapa de Detalhamento dos Projetos.
+
+Figura 24 – Etapa de Acompanhamento do Projeto.
+
+56
+
+Figura 25 – Etapa de Projetos Encerrados
+
+3.7.
+
+Etapas do Método
+
+Para melhor entendimento do quadro será demonstrado um projeto, iniciado na
+empresa, que ainda está em andamento. Trata-se de um projeto de melhoria na
+desmontagem e montagem de moldes para a prensagem. Por motivo de privacidade e
+confidencialidade de dados, foram alterados os nomes das pessoas, custos e prazos do
+projeto, tratando-se apenas de um modelo de preenchimento do quadro. Como o projeto
+não foi finalizado, também não serão colocadas as informações referentes aos resultados
+do projeto na Folha de projetos encerrados.
+Serão demonstradas as informações necessárias para cada etapa do processo e
+os quadros preenchidos podem ser observados no Anexo C.
+3.7.1. Oportunidades de melhoria
+
+Conforme a proposta, nesta etapa deve ocorrer um detalhamento simples da
+proposta de melhoria, conforme mostrado a seguir.
+• Nome do projeto.
+
+57
+o Molde das Prensas
+• Responsável(eis) pela proposta de melhoria e respectivo setor.
+o Renata Falcão – Engenheira de Processos – Refratários
+o Carlos Oliveira – Supervisor da Área de Prensas
+• Área e local.
+o Área de Prensa de Refratários
+• Melhoria identificada.
+o Diminuir o tempo gasto na montagem e desmontagem de moldes
+• Resultado esperado.
+o Aumentar a produtividade das prensas em 20%, devido às
+reduções dos tempos de montagem e desmontagem
+• Perdas decorrentes do problema.
+o Há um grande desperdício de tempo na montagem e
+desmontagem dos moldes durante o processo de prensagem.
+Ocorre grande desgaste dos moldes nesse processo.
+• Setores envolvidos
+o Prensas, Oficina de Moldes e Manutenção, Fornos
+Após o preenchimento da Folha de oportunidades de melhoria com estas
+informações, deve-se aguardar para que a melhoria seja avaliada em relação à estratégia
+e objetivos da empresa para dar continuidade ao projeto.
+3.7.2. Detalhamento dos projetos
+
+Após o projeto de melhoria ser considerado viável é necessário um maior
+detalhamento do projeto para que seja novamente avaliado para ser implantado. As
+informações necessárias são mostradas a seguir.
+• Melhoria identificada.
+o Diminuir o tempo gasto na montagem e desmontagem de moldes
+• Identificação da causa raiz do problema.
+o O carrinho de mistura é inadequado. O processo não foi mostrado
+a quem fabrica o molde. Não foi colocada a trava e o ar não foi
+consertado
+• Escopo do projeto.
+
+58
+o Aumentar a eficiência na montagem e desmontagem dos moldes
+através da melhoria das ferramentas atuais e criação de um
+sistema de engate rápido
+• Resultado esperado.
+o Aumentar a produtividade das prensas em 20%, devido às
+reduções dos tempos de montagem e desmontagem. Redução do
+reparo de molde - 15% - KR$ 10/ano. Aumento da
+produtividade - 20% - KR$ 60/ano.
+• Estimativa de custo.
+o KRS 10,8
+• Dificuldade de implantação.
+o A montagem tem que ficar bem firme senão pode causar trincas
+na peça ou danificar o molde durante a prensagem.
+• Cronograma das atividades para implantação.
+
+Item
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+O Que
+Desenvolver sistema de enchimento automático
+Mostrar processo de fabricação para Oficina de Moldes
+Colocar chanfros/ raios nas cabeceiras dos moldes
+Colocar trava de 1 lado dos varões
+Avaliar/ alterar sistema de ar comprimido
+Substituir porcas de aço por procas de latão
+Colocar chanfro nas partes superiores das laterais e cabeceiras
+(aço, madeira e fórmica)
+Avaliar instalação de válvula solenóide
+Criar um guia para aproveitar melhor o tempo
+Colocar engate rápido no molde 229x114x63 e testá-lo
+
+Quando
+3 meses
+2 meses
+1 mês
+1 mês
+3 meses
+1 mês
+
+Tabela 8 – Cronograma de Atividades do Projeto.
+• Setores envolvidos.
+o Prensas, Oficina de Moldes e Manutenção, Fornos
+• Líder e equipe responsável.
+o Renata – Líder
+o João
+o Carlos
+o Paulo
+o Alexandre
+
+1 mês
+2 meses
+1 mês
+3 meses
+
+59
+Após o projeto ser detalhado ele deve ser exposto no quadro para ser avaliado.
+Este projeto possui a seguinte avaliação
+
+Nº
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Nome
+Carlos Oliveira
+Renata Falcão
+Rafael Ferreira
+Márcio Silva
+Thiago Almeida
+Paulo Machado
+Pedro Soares
+João Martin
+Alexandre Castro
+André Carvalho
+
+Cargo
+Supervisor de Prensas
+Eng. de Processos - Refratários
+Coordenador de Fluxo de Valor
+Coordenador de Produção
+Operador de Prensas
+Operador de Prensas
+Operrador de Fornos
+Supervisor de Of. de Moldes
+Supervisor de Manutenção
+Operador de Of. de Moldes
+
+Nota
+81,7
+68,3
+80,0
+86,7
+78,3
+76,7
+73,3
+85,0
+78,3
+81,7
+
+Tabela 9 – Avaliação Do Projeto.
+Portanto, apresenta as seguintes médias e nota do projeto.
+• M1: média das notas dos operadores.
+o
+• M2: média das notas do encarregado e do engenheiro de processo do
+setor.
+o
+• M3: média das notas do coordenador de fluxo de valor e do coordenador
+de produção.
+o
+•
+Como o projeto possui uma nota maior do que 60 ele é viável e pode ser
+implantado.
+3.7.3. Acompanhamento dos projetos
+
+O projeto ainda está sendo implantado, mas para exemplificação, colocou-se
+algumas tarefas com divergência de prazo e divergência de custo. Quando esses casos
+forem identificados é necessário que a equipe se reúna e trace um plano de ação para
+
+60
+alinhar essas divergências. Se necessário a equipe deve reavaliar o escopo e o
+orçamento do projeto. A Folha de acompanhamento pode ser verificada no Apêndice C.
+3.7.4. Projetos encerrados
+
+O projeto não foi encerrado. Nesta etapa deve haver uma avaliação para
+verificar se o escopo, o prazo e custo do projeto foram cumpridos e analisar as
+dificuldades e problemas enfrentados para a implantação do projeto. Nesta etapa é
+importante avaliar o que foi feito para aprender com as dificuldades e divergências
+encontradas e com isso obter melhores resultados em projetos futuros.
+
+61
+
+CONSIDERAÇÕES FINAIS
+
+A proposta do trabalho para a gestão de portfólio de projetos implica numa
+grande integração entre operadores e gerência. Visa que os operadores tenham
+participação ativa tanto na escolha como no desenvolvimento dos projetos, portanto é
+necessário que a empresa crie mecanismos para capacitação e reconhecimento desses
+operadores. Quanto à capacitação são necessários treinamentos relacionados ao trabalho
+em equipe, ferramentas estatísticas, solução de problemas e liderança, tornando possível
+ao líder de grupo conduzir o desenvolvimento dos projetos, gerando os resultados
+esperados, capacitação dos outros membros e comunicação com a gerência para que os
+objetivos dos projetos estejam alinhados aos objetivos da empresa. Quanto ao
+reconhecimento dos operadores, é necessário que a empresa crie mecanismos que
+valorizem e remunerem os operadores que atuem nos projetos de melhoria para que
+estes se sintam estimulados e para estimular mais operadores a participar, conseguindo
+assim uma maior alavancagem de projetos.
+Quanto a pontuação dos projetos na etapa de detalhamento do projeto seria
+interessante criar-se um escala para obter intervalos de pontuação e, assim, diminuir a
+influência pessoal na pontuação do projeto.
+Na etapa de acompanhamento de projetos é necessário verificar se o projetos
+possui muitas etapas e se estas ocorrem num grande intervalo de tempo, pois isso
+tornaria a Folha de Acompanhamento muito extensa. Neste caso seria necessário criar
+outra forma de acompanhar as tarefas. Uma sugestão seria utilizar as datas de início e
+fim das tarefas.
+Para a implantação da proposta é necessário verificar se na empresa existe um
+clima organizacional e cultura condizente com a publicação de resultados de
+desempenho, pois caso não exista, a publicação de desempenho e a cobrança da
+realização das tarefas pode se tornar um fator negativo que irá desestimular a utilização
+do Quadro de Projetos de Melhoria, já que as pessoas nesse caso não estarão preparadas
+para este tipo de cobrança.
+Como trabalhos futuros seria interessante estudar a política da empresa e o
+comportamento das pessoas durante o processo de implantação de mudanças. Com isso
+
+62
+seria possível ter uma maior eficácia durante este processo e ao mesmo tempo causar
+menor impacto às pessoas.
+
+63
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+LIKER, J. K. O modelo Toyota, 14 princípios de gestão do maior fabricante do mundo.
+Tradução Lene Belon Ribeiro, revisão Marcelo Klippel. Porto Alegre: Bookman, 2005.
+LIKER, J. K.; MEIER D. O modelo Toyota, manual de aplicação. Tradução Lene
+Belon Ribeiro, revisão Marcelo Klippel. Porto Alegre: Bookman, 2007.
+OHNO, T. O sistema Toyota de produção, além da produção em larga escala.
+Tradução Cristina Schumacher, revisão Paulo C. D. Motta. Porto Alegre: Bookman,
+1997.
+ROESCH, S. M. A. Projetos de estágio e de pesquisa em administração, guia para
+estágios, trabalhos de conclusão, dissertações e estudos de caso. 2. ed. São Paulo:
+Editora Atlas, 1999.
+SHINGO, S. O sistema Toyota de produção, do ponto de vista da engenharia de
+produção. Tradução Eduardo Schaan, revisão Amarildo Cruz Fernandes. 2. ed. Porto
+Alegre: Bookman, 1996.
+SHOOK, J.; ROTHER M. Aprendendo a enxergar, mapeando o fluxo de valor para
+agregar valor e eliminar o desperdício. Tradução José Roberto Ferro; Telma Rodriguez.
+São Paulo, 2003.
+IMAI M. Kaizen: a estratégia para o sucesso competitivo. 6. ed. São Paulo. Imam,
+2005.
+WOMACK, J. P.; JONES, D. T.; ROOS, D. A máquina que mudou o mundo, baseado
+no estudo do Massachusetts Institute of Technology sobre o futuro do automóvel.
+Tradução Ivo Korytowski, revisão José Roberto Ferro. 8. ed. Rio de Janeiro: Elsevier,
+2004.
+MIGUEL P. A. C. Estudo de caso na engenharia de produção: estruturação e
+recomendações para sua condução. Produção, v. 17, n. 1, p.216-229, 2007.
+MESQUITA M.;ALIPRANDINI D. H. Competências essenciais para melhoria
+contínua da produção: estudo de caso em empresas da indústria de autopeças. Gestão
+& Produção, v. 10, n. 1, p. 17-33, 2003.
+RABECHINI JR. R.;MAXIMIANO A. C. A.; MARTINS V. A. A adoção de
+gerenciamento de portfólio como uma alternativa gerencial: o caso de uma empresa
+prestadora de serviço de interconexão eletrônica. Produção, v. 15, n. 3, p.416-433, 2005.
+
+64
+
+APÊNDICE A – FOLHAS DE PROJETO E QUADROS DE PROJETOS DE MELHORIA
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 1 - Oportunidades de Melhoria
+Nome do Projeto:
+Responsável(eis):
+Setor:
+Área e local
+
+Data da proposta:
+
+Melhoria identificada
+
+Resultado esperado
+
+Perdas decorrentes do problema
+
+Setores envolvidos
+
+Cargo
+
+Assinatura
+
+Avaliação
+Data da avaliação:
+Viável:
+Não Viável:
+Observações:
+
+Nome
+(
+
+)
+
+(
+
+)
+
+65
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Detalhamento dos Projetos
+Nome do Projeto:
+
+Data da proposta:
+Equipe do Projeto
+
+Setor:
+
+Líder da Equipe:
+Participantes:
+
+Data da aprovação da
+proposta:
+Data do detalhamento da
+proposta:
+
+Classificação Final do Projeto
+Nota do Projeto
+Média 1
+Média 2
+Média 3
+
+Melhoria identificada
+
+Item
+
+O Que
+
+Causa Raiz
+
+Escopo do Projeto
+
+Por Quê
+
+Quem
+
+Resultado esperado
+
+Cronograma das atividades para implantação
+Onde
+
+Setores envolvidos
+
+Dificuldades
+
+Estimativa do Custo
+Total
+
+Quando
+
+Como
+
+Quanto
+
+66
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Avaliação dos Projetos
+
+Data da avaliação:
+
+Nome do Projeto:
+
+Data da proposta:
+
+Equipe do Projeto
+
+Setor:
+
+Líder da Equipe:
+Participantes:
+
+Data da aprovação da
+proposta:
+Data do detalhamento da
+proposta:
+
+Classificação Final do Projeto
+Nota do Projeto
+Média 1
+Média 2
+Média 3
+
+Avaliação
+Viável:
+Nº
+
+Observações:
+
+(
+Nome
+
+)
+
+(
+
+Não Viável:
+Cargo
+
+Nota
+
+)
+
+Assinatura
+
+67
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Pontuação dos Projetos
+Nome do Projeto:
+
+Nota Final
+
+Líder da Equipe:
+Dados do Avaliador
+Setor:
+
+Cargo:
+
+Data da avaliação:
+
+Resultado esperado
+Maior melhor
+4
+
+Avaliação
+Estimativa do Custo Total
+Menor melhor
+4
+
+Dificuldades
+Menor melhor
+2
+
+Tempo de implantação
+Menor melhor
+2
+
+Bom
+8
+
+Classificação das Notas
+Regular
+6
+
+Ruim
+4
+
+Muito Ruim
+2
+
+Nome:
+
+Classificação
+Peso
+Nota
+Total
+Muito bom
+10
+
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+jun/09
+
+mai/09
+
+abr/09
+
+mar/09
+
+fev/09
+
+jan/09
+
+Quando
+
+dez/08
+
+Onde
+
+nov/08
+
+Quem
+
+set/08
+
+Por Quê
+
+out/08
+
+O Que
+
+ago/08
+
+Item
+
+jul/08
+
+68
+
+Status do
+Cronograma
+
+Como
+
+Quanto
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+Status do
+Custo
+
+69
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 4 - Projetos Encerrados
+Classificação Final do Projeto
+
+Nome do Projeto:
+Setor:
+
+Equipe do Projeto
+
+Participação:
+
+Líder da Equipe:
+Participantes:
+
+Avaliação Final
+
+Nota do Projeto
+Observações
+
+Média 1
+Média 2
+
+Data da proposta:
+
+Data da aprovação da
+proposta:
+
+Data do detalhamento da
+proposta:
+
+Data do ínico do projeto:
+
+Melhoria identificada
+
+Causa Raiz
+
+Escopo do Projeto
+
+Resultado esperado
+
+Melhoria identificada
+
+Causa Raiz
+
+Escopo do Projeto
+
+Resultado esperado
+
+Data do encerramento do
+projeto:
+
+Média 3
+
+Planejado
+Setores envolvidos
+
+Dificuldades para
+implantação
+
+Cronograma para
+implantação
+
+Estimativa do Custo
+Total
+
+Setores envolvidos
+
+Dificuldades para
+implantação
+
+Cronograma para
+implantação
+
+Estimativa do Custo
+Total
+
+Realizado
+
+Observações
+
+Premiação da equipe
+
+70
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Fotos do Projeto
+Oportunidade de Melhoria
+
+Área e local
+
+Melhoria Identificada
+Foto
+Resultado eperado
+
+Observaçoes:
+
+Oportunidade de Melhoria
+
+Área e local
+
+Melhoria Identificada
+Foto
+Resultado eperado
+
+Observaçoes:
+
+Oportunidade de Melhoria
+
+Área e local
+
+Melhoria Identificada
+Foto
+Resultado eperado
+
+Observaçoes:
+
+71
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Fotos do Projeto
+Antes
+
+Depois
+
+Foto
+
+Foto
+
+Observaçoes:
+
+Observaçoes:
+
+Antes
+
+Depois
+
+Foto
+
+Foto
+
+Observaçoes:
+
+Observaçoes:
+
+Antes
+
+Depois
+
+Foto
+
+Foto
+
+Observaçoes:
+
+Observaçoes:
+
+72
+
+73
+
+APÊNCICE B – FERRAMENTAS DE SUPORTE PARA O DETALHAMENTO
+DO PROJETO
+
+Diagrama das Causas e Efeitos:
+Mão de Obra
+
+Método
+
+Máquina
+
+Material
+
+74
+
+Problema:
+
+Possível Causa Raiz
+1
+2
+3
+Porquê?
+1
+2
+3
+Porquê?
+1
+2
+3
+Porquê?
+1
+2
+3
+Porquê?
+1
+2
+3
+Porquê?
+1
+2
+3
+
+Causa Raíz
+1
+2
+3
+
+75
+
+Item
+
+O Que
+
+Por Quê
+
+Quem
+
+Onde
+
+Quando
+
+Como
+
+Quanto
+
+76
+
+APÊNDICE C – EXEMPLO DE APLICAÇÃO DA PROPOSTA
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 1 - Oportunidades de Melhoria
+Nome do Projeto:
+Responsável(eis):
+Setor:
+Área e local
+
+Área de Prensa de
+Refratários
+
+Molde das Prensas
+Carlos e Renata
+Refratários
+Melhoria identificada
+
+Diminuir o tempo gasto na
+montagem e desmontagem
+de moldes
+
+Data da proposta:
+10/07/2008
+Resultado esperado
+
+Aumentar a produtividade das
+prensas em 20%, devido às
+reduções dos tempos de
+montagem e desmontagem
+
+Perdas decorrentes do problema
+
+Setores envolvidos
+
+Há um grande desperdício de
+tempo na montagem e
+desmontagem dos moldes durante
+Prensas, Oficina de
+o processo de prensagem. Ocorre Moldes e Manutenção
+grande desgaste dos moldes nesse
+processo.
+
+Avaliação
+Data da avaliação:
+Viável:
+Não Viável:
+Observações:
+
+Nome
+( X )
+(
+
+Márcio Silva
+Rafael Ferreira
+
+Cargo
+Coordenador de Produção
+Coordenador de Fluxo de Valor
+
+Assinatura
+
+)
+
+Projeto avaliado em 19/07/2008. O projeto é viável, já que melhorar a montagem e desmontagem irá aumentar a produtividade. O
+custo para este projeto não deve ser elevado e, portanto é viável.
+
+77
+Diagrama das Causas e Efeitos:
+Mão de Obra
+- Posição ergoômica não ideal
+
+Método
+-
+
+Dificuldade para encaixar varões com reforços
+Dificuldade para prender e soltar porcas
+Dificuldade para encaixar laterais na cabeceira
+Dificuldade para encaixar a tampa
+Demora na pesagem da mistura (ergonomia)
+Nivelamento difícil da mistura
+Dificuldade em apertar e desapertar os varões
+
+Demora na montagem e
+desmontagem de moldes.
+
+Máquina
+
+Material
+
+Saída de ar ineficiente
+Desgaste de varões e porcas
+Falta de acessórios
+Sucção Ineficiente (risco de queda)
+
+78
+
+Problema:
+
+Demora na montagem e desmontagem de moldes
+
+Possível Causa Raiz
+1
+2
+3
+
+Demora na pesagem da mistura
+Dificuldade para encaixar laterais na cabeceira
+Dificuldade para prender e soltar porcas
+Porquê?
+
+1
+2
+3
+
+Porque tem que pegar de concha em concha
+Porque não tem chanfro na cabeceira
+Porque tem que usar 2 chaves e é manual
+Porquê?
+
+1
+2
+3
+
+Por causa de problemas ergonômicos
+Porque quem fabrica o molde não conhece bem o processo de fabricação de peças
+Porque o varão não tem trava e a desparafusadeira não funciona
+Porquê?
+
+1
+2
+3
+
+Porque o ar é ineficiente
+Porquê?
+
+1
+2
+3
+Porquê?
+1
+2
+3
+
+Causa Raíz
+1
+2
+3
+
+Porque o carrinho de mistura é inadequado
+Poruqe o processo ainda não foi mostrado a quem fabrica molde
+Porque ninguém colocou a trava e porque a o ar não foi consertado
+
+79
+
+Item
+
+O Que
+
+Por Quê
+
+Quem
+
+Onde
+
+Quando
+
+Como
+
+Quanto
+
+1
+
+Desenvolver sistema de enchimento
+automático
+
+Alexandre/ Carlos/
+Rafael
+
+M6
+
+3 meses
+
+Realocando máquina já
+existente
+
+KR$ 2
+
+2
+
+Mostrar processo de fabricação para
+Oficina de Moldes
+
+Para melhorar o sistema de
+pesagem
+Para Oficina de Moldes
+entender as necessidades da
+fábrica
+
+João/ Carlos
+
+Moldagem/ Oficina
+de Moldes
+
+2 meses
+
+Deixando modeladores e
+operadores na fábrica
+
+KR$ 0
+
+3
+
+Colocar chanfros/ raios nas
+cabeceiras dos moldes
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+Carlos/ Alexandre
+
+M6
+
+3 meses
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+Colocar chanfros
+
+KR$ 0,1
+
+Alexandre
+
+Moldagem
+
+2 meses
+
+Avaliar custo e instalar se
+possível
+
+KR$ 1
+
+Renata/ Carlos
+
+Moldagem
+
+1 mês
+
+Criar guia escrito e
+treinar
+
+KR$ 0
+
+João/ Carlos
+
+Moldagem/ Oficina
+de Moldes
+
+3 meses
+
+Confeccionar molde
+
+KR$ 2
+
+4
+5
+6
+7
+8
+9
+10
+
+Para melhorar o encaixe da
+cabeceira com a lateral
+
+Para facilitar prender e soltar as
+porcas
+Avaliar/ alterar sistema de ar
+Para permitir a utilização de
+comprimido
+parafusadeira pneumática
+Substituir porcas de aço por procas Para reduzir desgaste de varões
+de latão
+e porcas
+Colocar chanfro nas partes
+Para facilitar o encaixe da
+superiores das laterais e cabeceiras
+tampa
+(aço, madeira e fórmica)
+Avaliar instalação de válvula
+Para melhorar o sistema de
+solenóide
+sucção nas prensas
+Para aproveitar melhor o tempo
+Criar um guia para aproveitar melhor
+durante a execução das
+o tempo
+atividades
+Colocar engate rápido no molde
+Melhorar abertura e
+229x114x63 e testá-lo
+fechamento de molde
+Colocar trava de 1 lado dos varões
+
+Colocando chanfros/
+raios em todas as
+cabeceiras
+Colocando as travas nos
+varões
+Indo ao local e avaliando
+sistema de ar
+Substituir porcas por
+latão
+
+KR$ 0,5
+KR$ 0,2
+KR$ 5
+KR$ 0
+
+80
+
+Nome do Projeto:
+Equipe do Projeto
+Renata
+João
+Carlos
+Paulo
+Alezandre
+
+Líder da Equipe:
+Participantes:
+
+Melhoria identificada
+
+Diminuir o tempo gasto na
+montagem e desmontagem de
+moldes
+
+Item
+1
+2
+
+3
+4
+5
+6
+
+7
+
+8
+9
+
+10
+
+O Que
+Desenvolver sistema de
+enchimento automático
+Mostrar processo de
+fabricação para Oficina
+de Moldes
+Colocar chanfros/ raios
+nas cabeceiras dos
+moldes
+Colocar trava de 1 lado
+dos varões
+Avaliar/ alterar sistema
+de ar comprimido
+Substituir porcas de aço
+por procas de latão
+Colocar chanfro nas
+partes superiores das
+laterais e cabeceiras (aço,
+madeira e fórmica)
+Avaliar instalação de
+válvula solenóide
+Criar um guia para
+aproveitar melhor o
+tempo
+Colocar engate rápido no
+molde 229x114x63 e
+testá-lo
+
+Causa Raiz
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Detalhamento dos Projetos
+Molde das Prensas
+Setor:
+Refratários
+Oficina de Moldes
+Prensas
+Fornos
+Manutenção
+
+Escopo do Projeto
+
+Resultado esperado
+
+Data da proposta:
+10/07/2008
+Data da aprovação da
+proposta:
+19/07/2008
+Data do detalhamento da
+proposta:
+
+Classificação Final do Projeto
+Nota do Projeto
+Média 1
+Média 2
+
+06/08/2008
+
+Média 3
+
+Setores envolvidos
+
+Dificuldades
+
+O carrinho de mistura é
+Aumentar a produtividade das prensas
+Aumentar a eficiência na
+inadequado. O processo
+em 20%, devido às reduções dos
+A montagem tem que ficar
+montagem e desmontagem dos
+não foi mostrado a quem
+tempos de montagem e desmontagem. Prensas, Oficina de Moldes e bem firme senão pode causar
+moldes através da melhora das
+fabrica o molde. Não foi
+Redução do reparo de molde - 15% Manutenção, Fornos
+trincas na peça ou danificar o
+ferramentas atuais e criação de um
+colocoda a trava e o ar
+KR$ 10/ano. Aumento da
+molde durante a prensagem.
+sistema de engate rápido
+não foi consertado
+produtividade - 20% - KR$ 60/ano.
+
+Por Quê
+Para melhorar o sistema
+de pesagem
+Para Oficina de Moldes
+entender as necessidades
+da fábrica
+Para melhorar o encaixe
+da cabeceira com a lateral
+
+Quem
+
+Cronograma das atividades para implantação
+Onde
+
+Quando
+
+Como
+Realocando máquina já
+existente
+
+Estimativa do Custo
+Total
+
+KRS 10,8
+
+Quanto
+
+Alexandre/ Carlos/ Rafael
+
+M6
+
+3 meses
+
+KR$ 2
+
+João/ Carlos
+
+Moldagem/ Oficina de Moldes
+
+2 meses
+
+Deixando modeladores e
+operadores na fábrica
+
+KR$ 0
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+Colocando chanfros/ raios em
+todas as cabeceiras
+
+KR$ 0,5
+
+Para facilitar prender e
+soltar as porcas
+Para permitir a utilização
+de parafusadeira
+pneumática
+Para reduzir desgaste de
+varões e porcas
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+Colocando as travas nos
+varões
+
+KR$ 0,2
+
+Carlos/ Alexandre
+
+M6
+
+3 meses
+
+Indo ao local e avaliando
+sistema de ar
+
+KR$ 5
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+Substituir porcas por latão
+
+KR$ 0
+
+Para facilitar o encaixe da
+tampa
+
+João
+
+Oficina de Moldes
+
+1 mês
+
+Colocar chanfros
+
+KR$ 0,1
+
+Alexandre
+
+Moldagem
+
+2 meses
+
+Avaliar custo e instalar se
+possível
+
+KR$ 1
+
+Renata/ Carlos
+
+Moldagem
+
+1 mês
+
+Criar guia escrito e treinar
+
+KR$ 0
+
+João/ Carlos
+
+Moldagem/ Oficina de Moldes
+
+3 meses
+
+Confeccionar molde
+
+KR$ 2
+
+Para melhorar o sistema
+de sucção nas prensas
+Para aproveitar melhor o
+tempo durante a execução
+das atividades
+Melhorar abertura e
+fechamento de molde
+
+81
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Avaliação dos Projetos
+Molde das Prensas
+
+Nome do Projeto:
+
+Equipe do Projeto
+Líder da Equipe:
+Participantes:
+
+Data da avaliação:
+27/08/2008
+Setor:
+Refratários
+Oficina de Moldes
+Prensas
+Fornos
+Manutenção
+
+Renata
+João
+Carlos
+Paulo
+Alezandre
+
+Data da proposta:
+10/07/2008
+Data da aprovação da
+proposta:
+19/07/2008
+Data do detalhamento da
+proposta:
+06/08/2008
+
+Classificação Final do Projeto
+Nota do Projeto
+
+79,1
+
+Média 1
+
+78,9
+
+Média 2
+
+75,0
+
+Média 3
+
+83,4
+
+Avaliação
+Viável:
+Nº
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Observações:
+
+( X )
+Nome
+Carlos Oliveira
+Renata Falcão
+Rafael Ferreira
+Márcio Silva
+Thiago Almeida
+Paulo Machado
+Pedro Soares
+João Martin
+Alexandre Castro
+André Carvalho
+
+(
+
+Não Viável:
+Cargo
+Supervisor de Prensas
+Eng. de Processos - Refratários
+Coordenador de Fluxo de Valor
+Coordenador de Produção
+Operador de Prensas
+Operador de Prensas
+Operrador de Fornos
+Supervisor de Of. de Moldes
+Supervisor de Manutenção
+Operador de Of. de Moldes
+
+Nota
+81,7
+68,3
+80,0
+86,7
+78,3
+76,7
+73,3
+85,0
+78,3
+81,7
+
+)
+
+Assinatura
+
+82
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 2 - Pontuação dos Projetos
+Nome do Projeto:
+
+Molde das Prensas
+
+Nota Final
+
+Líder da Equipe:
+
+Renata
+
+78,3
+
+Nome:
+
+Dados do Avaliador
+Setor:
+
+Thiago Almeida
+
+Prensas
+
+Classificação
+Peso
+Nota
+Total
+Muito bom
+10
+
+Cargo:
+Operador de
+Prensa
+
+Data da avaliação:
+
+Resultado esperado
+Maior melhor
+4
+
+Avaliação
+Estimativa do Custo Total
+Menor melhor
+4
+
+Dificuldades
+Menor melhor
+2
+
+Tempo de implantação
+Menor melhor
+2
+
+8
+32
+
+9
+36
+
+7
+14
+
+6
+12
+
+Bom
+8
+
+Classificação das Notas
+Regular
+6
+
+Ruim
+4
+
+Muito Ruim
+2
+
+10/08/2008
+
+83
+
+2
+
+Mostrar processo de fabricação para
+Oficina de Moldes
+
+3
+
+Colocar chanfros/ raios nas cabeceiras
+dos moldes
+
+4
+
+Colocar trava de 1 lado dos varões
+
+5
+
+Avaliar/ alterar sistema de ar
+comprimido
+
+6
+
+Substituir porcas de aço por procas de
+latão
+
+Para reduzir desgaste de
+varões e porcas
+
+7
+
+Colocar chanfro nas partes superiores
+das laterais e cabeceiras (aço, madeira
+e fórmica)
+
+8
+
+Avaliar instalação de válvula solenóide
+
+10
+
+Criar um guia para aproveitar melhor o
+tempo
+Colocar engate rápido no molde
+229x114x63 e testá‐lo
+
+Onde
+
+Quando
+
+Para melhorar o sistema de Alexandre/ Carlos/
+Planejado
+M6
+28/11/2008
+pesagem
+Rafael
+Realizado
+Para Oficina de Moldes
+Moldagem/ Oficina
+Planejado
+João/ Carlos
+31/10/2008
+entender as necessidades da
+de Moldes
+Realizado
+Para melhorar o encaixe da
+cabeceira com a lateral
+
+João
+
+Para facilitar prender e soltar
+João
+as porcas
+Para permitir a utilização de
+Carlos/ Alexandre
+parafusadeira pneumática
+
+Oficina de Moldes
+
+26/09/2008
+
+Oficina de Moldes
+
+26/09/2008
+
+M6
+
+28/11/2008
+
+João
+
+Oficina de Moldes
+
+26/09/2008
+
+Para facilitar o encaixe da
+tampa
+
+João
+
+Oficina de Moldes
+
+26/09/2008
+
+Para melhorar o sistema de
+sucção nas prensas
+Para aproveitar melhor o
+tempo durante a execução
+
+Alexandre
+
+Melhorar abertura e
+fechamento de molde
+
+Renata/ Carlos
+João/ Carlos
+
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+Planejado
+Realizado
+Planejado
+Moldagem
+26/09/2008
+Realizado
+Moldagem/ Oficina
+Planejado
+28/11/2008
+de Moldes
+Realizado
+Moldagem
+
+31/10/2008
+
+jan/09
+
+Desenvolver sistema de enchimento
+automático
+
+Quem
+
+dez/08
+
+1
+
+9
+
+Por Quê
+
+nov/08
+
+O Que
+
+out/08
+
+Item
+
+set/08
+
+Melhoria Contínua da Manufatura
+Programa de Projetos de Melhoria
+Etapa 3 - Acompanhamento dos Projetos
+Status do
+Cronograma
+
+Como
+
+Em andamento
+
+Realocando máquina já existente
+
+Finalizado
+
+Deixando modeladores e
+operadores na fábrica
+
+Finalizado
+
+Colocando chanfros/ raios em
+todas as cabeceiras
+
+Finalizado em
+Atraso
+
+Colocando as travas nos varões
+
+Em andamento
+
+Indo ao local e avaliando sistema
+de ar
+
+Finalizado
+
+Substituir porcas por latão
+
+Finalizado
+
+Colocar chanfros
+
+Atrasado. Em
+andamento
+
+Avaliar custo e instalar se possível
+
+Finalizado
+
+Criar guia escrito e treinar
+
+Em andamento
+
+Confeccionar molde
+
+Quanto
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+KR$ 2
+KR$ 1
+KR$ 0
+KR$ 0
+KR$ 0,5
+KR$ 0,3
+KR$ 0,2
+KR$ 0,3
+KR$ 5
+KR$ 0
+KR$ 0
+KR$ 0
+
+Planejado
+
+KR$ 0,1
+
+Realizado
+
+KR$ 0,1
+
+Planejado
+Realizado
+Planejado
+Realizado
+Planejado
+Realizado
+
+KR$ 1
+KR$ 2
+KR$ 0
+KR$ 0
+KR$ 2
+KR$ 2,5
+
+Status do
+Custo
+OK
+OK
+OK
+ACIMA
+OK
+OK
+OK
+ACIMA
+OK
+ACIMA
+
+

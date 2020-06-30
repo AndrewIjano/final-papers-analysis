@@ -1,0 +1,2836 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE DIREITO DE RIBEIRÃO PRETO
+
+ANDRÉ LUÍS VEDOVATO AMATO
+
+A conformação do mercado da educação superior privada no Brasil:
+Análise a partir do Ato de Concentração Nº. 08700.005447/2013-12
+
+Orientadora Profa. Dra. Juliana Oliveira Domingues
+
+Ribeirão Preto
+2016
+
+ANDRÉ LUÍS VEDOVATO AMATO
+
+A conformação do mercado da educação superior privada no Brasil:
+Análise a partir do Ato de Concentração Nº. 08700.005447/2013-12
+
+Trabalho de Conclusão de Curso apresentado à banca
+examinadora da Faculdade de Direito de Ribeirão Preto da
+Universidade de São Paulo como requisito parcial para a
+obtenção de título de Bacharel em Direito.
+
+Área de concentração: Direito Concorrencial e Econômico
+
+Orientadora Profa. Dra. Juliana Oliveira Domingues
+
+Ribeirão Preto
+2016
+
+Autorizo a reprodução e divulgação total ou parcial deste
+trabalho, por qualquer meio convencional ou eletrônico,
+para fins de estudo e pesquisa, desde que citada a fonte.
+
+Nome: André Luís Vedovato Amato
+Título: A conformação do mercado da educação superior privada no Brasil: análise a partir do
+Ato de Concentração Nº. 08700.005447/2013-12
+
+Trabalho de Conclusão de Curso apresentado à banca
+examinadora da Faculdade de Direito de Ribeirão Preto da
+Universidade de São Paulo como requisito parcial para a
+obtenção de título de Bacharel em Direito.
+
+Aprovado em:
+
+Banca Examinadora
+
+Prof.(a) Dr.(a) ________________________ Instituição: ________________________
+Julgamento: _________________________ Assinatura: _________________________
+
+Prof.(a) Dr.(a) ________________________ Instituição: ________________________
+Julgamento: __________________________ Assinatura: ________________________
+
+Prof.(a) Dr.(a) ________________________ Instituição: ________________________
+Julgamento: __________________________ Assinatura: ________________________
+
+Ribeirão Preto, _____ de _____________________ de 2016.
+
+Dedicatória
+
+Dedico este trabalho de conclusão de curso aos
+meus pais, Mario Amato (in memoriam) e
+Marisa
+
+Aparecida
+
+Vedovato
+
+Amato
+
+(in
+
+memoriam) que sempre me ensinaram que o
+maior patrimônio que pode ser construído é o
+conhecimento.
+
+Agradecimentos
+À Faculdade de Direito de Ribeirão Preto, е às pessoas com
+quem convivi nesses espaços ао longo desses anos por
+todos os aprendizados;
+À Profa. Dra. Juliana Oliveira Domingues que com toda a
+paciência me orientou nesta jornada por uma trilha do
+Direito Concorrencial que outrora desconhecia;
+Аоs meus amigos, pelas alegrias, tristezas е dores
+compartilhas. Com vocês, as pausas entre um parágrafo е
+outro da produção melhora tudo о que tenho produzido na
+vida;
+À minha família, em especial minha irmã, que me apoiou e
+esteve comigo nos momentos mais duros e me deu forças e
+coragem quando havia perdido as forças e as esperanças;
+A vocês meu muito obrigado e minha eterna gratidão.
+
+Epígrafe:
+“O mal da grandeza é quando ela separa a consciência do
+poder”
+William Shakespeare
+
+RESUMO
+
+AMATO, A. L. V. A conformação do mercado da educação superior privada no Brasil:
+Análise a partir do Ato de Concentração Nº. 08700.005447/2013-12. 2016. 92 f. TCC
+(Graduação) - Curso de Direito, Faculdade de Direito de Ribeirão Preto, Universidade de São
+Paulo, Ribeirão Preto, 2016
+
+O mercado da educação superior é um mercado altamente regulado, em seus aspectos gerais e
+setoriais, da mesma forma que pela jurisprudência do CADE pode-se dizer composto por quatro
+mercados relevantes: os mercados de ensino superior de graduação e pós-graduação, nas suas
+modalidades presencial e à distância. Ainda consta com barreiras de entrada bem definidas tais
+como ausência de reputação/conhecimento por parte dos alunos; a necessidade de altos
+investimentos e/ou custos irrecuperáveis; a regulação setorial; o papel do investimento em
+marketing e a importância de uma marca forte no mercado, incluindo ainda incluem a
+economias de escala. Isto sem contar às barreiras regulatórias impostas pelo Estado. São seus
+mais relevantes critérios de rivalidade o preço, a escala, a capilaridade da rede de polos, os
+investimentos em marketing e a qualidade. Isto posto, tem-se uma sobreposição de
+competências regulatórias entre o CADE e os setores responsáveis pela regulação setorial, que
+pode vir a ser agravado com a criação do INSAES.
+
+Palavras Chaves: Mercado da Educação Superior, Direito Concorrencial, Concentração,
+Anhanguera e Kroton; Análise jurisprudencial.
+
+ABSTRACT
+
+AMATO, A. L. V. A conformação do mercado da educação superior privada no Brasil:
+Análise a partir do Ato de Concentração Nº. 08700.005447/2013-12. 2016. 92 f. TCC
+(Graduação) - Curso de Direito, Faculdade de Direito de Ribeirão Preto, Universidade de São
+Paulo, Ribeirão Preto, 2016
+
+The higher education market is highly regulated in its general and sectoral aspects. The CADE
+jurisprudence aim composed of four main markets: undergraduate and graduate in their
+arrangements. Still on with well-defined entry barriers such as lack of reputation by the
+students; the need for high investments and sunk costs; sectoral regulation; the role of
+investment in marketing and the importance of a strong brand in the market, including also
+include economies of scale. This not to mention the regulatory barriers imposed by the state. It
+is your most important rivalry criteria: price, scale, capillary network of poles, investments in
+marketing and quality. That said there is an overlap of regulatory powers between CADE and
+the sectors responsible for sector regulation, which might be aggravated by the creation of
+INSAES.
+
+Key words: Higher Education Market, Antirust law, Concentration Acts, Anhanguera and
+Kroton; jurisprudential analysis.
+
+LISTAS DE TABELAS
+
+Tabela 1 - Síntese da definição de mercado relevante adotada pelo CADE no mercado de
+educação superior
+Tabela 2 - Detalhamento das disposições do PL n° 4.372/2012- INSAES
+Tabela 3 – Sobreposição de Competências – INSAES x MEC
+Tabela 4 – Decisões em atos de concentração nos mercados de ensino superior privado 2001 a
+2015
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+ABMES - Associação Brasileira de Mantenedoras de Ensino Superior
+AC - Ato de Concentração
+AGU - Advocacia Geral da União
+BNDES - Banco Nacional de Desenvolvimento Economico e Social
+CADE - Conselho Administrativo de Defesa Econômica
+CFRB/88 ou CF/88 - Constituição da República Federativa do Brasil de 1988
+DEE - Departamento de Estudos Econômicos do CADE
+EAD - Educação a Distância
+FIES - Fundo de Financiamento Estudantil
+HHI - Herfindahl-Hirschman Index (índice Herfindahl–Hirschman)
+IBGE - Instituto Brasileiro de Geografia e Estatísticas
+IES - Instituição de Ensino Superior
+IGC - Índice Geral de Cursos do MEC
+INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+INSAES - Instituto Nacional de Supervisão e Avaliação da Educação Superior
+LDBE - Lei de Diretrizes e Bases da Educação
+MEC- Ministério da Educação
+NLAB - Nova Lei Antitruste Brasileira
+PROUNI - Programa Universidade para Todos
+RIDC - Regimento Interno da Câmara dos Deputados
+SBDC - Sistema Brasileiro de Defesa da Concorrência
+SDE - Secretaria de Direito Economico do Ministério da Justiça
+SEAE -Secretaria de Acompanhamento Economico do Ministério da Fazenda
+SG - Superintendência-Geral do CADE
+SINAES - Sistema Nacional de Avaliação da Educação Superior
+
+SUMÁRIO
+
+INTRODUÇÃO ...................................................................................................................... 23
+1.
+
+DA ORDEM ECONÔMICA .......................................................................................... 29
+1.1.
+
+Princípios da Ordem Econômica ............................................................................ 30
+
+1.2.
+
+Agentes da Ordem Econômica ................................................................................ 35
+
+1.3.
+
+Papel do Estado Na Ordem Econômica ................................................................. 36
+
+1.4.
+
+Intervenção do Estado no domínio econômico ...................................................... 37
+
+1.5.
+
+Significado da expressão atividade econômica ...................................................... 38
+
+1.6.
+
+A Ordem Econômica Constitucional e os Limites à Atuação Estatal ................. 39
+
+2. ATO DE CONCENTRAÇÃO Nº. 08700.005447/2013-12 E A CONFORMAÇÃO DO
+SETOR DA EDUCAÇÃO SUPERIOR PRIVADA ............................................................. 41
+2.1. Do Mercado Relevante .............................................................................................. 43
+2.2. Parcela Substancial do mercado e Probabilidade de Exercício de Poder de Mercado
+.............................................................................................................................................. 50
+2.2.1. Das Barreiras à Entrada ........................................................................................ 54
+2.2.2. Da Rivalidade........................................................................................................ 58
+2.2.3. Das Eficiências Econômicas .................................................................................. 63
+2.3. Do Acordo em Controle de Concentração ................................................................ 67
+3.1. A Regulação da Educação Superior e as Barreiras Regulatórias ........................... 71
+3.2. Análise quanto a natureza material do Projeto Legislativo .................................... 77
+3.3. Análise quanto ao Desenvolvimento Político do Projeto Legislativo ..................... 80
+4. CONSIDERAÇÕES FINAIS ............................................................................................ 83
+ANEXOS E TABELAS .......................................................................................................... 89
+Tabela 1 - Síntese da definição de mercado relevante adotada pelo CADE no mercado
+de educação superior .......................................................................................................... 89
+Tabela 2 - Detalhamento das disposições do PL n° 4.372/2012- INSAES...................... 90
+
+Tabela 3 – Sobreposição de Competências – INSAES x MEC ....................................... 91
+Tabela 4 – Decisões em atos de concentração nos mercados de ensino superior privado
+2001 a 2015 .......................................................................................................................... 92
+
+23
+
+INTRODUÇÃO
+
+No que se refere à educação superior, coexistem no cenário brasileiro instituições de
+ensino públicas (IES públicas) e privadas (IES privadas). Por um lado, a educação considerada
+com serviço público, prestado diretamente pelo Poder Público, nas diferentes instâncias da
+federação. Por outro, a educação privada considerada como mercado livre, aberto a qualquer
+interessado, condicionado, no entanto, à regulação exercida pelo Poder Público.
+De acordo com dados do Censo da Educação Superior, divulgados pelo Ministério da
+Educação, no final de 2013, o total de alunos matriculados na educação superior brasileira
+ultrapassou a marca de 7 milhões em 2012, crescimento de 4,4% em relação ao ano anterior.
+Mais precisamente, os 7.037.688 alunos matriculados em cursos de graduação no Brasil estão
+distribuídos em 31.866 cursos, oferecidos por 2.416 instituições. A maior parte dessas 2,1 mil
+instituições privadas (76%) acessa recursos públicos através de projetos como o Programa
+Universidade para Todos (ProUni) e o Fundo de Financiamento Estudantil (Fies)1. Apesar de
+apresentar um crescimento menor no período, de 3,5%, a rede particular é responsável por quase
+3/4 das matrículas. De acordo com estudo setorial realizada pela Hoper Educação o número de
+matriculas no setor privado ultrapassa os 4.000.000 (quatro milhões) de estudantes2.
+Adolfo Ignário Calderón, ao examinar o crescimento das universidades particulares no
+Estado de São Paulo, aponta como um dos atores responsáveis pela nova dinâmica o surgimento
+das denominadas Universidade Mercantis, instituições de ensino privado com “explícitos fins
+lucrativos, geridos enquanto empresas educacionais, oferecendo produtos e serviços de acordo
+com a demanda do mercado”3.
+É o que se pode extrair dos dados, dos quais se conclui, de acordo com Queiroz (2013),
+que a expansão do ensino superior brasileiro começou nas décadas de 1970, com a
+transformação de instituições isoladas em universidades particulares e confessionais. Elas
+passaram de 20, em 1985, para 85, em 2000. Estimuladas pela expansão do ensino básico, essas
+universidades abriram novos campi e diversificaram suas atividades, criando cursos de
+
+1
+
+OLIVEIRA, Tory. O negócio da educação: Universidades privadas patinam para equilibrar gestão empresarial e
+qualidade no ensino. 2014. Publicado originalmente em Carta na Escola. Disponível em:
+<http://www.cartaeducacao.com.br/reportagens/o-negocio-da-educacao/>. Acesso em: 27 jul. 2016
+2
+HOPER EDUCACIONAL, Consultoria. Análise setorial do ensino superior privado - 2014. Foz do Iguaçu, 2014
+3
+CALDERON, ADOLFO IGNACIO. Universidades mercantis: a institucionalização do mercado universitário em
+questão. São Paulo Perspec. [Online]. 2000, vol.14, n.1, pp. 61-72. ISSN 1806-9452.
+
+24
+
+educação continuada e investindo em produção de material pedagógico para todos os ciclos de
+ensino.
+Segundo pesquisa realizada pelo Banco Nacional de Desenvolvimento Economico e
+Social (BNDES) de análise do setor de ensino superior privado no Brasil pode se considerar a
+educação um exemplo típico de bem semipúblico, ou seja, aquele que reúne qualidades dos
+bens públicos e dos bens de mercado. Desta forma, a melhoria no nível de educação da
+população, por exemplo, gera um benefício global que é muito maior do que a soma dos
+benefícios individuais, estando aí a sua característica de bem público. Por outro lado, também
+pondera que o bem educação é perfeitamente divisível, assim como os bens de mercado – o
+consumidor direto (aluno) é facilmente identificável, sendo possível quantificar, via preço,
+parte dos benefícios da sua maior educação4.
+Não há como negar um novo papel exercido pelo setor educacional, demandando
+planejamento estratégico por parte das universidades para enfrentar a concorrência e passando
+a exigir condutas cada vez mais arrojadas dos seus dirigentes. Na última década, os fundos de
+private equity - que compra participações em empresas - ampliaram seus investimentos no setor
+educacional e prepararam os grupos do setor para a abertura de capital.5 Com isso, a
+possibilidade de incorrerem em práticas ofensivas a concorrência pode ser um problema a ser
+enfrentando na regulação do setor educacional.
+Em 2013, as universidades privadas controlavam 75% do ensino superior do País - e
+vários grupos controladores, como era o caso Anhanguera Educacional Participações S.A. e da
+Kroton Educacional S.A, que na época negociavam seus títulos separadamente em bolsas de
+valores.6 Hoje, após aprovação pelo Conselho Administrativo de Defesa Econômica (CADE)
+com restrições, tem-se o maior grupo educacional do país e do mundo, com cerca de 1,01 milhão
+
+SECCA, Rodrigo Ximenes. LEAL; Rodrigo Mendes.Análise do setor de ensino superior privado no Brasil.
+BNDES
+Setorial
+30,
+p.
+103
+–
+156.
+Disponível
+em:<
+http://www.bndespar.gov.br/SiteBNDES/export/sites/default/bndes_pt/Galerias/Arquivos/conhecimento/bnset/se
+t3003.pdf> Acesso em: 10 ago. 2015
+5
+EDITORIAL. Concentração do ensino privado. O Estado de São Paulo. São Paulo. 25 abr. 2013. Disponível em:
+<http://opiniao.estadao.com.br/noticias/geral,concentracao-do-ensino-privado-imp-,1025241>. Acesso em: 27
+set. 2016.
+6
+EDITORIAL. Concentração do ensino privado. O Estado de São Paulo. São Paulo. 25 abr. 2013. Disponível em:
+<http://opiniao.estadao.com.br/noticias/geral,concentracao-do-ensino-privado-imp-,1025241>. Acesso em: 27
+set. 2016.
+4
+
+25
+
+de alunos78. Mais recentemente, em julho de 2016, foi anunciado publicamente a fusão da
+Kroton Educacional, com o seu maior concorrente, hoje, no mercado a Estácio.
+O presente estudo insere-se, portanto, em um contexto maior de controvérsias e
+discussões que têm como eixo central o processo de massificação do ensino e os parâmetros
+mínimos de qualidade sem os quais não pode haver a efetiva democratização da educação
+superior no Brasil. O debate em tomo do assunto diz respeito à fruição de direito fundamental
+da mais absoluta importância, o que exige da análise antitruste extremo cuidado para verificar
+o potencial lesivo que grandes concentrações podem representar para o mercado.
+Em entrevista dada ao Portal G1- Economia do Grupo Globo de Comunicações9 o expresidente do CADE, Gesner Oliveira afirmou que o caso da Anhanguera pode ser usado como
+jurisprudência caso uma fusão entre Kroton e Estácio chegue ao referido Conselho.
+Diante da nova estrutura empresarial em que está inserido o setor, os cuidados com o
+consumidor e com a concorrência passam a ser inevitáveis, apesar dos reconhecidos benefícios
+que podem advir da concorrência - não só contribuindo para o desenvolvimento econômico,
+como para o próprio consumidor, que passa a dispor de um amplo leque de opções.
+Ante a esta situação o Governo Federal propôs ao Congresso Nacional o Projeto de Lei
+4.372/12 que “cria o Instituto Nacional de Supervisão e Avaliação da Educação Superior –
+INSAES e dá outras providências” visando defender interesses sociais e o interesse coletivo dos
+estudantes mediante o controle da qualidade do produto oferecido, da mesma forma garantindo
+o controle das estruturas do mercado da educação superior10.
+Cabe dizer que a proposta do INSAES - projeto de lei 4372/2012 - prevê como
+competência desse ente “aprovar previamente aquisições, fusões, cisões, transferências de
+mantença, unificação de mantidas ou descredenciamento voluntário de Instituições de
+Educação Superior integrantes do sistema federal de ensino”.
+
+7
+
+CASTRO, Marinella. Sócios aprovam fusão entre Kroton e Estácio: Aval unânime de conselheiros é dado depois
+de o grupo mineiro ter incluído no negócio pagamento de R$ 420 milhões como distribuição de dividendos. O
+Estado
+de
+Minas.
+Belo
+Horizonte,
+p.
+0-0.
+16
+ago.
+2016.
+Disponível
+em:
+<http://www.em.com.br/app/noticia/economia/2016/08/16/internas_economia,794330/socios-aprovam-fusaoentre-kroton-e-estacio.shtml>. Acesso em: 27 set. 2016.
+8
+ROCHA, Rodrigo. Fusão de Kroton e Estácio terá multa de R$ 150 milhões por desistência. Valor Econoomico.
+São Paulo. 15 jul. 2016. Disponível em: <http://www.valor.com.br/empresas/4635783/fusao-de-kroton-e-estaciotera-multa-de-r-150-milhoes-por-desistencia>. Acesso em: 27 set. 2016.
+9
+REUTERS. Entidades questionam fusão entre Kroton e Estácio: Fusão das empresas de educação pode criar uma
+concentração de mercado. OAB-RJ, Fenep e Comissão da Câmara questionam negócio.. 2016. Disponível em:
+<http://g1.globo.com/economia/negocios/noticia/2016/06/entidades-questionam-fusao-entre-kroton-eestacio.html>. Acesso em: 27 set. 2016.
+10
+BRASIL. Congresso. Câmara dos Deputados. Projeto de Lei nº 4372-D, de 2012. Cria o Instituto Nacional de
+Supervisão e Avaliação da Educação Superior - INSAES, e dá outras providências.
+
+26
+
+Neste momento cumpre destacar a importância acadêmica deste trabalho. Inicialmente
+trata-se de um mercado em constante expansão, com apoio governamental visando a promoção
+e desenvolvimento da Educação Superior. É dizer, trata-se de um mercado com importante fator
+social com geração de diversas externalidades, tanto positivas como negativas.
+Por sua natureza e objetivo, a pesquisa será uma pesquisa exploratória, pois, segundo
+SEVERINO (2007), “A pesquisa exploratória busca apenas levantar informações sobre um
+determinado objeto, delimitando assim um campo de trabalho, mapeando as condições de
+manifestação deste objeto”.11
+Assim, notória é a relevância da constatação de que a presente pesquisa deve ater-se ao
+levantamento de informações já existentes, de acordo com os procedimentos a serem adotados,
+para que possa ser realizada uma análise profunda e aplicável do campo fático enfrentado pelo
+Setor da Educação Superior Privado e o Direito brasileiro.
+O tema da presente pesquisa é dinâmico e moderno, e para realizar tal empreitada de
+forma eficaz, focar-se-á no estudo e na análise da versão pública do Ato de Concentração Nº.
+08700.005447/2013-12,
+
+de
+
+interesse
+
+Anhanguera
+
+Educacional
+
+Participações
+
+S.A.
+
+(Anhanguera) e Kroton Educacional S.A. (Kroton) notificado ao CADE no dia 21 de junho de
+2013. Justifica-se tal opção metodológica pois foi a maior fusão que ocorreu no setor. Em 2013,
+o jornal O Estado de São Paulo indicava em seu editorial que no período de 2007 a 2013 foram
+realizadas 180 fusões, aquisições e incorporações de empresas da área de educação. Já o Portal
+G1, em matéria já indicada afirma que entre 2001 e 2015, o CADE avaliou 62 atos de
+concentração no setor educacional, sendo que treze foram aprovados sob condicionantes. Por
+sua vez, a Superintendência-Geral do CADE em parecer de Nº. 358 de 03 de dezembro de 2013
+indica que o CADE analisou cerca de 38 operações envolvendo instituições de ensino no
+período de 2002 a 2013 (CADE; 2013; p. 2749). O fato é que apesar da discordância dos
+números apresentados, o caso mais recente e que comporta uma análise aprofundada do
+mercado da educação superior é o da fusão entre o Grupo Kroton e o Grupo Anhanguera, por
+abordar tanto a graduação como a pós-graduação, em suas modalidades presencial e a distância
+(EAD) justificando assim, a opção metodológica.
+Isto posto, buscar-se-á a extração de elementos do caso que permitam formar um
+panorama do mercado da educação superior perante ao CADE, e com isso analisar se a proposta
+enviada pelo Executivo Federal tem o condão de garantir a qualidade do ensino e o respeito aos
+ditames constitucionais referentes não apenas ao direito à educação, mas também à liberdade
+
+11
+
+SEVERINO, Antônio Joaquim. Metodologia do trabalho científico. 23ª ed. São Paulo: Cortez, 2007.
+
+27
+
+de iniciativa e a defesa da concorrência, dentro dos parâmetros impostos pela Constituição da
+República Federativa do Brasil de 1988 (CRFB88).
+O Capítulo 1 - Da Ordem Econômica como capítulo inicial busca situar o universo
+analisado, qual seja: a ordem constitucional econômica, para a partir desta delimitação, permitir
+ao leitor encontrar as definições e esclarecimentos necessários ao melhor entendimento das
+formas de intervenção do estado no domínio econômico, apresentando de uma forma
+panorâmica suas características, seus princípios e seus agentes.
+Em seguida, no Capítulo 2 busca-se apresentar o setor da educação superior privada,
+suas principais características e aspectos regulatórios, mas principalmente sua conformação
+perante o Sistema Brasileiro de Defesa da Concorrência, a partir da análise do Ato de
+Concentração Nº. 08700.005447/2013-12, de interesse Anhanguera Educacional Participações
+S.A. (Anhanguera) e Kroton Educacional S.A. (Kroton) notificado ao CADE no dia 21 de junho
+de 2013
+O Capítulo terceiro busca-se uma análise do projeto legislativo em tramite na Câmara
+dos Deputados que institui o Instituto Nacional de Avaliação e Supervisão da Educação
+Superior - INSAES uma demanda de diversos setores sociais. A partir da perspectiva da
+conformação do mercado da educação superior apresentado no Capítulo antecedente, visualizase a presença de um provável conflito de competências, que não será analisado profundamente
+por fugir do escopo do presente trabalho.
+Para ao final, apresentar as conclusões por meio de um modelo dedutivo entre as
+premissas apresentadas nos capítulos e assim demonstrar a compatibilidade do Projeto de Lei
+4.372 de 2012 com a estrutura do mercado vigente e principalmente com a ordem
+constitucional, confirmando a premissa que tal regramento permite uma melhor garantia de
+qualidade do Ensino Superior ante a um mercado dinâmico e em franca expansão.
+
+28
+
+29
+
+1.
+
+DA ORDEM ECONÔMICA
+
+Primeiramente, cumpre ressaltar que o objetivo do capítulo não é esgotar o tema que
+ainda se compõe de diversas disputas doutrinárias, e sim fornecer uma base teórica que permita
+delimitar o âmbito de aplicação e conhecimento do presente trabalho. É dizer, busca-se apenas
+definir um marco teórico a fim de delimitar o tema trabalhado, a conformação da educação
+superior como um mercado e seus aspectos regulatórios. Neste sentido, é imperioso indicar o
+pensamento de GRAU, Eros (2010, p.174) que o conceito de ordem econômica, não somente é
+inútil como pernicioso, no plano da metalinguagem, que é a linguagem do direito, por isso não
+se fará essa definição.
+Apesar das ressalvas doutrinárias existentes, é necessário apresentar uma definição,
+simples, mas com o intuito de afastar confusões e deixar claro o âmbito da presente pesquisa.
+Assim, adotar-se-á como instrumento delimitante o conceito elaborado por José Afonso da
+Silva (2011;p. 785-792) no qual, a partir da interpretação da Constituição Federal de 1988
+(CRFB/88) declara que ordem econômica é fundada na valorização do trabalho humano e na
+iniciativa privada, consagrando uma economia de mercado de natureza capitalista, pois a
+iniciativa privada é um princípio básico da ordem capitalista, desta forma criando as condições
+jurídicas fundamentais para a adoção do desenvolvimento autocentrado, nacional e popular. O
+autor tem como legítima a liberdade de iniciativa econômica privada apenas quanto exercida
+no interesse da justiça social. Daí a intervenção econômica estatal, também imposta no art. 219
+da CRFB/88.
+Desta forma, compreendemos em consonância com as lições de José Afonso da Silva
+que Constituição ou Ordem Econômica são as bases constitucionais do sistema econômico e,
+encontram-se nos art. 170 a 192 (SILVA, 2011, p.785), constituindo-se de elementos sócioideológicos. Apresenta-se, destarte, como um conjunto de normas que revela o caráter de
+compromisso das constituições modernas entre o Estado Liberal e o Estado Social
+intervencionista (SILVA, 2011, p.787) e tem por fim assegurar a todos existência digna,
+conforme os ditames da justiça social, observados os princípios indicados no art. 170, princípios
+estes que, em essência consubstanciam uma ordem capitalista (SILVA, 2011, p.788-789). Neste
+sentido, o autor é expresso:
+
+30
+
+“Reconhecemos valor ao conceito de constituição econômica, desde que não
+pensemos que as bases constitucionais da ordem econômica é que definem a estrutura
+de determinado sistema econômico, por isso seria admitir que a constituição formal
+(superestrutura) constitua a realidade material (constituição material: infraestrutura)”.
+“(...) interessa considerar a constituição econômica formal, como a parte da
+Constituição que interpreta o sistema econômico, ou seja: que dá forma ao sistema
+econômico, que, em essência, é o capitalismo”.
+“(...): a constituição econômica formal brasileira consubstancia-se na parte da
+Constituição Federal que contém os direitos que legitimam a atuação dos sujeitos
+econômicos, o conteúdo e limites desses direitos e a responsabilidade que comporta
+o exercício da atividade econômica. (Cf. Justino F. Duque Domínguez, “Iniciativa
+privada y empresa”, in Constitución y economía, p. 52)”
+“Procura-se fixar a idéia de que a constitituição econômica formal, como objeto do
+Direito Constitucional positivo, consiste, não num conceito autônomo de constituição
+ao lado da constituição política, mas, sim, no conjunto de normas desta que,
+“garantindo os elementos definidores de um determinado sistema econômico”,
+estabelece os princípios fundamentais de “determinada forma de organização e
+funcionamento da economia” e constitui, “por isso mesmo, uma determinada ordem
+econômica”.
+
+Por conseguinte, utilizaremos para os fins do presente trabalho o conceito de
+constituição econômica formal, entendido como a parte da Constituição, que define e garante
+os elementos de funcionamento do sistema econômico adotado, o capitalismo. A partir desta
+delimitação extrairemos os princípios da Ordem Econômica formal, seus agentes e suas formas
+de atuação.
+
+1.1.
+
+Princípios da Ordem Econômica
+
+É explicito, o legislador constituinte, ao definir os princípios da ordem econômica no
+Art. 170 da Carta Magna: (1) soberania nacional; (2) propriedade privada; (3) função social da
+propriedade; (4) livre concorrência; (5) defesa do consumidor; (6) defesa do meio ambiente; (7)
+redução das desigualdades regionais e sociais; (8) busca do pleno emprego; (9) tratamento
+favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham
+sua sede e administração no País. Desta forma o "art. 170 da Constituição enuncia os demais
+princípios que devem orientar a atuação do Estado e dos particulares nos processos de
+produção, circulação, distribuição e consumo das riquezas do País"12 (BARROSO, 2008).
+
+12
+
+BARROSO, Luís Roberto. A ORDEM ECONÔMICA CONSTITUCIONAL E OS LIMITES À ATUAÇÃO
+ESTATAL NO CONTROLE DE PREÇOS. Revista Eletrônica de Direito Administrativo Econômico (REDAE),
+
+31
+
+Tomamos por base o referencial teórico apontado pelo constitucionalista José Afonso
+da Silva (2011), no qual “(...)cuidaremos dos princípios da atividade econômica, tomada aqui
+a palavra princípios mais no sentido de fundamentos da ordem econômica do que apenas de
+normas-síntese informadoras do sistema, mas também destas”.
+No mesmo sentido, Luis Roberto Barroso (2008) delimita o caráter não absoluto dos
+princípios, é dizer, delimita-se seu âmbito de sua atuação. Para tanto, a partir da leitura do art.
+170 constitucional o autor afirma que não há homogeneidade funcional entre os princípios
+elencados pelo constituinte, sendo assim exemplifica, para ao final dividir os princípios da
+ordem constitucional em dois blocos, os princípios de funcionamento e os princípios-fins:
+"O papel que a livre concorrência desempenha na ordem econômica é diverso
+daquele reservado ao princípio que propugna pela busca do pleno emprego ou pela
+redução das desigualdades regionais e sociais (...). Em linhas gerais, os princípios
+de funcionamento estabelecem os parâmetros de convivência básicos que os agentes
+da ordem econômica deverão observar. Os princípios fins, por sua vez, descrevem
+realidades materiais que o constituinte deseja sejam alcançadas"13
+
+Por meio destes referenciais e de suas subdivisões, apresenta-se o posicionamento de
+Eros Grau a respeito dos princípios da ordem econômica e sua interpretação, por nos parecer
+mais crítico e detalhado, a fim de fundamentar a base para o restante do trabalho, frisa-se que
+não se tem pretensão de esgotar tema de tamanha amplitude e espectro interpretativo.
+No que diz respeito ao princípio da dignidade da pessoa humana, este é um dos
+fundamentos da República e figura como um fim da ordem econômica. Sendo inviolável o
+Estado tem que respeitá-la e protegê-la, como uma obrigação do poder público. Constitui o
+núcleo essencial dos direitos humanos (GRAU, 2010, P.197). Não é somente fundamento, mas
+o fim para o qual se deve voltar a ordem econômica; diz, ainda, que esse princípio assume a
+mais pronunciada relevância, visto que compromete todo o exercício da atividade econômica
+em sentido amplo com o programa de promoção da existência digna de que todos devem gozar
+(GRAU, 2010, P.198).
+Quanto ao valor social do trabalho entende-se que assegurar a todos existência digna,
+resulta que valorizar o trabalho humano importando na conferencia ao trabalho e a seus agentes
+tratamento peculiar (GRAU, 2010, P.199). O trabalho passa a receber proteção não meramente
+filantrópica, porém politicamente racional. A valorização do trabalho humano e
+
+Salvador, Instituto Brasileiro de Direito Público, nº. 14, maio/junho/julho, 2008. Disponível na Internet:
+<http://www.direitodoestado.com.br/redae.asp>.
+13
+Op. Cit.
+
+32
+
+reconhecimento do valor social do trabalho são clausulas principiológicas que portam em si
+evidentes potencialidades transformadoras (GRAU, 2010, P.201).
+Quanto ao valor social da livre iniciativa, este encontra-se no art. 1º, IV, da CRFB/88
+sendo que a livre concorrência está no art. 170, IV, da CRFB/88 devendo a ordem econômica
+estar fundada na valorização do trabalho humano e na livre iniciativa (GRAU, 2010, P.203).
+A livre iniciativa não é tomada como expressão individualista, mas sim no quanto
+expressa de socialmente valioso. É um conceito extremamente amplo, embora tenha sido
+conduzido de forma a ser entendido de forma restrita, de que toda a livre iniciativa se esgota na
+liberdade econômica ou de iniciativa econômica. Da livre iniciativa se desdobra a liberdade.
+Ele descreve a liberdade como sensibilidade e acessibilidade a alternativas de conduta e de
+resultado. O traço constitutivo da liberdade é o seu caráter jurídico, sendo seu perfil definido
+pela ordem jurídica.
+Na CRFB/88 a liberdade é consagrada como fundamento da República Federativa do
+Brasil e como fundamento da ordem econômica (GRAU, 2010, P.204). Mas não se pode reduzir
+a livre iniciativa à feição que assume como liberdade econômica ou liberdade de iniciativa
+econômica. Livre iniciativa não se resume ao princípio básico do liberalismo econômico, mas
+sim, abrange todas as formas de produção, individuais ou coletivas (GRAU, 2010, P.205).
+Retornando ao conceito de livre iniciativa, cabe dizer que esta é expressão de liberdade
+titulada não apenas pela empresa, mas também pelo trabalho. É um modo de expressão do
+trabalho em uma sociedade livre e pluralista (GRAU, 2010, P.207).
+O princípio da livre concorrência, art. 170, inciso IV, da CRFB/88, é um princípio de
+ordem econômica (princípio constitucional impositivo). Assim a CRFB/88 também reconhece
+em seu art. 173, §4º, o princípio da repressão aos abusos do poder econômico, de tal modo que
+nem por isso o poder econômico deixa de se manifestar no mundo do ser (GRAU, 2010, P.210).
+Liberdade de concorrência esta que se desdobra em liberdades privadas e públicas, e
+que segundo Tércio Sampaio Ferraz Júnior, citado pelo autor, é forma de tutela do consumidor,
+na medida em que competitividade induz a uma distribuição de recursos a preços mais baixos,
+garantindo uma sociedade mais equilibrada (GRAU, 2010, P.212).
+A construção de uma sociedade livre, justa e solidária é um dos objetivos fundamentais
+da República (GRAU, 2010, P.216). Sociedade livre, segundo o autor, é sociedade sob o
+primado da liberdade real, em todas as suas manifestações, cujo o titular é a sociedade.
+Sociedade justa, por sua vez, é aquela que realiza a justiça social. E, solidária aquela que busca
+não inimizar os homens entre si (GRAU, 2010, P.217).
+
+33
+
+A garantia do desenvolvimento nacional, art. 3º, inciso II, da CF/88, é outro objetivo
+fundamental da Republica. A ideia de desenvolvimento, segundo autor está na dinamicidade
+das mutações qualitativas e quantitativas, um processo de mobilidade social contínuo e
+intermitente (GRAU, 2014, P.215).
+O desenvolvimento, portanto, não supõe apenas crescimento econômico, mas elevação
+do nível cultural e intelectual da comunidade dadas as mudanças sociais. Garantir o
+desenvolvimento nacional é primordial ao papel do Estado, necessitando, segundo Fabio
+Konder Comparato, de um mínimo de programação de políticas públicas de longo prazo, pois
+o subdesenvolvimento é um estado dinâmico de desequilíbrio econômico e de desarticulação
+social, que por sua vez leva ao imperativo de uma política nacional para todos os setores da
+vida social (GRAU, 2014, P.214).
+Assim, a erradicação da pobreza e da marginalização e a redução das desigualdades
+sociais e regionais são objetivos da Republica atinentes à promoção do desenvolvimento
+econômico (GRAU, 2014, P.216). Sendo o escopo da ordem econômica, neste sentido, o de
+assegurar a todos a existência digna, através da promoção do bem de todos e da dignidade da
+pessoa humana.
+O princípio da soberania nacional, do art. 170, inciso I, da CRFB/88, consubstancia-se
+na realização do fim de assegurar a todos a existência digna supramencionada, pela realização
+de políticas públicas (GRAU, 2014, P.225). Assim, a soberania nacional econômica supõe a
+modernização da economia e da sociedade, dada a ruptura de nossa situação de dependência
+em relação às sociedades desenvolvidas quando consumidores de tecnologia externa (GRAU,
+2014, p.227).
+Os princípios da propriedade privada e da função social da propriedade (art. 170, incisos
+II e III, da CRFB/88), se correlacionam no sentido de ser pressuposto o primeiro do segundo,
+uma vez que a ideia de função social atribui a propriedade conteúdo especifico quando da
+propriedade privada (GRAU, 2014, P.232). O art. 5º, da CRFB/88, em seus incisos XXII e
+XXIII, prescrevem por sua vez que o direito de propriedade é garantido, assim como a função
+social será atendida pela propriedade (GRAU, 2014, P.232).
+Nas palavras do autor, a função social da propriedade atua como fonte da imposição de
+comportamento positivo ao detentor do poder que deflui da propriedade (GRAU, 2014, P.235).
+Distinguindo, por conseguinte o poder de polícia da função social da propriedade, visto que
+segundo Carlos Ari Sundfeld, citado pelo autor, o poder de polícia não comporta só a imposição
+de não fazer ao titular da propriedade, mas de fazer dada a mera condição no exercício de um
+
+34
+
+direito, como dever e não ônus (GRAU, 2014, P.240). E a função social da propriedade tratase do dever de exercitar tal direito.
+O princípio da função social da propriedade integra, pois, o conceito jurídico-positivo
+de propriedade, de tal modo que a distinção entre propriedade dotada de função individual e
+propriedade dotada de função social é necessária para a compreensão de tal princípio (GRAU,
+2014, P.245).
+Na defesa do consumidor existem três aspectos envolvidos, os interesses difusos,
+interesses coletivos, interesses individuais homogêneos (GRAU, 2014, P.247). Consumidor é
+em regra aquele que se encontra em uma posição de debilidade e subordinação estrutural em
+relação ao produtor do bem ou serviço de consumo. As medidas de defesa do consumidor não
+meras expressões de ordem pública, mas como implementação de normatividade e de medidas
+interventivas (GRAU, 2014, P.248).
+A defesa do meio ambiente é a resposta da Constituição a exploração predatória dos
+recursos naturais. Esse princípio tem relação com os princípios da garantia do desenvolvimento
+e do pleno emprego, para assegurar a todos a existência digna (GRAU, 2014, P.250).
+Os princípios do desenvolvimento nacional e o pleno emprego supõem uma economia
+autossustentada, suficientemente equilibrada para o bem-estar do ser humano (GRAU, 2014,
+P.251).
+A busca do pleno emprego é um princípio, esse princípio é o conteúdo ativo do princípio
+da função social da propriedade. A propriedade que cumpre a função social obriga ao
+proprietário/titular a prática do pleno emprego. A realização da função social passa pela
+realização do pleno emprego (GRAU, 2014, P.252).
+Após esta breve apresentação dos princípios constitucionais regentes da ordem
+econômica, faz-se complementar o posicionamento de Luis Roberto Barroso (2008),
+proporcionando uma tipologia e uma classificação dos princípios, in verbis:
+
+"Os princípios de funcionamento referem-se à dinâmica das e relações produtivas, às
+quais todos os seus agentes estão vinculados. Podem ser classificados como
+princípios de funcionamento aqueles referidos nos incisos I a VI do artigo 170" e
+conclui o raciocínio "este conjunto de princípios setoriais, acima examinados, forma,
+em suma, as “regras do jogo”, que limitam e obrigam a conduta dos particulares. O
+destinatário principal dos princípios de funcionamento da ordem econômica é, como
+se vê, a iniciativa privada (e também o Estado quando atua empresarialmente, nos
+termos do art. 173 da Constituição).
+Quanto aos princípios-fins entende-se que "delineiam os objetivos que, como produto
+final, a ordem econômica como um todo deverá atingir. Eles figuram tanto no caput
+do art. 170 quanto em seus incisos finais." Descreve, assim, "uma realidade fática
+desejada pelo constituinte e comandada ao Poder Público. Assim, o constituinte
+deseja o fortalecimento das empresas brasileiras de pequeno porte, admitindo, então,
+tratamento favorecido por parte do Estado. Além disso, a Constituição harmoniza os
+
+35
+
+objetivos da ordem econômica – redução das desigualdades, pleno emprego e
+existência digna para todos – com os objetivos fundamentais da República Federativa
+do Brasil, constantes do art. 3º da Carta."
+“Observa conquanto, "que nenhum desses princípios setoriais poderá restringir a
+livre iniciativa a ponto de afetar seus elementos essenciais". Todavia, esclarece que
+"nenhum deles – desde a meta de assegurar a todos existência digna, até o tratamento
+favorecido para as empresas nacionais de pequeno porte – poderá contrariar ou
+esvaziar os princípios fundamentais da ordem econômica, tal como positivados no
+caput do art. 170, ainda que lhes estabeleçam certo nível de restrições. Não se pode,
+sob o pretexto de realizar qualquer deles, eliminar a livre iniciativa ou depreciar o
+trabalho humano".
+
+1.2.
+
+Agentes da Ordem Econômica
+
+Cumpre nesta subseção definir quem são os agentes da ordem econômica visando
+entender as partes das relações que se formam. De modo geral são identificados como o Estado
+e como a Iniciativa Privada, que apesar de atuarem com objetivos diferentes suas ações, em
+partes são integradas e subsidiarias entre si.
+No mesmo sentido é o que nos apresenta Luis Roberto Barroso (2008) pode-se entender
+que "é fora de dúvida que os particulares são os principais atores da ordem econômica
+brasileira", uma vez que o "regular exercício de suas atividades pelas empresas privadas –
+como tal entendido o que observa os princípios de funcionamento da ordem econômica – já
+viabiliza uma parte importante do bem-estar social”.
+Ao Estado, por sua vez, continua o autor, cabe a "preservação e promoção dos
+princípios de funcionamento e implementação de programas para a realização dos princípiosfins", ou seja, "fiscalizar o regular atendimento, pela iniciativa privada, dos princípios de
+funcionamento da ordem econômica".
+
+Desta forma, ressalva "que o Estado não pode
+
+pretender, sob pena de subverter os papéis, é que a empresa privada, em lugar de buscar o
+lucro, oriente sua atividade para a consecução dos princípios-fins da ordem econômica como
+um todo, com sacrifício da livre-iniciativa"
+
+36
+
+1.3.
+
+Papel do Estado Na Ordem Econômica
+
+Tendo em visa o aspecto regulatório e concorrencial que serão tratados nos capítulos
+posteriores cumpre delimitar o papel do Estado na ordem econômica. Buscamos nas bases
+constitucionais a caracterização deste papel, neste sentido, José Afonso da Silva (2011) é
+expresso:
+(...) o Estado pode ser um agente econômico e um agente disciplinador da economia.
+Pode-se manter, em face da atual Constituição, a mesma distinção que surtia das
+anteriores, qual seja a de que ela reconhece duas formas de ingerência do Estado na
+ordem econômica: a participação e a intervenção. (...) constituem instrumentos pelos
+quais o Poder Público ordena, coordena e atua a observância dos princípios da
+ordem econômica tendo em vista a realização de seus fundamentos e de seus fim, (...).
+
+A leitura do texto constitucional somado a doutrina constitucionalista nos permite dizer
+que o Estado pode explorar diretamente a atividade econômica por dois meios, o monopólio e
+a exploração necessária (SILVA, 2011). Quanto ao monopólio não será abordado em
+profundidade pois foge do escopo do presente trabalho. Já em relação à exploração necessária
+pode-se identificá-la como “quando o exigir a segurança nacional ou interesse coletivo
+relevante conforme definidos em lei (SILVA, 2011). É o que se extrai da leitura do art. 173,
+caput da CRFB88, in verbis:
+Art. 173 Ressalvados os casos previstos nesta Constituição, a exploração direta de
+atividade econômica pelo Estado só será permitida quando necessária aos
+imperativos da segurança nacional ou a relevante interesse coletivo, conforme
+definidos em lei.
+
+Neste sentido entende o administrativista Celso Antônio Bandeira de Mello (2013,
+p.809) que a constituição estabeleceu diferença entre as atividades que são realizadas pelos
+particulares no exercício de sua liberdade, sendo destarte, considerada como atividades
+econômicas e, as atividades do Estado, definidas como serviço público. Entretanto, o autor
+anota a possibilidade de entes públicos e privados exercerem função do outro por meio de
+indicação legislativa.
+Entrementes, conforme já demonstrado cabe ao Estado fiscalizar, regularizar, fomentar
+as atividades econômicas de seu interesse, o que caracteriza a atuação indireta do Estado na
+economia. É neste ponto que se focará o decorrer do trabalho, ou seja, a atuação indireta do
+Estado na atividade econômica, para tanto tais temas serão tratados nos capítulos subsequentes.
+
+37
+
+1.4.
+
+Intervenção do Estado no domínio econômico
+
+Adotar-se-á o posicionamento novamente de Eros Grau (2010, p.90)14 pois é um
+marco inovador da antiga teoria administrativista e na nova teoria de direito econômico. Afirma
+o jurista que: somente se pode intervir em uma área que não é de sua própria competência
+(GRAU, 2010, p.91).
+Desta forma, pode-se entender que a atuação do Estado na ordem econômica se
+dá quando ele presta serviços públicos diretamente à população e mais que está agindo em área
+própria, conforme os limites de competência instituídos pela Carta Magna, da mesma forma
+que a atuação indireta, ou seja, a intervenção em seu sentido lato, ocorre quando atua em área
+de particulares, ou seja, quando atua diretamente sobre alguma atividade econômica (GRAU,
+2010, p.91). Ressalta-se o ponto de diferenciação teórica da perspectiva adotada no qual
+determina quando o estado atua na área de serviços públicos e quando ele intervém em áreas
+próprias da atuação dos particulares. Assim, identifica-se a tipologia proposta pelo autor em
+relação às formas de atuação no domínio econômico. Em suma, tem-se o gênero atividade
+econômica em sentido amplo que abarca duas espécies (1) os serviços públicos, e (2) as
+atividades econômicas em sentido estrito. Neste sentido, a título exemplificativo:
+“ ‘O que porém mais importa destacar, quando nos dedicamos à análise do tema é a
+atuação do Estado em relação à esfera do privado. O vocábulo intervenção, então
+veiculado em sentido forte, que indica atuação na área de outrem – isto é, naquela
+esfera do privado -, é o que melhor se presta a conotar o significado pretendido. A
+própria Constituição, de resto, não dispensa a sua utilização: no art. 149 define como
+exclusivamente à União instituir contribuições de intervenção no domínio
+econômico”.
+Aí o vocábulo é resgatado expressando, em plenitude, o seu sentido forte: ‘domínio
+econômico’ é precisamente o campo da atividade econômica em sentido estrito, área
+alheia à esfera pública, de titularidade (domínio) do setor privado. Relembre-se que
+o serviço público está para o setor público assim como a atividade econômica (em
+sentido estrito) está para o setor privado.
+Por isso que, cogitando das formas de atuação do Estado em relação ao processo
+econômico desenrolado na esfera do privado – isto é, no campo da atividade
+econômica em sentido estrito, no ‘domínio econômico’- cuidamos das formas de
+intervenção do Estado em relação a ele’”15
+
+A partir destas elucidações, pode-se dizer, segundo os autor, que as modalidades
+de intervenção/atuação do Estado no âmbito da ordem econômica são: (1) Atuação: serviços
+públicos, ou seja, atuação do Estado no serviço público diretamente ou por concessão
+
+14
+
+GRAU, Eros Roberto. As formas de atuação do Estado em relação ao processo econômico; a noção de atividade
+econômica, o direito econômico. In: ___A ordem econômica da constituição de 1988. São Paulo: Malheiros, 14ª.
+Ed. 2010. P. 91-154.
+15
+Op. Cit. P. 146
+
+38
+
+(regulação em sentido estrito); (2) Intervenção por absorção ou participação, ou seja, atuação
+direta em regime de concorrência ou de monopólio; (3) Intervenção por direção, ou seja,
+regulação cogente (lato senso) e fiscalização da ordem econômica; e por fim, (4) Intervenção
+por indução, ou seja, estímulo a determinados setores a atuarem de determinado modo (poder
+regulamentar lato senso) na ordem econômica (GRAU, 2010, p.147).
+
+1.5.
+
+Significado da expressão atividade econômica
+A priori, cumpre notar que este tema não é exclusivamente jurídico e envolve aspectos
+
+da teoria econômica. Apesar de indicar a expressão nota-se que não houve interesse do
+legislador constituinte em defini-la no texto constitucional, para tanto, far-se-á necessário o
+recurso às lições de direito comercial, nas quais, devido a caracterização de empresa, os
+doutrinadores da área se vem compelidos a definir atividade econômica. Ante tamanha abertura,
+de modo algum, pretende-se esgotar o tema, pelo contrário, apenas busca-se delimitá-lo a fim
+de estabelecer elementos para definição desta atividade no decorrer do trabalho.
+Entende-se que atividade econômica se refere a uma atividade criadora de
+riqueza – e, portanto, de bens, assim entendidos em sua plena acepção jurídica, aí incluídos os
+serviços, abrangendo toda espécie de produtores profissionais, desde que produzam bens ou
+serviços (VERÇOSA, 2011, p,139). Nota-se que o desenvolvimento de uma atividade
+econômica, entendido como um processo de criação de riquezas pode ser tanto um meio, como
+um fim em si mesmo (VERÇOSA, 2011, p,140). Usando dos exemplos elencados pelo
+comercialista em questão, podemos dizer que haverá atividade econômica como fim, quando
+esta busca o lucro como seu principal objetivo, seria o caso das sociedades comerciais e
+mercantis. Por outro lado, seria uma atividade meio, por exemplo quando a exerce não apenas
+pelo lucro, mas como um instrumento para atingir um objetivo: uma associação que vende
+alguns itens artesanais para a manutenção de seu caixa.
+Cumpre ressaltar que este é o critério adotado pelo IBGE e pelo Ministério da
+Fazenda, conforme faz-se notar pela citação extraída da Classificação Nacional das Atividades
+Econômicas:
+“A atividade econômica das unidades de produção deve ser entendida como um
+processo, isto é, uma combinação de ações que resulta em certos tipos de produtos
+ou, ainda, uma combinação de recursos que gera bens e serviços específicos. Logo,
+uma atividade é caracterizada pela entrada de recursos, um processo de produção e
+uma saída de produtos (bens e serviços)”
+
+39
+
+1.6.
+
+A Ordem Econômica Constitucional e os Limites à Atuação Estatal
+
+Conforme ficou demonstrados nas subseções antecedentes a ordem econômica
+constitucional deriva de uma série de princípios fins e princípios fundamentos, que institui o
+modelo de economia capitalista, com prevalência dos princípios da livre iniciativa e livre
+concorrentes, balizados pelo aspecto do desenvolvimento social. Neste sentido, é necessário
+definir os limites de atuação do Estado, visto a provável interferência e conflito entre os
+princípios de liberdade individual, com os preceitos fins da ordem econômica.
+Para tanto, far-nos-emos uso das lições do Professor Dr. Floriano de Azevedo
+Marques Neto (2006)16 que se preocupa com o envolvimento das modalidades de intervenção
+do Estado, visto que podem restringir a atuação do particular no domínio econômico:
+
+A incidência de mecanismos de regulação estatal não é neutra em face do setor
+regulado. Ao manejar competências reguladoras, o Estado arbitra interesses,
+interfere no jogo econômico, contribui para reordenar a competição. (...) este fato
+obriga a que a regulação estatal esteja adstrita a limites, sem os quais poder-se-ia
+paulatinamente erradicar o princípio da liberdade de iniciativa que, para além de ser
+basilar à ordem econômica (artigo 170, caput, da Constituição), (...)".
+
+Entende o autor que existe duas formas de limitação ao abuso do poder
+interventor do Estado, representado por dois vetores de limitação, um em sentido horizontal e
+outro em sentido vertical, relativos à abrangência e à intensidade da regulação exercida.
+Quanto ao eixo horizontal, ou seja, os limites à abrangência da regulação estatal:
+"há que se verificar se existem limites àqueles setores ou campos da atividade
+econômica que podem ser objeto de incidência regulatória direta e específica (...)
+trata-se de saber se existem limites, impostos mesmo ao legislador, para que se
+edifique um arcabouço regulatório incidente sobre uma atividade, indústria ou setor
+econômico (...), está de certo modo posto o debate acerca dos limites da abrangência
+da regulação estatal, mesmo que dilargados por obra do legislador."17
+
+Quanto ao eixo vertical analisa-se os lindes constitucionais para o exercício das
+competências regulatórias:
+
+16
+
+MARQUES NETO, Floriano de Azevedo. Limites à Abrangência e à Intensidade da Regulação Estatal. Revista
+Eletrônica de Direito Administrativo Econômico, Salvador, Instituto de Direito Público da Bahia, nº. 4, nov/dez
+2005, jan 2006. Disponível na Internet: <http://www.direitodoestado.com.br>.
+17
+MARQUES NETO, Op. Cit.
+
+40
+
+"Trata-se de ver, portanto, se existem restrições à intensidade e profundidade da
+regulação". É dizer, "Ainda que corresponda à regulação alguma margem de
+discricionariedade quanto ao momento da ação ou ao instrumento regulatório a
+utilizar, creio que a atividade reguladora (como espécie de função pública) está
+adstrita à dupla incidência de limites e princípios"18.
+
+Conforme vai sendo delineado pode-se entender que a própria Constituição
+limita a atividade reguladora do Estado, a partir da regra da liberdade de iniciativa, ou seja, não
+pode se considerar a possibilidade de ação e intervenção desmedida por parte do Estado. Se
+assim não fosse, seria o caso de um conflito principiológico que colocaria em risco toda a
+higidez do sistema jurídico-econômico constitucional. Devendo ser, destarte, ressaltada a
+presença de razões suficientes e densas que levem à derrogação, ou melhor dizendo, à
+diminuição da abrangência e dos limites do princípio da livre-iniciativa. É o que extraímos do
+pensamento do autor em tela:
+
+"haverá sempre que existir razões suficientemente densas e relevantes a ponto de
+derrogar, parcialmente, o princípio da livre iniciativa. Apenas a presença (a
+conseqüente demonstração) dessa finalidade pública, essa razão de interesse público,
+é que torna legítima e justificável a restrição da liberdade econômica mediante
+incidência da regulação. Somente diante dessas finalidades é que se pode fechar a
+equação posta pela constituição, calibrando liberdade de empresa com regulação
+econômica".
+Assim, no eixo horizontal (abrangência), a limitação é ditada predominantemente
+pelo princípio da subsidiariedade. Já no eixo vertical (intensidade e profundidade)
+tenho comigo que as balizas mais fortes são dadas pelo princípio da
+proporcionalidade".
+
+18
+
+MARQUES NETO, Op. Cit.
+
+41
+
+2.
+
+ATO
+
+DE
+
+CONCENTRAÇÃO
+
+Nº.
+
+08700.005447/2013-12
+
+E
+
+A
+
+CONFORMAÇÃO DO SETOR DA EDUCAÇÃO SUPERIOR PRIVADA
+
+Em 21 de Julho de 2013 as partes Anhanguera Educacional Participações S.A. e Kroton
+Educacional S.A. apresentaram notificação de Ato de Concentração nos termos dos Art. 8819
+da Lei Nº. 12.529 de 2011 ao CADE. De acordo com o referido artigo serão submetidos ao
+CADE os atos de concentração econômica em que pelo menos um dos grupos tenham
+faturamento bruto superior a R$ 400.000.000,00 (quatrocentos milhões de reais) no último
+fechamento anual, e o outro faturamento, equivalente ou superior a R$ 30.000.000,00 (trinta
+milhões de reais).
+No caso em análise, os grupos que realizam o ato de concentração econômica são:
+Grupo Anhanguera "composto por empresas atuantes no setor de educação superior, em cursos
+de graduação, pós-graduação e extensão, nas modalidades presencial e à distância, cursos de
+idiomas e cursos preparatórios para concursos" (CADE, 2013; p.02) e o Grupo Kroton
+"composto por empresas atuantes no setor de educação infantil, ensino fundamental, médio e
+superior, em cursos de graduação e pós-graduação, nas modalidades presencial e à distância,
+cursos de idiomas e cursos livres, atuando, ainda, na produção de materiais didáticopedagógicos e fornecimento de material didático" (CADE; 2013; p. 02). Identifica-se que em
+sua peça exordial as requerentes indicam terem registrado faturamento conjunto superior a R$
+750 milhões, em 2012 (CADE, 2013; p. 03) o que de acordo com a legislação vigente torna
+necessária sua apresentação ao CADE e a prévia aprovação da operação.
+Ainda, é necessário definir as características da operação em análise. A descrição da
+operação foi realizada em conformidade com o Formulário de Procedimento Não-Sumário
+(Anexo I - Resolução CADE Nº. 2/2012), e indica que a concentração dos agentes econômicos
+em questão dar-se-á por meio de incorporação de ações, enquadrando-se como uma fusão que
+
+19
+
+Art. 88. Serão submetidos ao Cade pelas partes envolvidas na operação os atos de concentração econômica em
+que, cumulativamente:
+I - pelo menos um dos grupos envolvidos na operação tenha registrado, no último balanço, faturamento bruto anual
+ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 400.000.000,00
+(quatrocentos milhões de reais); e
+II - pelo menos um outro grupo envolvido na operação tenha registrado, no último balanço, faturamento bruto
+anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 30.000.000,00
+(trinta milhões de reais).
+
+42
+
+abrangerá a totalidade das atividades das partes, não sendo possível estimar o valor envolvido
+na Operação, visto que o valor combinado de ambas as companhias supera o patamar dos
+R$10.000.000.000,00 (dez bilhões de reais).
+A partir desta apresentação inicial, tomar-se-á por base os ensinamentos de Juliana
+Oliveira Domingues e Eduardo Molan Gaban em sua obra Direito Antitruste. É do
+entendimento dos autores que para se analisar uma conduta ou uma operação de concentração
+empresarial sob o prisma da Lei 12.529 de 2011, “é necessário o estabelecimento de
+considerações acerca da estrutura do mercado em foco, num misto de abordagem estrutural e
+comportamental” (GABAN e DOMINGUES, Pag. 92), desta forma e seguindo a experiência
+internacional, deve-se seguir algumas etapas na análise da formação da estrutura do mercado e
+na restrição da liberdade econômica comportamental. Tal é o fato que “a prática do Direito
+Antitruste no Brasil está evoluindo por meio do caminho técnico requerendo um conhecimento
+mais profundado de diversas teorias e ferramentas disponíveis globalmente, quer econômicas
+ou legais, para lidar com as difíceis e complexas operações empresariais em questão”
+(GABAN e DOMINGUES, Pag. 111). Assim, a avaliação dos impactos concorrenciais é
+realizada “por meio do percurso das cinco etapas de análise antitruste, baseada no paradigma
+“Estrutura-Conduta-Desempenho”(E-C-D) da Escola de Harvard: (i) determinação do
+mercado relevante; (ii) determinação da participação e controle de mercado; (iii)
+probabilidade do exercício do poder de mercado; (iv) análise das eficiências produzidas pela
+operação; e (v) avaliação dos custos e benefícios resultantes ao bem-estar social” (GABAN e
+DOMINGUES, Pag. 119).
+Isto posto, é o que se seguirá nas subseções, nas quais buscar-se-á a partir dos
+posicionamentos expressados pelas partes concentrantes, pela superintendência geral do
+CADE, do DEE e pela decisão proferida pela Relatora Ana Frazão, extrair a conformação do
+mercado da educação superior privada ante a legislação antitruste e principalmente sua
+conformidade com a ordem constitucional econômica. Frisa-se que não se trata de um mero
+relatório das posições, mas sim da análise dos posicionamentos ante a ótica de análise de
+concentração horizontal adotada pelos autores.
+
+43
+
+2.1. Do Mercado Relevante
+
+A delimitação do mercado relevante é pressuposto essencial de incidência da Lei
+Antitruste, averiguando a real dimensão do mercado que está sendo afetado para se delimitar o
+universo material e territorial para que seja possível o estabelecimento de uma análise antitruste.
+Para tanto, o Guia para Análise Econômica de Atos de Concentração Horizontal, incorporado
+pela Portaria Conjunta n. 50, de 1º de agosto de 2001, apresenta a definição como “menor
+espaço econômico no qual seja factível a uma empresa, atuando de forma isolada ou a um
+grupo de empresas, agindo de forma coordenada, exercer o poder de mercado”.
+Já o projeto do novo guia de concentrações horizontais, datado de 2016, ainda em análise
+o define como o processo de identificação do conjunto de agentes econômicos (consumidores
+e produtores) que efetivamente reagem e limitam as decisões referentes a preços e quantidades
+da empresa resultante da operação.
+Das definições trazidas podemos extrair a existência de duas perspectivas que devem
+ser consideradas para fim da análise antitruste, referente ao produto ou ao serviço prestado em
+si mesmo, e a perspectiva geográfica.
+A perspectiva do produto ou serviço, também pode ser referida como material ou
+substancial, considerando que a concorrência entre produtos ocorre apenas com aqueles que
+guardam alguma similaridade e pelos quais possam ser substituídos. Trata-se do fenômeno da
+substitutibilidade20, ou seja, pelo lado da oferta possibilidade de os consumidores substituírem
+o produto em questão por outro em caso de um aumento significativo e não transitório de preços
+do primeiro como pelo lado da demanda deve-se verificar se o produto sob análise pode ser
+substituído por outros existentes no mercado. Citando a doutrina americana GABAN e
+DOMINGUES (2012; p. 95) afirmam ser o mercado relevante de produto “o menor mercado
+para o produto no qual a elasticidade da demanda e a elasticidade da oferta são
+suficientemente baixas, para que uma firma com 100% de mercado possa lucrativamente,
+reduzir a produção e aumentar substancialmente o preço acima do nível competitivo”.
+De acordo com a explicação doutrinária e com base no Ato de Concentração em análise
+é possível concluir que o CADE realizou uma análise pormenorizada do mercado de educação
+
+20
+
+VASCONCELLOS e GARCIA, em seu livro Fundamentos de Economia apresentam exemplificam de forma
+clara este fenômeno, a saber: “se um bem X possui um bem substituto Y, ou seja, outro bem similar que satisfaça
+a mesma necessidade, quando o preço do bem X aumenta, coeteris paribus, o consumidor passa a adquirir o bem
+substituto (o bem Y), reduzindo assim a demanda do bem X.” (p.41)
+
+44
+
+superior privado, principalmente no que se refere ao mercado de graduação a distância (EAD),
+conforme se verá adiante.
+A Respeito da graduação na modalidade presencial as partes adotaram como opção
+metodológica aquela sugerida pelo o ex-Conselheiro Elvino Mendonça em seu voto-vista no
+Ato de Concentração Nº. 0812.000046/2011-62, e considera que os diferentes cursos de
+graduação presencial constituiriam, sob a ótica do produto, mercados relevantes distintos,
+devendo cada curso, portanto ser analisado separadamente. Referido posicionamento é também
+adotado pelo parecer da Superintendência-Geral no qual extrai-se, que cada curso de graduação
+presencial tem sido definido como um mercado relevante em si (independentemente se em nível
+de licenciatura, bacharelado ou tecnólogo) (CADE; 2013; p. 2750).
+Em relação ao o mercado de graduação EAD, a afirmação é de que o CADE possui uma
+jurisprudência incipiente, tanto as partes como a Superintendência-Geral reafirmam que o
+CADE não tratou de forma detida o assunto, com exceção do AC 08700.004112/2012-04 no
+qual entendeu que o segmento de EAD poderia ser dividido por curso de graduação. Corrobora
+para tanto o parecer da SG, ao afirmar que “o CADE já possui um razoável número de decisões
+emitidas que permitiriam a formação de sua jurisprudência, a análise do mercado de
+graduação EAD ainda é incipiente, dada a própria característica dessa modalidade de ensino,
+ainda recente no Brasil (CADE; 2013; p. 2750) ”.
+Dos argumentos levantados pelas partes e pela SG, pode-se considerar que a definição
+do mercado relevante de graduação EAD se dá de maneira segmentada, por curso, conforme já
+feito em relação aos cursos de graduação presenciais, pois, tem-se em cada curso um mercado
+relevante distinto por conta de argumentos de substitutibilidade pela demanda e pela oferta.
+Pela demanda, observou-se que a rotatividade de alunos entre cursos dentro de uma mesma IES
+é muito baixa. Já pela oferta, foi possível constatar que há restrições de cunho estrutural
+(infraestrutura, tecnologia, professores) e legal (regulação de acesso ao mercado de ensino
+superior e para a oferta de novos cursos) que dificultam uma contestação do mercado de
+maneira tempestiva por uma IES que já atue em mercado (curso) correlato. Ainda, considerouse a separação em mercados relevantes distintos os cursos na modalidade presencial daqueles
+ofertados na modalidade à distância.
+Para os cursos de pós-graduação presencial e a distância o entendimento é o mesmo, ou
+seja, o mercado relevante de cursos de pós-graduação é segmentado por áreas de conhecimento,
+agrupando-se cursos que sejam substituíveis pela demanda (requisitos de ingresso semelhantes)
+e pela oferta (compartilhamento de infraestrutura), utilizando-se classificação empregada pelo
+
+45
+
+Ministério da Educação - MEC e pelo Instituto Nacional de Estudos e Pesquisas Educacionais
+Anísio Teixeira - INEP na formatação do Censo da Educação Superior.
+A definição de mercado da pós-graduação para a modalidade presencial, para as partes
+deve ser entendida a partir de parecer emanado pela Superintendência Geral relativo ao AC
+08700.004112/2012-0421, visto indicar que tanto sob o lado da oferta, quanto pelo lado da
+demanda, há um elevado grau de substituição a justificar uma definição de mercado do produto
+de forma mais abrangente, propondo que os cursos fossem analisados, tanto de forma agrupada,
+quanto por área geral de conhecimento. Complementa esta opção alegando que um eventual
+troca de curso de pós-graduação após seu início, em tese, traria menores custos ao aluno que
+fizesse tal opção, dado o prazo de duração mais curto desses cursos; que inúmeros cursos de
+pós-graduação compartilham disciplinas, o chamado "tronco comum", diminuindo os custos de
+uma eventual troca; ainda que os cursos de pós-graduação oferecem um número maior de
+opções potencialmente substituíveis, dado que para cada área de formação na graduação é
+comum existir diversos segmentos possíveis de serem considerados para uma especialização;
+sob aspecto regulatório, os cursos de pós-graduação lato sensu não dependem de autorização,
+reconhecimento ou renovação de reconhecimento; e por fim, há maior flexibilidade para as IES
+no tocante à possibilidade de criação/extinção de cursos de pós-graduação lato sensu, além de
+haver maior compartilhamento de recursos dentro de uma mesma área de concentração. Todos
+esses fatores justificariam o agrupamento dos cursos de pós-graduação por área geral de
+conhecimento, conforme entendimento das partes concentrantes.
+Em seu turno, a SG considerou o fato de que uma Universidade só pode expandir sua
+área de atuação na graduação presencial para outros municípios dentro do mesmo estado em
+que fica o Campus sede. Por outro lado, a expansão de sua atuação na modalidade EAD pode
+ocorrer ao longo de todo o território nacional, por meio da abertura de novos polos. Desta forma,
+conclui que os cursos de graduação ofertados na modalidade EAD não se confundem com
+aqueles ofertados de maneira presencial, cada modalidade perfazendo, portanto, um mercado
+relevante distinto. Desta forma, considerando o baixo custo de troca entre os cursos de pósgraduação lato sensu - dada a curta duração destes cursos -, as insignificantes restrições de
+ordem regulatória e a possibilidade de compartilhamento de infraestrutura entre os diversos
+cursos, a SG, em linha com precedente mencionado, segmentou o ensino de pós-graduação lato
+sensu, presencial e a distância, por área de conhecimento
+
+21
+
+Ato de Concentração n° 08700.004112/2012-04, de interesse da Kroton e da ítala Participações Ltda. Prestação
+de Serviços Educacionais, julgado em 19 de dezembro de 2012
+
+46
+
+Todavia, esta não foi a opção adotada pela relatora em seu voto. Em sentido contrário
+às partes e à SG é expressa ao afirmar que cada curso de graduação ofertado na modalidade
+presencial e cada curso ofertado na modalidade EAD constitui um mercado relevante distinto.
+Neste sentido, a relatora Ana Frazão, justificou a posição ao indicar haver jurisprudência
+consolidada no assunto, apresentando, modo abreviado, um breve levantamento da
+jurisprudência do CADE considerando que sob o aspecto do produto.
+A seu ver, inicialmente considerava-os segmentados por tipo de ensino, isto é, divididos
+em: ensino fundamental, médio, superior, idiomas e profissionalizante, conforme
+posicionamento do AC 08012.0l161l/2007-3; em seguida, passou-se a admitir, além da
+segmentação entre graduação e pós-graduação, também a subdivisão do ensino superior por
+tipo de curso, sendo cada curso um mercado relevante distinto (AC no 08012.011435/2008-1);
+para em sequência segmentar o mercado por áreas de conhecimento, agrupando cursos que
+sejam substituíveis pela demanda caracterizado por requisitos de ingresso semelhantes e pela
+oferta caracterizado pelo compartilhamento de infraestrutura; para, por fim, a partir do AC nº.
+08700.004112/2012-04 considerar, sob o aspecto do produto, a definição do mercado relevante
+de graduação EAD de maneira segmentada, por curso, conforme já feito em relação aos cursos
+de graduação presenciais.
+A perspectiva geográfica do mercado relevante, por sua vez, indica o território no qual
+as empresas interessadas intervêm na oferta e demanda, ou seja, o alcance dos efeitos das
+condutas investigadas ou das estruturas resultantes de operações empresariais analisadas sobre
+condições de concorrência e rivalidade. Em suma, é a abrangência física dos efeitos das
+condutas de concorrentes exige a observância de aspectos identificado por GABAN e
+DOMINGUES (2012; p. 97) como:
+“(i) hábitos dos consumidores, em que se verifica se o consumidor está disposto a se
+afastar do local onde está para adquirir outro produto ou serviço similar ou idêntico;
+(ii) incidência de custos de transporte (custos do frete), em que se verifica a diferença
+dos preços entre os produtos locais e aqueles que devem ser transportados pode ser
+tão alta que impede a relação de concorrência entre os fornecedores, isolando-os em
+diversos mercados relevantes geográficos; (iii) características qualitativas do
+produto, tais como durabilidade, resistência do transporte etc., o que pode encarecer
+o custo de seu transporte e até mesmo impedir que isso ocorra; (iv) barreiras
+regulatórias de todos os gêneros, as quais podem recair sobre a produção ou
+comercialização, ocasionando distorções nas relações de concorrência, de um lado,
+ou impedir a geração de efeitos, de outros lado; e (v) existência de barreiras à entrada
+de novos agentes econômicos no mercado, em que se avalia a permeabilidade do
+mercado ao ingresso de novos agentes econômicos, o que implica necessariamente a
+delimitação geográfica do mercado”.
+
+47
+
+Para a delimitação do mercado relevante geográfico para o mercado do ensino superior
+quanto aos cursos de Graduação Presencial era o entendimento do CADE22 a utilização da
+metodologia das Curvas de Kernel devendo serem analisadas cinco etapas, a saber: obtenção
+do número de alunos por bairro; cálculo da distância, em linha reta, entre os bairros em que
+residem os alunos e as instalações da IES; estimativa de intensidade de ocorrência do evento
+por área; cálculo de função de densidade acumulada, relacionando distância de IES e número
+de alunos; e utilização de regra de bolso para definição do raio de influência da IES, utilizado
+para a delimitação do mercado geográfico.
+Entretanto, as partes não adotam esta opção metodológica e entendem que tal
+metodologia não reflete a dinâmica competitiva do mercado de ensino superior no Brasil, no
+mais, consideram não ter tido tempo hábil para a produção de referidos estudos, isto posto,
+utilizam como método alternativo de verificação das sobreposições entre suas atividades no
+segmento com base em suas respectivas atuações por município, considerando a área da
+abrangência da IES a um único município.
+Em relação à Graduação EAD indica que eram considerados os principais fatores para
+definir a perspectiva geográfica a possibilidade de concorrentes potenciais entrarem no mercado
+em curto espaço de tempo e sem grandes investimentos, sobretudo diante da facilidade para
+abertura de novos polos de apoio por IES que já atuam no mercado em outras localidades, ou
+seja, utiliza-se do conceito de entrada não comprometida; e ainda considera o fato de as políticas
+de preços adotadas pelas IES serem razoavelmente uniformes para todo o território. Tal
+posicionamento, é contrariado pelas partes que entendem que a delimitação geográfica mais
+adequada seria a do âmbito municipal, e não no nacional, visto a necessidade de deslocamento
+do aluno ao polo presencial, ainda que pouco, fator limitante para a captação de alunos.
+No mesmo sentido, indica a SG haver uma mudança no paradigma de análise até então
+adotado a partir do voto do ex-Conselheiro Elvino de Carvalho quando da análise do AC n°
+08012.000046/2011-62. Entretanto foi acordado entre SG e as partes que as sobreposições
+fossem informadas inicialmente por município, incluindo nesse cenário outros municípios
+próximos que implicassem alguma sobreposição em razão de conurbação urbana existente entre
+eles. Tal método possibilitou descartar localidades em que não haveriam sobreposições entre
+as requerentes, e incluir localidades em que haveria potencial de sobreposição, para tanto fezse utilização do raio dê 15 quilômetros, pois cobriria toda a área dos municípios elencados, ou
+seja, a utilização do município como parâmetro para o mercado relevante não traria impacto
+22
+
+Ato de Concentração no 08012.000046/2011-62; Ato de Concentração n° 08012.00444/2011-91; e Ato de
+Concentração no 08012.001288/2012-54
+
+48
+
+para análise por não excluir qualquer concorrente ou eventual sobreposição entre as partes.
+Após identificados os municípios em que ambas as requerentes atuam, foram levantados quais
+os cursos dentro de cada um desses municípios haveria sobreposição entre as atividades das
+requerentes.
+A Conselheira Ana de Oliveira Frazão adotou a sugestão da Superintendência-Geral no
+sentido de considerar o mercado relevante geográfico para os cursos de graduação presencial
+como municipal. E reafirmou que referida medida teve por objetivo simplificar uma análise.
+No mesmo sentido, complementou ao indicar o mesmo critério utilizado no mercado de
+graduação presencial para definir o mercado de pós-graduação presencial, neste caso, como
+municipal.
+Em relação à definição municipal como dimensão geográfica para os cursos de
+graduação presenciais, a decisão destacou que, na maioria das vezes em que o CADE aplicou
+o raio de influência da IES a partir da residência dos alunos matriculados, este ficou entre 15 e
+25 quilômetros de distância da IES. Com base nisto e, considerando os municípios em que
+houveram sobreposição no caso, este raio de influência coincide com o tamanho do próprio
+municípios.
+Quanto à dimensão geográfica para os cursos de graduação EAD, firmou-se o
+entendimento de que haveria duas definições: nacional, devido aos elevados investimentos em
+estrutura de aulas online, tutoria, ganhos de escala em material didático; e local, limitada ao
+município onde se situam os polos de apoio das instituições (próximos aos alunos).
+Cumpre dizer que também houve alteração de entendimento. Considerava-se que, que,
+pela demanda, a propensão ao deslocamento por parte do estudante era uma variável dependente
+da frequência com que ele tem de se locomove ao polo de apoio para realizar as atividades
+presenciais obrigatórias, como determina a regulação do ensino à distância. Por conta disso, e
+assumindo que a frequência das atividades presenciais nos cursos EAD é reduzida em
+comparação com os cursos totalmente presenciais, a SG considerou que o escopo do mercado
+relevante geográfico da graduação à distância deveria, a princípio, ser mais amplo do que no
+mercado de graduação presencial. Assim, todas as IES que atuam no mercado nacional de
+graduação EAD seriam potenciais concorrentes entre si, ainda que não sejam concorrentes
+efetivas em cada um dos municípios brasileiros. Considerou ainda que a realidade do mercado
+em análise relativizaria algumas das premissas anteriormente adotadas, tendo em vista que a
+concorrência em nível nacional norteia decisões de grande relevância para o mercado, tal como
+a oferta de cursos; mas, evidências de que pela demanda claramente o fluxo de estudantes é
+proveniente, em sua maioria, do próprio município em que o polo está localizado.
+
+49
+
+A Conselheira entendeu que tanto a dimensão local quanto a nacional trazem aspectos
+relevantes para a análise de concentrações para os cursos de graduação EAD. Como fatores que
+indicam um mercado nacional foram destacados as tecnologias de informação e comunicação
+permitem o acesso e a interação dos estudantes e professores a partir de qualquer lugar,
+independentemente da distância; a autorização do MEC para que a IES oferte um curso abrange
+todo o território nacional; uma IES oferta aos alunos dos diferentes polos presenciais o mesmo
+curso, com a mesma estrutura, mesmo material didático, mesmo corpo de professores e,
+inclusive, com diversas atividades comuns; a avaliação empreendida pelo Ministério da
+Educação (Índice Geral de Cursos) é nacional e única; o aluno demandante de ensino superior
+também considera em sua escolha os serviços que receberá, de forma virtual e unificada, no
+plano nacional – razão pela qual as estratégias de marketing das IES privadas são
+essencialmente nacionais. Por outro lado, não se pode desconsiderar os fatores locais que
+afetam o mercado de cursos de graduação a distância: exigência regulatória que determina a
+presença do aluno em atividades obrigatórias desenvolvidas nos polos presenciais (avaliações,
+estágios obrigatórios, defesa de trabalhos de conclusão de curso, atividades relacionadas a
+laboratórios de ensino, etc.); exigências regulatórias para implantação de novos polos; a
+demanda concentra-se nos polos municipais, ou seja, a maioria dos alunos reside nos
+municípios onde estão os polos presenciais; alguns modelos de negócios das IES exigem maior
+presença dos alunos nos polos presenciais do que o mínimo determinado por lei, podendo
+chegar a um ou dois dias por semana; os polos presenciais servem de pontos de acesso a
+tecnologias de informação e comunicação para aqueles alunos que não dispõem de recursos
+como computadores ou acesso à internet de banda larga. Assim, definiu-se mercado relevante
+da graduação a distância em sua dimensão geográfica como nacional e municipal.
+Para as atividades de pós-graduação EAD considerando o espaçamento entre as
+atividades presenciais obrigatórias, e a desnecessidade de credenciamento de polos presenciais
+para a oferta dessas atividades por parte da IES, a SG entendeu que a concorrência entre os
+cursos de pós-graduação à distância ocorre em nível nacional, com todas as IES autorizadas
+para oferta de cursos nessa modalidade potencialmente competindo por consumidores (alunos)
+em qualquer parte do território brasileiro, importando em uma definição nacional para esse
+mercado.
+Não se considerou a dimensão local visto não ter a mesma importância, dado que as
+atividades presenciais obrigatórias desses cursos podem ser realizadas em locais distintos da
+sede ou dos polos credenciados e, adicionalmente, a expansão da oferta de pós-graduação lato
+
+50
+
+sensu a distância não depende do credenciamento de polos presenciais. Assim, o mercado
+relevante para cursos de pós-graduação lato sensu a distância permaneceu como nacional.
+Desta forma, temos, em breve síntese da definição de mercado relevante adotada pelo
+CADE no mercado de educação superior. Nos mercados de Graduação presencial na dimensão
+do produto o mercado relevante é cada curso, já na dimensão geográfica é o municipal. Nos
+cursos de Graduação na modalidade EAD, a dimensão do produto é cada curso e a dimensão
+geográfica, pelos motivos expostos anteriormente são os municípios e o mercado nacional
+conjuntamente. Para a pós-graduação, tanto em sua modalidade presencial, como em sua
+modalidade EAD a dimensão do produto é caracterizada pelos cursos agrupados por área de
+conhecimento, diferenciando-se em relação a dimensão geográfica, enquanto a primeira é
+municipal, a outra é nacional. Tal síntese é sistematizada na Tabela 1 - Síntese da definição de
+mercado relevante adotada pelo CADE no mercado de educação superior.
+
+2.2. Parcela Substancial do mercado e Probabilidade de Exercício de Poder de Mercado
+
+A participação substancial de mercado é condição necessária, mas não suficiente à
+viabilização da operação, guardando íntima relação com o desempenho de posição dominante
+em determinado mercado relevante (GABAN e DOMINGUES, 2012, p.97). O seu
+desenvolvimento se dá por meio da análise estrutural a partir da avaliação e da determinação
+de cada mercado relevante e da parcela de mercado, na qual cada agente econômico efetivará
+sua participação. Para a doutrina antitruste o principal fator utilizado para estabelecer domínio
+é o market share da empresa em referência (GABAN e DOMINGUES, 2012, p.98) e tem sua
+comprovação a partir da utilização de diversos fatores, dos quais nenhum é decisivo por si só,
+mas sim, quando combinados.
+De acordo com o disposto no Art.36§2º23 da Lei Antitruste, a posição dominante de uma
+empresa ou grupo de empresas, é presumida quando estas forem capazes de alterar unilateral
+ou coordenadamente as condições de mercado ou quando controlar 20% (vinte por cento) ou
+mais do mercado relevante. Todavia conforme se verá mais adiante, o CADE pode alterar este
+percentual devido a situações específicas do setor econômico em análise. Desta forma, entende
+
+23
+
+Art. 36 § 2º Presume-se posição dominante sempre que uma empresa ou grupo de empresas for capaz de alterar
+unilateral ou coordenadamente as condições de mercado ou quando controlar 20% (vinte por cento) ou mais do
+mercado relevante, podendo este percentual ser alterado pelo Cade para setores específicos da economia.
+
+51
+
+a doutrina que referido critério é dotado de certa flexibilidade, sendo permitido sua adaptação
+à estrutura de um mercado específico, no caso do presente trabalho o mercado da educação
+superior privada, pois pode ocorrer que nenhuma das outras empresas do mercado “possua
+dominância suficiente a irradiar efeitos relevantes se nenhum dos outros participantes for
+suficientemente forte para apresentar rivalidade a sua independência” (GABAN e
+DOMINGUES, 2012, p.99).
+A análise de probabilidade de exercício de poder de mercado objetiva avaliar se as
+requerentes são capazes de interferir negativamente nas condições mercadológicas, ou seja,
+pressupõe que uma empresa possa controlar parcela substancial de mercado e, quando for capaz
+de restringir quantidades que oferta, provocar variações nos preços vigentes por um período
+razoável de tempo (GABAN e DOMINGUES, 2012, p.99). Avalia-se também se o mercado
+apresenta as condições necessárias e suficientes para que uma eventual tentativa de exercício
+de poder de mercado seja efetivamente contestada por rivais, novos ou preexistentes.
+De acordo com o Departamento de Estudos Econômicos (DEE) do CADE24 as
+participações de mercado no segmento de ensino superior privado têm sido estimadas em
+termos do número de alunos matriculados na IES em relação ao total de alunos matriculados de
+todo o mercado relevante, considerando as dimensões de produto e geográfica previamente
+definidas. No mais, para análise do Ato de Concentração tema do presente estudo fez-se
+necessária a utilização de filtros na operação em razão do elevado número de mercados
+relevantes em que foram identificadas sobreposições.
+É do entendimento das partes que a combinação dos negócios dos Grupos resultará em
+sobreposições de oferta de cursos superiores de graduação e pós-graduação nas modalidades de
+ensino presencial e a distância, todavia, não resultando em aumento da probabilidade de
+exercício de poder de mercado para a ampla maioria dos casos em que se verificam
+sobreposições, pois a maior parte das concentrações são moderadas, devido à elementos como:
+presença local de fortes rivais, com tradição naquela localidade; inexistência de barreiras
+significativas à expansão de outros concorrentes não presentes localmente; o ingresso por
+vestibular, logo a captação de clientes, é semestral gerando reiterados momentos de
+concorrência; a operação não elimina concorrência de rivais, em âmbito nacional, de grande
+porte e principalmente devido a expectativa de crescimento acentuado para a área.
+O principal argumento utilizado pelas partes para justificar a operação é que apesar das
+semelhanças na oferta dos produtos e serviços prestados, estes, não resultam necessariamente
+24
+
+CADE, Cadernos do CADE: Atos de Concentração no Mercado de Prestação de Serviços de Ensino Superior.
+Maio/2016; Brasilia/DF. Pag. 43
+
+52
+
+em concentrações de mercado, seja porque atuam em regiões geográficas distintas (CADE;
+2013; p. 27).
+Não obstante a argumentação das partes, suas afirmações são contestadas pela SG tendo
+em vista que o contexto regulatório dos últimos anos não é claro. A alegada baixa sobreposição
+é um efeito das estratégias de expansão das empresas, ou da dificuldade associada a credenciar
+novos polos de apoio presencial, condição necessária para ofertar cursos em novos município,
+e completa que apesar da facilidade inicial do setor, a rápida expansão implicou em uma menor
+qualidade dos cursos e condições de infraestrutura dos polos, afetando negativamente a
+formação dos alunos; o que implicou em um aumento das exigências regulatórias a partir do
+Decreto nº. 5622 de 2005 (CADE; 2013; p. 3353).
+Ao analisar as participações de mercados das requerentes, sobretudo, no mercado
+nacional, verificou-se que, se fosse considerado o percentual 20%, usualmente empregado na
+análise antitruste na definição de posição dominante, o número de mercados problemáticos se
+ampliaria significativamente. Desta forma, afirmou o DEE, contundentemente, que a relativa
+baixa sobreposição, quando comparada com o total de municípios em que as entidades atuam,
+pode estar associada a uma barreira de entrada regulatória: a dificuldade de cadastramento de
+novos polos.
+A Conselheira Ana de Oliveira Frazão optou, em seu voto, por utilizar o patamar
+indicado pelo parecer da Superintendência-Geral25 identificando como critérios de análise das
+condições de rivalidade, em especial, no mercado de graduação em sua modalidade presencial:
+a evolução das participações de mercado, com observação do comportamento competitivo entre
+as IESs instaladas; a análise da capacidade ociosa das concorrentes e da possibilidade de sua
+expansão, com o objetivo de verificar se as concorrentes existentes são capazes de absorver
+desvios de demanda; a avaliação do preço e qualidade das requerentes em relação às
+concorrentes existentes no mercado, com a consideração do grau de substitutibilidade entre
+esses agentes econômicos e; por fim, o tamanho das IESs envolvidas, requerentes ou
+concorrentes, e como essa característica afeta fatores como reputação da IES e a disponibilidade
+de docentes no mercado (CADE; 2013; p. 3756).
+Após a análise de todos os mercados de graduação presencial em que a operação gera
+sobreposição horizontal das atividades das requerentes, a avaliação das condições de entrada e
+
+25
+
+Parecer Técnico nº 388/Superintendência-Geral, de 23/12/2013, que trata do ato de concentração nº
+08700.007640/2013-98 (Requerentes: Rede Internacional de Universidades Laureate Ltda.; Faculdades
+Metropolitanas Unidas – Associação Educacional; Associação de Cultura e Ensino; União Educacional de São
+Paulo)
+
+53
+
+rivalidade apontaram que sete mercados relevantes, no quais não são apresentados níveis de
+rivalidade suficiente para afastar a ocorrência de um eventual exercício de poder de mercado
+por parte das requerentes26. Tal situação, exigiu a avaliação de eventuais eficiências de
+mercado, com o intuito de verificar se essas são capazes de superar os problemas concorrenciais
+identificados. Cabe ressaltar, que o voto da Conselheira Ana Frazão seguiu linha do que foi
+exposto pela SG, indicando, destarte, que os potenciais efeitos concorrenciais para os alunos
+desses mercados relevantes podem ser substancialmente graves, de forma que a análise das
+eficiências dessa operação deverá ser realizada de maneira bastante parcimoniosa.
+Por sua vez, em relação ao mercado relacionado com a Graduação em sua modalidade
+EAD, além do patamar de concentração de 30%, adotou-se um critério de nexo de causalidade,
+para que se considere haver possibilidade de aumento do risco de exercício de poder de
+mercado: o acréscimo de participação proporcionado pela requerente de menor market share
+deve ser de no mínimo 5%. Neste sentido o cálculo do HHI foi feito apenas para aqueles
+mercados em que havia alguma dúvida a respeito do nexo de causalidade entre a operação e a
+criação ou reforço de uma posição dominante, geralmente ocorrendo quando do acréscimo de
+participação de mercado proporcionado por uma das partes corresponde a uma pequena parcela
+de market share. Neste caso deve ser indicado que a relatora examinou a possibilidade de
+exercício de poder de mercado: por curso, em nível nacional e por curso, em nível municipal,
+nos mercados em que foram identificadas sobreposições, acolhendo, assim, a sugestão da SG.
+Em relação à probabilidade de exercício de poder de mercado no mercado de pósgraduação presencial a avaliação da estrutura de mercado nos cursos em que foram identificadas
+sobreposições revelou que em todos os mercados há rivalidade suficiente para afastar as
+preocupações concorrenciais. Também, não foi possível detectar evidências de problemas
+concorrenciais no mercado de pós-graduação EAD, permitindo a seguinte conclusão por parte
+da relatora (CADE; 2013; p. 3750):
+A avaliação do mercado permite a concluir pela existência de entrada provável,
+tempestiva e suficiente, além de rivalidade efetiva, que aliadas à maior
+flexibilidade da regulamentação para esse segmento de mercado, levam a cenário
+no qual não se verifica a probabilidade de exercício de poder de mercado por
+parte das requerentes em decorrência da operação.
+
+É importante identificar, conforme demonstrado no decorrer deste tópico, que a
+presença de barreiras à entrada e a dificuldade ou impossibilidade de substituição do produto
+está intimamente ligada com a possibilidade de exercício de poder de mercado, corrobora para
+26
+
+Esses são: Cuiabá/Várzea Grande - Engenharia Civil, Turismo e Ciências Contábeis; Rondonópolis/MT Administração, Direito, Ciências da Computação e Ciências da Computação.
+
+54
+
+esta afirmativa a posição da doutrina (GABAN e DOMINGUES, 2012, p.100) ao dizer que: “a
+maioria dos casos afeitos à defesa da concorrência está relacionada com a verificação de
+poder de mercado, e, nessa verificação, as barreiras à entrada são necessárias ao exercício
+efetivo deste poder”. Isto posto, nos itens seguintes analisar-se-á estas barreiras em
+conformidade com o caso em análise.
+
+2.2.1. Das Barreiras à Entrada
+
+Como visto no tópico anterior a detenção de parcela substancial de mercado tem sua
+comprovação a partir da utilização de diversos fatores, dos quais nenhum é decisivo por si só,
+mas sim, quando combinados, desta forma a mera detenção de parcela substancial de mercado
+não caracteriza a exercício de posição dominante. Dentre estes fatores encontram-se as barreiras
+à entrada, ou seja, qualquer fator do mercado que ponha um potencial competidor eficiente em
+desvantagem com relação aos agentes econômicos estabelecidos (GABAN e DOMINGUES;
+2012; p. 101). Para os autores Gaban e Domingues (2012; p.101) existem dois tipos de barreiras
+à entrada, a saber: as barreiras naturais, decorrentes da própria formação ou estrutura do
+mercado e da dimensão de seus participantes; e barreiras artificiais, aquelas criadas por
+comportamentos ou omissões dos agentes econômicos, objetivando preservar uma posição de
+privilégio competitivo no mercado; e genericamente as definem da seguinte forma:
+“(...)conjunto de circunstancias que permeiam as atividades do mercado relevante,
+estabelecendo as condições de entrada, em termos de custos, aprendizagem, tempo
+de adaptação, condições de desenvolvimento e retorno de investimentos, do agente
+em determinado segmento da economia"
+
+Em seu parecer a SG asseverou que a abertura de um curso novo depende da
+complexidade e nível de investimento requerido para a sua oferta. Há cursos que exigem
+investimentos elevados, tais como laboratórios, infraestrutura e docentes com formação
+específica e autorização de órgão de classe profissional. Desta forma, podemos concluir, no
+mesmo sentido do voto da relatora (CADE; 2013; p.3754) que a entrada de um novo
+concorrente no mercado de ensino superior pode ocorrer de duas maneiras: uma entrada
+comprometida, quando se trata de um agente novo, que não atua em mercado correlato; ou não
+comprometida, por parte de um agente que já atua em mercado correlato ou no mesmo mercado
+em outra região.
+
+55
+
+A ausência de reputação/conhecimento por parte dos alunos; a necessidade de altos
+investimentos e/ou custos irrecuperáveis; e a regulação setorial caracterizam uma série de
+obstáculos e barreiras à entrada no caso de uma entrada comprometida.
+Existem três condições para a caracterização de uma entrada não comprometida, deve
+haver, ao menos um concorrente com autonomia universitária para criar/modificar cursos
+superiores e quantitativo de vagas ofertadas na região delimitada pelo mercado relevante
+geográfico e que ainda não oferte o curso analisado; perspectiva de crescimento do mercado,
+cuja taxa deve ser suficiente para viabilizar a abertura de uma nova turma/curso por uma IES
+que já atua no mercado relevante, tornando a entrada lucrativa e por fim entrante deve atuar em
+uma região em que não haja escassez de docentes. Nas palavras da relatora (CADE; 2013;
+p.3754) “a entrada não comprometida depender das condições do mercado e dos concorrentes
+existentes, pode ser um remédio efetivo para um eventual exercício de poder de mercado”.
+No caso em análise, o entendimento das partes é baseado no precedente do CADE no
+AC Nº. 08012.00876/2011-53 de lavra do Conselheiro Marcos Paulo Veríssimo no qual indica
+que o ensino superior no Brasil é altamente regulado, em especial pelo Governo Federal, por
+meio do Ministério da Educação, tendo suas bases na Lei de Diretrizes e Bases e no Sistema
+Nacional de Avaliação da Educação Superior, além da regulamentação infralegal, entretanto, a
+partir do movimento de desregulamentação do mercado promovido para o incentivo dos cursos
+de EAD esta barreira foi superada. No mais, indica não haver preocupações concorrenciais
+tendo em vista a expansão da demanda do serviço ofertado.
+Nota-se a tentativa das partes em garantir o exposto na PI nº. 50/2001, em relação às
+barreiras de entrada, visto esta considerar uma entrada efetiva quando for tempestiva, ou seja,
+se puder ocorrer em um prazo de até aproximadamente 2 (dois) anos, sendo que se entende
+como provável o fato de a entrada ser lucrativa e viável. E suficiente será considerada a entrada
+quando permitir que todas as oportunidade de venda sejam adequadamente exploradas pelos
+entrantes em potencial.
+Esta afirmação das partes é categoricamente confrontada no parecer do DEE visto que
+inicialmente houve facilidade no setor, entretanto, a rápida expansão implicou em uma menor
+qualidade dos cursos e condições de infraestrutura dos polos, afetando negativamente a
+formação dos alunos; levando a um aumento de exigências regulatórias a partir do Decreto nº.
+5622 de 2005, e afirma que relativa baixa sobreposição, quando comparada com o total de
+municípios em que as entidades atuam, pode estar associada a uma barreira de entrada
+regulatória: a dificuldade de cadastramento de novos polos.
+
+56
+
+O DEE em seu parecer aborda dois temas adicionais que entende ser de relevância para
+a análise dos efeitos da concentração no mercado de ensino a distância: a importância da marca
+nesse seguimento e a diminuição da concorrência potencial entre as requerentes; analisando os
+pareceres econômicos apresentados pelas partes relativos à análise do modelo de precificação,
+a adequação aos dados do modelo quantitativo apresentado, bem como a validade de suas
+conclusões. Tem, assim, no papel do investimento em marketing e a importância de uma marca
+forte no mercado de ensino superior a distância elementos de avaliação sobre os possíveis
+efeitos no mercado e da diminuição da concorrência potencial (CADE, 2013; p. 3336). Além
+disso, entende não haver evidencias concretas de que nesse mercado a entrada é relativamente
+fácil e que a rivalidade é elevada, logo não haveria, necessariamente, pressão competitiva de
+novos entrantes, o que forçaria as Requerentes a baixar seu preço para níveis mais competitivos.
+Ressalta, ainda, que em relação à expansão da demanda, o Conselheiro Eduardo Pontual
+Ribeiro em Voto-vista referente ao ato de concentração nº 08012.003886/2011-87, de
+20/11/2013 ponderou que o crescimento intenso do setor verificado até 2007 estava arrefecendo
+e com tendência a se estabilizar em taxas menores, tendo em vista redução das taxas de
+natalidade, redução nas matrículas nos ensinos fundamental e médio e na educação de jovens e
+adultos (EJA), apontadas pelo Censo Escolar de 2012 do MEC, entendendo que esse não mais
+poderia ser apontado como um fator facilitador de entrada de novas firmas.
+Desta forma, pela análise dos argumentos apresentados os fatores, que fornecem
+barreiras naturais ligadas intrinsicamente à dinâmica do mercado de ensino superior, incluem a
+economias de escala e os investimentos em marca. Para estas conclusões o DEE baseia-se no
+precedente estabelecido pelo voto do Conselheiro Eduardo Pontes Ribeiro no AC Nº.
+08012.006610/2011-51, considerando a prestação de ensino superior como um produto
+diferenciado, nas palavras do relator:
+"Considerando o ensino superior como um produto diferenciado (e certamente um
+bem de experiência), seguirei a análise de rivalidade observando o posicionamento
+estratégico das concorrentes, buscando identificar a existência de empresas com
+modelos de negócios ou com combinações de preços e qualidade similares às
+Requerentes. Nesse diapasão, empresas posicionadas estrategicamente mais
+próximas seriam aquelas com maiores taxas de desvio com relação às Requerentes,
+e, também as que poderiam tentar absorver mais facilmente os consumidores, frente
+a movimentos de exercício de poder de mercado das Requerentes. O posicionamento
+estratégico utiliza, em geral, as seguintes dimensões competitivas: preços, qualidade
+e marca"
+
+57
+
+No mais, baseado no parecer apresentado, pode-se classificar as instituições que fazem
+parte da operação como instituições de massa27, pois, possuem como principais características
+mensalidades mais baixas e número de alunos muito grande visando prover qualificação para o
+mercado de trabalho e atender às expectativas de ascensão profissional e social de seus alunos
+(GARCIA; 2005).
+Neste contexto a marca desempenha papel importante nas estratégias de crescimento e
+consolidação das empresas que a diferenciação dos produtos no mercado é um fator que pode
+facilitar e agravar a geração de efeitos anti-concorrenciais, especialmente no que se refere ao
+exercício unilateral de poder de mercado pela firma fusionada resultante, tendo por
+consequência a fidelização dos consumidores àquela marca já conhecida de sua preferência,
+tornando-o mais disposto a pagar um valor maior pelo produto dessa marca com a qual se
+identifica, a diferenciação de produtos dá à firma produtora maior poder de mercado, o que lhe
+permitiria praticar preços acima do nível de concorrência perfeita. Desta forma, a marca pode
+ser entendida como uma barreira à entrada significativa assim como um forte condicionante da
+rivalidade entre os agentes, especialmente em um mercado de produtos diferenciados.
+Por sua vez, pode-se entender que economias de escala ocorrem quando o custo médio
+por unidade produzida diminui à medida que aumenta a escala ou a magnitude da produção
+total de uma empresa. Dada a sua clareza utilizaremos a definição apresentada pelo DEE no
+Cadernos do CADE: Atos de Concentração no Mercado de Prestação de Serviços de Ensino
+Superior, in verbis:
+“(...) as IES usufruem de economias de escala quando aumentam o número de alunos
+matriculados de forma a diluir os custos da infraestrutura necessária para prestar o
+serviço (polos presenciais, sistemas de comunicação, professores, produção de
+conteúdo e material didático, logística de distribuição, etc.), assim, à medida que
+aumenta o número de alunos, o custo médio da prestação do serviço por aluno
+diminui. Tal fato é reconhecido pelas próprias empresas do setor, como a
+Anhanguera Educacional: O material produzido esse formato é transmitido
+simultaneamente para diversas salas de aula em todo o Brasil. Criando grande efeito
+de escala e diluindo de forma substancial os custos de produção. Tal efeito de escala
+possibilita a contratação de professores e palestrantes altamente diferenciados,
+líderes em seus campos de atuação, a um custo relativamente baixo quando
+considerado o número de alunos utilizando o conteúdo”28.
+
+27
+
+Maurício Garcia classifica as instituições de ensino superior privadas em quatro quadrantes: "instituições de
+elite" (preços altos e quantidade de alunos pequena; ex: IBMEC, FGV), "quadrante dos sonhos" (preços altos e
+quantidade de alunos grande; ex: PUC-SP, PUC-RIO), "instituições de massa" (preços baixos e quantidade de
+alunos elevada; ex: Anhanguera, Estácio) e "quadrante do pesadelo" (preços baixos e quantidade de alunos
+pequena; ex: faculdades locais). GARCIA, M. Revista Ensino Superior, São Paulo, n.77, p.41-43, fev. 2005
+28
+CADE, Cadernos do CADE: Atos de Concentração no Mercado de Prestação de Serviços de Ensino Superior.
+Maio/2016; Brasilia/DF. Pag. 46
+
+58
+
+Outro fator relacionado ao mercado de educação superior à distância apontado pelo
+DEE, é a diferenciação da marca, sendo esta uma estratégia competitiva importante. Diante
+disso, as empresas investem muito em ações de publicidade e marketing visando consolidar a
+sua marca, que é o meio pelo qual elas procuram transmitir aos consumidores as suas
+características institucionais e seus diferenciais competitivos com o intuito de aumentar sua
+base de alunos e fidelizar os estudantes que já optaram por seus produtos/serviços.
+Consequentemente, aumentará a barreira à entrada de novas empresas em decorrência da
+necessidade de investimento em marca, bem como, aumentará a exigência de investimentos
+para que as concorrentes estabelecidas se posicionem como rivais efetivas das Requerentes.
+Isso, segundo a Conselheira Ana Frazão (CADE; 2013; p.3792):
+“(...) mostra claramente como a dinâmica nacional da concorrência – e o papel da
+escala – relaciona-se com a dinâmica local, possibilitando que grandes concorrentes
+em âmbito nacional possam impor pressão competitiva muito mais forte nos mercados
+locais em que atuam”
+
+A Conselheira Ana Frazão concluiu endossando a análise do Departamento de Estudos
+Econômicos no caso da operação em análise e, ficou evidenciada a importância dos
+investimentos em consolidação de marca no mercado de ensino superior, principalmente EAD
+e a percepção de que tal fator constitui importante barreira à entrada de novos competidores,
+conforme manifestou em seu voto (CADE; 2013; p.3814):
+“Importante notar, ainda que, ao contrário do que apontam as requerentes, o fato de
+a estratégia de marketing decorrer de uma decisão empresarial não significa que não
+possa ser considerada uma barreira à entrada. Como esclarece Hovenkamp, quando
+os investimentos em marketing têm um caráter cumulativo, cujos resultados não se
+dissipam com o tempo, um novo agente terá uma significativa desvantagem em
+relação àqueles que já atuam no mercado, sobretudo considerando que, em geral, os
+gastos com propaganda são irrecuperáveis”.
+
+2.2.2. Da Rivalidade
+
+O exame das condições de rivalidade tem por objetivo avaliar se os concorrentes
+existentes são capazes de contestar eventual tentativa de exercício de poder de mercado por
+parte das requerentes. Essa análise se utiliza de critérios que permitam tanto uma avaliação
+histórica do comportamento dos agentes econômicos quanto uma análise da propensão e
+capacidade de absorção de consumidores em caso de exercício de poder de mercado por parte
+de algum agente.
+
+59
+
+Neste sentido a doutrina antitruste (GABAN e DOMINGUES; 2012; p. 103) é clara ao
+dizer que a rivalidade, de modo geral é caracterizada por uma possibilidade de contestação ao
+poder de mercado exercido, a saber:
+“Assim, se, de modo geral, houver concorrentes que possam fazer frente (com uma
+oferta mais eficiente em termos de preços, qualidade e quantidade) a um aumento
+significativo e não transitório de preços por parte dos agentes econômicos envolvidos
+no caso analisado, entende-se que não haverá necessidade de uma intervenção
+antitruste, seja via controle de estruturas, seja via controle de condutas. Diz-se, em
+outras palavras, que a tentativa de exercício de poder de mercado poderia ser
+contestada pelos concorrentes existentes no mercado, o que tornaria o
+comportamento anticompetitivo improvável e, portanto, remotas as chances de um
+efeito negativo à sociedade. ”
+
+Em seu parecer a SG definiu a metodologia de análise de rivalidades para o mercado do
+ensino superior, tanto em seu aspecto presencial, como em seu aspecto a distância (CADE;
+2013; p.2803-2805). Desta forma, na sequência, serão analisados os elementos apresentados
+separadamente.
+Inicialmente, a utilização das variações de market shares dos agentes econômicos de
+um determinado mercado ao longo de um período pode ser considerado um critério adequado
+para o setor de graduação presencial, pois permite identificar trajetórias de ganho e perda de
+participações de mercado e troca de posições entre os concorrentes, indícios que apontam para
+a existência de rivalidade, já que os agentes competem pelas oportunidades de vendas geradas
+pelo mercado.
+Em relação à capacidade ociosa dos concorrentes (necessária para absorver
+oportunidades de vendas e, portanto, rivalizar), dadas as características do mercado de educação
+superior, essa variável foi analisada de duas maneiras. Primeiramente, buscou-se averiguar qual
+a capacidade de absorção imediata de alunos, por meio da diferença entre o quantitativo de
+vagas ofertadas anualmente, por curso, por cada IES (que representa a quantidade máxima de
+alunos que a IES estava disposta e possuía capacidade de acomodar) e o número de inscrições
+efetivadas por alunos aprovados em processo seletivo.
+Adicionalmente, procurou-se avaliar a potencialidade de expansão dessa capacidade
+como resposta a um eventual exercício de poder de mercado por parte das requerentes. Para
+tanto, considerou-se a autonomia universitária das concorrentes (capacidade de aumentar vagas
+sem necessidade de autorização do MEC), a disponibilidade de docentes na região e os custos
+envolvidos para o aumento dessa expansão, já que tais custos variam a depender do curso em
+comento, conforme já apontado no exame das condições de entrada.
+Considerando as variáveis elencadas acima, a análise de rivalidade do mercado de
+graduação presencial procura verificar os seguintes pontos: a evolução das participações de
+
+60
+
+mercado, procurando evidências de comportamento competitivo entre as IES instaladas; a
+análise das capacidades ociosas existentes e da possibilidade de expansão dessa capacidade,
+com o objetivo de verificar se as concorrentes existentes são capazes de absorver desvios de
+demanda; o preço e a qualidade das requerentes em relação aos concorrentes existentes,
+avaliando o grau de substitutibilidade entre esses agentes econômicos; o porte das IES
+envolvidas, requerentes e/ou concorrentes, e como essas características afetam fatores como
+reputação da IES e a disponibilidade de docentes no mercado.
+O setor de ensino superior é caracterizado por forte rivalidade. É comum a presença de
+outros players de grande e médio porte em uma determinada localidade ofertando cursos
+semelhantes, que tornam a disputa pelo aluno acirrada, sobretudo por meio da concessão de
+bolsas de estudo e financiamento estudantil.
+Segundo dados da HOPER29, o valor médio das mensalidades praticadas pelas IES
+passou de R$900,00 em 2006 (valor deflacionado) para R$500,11 em 2011, devido ao
+surgimento de cursos e instituições ofertando preços cada vez menores. Esse fato, para as partes,
+deixa evidente a intensa rivalidade verificada no setor atualmente.
+As Requerentes alegam que a dinâmica concorrencial do mercado de oferta de cursos
+de ensino superior à distância apresenta diversos elementos a revelar uma intensa rivalidade
+entre as diferentes IES e grupos, dentre os quais é possível identificar variáveis de caráter local
+e regional (como o incremento do PIB per capita de algumas regiões e o custo de deslocamento
+de outras) e também de caráter nacional (como a escala dos principais concorrentes nessa
+modalidade, as economias de escopo relacionados à oferta simultânea de diversos cursos e os
+custos decrescentes associados à expansão da oferta de um determinado curso em um novo
+polo).
+A seu ver diante dos índices de crescimento do mercado de EAD no passado recente,
+juntamente com a crença de que serão incrementados caso o FIES passe a ser concedido para o
+ensino à distância; da paulatina mudança cultural que vem impulsionando o interesse do
+alunado por esse tipo de modalidade de educação, cujas avaliações de qualidade têm se
+mostrado equivalentes às do ensino presencial; e do recente incentivo governamental concedido
+à expansão desse tipo de ensino, como revelam a Portaria n° 2/2013, pela qual o MEC instituiu
+uma Câmara Consultiva Temática de Educação à Distância com o intuito de elaborar um novo
+marco regulatório do setor, e a Portaria Normativa n° 1/2013, que procura dar maior celeridade
+
+29
+
+BRAGA, Ryon (Coordenação Geral). Análise Setorial do Ensino Superior Privado do Estado de São Paulo Hoper Estudos de Mercado. Foz do Iguaçu, 2011
+
+61
+
+aos processos de regulação, reconhecimento e renovação de reconhecimento de cursos na
+modalidade EAD essa rivalidade tende certamente a se intensificar.
+Já em relação à concorrência potencial é o entendimento a partir do parecer do DEE,
+que uma avaliação criteriosa dos possíveis impactos anticoncorrenciais deve considerar os
+efeitos da fusão entre as Requerentes no que tange a concorrência potencial no mercado de
+ensino a distância (CADE; 2013; p. 3350). Desta forma, para avaliar os potenciais efeitos
+unilaterais de uma fusão entre uma firma pré-estabelecida e sua potencial rival, deve existir
+evidências adicionais que demonstrem não apenas que poderia ocorrer uma entrada bemsucedida sem a concentração, mas também, que poderia ser verificada uma competição entre as
+partes (CADE; 2013; p. 3353). Portanto, o concorrente potencial deve exercer já uma influência
+restritiva significativa ou deve existir uma probabilidade considerável de vir a transformar-se
+numa força concorrencial efetiva. Há, ainda, elementos que revelam que um concorrente
+potencial projetado pode entrar num mercado de uma forma significativa contribuindo para a
+seguinte conclusão: "não deverá existir um número razoável de outros concorrentes potenciais
+suscetíveis de manter uma pressão concorrencial suficiente após a concentração” (CADE;
+2013; p. 3155). Apresenta, ainda, os aspectos que aumentam a probabilidade de uma substancial
+diminuição da concorrência resultante da fusão, dentre eles: a incumbente deter uma grande
+parcela do mercado; o potencial entrante ser significante, ou seja, produzir uma ameaça
+competitiva em relação aos outros players (CADE; 2013; p. 3351).
+A Conselheira Relatora em seu voto, para avaliar condições de rivalidade nos mercados
+de graduação presencial, praticamente, considerou todos os critérios indicados pela SG, a saber:
+evolução das participações de mercado, procurando evidências de comportamento competitivo
+entre as IES instaladas; a análise de capacidades ociosas existentes e da possibilidade de
+expansão dessa capacidade, com o objetivo de verificar se as concorrentes existentes são
+capazes de absorver desvios de demanda.
+Ainda, a Relatora Ana Frazão constatou, seguindo a indicação da SG, que há uma série
+de variáveis competitivas que influenciam diretamente a capacidade de uma instituição de
+ensino exercer pressão competitiva no mercado de graduação a distância. Dentre as mais
+relevantes estão: o preço, a escala, a capilaridade da rede de polos, os investimentos em
+marketing e a qualidade.
+Isto posto, nos parágrafos seguintes serão apresentadas as conclusões para cada uma
+destas variáveis, para os dois nichos de mercado: à distância e presencial.
+A variável preço apresenta direta relação com os concorrentes existentes, avaliando o
+grau de substitutibilidade do produto entre esses agentes econômicos; é a principal variável
+
+62
+
+competitiva nesse mercado (CADE ;2013; p. 3853). Indica a relatora que o valor da
+mensalidade é especialmente relevante em razão do perfil do aluno da graduação em EAD, que,
+em geral, tem uma renda familiar mais baixa do que os alunos matriculados na modalidade
+presencial.
+A outra variável apresentada é porte das IES envolvidas que será analisado juntamente
+com a escala, visto que essas características afetam fatores como reputação da IES. No mais a
+economia de escala permite a diluição de custos fixos, conforme descrito na seção de barreiras
+à entrada, desta forma a oferta de cursos à distância exige investimentos significativos seja na
+confecção do material didático e em tecnologia para reprodução, armazenamento e distribuição
+do conteúdo aos alunos. Além da escala em nível nacional, constatou-se que a escala em nível
+local também é bastante relevante para que seja possível cobrir os custos e remunerar
+minimamente a instituição e o parceiro local. Capilaridade da rede de polos – reflete a
+abrangência geográfica da atuação da IES. Possuir uma grande rede de polos significa grande
+capacidade de atrair alunos, principalmente em nível de graduação, devido à necessidade de
+algumas atividades presenciais obrigatórias, assim, considerou-se que a escala mínima local
+seria de 250 alunos.
+O fator anteriormente descrito está intimamente ligado com o próximo, a saber a
+capilaridade, pois esta, visa aferir a capacidade de expansão de um concorrente. Como se
+observou, a maioria dos alunos matriculados reside no mesmo município da instituição de
+ensino, de forma que, quanto maior o número de polos, maior sua capacidade de captar alunos.
+Entretanto, assim como para os investimentos em marketing, que serão analisados em
+sequência, não foi possível definir um número mínimo de polos ou municípios atendidos para
+que uma IES seja considerada uma concorrente efetiva.
+Investimentos em propaganda e marketing é bastante relevante para assegurar a
+competitividade de uma IES no mercado de EAD, é relacionado à consolidação da marca e da
+reputação da IES e são essenciais para atrair novos alunos; todavia, não foi possível estabelecer
+um nível mínimo de investimento, de forma que o valor aplicado em propaganda será utilizado
+não como um critério objetivo de exclusão, mas de maneira subjacente às demais variáveis
+mencionadas nesta seção.
+Considera-se os índices de avaliação do MEC para a determinação da variável
+qualidade. Como observou-se, no mercado de EAD, uma relativa padronização das notas das
+IESs, esse critério é utilizado para descartar as IES que não atingem patamar determinado, pois
+indica que não atingem requisitos mínimos determinados pelo órgão regulador. Em razão da
+similaridade dos conceitos, a nota não foi considerada um critério de diferenciação, exceto
+
+63
+
+quando o IGC fosse inferior a 3. Nesse caso, a instituição não poderá ser considerada uma
+concorrente efetiva, por estar sujeita a sanções do MEC, que podem levar à suspensão da oferta
+de vagas e até à cassação da autorização para atuar no mercado.
+Por fim, a Concorrência Potencial trata da possibilidade de que uma concentração de
+grandes empresas pode eliminar a concorrência potencial em determinada localidade. Desta
+forma, para que esse requisito seja atendido, será necessário que exista pelo menos uma
+instituição com participação de 20% ou duas instituições com participação de 10%, sendo
+necessária a avaliação dos planos de expansão de polos de apoio presencial de cada uma das
+requerentes para verificar seus efeitos sobre a concorrência potencial nos mercados analisados.
+
+2.2.3. Das Eficiências Econômicas
+
+O objetivo da etapa de eficiências é comparar os ganhos decorrentes do processo de
+unificação das operações das empresas envolvidas com os prejuízos à concorrência indicados
+nas etapas de análise pretéritas. Dessa forma, para que uma operação com essas características
+possa ser aprovada, é necessário que os benefícios decorrentes dos ganhos de eficiência sejam
+superiores aos prejuízos estimados com a redução da concorrência, resultando em um efeito
+líquido não-negativo para o bem-estar da sociedade. O Guia para Análise Econômica de Atos
+de Concentração Horizontal elenca quais as eficiências que devem ser consideradas. Essas
+eficiências são sintetizadas no trecho abaixo:
+“(...)são consideradas eficiências econômicas das concentrações os incrementos do
+bem-estar econômico gerados pelo ato e que não podem ser gerados de outra forma
+(eficiências específicas da concentração). Não serão consideradas eficiências
+específicas da concentração aquelas que podem ser alcançadas, em um período
+inferior a 2 (dois) anos, por meio de alternativas factíveis, que envolvem menores
+riscos para a concorrência”30
+
+Como, em todos os casos, os detalhamentos das eficiências apresentadas pelas
+requerentes foram feitos em documentos confidenciais e essa confidencialidade foi mantida nos
+votos dos Conselheiros, faz-se aqui somente referências genéricas ao tipo de eficiência aceita
+ou rejeitada pelo CADE nos atos de concentração envolvendo mercados de ensino superior,
+com base na publicação Cadernos do CADE: Atos de Concentração no Mercado de Prestação
+de Serviços de Ensino Superior.
+
+30
+
+BRASIL. Ministério da Fazenda. SECRETARIA DE ACOMPANHAMENTO ECONÔMICO (SEAE). Gula
+para análise econômica de atos de concentração horizontal. Portaria Conjunta SEAE/SDE n° 50, 1° de agosto
+de 2001. Disponível em:< http://www.seac.fazenda.gov.br/central documentos/guias. 2001>.
+
+64
+
+Isto posto, a análise dos cinco atos de concentração do setor nos quais se discutiram a
+possibilidade de a operação gerar eficiências que viessem a compensar efeitos concorrenciais
+negativos, houveram alguns tipos de efeitos positivos apresentados pelas requerentes que não
+foram considerados válidos como eficiências, sob o ponto de vista da defesa da concorrência,
+tais como: a adoção de modelo de gestão da requerente mais eficiente pela segunda requerente,
+pois considera-se que o aumento da eficiência administrativa pode ser alcançado por uma
+empresa de forma autônoma, sem a necessidade de uma fusão com concorrente; a adoção do
+modelo acadêmico da requerente mais eficiente, pois entende-se que a revisão do modelo
+acadêmico por uma IES, de forma a melhor aproveitar seus recursos, independe de uma fusão
+com concorrente; o aumento da oferta de cursos pelas requerentes, pois a expansão da oferta de
+cursos também pode ser posta em prática de forma autônoma por uma empresa, portanto, não
+se pode considerar que a única forma de aumentar a oferta de cursos seria mediante a aquisição
+de uma concorrente; uma maior eficiência em práticas de marketing, pois embora se reconheça
+que essa pode ser uma eficiência decorrente de uma fusão, não há clareza de que isso só possa
+ocorrer mediante uma fusão entre concorrentes. Ademais, esse é um caso clássico de redução
+de custo fixo que dificilmente seria aproveitado pelos consumidores mediante redução de
+preços; a adoção de metodologia mais eficiente para captação e gestão de financiamentos do
+FIES, uma vez que não foi demonstrado ao CADE porque uma fusão entre concorrentes seria
+essencial para obter essa eficiência; melhores práticas na captação de clientes em cursos de pósgraduação, pois, da mesma forma, considera-se que essa melhoria pode ser obtida de forma
+autônoma pela empresa e sem a necessidade de associação ou fusão com concorrente; e por
+fim, eficiências que não dizem respeito ao mercado onde se verificam problemas concorrenciais
+decorrentes da operação – por exemplo, eficiências obtidas com aprimoramentos na gestão de
+cursos presenciais não podem ser consideradas como capazes de contrabalançar possíveis
+prejuízos concorrenciais em mercados de ensino a distância. Excluídos estes aspectos da análise
+das eficiências do setor em análise, passaremos à análise específica do caso ora estudado, com
+base na Nota Técnica emitida pelo DEE, cumpre desde já informar que “as Requerentes
+apresentaram as eficiências alegadamente geradas pela operação nas folhas 2211-2291 dos
+autos de acesso restrito ao CADE” (CADE; 2013; p. 3047).
+Segundo as partes, a operação tem o condão de gerar sinergias as sinergias relacionadas
+às seguintes "frentes": (i) ensino à distância, (ii) relacionadas à otimização de headcount
+administrativo e (iii) renegociação de compras centralizadas e centralizáveis, sendo estas
+alcançáveis em até dois anos e com possibilidade de serem compartilhadas com os
+alunos/consumidores. Além dessas sinergias, haveria outras decorrentes da operação que não
+
+65
+
+foram quantificadas, mas que são basicamente relacionadas ao ensino presencial: adoção de
+melhores práticas de FIES, gestão de ocupação de campus e otimização do processo de abertura
+de novos de turmas, otimização da força comercial nas unidades, gestão eficiente de docentes
+em cidades com sobreposição, maximização da matriz curricular nos cursos presenciais,
+redução de headcount administrativo nas unidades próximas e adoção de melhores práticas no
+processo de aprovação de CAPEX (otimização de despesas de capital).
+A análise de eficiências econômicas efetuada pelo DEE (CADE; 2013; ps. 3361-3364)
+indica que o montante que pode ser considerado como adequados, de acordo com os critérios
+antitruste consolidados na jurisprudência do CADE, é insuficiente para justificar o aumento do
+poder de mercado decorrente das elevadas concentrações obtidas pelas empresas requerentes.
+Para tanto, toma-se como base os critérios para considerar eficiências relativas ao precedente
+instituído no Ato de Concentração n° 08012.004423/200931, a saber: , deve estar claro que as
+eficiências não podem servir como justificativa para a aprovação de atos de concentração que
+impliquem restrições substanciais à concorrência; deve-se usar de rigor na consideração dessas
+eficiências, afastando-se qualquer benefício que seja puramente especulativo ou que não seja
+concretamente provável e verificável, sob pena de se subestimar, equivocadamente, efeitos
+negativos severos aos consumidores e à coletividade em geral, ou seja, somente serão
+contabilizadas as eficiências em que a magnitude e possibilidade de ocorrência possam ser
+verificadas de modo razoável, cujas causas e momento de ocorrência (tempestividade) estejam
+especificados e que não sejam apresentadas de modo vago ou especulativo; Deve ficar
+demonstrado que os benefícios serão repassados aos consumidores, ou seja, não basta que esta
+gere reduções de custos, aumento de lucros ou outros benefícios que sejam incorporados
+unicamente pelas empresas fusionadas; de acordo com o Guia Horizontal, que esclarece que
+"não serão considerados eficiências os ganhos pecuniários decorrentes de aumento de parcela
+de mercado ou de qualquer ato que represente apenas uma transferência de receitas entre
+agentes econômicos; e, por fim, considera-se que eficiências passíveis de contabilização apenas
+aquelas que sejam "específicas " da operação, ou seja, somente aquelas que não poderiam ser
+alcançadas de outra forma senão por meio do ato de concentração.
+Em relação às sinergias quantificadas, estas relacionadas às eficiências que recaem
+sobre a atividade operacional da empresa e provocam redução de custos variáveis médios com
+consequente impacto sobre os preços ao consumidor, tendem a ser aceitas pelo CADE. É caso,
+por exemplo, ganhos de escala são frequentemente apontados como eficiências resultantes de
+
+31
+
+Requerentes: Perdigão S.A. e Sadia S.A. Relator: Conselheiro Carlos Emmanuel Joppert Ragazzo
+
+66
+
+uma operação de fusão e aquisição, pois podem representar uma redução de custos de produção
+e, por consequência, redução de preços ao consumidor. Ocorre que essa redução de custos só
+será repassada aos consumidores se o mercado, após a fusão, mantiver níveis razoáveis de
+rivalidade e possibilidade de entradas suficientes para estimular a concorrência e a distribuição,
+senão total, pelo menos parcial, das economias obtidas pelas empresas aos consumidores.
+Todavia, para a doutrina antitruste brasileira, em especial para Gaban e Domingues
+(2012; p. 106) ao analisar o art. 88, §6º, II da NLAB deve ser repassada aos consumidores parte
+relevante dos benefícios decorrentes de uma operação de concentração como a em análise. E
+entendem tratar de uma característica distributiva, neste sentido:
+“ (...) torna mais evidente a tese de que, no Brasil, a eficiência alocativa de mercado
+não se mostra suficiente para sustentar uma decisão de aprovação de uma operação,
+mas esta deve ser observada em adição à eficiência distributiva, ou à habilidade que
+o negócio analisado possui de repartir os ganhos dele decorrentes com a sociedade.
+”
+
+Trata-se das eficiências não passíveis de mensuração, por não envolverem valores,
+costumeiramente não são contabilizadas para fins de compensar os prováveis efeitos negativos
+ao bem-estar coletivo decorrentes de um ato de concentração. Porém, com o intuito de
+contribuir de alguma forma na análise qualitativa da presente operação, serão brevemente
+discutidas a seguir aquelas eficiências não quantificadas que parecem mais relevantes dentre
+aqueles apresentados pelas Requerentes, sendo aplicado, no que couber, os mesmos critérios de
+análise antitruste descritos anteriormente.
+Pela própria natureza desse tipo de eficiência, nota-se um caráter predominantemente
+especulativo nas argumentações das Requerentes tendo em vista que, em vários itens, inexiste
+um nexo claro de causalidade entre os benefícios alegados e o Ato de Concentração em si. Além
+disso, em nenhum dos casos as sinergias descritas parecem ser específicas da operação, ou seja,
+os benefícios alegados são passíveis de serem alcançados pelas Requerentes sem a necessidade
+da operação.
+Especificamente com relação ao alegado "Incremento da Qualidade dos Cursos
+Ofertados pelas Requerentes", como bem destacado pela Superintendência- Geral em seu
+parecer, trata-se de uma variável de extrema importância em um Ato de Concentração
+envolvendo o mercado educacional, sendo desejável que a presente operação resulte em
+melhoria na qualidade do ensino fornecido pelas instituições de ensino. A SG, no entanto,
+entendeu que os dados apresentados pelas empresas relativos ao histórico de aquisições da
+Anhanguera e da Kroton não sugerem que houve uma melhora, em termos gerais, na qualidade
+de ensino das empresas adquiridas.
+
+67
+
+Com base nessa análise, entendeu a SG que não haveria probabilidade razoável de que
+o nível de qualidade fosse elevado em decorrência da presente fusão, tendo em vista o recente
+histórico de aquisição das empresas. Assim, restou demonstrado que ambas as empresas
+estavam situadas no IGC 3 (qualidade mínima), com algumas de suas adquiridas ainda situadas
+no IGC 2 (qualidade insuficiente), mesmo após as aquisições.
+Cabe ressaltar que é de fundamental importância que as requerentes, ao pleitearem junto
+ao CADE a aprovação de um ato de concentração com base na existência de sinergias
+(eficiências) capazes de, pelo menos, neutralizar efeitos negativos derivados da operação,
+atentem para a necessidade de não só quantificá-las, mas detalhar de que forma tais ganhos
+serão obtidos. Esse detalhamento permite que alguma eficiência que poderia ser descartada pelo
+fato de não propiciar ganho aos consumidores seja parcialmente aceita (caso se identifique que
+em alguma medida ela pode beneficiar o consumidor embora não da forma como defendem as
+requerentes), ou ainda, que uma eficiência totalmente aceitável sob a ótica antitruste não seja
+descartada por ser considerada meramente especulativa
+
+2.3. Do Acordo em Controle de Concentração
+
+A definição do papel da autoridade antitruste e do agente regulador em um dado
+mercado na análise de atos de concentração nem sempre é trivial e gera discussões; em outro
+mercado pode ser complementar.
+No mercado de educação superior, a probabilidade de que tal discussão ocorra é elevada,
+tendo em vista a previsão expressa no projeto de lei que cria o INSAES de atribuição desta
+autarquia para aprovação prévia de atos de concentração no mercado de educação superior
+privada. Ressalta-se que hoje é atribuição do CADE exercer tal papel.
+Esta discussão ainda não ocorreu, pois, a regulação do mercado de educação superior
+privado está em fase de consolidação e ainda pulverizada em diversos órgãos. Ademais, podese dizer que apenas recentemente o CADE analisou de forma profunda este mercado, aplicando
+remédios, principalmente comportamentais, diretamente relacionados com competência
+regulatória.
+
+68
+
+Conforme a Tabela 4 – Decisões em atos de concentração nos mercados de ensino
+superior privado 2001 a 2015, o DEE indica32 que:
+“(...) apenas cinco atos de concentração foram aprovados mediante assinatura de
+Termos de Compromisso de Desempenho (TCD) ou Acordo em Controle de
+Concentrações (ACC). Nesses casos, onde se exigem remédios estruturais ou
+comportamentais para sanar efeitos concorrências negativos acarretados por uma
+concentração de empresas, o Cade chegou a soluções negociadas com as empresas
+requerentes que envolveram a alienação de ativos ou compromissos de não aumentar
+a oferta de vagas para determinados cursos nos mercados considerados críticos”
+
+A imposição de remédios antitrustes no mercado de educação superior privado é recente
+e restrita a poucos atos de concentração. Remédios estruturais, identificados com a alienação
+de uma ou mais IES, são objetivos e de fácil acompanhamento pela autoridade antitruste da
+execução pelas requerentes.
+Desta forma, será procedida análise dos remédios comportamentais estipulados no ato
+de concentração analisado entre Kroton e Anhanguera, sendo eles: a limitação à captação de
+novos alunos nas localidades afetadas por determinado período; o impedimento de oferta de
+vagas e limitação da expansão do número de matrículas; a limitação na oferta de cursos; e o
+comprometimento das requerentes com metas de qualidade, tais como o aumento da proporção
+atual de mestres ou doutores para 80% nos cursos de ensino a distância e o incremento de
+ferramentas disponíveis e de material didático.
+Inicialmente, apontaram que o posicionamento da Procuradoria, ao tratar da extensão e
+abrangência da intervenção do CADE, teria contrariado o quanto preconizado pelo Guia para
+Análise Econômica de Atos de Concentração Horizontal, ao sustentar que a adoção de remédios
+não dependeria da posição técnica a ser adotada na identificação da dimensão geográfica do
+mercado relevante (CADE; 2013; 3598).
+Afirmaram que a referida constatação, além de violar os princípios da legalidade,
+proporcionalidade e razoabilidade, não encontraria amparo no art. 88, §5º. da Lei 12.529/2011,
+na medida em que o referido dispositivo só autorizaria a intervenção do CADE em caso de: (a)
+"eliminação da concorrência em parte substancial de mercado relevante, ou (b) criação ou
+reforço de uma posição dominante no mercado relevante de bens ou serviços". (CADE; 2013;
+p. 3404).
+
+32
+
+CADE, Cadernos do CADE: Atos de Concentração no Mercado de Prestação de Serviços de Ensino Superior.
+Maio/2016; Brasilia/DF; Pags. 57-58
+
+69
+
+A Lei n° 9.784/199933 é clara ao delimitar os limites de atuação da Administração
+Pública, que deve observar "adequação entre meios e fins, vedada a imposição de obrigações,
+restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do
+interesse público" (art. 20, parágrafo único).
+Em decorrência dos princípios constitucionais da legalidade, proporcionalidade e
+razoabilidade, não se pode admitir que a atuação do CADE possa - mesmo que teoricamente extrapolar os limites do quanto estritamente necessário para impedir
+
+a "eliminação da
+
+concorrência em parte substancial de mercado relevante", ou a criação ou reforço de uma
+posição dominante em mercado relevante de bens ou serviços, condições claramente postas
+pelo art. 88, §50 da Lei n° 12.529 para a aprovação de atos de concentração econômica.
+Portanto, permitir a imposição de restrições que extrapolem os limites do quanto
+necessário para evitar que um agente venha a exercer poder de mercado é autorizar de maneira
+ilegal uma interferência estatal que extrapola os objetivos fixados pela Lei no 12.529, que,
+lembre-se, tem sua aplicação "orientada pelos ditames constitucionais de liberdade de
+iniciativa, livre concorrência, função social da propriedade, defesa dos consumidores e
+repressão ao abuso do poder econômico" (art. 10, grifado).
+Dado que eventuais riscos concorrenciais associados à presente operação estão lógicos,
+e necessariamente adstritos a determinado produto e circunscrito a determinada região, não se
+pode admitir que eventual restrição aplicada pelo órgão antitruste recaia sobre a totalidade da
+atuação das Requerentes, indo além dos problemas concorrenciais identificados a partir da
+correta definição de dado mercado relevante'.
+Nos termos do Guia para Análise Econômica de Atos de Concentração anexo à Portaria
+Conjunta SEAE/SDE:
+"Segundo o teste do 'monopolista hipotético',' o mercado relevante é definido como o
+menor grupo de produtos e a menor área geográfica necessários para que um suposto
+monopolista esteja em condições de impor um “pequeno, porém significativo e não
+transitório" aumento de preços. [...]. Um suposto monopolista está em condições de
+impor um pequeno, porém significativo e não transitório" aumento de preço quando
+os consumidores não puderem desviar uma parcela significativa da demanda para
+bens substitutos ou bens provenientes de outra região. Os conjuntos de produtos e
+áreas geográficas que um hipotético monopolista deve controlar para que possa
+impor um “pequeno, porém significativos e não transitórios aumentos” dos preços
+determinam, respectivamente, a dimensão do produto e a dimensão geográfica do
+mercado relevante."
+
+Nesse contexto, poucas são as localidades no ensino EAD que, sob uma análise
+conservadora, mereceriam a intervenção antitruste nos termos do art. 88, §5 e 6 da Lei n°
+
+33
+
+Regula o processo administrativo no âmbito da Administração Pública Federal.
+
+70
+
+12.529/2011. Essa intervenção é necessária, consoante dispõem os princípios constitucionais
+da proporcionalidade e da razoabilidade, apenas nos limites necessários para eliminar os
+potenciais efeitos deletérios da operação pretendida, respeitada a liberdade de iniciativa
+consagrada pela Constituição Federal como fundamento da ordem econômica.
+Quanto aos três primeiros remédios supracitados, cabe uma crítica no sentido de que o
+CADE buscou promover a concorrência limitando a capacidade de concorrer de um dos
+principais players. O trecho a seguir retoma o objetivo da legislação de defesa da concorrência:
+A legislação de defesa da concorrência é uma das principais atribuições do Estado
+moderno, ou seja, regular as atividades econômicas privadas, de modo a garantir a
+livre concorrência e a livre iniciativa, bem como bem-estar ao cidadão-cliente. Os
+aumentos de produtividade das firmas e o desenvolvimento tecnológico possibilitam
+maior produtividade da economia, que passa a operar de forma mais eficiente e
+integrada34.
+
+Até que ponto limitar a oferta de cursos e de matrículas está garantindo o bem-estar do
+cidadão-cliente e a produtividade?
+Quanto ao quarto remédio listado, referente ao estabelecimento de metas de qualidade
+às requerentes, é possível compreender que o CADE invadiu a competência regulatória do MEC
+de forma desigual para as requerentes, tendo em vista que as demais concorrentes não
+envolvidas na operação poderão atuar no mercado sem preencher os requisitos estipulados.
+Conforme será visto no próximo capítulo, existe uma ausência regulatória por parte do MEC
+no que diz respeito a metas de qualidade nos cursos de ensino a distância. Mas esta ausência
+regulatória não justifica a determinação pelo CADE de metas pontuais de qualidade,
+direcionadas a apenas um grupo de instituições.
+
+34
+
+ESTRATÉGIAS DE REGULAÇÃO E DEFESA DA CONCORRÊNCIA NO SETOR ELÉTRICO:
+UMA ABORDAGEM NEO-SCHUMPETERIANA Wagner Frederico Gomes de Araújo –
+CSAP/Fundação João Pinheiro ANPAD
+
+71
+
+3. A REGULAÇÃO DA EDUCAÇÃO SUPERIOR E A CRIAÇÃO DO
+INSAES – O PROJETO DE LEI Nº. 4.372 DE 2012
+
+3.1. A Regulação da Educação Superior e as Barreiras Regulatórias
+
+No decorrer da análise do ato de concentração, as requerentes apresentaram
+posicionamento ao afirmar que ensino superior no Brasil não é caracterizado por elevadas
+barreiras à entrada; entretanto, identificaram como a principal barreira de entrada o processo
+regulatório necessário à abertura de novas IES e de novos cursos, o qual, entretanto, não
+constitui fator impeditivo para o estabelecimento e manutenção de uma instituição de ensino
+superior, como a própria experiência das Requerentes ensino.
+As instituições de ensino superior (IESs) podem ofertar cursos de graduação e de pósgraduação. Os últimos podem ser classificados em: (a) stricto sensu (mestrado e doutorado), e
+(b) lato sensu (especialização, Master in Business Administration - MBA). Já os primeiros
+podem ser classificados em: (a) bacharelado, (b) licenciatura e (c) tecnologia. Quanto à
+modalidade, ambos podem ser transmitidos presencialmente ou a distância (EAD).
+Para a oferta de cursos de graduação e de pós-graduação presenciais, a IES precisam
+ser, inicialmente, credenciadas junto ao MEC como faculdade, centro universitário ou
+universidade (art. 13, Decreto 5773/2006). O credenciamento como centro universitário ou
+universidade requer que a IES já atue como faculdade e preencha critérios previamente
+estabelecidos pelo MEC, especialmente em relação ao regime de trabalho e à titulação do corpo
+docente e ao nível de qualidade dos cursos ofertados.
+No que toca à oferta de cursos de graduação presencial, as faculdades precisam de
+autorização específica do MEC para cada curso que pretendem ofertar (art. 27, Decreto
+5773/2006), assim como para a ampliação do número de vagas oferecidas. Os centros
+universitários e universidades, por sua vez, gozam de maior autonomia, de modo que
+prescindem da autorização do MEC para ambas as atividades. No caso da pós-graduação
+presencial, contudo, a referida autorização será sempre dispensável, independentemente de se
+tratar de faculdade, centro universitário ou faculdade.
+Para os cursos de graduação ou pós-graduação na modalidade EAD, desde 1998, exigese um credenciamento específico para que a IES já credenciada no ensino presencial possa
+
+72
+
+também atuar nessa modalidade (art. 26 do Decreto 5773/2006). No caso da graduação EAD,
+no ato de credenciamento específico, deverão constar, além da sede da IES, os polos de apoio
+presencial para atividades complementares e o pedido de autorização de pelo menos um curso,
+na modalidade a distância, nos termos do art. 12, § 12 do Decreto 5.622/2005.
+Instituições que não gozam de autonomia universitária, assim como ocorre na graduação
+presencial, deverão obter uma autorização específica para cada curso ser ofertado,
+independentemente de o referido curso já ser oferecido e/ou de ter sido reconhecido pelo MEC
+na modalidade presencial. Também haverá a necessidade de autorização para a ampliação do
+número de vagas, a menos que se trate de centro universitário ou universidade, hipótese em
+que, como visto anteriormente, a referida exigência é dispensável.
+Neste sentido a SG é expressa em seu parecer dentre os aspectos citados, o ponto mais
+relevante sob o ponto de vista concorrencial é a autonomia conferida aos centros universitários
+e universidades, característica que permite a essas IES aumentar ou reduzir a oferta de vagas e
+cursos de maneira tempestiva, sem necessidade de autorização do MEC. Trata-se de
+característica a ser considerada não apenas na discussão acerca do mercado relevante, mas
+também posteriormente nas condições de entrada e rivalidade, como se verá adiante (CADE;
+2013; 2749)
+Cumpre ainda ressaltar que a oferta de cursos de graduação na modalidade a distância é
+limitada à área definida no ato de credenciamento da IES (art. 20 § 1° do Decreto 5622/2005).
+Isso significa que a IES não poderá ofertar cursos de graduação EAD em local em que não
+possui polo de apoio para atividades presenciais (Art. 10, § 1 do Decreto 5622/2005). Isso
+porque a regulação exige o comparecimento do estudante à sede da instituição ou aos polos de
+apoio presencial para a realização de avaliações, estágios obrigatórios, defesa de trabalhos de
+conclusão de curso e atividades relacionadas a laboratórios.
+A instituição poderá requerer a ampliação do número de poios por meio de aditamento
+ao credenciamento inicial (art. 10, §1° e 3° do Decreto n° 5.622/2005), mas esse pedido só
+poderá ser feito após o reconhecimento do seu primeiro curso a distância.
+Por seu turno, a oferta de cursos de pós-graduação a distância não possui limitação
+geográfica dentro do país. Assim, ao contrário da graduação EAD, na pós-graduação EAD, "as
+atividades presenciais obrigatórias dos cursos de pós-graduação lato sensu a distância
+poderão ser realizadas em locais distintos da sede ou dos polos credenciados" (art. 45, § 4° da
+Portaria Normativa MEC 40/2007). Ademais, tal como na pós-graduação presencial, na pósgraduação a distância, não é necessária autorização para a abertura de novos cursos nem para a
+ampliação do número de vagas.
+
+73
+
+Quanto às barreiras regulatórias, a Conselheira Ana de Oliveira Frazão reportou um
+aumento do rigor do MEC quanto ao cumprimento das normas regulatórias que estaria tornando
+mais moroso ou impedindo o credenciamento e a expansão de cursos de EAD. Tal rigor, que
+derivou da necessidade de melhorar a qualidade do ensino oferecido nessa modalidade, acabou
+por constituir uma barreira à entrada de novos competidores e um benefício para aquelas
+instituições que já tinham uma grande rede de polos presenciais credenciados, pois estas
+conseguiam captar a maioria das matrículas no EAD. Assim, segundo a Conselheira, a
+dificuldade de credenciamento para a oferta de EAD e para a abertura de novos polos constitui
+uma elevada barreira à entrada de novos agentes.
+O voto da Conselheira Ana de Oliveira Frazão referente ao ato de concentração
+08700.005447/2013-12 reproduz manifestações nesse sentido:
+“O órgão regulador tem sido extremamente moroso na análise dos pedidos de
+aumento de vagas, autorização de novos cursos, credenciamento de novas instituições
+e, principalmente, no credenciamento de EAD. Na educação a distância, a restrição
+de oferta é ainda mais complicada. A falta de ofertantes gerou uma concentração de
+64,6% das matrículas nos 15 maiores grupos”.
+
+Além de determinação constitucional, da necessidade de intervenção estatal para
+minimizar falhas de mercado, a regulação no mercado de educação superior se justifica pelos
+subsídios estatais dados às IES via FIES e PROUNI. Claro que tais subsídios objetivam atender
+os alunos, mas, de fato, as IES são impactadas diretamente com a garantia de adimplência dos
+alunos beneficiados pelos dois programas. Esse impacto é perceptível no valor das ações na
+bolsa de valores das IES com capital aberto: quanto mais garantias de continuidade/expansão
+do FIES e do PROUNI, mais as ações se valorizam; caso haja sinalização por parte do MEC de
+restrição ou imposição de regras que limitem a expansão do número de contratos do FIES ou
+de bolsas do PROUNI, as ações se desvalorizam.
+Ante a esta perspectiva, a Presidência da República pela Mensagem nº. 398/2012 Aviso nº. 760/12 - da Casa Civil, enviou ao Congresso Nacional o Projeto de Lei Nº. 4372-D,
+de 2012 cria o Instituto Nacional de Supervisão e Avaliação da Educação Superior - INSAES,
+e dá outras providencias. Atualmente o Projeto encontra-se na Comissão de Constituição,
+Justiça e Cidadania aguardando votação do parecer que clama pela sua admissibilidade, do
+deputado Alessandro Molon (REDE/RJ). Tem seu regime de tramitação caráter de urgência nos
+termos do art. 155 do Regimento Interno da Câmara dos Deputados. Cumpre ressaltar que o
+projeto passou pelas comissões de Educação e Cultura; Trabalho, de Administração e Serviço
+Público; e Finanças e Tributação.
+
+74
+
+O projeto inicial apresenta 49 artigos, subdividos em 6 capítulos a saber: da natureza
+jurídica, finalidade e competências, da estrutura básica e direção; do patrimônio e das receitas;
+do quadro de pessoal e dos servidores; das sanções administrativas; e das disposições gerais e
+transitórias.
+De acordo com a Tabela 2 - Detalhamento das disposições do PL n° 4.372/2012INSAES, podemos observar a topografia legislativa, os dois primeiros capítulos dispõem sobre
+o novo Instituto, suas atribuições e diretrizes gerais de organização. Os capítulos seguintes, três
+e quatro, tratam do Quadro de Pessoal do INSAES e respectivo Plano de Carreiras e Cargos. O
+Capítulo das sanções administrativas, por sua vez, apresenta apenas um artigo que versa sobre
+as sanções administrativas que podem ser impostas pelo INSAES no exercício de suas
+atribuições junto a instituições e cursos superiores. Por fim, nas disposições finais são tratados
+dos recursos para a implantação e operacionalização do INSAES, da criação e destinação da
+Taxa de Avaliação "in Loco" e a Taxa de Supervisão da Educação Superior; autorização para a
+instituição utilizar o Auxílio de Avaliação Educacional, requisição imperativa de servidores do
+Ministério da Educação, inserção no CONAES e na Câmara de Educação Superior do Conselho
+Nacional de Educação. Ainda introduz o INSAES como agente de certificação de entidades
+beneficentes.
+Na mensagem do projeto de lei, o Poder Executivo dentre os motivos apresentados está
+a elevação do "papel da educação como fator preponderante de inclusão social e
+desenvolvimento humano, (...)" como forma de efetivação das metas e objetivos do Plano
+Nacional de Educação, que para o investimento na educação básica é necessário investir na
+educação superior que "exercem papel fundamental na formação dos professores da educação
+básica, gerando um ciclo virtuoso onde o incremento na qualidade do ensino básico capacita
+os alunos a ingressar nos cursos superiores". Indica as políticas de expansão adotadas pelo
+governo como forma de garantia de qualidade, inclusão e democratização. Entende, destarte, o
+governo, que o novo marco regulatório racionaliza e qualifica os processos de avaliação,
+regulação e supervisão. Propõe a integração em um único órgão destas atividades. E indica
+como meta principal:
+"o desafio imposto ao MEC de atingir e manter elevado padrão de qualidade na
+educação superior ainda requer profundas alterações na estrutura do Ministério. Ao
+apresentar o quadro geral das ações do Ministério indica que a responsabilidade do
+INSAES, se aprovado, seria a de "avaliação e supervisão das instituições de educação
+superior e cursos de graduação no sistema federal de ensino, bem como à certificação
+das entidades beneficentes que atuem na área de educação superior e básica".
+
+75
+
+Podemos extrair que a finalidade de criação do INSAES está em concentrar em um
+único órgão as atividades de avaliação e supervisão da avaliação superior como forma de
+instrumentalizar as metas e objetivos apresentados no Plano Nacional de Educação, visto ser a
+educação fator preponderante de inclusão social. Corrobora para este entendimento Alessandro
+Molon, relator da PLC na Comissão de Constituição, Justiça e Cidadania ao afirmar "[S]ua
+finalidade precípua é a de supervisionar e avaliar as instituições de educação superior e cursos
+de educação superior no sistema federal de ensino, bem como certificar as entidades
+beneficentes que atuarem na área de educação superior e básica".
+Ainda dentro da mensagem, o Poder Executivo faz menção às legislações a serem
+alteradas e/ou citadas no projeto. Este levantamento mostra uma excessiva preocupação com as
+questões financeiras e fiscais, que deixam de discutir as matérias tratadas. Expressa muito bem
+esta situação o Dep. Waldenor Pereira, relator do projeto na Comissão de Educação da Câmara
+dos Deputados:
+“Em sua maior parte - 33 dos 49 artigos e 6 dos 7 anexos –, trata de aspectos
+administrativos, técnicos e burocráticos do novo Instituto, como a estrutura básica, o
+quadro de pessoal e de direção, o plano de carreiras e cargos (PCC), o patrimônio e
+os recursos financeiros necessários para a implantação e manutenção do órgão, as
+tabelas de vencimentos e de incentivos. ”
+
+A ABMES - Associação Brasileira de Mantenedoras de Ensino Superior noticia em seu
+sítio eletrônico como mais um equívoco do MEC35, e alerta: “os 41 artigos do PL 4372/2012,
+31 (63%) são dedicados ao plano de carreira do pessoal do Insaes e apenas 18 para o objeto
+da regulação, fato que é, no mínimo, estranho”. Outros, por exemplo, Ronaldo Mota em texto
+publicado no Caderno Educação da Folha Dirigida em sua edição de 23 a 29 de outubro de 2012
+sobre o projeto de lei de criação de um Instituto Nacional de Supervisão e Avaliação da
+Educação Superior (INSAES): “o Projeto vem acoplado à criação de dispensáveis cargos e
+funções, basicamente mantém as operações em moldes essencialmente semelhantes aos já
+adotados e talvez grávido de morosidades e dificuldades hoje existentes”. Neste ponto, uma
+crítica levantada pelo Documento de Trabalho, n. 104 do Observatório Universitário36: "a
+elaboração do INSAES pode ser entendida como uma tentativa de criar um plano de carreiras
+para o Ministério da Educação".
+
+35
+
+FRAUCHES, Celso. INSAES: MAIS UM EQUÍVOCO DO MEC. 2012. ABMES - Categoria Coluna - Ano 2
+• Nº 73. Disponível em: <http://www.abmes.org.br/abmes/noticias/detalhe/id/613>. Acesso em: 10 jun. de 2016.
+36
+NUNES, Edson; FERNANDES, Ivanildo; ALBRECHT, Julia. O INSAES como agência reguladora atípica:
+análise a partir do PL n° 4.372/2012. Documento de Trabalho, n. 104. Observatório Universitário, Rio de Janeiro,
+out./2012. Disp. em: bit.ly/1G58rkC. Pag. 04
+
+76
+
+Entre seus principais defensores encontra-se a União Nacional de Estudantes37 que
+entende o projeto como “uma grande ferramenta no combate à mercantilização do ensino e
+uma forma de dar ao estado uma maior capacidade de avaliar e regulamentar as instituições,
+tendo em vista que hoje a única opção que se tem é o descredenciamento das instituições de
+ensino superior que não possuem uma saúde financeira estável”.
+São fundamentos jurídicos da Proposta legislativa enviada ao Congresso nacional o Art.
+205 da CF, que considera a educação um direito de todos e dever do Estado e da família,
+devendo ser promovida e incentivada com a colaboração da sociedade, visando ao pleno
+desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para
+o trabalho. Os Princípios da Administração Pública, em especial o da eficiência tratado no Art.
+37º. CF, para a integração das atividades em um único órgão visto que o INSAES se propõe a
+otimizar recursos e a integrar processos que possibilitem a avaliação institucional externa de
+cursos e instituições de educação superior.
+Nota-se que, apesar de não tratados na exposição de motivos, também fundamentam o
+projeto de lei no art. 209 da Constituição, que dispõe que “o ensino é livre à iniciativa privada,
+atendidas as seguintes condições: I - cumprimento das normas gerais da educação nacional;
+II - autorização e avaliação de qualidade pelo Poder Público”.
+As normas gerais da educação nacional estão na Lei nº 9.394, de 1996, que estabelece
+as diretrizes e bases da educação nacional (LDB) e a avaliação de qualidade na Lei nº 10.861,
+de 2004, que institui o Sistema Nacional de Avaliação da Educação Superior, o SINAES.
+Neste contexto, o Projeto foi recebido pela Mesa da Câmara dos Deputados em 05 de
+setembro de 2012 foi encaminhado, nos termos dos Art. 24, II e 54 do RICD às Comissões de
+Educação e Cultura; Trabalho, de Administração e Serviço Público; Finanças e Tributação e
+Constituição e Justiça e de Cidadania para apreciação conclusiva pelas Comissões.
+Sua tramitação é de Urgência, de acordo com Requerimento Nº. 7.492/2013 apresentado
+pelo Dep. Antony Garotinho em 10 de abril de 2013 e aprovado em plenário em 03 de março
+de 2015. Entretanto, apesar da urgência aprovada os opositores do projeto têm uma vitória visto
+que não há interesse em se colocar o projeto em pauta por parte da Mesa Diretora da Casa38.
+
+37
+
+REDAÇÃO. INSAES: A Luta Continua. 2014. UNE - União Nacional dos Estudantes. Disponível em:
+<http://www.une.org.br/2014/11/insaes-a-luta-continua/>. Acesso em: 20 jun. 2016.
+38
+SIQUEIRA, Carol. Cunha diz que só vota órgão de supervisão do ensino superior se Dilma pedir urgência. 2015.
+Agência
+Câmara
+Notícias,
+Edição
+–
+Pierre
+Triboli.
+Disponível
+em:
+<http://www2.camara.leg.br/camaranoticias/noticias/POLITICA/482734-CUNHA-DIZ-QUE-SO-VOTAORGAO-DE-SUPERVISAO-DO-ENSINO-SUPERIOR-SE-DILMA-PEDIR-URGENCIA.html>. Acesso em: 26
+jun. 2016
+
+77
+
+Até o momento atual foram apresentadas, ao todo, 636 (seiscentas e trinta e seis)
+emendas parlamentares. Destas, 81 emendas e 11 emendas de relator, no âmbito da Comissão
+de Educação (CE); 19 emendas e 2 emendas de relator, no âmbito da Comissão de Trabalho, de
+Administração e de Serviço Público (CTASP); 318 emendas, 14 emendas por ela adotadas e 14
+emendas de relator, no âmbito da Comissão de Finanças e Tributação (CFT) e, por fim, 177
+emendas, no âmbito da Comissão de Constituição e Justiça e de Cidadania (CCJC).
+Como alternativa metodológica se analisará pormenorizadamente os capítulos, guardando
+preferência para duas subdivisões, a primeira a respeito dos dispositivos que tratam de sua
+natureza material, ou seja, natureza-jurídica, finalidade, objetivos, competências e atribuições.
+O outro a sua natureza burocrática, entendida como uma estrutura organizativa caracterizada
+por regras e procedimentos explícitos e regularizados.
+
+3.2. Análise quanto a natureza material do Projeto Legislativo
+
+Far-se-á a análise dos dispositivos que tratam de sua natureza material, ou seja, naturezajurídica, finalidade, objetivos, competências e atribuições. Assim, os Capítulos I, II e V serão o
+foco de análise do subcapítulo a Natureza Jurídica, a Finalidade, as Competências, a Estrutura
+básica e direção, e as Sanções Administrativas.
+O Art.7º. da Lei Complementar nº 95, de 26 de fevereiro de 199839, que dispõe, no artigo
+que o primeiro artigo indique o objeto da Lei a saber: a criação do Instituto Nacional de
+Supervisão e Avaliação da Educação Superior - INSAES, que possui natureza jurídica de
+autarquia federal dotada de personalidade jurídica de direito público, com autonomia
+administrativa e financeira, vinculada ao Ministério da Educação, tendo como sua sede e foro
+o Distrito Federal e atuação em todo território nacional.
+
+39
+
+Dispõe sobre a elaboração, a redação, a alteração e a consolidação das leis, conforme determina o parágrafo
+único do art. 59 da Constituição Federal, e estabelece normas para a consolidação dos atos normativos que
+menciona. Art. 7º O primeiro artigo do texto indicará o objeto da lei e o respectivo âmbito de aplicação, observados
+os seguintes princípios: I - excetuadas as codificações, cada lei tratará de um único objeto; II - a lei não conterá
+matéria estranha a seu objeto ou a este não vinculada por afinidade, pertinência ou conexão; III - o âmbito de
+aplicação da lei será estabelecido de forma tão específica quanto o possibilite o conhecimento técnico ou científico
+da área respectiva; IV - o mesmo assunto não poderá ser disciplinado por mais de uma lei, exceto quando a
+subseqüente se destine a complementar lei considerada básica, vinculando-se a esta por remissão expressa.
+
+78
+
+Dentre as principais críticas apresentadas ao projeto se encontra a natureza jurídica do
+Instituto criado, para alguns uma agência reguladora atípica40, sem autonomia necessária, e que
+usurpa competência de órgãos e secretarias correlatas na área.
+A finalidade proposta pelo governo é supervisionar e avaliar instituições de educação
+superior e cursos de educação superior no sistema federal de ensino, e certificar entidades
+beneficentes que atuem na área de educação superior e básica.
+Deve-se ressaltar que a definição de Sistema Federal de Ensino se encontra no Decreto
+nº. 5.773, de 9 de maio de 200641 e compreende as instituições federais de educação superior,
+as instituições de educação superior criadas e mantidas pela iniciativa privada e os órgãos
+federais de educação superior.
+No mais, pode-se dizer que as atividades de supervisão e avaliação constituem o marco
+regulatório da educação superior atual. Uma observação feita por Susana Salum Rangel em sua
+tese de doutorado esclarece as relações entre supervisão e avaliação e a política regulatória da
+educação superior. Para a autora o fundamento legal encontra-se disposto no art. 9º., IX, da
+LDB, e prevê que a União incumbir-se-á de autorizar, reconhecer e credenciar os cursos de
+educação superior oferecidos por instituições vinculadas ao sistema federal de ensino,
+encontrando amparo constitucional nos Art. 206, VII e Art. 209 da CFRB 1988
+(RANGEL,2012, p. 127). Para a autora:
+“O termo regulação da educação superior, no contexto do sistema federal de ensino,
+apresentado no Decreto nº. 5.773/2006, é definido como a função destinada a expedir
+os atos administrativos autorizativos para o funcionamento de instituições de ensino
+superior e de cursos superiores, sendo associado ao exercício do poder de polícia
+pelo Estado. Neste sentido, o artigo 1º, §1º, do Decreto nº.5.773/2006, define que a
+regulação é realizada por meio de atos administrativos autorizativos do
+funcionamento de instituições de ensino superior e cursos superiores”.
+
+Em Nota Técnica42 de lavra do Consultor Legislativo Ricardo Martins datada de outubro
+de 2012 após fazer a análise topográfica dos dispositivos do projeto indica que o "INSAES será
+simultaneamente instância de avaliação e de regulação" que deverão ser executadas em
+instancias autônomas. Indica que a regulação da educação superior tem três dimensões
+envolvidas, a saber: a normativa, a verificadora e a consultora43. E conclui:
+
+40
+
+Op. Cit. Pag. 34
+Dispõe sobre o exercício das funções de regulação, supervisão e avaliação de instituições de educação superior
+e cursos superiores de graduação e seqüenciais no sistema federal de ensino.
+42
+MARTINS, Ricardo Chaves de Rezende. A Avaliação, a regulação da educação superior e a criação do INSAES:
+Notas sobre o Projeto de Lei Nº. 4.372, de 2012. Brasilia: Consultoria Legislativa Câmara dos Deputados, 2012.
+7p
+43
+Op. Cit. 4p.
+41
+
+79
+
+"A avaliação tem objetivos amplos e deve ser base para as políticas públicas voltadas
+para a educação superior. As políticas de regulação (e suas normas e instrumentos)
+são um subconjunto de políticas que podem e devem se beneficiar da avaliação
+contínua. (...) A regulação é função precípua do Estado. A avaliação é mais ampla
+que a regulação. É de se esperar que a avaliação seja abrangente, integrada,
+diversificada e plural, comportando a convivência de vários sistemas ou subsistemas,
+estatais e não estatais, que dialoguem, complementem-se e desenvolvam salutar e
+vigilante intercâmbio político-metodológico. E, desse modo, a regulação da educação
+superior passará a ser efetiva combinação de processos de autorregularão e
+regulação estatal, baseados em avaliação contínua e permanente, reconhecida por
+todas as partes envolvidas”.
+
+Para cumprir com a referida finalidade, o Artigo 3º, apresenta as competências materiais
+deste Instituto em 13 (treze) incisos. Desta forma, são as competências do INSAES formular,
+desenvolver e executar as ações de supervisão e avaliação de instituições de educação superior
+e cursos de educação superior no sistema federal de ensino, de acordo com as diretrizes
+propostas pelo Ministério da Educação, e em consonância com o Plano Nacional de Educação;
+expedir instruções e estabelecer procedimentos para a aplicação das normas relativas à sua área
+de competência, de acordo com as diretrizes do Ministério da Educação; autorizar, reconhecer
+e renovar o reconhecimento de cursos de graduação e sequenciais; instruir e exarar parecer nos
+processos de credenciamento e recredenciamentos de instituições de educação superior;
+acreditar instituições de educação superior e cursos de graduação; realizar avaliações in loco
+referentes a processos de credenciamento e recredenciamento de instituições de educação
+superior e de autorização, reconhecimento e renovação de reconhecimento de cursos de
+graduação e sequenciais, e diligências para verificação das condições de funcionamento dessas
+instituições e cursos; supervisionar instituições de educação superior e cursos de graduação e
+sequenciais, quanto ao cumprimento da legislação educacional e à indução de melhorias dos
+padrões de qualidade da educação superior, aplicando as penalidades e instrumentos previstos
+na legislação; decretar intervenção em instituições de educação superior, e designar interventor,
+nos termos de lei específica; designar, após indicação do Ministério da Educação, instituição
+de educação superior pública para a guarda do acervo acadêmico de instituições
+descredenciadas, conforme regulamento; conceder, renovar concessão e supervisionar a
+regularidade do Certificado de Entidade Beneficente de Assistência Social - CEBAS, quanto às
+entidades de educação superior e de ensino básico, observados os requisitos e a sistemática da
+Lei no 12.101, de 27 de novembro de 2009; constituir e gerir sistema público de informações
+cadastrais de instituições, cursos, docentes e discentes da educação superior, e disponibilizar
+informação sobre a regularidade e qualidade das instituições e cursos da educação superior e a
+condição de validade de seus diplomas; aprovar previamente aquisições, fusões, cisões,
+
+80
+
+transferências de mantença, unificação de mantidas ou descredenciamento voluntário de
+Instituições de Educação Superior integrantes do sistema federal de ensino; e articular-se, em
+sua área de atuação, com instituições nacionais, estrangeiras e internacionais, mediante ações
+de cooperação institucional, técnica e financeira bilateral e multilateral.
+O que se pode extrair das competências e das funções e finalidades deste órgão é que o
+Governo Federal pretende unificar os trabalhos de várias secretárias em um único órgão;
+objetivando o aperfeiçoamento dos mecanismos e instrumentos de regulação, supervisão e
+indução, alinhando-os às políticas nacionais de desenvolvimento socioeconômico, político e
+cultural. Desta forma implementar a definição de padrões compartilhados de qualidade, na
+perspectiva da internacionalização de Educação Superior brasileira, de modo a permitir, com
+segurança, a acreditação de IES e cursos. Tal padrão fica evidente ao se observar a Tabela 2 –
+Sobreposição de Competências, o que leva a concluir pela busca da eficiência do serviço
+público com a garantia de padrão de qualidade.
+Ao estabelecer normas e procedimentos regulatórios e de supervisão consistentes,
+confiáveis, inovadores e transparentes, pretende aperfeiçoar a comunicação com os agentes
+regulados e aprimorar os mecanismos de transparência e comunicação com o propósito de
+diminuir a assimetria de informações entre o estudante e as IES (aprimorar o controle social),
+por meio da atuação sistêmica com as organizações da sociedade civil e demais instâncias
+governamentais que atuam no setor.
+
+3.3. Análise quanto ao Desenvolvimento Político do Projeto Legislativo
+
+Conforme demonstrado no início do capítulo até o momento atual foram apresentadas,
+ao todo, 636 (seiscentas e trinta e seis) emendas parlamentares. Destas, 81 emendas e 11
+emendas de relator, no âmbito da Comissão de Educação (CE); 19 emendas e 2 emendas de
+relator, no âmbito da Comissão de Trabalho, de Administração e de Serviço Público (CTASP);
+318 emendas, 14 emendas por ela adotadas e 14 emendas de relator, no âmbito da Comissão de
+Finanças e Tributação (CFT) e, por fim, 177 emendas, no âmbito da Comissão de Constituição
+e Justiça e de Cidadania (CCJC).
+Para o escopo deste trabalho analisaremos as 24 (vinte e quatro) emendas que atacam o
+Art. 3, XII, que trata da competência do INSAES para aprovar previamente aquisições, fusões,
+
+81
+
+cisões, transferências de mantença, unificação de mantidas ou descredenciamento voluntário de
+Instituições de Educação Superior integrantes do sistema federal de ensino.
+Uma crítica que de início deve ser efetuada é sobre a qualidade do processo legislativo,
+as emendas apresentadas em todas as comissões haviam apenas 3 (três) modelos, as demais
+eram iguais, muitas vezes de debate já superado e com os assustadores mesmos erros de
+ortografia e de digitação. Disto algumas reflexões podem ser levantadas, tais quais: qual o nível
+de discussão legislativa em um projeto de lei, qual a real intensão dos legisladores? O que posso
+refletir, inicialmente, que se trata apenas de uma forma de impedir o desenvolvimento e o bom
+andamento dos trabalhos, todavia tais observações necessitam de um trabalho mais profundo
+de pesquisa empírica que fogem ao escopo do trabalho.
+Apresentada a crítica, cumpre-se levantar os principais pontos das justificativas
+apresentadas, que de antemão apresentam-se rasas e sem bases teóricas de conhecimento, o que
+em partes justifica este trabalho.
+A primeira das justificativas apresentadas para a supressão e para alteração deste artigo
+foi que em se tratando de Instituições já credenciadas em função dos princípios da
+economicidade e eficiência, basta que o Insaes seja comunicado e proceda a alteração cadastral.
+Tal posicionamento não deve ser acolhido, como não foi, por a Educação Superior exercer um
+papel social, e pela atual legislação educacional, deve passar por um processo de avaliação
+contínua. No mais, com a proliferação de cursos e uma busca desenfreada pelo lucro a qualidade
+do serviço educacional é comprometida, a exemplo das grandes instituições de massa. Sem
+contar, que no aspecto concorrencial limita a concorrência e o poder de escolha do estudante.
+Outro argumento apresentado diz que proposta contraria a Constituição na medida em
+que se imiscui em assuntos próprios da livre iniciativa protegidos pela Constituição ou
+legislação específica. De outra parte, constitui um absurdo uma instituição privada requerer
+autorização governamental para cessar suas atividades.
+Novamente não deve ser acolhida, como não foi. A Educação por tratar da formação das
+pessoas é essencial ao desenvolvimento nacional. Apesar de ser permitida a iniciativa privada
+tem funções sociais a cumprir. Não há contrariedade com a Constituição, muito pelo contrário,
+conforme será demonstrado nos capítulos posteriores, será uma competência complementar e
+subsidiaria que garantirá o seu efetivo cumprimento.
+Complementa este raciocínio o posicionamento do Ministério da Educação no qual
+entende que estes conceitos desenvolvidos e combinados entre si pretendem dar ao Sistema
+Federal de Educação Superior a certeza de que as IES devem se comprometer com o processo
+
+82
+
+regulatório não somente pelos requisitos normativos, mas como uma razão de ser de suas ações,
+um compromisso com a formação de futuros profissionais competentes e éticos.
+A última das tentativas de emenda, apresenta diferentemente das demais questões mais
+interessantes, entretanto, também pouco desenvolvidas, o que pudesse pensar ser devido ao
+desconhecimento do Sistema Brasileiro de Concorrência e do Sistema Jurídico Nacional como
+um todo. Vejamos, no caso que se refere a autorização previa de fusão, aquisição e
+incorporação, por tratar-se de institutos regulados na legislação brasileira e nos casos
+concentração o CADE tem atuação importante, desnecessário a aprovação previa do INSAES.
+O CADE tem função meramente de análise do mercado concorrencial, não analisando os
+impactos fáticos da fusão na qualidade do ensino, o que pode levar a autorizações de gigantes
+educacionais que não cumpram com seu papel social, pela mesma justificativa apresentada no
+parágrafo anterior.
+O artigo não se refere, separadamente, à mantenedora e à mantida, que são entes
+diferentes. Com relação às mantenedoras, o controle é feito pelo CADE, os atos são praticados
+com base na livre iniciativa, nos termos do Artigo 209 da Constituição Federal, e nem sempre
+há repercussão relevante em relação às mantidas. Portanto, as aquisições, as fusões e,
+principalmente, as cisões de mantenedoras somente deveriam ser analisadas pelo MEC ou pela
+Autarquia depois de comprovada a repercussão na qualidade do ensino. Tal posicionamento
+mostra um desprezo pela educação, pode-se usar como analogia o princípio da precaução do
+direito ambiental, é melhor impedir que um dano ocorra, do que tentar corrigi-lo
+posteriormente. Ainda mais na questão da educação superior que é estratégica para o
+desenvolvimento nacional e para a criação de tecnologia. Ainda mais se analisado pela ótica
+dos objetivos da República em garantir o desenvolvimento nacional e erradicar a pobreza e a
+marginalização e reduzir as desigualdades sociais e regionais. Uma análise posterior pode levar
+a uma geração inteira sofrer os danos de uma formação deficitária, na qual o Estado se
+preocupou apenas com o aspecto concorrencial.
+
+83
+
+4. CONSIDERAÇÕES FINAIS
+Conforme visto no decorrer do presente trabalho temos a educação superior
+privada como uma atividade econômica que tem suas premissas baseadas na Constituição
+Federal. Apesar de seu caráter amplo e discussão doutrinária sobre sua natureza jurídica, focou
+a análise em seus aspectos econômicos, em especial àqueles voltados à ordem econômica
+constitucional. Dentro deste espectro de análise apresentou-se as formas de intervenção do
+Estado na economia, para a partir deste embasamento teórico chegar-se na conformação do
+setor perante o Conselho Administrativo de Defesa Econômica.
+Por meio da análise legal e jurisprudencial compreendeu-se que o mercado da
+educação superior é um mercado altamente regulado, em seus aspectos gerais e setoriais, da
+mesma forma que pela jurisprudência do CADE pode-se dizer composto por quatro mercados
+relevantes: os mercados de ensino superior de graduação e pós-graduação, nas suas
+modalidades presencial e à distância. Cada um destes quatro mercados, indica também uma
+dimensão de produto e uma dimensão geográfica. Segundo a análise do caso efetuada sua
+conformação se dá na graduação presencial por cada curso e em âmbito municipal; na
+graduação EAD: em cada curso, entretanto, nos âmbitos nacional e municipal conjuntamente;
+pós-graduação lato sensu presencial e à distância por cursos agrupados por área de
+conhecimento diferindo-se em seu âmbito geográfico, enquanto essa é nacional, aquela é
+municipal.
+Entendeu-se, ainda, que este mercado apresenta barreiras de entrada bem
+definidas tais como ausência de reputação/conhecimento por parte dos alunos; a necessidade de
+altos investimentos e/ou custos irrecuperáveis; a regulação setorial; o papel do investimento em
+marketing e a importância de uma marca forte no mercado, incluindo ainda incluem a
+economias de escala. Isto sem contar às barreiras regulatórias impostas pelo Estado.
+Notou-se que em relação às condições de rivalidade nos mercados de graduação
+presencial, praticamente, o CADE considerou todos os critérios indicados pela SG, a saber:
+evolução das participações de mercado, procurando evidências de comportamento competitivo
+entre as IES instaladas; a análise de capacidades ociosas existentes e da possibilidade de
+expansão dessa capacidade, com o objetivo de verificar se as concorrentes existentes são
+capazes de absorver desvios de demanda. Dentre as mais relevantes estão: o preço, a escala, a
+capilaridade da rede de polos, os investimentos em marketing e a qualidade.
+
+84
+
+Conforme visto no capítulo 1, tem-se presente que o papel desempenhado pela
+livre concorrência estabelece os parâmetros de convivência básicos que os agentes da ordem
+econômica deverão observar. No caso da educação superior, estes princípios foram expostos
+pelo CADE como um mercado altamente regulado visando a qualidade do ensino, mas
+principalmente a garantia de um mercado realmente livre.
+A própria Constituição limita a atividade reguladora do Estado, a partir da regra
+da liberdade de iniciativa, ou seja, não pode se considerar a possibilidade de ação e intervenção
+desmedida por parte do Estado. Se a liberdade de concorrência se desdobra em liberdades
+privadas e públicas, conforme visto, também é forma de tutela do consumidor, na medida em
+que competitividade induz a uma distribuição de recursos a preços mais baixos, garantindo uma
+sociedade mais equilibrada.
+No caso em tela, é de fundamental importância que as requerentes, ao pleitearem
+junto ao CADE a aprovação de um ato de concentração na área da educação superior com base
+na existência de sinergias (eficiências) capazes de, pelo menos, neutralizar efeitos negativos
+derivados da operação, atendendo para a necessidade de não só quantificá-las, mas detalhar de
+que forma tais ganhos serão obtidos. Esse detalhamento permite que alguma eficiência que
+poderia ser descartada pelo fato de não propiciar ganho aos consumidores seja parcialmente
+aceita (caso se identifique que em alguma medida ela pode beneficiar o consumidor embora
+não da forma como defendem as requerentes), ou ainda, que uma eficiência totalmente aceitável
+sob a ótica antitruste não seja descartada por ser considerada meramente especulativa
+Ao Estado, por sua vez, continua o autor, cabe fiscalizar o regular atendimento,
+pela iniciativa privada, dos princípios de funcionamento da ordem econômica. Desta forma,
+ressalva que o Estado não pode pretender, sob pena de subverter os papéis, é que a empresa
+privada, em lugar de buscar o lucro, oriente sua atividade para a consecução dos princípios-fins
+da ordem econômica como um todo, com sacrifício da livre-iniciativa.
+Todavia, procedida análise dos remédios comportamentais estipulados no ato de
+concentração analisado entre Kroton e Anhanguera, importaram em atos de limitação estrutural
+e de condutas, tais como: a limitação à captação de novos alunos nas localidades afetadas por
+determinado período; o impedimento de oferta de vagas e limitação da expansão do número de
+matrículas; a limitação na oferta de cursos; e o comprometimento das requerentes com metas
+de qualidade, tais como o aumento da proporção atual de mestres ou doutores para 80% nos
+cursos de ensino a distância e o incremento de ferramentas disponíveis e de material didático e
+ao estabelecimento de metas de qualidade às requerentes. Percebeu-se uma ausência regulatória
+por parte do MEC no que diz respeito a metas de qualidade nos cursos de ensino a distância.
+
+85
+
+Mas esta ausência regulatória não justifica a determinação pelo CADE de metas pontuais de
+qualidade, direcionadas a apenas um grupo de instituições, visto interferir na liberdade de
+concorrência. Deve, entretanto, o Estado criar condições desiguais para agentes desiguais, como
+é o caso.
+Por fim analisou-se a proposta de criação do INSAES por mais que o governo
+tenha submetido em 2012 o Projeto de Lei que cria instituição com poderes regulatórios sobre
+este mercado, é bem provável que o INSAES ainda não seja criado em 2016, tendo em vista
+que se vivencia um ano com restrições orçamentárias dadas e com a relação entre os Poderes
+Executivo e Legislativo atribuladas
+Compreende-se, portanto, que a livre iniciativa não é tomada como expressão
+individualista, mas sim no quanto expressa de socialmente valioso. É um conceito
+extremamente amplo, embora tenha sido conduzido de forma a ser entendido de forma restrita,
+de que toda a livre iniciativa se esgota na liberdade econômica ou de iniciativa econômica. Na
+CRFB/88 a liberdade é consagrada como fundamento da República Federativa do Brasil e como
+fundamento da ordem econômica, mas não se pode reduzir a livre iniciativa à feição que assume
+como liberdade econômica ou liberdade de iniciativa econômica. Livre iniciativa não se resume
+ao princípio básico do liberalismo econômico, mas sim, abrange todas as formas de produção,
+individuais ou coletivas, também reconhecendo em que a CRFB/88 em seu art. 173, §4º, o
+princípio da repressão aos abusos do poder econômico.
+A proposta de criação do INSAES representa uma tentativa de avanço na ação
+regulatória. Não há dúvidas de que muito já foi feito no sentido de melhorar tanto a avaliação
+quanto a regulação da educação superior, mas um longo caminho ainda deve ser percorrido. É
+importante ressaltar que, por mais que a regulação deste mercado ainda esteja desmembrada
+em várias unidades do ministério da Educação, o CADE não pode tomar para si
+responsabilidades que extrapolem a política de defesa da concorrência e, adentrar em questões
+regulatórias.
+A proposição de remédios deve levar em consideração a capacidade da
+autoridade antitruste em exercer seu monitoramento de forma a não adentrar na competência
+do órgão regulador. Trata-se de uma forma de invenção por direção, ou seja, regulação cogente
+(lato senso) e fiscalização da ordem econômica; e também de Intervenção por indução, ou seja,
+estímulo a determinados setores a atuarem de determinado modo (poder regulamentar lato
+senso) na ordem econômica.
+Na análise dos instrumentos deste trabalho, deve-se evitar sobreposição de
+atribuições e competências entre o CADE e o INSAES, tendo em vista a previsão expressa no
+
+86
+
+Projeto de Lei que cria o INSAES de atribuição desta autarquia para aprovação prévia de atos
+de concentração no mercado de educação superior privada, sendo hoje atribuição do CADE
+exercer tal papel. O processo de estruturação do aparato regulatório estatal deve ser ágil o
+suficiente para acompanhar o surgimento de grandes grupos econômicos neste setor a ponto de
+ser capaz de limitar os prejuízos decorrentes desta concentração e, potencializar os benefícios,
+tais como ganhos de escala e expansão da oferta.
+A incidência de mecanismos de regulação estatal não é neutra em face do setor
+regulado, o Estado arbitra interesses, interfere no jogo econômico, contribui para reordenar a
+competição, este fato obriga a que a regulação estatal esteja adstrita a limites, sem os quais
+poder-se-ia paulatinamente erradicar o princípio da liberdade de iniciativa.
+Por fim, independente de como ocorra a oferta de educação superior, é fato que
+ela é extremamente necessária para o desenvolvimento do país. É papel do Estado garantir que
+toda IES credenciada oferte cursos com qualidade e aptos a formar cidadãos e profissionais de
+que o país necessita.
+O desenvolvimento, portanto, não supõe apenas crescimento econômico, mas
+elevação do nível cultural e intelectual da comunidade dadas as mudanças sociais. Garantir o
+desenvolvimento nacional é primordial ao papel do Estado, necessitando, de um mínimo de
+programação de políticas públicas de longo prazo, pois o subdesenvolvimento é um estado
+dinâmico de desequilíbrio econômico e de desarticulação social, que por sua vez leva ao
+imperativo de uma política nacional para todos os setores da vida social, em especial o setor
+educacional.
+
+87
+
+BIBLIOGRAFIA
+
+ALVES, A. F. A. ; COELHO, Gustavo Flausino . O direito concorrencial nas operações societárias no Brasil:
+novas fronteiras do controle de concentrações à luz da Lei n.º 12.529/2011. Revista Electrónica de Direito RED , v. 3, p. 1-20, 2014.
+BRASIL, Decreto nº. 5.773, de 9 de maio de 2006.Dispõe sobre o exercício das funções de regulação,
+supervisão e avaliação de instituições de educação superior e cursos superiores de graduação e seqüenciais no
+sistema federal de ensino. Diário Oficial da União, Brasilia, DF, 15 maio 2006. Seção 1. Disponível em:
+<http://portal.mec.gov.br/seed/arquivos/pdf/legislacao/decreton57731.pdf> Acesso em: 14 jul. 2016
+BANDEIRA DE MELLO, Celso Antônio. Curso de Direito Administrativo, revista e atualizada até a Emenda
+Constitucional 71, de 29.11.2012. 30ª edição. Malheiros Editores. 2013.
+BARROSO, Luís Roberto. A ORDEM ECONÔMICA CONSTITUCIONAL E OS LIMITES À ATUAÇÃO
+ESTATAL NO CONTROLE DE PREÇOS. Revista Eletrônica de Direito Administrativo Econômico
+(REDAE), Salvador, Instituto Brasileiro de Direito Público, nº. 14, maio/junho/julho, 2008. Disponível na
+Internet: <http://www.direitodoestado.com.br/redae.asp>. Acesso em: 2016-04-03.
+BOAVENTURA, Edivaldo Machado. Um ensaio de sistematização do direito educacional. Revista de
+Informação Legislativa, Brasília/DF, v. 33, n. 131, p.31-57, jul. 1996. Trimestral. Disponível em:
+<http://www2.senado.leg.br/bdsf/item/id/176476>. Acesso em: 03 abr. 2016.
+BRASIL. Congresso. Câmara dos Deputados. Projeto de Lei nº 4372-D, de 2012. Cria o Instituto Nacional de
+Supervisão e Avaliação da Educação Superior - INSAES, e dá outras providências. Projeto de Lei N.º 4372-d,
+de 2012.
+DOMINGUES, Juliana Oliveira. Defesa da concorrência e comércio internacional no contexto do
+desenvolvimento: os cartéis de exportação como isenção antitruste. 2010. 318 f. Tese (Doutorado) - Curso de
+Direito das Relações Econômicas Internacionais, Pontifícia Universidade Católica de São Paulo, São Paulo,
+2010. Disponível em: <http://www.sapientia.pucsp.br/tde_busca/arquivo.php?codArquivo=12126>. Acesso
+em: 03 abr. 2016.
+FRANCISCO, Thiago Henrique Almino et al. As Funções Administrativas e as Práticas Gerenciais na
+Educação Superior Privada. Revista de Ciências da Administração, Florianópolis, p. 95-107, abr. 2013. ISSN
+2175-8077. Disponível em: <https://periodicos.ufsc.br/index.php/adm/article/view/18755>. Acesso em: 03
+abr. 2016.
+GRAU, Eros Roberto. A ordem econômica da constituição de 1988. São Paulo: Malheiros, 14ª. Ed. 2010
+JACOBS, Edgar Gastón; HABIBE, Taís Cruz. O INSAES e o controle prévio de fusões e incorporações na
+área educacional. 2012. Disponível em: <http://www.gestaouniversitaria.com.br/artigos/o-insaes-e-o-controleprevio-de-fusoes-e-incorporacoes-na-area-educacional--2>. Acesso em: 03 abr. 2016.
+KOPPE, Leonardo Renner. Instituições de ensino superior privadas no Brasil: os casos das organizações de
+ensino com fins lucrativos no Rio Grande do Sul. 2014. 256 f. Tese (Doutorado) - Curso de Programa de Pósgraduação em Sociologia, Instituto de Filosofia e Ciências Humanas, Universidade Federal do Rio Grande do
+Sul, Porto Alegre, 2014. Disponível em: <http://hdl.handle.net/10183/102228>. Acesso em: 03 abr. 2016.
+MARQUES NETO, Floriano de Azevedo. Limites à Abrangência e à Intensidade da Regulação Estatal. Revista
+Eletrônica de Direito Administrativo Econômico, Salvador, Instituto de Direito Público da Bahia, nº. 4, nov/dez
+2005, jan 2006. Disponível na Internet: <http://www.direitodoestado.com.br>. Acesso em: 03 abr. 2016.
+MARRARA, Thiago. Sistema Brasileiro de Defesa da Concorrência: organização, processos e acordos
+administrativos. 1. ed. São Paulo: Atlas, 2015. v. 1. 496 p.
+
+88
+
+MARTINS, Ricardo Chaves de Rezende. A Avaliação, a regulação da educação superior e a criação do
+INSAES: Notas sobre o Projeto de Lei Nº. 4.372, de 2012. Brasilia: Consultoria Legislativa Câmara dos
+Deputados, 2012.
+MATTOS, Paulo Todescan Lessa. A Formação do Estado Regulador. Revista Novos Estudos, São Paulo, v.
+76,
+p.139-156,
+nov.
+2006.
+Quadrimestral.
+Disponível
+em:
+<http://novosestudos.uol.com.br/v1/contents/view/1253>. Acesso em: 03 abr. 2016.
+MATTOS, César. Remédios em atos de concentração: a experiência internacional e o Brasil. In: OLIVERIA,
+Amanda F., e RUIZ, Ricardo M. (org.). Remédios Antitruste. São Paulo: Editora Singular, 2011.
+MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. 28ª ed. São Paulo: Malheiros Editora,
+2010
+MOREIRA, Egon Bockmann; MATTOS, P. T. L. (Org.) . Direito concorrencial e regulação econômica. 1. ed.
+Belo Horizonte: Forum, 2010. v. 1.
+NUNES, Edson; MARTIGNORI, Enrico; RIBEIRO, Leandro. Economia política e regulação da educação
+superior no Brasil. In: _______. Avaliação e regulação da educação superior: experiências e desafios. Brasília,
+Funadesp, 2005. p. 263-310. Serie Gestão de IES nº 1.
+PEREIRA, Tarcísio Luiz; BRITO, Silvia Helena Andrade de. AS AQUISIÇÕES E FUSÕES NO ENSINO
+SUPERIOR PRIVADO NO BRASIL: As aquisições e fusões no Ensino Superior Privado no Brasil. In:
+CONGRESSO IBERO-AMERICANO DE POLÍTICA E ADMINISTRAÇÃO DA EDUCAÇÃO, 2014,
+Porto/pt. Anais... . Porto: Associação Nacional de Política e Administração da Educação, 2014. p. 1 - 15.
+Disponível
+em:
+<http://www.anpae.org.br/IBERO_AMERICANO_IV/GT2/GT2_Comunicacao/TarcisioLuizPereira_GT2_in
+tegral.pdf>. Acesso em: 03 abr. 2016.
+QUEIROZ, Fernanda Cristina Barbosa Pereira et al . Transformações no ensino superior brasileiro: análise das
+Instituições Privadas de Ensino Superior no compasso com as políticas de Estado. Ensaio: aval.pol.públ.Educ.,
+Rio de Janeiro, v. 21, n. 79, p. 349-370, jun.
+2013 .
+Disponível em
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-40362013000200009&lng=en&nrm=iso>.
+Acesso em 03 ago. 2016.
+RUAS, Claudia Mara Stapani. GRANDES OLIGOPÓLIOS DA EDUCAÇÃO SUPERIOR E A GESTÃO DO
+GRUPO ANHANGUERA EDUCACIONAL: 2007 - 2012. 2015. 313 f. Tese (Doutorado) - Curso de
+Educação, Universidade Católica Dom Bosco, Campo Grande, 2015. Disponível em:
+<http://site.ucdb.br/public/md-dissertacoes/15497-claudia-mara-stapani.pdf>. Acesso em: 03 abr. 2016.
+SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 34. ed. Revista e atualizada (até Emenda
+Constitucional n. 67, de 22.12.2010). São Paulo: Malheiros Editores Ltda, 2011.
+SOARES, Maria Susana Arrosa; OLIVEN, Arabela Campos; BRASIL Coordenação do Aperfeiçoamento de
+Pessoal de Nível Superior. A educação superior no Brasil. Brasília, DF:CAPES, 2002. 304 p. (Biblioteca Anísio
+Teixeira. Estudos)
+VERÇOSA, Haroldo Malheiros Duclerc. Curso de Direito Comercial 1 – Teoria Geral do Direito Comercial e
+das Atividades Empresariais Mercantis, Introdução à Teoria Geral da Concorrência e dos Bens Imateriais. 3ª,
+Edição, revista, atualizada e ampliada. Malheiros Editores. São Paulo. 2011
+VIANA DE PAIVA, Ricardo Carvalho et al. Educação Superior Privada: Um Estudo Comparativo do
+Desempenho Financeiro em nove Instituições de Ensino Superior. Revista Gestão & Tecnologia, [S.l.], v. 14,
+n. 1, p. 68-99, abr. 2014. ISSN 2177-6652. Disponível em: <http://revistagt.fpl.edu.br/get/article/view/452>.
+Acesso em: 03 abr. 2016. doi:http://dx.doi.org/10.20397/g&t.v14i1.452.
+
+89
+
+ANEXOS E TABELAS
+Tabela 1 - Síntese da definição de mercado relevante adotada pelo CADE no mercado de
+educação superior
+
+Dimensão produto
+Graduação
+presencial
+
+Cada curso
+
+Municipal
+Duas definições: uma
+
+Graduação
+Cada curso
+
+EAD
+
+Dimensão geográfica
+
+municipal e outra
+nacional
+
+Pós-graduação
+lato
+
+sensu
+
+presencial
+
+Cursos agrupados por
+área de conhecimento
+
+Pós-graduação
+
+Cursos agrupados por
+
+lato sensu EAD
+
+área de conhecimento
+
+Municipal
+
+Nacional
+
+Fonte: Voto do Ato de concentração nº 08700.005447/2013-12
+
+90
+
+Tabela 2 - Detalhamento das disposições do PL n° 4.372/2012- INSAES
+
+91
+
+Tabela 3 – Sobreposição de Competências – INSAES x MEC
+
+92
+
+Tabela 4 – Decisões em atos de concentração nos mercados de ensino superior privado
+2001 a 2015
+
+

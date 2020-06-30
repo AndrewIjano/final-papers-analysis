@@ -1,0 +1,1613 @@
+Guilherme Teruaki Kuwahara de Toledo
+
+Determinação do biocida anti-incrustrante clorotalonil em amostras de água do
+sistema estuarino de Santos de São Vicente, SP e da represa do Broa Itirapina,
+SP.
+
+Monografia apresentada ao Instituto de
+Química de São Carlos da Universidade
+de São Paulo como parte dos requisitos
+para conclusão do Curso de Bacharelado
+em Química
+Orientadora: Profª. Dra. Eny Maria Vieira
+
+São Carlos
+2015
+
+"A química é absolutamente encantadora. Uma ciência que está de braços
+eternamente abertos a quem se dispuser a tentar compreendê-la. Uma fonte
+inesgotável de inspiração e de beleza, que vem caminhando lado a lado com a
+evolução
+
+da
+
+humanidade,
+
+fornecendo
+
+respostas
+
+e
+
+alternativas
+
+a
+
+seus
+
+questionamentos"
+
+Aldo José Gorgatti Zarbin
+21 de agosto de 2014
+
+Agradecimentos
+
+Gostaria de agradecer a professora Eny Maria Vieira pela oportunidade de ter
+trabalhado em seu laboratório e agradecer por todo conhecimento passado, tanto
+quanto professora durante a graduação como orientadora durante a iniciação
+cientifica.
+Agradeço imensamente a Lia Gracy Diniz por toda a ajuda e orientação
+fornecida, sem sua ajuda este projeto não teria sido possível.
+Aos colegas de laboratório, por toda ajuda, companheirismo e apoio durante a
+realização deste trabalho.
+Aos amigos e colegas de graduação, pela amizade e companheirismo.
+A todos os professores e funcionários do Instituto de Química de São Carlos.
+E por último e não menos importante agradeço a minha família que me apoiou
+e sustentou durante todos os anos de graduação
+
+Resumo
+
+Guilherme Teruaki K. de Toledo, Determinação do biocida anti-incrustrante clorotalonil
+em amostras de água do sistema estuarino de Santos de São Vicente, SP e da represa
+do Broa Itirapina, SP. Monografia apresentada ao Instituto de Química de São Carlos
+da Universidade de São Paulo
+
+As tintas anti-incrustantes são pinturas utilizadas para tentar impedir o crescimento de
+organismos bioincrustantes, quando não são utilizadas a incrustação pode acarretar
+em um aumento de custo operacional para as embarcações de até 77%. Estudos
+sobre a toxicidade dessas tintas relatam sua ação em organismos não alvo, desse
+modo, neste estudo avaliou-se a presença do biocida clorotalonil em amostras de
+água coletadas no sistema estuarino de Santos de São Vicente. O método utilizado
+para o trabalho apresentou fator de linearidade de R2=0.98 e uma recuperação de
+97,8%. Também foi estudada a presença do biocida clorotalonil para amostras de
+água da represa do Broa em Itirapina-SP. O método mostrou-se promissor quando
+utilizado em matrizes de água doce, apresentando linearidade de R2=0,984 e
+recuperação de 61%. Para ambas as amostras de Santos e de Itirapina as
+concentrações de clorotalonil encontraram-se abaixo do limite de detecção do método,
+não sendo possível sua determinação.
+
+Abstract
+
+Guilherme Teruaki K. de Toledo, Determination of the antifouling agent chlorothalonil
+in water samples collected from the estuary of Santos, São Vicente, SP and samples
+from the Broa dam in Itirapina, SP.
+
+The antifouling paints are used to prevent the growth of biofouling organisms, when
+they are not used, the total operation cost of ships may increase up to 77%.
+Researchers have shown the toxic effects of these paints to non-target organisms,
+thus, in this study the aim was to evaluate the presence of the biocide chlorothalonil in
+water samples collected from the estuary system of Santos Sâo Vicente, SP. The
+methodology used in this work showed a linear factor of R2=0,98 and a recovery of
+97,8%. The method was also used in samples from the Broa dam giving promising
+results of linar factor R2=0,984 and a recovery of 61%. All the samples studied had
+their concentration of chlorothalonil below the detection limit of the method.
+
+Lista de Figuras
+
+Figura 1 - Formula estrutural do Diuron Fonte: Sigma-Aldrich.
+Figura 2 - Formula estrutural do Irgarol 1051 Fonte: Sigma-Aldrich.
+Figura 3 - Formula estrutural do Clorotalonil Fonte: Cox, C.; Anvisa.
+Figura 4 - Figura 4 Esquema de extração líquido-líquido Fonte: Wikipedia.
+Figura 5 - Fluxograma de tratamento de amostra.
+Figura 6 - Gráfico da curva analítica em água doce.
+Figura 7 - Gráfico das áreas do pico cromatográfico das amostras de água do Broa
+fortificadas
+Figura 8 - Gráfico das áreas de pico cromatográfico das amostras de água do Broa.
+Figura 9 - Curva analítica para as amostras de água de Santos.
+Figura 10 - Valores de área de pico cromatográfico para as amostras coletadas de
+água em Santos.
+
+Lista de Tabelas
+
+Tabela 1 - Local de coleta das amostras de água do Broa.
+Tabela 2 - Local de coleta das amostras de água de Santos.
+Tabela 3 - Dados para a construção da curva de calibração para amostras de água
+coletadas do Broa.
+Tabela 4 - Resultados das amostras do Broa.
+Tabela 5 - Concentração do clorotalonil presente nas amostras fortificadas.
+Tabela 6 - Dados para a curva analítica para as amostras de água coletadas em
+Santos
+Tabela 7 - Área e tempo de retenção das amostras de água coletadas em Santos.
+
+Sumário
+Agradecimentos ................................................................................................................................. 3
+Resumo ................................................................................................................................................. 4
+Abstract................................................................................................................................................. 5
+Lista de Figuras .................................................................................................................................. 6
+Lista de Tabelas .................................................................................................................................. 7
+Sumário ................................................................................................................................................. 8
+1
+
+2
+
+3
+
+Contextualização ........................................................................................................................ 9
+1.1
+
+Tintas Anti-incrustantes ................................................................................................... 9
+
+1.2
+
+Clorotalonil......................................................................................................................... 10
+
+1.3
+
+Impacto Ambiental ........................................................................................................... 11
+
+1.4
+
+Preparo da amostra ......................................................................................................... 11
+
+1.5
+
+Análise cromatográfica................................................................................................... 13
+
+1.6
+
+Objetivos............................................................................................................................. 14
+
+Parte Experimental................................................................................................................... 14
+2.1
+
+Materiais e Reagentes ..................................................................................................... 14
+
+2.2
+
+Pontos de coleta das amostras .................................................................................... 15
+
+2.3
+
+Extração e pré-concentração da amostra.................................................................. 17
+
+2.4
+
+Análise cromatográfica................................................................................................... 17
+
+Resultados e Discussão ......................................................................................................... 18
+
+4 Conclusão ....................................................................................................................................... 27
+Referências ........................................................................................................................................ 28
+Glossário ............................................................................................................................................ 30
+
+9
+
+1
+
+Contextualização
+
+1.1 Tintas Anti-incrustantes
+
+O crescimento de microrganismo, plantas e animais é um fenômeno natural
+denominado bioincrustação que ocorre em todas as superfícies imersas1. Quando
+essa incrustação ocorre em navios o aumento do atrito da água com o casco da
+embarcação acarreta em um maior consumo de combustível e maior custo de
+operação. Abbott, A. mostrou por meio de suas pesquisas que o custo operacional de
+uma embarcação pode aumentar em até 77% quando há incrustação 2.
+As tintas anti-incrustantes são pinturas utilizadas para tentar impedir a
+deposição e crescimento de organismos bioincrustantes em superfícies imersas, o
+primeiro registro da utilização desse sistema data de dois mil anos atrás, onde os
+cascos das embarcações eram revestidos com chumbo e uma mistura de óleos de
+baleia, enxofre e arsênio3. Porém foi apenas no século XX que as denominadas tintas
+de primeira geração foram criadas, eram tintas feitas a base de óxidos de cobre e
+zinco que possuíam uma vida útil de apenas um ano, por esse motivo em 1961
+começou-se a utilizar as tintas à base de compostos organoestânicos (COEs). Essas
+tintas conhecidas como segunda geração tinham como principal componente o
+tributilestanho (TBT) ou o trifenilestanho (TPT). Essas tintas foram utilizadas
+amplamente até a década de 80 quando começaram a surgir relatos dos problemas
+ambientais relacionado a toxicidade desses compostos. Devido a essa toxicidade em
+2003 começou o processo de banimento desses compostos pela organização
+marítima internacional (IMO)3, 4.
+Apesar das tintas de terceira geração existirem desde 19873, foi com o
+banimento das COEs que elas começaram a ser utilizadas como principal agente
+biocida, essas tintas são baseadas em sua maioria em substancias orgânicas não
+metálicas como o diuron Figura 1, irgarol 1051 Figura 2 e o clorotalonil Figura 3.
+Mesmo não possuindo estanho em sua composição, estudos mostraram que
+compostos como o Irgarol 1051 são extremamente tóxicos para algas marinhas não
+alvo5, portanto é importante o seu monitoramento em zonas de trafico intenso de
+embarcações3.
+As Figuras 1 e 2 apresentam as formulas estruturais dos compostos diuron e
+Irgarol 1051.
+
+10
+
+Figura 1. Formula estrutural do Diuron
+Fonte: Sigma-Aldrich.
+
+Figura 2. Formula estrutural do Irgarol
+1051 Fonte: Sigma-Aldrich
+
+1.2 Clorotalonil
+
+O composto foco deste estudo é o biocida 2,4,5,6-tetracloroisoftalonitrila
+(C8Cl4N2)que possui massa molar de 265,9 g mol-1 também conhecido como
+clorotalonil Figura 3, um fungicida pertencente à família das isoftalonitrilas, esse
+composto é foto sensível, ou seja, em presença de luz o seu processo de degradação
+é acelerado6. O clorotalonil é utilizado a mais de 30 anos, principalmente para a
+agricultura e uso doméstico, chegou a ser um dos fungicidas mais utilizados nos EUA
+ficando atrás apenas do enxofre7, a Figura 3 apresenta a formula estrutural do
+clorotalonil.
+
+Figura 3. Formula estrutural do Clorotalonil
+Fonte: Cox, C.; Anvisa.
+
+11
+
+1.3 Impacto Ambiental
+
+Efeitos tóxicos de biocidas anti-incrustantes são particularmente evidentes para
+espécies marinhas. A inibição do crescimento de organismos marinhos em cascos de
+embarcações é significante em concentrações de até µg L-1(ppb)8.
+O clorotalonil age principalmente inibindo a ação de enzimas glicolíticas e de
+respiração do ciclo de Krebs que são dependentes de grupos tiols9, acarretando em
+morte celular. Por causa do seu mecanismo de ação, estudos mostraram que o
+clorotalonil tem efeitos tóxicos em outras espécies que não são alvo, como a alga
+Dunaliella tertiolecta e o peixe Pimephales promelas em concentração de 64µg L-1
+(EC50) e 22,6 µg L-1 (LC50) respectivamente10
+Devido a seus efeitos, estudos sobre a concentração desses compostos é de
+extrema importância, porém na América do Sul existem poucos dados da presença
+desses compostos nas águas do país ou estudos sobre os compostos de degradação
+sendo que o clorotalonil é fotossensível. Sem esses estudos não é possível criar
+regras normativas para controle dessas substâncias para evitar possíveis danos
+permanentes ao meio ambiente, apenas dois anos depois do banimento pela IMO que
+o Brazil incluiu uma resolução para o controle do TBT (CONAMA Resolução 357 de
+2005)11
+1.4 Preparo da amostra
+
+A preparação de amostra é a etapa mais importante de um método analítico, é
+nesta etapa que se encontram a maior parte das fontes de erro em uma metodologia,
+quando não realizada corretamente os resultados obtidos podem se tornar inexatos e
+imprecisos.
+A metodologia desenvolvida pelo grupo6 utiliza-se de cromatografia líquida,
+técnica que analisa volumes muito pequenos, por esse motivo as amostras precisam
+passar por um processo de pré-concentração, esse método também facilita a
+detecção do analito. Quando se utiliza métodos de concentração do analito na própria
+matriz também se concentra outros compostos que podem vir a interferir na análise,
+
+12
+
+por isso é necessário o uso de método de extração que remova o analito da matriz
+estudada.
+O princípio da extração líquido-líquido (liquid–liquid extraction - LLE) baseia-se
+na utilização de dois solventes imiscíveis onde a extração ocorre devida a afinidade
+do analito nesses dois solventes, porém a eficiência da extração depende
+principalmente da afinidade do analito pelo solvente de extração, quanto maior for a
+diferença entre a afinidade matriz/extrator (conhecido como coeficiente de
+distribuição) melhor será o rendimento da extração.
+O método de extração LLE é de simples execução podendo ser feita com
+equipamentos simples como funis de separação ou béqueres. A Figura 4 apresenta
+um esquema de extração líquido-líquido.
+
+Figura 4 Esquema de extração líquido-líquido Fonte: Wikipedia
+
+De acordo com a ficha de informação de segurança de produtos químicos
+(FISPQ) o clorotalonil apresenta uma baixa solubilidade em água e alta solubilidade
+em ciclohexano7,
+
+12,
+
+como esse solvente é imiscível com a água ele torna-se um
+
+solvente melhor para ser utilizado na extração LLE.
+
+13
+
+1.5 Análise cromatográfica
+
+O princípio cromatográfico foi desenvolvido no começo do século pelo botânico
+russo Mikhael S. Tswett que empregou a técnica para separar pigmentos presentes
+em folhas por meio da passagem de extratos de folha arrastados por éter de petróleo
+por leitos de carbonato de cálcio, o nome dado a técnica vem do grego chroma (cor)
+e graphein (escrever). Em 1993 a IUPAC (international union of pure and applied
+chemistry) definiu que o termo cromatografia seria definido como: “cromatografia é o
+método físico de separação no qual os componentes a serem separados se distribuem
+entre duas fases, uma das quais estacionária (FE), enquanto a outra se movimenta
+numa direção definida (fase móvel FM)”13.
+Pode-se definir a cromatografia em algumas técnicas diferentes, as 3 mais
+utilizadas são, a cromatografia gasosa, onde tem-se uma fase móvel que é um gás
+que arrasta o analito (gasoso ou vaporizado) por uma coluna oca, fina e revestida com
+a fase estacionaria; tem-se a cromatografia de camada delgada, onde a fase
+estacionária é suportada em uma superfície plana como um papel e a fase móvel se
+desloca por efeito de gravidade ou capilaridade. O terceiro tipo é a cromatografia
+líquida onde a fase móvel é um líquido e o analito pode ser um líquido ou pode estar
+dissolvido na fase móvel, nesse método uma coluna é preenchida com a fase
+estacionária13.
+A cromatografia líquida de alta eficiência (CLAE ou HPLC do seu nome em
+inglês) é uma técnica similar a cromatografia líquida, nesta técnica a fase estacionária
+é constituída de um material bastante particulado, aumentando assim a área de
+contato disponível para o analito interagir. Além disso a coluna encontra-se bastante
+compactada criando assim um impedimento físico à passagem do solvente da FM,
+esse impedimento é contornado aplicando-se pressão na fase móvel com o auxílio de
+uma bomba. Existem vários processos de interação do analito com a fase
+estacionaria, dependendo das propriedades físico-químicas do composto que
+queremos estudar escolhe-se a técnica que melhor se aplica para a separação do
+analito e dos interferentes presentes na solução, nesse projeto utilizamos o processo
+de adsorção que se baseiam em interações “fracas” entre o analito e os grupos
+
+14
+
+funcionais que são incorporados na FE, essas interações podem ser eletrostáticas,
+dipolares ou ligação de hidrogênio13, 14.
+Como cada composto tem uma força de interação diferente com os grupos
+funcionais que se encontram na FE, assim quando a fase móvel arrasta esses
+compostos pela FE os que tiverem uma força maior são atrasados em relação aos
+compostos com interação fraca, com o tempo se cria um gradiente de separação cujo
+os primeiros compostos a serem eluidos são os compostos com interação fraca ou
+inexistente13, 14.
+Para a detecção dos componentes separados em HPLC, normalmente utilizase detectores de ultravioleta (UV), em um único comprimento de onda, ou em
+varredura, lançando mão do arranjo de fotodiodos (DAD), ou ainda, um detector de
+fluorescência.
+
+1.6 Objetivos
+
+Determinar a concentração do biocida anti-incrustante clorotalonil em amostras
+de águas do Sistema Estuarino de Santos, de São Vicente, SP e da represa do lobo
+(Broa) em Itirapina-SP.
+
+2
+
+Parte Experimental
+2.1 Materiais e Reagentes
+
+Todas as vidrarias utilizadas foram previamente lavadas com solução Extran®
+alcalino à 5%, em seguida enxaguados com água e água livre de compostos orgânicos
+e em seguida lavados com acetona e secados em estufa à 40ºC, vidrarias de medição
+foram secas ao ar livre.
+Para o padrão do clorotalonil foi utilizado produto da Flukar Analytical, pureza
+99%; metanol grau cromatográfico (Panreac); acetona grau cromatográfico (Panreac);
+acetonitrila grau cromatográfico (Tedia Company); ciclohexano (Synth); água
+ultrapura (Milli-Q), sistema Millipore. Como o padrão de clorotalonil é um composto
+sólido uma solução estoque foi preparada com concentração de 1000 mg L -1 em
+
+15
+
+metanol. A partir dessa solução foram preparadas as soluções de trabalho através de
+diluição, todas as soluções preparadas foram armazenadas em geladeira, protegidas
+da luz e em temperatura média de 4ºC
+Os equipamentos utilizados foram: pHmetro (Hanna Instruments); balança
+analítica eletrônica, (Shimadzu), faixa de precisão de 0,0001 g; refratômetro manual
+portátil (Instrutherm); funil de separação de 100 mL (Roni Alzi); balões volumétricos
+de 5, 10 e 25 mL (Hexis) e micropipetas com faixas de 0,2 a 200 e de 100 a 1000 μL
+(HT Lab).
+As análises foram feitas utilizando cromatógrafo à líquido de alta eficiência,
+marca Agilent Technologies, modelo 1200 Series (USA), com desgaseificador
+G1322A, bomba quaternária G1311A, amostrador automático ALS G1329A,
+compartimento da coluna termostatizado G1315A e detector de arranjo de diodos
+G1315D e; Microcomputador, com programa ChemStation, ver. B.03.01, para controle
+do equipamento e obtenção dos dados. Utilizou-se uma coluna C18, Macherey-Nagel
+Nucleosil, 150 x 4,6 mm, endcaped, 5 μm de tamanho de partícula.
+Quando necessário a água sintética foi preparada com sal marinho comercial
+da marca Blue Tresure® ficando com salinidade 30 e pH 8,0, o sal foi dissolvido em
+água ultrapura.
+
+2.2 Pontos de coleta das amostras
+
+O método analítico desenvolvido por Zanuto, G.6 é aplicado para águas
+salgadas, porém como a movimentação de embarcações em lagos e rios também é
+relevante aplicou-se o método para águas da represa do Broa. As Tabelas 1 e 2
+apresentam os pontos de coleta das amostras.
+
+16
+
+Tabela 1 Local de coleta das amostras de água do Broa
+
+Número da
+
+Descrição do
+
+Coordenadas
+
+Temperatura
+
+Horário da
+
+amostra
+
+local
+
+do local
+
+°C
+
+coleta
+
+1
+
+Pier USP
+
+24
+
+15:56h
+
+2
+
+Iate Club
+
+24
+
+16:38h
+
+3
+
+Prainha
+
+24
+
+16:55h
+
+S22º10’18’’
+W47º54’3’’
+S22º10’46’’
+W47º54’11’’
+S22º10’45’’
+W47º53’22’’
+
+Tabela 2 Local de coleta das amostras de água em Santos*
+
+Número
+Amostra
+
+Descrição
+do local
+BalsaPonta da
+Praia
+
+Horário da
+coleta
+
+T ºC
+
+pH
+
+OD, %
+
+Salinidade
+
+9:20
+
+22
+
+8,04
+
+33,1
+(2,37mg
+L-1)
+
+40
+
+5
+
+Terminal 1
+
+9:36
+
+22,1
+
+8,22
+
+62,4
+
+40
+
+6
+
+Terminal 2
+
+9:59
+
+22,1
+
+8,27
+
+-
+
+40
+
+7
+
+Terminal 3
+
+10:15
+
+22,2
+
+8,22
+
+47,6
+
+40
+
+10:40
+
+21,7
+
+8,20
+
+56
+
+40
+
+11:01
+
+22,2
+
+8,09
+
+36,5
+
+30
+
+4
+
+8
+9
+
+Caisa da
+Alemoa
+São Vicente
+1
+
+10
+
+São Vicente
+2
+
+11:25
+
+21,6
+
+8,04
+
+51,6
+
+30
+
+11
+
+São Vicente
+3
+
+11:54
+
+21,6
+
+8,11
+
+56
+
+30
+
+*Coleta realizada pela doutoranda Lia Gracy Rocha Diniz no dia 06/09/2015
+
+Obs
+
+Prox. a
+navio;
+Cogel
+Vicente
+Carvalho;
+Presença
+de cracas
+Prox. a
+navio
+
+Ponte
+Anchieta
+Poção de
+pesca;
+Favela
+México 70
+Marina;
+
+17
+
+2.3
+
+Extração e pré-concentração da amostra
+
+Para a extração do analito de interesse empregou-se a extração líquido-líquido
+transferindo-se 50 mL da amostra para um funil de separação de 60 mL e em seguida
+adicionou-se 5 mL do solvente ciclohexano. A mistura foi agitada manualmente
+deixando-a descansar até completa separação, a parte orgânica foi coletada e o
+processo repetido duas vezes.
+Foi coletada a fase orgânica e transferida para frascos âmbar de 20 mL que
+foram colocados em fluxo suave de nitrogênio até secagem completa, em seguida o
+extrato foi reconstituído com 1 mL de metanol obtendo-se assim um fator de
+concentração de 50 vezes na amostra/extrato. A Figura 5 mostra um esquema do
+tratamento da amostra.
+
+Figura 5 Fluxograma de tratamento de amostra
+
+2.4 Análise cromatográfica
+
+As amostras foram analisadas em cromatógrafo à líquido com coluna de C18 a
+25 ºC. A fase móvel foi composta pela mistura de acetonitrila e água na proporção de
+70/30 com vasão de 1 mL min-1 no modo isocrático, com tempo total de análise de 5
+
+18
+
+min e injeção automática de 10 µL. Para a detecção foi utilizado comprimento de onda
+de 231nm.
+3
+
+Resultados e Discussão
+
+Para a análise das amostras de água coletadas na represa do Broa foi feita
+uma curva de calibração através da diluição da solução de clorotalonil em soluções
+de trabalho nas concentrações 0,1; 0,5; 1; 2; 3 e 4 mg L-1, como o processo de
+extração concentra a amostra em um fator de 50 vezes as concentrações equivalentes
+na matriz são de 0.002; 0,01; 0,02; 0,04; 0,06 e 0,08 mg L-1. Os resultados obtidos na
+análise por HPLC são mostrados na Tabela 3.
+Tabela 3 Dados para a construção da curva de calibração para amostras de água coletadas do Broa.
+
+Conc.
+mg/L
+
+Área do
+Pico
+
+Desvio
+Média Área
+
+(mAU.S)
+
+padrão %
+da Área
+
+8,458
+0,1
+
+0,5
+
+1
+
+2
+
+3
+
+4
+
+10,908
+
+Tempo
+
+Média
+
+Retenção
+
+Tempo
+
+3,591
+9,735
+
+12,617
+
+3,624
+
+9,838
+
+3,65
+
+60,2626
+
+3,654
+
+52,7424
+
+55,834
+
+7,047
+
+3,651
+
+54,496
+
+3,648
+
+114,119
+
+3,647
+
+109,198
+
+113,238
+
+3,25
+
+3,644
+
+116,398
+
+3,646
+
+209,57
+
+3,64
+
+209,337
+
+209,356
+
+0,1
+
+3,633
+
+209,161
+
+3,631
+
+257,709
+
+3,633
+
+257,24
+
+256,567
+
+0,62
+
+3,633
+
+254,753
+
+3,634
+
+373,106
+
+3,632
+
+372,468
+372,663
+
+372,746
+
+0,09
+
+3,633
+3,637
+
+3,622
+
+3,651
+
+3,646
+
+3,635
+
+3,633
+
+3,634
+
+19
+
+Para melhor visualização dos resultados, os valores obtidos foram plotados em
+um gráfico, Figura 6, com esses dados observou-se que uma equação que relaciona
+a concentração com a área do pico cromatográfico pode ser descrita como:
+
+𝑌 = 13,9774 + 88,6205 ∗ 50 ∗ 𝐶 (mg L-1)
+
+Equação 1
+
+O fator de 50 vezes já é considerado na equação assim, ao colocar-se um valor
+de área de pico (Y) encontra-se diretamente a concentração (C) do biocida na matriz
+original, antes da extração. A equação apresenta um bom fator de linearidade R 2
+0,984, esse fator indica o quão linear é a relação entre a área e a concentração.
+Segundo a ANVISA15 valores acima de R2 = 0.99 são considerados aceitáveis
+
+400
+
+Equation
+
+y = a + b*x
+
+Weight
+
+No Weighting
+
+Residual Sum
+of Squares
+
+350
+
+Área (mAU.s)
+
+300
+
+1191,56682
+
+Pearson's r
+
+0,99349
+
+Adj. R-Square
+
+0,98377
+Value
+
+Standard Error
+
+E1
+
+Intercept
+
+13,97447
+
+11,41328
+
+E1
+
+Slope
+
+88,62055
+
+5,0822
+
+250
+200
+
+medida 1
+Medida 2
+Medida 3
+Média
+Fit Linear
+
+150
+100
+50
+0
+0
+
+1
+
+2
+
+3
+
+Concentração
+
+Figura 6 Gráfico da curva analítica em água doce.
+
+4
+
+20
+
+A partir da curva analítica pode-se analisar as amostras para determinar a
+concentração do biocida, e avaliar se algum contaminante presente na matriz
+influenciam o resultado. Foram fortificadas três amostras com concentração
+conhecida de 0,5; 2 e 4 mg L-1 do clorotalonil antes de ser feita a extração. Os
+resultados obtidos são apresentados na Tabela 4.
+
+Tabela 4 Resultados das amostras do Broa.
+
+Desvio
+padrão
+
+Amostras
+
+Área do pico (mAU.s)
+
+Tempo de retenção
+
+dos
+
+(min.)
+
+valores
+de área
+
+1
+
+0,78
+
+1,68
+
+0,8
+
+47,3
+
+3,665
+
+3,660
+
+3,655
+
+2
+
+1,029
+
+0,547
+
+1,027
+
+32
+
+3,648
+
+3,639
+
+3,637
+
+3
+
+0,788
+
+1,218
+
+1,07
+
+21,31
+
+3,639
+
+3,708
+
+3,638
+
+Fortificada
+
+38,06
+
+38,46
+
+39,42
+
+3,635
+
+3,65
+
+3,652
+
+39,04
+
+42,12
+
+42,7
+
+3,353
+
+3,647
+
+3,642
+
+124,035
+
+124,09
+
+121,233
+
+3,639
+
+3,636
+
+3,633
+
+1
+(0,5 mg L-1)
+Fortificada
+2
+
+4,99
+
+1
+
+(2 mg L-1)
+
+122,94
+
+123,3
+
+120,251
+
+3,639
+
+3,636
+
+3,639
+
+Fortificada
+
+291,608
+
+280,66
+
+264,3
+
+3,633
+
+3,636
+
+3,655
+
+3,632
+
+3,651
+
+3,636
+
+3,644
+
+3,65
+
+3,654
+
+3
+
+4,38
+
+(4 mg L-1)
+
+291,822
+
+279,73
+
+264,5
+
+Branco
+
+1,19
+
+1,337
+
+1,364
+
+7,81
+
+Observa-se que, nas amostras fortificadas obteve-se valores baixos de desvio
+padrão, isso significa que o valor de área de cada replicata não variou muito quando
+comparadas com a média, conforme observa-se para valores mais baixos de área.
+Pela Figura 7 é possível notar que as amostras fortificadas apresentam um
+padrão linear. Assim pode-se utilizar o valor da média das áreas na equação 1 para
+determinar a concentração do biocida encontrada pelo método, Tabela 5.
+
+21
+
+Tabela 5 Concentração do clorotalonil presente nas amostras fortificadas
+
+Concentração
+de clorotalonil
+
+Área encontrada
+
+adicionada
+
+Concentração
+encontrada
+
+0,5
+
+40,057
+
+0,294
+
+2
+
+122,642
+
+1,226
+
+4
+
+278,820
+
+2,99
+
+Quando se analisa os resultados percebe-se que a concentração
+encontrada 0foi baixa, o valor da recuperação foi apenas de 61% em média. A
+recuperação do método quando utilizado em água salgada é de 90%6. Recuperação
+com baixo valor pode significar que o analito possui mais afinidade com a água doce.
+Pode ser que a presença de sais dissolvidos em água do mar diminui a interação do
+clorotalonil com a água, quando sais estão presentes na água pode ocorrer a
+saturação da mesma, e dessa forma o analito passa a ter preferência pela fase
+orgânica facilitando assim a extração com o solvente ciclohexano. Como a água doce
+não possui tantos sais dissolvidos a afinidade pela água é maior e com isso a extração
+é menos eficiente A Figura 7 apresenta os resultados para as amostras fortificadas.
+
+22
+
+Medida 1
+Medida 2
+Medida 3
+Medida 4
+Medida 5
+Medida 6
+Média
+
+300
+
+Áreas (mAU.s)
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+Branco
+
+Fortificada 1
+
+Fortificada 2
+
+Fortificada 3
+
+Figura 7 Gráfico das áreas do pico cromatográfico das amostras de água do Broa fortificadas.
+
+A Figura 8 apresenta a área dos picos cromatográficos referentes ao clorotalonil
+presente nas amostras de água coletadas do Broa. Observa-se que o valor obtido
+para o desvio padrão é alto, chegando a 47%. Esse alto valor de desvio padrão ocorre
+porque as concentrações observadas para as amostras de água do Broa encontramse abaixo do limite de detecção do equipamento.
+
+23
+
+Medida1
+Medida 2
+Medida 3
+Média
+
+1,8
+
+1,6
+
+Área (mAU.s)
+
+1,4
+
+1,2
+
+1,0
+
+0,8
+
+0,6
+
+0,4
+Amostra 1
+
+Amostra 2
+
+Amostra 3
+
+Branco
+
+Figura 8 Gráfico das áreas de pico cromatográfico das amostras de água do Broa
+
+Apesar do método ter sido desenvolvido para águas do mar ele não apresentou
+resultados ruins quando utilizado para águas doces, já as amostras de água coletadas
+na lagoa do Broa não apresentaram concentração apreciável do biocida estudado.
+Para analisarmos as amostras de água coletadas em Santos foi feita
+uma curva de analítica de modo similar a curva construída para as amostras de água
+doce, os valores obtidos para a curva são apresentados na Tabela 6 e na Figura 9.
+
+Tabela 6 Dados para a curva analítica para as amostras de água coletadas em Santos
+
+Concentração (mg L -1)
+
+Média Área do pico cromatográfico (mAU.s)
+
+0,1
+0,5
+1
+2
+3
+4
+
+10,744
+54,798
+110,221
+215,455
+256,451
+380,981
+
+24
+
+Média
+Fit Linear
+400
+350
+
+Equation
+
+y = a + b*x
+
+Weight
+
+No Weighting
+
+Residual Sum
+of Squares
+
+1454,98781
+0,99241
+
+Pearson's r
+
+0,9811
+
+Adj. R-Square
+
+Área (mAU.s)
+
+300
+
+Value
+
+Standard Error
+
+B
+
+Intercept
+
+11,27755
+
+12,61192
+
+B
+
+Slope
+
+90,65894
+
+5,61594
+
+250
+200
+150
+100
+50
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+Concentração (ppm)
+
+Figura 9 Curva analítica para as amostras de água de Santos
+
+Com o auxílio dos dados contidos no gráfico consegue-se determinar a relação
+entre a área e a concentração por meio da equação 2 que apresentou um fator de
+linearidade de R2 0,98; com essa equação permite-se analisar a concentração de
+clorotalonil encontrado nas amostras de água coletadas em Santos, Tabela 7.
+
+𝑌 = 11,2778 + 90,659 ∗ 𝐶 ∗ 50 (mg L-1)
+
+Equação 2
+
+25
+
+Tabela 7 Área e tempo de retenção das amostras de água coletadas em Santos.
+
+Amostras
+
+Área do pico (mAU.s)
+
+Desvio
+
+Tempo de retenção
+
+padrão
+
+(min.)
+
+4
+
+0,9764
+
+5,6962
+
+6,555
+
+68,124
+
+3,641
+
+3,637
+
+3,634
+
+5
+
+2,99
+
+3,7
+
+0,968
+
+55,53
+
+3,637
+
+3,643
+
+3,634
+
+6
+
+3,027
+
+2,109
+
+4,964
+
+43,29
+
+3,615
+
+3,644
+
+3,647
+
+7
+
+1,044
+
+0,829
+
+2,654
+
+66,09
+
+3,644
+
+3,638
+
+3,636
+
+8
+
+1,452
+
+2,043
+
+0,798
+
+43,51
+
+3,632
+
+3,642
+
+3,639
+
+9
+
+1,612
+
+1,445
+
+1,07
+
+20,18
+
+3,644
+
+3,641
+
+3,642
+
+10
+
+0,676
+
+1,046
+
+2,131
+
+60,15
+
+3,632
+
+3,643
+
+3,634
+
+11
+
+0,501
+
+1,22
+
+0,441
+
+58,88
+
+3,615
+
+3,624
+
+3,596
+
+Padrão
+
+98,628
+
+99,1387
+
+100,017
+
+0,71
+
+3,613
+
+3,614
+
+3,614
+
+Branco
+
+0,718
+
+0,724
+
+0,676
+
+3,7
+
+3,643
+
+3,638
+
+3,619
+
+Pela área do pico referente ao padrão a equação demonstra que a
+concentração equivalente de biocida clorotalonil é de 0,978 mg L-1. Considerando que
+a solução do padrão foi feita com uma concentração de 1 mg L-1, então a recuperação
+do método foi de 97,8%. A Figura 10 apresenta as áreas dos picos cromatográficos
+relativo as amostras de água coletadas de Santos, observa-se que novamente a
+concentração do biocida clorotalonil ficou abaixo do limite de detecção do método.
+
+26
+
+Medida 1
+Medida 2
+Medida 3
+Média
+
+Área
+(mAU.s)
+
+100
+
+0
+
+A4
+
+A5
+
+A6
+
+A7
+
+A8
+
+A9
+
+A 10 A 11 PadrãoBranco
+
+Amostra
+
+Figura 10 Valores de área de pico cromatográfico para as amostras coletadas de água em Santos.
+
+Pelo método utilizado neste estudo não foi possível detectar o biocida
+clorotalonil, Figura 10, tanto em amostras de água de Santos quanto nas amostras
+coletadas do Broa. As baixas concentrações podem ser causadas pelo fato do biocida
+clorotalonil ser degradado pela ação da luz além de possuir baixa solubilidade em
+água.
+
+27
+
+4 Conclusão
+
+O método de determinação do biocida clorotalonil foi desenvolvido para a
+análise de água salgada, mas o método foi aplicado para amostras de água doce
+coletadas na lagoa do Broa em Itirapina-SP. Os resultados obtidos foram satisfatórios,
+apesar da recuperação ter sido apenas de 61% e fator de linearidade de 0,984. O
+método apresentou-se promissor na análise de águas doces, sendo que algumas
+adaptações devem ser feitas para que ele se torne adequado para a análise desse
+tipo de matriz.
+O biocida clorotalonil não foi detectado pelo método analítico utilizado nesse
+estudo, tanto nas amostras de águas da represa do Broa quanto nas coletadas em
+Santos. Para averiguar a presença dessa substância nas amostras se faz necessário
+a utilização de equipamentos mais sensíveis, além de uma modificação no método
+para que ele possua um maior fator de concentração. Essas modificações se fazem
+necessárias devido ao fato do clorotalonil possuir baixa solubilidade em água e ser
+degradado pela luz.
+
+28
+
+Referências
+
+1 Guardiola, F. A.;Cuesta, A.;Meseguer, J. and Esteban, M. A. Risks of using
+antifouling biocides in aquaculture. International Journal of Molecular Sciences, V
+13, 1541-1560, 2012.
+2 Abbott, A.;Abel, P. D.;Arnold, D. W. and Milne, A. Cost–benefit analysis of the use
+of TBT: the case for a treatment approach. Science of the Total Environment, V
+258, 1–2, 5-19, 2000.
+3 Castro, I. B.;Westphal, E. and Fillmann, G. Third generation antifouling paints: New
+biocides in the aquatic environment. Quimica Nova, V 34, 6, 1021-1031, 2011.
+4 Almeida, E.;Diamantino, T. and de Sousa, O. Brief history of antifouling paints.
+Corrosão e Protecção de Materiais, V 26, 1, 6-12, 2007.
+5 Basheer, C.;Tan, K. S. and Lee, H. K. Organotin and Irgarol-1051 contamination in
+Singapore coastal waters. Marine Pollutution Bulletin, V 44, 7, 697-703, 2002.
+6 Zanuto, G. M. Desenvolvimento e validação de método cromatográfico para
+análise do biocida anti-incrustrante clorotalonil em água marinha. Monografia.
+Instituto de Química de São Carlos Universidade de São Paulo, 2015
+7 Cox, C. Chlorothalonil. JOURNAL OF PESTICIDE REFORM, V 17, 4, 14-20, 1997.
+8 Caux, P. Y.;Kent, R. A.;Fan, G. T. and Stephenson, G. L. Environmental fate and
+effects of chlorothalonil: A Canadian perspective. Critical Reviews in
+Environmental Science and Technology, V 26, 1, 45-93, 1996.
+9 Long, J. W. and Siegel, M. R. Mechanism of action and fate of the fungicide
+chlorothalonil (2,4,5,6-tetrachloroisophthalonitrile) in biological systems: 2. In vitro
+reactions. Chemico-Biological Interactions, V 10, 6, 383-394, 1975.
+10 Arai, T.;Harino, H.;Ohji, M. and Langston, W. J. Ecotoxicology of antifouling
+biocides:Ecotoxicology of Antifouling Biocides.Springer Japan, 2009,
+11 CONSELHO_NACIONAL_DO_MEIO_AMBIENTE_(CONAMA), Resolução N.
+357, 2005, Dispõe sobre a classificação dos corpos de água e diretrizes
+ambientais para o seu enquadramento, bem como estabelece as condições e
+padrões de lançamento de efluentes, e dá outras providências, Publicada no
+DOU nº 053, de 18/03/2005, 58-63, Disponível em:
+
+29
+
+http://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=459 Acesso em
+18/11/2015
+12 Planitox, FISPQ Clorotalonil, Disponível em:
+https://www.extrapratica.com.br/BR_Docs/Portuguese/FISPQ/Chlorothalonil%20T%C
+3%A9cnico.pdf Acessado em: 18/11/2015
+13 COLLINS, C. H.;BRAGA, G. L. and BONATO, P. S. Fundamentos de
+cromatografia.Campinas:Editorada Unicamp, 2006, 453
+14 Skoog, D. A.;Holler, F. J. and Crouch, S. R. Principles of instrumental
+analysis.Australia:Brooks/Cole : Thomson Learning, 2007,
+15 Sanitária, A.-A. N. d. V., Resolução N. 899, Resolução RE nº 899, de 29 de
+maio de 2003, Publicada no D.O.U. - Diário Oficial da União; Poder Executivo, de 02
+de junho
+de 2003,
+
+30
+
+Glossário
+
+ANVISA – Agencia Nacional de Vigilância Sanitária.
+Analito – Substância ou componente químico, em uma amostra, que é alvo de análise
+em um ensaio.
+Biocida – Substância que possua ação letal sobre organismos vivos.
+Bioincrustação – Acúmulo indesejável de micro-organismos, plantas, algas e/ou
+animais sobre as estruturas molhadas.
+COEs – Compostos organoestânicos.
+CONAMA – Conselho Nacional do Meio Ambiente.
+FE – Fase estacionária.
+FM – Fase móvel.
+HPLC – High performance liquid cromatography (Cromatografia líquida de alta
+eficiência).
+IMO – International Marine Organization (Organização Marítima internacional).
+IUPAC – International Union of Pure and Applied Chemistry (União Internacional de
+química pura e aplicada)
+LLE – Liquid-liquid Extraction (Extração líquido-Líquido).
+Matriz – Todos os constituintes da amostra com exceção dos analitos.
+OD% - Porcentagem de oxigênio dissolvido na água.
+PPB – Parte por bilhão µg L-1
+PPM – Parte por milhão mg L-1
+TBT – Tributilestanho.
+TPT – Trifenilestanho.
+
+

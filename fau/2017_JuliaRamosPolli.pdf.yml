@@ -1,0 +1,24 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: yes
+dedictria: no
+agradecim: no 
+resumo_ab: no
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: no
+ini: INTRODUÇÃO
+secoes:
+ - CONTEXTO SOCIOAMBIENTAL
+ - O CANTEIRO DE OBRAS E A CONSTRUÇÃO SUSTENTÁVEL
+ - REFERÊNCIAS
+ - ESTUDO DE CASO MUSEU DA LÍNGUA PORTUGUESA
+end: CONSIDERAÇÕES
+ref: BIBLIOGRAFIA

@@ -1,0 +1,2804 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+
+Síntese, caracterização e reatividade do nitrosilsulfito complexo
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]PF6
+
+Orientador: Prof. Dr. Daniel Rodrigues Cardoso
+Co-orientador: Dr. Antonio Carlos Roveda Júnior
+
+Felipe de Santis Gonçalves
+
+São Carlos
+Junho de 2017
+
+AGRADECIMENTOS
+Aos meus pais, Dercy e Silvio, pelo apoio, incentivo e orientação ao longo da vida.
+À Tomie, pelo incentivo, ajuda, paciência, e pelos momentos de descontração, que auxiliaram muito
+na elaboração desse trabalho.
+Ao Antonio Carlos Roveda Júnior (Nana) pelas orientações tanto dentro do laboratório quanto fora
+dele e pela grande paciência durante a elaboração desse trabalho.
+Ao Professor Daniel Rodrigues Cardoso, pela oportunidade de trabalho e orientação.
+Aos meus amigos esteriotipados Rodrigo (Japa), Leandro (Preto), Eduardo (Gordo) e Marina (PQ)
+pela convivência em São Carlos, conversas e momentos de descontração.
+
+RESUMO
+O nitrosilsulfito complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]PF6 (RuNOSO3pic, em que
+pic = 4-picolina) foi sintetizado por meio da reação entre o nitrosilo complexo
+
+4trans-
+
+[Ru(NH3)4(4-pic)(NO)](PF6)3 com íons sulfito (SO32-) em meio aquoso. O complexo RuNOSO3pic
+se apresenta estável em solução aquosa (t1/2 = 530 ± 4 min, tampão fosfato pH 7,4, 40 ± 0,5 °C). O
+complexo RuNOSO3pic apresenta-se reativo frente a íons hidroxila (OH-), levando à formação do
+nitro complexo trans-[Ru(NH3)4(4-pic)(NO2)]+ com constante de velocidade
+
+k = 8,45 ±
+
+0,27 L mol-1 s-1 em meio aquoso a 25 ± 0,5 °C. O íon complexo RuNOSO3pic em meio aquoso
+apresenta um pKa = 5,3 conforme determinado espectrofotometricamente. Tanto a reatividade do íon
+complexo RuNOSO3pic frente a íons hidroxila, bem como seu pKa em meio aquoso são próximos
+ao complexo previamente reportado trans-[Ru(NH3)4(isn)((N(O)SO3)]+
+
+(k = 6,16 ± 0,22 L mol-
+
+1 -1
+
+s a T = 25 ± 0,5 °C e pKa = 5,05), onde isn = isonicotidamida. O complexo RuNOSO3pic apresenta
+
+no espectro eletrônico de absorção uma banda característica com λ máx de 358 nm (ε = 4000 M-1 cm1
+
+) e atribuída, pelo emprego de cálculos teóricos (DFT), a uma transferência de carga do metal para
+
+o ligante (TCML) Ru→NOSO3 (majoritária), Ru→4-pic (minoritária), e também com contribuição
+de transições d→d.
+
+ABSTRACT
+The nitrosylsulphito complex trans-[Ru(NH3)4(4-pic)(N(O)SO3)](PF6) (RuNOSO3pic, in wich
+4-pic = 4-picoline) was synthesized in a reaction between the nitrosyl complex
+
+trans-
+
+[Ru(NH3)4(4-pic)(NO)]3+ and sulfite ions (SO32-) in aqueous media. The RuNOSO3pic complex
+exihibts stability in water solution (t 1/2 = 530 ± 4 min, pH 7,4, 40 ± 0,5 °C). The complex ion shows
+reactivity with OH- ions, and leads to the formation of the complex
+
+trans-[Ru(NH3)4(4-
+
+pic)(NO2)]+ with a kinetic constant k = 8,45 ± 0,27 L mol-1 s-1 in aqueous media at 25 ± 0,5°C. The
+ion complex pKa was spectrofotometrically determined, and the value obtained was pKa = 5,3. Both
+values of reactivity with OH- ions and pKa in aqueous media were close to the ones in wich the similar
+complex trans-[Ru(NH3)4(isn)(N(O)SO3)]+ (isn = isonicotinamide) was involved (k = 6,16 ± 22 L
+mol-1 s-1 at 25 ± 0,5 °C and pKa = 5,05). The complex RuNOSO3pic shows a characteristc band in
+the absorption electronic spectre, with λmax at 358 nm
+
+(ε = 4000 M-1 cm-1) and its
+
+transition was determined via theoretical methods (TD-DFT) being mainly a metal to ligand charge
+transfer (MLCT) Ru→NOSO3, with Ru→4-pic and also d→d minority contributions.
+
+LISTA DE FIGURAS
+
+Figura 1. Modos de ligação sugeridos para a reação entre os nitrosilo complexos ([M –NO]) com
+íons sulfito (SO32-)............................................................................................................................. 11
+Figura 2. Possíveis reações entre sulfito e nitrito em meio ácido.....................................................12
+Figura 3. Ilustração da etapa de síntese para obtenção do nitrosilsulfito complexo
+trans-[Ru(NH3)4(isn)(N(O)SO3)](PF6), abreviado como RuNOSO3isn...........................................12
+Figura 4. (A) Ligante 2-piridinosulfônico, py-SO3, e (B) liberação do radical py-SO3● durante a
+irradiação com luz..............................................................................................................................13
+Figura 5. Estrutura das tetraaminas de rutênio(II) com o ligante nitrosônio (NO +).
+L = N-heterocíclicos, NH3 ou ésteres de fósforo................................................................................14
+Figura 6. Ligante L = 4-picolina utilizado na síntese do complexo
+trans–[Ru(NH3)4(4-pic)(N(O)SO3)](PF6)...........................................................................................15
+Figura 7. Etapas de síntese para a obtenção do nitrosilo complexo
+trans-[Ru(NH3)4(4-pic)(NO+)](PF6)3.................................................................................................16
+Figura 8. Espectro no infravermelho do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)](PF6)
+(RuNOSO3pic). Figura inserida: região de estiramento de NO do complexo
+trans-[Ru(NH3)4(4-pic)(NO)](PF6)3 (RuNOpic). Ambos os espectros em pastilha de KBr ............ 21
+Figura 9. Espectro de RMN de 1H da 4-picolina livre (A) e do complexo RuNOSO3pic (B) em
+solução de 50% D2O e 50% tampão fosfato pH 7,4 (referência: TMSPd-4 δ = 0,00 ppm). ............. 24
+Figura 10. Espectro eletrônico experimental dos complexos (a) RuNOSO3pic e (b) RuNOpic .... 26
+Figura 11. Espectro eletrônico teórico e experimental do complexo RuNOSO3pic. Experimental:
+em tampão fosfato pH 7,4, e teórico: utilizando-se o funcional B3LYP e as bases DGDZVP para o
+rutênio, DGTZVP para os ligantes NH3 e 4-picolina, e 6-311+G(2d,3p) para o ligante NOSO3. As
+barras representam a força do oscilador de cada transição. ............................................................ 26
+Figura 12. Exemplo do espectro eletrônico de absorção registrado em função do tempo (ciclo de
+5000 segundos) nos ensaios de estabilidade térmica do íon complexo RuNOSO3pic em tampão
+fosfato, pH 7,4. Inseridos: Decaimento exponencial da banda em 358 nm e linearização da curva . 32
+Figura 13. Espectros de RMN do complexo RuNOSO3pic para diferentes tempos. (A) T = 25°C e
+(B) T = 45°C. Meio: 50% D2O e 50% tampão fosfato pH 7,4. Cada espectro foi obtido em
+intervalos de 1h de reação ............................................................................................................. 33
+Figura 14. Decaimento do pico referente a 4-picolina coordenada e aumento do pico da 4-picolina
+livre. Meio: 50% D2O 50% tampão fosfato pH 7,4. T = 45° C ....................................................... 34
+Figura 15. Curva referente aos parâmetros de ativação da reação da saída da 4-picolina da esfera de
+coordenação do complexo RuNOSO3pic em diferentes temperaturas. .......................................... 35
+
+Figura 16. Espectro de RMN do complexo RuNOSO3pic em solução 1,0 M de ácido
+trifluoroacético (HTFA), gerando o respectivo complexo RuNOpic ............................................. 36
+Figura 17. Espectro de RMN de 1H do complexo RuNOpic em meio de 50% D2O e 50% tampão
+fosfato pH 7,4 ............................................................................................................................... 37
+Figura 18. Curva de titulação do complexo RuNOSO3pic com ácido trifluoroacético (HTFA).
+(μ = 0,1 M) ................................................................................................................................... 38
+Figura 19. Aplicação da primeira e segunda derivada da curva de titulação ilustrada na figura 18 38
+Figura 20. Formação do complexo trans-[Ru(4-pic)(NH3)4(NO2)]+ pela reação entre íons hidróxido
+e o complexo RuNOpic ................................................................................................................ 40
+Figura 21. Formação do complexo trans-[Ru(4-pic)(NH3)4(NO2)]+ pela reação entre íons hidróxido
+em o complexo RuNOSO3pic....................................................................................................... 40
+Figura 22. Curva cinética representativa da reação entre RuNOSO3pic (1,0 x 10-4 M) e OH- (1,5 x
+10-2 M), T = 25° C, μ = 1,0 M (NaCl). Gráfico inserido: linearização da curva cinética ................. 41
+Figura 23. Relação entre kobs e concentração de OH- à T = 25°C. Condições experimentais:
+RuNOSO3pic CRu = 1 x 10-4 M; μ = 1,0 M (NaCl); n = 5 para cada concentração de OH- ............. 42
+
+LISTA DE TABELAS
+Tabela 1. Principais bandas observadas no espectro no infravermelho para complexos do tipo
+[ML5(N(O)SO3)]n− ........................................................................................................................ 22
+Tabela 2. Atribuição das principais bandas para o complexo RuNOSO3pic ................................. 27
+Tabela 3. Composição orbital do complexo RuNOSO3pic ........................................................... 28
+Tabela 4. Regiões de máximo de absorbância e principais contribuições das respectivas transições
+eletrônicas dos complexos RuNOSO3isn e RuNOSO3pic em tampão fosfato pH 7,4 .................... 29
+Tabela 5. νNO de diferentes nitrosilo complexos e pKa dos ligantes (L) trans-posicionados ao NO
+..................................................................................................................................................... 30
+Tabela 6. Comparação do λmax referente à banda de TCML (Ru→NOSO3) em diferentes
+nitrosilsulfito complexos, e o pKa dos ligantes L trans-posicionados ao ligante NOSO.................. 31
+Tabela 7. Parâmetros de ativação dos complexos RuNOSO3isn e RuNOSO3pic ......................... 35
+Tabela 8. Comparação das constantes de velocidade (k) para a reação entre íons hidróxido (OH-) e
+diferentes nitrosilo e nitrosilsulfito complexos de Ru(II) ............................................................... 42
+
+LISTA DE ABREVIATURAS
+RuNOSO3pic
+
+–
+
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+
+
+RuNOSO3 isn
+
+–
+
+trans-[Ru(NH3)4(isn)(N(O)SO3)]+
+
+RuNOpic
+
+–
+
+trans-[Ru(NH3)4(4-pic)(NO)]3+
+
+RuNOisn
+
+–
+
+trans-[Ru(NH3)4(isn)(NO)]3+
+
+TCML
+
+–
+
+Transferência de carga de metal para ligante
+
+TCLL
+
+–
+
+Transferência de carga de ligante para ligante
+
+TCLM
+
+–
+
+Transferência de carga de ligante para metal
+
+HOMO
+
+–
+
+Orbital molecular ocupado de maior energia (Highest Occupied
+
+–
+
+Orbital molecular desocupado de menor energia (Lowest
+
+Molecular Orbital )
+LUMO
+
+Unoccupied Molecular Orbital)
+k
+
+–
+
+constante cinética
+
+ε
+
+–
+
+absortividade molar
+
+δ
+
+–
+
+deslocamento químico
+
+λ
+
+–
+
+comprimento de onda
+
+Ea
+
+–
+
+Energia de ativação
+
+4-pic
+
+–
+
+4-picolina (4-metilpiridina)
+
+isn
+
+–
+
+isonicotinamida
+
+NO
+
+–
+
+óxido nítrico
+
+HTFA
+
+–
+
+ácido trifluoroacético
+
+TD-DFT
+
+–
+
+Time-Dependent Density Functional Theory
+
+SUMÁRIO
+1 INTRODUÇÃO E JUSTIFICATIVA ............................................................................... 10
+2 OBJETIVOS .................................................................................................................... 15
+3 MATERIAIS E MÉTODOS............................................................................................. 15
+3.1 Reagentes, materiais e solventes .................................................................................... 15
+3.2 Síntese dos complexos................................................................................................... 15
+3.2.1 Sínteses ...................................................................................................................... 16
+3.2.2 Síntese dos complexos [RuIII(NH3)5Cl]Cl2 e trans-[RuII(NH3)4(SO2)Cl]Cl .................. 17
+3.2.3 Síntese do complexo trans-[RuIII(NH3)4(4-pic)(SO4)]Cl ............................................. 17
+3.2.4 Síntese do complexo trans-[RuII(NH3)4(4-pic)(NO+)](PF6)3........................................ 18
+3.2.5 Síntese do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]PF6 ...................................... 18
+3.3 Caracterização e investigação da reatividade por espectroscopia de Ressonância
+Magnética Nuclear (RMN) .................................................................................................. 19
+3.4 Estabilidade térmica do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ em solução aquosa
+........................................................................................................................................... 19
+3.5 Reação do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ com íons hidróxido (OH-) .... 19
+3.6 Determinação do pKa do íon complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ ................. 20
+3.7 Química computacional ................................................................................................. 20
+4 RESULTADOS E DISCUSSÃO ...................................................................................... 21
+4.1 Espectroscopia vibracional na região do infravermelho ................................................. 21
+4.2 Espectroscopia de Ressonância magnética nuclear (RMN) e de ressonância paramagnética
+eletrônica (RPE).................................................................................................................. 23
+4.3 Espectroscopia eletrônica de absorção ........................................................................... 25
+4.3.1 Influência do ligante trans-posicionado ao ligante NOSO3 ......................................... 29
+4.4 Estabilidade do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ em meio aquoso ........... 31
+4.4.1 Estabilidade térmica do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+...................... 31
+4.4.2 Estabilidade do complexo em meio ácido ................................................................... 36
+4.5 Determinação do valor de pKa do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ ......... 37
+4.6 Reações com íon hidróxido ........................................................................................... 38
+5 CONCLUSÕES E PERSPECTIVAS FUTURAS ............................................................. 44
+6 REFERÊNCIAS............................................................................................................... 46
+ANEXO A .......................................................................................................................... 53
+
+10
+
+1 INTRODUÇÃO E JUSTIFICATIVA
+Estudos a respeito de reações de adição nucleofílica em nitrosilo complexos
+
+([L5M-
+
+NO]n) são conhecidos de longa data1-4, e constituem um dos modos de reatividade mais
+importantes para essa classe de compostos4. O íon complexo pentacianonitrosilferrato(II),
+[Fe(CN)5NO]2- (nitroprussiato), foi um dos primeiros a ser explorado nesse tipo de reação 1-3, e
+os primeiros nucléofilos (Nu) investigados foram os íons hidróxido (OH −) e hidrogenossulfeto
+(HS-). De forma geral, a equação de adição nucleofílica em nitrosilo complexos pode ser
+ilustrada como na Eq. (1).
+[L5MNO]n+ + Nu- → [L5MN(O)Nu](n-1)+
+
+(1)
+
+Além dos íons OH− e HS-, outros estudos foram realizados com uma diversidade de
+nucleófilos, tais como hidroxilamina, hidrazina e o íon sulfito 1,3,5-8. Recentemente, tem-se dado
+especial atenção às reações entre nitrosilo complexos e nucleófilos de interesse biológico tais
+como tióis (RSH)3,7-12. Por exemplo, a reação entre o íon complexo [Fe(CN) 5NO)]2- e íons
+tiolato (RS-) leva à formação de um aduto contendo o ligante nitrosotiol (RSNO) coordenado
+ao centro metálico pelo átomo de nitrogênio: [Fe(CN)5N(O)SR](n+2)-.3,13-14 É sugerido que este
+aduto pode decompor-se e/ou então reagir com outro íon RS-, gerando subsequentemente uma
+ou mais das seguintes espécies de nitrogênio: óxido nítrico (NO), nitroxila (HNO), monóxido
+de dinitrogênio (N2O) e amônia (NH3), além de espécies oxidadas de enxofre (RSSR) e radicais
+(RS●−, RSSR●−, RSOO●−).3,13-14
+Uma das primeiras reações entre nucleófilos e nitrosilo complexos foi realizada em
+186115-16, e tratava da reação entre o nitroprussiato e o ânion sulfito (SO32-). Essa reação, que
+ficou conhecida como “reação de Boedeker”, originava um aduto de coloração vermelha,
+sugerido como sendo a espécie [Fe(CN5)N(O)SO3]4- (Eq. 2):
+[Fe(CN)5(NO)]2- + SO32- → [Fe(CN)5(N(O)SO3)]4- (2)
+
+Estudos subsequentes foram realizados com o sistema apresentado na Eq. (2). Em estudos
+da década de 19605 com o íon complexo [Fe(CN5)(N(O)SO3)]4-, os autores não conseguiram
+chegar a uma conclusão com relação ao modo pelo qual o sulfito estava ligado ao NO. Os
+modos de ligação sugeridos na época estão ilustrados na Figura 1 5.
+
+11
+
+Figura 1 - Modos de ligação sugeridos para a reação entre os nitrosilo complexos
+([M –NO]) com íons sulfito (SO32-)5.
+
+Fonte: referência5
+A dúvida com relação ao modo de coordenação (Figura 1) foi somente sanada em 198316,
+quando Bottomley et al.16 obteve cristais do íon complexo [RuCl(bipy) 2(N(O)SO3)] (bipy =
+2,2’-bipiridina) e por espectroscopia de difração de raio-X verificou-se que o íon SO32- ligavase ao N do NO pelo átomo de enxofre, gerando o ligante N(O)SO3− (item (B) na Figura 1)
+coordenado ao centro metálico. Apesar dessa importante contribuição, Bottomley limitou seu
+trabalho apenas à descrição estrutural dos complexos isolados, principalmente devido à baixa
+solubilidade desses compostos em solventes com os quais não fossem reativos16. Desde então,
+nenhum outro trabalho tratou da síntese e reatividade desse ligante ainda pouco explorado. Esse
+fato nos motivou a buscar novos sistemas em que os complexos contendo o ligante N(O)SO3−
+fossem solúveis e estáveis para a realização de estudos de reatividade química destas espécies.
+Apesar de sais da espécie N(O)SO3- não terem sido isolados, o íon N(O)SO3- é descrito
+como um intermediário na síntese de Raschig da hidroxilamina15-16. A literatura também sugere
+que o ânion N(O)SO3− pode ser formado no estômago 17, pela reação entre as espécies HSO3− e
+HNO2 (respectivamente provenientes do sulfito e nitrito/nitrato presentes em diversos
+alimentos). Diversas espécies podem então ser geradas a partir dessa reação 17, conforme
+
+12
+
+ilustrado na Figura 2. Esses fatos ressaltam a importância dos estudos sobre a reatividade da
+espécie N(O)SO3−, que ainda foi muito pouco explorada.
+
+Figura 2 - Possíveis reações entre sulfito e nitrito em meio ácido
+
+Fonte: Reproduzido da ref. 17
+Um trabalho recentemente realizado em nosso Grupo 18 descreveu a reação entre o
+nitrosilo trans-[RuII(NH3)4(isn)(NO+)]3+ (isn = isonicotinamida, abreviado como RuNOisn na
+Figura 3) com íons SO32-, onde foi possível isolar o nitrosilsulfito complexo
+
+trans-
+
+[Ru(NH3)4(isn)(N(O)SO3)]PF6 (Figura 3, abreviado como RuNOSO3isn).
+
+Figura 3 - Ilustração da etapa de síntese para obtenção do nitrosilsulfito complexo
+trans-[Ru(NH3)4(isn)(N(O)SO3)]PF6, abreviado como RuNOSO3isn
+
+Fonte: Autoria própria.
+O íon complexo RuNOSO3isn se mostrou estável em solução aquosa (tampão fosfato,
+pH 7,4) por um período suficiente (t1/2 ~ 400 min, a 25 ± 0,5ºC) para a realização de ensaios de
+
+13
+
+reatividade
+
+química
+
+e
+
+fotoquímica18.
+
+Observou-se
+
+que
+
+a
+
+fotólise
+
+(λirrad = 355, 415 e 532 nm) do íon complexo RuNOSO3isn em solução aquosa leva à formação
+dos radicais óxido nítrico (NO) e sulfito (SO3●–), conforme detectados pela técnica de spintrapping EPR18.
+Sabe-se que o NO tem importância comprovada em diversas funções biológicas 19-22,
+enquanto que a espécie SO3●– tem despertado recente interesse nessa área23-27. Dois recentes
+trabalhos28-29 utilizaram o ligante 2-piridinosulfônico (py-SO3, Figura 4A), coordenado a
+complexos do tipo [Ru(L)py-SO3]+ (em que L = bipiridina e bipiridinas substituídas), e
+verificaram que o radical py-SO3● pode ser formado por meio da irradiação desses complexos
+com luz UV (355 nm) e visível (Figura 4B). Os autores concluíram que o radical formado
+(py-SO3●) tem a capacidade de clivar o DNA sob condições de hipóxia. Espécies capazes de
+clivar o DNA por um processo independente de O2 são propostas como uma alternativa para a
+terapia contra células tumorais hipóxicas28-29, já que outras terapias em uso, tais como a
+fotoclivagem do DNA via a formação de oxigênio singleto (1O2), são dependentes da presença
+de O2. Portanto, em analogia a esse estudo, uma das possíveis aplicações para os complexos
+trans-[Ru(NH3)4(L)(N(O)SO3)]PF6 seria na fotoclivagem do DNA por meio da formação
+controlada do radical SO3●– induzida por luz.
+Figura 4 - (A) Ligante 2-piridinosulfônico, py-SO3, e (B) liberação do radical py-SO3 ●
+durante a irradiação com luz.
+
+py-SO3
+(A)
+
+(B)
+
+Fonte: Reproduzido das refs. 28-29
+
+O radical SO3●– também tem importância ambiental por ser o precursor do radical sulfato
+(SO4●–), Eqs. 3–625,30-32:
+
+14
+
+SO32–  SO3●– + e–
+
+(3)
+
+SO3●– + O2  –O3SOO●
+–
+
+O3SOO● + SO32–  SO4●–
+
++ SO42–
+
+SO4●– + SO32–  SO42– + SO3●–
+
+k = 1.5  109 M−1s−1
+
+(4)
+
+k = 1.3  107 M−1s−1
+
+(5)
+
+k > 2  109 M−1s−1
+
+(6)
+
+A espécie SO4●– é um forte oxidante (Eº = 2,5–3,1 V) quando comparado ao radical
+hidroxila (OH●, Eº = 1,8–2,7V), e devido a essa característica, o radical SO4●– tem sido
+empregado em tecnologias de descontaminação 33-35. Outra aplicação recente do radical SO4●–
+é em síntese orgânica, onde observou-se que álcoois aromáticos podem ser seletivamente
+oxidados aos respectivos aldeídos, e os aldeídos à ésteres, por meio da reação com SO 4●–.36-37
+No presente trabalho, a escolha dos nitrosilos de tetraaminas de rutênio do tipo
+
+trans-
+
+[RuII(NH3)4(L)(NO+)]3+ (L = N-heterocíclicos), figura 5, para a reação com íons SO32- foi feita
+em função da vasta experiência que o nosso Grupo 38-40 acumulou a respeito da síntese e da
+reatividade desses complexos. Esses nitrosilos apresentam boa solubilidade e estabilidade em
+solução aquosa, e relativa inércia do plano equatorial, formado pelas aminas, às reações de
+substituição. Além disso, para os complexos trans-[RuII(NH3)4(L)(NO+)]3+, verificou-se que é
+possível modular a reatividade do NO em função da escolha do ligante L trans-posicionado.
+Figura 5 - Estrutura das tetraaminas de rutênio(II) com o ligante nitrosônio (NO +).
+
+L
+
+= N-heterocíclicos, NH3 ou ésteres de fósforo
+
+Fonte: Autoria própria.
+
+Com base no exposto, no presente trabalho objetivou-se expandir os estudos iniciais
+realizados com o complexo trans–[Ru(NH3)4(isn)(N(O)SO3)]PF6. A ideia inicial foi sintetizar
+novos compostos do tipo trans–[Ru(NH3)4(L)(N(O)SO3)]PF6 e avaliar as alterações na
+
+15
+
+reatividade do ligante –N(O)SO3 em função do ligante L trans-posicionado. No presente
+trabalho utilizou-se L = 4-picolna (4-metilpiridina), figura 6.
+
+Figura 6 - Ligante L = 4-picolina utilizado na síntese do complexo
+
+trans–
+
+[Ru(NH3)4(L)(N(O)SO3)](PF6)
+
+Fonte: Autoria própria.
+
+A principal diferença entre o ligante isonicotinamida (isn) e 4-picolina (4-pic), é o pKa do
+nitrogênio piridínico, em que para a isn o pKa é 3,5 e para 4-picolina o pKa ~ 6,041-43. O estudo
+comparativo entre os complexos trans–[Ru(NH3)4(L)(N(O)SO3)]PF6, em que
+ou 4-pic, auxiliará no entendimento do efeito eletrônico que o ligante L
+
+L = isn
+trans-
+
+posicionado ao ligante NOSO3 terá na reatividade dessa classe de complexos.
+
+2 OBJETIVOS
+Sintetizar e caracterizar o complexo trans–[Ru(NH3)4(4-pic)(N(O)SO3)]PF6 para a
+realização de estudos de reatividade química em solução aquosa.
+
+3 MATERIAIS E MÉTODOS
+3.1 Reagentes, materiais e solventes
+Os reagentes foram adquiridos das empresas Sigma-Aldrich, Strem Chemicals, Panreac,
+J.T.Baker, Tedia ou Merck e utilizados da forma que recebidos. Tricloreto de rutênio(III)
+hidratado (RuCl3  nH2O, Strem Chemicals 99%) foi o precursor sintético dos demais
+complexos de rutênio. Quando necessário, as soluções foram desareadas com argônio 5.0
+(White Martins) por pelo menos 30 min.
+
+3.2 Síntese dos complexos
+Os nitrosilo complexos de rutênio trans-[RuII(NH3)4(L)(NO+)](PF6)3 (L = isn, 4-pic ou
+pz) e os respectivos precursores foram sintetizados conforme procedimento descrito na
+
+16
+
+literatura38-40. O fluxograma simplificado da rota sintética para a obtenção dos nitrosilo
+complexos é apresentado na Figura 7. Cabe ressaltar que o nosso Grupo tem vasta experiência
+na síntese de todos os complexos apresentados na Figura 7.
+
+Figura
+
+7
+
+-
+
+Etapas
+
+de
+
+síntese
+
+para
+
+a
+
+obtenção
+
+do
+
+nitrosilo
+
+complexo
+
+trans-[Ru(NH3)4(4-pic)(NO+)](PF6)3.
+
+Fonte: Autoria própria.
+
+3.2.1 Sínteses
+Na síntese dos complexos [RuIII(NH3)5Cl]Cl2 e trans-[RuII(NH3)4(SO2)Cl]Cl, utilizouse o procedimento similar ao descrito na literatura44-46, conforme descrito no item a seguir.
+
+3.2.2 Síntese dos complexo [RuIII(NH3)5Cl]Cl2 e trans-[RuII(NH3)4(SO2)Cl]Cl
+
+17
+
+Procedimento: Para a síntese do complexo [RuIII(NH3)5Cl]Cl2, 2,00 g de tricloreto de
+rutênio (RuCL3.nH2O) foram dissolvidos em 27,0 mL de água destilada. Em seguida, 26,0 mL
+de hidrato de hidrazina (NH2NH2.H2O) (Sigma-Aldrich 80%) foram adicionados
+cuidadosamente, sob agitação constante e banho de gelo. A mistura permaneceu reagindo por
+12 horas. Em seguida, 50,0 mL de HCl concentrado (Panreac 37%) foram adicionados sob
+banho de gelo. A solução foi mantida em refluxo por duas horas. Ocorreu a formação de um
+precipitado amarelo após resfriamento da solução até temperatura ambiente. Então a mistura
+foi resfriada em banho de gelo, filtrada, e o sólido foi lavado duas vezes com HCl 1,5 M gelado.
+O sólido obtido foi dissolvido em 200 mL de HCl 0,1 M a quente (50-60 ± 0,5°C). Após
+completa dissolução, a solução foi filtrada à quente em um funil de placa porosa. Foi adicionado
+ao filtrado excesso de HCl concentrado (12,0 M) sob banho de gelo. O sólido de cor amarela
+foi separado por filtração, seco à vácuo e estocado ao abrigo da luz.
+A síntese do complexo trans-[RuII(NH3)4(SO2)Cl]Cl foi realizada em um balão de fundo
+redondo de duas bocas. Nele, 140 mL de água destilada foram adicionados e aquecidos até 75
+± 0,5°C (banho-maria), e então borbulhou-se SO2(g) (3.0 White Martins) por uma hora. Em
+seguida, 5,32 g de metabissulfito de sódio (Na2S2O5) (J.T.Baker 97,7%) e 2,0 g de
+[Ru(NH3)5Cl]Cl2 foram adicionados sob agitação, e o borbulhamento de SO 2 continuou por
+mais uma hora de reação. A solução foi colocada em banho de gelo, e o sólido
+
+trans-
+
+[Ru(NH3)4(HSO3)2] foi filtrado rapidamente, lavado com éter (Panreac 99,7%) e seco sob
+vácuo. Em seguida, todo o sólido obtido foi re-dissolvido em 400 mL de HCl 6,0 M, e a solução
+colocada em refluxo por 30 minutos. A solução resultante foi filtrada à quente e resfriada em
+refrigerador por 12 horas em atmosferea de Ar. Cristais de coloração marrom foram obtidos e
+o material foi separado por filtração, lavados com HCl 6,0 M gelado, éter, secos e estocados à
+vácuo ao abrigo da luz.
+3.2.3 Síntese do complexo trans-[RuIII(NH3)4(4-pic)(SO4)]Cl
+O íon complexo trans–[RuIII(NH3)4(4-pic)(SO4)]Cl foi sintetizado de forma análoga ao
+procedimento descrito na literatura para outras tetraaminas de rutênio com ligantes
+
+N-
+
+heterocíclicos e sulfato 47.
+Procedimento: Em 9 mL de água destilada previamente desaerada, foram dissolvidos 150
+mg do complexo trans-[RuII(NH3)4(SO2)Cl]Cl, seguida da adição de carbonato de sódio
+(Na2CO3) (Merck 98%) até a solução atingir pH 9,0. Essa solução final tem coloração
+amarelada. Em seguida, foram adicionados 318 µL de solução de 4-picolina (Sigma-Aldrich
+
+18
+
+98%). Então, 3,0 mL de HCL 6M foram adicionados, seguidos de 1,5 mL de H 2O2 30%
+(Merck). A solução permaneceu sob agitação por 5 minutos, e então foram adicionados
+
+40
+
+mL de acetona (Tedia 99,9%). A solução permaneceu em um refrigerador por 12 horas. O sólido
+obtido foi coletado por filtração, lavado com acetona, seco e estocado à vácuo ao abrigo da luz.
+3.2.4 Síntese do complexo trans-[RuII(NH3)4(4-pic)(NO+)](PF6)3
+A rota de síntese para o complexo trans-[RuII(NH3)4(4-pic)(NO+)](PF6)3 seguiu
+procedimento descrito na literatura para outros nitrosilos de rutênio 38-39.
+Procedimento: Em 4,0 mL de solução de HPF6 (Sigma-Aldrich 55%) pH 3,0 desaerada,
+foram dissolvidos 50 mg de trans–[RuIII(NH3)4(4-pic)(SO4)]Cl. Em seguida, o complexo foi
+reduzido com amálgama de zinco (ZnHg), sob fluxo de argônio, por 30 minutos. Essa solução
+foi então transferida para um balão de fundo redondo contendo 2 mL de solução de HPF6 2 M
+desaerada. Em seguida, 80 mg de NaNO2 (Sigma-Aldrich 99%) foram adicionados à essa
+solução, que permaneceu sob agitação por 1 hora. Então etanol (Panreac 99,9%) foi adicionado
+para que houvesse a precipitação. O sólido obtido foi coletado por filtração, lavado com etanol,
+seco e estocado à vácuo, ao abrigo da luz.
+
+3.2.5 Síntese do íon complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]PF6
+A síntese do nitrosilo complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]PF6 (abreviado
+como RuNOSO3pic) foi realizada adicionando-se sulfito de sódio (Merck 98%) (Na2SO3, 125
+mg, n = 9,92 x 10-4 mol) em uma solução de 6,0 mL de água destilada contendo o complexo
+RuNOSO3pic (31,3 mg, n = 4,3 x 10-5 mol), com T = 25°C e sob agitação vigorosa. Em seguida,
+NH4PF6 (Strem Chemicals 99%) (100 mg, n = 6,13 x 10 -4 mol) foi adicionado à solução. Houve
+formação de precipitado com coloração verde, que fora armazenado por duas horas no
+refrigerador e em seguida isolado por filtração.
+Não foi possível obter cristais do complexo isolado que pudessem ser utilizados na
+difratometria de raio-X. Diferente do que já fora reportado18, o volume de água não foi um fator
+que influenciava no tempo de formação dos cristais. Uma síntese de maneira análoga deve ser
+realizada para a obtenção de cristais que possam ser utilizados na difratometria de raio-X, já
+que os cristais até o momento obtidos não possuíam tamanho suficiente para serem utilizados
+na técnica.
+Na figura 8 está representado o espectro no infravermelho do complexo RuNOSO3pic
+obtido de acordo com a rota de síntese supracitada. Na figura 8, pode-se notar que o estiramento
+
+19
+
+referente ao ligante NOSO3 encontra-se na região de 1750 cm-1 até
+
+900 cm-1, e que os
+
+estiramentos na região de 800 cm-1 são referentes às vibrações do contra íon PF6. Sendo assim,
+assume-se que a síntese do nitrosilsulfito complexo foi realizada com sucesso, pois os
+estiramentos estão de acordo com os apresentados para o complexo contendo isonicotinamida
+e outros complexos do tipo [ML5(N(O)SO3)]n+.16,18
+
+3.3 Caracterização e investigação da reatividade por espectroscopia de
+Ressonância Magnética Nuclear (RMN)
+Para realizar os ensaios de RMN, utilizou-se um espectrofotômetro Agilent operando na
+frequência de 500 MHz para o 1H. Como solvente, fez-se uma solução contendo metade de seu
+volume em óxido de deutério (D2O) (Sigma-Aldrich 99%) e a outra metade contendo o tampão
+fosfato pH 7,4. O sal de sódio do ácido (Sigma-Aldrich 98%)
+
+3-
+
+(trimetilsilil)-2,2’,3,3’-tetradeuteropropionico (TMSP-D4, δ1H, 13C = 0 ppm) foi utilizado como
+referência e os espectros foram adquiridos utilizando-se uma sequencia de pulso PRESAT com
+presaturação de água à temperatura de 25 ± 0,5 oC.
+
+3.4 Estabilidade térmica do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ em
+solução aquosa
+A estabilidade térmica do complexo RuNOSO3 foi realizada em diferentes
+temperaturas, mantendo-se o pH de 7,4 e uma concentração de CRu = 6,4 x 10-5 M. Utilizou-se
+tampão fosfato (C = 20 mM e µ = 0,531M) e os ensaios foram realizados nas temperaturas
+40 ± 0,5, 45 ± 0,5, 50 ± 0,5, 55 ± 0,5 e 60 ± 0,5 °C. Os ensaios foram acompanhados por
+espectroscopia eletrônica de absorção, sendo que o ensaio para a temperatura de 45 ± 0,5 °C foi
+acompanhado também por RMN de 1H.
+
+3.5 Reação do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ com íons hidróxido
+(OH-)
+A reação do complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ com íons hidróxidos foi
+realizada de acordo com a literatura48 mantendo-se uma condição de pseudo primeira ordem.
+Assim, para a reação A + B → C, um dos reagentes foi mantido em um excesso de pelos menos
+dez vezes em relação ao outro. Assumindo B como estando em excesso, a lei que define a
+reação é a seguinte: kobs = k[B]. A inclinação da reta obtida do gráfico kobs vs [B] fornece a
+
+20
+
+constante de reação de segunda ordem, k (L mol-1 s-1). Tendo-se o valor de absorbância final
+(Af), absorbância em cada tempo de reação (At), pode-se chegar ao kobs pela equação:
+ln(Af - At) = kobs.t
+
+(7)
+
+Para os experimentos cinéticos, utilizou-se a concentração do complexo de
+
+CRu
+
+= 1,0 x 10-4 M, concentrações de OH- com excesso entre 150 e 600 vezes e µ = 20 mM (NaTFA).
+As constantes de velocidade k foram determinadas pela regressão linear do gráfico kobs vs [OH].
+
+3.6 Determinação do pKa do íon complexo trans-[Ru(NH3)4(4-pic)N(O)SO 3]+
+A determinação do pKa do íon complexo foi realizada por titulação com o ácido
+trifluoroacético (HTFA) (Sigma-Aldrich 99%) e acompanhada espectrofotomicamente49. O
+experimento foi realizado utilizando-se uma solução aquosa (20 mL) de pH 7,84 e força iônica
+µ = 0,1 M (trifluoroacetato de sódio, NaTFA) contendo o complexo
+[Ru(NH3)4(4-pic)(N(O)SO3)]+ (CRu = 1,8 x 10-4 M) que foi titulada com volumes de
+
+trans2–5
+
+µL de HTFA com concentração entre 0,01 e 1,0 M. Determinou-se o pKa pela primeira e
+segunda derivada da curva experimental de titulação.
+
+3.7 Química computacional
+Cálculos teóricos foram realizados de forma análoga à descrita previamente 18 para o
+complexo trans-[Ru(NH3)4(isn)(N(O)SO3)]+ com o auxílio do programa Gaussian 09 (G09), no
+qual se empregou o método de Teoria do Funcional de Densidade (DFT, do inglês Density
+Functional Theory) com três parâmetros hibrido-funcional Beck’s e gradiente corrigido de
+correlação funcional Lee-Yang-Parr’s (B3LYP). A base DGDZVP (Degauss Duplo Zeta
+Valência Polarizada) foi utilizada em todos os cálculos para o átomo de rutênio, os átomos
+DGTZVP (Degauss Triplo Zeta Valência Polarizada) para de C, H, N e O, com exceção do
+ligante –N(O)SO3, na qual utilizou-se 6-311+g(2d,3p).
+A otimização da geometria do complexo foi realizada na presença de água como
+solvente, através do Modelo Contínuo de Polarizabilidade (Polarizable continuum model –
+PCM). Foi empregado o critério de convergência de campo auto-consistente (Self consistent
+field - SCF) em todos os cálculos, e o espectro de absorção teórico foi obtido utilizando-se TDDFT, com 80 estados excitados.
+
+21
+
+Para a obtenção das superfícies de contorno, as populações dos orbitais foram calculadas
+e geradas no programa Gaussview 05 e a análise da população orbital e dos dados de TD-DFT
+foi realizada com o auxílio do programa GaussSum 3.0.
+
+4 RESULTADOS E DISCUSSÃO
+4.1 Espectroscopia vibracional na região do infravermelho
+Na figura 8 estão representados os espectros de infravermelho para o íon complexo
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)](PF6) (abreviado como RuNOSO3pic), e também espectro
+do complexo precursor trans-[Ru(NH3)4(4-pic)(NO)](PF6)3 (abreviado como RuNOpic, na
+região do estiramento de N-O (νNO) (Figura 8 inserida). As atribuições das bandas do
+complexo RuNOSO3pic foram feitas com base em estudos anteriores realizados com outros
+nitrosilsulfito complexos do tipo [ML5(N(O)SO3)]n+.16,18
+
+Figura 8 - Espectro no infravermelho do complexo
+
+trans-
+
+[Ru(NH3)4(4-pic)(N(O)SO3)](PF6) (RuNOSO3pic). Figura inserida: região de estiramento de
+NO do complexo trans-[Ru(NH3)4(4-pic)(NO)](PF6)3 (RuNOpic). Ambos os espectros em
+pastilha de KBr.
+110
+
+100
+
+Transmitância (%)
+
+90
+
+80
+160
+
+RuNOpic
+
+70
+
+PF6
+
+140
+
+60
+
+50
+
+40
+
+NO
+
+120
+
+100
+
+SO3
+2200
+
+4000
+
+PF6
+
+NO
+
+80
+
+2100
+
+3500
+
+2000
+
+1900
+
+3000
+
+1800
+
+1700
+
+2500
+
+1600
+
+1500
+
+2000
+
+1500
+
+1000
+
+500
+
+-1
+
+Número de onda (cm )
+
+Fonte: Autoria própria.
+
+O estiramento do ligante NO para o íon complexo RuNOpic é observado em 1931 cm-1,
+região condizente com o caráter nitrosônio (NO+) desse ligante coordenado 38,40. Com a adição
+
+22
+
+nucleofílica do íon sulfito no complexo RuNOpic, resultando na formação do íon complexo
+RuNOSO3pic, o estiramento da ligação N–O é deslocado para 1379 cm-1. Essa região é análoga
+à observada para nitro complexos de rutênio ([L5Ru–NO2]), formados pela reação entre
+nitrosilo complexos [L5Ru-NO] e íons hidróxido, os quais apresentam νN–O na região de 1320
+a 1470 cm-1.48 Esse deslocamento ocorre pois há enfraquecimento da ligação N-O, que
+apresentava caráter de tripla ligação (N–O) nos nitrosilo complexos (L5Ru-NO), e que passa a
+ter caráter de dupla ligação após o ataque do nucleófilo (ex.: OH - ou SO32-).18,48
+O enfraquecimento da ligação N-O após o ataque nucleofílico em nitrosilo complexos
+também pode ser confirmado avaliando-se a distância da ligação N-O, que no íon complexo
+RuNOpic é de 1,73 Å40 e no complexo RuNOSO3pic é de 1,21 Å, de acordo com cálculos
+realizados no presente trabalho, e também com dados reportados na literatura para outros
+nitrosilsulfito complexos16,18.
+Na tabela 1 estão listadas as principais bandas observadas no espectro no infravermelho
+para nitrosilsulfito complexos do tipo [ML5(N(O)SO3)]n, em comparação aos dados obtidos no
+presente trabalho para o íon complexo RuNOSO3pic.
+Tabela 1 - Principais bandas observadas no espectro no infravermelho para complexos
+do tipo [ML5(N(O)SO3)]n
+Atribuições*
+
+νassim.
+
+Complexo
+
+νsim.
+
+νsim.
+
+δassim.
+
+δassim.
+
+ν(N-O)
+
+(S-O)
+
+(S-O)
+
+(S-O) (O-N-S) (O-S-O)
+
+ν(P-F)
+
+δ(F-P-F)
+
+Cs4[Fe(CN)5(N(O)SO3)]a
+
+1357s
+
+1252s
+
+1229s
+
+1041s
+
+758w
+
+621s
+
+-
+
+-
+
+trans-[RuCl(py)4(N(O)SO3)]a
+
+1346s 1273sh
+
+1258s
+
+1031s
+
+770
+
+604
+
+-
+
+-
+
+cis-[RuBr(bipy)2(N(O)SO3)]a
+
+1372s 1270sh
+
+1255s
+
+1040s
+
+775
+
+605s
+
+-
+
+-
+
+cis-[RuCl(bipy)2(N(O)SO3)]a
+
+1370s 1267sh
+
+1250s
+
+1038s
+
+775
+
+612
+
+-
+
+-
+
+trans-[Ru(NH3)4(isn)(N(O)SO3)](PF6)b
+
+1366s 1263sh
+
+1225s
+
+1040s
+
+778m
+
+623s
+
+845
+
+558
+
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)](PF6)c
+
+1379s 1251sh
+
+1228s
+
+1045s
+
+781s
+
+630s
+
+845
+
+559s
+
+a
+
+ref. 16. bref. 18. cPresente trabalho. *s = forte; m = média; w = fraca; sh = ombro.
+
+De acordo com os dados coletados e apresentados na tabela 1, os resultados de
+espectroscopia vibracional na região do infravermelho para o complexo RuNOSO3pic estão
+
+23
+
+dentro da faixa reportada para os demais complexos do tipo [ML5(N(O)SO3)]n.16,18 É possível
+notar que apesar da diferença na esfera de coordenação dos diversos nitrosilsulfito complexos
+[ML5(N(O)SO3)]n (Tabela 1), as bandas relacionadas aos modos vibracionais do ligante
+N(O)SO3− apresentaram uma variação de no máximo 33 cm-1.
+
+4.2 Espectroscopia de Ressonância magnética nuclear (RMN) e de ressonância
+paramagnética eletrônica (RPE)
+O íon complexo RuNOSO3pic foi caracterizado por meio de espectroscopia de RMN de
+1
+
+H, em que avaliou-se o deslocamento químico do ligante 4-picolina livre (em solução) e
+
+coordenado ao centro metálico.
+A solução contendo apenas o ligante 4-picolina em solução de 50% D2O e 50% tampão
+fosfato pH 7,4 apresentou dois dubletos com deslocamento químico (δ) de 8,35 e 7,29 ppm, e
+um singleto com δ de 2,37 ppm. (Figura 9 A). Esses dubletos foram atribuídos aos hidrogênios
+nas posições orto e meta, respectivamente, do ligante 4-picolina, e o singleto à metila ligada na
+posição para do anel piridínico. O espectro de RMN de 1H do complexo RuNOSO3pic nas
+mesmas condições descritas para a 4-picolina livre (não-coordenada) apresenta dois dubletos e
+um singleto em uma região de menor blindagem do núcleo de hidrogênio, com δ de 8,57, 7,67,
+e 2,58 ppm, referentes, respectivamente, aos hidrogênios orto e meta, e a metila na posição para
+do anel piridínico do ligante 4-picolina coordenado ao íon complexo RuNOSO3pic.
+
+Figura 9 - Espectro de RMN de 1H da 4-picolina livre (A) e do complexo RuNOSO3pic
+(B) em solução de 50% D2O e 50% tampão fosfato pH 7,4
+0,00 ppm)
+
+(referência: TMSPd-4 δ =
+
+24
+
+Fonte: Autoria própria.
+O resultado ilustrado na Figura 9 é similar ao obtido para a isonicotinamida livre e
+coordenada ao complexo RuNOSO3isn18, que também apresentou deslocamento para regiões
+de menor blindagem quando coordenada ao metal.
+
+25
+
+Analogamente
+
+ao
+
+resultado
+
+observado
+
+para o
+
+íon do
+
+nitrosilo
+
+complexo
+
+trans-[RuII(NH3)4(4-pic)(NO)]3+,38-40 o complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)](PF6) não
+apresentou sinal no espectro de EPR (T = 77 K), o que sugere spin eletrônico S = 0 no estado
+fundamental. Com base nesse resultado, o complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)](PF6)
+pode ser formalmente descrito como uma espécie de Ru(II), baixo spin, com ligante N(O)SO 3−,
+similar ao reportado para a outros íons complexos do tipo [ML5(N(O)SO3)]n.16,18
+
+4.3 Espectroscopia eletrônica de absorção
+Na Figura 10 estão ilustrados os espectros eletrônicos experimentais dos complexos
+RuNOpic e RuNOSO3pic, e na figura 11, a comparação entre o espectro experimental e o
+espectro teórico, obtido por cálculos computacionais (TD-DFT), do complexo RuNOSO3pic.
+De acordo com a figura 10, observa-se o surgimento da banda com λmax = 358 nm após a reação
+do complexo precursor RuNOpic com o íon sulfito SO32-, gerando o ligante NOSO3 no íon
+complexo RuNOSO3pic. Essa banda foi atribuída à transferência de carga do metal para o
+ligante Ru→NOSO3, por meio de cálculos computacionais (TD-DFT). As demais bandas
+observadas para o complexo RuNOSO3pic e as respectivas atribuições estão resumidas na
+tabela 2. Na tabela 3 são apresentados os dados de composição orbital do complexo
+RuNOSO3pic, os quais auxiliaram nas atribuições das transições eletrônicas.
+
+Figura 10 - Espectro eletrônico experimental dos complexos (a) RuNOSO3pic e
+RuNOpic
+
+(b)
+
+26
+
++
+
+10000
+
+(a) trans-[Ru(NH3)4(4-pic)(N(O)SO3]
+
+-1
+
+Absortividade molar / L mol cm
+
+-1
+
+12000
+
+3+
+
+(b) trans-[Ru(NH3)4(4-pic)(NO)]
+8000
+
+6000
+
+(a)
+4000
+
+2000
+
+(b)
+0
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+Comprimento de onda (nm)
+
+Fonte: Autoria própria.
+
+Figura 11 - Espectro eletrônico teórico e experimental do complexo RuNOSO3pic.
+Experimental: em tampão fosfato pH 7,4, e teórico: utilizando-se o funcional b3lyp e as bases
+dgdzvp para o rutênio, dgtzvp para os ligantes NH3 e 4-picolina, e 6-311+g(2d,3p) para o ligante
+NOSO3. As barras representam a força do oscilador de cada transição.
+12000
+
+0,50
+
+10000
+
+0,40
+
+-1
+
+0,35
+Teórico (a)
+Exmperimental (b)
+Força do oscilador
+
+8000
+
+0,30
+
+(a)
+
+0,25
+
+6000
+0,20
+
+(b)
+
+0,15
+
+4000
+
+0,10
+0,05
+
+2000
+
+0,00
+0
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+-0,05
+550
+
+Comprimento de onda (nm)
+
+Fonte: Autoria própria.
+Tabela 2 - Atribuição das principais bandas para o complexo RuNOSO3pic
+
+Força do oscilador
+
+Absortividade molar / L mol cm
+
+-1
+
+0,45
+
+27
+
+λ
+
+λ
+
+Exp.
+
+Teórico
+
+Força do
+
+(nm)
+
+(nm)
+
+oscilador
+
+346
+
+0,1254
+
+Transição e Contribuição
+
+Atribuição*
+
+H-2 → LUMO (65%)
+
+TCML: Ru → NOSO3
+
+H-2→LUMO (16%), H-1→L+3 (10%),
+358
+
+TCML: Ru → NOSO3, d→d
+333
+
+H-1→L+4 (49%)
+
+0,0729
+
+HOMO→L+1 (23%), HOMO→L+3 (40%),
+301
+
+0,0289
+
+HOMO→L+4 (15%)
+
+TCML: Ru → 4-pic, d→d, d→d
+
+265
+
+0,053
+
+H-2→L+1 (79%)
+
+TCML: Ru → 4-pic
+
+254
+
+0,0818
+
+H-6→LUMO (86%)
+
+TCLL: 4-pic → NOSO3
+
+268
+
+TCLM + TCLL:
+H-3→L+3 (22%), H-1→L+5 (58%)
+227
+
+NOSO3 → Ru + NOSO3, d→d
+
+0,1308
+
+231
+
+H-3→L+3 (28%), H-3→L+4 (12%), H-1→L+5
+
+TCLM + TCLL:
+
+222
+
+0,4214
+
+(38%)
+
+NOSO3 → Ru + NOSO3, d→d
+
+221
+
+0,056
+
+H-6→L+2 (22%), H-5→L+1 (66%)
+
+4-pic → 4-pic, 4-pic → 4-pic
+
+*TCML = transferência de carga do metal para o ligante; TCLM = transferência de carga do ligante para o
+metal; TCLL = transferência de carga de ligante para ligante.
+Fonte: Autoria própria.
+
+Tabela 3 - Composição orbital do complexo RuNOSO3pic
+
+28
+
+Contribuição (%)
+N°
+Orbital
+
+Orbital
+
+4-pic
+
+Ru
+
+NH3
+
+NOSO3
+
+100
+
+L+5
+
+0
+
+91
+
+9
+
+0
+
+99
+
+L+4
+
+2
+
+66
+
+24
+
+8
+
+98
+
+L+3
+
+6
+
+57
+
+12
+
+25
+
+97
+
+L+2
+
+96
+
+3
+
+2
+
+0
+
+96
+
+L+1
+
+94
+
+3
+
+0
+
+2
+
+95
+
+LUMO
+
+5
+
+19
+
+1
+
+76
+
+94
+
+HOMO
+
+0
+
+93
+
+4
+
+3
+
+93
+
+H-1
+
+1
+
+81
+
+2
+
+15
+
+92
+
+H-2
+
+8
+
+67
+
+2
+
+23
+
+91
+
+H-3
+
+5
+
+18
+
+1
+
+76
+
+90
+
+H-4
+
+0
+
+1
+
+1
+
+99
+
+89
+
+H-5
+
+99
+
+0
+
+0
+
+0
+
+88
+
+H-6
+
+91
+
+6
+
+2
+
+1
+
+Fonte: Autoria própria.
+Em seguida, estão apresentados os resultados referentes às transições eletrônicas do
+complexo RuNOSO3pic e também do complexo de estrutura similar RuNOSO3isn.
+
+Tabela 4 - Regiões de máximo de absorbância e principais contribuições das respectivas
+transições eletrônicas dos complexos RuNOSO3isn e RuNOSO3pic em tampão fosfato pH 7,4
+
+29
+
+Complexo
+
+trans-[Ru(NH3)4(isn)(N(O)SO3)]+a
+
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+b
+
+a
+
+Bandas (ε M-1 cm-1) e respectivas atribuições
+362 nm (ε = 6000)
+
+275 nm (ε = 3200)
+
+226 nm (ε = 12100)
+
+TCML
+
+TCLL
+
+TCLL
+
+(Ru→NOSO3)
+
+(isn→NOSO3)
+
+(isn→NOSO3)
+
+358 nm (ε = 4000)
+
+268 nm (ε = 3000)
+
+231 nm (ε = 10000)
+
+TCML
+
+TCLL
+
+TCLM
+
+(Ru→NOSO3)
+
+(4-pic→NOSO3)
+
+(NOSO3→Ru )
+
+ref.18 ; bpresente trabalho.
+
+Comparando-se os resultados de espectroscopia eletrônica de absorção para o íon
+complexo RuNOSO3pic com resultados anteriores obtidos em nosso grupo para o complexo
+RuNOSO3isn (Tabela 4)18, pode-se concluir que o espectro eletrônico e as atribuições das
+transições eletrônicas desses dois complexos são muito similares. Esse resultado sugere que
+houve pouca influência na energia necessária para a TCML (Ru→NOSO 3) nesses dois
+complexos, apesar do ligante isn (pKa 3,61) ser um ácido π mais forte que a 4-pic (pKa 6,11)43,
+o que portanto, a princípio, resultaria em uma menor densidade eletrônica centrada no metal no
+caso do complexo RuNOSO3isn em comparação com o complexo RuNOSO3pic. Na sessão
+seguinte será discutida a influência do ligante trans-posicionado ao ligante NOSO3.
+
+4.3.1 Influência do ligante trans-posicionado ao ligante NOSO3
+Conforme discutido no tópico anterior, o espectro eletrônico dos complexos
+RuNOSO3pic e RuNOSO3isn apresentam pouca diferença, tanto no valor do λmáx das
+transições quanto na característica das atribuições das bandas (Tabela 4). Um fato que chama a
+atenção é o deslocamento do λ máximo referente à TCML Ru→NOSO 3. O modo como o anel
+N-heterocíclico interfere na transição eletrônica em questão pode ser explicado com base no
+fato de que o centro metálico realiza retrodoação com o ligante NOSO 3 envolvendo os orbitais
+t2g do Ru e o orbital π* do ligante NOSO3. De forma geral, a retrodoação aumenta a população
+eletrônica em um orbital antiligante do ligante coordenado ao centro metálico; por um lado isso
+resulta na estabilização da ligação M-L, diminuindo a distância dessa ligação, mas por outro
+
+30
+
+lado isso provoca a desestabilização da ligação N-O do ligante NOSO3
+
+(Anexo A),
+
+aumentando a distância de ligação intramolecular N-O.
+Isso ocorre, por exemplo, nos nitrosilo complexos de Ru(II) utilizados como precursores
+sintéticos do complexo RuNOSO3pic. A retrodoação, nesse caso, Ru–NO, enfraquece a ligação
+N–O, uma vez que o orbital populado, tem caráter π*N–O38-40,50. Esse comportamento já havia
+sido descrito para o ligante NO em complexos do tipo trans-[Ru(NH3)4(L)(NO)]3+ onde
+observou-se que ligantes L com maior acidez π38 deslocam o estiramento νNO para regiões de
+maior energia, como mostra a tabela 5. Pode-se também cmparar o estiramento das espécies
+livres (não-coordenadas), NO+, NO0 e NO-, em que a ordem de ligação é maior na sequência
+NO+> NO0 > NO-, o que reflete no νNO reportado para essas espécies, 2377, 1875, 1470 cm-1,
+respectivamente4.
+Tabela 5 - νNO de diferentes nitrosilo complexos e pKa dos ligantes (L)
+trans-posicionados ao NO
+
+Complexo
+
+Ligante (L) trans-
+
+pKa do ligante L
+
+posicionado ao NO
+
+trans-posicionado
+
+νNO (cm-1)
+
+ao NO
+NH3
+
+9,25b
+
+1913a
+
+L-histidina
+
+5,97b
+
+1921a
+
+trans-[Ru(py)(NH3)4(NO)](BF4)3
+
+Piridina
+
+5,29c
+
+1931a
+
+trans-[Ru(isn)(NH3)4(NO)](BF4)3
+
+Isonicotinamida
+
+3,61c
+
+1933a
+
+trans-[Ru(nic)(NH3)4(NO)](BF4)3
+
+Nicotinamida
+
+3,40c
+
+1940a
+
+trans-[Ru(pz)(NH3)4(NO)](BF4)3
+
+Pirazina
+
+0,5b
+
+1942a
+
+[Ru(NH3)5(NO)](PF6)3
+trans-[Ru(L-hist)(NH3)4(NO)](BF4)3
+
+a
+
+ref.38 bref. 51. cref. 43
+
+Na tabela 6 estão listados os valores de λmax da banda de TCML Ru→NOSO3 para
+diversos nitrosilsulfito complexos do tipo trans-[Ru(NH3)4(L)(N(O)SO3)]+, em que o ligante L
+= amônia (NH3), isonicotinamida (isn), 4-picolina (4-pic) e piridina (py) (para a piridina, os
+resultados apresentados são decorrentes de um estudo preliminar).
+Tabela 6 - Comparação do λmax referente à banda de TCML (Ru→NOSO3) em diferentes
+nitrosilsulfito complexos, e o pKa dos ligantes L trans-posicionados ao ligante NOSO3
+
+31
+
+Complexo
+
+a
+
+λmax , TCML
+
+Ligante L
+
+(Ru→NOSO3)
+
+pKa de L
+
+trans-[Ru(isn)(NH3)4(N(O)SO3)]+
+
+362 nma
+
+isn
+
+3,61c
+
+trans-[Ru(py)(NH3)4(N(O)SO3)]+
+
+360 nm
+
+py
+
+5,23c
+
+trans-[Ru(4-pic)(NH3)(N(O)SO3)]+
+
+358 nmb
+
+4-pic
+
+6,11c
+
+[Ru(NH3)5(N(O)SO3]+
+
+343 nma
+
+NH3
+
+9,25d
+
+ref. 18. bpresente trabalho. cref. 43.dref. 51. isn = isonicotinamida; py = piridina; 4-pic = 4-picolina.
+
+Analisando-se a série apresentada na tabela 6, conclui-se que, conforme acidez π do
+ligante trans-posicionado (L) aumenta, a energia da transição Ru→NOSO 3 diminui. E esse
+efeito ocorre de modo semelhante ao observado para complexos contendo o ligante NO,
+conforme discutido anteriormente. Mais estudos são necessários no intuito de decrever melhor
+a característica dos orbitais envolvidos nessa transição.
+
+4.4 Estabilidade do íon complexo trans-[Ru(NH3)4(4-pic)N(O)SO3]+ em meio aquoso
+4.4.1 Estabilidade térmica do complexo trans-[Ru(NH3)4(4-pic)N(O)SO3]+
+A estabilidade térmica do complexo RuNOSO3pic foi determinada observando-se o
+decaimento da banda em 358 nm com o tempo. Em solução aquosa, essa banda apresenta
+decaimento monoexponencial com o tempo de reação. A constante da reação de degradação
+térmica do íon complexo RuNOSO3pic em tampão fosfato pH 7,4 foi determinada via
+espectroscopia eletrônica de absorção para diferentes temperaturas.
+
+Figura 12 - Exemplo do espectro eletrônico de absorção registrado em função do tempo
+(ciclo de 5000 segundos) nos ensaios de estabilidade térmica do íon complexo RuNOSO3pic
+em tampão fosfato, pH 7,4. Inseridos: Decaimento exponencial da banda em 358 nm e
+linearização da curva
+
+32
+
+0,7
+
+Absorbância em 358 nm
+
+0,6
+
+3,0
+
+2,5
+
+2,0
+
+0,5
+
+0,4
+
+0,3
+
+0,2
+
+0,1
+
+0,0
+10000
+
+20000
+
+30000
+
+40000
+
+50000
+
+60000
+
+tempo (s)
+
+-0,5
+
+1,5
+
+-1,0
+
+358 nm
+ln (Abs)
+
+Absorbância
+
+0
+0,0
+
+1,0
+
+-1,5
+
+-2,0
+
+-2,5
+
+0,5
+-3,0
+-5000
+
+0
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+tempo (s)
+
+0,0
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+Comprimento de onda (nm)
+
+Fonte: Autoria própria.
+O produto da reação foi identificado por RMN de 1H. O íon complexo RuNOSO3pic
+apresenta dois sinais característicos, em t = 0 (assim que o complexo foi solubilizado), com
+δ = 8,46/8,45 e δ = 7,56/7,55 ppm referentes aos hidrogênios orto e meta do ligante 4-picolina
+coordenado ao íon complexo. Com o tempo, pode-se observar o surgimento de dois novos sinais
+com δ = 8,29/8,28 e 7,27/7,26 ppm, referentes aos hidrogênios orto e meta do ligante
+
+4-
+
+picolina livre (não coordenado ao centro metálico).
+
+Figura 13 - Espectros de RMN do complexo RuNOSO3pic registrados para diferentes
+tempos de reação. (A) T = 25°C e (B) T = 45°C. Meio: 50% D2O e 50% tampão fosfato pH
+7,4. Cada espectro foi obtido em intervalos de 1h de reação.
+(A)
+
+33
+
+(B) T= 45 ºC
+
+Fonte: Autoria própria.
+Figura 14 - Decaimento do pico referente ao ligante 4-picolina coordenada e aumento do
+sinal característico da 4-picolina livre. Meio: 50% D2O 50% tampão fosfato pH 7,4.
+45° C
+
+T=
+
+34
+
+0,9
+
+4-picolina coordenada
+4-picolina livre
+
+0,8
+
+Proporção
+
+0,7
+
+k = 1,45x10-4 ± 5,62x10-6 s-1
+
+0,6
+0,5
+0,4
+
+k = 1,44 x 10-4 ± 5,55 x 10-6 s-1
+
+0,3
+0,2
+0,1
+0
+
+10000
+
+20000
+
+30000
+
+40000
+
+50000
+
+tempo (s)
+
+Fonte: Autoria própria. k = 1,45x10-4 ± 5,62x10-6 s-1
+A constante da reação para a labilização do ligante 4-picolina a T = 45° C foi determinada
+por espectroscopia eletrônica e RMN de 1H e apresentou valores diferentes. Para a técnica de
+espectroscopia eletrônica de absorção, a constante de velocidade obtida foi de
+
+k = 6,71 x
+
+10-5 ± 6,85 x 10-7 s-1 (t1/2 = 172 min) enquanto que pela técnica de RMN de 1H, a constante
+determinada foi de k = 1,44 x 10-4 ± 5,55 x 10-6 s-1 (t1/2 = 80 min). Apesar da diferença na
+constante, ao redor de 2 vezes, a figura 14 permite concluir que a constante de saída da 4picolina é a mesma da constante de formação da 4-picolina livre (não coordenada). Sendo
+assim, acredita-se que a diferença obtida seja associada à um erro experimental.
+O estudo da estabilidade térmica do complexo RuNOSO3pic em outras temperaturas foi
+realizado acompanhando-se o decaimento do espectro eletrônico de absorção do íon complexo
+RuNOSO3pic com o tempo de reação.
+Com os dados referentes à estabilidade térmica do complexo RuNOSO3pic, foi possível
+determinar os parâmetros de ativação da reação de labilização da 4-picolina. Os resultados
+foram organizados na tabela 7, e os valores obtidos para ambos os complexos RuNOSO3pic e
+RuNOSO3isn são referentes ao mecanismo dissociativo (I d)52.
+
+Figura 15 - Curva referente aos parâmetros de ativação da reação da saída da 4-picolina
+da esfera de coordenação do complexo RuNOSO3pic em diferentes temperaturas.
+
+35
+
+-12,5
+
+Equation
+
+y = a + b*x
+0,98862
+
+Adj. R-Square
+
+Value
+
+-13,0
+-13,5
+
+ln(k/T)
+
+Intercept
+
+ln(k/T)
+
+Slope
+
+Standard Error
+
+42,03667
+
+3,03666
+
+-18297,24049
+
+980,13458
+
+-14,5
+
+-1
+
+-1
+
+ln(k/T) (s K )
+
+-14,0
+
+-15,0
+-15,5
+-16,0
+-16,5
+-17,0
+0,00300
+
+0,00305
+
+0,00310
+
+0,00315
+
+0,00320
+
+-1
+
+1/T (K )
+
+Fonte: Autoria própria.
+
+Tabela 7 - Parâmetros de ativação dos complexos RuNOSO3isn e RuNOSO3pic
+
+‡
+
+ΔG‡
+
+Ea
+
+(kcal mol-1)
+
+(kcal mol-1)
+
+(T = 25°C)
+
+(T = 25°C)
+
+‡
+
+ΔH
+
+ΔS
+
+Complexo
+-1
+
+(kcal mol )
+
+-1
+
+-1
+
+(cal K mol )
+
+trans-[Ru(NH3)4(isn)(N(O)SO3)]+
+
+26,5 ± 1,8
+
+9,1 ± 0,9
+
+23,7 ± 1,5
+
+27,1 ± 1,8
+
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+
+
+36,4 ± 1,9
+
+36,3 ± 6,0
+
+25,5 ± 3,7
+
+36,9 ± 1,9
+
+Fonte: Autoria própria.
+O íon complexo RuNOSO3pic a 40°C (t1/2 = 530 min) apresenta t 1/2 maior que o obtido
+para o complexo RuNOSO3isn a 25°C (t1/2 = 385 min), sendo assim, pode-se afirmar que o íon
+complexo RuNOSO3pic é termicamente mais estável, em solução aquosa, que o complexo
+RuNOSO3isn. Isso pode ocorrer devido a maior estabilidade da ligação do ligante 4-picolina,
+se comparado ao isonicotinamida, já que a 4-picolina apresenta uma basicidade sigma maior
+que a isonicotinamida.
+
+36
+
+4.4.2 Estabilidade do complexo em meio ácido
+O íon complexo RuNOSO3pic em solução 1,0 M de ácido trifluoroacético (HTFA) reage
+rapidamente formando o complexo precursor RuNOpic. O produto da reação foi determinado
+por RMN de 1H, sendo que logo no espectro inicial (t = 0) já se observa os sinais da 4-picolina
+coordenada ao complexo RuNOpic.
+Figura 16 - Espectro de RMN do complexo RuNOSO3pic em solução 1,0 M de ácido
+trifluoroacético (HTFA), gerando o respectivo complexo RuNOpic
+
+Fonte: Autoria própria.
+
+Figura 17 - Espectro de RMN de 1H do complexo RuNOpic em meio 50% D2O e 50%
+tampão fosfato pH 7,4
+
+37
+
+Fonte: Autoria própria.
+Comportamento similar também foi observado para o complexo RuNOSO3isn. Esse
+complexo reage rapidamente em meio de HTFA 1,0 M e gera o respectivo nitrosilo complexo
+RuNOisn. A reversibilidade do ataque nucleofílico em nitrosilo complexos em soluções muito
+ácidas já havia sido reportada para a reação entre esses complexos e íons hidróxido48. A quebra
+da ligação S-N em meio ácido também já havia sido reportada para outros complexos do tipo
+[L5Ru-N(O)SO3]n.16,18 Esses resultados sugerem que haja a protonação dos dois átomos de
+oxigênio do fragmento -SO3 do ligante N(O)SO3 em soluções ácidas, e isso levaria ao
+rompimento da ligação S-N, de acordo com a reação ilustrada na Eq. (7):
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ + 2H3O+
+trans-[Ru(NH3)4(4-pic)(NO)]3+ + H2SO3 + 2H2O (7)
+
+4.5 Determinação do valor de pKa do complexo trans-[Ru(NH3)4(4-pic)N(O)SO3]+
+O valor do pKa do íon complexo RuNOSO3pic foi determinado pela titulação do
+RuNOSO3pic com ácido trifluoroacético (HTFA). A titulação foi monitorada analisando-se a
+absorbância em 358 nm (Figura 18).
+
+38
+
+Figura 18 - Curva de titulação do complexo RuNOSO3pic com ácido trifluoroacético
+(HTFA) (μ = 0,1 M)
+1,2
+
+Absorbância em 358 nm
+
+1,0
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+pH
+
+Fonte: Autoria própria.
+
+Em seguida, determinou-se a primeira e a segunda derivada da curva de titulação, a fim
+de se obter o valor do pKa do complexo.
+
+Figura 19 - Aplicação da primeira e segunda derivada da curva de titulação ilustrada na
+figura 18
+
+39
+
+5,30
+
+0,40
+
+0,2
+
+Segunda derivada
+
+Primeira derivada
+
+0,35
+0,30
+0,25
+0,20
+0,15
+0,10
+0,05
+
+0,1
+
+5,30
+
+pH
+
+0,0
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+-0,1
+
+-0,2
+
+0,00
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+pH
+
+Fonte: Autoria própria.
+O pKa obtido para o íon complexo RuNOSO3pic refere-se ao equilíbrio
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ + H3O+
+trans-[Ru(NH3)4(4-pic)(N(O)SO3H)]2+ + H2O (8)
+No método utilizando-se a primeira e a segunda derivada, obteve-se o valor de 5,30 para
+o pKa do complexo RuNOSO3pic. Esse valor de pKa encontra-se dentro do intervalo esperado
+pois o íon sulfito SO32- não-coordenado apresenta pKa = 7,231, e quando coordenado ao
+complexo trans-[Ru(NH3)4(H2O)(SO3)], apresenta valor de pKa = 5,05 ± 0,146. Para o complexo
+RuNOSO3isn, o valor de pKa reportado pelo método de derivadas é de 5,0418. Não foi possível
+determinar o pKa da segunda protonação do íon SO32- pois, como discutido anteriormente, a
+segunda protonação desse ligante ocasiona na quebra da ligação S-N, gerando o complexo
+precursor RuNOpic.
+
+4.6 Reações com íon hidróxido
+Estudos anteriores48 realizados para a reação entre OH- e nitrosilo complexos do tipo
+[ML5(NO)]n sugerem que o produto formado seja o respectivo nitro complexo [ML 5(NO2)](n2)
+
+. O mecanismo sugerido para essa reação está ilustrado nas etapas a seguir, Eqs. (9-11), em
+
+que a etapa apresentada na Eq. 10 é a determinante da constante de velocidade.
+[ML5(NO)]n + OH{[ML5(NO)]n···OH-}
+
+{[ML5(NO)]n···OH-}
+[ML5(NOOH)](n-1)
+
+(9)
+(10)
+
+40
+
+[ML5(NOOH)](n-1) + OH-
+
+[ML5(NO2)](n-2) + H2O
+
+(11)
+
+Estudos anteriores realizados com complexos do tipo trans-[Ru(NH3)4(L)(NO)]3+
+
+(L
+
+= pirazina, nicotinamida, isonicotinamida, piridina, 4-picolina ou histidina) indicaram a
+formação de uma banda de absorção intensa entre 378 nm (para L = 4-picolina) e 400 nm
+durante a reação desses complexos com OH-.48 Essa banda de absorção é referente aos
+respectivos nitro complexos formados, trans-[Ru(NH3)4(L)(NO2)]+. No presente trabalho, a
+reação entre o complexo RuNOSO3pic e OH- levou à formação de uma banda em 378 nm,
+sugerindo a formação do respectivo nitro complexo RuNOSO3NO2 (Figura 20). Resultados
+similares foram observados para a reação entre OH- e o complexo RuNOSO3isn, em que o
+complexo trans-[Ru(NH3)4(isn)(NO2)]+ foi formado18.
+Figura 20 - Formação do complexo trans-[Ru(4-pic)(NH3)4(NO2)]+ pela reação entre íons
+hidróxido e o complexo RuNOpic
+2,0
+
+(a) trans-[Ru(NH3)4(4-pic)(NO)]
+
+3+
+
+(b) trans-[Ru(NH3)4(4-pic)(NO2)]
+
++
+
+Absorbância
+
+1,5
+
+(a)
+1,0
+
+(b)
+
+0,5
+
+0,0
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+Comprimento de onda (nm)
+
+Figura 21 - Formação do complexo trans-[Ru(4-pic)(NH3)4(NO2)]+ pela reação entre íons
+hidróxido em o complexo RuNOSO3pic
+
+41
+
+(a) trans-[Ru(NH3)4(4-pic)(N(O)SO3)]
+
+2,0
+
+(b) trans-[Ru(NH3)4(4-pic)(NO2)]
+
++
+
++
+
+Absorbância
+
+1,5
+
+1,0
+
+(b)
+
+(a)
+
+0,5
+
+0,0
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+Comprimento de onda (nm)
+
+Fonte: Autoria própria.
+O comportamento cinético típico para a reação entre RuNOSO3pic e íons OH– está
+representado na Figura 22.
+
+Figura 22 - Curva cinética representativa da reação entre RuNOSO3pic (1,0 x 10-4 M)
+e OH- (1,5 x 10-2 M), T = 25° C, μ = 1,0 M (NaCl). Gráfico inserido: linearização da curva
+cinética
+
+42
+
+1,1
+
+0,9
+
+Equation
+
+y = a + b*x
+
+Weight
+
+No Weighting
+
+Pearson's r
+
+-0,9991
+
+Adj. R-Square
+
+0,99818
+Value
+
+-1,0
+
+0,8
+
+0,7
+
+0,09188
+
+Residual Sum
+of Squares
+
+-0,5
+
+ln (Ainf- A)
+
+Absorbância em 378 nm
+
+1,0
+
+Standard Error
+
+ln(f)
+
+Intercept
+
+-0,81952
+
+0,00402
+
+ln(f)
+
+Slope
+
+-0,13313
+
+4,63608E-4
+
+-1,5
+
+-2,0
+
+-2,5
+
+-3,0
+-2
+
+0,6
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+tempo (s)
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+tempo (s)
+
+Fonte: Autoria própria.
+Por meio da relação entre kobs e a concentração de OH-, foi possível determinar a constante
+de velocidade para a reação entre o íon complexo RuNOSO3pic e íon OH-, e esse resultado
+está ilustrado na figura 23 e contido na tabela 8. Na tabela 8, também são apresentados os
+resultados de k obtidos para a reação entre OH- e um complexo de estrutura química muito
+similar, o complexo RuNOSO3isn, e também os resultados referentes à reação entre OH - e os
+complexos precursores RuNOpic e RuNOisn.
+
+Figura 23 - Relação entre kobs e concentração de OH- à T = 25°C. Condições
+experimentais: RuNOSO3pic CRu = 1 x 10-4 M; μ = 1,0 M (NaCl); n = 5 para cada concentração
+de OH-
+
+43
+
+0,6
+
+Equation
+
+y = a + b*x
+0,99599
+
+Adj. R-Square
+
+Value
+
+Standard Error
+
+Intercept
+
+0,01529
+
+0,00661
+
+Slope
+
+8,44659
+
+0,2679
+
+-1
+
+kobs(s )
+
+0,4
+
+0,2
+
+-
+
+Reação RuNOSO3pic + OH , T = 25°C
+0,01
+
+0,02
+
+0,03
+
+0,04
+
+0,05
+
+0,06
+
+-
+
+[OH ] (mol/L)
+Fonte: Autoria própria.
+Tabela 8 - Comparação das constantes de velocidade (k) para a reação entre íons hidróxido
+(OH-) e diferentes nitrosilo e nitrosilsulfito complexos de Ru(II)
+
+a
+
+Complexo
+
+k (L mol-1 s-1) T = 25°C
+
+trans-[Ru(NH3)4(isn)(NO)]3+
+
+57,6a / 46,9a
+
+trans-[Ru(NH3)4(isn)(N(O)SO3)]+
+
+6,16 ± 0,22a
+
+trans-[Ru(NH3)4(4-pic)(NO)]3+
+
+9,54 ± 0,06b
+
+trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+
+
+8,45 ± 0,27
+
+ref. 18. bref. 48
+
+44
+
+Comparando-se os valores de k para as reações entre OH- e os nitrosilo complexos
+RuNOpic e RuNOisn, observa-se que a constante para o RuNOisn é aproximadamente cinco
+vezes maior do que a constante reportada para o complexo RuNOpic 48(tabela 8). Isso ocorre,
+pois o maior caráter positivo no átomo de N do ligante NO no complexo RuNOisn favorece o
+ataque nucleofílico do íon OH-.48 Entretanto, ao comparar-se os valores de k para os complexos
+RuNOSO3pic e RuNOSO3isn, observa-se pouca diferença entre as duas constantes. Isso
+sugere que existe um menor efeito dos ligantes N-heterocíclicos
+
+(trans-posicionados
+
+ao NOSO3) no caráter eletrofílico do átomo de N do ligante NOSO3 em comparação aos
+respectivos complexos contendo o ligante NO.
+Esse comportamento provavelmente ocorre devido à diferença no ângulo da ligação MN-O, que é próximo do linear (180°) nos complexos [L5Ru-NO]n,4 e que em complexos do tipo
+[ML5(N(O)SO3)]n+ é de aproximadamente 124°,18 sendo similar ao ângulo de ligação de
+complexos do tipo [L5RuNO2]n.48 Quando a ligação Ru–N–O é linear, a sobreposição dos
+orbitais dπ-π*NO é mais efetiva em comparação com a ligação nos complexos Ru-NOSO3.
+Consequentemente, é provável que o efeito que o ligante trans-posicionado exerce nessa
+interação seja maior no caso dos nitrosilo complexos ([L5Ru-NO]n]) em comparação aos
+respectivos nitrosilsulfito complexos ([ML5(N(O)SO3)]n+).
+Portanto, no caso dos complexos [ML5(N(O)SO3)]n+, em que a ligação Ru-N-O torna-se
+<< 180° (aproximadamente 124°), tanto a sobreposição dos orbitais d π-π*N diminui, quanto o
+efeito que o ligante trans-posicionado exerce nessa interação, em comparação aos respectivos
+nitrosilo complexos [L5Ru-NO]n. Isso pode explicar o motivo pelo qual observa-se uma menor
+diferença no valor da constante de velocidade k para a reação entre OH- e os complexos
+RuNOSO3isn e RuNOSO3pic.
+Apesar do que foi discutido nos parágrafos anteriores, mais estudos serão necessários para
+a reação entre OH- e novos complexos trans-[Ru(NH3)4(L)(N(O)SO3]n com diferentes ligantes
+L para que se alcance uma melhor compreensão da influência do ligante L trans-posicionado
+ao ligante NOSO3 na reatividade desses complexos frente ao íon OH-.
+
+5 CONCLUSÕES E PERSPECTIVAS FUTURAS
+O presente estudo teve o intuito de ampliar o entendimento do ligante NOSO 3, que até o
+momento foi muito pouco estudado, e auxiliar na compreensão dos efeitos que o ligante transposicionado a esse ligante causa em sua estabilidade térmica e fotoquímica. Em estudos
+realizados com o complexo trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+, verificou-se que o ligante 4-
+
+45
+
+picolina não apresentou diferença significativa na reatividade do ligante NOSO3 frente às
+reações com íons hidróxido, quando comparado ao respectivo complexo contendo o ligante
+isonicotinamida, trans-[Ru(NH3)4(isn)(N(O)SO3)]+ (isn = isonicotinamida), utilizado em um
+estudo anterior. No entanto, o ligante 4-picolina permitiu que o nitrosilsulfito complexo fosse
+muito mais estável à degradação térmica com relação ao complexo contendo o ligante
+isonicotinamida. Ambos os complexos, trans-[Ru(NH3)4(4-pic)(N(O)SO3)]+ e
+
+trans-
+
+[Ru(NH3)4(isn)(N(O)SO3)]+, apresentaram reatividade similar em meio ácido, dando origem
+aos respectivos nitrosilo complexos trans-[Ru(NH3)4(L)(NO)]3+ (L = isn ou 4-pic).
+Com base no exposto, este trabalho pode ser complementado por meio da realização de
+estudos fotoquímicos, e também pela síntese e estudo de reatividade com novos ligantes L em
+complexos do tipo trans-[Ru(NH3)4(L)N(O)SO3)]+. Esses estudos auxiliariam no entendimento
+da reatividade do ligante NOSO3, que apresenta potencial de formar produtos de interesse, tais
+como óxido nítrico e radical sulfito.
+
+46
+
+6 REFERÊNCIAS
+1. BOTTOMLEY, F. Electrophilic behavior of coordinated nitric-oxide. Accounts of
+Chemical Research, v. 11, n. 4, p. 158-163, 1978.
+
+2. PLAYFAIR, L. Annalen der Chemie und Pharmacie, v. 373-373, n. p. 317-340, 1849.
+
+3. SOUZA, M. L.; ROVEDA JR, A. C.; PEREIRA, J. C. M.; FRANCO, D. W. New
+perspectives on the reactions of metal nitrosyls with thiolates as nucleophiles. Coordination
+Chemistry Reviews, v. 306, n. p. 615-627, 2016.
+
+4. RICHTER-ADDO, G. B.; LEGZDINS, P. Metal nitrosyls. New York: Oxford University
+Press, 1992. 369 p.
+
+5. FOGG, A. G.; NORBURY, A. H.; MOSER, W. The boedeker reaction - IV: Caesium
+sulphitonitroprusside. Journal of Nuclear Chemistry, v. 28, n. p. 2753-2755, 1966.
+
+6. MOSER, W.; CHALMERS, R. A.; FOGG, A. G. The boedeker reaction - I. Journal of
+Inorganic and Nuclear Chemistry, v. 27, n. p. 831-840, 1965.
+
+7. PERISSINOTTI, L. L.; ESTRIN, D. A.; LEITUS, G.; DOCTOROVICH, F. A surprisingly
+stable s-nitrosothiol complex. Journal of the American Chemical Society, v. 128, n. 8, p.
+2512-2513, 2006.
+
+8. PERISSINOTTI, L. L.; LEITUS, G.; SHIMON, L.; ESTRIN, D.; DOCTOROVICH, F. A
+unique family of stable and water-soluble s-nitrosothiol complexes. Inorganic Chemistry, v.
+47, n. 11, p. 4723-4733, 2008.
+
+9. FILIPOVIC, M. R.; IVANOVIC-BURMAZOVIC, I. The kinetics and character of the
+intermediates formed in the reaction between sodium nitroprusside and hydrogen sulfide need
+further clarification. Chemistry-a European Journal, v. 18, n. 42, p. 13538-13540, 2012.
+
+47
+
+10. PEREIRA, J. C. M.; SOUZA, M. L.; FRANCO, D. W. Nitric oxide and nitroxyl products
+from the reaction of l-cysteine with trans-[RuNO(NH3)4p(oet)3](PF6)3. European Journal of
+Inorganic Chemistry, v. 2015, n. 6, p. 1005-1011, 2015.
+
+11. QUIROGA, S. L.; ALMARAZ, A. E.; AMOREBIETA, V. T.; PERISSINOTTI, L. L.;
+OLABE, J. A. Addition and redox reactivity of hydrogen sulfides (H2S/HS-) with nitroprusside:
+New chemistry of nitrososulfide ligands. Chemistry-a European Journal, v. 17, n. 15, p.
+4145-4156, 2011.
+
+12. RONCAROLI, F.; OLABE, J. A. The reactions of nitrosyl complexes with cysteine.
+Inorganic Chemistry, v. 44, n. 13, p. 4719-4727, 2005.
+
+13. SZACILOWSKI, K.; STASICKA, Z. Reaction of sodium pentacyanonitrosylferrate(2–)
+with aliphatic thiolates. Synthesis and properties of the [Fe(CN)5N(O)SR]3– products. New
+Journal of Chemistry, v. 21, n. p. 893-902, 1997.
+
+14. SZACILOWSKI, K.; WANAT, A.; BARBIERI, A.; WASIELEWSKA, E.; WITKO, M.;
+STOCHEL, G.; STASICKA, Z. Reactions of the [Fe(CN)5NO]2- complex with biologically
+relevant thiols. New Journal of Chemistry, v. 26, n. 10, p. 1495-1502, 2002.
+
+15. BOEDEKER, C. Liebigs Annalen der Chemie, v. 117, n. p. 193-195, 1861.
+
+16. BOTTOMLEY, F.; BROOKS, W. V. F.; PAEZ, D. E.; WHITE, P. S.; MUKAIDA, M.
+Electrophilic behavior of nitrosyls - the boedeker reaction, the reactions of sulfite with nitrosyls,
+and
+
+the
+
+crystal
+
+and
+
+molecular-structure
+
+of
+
+cis-bis(2,2'-
+
+bipyridine)chloro(nitrosylsulphito)ruthenium. Journal of the Chemical Society-Dalton
+Transactions, v. n. 11, p. 2465-2472, 1983.
+
+17. TAKAHAMA, U.; HIROTA, S. Effects of the food additive sulfite on nitrite-dependent
+nitric oxide production under conditions simulating the mixture of saliva and gastric juice.
+Journal of Agricultural and Food Chemistry, v. 60, n. 4, p. 1102-1112, 2012.
+
+48
+
+18. ROVEDA JR, A. C. (2016), Reatividade química de um novo nitrosilsulfito complexo
+trans-[Ru(NH3)4(isn)(N(O)SO3)]PF6, e desenvolvimento de filmes de amido doadores de óxido
+nítrico. Dissertação, Instituto de Química de São Carlos, Universidade de São Paulo, São
+Carlos.
+
+19. FUKUTO, J. M.; CARRINGTON, S. J.; TANTILLO, D. J.; HARRISON, J. G.; IGNARRO,
+L. J.; FREEMAN, B. A.; CHEN, A.; WINK, D. A. Small molecule signaling agents: The
+integrated chemistry and biochemistry of nitrogen oxides, oxides of carbon, dioxygen,
+hydrogen sulfide, and their derived species. Chemical Research in Toxicology, v. 25, n. 4, p.
+769-793, 2012.
+
+20. IGNARRO, L. J. Nitric oxide: Biology and pathobiology. San Diego: Academic Press
+2000. p.
+
+21. TOLEDO, J. C.; AUGUSTO, O. Connecting the chemical and biological properties of nitric
+oxide. Chemical Research in Toxicology, v. 25, n. 5, p. 975-989, 2012.
+
+22. WINK, D. A.; MITCHELL, J. B. Chemical biology of nitric oxide: Insights into regulatory,
+cytotoxic, and cytoprotective mechanisms of nitric oxide. Free Radicals Biology and
+Medicine, v. 25, n. 4-5, p. 434-456, 1998.
+
+23. RANGUELOVA, K.; CHATTERJEE, S.; EHRENSHAFT, M.; RAMIREZ, D. C.;
+SUMMERS, F. A.; KADIISKA, M. B.; MASON, R. P. Protein radical formation resulting from
+eosinophil peroxidase-catalyzed oxidation of sulfite. Journal of Biological Chemistry, v. 285,
+n. 31, p. 24195-24205, 2010.
+
+24. RANGUELOVA, K.; MASON, R. P. New insights into the detection of sulfur trioxide
+anion radical by spin trapping: Radical trapping versus nucleophilic addition. Free Radical
+Biology and Medicine, v. 47, n. 2, p. 128-134, 2009.
+
+25.
+
+RANGUELOVA,
+
+K.;
+
+RICE,
+
+A.
+
+B.;
+
+KHAJO,
+
+A.;
+
+TRIQUIGNEAUX,
+
+M.;
+
+GARANTZIOTIS, S.; MAGLIOZZO, R. S.; MASON, R. P. Formation of reactive sulfite-
+
+49
+
+derived free radicals by the activation of human neutrophils: An esr study. Free Radic Biol
+Med, v. 52, n. 8, p. 1264-1271, 2012.
+
+26. RANGUELOVA, K.; RICE, A. B.; LARDINOIS, O. M.; TRIQUIGNEAUX, M.;
+STEINCKWICH, N.; DETERDING, L. J.; GARANTZIOTIS, S.; MASON, R. P. Sulfitemediated oxidation of myeloperoxidase to a free radical: Immuno-spin trapping detection in
+human neutrophils. Free Radic Biol Med, v. 60, n. p. 98-106, 2013.
+
+27. VELAYUTHAM, M.; HEMANN, C. F.; CARDOUNEL, A. J.; ZWEIER, J. L. Sulfite
+oxidase activity of cytochrome c: Role of hydrogen peroxide. Biochem Biophys Rep, v. 5, n.
+p. 96-104, 2016.
+
+28. ZHENG, Y.; ZHOU, Q. X.; LEI, W. H.; HOU, Y. J.; LI, K.; CHEN, Y. J.; ZHANG, B. W.;
+WANG, X. S. DNA photocleavage in anaerobic conditions by a Ru(II) complex: A new
+mechanism. Chemical Communications, v. 51, n. 2, p. 428-430, 2015.
+
+29. ZHENG, Y.; ZHOU, Q. X.; ZHANG, Y. Y.; LI, C.; HOU, Y. J.; WANG, X. S. Substituent
+effect and wavelength dependence of the photoinduced ru-o homolysis in the [Ru(bpy)2(pySO3)]+-type complexes. Dalton Transactions, v. 45, n. 7, p. 2897-2905, 2016.
+
+30. HAYON, E.; TREININ, A.; WILF, J. Electronic spectra, photochemistry, and autoxidation
+mechanism of sulfite-bisulfite-pyrosulfite systems - SO2-, SO3-, SO4-, and SO5- radicals.
+Journal of the American Chemical Society, v. 94, n. 1, p. 47-57, 1972.
+
+31. NETA, P.; HUIE, R. E. Free-radical chemistry of sulfite. Environmental Health
+Perspectives, v. 64, n. p. 209-217, 1985.
+
+32. NETA, P.; HUIE, R. E.; ROSS, A. B. Rate constants for reactions of inorganic radicals in
+aqueous-solution. Journal of Physical and Chemical Reference Data, v. 17, n. 3, p. 10271284, 1988.
+
+33. LIN, Y. T.; LIANG, C. J.; CHEN, J. H. Feasibility study of ultraviolet activated persulfate
+oxidation of phenol. Chemosphere, v. 82, n. 8, p. 1168-1172, 2011.
+
+50
+
+34. LUTZE, H. V.; BIRCHER, S.; RAPP, I.; KERLIN, N.; BAKKOUR, R.; GEISLER, M.;
+VON SONNTAG, C.; SCHMIDT, T. C. Degradation of chlorotriazine pesticides by sulfate
+radicals and the influence of organic matter. Environmental Science & Technology, v. 49, n.
+3, p. 1673-1680, 2015.
+
+35. ZHANG, B. T.; ZHANG, Y.; TENG, Y. H.; FAN, M. H. Sulfate radical and its application
+in decontamination technologies. Critical Reviews in Environmental Science and
+Technology, v. 45, n. 16, p. 1756-1800, 2015.
+
+36. BAI, C. B.; WANG, N. X.; LAN, X. W.; WANG, Y. J.; XING, Y. L.; WEN, J. L.; GAO,
+X. W.; ZHANG, W. An unexpected controlled new oxidant: SO4-. Scientific Reports, v. 6, n.
+p. 2016.
+
+37. GUO, Y. F.; MAHMOOD, S.; XU, B. H.; YAO, X. Q.; HE, H. Y.; ZHANG, S. J. Oxidation
+of aromatic aldehydes to esters: A sulfate radical redox system. Journal of Organic
+Chemistry, v. 82, n. 3, p. 1591-1599, 2017.
+
+38. BORGES, S. S.; DAVANZO, C. U.; CASTELLANO, E. E.; Z-SCHPECTOR, J.; SILVA,
+S. C.; FRANCO, D. W. Ruthenium nitrosyl complexes with n-heterocyclic ligands. Inorganic
+Chemistry, v. 37, n. 11, p. 2670-2677, 1998.
+
+39. GOMES, M. G.; DAVANZO, C. U.; SILVA, S. C.; LOPES, L. G. F.; SANTOS, P. S.;
+FRANCO,
+
+D.
+
+W.
+
+Cis-
+
+and
+
+trans-nitrosyltetraammineruthenium(II).
+
+Spectral
+
+and
+
+electrochemical properties and reactivity. Journal of the Chemical Society-Dalton
+Transactions, v. n. 4, p. 601-607, 1998.
+
+40. TFOUNI, E.; KRIEGER, M.; MCGARVEY, B. R.; FRANCO, D. W. Structure, chemical
+and photochemical reactivity and biological activity of some ruthenium amine nitrosyl
+complexes. Coordination Chemistry Reviews, v. 236, n. 1-2, p. 57-69, 2003.
+
+51
+
+41. LIMANETO, B. S.; NASCIMENTO, J. C.; FRANCO, D. W. Trans effect and trans
+influence in ruthenium(II) tetraammines: Imidazole as a probe ligand. Polyhedron, v. 15, n.
+12, p. 1965-1970, 1996.
+
+42. SIMIC, M.; EBERT, R. Pulse radiolysis of aqueous solutions of carboxy, carbamido and
+pyridil derivatives of pyridine. Int. J. Radiat. Phys. Chem., v. 1971, n. p. 259-272, 1971.
+
+43. JAFFE, H. H.; DOAK, G. O. The basicities of substituted pyridines and their 1-oxides.
+Journal of the American Chemical Society, v. 77, n. 17, p. 4441-4444, 1955.
+
+44. ALLEN, A. D.; BOTTOMLE.F; HARRIS, R. O.; REINSALU, V. P.; SENOFF, C. V.
+Ruthenium complexes containing molecular nitrogen. Journal of the American Chemical
+Society, v. 89, n. 22, p. 5595-5599, 1967.
+
+45. VOGT, L. H.; KATZ, J. L.; WIBERLEY, S. E. Crystal and molecular structure of
+ruthenium-sulfur
+
+dioxide
+
+coordination
+
+compounds
+
+.
+
+I.
+
+Chlorotetraammine(sulfur
+
+dioxide)ruthenium(II)chloride. Inorganic Chemistry, v. 4, n. 8, p. 1157-1163, 1965.
+
+46. ISIED, S.; TAUBE, H. Effects of so2, hso3-, and so32- as auxiliary ligands on reactivity of
+ammineruthenium(ii)-ligand bonds. Inorganic Chemistry, v. 13, n. 7, p. 1545-1551, 1974.
+
+47. SILVA, H. A. D.; MCGARVEY, B. R.; SANTOS, R. H. D.; BERTOTTI, M.; MORI, V.;
+FRANCO, D. W. Sulfate as a ligand in ruthenium(II) and (III) ammines. Canadian Journal of
+Chemistry-Revue Canadienne De Chimie, v. 79, n. 5, p. 679-687, 2001.
+
+48. RONCAROLI, F.; RUGGIERO, M. E.; FRANCO, D. W.; ESTIU, G. L.; OLABE, J. A.
+Kinetic, mechanistic, and dft study of the electrophilic reactions of nitrosyl complexes with
+hydroxide. Inorganic Chemistry, v. 41, n. 22, p. 5760-5769, 2002.
+
+49. ALBERT, A.; SERJEANT, E. P. The determination of ionization constants. New York:
+Chapman and Hall, 1984. p.
+
+52
+
+50. MINGOS, D. M. P. Nitrosyl complexes in inorganic chemistry, biochemistry and
+medicine i. Heidelberg, New York, Dordrecht, London: Springer, 2014. 232 p.
+
+51. SILVA, A. D. S. (2001), Aspectos da química de íons sulfato e do óxido nítrico como
+ligantes em aminas de rutênio. Dissertação, Instituto de Química, USP - São Carlos, São Carlos.
+
+52. HELM, L.; MERBACH, A. E. Inorganic and bioinorganic solvent exchange mechanisms.
+Chemical Reviews, v. 105, n. 6, p. 1923-1959, 2005.
+
+53
+
+ANEXO A - Superfície de contorno dos orbitais número 92 e 95 (H-2 e LUMO,
+respectivamente) do complexo trans[Ru(NH3)4(4-pic)(N(O)SO3](PF6) na visão frontal, lateral
+e superior do complexo.
+H-2
+
+LUMO
+
+54
+
+

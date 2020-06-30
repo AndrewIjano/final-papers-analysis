@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: yes
+dedictria: no
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: yes 
+l_tabelas: yes
+l_abr_sig: yes
+l_quadros: yes
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: yes
+ini: INTRODUÇÃO
+secoes:
+ - METODOLOGIA
+ - A (SÍNDROME) DA ALIENAÇÃO PARENTAL
+ - A IMPLANTAÇÃO DE FALSAS MEMÓRIAS
+ - ANÁLISE JURISPRUDENCIAL E DISCUSSÃO
+ - POSSÍVEIS SOLUÇÕES PARA A ALIENAÇÃO PARENTAL
+end: CONCLUSÃO
+ref: REFERÊNCIAS BIBLIOGRÁFICAS

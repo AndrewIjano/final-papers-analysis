@@ -1,0 +1,4349 @@
+Universidade de São Paulo
+Faculdade de Saúde Pública
+
+Associação de adipocitocinas com parâmetros
+lipídicos e glicídicos em indivíduos com diversos
+fatores de risco cardiovascular
+
+Bruna Nogueira
+
+Trabalho de Conclusão apresentado ao 70º
+Curso
+
+de
+
+Graduação
+
+em
+
+Nutrição
+
+da
+
+Faculdade de Saúde Pública da Universidade
+de
+
+São
+
+Paulo
+
+Orientadora: Profª Drª Nágila Raquel Teixeira
+Damasceno
+
+São Paulo
+2016
+
+Associação de adipocitocinas com parâmetros
+lipídicos e glicídicos em indivíduos com diversos
+fatores de risco cardiovascular
+
+Bruna Nogueira
+
+Trabalho de Conclusão apresentado ao
+70º Curso de Graduação em Nutrição da
+Faculdade
+Universidade
+
+de
+
+Saúde
+de
+
+Pública
+São
+
+da
+Paulo
+
+Orientadora: Profª Drª Nágila Raquel
+Teixeira Damasceno
+
+São Paulo
+2016
+
+AGRADECIMENTOS
+
+Aos meus pais, Vagner e Viviane, pela força, apoio e amor
+incondicional que me proporcionaram por toda a vida.
+À minha irmã, Camila, pelo companheirismo, incentivo e amor que
+sempre teve comigo.
+Ao meu namorado e melhor amigo, Glauber, por toda a compreensão,
+paciência, amor, apoio e carinho em toda essa trajetória.
+À minha orientadora, Profª Nágila Raquel Teixeira Damasceno, pelo
+exemplo de pessoa e de dedicação à profissão e à arte de ensinar,
+estimulando sempre o melhor de seus alunos.
+
+Nogueira B. Associação de adipocitocinas com parâmetros lipídicos e glicídicos em
+indivíduos com diversos fatores de risco cardiovascular [Trabalho de Conclusão de
+Curso – Curso de Graduação em Nutrição]. São Paulo: Faculdade de Saúde Pública
+da USP, 2016.
+
+RESUMO
+Introdução – No Brasil, as DCVs são a principal causa de mortalidade, sendo
+atribuída a elas cerca de 33% do total de mortes no país. Para seu desenvolvimento,
+diversos fatores de risco estão associados, sendo que a maioria deles são
+modificáveis, ou seja, as mortes por essas doenças poderiam ser evitadas com
+mudanças de hábitos de vida. Nesse contexto, inúmeros pesquisadores estudam
+diversos já estabelecidos ou potenciais biomarcadores de risco cardiovascular, de
+forma a mudarem precocemente os fatores de risco associados a estes
+biomarcadores, buscando assim, novas terapêuticas para prevenção e tratamento das
+DCV. Objetivo – Avaliar a associação da adiponectina, leptina e a razão entre ambos
+os hormônios com diferentes parâmetros dos perfis lipídico e glicídico em indivíduos
+com diversos fatores de risco cardiovascular. Métodos – Estudo transversal feito com
+uma subamostra contendo 79 indivíduos da amostra total do projeto Cardionutri, o
+qual incluía indivíduos com idade entre 30 a 74 anos, não podendo apresentar nenhum
+evento cardiovascular prévio. A partir deste foi feita a avaliação socioeconômica e
+clínica, avaliação antropométrica (aferição de peso, estatura, circunferência da
+cintura, IMC e %MG), análise bioquímica (determinação do perfil lipídico e
+apolipoproteínas, adipocitocinas séricas, glicose, insulina e HOMA-IR). A amostra foi
+distribuída, conforme o sexo, em dois grupos: o de homens e o de mulheres e estes
+foram estratificados em dois sub-grupos, segundo mediana (p≥50 e <p50) de
+adiponectina, leptina e a razão adiponectina/leptina. Após esses dados, foi feita
+análise estatística com o Programa SPSS v.20.0, utilizando-se testes de comparação
+de médias t Student, Mann Whitney e correlação entre as variáveis pelo Spearman.
+Resultados – A amostra do estudo possuía maior proporção de indivíduos do sexo
+feminino, os quais apresentavam maior CC e %MG. Quando o estado nutricional foi
+valiado, a maior parte da amostra possuía IMC elevado (sobrepeso e obesidade). As
+mulheres apresentaram maiores níveis de leptina, o que se associa com os maiores
+
+níveis de adiposidade encontrados nestas, sendo que nos homens, havia maiores
+valores da razão A/L. Neste grupo também foi observado um perfil lipídico mais
+aterogênico do que as mulheres. Quando feita a análise nos subgrupos pela mediana
+da adiponectina, percebeu-se que indivíduos com maiores concentrações de
+adiponectina, possuíam maiores valores de HDL e Apo A-I e menores de TG e
+TG/HDL, com a presença de correlação negativa entre esta adipocitocina e este
+parâmetro e positiva com a HDL e a Apo A-I. Já naqueles participantes com maiores
+concentrações de leptina, observou-se maiores valores de TG, TG/HDL e de glicose
+e menores de HDL e Apo A-I, sendo que a leptina apresentava correlações
+contraditórias à literatura com HDL, CT/HDL e TG/HDL. Analisando os indivíduos
+maiores valores de razão A/L, estes possuíam maiores concentrações de HDL e Apo
+A-I e menores de CT/HDL e LDL, sendo que a razão A/L se associava positivamente
+com a glicose, a insulina e o HOMA-IR, indicando uma relação com a resistência à
+insulina. Conclusão – Apesar de algumas limitações e resultados que contradizem
+alguns artigos da literatura, podemos concluir com o atual estudo que a adiponectina
+e a razão adiponectina/leptina possuem papéis mais ateroprotetores, enquanto que a
+leptina, quando em um quadro de resistência à esta, se mostra mais aterogênica. Além
+disso, a razão A/L e a leptina apresentam-se associadas a parâmetros da resistência
+à insulina, a qual está relacionada com a ocorrência de DCV.
+
+Descritores: Adiponectina; Leptina; Perfil lipídico; Perfil glicídico; Doenças
+Cardiovasculares.
+
+ÍNDICE
+1. INTRODUÇÃO
+1.1
+1.2
+1.3
+2. OBJETIVOS
+2.1 GERAL
+2.2 ESPECÍFICO
+3. METODOLOGIA
+3.1
+3.2
+
+Siglas e Abreviaturas Utilizadas
+%MG
+
+Percentual de massa gorda
+
+AdipoR1
+
+Receptor para adiponectina 1
+
+AdipoR2
+
+Receptor para adiponectina 2
+
+AMP
+
+Adenosina monofosfato
+
+AMP-K
+
+Proteína quina ativada por AMP
+
+Apo
+
+Apoproteínas
+
+Apo A-I
+
+Apolipoproteína A-I
+
+Apo B
+
+Apolipoproteína B
+
+ATP
+
+Trifosfato de adenosina
+
+BHT
+
+Butylated hydroxytoluene
+
+BIA
+
+Bioimpedância elétrica
+
+CC
+
+Circunferência de cintura
+
+CE
+
+Colesterol esterificado
+
+CL
+
+Colesterol livre
+
+DAC
+
+Doença arterial coronariana
+
+DAP
+
+Doença arterial periférica
+
+DC
+
+Doença coronariana
+
+DCV
+
+Doenças cardiovasculares
+
+DLP
+
+Dislipidemia
+
+DM
+
+Diabetes mellitus
+
+ECG
+
+Eletrocardiograma
+
+EDTA
+
+Ethylenediamine tetraacetic acid
+
+ELISA
+
+Ensaio imunoenzimático
+
+FL
+
+Fosfolipídeos
+
+HAS
+
+Hipertensão arterial
+
+HDL-c
+
+Colesterol associado à lipoproteína de alta intensidade
+
+HOMA-IR
+
+Índice de resistência à insulina
+
+HU
+
+Hospital universitário
+
+IDL
+
+Lipoproteínas de densidade intermediária
+
+IM
+
+Infarto do miocárdio
+
+IMC
+
+Índice de massa corporal
+
+JAK/STAT
+
+Tirosina-quinase Janus e transdutores de sinais e
+ativadores de transcrição
+
+LDL-c
+
+Colesterol associado à lipoproteína de baixa densidade
+
+LPL
+
+Lipase lipoproteica
+
+MAPK
+
+Proteína quinases ativadas por mitógenos
+
+NF- κB
+
+Fator nuclear kappa B
+
+OMS
+
+Organização Mundial da Saúde
+
+PAD
+
+Pressão arterial diastólica
+
+PAS
+
+Pressão arterial sistólicas
+
+PI-3K
+
+Fosfatidilinositol-3-quinase
+
+PMFS
+
+Phenylmethysulfonyl fluoride
+
+PPAR-α
+
+Receptor ativador por proliferadores de peroxissoma alfa
+
+PPAR-γ
+
+Receptor ativado por proliferadores de peroxissoma gama
+
+PSAM
+
+Pressão sanguínea arterial média
+
+Qm
+
+Quilomícrons
+
+SBD
+
+Sociedade Brasileira de Diabetes
+
+SPSS
+
+Statistical Package for the Social Sciences ®
+
+TCLE
+
+Termo de consentimento livre e esclarecido
+
+TG
+
+Triacilgliceróis
+
+TNF-α
+
+Fator de necrose tumoral alfa
+
+USP
+
+Universidade de São Paulo
+
+VCML
+
+Vascularização das células musculares lisas
+
+VLDL
+
+Lipoproteína de muito baixa densidade
+
+WHO
+
+World Health Organization
+
+Lista de Tabelas
+
+Tabela 1: Adiponectina e leptina e suas respectivas ações no sistema cardiovascular
+descritas na literatura.............................................................................................
+Tabela 2:
+
+Caracterização dos indivíduos, segundo perfil demográfico e clínico
+
+estratificados pelo sexo............................................................................................
+Tabela 3: Média dos valores das variáveis antropométricas estratificadas pelo sexo
+Tabela 4: Perfis lipídicos e glicídicos da amostra, segundo sexo.........................
+Tabela 5: Estratificação dos perfis lipídicos e glicídicos, estratificados pela mediana
+de adiponectina (µg/mL)...........................................................................................
+Tabela 6: Estratificação dos perfis lipídicos e glicídicos pela leptina (ng/mL)........
+Tabela 7: Estratificação dos perfis lipídicos e glicídicos pela razão adiponectina/leptina
+(µg/ng)............................................................................................................
+Tabela 8: Correlações entre adiponectina e variáveis dos perfis lipídicos e glicídicos...
+Tabela 9: Correlações entre leptina e variáveis dos perfis lipídicos e glicídicos......
+Tabela 10: Correlações entre razão adiponectina e leptina e variáveis dos perfis
+lipídicos e glicídicos..............................................................................................
+
+Lista de Quadros
+Quadro 1: Classificação do estado nutricional de adultos segundo o IMC....
+Quadro 2: Classificação das dislipidemias......
+
+Lista de Figuras
+
+Figura 1: Constituição da lipoproteína de alta densidade (HDL)...........
+Figura 2: Constituição da lipoproteína de baixa densidade (LDL)........
+
+Lista de Gráficos
+
+Gráfico 1: Porcentagem de indivíduos do grupo de homens, de mulheres e o total
+destes em relação à classificação do Índice de Massa Corporal..........
+Gráfico 2: Porcentagem de indivíduos do grupo de homens, de mulheres e o total
+destes em relação à classificação pela Circunferência de Cintura............
+Gráfico 3: Porcentagem de indivíduos do grupo de homens, de mulheres e o total
+destes em relação à classificação pela quantidade de massa gorda.,.....
+Gráfico 4: Média das Concentrações de adiponectina, leptina e a razão entre
+essas adipocitocinas no grupo de homens, mulheres e o total da amostra.......
+
+1. INTRODUÇÂO
+
+1.1
+
+EPIDEMIOLOGIA
+
+E
+
+FATORES
+
+DE
+
+RISCO
+
+DAS
+
+DOENÇAS
+
+CARDIOVASCULARES
+
+As doenças cardiovasculares (DCV) são a principal causa de morte no mundo
+(WHO, 2011). À medida que a população mundial se torna cada vez mais sedentária,
+DCV e morbidades associadas, como Diabetes mellitus (DM) e obesidade aumentam
+(MATTU e RANDEVA, 2013). Dentre as 10 principais causas de óbito no mundo, 7,4
+milhões foram atribuídas à doença isquêmica do coração, liderando o ranking mundial
+e sendo seguida pelo infarto, que levou a morte de 6,7 milhões de pessoas (WHO,
+2012). Estima-se que em 2030, aproximadamente 23,6 milhões de pessoas morrerão
+devido às DCVs no mundo (MATHERS e LONCAR, 2006). No Brasil, as DCV são a
+principal causa de mortalidade, sendo atribuída a elas cerca de 33% do total de mortes
+no país (WHO, 2011). A mortalidade não é o único problema; as morbidades
+associadas a essas doenças são crescentes, passando a exercer forte impacto nos
+planos de saúde e economias ao redor do mundo, sem mencionar as consequências
+sociais de uma população doente (MATTU E RANDEVA, 2013).
+As DCV incluem as doenças do coração, doenças vasculares cerebrais e dos
+vasos sanguíneos. Os diferentes tipos de DCV estão listados a seguir:
+1) DCV ligadas à aterosclerose: doença isquêmica do coração ou doença arterial
+coronária, doença cerebrovascular, doenças da aorta e artérias, incluindo
+hipertensão e doença vascular periférica.
+2) Outras DCV: doença do coração congênita, doença do coração reumática,
+cardiomiopatias e arritmias cardíacas. (WHO, 2011)
+A aterosclerose – doença progressiva caracterizada pelo acúmulo de lipídeos
+e elementos fibrosos nas artérias – é o mais importante contribuinte para o
+desenvolvimento das DCV (LIBBY, 2002). Ela está localizada principalmente na íntima
+das artérias de médio e grande calibres, especialmente nas áreas de ramificação,
+onde a pressão sanguínea exerce maior atrito contra a camada endotelial
+
+(GIMBRONE et al., 2000; FROSTEGÅRD, 2013). É uma doença multifatorial, lenta e
+progressiva, resultante de uma série de respostas celulares e moleculares altamente
+específicas (HACKAM e ANAND, 2003; GOTTLIEB, BONARDI e MORIGUCHI, 2006).
+O acúmulo e depósito na parede das artérias de lipídeos, células inflamatórias e
+elementos fibrosos, contribui para a formação de placas ou estrias gordurosas,
+podendo ocasionar a obstrução das mesmas (LIBBY, 2002; GOTTLIEB, BONARDI e
+MORIGUCHI, 2006). A formação da placa aterosclerótica inicia-se com a agressão ao
+endotélio vascular devido a diversos fatores de risco, tais como dislipidemias,
+hipertensão arterial ou tabagismo (Sociedade Brasileira de Cardiologia [SBC], 2013).
+Os fatores de risco podem ser classificados em modificáveis, os quais incluem
+as dislipidemias, hipertensão arterial, hábitos alimentares, tabagismo, presença de
+DM, obesidade e sedentarismo e não modificáveis, como a pobreza e baixo nível de
+educação, a idade avançada, o gênero, a hereditariedade (disposição genética),
+fatores psicológicos e outros, como excesso de homocisteína (WHO,2011). Além dos
+fatores de risco clássicos, que estão fortemente associados à ocorrência das DCV,
+como o tabagismo, excesso de peso e inatividade física (LANAS et al., 2007; ALDIN
+M.N., 2014) têm sido descritos alguns fatores de risco emergentes, como conteúdo de
+Apo A-I e Apo B, LDL oxidada e o conteúdo de LDL pequenas e densas (TOSHIMA
+et al., 2000; ALDIN M.N., 2014).
+Dentro desse contexto, programas de intervenção na comunidade têm sido
+introduzidos em diferentes países desde o início da década de 70, cujo principal
+objetivo têm sido diminuir a morbidade e a mortalidade por DCV, com a redução dos
+fatores de risco cardiovascular, a partir da educação em saúde e das estruturas já
+existentes na comunidade (RIBEIRO, COTTA e RIBEIRO, 2012). Nesse contexto, a
+SBC (2013), lançou a I Diretriz Brasileira de Prevenção Cardiovascular, a qual mostra
+diversas formas de prevenir e tratar os diversos fatores de risco para as DCV.
+
+1.2. A RELAÇÃO DAS ADIPOCITOCINAS COM AS DCV
+
+O tecido adiposo é considerado como um órgão endócrino metabolicamente ativo
+que afeta diversas funções do corpo, incluindo regulação balanço energético, do
+apetite, metabolismo lipídico e da glicose, termogênese, função neuroendócrina,
+reprodução, imunidade e mais relevantemente, a função cardiovascular (TRUJILLO e
+SCHERER, 2006; MATTU e RANDEVA, 2013) O tecido adiposo realiza essas ações
+através
+
+da
+
+liberação
+
+de
+
+importantes
+
+mediadores
+
+químicos,
+
+denominados
+
+adipocitocinas ou adipocinas (MATTU e RANDEVA, 2013). Estas moléculas possuem
+modos de ação endócrina, parácrina, autócrina e justácrina (MOHAMMED-ALI,
+PINKNEY, COPPACK, 1998; GHANDI, UPAGANLAWAR e BALARAMAN, 2010).
+O tecido adiposo é composto por adipócitos maduros, pré-adipócitos, células
+mesenquimais e células com fração vascular que inclui endotélio vascular e células
+musculares lisas, fibroblastos e diferentes de leucócitos. (MANCUSO, 2016). Sabe-se
+que os adipócitos maduros são a principal fonte de leptina e adiponectina. Macrófagos
+produzem a maior parte do fator de necrose tumoral alfa (TNF-α), resistina e visfatina,
+enquanto que a prostaglandina E2, interleucinas, fator de crescimento endotelial
+vascular e fator de crescimento do hepatócito são sintetizados pelas células
+vasculares e estromais (GNACINSKA et al., 2009).
+
+Elas influenciam em uma
+
+variedade de processos fisiológicos, entre eles, o controle da ingestão alimentar, a
+homeostase energética, a sensibilidade à insulina, a angiogênese, a proteção
+vascular, a regulação da pressão e a coagulação sanguínea (HAVEL, 2004). Devido
+aos diversos mecanismos de ação, o estudo das adipocitocinas tem atraído interesse
+na identificação de processos e mecanismos ligados a estas, que podem levar ao
+desenvolvimento de novas terapêuticas e também à descoberta de novos
+biomarcadores (TILG e MOSCHEN, 2006; TAUBE et al, 2012).
+No contexto do sistema cardiovascular, são atribuídos efeitos desfavoráveis a
+algumas adipocitocinas associados com a resistência à insulina e a promoção da
+inflamação e de processos aterogênicos. A outras são atribuídos efeitos protetores
+conhecidos
+
+(SAWICKA,
+
+JANOWSKA e
+
+CHUDEK,
+
+2016).
+
+Isso porque
+
+as
+
+adipocitocinas podem mostrar atividades pró ou anti-inflamatórias no organismo
+(OUCHI et al,2016).
+
+As
+
+principais
+
+adipocitocinas
+
+estudadas
+
+em
+
+relação
+
+às
+
+doenças
+
+cardiovasculares são a leptina e a adiponectina. Na Tabela 1 estão descritas algumas
+das
+
+ações
+
+delas
+
+no
+
+sistema
+
+cardiovascular.
+
+Tabela 1. Adiponectina e leptina e suas respectivas ações no sistema cardiovascular
+descritas na literatura.
+ hipertensão;  IM;  DC em diabéticos;
+ hipertrofia miocárdia;  vasodilatação; 
+Adiponectina
+
+angiogênese;  DAC;  adesividade
+vascular;  proliferação VCML; 
+resistência à insulina;  aterosclerose; 
+inflamação.
+ hipertensão ( PSAM);  IM;  DAC; 
+vasodilatação;  derrame;  resistência à
+insulina;  desbalanço homeostático; 
+
+Leptina
+
+inflamação;  aterosclerose;  hipertrofia
+em cardiomiócitos;  lipotoxicidade
+cardíaca;  tamanho do infarto (em
+obesos); cardioprotetora.
+
+IM: infarto do miocárdio; DC: doença coronariana; DAC: doença arterial coronariana; VCML:
+vascularização das células musculares lisas; PSAM: pressão sanguínea arterial média. Adaptado de:
+MATTU e RANDEVA, 2013.
+
+A adiponectina é sintetizada predominantemente – mas não apenas - pelos
+adipócitos e também pelo músculo esquelético, células endoteliais e cardiomiócitos.
+Ela é abundante no plasma, representando 0,01% das proteínas plasmáticas (3-30
+mg/ml) (OUCHI et al., 2003; MATTU e RANDEVA, 2013). Ela possui dois receptores
+de membrana, o receptor para adiponectina 1 (AdipoR1) e receptor para adiponectina
+2 (AdipoR2), os quais são expressos em todos os tecidos humanos, mas,
+predominantemente, no músculo e fígado (YAMAUCHI et al., 2003; KADOWAKI et al.,
+2006).
+A adiponectina sérica tem correlação negativa com glicose plasmática, insulina,
+triacilgliceróis (TG) e colesterol associado à lipoproteína de alta densidade (HDL-c)
+
+em sujeitos saudáveis. O nível reduzido de adiponectina circulante está associado à
+disfunção metabólica e à doença cardiovascular aterosclerótica (OUCHI et al., 2016).
+As ações dela no sistema cardiovascular, descritas na Tabela 1, se dão através
+da modulação e ativação de diferentes mecanismos, como a ativação da adenosina
+monofosfato (AMP) celular e da proteína quinase ativada por AMP (AMP-K), ativação
+do receptor ativado por proliferadores de peroxissoma gama (PPAR-γ) e ação
+inibitória do fator nuclear kappa B (NF- κB) (YAMAUCHI et al., 2003; KADOWAKI e
+YAMAUCHI,
+
+2005;
+
+CHENG
+
+et
+
+al.,
+
+2007;
+
+TOMIZAWA
+
+et
+
+al.,
+
+2008;
+
+ROBINSON, PRINS e VENKATESH, 2011).
+A leptina é um hormônio que foi originalmente descoberto em 1994 pelo seu
+envolvimento com a regulação do peso corporal (HALAAS et al. 1995; SIGNORE et
+al., 2008). Ela é uma proteína codificada pelo gene obese (ob) produzida
+principalmente pelos adipócitos e em menor quantidade pelo epitélio do fundo
+gástrico, intestino, músculo esquelético, epitélio mamário, placenta e cérebro.
+(HARDWOOD et al., 2012). Exerce seus efeitos através da ligação com seu receptor,
+conhecido como LEP-R ou OB-R, codificado pelo gene LEPR. (TARTAGLIA, 1997).
+Ele possui 6 isoformas as quais compartilham os domínios extracelular e
+transmembrana, diferindo no segmento intracelular (HOU e LUO, 2011; ZHOU e RUI,
+2013)
+A maior parte dos mecanismos de sinalização da leptina, após esta se associar
+ao seu receptor, inclui a ativação da tirosina-quinase Janus e transdutores de sinais e
+ativadores de transcrição (JAK/STAT), proteínas quinases ativadas por mitógenos
+(MAPK) e a fosfatidilinositol-3-quinase (PI-3K). Estes mecanismos estão alterados na
+resistência à insulina, ou pela inibição destes ou pela diminuição do número de
+receptores, podendo levar às ações no sistema cardiovascular descritas na Tabela 1.
+(HOU e LUO, 2011; HARDWOOD et al., 2012; ZHOU e RUI, 2013).
+Estudos mostram uma grande correlação entre o Índice de Massa Corporal (IMC)
+e as concentrações de leptina sérica, sendo que quanto maior a quantidade de tecido
+adiposo, maior é o nível dessa adipocitocina (MARGETIC et al., 2002). Além disso,
+níveis plasmáticos elevados de leptina estão associados a diferentes fatores de risco
+para desenvolvimento de DCV, como hiperinsulinemia, resistência à insulina,
+
+hipertrigliceridemia, hipertensão arterial e circunferência abdominal. (ALMEIDA et al.,
+2007).
+
+1.3. ASSOCIAÇÃO DAS LIPOPROTEÍNAS COM AS DCV
+
+Assim como as adipocitocinas, a lipoproteínas também são largamente estudadas
+devido a associação destas com o risco cardiovascular. As lipoproteínas, compostas
+por lipídeos e proteínas, denominadas apoproteínas (apo), são divididas em classes,
+que se diferenciam pelo tamanho, pela densidade e pela composição tanto lipídica
+como apoprotéica: Qm (quilomícrons), lipoproteínas de muito baixa densidade (VLDL),
+lipoproteínas de densidade intermediária (IDL), lipoproteínas de baixa densidade
+(LDL), e lipoproteínas de alta densidade (HDL) (FORTI N. e DIAMENT J., 2006). O
+risco cardiovascular pode ser avaliada adequadamente a partir do colesterol total ou
+pelo colesterol associado à LDL (LDL-c), à HDL (HDL-c) e triacilgliceróis (TG), sendo
+que também se pode avaliar adicionalmente esse risco, medindo-se a lipoproteína (a)
+[Lp(a)], apolipoproteínas A-I e B (ApoA-I e Apo-B) (TALAYERO e SACKS, 2014).
+As HDL são constituídas por 50% de apolipoproteínas (AI em maior quantidade e
+também por AII, CI, CII, CIII, E e J), 20% de colesterol livre (CL) e de colesterol
+esterificado (CE), 15% de fosfolipídeos e 5% de triacilgliceróis (TG) (Figura 1) (FORTI
+N. e DIAMENT J., 2006). As ações da HDL-c descritas na literatura englobam o
+transporte reverso do colesterol, ação antioxidante, regulação do processo de
+coagulação e fibrinólise, proteção endotelial através da inibição das moléculas de
+adesão e estimula a síntese de óxido nítrico (ON), contribuindo para a vasodilatação,
+além de outras funções fisiológicas que esta lipoproteína exerce (LIMA e COUTO,
+2006; FORTI e DIAMENT, 2006; MCGROWDER et al., 2011).
+
+Figura 1 – Constituição da lipoproteína de alta densidade (HDL) (FORTI N. e
+DIAMENT J., 2006):
+
+FL:fosfolípideos; apo:apoproteína; CL:colesterol; CE: colesterol esterificado; TG:
+triacilgliceróis.
+
+A LDL (Figura 2) constitui um grupo heterogêneo de partículas responsável pelo
+transporte de colesterol para os tecidos periféricos (CALIXTO-LIMA, GUEDES e REIS,
+2012). Ela tem conteúdo apenas residual de TG e é composta principalmente de
+colesterol, sendo sua principal apolipoproteína, a Apo B100 (SBC, 2013) A LDL possui
+em sua composição 21% de proteínas, 79% de lipídeos, 9% de TG, 21% de FL, 38%
+de CE e 10% de CL (CALIXTO-LIMA, GUEDES e REIS, 2012).
+Quando as concentrações plasmáticas de LDL-c aumentam, essas lipoproteínas
+infiltram na parede da artéria de tal forma que a concentração destas excede a
+capacidade para a eliminação, ficando assim retidas na matriz extracelular. O acúmulo
+do LDL-c promove à inflamação naquela região, sendo assim considerado um
+elemento essencial ao processo da aterosclerose (HANSSON, ROBERTSON E
+SÖDERBERG-NAUCLËR, 2006).
+
+Figura 2 – Constituição da lipoproteína de baixa densidade (LDL) (Adaptado de
+LAINAS, 2012)
+
+O metabolismo das lipoproteínas é dependente das apolipoproteínas, as quais são
+proteínas multifuncionais que servem como modelos para a estrutura dessas
+lipoproteínas, direcionando seu metabolismo através da ligação aos receptores de
+membrana e regulação da atividade enzimática (DOMINICZAK e CASLAKE, 2011).
+Cada lipoproteína possui uma ou mais apolipoproteínas específicas, as quais lhes
+conferem características distintas: quilomícrons (B-48, E, C, A-I, A-II, A-IV), VLDL e
+IDL (b-100, E, C), LDL (B-100) e HDL (A-I e A-II) (CALIXTO-LIMA, GUEDES e REIS,
+2012).
+Segundo a V Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose, a
+avaliação adequada do risco cardiovascular, no que diz respeito à quantidade de
+colesterol associado às lipoproteínas, o aumento do risco cardiovascular está
+associado com a elevação do LDL-c (≥160mg/dL) e redução do HDL-c (sendo em
+homens < 40mg/dL e em mulheres, < 50mg/dL) (SBC, 2013).
+
+2. OBJETIVOS
+
+2.1 GERAL
+
+Avaliar a associação da adiponectina, leptina e a razão entre ambos os
+hormônios com diferentes parâmetros lipídicos e glicídicos em indivíduos com
+diversos fatores de risco cardiovascular.
+
+2.2 ESPECÍFICOS
+
+
+
+Caracterizar o perfil demográfico e clínico da população estudada;
+
+
+
+Avaliar o perfil antropométrico e composição corporal;
+
+
+
+Avaliar o perfil bioquímico;
+
+
+
+Avaliar biomarcadores clássicos do risco cardiovascular:
+o Perfil lipídico: colesterol total, LDL-C, HDL-C e triacilgliceróis;
+o Perfil glicídico: glicose e insulina;
+
+
+
+Avaliar biomarcadores emergentes do risco cardiovascular:
+o Conteúdo de Apo A-I e Apo B;
+o Conteúdo de adipocitocinas e a razão entre elas.
+
+3. METODOLOGIA
+
+O presente estudo baseou-se em um sub-estudo vinculado ao projeto
+Cardionutri, o qual foi aprovado pelos Comitês de Ética em Pesquisa com Seres
+Humanos da Faculdade de Saúde Pública (Protocolo 2264) e do Hospital Universitário
+da Universidade de São Paulo (Protocolo 1126/11) (Anexo 1), sendo que os
+participantes assinaram o Termo de Consentimento Livre e Esclarecido (TCLE). Este
+estudo também foi registrado na Base de Dados de Ensaios Clínicos REBEC (RBV2vfhfv).
+
+3.1 CASUÍSTICA E RECRUTAMENTO
+
+Este estudo é do tipo transversal. Os participantes incluíram pessoas que foram
+recrutadas no Hospital Universitário da Universidade de São Paulo (HU - USP - São
+Paulo, Brasil) e também indivíduos de procedência externa que se interessaram pela
+pesquisa.
+O recrutamento dos participantes foi feito de forma ativa, com seleção prévia
+de participantes com características de interesse à pesquisa através da análise da
+base de dados do Ambulatório de Nutrição do Hospital Universitário (HU – USP);
+seleção essa que aconteceu entre marco a junho de 2011 e também houve o
+recrutamento via forma passiva, onde foram colocados cartazes e textos para
+divulgação nos meios de comunicação (impresso e digital) entre agosto de 2011 a
+maio de 2012.
+O estudo principal teve caráter de intervenção nutricional com risco mínimo à
+saúde, pois os suplementos usados (ácidos graxos presentes em alimentos) são
+geralmente aceitos como seguros aos indivíduos.
+
+3.2 CRITÉRIOS DE INCLUSÃO E EXCLUSÃO
+
+Os participantes que foram incluídos no estudo eram de ambos os sexos e
+tinham que apresentar o TCLE preenchido e assinado, além de terem idade entre 30
+a 74 anos. Não podiam apresentar nenhum evento cardiovascular prévio, confirmado
+na triagem por meio do eletrocardiograma (ECG).
+Não foram inclusas gestantes, lactantes, indivíduos que participavam de
+estudos de intervenção, indivíduo com evento cardiovascular prévio (monitorado por
+eletrocardiograma e avaliação clínica), indivíduos alérgicos a algum componente da
+intervenção, usuários de drogas ilícitas e alcoolistas.
+
+3.3 AMOSTRA
+
+O total de participantes do estudo principal foi de 375 indivíduos. Para o
+presente estudo foram selecionados apenas os indivíduos que tiveram as
+concentrações séricas de adiponectina e leptina analisadas no momento basal,
+totalizando assim uma amostra final de 79 indivíduos. Estes foram distribuídos,
+conforme o sexo, em dois grupos: o de homens e o de mulheres. Além disso, os
+grupos Homens e Mulheres foram estratificados em dois sub-grupos, segundo
+mediana (p≥50 e <p50) de adiponectina, leptina e a razão adiponectina/leptina.
+
+3.4 AVALIAÇÃO SOCIOECONÔMICA E CLÍNICA
+
+O questionário socioeconômico foi previamente estruturado e abordava
+aspectos como idade, sexo, etnia e renda familiar. Já a avaliação clínica foi realizada,
+conforme informações da história clínica atual, como doenças autorreferidas, uso de
+cigarro e bebidas alcoólicas, entre outros dados, como o histórico familiar de doenças
+crônicas. Essas informações foram obtidas por meio de entrevista direta, realizada por
+nutricionista ou médico colaborador da pesquisa e também através de pesquisa em
+
+prontuário. Também nesse momento foi realizada a aferição da pressão arterial
+sistólica (PAS) e diastólica (PAD), por meio de um esfigmomanômetro e com o auxílio
+da equipe de enfermagem do HU-USP. A medida feita em duplicata e o valor final
+considerado foi a média entre os dois valores coletados. O protocolo seguido e
+classificação da presença ou não de hipertensão arterial teve como base as
+recomendações e classificações das Diretrizes Brasileiras de Hipertensão (SBC,
+2010).
+
+3.5 AVALIAÇÃO ANTROPOMÉTRICA
+
+A avaliação de dados antropométricos foi realizada com a aferição das medidas
+de estatura (m), peso corporal (kg), circunferência da cintura (cm) e também da análise
+da composição corporal, com dados de gordura corporal (%MG) e IMC (kg/m2), sendo
+todas coletadas pelo mesmo pesquisador e em duplicata, para não haver divergência
+dos valores.
+A aferição da estatura foi realizada com o estadiômetro portátil Seca® (TBW,
+São Paulo, Brasil) com limite de 2,0m e precisão de 1,0mm; esta medida foi feita com
+os indivíduos descalços e em posição ereta, com os pés paralelos, calcanhares,
+panturrilha, glúteos e ombros encostados na parede e com a cabeça sob o plano
+horizontal de Frankfurt (LOHMAN et al., 1998). O peso corporal foi medido com os
+participantes usando o mínimo de roupas e descalços, utilizando-se para fazer a
+medida a balança digital Toledo®, modelo 2096PP/2 (Toledo, São Paulo, Brasil) com
+limite de capacidade de 200,0 kg e precisão de 50,0 kg. Foram utilizados esses dados
+para o cálculo do IMC, o qual é definido como o peso corporal (em quilogramas),
+dividido pela estatura (em metros) elevada ao quadrado (kg/m²); sendo seu valor
+classificado de acordo com o proposto pela OMS (WHO, 2000) (Quadro 1).
+
+Quadro 1. Classificação do estado nutricional de adultos segundo o IMC (WHO,
+2000):
+IMC (kg/m²)
+
+Classificação
+
+< 18,50
+
+Baixo peso
+
+18,5 – 24,99
+
+Normal
+
+25,00 – 29,99
+
+Sobrepeso
+
+30,00 – 34,99
+
+Obesidade grau I
+
+35,00 – 39,99
+
+Obesidade grau II
+
+≥ 40,00
+
+Obesidade grau III
+
+Para aferir a circunferência da cintura, os indivíduos foram posicionados em pé,
+com os braços paralelos ao corpo e pés unidos, além de permanecerem com o
+abdômen relaxado. Esta medida foi aferida com uma fita inelástica, flexível e com
+precisão de 1 mm (TBW, São Paulo, Brasil), adotando-se como referencial anatômico
+a última costela e crista ilíaca.
+O percentual de massa gorda (%MG) foi determinado por meio dos valores
+obtidos na bioimpedância elétrica (BIA) tetrapolar Biodynamics®, modelo 450 (TBW,
+São Paulo, Brasil), com corrente elétrica de baixa amplitude (800µA) e frequência de
+50 KHz. Para realização desse teste, os indivíduos foram orientados a retirar calçados
+e meias e a ficarem imóveis durante o procedimento. Nesse teste, os indivíduos ficam
+deitados em posição supina e com os braços em ângulo de 30º em relação ao corpo
+e com as pernas sem contato entre si. A corrente elétrica passa pelo corpo deste
+através de dois pares de eletrodos adesivos posicionados na mão e pé direito do
+participante. Para fazer o cálculo do %MG, utilizou-se o programa Biodynamics®
+(TBW, São Paulo, Brasil), considerando o sexo, idade, peso, altura, nível de atividade
+física, valores de resistência e reactância. Os valores normais de porcentagem de
+gordura corporal considerados foram de 15 a 25% para o sexo masculino e de 20 a
+30% para o sexo feminino (ARMATRUDA, 2001).
+
+3.6 AVALIAÇÃO BIOQUÍMICA
+
+3.6.1 COLETA DE SANGUE
+
+Após um jejum de 12 horas foram coletadas 20 mL de amostras de sangue em
+tubos vacutainer contendo ethylenediamine tetraacetic acid (EDTA) (1 mg/mL) (BD,
+Brasil), o qual foi utilizado como anticoagulante e antioxidante. Cerca de 4 mL de
+sangue foram coletados em tubo seco, para posterior extração de soro. Tubos com
+fluoreto de sódio foram utilizados para colher o sangue que seria usado para
+determinar o conteúdo de glicose.
+Todos os tubos foram mantidos em sob refrigeração (8ºC) até o processamento
+das amostras. O sangue foi centrifugado a 3000 rpm a 4ºC por 10 minutos e ao plasma
+resultante foi acrescentado os inibidores de proteases: aprotinina (10 µg/mL de
+plasma), benzamidina (10 µM/mL de plasma) e phenylmethysulfonyl fluoride (PMFS)
+(5 µM/mL de plasma), além do antioxidante butylated hydroxytoluene (BHT) (100
+µM/mL de plasma). Todas as amostras foram armazenadas a -80ºC até o momento
+das análises.
+
+3.6.2 DETERMINAÇÃO DO PERFIL LIPÍDICO E APOLIPOPROTEÍNAS
+
+As concentrações de CT e HDL-c foram realizadas por métodos padrões
+(Colesterol Liquiform® Labtest, Minas Gerais, Brasil) e (Colesterol HDL® Labteste,
+Minas Gerais, Brasil), respectivamente. Já para determinação dos TG no plasma,
+utilizou-se o Kit Triglicérides Liquiform® (Labtest, Minas Gerais, Brasil). O LDL-c foi
+calculado por meio da fórmula de FRIEDEWALD (1972), onde: LDL-C = CT - HDL-C
+– TG/5, sendo que esta apenas foi aplicada para aqueles indivíduos com TG < 400
+mg/dL. Para classificação dos indivíduos de acordo com a presença de dislipidemias,
+utilizou-se os valores de referência propostos pela V Diretriz Brasileira de
+
+Dislipidemias e Prevenção de Aterosclerose da (SBC, 2013), sendo que bastava o
+indivíduo ter se encaixar em qualquer um dos parâmetros abaixo para ser considerado
+com dislipidemia (Quadro 2):
+Quadro 2. Classificação das dislipidemias (XAVIER et al.,2013):
+Classificação da dislipidemia
+
+Parâmetro
+
+Hipercolesterolemia isolada
+
+LDL-C ≥ 160 mg/Dl
+
+Hipertrigliceridemia isolada
+
+TG ≥ 150 mg/dL
+
+Hiperlidemia mista
+
+LDL-C ≥ 160 mg/dL e TG ≥ 150 mg/dL
+Reduçao do HDL-C (homens < 40
+mg/dL e mulheres < 50 mg/dL, isolada
+
+HDL-C baixo
+
+ou em associação com aumento de
+LDL-C e/ou de TG)
+
+As apolipoproteínas Apo A-I e Apo B foram determinadas pelo método padrão,
+através da utilização dos kits Autokit APO AI® e Autokit APO B® (Randox Chemicals
+USA Inc., Richmond, VA, EUA), respectivamente, pelo método imuno-turbidimétrico.
+Todas as análises foram feitas em duplicata.
+A partir dos resultados acima foram calculados os índices TG/HDL, CT/HDL,
+LDL/HDL, APOB/APOAI, HDL/APOAI, LDL/APOB.
+
+3.6.3 DETERMINAÇÃO DA ADIPPONECTINA SÉRICA
+
+A concentração de adiponectina no sangue dos participantes foi feita pela
+dosagem quantitativa no soro dos participantes da pesquisa, utilizando o método de
+ensaio imunoenzimático (ELISA) sanduíche (EMD Millipore®). O imunoensaio
+apresentou controles positivo, negativo e curvas de calibração. Todas as análises
+foram realizadas em duplicata.
+
+3.6.4 DETERMINAÇÃO DA LEPTINA SÉRICA
+A concentração de leptina no sangue dos participantes foi feita pela dosagem
+quantitativa no soro dos participantes da pesquisa, utilizando o método ELISA
+sanduíche (Enzo Lifesciences®). O imunoensaio apresentou controles positivo,
+negativo e curvas de calibração. Todas as análises foram realizadas em duplicata.
+
+3.6.5 DETERMINAÇÃO DA GLICOSE, INSULINA E ÍNDICE DE
+RESISTÊNCIA À INSULINA (HOMA-IR)
+
+A glicose plasmática foi determinada através do kit comercial, enzimático e
+colorimétrico Glicose PAP Liquiform® (Labtest, Minas Gerais, Brasil). Já a insulina no
+plasma foi detectada por meio do método de imunoensaio através do kit comercial
+HumanInsulinDirect ELISAKit, Novex®. Para classificar a presença de DM, utilizou-se
+as diretrizes da Sociedade Brasileira de Diabetes (SBD) (2011).
+A resistência insulínica foi calculada pelo índice de resistência à insulina
+(HOMA-IR), em que HOMA-IR = [concentração da insulina de jejum (µU/mL) x
+glicemia de jejum (mmol/L) / 22,5. A presença de resistência insulínica foi determinada
+de acordo com o Modelo 1, adotado pela SBD (2009) e que foi proposto por STERN
+et al. (2005), em que esta é diagnosticada se quaisquer um dos seguintes critérios
+estiver presente: IMC > 28,9 kg/m2, HOMA-IR > 4,65 ou IMC > 27,5 kg/m² e HOMAIR > 3,6.
+
+3.6.6 ANÁLISE ESTATÍSTICA
+
+Todos os resultados foram apresentados na forma de tabelas e gráficos. Para
+as variáveis qualitativas foi utilizado o teste de qui-quadrado, sendo apresentadas no
+formato do seu valor absoluto (n), seguido de sua respetiva porcentagem (%). Em
+relação às variáveis quantitativas, considerou-se o tipo de distribuição (teste
+Kolmogorov-Smirnov; p> 0,05) destas para determinação dos testes estatísticos.
+
+Quando as variáveis apresentaram distribuição normal, utilizou-se testes t-Student,
+para analisar diferenças entre os grupos, apresentando os resultados em médias e
+desvio padrão de todos os grupos e do total. Para as variáveis que não tinham
+distribuição normal, de forma a analisar diferenças entre os grupos, foram realizados
+teste Mann Whitney, apresentando os resultados em média, mediana e desvio padrão.
+A correlação de Spearman foi usada para testar a associação da leptina, adiponectina
+
+Comentado [MMJ1]: Na oseria intervalo interqualtil...p25
+e p75?
+
+e a razão entre esses dois hormônios e as diversas variáveis referentes aos perfis
+lipídico e glicídico dos participantes. Também foi feita a correlação parcial entre as
+variáveis citadas anteriormente, sendo ajustada pelas seguintes variáveis: sexo, etnia,
+hábito de fumar, consumo de bebida alcoólica, IMC, CC, %MG, DM, HAS e DLP. Para
+esse ajuste, em relação às doenças, foi utilizado a presença delas ou não sendo que,
+para classificar se o indivíduo possuía as mesmas, os protocolos e diretrizes utilizados
+foram descritos acima.
+Todos os testes estatísticos foram feitos com o auxílio do programa Statistical
+Package for the Social Sciences® (SPSS), versão 20.0 (SPSS Incorporation, 2010). O
+nível de significância considerado foi de p < 0,05.
+
+Comentado [MMJ2]: Para os ajustes você usou os valores
+continuis de glicemia, PA e CT ....OU a classificacao de DM
+(sim ou nao), HAS (sim ou nao) e DLP (sim ou nao).....caso
+tenha sido a classificacao...é preciso inserir nos respectivos
+itens como foi feita essa clasificacao para cada um dos 3
+parametros
+
+4. RESULTADOS
+
+Observou-se que a amostra foi composta principalmente por indivíduos do sexo
+feminino (57%) e de etnia branca (63,3%). A média da idade foi de 51,7 anos, com
+idade mínima de 30 e máxima de 74 anos, conforme critério de inclusão. Em relação
+ao tabagismo, 53,3% declararam ser não fumantes e 30,4%, ex-fumantes; quanto ao
+consumo de bebidas alcoólicas, 58,6% pessoas disseram não fazer o consumo de
+bebidas alcoólicas (Tabela 2) Apesar disso, 79,7% do total de indivíduos
+apresentaram o Índice de Massa Corporal (IMC) elevado, sendo 48,1% de pessoas
+obesas, confirmado pela maior proporção de indivíduos com valor de circunferência
+de cintura (CC) maior do que o recomendado (81,1%), assim como alta frequência de
+elevado percentual de indivíduos com gordura corporal (79,6%). Em se tratando das
+doenças crônicas autorreferidas, a hipertensão arterial sistêmica (HAS) foi a mais
+frequente na amostra (58,2%), seguida pelas dislipidemias (DLP) (48,1%) e diabetes
+mellitus (DM) (17,7%) (Tabela 3).
+
+Tabela 2. Caracterização dos indivíduos, segundo perfil demográfico e clínico
+estratificados pelo sexo. São Paulo, 2016.
+Homens
+Variável
+
+n
+
+%
+
+Mulheres
+
+Total
+
+n
+
+%
+
+N
+
+%
+
+21 26,6
+
+29
+
+36,7
+
+50
+
+63,3
+
+3
+
+3,8
+
+7
+
+8,9
+
+10
+
+12,7
+
+9
+
+11,4
+
+9
+
+11,4
+
+18
+
+22,8
+
+1
+
+1,3
+
+0
+
+0
+
+1
+
+1,3
+
+Sim
+
+9
+
+11,4
+
+4
+
+5,1
+
+13
+
+16,5
+
+Não
+
+16 20,3
+
+26
+
+32,9
+
+42
+
+53,3
+
+Ex-fumante
+
+9
+
+11,4
+
+15
+
+19,0
+
+24
+
+30,4
+
+Sim
+
+22 27,8
+
+11
+
+13,9
+
+33
+
+41,8
+
+Não
+
+12 15,2
+
+34
+
+43,0
+
+46
+
+58,2
+
+p
+
+Etnia
+Branca
+Negro
+Pardo
+Amarelo
+
+0,495
+
+Fumo
+
+0,113
+
+Bebidas alcoólicas
+
+<0,001
+
+Doenças autoreferidas
+8,9
+
+7
+
+8,9
+
+14
+
+17,7
+
+0,562
+
+HAS
+
+20 25,3
+
+26
+
+32,9
+
+46
+
+58,2
+
+0,926
+
+DLP
+
+19 24,1
+
+19
+
+24,1
+
+38
+
+48,1
+
+0,229
+
+DAC
+
+2
+
+3,0
+
+4
+
+5,9
+
+6
+
+8,9
+
+0,617
+
+DAP
+
+1
+
+1,3
+
+0
+
+0
+
+1
+
+1,3
+
+0,247
+
+DM
+
+7
+
+DM: diabetes mellitus; HAS: hipertensão arterial sistêmica; DLP: dislipidemia; DAC: doença arterial
+coronariana; DAP: doença arterial periférica. Diferenças entre os grupos foram analisadas pelo teste
+Qui-quadrado. Nível de significância p<0,05.
+
+Comentado [MMJ3]: Por que nessa variavel vc
+apresentou valor de p para cada variavel?...pode apresentar
+o p global...como fez para etnia.....so investimos em
+comparacao 2x2, quando o p global da <0,005...nesse caso
+fazemos as comparacoes 2x2 para identificar realmente
+quem está diferenten de quem
+
+Quando se comparou a média dos valores de peso, índice de massa corporal
+(IMC), circunferência de cintura (CC) e percentual de massa gorda (%MG) entre o
+grupo de homens e mulheres, podemos observar diferenças significativas nas
+variáveis peso e %MG, sendo a média do peso do grupo homens foi maior que das
+mulheres, enquanto a média de %MG foi maior no grupo das mulheres (Tabela 3).
+Tabela 3. Média dos valores das variáveis antropométricas estratificadas pelo sexo.
+São Paulo, 2016.
+Variável
+Peso (kg)
+IMC (kg/m²)
+CC (cm)
+MG (%)
+
+Média
+89,4
+29,8
+102,8
+22,7
+
+Homens
+DP
+19,4
+5,6
+13
+4,4
+
+Mulheres
+Média
+DP
+79,1
+18,1
+31,4
+6,4
+100,1
+14,52
+44,6
+7,9
+
+Total
+Média
+83,5
+30,7
+101,3
+35,1
+
+DP
+19,3
+6,1
+13,9
+12,7
+
+p
+0,017
+0,248
+0,404
+<0,001
+
+IMC: índice de massa corporal (kg/m2); CC: circunferência da cintura (cm); %MG: percentual de massa
+gorda (%). Diferenças entre os grupos foram analisadas pelo teste Qui-quadrado. Nível de significância
+p<0,05.
+
+Em relação à classificação dos indivíduos pelo Índice de Massa Corporal,
+podemos observar que não houve diferença significativa na distribuição de IMC entre
+o grupo dos homens e das mulheres (p=0,418), entretanto, foi observado que 17,7%
+dos homens e 30,4% das mulheres eram obesos (Gráfico 1).
+Gráfico 1. Porcentagem de indivíduos do grupo de homens, de mulheres e o total
+destes em relação à classificação do Índice de Massa Corporal. São Paulo, 2016.
+60
+48,1
+
+50
+40
+31,6
+
+30,4
+
+30
+20,3
+20
+11,4
+10
+
+13,9
+
+17,7
+
+17,7
+
+8,9
+
+0
+Eutrofia
+
+Sobrepeso
+Homens
+
+Mulheres
+
+Obesidade
+Total
+
+Diferenças entre os grupos foram analisadas pelo teste Qui-quadrado. Nível de significância p<0,05.
+p=0,418
+
+Quanto à classificação da circunferência da cintura, conforme esperado, houve
+diferença significativa entre o grupo de homens e mulheres, sendo que ambos
+
+apresentaram elevado risco cardiovascular associado a maiores valores de CC.
+(p=0,004) (Gráfico 2).
+Gráfico 2. Porcentagem de indivíduos do grupo de homens, de mulheres e o total
+destes em relação à classificação pela Circunferência de Cintura. São Paulo, 2016.
+60
+49,4
+
+50
+40
+30
+22,8
+20
+10
+
+19
+13,9
+8,9
+
+8,9
+
+6,3
+
+3
+
+2,5
+0
+Sem Risco
+
+Elevado
+Homens
+
+Mulheres
+
+Muito Elevado
+Total
+
+Diferenças entre os grupos foram analisadas pelo teste Qui-quadrado. Nível de significância p<0,05.
+p=0,004
+
+Quando se observou a distribuição de indivíduos em relação à classificação
+pela quantidade de massa gorda, houve diferença significativa quando se comparou
+o grupo de homens e mulheres (p=0,001), sendo que uma menor porcentagem do
+grupo das mulheres (1,3%) possuía nível adequado de %MG, quando comparado ao
+grupo dos homens, os quais totalizam 28,9% nessa classificação. A maior parte das
+mulheres (53,9%) possuíam elevado %MG (Gráfico 3).
+
+Gráfico 3. Porcentagem de indivíduos do grupo de homens, de mulheres e o total
+destes em relação à classificação pela quantidade de massa gorda. São Paulo,
+2016.
+65,8
+
+70
+60
+
+53,9
+
+50
+40
+
+30,3
+
+28,9
+
+30
+20
+10
+
+2,6
+
+1,3
+
+3,9
+
+3,5
+
+1,3
+
+0
+
+Baixo
+
+Adequado
+Homens
+
+Mulheres
+
+Elevado
+Total
+
+Diferenças entre os grupos foram analisadas pelo teste Qui-quadrado. Nível de significância p<0,05.
+p<0,001.
+
+Em relação aos marcadores lipídicos e glicídicos, estes foram comparados
+entre homens e mulheres e observou-se diferença entre os grupos nos valores de
+HDL-c (p<0,001), TG (p=0,042), Apo A-I (p=0,002); e razões TG/HDL-c (p=0,001),
+CT/HDL-c
+
+(p=0,000),
+
+LDL-C/HDL-c
+
+ApoB/ApoA-I (p=0,002) (Tabela 4).
+
+(p=0,005),
+
+HDL-C/ApoA-I
+
+(p=0,017),
+
+e
+
+Tabela 4. Perfis lipídicos e glicídicos da amostra, segundo sexo. São Paulo, 2016.
+Homens
+
+Mulheres
+
+Total
+
+Variável
+
+Média DP
+
+Média DP
+
+Média DP
+
+CT (mg/dL)
+
+205,4 36,6
+
+199,4
+
+42,9 201,9
+
+40,2
+
+0,514
+
+HDL (mg/dL)
+
+30,2
+
+39,5
+
+9,9
+
+9,7
+
+0,000
+
+LDL (mg/dL)
+
+139,8 33,0
+
+133,9
+
+39,3 136,3
+
+36,7
+
+0,500
+
+TG (mg/dL)
+
+46,0
+
+35,4
+
+56,9 156,2
+
+95,6
+
+0,042
+
+Apo A-I
+
+115,7 22,8
+
+131,0
+
+20,5 124,4
+
+22,7
+
+0,002
+
+Apo B
+
+105,4 20,6
+
+97,5
+
+27,3 100,9
+
+24,8
+
+0,159
+
+TG/HDL
+
+49,8
+
+5,7
+
+32,6
+
+2,1
+
+5,1
+
+4,4
+
+0,001
+
+CT/HDL
+
+7,0
+
+1,9
+
+5,4
+
+1,9
+
+6,1
+
+2,1
+
+0,000
+
+LDL/HDL
+
+4,6
+
+1,2
+
+3,6
+
+1,6
+
+4,0
+
+1,5
+
+0,005
+
+HDL/ApoA-I
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,3
+
+0,06
+
+0,017
+
+LDL-ApoB
+
+1,3
+
+0,2
+
+1,4
+
+0,3
+
+1,3
+
+0,3
+
+0,277
+
+ApoB/ApoA-I
+
+0,9
+
+0,3
+
+0,8
+
+0,2
+
+0,8
+
+0,3
+
+0,002
+
+GLI
+
+36,2
+
+34,8
+
+42,9
+
+19,7 104,2
+
+27,0
+
+0,199
+
+INS
+
+33,8
+
+6,9
+
+37,0
+
+10,2 17,9
+
+8,8
+
+0,509
+
+HOMA
+
+4,4
+
+2,2
+
+4,8
+
+2,9
+
+2,6
+
+0,475
+
+6,4
+
+122,6
+
+35,6
+
+3,9
+
+p
+
+CT: colesterol total; HDL: lipoproteína de alta densidade; LDL: lipoproteína de baixa densidade; TG:
+triacilgliceróis; Apo A-I: apolipoproteína A-I; Apo B: apoliporpoteína B; GLI: glicose; INS: insulina;
+HOMA: índice de resistência à insulina. Diferenças entre os grupos foram analisadas pelos testes de
+Mann Whitney e TStudent. Nível de significância p<0,05.
+
+Quanto a comparação da média das concentrações séricas da adiponectina e
+leptina estratificada pelos grupos, observou-se diferenças significativas nas
+concentrações de leptina (p<0,001) e na razão entre adiponectina e leptina (razão A/L)
+(p<0,001) (Gráfico 4).
+
+Gráfico 4. Média das Concentrações de adiponectina, leptina e a razão entre essas
+adipocitocinas no grupo de homens, mulheres e o total da amostra. São Paulo, 2016.
+
+.
+Leptina (ng/mL)
+
+Razão Adiponectina/Leptina (µg/ng)
+
+HOMENS
+
+1,8
+
+0,8
+
+1,5
+
+17,3
+
+22,5
+
+34,8
+
+43,9
+
+47,4
+
+53,2
+
+Adiponectina (µg/mL)
+
+MULHERES
+
+TOTAL
+
+Diferenças entre os grupos foram analisadas pelo teste de Mann-Whitney. Nível de significância
+p<0,05. p=0,082 (adiponectina); p=0,001 (leptina); p<0,001 (razão A/L).
+
+De acordo com a Tabela 5, observou-se que indivíduos com maiores
+concentrações de adiponectina (p≥50) tiveram valores significativamente inferiores de
+TG, tendo essa redução impacto na diminuição significativa da razão TG/HDL-c.
+Essas diferenças na amostra total foram diretamente influenciadas pelo sexo feminino.
+Nesse
+
+grupo,
+
+observou-se também
+
+que as concentrações
+
+de
+
+HDL-c
+
+e,
+
+consequentemente, a de Apo A-I, foram maiores nas mulheres com valores maiores
+de adiponectina (p<50).
+
+Tabela 5. Estratificação dos perfis lipídicos e glicídicos, estratificados pela mediana de adiponectina. São Paulo, 2016.
+Homens
+Med p<50
+
+Mulheres
+
+Med p≥50
+
+Med p<50
+
+Total
+
+Med p≥50
+
+Variável
+
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+Média
+
+DP
+
+Média
+
+DP
+
+CT (mg/dL)
+
+208,9
+
+36,9
+
+201,0
+
+37,1
+
+0,541
+
+206,8
+
+34,5
+
+194,5
+
+HDL (mg/dL)
+
+31,4
+
+6,6
+
+28,9
+
+6,1
+
+0,254
+
+35,7
+
+6,6
+
+LDL (mg/dL)
+
+143,9
+
+33,1
+
+134,0
+
+33,3
+
+0,420
+
+139,7
+
+TG (mg/dL)
+
+143,0
+
+113,9
+
+134,0
+
+136,8 0,603
+
+Apo A-I (mg/dL)
+
+116,7
+
+18,6
+
+114,5
+
+27,8
+
+Apo B (mg/dL)
+
+110,2
+
+19,8
+
+99,5
+
+TG/HDL
+
+4,5
+
+4,5
+
+CT/HDL
+
+6,8
+
+LDL/HDL
+
+Med p<50
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+47,7 0,352
+
+207,9
+
+35,3
+
+196,8
+
+43,9
+
+0,225
+
+42,1
+
+11,1 0,034
+
+33,5
+
+6,8
+
+37,4
+
+11,5
+
+0,071
+
+28,5
+
+130,1
+
+45,2 0,430
+
+141,8
+
+30,5
+
+131,4
+
+41,3
+
+0,219
+
+143,0
+
+68,3
+
+98,0
+
+39,6 0,012
+
+143,0
+
+94,7
+
+108,5
+
+94,8
+
+0,015
+
+0,784
+
+122,7
+
+13,2
+
+136,5
+
+22,7 0,025
+
+119,6
+
+16,3
+
+128,6
+
+26,6
+
+0,070
+
+20,7
+
+0,135
+
+102,4
+
+28,5
+
+94,2
+
+26,4 0,327
+
+106,4
+
+24,4
+
+96,1
+
+24,4
+
+0,064
+
+4,4
+
+7,0
+
+0,986
+
+4,0
+
+2,3
+
+2,3
+
+11,8 0,007
+
+4,3
+
+3,7
+
+3,2
+
+4,9
+
+0,015
+
+1,6
+
+7,3
+
+2,2
+
+0,494
+
+6,0
+
+1,5
+
+5,0
+
+2,0
+
+0,079
+
+6,4
+
+1,6
+
+5,8
+
+2,4
+
+0,174
+
+4,7
+
+1,3
+
+4,5
+
+1,2
+
+0,776
+
+4,0
+
+1,2
+
+3,4
+
+1,7
+
+0,157
+
+4,4
+
+1,3
+
+3,7
+
+1,7
+
+0,078
+
+HDL/ApoA-I
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,718
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,382
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,485
+
+LDL/ApoB
+
+1,3
+
+0,2
+
+1,4
+
+0,2
+
+0,543
+
+1,4
+
+0,4
+
+1,4
+
+0,2
+
+0,540
+
+1,4
+
+0,3
+
+1,4
+
+0,2
+
+0,435
+
+ApoB/ApoA-I
+
+1,0
+
+0,2
+
+0,9
+
+0,4
+
+0,850
+
+0,8
+
+0,2
+
+0,7
+
+0,3
+
+0,100
+
+0,9
+
+0,2
+
+0,8
+
+0,3
+
+0,103
+
+GLICOSE (mg/dL)
+
+98,0
+
+44,7
+
+10,0
+
+0,154
+
+101,0
+
+26,1
+
+97,0
+
+13,8 0,586 101,0
+
+12,9
+
+0,167
+
+92,0
+
+p
+
+Med p≥50
+
+36,4 96,0
+
+INSULINA (µU/dL)
+
+16,5
+
+4,9
+
+17,4
+
+8,7
+
+0,664
+
+19,9
+
+10,4
+
+17,8
+
+10,3 0,395
+
+16,7
+
+8,0
+
+15,6
+
+9,6
+
+0,430
+
+HOMA-IR
+
+4,6
+
+2,2
+
+4,1
+
+2,2
+
+0,265
+
+5,2
+
+2,5
+
+4,6
+
+3,2
+
+4,5
+
+2,3
+
+3,7
+
+2,9
+
+0,094
+
+0,184
+
+CT: colesterol total; LDL: lipoproteína de baixa densidade; HDL: lipoproteína de alta densidade; TG: triacilgliceróis; Apo A-I: apolipoproteína A-I; Apo B:
+apolipoproteína B; HOMA-IR: índice de resistência à insulina. Diferenças entre os grupos foram analisadas pelos testes de Mann Whitney e TStudent.
+Valores com significância estatística estão representados em negrito. Nível de significância p<0,05.
+
+Quando a leptina foi estratificada pela mediana (Tabela 6), observou-se que os homens com maiores valores de leptina (p>50)
+apresentaram menores valores de HDL-c (p=0,038) e Apo A-I (p=0,021), enquanto os valores de TG (p=0,049) e a razão TG/HDL-c
+(p=0,021) foram superiores que as observadas no grupo de homens com menores valores de leptina. Quando o grupo das mulheres
+foi estratificada segundo mediana de leptina, verificou-se que as mulheres com maior percentil de leptina apresentaram maior
+concentração de glicose (p=0,014). Independente do sexo, indivíduos com maior percentil de leptina apresentaram maior valores de
+HDL-c (p=0,008), HDL-c/ApoA-I (p=0,018) e glicose (p=0,006).
+
+Tabela 6. Estratificação dos perfis lipídicos e glicídicos pela leptina (ng/mL). São Paulo, 2016.
+Homens
+Med p<50
+
+Mulheres
+
+Med p≥50
+
+Med p<50
+
+Total
+
+Med p≥50
+
+Med p<50
+
+Med p≥50
+
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+CT (mg/dL)
+
+206,3
+
+35,5
+
+200,2
+
+47,0
+
+0,736
+
+183,4
+
+33,1
+
+204,0
+
+44,7
+
+0,184
+
+200,4
+
+35,9
+
+203,5
+
+44,4
+
+0,737
+
+HDL (mg/dL)
+
+31,3
+
+6,2
+
+24,9
+
+4,5
+
+0,038
+
+36,8
+
+8,9
+
+40,3
+
+10,3
+
+0,330
+
+32,7
+
+7,3
+
+38,4
+
+11,0
+
+0,008
+
+LDL (mg/dL)
+
+140,3
+
+33,5
+
+134,8
+
+33,7
+
+0,791
+
+121,8
+
+30,2
+
+137,4
+
+41,2
+
+0,273
+
+135,4
+
+33,3
+
+137,2
+
+40,3
+
+0,835
+
+TG (mg/dL)
+
+134,0
+
+105,5
+
+396,0
+
+161,9
+
+0,049
+
+107,0
+
+46,7
+
+128,0
+
+60,1
+
+0,870
+
+122,0
+
+95,7
+
+128,5
+
+96,6
+
+0,746
+
+Apo A-I (mg/dL)
+
+119,4
+
+19,1
+
+94,4
+
+32,7
+
+0,021
+
+128,3
+
+28,2
+
+131,8
+
+18,1
+
+0,639
+
+121,6
+
+21,7
+
+127,1
+
+23,5
+
+0,287
+
+Apo B (mg/dL)
+
+106,3
+
+19,8
+
+100,7
+
+26,8
+
+0,583
+
+90,2
+
+25,5
+
+99,6
+
+27,8
+
+0,343
+
+102,1
+
+22,2
+
+99,7
+
+27,3
+
+0,665
+
+TG-HDL
+
+4,3
+
+4,2
+
+15,2
+
+9,0
+
+0,021
+
+3,0
+
+2,2
+
+3,2
+
+2,2
+
+0,848
+
+3,7
+
+3,9
+
+3,7
+
+4,8
+
+0,211
+
+CT-HDL
+
+6,8
+
+1,6
+
+8,4
+
+3,0
+
+0,302
+
+5,3
+
+1,9
+
+5,4
+
+1,9
+
+0,923
+
+6,4
+
+1,8
+
+5,8
+
+2,2
+
+0,150
+
+LDL-HDL
+
+4,6
+
+1,2
+
+5,1
+
+1,4
+
+0,477
+
+3,6
+
+1,6
+
+3,6
+
+1,6
+
+0,877
+
+4,3
+
+1,4
+
+3,8
+
+1,6
+
+0,125
+
+HDL-ApoAI
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,421
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,423
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,018
+
+LDL-ApoB
+
+1,3
+
+0,2
+
+1,3
+
+0,3
+
+0,830
+
+1,4
+
+0,2
+
+1,4
+
+0,3
+
+0,820
+
+1,3
+
+0,2
+
+1,4
+
+0,3
+
+0,876
+
+ApoB/ApoA-I
+
+0,9
+
+0,2
+
+1,2
+
+0,6
+
+0,313
+
+0,7
+
+0,3
+
+0,8
+
+0,2
+
+0,689
+
+0,9
+
+0,2
+
+0,8
+
+0,3
+
+0,521
+
+GLICOSE (mg/dL)
+
+103,1
+
+36,4
+
+110,0
+
+26,4
+
+0,318
+
+93,5
+
+9,1
+
+107,1
+
+20,9
+
+0,014
+
+93,0
+
+31,8
+
+103,0
+
+21,3
+
+0,006
+
+INSULINA (µU/dL)
+
+15,3
+
+7,1
+
+15,6
+
+5,5
+
+0,909
+
+14,3
+
+6,8
+
+17,0
+
+10,9
+
+0,252
+
+15,3
+
+7,0
+
+16,4
+
+10,4
+
+0,264
+
+HOMA
+
+3,9
+
+2,3
+
+4,6
+
+1,9
+
+0,909
+
+3,3
+
+2,2
+
+4,5
+
+2,2
+
+0,124
+
+3,9
+
+2,2
+
+4,5
+
+3,0
+
+0,192
+
+Variável
+
+CT: colesterol total; LDL: lipoproteína de baixa densidade; HDL: lipoproteína de alta densidade; TG: triacilgliceróis; Apo A-I: apolipoproteína A-I; Apo B:
+apolipoproteína B; HOMA-IR: índice de resistência à insulina. Diferenças entre os grupos foram analisadas pelos testes de Mann Whitney e TStudent.
+Valores com significância estatística estão representados em negrito. Nível de significância p<0,05.
+
+Na Tabela 7, no grupo dos homens com maiores valores de razão A/L (≥50),
+observou-se maiores concentrações de HDL-c (p=0,033) e de Apo A-I (p=0,019). No
+grupo das mulheres com maiores valores de razão A/L (≥50), houve menores
+concentrações de CT e LDL-c, em relação àquelas com menores valores de razão
+(<50).
+
+Tabela 7. Estratificação dos perfis lipídicos e glicídicos pela razão adiponectina/leptina (µg/ng). São Paulo, 2016.
+Homens
+Med p<50
+
+Mulheres
+
+Med p≥50
+
+Med p<50
+
+Total
+
+Med p≥50
+
+Med p<50
+
+Med p≥50
+
+Variável
+
+Média
+
+DP
+
+Média
+
+DP
+
+P
+
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+Média
+
+DP
+
+Média
+
+DP
+
+p
+
+CT (mg/dL)
+
+192,0
+
+48,3
+
+208,9
+
+33,2
+
+0,284
+
+209,6
+
+45,6
+
+179,0
+
+28,7
+
+0,022
+
+206,3
+
+45,9
+
+198,2
+
+34,5
+
+0,377
+
+HDL (mg/dL)
+
+25,8
+
+6,5
+
+31,5
+
+5,9
+
+0,033
+
+39,5
+
+8,6
+
+39,6
+
+12,7
+
+0,967
+
+36,9
+
+9,8
+
+34,4
+
+9,6
+
+0,257
+
+LDL (mg/dL)
+
+128,7
+
+36,9
+
+141,9
+
+32,6
+
+0,421
+
+143,3
+
+42,2
+
+115,2
+
+24,4
+
+0,022
+
+141,2
+
+41,3
+
+132,1
+
+32,3
+
+0,287
+
+TG (mg/dL)
+
+141,0
+
+160,9
+
+143,0
+
+108,4
+
+0,180
+
+126,5
+
+62,2
+
+98,0
+
+45,0
+
+0,547
+
+128,0
+
+98,6
+
+128,0
+
+94,0
+
+0,930
+
+Apo A-I (mg/dL)
+
+98,1
+
+29,7
+
+120,2
+
+18,7
+
+0,019
+
+130,5
+
+17,6
+
+132,0
+
+26,0
+
+0,813
+
+124,4
+
+23,7
+
+124,5
+
+22,0
+
+0,984
+
+Apo B (mg/dL)
+
+100,0
+
+27,7
+
+106,9
+
+18,7
+
+0,441
+
+102,3
+
+29,4
+
+87,9
+
+19,9
+
+0,096
+
+101,8
+
+28,8
+
+100,1
+
+21,0
+
+0,755
+
+TG/HDL
+
+7,0
+
+8,5
+
+4,3
+
+4,3
+
+0,077
+
+3,2
+
+2,2
+
+2,9
+
+2,1
+
+0,828
+
+3,6
+
+4,9
+
+3,7
+
+3,9
+
+0,592
+
+CT/HDL
+
+7,8
+
+2,6
+
+6,9
+
+1,7
+
+0,402
+
+5,6
+
+1,9
+
+4,9
+
+1,7
+
+0,232
+
+6,0
+
+2,2
+
+6,2
+
+1,9
+
+0,779
+
+LDL/HDL
+
+4,8
+
+1,1
+
+4,6
+
+1,3
+
+0,765
+
+3,9
+
+1,6
+
+3,2
+
+1,4
+
+0,179
+
+4,0
+
+1,6
+
+4,1
+
+1,5
+
+0,805
+
+HDL/ApoA-I
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,615
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,833
+
+0,3
+
+0,1
+
+0,3
+
+0,1
+
+0,132
+
+LDL/ApoB
+
+1,3
+
+0,2
+
+1,3
+
+0,2
+
+0,504
+
+1,4
+
+0,3
+
+1,3
+
+0,2
+
+0,305
+
+1,4
+
+0,3
+
+1,3
+
+0,2
+
+0,268
+
+ApoB/ApoA-I
+
+1,1
+
+0,5
+
+0,9
+
+0,2
+
+0,317
+
+0,8
+
+0,2
+
+0,7
+
+0,2
+
+0,179
+
+0,9
+
+0,3
+
+0,8
+
+0,2
+
+0,720
+
+GLICOSE (mg/dL)
+
+97,0
+
+22,9
+
+92,0
+
+37,7
+
+0,417
+
+102,0
+
+22,5
+
+96,0
+
+11,6
+
+0,434
+
+101,0
+
+22,3
+
+96,0
+
+30,8
+
+0,135
+
+INSULINA (µU/dL)
+
+15,8
+
+5,8
+
+15,3
+
+7,1
+
+0,659
+
+16,6
+
+8,9
+
+16,3
+
+12,8
+
+0,963
+
+16,3
+
+8,4
+
+15,6
+
+9,2
+
+0,529
+
+HOMA
+
+5,3
+
+1,7
+
+3,9
+
+2,3
+
+0,775
+
+4,3
+
+2,3
+
+3,9
+
+4,0
+
+0,723
+
+4,5
+
+2,1
+
+3,9
+
+2,9
+
+0,399
+
+CT: colesterol total; LDL: lipoproteína de baixa densidade; HDL: lipoproteína de alta densidade; TG: triacilgliceróis; Apo A-I: apolipoproteína A-I; Apo B:
+apolipoproteína B; HOMA-IR: índice de resistência à insulina. Diferenças entre os grupos foram analisadas pelos testes de Mann Whitney e TStudent.
+Valores com significância estatística estão representados em negrito. Nível de significância p<0,05.
+
+Considerando que alguns parâmetros antropométricos, lipídicos e
+glicídicos foram influenciados pelo sexo e que as concentrações de leptina,
+adiponectina e suas razões também influenciaram a resposta lipídica e glicídica,
+testou-se correlações entre essas adipocitocinas e os parâmetros lipídicos e
+glicídicos e a possível influência de outras características clínicas sobre essas
+associações, conforme apresentado na Metodologia desse trabalho.
+Quando testamos a correlação entre adiponectina e as variáveis
+referentes aos perfis lipídico e glicídico, observamos que esta se correlacionou
+com HDL-C, APO AI e relações desses parâmetros como APO B/APO AI,
+TG/HDL-C e LDL-C/HDL-C, sendo que as correlações com essas duas últimas
+relações foram observadas somente na forma bruta, ou seja, quando elas foram
+ajustadas, percebe-se que sofrem influência da etnia, tabagismo, consumo de
+álcool, do IMC, da CC, do %MG, da presença de DM, HAS e DLP. A adiponectina
+correlacionou-se com HDL-C e com a ABO B/APOA AI independentemente da
+etnia, tabagismo, consumo de álcool, do IMC, da CC, do %MG, da presença de
+DM, HAS e DLP, sofrendo influência apenas do sexo e do %MG. Quando foi feita
+a correlação entre a adiponectina e a APO AI, estas variáveis se correlacionam
+independentemente do ajuste, ou seja, não sofreu influência das variáveis de
+ajuste (Tabela 8)
+Quanto as correlações entre leptina e as variáveis bioquímicas foram
+testadas, observou-se que esta se correlacionou com a HDL-C, GLI e HOMA IR,
+sendo que com essas duas últimas variáveis houve correlações positivas apenas
+na forma bruta, ou seja, a associação entre elas sofre influência de todas as
+variáveis de ajustes. Quanto à correlação da leptina com o HDL-C, esta
+aconteceu independentemente do ajuste pela etnia, tabagismo, consumo de
+álcool, do IMC, da CC, da presença de DM, HAS e DLP, havendo influência
+apenas do sexo e do %MG. Somente houve correlação entre a leptina e os
+parâmetros TG/HDL, CT/HDL e LDL/APOB, quando houve ajuste das
+correlações pelo IMC, ou seja, há influência dessa variável para essa correlação
+acontecer, sendo que a correlação entre leptina com TG/HDL e com o CT/HDL
+foi negativa e com o LDL/APOB foi positiva (Tabela 9).
+Quando foi feita a correlação da razão entre adiponectina e leptina com
+as variáveis referentes aos perfis lipídico e glicídico, foi observada apenas
+
+correlações positivas entre esta e à insulina e ao HOMA IR, sendo que esta
+associação foi influenciada por todas as variáveis de ajuste (sexo, etnia,
+tabagismo, consumo de bebidas alcoólicas, IMC, CC, %MG, presença de DM,
+HAS e DLP). Foi observada correlação positiva entre a razão e a APO AI apenas
+quando há ajuste pelo sexo e %MG. Também só houve correlação negativa entre
+a razão e a razão HDL/APOAI quando foi feito o ajuste pelo IMC, CC, presença
+de DM e HAS, mostrando influência dessas variáveis nesta associação. O
+mesmo foi observado para a presença de correlação negativa entre LDL/APOB
+somente após o ajuste desta pela CC e presença de HAS (Tabela 10) .
+Tabela 8. Correlações entre adiponectina e variáveis dos perfis lipídicos e
+glicídicos. São Paulo, 2016.
+Adiponectina
+Variável
+
+r
+
+p
+
+Ajuste
+
+CT (mg/dL)
+
+-0,061
+
+0,596
+
+Não
+
+HDL (mg/dL)
+
+0,228
+
+0,044
+
+Sim
+
+LDL (mg/dL)
+
+-0,088
+
+0,447
+
+Não
+
+TG (mg/dL)
+
+-0,194
+
+0,087
+
+Não
+
+Apo-AI (mg/dL)
+
+0,289
+
+0,010
+
+Sim
+
+Apo-B (mg/dL)
+
+-0,116
+
+0,308
+
+Não
+
+TG/HDL
+
+-0,234
+
+0,038
+
+Não
+
+CT/HDL
+
+-0,214
+
+0,058
+
+Não
+
+LDL/HDL
+
+-0,234
+
+0,042
+
+Não
+
+HDL/APOAI
+
+0,098
+
+0,389
+
+Não
+
+LDL/APOB
+
+0,072
+
+0,536
+
+Não
+
+APOB/APOAI
+
+-0,269
+
+0,017
+
+Sim
+
+GLICOSE (mg/dL)
+
+-0,204
+
+0,072
+
+Não
+
+INSULINA (mg/dL)
+
+-0,116
+
+0,339
+
+Não
+
+HOMA-IR
+
+0,212
+
+0,077
+
+Não
+
+CT: colesterol total; LDL: lipoproteína de baixa densidade; HDL: lipoproteína de alta densidade;
+TG: triacilgliceróis; GLI: glicose; INS: insulina; HOMA-IR: índice de resistência à insulina.
+Diferenças entre os grupos foram analisadas pela correlação de Spearman. Valores com
+significância estatística estão representados em negrito. A coluna Ajuste indica se houve
+significância nas correlações parciais. Nível de significância p<0,05.
+
+Tabela 9. Correlações entre leptina e variáveis dos perfis lipídicos e glicídicos.
+São Paulo, 2016.
+Leptina
+Variável
+
+r
+
+p
+
+Ajuste
+
+CT (mg/dL)
+
+0,024
+
+0,831
+
+Não
+
+HDL (mg/dL)
+
+0,248
+
+0,027
+
+Sim
+
+LDL (mg/dL)
+
+0,040
+
+0,734
+
+Não
+
+TG (mg/dL)
+
+-0,013
+
+0,911
+
+Não
+
+Apo-AI (mg/dL)
+
+0,126
+
+0,267
+
+Não
+
+Apo-B (mg/dL)
+
+-0,108
+
+0,345
+
+Não
+
+TG/HDL
+
+-0,107
+
+0,350
+
+Sim
+
+CT/HDL
+
+-0,182
+
+0,108
+
+Sim
+
+LDL/HDL
+
+-0,142
+
+0,221
+
+Não
+
+HDL/APOAI
+
+0,228
+
+0,043
+
+Sim
+
+LDL/APOB
+
+0,091
+
+0,435
+
+Sim
+
+APOB/APOAI
+
+-0,164
+
+0,149
+
+Não
+
+GLICOSE (mg/dL)
+
+0,337
+
+0,002
+
+Não
+
+INSULINA (mg/dL)
+
+0,221
+
+0,066
+
+Não
+
+HOMA-IR
+
+0,252
+
+0,035
+
+Não
+
+CT: colesterol total; LDL: lipoproteína de baixa densidade; HDL: lipoproteína de alta densidade;
+TG: triacilgliceróis; HOMA-IR: índice de resistência à insulina. Diferenças entre os grupos foram
+analisadas pela correlação de Spearman. Valores com significância estatística estão
+representados em negrito. A coluna Ajuste indica se houve significância nas correlações parciais.
+Nível de significância p<0,05.
+
+Tabela 10. Correlações entre razão adiponectina e leptina e variáveis dos perfis
+lipídicos e glicídicos. São Paulo, 2016.
+Razão adiponectina/leptina
+Variável
+
+r
+
+p
+
+Ajuste
+
+CT (mg/dL)
+
+-0,022
+
+0,845
+
+Ñão
+
+HDL (mg/dL)
+
+-0,115
+
+0,311
+
+Não
+
+LDL (mg/dL)
+
+-0,056
+
+0,630
+
+Não
+
+TG (mg/dL)
+
+-0,050
+
+0,661
+
+Não
+
+Apo-AI (mg/dL)
+
+0,009
+
+0,935
+
+Sim
+
+Apo-B (mg/dL)
+
+0,072
+
+0,527
+
+Não
+
+TG/HDL
+
+0,004
+
+0,971
+
+Não
+
+CT/HDL
+
+0,071
+
+0,531
+
+Não
+
+LDL/HDL
+
+0,023
+
+0,843
+
+Não
+
+HDL/APOAI
+
+-0,137
+
+0,229
+
+Sim
+
+LDL-c/APOB
+
+-0,054
+
+0,644
+
+Sim
+
+APOB/APOAI
+
+0,050
+
+0,662
+
+Sim
+
+GLICOSE (mg/dL)
+
+-0,363
+
+0,001
+
+Não
+
+INSULINA (mg/dL)
+
+-0,245
+
+0,041
+
+Não
+
+HOMA-IR
+
+-0,309
+
+0,009
+
+Não
+
+CT: colesterol total; LDL: lipoproteína de baixa densidade; HDL: lipoproteína de alta densidade;
+TG: triacilgliceróis; HOMA-IR: índice de resistência à insulina. Diferenças entre os grupos foram
+analisadas pela correlação de Spearman. Valores com significância estatística estão
+representados em negrito. A coluna Ajuste indica se houve significância nas correlações parciais.
+Nível de significância p<0,05.
+
+5. DISCUSSÃO
+As DCV são a maior causa de morte no mundo (MATTU e RANDEVA,
+2013). Segundo à Organização Mundial da Saúde (OMS), projeta-se que o
+número de mortes relacionadas às DCV irá aumentar de 17 milhões em 2008
+para 25 milhões em 2030 (OMS, 2012). Nesse contexto, inúmeros
+pesquisadores estudam diversos já estabelecidos ou potenciais biomarcadores
+de risco cardiovascular, de forma a mudarem precocemente os fatores de risco
+associados a estes biomarcadores, buscando assim, novas terapêuticas para
+prevenção e tratamento das DCV.
+Diante desse contexto, nosso estudo buscou realizar a associação de
+adipocitocinas e parâmetros lipídicos e glicídicos em indivíduos com diversos
+fatores de risco cardiovascular, de forma a estimular outras pesquisas nessa
+área a fim de prevenir futuras mortes por DCVs. Uma limitação dele é que, por
+ser transversal, não se pode estabelecer uma causalidade e sim gerar hipóteses
+e possibilidades para outros pesquisadores continuarem estudando.
+O estudo em questão possuía uma amostra com maior proporção de
+indivíduos do sexo feminino, os quais apresentavam maior %MG. Em ambos os
+sexos se observou valores de IMC elevados (sobrepeso e obesidade), maiores
+valores de circunferência da cintura e, consequentemente, maior risco para DCV,
+o qual se torna ainda mais elevado devido à alta prevalência de DLP, HAS e DM
+nos participantes. Nas mulheres do estudo, que possuíam elevado %MG em
+comparação aos homens, viu-se que tinham maior concentração sérica de
+leptina, o que está de acordo com o observado em estudos como de AL
+MASKARI e ALNAQDY, (2006), que encontram maiores concentrações séricas
+de leptina nas mulheres do que nos homens, sendo que as participantes do sexo
+feminino apresentavam maior %MG do que os homens, assim como no estudo
+de RUHL et al., (2007), que mostraram maiores concentrações de leptina nas
+mulheres, correlacionando-se com o maior %MG nesse grupo, quando
+comparado aos homens.
+No grupo dos homens foi observado valores mais elevados da razão A/L,
+possivelmente devido a menores concentrações séricas de leptina associada a
+menor %MG, como já discutido. Essa diferença no %MG acontece devido a
+
+diferentes fatores, como os hormônios sexuais, segundo GEER e SHEN, (2009).
+Esses autores também discutem a influência desses hormônios na produção das
+adipocitocinas, como a leptina e adiponectina e, consequentemente, diferentes
+concentrações
+
+séricas
+
+destes
+
+marcadores
+
+em
+
+função
+
+do
+
+sexo.
+
+Assim como a diferença encontrada no %MG entre os sexos, foi
+observado o impacto do sexo no perfil lipídico, sendo que o grupo de homens
+apresentou um perfil mais aterogênico do que as mulheres. Segundo WANG,
+MAGKOS e MITTENDORFER, (2010), essa discrepância é atribuída aos
+hormônios sexuais, os quais são importantes reguladores do metabolismo
+lipídico e responsáveis pelo dimorfismo sexual no perfil lipídico plasmático, de
+forma semelhante que esses hormônios exercem ação na produção das
+adipocitocinas.
+A literatura mostra que a adiponectina exerce múltiplas ações
+cardioprotetoras, sendo sua reduzida concentração associada a diversas
+alterações metabólicas (OUCHI et al., 2016). Dentre essas, destaca-se a maior
+prevalência de obesidade, resistência à insulina e DM tipo 2, que podem
+contribuir para o desenvolvimento das DCV (KAWANO e ARORA, 2008).
+BLASLOV, ZIBAR e DUVNJAK, (2013) distribuíram indivíduos com DM
+tipo 1, segundo a mediana da adiponectina e observaram que os pacientes com
+maiores valores de adiponectina apresentavam maiores concentrações de HDLc e menores de TG.
+Perfil semelhante foi observado em nosso estudo, onde indivíduos com
+maior concentração sérica de adiponectina, possuíam maiores valores de HDLc e ApoA-I e menores de TG e da razão TG/HDL-c. Possivelmente, os menores
+valores de TG/HDL-c em indivíduos com mais adiponectina se deve ao papel
+positivo dessa adipocitocina na melhora da sensibilidade à insulina e
+consequente ativação da lipase lipoproteica, que atua na remoção de TG.
+Previamente a relação entre adiponectina e diversos parâmetros lipídicos (LDLc, TG, colesterol sérico e a ApoA-I) já havia sido descrita por IZADI, FARABAD
+e AZADBAKHT (2013).
+O presente estudo mostrou correlações significativas entre a adiponectina
+e a HDL-c, sendo essas reforçadas pelas correlações após ajuste pelo sexo e
+
+%MG. De modo semelhante, MAMAGHANI et al., 2009 e CHRISTOU et al.,
+(2012) mostraram a presença de correlação positiva entre a adiponectina e a
+HDL-C. GELONEZE et al., (2009) e IZADI, FARABAD e AZADBAKHT, (2013)
+descreveram
+
+que
+
+a
+
+adiponectina
+
+se
+
+correlaciona
+
+com
+
+a
+
+HDL-c
+
+independentemente do IMC e da resistência à insulina.
+Nosso estudo encontrou correlação positiva da adiponectina com a ApoAI independente da influência das variáveis de ajustes. VERGÈS et al., (2006)
+realizaram um estudo com indivíduos saudáveis e com síndrome metabólica
+avaliando a associação da adiponectina com o catabolismo da ApoA-I e,
+interessantemente,
+
+encontraram
+
+forte
+
+correlação
+
+negativa
+
+entre
+
+essa
+
+adipocitocina e o catabolismo desta apolipoproteína, sugerindo o papel da
+adiponectina nesse possível biomarcador.
+Nosso estudo mostrou fraca correlação negativa entre adiponectina e as
+razões TG/HDL-c e LDL-c/HDL-c, as quais sofreram influência de todas as
+variáveis de ajuste testadas. Poucos estudos mostram a relação dessa
+adipocitocina com esses parâmetros, como por exemplo KIMM et al., (2010)
+estudaram a associação da adiponectina e lipídios séricos em indivíduos
+coreanos com e sem síndrome metabólica e observaram que em homens e
+mulheres, maiores razões de LDL-c/HDL-c e TG/HDL-c levavam à diminuição da
+adiponectina, ou seja, possuiam uma correlação negativa.
+Diversos mecanismos podem estar ligados à adiponectina e ao aumento
+da HDL-c. O primeiro refere-se ao estímulo da atividade da PPARα no músculo
+esquelético e no fígado, o qual é um gene que está associado ao metabolismo
+do HDL-c. Ela também poderia elevar a concentração do HDL-c através do
+aumento da produção do transportador 1 de cassete de ligação de trifosfato de
+adenosina (ATP), o qual induz o transporte reverso do colesterol. Além disso, ela
+também modula o metabolismo da lipase hepática e estimula a atividade de
+lipase lipoproteica (LPL), levando assim ao aumento da concentração do HDL-c.
+A adiponectina também estimula a produção hepática de Apo A-I, favorecendo
+o aumento da concentração de HDL-c (IZADI, FARABAD e AZADBAKHT, 2013;
+CHRISTOU e KIORTSIS, 2013; LIM, QUON e KOH, 2014). Possivelmente é
+também através do estímulo à LPL que a adiponectina diminui a concentração
+
+plasmática de TG, pois aumenta a hidrólise destes em partículas de lipoproteínas
+ricas em TG, como os quilomícrons e a VLDL (CHRISTOU e KIORTSIS, 2013).
+Diversos estudos mostram a relação com a leptina e fatores de risco
+cardiovascular (KOH, PARK e QUON, 2008; HOU e LUO, 2011). Ela é um
+hormônio que atua na regulação do balanço energético, porém em indivíduos
+obesos é encontrado um quadro de hiperleptinemia, ao qual é atribuído a
+presença de resistência à leptina. Concentrações elevadas de leptina estão
+associadas à patogênese de aterosclerose, DM tipo 2, entre outras DCV (KOH,
+PARK e QUON, 2008). Segundo KAUR, SIDHU e KAUR, (2013), a resistência à
+leptina envolve as complicações da obesidade relacionadas com a alteração do
+metabolismo lipídico.
+MANTZOROS et al., 2011 mostraram em sua revisão as funções da
+leptina no organismo, como suas ações na regulação neuroendócrina, na
+sensibilidade à insulina, na resposta imune e no metabolismo ósseo.
+Posteriormente, MINOKOSHI, TODA e OKAMOTO, (2012), fizeram uma revisão
+mostrando que a leptina atua na regulação da glicose, aumentando a captação
+desta via mecanismo β-adrenérgico e sistema nervoso simpático-hipotalâmico e
+no metabolismo de ácidos graxos via AMPK no músculo esquelético. Isso mostra
+o importante papel desse hormônio na glicose e ácidos graxos.
+Esses estudos mostram que a leptina exerce um papel negativo no
+metabolismo quando associada à hiperleptinemia e resistência à leptina, pois
+suas funções moduladoras são alteradas.
+Em nosso estudo, foi observado que em indivíduos com maior
+concentração sérica de leptina, significantemente mais elevada nos homens,
+havia maiores concentrações de TG e menores de HDL-c e ApoA-I e,
+consequentemente, maior razão TG/HDL-c. Nas mulheres com mais leptina
+sérica, havia maior concentração de glicose. De forma curiosa e contraditória ao
+observado nos homens e na literatura, quando se considerou o total de
+indivíduos, sem estratificação por sexo, aqueles com maiores concentrações de
+leptina possuíam maiores níveis de HDL-c.
+Uma pesquisa feita com adolescentes na faixa de Gaza por TALEB et al.,
+2014, mostrou que a leptina aumentava com o aumento de CT, HDL-c e LDL-c,
+
+exceto pelo TG. Estudos demonstraram relação inversa entre a leptina e HDL-c
+e/ou ApoA-I em humanos (O’ROURKE et al., 2002, SINGH et al., 2009).
+MIRRAKHIMOV et al., (2014) demonstraram que indivíduos asiáticos com
+maiores valores de leptina, possuíam maiores concentrações de glicose e
+HOMA-IR do que aqueles com menores valores de leptina, indicando assim um
+perfil de resistência à insulina naqueles participantes com hiperleptinemia.
+KAUR, SIDHU e KAUR, (2013) testaram associação entre a leptina e perfil
+lipídico entre mulheres, mostrando correlação positiva entre a leptina e CT, TG
+e LDL-c e negativa com a HDL-c, apenas nas mulheres com obesidade.
+MIRRAKHIMOV et al., (2014) encontraram correlação positiva entre leptina e TG
+e glicose tanto em homens como mulheres, além de uma correlação negativa
+entre HDL-c e leptina nas participantes do sexo feminino e positiva com CT nos
+homens.
+De forma contraditória, em nosso estudo, a leptina apresentou correlação
+positiva com a HDL-c, confirmada nas correlações ajustadas pelo sexo e %MG.
+Essa contradição também foi observada nas correlações com TG/HDL-c e
+CT/HDL-c os quais se associaram negativamente com a leptina apenas quando
+ajustado pelo IMC, mostrando a influência do estado nutricional nessa relação.
+ZABUT et al., (2007) citado por TALEB et al., (2014) conduziram um
+estudo com adultos que analisaram a leptina e o receptor desta (OB-Re), os
+quais se correlacionaram positivamente com TG, CT e LDL, enquanto relação
+inversa entre a leptina e o HDL-c. Enquanto que o receptor de leptina se
+correlacionou negativamente com o CT, LDL-c e TG e positivamente com o HDLc.
+Os mecanismos de ação da leptina no metabolismo da glicose e lipídeos
+séricos, em um quadro de resistência à insulina, ainda não são bem
+estabelecidos. Sabe-se que a sinalização da leptina é sujeita à regulação por
+feedback negativo e este está aumentado na hiperleptinemia associada à
+obesidade, inibindo a sinalização via leptina e não permitindo que a mesma faça
+seu papel regulador em diversas vias metabólicas (MANTOZOROS et al., 2011)
+
+JUNG et al., (2010) sugeriram que a razão A/L seria um indicador de risco
+de DCV, resistência à insulina e síndrome metabólica. Ambos hormônios
+possuem ações distintas em um quadro de sobrepeso ou obesidade.
+Em nosso estudo, homens com maior razão A/L mostraram maiores
+concentrações de HDL-c e ApoA-I e as mulheres com maior razão A/L, menores
+valores de CT e LDL-c, mostrando assim um perfil menos aterogênico associado
+a esse parâmetro.
+LUKOWSKA et al, (2015) ao associarem as concentrações de leptina e
+adiponectina com o perfil lipídico, encontraram em homens com maior razão A/L,
+menor concentração sérica de TG e da razão TG/HDL-c e maior nível de HDL-c
+em comparação com aqueles com menor razão A/L. Em relação às mulheres,
+observou-se uma correlação negativa entre a razão A/L e o parâmetro TG/CT.
+Segundo JUNG et al., (2010), os valores de HOMA-IR foram altos
+enquanto que a razão A/L era significantemente baixa nos participantes com
+síndrome metabólica. INOUE et al., (2005) citado por JUNG et al., 2010
+sugeriram que a razão A/L pode ser mais útil para detectar a resistência à
+insulina do que o HOMA-IR em indivíduos com DM tipo 2. Em nosso estudo,
+quando foi feita a correlação da razão A/L e o perfil lipídico e parâmetros de
+resistência à insulina, observou-se correlações negativas fracas entre a razão
+A/L e a glicose, a insulina e o HOMA-IR. Apesar das relações não serem tão
+fortes quanto ao mostrada na literatura, talvez devido ao número não tão grande
+de indivíduos da amostra, pode-se dizer que a razão A/L é um potencial indicador
+da resistência à insulina em pacientes com diversos fatores de risco
+cardiovascular.
+Em nosso estudo também foi observado, uma correlação negativa e fraca
+entre a razão A/L e o parâmetro ApoB/ApoA-I após o ajuste pelo sexo, entre a
+razão A/L e o LDL-C/ApoB, apenas quando se leva em consideração a CC e
+presença de HAS, mostrando que a razão A/L tem um perfil mais ateroprotetor.
+Contraditoriamente, observou-se uma correlação negativa e fraca entre a razão
+A/L e o HDL-C/ApoA-I, com o ajuste pelo IMC, CC, DM e HAS. Porém, sofrendo
+a influência do sexo e do %MG, observou-se uma relação positiva entre a razão
+A/L e a ApoA-I, confirmando o perfil ateroprotetor desse parâmetro.
+
+A importância da correlação ajustada por diversas variáveis se mostra
+necessária em um estudo, uma vez que permite observar a sinergia entre os
+processos biológicos e quão complexo esses são, além delas influenciaram
+direta ou indiretamente as relações investigadas. O sexo e o %MG foram as
+variáveis que mais influenciaram essas relações, confirmando o papel do sexo e
+da adiposidade na ação das adipocitocinas, assim como o IMC, mostrando a
+influência que o estado nutricional tem nas relações entre as adipocitocinas.
+
+6. CONCLUSÃO
+Apesar de algumas limitações e resultados que contradizem alguns
+artigos da literatura, podemos concluir com o atual estudo que a adiponectina e
+a razão adiponectina/leptina possuem papéis mais ateroprotetores, enquanto
+que a leptina, quando em um quadro de resistência à esta, se mostra mais
+aterogênica. Além disso, a razão A/L e a leptina apresentam-se associadas a
+parâmetros da resistência à insulina, a qual está relacionada com a ocorrência
+de DCV.
+
+7. REFERÊNCIAS
+# 2 Hevonoja T, Pentikainen MO, Hyvonen MT, Kovanen PT, Ala-Korpela M.
+Structure of low density lipoprotein (LDL) particles: basis for understanding
+molecular changes in modified LDL. Biochim Biophys Acta. 2000; 1488(3): 189210.
+[ Links ]
+# 3Chang YH, Adballa DS, Sevanian A. Characterization of cholesterol
+oxidation products formed by oxidative modification of low density lipoprotein.
+Free Radic Biol Med. 1997; 23(2): 202-14.
+[ Links ]
+# 4. Esterbauer H, Gebicki J, Puhl H, Jürgens G. The role of lipid peroxidation
+and antioxidants in oxidative modification of LDL. Free Radical Biol Med. 1992;
+13(4):341-90.
+[ Links ]
+24 National Cholesterol Education Program (NCEP) Expert Panel on Detection,
+Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment
+Panel III). Third Report of the National Cholesterol Education Program (NCEP)
+Expert Panel on Detection, Evaluation, and Treatment of High Blood
+Cholesterol in Adults (Adult Treatment Panel III) final report. Circulation.
+2002;106(25):3143-421.
+28. Goldstein BJ, Scalia R. Adiponectin: a novel adipokine linking adipocytes and
+vascular function. J Clin Endocrinol Metab. 2004; 89(6):2563-8.
+29. Fantuzzi G. Adipose tissue, adipokines, and inflammation. J Allergy Clin
+Immunol. 2005; 115(5):911-9.
+30. Funahashi T, Matsuzawa Y, Kihara S. Adiponectin as a potential key player
+in metabolic syndrome Insights into atherosclerosis, diabetes and cancer. Int
+Congress Series. 2004; 1262:368-71.
+5 Gomes CM, Capellari C, Pereira DSG, Volkart PR, Moraes AP, Jardim V,
+Bertuol M. Stress and cardiovascular risk: multi-professional intervention in
+health education. Rev Bras Enferm [Internet]. 2016;69(2):329-36. DOI:
+http://dx.doi.org/10.1590/0034-7167.2016690219i
+6
+
+Massaro, M.; Scoditti, E.; Carluccio, M.A.; de Caterina, R. Nutraceuticals
+
+and prevention of atherosclerosis: Focus on omega-3 polyunsaturated fatty
+acids and Mediterranean diet polyphenols. Cardiovasc. Ther. 2010, 28, e13–
+e19. [CrossRef] [PubMed]
+6 Sardinha, A; Nardi, AE; Zin, WA. Are panic attacks really harmless? The
+cardiovascular impact of panic disorder. Rev Bras Psiquiatr. 2009; 31(1):57-62.
+7
+
+Chomistek, A.K.; Manson, J.E.; Stefanick, M.L.; Lu, B.; Sands-Lincoln,
+
+M.; Going, S.B.; Garcia, L.; Allison, M.A.; Sims, S.T.; LaMonte, M.J.; et al.
+
+Relationship of sedentary behavior and physical activity to incident
+cardiovascular disease: Results from the Women’s Health Initiative. J. Am.
+Coll. Cardiol. 2013, 61, 2346–2354.
+7 Albert CM, Chae CU, Rexrode KM, Manson JE, Kawachi I. Phobic anxiety and
+risk of coronary heart disease and sudden cardiac death among women.
+Circulation [Internet]. 2005[cited 2015 Apr 27];111(4):480-7. Available from:
+http://circ.ahajournals.org/content/111/4/480.full.pdf+html
+8
+9. Tolfrey K. Intraindividual variability of children's blood, lipid and lipoptotein
+concentrations: a review. Prev Cardiol. 2002; 3: 145-51.
+Adiponectin Is an Important Determinant of ApoA-I Catabolism - Bruno
+Vergès, Jean Michel Petit, Laurence Duvillard, Guillaume Dautin, Emmanuel
+Florentin, Françoise Galland and Philippe Gambert - 2006
+Aldin, MN. Efeito do ômega-3 sobre biomarcadores cardiometabólicos clássicos
+e emergentes em indivíduos com diferentes níveis de risco cardiovascular.
+[Dissertação de Mestrado]. São Paulo: Pronut/USP; 2014.
+Almeida, CA; Pinho, AP; Ricco, RG; Elias, CP. Abdominal circumference as an
+indicator of clinical and laboratory parameters associated with obesity in children
+and adolescents: comparison between two reference tables. J Pediatr. 2007;
+83(2):181-5.
+Associations Between Lipid Measures and Metabolic Syndrome, Insulin
+Resistance and Adiponectin – Usefulness of Lipid Ratios in Korean Men and
+Women – Heejin Kimm, MD; Sang Wha Lee, MD*; Hong Soo Lee, MD*; Kyung
+Won Shim, MD*; Choo Yon Cho, MD**; Ji Eun Yun, PhD; Sun Ha Jee, PhD –
+2010
+Blüher, M. (2014). Adipokines - removing road blocks to obesity and diabetes
+therapy. Mol Metab. 2014. 3, 230–240. doi: 10.1016/j.molmet.2014.01.005
+Calixto-Lima, L; Guedes, EP; Reis, NT. Interpretação de Exames Laboratoriais
+aplicados à Nutrição Clínica. Rio de Janeiro: Editora Rubio; 2012.
+Campbell, K.A.; Lipinski, M.J.; Doran, A.C.; Skaflen, M.D.; Fuster, V.; McNamara,
+C.A. Lymphocytes and the adventitial immune response in atherosclerosis. Circ.
+Res. 2012, 110, 889–900.
+Campbell, KA; Lipinski, MJ; Doran, AC; Skaflen, MD; Fuster, V; McNamara CA.
+Lymphocytes and the adventitial immune response in atherosclerosis. Circ Res.
+2012;110:889–900
+
+Cheng, KK; Lam, KS; Wang, Y; Huang, Y; Carling, D; Wu, D, et al. Adiponectininduced endothelial nitric oxide synthase activation and nitric oxide production
+are mediated by APPL1 in endothelial cells.Diabetes. 2007;56:1387–1394.
+citados por ABDALLA, Dulcinéia Saes Parra; SENA, Karine Cavalcanti Maurício
+de. Biomarcadores de peroxidação lipídica na aterosclerose. Rev. Nutr.,
+Campinas , v. 21, n. 6, p. 749-756, Dec. 2008 . Available from
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S141552732008000600013&lng=en&nrm=iso>. access on 04 July 2016.
+http://dx.doi.org/10.1590/S1415-52732008000600013.)
+Coronary Heart Disease Prediction From Lipoprotein Cholesterol Levels,
+Triglycerides, Lipoprotein(a), Apolipoproteins A-I and B, and HDL Density
+Subfractions The Atherosclerosis Risk in Communities (ARIC) Study A.R.
+Sharrett, MD, DPH; C.M. Ballantyne, MD; S.A. Coady, MA; G. Heiss, MD, PhD;
+P.D. Sorlie, PhD; D. Catellier, PhD; W. Patsch, MD
+Dominiczak, MH; Caslake, MJ. Apolipoproteins: metabolic role and clinical
+biochemistry applications. Ann Clin Biochem. 2011;48(Pt6):498-515.
+Forti, N; Diament, J. High-Density Lipoproteins: Metabolic, Clinical,
+Epidemiological and Therapeutic Intervention Aspects. An Update for Clinicians.
+Arq Bras Cardiol. 2006;87(5):671-9.
+Frostegård, J. Immunity, atherosclerosis and cardiovascular disease. BMC
+Med. 2013;11:117.
+Gender Differences in Insulin Resistance, Body Composition, and Energy
+Balance Eliza B. Geer, MD1 and Wei Shen, MD2 –
+Ghandi, H; Upaganlawar A, Balaraman R. Adipocytokines: The pied pipers. J
+Pharmacol Pharmacother. 2010;1:9-17
+Gimbrone, MA Jr; Topper, JN; Nagel, T; Anderson, KR; Garcia-Cardena, G.
+Endothelial dysfunction, hemodynamic forces, and atherogenesis. Ann N Y Acad
+Sci. 2000, 902:230–240.
+Gnacinska, M; Malgorzewicz, S; Stojec, M; Lysiak-Szydlowska, W; Sworczak, K.
+Role of adipokines in complications related to obesity: a review. Adv Med Sci..
+2009;54(2):150-7.
+Gottlieb, MGV; Bonardi, G; Moriguchi, EH. Fisiopatologia e aspectos
+inflamatórios da aterosclerose. Sci med. 2006;15(3):203-207.
+Hackam, GD; Anand, SS. Emerging risk factors for atherosclerotic vascular
+disease: a critical review of the evidence. JAMA. 2003; 290(7):932-40.
+Halaas, JL. Weight-reducing effects of the plasma protein encoded by the obese
+gene. Science. 1995;269(5223):543-6.
+Hansson GK; Robertson, AK; Söderberg-nauclër, C. Inflammation and
+atherosclerosis. Annu Rev Pathol. 2006;1:297-329.
+
+Hardwood, HJ Jr. The adipocity as an endocrine organ in the regulation of
+metabolic homeostasis. Neuropharmacology. 2012;63(1):57-75.
+Havel, PJ. Update on adipocyte hormones: regulation of energy balance and
+carbohydrate/lipid metabolism. Diabetes. 2004;53(Supl1):S143-51.
+High density lipoprotein is positively correlated with the changes in circulating
+total adiponectin and high molecular weight adiponectin during dietary and
+fenofibrate treatment -Georgios A. Christou,1 Constantinos C. Tellis,2 Moses S.
+Elisaf,3 Alexandros D. Tselepis,2Dimitrios N. Kiortsis1 - 2012
+Hou, N; Luo, JD. Leptin and cardiovascular diseases. Clin Exp Pharmacol
+Physiol. 2011;38(12):905-13.
+Kadowaki T, Yamauchi T, Kubota N, Hara, K; Ueki, K; Tobe, K. Adiponectin and
+adiponectin receptors in insulin resistance, diabetes and the metabolic syndrome.
+J Clin Invest. 2006; 116:1784–1792.
+Kadowaki, T; Yamauchi, T. Adiponectin and adiponectin receptors. Endocr rev.
+2005; 26(3):439-51.
+Lanas, F; Avezum, A; Bautista, LE; Diaz, R; Luna, M; Islam, S; Yusuf,
+S; INTERHEART Investigators in Latin America. Risk factors for acute
+myocardial infarction in Latin America: the INTERHEART Latin American study.
+Circulation. 2007,115(9):1067-1974.
+Leptin and the clinical cardiovascular risk Mukesh Singh ⁎, Updesh S. Bedi, Param P. Singh,
+Rohit Arora, Sandeep Khosla - 2010
+
+Libby P. Inflammation in atherosclerosis. Nature. 2002;420(6917):868-74.
+Lima, ES; Couto, RD. Structure, metabolism and physiologic functions of highdensity lipoproteins. J Bras Patol. Med Lab. 2006;42(3):169-78.
+Mancuso, P. The role of adipokines in chronic inflammation. Immunotargets
+Ther. 2016;5:47-56.
+Margetic, S; Gazzola, C; Pegg, GG; Hill, RA. Leptin: a review of its peripheral
+actions and interactions. Int J Obes Relat Meatb Disord. 2002;26(11):1407:33.
+
+Mathers, CD; Loncar, D. Projections of global mortality and burden of disease
+from 2002 to 2030. PLoS Med. 2006;3(11):e442.
+Al Maskari, MY; Alnaqdy, AA. Correlation between Serum Leptin Levels, Body
+Mass Index and Obesity in Omanis. Sultan Qaboos Univ Med J. 2006;6(2):2731.
+Mattu, HS; Randeva, HS. Role of adipokines in cardiovascular disease. J.
+Endocrinol. 2013;216(1):T17-T36.
+
+McGrowder , D; Riley, C; Morrison, EY; Gordon, L. The Role of High-Density
+Lipoproteins in Reducing the Risk of Vascular Diseases, Neurogenerative
+Disorders, and Cancer. Cholesterol. 2011;2011:496925.
+Modulation of adiponectin as a potential therapeutic strategy Soo Lim a ,
+Michael J. Quon b , Kwang Kon Koh c,d,* - 2014
+Adiponectin and lipoprotein metabolism G. A. Christou and D. N. Kiortsis – 2013
+– Obesity Reviews
+Mohammed-Ali, V; Pinkney, JH; Coppack, SW. Adipose tissue as an endocrine
+and paracrine organ. Int J Obes Relat Metab Disord. 1998;22:1145–58
+Ouchi, N; Kihara, S; Funahashi, T; Matsuzawa, Y; Walsh, K. Obesity, adiponectin
+and vascular inflammatory disease. Curr Opin Lipidol. 2003;14(6):561-6.
+Ouchi, N; Ohashi, K; Shibata, R; Murohara, T. Protective Roles of Adipocytokines
+and Myokines in Cardiovascular Disease. Circ J. 2016;80(10):2073-80.
+Panagiotis Lainas. Transplantation d’h´epatocytes g´en´etiquement modifi´es :
+r´eg´en´eration h´epatique et moyens d’am´elioration de la prise de greffe
+h´epatocytaire. M´edecine humaine et pathologie. Universit´e Paris Sud - Paris
+XI, 2012. Fran¸cais. .
+Relationship between Adiponectin Level, Insulin Sensitivity, and
+Metabolic Syndrome in Type 1 Diabetic Patients - Kristina Blaslov, Tomislav
+Bulum, Karin Zibar, and Lea Duvnjak – 2013
+Ribeiro, AG; Cotta, RMM; Ribeiro, SMR. Promoção da Saúde e a Prevenção
+Integrada dos Fatores de Risco para Doenças Cardiovasculares. Ciênc. saúde
+coletiva. 2012;17:7-17.
+Robinson, K; Prins, J; Venkatesh, B. Clinical review: Adiponectin biology and its
+role in inflammation and critical illness. Crit Care. 2011;15(2):221.
+Ruhl CE1, Harris TB, Ding J, Goodpaster BH, Kanaya AM, Kritchevsky SB, Simonsick EM, Tylavsky
+FA, Everhart JE. Body mass index and serum leptin concentration
+
+independently estimate percentage body fat in older adults. Am J Clin
+Nutr
+Sawicka, M; Janowska, J; Chudek, J. Potential beneficial effect of some
+adipokines positively correlated with the adipose tissue content on the
+cardiovascular system. Int J Cardiol. 2016; 222:581-9.
+Serum Adiponectin and Leptin Concentrations in Relation to Body Fat Distribution,
+Hematological Indices and Lipid Profile in Humans Anna Lubkowska 1,*, Aleksandra Radecka 1,
+Iwona Bryczkowska 1 , Iwona Rotter 2, Maria Laszczyńska 3 and Wioleta Dudzińska 4 – 2015
+Serum Leptin Levels and Lipid Profiles in Patients with Allergic Rhinitis and Mild Asthma F.
+Erela , M. Guleca , O. Kartal, Z. Caliskanera , S. Ozturka , H. Yamanb, Y. Kurtb, E. Gocgeldic , F.
+Orsd and M. Karaayvaza
+
+Signore, AP; Zhang, F; Weng, Z; Gao, Y; Chen, J. Leptin Neuroprotection in the
+Central Nerbous System: Mechanisms and Therapeutic Potentials. J
+Neurochem. 2008;106(5):1977-90.
+
+Sociedade Brasileira de Cardiologia (SBC). V Diretriz Brasileira de Dislipidemias
+e Prevenção da Aterosclerose. Arq Bras Cardiol; 2013,Volume 101, n°4, supl. 1.
+Sociedade Brasileira de Cardiologia (SBC). VI Diretrizes Brasileiras de
+Hipertensão. Arq Bras Cardiol; 2010 95(1 supl.1): 1-51.
+Sociedade Brasileira de Diabetes (SBD). Diretrizes da Sociedade Brasileira de
+Diabetes, 3a edição. Sociedade Brasileira de Diabetes, 2009.
+Talayero, BG; Sacks, FM. The Role of Triglycerides in Atherosclerosis. Curr
+Cardiol Rep. 2011;13(6):544-552.
+Tartaglia, LA. The Leptin Receptor. J Biol Chem. 1997;272(10):6093-6
+Taube, A; Schlich, R; Sell, H; Eckardt, K; Eckel, J. Inflammation and metabolic
+dysfunction: links to cardiovascular diseases.Am J Physiol Heart Circ
+Physiol. 2012;302(11):H2148-65.
+The adipocyte as an endocrine organ in the regulation of metabolic
+homeostasis H. James Harwood Jr. *Neuropharmacology, 2011.
+The Role of Adiponectin in Obesity, Diabetes, and Cardiovascular Disease - Jordan Kawano,
+BA; Rohit Arora, MD, FACC From the Department of Medicine, Chicago Medical School, North
+Chicago, IL – 2008
+
+Tilg, H; Moschen, AR. Adipocytokines: mediators linking adipose tissue,
+inflammation and immunity. Nat Rev Immunol. 2006;6(10):772-83.
+Tomizawa, A; Hattori, Y; Kasai, K; Nakano, Y. Adiponectin induces NF-kappa B
+activiation that leads to suppression of cytokine-induced NF-kappa B activation
+in vascular endothelial cells: globular adiponectin vs. high molecular weight
+adiponectin. Diab Vasc Dis Res. 2008;5:123–127.
+Toshima, S; Hasegawa, A; Kurabayashi, M; Itabe, H; Takano, T; Sugano,
+J; Shimamura, K; Kimura, J; Michishita, I; Suzuki, T; Nagai, R. Circulating
+oxidized low density lipoprotein levels: a biochemical risk marker for coronary
+heart disease. Arterioscler Thromb Vasc Biol. 2000;20(10):2243-7.
+Trujillo, ME; Scherer, PE. Adipose tissue-derived factors: impact on health and
+disease. Endocrine Reviews. 2006;27:762–778.
+Variation of Adiponectin Levels in Normal and Obese subjects: Possible
+Correlation with Lipid Profiles Mamaghani F a,b, Zarghami Na , Maleki MJ a,
+Pourhassan-Moghaddam Ma , Hosseinpanah Fc
+World Health Organization (WHO). Global Atlas on Cardiovascular Disease
+Prevention and Control. Geneva: World Health Organization, 2011.
+World Health Organization (WHO). Noncommunicable Diseases (NCD) Country
+Profiles. Geneva: World health Organization, 2014.
+
+World Health Organization (WHO). The 10 leading causes of death in the world,
+2000
+
+and
+
+2012;
+
+Fact
+
+sheet
+
+nº310.
+
+Disponível
+
+em:
+
+<http://www.who.int/mediacentre/factsheets/fs310/en>. Acesso em 02 Nov. 2016
+Yamauchi, T; Kamon, J; Ito, Y; Tsuchida, A; Yokomizo, T; Kita, S; Sugiyama,
+T; Miyagishi, M; Hara, K; Tsunoda, M; Murakami, K; Ohteki, T; Uchida,
+S; Takekawa, S; Waki, H; Tsuno, NH; Shibata, Y; Terauchi, Y; Froguel, P; Tobe,
+K; Koyasu, S; Taira, K; Kitamura, T; Shimizu, T; Nagai, R; Kadowaki, T. Cloning
+of adiponectin receptors that mediate antidiabetic metabolic effects. Nature.
+2003;423:762–769.
+Yasuhiko Minokoshi, Chitoku Toda, and Shiki Okamoto.Regulatory role of leptin in glucose and
+lipid metabolism in skeletal muscle - – 2012
+
+Zhou, Y; Rui, L. Leptin signaling and leptin resistance. Front Med. 2013;7(2):20722.
+
+

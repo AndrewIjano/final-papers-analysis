@@ -1,0 +1,1175 @@
+Universidade de São Paulo
+Faculdade de Medicina de Ribeirão Preto
+Departamento de Ginecologia e Obstetrícia
+
+Larissa de Oliveira Koopman
+
+Expressão do gene CXCL12 em células do cumulus de mulheres
+inférteis com e sem endometriose mínima e leve submetidas à
+estimulação ovariana controlada para realização de ICSI.
+
+Monografia
+
+Ribeirão Preto
+2018
+
+Larissa de Oliveira Koopman
+
+Expressão do gene CXCL12 em células do cumulus de mulheres
+inférteis com e sem endometriose mínima e leve submetidas à
+estimulação ovariana controlada para realização de ICSI.
+
+Monografia apresentada ao Curso de Ciências
+Biomédicas como parte dos requisitos
+necessários à obtenção do título de Bacharel
+em Ciências Biomédicas com ênfase em
+Ciências Básicas da Saúde
+Orientadora: Professora Doutora Paula
+Andrea de Albuquerque Salles Navarro
+Co-orientadora: Doutora Michele Gomes da
+Broi
+
+Ribeirão Preto
+2018
+
+FICHA CATALOGRÁFICA
+Koopman, Larissa de Oliveira
+Expressão do gene CXCL12 em células do cumulus de mulheres
+inférteis com e sem endometriose mínima e leve submetidas à
+estimulação ovariana controlada para realização de ICSI.
+38 p.: il.; 30 cm
+Monografia, apresentada à Faculdade de Medicina de Ribeirão Preto
+da Universidade de São Paulo. Área de concentração: Ginecologia e
+Obstetrícia.
+Orientadora: Navarro, Paula Andrea de Albuquerque Salles.
+1.Endometriose inicial; 2. Infertilidade feminina; 3. Células do
+cumulus; 4. CXCL12.
+
+DEDICATÓRIA
+
+Dedico este trabalho aos meus pais,
+Guilherme e Darli, que tanto me apoiaram
+durantes os quatro anos de graduação.
+
+AGRADECIMENTOS
+
+Inicialmente agradeço a Deus, por me dar a força para lutar a cada dia.
+Aos meus pais, Guilherme e Darli, que sempre acreditaram em mim e investiram no
+meu potencial. Sem o incentivo deles, nada disso seria possível. E à minha irmã, Estela,
+por ser a estrelinha que brilha na minha vida.
+Ao meu namorado, Bruno, por todo apoio, companheirismo e parceria, nos momentos
+bons e nos mais difíceis. Meus dias sem você seriam sombrios e sem graça.
+Às minhas amigas e colegas de casa, Flávia e Yi Dzoen, responsáveis pelos momentos
+mais alegres e divertidos. Com certeza tornaram esses quatro anos de graduação muito
+mais leves. Aos grandes amigos Lucas, Fred e Pedro.
+A todos os professores com quem tive aula durante a graduação, por todo conhecimento
+transmitido.
+Aos membros da Empresa Júnior Sirius Biotecnologia Jr. Todos vocês significam muito
+pra mim e tiveram um impacto gigantesco na minha vida pessoal, profissional e
+acadêmica. Brilha Sirius!
+Aos colegas de sala, Turma II de Ciências Biomédicas, por enfrentarem tudo isso que
+foi a faculdade comigo. Especialmente à Patrícia, Gabriela, Isadora e Helena, grandes
+amigas que tive o prazer de conhecer.
+À minha orientadora, Drª. Paula Andrea Navarro, por toda sabedoria e conhecimento e
+pelo acolhimento em seu grupo de pesquisa.
+À co-orientadora, Drª Michele Gomes da Broi, exemplo de pessoa e profissional, por
+toda paciência que teve em me ensinar e acompanhar em todos os momentos da
+Iniciação Científica.
+Ao pessoal do grupo de pesquisa, em especial à Caroline Mantovani da Luz que teve
+grande colaboração nesse trabalho.
+À chefe da seção de alunos da FMRP, Nadine P. Médice Carlucci, por ser sempre muito
+solícita, entender todos os desafios dos alunos de CB e nos ajudar da melhor forma
+possível.
+A todos os funcionários da FMRP.
+À Fundação de Amparo à Pesquisa do Estado de São Paulo, pelo auxílio financeiro para
+o desenvolvimento deste projeto.
+
+RESUMO
+
+A endometriose, enfermidade de elevada prevalência entre as mulheres em idade
+reprodutiva, apresenta forte associação com a infertilidade. No entanto, os mecanismos
+envolvidos na etiopatogenia da infertilidade associada à doença, principalmente nos
+casos de endometriose inicial (mínima e leve) ainda não foram completamente
+elucidados. Nesse sentido, questiona-se um efeito deletério da doença sobre a qualidade
+oocitária, o que poderia comprometer a fertilidade dessas mulheres. As células do
+cumulus (CCs) podem ser utilizadas como biomarcadores indiretos de qualidade
+oocitária, uma vez que têm papel fundamental no desenvolvimento e maturação do
+oócito. A literatura apresenta evidências de alterações em genes importantes para a
+qualidade oocitária nessas células em mulheres com a doença. A quimiocina CXCL12 é
+uma molécula envolvida no recrutamento de leucócitos e liberação de citocinas no
+folículo ovariano pré-ovulatório, tendo papel já descrito no processo de foliculogênese,
+ovulação e fertilização, com potencial contribuição para a aquisição de qualidade
+oocitária, o que desperta grande interesse na sua avaliação em mulheres com a doença.
+Dessa forma, o objetivo deste estudo foi comparar a expressão do gene CXCL12 em
+CCs de mulheres inférteis com endometriose inicial e controles inférteis submetidas à
+estimulação ovariana para realização de ICSI. Amostras de CCs foram previamente
+obtidas durante a captação oocitária de 36 pacientes (20 mulheres inférteis com
+endometriose I/II, e 16 controles inférteis) e mantidas a -80°C. Estas amostras tiveram
+RNA extraído e cDNA sintetizado, que foram utilizados para a quantificação do
+referido gene por PCR quantitativa em tempo real. Os dados foram comparados usando
+teste de Mann Whitney. Apesar de ter se observado valores de expressão do CXCL12
+maiores no grupo endometriose I/II (mediana: 0,60; intervalo interquartil: 0,20 - 2,14)
+quando comparados ao controle (mediana: 0,29; intervalo interquartil: 0,21 - 0,70), não
+se verificou diferença significativa (p=0,186). O poder do teste foi de 63%, desta forma,
+não é possível afirmar que o gene não esteja, de fato, alterado. Apesar de não
+demonstrarmos diferença significativa do gene CXCL12 em CCs de mulheres inférteis
+com e sem endometriose inicial, estudos com maiores casuísticas são necessários para
+confirmar ou modificar nossos achados, que auxiliarão na definição do tamanho
+amostral.
+Palavras-chave: Endometriose inicial; Infertilidade feminina; Células do cumulus;
+CXCL12
+
+ABSTRACT
+Endometriosis, a disease of high prevalence among women of reproductive age,
+is strongly associated to infertility. However, the mechanisms involved in the
+etiopathogenesis of disease-related infertility, especially in cases of initial (minimal and
+mild) endometriosis, have not yet been fully elucidated. In this sense, a deleterious
+effect of the disease on oocyte quality is questioned, which could compromise the
+fertility of these women. Cumulus cells (CCs) can be used as indirect biomarkers of
+oocyte quality, since they play a key role in oocyte development and maturation. The
+literature presents evidence of changes in genes important for oocyte quality in these
+cells in women with the disease. The chemokine CXCL12 is a molecule involved in the
+recruitment of leukocytes and release of cytokines into the preovulatory ovarian follicle.
+Its role on folliculogenesis, ovulation and fertilization has been already described,
+suggesting potential contribution to the acquisition of oocyte quality, which arouses
+great interest in their evaluation in women with the disease. Thus, the objective of this
+study was to compare the expression of the CXCL12 gene in CCs of infertile women
+with early endometriosis and infertile controls submitted to ovarian stimulation for
+ICSI. CCs samples were previously obtained during oocyte uptake of 37 patients (18
+infertile women with endometriosis I / II and 16 infertile controls) and maintained at -80
+° C. These samples had RNA extracted and cDNA synthesized, which were used for the
+quantification of the referred gene by real-time PCR. Data were compared using the
+Mann Whitney test. Although CXCL12 expression values were higher in the
+endometriosis I/II group (median: 0.60, interquartile range: 0.20 - 2.14) compared to the
+control group (median: 0.29, interquartile range: 0.21 - 0.70), there was no significant
+difference (p = 0.186). The power of the test was 63%, so it is not possible to state that
+the gene is not, in fact, altered. Although we did not demonstrate a statistically
+significant difference of the CXCL12 gene in CCs of infertile women with and without
+initial endometriosis, studies with larger casuistry are necessary to confirm or modify
+our findings, which will help in the definition of sample size.
+Key words: Endometriosis; Female infertility; Cumulus cells; CXCL12
+
+SUMÁRIO
+1.
+
+INTRODUÇÃO ...................................................................................................................... 9
+1.1.
+
+ENDOMETRIOSE................................................................................................................. 9
+
+1.2.
+
+ENDOMETRIOSE E INFERTILIDADE ...................................................................................... 10
+
+1.3.
+
+AS CÉLULAS DE CUMULUS E A QUALIDADE OOCITÁRIA ......................................................... 11
+
+1.4.
+
+QUIMIOCINAS.................................................................................................................. 13
+
+1.5.
+
+CXCL12 E A QUALIDADE OOCITÁRIA ................................................................................. 15
+
+2.
+
+JUSTIFICATIVA................................................................................................................. 17
+
+3.
+
+OBJETIVO .......................................................................................................................... 18
+
+4.
+
+METODOLOGIA ................................................................................................................ 19
+
+5.
+
+4.1.
+
+MODELO DE ESTUDO........................................................................................................ 19
+
+4.2.
+
+PACIENTES ..................................................................................................................... 19
+
+4.3.
+
+PROTOCOLO DE ESTIMULAÇÃO OVARIANA E SUPLEMENTAÇÃO DE FASE LÚTEA ......................... 19
+
+4.4.
+
+COLETA E ARMAZENAMENTO DAS AMOSTRAS ........................................................................ 21
+
+4.5.
+
+EXTRAÇÃO DO RNA TOTAL E SÍNTESE DO CDNA ................................................................... 22
+
+4.6.
+
+EXPRESSÃO DOS GENES POR PCR QUANTITATIVA EM TEMPO REAL (RT-QPCR) ......................... 22
+
+4.7.
+
+TAMANHO DO ESTUDO ...................................................................................................... 23
+
+4.8.
+
+ANÁLISE DOS DADOS ........................................................................................................ 23
+
+RESULTADOS .................................................................................................................... 24
+5.1.
+
+FLUXOGRAMA ................................................................................................................. 24
+
+5.2.
+
+CARACTERIZAÇÃO DOS GRUPOS ......................................................................................... 25
+
+5.3.
+
+EXPRESSÃO DO GENE CXCL12 ........................................................................................ 26
+
+6.
+
+DISCUSSÃO ........................................................................................................................ 28
+
+7.
+
+CONCLUSÃO ...................................................................................................................... 31
+
+8.
+
+REFERÊNCIAS ................................................................................................................... 32
+
+1. INTRODUÇÃO
+
+1.1.
+
+Endometriose
+
+A endometriose é uma doença ginecológica crônica, benigna, estrógenodependente caracterizada por implante e crescimento de tecido endometrial (glândulas
+e/ou estroma) fora da cavidade uterina, principalmente no peritônio, mas também nos
+ovários, septo retrovaginal, e mais raramente no pericárdio, na pleura e até mesmo no
+cérebro (Gupta et al., 2006; Burney e Giudice, 2012; Giudice e Kao 2004). Os sintomas
+da endometriose incluem dor pélvica, dismenorréia e dispareunia (Rock e Markham,
+1992). Sua prevalência é alta, de modo que afeta de 6 a 10% das mulheres em idade
+reprodutiva (Burney e Giudice, 2012).
+É frequentemente associada à infertilidade, estando presente em 25 a 50% das
+mulheres inférteis (Asrm, 2012), sendo que 30 a 50% das portadoras de endometriose
+têm dificuldade em ter filhos (Holoch e Lessey, 2010; Asrm, 2012). Por ser uma doença
+muitas vezes acompanhada por dor pélvica crônica (Giudice e Kao, 2004; Signorile e
+Baldi, 2010) e formação de aderências, repercute na qualidade de vida da paciente.
+Tanto por seu impacto na saúde física e psicológica como pelo impacto socioeconômico
+diante dos custos para o seu diagnóstico e tratamento, a endometriose tem sido
+considerada um problema atual de saúde pública (Signorile e Baldi, 2010).
+Segundo a ASRM, a endometriose é classificada em quatro estágios, os quais
+são definidos a partir das características morfológicas do implante endometriótico,
+como dimensão, profundidade e presença e extensão de aderências. No estágio I ou
+endometriose mínima, os focos endometrióticos são isolados e não há presença de
+aderências. No estágio II ou endometriose leve, há presença de lesões ectópicas
+superficiais de menos de 5 cm e ausência de aderências significativas, ou seja, aquelas
+que não provocam alterações anatômicas. No estágio III ou endometriose moderada, há
+múltiplos implantes endometrióticos, com aderências peritubárias e periovarianas
+evidentes. E no estágio IV ou endometriose grave, os focos endometrióticos são
+múltiplos, com implantes superficiais e profundos, endometriomas ovarianos,
+aderências densas que levam a alterações anatômicas (ASRM, 1996).
+
+1.2.
+
+Endometriose e Infertilidade
+
+A associação entre endometriose e infertilidade tem forte embasamento na
+literatura (Garrido et al., 2000; Giudice e Kao, 2004; Gupta et al., 2008). Sabe-se que a
+taxa de fecundidade mensal em casais normais em idade reprodutiva é de 15 a 20%,
+enquanto que em mulheres inférteis com endometriose essa taxa varia entre 2 e 10%
+(Hughes et al., 1993). Embora estudos tenham apoiado o conceito de diminuição de
+fecundidade nas portadoras desta doença, os mecanismos envolvidos na sua
+etiopatogênese, principalmente nos casos de endometriose mínima e leve, em que não se
+observa alteração anatômica do trato reprodutivo, ainda não foram precisamente
+elucidados. (Holoch e Lessey, 2010).
+A infertilidade apresentada por pacientes com as formas moderada e grave de
+endometriose (estágios III e IV, respectivamente) poderia ser explicada pela presença de
+alterações anatômicas, como adesões pélvicas ou peritubárias que perturbariam a
+comunicação entre ovário e tuba uterina e, assim, prejudicariam a liberação, captação ou
+transporte do oócito (Bulletti et al., 2010). Entretanto, há crescentes evidências de que
+lesões sutis ou implantes endometrióticos em estágios iniciais (estágios I e II) também
+poderiam contribuir com a etiopatogênese da infertilidade, apesar da ausência de danos
+anatômicos pélvicos. (Holoch; Lessey, 2010).
+Nesse sentido, acredita-se que a infertilidade apresentada por essas pacientes
+possa
+
+ser
+
+decorrente
+
+de
+
+um
+
+comprometimento
+
+da
+
+qualidade
+
+oocitária
+
+e,
+
+consequentemente, embrionária (Brizek et al., 1995; Pellicer et al., 1995; Kumbak et
+al., 2008; Choi et al., 2015), de defeitos endometriais ou da interação entre o
+endométrio e o embrião (Giudice e Kao, 2004; Endometriosis and infertility, 2006;
+Gupta et al., 2008; Wei et al., 2009; Bulletti et al., 2010; Revel, 2012). Contudo,
+estudos em programas de ovodoação não evidenciaram diferenças na taxa de
+implantação entre mulheres com e sem endometriose que receberam oócitos de
+doadoras saudáveis (Simon et al., 1994; Sung et al., 1997), sugerindo que o fator
+oocitário tenha um papel prioritário na etiopatogênese da infertilidade relacionada à
+doença (Brizek et al., 1995; Pellicer et al., 1995; Garrido et al., 2000).
+
+1.3.
+
+As Células de Cumulus e a Qualidade Oocitária
+
+As células do cumulus (CCs) são originárias das células da granulosa e
+envolvem o gameta feminino no folículo ovariano antral, formando o complexo
+cumulus-oócito (COC) (Huang
+
+et al., 2010;
+
+Russell et al., 2016). O início da
+
+diferenciação das células da granulosa ocorre com a formação do antro folicular, que
+corresponde aproximadamente ao final da fase de crescimento do oócito. Em humanos e
+outros mamíferos, duas linhagens celulares anatômicas e funcionalmente distintas são
+produzidas – as células da granulosa murais, que revestem a parede do folículo com
+papel primariamente esteroidogênico, e as CCs, que circundam o oócito e são
+intimamente relacionadas ao seu desenvolvimento. (Huang et al., 2010) (figura 1).
+
+Figura 1: Representação esquemática do folículo antral (Hennet et al., 2012).
+
+Durante a foliculogênese, as células do cumulus estão em constante
+comunicação com o oócito havendo entre elas a transferência bidirecional de nutrientes
+e sinalização parácrina (Coticchio et al., 2015; Russell et al., 2016). Essa comunicação
+intercelular é essencial para o desenvolvimento do folículo, maturação oocitária e
+aquisição de competência (Dumesic et al., 2015; Kidder et al., 2010; Gilchrist et
+al.,2008). Nos folículos antrais, as CCs contribuem para o metabolismo do oócito. Ao
+mesmo tempo, alguns fatores secretados por oócitos medeiam o metabolismo, a
+maturação e a sobrevivência das CCs (Gilchrist et al.,2008). O diálogo intercelular
+ocorre através de dois mecanismos principais: gap junctions e sinais parácrinos
+
+(Monniaux D., 2016) (figura 2). As gap junctions são canais na membrana celular que
+são formados por conexinas e ligam as CCs com o oócito e as CCs entre si
+(Winterhager E. et al., 2015). Essas gap junctions permitem a transferência de pequenas
+moléculas das CCs para o oócito, como íons, nucleotídeos cíclicos (cAMP, cGMP),
+metabólitos, aminoácidos e transcritos de RNA, todos contribuindo para a meiose,
+produção de ATP e o equilíbrio do pH no oócito (Monniaux D., 2016; Kidder GM et
+al., 2002; FitzHarris G, et al., 2007).
+A sinalização parácrina no sentido das CCs para o oócito auxilia a retomada
+meiótica, permite a maturação nuclear e citoplasmática e controla a atividade
+transcricional (Monniaux D., 2016; Albertini D. F. et al., 2001). A sinalização parácrina
+no sentido do oócito para os CCs regula o crescimento e a atresia do folículo e modula
+o metabolismo, a diferenciação, a proliferação, a apoptose e a luteinização das CCs. Isso
+ocorre por meio de fatores oocitários que atuam nas células somáticas circundantes
+(Pincus G, et al., 1935; Buccione R. et al., 1990).
+
+Figura 2: Comunicação oócito-cumulus. Tanto a comunicação parácrina (seta rosa) como a
+comunicação por gap-junction (seta azul tracejada) são necessárias para o desenvolvimento
+normal dos oócitos e folículos. (Sutton et al., 2003).
+
+As CCs são responsáveis pela produção de energia no COC através do ciclo do
+ácido tricarboxílico (TCA) e fosforilação oxidativa, que são as vias predominantes para
+a geração de ATP (Paczkowski M, et al., 2013). Assim, uma vez que o oócito e as CCs
+dependem um do outro em termos de metabolismo, qualquer alteração metabólica nas
+células foliculares também pode afetar o desenvolvimento do oócito (Sutton M.L., et
+al., 2010).
+
+Visto que desempenham um papel crucial na aquisição da competência oocitária
+e estão intimamente ligadas ao oócito, as CCs tem sido consideradas preditores indiretos
+da qualidade oocitária (Assou et al., 2006; Hamamah et al., 2006; Hamel et al., 2008;
+Haouzi e Hamamah, 2009).
+Estudos recentes têm evidenciado alterações no microambiente folicular de
+mulheres com endometriose, possivelmente envolvidas com o comprometimento da
+qualidade oocitária e danos à fertilidade de suas portadoras. Essas alterações incluem
+marcadores de estresse oxidativo (Prieto et al., 2012; Liu et al., 2013; Singh et al.,
+2013; Choi et al., 2015; Da Broi et al., 2016; Da Broi et al., 2018) e inflamatórios (Du
+et al., 2013; Wu et al., 2017; Zhang et al., 2017) alterados no FF e a expressão alterada
+de genes relacionados com esteroidogênese (Barcelos et al., 2013; Da Luz et al., 2017)
+e resposta antioxidante (Donabela et al., 2015) nas células do cumulus (CCs) de
+mulheres com a doença.
+Nesse sentido, a avaliação de fatores importantes para um adequado
+desenvolvimento e maturação oocitários, crescimento folicular, expansão do cumulus e
+ovulação nessas células é fundamental para um melhor entendimento dos mecanismos
+envolvidos na infertilidade em mulheres com a doença inicial.
+
+1.4.
+
+Quimiocinas
+
+As quimiocinas são citocinas quimiotáticas secretadas por tipos celulares
+específicos que têm a capacidade de induzir quimiotaxia, processo pelo qual as células
+migram direcionalmente contra o gradiente de concentração de um quimioatrativo, em
+células responsivas próximas. Sua principal função é coordenar a resposta imune,
+atuando na maturação e migração de leucócitos, direcionando essas células imunes para
+locais de inflamação (Borrelli et al., 2013).
+Sabe-se que a atividade quimiotática é extremamente importante para os
+processos de foliculogênese e ovulação. As quimiocinas expressas pelas CCs participam
+da expansão do COC e são responsáveis pelo recrutamento de leucócitos no
+microambiente folicular, que estão envolvidos na liberação local de citocinas e na
+
+cascata ovulatória (Machelon e Emilie, 1997; Brännström e Enskog, 2002). Essas
+moléculas também regulam a organização da matriz extracelular do COC e interagem
+com as prostaglandinas locais promovendo uma adequada fertilização (Tamba et al.,
+2008).
+Evidências diferentes apoiam o papel da inflamação e da resposta imune nas
+células da granulosa e do cumulus durante o processo de ovulação (Liu Z. et al, 2008;
+Liu Z. et al., 2009). A ruptura folicular e a ovulação são caracterizadas por processos
+semelhantes à inflamação, como a expressão de metaloproteinases de matriz e a
+produção de citocinas (Richards J. S, et al., 1998; Gerard N., et al., 2004).
+Especificamente, membros do sistema imune inato, como o receptor do tipo Toll, foram
+identificados como expressos ou induzidos na granulosa e CC de ovários de
+camundongos, bovinos e humanos (Liu Z. et al., 2008). A ativação desses receptores
+leva à ativação de diversos genes, incluindo o NFKB e outros fatores de transcrição,
+citocinas (principalmente IL-6) e quimiocinas, que podem contribuir com a expansão do
+COC.
+A função das citocinas no ovário também tem sido descrita como um processo
+que promove o crescimento folicular, a esteroidogênese, o recrutamento e a ativação de
+leucócitos, todos necessários para a ovulação e o remodelamento tecidual durante a
+ovulação (Buscher U. et al., 1999). Mudanças significativas nos níveis de expressão de
+genes-chave, que estão envolvidos na sinalização de quimiocinas, foram observadas e
+reguladas negativamente em CC de mulheres com endometriose em comparação com as
+controle (Allegra A., et al., 2014). Sarapik e colegas relataram que várias citocinas
+(como IL-8) no fluido folicular de mulheres inférteis estão correlacionadas com uma
+gravidez bem-sucedida após tratamentos de fertilização in vitro (FIV) (Sarapik A., et
+al., 2012). A IL-8 neste estudo pareceu ser down-regulada em CC de pacientes com
+endometriose em comparação com os controles.
+A CXCL2 é uma quimiocina angiogênica produzida por macrófagos, células
+endoteliais, epiteliais e tumorais, possui atividade quimiotática potente para neutrófilos;
+portanto, desempenha um papel importante nas respostas inflamatórias e imunes
+mediadas por citocinas (Mehrad B. et al., 2007). Schindler e colegas demonstraram que
+a CXCL2 está presente no transcriptoma ovariano durante a montagem do folículo
+primordial (Schindler R. et al., 2010). A CXCL2 pareceu ser o gene mais down-regulado
+
+neste estudo de pacientes com endometriose, indicando um papel chave para que esta
+quimiocina contribua na remodelação tecidual durante a maturação do oócito.
+Níveis de citocinas no FF e seu efeito na formação de oócitos e embriões foram
+extensivamente investigados, sugerindo que as quimiocinas, resultantes tanto da síntese
+local no ovário como do sangue e plasma, estão presentes no FF e podem modular a
+foliculogênese (Trombly D.J. 2009). No
+
+contexto da endometriose, níveis
+
+intrafoliculares alterados de citocinas pró-inflamatórias foram encontrados em pacientes
+com doença moderada ou grave submetidas à FIV, em comparação com controles (com
+fator infertilidade tubária) e também foram relacionados à maturidade do oócito em
+desenvolvimento: FF de folículos aspirados de pacientes com endometriose mostraram
+concentrações significativamente mais altas de IL-8 e IL-12 em comparação com
+controles, enquanto os níveis de IL-8 e IL-12 foram menores no FF de folículos
+contendo um oócito maduro quando comparados aos folículos contendo oócito imaturo.
+Assim, a inflamação relacionada à endometriose na FF pode contribuir para a
+diminuição da qualidade do oócito ( Singh A. K. et al., 2016).
+
+1.5.
+
+CXCL12 e a Qualidade Oocitária
+
+A CXCL12 ou fator derivado do estroma 1 (SDF1) é uma quimiocina expressa
+em células da granulosa de folículos pré-ovulatórios (Rojo et al., 2018). Evidências
+recentes sugerem um papel direto da CXCL12 na promoção da expansão do complexo
+cumulus-oócito e na maturação oocitária (Hernandez-Gonzalez et al., 2006; Rojo et al.,
+2018). Além disso, também foi evidenciada uma associação dessa molécula com um
+efeito anti-apoptótico linfócito-dependente nas CCs, o que estaria associado à proteção
+dessas células, propiciando uma maior qualidade embrionária (Kryczek et al., 2005).
+Sabe-se que o processo de apoptose das CCs tem impacto na foliculogênese
+ovariana, sendo um sinal precoce de morte folicular e dano oocitário (Tilly, 1996).
+Assim, qualquer alteração que comprometa a expressão dessa quimiocina nas CCs pode
+afetar quimiotaxia, sobrevivência e expansão das CCs e, consequentemente, a aquisição
+de competência oocitária, o processo de ovulação e, potencialmente, a qualidade do
+embrião formado.
+
+No entanto, até o momento, não há estudos avaliando a expressão dessa
+molécula em CCs de mulheres inférteis com a doença.Dessa forma, a avaliação da
+expressão do gene CXCL12 em CCs de pacientes inférteis com endometriose mínima e
+leve torna-se uma importante ferramenta a fim de se elucidar os mecanismos envolvidos
+na redução da fertilidade em pacientes com doença inicial.
+
+2. JUSTIFICATIVA
+
+A endometriose, doença de elevada prevalência populacional, tem sido
+frequentemente associada à infertilidade, havendo forte embasamento na literatura
+acerca da sua relação com a redução da fecundidade em ciclos naturais. Todavia, os
+mecanismos relacionados à redução da fertilidade natural em pacientes inférteis com
+endometriose, especialmente na doença inicial, ainda não são claramente conhecidos.
+Nesse sentido, evidências recentes sugerem que o comprometimento da qualidade
+oocitária possa ser um fator prioritário envolvido na patogênese da infertilidade
+relacionada à doença.
+As células do cumulus (CCs) são importantes marcadores indiretos de qualidade
+oocitária e têm papel crucial no desenvolvimento dos compartimentos foliculares,
+crescimento, maturação e aquisição de competência oocitários, expansão do cumulus e
+ovulação. Assim, a avaliação de fatores cruciais para esses processos nas CCs de
+mulheres com endometriose mínima e leve é fundamental para um melhor entendimento
+dos mecanismos envolvidos na infertilidade em mulheres com a doença inicial.
+A quimiocina CXCL12 tem importante papel na expansão do cumulus,
+maturação oocitária, sobrevivência das CCs, ovulação e sua expressão tem sido
+relacionada a maior qualidade embrionária. No entanto, não há estudos avaliando a
+expressão dessa molécula em CCs de mulheres inférteis com endometriose.
+Assim, a avaliação da expressão do gene CXCL12 nas CCs dessas mulheres
+pode contribuir para o entendimento dos mecanismos envolvidos na etiopatogenia da
+infertilidade associada à doença inicial.
+
+3. OBJETIVO
+
+Comparar a expressão relativa do gene CXCL12 em células do cumulus de
+mulheres inférteis com endometriose inicial (mínima e leve) e com fator tubário e/ou
+masculino de infertilidade submetidas à estimulação ovariana controlada para realização
+de injeção intracitoplasmática de espermatozoides (ICSI).
+
+4. METODOLOGIA
+
+4.1.
+
+Modelo de estudo
+
+Tratou-se de um estudo caso-controle prospectivo, aprovado pelo Comitê de
+Ética em Pesquisa do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto
+(FMRP), Universidade de São Paulo (USP), de acordo com o processo HCRP nº
+15113/2012.
+
+4.2.
+
+Pacientes
+
+Foram incluídas pacientes que preencheram os critérios de inclusão préestabelecidos e consentiram em participar do estudo após a assinatura do termo de
+consentimento livre e esclarecido.
+Para o grupo endometriose, foram selecionadas pacientes com endometriose
+inicial diagnosticada e classificada por videolaparoscopia (segundo critérios da ASRM,
+1997), sem fator masculino ou tubário associado. O grupo controle, por sua vez, foi
+composto por pacientes com infertilidade associada a fator masculino e/ou tubário
+submetidas à videolaparoscopia diagnóstica como procedimento de rotina para
+investigação da infertilidade conjugal, sendo excluída a presença de endometriose.
+Foram consideradas elegíveis as pacientes com idade menor que 40 anos, FSH do
+terceiro dia do ciclo menstrual ≤ 10 mUI/mL, índice de massa corporal (IMC) menor ou
+igual 30 kg/m2, ausência de doenças como diabetes mellitus ou quaisquer outras
+endocrinopatias, doença cardiovascular, dislipidemia, lúpus eritematoso sistêmico e
+outras doenças reumatológicas, ausência de infecção pelo vírus HIV ou qualquer
+infecção ativa, ausência de tabagismo ou o uso de medicações hormonais e
+antiinflamatórios hormonais e não-hormonais nos últimos seis meses, previamente à
+programação para o procedimento de reprodução assistida.
+O estudo foi realizado junto ao Laboratório de Ginecologia - Setor de
+Reprodução Humana do Departamento de Ginecologia e Obstetrícia – FMRP-USP e
+Laboratório Multiusuário – FMRP-USP.
+
+4.3.
+
+Protocolo de Estimulação Ovariana e Suplementação de Fase Lútea
+
+Com o objetivo de sincronizar e programar o início do ciclo de estimulação
+ovariana controlada foi utilizada a programação da menstruação, que consiste em se
+
+administrar anticoncepcionais orais combinados diariamente, iniciados no período
+menstrual do ciclo precedente até cinco dias antes do previsto para o início da
+estimulação ovariana.
+A hiperestimulação ovariana controlada foi iniciada cinco dias após a interrupção
+dos contraceptivos orais combinados usados para a programação do ciclo. Todas as
+mulheres foram monitorizadas apenas por ultrassonografia transvaginal (UStv) (Martins
+et al., 2014), submetidas ao protocolo flexível com antagonista do GnRH e a estimulação
+ovariana controlada realizada de acordo com um dos dois protocolos descritos a seguir:
+- Protocolo flexível com antagonista e alfacorifolitropina (Elonva®, ScheringPlough, Brasil). Cinco dias após a interrupção do contraceptivo oral combinado foi
+administrada a alfacorifolitropina na dose de 100 mcg para pacientes com até 60kg e 150
+mcg para pacientes com mais de 60kg. Seis dias após a administração da
+alfacorifolitropina foi realizado o primeiro UStv para monitorização do ciclo. O bloqueio
+hipofisário foi realizado com antagonista do GnRH (Cetrotid® ou Orgalutran®), iniciado
+quando havia um folículo com diâmetro médio maior ou igual a 14 mm e mantido até o
+dia da administração da gonadotrofina coriônica humana (hCG) (Ovidrel®, Serono,
+Brasil). No oitavo dia após a administração da alfacorifolitropina, as pacientes que não
+apresentaram critério para uso do hCG recombinante, iniciaram o uso diário de
+gonadotrofinas (150-300 IU/dia), usadas até a véspera do dia de uso do hCG.
+- Protocolo flexível com antagonista e FSH recombinante (FSHr) (Gonal-F®,
+Serono, Brasil; Puregon®, Organon, Brasil).
+
+Cinco dias após a interrupção do
+
+contraceptivo oral combinado foi administrado FSHr, 150 a 300 UI por dia, durante os
+seis primeiros dias da EOC. A partir do sétimo dia EOC, a dose foi ajustada de acordo
+com o crescimento folicular, monitorado com USTV diariamente ou em dias alternados e
+mantida até a véspera do dia de uso do hCG. O bloqueio hipofisário foi realizado com
+antagonista do GnRH (Cetrotid® ou Orgalutran®), iniciado quando havia um folículo
+com diâmetro médio maior ou igual a 14 mm e mantido até o dia da administração da
+gonadotrofina coriônica humana (hCG) (Ovidrel®, Serono, Brasil).
+Quando pelo menos dois folículos atingiram 17 mm de diâmetro médio, foi
+administrado 250 µg de hCG recombinante às 22:00. A captação dos oócitos foi realizada
+34 a 36h após a administração do hCG recombinante.
+
+A suplementação da fase lútea foi realizada com progesterona natural micronizada
+(Utrogestan®, Besins Healthcare, Brasil) por via vaginal na dose de 200mg, três vezes ao
+dia, a partir do dia da captação oocitária e mantida até a décima segunda semana da
+gestação, nas pacientes que engravidaram.
+
+4.4.
+
+Coleta e armazenamento das amostras
+
+A captação dos oócitos foi realizada mediante prévia anestesia geral endovenosa
+com propofol (Diprivan®, Astra-Zeneca, Brasil) associado a citrato de fentanil
+(Fentanil®, Janssen-Cilag, Brasil). A aspiração dos folículos por via endovaginal guiada
+por transdutor ultrassonográfico transvaginal, foi realizada utilizando-se uma agulha de
+lúmen simples padrão, com 300 mm de comprimento, 1,1 mm de diâmetro interno,
+duplo bizel cortante, ranhurado nos dois centímetros terminais para uma maior
+ecogenicidade (Laboratório CCD, França), com pressão aspirativa artificial constante de
+100 mmHg, por meio de bomba de sucção com controle eletrônico (Craft® Suction
+Pump, Rocket Medical, Inglaterra). Os folículos foram aspirados em pool, ou seja, foi
+realizada a aspiração do maior número possível de folículos em cada punção,
+observando-se o esvaziamento completo de cada folículo e puncionando-se o ovário o
+menor número de vezes possível. A punção foi realizada sob aspiração contínua,
+tomando-se o cuidado de tirar a pressão durante a entrada e retirada da agulha na parede
+vaginal, para evitar aspiração de células vaginais.
+Para a identificação e o isolamento dos complexos oócito-cumulus, o material
+aspirado foi transferido para placas de Petri com 10 cm de diâmetro, previamente
+aquecidas em platina térmica a 37°C, não contendo meio de cultivo. Depois de
+identificados, os complexos oócito cumulus (OC) foram isolados do fluido folicular (FF)
+e colocados em placa separada.
+Imediatamente após a identificação dos COC, os mesmos foram lavados
+cuidadosamente em meio de cultura Human Tubal Fluid-HEPES (HTF, Irvine Scientific),
+para a remoção de sangue e debris. As CC foram separadas do oócito através de
+microdissecção com a utilização de duas agulhas de insulina, colocadas em criotubo com
+RNAlaterR Solution (Ambion) e, após 24 horas à 4C de imersão nesta solução, as
+amostras foram armazenadas em nitrogênio líquido até a sua utilização como descrito a
+
+seguir. As CC de todos os COC obtidos de cada paciente foram armazenadas no mesmo
+criotubo.
+
+4.5.
+
+Extração do RNA total e síntese do cDNA
+
+O RNA total foi extraído de células do cumulus usando o AllPrep
+DNA/RNA/miRNA Kit (Qiagen), seguindo as instruções do fabricante. Em seguida, foi
+realizada a quantificação por fluorimetria do RNA total no equipamento Qubit®
+Fluorometer utilizando o Qubit® RNA HS Assay Kit (Life thecnology/ThermoFisher
+Scientific, USA).
+Um micrograma de RNA total de cada amostra foi transcrito reversamente
+usando o High Capacity cDNA Archive Kit (Applied Biosystems, Warrington, UK)
+segundo as instruções do fabricante e cDNA das amostras está armazenado para análises
+subsequentes.
+
+4.6.
+
+Expressão dos genes por PCR quantitativa em tempo real (RT-qPCR)
+As amostras de RNA foram analisadas para a quantificação relativa da expressão
+
+dos genes selecionados no aparelho ABI PRISMTM 7500 FAST Sequence Detection
+Systems (Applied Biosystems, Warrington, UK). Um pool de cDNA das amostras
+controles foi utilizado como calibrador da reação. As reações foram executadas
+utilizando o sistema TaqMan® Gene Expression Assays (TaqMan® MGB probes,
+FAM™ dye-labeled) da Applied Biosystems.
+As sondas e os primers para o gene CXCL12 (Hs00601975_m1), ACTB
+(Hs01060665_g1) e B2M (Hs00187842_m1) foram obtidas usando Assay-on-Demand™
+Gene Expression Products (Applied Biosystems, Warrington, UK).
+A RT-qPCR foi realizada para cada amostra em duplicata seguindo o protocolo
+do fabricante (Applied Biosystems, Warrington, UK).
+O nível de expressão (RQ) para os genes analisados foi calculado para cada
+amostra de acordo com o método de 2-ΔΔCT (ou 2-Ct), descrito previamente no Applied
+Biosystems User Bulletin  2 (PN 4303859) (Applied Biosystems, Warrington, UK) e
+citado na literatura (Livak e Schmittgen, 2001). O ACTB e B2M (controles endógenos) e
+o calibrador serão usados como normalizadores para os cálculos do 2-ΔΔCT.
+
+4.7.
+
+Tamanho do estudo
+
+Por tratar-se de um estudo inédito sem dados prévios passíveis de estimar
+médias e desvios-padrão e considerando os restritivos critérios de elegibilidade, a
+dificuldade esperada em obter amostras satisfatórias, propusemos um tamanho amostral
+que permite identificar ou descartar uma grande diferença entre os grupos (Cohen,
+1988). Foram coletadas amostras de todas as pacientes elegíveis que aceitaram
+participar do estudo de fevereiro de 2013 a fevereiro de 2016, totalizando 20 mulheres
+inférteis com endometriose I/II e 16 controles inférteis.
+
+4.8.
+
+Análise dos dados
+
+Foi realizada uma análise exploratória de dados através de medidas de posição
+central e de dispersão e gráficos de box-plot. Para a comparação das características
+clínicas [idade, número de oócitos captados, índice de massa corporal (IMC) e tempo de
+infertilidade] e de expressão do gene CXCL12 entre os grupos endometriose I/II e
+controle infértil, foi utilizado o teste de Mann-Whitney.
+As análises foram realizadas utilizando-se o programa SAS® 9.3.
+O nível de significância adotado foi de 5%.
+
+5. RESULTADOS
+5.1.
+
+Fluxograma
+
+No período de agosto de 2014 a fevereiro de 2016 foram analisados 1688
+prontuários de mulheres admitidas por infertilidade conjugal no Serviço de Reprodução
+Assistida do Laboratório de Ginecologia e Obstetrícia do Hospital das Clínicas da
+Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, sendo que 1227
+referiam-se a casais que seriam submetidos a injeção intracitoplasmática de
+espermatozoides (ICSI). Desses, 159 pertenciam a pacientes que preenchiam os critérios
+de elegibilidade. Das 159 mulheres elegíveis, 108 iniciaram o ciclo de estimulação
+ovariana e foram convidadas a participar da pesquisa, sendo que 9 mulheres não
+aceitaram participar do estudo e 99 assinaram o termo de consentimento livre e
+esclarecido (TCLE). Destas, 32 foram excluídas (14 tiveram o ciclo cancelado por
+apresentarem má resposta ovariana, 1 suspendeu o tratamento por questões financeiras,
+8 não possuíam amostras de células do cumulus disponíveis para a pesquisa e 9 não
+tiveram oócitos captados no ciclo de estimulação ovariana). Assim, foram coletadas
+amostras de 67 pacientes. Destas, 16 foram utilizadas em testes de extração de RNA. As
+demais 51 amostras de CCs tiveram RNA total extraído para o estudo. Quinze RNAs
+não foram considerados adequados, de modo que apenas 36 amostras (16 do grupo
+controle e 20 do grupo endometriose I/II) foram utilizadas nos experimentos. O
+fluxograma do estudo está representado na figura 3.
+
+Figura 3: fluxograma do estudo com o número de pacientes elegíveis, incluídas, excluídas e
+amostras coletadas e analisadas divididas em controle e endometriose. *Dentre as excluídas, 14
+tiveram o ciclo cancelado por apresentarem má resposta ovariana, 1 suspendeu o tratamento por
+questões financeiras, 8 não possuíam amostras de células do cumulus disponíveis para a
+pesquisa e 9 não tiveram oócitos captados no ciclo de estimulação ovariana
+
+5.2.
+
+Caracterização dos grupos
+
+Não houve diferença significativa para as variáveis idade, IMC e tempo de
+infertilidade entre os grupos controle e endometriose I/II (tabela 1).
+O número de oócitos captados foi menor no grupo endometriose I/II comparado ao
+controle (tabela 1).
+
+Tabela 1 – Idade, IMC, tempo de infertilidade e número de oócitos captados em
+pacientes controle e com endometriose I/II
+
+Variável
+
+Controle
+
+Endometriose I/II
+
+Valor de p
+
+Idade (anos)
+
+34,5 (32,5; 37,5)
+
+36 (34; 38)
+
+0.37
+
+IMC (kg/m²)
+
+24,75 (22,48; 28,61)
+
+24,63 (22,59; 27,72)
+
+0.65
+
+Tempo de infertilidade
+(meses)
+
+81 (40,5; 108)
+
+45 (19; 96)
+
+0.23
+
+Número de oócitos
+captados
+
+9,5 (5,5; 12)
+
+4,5 (3; 8,5)
+
+0.04
+
+Nota: Os dados são expressos como mediana (intervalo interquartil). Teste de Mann Whitney.
+Nível de significância: 5%. IMC: índice de massa corporal.
+
+5.3.
+
+Expressão do gene CXCL12
+
+De acordo com os resultados da RT-qPCR, o gene CXCL12 apresentou expressão
+detectável em todas as amostras avaliadas. Apesar de ter se observado valores de
+expressão de CXCL12 maiores no grupo endometriose I/II (mediana: 0,60; intervalo
+interquartil: 0,20 ; 2,14) quando comparado ao controle (mediana: 0,29; intervalo
+interquartil 0,21 ; 0,70), não se verificou diferença significativa (p= 0,186) (figura 3).
+No entanto, o poder do teste foi de 63%.
+
+Figura 4 – Expressão do gene CXCL12 em células do cumulus de mulheres inférteis por fator
+tubário e/ou masculino (Controle. Mediana: 0,29. Intervalo interquartil: 0,21; 0,70) e mulheres
+inférteis com endometriose inicial (End I/II. Mediana: 0,60. Intervalo interquartil: 0,20; 2,14);
+p=0,186.
+
+6. DISCUSSÃO
+
+Apesar da forte associação entre endometriose e infertilidade, os mecanismos
+envolvidos na sua etiopatogênese, principalmente nos casos de doença mínima e leve,
+ainda não foram completamente esclarecidos (Holoch e Lessey, 2010). Nesse sentido,
+questiona-se um impacto deletério da endometriose sobre a qualidade oocitária de suas
+portadoras (Brizek et al., 1995; Saito et al., 2002; Allegra et al., 2014; Donabela et al.,
+2015). A quimiocina CXCL12 está envolvida em processos foliculares importantes para
+a aquisição de competência oocitária, no entanto, nenhum estudo avaliou sua expressão
+no microambiente folicular de mulheres inférteis com endometriose. A fim de investigar
+o papel desta quimiocina no comprometimento da fertilidade de mulheres com a
+doença, este estudo comparou a expressão do gene CXCL12, que codifica a respectiva
+quimiocina, em CCs de mulheres inférteis com endometriose e controles inférteis
+submetidas à estimulação ovariana controlada para realização de ICSI.
+Evidências recentes sugerem um papel da CXCL12 na promoção da expansão do
+complexo cumulus-oócito e na maturação oocitária (Hernandez-Gonzalez et al., 2006;
+Rojo et al., 2018). Estudos demonstraram um efeito direto da quimiocina CXCL12
+dentro do COC, aumentando a expressão dos principais genes ovulatórios HAS2 e
+TNFAIP6, através do seu principal receptor CXCR4. Juntos, esses dados sugerem que a
+ação da quimiocina no ovário se estende além de seu papel como quimiotático,
+incluindo um possível efeito da via CXCL12-CXCR4 na promoção de maturação
+oocitária. (Rojo et al., 2018). Além disso, Zhang et al. demonstraram que a quimiocina
+CXCL12 e seu receptor CXCR4 estão expressos em oócitos e células somáticas
+ovarianas nas fases de folículo primordial, primário e secundário e que o sinal CXCL12CXCR4 também desempenha um papel direto na maturação de oócitos: o aumento
+transitório de CXCR4 nas células da granulosa está associado a quebra da vesícula
+germinativa enquanto que a inibição da função do CXCR4 diminui a maturação do
+oócito e a suplementação de CXCL12 aumenta a maturação oocitária. Além disso, a
+sinalização CXCL12-CXCR4 promove a expansão das células do cumulus e a síntese de
+matriz extracelular em modelos ovinos. (Zhang et al., 2018). Em estudo de Kryczek et
+al foi demonstrado que mais de 80% dos linfócitos T de fluido folicular expressam o
+CXCR4 e migram em resposta ao CXCL12 expresso pelas células da granulosa.
+Também demonstraram que o CXCL12 medeia um potente efeito anti-apoptótico nas
+células da granulosa primárias. Foram identificadas duas características para este efeito
+
+anti-apoptótico. Primeiro, o CXCL12 reduz a apoptose precoce das células da granulosa,
+mas não a apoptose tardia. Segundo, a atividade anti-apoptótica mediada por CXCL12
+depende totalmente da presença de linfócitos. A remoção de linfócitos induz perda
+completa do efeito anti-apoptótico de CXCL12. Portanto, o CXCL12 funciona como
+uma ponte que liga a função das células da granulosa e as células do sistema
+imunológico. Assim, qualidade do embrião está positivamente associada à atividade
+anti-apoptótica mediada por CXCL12. A presença de linfócitos e CXCL12 local pode
+contribuir para manter a alta qualidade embrionária por reduzir a apoptose espontânea
+de células da granulosa (Kryczek et al., 2005). Assim, qualquer alteração que
+comprometa a expressão dessa quimiocina nas CCs poderia afetar a quimiotaxia,
+sobrevivência e expansão das CCs e, consequentemente, a aquisição de competência
+oocitária, o processo de ovulação e, potencialmente, a qualidade do embrião formado.
+Contudo, os resultados do presente estudo não evidenciaram diferença na
+expressão do gene CXCL12 em CCs de mulheres inférteis com a doença, sugerindo,
+inicialmente, que esta quimiocina não esteja alterada no microambiente folicular dessas
+pacientes. Entretanto, apesar da ausência de diferença estatística, maiores valores de
+expressão desse gene foram observados nas mulheres com a doença, as quais também
+obtiveram um número de oócitos captados significativamente menor. Como o poder do
+estudo foi baixo, não é possível afirmar, de fato, que não existem diferenças na
+expressão do CXCL12, de modo que apenas a ampliação da casuística pode elucidar
+essa questão. Assim, estudos com maior tamanho amostral são necessários para
+confirmar ou modificar os presentes achados, os quais auxiliarão na definição do
+tamanho amostral e, se confirmados, poderão sugerir um microambiente folicular
+alterado, com recrutamento exacerbado de linfócitos e possível dano aos processos de
+ovulação, expansão de CCs e aquisição de competência oocitária.
+A literatura relata o envolvimento de outras quimiocinas na infertilidade
+feminina associada à endometriose. Estudos avaliando as quimiocinas CCL2 (Tao et al.,
+2011; Xu et al., 2006) e CCL5 (Xu et al., 2006) em fluido peritoneal e/ou folicular de
+mulheres inférteis com a doença encontraram variação nos níveis de ambas, sugerindo a
+alteração de diferentes moléculas quimiotáticas importantes para a aquisição de
+competência oocitária. Jørgensen et al identificaram 13 citocinas que discriminam a
+presença ou ausência de endometriose em pacientes inférteis, entre elas, as quimiocinas
+IL-8, MCP-1, MCP-3 e CTACK (Jørgensen H. et al., 2017). Singh et al demonstraram
+
+que o FF de folículos aspirados de pacientes com endometriose mostraram
+concentrações significativamente mais altas de IL-8 e IL-12 em comparação com
+controles, sugerindo que a inflamação no FF relacionada à endometriose pode contribuir
+para a diminuição da qualidade do oócito ( Singh A. K. et al., 2016).
+Assim, sugere-se a análise concomitante da CXCL12 e de outras quimiocinas e
+citocinas envolvidas nos processos de foliculogênese e ovulação em casuística
+aumentada de CCs de mulheres inférteis com endometriose, o que poderia trazer dados
+mais consistentes para o entendimento do comprometimento da qualidade oocitária
+nessas pacientes.
+A principal limitação deste estudo foi a pequena casuística avaliada em
+decorrência dos critérios de elegibilidade restritivos adotados, limitando a generalização
+dos resultados aqui obtidos. Por outro lado, os critérios de elegibilidade rigorosos, que
+eliminaram
+
+fatores
+
+potencialmente
+
+relacionados
+
+com
+
+comprometimento
+
+da
+
+receptividade endometrial, foram necessários para aumentar a validade interna do
+estudo.
+
+7. CONCLUSÃO
+Os achados do presente estudo não evidenciaram diferenças significativas na
+expressão do gene CXCL12 em células do cumulus de mulheres inférteis com
+endometriose inicial (mínima e leve). No entanto, estudos com maior casuística e que
+avaliem concomitantemente outras quimiocinas são necessários para confirmar ou
+modificar os presentes achados, os quais auxiliarão na definição do tamanho amostral.
+
+8. REFERÊNCIAS
+
+ALLEGRA A. et al. The gene expression profile of cumulus cells reveals altered pathways in
+patients with endometriosis. J Assist Reprod Genet. v. 31, p. 1277–1285. 2014
+
+ASRM, T. P. C. O. T. Endometriosis and infertility: a committee opinion. Fertil Steril, v. 98, n.
+3, p. 591-8, Sep 2012. ISSN 1556-5653 (Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/22704630 >.
+
+ALBERTINI, D. F. et al. Cellular basis for paracrine regulation of ovarian follicle development.
+Reproduction.v. 121, n. 5, p. 647–53. 2001.
+ASRM. Revised American Society for Reproductive Medicine classification of endometriosis:
+1996. Fertil Steril, v. 67, n.5, p 817-821, May 1997.
+ASSOU, S. et al. The human cumulus-oocyte complex gene-expression profile. Hum Reprod,
+v. 21, p. 15, 2006.
+BARCELOS, I., D. et al. Mulheres inférteis com endometriose pélvica mínima e leve
+submetidas à estimulação ovariana apresentam menor expressão do gene CYP19A1 em células
+do
+cumulus.
+Reprod
+Clim,
+2013.
+Disponível
+em:
+<
+http://dx.doi.org/10.1016/j.recli.2013.08.001 >.
+BRIZEK, C. L. et al. Increased incidence of aberrant morphological phenotypes in human
+embryogenesis--an association with endometriosis. J Assist Reprod Genet, v. 12, n. 2, p. 10612, Feb 1995. ISSN 1058-0468 (Print)
+1058-0468.
+BRÄNNSTRÖM, M.; ENSKOG, A. Leukocyte networks and ovulation. J Reprod Immunol,
+v. 57, n. 1-2, p. 47-60, 2002 Oct-Nov 2002. ISSN 0165-0378. Disponível em: <
+https://www.ncbi.nlm.nih.gov/pubmed/12385833 >.
+BORRELLI, G. M., et al. Chemokines in the pathogenesis of endometriosis and infertility.
+Journal of Reproductive Immunology, v. 98, n. 1. p. 1–9, Mar 2013.
+BUSCHER U, et al. Cytokines in the follicular fluid of stimulated and non-stimulated human
+ovaries; is ovulation a suppressed inflammatory reaction? Hum Reprod. v. 14, p. 162–6. 1999.
+BULLETTI, C. et al. Endometriosis and infertility. J Assist Reprod Genet, v. 27, n. 8, p. 4417, Aug 2010. ISSN 1573-7330 (Electronic)
+1058-0468 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/20574791 >.
+
+BURNEY, R. O.; GIUDICE, L. C. Pathogenesis and pathophysiology of endometriosis. Fertil
+Steril, v. 98, n. 3, p. 511-9, Sep 2012. ISSN 1556-5653 (Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/22819144 >.
+BUCCIONE R, et al. FSH-induced expansion of the mouse cumulus oophorus in vitro is
+dependent upon a specific factor(s) secreted by the oocyte. Dev Biol.; v. 138, n. 1, p. 16–25.
+1990.
+CHOI, Y. S. et al. Alteration in the intrafollicular thiol-redox system in infertile women with
+endometriosis. Reproduction, v. 149, n. 2, p. 155-62, Feb 2015. ISSN 1741-7899. Disponível
+em: < https://www.ncbi.nlm.nih.gov/pubmed/25376627 >.
+COHEN, J. Statistical Power Analysis for the Behavioral Sciences.
+Lawrence Erlbaum Associates, Hillsdale, 1988.
+
+New York, NW:
+
+COTICCHIO, G, et al. Oocyte maturation: gametesomatic cells interactions, meiotic
+resumption, cytoskeletal dynamics and cytoplasmic reorganization. Hum Reprod Update. v.
+21, n. 4, p. 427–54. 2015
+DA BROI, M. G. et al. Increased concentration of 8-hydroxy-2 '-deoxyguanosine in follicular
+fluid of infertile women with endometriosis. Cell and Tissue Research, v. 366, n. 1, p. 231242, OCT 2016 2016. ISSN 0302-766X;1432-0878.
+DA BROI, M. G. et al. Oocyte oxidative DNA damage may be involved in minimal/mild
+endometriosis-related infertility. Mol Reprod Dev, v. 85, n. 2, p. 128-136, 02 2018. ISSN 10982795. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/29247565 >.
+DA LUZ, C. M. et al. PTGS2 down-regulation in cumulus cells of infertile women with
+endometriosis. Reproductive Biomedicine Online, v. 35, n. 4, p. 379-386, OCT 2017 2017.
+ISSN 1472-6483;1472-6491.
+DONABELA, F. C. et al. Higher SOD1 Gene Expression in Cumulus Cells From Infertile
+Women With Moderate and Severe Endometriosis. Reprod Sci, v. 22, n. 11, p. 1452-60, Nov
+2015. ISSN 1933-7191.
+DU, Y. B. et al. Endocrine and inflammatory factors and endometriosis-associated infertility in
+assisted reproduction techniques. Arch Gynecol Obstet, v. 287, n. 1, p. 123-30, Jan 2013. ISSN
+1432-0711. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/23053311 >.
+DUMESIC, D. A. et al. Oocyte environment: follicular fluid and cumulus cells are critical for
+oocyte health. Fertil Steril, v. 103, n. 2, p. 303-16, Feb 2015. ISSN 1556-5653 (Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/25497448 >.
+Endometriosis and infertility. Fertil Steril, v. 86, n. 5 Suppl 1, p. S156-60, Nov 2006. ISSN
+1556-5653 (Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/17055813 >.
+
+FITZHARRIS G., et al. Granulosa cells regulate oocyteintracellular pH against acidosis in
+preantral follicles by multiple mechanisms. Development. v. 134, n. 23, p. 4283–95. 2007
+GARRIDO, N. et al. Follicular hormonal environment and embryo quality in women with
+endometriosis. Hum Reprod Update, v. 6, n. 1, p. 67-74, Jan-Feb 2000. ISSN 1355-4786
+(Print)
+1355-4786 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/10711831 >.
+GILCHRIST, R. B.; LANE, M.; THOMPSON, J. G. Oocyte-secreted factors: regulators of
+cumulus cell function and oocyte quality. Hum Reprod Update, v. 14, n. 2, p. 159-77, 2008
+Mar-Apr
+2008.
+ISSN
+1460-2369.
+Disponível
+em:
+<
+https://www.ncbi.nlm.nih.gov/pubmed/18175787 >.
+GERARD N., et al. The interleukin-1 system and female reproduction. J Endocrinol. v. 180, p.
+203–12. 2004
+GIUDICE, L. C.; KAO, L. C. Endometriosis. Lancet, v. 364, n. 9447, p. 1789-99, Nov 13-19
+2004. ISSN 1474-547X (Electronic)
+0140-6736 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/15541453 >.
+GUPTA, S. et al. Role of oxidative stress in endometriosis. Reprod Biomed Online, v. 13, n.
+1, p. 126-34, Jul 2006. ISSN 1472-6483 (Print)
+1472-6483 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/16820124 >.
+GUPTA, S. et al. Pathogenic mechanisms in endometriosis-associated infertility. Fertil Steril,
+v. 90, n. 2, p. 247-57, Aug 2008. ISSN 1556-5653 (Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/18672121 >.
+GMYREK, G.B. et al. Evaluation of monocyte chemotactic protein-1 levels in peripheral blood
+of infertile women with endometriosis. Eur. J. Obstet. Gynecol. Reprod. Biol. v. 122, n.2, p.
+199–205. 2005.
+HAMAMAH, S. et al. Comparative protein expression profiling in human cumulus cells in
+relation to oocyte fertilization and ovarian stimulation protocol. Reprod Biomed Online, v. 13,
+n. 6, p. 807-14, Dec 2006. ISSN 1472-6483 (Print)
+1472-6483 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/17169200 >.
+HAMEL, M. et al. Identification of differentially expressed markers in human follicular cells
+associated with competent oocytes. Hum Reprod, v. 23, n. 5, p. 1118-27, May 2008. ISSN
+1460-2350 (Electronic)
+0268-1161 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/18310048 >.
+HAOUZI, D.; HAMAMAH, S. Pertinence of apoptosis markers for the improvement of in vitro
+fertilization (IVF). Curr Med Chem, v. 16, n. 15, p. 1905-16, 2009. ISSN 0929-8673 (Print)
+
+0929-8673 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/19442154 >.
+HERNANDEZ-GONZALEZ, I. et al. Gene expression profiles of cumulus cell oocyte
+complexes during ovulation reveal cumulus cells express neuronal and immune-related genes:
+does this expand their role in the ovulation process? Mol Endocrinol, v. 20, n. 6, p. 1300-21,
+Jun 2006. ISSN 0888-8809. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/16455817
+>.
+HOLOCH, K. J.; LESSEY, B. A. Endometriosis and infertility. Clin Obstet Gynecol, v. 53, n.
+2, p. 429-38, Jun 2010. ISSN 1532-5520 (Electronic)
+0009-9201 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/20436320 >.
+HUGHES, E. G.; FEDORKOW, D. M.; COLLINS, J. A. A quantitative overview of controlled
+trials in endometriosis-associated infertility. Fertil Steril, v. 59, n. 5, p. 963-70, May 1993.
+ISSN 0015-0282 (Print)
+0015-0282
+(Linking).
+Disponível
+em:
+<
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&lis
+t_uids=8486196 >.
+JØRGENSEN, H., et al. Peritoneal fluid cytokines related to endometriosis in patients evaluated
+for infertility. Fertility and Sterility, v.107, n. 5, p. 1191–1199. 2017
+KIDDER, G. M.; VANDERHYDEN, B. C. Bidirectional communication between oocytes and
+follicle cells: ensuring oocyte developmental competence. Can J Physiol Pharmacol, v. 88, n.
+4, p. 399-413, Apr 2010. ISSN 1205-7541 (Electronic)
+0008-4212 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/20555408 >.
+KIDDER GM, MHAWI AA. Gap junctions and ovarian folliculogenesis. Reproduction. v. 123
+n. 5, p. 613–20. 2002
+KRYCZEK, I. et al. The chemokine SDF-1/CXCL12 contributes to T lymphocyte recruitment
+in human pre-ovulatory follicles and coordinates with lymphocytes to increase granulosa cell
+survival and embryo quality. Am J Reprod Immunol, v. 54, n. 5, p. 270-83, Nov 2005. ISSN
+1046-7408. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/16212649 >.
+KUMBAK, B. et al. In vitro fertilization in normoresponder patients with endometriomas:
+comparison with basal simple ovarian cysts. Gynecol Obstet Invest, v. 65, n. 3, p. 212-6,
+2008. ISSN 1423-002X (Electronic)
+0378-7346 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/18073487 >.
+LIU, F. et al. The expression and role of oxidative stress markers in the serum and follicular
+fluid of patients with endometriosis. Clin Exp Obstet Gynecol, v. 40, n. 3, p. 372-6, 2013.
+ISSN 0390-6663. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/24283168 >.
+LIU Z. et al. Interleukin-6: an autocrine regulator of the mouse cumulus cell-oocyte complex
+expansion process. Endocrinology. v. 150, p. 3360–8. 2009.
+
+LIU Z. et al. The involvement of the Toll-like receptor family in ovulation. J Assist Reprod
+Genet. v. 25, p. 223–8. 2008.
+LIVAK, K. J.; SCHMITTGEN, T. D. Analysis of relative gene expression data using real-time
+quantitative PCR and the 2(-Delta Delta C(T)) Method. Methods, v. 25, n. 4, p. 402-8, Dec
+2001. ISSN 1046-2023 (Print)
+1046-2023 (Linking). Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/11846609 >.
+MACHELON, V.; EMILIE, D. Production of ovarian cytokines and their role in ovulation in
+the mammalian ovary. Eur Cytokine Netw, v. 8, n. 2, p. 137-43, Jun 1997. ISSN 1148-5493.
+Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/9262962 >.
+MARTINS, W. P. et al. Ultrasound for monitoring controlled ovarian stimulation: a systematic
+review and meta-analysis of randomized controlled trials. Ultrasound Obstet Gynecol, v. 43,
+n. 1, p. 25-33, Jan 2014. ISSN 1469-0705 (Electronic)
+0960-7692 (Linking). Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/23873633 >.
+MEHRAD B, et al. Chemokines as mediators of angiogenesis. Thromb Haemost. v. 97, p.
+755–62. 2007
+MONNIAUX D. Driving folliculogenesis by the oocyte-somatic cell dialog: lessons from
+genetic models. Theriogenology. ; v. 86, n. 1, p. 41–53. 2016.
+PACZKOWSKI M., et al. Comparative importance of fatty acid beta-oxidation to nuclear
+maturation, gene expression, and glucose metabolism in mouse, bovine, and porcine cumulus
+oocyte complexes. Biol Reprod; v. 88, n. 5, p. 111. 2013
+PELLICER, A. et al. Exploring the mechanism(s) of endometriosis-related infertility: an
+analysis of embryo development and implantation in assisted reproduction. Hum Reprod, v. 10
+Suppl 2, p. 91-7, Dec 1995. ISSN 0268-1161 (Print)
+0268-1161 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/8745306 >.
+PINCUS G, ENZMANN E. V. The comparative behavior of mammalian eggs in vivo and in
+vitro : I. The activation of ovarian eggs. J Exp Med. v. 62, n. 5, p. 665–75. 1935.
+PRIETO, L. et al. Analysis of follicular fluid and serum markers of oxidative stress in women
+with infertility related to endometriosis. Fertil Steril, v. 98, n. 1, p. 126-30, Jul 2012. ISSN
+1556-5653. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/22578534 >.
+REVEL, A. Defective endometrial receptivity. Fertil Steril, v. 97, n. 5, p. 1028-32, May 2012.
+ISSN 1556-5653 (Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/22542142 >.
+RICHARDS J. S., et al., Molecular mechanisms of ovulation and luteinization. Mol Cell
+Endocrinol. v. 145, p. 47–54. 1998.
+ROJO, J. L. et al. Stromal-derived factor 1 directly promotes genes expressed within the
+ovulatory cascade in feline cumulus oocyte complexes. J Assist Reprod Genet, Mar 2018.
+ISSN 1573-7330. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/29516335 >.
+
+RUSSELL, D. L. et al. Bidirectional communication between cumulus cells and the oocyte:
+Old hands and new players? Theriogenology, v. 86, n. 1, p. 62-8, Jul 1 2016. ISSN 0093-691x.
+
+ROCK, J. ; MARKHAM, S. Pathogenesis of endometriosis. The Lancet, v. 340, n. 1, p. 1264.
+ISSN 1264-7.
+SAMPSON, J. A. Metastatic or Embolic Endometriosis, due to the Menstrual Dissemination of
+Endometrial Tissue into the Venous Circulation. Am J Pathol, v. 3, n. 2, p. 93-110 43, Mar
+1927. ISSN 0002-9440 (Print)
+0002-9440 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/19969738 >.
+SARAPIK A, et al. Follicular proinflammatory cytokines and chemokines as markers of IVF
+success. Clin Dev Immunol. 2012.
+SCHINDLER R, et al. Induction of ovarian primordial follicle assembly by connective tissue
+growth factor CTGF. PLoS One. 2010
+SIGNORILE, P. G.; BALDI, A. Endometriosis: new concepts in the pathogenesis. Int J
+Biochem Cell Biol, v. 42, n. 6, p. 778-80, Jun 2010. ISSN 1878-5875 (Electronic)
+1357-2725 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/20230903 >.
+SIMON, C. et al. Outcome of patients with endometriosis in assisted reproduction: results from
+in-vitro fertilization and oocyte donation. Hum Reprod, v. 9, n. 4, p. 725-9, Apr 1994. ISSN
+0268-1161 (Print)
+SIMON AM, et al. Female infertility in mice lacking connexin 37. Nature. v. 385, n. 6616, p.
+525–9. 1997
+SINGH, A. K. et al. Markers of oxidative stress in follicular fluid of women with endometriosis
+and tubal infertility undergoing IVF. Reprod Toxicol, v. 42, p. 116-24, Dec 2013. ISSN 18731708. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/23994512 >.
+SINGH A. K. et al. Intrafollicular interleukin-8, interleukin-12, and adrenomedullin are the
+promising prognostic markers of oocyte and embryo quality in women with endometriosis. J
+Assist Reprod Genet. v. 33, p. 1363–1372. 2016.
+SUNG, L. et al. Endometriosis is not detrimental to embryo implantation in oocyte recipients. J
+Assist Reprod Genet, v. 14, n. 3, p. 152-6, Mar 1997. ISSN 1058-0468 (Print)
+1058-0468.
+SUTTON, M. L.; GILCHRIST, R. B.; THOMPSON, J. G. Effects of in-vivo and in-vitro
+environments on the metabolism of the cumulus-oocyte complex and its influence on oocyte
+developmental capacity. Hum Reprod Update, v. 9, n. 1, p. 35-48, Jan-Feb 2003. ISSN 13554786 (Print)
+SUTTON, M. L., GILCHRIST RB, THOMPSON JG. The pivotal role of glucose metabolism in
+determining oocyte developmental competence. Reproduction.; v. 139, n. 4, p. 685–95. 2010.
+
+TAMBA, S. et al. Timely interaction between prostaglandin and chemokine signaling is a
+prerequisite for successful fertilization. Proc Natl Acad Sci U S A, v. 105, n. 38, p. 14539-44,
+Sep 2008. ISSN 1091-6490. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/18794532
+>.
+TAO, Y. et al. The Peritoneal Leptin, MCP-1 and TNF- in the pathogenesis of endometriosisassociated infertility. Am. J. Reprod. Immunol. v. 65, n. 4, p. 403–406. 2011.
+TILLY, J. L. Apoptosis and ovarian function. Rev Reprod, v. 1, n. 3, p. 162-72, Sep 1996.
+ISSN 1359-6004. Disponível em: < https://www.ncbi.nlm.nih.gov/pubmed/9414454 >.
+TROMBLY, D. J., et al. Roles for transforming growth factor beta superfamily proteins in early
+folliculogenesis. Semin Reprod Med. v. 27, p. 14–23. 2009.
+WEI, Q. et al. Reduced expression of biomarkers associated with the implantation window in
+women with endometriosis. Fertil Steril, v. 91, n. 5, p. 1686-91, May 2009. ISSN 1556-5653
+(Electronic)
+0015-0282 (Linking). Disponível em: < http://www.ncbi.nlm.nih.gov/pubmed/18672236 >.
+WINTERHAGER E. et al. Gap junction connexins in female reproductive organs: implications
+for women's reproductive health. Hum Reprod Update. v. 21, n. 3, p. 340–52. 2015.
+WU, G. et al. Intrafollicular inflammatory cytokines but not steroid hormone concentrations are
+increased in naturally matured follicles of women with proven endometriosis. J Assist Reprod
+Genet, v. 34, n. 3, p. 357-364, Mar 2017. ISSN 1573-7330. Disponível em: <
+https://www.ncbi.nlm.nih.gov/pubmed/28074436 >.
+Xu, H. et al. Regulated upon activation, normal T cell expressed and secreted (RANTES) and
+monocyte chemotactic protein 1 in follicular fluid accumulate differentially in patients with and
+without endometriosis undergoing in vitro fertilization. Fertil. Steril. v. 86, n.6, p. 1616–1620.
+2006
+ZHANG, Q. F. et al. Relationship between resistin and IL-23 levels in follicular fluid in
+infertile patients with endometriosis undergoing IVF-ET. Adv Clin Exp Med, v. 26, n. 9, p.
+1431-1435,
+Dec
+2017.
+ISSN
+1899-5276.
+Disponível
+em:
+<
+https://www.ncbi.nlm.nih.gov/pubmed/29442466 >.
+
+

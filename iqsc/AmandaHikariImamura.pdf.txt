@@ -1,0 +1,5784 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+
+Monografia
+
+Avaliação da fotólise de ciprofloxacino e enrofloxacino por
+cromatografia líquida acoplada à espectrometria de massas
+(LC-ESI-QToF/MS)
+
+Amanda Hikari Imamura
+Orientador: Prof. Dr. Álvaro José dos Santos Neto
+
+São Carlos
+Novembro, 2015.
+
+AGRADECIMENTOS
+À minha família, principalmente aos meus pais, Emerson e Cláudia, que sempre me
+incentivaram a me dedicar aos estudos, fizeram o possível e o impossível para me
+proporcionar as oportunidades que tive e terei no futuro, e à minha irmã Saory, que sempre
+esteve comigo mesmo na distância. Muito obrigada pelo amor, apoio e pela família linda que
+nós somos;
+Ao meu namorado Lucas, que aguentou ouvir meus desabafos e desesperos, sempre
+me incentivou ao longo da graduação para que fizesse o meu melhor e me alegrou inúmeras
+vezes quando estava desanimada. Muito obrigada pela paciência, compreensão, companhia e
+amor;
+Ao professor Álvaro José dos Santos Neto, que desde o primeiro ano de graduação,
+como tutor, me orientou na pesquisa e na vida acadêmica;
+Às minhas queridíssimas amigas Victória, Tomie, Aline, Júlia, Larissa, Jéssica, Lidia e
+Juliana que foram a minha família nesses 4 anos em São Carlos. Com vocês, a graduação foi
+mais “fácil” e divertida. Muito obrigada pela amizade;
+À Tanare, que me guiou no projeto e com quem compartilhei grande parte das minhas
+experiências na pesquisa. Muito obrigada pela paciência e pela orientação;
+À Dona Alzira e às meninas do pensionato, principalmente à Carol. Muito obrigada
+pela convivência;
+Aos professores do IQSC, que compartilharam conhecimento e possibilitaram a minha
+formação;
+À FAPESP pela bolsa de iniciação científica concedida para desenvolvimento do
+projeto.
+
+RESUMO
+A presença de alguns contaminantes derivados de compostos farmacêuticos em
+ambiente aquático pode resultar em desequilíbrios ambientais. Por exemplo, antibióticos
+podem causar resistência bacteriana e alguns fármacos são conhecidos como interferentes
+endócrinos nos organismos vivos. A ineficácia dos tratamentos convencionais de efluentes na
+remoção desses poluentes impulsionou o desenvolvimento de processos alternativos mais
+eficazes na degradação. Neste trabalho, avaliou-se por LC-ESI-QToF/MS a fotodegradação
+de ciprofloxacino e enrofloxacino, antibióticos da classe das fluoroquinolonas, quanto aos
+produtos formados e à eficiência do processo simulando as condições de um efluente (matriz
+complexa e baixa concentração do poluente). Primeiramente, efetuou-se a fotólise do fármaco
+a 10 mg L-1, para permitir a análise dos subprodutos formados. Para cada fármaco, foram
+identificados 10 intermediários resultantes da fotólise, formados principalmente por reações
+de substituição do átomo de flúor, abertura e oxidação simples do anel piperazínico, abertura
+do anel ciclopropílico, descarboxilação e, especialmente para o enrofloxacino, reações de
+oxidação no grupo etila do anel piperazínico e remoção deste grupo, formando o próprio
+ciprofloxacino. Alguns produtos de degradação do ciprofloxacino foram mais facilmente
+detectados apenas após a pré-concentração da amostra, indicando a importância dessa etapa.
+A fim de avaliar a fotólise do fármaco em menor concentração, foi desenvolvido um método
+de extração em fase sólida (SPE) com o objetivo de pré-concentrar as amostras e permitir a
+sua análise cromatográfica. Na triagem do método de SPE, foram avaliadas as combinações
+de cinco fases sólidas (Oasis HLB, Strata-X, Strata-XA, Chromabond HR-X e Chromabond
+HR-XA) com seis solventes (ACN, ACN ácida, ACN alcalinizada, MeOH, MeOH ácido e
+MeOH alcalinizado). Como a fase Oasis HLB com eluição de ACN apresentou melhor
+recuperação para a amostra contendo o ciprofloxacino e seus produtos, o protocolo
+desenvolvido consistiu no uso dessa fase com eluição sequencial de ACN acidificada, ACN
+pura e ACN alcalinizada. Em contrapartida, os valores das recuperações do enrofloxacino e
+seus intermediários foram bastante dispersos, dificultando a escolha do melhor sorvente e
+eluente. O protocolo desenvolvido consistiu no acoplamento dos cartuchos contendo a fase
+Oasis HLB seguida pela fase Chromabond-HRX com eluição sequencial usando-se ACN e
+MeOH. Para se analisar o perfil de degradação dos fármacos a 0,01 mg L-1, submeteram-se as
+amostras aos protocolos de SPE antes da análise cromatográfica. Os fármacos apresentaram
+diferentes comportamentos na fotólise. O ciprofloxacino estava abaixo do limite de detecção
+após 20 minutos de fotólise mesmo em matriz de efluente, enquanto que para o enrofloxacino,
+
+os perfis de degradação em água e esgoto labmade foram distintos, sendo de 20 e 40 minutos
+respectivamente o tempo em que o enrofloxacino não era mais detectado. Além disso, alguns
+subprodutos do enrofloxacino não foram degradados mesmo após 1 hora sob radiação UV, e é
+constatada na literatura a toxicidade do produto persistente identificado com m/z nominal 374.
+Para o ciprofloxacino, a fotólise mostrou-se eficiente na degradação do ciprofloxacino. Paro o
+enrofloxacino, no entanto, estudos sobre ecotoxicidade dos subprodutos, além da
+fotodegradabilidade dos mesmos em água e do enrofloxacino em matriz complexa devem ser
+realizados.
+
+ABSTRACT
+Pharmaceuticals as contaminants might result damages in the environment. For example,
+antibiotics may cause resistance in bacterial population and some pharmaceuticals are known
+as endocrine disruptors in animals. As those compounds are not biodegradable in wastewater
+treatment plants, alternatives processes have been developed to remove those contaminants
+from effluents. In this work, the photodegradation of two fluoroquinolones, ciprofloxacin and
+enrofloxacin, were evaluated by LC-ESI-QToF/MS. The degradation products formed and the
+process efficiency in samples simulating the conditions of wastewater (pollutant low
+concentration and complex matrix) were analyzed. First, photolysis of 10 mg L-1 drug
+concentration
+
+were
+
+performed
+
+to
+
+analyze
+
+photodegradation
+
+products.
+
+For
+
+each
+
+fluoroquinolone, ten products were detected and their structures were identified. They were
+formed by replacement of fluorine atom, piperazinyl ring cleavage and oxidation, cyclopropyl
+ring cleavage, decarboxylation and, especially for enrofloxacin, piperazinyl ring ethyl group
+oxidation and removal, forming ciprofloxacin itself. Some ciprofloxacin photodegradation
+products were easier detected after sample pre-concentration, evidencing the importance of
+this step. Before low concentration photolysis evaluation, solid-phase extraction (SPE)
+methods were developed to pre-concentrate the samples and allow their chromatographic
+analyzes. In screening the best SPE method, combinations of five extraction phases (Oasis
+HLB, Strata-X, Strata-XA, Chromabond HR-X and Chromabond HR-XA) with six solvents
+(pure ACN, acid ACN, alkalized ACN, pure MeOH, acid MeOH and alkalized MeOH) were
+evaluated. For ciprofloxacin degraded sample, the protocol consisted of Oasis HLB phase and
+sequential elution with acid ACN, pure ACN and alkalized ACN. For enrofloxacin, despite
+being difficult selecting the solid phase and eluent due to the heterogeneity of recuperation
+values, the protocol based on coupling Oasis HLB and Chromabond HR-X cartridges and
+sequential elution with ACN and MeOH. The degraded samples at 0.01 mg L-1 of
+fluoroquinolone were extracted by the protocols developed and then analyzed by liquid
+chromatography coupled with mass spectrometry. Ciprofloxacin was bellow detection limit
+after 20 minutes of photolysis even in labmade wastewater matrix, while degradation profiles
+of enrofloxacin in water and wastewater were different. In the first matrix, it took 20 minutes
+to enrofloxacin not being detected and in the complex matrix 40 minutes. Also some
+enrofloxacin products were not degraded after one hour of UV irradiation and the persistent
+product identified with nominal m/z 374 is related to toxicity. Ciprofloxacin degradation by
+
+photolysis demonstrated efficiency; however, more studies about enrofloxacin products
+toxicity and photodegradability, especially in complex matrix, are needed.
+
+SUMÁRIO
+1
+
+INTRODUÇÃO ..................................................................................................... 8
+
+2
+
+DESENVOLVIMENTO ...................................................................................... 10
+
+CAPÍTULO 1 - REVISÃO BIBLIOGRÁFICA ....................................................................... 10
+CAPÍTULO 2 - PROCEDIMENTO EXPERIMENTAL ......................................................... 17
+2.2.1
+
+Padrões e Reagentes ................................................................................ 17
+
+2.2.2
+
+Execução da fotólise ................................................................................ 17
+
+2.2.3
+
+Avaliação da fotólise do fármaco em alta concentração ......................... 18
+
+2.2.4
+
+Procedimento da extração em fase sólida ................................................ 18
+
+2.2.5
+
+Avaliação da fotólise do fármaco em baixa concentração ...................... 21
+
+2.2.6
+
+Análise em LC-ESI-QToF/MS ................................................................ 21
+
+2.2.7
+
+Análise em LC-Orbitrap/MS ................................................................... 22
+
+CAPÍTULO 3 – RESULTADOS E DISCUSSÃO ................................................................... 23
+
+3
+
+2.3.1
+
+Fotólise do fármaco em alta concentração .............................................. 23
+
+2.3.2
+
+Triagem do método de SPE ..................................................................... 36
+
+2.3.3
+
+Fotólise do fármaco em baixa concentração ........................................... 42
+
+CONCLUSÃO ................................................................................................................. 47
+
+REFERÊNCIAS BIBLIOGRÁFICAS ................................................................................. 49
+ANEXO A - Espectros de MS e/ou MS/MS do ciprofloxacino e dos intermediários. ...... 53
+ANEXO B - Espectros de MS e/ou MS/MS do enrofloxacino e dos intermediários. ........ 63
+
+8
+
+1
+
+INTRODUÇÃO
+O desenvolvimento tecnológico proporcionou para a sociedade, à primeira análise,
+
+uma melhor qualidade de vida, oferecendo conforto e maior expectativa de vida. Por outro
+lado, esse desenvolvimento foi acompanhado de inúmeros problemas contemporâneos, como
+as mudanças climáticas, os desastres ambientais, o esgotamento de bens naturais e fontes
+energéticas, a escassez da água potável, a geração e o despejo de poluentes tóxicos no
+ambiente. Tendo em conhecimento tais consequências nocivas ao meio ambiente, um novo
+conceito de desenvolvimento econômico foi elaborado, o desenvolvimento sustentável, no
+qual a preservação do meio ambiente é considerada. Deve-se ainda reconhecer o limite dos
+recursos naturais e planejar o seu uso de modo a não comprometer as gerações futuras.
+A água é um recurso natural imprescindível, que além de essencial aos organismos
+vivos, ela é necessária economicamente na agropecuária, na indústria e na geração de energia
+elétrica. Devido à sua importância, estudos quanto à qualidade da água e sua preservação
+estão sendo desenvolvidos, propondo processos industriais mais eficientes, com menor
+consumo de água, e reúso, minimização e tratamento dos resíduos líquidos. Apesar do avanço
+nessas pesquisas, ações básicas quanto ao consumo consciente da água ainda são
+negligenciadas. Além do desperdício da água tanto no consumo doméstico quanto no uso
+industrial, em diversas regiões ainda não há tratamento adequado do efluente, que é
+descartado diretamente em corpos d’água, propagando a poluição.
+Com o avanço da química orgânica de síntese, diversas moléculas foram sintetizadas,
+muitas delas com aplicações interessantes à atividade humana, como os pesticidas, que
+aumentam a produtividade das culturas, fármacos, que possibilitam a prevenção e o
+tratamento de muitas doenças, polímeros, que constituem inúmeros materiais do dia a dia.
+Concomitantemente, surgiram novos poluentes denominados contaminantes emergentes,
+cujos efeitos ecotoxicológicos ainda estão sendo estudados e por isso não estão incluídos na
+rotina de monitoramento pelos órgãos regulamentadores. No entanto, é compreensível que o
+consumo de água contendo resíduos de poluentes farmacêuticos, por exemplo, possa resultar
+em efeitos adversos ao organismo. Futuramente, com dados concretos sobre potenciais riscos
+ao meio ambiente e à saúde humana, pode haver regulamentação quanto o monitoramento
+desses contaminantes em matrizes ambientais.
+A fim de preservar o meio ambiente e os organismos dos efeitos nocivos, deve ser
+tomado um conjunto de ações por toda a sociedade. A educação ambiental da população é o
+
+9
+
+primeiro passo para reduzir a poluição. Deve-se ainda considerar a poluição já existente e
+investigar seu tratamento adequado, além de substituir substâncias tóxicas por aquelas que
+não o são. Esses aspectos devem ser abordados simultaneamente de modo que realmente haja
+a remediação da poluição.
+A principal fonte de emissão de poluentes farmacêuticos no meio ambiente aquático é
+o efluente doméstico, que passa por tratamentos ineficazes na degradação de tais compostos.
+O reúso da água tratada nas estações, apesar de ser uma solução adequada para o
+gerenciamento sustentável da água, propicia uma fonte de contaminação direta desses
+poluentes aos consumidores. Assim, processos específicos de remoção desses poluentes
+devem ser desenvolvidos e inseridos nas estações de tratamento. No entanto, é evidente que a
+implementação desses processos poderá levar a um aumento do custo do tratamento de
+efluente.
+Dentro desse contexto, o presente estudo tem como objetivo avaliar a fotólise como
+método alternativo de degradação de ciprofloxacino (CIP) e enrofloxacino (ENR),
+representados na Figura 1, ambos antibióticos da classe das fluoroquinolonas. Analisaram-se
+por cromatografia líquida acoplada à espectrometria de massas (LC-ESI-QToF/MS) os
+subprodutos formados ao longo da fotólise e a eficiência do processo em matriz complexa,
+simulando um efluente real. Foi desenvolvido também um método de extração em fase sólida
+(SPE) da amostra contendo os produtos de degradação para permitir a análise cromatográfica.
+Figura 1 - Estruturas químicas do enrofloxacino e ciprofloxacino.
+
+O
+
+O
+
+O
+
+F
+
+F
+
+OH
+N
+
+OH
+
+N
+
+N
+
+N
+
+N
+
+HN
+
+enrofloxacino (ENR)
+
+O
+
+ciprofloxacino (CIP)
+
+10
+
+2
+
+DESENVOLVIMENTO
+
+CAPÍTULO 1 - REVISÃO BIBLIOGRÁFICA
+A Química Verde, cujo movimento iniciou-se no início dos anos 1990, tem como
+objetivo viabilizar processos e produtos de modo a eliminar ou minimizar os impactos
+negativos ao meio ambiente, por meio de estudos que visam aumentar a segurança dos
+processos e contribuem para solucionar questões contemporâneas como mudança climática,
+produção de energia, disponibilidade de recursos hídricos, produção de alimentos e emissão
+de substâncias tóxicas ao meio ambiente.(1) Resumidamente, os 12 princípios da Química
+Verde abrangem o consumo de fontes renováveis ou recicladas de matéria-prima, o aumento
+da eficiência energética ou o uso de menos energia para produzir a mesma ou maior
+quantidade de produto de interesse e evitar o uso de substâncias persistentes, bioacumulativas
+e tóxicas.(2) Estudos que tangem a preservação ambiental, desde a diminuição da geração de
+resíduos nos processos até o reúso e tratamento dos resíduos gerados, vêm-se tornando mais
+frequentes.
+O desenvolvimento da química analítica instrumental proporcionou instrumentos mais
+sofisticados e sensíveis, o que possibilitou estudos quanto à presença de poluentes antes não
+detectáveis na água. Os primeiros estudos referentes à presença de compostos farmacêuticos
+no meio ambiente datam da década de 1970. Hignite e Azarnoff (3) detectaram a presença de
+metabólitos ativos de clofibrato e da aspirina em esgoto por cromatografia gasosa acoplada à
+espectrometria de massas. Desde então diversos estudos foram realizados, detectando esses
+poluentes em uma variedade de matrizes como rios, lagos, lençóis freáticos e inclusive em
+água potável em diversos países. Seifrtová et al.(4) compilaram os métodos de preparo de
+amostra e de extração de diferentes grupos farmacológicos em uma variedade de matriz que
+foram relatados na literatura. Predominantemente a técnica de preparo de amostras empregada
+foi a extração em fase sólida (SPE), sendo a cromatografia líquida acoplada à espectrometria
+de massa sequencial usada na etapa de separação e detecção.
+Esses micropoluentes, também conhecidos como emergentes, são na maioria
+compostos orgânicos sintéticos, como os fármacos, cujo comportamento, distribuição e
+efeitos no meio ambiente ainda não são totalmente compreendidos, apresentando risco ao
+ambiente e ao ser humano. Além disso, tais poluentes são considerados persistentes e podem
+estar relacionados à bioacumulação no meio ambiente, visto que apresentam estruturas
+químicas complexas e atividade biológica, dificultando a sua degradação.
+
+11
+
+Apesar de serem detectados em baixas concentrações (na ordem de ng L-1 a μg L-1),
+esses poluentes podem provocar desequilíbrios ambientais devido à atividade biológica que
+apresentam. Muitos desses poluentes são conhecidos como interferentes endócrinos, que
+podem alterar o sistema endócrino. Sabe-se ainda que a presença de antibióticos no meio
+ambiente pode causar a resistência bacteriana, dificultando o tratamento de doenças e
+exigindo doses mais elevadas ou o uso de antibióticos mais potentes.(5) De fato, um estudo
+realizado no Japão detectou em um rio de Osaka a presença de um gene resistente ao
+antibiótico da classe das fluoroquinolonas.(6)
+A introdução de compostos farmacêuticos no meio ambiente deve-se a diversas rotas,
+como ilustradas na Figura 2. Uma das principais rotas de contaminação é o efluente
+doméstico.(7) Além do medicamento descartado incorretamente nos lixos comuns e vaso
+sanitário, a urina pode conter o composto ativo inalterado juntamente com seus metabólitos,
+visto que o organismo não é capaz de absorvê-lo completamente. O efluente doméstico muitas
+vezes é diretamente lançado em corpos d’água devido à ausência de estações de tratamento de
+efluentes. Quando são submetidos aos tratamentos, que se baseiam em processos físicoquímicos e degradação biológica, esses xenobióticos não são totalmente degradados, pois
+alguns processos físico-químicos apenas transferem o poluente da fase líquida à fase sólida e
+a complexidade das estruturas químicas e atividade biológica desses compostos dificultam a
+ação dos microrganismos.(8) Göbel et al. (9) avaliaram a remoção dos antimicrobianos
+macrolídeos, sulfonamidas e trimetropim por tratamentos convencionais de efluentes e
+verificou-se uma baixa eliminação de 20 %. Outros estudos investigaram a eficiência de
+alguns métodos físico-químicos, como clarificação, coagulação, floculação, sedimentação e
+filtração, na remoção de diversos antimicrobianos e obtiveram a mesma baixa eficiência.(10)
+Outra fonte de contaminação provém da utilização de medicamentos na agricultura e
+na criação animal para tratamento de doenças ou como agentes profiláticos. Os dejetos
+animais muitas vezes são aplicados diretamente no solo como fertilizantes e os metabólitos
+presentes podem ser transferidos ao sedimento ou a corpos d’água.(7) Além disso, o efluente
+indústrias farmacêuticas pode conter compostos farmacêuticos persistentes aos tratamentos, e
+serem lançados nas águas superficiais.
+
+12
+
+Figura 2 - Rotas de contaminação de compostos farmacêuticos.
+Produção
+
+Aplicação
+Medicina
+Veterinária
+
+Medicina
+Humana
+
+Indústria
+
+Aquicultura
+
+Excreção
+
+Esterco
+
+Esgoto
+
+Solo
+
+Estação de
+tratamento
+de água
+
+Água subterrânea
+
+Sedimento
+
+Lixão
+
+Estação de
+tratamento
+de efluentes
+industriais
+
+Águas superficiais
+
+Estação de tratamento de água
+Fonte: Adaptado de BILA, D. M., 2003.(7)
+
+No Brasil, apesar de ser estabelecido o limite máximo de resíduo de drogas
+veterinárias que diversos alimentos de origem animal podem conter (11), não há legislação
+referente à presença desses resíduos em efluentes a serem lançados no meio ambiente e,
+portanto, não há controle sobre esse tipo de contaminação. No entanto, em 2011 a Agência
+Nacional de Vigilância Sanitária (ANVISA) publicou a resolução RDC Nº 20/2011 que
+proíbe a venda de antimicrobianos sem prescrição médica, com intuito de controlar o
+desenvolvimento da resistência bacteriana.(12)
+Visando eliminar esses poluentes dos efluentes, processos alternativos de degradação
+estão sendo desenvolvidos. Devido à persistência desses compostos, foram propostos os
+processos oxidativos avançados (POAs), que se baseiam na geração in situ de radicais
+hidroxilas (•OH), pouco seletivos e altamente oxidantes com potencial de redução de 2,73 V
+(em relação ao eletrodo-padrão de hidrogênio, EPH), valor muito acima de oxidantes
+convencionais. Esses radicais podem ser produzidos via fotólise, fotólise de peróxido de
+hidrogênio, ozonização, fotocatálise heterogênea, Fenton, foto-Fenton, entre outros.(8)
+Vasconcelos et al. (13) avaliaram a eficiência na remoção de ciprofloxacino de efluente
+hospitalar por meio de diferentes POAs, como oxidação fotoinduzida, fotocatálise
+
+13
+
+heterogênea, ozonização e peroxônio (ozônio com peróxido de hidrogênio). Todos os
+processos mostraram-se bastante eficientes, com degradação quase total do antimicrobiano e
+de forma mais rápida do que os tratamentos convencionais. Os POAs podem não levar a
+mineralização total dos antibióticos nos efluentes, no entanto seus produtos de degradação
+podem ser mais suscetíveis à biodegradação, e quando combinados ambos os métodos, pode
+se obter a sua remoção, como foi verificado por Malato et al.(14) Em seu trabalho, o processo
+foto-Fenton solar foi combinado com o tratamento biológico e a degradação total do ácido
+nalidíxico foi obtido com 90% de mineralização, concluindo que, nas condições
+experimentais em que se foi realizado o estudo, a aplicação de foto-Fenton antecedendo o
+tratamento biológico induziu no aumento da biodegradabilidade do efluente.
+Em contrapartida, alguns trabalhos constataram o aumento da ecotoxicidade do
+efluente após o tratamento por POAs, indicando que os produtos de degradação podem reter a
+atividade funcional do composto original, bem como apresentar maior ecotoxicidade.(13)
+Assim, torna-se importante avaliar não somente a eficiência da remoção do fármaco, mas
+também os intermediários formados ao longo do processo.
+Embora existam diversos estudos referentes à degradação de fármacos por POAs, são
+poucos aqueles que reproduzem as baixas concentrações e a complexidade matricial em que
+são encontrados. Quando a matriz real não é reproduzida, perdem-se informações referentes
+às interações entre o poluente e os componentes da matriz, que podem influenciar no
+comportamento do poluente ao longo do processo. A degradação em alta concentração é
+conveniente para verificar a eficiência do processo e na caracterização de produtos formados.
+No entanto, a concentração do composto farmacêutico a ser degradado influencia em diversos
+parâmetros reacionais, alterando a cinética de reação e podendo até resultar em diferentes
+subprodutos de degradação. A degradação em baixa concentração gera intermediários em
+níveis de detecção não traceis convencionalmente, e a matriz complexa pode apresentar
+muitos interferentes analíticos. Empregando-se técnicas de preparo de amostra, o problema
+pode ser contornado fortificando-se a amostra e removendo possíveis interferentes da matriz
+em que o analito está presente.
+A extração em fase sólida (SPE) é uma técnica de preparo de amostra que se baseia
+nos mecanismos de separação da cromatografia líquida clássica. Em geral, as etapas
+envolvidas na SPE, ilustradas na Figura 3, são condicionamento do cartucho, adição da
+amostra, remoção dos interferentes e eluição do analito. O condicionamento do cartucho
+consiste na ativação da fase sólida por meio de um solvente, que pode variar para cada
+
+14
+
+material extrator. Após a adição da amostra, usa-se um solvente que não tenha força de
+eluição capaz de eluir os analitos de interesse, para remover os interferentes presentes na
+matriz. Para eluição do analito, emprega-se um solvente de maior interação com o composto,
+mas que não arraste simultaneamente os interferentes que não foram retirados do cartucho na
+etapa anterior.(15)
+
+Figura 3 - Etapas da SPE.
+
+Fonte: Adaptado de LANÇAS, F. M. (15)
+
+Os mecanismos de separação estão associados às interações químicas e físicas atuantes
+entre as moléculas do analito, da fase sólida e do solvente. As principais interações são do
+tipo ligação de hidrogênio, forças iônicas e forças de dispersão, e são derivadas das
+propriedades físico-químicas das moléculas.(15) Portanto se a estrutura química da molécula
+do analito é conhecida, simplifica-se a escolha de fase sólida e solvente apropriados. Por outro
+lado, se a amostra contém uma diversidade de analitos desconhecidos, como no caso de uma
+amostra contendo diversos subprodutos de degradação, a extração torna-se mais complexa,
+visto que pode necessitar de diferentes tipos de interações.
+As fluoroquinolonas (FQs) são agentes antimicrobianos de amplo espectro de ação
+contra bactérias Gram-negativas e Gram-positivas bastante utilizadas na medicina humana e
+veterinária. São empregadas no tratamento de infecções no trato urinário e também em casos
+em que a infecção é resistente à maioria dos antibióticos já estabelecidos. Por exemplo, os
+
+15
+
+microrganismos que adquiriram resistência à penicilina são passíveis a ações das FQs, por
+atuarem de modo distinto. O primeiro antibiótico da classe das quinolonas foi sintetizado nos
+anos 60, o ácido nalidíxico, cuja estrutura química está representada na Figura 4. Como os
+microrganismos rapidamente adquiriram resistência a esse composto, novos análogos foram
+sintetizados. Descobriu-se que a adição de um átomo de flúor na posição 6 aumenta a
+atividade antimicrobiana e de um anel piperazínico na posição 7 aumenta a absorção via oral,
+distribuição e estabilidade metabólica. O mecanismo de ação das FQs baseia-se na inibição da
+enzima topoisomerase, que atua nos processos de empacotamento e replicação do DNA.
+(16,17)
+Figura 4 - Estrutura química do ácido nalidíxico.
+
+Em alguns estudos sobre o padrão de consumo de antimicrobianos nos hospitais
+brasileiros, constatou-se que a FQ é uma das classes mais consumidas.(18,19) As FQs são
+excretadas inalteradas pelo organismo (geralmente uma parcela menor que 25 % é
+metabolizada) e portanto a sua ocorrência no meio ambiente é esperada. Como a principal
+fonte de emissão de fármacos no meio ambiente é o efluente doméstico e hospitalar, a
+presença desses antibióticos nas águas superficiais está correlacionada à densidade
+populacional. A presença de FQs foi constatada em diversos países europeus, asiáticos e
+americanos.(20)
+Lydy et al. (21) avaliaram a ecotoxicidade desses compostos e as FQs mostraram-se
+tóxicas a algumas espécies de cianobactérias e plantas aquáticas. Embora as FQs não tenham
+se mostrado tóxicas para peixes mesmo em elevada concentração, eles apresentaram aumento
+de peso, pois essas substâncias agem como promotores de crescimento, reduzindo a
+quantidade de bactérias prejudiciais. Desse modo, muitas aquiculturas empregam as FQs
+como promotores de crescimento (21) e nesses casos, os antibióticos são diretamente lançados
+na água.
+Assim como para a maioria dos fármacos, o tratamento convencional de efluentes é
+ineficaz na degradação das FQs, que apresentam resistência à hidrólise e ao aquecimento
+devido à estabilidade química do anel heterocíclico, tornando-as contaminantes altamente
+
+16
+
+persistentes. No entanto, a classe é bastante suscetível a processos fotolíticos e a irradiação
+promove a remoção do flúor e a oxidação da amina na cadeia lateral.(20) Assim, foi proposta
+a fotólise do ciprofloxacino e enrofloxacino, duas FQs bastante empregadas na medicina
+humana e veterinária respectivamente, como método alternativo de sua degradação.
+
+17
+
+CAPÍTULO 2 - PROCEDIMENTO EXPERIMENTAL
+2.2.1 Padrões e Reagentes
+Os padrões de ciprofloxacino (≥ 98%) e de enrofloxacino (≥ 99%) foram adquiridos de
+Sigma Aldrich, os solventes acetonitrila (ACN) e metanol (MeOH), ambos de grau HPLC, de
+Tedia, o ácido fosfórico P.A. de Synth e hidróxido de amônio P.A. de Chemis. A água
+utilizada foi purificada em sistema Milli-Q de Millipore.
+O esgoto labmade trata-se de um substrato sintético simulando as características de um
+esgoto sanitário real. Esse meio foi preparado como descrito por Torres (22), tendo a sua
+composição descrita na Tabela 1.
+Tabela 1 - Composição do esgoto labmade (substrato sintético simulando esgoto sanitário)
+
+Composição
+
+Quantidade para 1 L
+
+Sacarose
+
+35,0 mg
+
+Amido
+
+114,0 mg
+
+Extrato de carne
+
+208,0 mg
+
+Óleo de soja
+
+51,0 mg
+
+NaCl
+
+250,0 mg
+
+MgCl2.6H2O
+
+7,0 mg
+
+CaCl2.2H2O
+
+4,5 mg
+
+NaHCO3
+
+200,0 mg
+
+Detergente
+
+3 gotas
+
+Fonte: Torres (1992). (22)
+
+Os sorventes Strata-X e Strata-XA foram adquiridos de Phenomenex, os sorventes
+Chromabond HR-X e Chromabond HR-XA de Macherey-Nagel e o sorvente Oasis HLB de
+Waters. Os filtros (frits) de polietileno foram adquiridos de Analítica.
+
+2.2.2 Execução da fotólise
+As fotólises foram efetuadas em reator de capacidade de 250 mL, encamisado e
+acoplado a um sistema de recirculação, que manteve a temperatura constante em 25 ºC. A
+solução esteve em constante agitação por meio de um agitador magnético. A fonte de radiação
+ultravioleta consistiu em lâmpada de vapor de mercúrio UV-C 9 W, cujo espectro de emissão
+
+18
+
+está ilustrado na Figura 5.(23) O ciprofloxacino e enrofloxacino absorvem na região de 230 a
+350, com comprimento de onda máximo em 274 nm.(24)
+Figura 5. Espectro de emissão da lâmpada utilizada no trabalho.
+
+Fonte: Ferreira, T. C. R., 2014. (23)
+
+2.2.3 Avaliação da fotólise do fármaco em alta concentração
+Como estudo inicial da fotólise do ciprofloxacino e enrofloxacino, 250 mL de solução
+10 mg L-1 do fármaco em água ultrapurificada Milli-Q foram submetidos a 6 horas de fotólise.
+Retiraram-se alíquotas de 1,5 mL nos tempos 0, 5, 10, 15, 20, 30 min, 1, 2, 3, 4, 5 e 6 horas, e
+estas foram armazenadas em frascos âmbar sob refrigeração. Análises cromatográficas foram
+realizadas nessas amostras, permitindo a observação do perfil da fotólise e a identificação de
+possíveis intermediários. A solução degradada até o tempo em que o fármaco e os
+intermediários coexistissem em níveis de concentração mais elevados foi escolhida para se
+efetuar a triagem do método de SPE.
+
+2.2.4 Procedimento da extração em fase sólida
+Os cartuchos de extração foram preparados adicionando sequencialmente um frit, 100
+mg da fase extratora e, novamente, outro frit. Em todas as extrações realizadas, primeiramente
+condicionou-se a fase estacionária adicionando-se 5 mL de MeOH e 5 mL de solução ácida de
+H3PO4 em pH 3,4, e em seguida, introduziu-se a amostra. Nestas etapas, evitou-se a secagem
+
+19
+
+da fase extratora, pois o contanto com o ar poderia levar à formação de caminhos
+preferenciais ao longo da fase estacionária, prejudicando a extração. (15)
+Após introduzir a amostra, esperou-se a fase extratora secar para em seguida efetuar a
+eluição. As frações eluídas foram secas a 80 ºC em banho térmico com fluxo de gás
+nitrogênio e depois ressuspendidas em 1 mL de água com 5 % de ACN. As amostras foram
+armazenadas em frascos âmbar e posteriormente foram analisadas por LC-ESI-QToF/MS.
+
+
+
+Triagem do melhor método de SPE
+A partir do perfil de degradação da solução de 10 mg L-1 do fármaco, determinou-se o
+
+tempo de fotólise em que a solução apresentasse, em concentrações detectáveis, todos os
+intermediários formados e o fármaco. Para o ciprofloxacino, a amostra submetida às extrações
+por SPE foi degradada por 20 minutos e para o enrofloxacino, uma mistura contendo amostra
+degradada por 10 minutos e por 30 minutos. O volume da amostra para ambos os fármacos foi
+de 25 mL.
+Foram avaliadas 5 fases extratoras previamente conhecidas por apresentar uma boa
+recuperação para fármacos polares: Oasis HLB, Strata-X, Strata-XA, Chromabond HR-X e
+Chromabond HR-XA. Para a eluição, avaliaram-se os seguintes solventes: ACN pura, ACN
+contendo 5 % de H3PO4, ACN contendo 5 % de NH4OH, MeOH puro, MeOH contendo 5 %
+de H3PO4 e MeOH contendo 5 % de NH4OH. As combinações de fases extratoras e eluentes
+que foram avaliadas são apresentadas na Tabela 2. A melhor combinação de sorvente e
+eluente foi utilizada para a avaliação da fotólise do fármaco a baixa concentração em água e
+em esgoto labmade.
+Tabela 2 - Combinações de sorventes e eluentes.
+A
+
+B
+
+C
+
+D
+
+E
+
+Oasis
+HLB
+
+Strata-X
+
+Strata-XA
+
+Chromabond
+HR-X
+
+Chromabond
+HR-XA
+
+Sorvente
+Eluente
+1
+
+ACN
+
+A1
+
+B1
+
+C1
+
+D1
+
+E1
+
+2
+
+ACN 5 % H3PO4
+
+A2
+
+B2
+
+C2
+
+D2
+
+E2
+
+3
+
+ACN 5 % NH4OH
+
+A3
+
+B3
+
+C3
+
+D3
+
+E3
+
+4
+
+MeOH
+
+A4
+
+B4
+
+C4
+
+D4
+
+E4
+
+5
+
+MeOH 5 % H3PO4
+
+A5
+
+B5
+
+C5
+
+D5
+
+E5
+
+6
+
+MeOH 5 % NH4OH
+
+A6
+
+B6
+
+C6
+
+D6
+
+E6
+
+20
+
+
+
+Método de SPE para amostras de ciprofloxacino degradadas
+A extração consistiu na fase extratora Oasis HLB e na eluição sequencial de 3 mL de
+
+ACN com 5 % de NH4OH, 3 mL de ACN pura e 3 mL de ACN com 5 % de H3PO4, sendo os
+primeiros 6 mL coletados em frasco diferente da porção ácida para evitar a formação do sal
+(NH4)3PO4 insolúvel em ACN. Após a secagem, cada porção foi ressuspendida com 0,5 mL
+de H2O com 5 % de ACN e as duas porções foram reunidas para a análise cromatográfica.
+
+
+
+Método de SPE para amostras de enrofloxacino degradadas
+Como a estrutura química do enrofloxacino assemelha-se à do ciprofloxacino (Figura
+
+1), o protocolo de SPE desenvolvido para o ciprofloxacino foi aplicado nas soluções de
+enrofloxacino. As recuperações não foram satisfatórias à maioria dos analitos. Deste modo,
+tornou-se necessária a avaliação de todas as combinações de fases extratoras e solventes
+(etapa de triagem). As combinações de fase Oasis HLB com ACN pura (A1), e de Strata-X
+com MeOH puro (B4) apresentaram recuperações consideráveis e a fim de obter melhor
+recuperação a todos os analitos, avaliou-se a associação dessas duas combinações.
+Um protocolo proposto consistiu na mistura das fases extratoras em um mesmo
+cartucho com eluição sequencial de ACN e MeOH, e os outros dois métodos propostos foram
+acoplamento dos cartuchos, cada um contendo uma fase, em ordens diferentes. A Figura 6
+ilustra os protocolos avaliados.
+Figura 6 - Protocolos de SPE avaliados para ENR e seus produtos.
+- Eluição: ACN seguida de MeOH.
+- Cada cartucho foi preenchido
+com 100 mg de fase extratora.
+
+A: Oasis HLB
+Adaptador
+
+A: Oasis HLB
++
+B: Strata- X
+Protocolo A + B
+
+B: Strata-X
+
+Protocolo A → B
+
+B: Strata-X
+Adaptador
+
+A: Oasis HLB
+
+Protocolo B → A
+
+Nesta etapa, as amostras consistiram de 100 mL de solução contendo uma fração de
+solução 10 mg L-1 de enrofloxacino degradada até 10 minutos e a outra fração até 30 minutos,
+
+21
+
+a fim de que todos os analitos estivessem presentes. O protocolo A → B apresentou melhor
+recuperação e foi aplicado na etapa de avaliação da fotólise em baixa concentração.
+
+2.2.5 Avaliação da fotólise do fármaco em baixa concentração
+Primeiramente, avaliou-se o efeito do meio da amostra e do volume na extração,
+variando-se de 25 mL utilizados na etapa de triagem para 100 mL. Prepararam-se 250 mL de
+solução 10 mg L-1 do fármaco e degradou-a pelo tempo em que o fármaco e seus
+intermediários coexistem em níveis de maior concentração, determinado anteriormente (para
+o ciprofloxacino, 20 minutos, e para o enrofloxacino, uma mistura contendo fração degradada
+por 10 minutos e outra por 30 minutos). Essa solução foi diluída 100 vezes para uma solução
+de 100 mL e foi submetida ao método de SPE de melhor recuperação dos analitos. A diluição
+foi feita tanto em água como em esgoto labmade. As extrações foram feitas em triplicatas.
+Para verificar a fotólise do fármaco em baixa concentração, a análise cromatográfica
+foi precedida pela etapa de SPE, a fim de fortificar a amostra com os analitos de interesses.
+No esgoto labmade, além da fortificação, a SPE removeu os possíveis interferentes presentes
+nessa matriz.
+As amostras a serem pré-concentradas consistiram de 100 mL de solução 0,1 mg L-1
+do fármaco degradado até os tempos de 0, 5, 10, 20, 40 e 60 min. A fotólise foi efetuada em
+triplicata e em soluções de água Milli-Q e de esgoto labmade. As amostras foram submetidas
+ao protocolo de SPE desenvolvido na etapa de triagem e em triplicata.
+
+2.2.6 Análise em LC-ESI-QToF/MS
+O sistema LC-ESI-QToF/MS é constituído de um cromatógrafo HPLC Shimadzu serie
+20A e de um espectrômetro de massas Bruker micrOTOF-Q II. A coluna cromatográfica
+utilizada foi Kinetex XB-C18 (100 mm x 2,1 mm; 2,6 μm) da Phenomenex. As fases móveis
+constituíram de 0,1 % de ácido fórmico em água ultrapura como eluente A e 0,1 % de ácido
+fórmico em acetonitrila como eluente B no modo de eluição em gradiente com vazão de 0,25
+mL min-1. A eluição em gradiente seguiu a seguinte programação: 0-3 min, 5 % de A; 3-12
+min, 5-60 % de A; 12-14 min, 60-95 % de A; 14-20 min, 95 % de A; 20-22 min, 95-5 % de
+A; 22-26 min, 5 % de A. A temperatura do forno da coluna foi mantida a 40 ºC.
+
+22
+
+A análise foi efetuada por electrospray operando no modo positivo nas seguintes
+condições: temperatura de dessolvatação de 200 ºC, voltagem do capilar de 4,5 kV, vazão do
+gás de secagem de 8 L min-1, pressão do gás de nebulização a 4 bar. A faixa monitorada foi de
+50 a 3000 m/z, com taxa de aquisição de espectros a 2 Hz no modo full MS.
+
+2.2.7 Análise em LC-Orbitrap/MS
+O sistema LC-Orbitrap/MS é constituído de um espectrômetro de massas de Thermo
+Scientific modelo LTQ Velos e de um cromatógrafo Accela do mesmo fabricante. As
+condições do cromatógrafo foram as mesmas descritas no item anterior.
+As análises foram realizadas utilizando uma interface heated electrospray (HESI),
+aquecida a 350 ºC no modo positivo nas seguintes condições: gás cortina e auxiliar em 35 e
+10 unidades arbitrárias, respectivamente; temperatura do capilar de 350 ºC, voltagem do
+capilar (electrospray) de 3,7 kV. A faixa monitorada de m/z foi de 95 a 600, com taxa de
+aquisição de espectros a 2 Hz no modo full MS e um poder de resolução de massas nominal
+de 60.000 (FWHM).
+
+23
+
+CAPÍTULO 3 – RESULTADOS E DISCUSSÃO
+2.3.1 Fotólise do fármaco em alta concentração
+As alíquotas coletadas ao longo da fotólise do fármaco em alta concentração foram
+analisadas por LC-ESI-QToF/MS, possibilitando identificar os produtos de degradação, bem
+como descrever os perfis de formação dos produtos e de degradação do fármaco.
+
+2.3.1.1 Avaliação dos intermediários
+Para o ciprofloxacino, foram identificados dez intermediários. A Figura 7 ilustra o
+cromatograma de íon total (TIC) da amostra de ciprofloxacino fotodegradada por 20 minutos.
+e notam-se sete picos principais, que correspondem ao próprio ciprofloxacino (m/z 332) e aos
+intermediários de m/z 330,1445 (A); 288,1340; 346,1411; 344,1255; 316,1292; 330,1463 (B).
+Os subprodutos de m/z 306,1239; 348,1342; 362,1385 foram detectados com menor
+intensidade. O pico correspondente do produto de m/z 263,0817 não está presente no
+cromatograma, pois se encontrava em níveis não detectáveis e sua presença foi somente
+detectada na etapa de triagem do método de SPE, evidenciando a importância dessa etapa na
+Figura 7 - TIC da amostra de CIP degradado por 20 minutos.
+
+m/z 362
+m/z 348
+
+m/z 306
+
+24
+
+análise de intermediários.
+Foram detectados dois subprodutos de m/z 330 de fórmula molecular C17H19N3O4,
+sendo portanto isômeros entre si. Os diferentes tempos de retenção indicam estruturas
+químicas distintas e, de fato, os espectros de MS/MS dos compostos (Figura 8) ilustram
+diferentes fragmentos. As identificações 330 A e 330 B foram designadas respectivamente aos
+isômeros de menor e maior tempo de retenção. A formação do intermediário de m/z 330 A
+consistiu na substituição do flúor por uma hidroxila na molécula de ciprofloxacino, enquanto
+que para a formação do m/z 330 B houve, além da perda do flúor, a abertura e oxidação do
+anel piperazínico.
+Figura 8 - Espectros de MS/MS dos subprodutos de m/z 330 A (1) e 330 B (2).
+
+Foram detectados também dez subprodutos para o enrofloxacino. O cromatograma de
+íon extraído da solução degradada por 15 minutos (Figura 9) ilustra os picos dos
+intermediários de m/z 316,1664; 332,1419; 334, 1584; 344, 1621; 346,1401; 358,1701;
+372,1576; 374,1748; 390,1470 e 390,1676. Diferentemente dos subprodutos m/z 330 do
+ciprofloxacino, os intermediários de m/z 390 não são isômeros entre si por distinguirem-se
+pela massa exata. O m/z 390,1676 apresenta menor tempo de retenção e foi designado como
+m/z 390 A, enquanto o m/z 390,1470 de maior tempo de retenção como m/z 390 B.
+
+25
+Figura 9 - TIC do ENR degradado por 15 min.
+
+Figura 10 - Espectro de massas dos subprodutos (a) m/z 390 A: (20 eV) - LC-QToF (ESI (+) MS/MS); e
+(b) m/z 390 B: (35eV) - Orbitrap (ESI (+) MS/MS).
+Intens.
+[%]
+
++MS2(390.0000), 20-20eV, 2.8min #(169)
+
+(a)
+
+115.1233
+
+100
+
+O
+
+O
+
+O
+
+OH
+
+OH
+
+HO
+
+N
+
+O
+
+O
+
+NH2
+
+•
+
+80
+
+O
+NH
+
+86.0945
+
+N
+
+NH
+
+N
+
+N
+
+O
+
+232.0630
+
+O
+
+60
+
+OH
+
+HO
+O
+
+40
+
+N
+
+O
+
+N
+
+372.1658
+
+276.0537
+
+H
+
+N
+
+O
+
+390.1735
+20
+332.2134
+0
+100 RT: 7.03-7.09 AV: 5200SB: 51 6.66-7.03 , 7.09-7.47
+300
+ms2_enro_390 #444-448
+NL: 2.58E6
+T: FTMS + p ESI Full ms2 390.15@cid35.00 [105.00-600.00]
+100
+90
+80
+
+O
+
+(b)
+O
+
+500
+
+OH
+
+N
+
+O
+F
+
+O
+O
+
+N
+N
+
+600
+
+372.1343
+
+F
+
+70
+
+Relative Abundance
+
+400
+
+N
+
+N
+
+O
+
+O
+
+N
+
+358.1654
+
+O
+
+60
+
+O
+
+O
+
+OH
+
+50
+
+F
+
+F
+O
+
+40
+
+H2 N
+
+N
+
+30
+
+356.1594
+
+320
+
+344.1396
+
+332.1598
+330
+
+N
+
+340
+
+N
+
+390.1446
+
+362.1501
+
+10
+318.1601
+
+N
+
+H
+
+O
+
+O
+
+O
+
+20
+
+0
+
+O
+
+N
+
+OH
+
+364.0836
+370.1389
+
+351.7548
+350
+
+360
+m/z
+
+370
+
+376.1765
+385.3049
+380
+
+392.1487
+398.4512
+390
+
+m/z
+
+26
+
+Por meio dos espectros de MS/MS dos produtos de m/z 390 A e B, que estão
+apresentados na Figura 10, foi possível inferir as diferentes estruturas e fórmulas moleculares.
+Para formação dos intermediários m/z 390 A e B, houve a abertura do anel piperazínico. Para
+o m/z 390 A, além dessa alteração, houve a substituição do átomo de flúor por um grupo
+hidroxila e abertura do anel ciclopropílico.
+Com base no que foi encontrado na literatura e nas análises por espectrometria de
+massas, foram propostas as estruturas químicas dos subprodutos do ciprofloxacino e
+enrofloxacino apresentadas na Tabela 3 e Tabela 4 respectivamente. Posteriormente, essas
+estruturas foram confirmadas em análise por LC-Orbitrap/MS, os espectros de MS/MS
+encontram-se no ANEXO A e ANEXO B. Exceto para o intermediário de m/z 362, que não
+foi detectado pelo equipamento, sua estrutura foi proposta por análise em LC-QToF e seus
+espectros de MS e MS/MS encontram-se na Figura 11.
+Guo et al. (25) avaliaram os produtos de degradação do ciprofloxacino formados por
+fotólise (UV) e fotólise de peróxido de hidrogênio (UV/H2O2), identificando quatro e 16
+Figura 11 - Espectro de massas do subproduto m/z 362 (a) MS; (b) MS/MS.
+Intens. 4.
+[%]
+
++MS, Dissect, 1.4-2.2min #(82-129)
+
+(a)
+362.1385
+
+100
+
+80
+
+60
+
+40
+
+363.1413
+
+20
+
+364.1429
+0
+Intens.
+[%]
+
+355
+
+360
+
+365
+
+370
+
+375
+
+380
+
+(b)
+
+100
+
+232.0605
+
+HO
+
+N
+80
+
+276.0510
+
+O
+60
+
+m/z
+
++MS2(362.3038), 39.6483eV, 1.6min #(91)
+
+O
+
+HN
+
+N
+
+OH
+
+O
+
+OH
+
+OH
+
+H
+
+O
+
+N
+
+HO
+O
+
+OH
+
+HO
+N
+
+HN
+
+OH
+
+OH
+
+298.1189
+
+O
+
+188.0694
+
+N
+40
+
+HO
+
+OH
+
+O
+
+OH
+N
+HN
+
+203.0810
+
+20
+
+N
+
+OH
+
+OH
+
+252.1126
+
+176.0704
+160.0735
+
+344.1254
+
+316.1295
+0
+150
+
+175
+
+200
+
+225
+
+250
+
+275
+
+300
+
+325
+
+350
+
+375
+
+m/z
+
+27
+
+Tabela 3 - Estruturas químicas dos subprodutos de CIP.
+
+m/z
+
+Fórmula
+molecular
+
+Diferença com o CIP
+(C17H18FN3O3)
+
+263
+
+C13H11FN2O3
+
+-C4H7N
+
+288
+
+C15H17N3O3
+
+-C2H1, -F
+
+306
+
+C15H16FN3O3
+
+-C2H2
+
+316
+
+C16H17N3O4
+
+-CH, -F , +O
+
+Estrutura proposta
+
+Ref.
+(25)
+(26)
+(26)
+(27)
+(28)
+(26)
+(25)
+(27)
+(28)
+
+330 A
+
+C17H19N3O4
+
+-F , +O, +H
+
+(25)
+(26)
+(27)
+(28)
+
+330 B
+
+C17H19N3O4
+
+-F , +O, +H
+
+(26)
+(27)
+
+344
+
+C17H17N3O5
+
+-H, -F, +2 O
+
+(25)
+
+346
+
+C17H19N3O5
+
+-F, +H, +2 O
+
+348
+
+C17H18FN3O4
+
++OH
+
+362
+
+C17H19N3O6
+
++ H ,-F, + 3 O
+
+28
+
+Tabela 4 - Estruturas químicas dos subprodutos de ENR.
+Diferença com
+Fórmula
+o ENR
+m/z
+molecular
+(C19H22FN3O3)
+
+Estrutura proposta
+
+Ref.
+
+316
+
+C17H21N3O3
+
+-C2H; -F
+
+(28)
+(29)
+
+332
+
+C17H18FN3O3
+
+-C2H4
+
+(28)
+(29)
+(30)
+
+334
+
+C17H20FN3O3
+
+-C2H2
+
+344
+
+C18H21N3O4
+
+-CH; -F; +O
+
+346
+
+C17H19N3O5
+
+- C2H3; - F;
++ 2O
+
+358
+
+C19H23N3O4
+
+-F; + OH
+
+372
+
+C19H21N3O5
+
+(28)
+
+(28)
+(29)
+
+-H; -F; +2O
+ou
+
+374
+
+C19H23N3O5
+
+-F; - H; + 2OH
+
+390 A
+
+C19H23N3O6
+
++ 1H; -F;+ 3O
+
+390 B
+
+C19H20FN3O5
+
+- 2H ;+ 2O
+
+(29)
+
+29
+
+produtos respectivamente. Alguns produtos gerados pelo processo UV/H2O2 apresentaram as
+mesmas estruturas químicas propostas pelo presente estudo dos intermediários de m/z 263,
+306, 330 A e 344.
+A partir das estruturas químicas dos subprodutos, elaborou-se possíveis rotas de
+degradação do ciprofloxacino e enrofloxacino, ilustradas na Figura 12 e Figura 13
+respectivamente.
+Figura 12 - Proposta de rota de degradação do CIP.
+
+Observando-se os intermediários, a degradação baseou-se: (i) o estado excitado
+tripleto do anel quinolona resulta na substituição do átomo de flúor pela hidroxila ou
+hidrogênio (27); (ii) ruptura do anel piperazínico pela formação do radical (27); (iii) oxidação
+simples no anel piperazínico; (iv) abertura do anel do substituinte ciclopropílico; (v)
+descarboxilação; (vi) e especialmente para o enrofloxacino, reações de oxidação no grupo
+etila do anel piperazínico e a sua remoção, levando ao m/z 332, o próprio ciprofloxacino. A
+relação completa dos subprodutos e suas reações de formação está ilustrada na Tabela 5.
+
+30
+
+Figura 13 - Proposta de rota de degradação do ENR.
+
+Tabela 5 - Produtos e suas reações de formação.
+
+Reações de formação dos produtos
+
+Produtos do CIP (m/z )
+
+Produtos do ENR (m/z)
+
+(i)
+
+288, 330 A, 330 B
+
+316, 346, 358, 390 A
+
+(ii)
+
+288, 306, 330 B
+
+334, 390 A e B
+
+(iii)
+
+316, 344, 346, 348
+
+346, 372
+
+(iv)
+
+316
+
+390 A
+
+(v)
+
+—
+
+344
+
+(vi)
+
+—
+
+332, 372 e 374
+
+31
+
+Estudos sobre a fotólise do ciprofloxacino em meio alcalino, reproduzindo o pH de um
+efluente hospitalar, foram realizados por Kümmerer et al.(27). Apesar das diferentes
+condições reacionais, quatro intermediários de mesma razão m/z encontrados neste trabalho
+(m/z 288, 306, 330 A e 330 B) também foram detectados. Exceto para o m/z 330 A, os autores
+propuseram um mecanismo de formação dos subprodutos mediado por íons OH- como
+doadores de elétrons, e tal fato pode explicar a baixa quantidade em que esses produtos foram
+formados (vide item 2.3.1.2) na condição experimental (meio neutro) deste trabalho. Segundo
+autores, a formação do intermediário m/z 330 A ocorre pela formação do estado excitado
+tripleto do ciprofloxacino e consequente adição de água ao anel e perda do flúor (Figura 14), e
+como não há participação dos íons hidroxilas, esse intermediário foi detectado em maior
+quantidade que os demais. A formação do subproduto do enrofloxacino de m/z 358 ocorre
+pelo mesmo mecanismo, visto que é observada a substituição do flúor por uma hidroxila.
+Figura 14 - Mecanismo de formação do m/z 330 A (CIP) proposto por Kümmerer et al e do m/z 358 (ENR).
+
+Fonte: Adaptado de Kümmerer et al.(27)
+
+Como o ciprofloxacino é susceptível à fotólise, Sturini et al. (28) analisaram a sua
+degradação fotocatalítica induzida pela radiação solar auxiliada por TiO2. Segundo autores, a
+fotocatálise favoreceu a degradação oxidativa da cadeia lateral amina, levando a abertura do
+anel piperazínico. No presente estudo, houve a ruptura do anel apenas para 3 produtos do
+ciprofloxacino (m/z 288, 306 e 330 B), que foram detectados em pequenas concentrações,
+indicando que a presença de um catalisador pode propiciar essa rota. Na fotólise, o
+rompimento do anel dá-se pela abstração do hidrogênio por um radical (•OH), como foi
+sugerido em diversos estudos.(26–28) A formação do birradical pela abstração de um
+hidrogênio da cadeia lateral por um radical resulta na ruptura do anel e, seguida pela adição da
+água, leva ao intermediário de m/z 330 B e uma degradação mais adiante, ao de m/z 288
+(Figura 14). As quinolonas sem o anel piperazínico ainda podem ser excitadas a um estado
+tripleto.(28) Assim após o rompimento do anel gerando o subproduto de m/z 306, este atinge
+o estado excitado e seguindo um mecanismo similar ao de formação do m/z 330 A ocorre a
+formação do m/z 288 (Figura 15).
+
+32
+
+Figura 15 - Mecanismo de formação dos subprodutos de m/z 330 B e 288.
+
+Fonte: Adaptado de Albini et al. e Kümmerer et al.(26,27)
+
+Os produtos do enrofloxacino que apresentaram anel piperazínico aberto foram m/z
+334, 390 A e B. A formação dos intermediários m/z 390 pode ter sido via mecanismo
+semelhante ao de formação do m/z 330 B (produto do ciprofloxacino), em que dois grupos
+hidroxilas são adicionados e posteriormente oxidados a aldeídos (Figura 16). A degradação
+adiante do intermediário similar ao m/z 330 B pode ter levado à formação do produto m/z 334,
+como ocorre na formação do m/z 288.
+Apesar da similaridade estrutural entre os dois fármacos, apenas um produto de
+degradação foi comum aos dois, o m/z 346, além do próprio ciprofloxacino. Esse fato explica
+por que o protocolo de SPE desenvolvido para a amostra de ciprofloxacino não obteve
+sucesso testando-se na solução degradada de enrofloxacino.
+
+33
+
+Figura 16 - Mecanismos de formação dos produtos m/z 334, 390 A e 390 B.
+
+Como não houve a abertura do anel da quinolona (Figura 17) em nenhum subproduto
+detectado, espera-se que a atividade antimicrobinana persista no meio onde a fluoroquinolona
+e seus intermediários estão presentes. No entanto, a perda do átomo de flúor e abertura do
+anel piperazínico em alguns produtos sugerem a perda parcial da atividade. Nos trabalhos de
+Li et al.(25) e Kümmerer et al. (27), a avaliação da atividade biológica dos produtos da
+fotólise do ciprofloxacino baseou-se na inibição da bioluminescência em V. qinghaiensis e V.
+fischeri respectivamente. Em ambos os estudos, houve a diminuição da ecotoxicidade da
+solução contendo o ciprofloxacino ao longo da exposição à luz UV, que pode ser explicado
+pela diminuição da concentração do fármaco e formação de produtos menos tóxicos.
+Figura 17 - Estrutura do anel quinolona.
+
+Em contrapartida, constatou-se a ecotoxicidade dos produtos de degradação do
+enrofloxacino em V. fischeri. (30) Ao longo da irradiação, houve aumento da inibição da
+bioluminescência, implicando na maior ecotoxicidade dos produtos em relação ao fármaco de
+origem. Sendo o ciprofloxacino um de seus produtos, seria esperada a ecotoxicidade da
+
+34
+
+amostra de enrofloxacino degradada. Os produtos originaram-se pela remoção de grupos
+funcionais da molécula de enrofloxacino, o que resultou em menor impedimento estérico e
+maior facilidade em adentrar nas células das bactérias luminescentes, causando maior
+ecotoxicidade. Em um outro estudo, em que se avaliou qualitativamente a atividade
+antimicrobiana dos subprodutos de degradação em E. coli, atribuiu-se parte da ecotoxicidade
+da amostra degradada ao produto de m/z 374, visto que o valor de EC50 de ciprofloxacino é
+próximo ao de enrofloxacino, o ciprofloxacino não poderia ser o único responsável pela maior
+ecotoxicidade da amostra degradada.(29) Nota-se porque a diminuição da concentração do
+fármaco em uma amostra não garante estritamente a eliminação da atividade biológica. No
+entanto, Li et al. (30) verificaram que os produtos também eram degradados, o que sucedeu na
+redução da ecotoxicidade da amostra.
+
+2.3.1.2 Avaliação da fotólise
+Para verificar o avanço da degradação dos fármacos e da formação dos subprodutos,
+traçou-se uma curva das áreas dos picos normalizados em porcentagem em função do tempo
+de fotólise (Figura 18 e Figura 19). As áreas normalizadas dos picos foram calculadas
+dividindo-se a área dos picos cromatográficos dos subprodutos pela área inicial do pico
+referente ao fármaco.
+As Figuras 18.a e 19.a ilustram os perfis de degradação do ciprofloxacino e
+enrofloxacino respectivamente e de formação dos subprodutos ao longo de 6 horas. As
+concentrações máximas dos produtos de degradação são significativamente menores que a
+concentração inicial do fármaco. O intermediário de m/z 374 apresentou a maior concentração
+entre os subprodutos do enrofloxacino, sendo o máximo da área normalizada de 24,6 % da
+área inicial do fármaco (A0). Fica evidente, portanto, que para análises da degradação em
+menores concentrações serão importantes tratamentos dessas amostras antes da análise
+cromatográfica. A curva representada na Figura 18.b e 19.b mostra a eficiência da fotólise na
+degradação dos fármacos a 10 mg L-1 em água. Em uma hora, as concentrações do
+ciprofloxacino e do enrofloxacino foram reduzidas respectivamente em 93,5 % e 96,8 %.
+Pelas curvas da Figura 18.c, nota-se que no tempo de fotólise de 20 min (0,33 horas) a
+maioria das concentrações dos analitos de interesse encontrava-se em seus ápices e por isso
+escolheu-se esse tempo de fotólise para a etapa de avaliação dos métodos de extração para o
+ciprofloxacino. Como a presença dos intermediários de m/z nominal 263, 306, 348, e 362 foi
+
+35
+
+somente detectada na etapa de triagem do método de SPE, a Figura 18 não ilustra os perfis de
+formação desses. Para o enrofloxacino, a determinação do tempo de fotólise da amostra a ser
+submetida à próxima etapa foi dificultada pela gama dos produtos de degradação e dispersão
+das concentrações em que se formaram (Figura 19.c). A amostra para a triagem da SPE
+consistiu de uma fração degradada por 10 minutos e outra por 30 minutos, a fim de que todos
+os intermediários estivessem presentes na amostra.
+Embora a fotólise tenha se mostrado efetiva na degradação dos fármacos, não se
+conhece seu desempenho em casos nos quais o fármaco encontra-se em baixas concentrações
+e em uma matriz mais complexa, o que ocorre em uma situação real. A avaliação da fotólise
+
+Figura 18 - Perfil da fotodegradação do CIP (10 mg L-1) (a) CIP e subprodutos; (b) Apenas CIP; (c)
+Apenas subprodutos.
+
+(a)
+
+(b)
+
+(c)
+
+36
+
+Figura 19 - Perfil da fotodegradação do ENR (10 mg L-1) (a) ENR e subprodutos; (b) Apenas ENR; (c) Apenas
+subprodutos.
+
+(a)
+
+Tempo de fotólise (hora)
+
+(b)
+
+(c)
+
+Tempo de fotólise (hora)
+
+Tempo de fotólise (hora)
+
+do fármaco em alta concentração permitiu, no entanto, identificar os produtos formados, o que
+não seria possível se a degradação fosse efetuada em concentrações menores. Essa dificuldade
+de análise em baixas concentrações deve-se à falta de sensibilidade dos métodos analíticos,
+como foi possível observar para os intermediários que foram apenas detectados após o
+tratamento da amostra. Para se conhecer o real potencial desse método como alternativa à
+degradação de fármacos, foi efetuada a fotólise das FQs em baixas concentrações e em esgoto
+labmade e as amostras foram submetidas à SPE.
+
+2.3.2 Triagem do método de SPE
+Diferentes combinações de fase extratora e solvente foram avaliadas por LC-ESIQToF/MS quanto à recuperação dos analitos nas amostras de ciprofloxacino e enrofloxacino
+submetidas à radiação UV. Os desempenhos relativos em porcentagem de cada combinação
+
+37
+
+sorvente-eluente para todos os subprodutos identificados, além do próprio fármaco foram
+calculados. Para cada analito, considerou-se como 100 % a maior área obtida no
+cromatograma do íon extraído e as outras áreas proporcionais a essa.
+2.3.2.1 Ciprofloxacino
+Na Tabela 6 estão representados os valores das recuperações relativas da amostra de
+ciprofloxacino degradada. Os valores acima de 80% estão em azul, enquanto que os valores
+nulos estão em vermelho.
+Tabela 6 - Recuperação do CIP e seus produtos para as combinações de fase extratora e solvente.
+
+m/z 332
+*Combinação
+
+(CIP)
+
+263
+
+288
+
+306
+
+316
+
+330 A
+
+330 B
+
+344
+
+346
+
+348
+
+362
+
+A1
+
+71,5
+
+87,7
+
+0,9
+
+7,5
+
+88,9
+
+31,5
+
+39,3
+
+5,0
+
+36,8
+
+50,8
+
+0
+
+A2
+
+99,7
+
+85,5
+
+78,6
+
+17,8
+
+88,7
+
+49,4
+
+40,0
+
+14,7
+
+76,3
+
+51,2
+
+81,0
+
+A3
+
+94,9
+
+96,5
+
+57,9
+
+100,0
+
+93,1
+
+37,4
+
+45,9
+
+15,7
+
+17,7
+
+94,2
+
+20,0
+
+A4
+
+96,8
+
+100,0
+
+71,4
+
+10,7
+
+90,3
+
+33,5
+
+43,4
+
+17,3
+
+26,6
+
+49,4
+
+0
+
+A5
+
+73,8
+
+49,3
+
+25,1
+
+6,1
+
+62,4
+
+15,4
+
+25,7
+
+16,6
+
+17,9
+
+35,0
+
+58,0
+
+A6
+
+88,9
+
+96,9
+
+92,7
+
+22,2
+
+92,2
+
+38,4
+
+44,0
+
+15,5
+
+18,9
+
+52,4
+
+13,0
+
+B1
+
+81,3
+
+74,2
+
+73,2
+
+10,6
+
+92,2
+
+39,2
+
+40,3
+
+15,9
+
+32,5
+
+52,6
+
+0
+
+B2
+
+98,3
+
+67,3
+
+87,4
+
+17,6
+
+85,1
+
+49,6
+
+41,3
+
+12,9
+
+100,0
+
+54,0
+
+0
+
+B3
+
+85,1
+
+77,6
+
+86,5
+
+14,2
+
+100,0
+
+27,2
+
+46,7
+
+16,6
+
+19,3
+
+75,6
+
+0
+
+B4
+
+71,0
+
+59,4
+
+76,9
+
+8,3
+
+65,1
+
+53,0
+
+33,8
+
+11,8
+
+46,3
+
+33,9
+
+0
+
+B5
+
+94,1
+
+64,6
+
+100,0
+
+13,9
+
+83,0
+
+46,9
+
+39,3
+
+15,8
+
+92,4
+
+55,9
+
+0
+
+B6
+
+77,4
+
+79,5
+
+78,7
+
+25,9
+
+91,3
+
+18,7
+
+41,2
+
+16,2
+
+11,4
+
+46,5
+
+0
+
+C1
+
+51,1
+
+33,8
+
+14,7
+
+7,6
+
+29,7
+
+18,3
+
+25,8
+
+0,3
+
+6,5
+
+8,0
+
+100,0
+
+C2
+
+87,2
+
+72,9
+
+50,0
+
+10,7
+
+92,5
+
+24,6
+
+41,6
+
+16,1
+
+87,9
+
+47,3
+
+1
+
+C3
+
+9,0
+
+0,0
+
+7,8
+
+0,0
+
+4,6
+
+0,0
+
+2,6
+
+0,0
+
+0,0
+
+0,0
+
+0
+
+C4
+
+67,8
+
+81,4
+
+27,3
+
+8,7
+
+81,9
+
+15,5
+
+39,8
+
+0,5
+
+34,9
+
+24,9
+
+0
+
+C5
+
+85,6
+
+72,0
+
+38,1
+
+9,3
+
+69,4
+
+21,6
+
+34,8
+
+2,9
+
+65,8
+
+42,7
+
+13,0
+
+C6
+
+23,7
+
+7,2
+
+12,6
+
+11,4
+
+7,1
+
+0,3
+
+1,3
+
+2,8
+
+2,3
+
+3,4
+
+0
+
+D1
+
+87,0
+
+68,8
+
+66,1
+
+9,2
+
+40,4
+
+45,6
+
+93,5
+
+100,0
+
+9,7
+
+54,4
+
+0
+
+D2
+
+99,9
+
+79,3
+
+79,8
+
+14,8
+
+36,3
+
+98,3
+
+100,0
+
+76,7
+
+9,3
+
+58,0
+
+0
+
+D3
+
+92,3
+
+76,2
+
+83,3
+
+14,5
+
+39,9
+
+8,6
+
+59,6
+
+82,7
+
+8,9
+
+100,0
+
+28,0
+
+D4
+
+87,1
+
+71,7
+
+54,1
+
+9,9
+
+36,4
+
+86,3
+
+92,9
+
+84,1
+
+9,1
+
+49,8
+
+0
+
+D5
+
+100,0
+
+92,2
+
+71,4
+
+14,1
+
+40,3
+
+100,0
+
+95,1
+
+75,9
+
+9,3
+
+51,4
+
+0
+
+D6
+
+96,5
+
+86,0
+
+94,0
+
+19,4
+
+38,4
+
+22,9
+
+67,2
+
+89,3
+
+8,8
+
+48,1
+
+0
+
+E1
+
+51,6
+
+26,5
+
+20,5
+
+3,6
+
+19,5
+
+39,1
+
+28,0
+
+44,0
+
+1,0
+
+14,4
+
+49,0
+
+E2
+
+49,2
+
+73,6
+
+22,9
+
+6,0
+
+36,8
+
+30,2
+
+26,8
+
+83,7
+
+9,2
+
+48,0
+
+34,0
+
+E3
+
+13,2
+
+25,0
+
+13,7
+
+6,2
+
+14,6
+
+0,3
+
+2,4
+
+37,5
+
+0,6
+
+5,8
+
+0
+
+E4
+
+52,0
+
+72,7
+
+24,7
+
+4,7
+
+42,2
+
+56,5
+
+31,1
+
+79,1
+
+5,2
+
+47,3
+
+7,0
+
+E5
+
+50,6
+
+87,4
+
+20,9
+
+4,5
+
+38,5
+
+52,6
+
+28,7
+
+82,9
+
+7,3
+
+47,3
+
+10,0
+
+27,8
+24,4
+12,9
+E6
+*Codificação conforme Tabela 2.
+
+3,3
+
+4,1
+
+3,7
+
+0,9
+
+29,5
+
+3,4
+
+12,4
+
+0
+
+38
+
+O ciprofloxacino apresenta duas constantes principais de ionização, associados ao
+grupo carboxílico do anel quinolona (pKa = 5,76) e ao grupo amina secundária do anel
+piperazínico (pKa = 8,68). Assim em meio neutro, o ciprofloxacino apresenta-se na forma de
+zwitteríon. A presença da carga positiva no grupo amina pode ter diminuído a retenção do
+composto nas fases de troca aniônica Strata-XA (série C) e Chromabond HR-XA (série E),
+nas quais apresentaram a menor recuperação. Para essas fases, o solvente acidificado resultou
+em melhores recuperações devido à protonação do composto, interrompendo a interação
+eletrostática e eluindo-o. Com o solvente alcalinizado, o grupo carboxílico permanece
+ionizado e a molécula retida na fase extratora. Dentre os sorventes de fase reversa (Oasis
+HLB, Strata-X e Chromabond HR-X - série A, B e C respectivamente), o ciprofloxacino foi
+melhor recuperado em Chromabond HR-X.
+O subproduto m/z 362 foi pouco recuperado em todas as fases, sendo as melhores
+recuperações obtidas para as fases de troca aniônica. A estrutura química sugerida para o
+composto apresenta além do grupo carboxílico três grupos hidroxilas. Para o Strata-X, o
+intermediário não foi recuperado com nenhum solvente, indicando a ausência de interação
+entre o composto e a fase. De fato, a especificação do produto diz reter preferencialmente
+compostos neutros. Para as fases de troca aniônica, a eluição com acetonitrila (C1-C3, E1-E3)
+resultou em melhores recuperações do que com metanol (C4-C6, E4-E6). A ionização de
+ácidos neutros é governada pelas interações soluto-solvente e principalmente interações
+eletrostáticas. O aumento da proporção de solvente orgânico na fase móvel reduz a constante
+dielétrica do meio, o que perturba a ionização dos ácidos neutros. Assim, ocorre um aumento
+do pKa do ácido em solventes orgânicos.(31) Comparando-se esse efeito entre os solventes
+acetonitrila e metanol, o pKa obtido em metanol puro é menor que em acetonitrila pura, visto
+que o metanol apresenta solvatação dos íons similar à da água (ligação de hidrogênio).(32)
+Portanto, com a passagem de acetonitrila, espera-se que a forma protonada do composto seja a
+mais favorável pelo maior pKa, o que interrompe a interação entre cargas, resultando na sua
+eluição. Da mesma forma que o ciprofloxacino, esse composto não foi recuperado com
+eluição em solvente alcalino. Apesar das recuperações serem calculadas em relação a cada
+analito individualmente, pode-se fazer uma comparação qualitativa entre o ciprofloxacino e os
+produtos m/z 330 A e 362. Observando a rota de degradação do ciprofloxacino até a formação
+do m/z 362 (Figura 12) passando pelo m/z 330 A, nota-se aumento da polaridade dos
+compostos e diminuição nos valores de recuperação. De um modo geral, as melhores
+
+39
+
+recuperações são obtidas para o ciprofloxacino, composto menos polar, visto que as extrações
+baseiam-se no mecanismo de fase reversa.
+Pela diversidade de compostos, é difícil traçar um perfil geral do comportamento dos
+analitos na retenção nas diferentes fases extratoras avaliadas e na eluição.
+As combinações de fase extratora e eluente que não foram capazes de recuperar algum
+analito, isto é, apresentaram recuperação nula, foram eliminadas como candidatos a testes
+posteriores, como foi o caso do cartucho Strata-X (série B), para o qual não se observou a
+recuperação do intermediário de m/z 362 para nenhum eluente. De modo geral, as fases
+trocadores aniônicos apresentaram as menores recuperações.
+O cartucho Oasis HLB foi eficaz na recuperação da maioria dos analitos, tendo
+recuperações nulas quando combinadas com solventes neutros (A1 e A4). Quando utilizada a
+acetonitrila, os analitos foram melhor eluídos. Para alguns, foi mais eficiente a condição
+ácida, A2, e para outros a condição básica, A3, cujas recuperações estão em destaque na
+Tabela 6. Portanto, a eluição sequencial com diferentes condições ácidas e básicas dos
+eluentes pode levar a maior recuperação a todos os analitos.
+No entanto, experimentalmente foi verificado que o sal (NH4)3PO4, resultado da reação
+ácido-base entre H3PO4 e NH4OH, é pouco solúvel em ACN, já que ocasionou uma
+precipitação. Portanto, acrescentou-se a eluição com ACN neutra após a eluição com ACN
+básica para eliminar possíveis traços básicos na fase extratora, impedindo que houvesse a
+precipitação do sal no solvente. E para não ocorrer a adsorção dos analitos no sal, coletou-se a
+fração ácida em frasco diferente da fração básica, a fim de impedir a precipitação. Após
+secagem, a ressuspensão das frações foi feita em conjunto, em meio aquoso.
+
+2.3.2.2 Enrofloxacino
+Pela similaridade estrutural entre o enrofloxacino e o ciprofloxacino, avaliou-se para o
+primeiro o mesmo método de SPE desenvolvido para o último. O desempenho desse método
+encontra-se na Tabela 7. O valor da recuperação representa a razão das áreas do analito sem a
+extração e após a extração. Os valores das recuperações dos analitos estão bastante dispersos,
+evidenciando a heterogeneidade dos compostos. Este protocolo apresentou baixa recuperação
+para o próprio fármaco e seu intermediário principal, m/z 374. Assim, avaliaram-se todas as
+fases extratoras e todos os eluentes para obter o método de extração de maior eficiência para o
+
+40
+
+ENR e seus intermediários. Na Tabela 8 está presente o desempenho relativo de cada
+combinação sorvente-eluente para cada analito.
+Tabela 7 - Recuperação do ENR e seus intermediários para Oasis HLB e eluição sequencial de ACN.
+
+m/z
+
+360
+(ENR)
+
+374
+
+Recuperação
+(%)
+
+39,1
+
+20,6
+
+390 A 390 B
+0,0
+
+0,0
+
+346
+
+358
+
+112,9 200,3
+
+332
+
+316
+
+334
+
+70,2
+
+65,0
+
+0,0
+
+372
+
+344
+
+156,3 224,5
+
+Tabela 8 - Recuperação do ENR e seus produtos para as combinações de fase extratora e solvente.
+360
+m/z
+374
+(ENR)
+*Combinação
+92,3 79,2
+A1
+
+390 A
+
+390 B
+
+346
+
+358
+
+332
+(CIP)
+
+316
+
+344
+
+372
+
+334
+
+0,0
+
+100,0
+
+45,0
+
+89,0
+
+100,0
+
+23,5
+
+5,5
+
+69,7
+
+50,3
+
+A2
+
+52,8
+
+11,2
+
+0,0
+
+40,1
+
+0,0
+
+54,2
+
+6,7
+
+65,7
+
+15,0
+
+0,0
+
+52,1
+
+A3
+
+94,6
+
+19,6
+
+1,2
+
+0,0
+
+0,0
+
+58,1
+
+9,7
+
+29,5
+
+58,3
+
+79,1
+
+100,0
+
+A4
+
+79,9
+
+20,2
+
+0,0
+
+0,0
+
+0,0
+
+99,7
+
+15,8
+
+52,2
+
+56,4
+
+48,9
+
+84,5
+
+A5
+
+69,8
+
+37,9
+
+0,0
+
+0,0
+
+32,3
+
+86,0
+
+9,1
+
+100,0
+
+4,8
+
+0,0
+
+78,5
+
+A6
+
+57,4
+
+26,1
+
+9,2
+
+0,0
+
+0,0
+
+17,9
+
+7,2
+
+17,4
+
+17,9
+
+31,0
+
+52,6
+
+B1
+
+68,7
+
+50,6
+
+100,0
+
+0,0
+
+82,8
+
+81,7
+
+4,8
+
+23,3
+
+48,6
+
+40,6
+
+0,0
+
+B2
+
+47,0
+
+0,0
+
+0,0
+
+0,0
+
+0,0
+
+53,8
+
+5,7
+
+68,1
+
+11,3
+
+0,0
+
+50,0
+
+B3
+
+90,6
+
+29,1
+
+0,0
+
+0,0
+
+0,0
+
+77,5
+
+9,6
+
+32,2
+
+83,5
+
+60,1
+
+0,0
+
+B4
+
+59,2
+
+76,7
+
+33,7
+
+75,1
+
+92,3
+
+57,1
+
+3,0
+
+18,1
+
+51,6
+
+38,5
+
+33,0
+
+B5
+
+70,0
+
+36,6
+
+0,0
+
+0,0
+
+0,0
+
+85,4
+
+10,7
+
+75,9
+
+14,2
+
+15,5
+
+54,4
+
+B6
+
+77,0
+
+42,6
+
+5,4
+
+0,0
+
+0,0
+
+62,6
+
+13,3
+
+32,6
+
+88,1
+
+64,8
+
+87,5
+
+C1
+
+86,6
+
+21,3
+
+2,3
+
+0,0
+
+60,9
+
+100,0
+
+9,2
+
+29,1
+
+47,1
+
+34,0
+
+49,8
+
+C2
+
+48,6
+
+0,0
+
+0,0
+
+0,0
+
+0,0
+
+51,7
+
+4,8
+
+37,5
+
+32,5
+
+0,0
+
+32,0
+
+C3
+
+62,0
+
+17,9
+
+8,0
+
+0,0
+
+0,0
+
+36,0
+
+7,7
+
+16,1
+
+51,0
+
+12,5
+
+0,0
+
+C4
+
+67,1
+
+44,5
+
+20,5
+
+0,0
+
+37,9
+
+93,3
+
+8,9
+
+20,0
+
+93,4
+
+52,5
+
+49,2
+
+C5
+
+77,8
+
+50,4
+
+0,0
+
+0,0
+
+32,7
+
+71,9
+
+0,0
+
+90,2
+
+4,7
+
+0,0
+
+0,0
+
+C6
+
+3,9
+
+0,0
+
+0,0
+
+0,0
+
+0,0
+
+14,6
+
+3,4
+
+8,7
+
+10,0
+
+13,7
+
+15,2
+
+D1
+
+100,0 100,0
+
+8,6
+
+54,4
+
+37,3
+
+82,1
+
+2,9
+
+21,8
+
+86,9
+
+51,0
+
+31,8
+
+D2
+
+55,4
+
+18,1
+
+0,0
+
+0,0
+
+0,0
+
+49,0
+
+7,4
+
+1,2
+
+12,8
+
+0,0
+
+57,4
+
+D3
+
+76,0
+
+48,9
+
+0,0
+
+0,0
+
+0,0
+
+71,3
+
+12,6
+
+32,5
+
+35,3
+
+56,5
+
+0,0
+
+D4
+
+70,9
+
+78,5
+
+10,2
+
+73,4
+
+43,2
+
+90,3
+
+0,0
+
+24,7
+
+45,0
+
+55,3
+
+38,6
+
+D5
+
+66,5
+
+63,4
+
+0,0
+
+0,0
+
+100,0
+
+94,1
+
+0,0
+
+10,9
+
+39,1
+
+14,4
+
+53,1
+
+D6
+
+78,4
+
+31,0
+
+10,5
+
+0,0
+
+0,0
+
+59,7
+
+8,8
+
+26,6
+
+60,9
+
+61,3
+
+56,9
+
+E1
+
+97,2
+
+57,1
+
+3,3
+
+0,0
+
+31,4
+
+63,9
+
+3,2
+
+15,9
+
+84,9
+
+42,4
+
+35,5
+
+E2
+
+54,3
+
+14,8
+
+0,0
+
+18,6
+
+0,0
+
+38,5
+
+3,8
+
+57,9
+
+6,6
+
+0,0
+
+45,2
+
+E3
+
+58,8
+
+17,3
+
+7,5
+
+0,0
+
+0,0
+
+20,6
+
+3,7
+
+9,3
+
+100,0
+
+20,3
+
+0,0
+
+E4
+
+84,5
+
+73,0
+
+32,9
+
+0,0
+
+24,5
+
+80,3
+
+3,2
+
+12,3
+
+85,5
+
+100,0
+
+35,3
+
+E5
+
+61,8
+
+75,1
+
+0,0
+
+0,0
+
+0,0
+
+46,3
+
+0,0
+
+48,1
+
+21,5
+
+0,0
+
+59,2
+
+0,0
+
+0,0
+
+3,4
+
+3,4
+
+6,6
+
+16,8
+
+15,8
+
+0,0
+
+23,7 10,1
+5,3
+E6
+*Codificação conforme Tabela 2.
+
+41
+
+Nota-se uma grande dispersão dos valores do desempenho da combinação sorventeeluente para os analitos, mostrando que os compostos apresentam diferentes características
+físico-químicas.
+O enrofloxacino também possui em sua estrutura o grupo carboxílico e o grupamento
+amina, os quais estão associados às constantes de ionização de 5,69 e 6,68 respectivamente.
+Em meio neutro, o ácido carboxílico do composto estará na forma dissociada e diferentemente
+do ciprofloxacino, o grupo amina não estará protonado. Desse modo, a interação com a fase
+trocadora de ânions estará favorecida devido à ausência da carga positiva na molécula, o que
+explica as melhores recuperações de enrofloxacino nessas fases.
+Comparando-se as recuperações do ciprofloxacino como molécula precursora e como
+produto de degradação, nota-se discrepância dos valores, sendo bem menores na amostra de
+enrofloxacino degradada. Tal fato pode ser explicado pela menor concentração, visto que é
+um intermediário nessa amostra, e competição pelos sítios ativos da fase extratora. O
+enrofloxacino e o ciprofloxacino apresentam características distintas na retenção em fase
+reversas.(33) O grupo etila ligado ao anel piperazínico presente no enrofloxacino contribui
+para a retenção desse composto nas fases apolares pela diminuição da polaridade.
+Os subprodutos de m/z 316 e 334 que resultaram da abertura do anel piperazínico e
+remoção do grupo etila apresentaram recuperações consideráveis. O grupamento amina desses
+intermediários pode contribuir na retenção dos analitos na fase pela interação dipolar com o
+grupo pirrol da fase extratora Oasis HLB. Para os subprodutos de m/z 390 A e 390 B, a
+presença dos grupos aldeídos pode ter influenciado nas baixas recuperações, principalmente
+para o m/z 390 B, que apresentou recuperação nula a todas as combinações com a fase de
+troca aniônica Strata-XA.
+As combinações A1 e B4 apresentaram recuperações consideráveis. A fim de obter
+uma melhor recuperação para todos os analitos, realizou-se extrações associando-se as
+combinações A1 e B4.
+Os cromatogramas da Figura 20 foram obtidos a partir da análise por LC-ESIQToF/MS na avaliação da recuperação dos analitos para cada protocolo proposto. Os
+cromatogramas evidenciam a importância da etapa de pré-concentração, visto que os picos do
+cromatograma referente à amostra sem tratamento apresentaram intensidades muito abaixo
+das amostras que se submeteram à SPE. Os protocolos propostos apresentaram recuperações
+semelhantes exceto ao intermediário de m/z 390 A, que foi somente detectado para o
+
+42
+
+protocolo A → B. Assim, este protocolo foi selecionado para anteceder a análise
+cromatográfica das amostras de ENR em baixa concentração submetidas à fotólise.
+Figura 20 - Cromatogramas de íon total (TIC) dos protocolos de SPE para ENR e seus produtos. (a) Amostra
+sem SPE. (b) Amostra submetida ao protocolo A → B. (c) Amostra submetida ao protocolo B → A.
+(d) Amostra submetida ao protocolo A + B.
+Intens.
+x106
+
+branco ENRO pre teste met_31_02_8369.d: TIC +All MS
+
+(a)
+
+1.5
+1.0
+0.5
+Intens.
+x106
+
+teste pre ENRO A-B certa_32_01_8374.d: TIC +All MS
+
+(b)
+
+1.5
+
+m/z 390 A
+
+1.0
+0.5
+
+Intens.
+x106
+
+teste pre ENRO B-A_33_01_8372.d: TIC +All MS
+
+(c)
+
+1.5
+1.0
+0.5
+0.0
+Intens.
+x106
+
+teste pre ENRO mix AB_34_01_8373.d: TIC +All MS
+
+(d)
+
+1.5
+1.0
+0.5
+0.0
+0
+
+2.3.3
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Time [min]
+
+Fotólise do fármaco em baixa concentração
+A fim de avaliar o real potencial da fotólise, efetuaram-se degradações do fármaco em
+
+baixa concentração em água e em esgoto labmade, simulando as condições em que o fármaco
+encontra-se como poluente em efluente. Antes da análise por LC-ESI-QToF/MS, as amostras
+foram submetidas às extrações a fim de pré-concentrar e remover possíveis interferentes da
+matriz de esgoto labmade que poderiam prejudicar a análise. Para a amostra degradada de
+ciprofloxacino empregou-se Oasis HLB como sorvente e eluição sequencial de ACN básica,
+ACN pura e ACN ácida. Para o enrofloxacino, as amostras sucederam ao protocolo A → B.
+Primeiramente, avaliou-se o efeito do volume da amostra na etapa de extração,
+variando-se o volume da amostra de 25 mL utilizado na etapa de triagem do melhor método
+de SPE para 100 mL. A solução do fármaco em alta concentração foi degradada e
+posteriormente dilui-a 100 vezes para então ser submetida à extração. Os valores da
+
+43
+
+recuperação de cada analito, apresentados na Tabela 9 e Tabela 10, correspondem à razão das
+áreas dos picos cromatográficos da amostra pré-concentrada e da amostra sem SPE.
+Tabela 9 - Recuperação de CIP e intermediários em água e esgoto labmade.
+CIP
+
+263
+
+288
+
+306
+
+316
+
+330
+A
+
+330
+B
+
+344
+
+346
+
+348
+
+362
+
+Recuperação (%) 94,6
+
+94,7
+
+75,9
+
+98,0
+
+74,1
+
+49,6
+
+78,7
+
+59,8
+
+19,6
+
+89,9
+
+79,1
+
+3,0
+
+4,3
+
+4,7
+
+5,1
+
+4,8
+
+3,2
+
+4,4
+
+6,3
+
+2,3
+
+6,2
+
+5,1
+
+Recuperação (%) 90,7
+
+93,7
+
+96,6
+
+18,5
+
+50,7
+
+55,8
+
+89,6
+
+50,0
+
+31,0
+
+57,1
+
+12,0
+
+6,2
+
+9,9
+
+2,8
+
+6,7
+
+4,2
+
+4,0
+
+6,9
+
+3,9
+
+3,6
+
+1,4
+
+Analitos (m/z)
+Água
+Milli-Q
+Esgoto
+labmade
+
+Erro (+/-)
+
+Erro (+/-)
+
+4,2
+
+Tabela 10 - Recuperação de ENR e seus produtos em água e esgoto labmade.
+
+Água
+Milli-Q
+Esgoto
+labmade
+
+390
+B
+
+346
+
+358
+
+332
+
+316
+
+344
+
+372
+
+334
+
+42,3 112,2
+
+0
+
+59,2
+
+47,1
+
+47,4
+
+70,1
+
+81,9
+
+89,9
+
+55,1
+
+5,4
+
+3,7
+
+7,8
+
+-
+
+3,2
+
+3,2
+
+2,9
+
+5,0
+
+7,3
+
+8,4
+
+4,2
+
+Recuperação (%)
+
+76,4
+
+15,7
+
+0
+
+0
+
+0
+
+62,6
+
+77,1
+
+60,3
+
+63,1
+
+80,9
+
+47,2
+
+Erro (+/-)
+
+6,1
+
+2,2
+
+-
+
+-
+
+-
+
+4,5
+
+5,2
+
+5,9
+
+6,2
+
+7,7
+
+3,9
+
+Analitos (m/z)
+
+ENR
+
+374
+
+Recuperação (%)
+
+93,7
+
+Erro (+/-)
+
+390
+A
+
+O método desenvolvido para a amostra do ciprofloxacino obteve uma boa recuperação
+geral dos analitos da amostra diluída em água, apresentando uma menor eficiência na extração
+dos intermediários de m/z 330 A, 344 e 346. O meio de esgoto labmade não alterou
+significativamente a eluição dos intermediários m/z 263, 330 A, 344 e do ciprofloxacino.
+Entretanto, as recuperações dos intermediários m/z 288, 330 B e 346 foram favorecidas e dos
+m/z 306, 316, 348 e 362 foram prejudicadas pelo esgoto labmade.
+O protocolo A → B mostrou-se mais eficaz na recuperação dos analitos em meio
+aquoso. O intermediário m/z 390 B não foi recuperado em nenhum dos meios, indicando que
+o volume da amostra interferiu na sua extração. Em esgoto labmade, os intermediários de m/z
+390 A e 346 não foram recuperados e os de m/z 374, 316, 344, 372, 334 e o próprio
+enrofloxacino apresentaram menor recuperação, evidenciando a interferência da matriz no
+processo de pré-concentração.
+Os perfis de formação dos produtos e de degradação do ciprofloxacino e enrofloxacino
+em água e em esgoto labmade estão representados nas Figura 21 e Figura 22 respectivamente.
+
+44
+
+As curvas foram traçadas considerando-se a área relativa, ou seja, a razão da área do pico
+cromatográfico do analito pela área do pico do fármaco em tempo zero de reação.
+As curvas de formação dos intermediários nas diferentes matrizes apresentam
+diferenças evidentes. Entre os produtos do ciprofloxacino, o intermediário, cuja concentração
+em que se forma é a mais elevada na água, é de m/z 316 e, no esgoto labmade, o intermediário
+de m/z 346. No entanto, pela Tabela 9, observa-se que o intermediário m/z 316 é mais bem
+recuperado em água e o m/z 346, em esgoto labmade. Logo não é possível afirmar se as
+diferenças nos perfis de formação dos produtos devem-se à interferência da matriz na
+degradação, na extração, na ionização em MS ou na combinação destas. Na amostra do
+enrofloxacino, em meio aquoso o intermediário m/z 374 se formou em maior concentração e,
+em esgoto labmade, o intermediário m/z 332. Além disso, após uma hora de reação, alguns
+intermediários (m/z 374, 390 A, 344 e 316) ainda foram detectados em meio aquoso. Pela
+Tabela 10, esses intermediários foram melhores recuperados em meio aquoso do que em
+esgoto labmade. No entanto, na fotólise em alta concentração do enrofloxacino, os
+intermediários de m/z 344 e 374 foram detectados mesmo após 6 horas sob radiação
+ultravioleta, indicando que estes são persistentes ao processo. Visto que os intermediários
+podem reter a atividade antibacteriana, principalmente o produto de m/z 374, como foi
+constatado por Wammer et al. (29), a solução final pode se apresentar tóxica.
+Apesar dos perfis das curvas dos intermediários terem sido diferentes, os perfis da
+degradação do ciprofloxacino assemelharam-se bastante. Como as recuperações do fármaco
+em água e em esgoto labmade apresentaram valores aproximados, deduz-se que a fotólise no
+segundo meio foi tão eficaz quanto em água. Em ambas as condições, não se detectava a
+presença do fármaco após 20 minutos de reação, mostrando a eficiência do processo em
+concentrações baixas do fármaco e em esgoto labmade.
+Em contrapartida, o enrofloxacino não foi mais detectado em 20 minutos de reação em
+meio aquoso, enquanto que em esgoto labmade, em 40 minutos. Visto que a recuperação do
+enrofloxacino em água foi maior do que em esgoto labmade, pode-se concluir que a fotólise
+perde eficiência em matriz mais complexa, cujos componentes podem competir pelos fótons
+com o enrofloxacino.
+
+45
+
+Figura 21 - Perfil da fotólise do CIP a 0,1 mg L-1 em (a) água e (b) esgoto labmade.
+
+CIP e seus subprodutos
+
+Apenas subprodutos
+
+Apenas CIP
+
+(a)
+
+(b)
+
+46
+
+Figura 22 - Perfil da fotólise do ENR a 0,1 mg L-1 em (a) água e (b) esgoto labmade.
+
+ENR e seus subprodutos
+
+Apenas subprodutos
+
+Apenas ENR
+
+(a)
+
+(b)
+
+47
+
+3
+
+CONCLUSÃO
+A fotólise do fármaco em alta concentração foi uma etapa importante para se analisar
+
+os produtos de degradação formados e desenvolver método eficiente de extração da amostra
+contendo os intermediários e o próprio fármaco. Foi possível identificar dez subprodutos para
+cada fármaco, no entanto mais produtos poderiam estar presentes em níveis abaixo do limite
+de detecção do equipamento. A baixa concentração em que o fármaco geralmente se encontra
+no efluente pode levar a formação de produtos em níveis ainda menores. E como constatado
+no trabalho, alguns produtos foram mais facilmente detectados após a extração, evidenciando
+a importância dessa etapa para analisar os subprodutos apesar dos procedimentos da SPE
+serem exaustivos.
+Apesar da similaridade estrutural dos fármacos estudados, o ciprofloxacino e o
+enrofloxacino apresentaram comportamentos distintos na extração, sendo necessário
+desenvolver métodos de SPEs diferentes às amostras degradadas de cada fármaco. Para o
+ciprofloxacino, o método de SPE consistiu na fase extratora Oasis HLB e eluição sequencial
+de ACN básica, ACN pura e ACN ácida. E para amostra de enrofloxacino degradada foi
+proposto o acoplamento das fases Oasis HLB e Strata-X, com a amostra passando
+primeiramente pela Oasis HLB e em seguida pela Strata-X, e eluição de ACN seguida por
+MeOH. Além disso, os subprodutos também apresentaram recuperações diferentes ao do
+próprio fármaco. Caso fossem aplicados nas amostras degradadas os procedimentos de SPE
+para os fármacos já estabelecidos na literatura, poderia haver perda dos produtos.
+Há muitos estudos referentes à degradação de fármacos na literatura, entretanto são
+poucos aqueles que reproduzem as condições em que esses poluentes se encontram em
+efluentes, como a concentração na faixa de ng L-1 a μg L-1 e matriz complexa. A fim de evitar
+a variabilidade das características de um efluente real, foi realizada fotólise em matriz de
+esgoto labmade para verificar se de fato os componentes da matriz poderia influenciar no
+processo. Nas condições experimentais em que foram realizadas as fotólises, verificou-se que
+o procedimento é eficaz na degradação do ciprofloxacino em ambos os meios em que se
+processou a reação. Após 20 minutos de reação, a presença do ciprofloxacino não era mais
+detectada. Os perfis de formação dos intermediários diferiram-se bastante no meio aquoso e
+no esgoto labmade, indicando que o meio pode influenciar tanto na degradação quanto na
+etapa de extração.
+
+48
+
+De modo geral, a degradação do enrofloxacino por fotólise apresentou mais problemas
+que para o ciprofloxacino. A fotólise gerou produtos com atividade antimicrobiana (m/z 332 e
+374) e alguns produtos não foram degradados após 1 hora de reação em baixa concentração
+do fármaco e mesmo após 6 horas submetidas à luz UV na fotólise em alta concentração. Em
+matriz de efluente labmade, o enrofloxacino foi detectado após 40 minutos de reação,
+enquanto que em água em 20 minutos a sua presença não era mais detectada. Os componentes
+da matriz podem ter interferido na absorção da energia luminosa pela molécula do
+enrofloxacino. Assim, mais estudos sobre a real ecotoxicidade dos produtos, além da
+fotodegradabilidade dos mesmos em água e do enrofloxacino em matriz complexa devem ser
+realizados.
+Para introdução da fotólise nas estações de tratamento de efluente como processo
+complementar na degradação desses poluentes, ainda devem ser feitos estudos quanto à
+eficiência em uma matriz de esgoto real e aos custos na implementação do processo.
+
+49
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+1 LENARDÃO, E.J.; DABDOUB, M.J.; FREITAG, R. A.; SILVEIRA, C. C."Green
+Chemistry" - Os 12 princípios da Química Verde e sua inserção nas atividades de ensino e
+pesquisa. Quim. Nova, v. 26, n. 1, p. 123–9, 2003.
+
+2 ROMANO, P. N.; SOUSA-AGUIAR, E. F.; ALMEIDA, J. M. A. R.; FERNANDES, R. P.;
+CARVALHO, Y. Química Verde: A evolução de um conceito. Quim. Nova, v. 37, n. 7, p.
+1257–61, 2014.
+
+3 HIGAITE, C.; AZARNOFF, D.L. Drugs and drug metabolites as environmental
+contaminants: chlorophenoxyisobutyrate and salicylic acid in sewage water effluent. Life Sci.,
+v . 20, n. 3, p. 337–42, 1977.
+
+4 SEIFRTOVÁ, M.; NOVÁKOVÁ, L.; LINO, C.; PENA, A.; SOLICH, P. An overview of
+analytical methodologies for the determination of antibiotics in environmental waters. Anal.
+Chim. Acta, v. 649, n. 2, p. 158–79, 2009.
+
+5 WISE, R. Antimicrobial resistance: priorities for action. J. Antimicrob. Chemother., v. 49,
+p. 585–6, 2002.
+
+6 ADACHI, F.; YAMAMOTO, A.; TAKAKURA, K.; KAWAHARA, R. Occurrence of FQ
+and FQ-resistence genes in the aquatic environment. Science of the Total Environment, v.
+444, p. 508-14, 2013
+
+7 BILA, D. M.; DEZOTTI, M.. Fármacos no meio ambiente. Quim. Nova, v. 26, n. 4, p.
+523–30, 2003.
+
+8 NOGUEIRA, R.F.P.; MELO, S.A.S.; TROVÓ, A. G.; BAUTITZ, I. R. Degradação de
+Fármacos residuais por processos oxidativos avançados. Quim. Nova, v. 32, n. 1, p. 188–97,
+2009.
+
+50
+
+9 GÖBEL, A.; MCARDELL, C.S.; JOSS, A.; SIEGRIST, H.; GIGER W. Fate of
+sulfonamides, macrolides, and trimethoprim in different wastewater treatment technologies.
+Sci. Total Environ., v. 372, p. 361–71, 2007.
+
+10 HOMEM, V.; SANTOS, L. Degradation and removal methods of antibiotics from
+aqueous matrices - a review. J. Environ. Econ. Manage., v. 92, n. 10, p. 2304–47, 2011.
+
+11 MINISTÉRIO DA AGRICULTURA E DO ABASTECIMENTO. Instrução Normativa
+Nº 42 de 20 de dezembro de 1999. Brasília, 1999. 51 p. Disponível em:
+<http://www.agricultura.gov.br/arq_editor/file/CRC/IN%2042-1999.pdf> Acesso em: 16 dez.
+2014.
+
+12 AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA). Resolução - RDC
+Nª 20 de 5 de maio de 2011. Brasília, 2011. Disponível em:
+<http://www.anvisa.gov.br/sngpc/Documentos2012/RDC%2020%202011.pdf?jornal=...%28
+Acessadol> Acesso em: 16 dez. 2014.
+
+13 VASCONCELOS, T.G.; KÜMMERER, K.; HENRIQUES, D. M.; MARTINS, A. F.
+Ciprofloxacin in hospital effluent: degradation by ozone and photoprocesses. J. Hazard.
+Mater., v. 169, p. 1154–8, 2009.
+
+14 MALATO, S.; SIRTORI, C.; ZAPATA, A; OLLER, I. GERNJAK, W. AGÜERA, A.
+Decontamination industrial pharmaceutical wastewater by combining solar photo-Fenton and
+biological treatment. Water Res., v. 43, n. 3, p. 661–8, 2009.
+
+15 LANÇAS, F. M. Cromatografia líquida moderna: HPLC/CLAE. 1. ed. Campinas:
+Editora Átomo, 2009. 384p.
+
+16 PATRICK, G. L. Antibacterial Agents. In: An Introduction to Medicinal Chemistry. New
+York: Oxford University Press Inc., 1995. v. 1, p. 145-204.
+
+17 PUPO, M.T.; GUIMARÃES, D.O.; MOMESSO, L. S. Antibióticos: Importância
+terapêutica e perspectivas para a descoberta e desenvolvimento de novos agentes. Quim.
+Nova, v. 33, n. 3, p. 667–79, 2010.
+
+51
+
+18 RODRIGUES, A.; BERTOLDI, A.D. Perfil da utilização de antimicrobianos em um
+hospital privado. Ciênc. Saúde Coletiva, v. 15, n. supl.1, p. 1239–47, 2010.
+
+19 CAMARGO, A. L.; ONZI, P. S.; HOFFMAN, S. P. Avaliação do consumo de
+antimicrobianos injetáveis de um hospital privado no ano de 2009. R. Bras. Farm. Hosp.
+Serv. Saúde São Paulo, v. 2, n. 2, p. 20–5, 2011.
+
+20 SPELTINI, A.; STURINI, M.; MARASCHI, F.; PROFUMO, A. Fluoroquinolone
+antibiotics in environmental waters: sample preparation and determination. J. Sep. Sci., v. 33,
+p. 1115–31, 2010.
+
+21 LYDY, M.; ROBINSON, A. A; BELDEN, J. B. Toxicity of fluoroquinolone antibiotics to
+aquatic organisms. Environ. Toxicol. Chem., v. 24, n. 2, p. 423–30, 2005.
+
+22 TORRES, P. Desempenho de um reator anaeróbio de manta de lodo (UASB) de
+bancada no tratamento de substrato sintético simulando esgoto sanitário sob diferentes
+condições de operação. 1992. Dissertação (Mestrado) – Escola de Engenharia de São Carlos,
+Universidade de São Paulo, São Carlos.
+
+23 FERREIRA, Tanare Cambraia Ribeiro. Identificação e pré-concentração dos produtos
+da fotodegradação de antimicrobianos. 2014. Tese (Doutorado em Química Analítica e
+Inorgânica) - Instituto de Química de São Carlos, Universidade de São Paulo, São Carlos,
+2014. Disponível em: <http://www.teses.usp.br/teses/disponiveis/75/75135/tde-12022015112950/>. Acesso em: 2015-11-19.
+
+24 BANI-YASEEN, A. D.; HAMMAD, F.; GHANEM, B. S.; MOHAMMAD, E. G. On the
+photophysicochemical properties of selected fluoroquinolones: solvatochromic and
+fluorescence spectroscopy study. J. Fluoresc, v. 23, n. 1, p. 93–101, 2013.
+
+25 GUO, H.-G.; GAO, N.-Y.; CHU, W.-H. Photochemical degradation of ciprofloxacin in
+UV and UV/H₂O₂ process: kinetics, parameters, and products. Environ. Sci. Pollut. Res., v.
+20, n. 5, p. 3202–13, 2013.
+
+52
+
+26 ALBINI, A.; MELLA, M.; FASANI, E. Photochemistry of 1-Cyclopropyl-6-fluoro-1 , 4dihydro-4-oxo-7- ( piperazin-1-yl ) quinoline-3-carboxylic Acid ( = Ciprofloxacin ) in
+Aqueous Solutions. Helv. Chim. Acta, v. 84, p. 2508–2519, 2001.
+
+27 KÜMMERER, K.; VASCONCELOS, T.G.; HENRIQUES, D. M.; KÖNIG, A.;
+MARTINS, A. F. Photo-degradation of the antimicrobial ciprofloxacin at high pH:
+Identification and biodegradability assessment of the primary by-products. Chemosphere, v.
+76, n. 4, p. 487–93, 2009.
+
+28 STURINI, M.; SPELTINI, A.;MARASCHI, F. PROFUMO, A.; PRETALI, L.;
+IRASTORZA, E. A.; FASANI, E.; ALBINI, A. Environmental Photolytic and photocatalytic
+degradation of fluoroquinolones in untreated river water under natural sunlight. Appl. Catal.
+B-Environ., v. 119-120, p. 32–9, 2012.
+
+29 WAMMER, K.H.; KORTE, A.R.; LUNDEEN, R. A.; SUNDBERG, J. E.; MCNEILL, K.;
+ARNOLD, W. A. Direct photochemistry of three fluoroquinolone antibacterials: norfloxacin,
+ofloxacin, and enrofloxacin. Water Res., v. 47, n. 1, p. 439–48, 2013.
+
+30 LI, Y.; NIU, J.; WANG, W. Photolysis of Enrofloxacin in aqueous systems under
+simulated sunlight irradiation: Kinetics, mechanism and toxicity of photolysis products.
+Chemosphere, v. 85, n. 5, p. 892–7, 2011.
+
+31 GRUSHKA, E.; GRINBERG, N. Advances in Chromatography. CRC Press, 2012, 465
+p., v. 50.
+
+32 ROSÉS, M. Determination of the pH of binary mobile phases for reversed-phase liquid
+chromatography. J. Chromatogr. A, v. 1037, p. 283–98, 2004.
+
+33 AMPARO, Maura Roquete. Desenvolvimento e validação de métodos SPE-LC-MS e
+MEPS-LC-MS para quantificação de fluoroquinolonas em matrizes aquosas. 2013.
+Dissertação (Mestrado em Química Analítica e Inorgânica) - Instituto de Química de São
+Carlos, Universidade de São Paulo, São Carlos, 2013. Disponível em:
+<http://www.teses.usp.br/teses/disponiveis/75/75135/tde-30072013-091333/>. Acesso em:
+2015-10-27.
+
+53
+
+ANEXO A - Espectros de MS e/ou MS/MS do ciprofloxacino e dos intermediários.
+
+Espectro 1- Espectro de MS obtido em análises no LC–QqToF (ESI (+) MS) para o m/z 263
+Intens.
+x104
+49
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Intens. 49. pre cipro Amanda A3_33_01_5952.d: Dissect:, Cmpd 49, 10.9 min
+[%]
+263.0852
+100
+
+Time [min]
+
++MS, Dissect, 10.7-11.1min #(639-663)
+
+80
+
+60
+
+40
+
+20
+
+264.0865
+
+0
+260
+
+265
+
+270
+
+275
+
+280
+
+285
+
+m/z
+
+54
+
+Espectro 2- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 332 (Ciprofloxacino)
+
+OH
+F
+
+N
+
+N
+
+HN
+
+O
+F
+O
+N
+
+N
+
+HN
+
+O
+
+OH
+
+F
+N
+
+O
+N
+
+HN
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 2 (m/z 332)
+m/z (calculado)
+332,1405
+314,1299
+288,1507
+
+m/z (medido)
+332,1396
+314,1291
+288,1500
+
+Fórmula Molecular
+C17H19FN3O3+
+C17H17FN3O2+
+C16H19FN3O+
+
+Erro (ppm)
+-2,7
+-2,5
+-2,4
+
+H
+
+55
+
+Espectro 3-Espectro de MS/MS obtido em análises no LIT- Orbitrap para o m/z 263
+
+F
+
+F
+
+H2 N
+
+H2 N
+
+rHR
+
+O
+N
+
+O
+
+OH
+
+N
+
+O
+
+O
+
+m/z263.08
+
+F
+
+H
+
+F
+
+- H2 O H N
+2
+
+O
+
+H2 N
+
+OH
+
+O
+
+O
+
+F
+
++H
+O
+
+m/z245.07
+
+N
+
+H2 N
+
+N
+
+OH
+
+O
+
+O
+N
+
+OH
+
+O
+m/z263.08
+
+OH2
+O
+
+m/z263.08
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 3 (m/z 263)
+m/z (calculado)
+263,0826
+245,0721
+
+m/z (medido)
+263,0817
+245,0712
+
+Fórmula Molecular
+C13H12FN2O3+
+C13H10FN2O2+
+
+Erro (ppm)
+-3,4
+-3,7
+
+56
+
+Espectro 4-Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 288
+NH2
+
+NH2
+
+HN
+
+rHR
+
+HN
+
+O
+N
+
+O
+OH
+
+N
+
+NH2
+
+O
+
+O
+
+m/z288.13
+
+m/z270.12
+
+- H2 O
+
+HN
+
+HN
+
+O
+N
+
+H
+
+NH2
+
+O
+OH
+
++H
+
+NH2
+
+N
+
+O
+
+O
+OH
+
+N
+
+OH
+
+O
+HN
+
+O
+m/z288.13
+
+O
+N
+
+OH2
+O
+
+m/z288.13
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 4 (m/z 288)
+m/z (calculado)
+288,1343
+270,1237
+
+m/z (medido)
+288,1331
+270,1226
+
+Fórmula Molecular
+C15H18N3O3+
+C15H16N3O2+
+
+Erro (ppm)
+-4,2
+-4,1
+
+57
+
+Espectro 5- Espectro de MS/MS obtido em análises no Orbitrap para o m/z 306
+NH2
+F
+HN
+O
+N
+O
+NH2
+
+H
+
+NH2
+F
+
+F
+
+HN
+
+HN
+
+F
+
+O
+
+H3 N N
+
+O
+OH
+
+F
+
+O
+
+H2 N
+
+N
+
+OH
+O
+
+O
+m/z306.12
+
+O
+
+N
+
+OH
+O
+
+N
+O
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 5 (m/z 306)
+m/z (calculado)
+306,1248
+288,1143
+263,0826
+245,0721
+
+m/z (medido)
+306,1239
+288,1134
+263,0819
+245,0714
+
+Fórmula Molecular
+C15H17FN3O3+
+C15H15FN3O2+
+C13H12FN2O3+
+C13H10FN2O2+
+
+Erro (ppm)
+-2,9
+-3,1
+-2,7
+-2,9
+
+58
+
+Espectro 6- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 316
+O
+HN
+N
+O
+N
+O
+
+H
+
+O
+HN
+N
+O
+N
+
+OH
+O
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 6 (m/z 316)
+m/z (calculado)
+316,1292
+298,1186
+
+m/z (medido)
+316,1282
+298,1178
+
+Fórmula Molecular
+C16H18N3O4+
+C16H16N3O3+
+
+Erro (ppm)
+-3,2
+-2,6
+
+59
+
+Espectro 7- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 344
+O
+
+O
+
+HN
+
+OH
+
+HN
+
+N
+
+rHR
+
+OH
+N
+
+O
+N
+
+O
+OH
+
+N
+
+O
+
+OH
+
+O
+
+m/z344.12
+
+m/z326.11
+
+- H2 O
+O
+N
+
+OH
+
+O
+
++H
+O
+
+H
+
+O
+HN
+
+HN
+
+OH
+N
+
+OH
+N
+
+O
+O
+N
+
+N
+OH2
+
+OH
+O
+
+O
+m/z344.12
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 7 (m/z 344)
+m/z (calculado)
+344,1241
+326,1135
+
+m/z (medido)
+344,1233
+326,1128
+
+Fórmula Molecular
+C17H18N3O5+
+C17H16N3O4+
+
+Erro (ppm)
+-2,3
+-2,1
+
+60
+
+Espectro 8- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 346
+OH
+HN
+N
+O
+N
+
+OH
+O
+
+H
+
+OH
+HN
+
+OH
+N
+O
+N
+
+OH
+O
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 8 (m/z 346)
+m/z (calculado)
+346,1397
+328,1292
+
+m/z (medido)
+346,1385
+328,1281
+
+Fórmula Molecular
+C17H20N3O5+
+C17H18N3O4+
+
+Erro (ppm)
+-3,5
+-3,4
+
+61
+
+Espectro 9- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 348
+OH
+HN
+
+F
+N
+O
+N
+O
+
+H
+
+OH
+HN
+
+F
+N
+O
+
+HN
+
+F
+
+N
+
+N
+
+OH
+O
+
+O
+HN
+O
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 9 (m/z 348)
+m/z (calculado)
+348,1354
+330,1248
+272,0830
+
+m/z (medido)
+348,1342
+330,1238
+272,0823
+
+Fórmula Molecular
+C17H19FN3O4+
+C17H17FN3O3+
+C14H11FN3O2+
+
+Erro (ppm)
+-3,4
+-3,0
+-2,6
+
+62
+
+Espectro 10- Espectro de MS/MS obtido em análises no QqTOF para o m/z 362
+Intens.
+[%]
+
+O
+
+O
+
+OH
+
+100
+
++MS2(362.3038), 39.6483eV, 1.6min #(91)
+
+HO
+
+232.0605
+
+HO
+O
+N
+
+80
+
+OH
+
+N
+
+OH
+276.0510
+
+HN
+
+N
+
+OH
+
+O
+
+OH
+
+OH
+
+HO
+
+O
+
+N
+60
+
+H
+
+N
+
+HN
+
+OH
+
+OH
+
+298.1189
+
+O
+
+188.0694
+
+HO
+O
+
+40
+
+N
+HN
+
+203.0810
+
+20
+
+N
+
+OH
+
+OH
+
+252.1126
+
+176.0704
+160.0735
+
+344.1254
+
+316.1295
+0
+150
+
+175
+
+200
+
+225
+
+250
+
+275
+
+300
+
+325
+
+350
+
+375
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 10 (m/z 362)
+m/z (calculado)
+362,1347
+344,1241
+316,1292
+276,0503
+
+m/z (medido)
+362,1385
+344,1254
+316,1295
+276,0510
+
+Fórmula Molecular
+C17H20N3O6+
+C17H18N3O5+
+C16H18N3O4+
+C13H10NO6+
+
+Erro (ppm)
+10,5
+3,8
+0,95
+2,5
+
+Espectro 11- Espectro de MS obtido em análises no LC–QqToF (ESI (+) MS) para o m/z 362
+
+Intens. 4.
+[%]
+
++MS, Dissect, 1.4-2.2min #(82-129)
+362.1385
+
+100
+
+80
+
+60
+
+40
+
+363.1413
+
+20
+
+364.1429
+0
+
+355
+
+360
+
+365
+
+370
+
+375
+
+380
+
+m/z
+
+63
+
+ANEXO B - Espectros de MS e/ou MS/MS do enrofloxacino e dos intermediários.
+
+Espectro 12- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 316
+
+ms2_enro_316 #444-447 RT: 7.03-7.08 AV: 4 SB: 61 6.64-7.03 , 7.10-7.64 NL: 8.08E5
+T: FTMS + p ESI Full ms2 316.13@cid35.00 [85.00-600.00]
+
+298.1540
+
+100
+
+NH
+
+90
+80
+
+HN
+
+H
+
+70
+
+O
+
+NH
+
+60
+
+N
+
+O
+
+50
+
+HN
+
+40
+
+H3 N
+
+O
+
+30
+
+O
+
+N
+
+316.1645
+
+O
+
+245.0913
+20
+
+N
+
+10
+0
+
+OH
+
+O
+OH 235.2748
+
+157.9376 171.9903
+160
+
+180
+
+201.1016
+200
+
+227.0807
+220
+
+271.1069
+253.0964
+
+240
+
+260
+
+294.9336
+280
+
+309.7661
+300
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 12 (m/z 316)
+m/z (calculado)
+316,1656
+298,1550
+245,0921
+
+m/z (medido)
+316,1645
+298,1540
+245,0913
+
+Fórmula Molecular
+C17H22N3O3+
+C17H20N3O2+
+C13H13N2O3+
+
+Erro (ppm)
+-3,5
+-3,4
+-3,3
+
+320
+
+Relative Abundance
+
+64
+
+Espectro 13- Espectro de MS/MS obtido em análises no LIT- Orbitrap para o m/z 332 (CIP)
+ms2_enro_332 #463-468 RT: 7.33-7.41 AV: 6 SB: 46 7.03-7.33 , 7.41-7.81 NL: 7.69E5
+T: FTMS + p ESI Full ms2 332.14@cid35.00 [90.00-600.00]
+288.1498
+
+100
+
+NH2
+F
+
+90
+HN
+
+80
+O
+
+70
+
+O
+
+N
+O
+
+60
+
+O
+
+N
+
+O
+50
+
+OH
+
+F
+N
+
+HN
+
+F
+O
+
+314.1290
+
+40
+
+N
+30
+
+N
+
+HN
+
+20
+332.1395
+10
+245.1077
+0
+
+137.4626 155.7950
+140
+
+160
+
+173.6589
+180
+
+204.0671
+200
+
+231.0921
+220
+
+240
+
+280.1753
+268.1436
+260
+
+280
+
+303.6965
+
+325.5461
+
+300
+
+320
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 13 (m/z 332)
+m/z (calculado)
+332,1405
+314,1299
+288,1507
+
+m/z (medido)
+332,1395
+314,1290
+288,1498
+
+Fórmula Molecular
+C17H19FN3O3+
+C17H17FN3O2+
+C16H19FN3O+
+
+Erro (ppm)
+-3,0
+-2,8
+-3,1
+
+H
+
+65
+
+Espectro 14- Espectro de MS/MS obtido em análises no LIT- Orbitrap para o m/z 334
+ms2_enro_334 #456-459 RT: 7.21-7.26 AV: 4 SB: 89 6.50-7.20 , 7.26-7.94 NL: 1.12E5
+T: FTMS + p ESI Full ms2 334.17@cid35.00 [90.00-600.00]
+316.1445
+
+100
+
+NH
+
+90
+
+F
+HN
+
+80
+O
+
+263.0817
+
+70
+
+N
+
+F
+60
+
+O
+
+H3 N
+
+H
+
+50
+
+NH
+
+O
+
+40
+
+N
+
+F
+
+O
+
+HN
+OH
+
+30
+
+258.4819
+
+20
+219.0920
+
+10
+0
+
+195.6905 207.8940
+190
+
+200
+
+210
+
+220
+
+N
+
+245.0712
+241.1800
+230.5724
+250.3908
+230
+
+240
+
+250
+
+334.1549
+
+O
+O
+OH
+
+289.0972
+270.1591 281.0873
+260
+270
+m/z
+
+280
+
+305.3964
+290
+
+300
+
+310
+
+324.1388
+320
+
+330
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 14 (m/z 334)
+m/z (calculado)
+334,1561
+316,1456
+263,0826
+
+m/z (medido)
+334,1549
+316,1445
+263,0817
+
+Fórmula Molecular
+C17H21FN3O3+
+C17H19FN3O2+
+C13H12FN2O3+
+
+Erro (ppm)
+-3,6
+-3,5
+-3,4
+
+66
+
+Espectro 15- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 344
+ms2_enro_344 #601-606 RT: 9.52-9.59 AV: 6 SB: 39 9.33-9.52 , 9.59-9.99 NL: 3.61E6
+T: FTMS + p ESI Full ms2 344.16@cid35.00 [90.00-600.00]
+326.1489
+
+100
+
+O
+HO
+
+90
+
+N
+
+80
+
+N
+
+N
+Relative Abundance
+
+70
+
+O
+60
+50
+
+H
+
+O
+HO
+
+OH
+
+40
+
+N
+30
+
+N
+
+N
+344.1594
+
+O
+
+20
+10
+220.9836 230.0479
+
+0
+210
+
+220
+
+230
+
+247.2660
+240
+
+250
+
+263.9429
+260
+
+270
+
+280.0977
+280
+m/z
+
+298.0976
+290
+
+300
+
+317.0190
+310
+
+320
+
+328.5160
+341.7489
+330
+
+340
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 15 (m/z 344)
+m/z (calculado)
+344,1605
+326,1499
+
+m/z (medido)
+344,1594
+326,1489
+
+Fórmula Molecular
+C18H22N3O4+
+C18H20N3O3+
+
+Erro (ppm)
+-3,2
+-3,1
+
+350
+
+67
+
+Espectro 16- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 346
+ms2_enro_346 #446-451 RT: 7.06-7.14 AV: 6 SB: 82 6.46-7.03 , 7.12-7.82 NL: 2.45E5
+T: FTMS + p ESI Full ms2 346.14@cid35.00 [95.00-600.00]
+328.1282
+
+100
+OH
+
+90
+
+HN
+N
+
+80
+
+O
+
+70
+
+H
+
+OH
+
+N
+
+OH
+
+60
+
+HN
+
+O
+
+OH
+N
+
+50
+
+O
+N
+
+40
+
+OH
+O
+
+30
+20
+346.1386
+10
+0
+
+272.5958
+270
+
+281.4295
+280
+
+289.0609
+290
+
+299.0696 305.9248
+300
+
+315.2674
+310
+
+323.8493
+320
+
+330.9857
+335.5293 340.5304
+330
+
+340
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 16 (m/z 346)
+m/z (calculado)
+346,1397
+328,1292
+
+m/z (medido)
+346,1386
+328,1282
+
+Fórmula Molecular
+C17H20N3O5+
+C17H18N3O4+
+
+Erro (ppm)
+-3,2
+-3,0
+
+68
+
+Espectro 17- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 358
+ms2_enro_358 #434-437 RT: 6.87-6.92 AV: 4 SB: 81 6.30-6.87 , 6.93-7.62 NL: 2.51E6
+T: FTMS + p ESI Full ms2 358.18@cid35.00 [95.00-600.00]
+314.1855
+
+100
+
+H
+
+90
+
+N
+
+OH
+N
+
+80
+
+O
+70
+
+340.1646
+
+N
+
+O
+OH
+
+60
+50
+
+N
+N
+
+40
+
+O
+
+30
+
+N
+
+20
+
+O
+358.1752
+
+OH
+10
+0
+
+217.0967 229.0967
+220
+
+334.7475
+
+243.1122
+256.2055 269.0914
+240
+
+260
+
+287.1019
+280
+
+302.1093
+300
+
+318.4115
+320
+
+350.6099
+340
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 17 (m/z 358)
+m/z (calculado)
+358,1761
+340,1656
+
+m/z (medido)
+358,1752
+340,1646
+
+Fórmula Molecular
+C19H24N3O4+
+C19H22N3O3+
+
+Erro (ppm)
+-2,5
+-2,9
+
+360
+
+Relative Abundance
+
+69
+
+Espectro #567-571
+18- Espectro
+de MS/MS
+obtido
+em análises
+ms2_enro_372
+RT: 9.00-9.06
+AV: 5 SB:
+35 9.06-9.26
+, 8.68-9.00no
+NL:LIT-Orbitrap
+3.16E5
+T: FTMS + p ESI Full ms2 372.16@cid35.00 [100.00-600.00]
+
+para o m/z 372
+354.1440
+
+O
+
+100
+
+O
+
+OH
+
+N
+
+90
+
+O
+
+N
+
+80
+
+N
+
+O
+
+N
+
+N
+
+70
+
+N
+
+O
+
+ou
+OH
+
+60
+
+O
+
+50
+
+O
+40
+
+HO
+
+30
+
+H
+
+OH
+
+H
+
+O
+N
+
+O
+
+N
+
+N
+
+OH
+N
+
+ou
+
+O
+
+N
+
+20
+
+N
+
+372.1545
+O
+
+O
+OH
+
+10
+0
+
+211.0870 225.6371
+220
+
+248.3683 263.6196
+240
+
+280.0883
+
+260
+
+300.1334
+
+280
+
+300
+
+326.1488
+320
+
+346.6957 361.7710
+340
+
+360
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 18 (m/z 372)
+m/z (calculado)
+372,1554
+354,1448
+
+m/z (medido)
+372,1545
+354,1440
+
+Fórmula Molecular
+C19H22N3O5+
+C19H20N3O4+
+
+Erro (ppm)
+-2,4
+-2,3
+
+380
+
+70
+
+Espectro 19- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 374
+
+ms2_enro_374 #463-467 RT: 7.34-7.40 AV: 5 SB: 84 6.74-7.33 , 7.42-8.13 NL: 1.13E7
+T: FTMS + p ESI Full ms2 374.17@cid35.00 [100.00-600.00]
+100
+
+356.1599
+
+HO
+
+90
+
+N
+
+OH
+N
+
+80
+
+O
+
+Relative Abundance
+
+70
+N
+
+O
+
+60
+50
+
+H
+
+HO
+
+40
+
+N
+
+OH
+N
+
+30
+
+O
+
+20
+
+N
+
+O
+
+0
+
+374.1704
+
+OH
+
+10
+206.5809 216.8680 228.0353
+200
+
+220
+
+254.4393 266.5202 285.0866
+
+240
+
+260
+
+280
+
+303.0970
+300
+
+328.1608 343.0715
+320
+
+340
+
+362.7535
+
+384.4229
+
+360
+
+380
+
+m/z
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 19 (m/z 374)
+m/z (calculado)
+374,1710
+356,1605
+
+m/z (medido)
+374,1704
+356,1599
+
+Fórmula Molecular
+C19H24N3O5+
+C19H22N3O4+
+
+Erro (ppm)
+-1,6
+-1,7
+
+71
+
+Espectro 20- Espectro de MS/MS obtido em análises no LIT-Orbitrap para o m/z 360
+(Enrofloxacino)
+
+ms2_enro_360 #478-481 RT: 7.57-7.62 AV: 4 SB: 89 7.00-7.56 , 7.63-8.46 NL: 1.31E7
+T: FTMS + p ESI Full ms2 360.17@cid35.00 [95.00-600.00]
+316.1811
+100
+
+O
+F
+
+OH
+
+90
+
+H
+
+OH
+O
+
+F
+
+N
+
+80
+N
+
+70
+
+N
+
+N
+
+N
+
+N
+O
+
+60
+
+F
+O
+
+50
+
+N
+
+N
+
+N
+
+40
+342.1603
+30
+20
+360.1709
+
+10
+347.0766
+0
+
+255.5636 267.1836 273.7167
+260
+
+270
+
+288.1499 296.1751
+280
+
+290
+
+300
+
+314.1657 318.7727
+310
+m/z
+
+320
+
+339.6529
+330
+
+340
+
+357.1766
+350
+
+360
+
+Cálculo do erro atribuído a cada estrutura proposta para o espectro 20 (m/z 360)
+m/z (calculado)
+360,1718
+342,1612
+316,1820
+
+m/z (medido)
+360,1709
+342,1603
+316,1811
+
+Fórmula Molecular
+C19H23FN3O3+
+C19H21FN3O2+
+C18H23FN3O+
+
+Erro (ppm)
+-2,5
+-2,6
+-2,8
+
+365.6716
+
+

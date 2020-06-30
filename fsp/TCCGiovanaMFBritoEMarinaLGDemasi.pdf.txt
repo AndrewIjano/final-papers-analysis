@@ -1,0 +1,1004 @@
+Universidade de São Paulo
+Faculdade de Saúde Pública
+
+Efeito das gorduras interesterificadas sobre o
+perfil lipídico plasmático e do tecido hepático
+em camundongos LDLr-KO
+
+Giovana Marson Ferreira de Brito
+Marina Lage Gomes Demasi
+
+Trabalho de Conclusão apresentado ao
+LXX Curso de Graduação em Nutrição da
+Faculdade
+de
+Saúde
+Pública
+da
+Universidade de São Paulo.
+Orientadora:
+Lottenberg
+
+São Paulo
+2016
+
+Profª.
+
+Drª
+
+Ana
+
+Maria
+
+Efeito das gorduras interesterificadas sobre o
+perfil lipídico plasmático e do tecido hepático
+em camundongos LDLr-KO
+
+Giovana Marson Ferreira de Brito
+Marina Lage Gomes Demasi
+
+Trabalho de Conclusão apresentado ao
+LXX Curso de Graduação em Nutrição da
+Faculdade
+de
+Saúde
+Pública
+da
+Universidade de São Paulo.
+Orientadora:
+Lottenberg
+
+São Paulo
+2016
+
+Profª.
+
+Drª
+
+Ana
+
+Maria
+
+Estudo realizado no Laboratório de Lípides (LIM 10) do Serviço de
+Endocrinologia do Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo. Este projeto foi aprovado pela Comissão de Ética
+em Pesquisa do Hospital das Clínicas da FMUSP (CAPPesq) e Comissão de
+Biossegurança (026/12) e recebeu apoio financeiro da Fundação de Amparo
+à Pesquisa do Estado de São Paulo (FAPESP) 11/50443-0
+
+Dedicamos este trabalho de conclusão de curso da graduação em
+Nutrição à todos os nossos familiares e amigos.
+Giovana Marson Ferreira de Brito e Marina Lage Gomes Demasi
+
+Primeiramente gostaríamos de agradecer aos nossos pais, por toda a
+dedicação em nos proporcionar tantos aprendizados e estudos, nossa
+graduação não teria sido nada sem todo o apoio e suporte deles.
+Às nossas famílias, que sempre estiveram ao nosso lado em todos os
+momentos das nossas vidas.
+À todos os nossos professores, mentores, tutores que nos acompanharam
+por todo este longo caminho, muito obrigada por todos os ensinamentos!
+À nossa principal mentora, Prof. Dra. Ana Maria Pita Lottenberg, por toda a
+confiança, ensinamentos e aulas incríveis, além da orientação dos nossos
+projetos de iniciação científica e deste TCC. Agradecemos por toda
+dedicação e ensinamentos que foram além da nutrição durante todo este
+tempo.
+À todos os nossos amigos do LIM 10, ao Sergio Catanozi e à Valéria, que
+nos apoiaram no desenvolvimento deste projeto e ao grupos de
+nutricionistas, Maria Silvia, Milessa, Lis e Sharon, que sempre nos
+incentivaram, ensinaram e nos ajudaram a chegar até aqui.
+Ao Rafael, namorado da Marina, que esteve presente em todos os momentos
+da graduação, assim como em todos os obstáculos que apareceram.
+Às incríveis e inseparáveis amigas Beatriz, Teca, Sarah, Taynara e Alexia,
+amigas da Marina e Camila, Clara, Julia, Marcela, Natasha e Tatiana, amigas
+da Giovana, por toda a paciência, incentivo e colo sempre disponível.
+
+“Nenhum sonho é maior que minha determinação e
+nenhum desafio é mais forte do que a minha força de
+superação.”
+(Autor desconhecido)
+
+Brito, GMF, Demasi, MLG. Efeito das gorduras interesterificadas sobre o
+perfil lipídico plasmático e do tecido hepático em camundongos LDLr-KO.
+[Trabalho de Conclusão de Curso – Curso de Graduação em Nutrição]. São
+Paulo: Faculdade de Saúde Pública da USP; 2016.
+
+RESUMO
+As gorduras interesterificadas, ricas em ácidos graxos saturados, são
+utilizadas atualmente pela indústria de alimentos em substituição à gordura
+trans. Entre os ácidos graxos saturados utilizados no processo de
+interesterificação, o ácido palmítico é o mais comum consumido na dieta e
+seus efeitos deletérios já estão bem estabelecidos. O ácido esteárico,
+consumido em menor frequência, tem efeito neutro sobre os lipídios
+plasmáticos, entretanto seu consumo ocorre em pequenas concentrações e
+não se tem dados sobre a implicação do seu consumo em grandes
+concentrações.
+
+Ao
+
+contrário
+
+dos
+
+óleos
+
+vegetais,
+
+as
+
+gorduras
+
+interesterificadas contém ácido palmítico ou esteárico na posição sn-2 da
+molécula de triglicérides. Entretanto, os seus efeitos sobre parâmetros
+metabólicos e relacionados ao desenvolvimento da aterosclerose, não foram
+investigados até o momento. Com a finalidade de elucidar o efeito destas
+gorduras, camundongos machos LDLr-KO foram distribuídos em cinco
+grupos alimentados com dieta rica em gordura (40% de calorias totais)
+contendo ácidos graxos poliinsaturados (POLI), palmítico (PALM), palmítico
+interesterificado
+
+(PALM
+
+INTER),
+
+esteárico
+
+(ESTEAR)
+
+ou
+
+esteárico
+
+interesterificado (STEAR INTER) durante 16 semanas. Foram avaliados a
+ingestão alimentar, composição corporal, peso do fígado e do tecido adiposo,
+concentrações plasmáticas de colesterol total, triglicérides (TG), glicose,
+insulina. Em razão do efeito destas gorduras não estarem elucidadas na
+literatura, o objetivo deste trabalho foi de avaliar a sua ação em
+camundongos LDLr-KO.
+Descritores: ácidos graxos, gordura interesterificada, tecido hepático, tecido
+adiposo
+
+Sumário
+
+1. Introdução............................................................................................07
+2. Justificativa...........................................................................................09
+3. Objetivo Geral......................................................................................10
+4. Objetivo Específico..............................................................................10
+5. Material e Métodos...............................................................................10
+5.1 Animais Experimentais...................................................................10
+5.2 Extração do fígado e do tecido adiposo.........................................11
+5.3 Análises Bioquímicas ....................................................................12
+5.4 Avaliação da concentração de colesterol e de triglicérides no tecido
+hepático................................................................................................12
+5.5 Comitê de Ética..............................................................................12
+5.6 Análises Estatísticas......................................................................12
+
+6. Resultados...........................................................................................13
+7. Discussão.............................................................................................15
+8. Conclusões..........................................................................................18
+9. Referências Bibliográficas....................................................................19
+
+INTRODUÇÃO
+Um dos principais fatores de risco modificáveis para o desenvolvimento das
+doenças crônicas não transmissíveis, como doença cardiovascular, diabetes tipo 2 e
+obesidade, é o hábito alimentar (Fitzgerald et al., 2013). O consumo de dietas
+hiperlipídicas induz o aumento de ácidos graxos e triglicérides circulantes, hipertrofia
+dos adipócitos e induz depósito de lipídeos em outros tecidos e órgãos como
+músculo, fígado e pâncreas, gerando um estado de lipotoxicidade e apoptose,
+condições implicadas na patogênese dessas doenças (Boden & Shulman, 2002). Em
+relação ao consumo de gorduras alimentares, já está demonstrado que tanto a
+quantidade quanto o tipo de ácidos graxos da dieta são capazes de influenciar a
+lipogênese hepática, a resistência à insulina e inflamação local e sistêmica de grau
+leve. (Fernandez-Real et al, 2003).
+Os ácidos graxos saturados em comparação aos poli-insaturados elevam o
+colesterol plasmático e, consequentemente, aumentam o risco cardiovascular
+(Kromhout et al., 1995). Isto ocorre por diversas ações, entre elas: 1) redução da
+atividade, síntese proteica e até expressão do mRNA (RNA mensageiro) de
+receptores hepáticos B/E das low density lipoproteins (LDL) (Srivastava et al., 1995);
+2) por apresentarem estrutura retilínea, os ácidos graxos saturados se empacotam
+com coesão o que lhes confere maior ponto de fusão. A disposição destes ácidos
+graxos nas moléculas de LDL aumenta a capacidade destas partículas em interagir
+com colesterol, aumentando o conteúdo destes nas lipoproteínas (Spritz & Mishkel,
+1969).
+Os ácidos graxos trans apresentam diversas implicações metabólicas, pois
+são fortemente associados ao aumento de processos inflamatórios e da
+concentração plasmática de TG e colesterol, associado com a redução de (HDL-c)
+(Mensink et al, 2003). Induzem maior risco cardiovascular, por elevarem a
+concentração plasmática do LDL-col, contribuindo com o desenvolvimento da placa
+aterosclerótica (Machado et al., 2010). Em menores proporções, o consumo de
+ácidos graxos saturados, quando comparados aos poli-insaturados também elevam
+o colesterol plasmático e, consequentemente o risco cardiovascular (Kromhout et al.,
+1995; Hooper et al., 2015).
+7
+
+Diante dos efeitos deletérios dos ácidos graxos trans sobre o risco
+cardiovascular e metabólico, diversos produtos industrializados estão sendo
+preparados com as gorduras interesterificadas, produzidas a partir de óleos vegetais
+(Hunter, 2006), como o óleo de palma. As gorduras interesterificadas são obtidas
+principalmente pela mistura de um óleo com uma gordura completamente
+hidrogenada, ou misturas de frações sólidas como estearina de palma.
+Este processo possibilita o preparo de gorduras plásticas com baixos teores
+ou ausência de isômeros trans, uma vez que no seu preparo ocorre a hidrogenação
+total dos óleos. Os ácidos graxos mais frequentemente utilizados para o preparo
+dessas gorduras são o ácido palmítico e o esteárico. Durante o preparo dessas
+gorduras ocorre o rearranjo dos ácidos graxos na molécula de glicerol formando
+triglicérides com novas propriedades físicas, organolépticas e químicas (TarragoTrani et al.; 2006).
+Geralmente, a posição sn-2 dos óleos vegetais é ocupada por um ácido graxo
+insaturado (AGI), sendo que com o processo de interesterificação, esta posição é
+ocupada predominantemente por um ácido graxo saturado, fato que pode ser
+relevante para o metabolismo lipídico, uma vez que as lipases hidrolisam triglicérides
+nas posições 1 e 3 do glicerol (Storch J, Zhou XY; Lagakos WS, 2008). Desta forma,
+grande quantidade de monoacilglicerol enriquecido com ácidos graxos saturados
+será captado pelo fígado (Mortimer et al., 1988 & Shi Y, Burn P, 2004).
+Em relação à influência dessas gorduras sobre o metabolismo lipídico, alguns
+estudos conduzidos em humanos têm mostrado resultados controversos. Um deles
+demonstrou que o consumo tanto da gordura parcialmente hidrogenada quanto da
+interesterificada levou ao aumento da razão de LDL/HDL e da glicemia de jejum
+quando comparados ao grupo que consumiu óleo de palma (Sundram et al., 2007).
+No entanto, indivíduos hipercolesterolêmicos que consumiram margarina contendo
+óleo de palma ou óleo de palma interesterificado, apresentaram aumento das
+concentrações de LDL-col no plasma (Nestel et al.;1995). Os autores atribuíram esta
+ação deletéria
+
+à presença do ácido graxo
+
+saturado na posição
+
+2 do
+
+glicerol. Verificou-se também que as gorduras interesterificadas não influenciam o
+perfil de lipoproteínas em indivíduos saudáveis (Meijer GW, Weststrate JA, 1997),
+mas aumenta a concentração de triglicérides pós-prandiais (85%) em indivíduos
+obesos (Robinson et al.; 2009).
+
+8
+
+Com relação ao efeito da gordura interesterificada sobre a concentração
+plasmática de triglicérides (TG) também observa-se resultados contraditórios.
+Demonstrou-se em humanos saudáveis que o consumo de gordura interesterificada
+rica em ácido palmítico elevou (Yli-Jokipii et al., 2001) ou diminuiu os (TG) (Sanders
+et al.; 2011), no período pós prandial. Um único trabalho avaliou o efeito na lipemia
+pós prandial com o consumo da gordura interesterificada rica em esteárico na
+posição sn-2. Os resultados apontaram menor elevação da trigliceridemia. No
+entanto, este estudo comparou o efeito da gordura interesterificada com óleo de soja
+(rico em ácido graxo insaturado) à manteiga de cacau (rico em esteárico; sn-1 e sn3) (Sanders et al., 2003). Recentemente, Sanders et al. (2011) demonstraram que
+o ácido palmítico na posição sn-2 induziu menor concentração plasmática de
+triglicérides pós-prandial em indivíduos saudáveis quando comparados a controles
+consumindo a mesma gordura não interesterificada.
+
+JUSTIFICATIVA
+Atualmente diversos produtos industrializados são preparados com gorduras
+interesterificadas, as quais são processadas com diferentes tipos e quantidades de
+ácidos graxos, sendo ricas em saturados, como o palmítico, o qual sabidamente
+eleva o risco cardiovascular. Outro ácido graxo saturado utilizado é o esteárico, que
+embora não eleve a colesterolemia, a sua possível ação sobre outros fatores de
+risco foi pouco investigada, especialmente em função do seu baixo consumo na
+dieta. Desta forma, além do uso destas gorduras aumentar o consumo de ácidos
+graxos saturados, não está elucidado até o momento as possíveis implicações
+fisiopatológicas após o processo de interesterificação. Adicionalmente, os poucos
+estudos publicados na literatura apresentam resultados controversos.
+
+9
+
+OBJETIVO GERAL
+Avaliar a influência do consumo de dietas hiperlipídicas contendo gordura
+interesterificada, enriquecidas com ácido graxo esteárico ou palmítico sobre
+aspectos metabólicos em animais com ablação gênica para receptor de LDL.
+
+OBJETIVOS ESPECÍFICOS
+Avaliar a influência da ingestão alimentar sobre:
+Peso do fígado e do tecido adiposo;
+Concentrações plasmáticas de colesterol total, triglicérides, glicose e insulina;
+As concentrações de colesterol e triglicérides no tecido hepático.
+
+MATERIAL E MÉTODOS
+ANIMAIS EXPERIMENTAIS
+Foram utilizados camundongos LDLr-KO (C57BL/6J; Jackson Laboratory, Bar
+Harbor, EUA). Este modelo animal foi escolhido por apresentarem perfil de
+lipoproteína e suscetibilidade à aterosclerose semelhante a humanos em
+decorrência do consumo de dietas hiperlipídicas, sendo um importante modelo para
+estudo de parâmetros relacionados à síndrome metabólica (Srivastava et al. 2006;
+Bell et al, 2007; Wang et al. 2009; Subramanian et al. 2008; Machado et al., 2010;
+Bieghs et al, 2012).
+Após o desmame os animais foram distribuídos em cinco grupos de 20
+animais, submetidos às seguintes dietas: Poliinsaturados (POLI); Palmítico (PALM),
+Esteárico (ESTEAR), Palmítico interesterificado (PALM INTER) e Esteárico
+Interesterificado (ESTEAR INTER). Após o processo de interesterificação, maior
+porcentagem de ácido palmítico ou esteárico estarão presentes na posição sn-2 na
+molécula de triglicérides. (Figura 1)
+
+10
+
+Total
+n = 100
+
+POLI
+n = 20
+
+PALM
+n =20
+
+PALM
+INTER
+n = 20
+
+ESTEAR
+n = 20
+
+ESTEAR
+INTER
+n = 20
+
+Figura 1: Resumo do protocolo experimental
+
+O consumo alimentar e o peso dos animais foram monitorados semanalmente
+durante todo o experimento. Após a eutanásia dos animais, o fígado foi coletado
+para verificação do peso e análise dos lípides.
+Após 16 semanas de dieta hiperlipídica, os animais foram mantidos em
+privação alimentar por 12h e anestesiados com Ketamina (100 mg/kg, ip, Ketalar;
+Parke-Davis, São Paulo, SP, Brazil) e Xylazina (10 mg/kg, ip, Rompum; Bayer S.A,
+São Paulo, SP, Brazil). Em seguida, os animais foram dessangrados pela veia
+subclávia e o sangue coletado em tubos contendo EDTA (0,1%). Após
+dessangrados, foram perfundidos com solução gelada de cloreto de sódio a 0,9%
+pelo ventrículo esquerdo.
+
+EXTRAÇÃO DO FÍGADO E DO TECIDO ADIPOSO
+Após laparotomia, o fígado e o tecido adiposo visceral (região epididimal) foram
+extraídos, pesados e um fragmento de aproximadamente 1,0 cm 3 foi retirado e
+colocado em frasco contendo formol a 10% em banho para adequada fixação.
+Imediatamente, após este processo os tecidos foram congelados em nitrogênio
+líquido e estocados em ultracongelador (-80°C).
+
+11
+
+ANÁLISES BIOQUÍMICAS
+O plasma do sangue foi obtido por centrifugação e foi armazenado a -80°C. As
+concentrações de colesterol total (CT) e TG foram determinadas por Kit enzimáticocolorimétricos (Roche Diagnostics, Alemanha). A insulina e glicose foram
+determinadas
+
+com
+
+a
+
+utilização
+
+de
+
+kits
+
+enzimático-colorimétricos
+
+(Labitest
+
+DE
+
+E
+
+Diagnóstica, Brasil).
+
+AVALIAÇÃO
+
+DA
+
+CONCENTRAÇÃO
+
+COLESTEROL
+
+DE
+
+TRIGLICÉRIDES NO TECIDO HEPÁTICO
+A extração de lípides hepático foi realizada segundo Carr TP et al (1993).
+Aproximadamente 200 mg de fígado foram homogeneizados e os lípides extraídos
+com solução (2:1) de clorofórmio:metanol (6 mL). As fases foram separadas pela
+adição de H2SO4 (0,05%). A fase inferior foi removida e adicionado clorofórmio
+(1mL) contendo 0,5% de Triton X-100 para solubilização dos lípides. Em seguida os
+tubos foram mantidos sob nitrogênio em temperatura ambiente para evaporação
+total do solvente. Os tubos foram lavados com clorofórmio e em seguida submetidos
+a evaporação e, após adição de 1 mL de água destilada, foram submetidos a banho
+com agitação (37°C por 15 min), vortexados e a mistura foi utilizada para
+determinação do conteúdo lipídico com o uso de kits enzimático-colorimétricos
+(Roche Diagnostics-Mannheim, Alemanha).
+
+COMITÊ DE ÉTICA
+O projeto foi aprovado pela Comissão de Ética para Análise de Projetos de
+Pesquisa (CAPPesq) da Faculdade de Medicina – USP; Capepesq:026/12.
+
+ANÁLISES ESTATÍSTICAS
+Os resultados foram apresentados em média ± desvio padrão. A significância
+estatística foi testada por ANOVA e foi considerado o nível de significância de 5%
+para todas as análises (P < 0,05). A avaliação dos dados foi feita com uso do
+programa GraphPad Prism 5 (GraphPad Software Inc., San Diego, CA).
+
+12
+
+RESULTADOS
+A média de peso inicial dos animais não diferiu entre os grupos. O consumo
+alimentar durante as 16 semanas de tratamento também não apresentou diferença
+entre os 5 grupos estudados. (Tabela 1)
+A formação de tecido adiposo visceral e subcutâneo dos animais do grupo
+PALM INTER foi significativamente maior quando comparado aos demais. (Tabela 1)
+Em contrapartida, os animais do grupo ESTEAR apresentaram menor
+formação de tecido adiposo tanto visceral quanto subcutâneo comparado aos
+demais, sem diferença no ganho de peso em relação a POLI e ESTEAR INTER.
+As concentrações plasmáticas de colesterol dos animais que consumiram
+ambas dietas ricas em ácido palmítico foram maiores quando comparadas aos
+grupos POLI, ESTEAR E ESTEAR INTER. Os grupos ESTEAR e ESTEAR INTER
+apresentaram menor concentração plasmática de colesterol quando comparados
+aos demais grupos ricos em gordura saturada, PALM e PALM INTER.
+As concentrações plasmáticas de triglicérides foram maiores nos animais que
+consumiram dietas enriquecidas com ácidos graxos saturados (ESTEAR, ESTEAR
+INTER, PALM e PALM INTER) quando comparados ao grupo POLI. Assim, o maior
+consumo de ácido graxo esteárico, com ou sem esterificação, não elevou a
+concentração plasmática de colesterol como os demais saturados, no entanto
+exercem efeito semelhante a estes na concentração plasmática de triglicérides.
+(Tabela 3)
+
+13
+
+Tabela 1. Peso inicial, Consumo alimentar, Ganho de peso, Peso relativo do fígado e do
+tecido adiposo de camundongos LDLr-KO submetidos às diferentes dietas experimentais por
+16 semanas.
+POLI
+
+PALM
+
+PALM
+INTER
+
+ESTEAR
+
+ESTEAR
+INTER
+
+PESO INICIAL (g)
+
+13,45±2,55
+
+13,46±3,18
+
+13,93±3,27
+
+13,7±2,66
+
+14,58±2,68
+
+CONSUMO (g)
+
+2,88± 0,3
+
+3,15± 0,77
+
+3,16± 0,44
+
+3,48± 0,51
+
+3,3±0,21
+
+GANHO DE PESO (g)
+
+16,01±3,06
+
+a,b
+
+TA VISCERAL (g/100g
+de peso corporal)
+
+3,22±0,76
+
+b
+
+16,12±2,9
+
+a,b
+
+20,05±2,65
+
+b
+
+4,04±0,45
+
+3,33±0,80
+
+a
+
+a
+
+b
+
+14,32±3,00
+
+c
+
+2,76±0,91
+
+14,1±2,65
+
+2,01±0,61
+
+b
+
+b
+
+Legenda: n = 18; * n=10. Dados apresentados em média±DP; médias na mesma linha com letras distintas são significantemente
+diferentes (p<0,05), sendo a<b<c;. O teste estatístico: One-way ANOVA, seguindo de pós-teste de Newman-Keuls.
+
+Tabela 2. Análises do fígado: peso do órgão, conteúdo de colesterol e triglicérides.
+POLI
+
+PALM
+
+PALM
+INTER
+
+ESTEAR
+
+ESTEAR
+INTER
+
+Peso do Fígado (g/100g
+peso corporal)
+
+4,35±0,60
+
+4,72±1,09
+
+4,48±0,57
+
+4,51±0,43
+
+4,37±0,73
+
+Colesterol g/100g fig
+
+1,67± 0,3
+
+2,06± 0,6
+
+1,7± 0,38
+
+1,65± 0,42
+
+1,88± 0,43
+
+Triglicérides g/100g fig
+
+15,02±7,73
+
+16,67±11,19
+
+15,63±5,42
+
+16,45±8,43
+
+13,5±5,42
+
+Dados apresentados em média ±DP; *= p<0,05; n = 14–19; o teste estatístico: One-way ANOVA, pós-teste: Newman-Keuls.
+
+Tabela 3. Concentração plasmática de colesterol, triglicérides, glicemia e insulina no plasma
+em camundongos LDLr-KO submetidos às diferentes dietas experimentais por 16 semanas.
+PALM
+INTER
+
+POLI
+
+PALM
+
+COLESTEROL (mg/dL)
+
+320,7± 47,37
+
+499,2 ± 89,91
+
+TG (mg/dL)
+
+129,9± 46,27
+
+GLICOSE (mg/dL)
+INSULINA (mg/dL)
+
+ESTEAR
+
+ESTEAR
+INTER
+
+a
+
+342,6± 81,7
+
+363,9 ± 92,6
+
+a
+
+238,7±105,9
+
+a
+
+210,5±72,3
+
+287,7±58,6
+
+0,28±0,17
+
+0,23±0,1
+
+a
+
+526,8 ± 90,0
+
+308,8±188,2
+
+a
+
+302,8± 141,1
+
+231,7±46,75
+
+336,2±112,4
+
+a
+
+328,1±110,5
+
+0,33±0,11
+
+0,84±0,47
+
+a
+
+a
+
+0,71±0,39
+
+a
+
+236,9±112,2
+
+Dados apresentados em média ±DP; a= p<0,05; n = 14–19. O teste estatístico: One-way ANOVA, pós-teste: NewmanKeuls.
+
+14
+
+a
+
+DISCUSSÃO
+O consumo de gordura PALM INTER levou ao maior ganho de peso, induziu
+maior formação de tecido adiposo visceral. A ação do ácido palmítico sobre a
+concentração plasmática de colesterol já está bem estabelecida na literatura e uma
+das explicações é o fato de esses ácidos graxos reduzirem a expressão de
+receptores hepáticos B/E, responsáveis pela captação de partículas de LDL da
+circulação (Srivastava et al., 1995). Nossos dados corroboraram esta ação do ácido
+palmítico, pois também elevou a colesterolemia e, adicionalmente, verificou-se que o
+processo de interesterificação não influenciou neste resultado, tanto com o ácido
+palmítico como com o esteárico.
+A ação da gordura interesterificada sobre a concentração plasmáticas de
+colesterol é controversa na literatura.
+
+Reena et al., (2011) demonstraram efeito
+
+hipocolesterolemiante da gordura interesterificada, decorrente de maior expressão
+hepática do receptor de LDL em comparação com a gordura não interesterificada
+(Reena et al., 2011). No entanto, neste estudo, o processo de interesterificação foi
+realizado por método enzimático, diferente do método atual que utiliza catalisadores
+como metóxido de sódio. Além disso, a gordura foi preparada com quantidade
+menor de ácidos graxos saturados (30% das calorias totais) e maior de poliinsaturados (32%). Outro estudo demonstrou que o consumo tanto da gordura
+parcialmente hidrogenada quanto da interesterificada levou ao aumento da razão de
+LDL/HDL e da glicemia de jejum quando comparados ao grupo que consumiu óleo
+de palma (Sundram et al., 2007). Um único trabalho avaliou o efeito na lipemia pósprandial do consumo da gordura interesterificada rica em esteárico. Os resultados
+apontaram menor aumento na concentração de TG. No entanto, este estudo
+comparou o efeito da gordura interesterificada com óleo de soja (rico em ácido graxo
+insaturado) e à manteiga de cacau (rico em esteárico; sn-1 e sn-3) (Sanders et al.,
+2003).
+No processo de interesterificação podem ser utilizados diferentes tipos e
+quantidades de ácidos graxos, condição que muitas vezes dificulta a comparação do
+resultado de diferentes estudos. No entanto, sabe-se que na prática industrial os
+ácidos graxos palmítico e esteárico são os mais utilizados atualmente.
+Os resultados do presente estudo mostram que a concentração plasmática de
+TG foi maior com a dietas enriquecidas com todos os ácidos graxos saturados em
+15
+
+comparação a POLI, não havendo diferença entre os grupos (PALM, PALM INTER,
+ESTEAR E ESTEAR INTER). Realmente, os ácidos graxos saturados induzem
+maior trigliceridemia por ativar vias lipogênicas hepáticas mediadas pelos fatores de
+transcrição PPARγ e pelo PGC1β, o qual é co-ativador do SREBP-1c (Yamazaki et
+al, 2011; Lin J et al., 2005). Corroborando nossos resultados, Zock et al. (1995), não
+encontrou diferenças nas concentrações plasmáticas de TG no jejum após 3
+semanas do consumo de dieta com óleo de palma e óleo de palma interesterificado
+(Zock et al.,1995). Entretanto, estudos com indivíduos saudáveis apontam que o
+consumo agudo de dieta interesterificada preparada com ácido palmítico induziu
+menor pico pós-prandial de TG (Yli-Jokipii, et al., 2001), com redução de até 32% da
+área sob a curva das concentrações plasmáticas de TG (Hall et al., 2014). Este
+efeito foi demonstrado tanto em jovens saudáveis (Sanders et al., 2011) quanto em
+adultos com elevação da concentração plasmática de triglicérides (Hall et al., 2014).
+Nas duas investigações foram utilizadas refeições preparadas com 50 a 75g
+de gordura interesterificada rica em ácido palmítico ou óleo de palma (~65% Kcal em
+gordura/refeição). Este estudo com avaliação do efeito agudo da gordura
+interesterificada enriquecida com o ácido esteárico também apresentou efeitos
+contrários aos nossos, a qual também induziu menor aumento de TG. A comparação
+da gordura interesterificada foi com óleo de soja (rico em ácido graxo insaturado) e à
+manteiga de cacau (rico em esteárico; sn-1 e sn-3) (Sanders et al., 2003).
+Nesta investigação, as gorduras PALM e PALM INTER também induziram
+maior concentração plasmática de glicose e insulina de em comparação às demais.
+Já o consumo de dieta normolipídica enriquecida com, ácido palmítico não elevou a
+glicemia em humanos (Sundram et al., 2007). Nesse estudo, os autores compararam
+o efeito do ácido palmítico ao da gordura interesterificada preparada com ácido
+esteárico e observaram que o processo de interesterificação elevou a glicemia de
+jejum. Não obstante, não se observou alteração na insulinemia (Sundram et al.,
+2007).
+Como era esperado, o ácido graxo esteárico não induziu elevação da
+concentração plasmática de colesterol (Kris-Etherton et al., 2005), uma vez que este
+ácido graxo é o principal substrato para a enzima SCD-1, que atua na desaturação
+do ácido esteárico em ácido oleico no fígado (Bennett et al., 1995), a qual induz a
+atividade microssomal da enzima acilCoA:1,2-diacilglicerolaciltransferase com maior
+formação de TG.
+16
+
+Os animais do grupo PALM INTER induziram maior formação de tecido
+adiposo. Desde 1993, estudos já demonstraram superprodução de TNFa pelo tecido
+adiposo hipertrofiado (Hotamisligil, 1993). Rapidamente, demonstrou-se que o tecido
+adiposo de animais obesos produzia quantidades elevadas de outros marcadores
+inflamatórios (Olefsky, 2008; Olesfsky & Glass, 2010). Assim, a obesidade
+caracterizada pela exacerbada formação de tecido adiposo e presença de adipócitos
+hipertrofiados, (Coenen et al., 2007; Tynan et al., 2014), apresenta cenário propício
+para desenvolvimento da resistência à insulina no tecido adiposo (Chen et al., 2016)
+que tem como consequência imediata a lipólise descontrolada, à medida que no
+estado de resistência à insulina, entre outras consequências metabólicas, a insulina
+não é mais capaz de inibir a fosforilação da lipase hormônio sensível (Gutierrez,
+Puglisi & Hasty, 2009), enzima limitante no processo de lipólise.
+Estes resultados também demonstram que o consumo das gorduras
+interesterificadas, com maior proporção de ácidos graxos saturados na posição sn-2
+da molécula de TG, aumentam risco de obesidade e comorbidades, induzindo maior
+grau de inflamação. Em animais, já foi demonstrado que o consumo de gordura
+interesterificada por fêmeas durante gestação e lactação causa efeitos adversos dos
+filhotes machos, ou seja, estas gorduras podem interferir na programação
+metabólica da prole (Magri et al., 2014), levando ao maior ganho de peso com
+hipertrofia dos adipócitos (Magri et al., 2014).
+Já está documentado que o consumo de gordura saturada induz maior
+formação de tecido adiposo que consumo de gordura poli-insaturada, seguido de
+maior grau de inflamação e hipertrofia dos adipócitos (Westerbacka et al., 2005;
+Malhi et al, 2006). No entanto, os resultados deste estudo são os primeiros a
+demonstrar que o ácido graxo saturado quando se encontra na posição sn-2 do TG,
+faz com que esta alteração metabólica ocorra em maior magnitude.
+O que já está bem documentado, é que o ácido esteárico apresenta menor
+taxa de absorção que demais saturados, por apresentar ponto de fusão elevado,
+superior à temperatura corporal (Mattson, Nolen & Webb, 1979), formando menos
+tecido adiposo (Gouk et al., 2013; Gouk et al., 2014). Além disso, “in vitro”
+adipócitos incubados com ácido esteárico demonstraram maior expressão da LHS,
+enzima limitante na hidrólise de triglicérides no tecido adiposo (Manickam, Sinclair &
+Cameron-Smith, 2010).
+
+17
+
+CONCLUSÃO
+
+As gorduras interesterificadas
+
+não alteram a concentração plasmática de
+
+colesterol e triglicérides e aquelas enriquecidas com ácido palmítico induziram maior
+peso de gordura visceral.
+
+18
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+Bell TA, Iii, Kelley K, Wilson MD, Sawyer JK, Et al. Dietary Fat-Induced
+Alterations In Atherosclerosis Are Abolished By Acat2-Deficiency In Apob100
+Only, Ldlr-/- Mice. Arterioscler. Thromb. Vasc. Biol. 2007;27:1396–1402.
+Bennett AJ, Billett MA, Salter AM, White Da. Regulation Of Hamster Hepatic
+Microsomal Triglyceride Transfer Protein Mrna Levels By Dietary Fats.
+Biochembiophys Res Commun. 1995 Jul 17;212(2):473-8.
+Bieghs V, Van Gorp PJ, Wouters K, Hendrikx T, Et al. Ldl Receptor Knock-Out
+Mice Are A Physiological Model Particularly Vulnerable To Study The Onset Of
+Inflammation In Non-Alcoholic Fatty Liver Disease. Plos One. 2012;7(1):E30668.
+Bugianesi E, Mccullough AJ, Marchesini G. Insulin Resistance: A Metabolic
+Pathway To Chronic Liver Disease. Hepatology. 2005 Nov;42(5):987-1000.
+Boden G, Shulman, GI. Free fatty acids in obesity and type 2 diabetes: defining
+their role in the development of insulin resistance and β-cell dysfunction. Eur J
+Clin Invest. 2002; 32: 14–23
+Chen J, Chen L, Sanseau P, Freudenberg JM, Rajpal DK. Significant
+obesity-associated gene expression changes occur in the stomach but not
+intestines in obese mice. Physiol Rep. 2016 May;4(10).
+Coenen KR, Gruen ML, Chait A, Hasty AH. Diet-Induced Increase In Adiposity,
+But Not Plasma Lipids, Promote Macrophage Infiltration Into White Adipose
+Tissue. Diabetes. 2007;56(3):564–573.
+Defronzo RA, Tripathy D. Skeletal Muscle Insulin Resistance Is The Primary
+Defect In Type 2 Diabetes. Diabetes Care. 2009 Nov;32 Suppl 2:S157-63.
+
+19
+
+Ebbert JO, Jensen MD. Fat depots, free fatty acids, and dyslipidemia. Nutrients.
+2013 Feb 7;5(2):498-508. doi: 10.3390/nu5020498. Review.
+Fernández-Quintela A, Churruca I, Portillo MP. The Role Of Dietary Fat In
+Adipose Tissue Metabolism. Public Health Nutr. 2007 Oct;10(10a):1126-31.
+Review.
+Fernandez-Real JM, Broch M, Vendrell J, Ricart W. Insulin resistance,
+inflammation, and serum fatty acid composition. Diabetes Care. 2003;
+26(5):1362–1368.
+Fitzgerald N, Morgan KT, Slawson DL. Practice paper of the Academy of
+Nutrition and Dietetics abstract: the role of nutrition in health promotion and
+chronic disease prevention. J Acad Nutr Diet. 2013 Jul;113(7):983.
+Gouk SW, Cheng SF, Mok JS, Ong AS, Chuah CH. Long-Chain Sfa At The Sn-1,
+3positions Of Tag Reduce Body Fat Deposition In C57bl/6 Mice. Br J Nutr. 2013
+Dec 14;110(11):1987-95.
+Gouk SW, Cheng SF, Ong AS, Chuah CH. Stearic Acids At Sn-1, 3 Positions Of
+Tagare More Efficient At Limiting Fat Deposition Than Palmitic And Oleic Acids
+Inc57bl/6 Mice. Br J Nutr. 2014 Apr 14;111(7):1174-80.
+Gutierrez DA, Puglisi MJ, Hasty AH. Impact Of Increased Adipose Tissue Mass
+On Inflammation, Insulin Resistance, And Dyslipidemia. Curr Diab Rep. 2009
+Feb;9(1):26-32.
+Gregor MF, Hotamisligil GS. Inflammatory mechanisms in obesity. Annu Rev
+Immunol. 2011; 23: 415-445.
+Gluckman PD, Hanson M, Zimmet P, Forrester T. Losing the war against obesity:
+the need for a developmental perspective. Sci Transl Med. 2011;3(93):93cm19.
+
+20
+
+Hall WL, Fiuza Brito M, Huang J, Et al. An Interesterified Palm Olein Test Meal
+Decreases Early-Phase Postprandial Lipemia Compared To Palm Olein: A
+Randomized Controlled Trial. Lipids. 2014;49(9):895-904.
+Hotamisligil GS, Shargill NS, Spiegelman BS. Adipose Expression Of Tumor
+Necrosis Factor-Alpha: Direct Role In Obesity-Linked Insulin Resistance. Science.
+1993 Jan 1;259(5091):87-91.
+Hunter, JE. Dietary Trans Fatty Acids: Review Of Recent Human Studies And
+Food Industry Responses. Lipids. 2006; 41: 967-92.
+Hooper L, Martin N, Abdelhamid A, Davey Smith G. Reduction in saturated fat
+intake for cardiovascular disease. Cochrane Database Syst Rev. 2015 Jun
+10;(6):CD011737. doi: 10.1002/14651858.CD011737. Review.
+Ibrahim A, Natarajan S, Ghafoorunissa. Dietary Trans–Fatty Acids Alter Adipocyte
+Plasma Membrane Fatty Acid Composition And Insulin Sensitivity In Rats.
+Metabolism. 2005; 54: 240–246.
+Kris-Etherton PM, Griel AE, Psota TL, Gebauer SK, Zhang J, Et al. Dietary
+Stearic Acid And Risk Of Cardiovascular Disease: Intake, Sources, Digestion,
+And Absorption. Lipids. 2005; 40(12):1193-200. Review.
+Kromhout D, Menotti A, Bloemberg B, Aravanis C, et al. Dietary saturated and
+trans fatty acids and cholesterol and 25-year mortality from coronary heart
+disease: the Seven Countries Study. Prev Med. 1995; 24(3):308-15.
+Lin J, Yang R, Tarr PT, Wu PH, Handschin C, Li S Et al. Hyperlipidemic Effects
+Of Dietary Saturated Fats Mediated Through Pgc-1 Coactivation Of Srebp. Cell.
+2005; 120: 261–273.
+Machado RM, Stefano JT, Oliveira CPMS, Mello ES, Et al. Intake Of Trans Fatty
+Acids Causes Nonalcoholic Steatohepatitis And Reduces Adipose Tissue Fat
+Content. J. Nutr. 2010; 140: 1127–1132.
+21
+
+Magri TP, Fernandes FS, Souza AS, Langhi LG, Barboza T, Misan V, Mucci DB,
+Santos RM, Nunes TF, Souza SA, De Mello Coelho V, Tavares Do Carmo MD.
+Interesterified Fat Or Palm Oil As Substitutes For Partially Hydrogenated Fat In
+Maternal Diet Can Predispose Obesity In Adult Male Offspring. Clin Nutr. 2015
+Oct;34(5):904-10.
+Malhi H, Bronk SF, Werneburg NW, Gores GJ. Free Fatty Acids Induce Jnk
+Dependent Hepatocyte Lipoapoptosis. J Biol Chem. 2006; 281: 12093-12101.
+Manickam
+
+E,
+
+Sinclair
+
+AJ,
+
+Cameron-Smith
+
+D.
+
+Suppressive
+
+Actions
+
+Of
+
+Eicosapentaenoic Acid On Lipid Droplet Formation In 3t3-L1 Adipocytes. Lipids
+Health Dis. 2010; 9: 57.
+Mattson FH, Nolen GA, Webb MR. The Absorbability By Rats Of Various
+Triglycerides Of Stearic And Oleic Acid And The Effect Of Dietary Calcium And
+Magnesium. J Nutr. 1979;109(10):1682-7.
+Meijer GW, Weststrate JA. Interesterification Of Fats In Margarine: Effect On
+Blood Lipids, Blood Enzymes, And Hemostasis Parameters. Eur J Clin Nutr.
+1997; 51: 527-534.
+Mensink RP, Zock PL, Kester AD, Katan MB. Effects of dietary fatty acids and
+carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids
+and apolipoproteins: a meta-analysis of 60 controlled trials. Am J Clin Nutr. 2003;
+77: 1146- 1155.
+Mortimer BC, Simmonds WJ, Joll CA, Stick RV, Redgrave TG. Regulation Of The
+Metabolism Of Lipid Emulsion Model Lipoproteins By A Saturated Acyl Chain At
+The 2-Position Of Triacylglycerol. J Lipid Res. 1988;29(6):713-20.
+Nestel PJ, Noakes M, Belling GB, Mcarthur R, et al. Effect On Plasma Lipids Of
+Interesterifying A Mix Edible Oils. Am J Clin Nutr. 1995; 62: 950-955.
+
+22
+
+Olefsky JM. Fat talks, liver and muscle listen. Cell. 2008 Sep19;134(6):914-6.
+Olefsky JM, Glass CK. Macrophages, Inflammation, And Insulin Resistance. Annu
+Rev Physiol. 2010; 72: 219-46.
+Reena MB, Lokesh BR. Effect Of Feeding Blended And Interesterified Vegetable
+Oils On Antioxidant Enzymes In Rats. Food Chem Toxicol. 2011 Jan;49(1):13643.
+Robinson DM, Martin NC, Robinson LE, Ahmadi L, et al. Wright Aj. Influence Of
+Interesterification Of A Stearic Acid-Rich Spreadable Fat On Acute Metabolic Risk
+Factor. Lipids. 2009; 44: 17-26.
+Rosselli M, Lotersztajn S, Vizzutti F, Arena U, Pinzani M, Marra F. The
+Sanders TA, Berry SE, Miller GJ. Influence Of Triacylglycerol Structure On The
+Postprandial Response Of Factor Vii To Stearic Acid-Rich Fats. Am J Clin Nutr.
+2003; 77:777–82.
+Sanders TA, Filippou A, Berry SE, Baumgartner S, Et al. Palmitic Acid In The Sn2 Position Of Triacylglycerols Acutely Influences Postprandial Lipid Metabolism.
+Am J Clin Nutr. 2011.
+Saravanan N, Haseeb A, Ehtesham NZ, Ghafoorunissa. Differential Effects Of
+Dietary Saturated And Trans-Fatty Acids On Expression Of Genes Associated
+With Insulin Sensitivity In Rat Adipose Tissue. Eur J Endocrinol. 2005; 153: 159–
+165.
+Shi Y, Burn P. Lipid Metabolic Enzymes: Emerging Drug Targets For The
+Treatment Of Obesity. Nat Rev Drug Discov. 2004;3(8):695-710. Review.
+Spritz N, Mishkel MA. Effects of dietary fats on plasma lipids and
+lipoproteins: an hypothesis for the lipid-lowering effect of unsaturated fatty
+acids. J Clin Invest. 1969 Jan;48(1):78-86.
+
+23
+
+Srivastava Ra, Ito H, Hess M, Srivastava N, Schonfeld G. Regulation Of
+Lowdensity Lipoprotein Receptor Gene Expression In Hepg2 And Caco2 Cells By
+Palmitate, Oleate, And 25-Hydroxycholesterol. J Lipid Res. 1995
+Srivastava RA, Jahagirdar R, Azhar S, Sharma S, Bisgaier Cl.Mol Cell Biochem.
+Peroxisome Proliferator-Activated Receptor-Alpha Selective Ligand Reduces
+Adiposity, Improves Insulin Sensitivity And Inhibits Atherosclerosis In Ldl
+Receptor-Deficient Mice. Mol Cell Biochem. 2006;285(1-2):35-50.
+Storch J, Zhou YX, Lagakos WS. Metabolism Of Apical Versus Basolateral Sn-2Monoacylglycerol And Fatty Acids In Rodent Small Intestine. J Lipid Res.
+2008;49(8):1762-9.
+Subramanian S, Han CY, Chiba T, Mcmillen TS Et al. Dietary Cholesterol
+Worsens Adipose Tissue Macrophage Accumulation And Atherosclerosis In
+Obese
+
+Ldl
+
+Receptor-Deficient
+
+Mice.
+
+Arterioscler
+
+Thromb
+
+Vasc
+
+Biol.
+
+2008;28(4):685-91.
+Sundram K, Karupaiah T, Hayes KC. Stearic Acid-Rich Interesterified Fat And
+Trans-Rich Fat Raise The Ldl/Hdl Ratio And Plasma Glucose Relative To Palm
+Olein In Humans. Nutr Metab. 2007; 4:3.
+Sutter AG, Palanisamy AP, Lench JH, Esckilsen S, Geng T, Lewin DN, Cowart
+LA, Chavin KD. Dietary Saturated Fat Promotes Development Of Hepatic
+Inflammation Through Toll-Like Receptor 4 In Mice. J Cell Biochem. 2016.
+Tarrago-Trani, M.T.; Phillips, K.M.; Lemar, L.E.; Holden JM. New And Existing
+Oils And Fats Used In Products With Reduced Trans-Fatty Acid Content. J Am
+Diet Assoc, V.106, P.867-80, 2006.
+Tynan GA, Hearnden CH, Oleszycka E, Lyons CL, Coutts G, O'connell J,
+Corrigan MA, Lynch L, Campbell M, Callanan JJ, Mok KH, Geoghegan J,
+O'farrelly C, Allan SM, Roche HM, O'shea DB, Lavelle EC. Endogenous Oils
+
+24
+
+Derived From Human Adipocytes Are Potent Adjuvants That Promote Il-1αDependent Inflammation. Diabetes. 2014 Jun;63(6):2037-50.
+Wang S, Wu D, Matthan NR, Lamon-Fava S, Lecker JL, Lichtenstein AH.
+Reduction In Dietary Omega-6 Polyunsaturated Fatty Acids: Eicosapentaenoic
+Acid Plus Docosahexaenoic Acid Ratio Minimizes Atherosclerotic Lesion
+Formation And Inflammatory Response In The Ldl Receptor Null Mouse.
+Atherosclerosis. 2009;204(1):147-55.
+Westerbacka J, Kolak M, Kiviluoto T, Arkkila P, Et al. Genes Involved In Fatty
+Acid Partitioning And Binding, Lipolysis, Monocyte/Macrophage Recruitment And
+Inflammation Are Overexpressed In The Human Fatty Liver Of Insulin-Resistant
+Subjects. Diabetes. 2007; 56: 2759-2765.
+Westerbacka J, Lammi K, Häkkinen AM, Rissanen A, Salminen I, Et al. Dietary
+Fat Content Modifies Liver Fat In Overweight Nondiabetic Subjects. J Clin
+Endocrinol Metab. 2005; 90: 2804-2809.
+WHO. 2008. Global Infobase: data on overweight and obesity, mean BMI, healthy
+diets and physical inactivity. http://www.who.int/mediacentre/
+Yamazaki T, Shiraishi S, Kishimoto K, Miura S, Ezaki O. An Increase In Liver
+Ppar?2 Is An Initial Event To Induce Fatty Liver In Response To A Diet High In
+Butter: Ppar?2 Knockdown Improves Fatty Liver Induced By High-Saturated Fat.
+J Nutr Biochem. 2011;22(6):543-53.
+Yli-Jokipii K, Kallio H, Schwab U, Mykkänen H, Et al. Effects Of Palm Oil And
+Transesterified Palm Oil On Chylomicron And Vldl Triacylglycerol Structures And
+Postprandial Lipid Response. J Lipid Res. 2001; 42: 1618–1625.
+Zock PL, Katan MB, Mensink RP. Dietary Trans Fatty Acids And Lipoprotein
+
+25
+
+26
+
+

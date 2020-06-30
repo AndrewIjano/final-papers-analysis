@@ -1,0 +1,2656 @@
+FACULDADE DE ARQUITETURA E URBANISMO
+UNIVERSIDADE DE SÃO PAULO
+
+Thiago Takagaki Akioka
+
+DESIGN, PROCESSO CRIATIVO E MANGÁ
+
+GENESIS: DESIGN, CREATIVE PROCESS AND MANGA
+
+ORIENTADORA:
+Prof.ª Dr.ª Clice de Toledo Sanjar Mazzilli
+
+SÃO PAULO, 2017
+
+FACULDADE DE ARQUITETURA E URBANISMO
+UNIVERSIDADE DE SÃO PAULO
+
+Thiago Takagaki Akioka
+
+DESIGN, PROCESSO CRIATIVO E MANGÁ
+
+GENESIS: DESIGN,
+CREATIVE PROCESS AND MANGA
+Trabalho de Conclusão de Curso
+apresentada à Faculdade de Arquitetura
+e Urbanismo da Universidade de São
+Paulo como requisito parcial para a
+obtenção do título de Bacharel em
+Design.
+
+ORIENTADORA:
+Prof.ª Dr.ª Clice de Toledo Sanjar Mazzilli
+
+SÃO PAULO, 2017
+
+AGRADECIMENTOS
+Dedico este trabalho a todos que me apoiaram não apenas tecnicamente, mas
+emocionalmente para a conclusão deste projeto.
+A Deus, por ter me guiado em toda a minha vida e concedido apoio emocional, sabedoria
+e a oportunidade de estudar em uma Universidade.
+A professora e orientadora Clice Mazzilli, pelos ensinamentos, conselhos e pela imensa
+compreensão que me permitiram melhorar e perseverar neste projeto ao longo do ano.
+À banca avaliadora, pelas suas sugestões, conselhos e ensinamentos que me auxiliaram no
+desenvolvimento do final deste trabalho.
+A cada um de meus numerosos amigos e amigas que me inspiraram, me ouviram, me
+motivaram e avaliaram meu projeto, permitindo sua constante evolução até o fim.
+E a minha família, por todo apoio técnico e, principalmente, emocional nos momentos
+alegres e difíceis durante esta trajetória.
+Pois o processo criativo não acontece de forma isolada, mas é uma manifestação de todos
+os relacionamentos, desejos, medos e experiências que penetram em nossa consciência,
+cada uma de forma singular e diferente de pessoa para pessoa.
+
+3
+
+RESUMO
+Obras de ficção são muitas vezes vistas como simples frutos da intuição ou, mais
+popularmente, do talento daquele quem as cria. No entanto, nem sempre esse é o caso,
+sendo tais trabalhos passíveis de serem analisados através de uma abordagem mais
+rigorosa. Em outras palavras, propõe-se o tratamento dessas peças que compõem mundos
+ficcionais, como personagens, os cenários, os eventos da narrativa e afins, não como
+produtos do acaso, mas de reflexões e planejamentos para criar um discurso coerente.
+Dessa forma, o objetivo deste trabalho de graduação se resume em realizar um estudo
+dos processos criativos focados no mangá, bem como o envolvimento do design na
+criação desses elementos que se constituem em recursos importantes para a criação de
+um processo de comunicação entre o autor e seu receptor.
+Por fim, o trabalho culmina no desenvolvimento de uma história em quadrinhos em estilo
+mangá de autoria própria, construída a partir de todos os dados coletados através desta
+pesquisa.
+Palavras-chave: processo criativo, design, ficção, mangá, comunicação.
+
+ABSTRACT
+Works of fiction are often seen as mere fruits of intuition or, more popularly, of the
+talent of the one who creates them. However, this is not always the case, and such works
+
+5
+
+can be analyzed through a more rigorous approach. In other words, it is proposed the
+treatment of those pieces that make up fictional worlds, such as characters, scenarios,
+narrative events and the like, not as products of chance but products of reflections and
+plans to create a coherent discourse.
+Thus, the objective of this graduation work is summarized in a study of the creative
+processes focused on the manga, as well as the involvement of the design in the creation
+of these elements that constitute important resources for the creation of a communication
+process between the author and his receiver.
+Finally, the work culminates in the development of a manga-style comic of my own
+authorship, constructed from all the data collected through this research.
+Keywords: creative process, design, fiction, manga, communication.
+
+6
+
+SUMÁRIO
+
+SUMÁRIO
+1. Introdução
+
+11
+
+2. O processo criativo em obras de ficção
+
+17
+
+2.1 Origens do processo criativo
+
+19
+
+2.2 Documentos de processo
+
+21
+
+2.3 Design, processo criativo e obras de ficção
+
+23
+
+2.4 Variações do processo criativo
+
+27
+
+3. Metodologia de projeto no processo criativo
+
+29
+
+4. Ilusão, originalidade e o funcionamento da ficção
+
+45
+
+4.1 Ilusão
+
+47
+
+4.2 Originalidade
+
+51
+
+4.4 Funcionamento da ficção
+
+54
+
+5. Mangá e o processo criativo
+
+57
+
+5.1 História do mangá
+
+59
+
+5.2 Características do mangá
+
+68
+
+5.2.1 A cultura no mangá
+
+68
+
+5.2.2 Linguagem visual do mangá
+
+69
+
+5.3 Análise de casos
+
+75
+
+5.3.1 Boku no Hero Academia (2014) - Kohei Horikoshi
+
+76
+
+5.3.2 Fullmetal Alchemist (2004) - Hiromu Arakawa
+
+83
+
+6. Desenvolvimento do trabalho autoral
+
+91
+
+6.1 Origens do projeto
+
+93
+
+6.2 Finalização do projeto
+
+98
+
+6.3 Desenvolvimento do projeto
+
+106
+
+6.3.1 Mudança de curso e requisitos de projeto
+
+106
+
+6.3.2 Roteiro
+
+107
+
+6.3.3 Storyboard
+
+108
+
+6.3.4 Desenvolvimento
+
+111
+
+6.3.5 Finalização e impressão
+
+114
+
+		
+7. Conclusão
+
+119
+
+8. Bibliografia
+
+125
+
+1
+
+INTRODUÇÃO
+
+Este trabalho de graduação tem como objetivo apresentar um estudo sobre o design gráfico
+e a contribuição que os aspectos de projeto a ele relacionados podem dar ao processo de
+criação em obras de ficção, em particular, o mangá. Busca-se, no entanto, analisar o design
+não apenas do ponto de vista dos seus elementos tradicionais – como diagramação, a
+escolha de uma tipografia, espaçamentos, mancha de texto, tipo de papel a ser utilizado,
+resolução da imagem em uma tela – mas também como uma ferramenta capaz de auxiliar
+na criação de outros elementos importantes para as obras de ficção (tais como histórias
+em quadrinhos, animações, jogos eletrônicos e livros ilustrados), os quais são muitas vezes
+tratados com um caráter de menor importância do ponto de vista de projeto.
+Trata-se dos personagens, dos cenários, dos grandes mundos de fantasia, das trilhas sonoras
+(em caso de trabalhos audiovisuais), dos eventos da narrativa e de todo o planejamento
+considerados, normalmente, principalmente pelo público receptor, como aspectos que se
+resumem à imaginação, ao senso estético e à criatividade de quem os produz. É comum
+que essas peças típicas de mundos de fantasia sejam vistas dessa forma, na qual o autor
+responsável utiliza seu inato talento e criatividade como se o sucesso da obra e a eficiência
+com que transmite uma mensagem se resumissem a um processo intuitivo.
+Uma possível explicação para o fato pode ser fornecida pela própria natureza desse tipo
+de conteúdo. Por exemplo, ao pensar em um conto de fantasia, que existe somente em
+seu próprio universo, esse raramente, se equiparará ao desenvolvimento de um projeto
+de sinalização de trânsito ou à ergonomia de um produto, os quais, possuem sérias
+implicações para o ambiente e todos que nele habitam. É preciso lembrar que peças
+
+13
+
+voltadas principalmente para o entretenimento têm funções sociais e relações diferentes
+dos objetos práticos e bens essenciais utilizados pelo homem. Infelizmente prevalece
+uma concepção equivocada de que toda obra ficcional é feita do acaso e voltada à livre
+interpretação, à independência da realidade, sendo simplesmente dispensada por não
+parecer crítica do ponto de vista do design.
+Sem dúvida, casos semelhantes podem existir, principalmente se considerarmos toda a
+produção de entretenimento e seus diferentes graus de qualidade nos dias de hoje, com
+o advento das tecnologias industriais e digitais. Por outro lado, essas mesmas tecnologias
+fortalecem a concepção desse tipo de material como um importante elemento de
+comunicação e, também, de design.
+Com a revolução das redes online e dos suportes digitais, o processo comunicacional tornase mais importante do que nunca. Os quadrinhos, assim como filmes, jogos eletrônicos
+e a literatura não são excluídas do mesmo, consistindo em informações que devem ser
+bem projetadas pelos autores, com devida reflexão e responsabilidade, para serem bem
+compreendidas pelo público, principalmente por se tratarem de suportes capazes de
+alcançar um incontável número de pessoas, podendo formar opiniões, visões de mundo e
+reflexões distintas em cada indivíduo.
+Sendo assim, a forma como se dá a construção do fictício, através da formulação de
+personagens, tramas, visuais, trilhas sonoras, entre outros, é um exemplo de uma prática
+essencial para o desempenho desse processo, concedendo aos vários profissionais que
+atuam no ramo, sejam eles designers, artistas, escritores, cineastas e muitos outros, a
+possibilidade de garantir inúmeras oportunidades de formalizar ideias criativas que não
+sejam simples frutos do acaso e sim de pesquisa e planejamento cuidadosos para a criação
+de um discurso coerente.
+A aplicação desses aspectos e outros elementos formais provoca, consequentemente,
+emoções, reflexões, empatia com os personagens e uma interpretação desejada para a
+
+14
+
+obra de ficção. O design, com suas próprias ferramentas, também estaria participando da
+comunicação de forma integral, iniciando-se já durante a articulação dos itens criativos
+mais básicos da composição.
+Foi a partir desses aspectos que este trabalho foi desenvolvido. A percepção de que as
+várias decisões quanto ao processo criativo das obras de ficção consideradas como vindas
+da “inspiração artística” poderiam ter pesquisa e problematização como em um projeto de
+design, pareceu ser uma abordagem de interesse para esse trabalho. Tentando relacionar
+essas partes por meio da análise de processos criativos, buscou-se, com esse estudo,
+investigar como o designer pode influenciar e se deixar influenciar para contribuir na
+gênese de um conteúdo original, atrativo ao público e dotado de um poder comunicativo.
+Dito isso, é importante mencionar que as análises apresentadas se concentram no universo
+das histórias em quadrinhos japonesas, os chamados “mangás”. A razão para essa escolha
+foi, além de minha maior afinidade com esse tipo de obra, a necessidade de estabelecer
+uma delimitação para a pesquisa e desenvolvimento de um projeto, sem o que seria um
+tema muito extenso se consideradas todas as variedades de entretenimento produzidas
+nos dias atuais.
+Finalmente, o trabalho resultou no desenvolvimento de uma história em quadrinhos
+de minha autoria, a qual, baseando-se em todos os materiais de pesquisa coletados, foi
+analisada quanto ao seu desenvolvimento e processo criativo ao fim desta monografia.
+
+15
+
+2
+
+PROCESSO CRIATIVO
+EM OBRAS DE FICÇÃO
+
+2.1 ORIGENS DO PROCESSO CRIATIVO
+Antes de iniciar uma análise mais profunda a respeito das obras de ficção em si, é preciso
+apresentar um elemento essencial no qual se baseia este estudo: o próprio processo criativo.
+Ao se falar de criação, o conceito é quase que imediatamente associado ao ser humano,
+o que se reflete ao longo de toda a sua existência: seja através de pinturas rupestres,
+esculturas primitivas, ferramentas de pedra ou edificações, a humanidade está repleta de
+exemplos da herança criativa deixada por seus antepassados.
+Mas de onde se origina a afinidade humana pela criação? Seria instinto? Uma “programação
+genética”? Uma resposta fácil pode ser sugerida se forem consideradas as necessidades
+de sobrevivência de todos os seres vivos. O homem primitivo precisava caçar para
+obter alimentos, confeccionando ferramentas para auxiliá-lo nesta tarefa, ou até mesmo
+construia um abrigo para se proteger dos efeitos climáticos e assim por diante.
+Por outro lado, isso também pode ser interpretado como uma resposta muito simplificada.
+Afinal, primatas demonstram semelhante capacidade para usar ferramentas, pássaros
+constroem ninhos, as abelhas, colmeias, onde formam comunidades hierárquicas para
+subsistirem. O ser humano, porém, vai além, demonstrando capacidades cognitivas muito
+mais complexas, sendo apto para criar novos objetos e igualmente capaz de compreender
+seus significados e implicâncias no mundo ao redor.
+
+19
+
+Segundo Gombrich (1986, p.77): “Toda arte tem origem na mente humana, em nossas
+reações ao mundo mais que no mundo visível em si, e é exatamente por ser toda arte
+‘conceitual’ que todas as representações são reconhecíveis pelo seu estilo”.
+
+Isso possibilita o desenvolvimento de interpretações, significados, culturas, identidades,
+religiões, e formas de agir diferentes, pavimentando o caminho para o processo de criação
+propriamente dito. Através desse ponto de vista, a motivação humana pela criação não
+consiste somente num agir instintivo motivado por fatores práticos, mas também na
+geração de produtos capazes de suprir suas necessidades cognitivas mais complexas, as
+quais estão ligadas a todos os elementos existentes no ambiente ao redor, provocando
+sentimentos, medos, crenças e aspirações.
+E é justamente nesse conceito que o processo de criação se apoia. A gênese não ocorre
+espontaneamente, como se as soluções para um problema se originassem magicamente na
+consciência de cada indivíduo, mas, assim como diz Gombrich, necessita de uma reação
+ao mundo, de estímulos externos, de interpretações para servir de insumo para as criações.
+A motivação através da necessidade, pela busca de um sentido para a vida, para se adequar
+a uma cultura ou grupo social são apenas alguns exemplos de como tais estímulos podem
+provocar inquietações no ser humano criador.
+É importante ressaltar que essa origem criativa na mente representa uma série de
+conhecimentos que se aprofundam em outras áreas de conhecimento como a psicologia,
+a neurociência e a antropologia, indo além dos objetivos propostos por este estudo.
+Contudo, o breve embasamento apresentado chama a atenção para um padrão comum
+aos criadores: a ideia do mundo ao redor como fornecedora de elementos capazes de
+servir como estopim para a produção criativa do ser humano e que devem ser por ele
+interpretados e processados para se chegar à conclusão do processo. A versão popular da
+frase cunhada pelo químico Lavoisier, “na natureza, nada se cria, nada se perde, tudo se
+transforma”, parece ser uma expressão adequada para tal situação.
+
+20
+
+Por outro lado, a criação não se baseia somente em elementos exclusivamente externos ao
+criador e como ele lida com eles. A reação ao mundo de Gombrich deve ser considerada,
+mas há também uma espécie de “zona de interface” caracterizada pelo desenvolvimento dos
+chamados “documentos de processo”, peças importantes que ajudam no desenvolvimento
+criativo, os quais serão detalhados no tópico a seguir.
+
+2.2
+
+DOCUMENTOS DE PROCESSO
+
+Durante o processo criativo, muitos sentem a necessidade de exteriorizar suas ideias.
+Enquanto alguns preferem gravar seus pensamentos em um pedaço de papel, seja em
+forma de uma anotação ou ilustração, outros partem para a realização imediata de testes e
+experimentos. Ainda mais, existem aqueles que apresentam suas ideias a outros indivíduos,
+aguardando uma opinião sobre seus desdobramentos.
+Quando falamos do processo criativo sendo desenvolvido através de uma abordagem
+planejada, é perceptível, por parte daqueles que o desempenham, a utilização de um
+sistema fluido através do qual se preservam materiais que revelam os estágios pelos quais
+os mesmos têm de passar para chegar a um resultado final. Durante o desenvolvimento de
+uma obra, isso se manifesta sob a forma de rascunhos, anotações, rafes, registros sonoros,
+dados de computador, fotografias, tiras de revistas, entre outros.
+Em um dos vários estudos realizados a respeito do processo criativo, Cecília Salles
+(2004) chama esse arranjo de elementos de “documentos de processo”, sendo eles
+uma necessidade que o artista possui de armazenar informações capazes de auxiliá-lo a
+desenvolver sua obra e de experimentar potenciais caminhos para a finalização da mesma,
+deixando evidente a natureza indutiva da criação. São peças capazes de ilustrar o contexto
+mental pelo qual ele passa para chegar a um resultado, gerando um histórico de seu gesto,
+os quais ela chama de “rastros do artista”.
+
+21
+
+Isso se assemelha, por exemplo, aos designers quando, durante um projeto, guardam
+registros de brainstorm, sketches e modelos de experimentação, realizando o arranjo
+desses “documentos de processo” e permitindo novas experimentações, reavaliações,
+descobertas de deficiências e a formação de um rastro evolutivo que está aberto à consulta
+para todos aqueles que sentirem necessidade, sejam eles clientes, usuários ou outros
+designers em busca de referências em seus trabalhos criativos (Figura 1).
+
+Figura 1 – Fotografia do sketchbook de Claire Coullon contendo estudos para o redesign de marca
+para empresa francesa Kiubi: as anotações e rascunhos servem como “documentos de processo” que
+auxiliam o designer a chegar até a versão final do projeto.
+
+Fonte: http://www.coullon.com/portfolio/kiubi.html
+
+Tudo isso traz à tona um ciclo criativo, uma vez que esse tipo de documentação pode
+servir de insumo não apenas para o próprio autor durante a aplicação de melhorias ou no
+desenvolvimento de novos projetos, mas também para outros profissionais: um autor de
+romances pode obter grande inspiração ao ler a partitura de uma música, bem como um
+artista plástico pode pintar obras se embasando em storyboards de um filme que assistiu.
+
+22
+
+Os criadores, dessa forma, podem se aproximar nesse agir ao compilarem seu percurso
+de acertos e erros, do que pode ser útil para o futuro, dos elementos que podem vir a
+fazer parte da versão final de sua obra, uma vez que todos eles trabalham nessa fronteira
+criativa do que ainda não foi feito, do que não foi pensado, do que pode ser reavaliado.
+E é precisamente nesse tipo de semelhança que nasce a zona de interface capaz de trazer
+à existência a contribuição que tais áreas podem oferecer quando tratamos do processo
+criativo.
+Juntando a ideia com o que foi citado no tópico anterior e trazendo um exemplo mais
+próximo das obras de ficção, é possível dizer que embora um designer de jogos eletrônicos
+e um diretor de um filme blockbuster possuam duas áreas de atuação distintas, ambos se
+assemelham ao utilizar derivados de sua mente, sua educação, experiências, memórias e
+informações que foram adquiridas durante todas as suas vidas para concretizarem seus
+trabalhos, os quais sofrem mudanças ainda mais drásticas quando se adiciona o feedback
+que se forma através dos “documentos de processo” e dos rastros deixados por eles.
+O que os tópicos referenciados demonstram é que tudo o que é produzido também
+se transforma em um “documento de processo”. Mesmo se a versão produzida de um
+projeto for a final, ela também se adiciona como um dado valioso e serve como rastro
+para ser levado em consideração para outros processos criativos.
+
+2.3 DESIGN, PROCESSO CRIATIVO E OBRAS DE FICÇÃO
+Mas qual seria a contribuição do designer para o processo criativo, principalmente no
+referente às obras de ficção? Tradicionalmente, é comum imaginar a área de atuação desse
+profissional como sendo portadora de um caráter mais voltado à realidade objetiva, a qual
+muitas vezes dita os resultados finais de um trabalho. Por exemplo, é correto falarmos
+durante o desenvolvimento de um produto que as escolhas a serem realizadas jamais devem
+ser arbitrárias ou interpretativas já que o conforto, a saúde e até mesmo a vida de pessoas
+podem estar envolvidas. Isso se aplica igualmente ao design gráfico se considerarmos a
+
+23
+
+sinalização de trânsito, um manual de instruções, a publicidade, o branding e o poder de
+influência da mídia.
+Bruno Munari (2008, p.10) descreve: “Também no campo do design não se deve projetar
+sem um método, pensar de forma artística procurando logo a solução, sem fazer antes
+uma pesquisa sobre o que já foi feito de semelhante ao que se quer projetar, sem saber
+que materiais utilizar para a construção, sem ter definido bem a sua exata função”.
+
+Como, então, um profissional educado em uma lógica objetiva e tão atrelada à realidade
+poderia vir a desempenhar a construção de mundos ficcionais, os quais parecem possuir
+maior independência em relação às regras que regem o mundo físico?
+Novamente, é necessário retornar à ideia de que tais suportes se constituem em meios
+de comunicação e, portanto, de grande interesse para um designer. Um projeto dessa
+natureza, por mais que possua personagens interessantes ou mundos que chamem a
+atenção do público alvo, terão ruídos em seu processo de comunicação se o planejamento
+for confuso, se o propósito com o qual o trabalho for criado não estiver bem formalizado.
+Para que uma história em quadrinhos ou livro ilustrado consiga transmitir as informações
+que carrega de maneira plena, é preciso haver uma boa diagramação, prestar atenção ao
+tamanho da tipografia, planejar o tipo de papel que será utilizado. Para que uma peça
+audiovisual seja bem recebida pelo público, é preciso levar em conta a sincronia entre
+áudio e imagem, pensar na resolução, definir o local onde será exibido. Normalmente,
+essa é a responsabilidade que se mostra mais frequentemente como uma competência
+tradicional do campo do design.
+Por outro lado, a criação dos elementos que se incluem nos mundos ficcionais, como
+os personagens, o mundo em que habitam e os diversos aspectos atrelados às regras
+e realidades fantásticas que os cercam também podem servir como regiões de atuação
+importantes para o designer que busca potencializar seu projeto na forma final. Nesse
+
+24
+
+tipo de abordagem, ele não precisaria necessariamente se importar, por exemplo, se os
+personagens de sua trama entenderão uma placa escrita em marciano ou se a cadeira
+atômica de uma espaçonave seria confortável para se sentar. Muitas das questões que não
+podem ser ignoradas em um projeto tradicional de design são entregues a uma atuação
+que pode omitir seu funcionamento.
+Entretanto, não se busca um agir que abraça a liberdade absoluta como se,
+independentemente das escolhas realizadas, a obra estivesse destinada ao sucesso, à livre
+interpretação, nem mesmo um processo totalmente baseado em aspectos técnicos, pobre
+em características capazes de chamar a atenção do público que consome o conteúdo
+ficcional.
+Enquanto uma atuação absolutamente solta pode tentar encontrar soluções de maneira
+rápida ou até mesmo acabar provocando problemas de comunicação com o público,
+um pensar totalmente voltado às questões técnicas pode privar a obra de ficção de
+sua naturalidade e organicidade que trazem vida a ela. Deve existir um balanço entre a
+liberdade artística e o pensamento de projeto em torno do ato criador de acordo com cada
+trabalho a ser desenvolvido.
+Sendo assim, os elementos de fantasia se constituem em alguns dos componentes mais
+básicos de uma obra ficcional, em uma essência em que todos os aspectos diagramáticos e
+técnicos se apoiarão para criar um discurso. O designer, já familiar com a comunicação e
+os mecanismos necessários para que ela aconteça de maneira eficaz, pode fazer sua parte
+ao produzir esse mesmo conteúdo fantasioso a partir de uma mentalidade de projeto.
+A atuação integral sobre uma obra dessa modalidade, do início ao fim do processo criativo,
+do personagem à diagramação, com o design participando de todas as etapas, permitiria o
+fortalecimento dos objetivos almejados por aquele que faz, como se cada uma das partes
+fossem unidades que se relacionam para formar um todo coerente. Em outras palavras,
+o designer estaria apto a conferir uma sinergia para toda a estrutura de uma ficção, já
+
+25
+
+que, nesse instante, não estaria mais pensando somente no layout, na diagramação ou na
+escolha de uma tipografia, mas também nos personagens, na trama e como todos esses
+pedaços se relacionarão para se obter o máximo do processo comunicativo.
+Do ponto de vista da semiótica, isso significa que, para que o interpretante final seja
+articulado da maneira desejada, é necessário que cada signo gerado para os interpretantes
+dinâmicos seja pensado através de um propósito que só se realiza plenamente ao ser
+apresentado na sua forma completa, ou seja, quando toda a estrutura desse mundo
+de ficção e os aspectos técnico-diagramáticos de seu suporte de comunicação forem
+perceptíveis como informação articulada para os receptores.
+Os pensamentos de design, com seu agir objetivo, contribuiriam para a criação dos
+componentes dessas obras através desse olhar voltado para o receptor, para o públicoalvo, para o consumidor, tendo em mente que todas as escolhas feitas durante o processo
+criativo são importantes e devem assegurar a comunicação. Salles (2004), afinal, se refere
+ao ato criador como uma tendência para o outro, considerando a própria criação um meio
+comunicativo e chamando a atenção para a forma como um indivíduo, quando afetado
+pelo mundo, pode afetar o mesmo em retorno.
+Juntando isso ao que já foi dito anteriormente, o importante, nesse caso, não é o nível de
+realismo ou a praticidade, mas os diferentes efeitos e interpretações que esses elementos
+podem ter sobre aquele que os recebe. Tanto a placa em marciano ou a cadeira atômica
+podem servir de matéria-prima para gerar situações narrativas interessantes, engraçadas,
+trágicas, educativas e até mesmo críticas, necessitando somente de tratamentos criativos
+diferentes nas obras em que se inserem. Dessa forma, a placa pode servir de base para
+uma metáfora que critica a falta de tradução para outras línguas na sinalização pública e a
+cadeira atômica pode servir como um suporte para ensinar as vantagens e os perigos da
+energia nuclear.
+Cabe lembrar que não é o intuito deste trabalho discorrer a respeito do embate entre o
+que seria o domínio do design e o domínio do artístico, mas é possível dizer, respeitando-
+
+26
+
+se as particularidades de cada ramo de atuação, que trata-se de uma prática comum a
+todos aqueles que lidam com o processo criativo: a capacidade de refletir e formular os
+elementos de uma mensagem e, consequentemente, gerar uma “ponte” entre a mesma e
+seu receptor, seja através da diagramação, das pinceladas em uma tela, do enquadramento
+em uma filmagem ou na escolha de palavras em um texto, constituem a zona de interface
+entre todos aqueles que convivem na fronteira do que está para existir.
+Essa maior flexibilidade significa que o designer, assim como todas essas pessoas, pode
+permitir que uma tira de jornal, uma música ou até mesmo os “documentos de processo”
+criados passem a influenciá-lo em sua criação, em seu “rastro do artista”, o qual, por sua
+vez, passará a ser um importante ponto de apoio que retroalimentará o início de novos
+projetos.
+São nessas diferenças e semelhanças que ocorre a fusão entre os métodos criativos quando
+nos referimos às obras de ficção, sendo o profissional responsável pelo projeto livre para
+se desprender da realidade objetiva, mesmo que por alguns instantes, e embarcar em
+suas próprias fantasias, ao mesmo tempo que mantém em mente a importância que sua
+história em quadrinhos, seu filme, seu livro, representam para todos aqueles que receberão
+o produto final, seja para fins educacionais, políticos ou de mercado. Os personagens, as
+placas em marciano, a espaçonave e a cadeira, assim como a tipografia, a diagramação e a
+escolha de uma cor, também estão inclusas nesse âmbito.
+
+2.4 VARIAÇÕES DO PROCESSO CRIATIVO
+Para finalizar este capítulo, é importante considerar o fato de que a própria mudança de
+natureza dos suportes de comunicação também alteraria a complexidade de um estudo
+relacionado à gênese das obras de ficção: as histórias em quadrinhos, os jogos eletrônicos,
+as peças de literatura e todas as outras formas de mídia se mostram como linguagens
+distintas e que podem exigir também processos criativos igualmente distintos.
+
+27
+
+No caso dos quadrinhos, por exemplo, Neil Cohn (2012) considera a existência de
+“linguagens visuais”, cuja noção é utilizada para descrever a ação do sistema cognitivo sobre
+as formas de expressão gráfica presentes nessa forma de comunicação. Para ele, quando
+indivíduos desenvolvem ou adquirem padrões de representação gráfica, juntamente com
+as estruturas necessárias para transformá-las em sequências nas histórias em quadrinhos,
+eles definitivamente estão utilizando essa “linguagem visual”.
+Tal linguagem, assim como as diferentes línguas dos diversos países, não possuiria um
+desdobramento universal, mas se diversificaria de acordo com a cultura de cada pessoa,
+permitindo o surgimento de processos criativos peculiares como, por exemplo, as dos
+mangás e dos comics. O mesmo pode ser dito das pinturas, dos filmes e até mesmo da
+música, os quais possuem suas próprias linguagens, seus próprios dialetos, gêneros e
+subgêneros de acordo com os indivíduos que os produzem, apresentando também uma
+infinidade de formas pelas quais a geração de uma determinada obra pode acontecer.
+Contudo, isso não significa que o criador esteja preso unicamente a formas de agir que
+lhe são mais familiares. Um modelo 3D pode ser tão útil para um designer de jogos
+eletrônicos quanto para um cineasta, que pode se apropriar da linguagem, do dialeto, e
+transformá-lo em uma importante fonte de inspiração em seu trabalho.
+O que se repete é a ideia de que a criação é uma característica inerente ao ser humano.
+Seja para solucionar um problema prático de design ou para criar um universo de fantasia,
+é possível dizer que todos criam e podem criar. A forma como cada indivíduo escolhe
+reproduzir as concepções da própria mente, bem como sua formação e o ambiente
+cultural em que está inserido, são os aspectos que definirão como os problemas serão
+confrontados, as soluções que serão encontradas e a forma final que se dará a uma
+obra imaginativa, constituindo-se em um processo interdisciplinar que abrange desde a
+psicologia até a comunicação.
+
+28
+
+3
+
+METODOLOGIA
+DE PROJETO NO
+PROCESSO CRIATIVO
+
+Observando os vários tipos de desdobramentos que o processo criativo pode apresentar
+quanto ao seu agir, surge a discussão a respeito de um componente de grande importância
+para o design: a metodologia de projeto.
+Anteriormente, foram explicitadas as possibilidades criativas e de embasamento que
+também surgem aos designers ao realizarem rodeios fluidos, ao serem influenciados pelos
+“documentos de processo” de forma menos hierarquizada e mais orgânica durante o
+desempenho de seu ato criador. Citando novamente Cecília Salles (2004), ela argumenta
+que tal processo é muitas vezes simplificado, interpretado como uma trajetória linear. Na
+realidade, ele consiste na fluidez durante sua prática, permitindo idas e vindas durante
+toda sua duração e até mesmo após seu término.
+Segundo a autora, o gesto criador seria um movimento com tendência, no qual o embate
+entre o rumo e a vagueza seria um dos responsáveis por guiar o artista através das
+descobertas que vai realizando ao longo do trajeto em direção a sua obra final, o que
+explicita também a aceitação das influências do inesperado no meio do processo.
+Essa colocação é fortalecida por Suzy Lee (2012, p.171), que considera que: “O trabalho
+do artista é enfrentar a incerteza. É como abrir os lábios para falar sem estar certo de
+que concluirá suas palavras”.
+
+Dessa maneira, com a implicação dos imprevistos e dessa vagueza, o que seria das
+metodologias de projeto que o design apresenta, as quais, apesar de se mostrarem de
+
+31
+
+forma mais objetiva e linear, são partes integrantes de seu processo criativo e ajudam a
+compreender as etapas, os problemas e as possíveis soluções a serem desenvolvidas em
+um trabalho? Poderiam elas também participar criativamente das obras de ficção?
+A título de exemplo, a metodologia apresentada por Munari (2008) enxerga o design
+como um problema que se encaminha para a solução por meio de uma sequência de
+estágios necessários para se chegar ao melhor resultado pelo menor esforço. A função
+desse esquema proposto (Figura 2), segundo ele, seria de tornar possível a visualização
+dessas etapas através da experiência proveniente de uma metodologia já testada, evitando,
+com isso, o desperdício de tempo ao corrigir erros que jamais teriam ocorrido se a mesma
+tivesse sido seguida.
+Figura 2 – Esquema de metodologia de projeto proposto por Bruno Munari em seu livro
+Das Coisas Nascem Coisas.
+
+Fonte: http://experimentesercriativo.blogspot.com.br/2012/04/cozinha-criativa-aplicacao-da.html
+
+32
+
+Por outro lado, o próprio Munari (2008, p. 54) afirma: “Se houver porém alguém capaz
+de demonstrar, objetivamente, que é melhor alterar a ordem de algumas operações, o
+designer deverá estar sempre pronto a modificar seu pensamento diante da evidência
+objetiva”.
+
+Essa colocação sugere que o designer, assim como o caráter não-linear do processo
+criativo apresentado anteriormente, é capaz de aplicar sua metodologia, mesmo que de
+forma modificada, para auxiliar no desenvolvimento de seus projetos, os quais, no caso
+deste estudo, são aqueles pertencentes ao ambiente da ficção. Utilizando-se do esquema
+da Figura 2, é possível realizar a aplicação da metodologia de Munari, adaptando-a para
+projetos dessa natureza, sendo um exemplo desse procedimento mostrado a seguir.
+O estágio inicial dessa proposta de metodologia adaptada a obras de ficção, se refere ao
+item “problema”.
+Para Leonard Archer (ARCHER, apud MUNARI, 2008, p.30), “o problema do design
+resulta de uma necessidade”.
+
+Essa necessidade, por sua vez, pode se apresentar sob a forma de busca por conforto,
+praticidade, segurança e outros aspectos relacionados a um determinado produto de design.
+No caso dos trabalhos que lidam com configurações fictícias, o surgimento dos problemas
+de design possui motivações que variam desde a simples busca por entretenimento até
+aspectos mais complexos como fins educacionais e políticos.
+O conceito de entretenimento, por vezes, é interpretado de forma pejorativa, como se
+todos os produtos dessa natureza se caracterizassem pela pobreza conceitual e a única
+razão de sua existência fosse o enriquecimento capitalista da indústria. De fato, Munari
+(2008) afirma que os problemas gerados por necessidades podem tanto ser propostos
+pelo designer à indústria quanto a indústria propor ao designer sua resolução, citando os
+perigos que podem surgir quando o meio industrial se utiliza de falsas necessidades para
+
+33
+
+poder aumentar suas vendas, não devendo o profissional do design dar preferência ao
+lucro exclusivo da indústria em detrimento do consumidor.
+Entretanto, apesar de existirem exemplos desse tipo de ganância industrial, é inegável
+a importância do entretenimento para o cotidiano das pessoas na contemporaneidade,
+apresentando-se como uma interface significativa para o bem-estar mental e até mesmo
+físico de cada indivíduo, podendo providenciar relaxamento e formas de escapismo e
+alívio em meio aos estresses do cotidiano.
+Trata-se de um aspecto psicológico que vai além da risada ao ler uma comédia ou do
+choro ao ler um romance: os consumidores, imersos nessas realidades ficcionais, estão
+igualmente sujeitos a possibilidades que beiram ao infinito, a experiências nunca antes
+vividas, a questões jamais levantadas por eles mesmos, como uma possível revelação de
+novas maneiras de enxergar ou entender a realidade que os cerca. É, de certa maneira, um
+processo semelhante ao desenvolvimento das crianças, uma vez que os atos de brincar
+e de se entreter são também atos de aprendizagem, além de meios interessantes para a
+formação de caráter durante a juventude. Obras como essas podem motivar, abrir os
+olhos e provocar emoções com as quais o público pode se identificar.
+Esses aspectos tornam-se críticos para o surgimento de trabalhos com fins educacionais e
+políticos propriamente ditos. Por exemplo, a indústria de jogos eletrônicos, aproveitandose de seu caráter de entretenimento, apresenta exemplos de jogos especificamente voltados
+para o aprendizado do público infantil, bem como produtos que, embora destinados
+primariamente para entreter e divertir, embutem mesmo assim um conteúdo educativo
+significante. Os quadrinhos norte-americanos, por sua vez, frequentemente utilizavam
+seus super-heróis como Capitão América e Superman para promover uma agenda política
+em épocas de conflito, pregando o patriotismo e o ideal do estilo de vida norte-americano.
+Se os infinitivos desdobramentos que obras da modalidade de ficção podem gerar
+forem consideradas na metodologia de Munari, os possíveis problemas encontrados pelo
+
+34
+
+designer consistiriam em elementos como, por exemplo, a criação de obras educativas ou
+políticas para determinados públicos, a confecção de trabalhos que possuem um conteúdo
+original que ainda não existe no mercado, projetos que envolvem o suporte digital para
+a divulgação, entre outros, sendo os mesmos exemplificados sumariamente na Figura 3.
+
+Figura 3 – Exemplos de problemas.
+
+Obras de cunho político ou educativo para determinado público.
+
+P
+
+PROBLEMA
+
+Trabalhos que lidam com conteúdos originais que ainda
+não existem no mercado.
+Projetos com suporte digital para divulgação.
+Livro de fantasia para deficientes visuais.
+Jogos eletrônicos para público infantil.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+Os problemas citados abrem caminho para a etapa seguinte, a qual Munari (2008) chama
+de “definição do problema”. Essa definição consiste em demarcar os limites dentro dos
+quais o profissional de design irá atuar, sendo que os mesmos o auxiliarão a definir a
+natureza da solução a ser adotada, seja ela provisória, definitiva, comercial, fantasiosa
+ou aproximada. Nesta ocasião, ao pensarmos nas obras de ficção, o estágio se refere a
+necessidades como a de definir a faixa etária para a qual o projeto será destinado, qual será
+a tiragem (no caso de trabalhos impressos), onde será vendido, se haverá uma continuação
+(Figura 4).
+
+35
+
+Figura 4 – Exemplos de definição do problema.
+
+DP
+
+Faixa etária do consumidor.
+Qual será a tiragem? Quantas unidades serão produzidas?
+
+DEFINIÇÃO DO
+PROBLEMA
+
+Poderá ser serializada? Haverá continuação?
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+O próximo estágio, por sua vez, implica a definição dos “componentes do problema”,
+ou seja, pequenos problemas isolados que se encontram agrupados em subproblemas e
+que podem ser resolvidos individualmente. Segundo Munari (2008), é nessa etapa que o
+designer é capaz de aplicar sua contribuição criativa para o projeto.
+Nos trabalhos ficcionais, os subproblemas seriam representados pela narrativa e todos
+os outros elementos que se fazem presentes de acordo com a natureza de cada trabalho,
+como as trilhas sonoras em trabalhos audiovisuais e o design de interface em jogos
+eletrônicos. O subproblema da narrativa pode ainda ser dividido em elementos como os
+personagens, o ambiente em que vivem e a atmosfera que permeia a trama, os quais, por
+sua vez, se constituem em outros aspectos relacionados ao sexo do personagem e sua
+aparência, o clima do lugar onde mora, suas crenças, seus amigos e inimigos, entre outros
+(Figura 5). Nesse estágio, é possível considerar que o designer pode começar a se deixar
+influenciar pelos aspectos da fluidez do processo criativo, tentando visualizar, pelo uso
+dos “documentos de processo”, possíveis delineações de sua obra.
+
+36
+
+Figura 5 – Exemplos de componentes do problema.
+
+CP
+
+Subproblema da narrativa: personagens, ambientação, coadjuvantes.
+Subproblema do design de interface: comandos, programação.
+
+COMPONENTES
+DO PROBLEMA
+
+Subproblema da trilha sonora: instrumentação, composição.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+Definidos esses componentes, inicia-se a “coleta de dados”. Munari (2008) define essa
+etapa como uma pesquisa em busca de soluções parecidas com as que o designer almeja,
+uma verificação se alguém já realizou algo semelhante, se a solução já existe. Dessa forma,
+é preciso verificar se a trama pensada já foi escrita por outra pessoa, se já existe algo
+parecido. Caso não, qual seria a possibilidade de estabelecer uma nova história? Haveria
+interessados nisso? Que tipo de história vai ser? Quais influências deveria utilizar? Junto
+a isso, impulsiona-se um aprofundamento na coleta dos “documentos de processo”,
+uma vez que tudo agora pode ser utilizado como base para o material criativo: fatos
+do cotidiano, um evento político, uma fotografia, uma música, outros artistas a serem
+referenciados, os acertos e os erros (Figura 6).
+
+Figura 6 – Exemplos de coleta de dados.
+
+RD
+
+RECOLHA OU
+COLETA DE
+DADOS
+
+Existe alguma obra parecida com a que está sendo feita?
+Que referências existem no mercado?
+Quais abordagens diferentes já foram tentadas?
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+37
+
+Em seguida, há a realização da “análise de dados”. Nela, todas as influências coletadas serão
+processadas de forma a averiguar como foram resolvidos cada um de seus subproblemas,
+se existem características que poderiam ser aproveitadas para seu próprio projeto (Figura 7).
+Figura 7 – Exemplos de análise de dados.
+
+AD
+
+De que maneiras as referências foram feitas?
+O que pode ser aproveitado para a projeto?
+
+ANÁLISE DE
+DADOS
+
+O que deu certo e o que deu errado nessas abordagens?
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+É importante lembrar que, nesta etapa, é preciso ter cautela por se tratar de um tema
+relacionado à originalidade autoral de cada obra. Enquanto analisar trabalhos de outros
+pode se provar vantajoso para encontrar referências, isso não pode se resumir em hipótese
+alguma a um plágio ou cópia dos mesmos, havendo a necessidade de cada autor aplicar
+também suas próprias concepções em uma obra criativa.
+O estágio seguinte se apresenta sob o conceito da “criatividade”. Para Munari (2008), essa
+etapa teria sido reduzida a uma mera “ideia” se todo o processo anterior não tivesse sido
+seguido, como uma simples aplicação de um conceito “genial” que surgiu ao acaso para
+o desenvolvimento do trabalho. A aplicação dessa metodologia, no entanto, assegura que
+a criatividade se mantenha dentro dos limites de cada problema, evitando assim soluções
+impossíveis do ponto de vista técnico, material ou econômico.
+Nas obras do campo da ficção, trata-se tanto das escolhas que podem ser feitas quanto ao
+caráter fantasioso do conteúdo, uma vez que foi dito que, nesse caso, os designers podem
+se desprender da realidade objetiva para deixar a imaginação fluir, quanto da interface de
+comunicação, que inclui conceitos como novas formas de apresentar o conteúdo ao público,
+uma escolha inovadora de suporte físico ou digital, a seleção de formatos diferentes para
+
+38
+
+publicações impressas e a viabilidade econômica de cada uma delas (Figura 8).
+Figura 8 – Exemplos de criatividade.
+
+C
+
+Criação de personagens e narrativas de maneira inusitada.
+Formas inovadoras de apresentar o produto ao público.
+
+CRIATIVIDADE
+
+Pensar formatos criativos para determinados tipos de mídia.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+Ainda falando em criatividade mas relacionando as ideias com as demais etapas, é preciso
+lembrar que não se pode excluir do processo criativo o desenvolvimento, por exemplo, de
+layouts, da composição de elementos no campo do substrato, da linguagem gráfica como
+um todo, uma vez que eles também representam componentes de design importantes que
+se aliarão aos fictícios para a obtenção do produto final.
+Na sétima etapa, inicia-se a pesquisa dos “materiais e tecnologia”: uma pequena coleta
+de dados quanto aos recursos que o designer tem à sua disposição para a concretização
+física-visual do projeto. Tipos de papel, modos de impressão, o uso de ilustração tradicional
+ou digital, formas de captar e editar o filme e várias outras verificações a respeito do que está
+disponível para se produzir o exemplar final do trabalho podem ser considerados (Figura 9).
+
+Figura 9 – Exemplos de materiais e tecnologia.
+
+MT
+
+MATERIAIS E
+TECNOLOGIA
+
+Que tipos de técnicas e materiais existem para ilustrar desenhos?
+Que tipos de equipamentos existem para a filmagem de uma cena?
+Quais linguagens de programação há para fazer um jogo eletrônico?
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+39
+
+A próxima etapa está relacionada à “experimentação”, ou seja, ao ato de testar os materiais
+e técnicas anteriormente definidos em busca de novos usos para os mesmos e maneiras
+mais eficientes de se efetuar determinados procedimentos (Figura 10).
+
+Figura 10 – Exemplos de experimentação.
+
+E
+
+EXPERIMENTAÇÃO
+
+Testar os materiais e técnicas aprendidos anteriormente.
+Verificar se os resultados são satisfatórios ou não.
+Guardar e analisar os “documentos de processo” que são criados.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+A indústria de entretenimento, em muitas ocasiões, já possui modelos fixos para o
+desenvolvimento de certos produtos como, por exemplo, os materiais impressos, os
+quais já apresentam limitações impostas em relação ao corte e ao aproveitamento de
+papel de acordo com moldes comerciais, ou para a própria produção criativa em si, que
+pode sofrer limitações quanto ao uso exclusivo de um estilo de arte digital ou tradicional
+em um trabalho. Apesar disso, é possível, dependendo da natureza do projeto, propor
+formas variadas para a realização de uma obra, o que pode contribuir muito para o
+sucesso da mesma.
+Feito isso, parte-se para a confecção do “modelo”, o qual pressupõe, no caso das obras
+de ficção, a montagem de um “boneco” para o livro ilustrado ou histórias em quadrinhos,
+a criação de um protótipo para o jogo eletrônico ou o fechamento de uma sequência
+preliminar para um filme (Figura 11). Tudo isso é importante para a localização de outros
+problemas e subproblemas que não foram considerados nos estágios anteriores e a geração
+de possíveis soluções para o projeto.
+
+40
+
+Figura 11 – Exemplos de modelo.
+
+M
+
+MODELO
+
+“Boneco” para livros e histórias em quadrinhos.
+Protótipo para jogo eletrônico.
+Fechamento de sequência preliminar de um filme.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+A penúltima etapa chama-se “verificação”, momento em que pesquisas de opinião e a
+consideração de outras pessoas tornam-se valiosas para o designer como meios de identificar
+características insatisfatórias nos modelos produzidos anteriormente (Figura 12).
+Contudo, no processo criativo, tal procedimento não precisa se manifestar necessariamente
+ao fim da metodologia. Salles (2004) dá destaque ao chamado “leitor particular”, alguém
+escolhido pelo artista para ter acesso preliminar à obra. Esse “leitor” pode se mostrar sob a
+forma de uma equipe profissional, da família, de amigos ou críticos capazes de oferecerem
+comentários valiosos sobre os possíveis rumos do projeto, podendo estar presentes desde
+o início do processo criativo em todos os momentos em que houver necessidade.
+
+Figura 12 – Exemplos de verificação.
+
+V
+
+VERIFICAÇÃO
+
+Pesquisa de opinião do público.
+Opiniões de amigos, família, outros profissionais, críticos.
+Verificação junto a outras equipes que fazem parte do projeto.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+41
+
+Finalmente, o último item desta metodologia consiste no “desenho de construção”, que
+se refere a todos os desenhos e suportes capazes de comunicar as informações para a
+produção de um protótipo e, nesse caso, para a configuração final do produto que contém
+o mundo de ficção (Figura 13).
+
+Figura 13 – Exemplos de verificação.
+
+DC
+
+Orientações para os profissionais de produção gráfica.
+Modelos físicos de referência para os artistas 3D em jogos eletrônicos.
+
+DESENHO
+CONSTRUTIVO
+
+Elaboração de arte conceitual para o produto final.
+
+Fonte: adaptação do autor a partir do livro Das Coisas Nascem Coisas (MUNARI, 2008, p.55)
+
+Nas histórias em quadrinhos, por exemplo, os equivalentes seriam anotações para indicar,
+se houver um arte-finalista, os locais que deverão ser preenchidos por tinta ou não. A
+nível de produção gráfica, seria a comunicação do que se espera do projeto final quanto
+ao esquema de cores e a encadernação. No caso dos jogos eletrônicos, a arte conceitual e
+os modelos físicos são grandes auxiliadores para os artistas 3D construírem os modelos
+digitais finais que se mostrarão aos consumidores.
+Dessa forma, com a apresentação de todos esses estágios, obtém-se um breve panorama
+de como uma metodologia de projeto tradicional do design pode se inserir nos processos
+criativos em obras de ficção. Entretanto, é importante citar que a adaptação mostrada
+não pretende se estabelecer como uma verdade absoluta e inflexível, como se o ato de
+pensar um universo ficcional implicasse uma metodologia rígida, com etapas claramente
+definidas e que devem ser seguidas à risca como em um livro de receitas. Nem mesmo
+pretende fingir que sua utilização levará à resolução integral de todos os problemas que
+
+42
+
+surgem ao redor do ato criador. Trata-se de uma sugestão generalizada para os propósitos
+deste estudo.
+Junta-se a isso a colocação a respeito da interdisciplinaridade do ato criador, o qual não
+pode ser visto como uma simples atuação entre uma metodologia ou outra, mas como
+uma ação versátil capaz de ser realizada por todos os seres humanos e que se altera de
+acordo com a natureza das obras fictícias, as quais, por sua vez, tem o caráter definido
+por aspectos culturais e até mesmo organizacionais de uma sociedade ou empresa. Assim
+como dito por Munari (2008), é importante analisar as verdades objetivas contidas em
+cada situação para poder realizar as mudanças que mais possam beneficiar o projeto.
+Dessa forma, uma parte do processo criativo também está contida em saber realizar essas
+alterações da maneira mais coerente.
+No fim, a metodologia que realmente prevalece é aquela capaz de ser a mais versátil,
+que considera que nem toda organização é ruim para a criatividade, pois ajuda a rever
+e pensar as etapas do trabalho de maneira objetiva durante seu desenvolvimento, e que
+nem toda desorganização é prejudicial, pois é ela que permitirá que o autor caminhe
+através de seu processo criativo, remodelando-o, assim como seu próprio trabalho,
+através de todos os conhecimentos que vão sendo adquiridos pela experiência, pela
+formação, pela pesquisa e pelos acertos e erros de cada tentativa, o que, em uma
+indústria de entretenimento tão gigantesca e que pode impor tantas limitações, é um
+dos principais requisitos para se diferenciar.
+
+43
+
+4
+
+ILUSÃO, ORIGINALIDADE
+E O FUNCIONAMENTO
+DA FICÇÃO
+
+4.1 ILUSÃO
+Falar da criação de mundos de ficção não implica somente em considerar a forma
+como os mesmos são construídos. Assim como já foi visto, não existe uma metodologia
+definitiva capaz de se estabelecer como uma receita de processo criativo para os inúmeros
+profissionais que atuam na área, nem mesmo restrições a respeito de quem está apto ou
+não para desempenhar o ato criador.
+O que é necessário compreender em todos os casos é a capacidade da obra para ser
+recebida pelo público de forma a conseguir se sustentar em suas mentes de maneira
+natural e fluida. Em outras palavras, é preciso analisar a funcionalidade das obras de
+ficção enquanto universos próprios, verificar como todos os seus elementos, existentes
+somente em realidades presas a um pedaço de papel ou a uma tela, podem maravilhar
+tantas pessoas, fazendo-os imergirem no profundo campo da imaginação e fantasia e não
+questionarem a viabilidade de tudo o que presenciam.
+Para um melhor esclarecimento desse conceito, é preciso abordar a presença dos aspectos
+absurdos e imaginários existentes nos trabalhos ficcionais, como, por exemplo, a placa em
+marciano, a espaçonave e a cadeira atômica anteriormente referenciadas nesta monografia.
+Em obras de ficção, não se questiona inescrupulosamente a probabilidade de um evento
+ou ação acontecerem, não se questionam as tecnologias impossíveis, as acrobacias de tirar
+o fôlego, entre outros desdobramentos fantásticos.
+
+47
+
+Pode-se dizer que uma das possíveis causas poderia ser explicada pela expressão “suspensão
+da descrença”, cunhada pelo poeta inglês Samuel Taylor Coleridge, tomada pela cultura
+popular contemporânea e que se refere à capacidade da ficção de manipular as percepções
+do público de forma que o mesmo aceite as regras de um universo de fantasia como
+realidade, entrando em uma ilusão.
+Esse caráter de ilusão traz à tona o poder de influência dessas obras. Para Gombrich
+(1986), a capacidade de o artista sugerir algo vai de acordo com a capacidade do público
+de compreendê-lo. Em seu livro, o autor contrapõe a ideia de um quadro que, ao ser feito
+com borrões, poder ser visto como uma imagem perfeita à distância, a outro quadro
+detalhado, que perde suas características marcantes quando observado de uma posição
+igualmente distante. Em outras palavras, acredita-se que, em determinados momentos,
+o posicionamento do observador e sua imaginação possam participar da obra e projetar
+nela aquilo que não pode ser encontrado.
+Relacionando essa colocação com a expressão de Coleridge, é como se o público também
+participasse, voluntariamente ou não, desse processo ilusório que contribui para o sucesso
+de uma obra de ficção, ignorando seus absurdos e encontrando nela motivos para legitimar
+sua existência. Tais aspectos tomam posições de grande importância quando falamos do
+processo criativo em trabalhos dessa natureza.
+Na atualidade, a colocação de Coleridge é informalmente considerada pela cultura popular
+como um dos principais motivos para o sucesso das tramas de ficção, caracterizado pelo
+abandono das críticas que podem ser feitas em relação às impossibilidades da fantasia
+para permitir sua aceitação como um universo possível e, consequentemente, permitir o
+desfrute do prazer e do entretenimento gerados pelas obras que a carregam.
+De certa forma, a expressão fortalece a ideia de que o esforço necessário para gerar a
+verossimilhança e uma estrutura que funcione como um trabalho de ficção não seria apenas
+proveniente do criador, mas também de concessões por parte do público, semelhante a
+
+48
+
+um truque de mágica em que a plateia, mesmo possuindo consciência de que a “magia”
+não é real, se deixa envolver pelo encanto da apresentação.
+Norman Holland (2008, p. 312, tradução nossa) descreve: “Coleridge inventou o termo
+que usamos para descrever o aspecto crédulo de nosso estado de transe mental quando
+‘transportado’ por uma obra literária. [...] Ele pediu a seus leitores que lhe concedessem
+‘aquela suspensão voluntária da descrença para o momento que constitui a fé poética’.
+Ele pediu para que não desacreditássemos, pelo menos durante o breve período de
+experimentação dos poemas, das improbabilidades que ele havia escrito e que os leitores
+estavam prestes a ler. Essa posição, segundo ele, constitui um tipo de crença imaginativa
+ou empática, o qual ele chamou de ‘fé poética. ’” 1
+
+Apesar de coerente, trata-se de uma discussão muito mais complexa que isso, trazendo
+à tona estudos de profissionais de várias áreas do conhecimento. O próprio Holland
+(2008), chama a atenção para experimentos psicológicos que tentam explicar como esses
+aspectos mentais ocorrem, citando estudos como os do psicólogo Richard Gerrig, que
+propõe um duplo sistema pelo qual os seres humanos processam as ficções e narrativas.
+A primeira parte do sistema, menos crítica e rápida, se caracteriza como uma forma não
+sistemática, ou seja, uma estrutura que simplesmente acredita no que é percebido. Já a
+segunda consiste em um agir mais lento, contido e analítico, capaz de avaliar com maior
+cuidado a realidade do que está sendo transmitido e de expressar suas qualidades.
+Ao assistir um filme ou ler uma história em quadrinhos, por exemplo, num primeiro
+momento o cérebro humano não recebe motivações para utilizar a segunda parte do
+sistema, uma vez que já possui a consciência de que tudo o que está sendo visto não passa
+de uma simples ficção, não exigindo, portanto, análises e ações responsivas em retorno.
+“Coleridge invented the term we use to describe this credulous aspect of our trance-like state of mind
+when ‘transported’ by a literary work. [...] He asked that his readers grant him ‘that willing suspension
+of disbelief for the moment that constitutes poetic faith’. He asked us not to disbelieve, at least for the
+brief period of experiencing the poems, the improbabilities that he had written and that his readers
+were about to read. That stance, he said, constitutes a kind of imaginative or empathic belief, which
+he called ‘poetic faith. ’”
+1
+
+49
+
+Dessa maneira, o público, em uma condição de simples espectador, tomaria as informações
+ficcionais como verdadeiras por alguns momentos, até a segunda parte do sistema duplo
+em questão inevitavelmente se manifestar e exigir esforços para se compreender esses
+trabalhos como fantasiosos.
+Segundo Gerrig (PRENTICE e GERRIG, apud HOLLAND, 2008, p.314, tradução
+nossa): “‘Informação ficcional é convincente porque é processada através de uma rota
+não-sistemática. ’ ‘A crença na ficção [isto é, na informação factual representada na
+ficção] é determinada não por uma análise crítica... mas por uma ausência de motivação
+ou habilidade para executar esse tipo de análise. ’” 2
+
+Outra possível interpretação a respeito da ilusão provém da filosofia estética. Holland
+(2008) cita Kant, quando fala do “desinteresse” em relação ao conteúdo fantasioso, como
+se todo o controle fosse dado à arte, como se não fosse planejada nenhuma ação que se
+relacionasse à obra por parte do público.
+Nas palavras de Holland (2008, p.317, tradução nossa): “ [...] o que faz da arte arte é que
+concordarmos em não ser prática. Não agiremos ou pensaremos em agir a fim de lidar
+com o que está representado em obras de arte enquanto estamos desfrutando delas.
+Podemos chorar ou rir em resposta ao que estamos lendo ou assistindo, podemos virar
+as páginas ou olhar através de lentes de ópera, mas não pensamos em fazer nada para a
+obra de arte em si. ” 3
+
+“‘Fictional information is persuasive because it is processed via some nonsystematic route. ’ ‘Belief
+in fiction [that is, in the factual information represented in a fiction] is determined not by a critical
+analysis . . . but instead by the absence of motivation or ability to perform such an analysis. ’”
+2
+
+“[...] what makes art art is that we agree not to be practical. We will not act or plan to act in order
+to deal with what is represented in the work of art while we are enjoying it. We may cry or laugh in
+response to what we are reading or watching, we may turn pages or look through our opera glasses,
+but we don’t plan to do anything to the work of art itself. ”
+3
+
+50
+
+4.2 ORIGINALIDADE
+Em meio às ideias apresentadas, é possível propor outra abordagem a respeito do aspecto
+ilusório provocado pela ficção ao trazer de volta a ideia do processo criativo. Acreditandose na validade da “suspensão da descrença” ou não, é fato que a propagação dos trabalhos
+ficcionais e de entretenimento na atualidade é favorecida pelo advento de novas tecnologias
+digitais que se somam às outras mídias tradicionais, possibilitando a milhares de pessoas
+o acesso e o desfrute de diversas formas, mesmo que por alguns instantes, das fantasias
+encapsuladas em seus produtos.
+Do ponto de vista dos criadores, dos designers, artistas e outros profissionais que atuam
+na área, isso representa outro vetor de atuação quando se trata do funcionamento das
+ilusões provocados pelo “faz de conta”. Assim como os elementos criativos isolados e os
+aspectos técnicos como a diagramação se enfraquecem sem uma atuação mútua, o aspecto
+de “suspensão da descrença” não ocorre se não houver coerência durante a criação de
+todas as peças de um universo imaginário.
+Utilizando os exemplos de metodologia e processo criativo apresentados anteriormente,
+observa-se que há muito a se pensar quando se fala desses componentes que fazem parte
+de uma fantasia. Só de pensar em personagens, já surgem questões como as roupas que
+devem vestir, os possíveis familiares, sua personalidade, suas características físicas, seus
+costumes e muito mais. Quando se fala de um planeta imaginário, deve se pensar em seu
+tamanho, seu clima, se é habitado ou não.
+Em um dos vídeos disponíveis pela plataforma Youtube, Como Construir um Mundo Ficcional,
+Kate Messner (2014) faz um excelente resumo do que é criar um universo desse tipo. Para
+ela, os autores de ficção científica e de fantasia são responsáveis por construir mundos,
+suas regras, seus mapas e suas línguas, os quais, por sua vez, servirão de suporte para gerar
+muitas histórias criativas.
+
+51
+
+Dessa forma, o caráter final do projeto e de ilusão se daria também através de um
+processo de coerência e consistência, ou seja, pela ideia de que o mundo, apesar de
+inventado, deve assegurar que todas as suas peças sigam uma determinada lógica ou regra,
+fazendo-as transparecer diante do público através de qualquer tipo de mídia pela qual
+são transportadas. Isso significa que não se pode ignorar o papel do receptor durante o
+processo, uma vez que é ele quem deve interpretar todo o conteúdo criativo que possui
+em mãos para conseguir se adentrar no campo da imaginação. Se um personagem ou
+trama não fizerem sentido, pode se dizer que houve uma falha durante suas concepções e,
+consequentemente, uma deficiência no processo ilusório.
+Durante a formulação desses aspectos, tudo o que foi visto a respeito dos processos
+criativos entra em ação, sendo os “documentos de processo” um bom exemplo disso.
+Sendo assim, não é raro autores se basearem em fatos da realidade, em eventos históricos,
+em objetos, em rabiscos ou em quaisquer outros elementos que possuam ao seu dispor na
+tentativa de aplicar uma lógica, uma base, consistente em suas criações.
+Segundo Gombrich (1986), o familiar é sempre o ponto de partida para a representação
+de algo desconhecido. Tal procedimento pode ser executado por meio de uma cópia de
+algum elemento conhecido ao utilizar um esquema, ou seja, uma tentativa pouco rígida que
+vai ser aproximada do estado desejado através da correção. Ao ser realizada tal correção, o
+elemento copiado será incluso na schemata, grupo de conhecimentos assimilados pelo artista.
+Isso entra em acordo com um dos pensamentos de Cohn (2012), que cita investigações a
+respeito de desenhos feitos por crianças que constatam que elas imitam desenhos e suas
+estruturas através de outras fontes para assim criar suas formas originais.
+
+52
+
+Para o autor (COHN, 2012, p.10, tradução nossa): “[...] um desenhista ou adquire
+(através da imitação de fontes externas) ou cria padrões esquemáticos de representações
+gráficas e, em seguida, os produz de uma forma generativa para criar desenhos novos.” 4
+
+O que se busca dizer é que essa schemata pode ser de grande importância na manutenção de
+uma estrutura lógica em mundos de fantasia. Ao comparar o funcionamento e coerência
+dos componentes que fazem parte de sua obra com a realidade, o profissional é capaz
+de verificar se sua trama seria ou não desacreditada pelo público, realizando mudanças
+que se incluiriam em seus conhecimentos assimilados e acabariam gerando um processo
+criativo único e característico. O ser humano, capaz de absorver culturas e portadora de
+uma extrema flexibilidade, antes deve construir seu repertório, sua schemata, para poder
+criar algo que possa ser chamado de “original”.
+Por outro lado, isso traz novamente o caráter da ciência do autor em relação à capacidade
+do público de compreender o que ele cria. A mesma schemata obtida pelos profissionais
+também pode ser aprendida pelos receptores, seja pela cópia ou pelo próprio consumo.
+Certas convenções de projeto, de repente, tornam-se familiares para os consumidores de
+um produto.
+Gombrich (1986) afirma que os psicólogos chamam o problema de interpretar uma
+obra como “percepção do material simbólico”. Como exemplo, ele sugere a ideia de que
+mesmo quando não se ouve direito uma palavra na língua nativa, ela ainda é passível de
+ser deduzida pelos falantes da mesma devido a sua familiaridade.
+Dessa forma, assim como na “percepção do material simbólico” de Gombrich e a existência
+das “linguagens visuais” propostas no início desta monografia por Cohn (2012), um leitor
+de quadrinhos consegue reconhecer e deduzir as convenções existentes em suas histórias,
+
+“[...] a drawer either acquires (from imitating external sources) or creates schematic patterns of
+graphic representations and then produces them in a generative fashion to create novel drawings.”
+4
+
+53
+
+um crítico cinematográfico está ciente de determinados tipos de linguagem utilizados nos
+filmes que assiste e um jogador de videogames saberia, de forma prática, que comandos
+apertar em determinados jogos eletrônicos.
+
+4.3 FUNCIONAMENTO DA FICÇÃO
+Outro conceito que envolve esses tipos de obras de ficção consiste no elemento da narrativa.
+Se com a criação dos personagens e de seu mundo surgem as peças para a formação desse
+universo, a narrativa, juntamente com os aspectos técnico-diagramáticos, é o fator que vai
+unir todos esses componentes em um todo coerente, permitindo seu “funcionamento”
+adequado. É ela que vai dar vida e colocar em movimento os mecanismos capazes não
+apenas de provocar alterações nesses mundos ficcionais, mas também nas concepções de
+cada pessoa que presencia a obra.
+Para a semiótica Greimasiana, por exemplo, todo enunciado tem como pressuposto a
+necessidade de um “sujeito da enunciação”, um “alguém que diz”, uma voz que emana
+do texto, que por sua vez se desdobra em um “enunciador”, aquele que fala, e um
+“enunciatário”, aquele para quem se fala. (GOMES e MANCINI, 2007).
+De maneira simplificada, essa vertente da semiótica considera uma narrativa através do
+conceito de “sujeito” que busca um “objeto de valor”, sendo o chamado “anti-sujeito”
+todos os possíveis obstáculos que o primeiro deve enfrentar para chegar ao segundo. Para
+ela, qualquer tipo de obra, seja um filme, um livro ou história em quadrinhos, por mais
+específicas que sejam, apresentam uma organização da narrativa feita por essas diretrizes
+comuns. Sua estrutura, dessa forma, poderia ser encarada como uma relação entre esses
+elementos para gerar uma significação, um “percurso gerativo de sentido”.
+
+54
+
+Segundo Gomes e Mancini (2007, p. 3): “[...] apesar das diferentes narrativas ‘contarem’
+histórias específicas, elas possuem esquemas de organização comuns – uma lógica geral
+dos textos – que organizam o nível narrativo. O nível discursivo, por sua vez, será o
+responsável pela concretização desse esquema geral em suas especificidades. Porém,
+apesar de sua concretude, detalhamento e individualidade ele também contará com
+estratégias gerais de produção de determinados ‘efeitos de sentido’. ”
+
+As estratégias presentes no nível discursivo para gerar esses “efeitos de sentido” podem
+ser realizadas pela contraposição em uma categoria semântica, como o embate entre vida
+e morte, riqueza e pobreza, ordem e desordem, só para citar alguns exemplos. Através
+delas, tornam-se possíveis ideias de heróis que lutam contra tiranos, uma reportagem
+de jornal que discorre sobre grupos com opiniões opostas e diversos outros tipos de
+narrativas mais pertinentes ao mundo da ficção.
+Do ponto de vista da semiótica de Peirce, por sua vez, o que se deseja com a criação
+do teor narrativo é a articulação de um interpretante final desejado pelo autor e pronto
+para ser recebido pelo público através de uma série de interpretantes dinâmicos. Em
+outras palavras, cada um dos componentes presentes nas histórias de ficção, bem como
+seus significantes, significados e signos, é responsável por uma complexa articulação de
+interpretações que favorecem a obra. Dessa forma, as cores das roupas do personagem,
+sua posição social e seu comportamento podem se constituir em signos individuais que,
+em conjunto com outros aspectos desse universo e da narrativa, são capazes de atingir, ou
+não se assim desejarem, as expectativas do público.
+Talvez seja esse um dos campos que favorecem a inovação e busca por novos tipos de
+abordagem em relação às tramas ficcionais. Assim como dito anteriormente, é possível
+perceber certos padrões e convenções aplicados nesses tipos de obra, constituindo-se até
+mesmo em clichês. Mas clichês também podem se mostrar de maneira diferente em cada
+ocasião se os signos neles contidos forem articulados para esse propósito. Muitas histórias
+a respeito de terráqueos indo visitar outros planetas já foram feitas. Mas o que seria de
+
+55
+
+marcianos indo visitar outras galáxias? Um príncipe encantado salvando uma donzela é
+um clássico. Mas e se a donzela for a salvadora do príncipe? Apesar de essencialmente
+seguirem a mesma estrutura narrativa, são os elementos presentes na trama e os significados
+que eles evocam é que provocam a mudança na interpretação final da obra.
+Sendo assim, questões a respeito dos motivos da escolha do autor e de seu “rastro do
+artista” começam a surgir. Que influências provocaram suas decisões? Será que ele decidiu
+inverter o papel do príncipe e da donzela, do homem e da mulher se for considerada
+a contraposição semântica da semiótica Greimasiana, para provocar uma discussão a
+respeito de gêneros? O que o fez considerar que seria mais interessante falar de marcianos
+do que terráqueos? Por que ele imaginou esses marcianos sendo rosas ao invés de verdes
+como tradicionalmente são retratados?
+Esses tipos de indagações representam o poder que não apenas as narrativas, mas também
+os elementos na qual elas se sustentam, possuem para proporcionar o funcionamento
+pleno de uma obra de ficção quanto produto comunicativo. A diagramação final, as
+edições, a pós-produção e a finalização surgem como uma amálgama que prepara esse
+conteúdo para o público final.
+Enfim, tanto as menores peças, como um pequeno gesto ou a expressão facial de um
+personagem, como as maiores, como eventos da trama e a diagramação geral de um
+livro, se juntam através da coerência e consistência para se obter o máximo no efeito da
+interpretação e ilusão, uma das razões pelas quais se dá também o interesse pelo processo
+criativo e construtivo das obras de ficção.
+
+56
+
+5
+
+MANGÁ E O
+PROCESSO CRIATIVO
+
+Fontes:
+http://ztrip10.deviantart.com/art/Zoro-Manga-Wallpaper-563385687
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=54195116
+https://myanimelist.net/forum/?topicid=1574730
+http://www.mangareader.net/gekkan-shoujo-nozaki-kun/17
+
+5.1 HISTÓRIA DO MANGÁ
+Com a apresentação do conteúdo a respeito das estruturas gerais de obras de ficção,
+finalmente é possível dar início ao estudo voltado aos mangás, as histórias em quadrinhos
+japonesas. No início da monografia, foi explicitada a escolha desse tipo de obra devido à
+minha familiaridade e pelo interesse em estudar com maiores detalhes este estilo portador
+de características tão próprias dentro do mercado de entretenimento. Dessa forma,
+tratando-se de um dos principais tópicos a serem discutidos neste trabalho de graduação,
+é conveniente apresentar, antes de uma análise mais detalhada, uma introdução a respeito
+da história dessa mídia e de sua trajetória até os dias atuais.
+A palavra “mangá” (漫画) é comumente utilizada para se referir aos quadrinhos de origem
+japonesa. No Japão, o termo se refere às histórias em quadrinhos em geral. Contudo, com
+o aumento de seu sucesso e divulgação ao redor do mundo, a concepção desses produtos
+como de origem japonesa se fortaleceu cada vez mais através de seu estilo de desenho,
+caracterizado por olhos grandes e rostos expressivos, e também pela própria estrutura
+narrativa, criando-se uma posição de destaque não apenas em meio a todos os elementos
+da rica cultura do Japão, mas também entre todas as áreas existentes no mercado de
+entretenimento contemporâneo.
+Em outras palavras, de ilustres desconhecidos durante as últimas décadas do século
+XX, os quadrinhos japoneses se alastraram por outros mercados, tornando-se um dos
+ícones da cultura pop japonesa e influenciadores na indústria criativa que está presente
+em âmbito global. A história desse tipo de suporte de comunicação no Japão, contudo,
+
+59
+
+não se apresenta como um fenômeno contemporâneo, mas representa uma evolução de
+características, técnicas, pensamentos e influências que se estendem por séculos.
+Segundo Frederik Schodt (2012), ninguém sabe ao certo qual foi a primeira vez que
+os japoneses realizaram a prática do desenho, mas é possível encontrar exemplos de
+caricaturas de pessoas e animais gravadas atrás das paredes e tetos de antigos templos
+budistas, talvez desenhadas ali por trabalhadores durante a construção dos mesmos. Isso
+remonta, possivelmente, aos séculos VI e VII, momento em que a cultura estava sendo
+influenciada pela China e pelo budismo, o qual se inseriu como uma considerável religião
+e motivou o surgimento desses edifícios.
+Mesmo assim, a primeira experiência considerada sem dúvida alguma do Japão veio
+somente no século XII, através do chamado Chojugiga, criado pelo monge Kakuyu, o
+qual consiste em rolos de papel que continham uma narrativa cômica realizada através de
+animais antropomorfizados (Figura 14).
+
+Figura 14 – Imagem contida em um dos rolos do Chojugiga:
+uma das primeiras manifestações narrativas do Japão.
+
+Fonte: https://farm6.static.flickr.com/5085/5225530125_060871a446_b.jpg
+
+60
+
+Mesmo não possuindo páginas ou separações por quadros como na era moderna, essa
+manifestação é considerada uma das mais antigas representações japonesas de uma lógica
+que se aproxima da narrativa dos quadrinhos. Mesmo sem essa conhecida estrutura, o
+suporte promovia uma continuidade na história, ajudado pelo simples processo de
+desenrolar o papel durante o processo de leitura, gradualmente revelando a sucessão de
+eventos narrativos.
+Apesar de muitas vezes baseados em temas religiosos, essas obras frequentemente recebiam
+dos artistas um grande conteúdo cômico e elementos que poderiam ser considerados,
+do ponto de vista das religiões ocidentais, de caráter blasfemo, com representação de
+genitálias e brincadeiras que até se assemelhariam a alguns quadrinhos nos dias atuais. Isso
+se deve, segundo Schodt (2012), a uma tradição de secularismo que existia no Budismo
+japonês, o qual encorajava esse tipo de prática na época.
+Atravessando os séculos, os quais viram a influência do Tanka (poemas que eram, às
+vezes, ilustrados), a introdução dos tipos móveis durante a invasão japonesa da Coréia e
+o surgimento de cartuns religiosos como o Zenga (século XVII), chega-se ao Período Edo
+no Japão (1603-1868).
+Durante esse período, relações com nações estrangeiras foram definitivamente cortadas,
+e fora estabelecido um rígido sistema social, o qual proibia qualquer tipo de oposição
+política, inclusive na arte. Se por um lado isso colocava o país em posição de isolamento,
+por outro provocou o aumento da demanda interna por entretenimento, o enriquecimento
+das classes mercadoras e a geração de uma cultura singular, representada por novas
+manifestações teatrais e o surgimento de uma arte voltada ao mercado popular.
+Quando o isolamento foi quebrado através do contato com nações como os Estados
+Unidos, já havia sido criado um considerável mercado interno que se baseava em um
+entretenimento barato, representado pelo desenvolvimento de formas de arte de fácil
+acesso como Ukiyo-ê, gravuras feitas através de blocos de madeira e que buscavam
+
+61
+
+representar o espírito daquela época, juntamente com as modas, a cultura e o cotidiano.
+De fato, foi também pouco antes da abertura do país que foi cunhada pela primeira vez o
+termo “mangá”, associado ao pintor Katsushita Hokusai, em 1814.
+Por meio do relacionamento com as nações ocidentais, firmou-se um rápido processo de
+industrialização ao mesmo tempo que chegavam algumas influências europeias na arte e,
+consequentemente, na história do desenvolvimento dos quadrinhos japoneses. Através de
+artistas como Charles Wirgman e George Bigot, além da publicação de revistas como The
+Japan Punch (Figura 15), conceitos de quadrinhos como balões e novos padrões sequenciais
+de narrativa foram introduzidos no Japão. Ocorria, nesse momento, uma fusão entre
+tradição e inovação, entre os velhos e novos costumes.
+
+Figura 15 – Imagem de uma das edições da revista The Japan Punch, por Charles Wirgman: grande
+influência sobre artistas japoneses da época.
+
+Fonte: https://pt.wikipedia.org/wiki/Mang%C3%A1
+
+Mesmo com o surgimento dessas influências, os japoneses acabaram se distanciando dos
+moldes norte-americanos e europeus com o passar do tempo. Artistas como Rakuten
+
+62
+
+Kitazawa, que começaram trabalhando com cartuns americanos, ajudando-os a ganhar
+certa notoriedade, também se empenharam para popularizar o termo “mangá” criado por
+Hokusai para nomear as histórias em quadrinhos.
+Dessa forma, os japoneses passaram a desenvolver um estilo próprio, afastando-se ainda
+mais das obras ocidentais, cada vez mais raras no país e agora vistas como difíceis de
+serem relacionadas com o público japonês devido às diferenças culturais. Ao mesmo
+tempo, histórias em quadrinhos com moldes modernos se tornaram elementos comuns
+para o entretenimento e o cotidiano do Japão, sendo publicados em periódicos como
+jornais e revistas e apresentando uma forte separação dos trabalhos de acordo com o sexo
+e a idade do público.
+Junto à chegada da primeira metade do século XX, vieram também tempos de instabilidade
+causada não apenas pela Grande Depressão, de 1929, mas também pela Segunda Guerra
+Mundial. Com a derrota do Japão nesse conflito e a necessidade de reconstrução, houve
+um ressurgimento da vontade por consumo de um entretenimento barato e de fácil acesso,
+facilitado pelo fim da censura após a guerra.
+Novamente citando Schodt (2012, p. 62, tradução nossa): “No fim da guerra, as
+tradicionalmente poderosas editoras de Tóquio estavam desorganizadas e os quadrinhos
+com capa dura tradicionais eram muito caros para a maioria das crianças. Como se
+sentissem uma oportunidade, dezenas de pequenas companhias surgiram principalmente
+no centro de negócios rival de Osaka, publicando os “livros vermelhos”: quadrinhos
+notoriamente baratos com capas feitas com tinta vermelha, impressos em um papel
+grosseiro e vendidos nas ruas. ” 5
+
+“At the end of the war, the traditionally powerful Tokyo publishers were in disarray, and the old-style
+hardback comics they issued were too expensive por most children. As if sensing an opportunity,
+dozens of tiny companies sprang up, mainly in the rival business center of Osaka, publishing ‘red book’
+comics: notoriously cheap comics with red-ink covers, printed on rough paper and hawked on the
+streets. ”
+5
+
+63
+
+Nessa mesma época, ilustradores de mangá começaram a obter grande notoriedade.
+Artistas como Osamu Tezuka e Machiko Hasegawa, uma das primeiras mulheres a
+participar da produção desses quadrinhos japoneses, começaram a criar suas obras e
+influenciar fortemente seu ressurgimento (Figuras 16 e 17).
+
+Figuras 16 e 17 – Respectivamente, capa do mangá Astroboy, um dos personagens mais famosos
+de Tezuka, e capa do mangá Sazae-san, de Machiko Hasegawa, o qual chama a atenção para
+aspectos da sociedade e da mulher japonesa nesse período do pós-guerra.
+
+Fonte: https://hqcommusica.wordpress.com/2013/03/16/artistas-25-osamu-tezuka/ e
+http://www.otakupt.com/manga/top-mangas-mais-populares-de-sempre/
+
+Sônia Luyten (2001), sobre Tezuka, diz: “Suas obras modificaram não só a estrutura da
+linguagem, desdobrando as cenas numa sequência mais fluida, como também o conteúdo,
+pela variedade de temas e personagens. ” Além de sua influência nos aspectos da narrativa,
+outra grande contribuição de Osamu Tezuka foi a introdução dos famosos olhos grandes
+que tanto caracterizam os mangás nos dias de hoje, constituindo-se até mesmo em um dos
+pilares da identidade desse estilo de desenho.
+
+64
+
+Com a saída do Japão da pobreza e sua inserção no grupo de países altamente
+desenvolvidos e industrializados, esses mangás, feitos de forma barata e acessível como
+nos “livros vermelhos” citados por Schodt (2012), passaram a ganhar melhores formas de
+acabamento, mais páginas e as publicações aumentaram, transformando o país em um dos
+maiores, senão o maior, consumidor de histórias em quadrinhos do planeta (Figura 18).
+
+Figura 18 – Foto de uma estante de livraria demonstrando a gigantesca quantidade de publicações
+de mangás existentes no Japão de hoje: segundo o ranking da empresa japonesa de estatística
+Oricon, em 2015, a soma dos 10 títulos de mangás mais vendidos no Japão superou a marca de 73
+milhões de unidades vendidas.
+
+Fonte: http://gratzindustries.blogspot.com.br/2010/04/japan-trip-around-akihabara.html
+
+No período do pós-guerra, em um momento em que a televisão começa a exercer pressões
+sobre a mídia impressa, a indústria de revistas e quadrinhos passa a investir cada vez
+mais na sua diferenciação em relação à primeira. A influência dos programas televisivos,
+apesar disso, impacta a representação pictórica e de narrativa dos mangás, que passam a
+utilizar enquadramentos cinematográficos e a fluidez de uma composição em movimento,
+concedendo, na mesma medida, uma atenção à dramaticidade provocada pelas diferentes
+formas de representar visualmente uma narrativa (Figura 19).
+
+65
+
+Figura 19 – Página do mangá Golgo 13, de Takao Saito (1968): a progressão da cena, de maneira
+lenta, serve para aumentar o efeito dramático da cena. Influências da televisão e do cinema para a
+condução da velocidade na narrativa.
+
+Fonte: http://snubpollard.tumblr.com/page/6
+
+Tudo isso ocorre ao mesmo tempo em que mulheres começam a se inserir no mercado de
+trabalho, incluindo o de ilustração, provocando o surgimento de um estilo de linguagem
+próprio em suas publicações, juntamente com a inclusão de novos assuntos contemporâneos
+que se baseavam na situação japonesa daquela época, como os homens assalariados e suas
+longas jornadas de trabalho, a liberação feminina, entre outros aspectos. Segundo Luyten
+(2001): “As histórias em quadrinhos, no Japão, sempre souberam captar tendências de
+comportamento, decodificá-las e transformá-las em sua linguagem característica”.
+
+66
+
+Devido ao sucesso dos mangás, tanto a indústria da animação, representado pelo “anime”
+(animação japonesa), quanto a indústria de jogos eletrônicos, passam a licenciar e
+transformar as narrativas e personagens contidos nesses suportes de papel em trabalhos
+audiovisuais. Ocorre uma nova expansão que serve para enriquecer ainda mais a cultura
+das histórias em quadrinhos japonesas (Figura 20).
+
+Figura 20 – Foto contemporânea de Akihabara, em Tóquio: além de conhecida pela venda de eletrônicos,
+o bairro é famoso por ser um grande centro para materiais relacionados ao mangá, ao anime e aos
+jogos de videogame. Cenário possibilitado pela expansão de uma cultura dos quadrinhos como forma
+de comunicação.
+
+Fonte: http://www.cnet.com/pictures/take-a-tour-of-tokyos-crazy-akihabara-electric-town-pictures/
+
+A animação, principalmente, contribuiu para divulgar o mangá mundo afora. Por ser,
+durante a exportação para outros países, dublada nas línguas nativas, bem como não
+possuindo o mesmo estranhamento causado pelo sentido de leitura inverso dos quadrinhos
+japoneses (da direita para esquerda ao invés da esquerda para a direita), o anime serviu
+como um portal de entrada ao mercado internacional. Como foram baseados nos mangás,
+os animes possibilitaram que esses novos públicos presentes em outras partes do mundo
+se vissem também em contato imediato com o estilo de desenho e conteúdo cultural
+japonês contido nessas publicações impressas.
+
+67
+
+5.2 CARACTERÍSTICAS DO MANGÁ
+Com a apresentação desse breve histórico, finalmente se chega ao mangá dos dias atuais,
+podendo-se dizer que muito do que os quadrinhos japoneses são hoje se deve a uma
+sucessão de fatos históricos e influências que datam desde aquelas primeiras gravuras
+encontradas nos antigos templos budistas. Seu processo criativo, por sua vez, também
+demonstra ter sido influenciado pela construção histórica de sua visão de mundo e todos
+os valores sociais provenientes dela. Nesse quesito, é importante citar o papel de influência
+que a cultura em torno do mangá emanou e continua emanando contemporaneamente.
+
+5.2.1 A CULTURA NO MANGÁ
+Um dos exemplos de influência sobre o mangá contemporâneo se manifesta sob a forma
+do Bushido, ou “caminho do guerreiro”, que ditava a caráter dos samurais no Japão feudal
+e que se mostra ainda muito presente durante a criação dos típicos heróis de quadrinhos
+japoneses voltados ao público masculino. Se nos comics norte-americanos o protagonista é
+alguém especial, dotado de poderes extraordinários, nos mangás o protagonista é alguém
+comum, assim como o leitor, que busca dar o máximo de si para ajudar o esforço coletivo.
+Em certas ocasiões, de acordo com Luyten (2001), um personagem de mangá não
+necessariamente recebe um “final feliz” hollywoodiano, mas vive sem ter suas vontades
+atendidas, satisfeito de que seu sacrifício não foi em vão em prol dos outros que os cercam.
+De fato, é possível até dizer que essa inspiração a partir de um código tão rígido emana
+até mesmo na conduta dos profissionais que trabalham com os quadrinhos japoneses, não
+sendo raras as demonstrações de mangakás (ilustradores de mangás) e seus assistentes que
+trabalharam incessantemente, sem dormir ou comer, para completar um projeto.
+Se em torno dos homens há essa concepção de esforço, de melhoria constante e sacrifício,
+no mercado feminino ainda há, por vezes um caráter de sonho, de ambição e de fantasia
+característicos de um conto de fadas. Histórias românticas com personagens masculinos
+idealizados, continuam sendo encontrados nas livrarias, trazendo à tona até algumas
+
+68
+
+questões críticas a respeito de como é feita a representação da mulher como personagem
+de mangá e também como consumidora do mesmo.
+A separação por faixas etárias e sexos, dessa maneira, também provoca um grande
+diferencial na forma como os ilustradores conduzem sua criação. Dar atenção ao grupo
+demográfico que se quer atingir torna-se um fator importante nesse quesito. Da mesma
+forma, talvez com raízes na antiga secularização do budismo citado anteriormente, há a
+presença de quadrinhos voltados estritamente ao público adulto, tratando de assuntos de
+cunho pornográfico através de narrativas que poderiam até ser consideradas absolutamente
+exageradas em um ambiente cultural Ocidental.
+Adiciona-se simultaneamente tudo o que foi sendo conquistado com o advento da era
+digital e da informação. Alguns conceitos arraigados na cultura do Japão, dessa forma, são
+aproveitados em conjunto com influências do mundo globalizado, conectado e que troca
+informações de maneira avassaladora pela internet. Isso permite o surgimento não apenas
+de novas fontes para a criatividade, mas também de novas estruturas de publicação, como
+a editoração digital de quadrinhos e as webcomics.
+Nesse sentido, os conceitos de “documentos de processo” e “rastros do artista” citados
+nas seções anteriores se dotam de uma importância ainda maior, uma vez que os artistas
+têm à disposição uma quantidade de dados que anteriormente seria muito difícil de ser
+obtida, bem como o acompanhamento constante do fluxo digital de compartilhamento
+de imagens, experiências e produtos criativos, enriquecendo ainda mais as possibilidades
+de quem cria.
+
+5.2.2 LINGUAGEM VISUAL DO MANGÁ
+Quanto a uma abordagem mais visual do mangá, constata-se que tal tipo de linguagem,
+assim como a cultura, também evoluiu com o passar do tempo, desde os primeiros
+exemplares criados no início do pós-guerra até os produzidos nos dias atuais. Apesar disso,
+
+69
+
+o mangá contemporâneo mantém muitas das características que ajudaram na construção
+de sua identidade ao longo dos anos. As páginas em preto e branco, os olhos grandes,
+os narizes e bocas pequenos, e outros elementos conhecidos permanecem como parte
+importante da identidade visual desse tipo de mídia (Figuras 21 e 22).
+Neil Cohn (2007) realiza uma análise visual mais profunda em relação a esses aspectos. Seguindo
+Figuras 21 e 22 – Respectivamente, ilustrações do mangá Space Battleship Yamato (1974), do autor
+original Leiji Matsumoto (1974), e seu remake Space Battleship Yamato 2199, de Murakawa Michio
+(2013): a evolução e tradição na linguagem visual do mangá.
+
+Fontes:ttp://ourstarblazers.com/vault/yhe3/ e http://ourstarblazers.com/vault/2199manga05/
+
+o mesmo pensamento a respeito de suas “linguagens visuais”, ele considera a existência de
+uma “linguagem visual japonesa” como um sistema gráfico de comunicação, ao mesmo tempo
+que considera o mangá o contexto sociocultural em que tal sistema mais aparece.
+Para o autor, as formas como os “falantes visuais” (aqueles que dominam uma linguagem
+
+70
+
+visual) desenham pessoas, por exemplo, existem como padrões na mente dos “artistas”,
+sendo isso muito evidente na linguagem visual japonesa, uma vez que ela é comumente
+desenhada através de um sistema reconhecível, como os olhos grandes comentados
+anteriormente, constituindo-se em um método até mesmo muito esquematizado. Em
+outras palavras, isso chama a atenção para o estilo que é considerado como o predominante
+no meio do mangá, uma espécie de estereótipo, de uma forma de desenhar mais comum
+que pode ser encontrada nesse tipo de mídia.
+Por outro lado, é inegável que dentro do universo dos quadrinhos japoneses cada artista
+possui um toque, estilo e processo criativo pessoal para realizar a construção das imagens.
+O estilo do mangaká Takeshi Obata, ilustrador de séries como Death Note e Bakuman, é
+diferente dos desenhos de Kagami Yoshimizu, criador da série de comédia Lucky Star, por
+exemplo (Figuras 23 e 24).
+Apesar das discrepâncias visuais, nenhum desses dois exemplos deixa de ser pertencente
+
+Figuras 23 e 24 – Respectivamente, ilustrações do mangá Death Note, de Takeshi Obata, e Lucky
+Star, de Kagami Yoshimizu, retirado do livro Yoshimizu Kagami Illustrations – LUCKY STAR Art Book:
+apesar de diferentes visualmente, ambos se enquadram na linguagem visual japonesa que pode ser
+encontrada nos mangás.
+
+Fontes: http://supernovo.net/wp-content/uploads/2013/03/Death-Note.jpg e
+http://ep.yimg.com/ay/animebooks-com/yoshimizu-kagami-illustrations-lucky-star-art-book-6.gif
+
+71
+
+à linguagem visual do mangá. Seguindo novamente as ideias de Cohn (2012), isso é
+comparável às línguas faladas existentes em cada país. Se em uma nação há um dialeto
+padrão, considerado como a manifestação mais aceita dentro de um meio, há também
+outros dialetos que se afastam dessa estrutura central, contendo sotaques diferentes,
+palavras novas, entre outros elementos. Da mesma maneira, se o dialeto mais frequente
+ao se desenhar mangá é a forma “estereotipada”, padrão, as variações do mesmo são os
+dialetos que, apesar de relativamente diferentes e característicos, ainda fazem parte, sem
+dúvida alguma, do universo dos quadrinhos japoneses.
+Além disso, o autor também chama a atenção para a presença, no mangá, de símbolos
+visuais e metáforas, os quais ele divide entre “não-convencionais” e “convencionais”.
+Uma demonstração do primeiro pode ser encontrada em mangás voltados ao público
+feminino quando se observa o uso emocional de signos não narrativos nas ilustrações,
+como flores e brilho, com a intenção de se integrar um significado simbólico (Figura 25).
+O uso de símbolos convencionais, por sua vez, pode ser visto para representar raiva,
+
+Figura 25 – Ilustração do mangá Kobato, criado pelo grupo japonês Clamp: brilhos e flores são
+adicionados como signos para conferir significados à uma cena.
+
+Fonte: http://yumenosekaimm.blogspot.com.br/2014/02/kobato.html
+
+72
+
+felicidade, timidez e outros aspectos relacionados aos personagens do mangá, possuindo
+variações em sua transparência de significado. O que se quer dizer com “transparência”
+é que existem representações que são mais fáceis de serem decodificadas do que
+outras, mesmo utilizando convenções culturais diferentes (demonstrar a tristeza de um
+personagem através de um rio de lágrimas, por exemplo).
+Ao mesmo tempo, existem representações que são, segundo Cohn, mais opacas para
+aqueles que ainda não aprenderam seu significado, como gigantescas gotas de suor
+indicando nervosismo e narizes sangrentos indicando desejo sexual nos mangás. Por
+vezes, há também o aparecimento de personagens, segundo o autor, de forma “superdeformada”, para demonstrar uma falta de seriedade espontânea, o que é comumente
+chamado nos quadrinhos japoneses de estilo chibi (Figura 26).
+Todas essas ferramentas de representação, no fim, acabam se agregando ao que já foi dito
+
+Figura 26 – Ilustração presente no artigo de Neil Cohn (2012) exemplificando algumas das
+representações convencionais que são utilizadas nos quadrinhos japoneses.
+
+Fonte: COHN, Neil. Japanese Visual Language, p.8, 2012.
+
+73
+
+a respeito das influências históricas e culturais que ajudaram a transformar o mangá no
+que ele é hoje, tendo efeitos diretos sobre o processo criativo dos artistas envolvidos, bem
+como seus traços de desenho, suas fontes de inspiração e as escolhas de desenvolvimento
+para a trama. Nesse caso, essas ferramentas não subtraem o efeito narrativo e a qualidade
+da obra ficcional, mas servem para abrir uma gama de novas possibilidades para se realizar
+a comunicação de uma mensagem e a imersão em seu mundo de fantasia.
+Se o embasamento para um universo ficcional pode vir de diversos lugares, como fatos
+do cotidiano, um período histórico ou da experiência proveniente de tentativas e erros
+durante o ato criador, sua maneira de representação se mostra ligada não apenas ao
+contexto estilístico em que se encontra, mas a um complexo sistema de convenções de
+linguagem que foram sendo criadas pelos autores e adquiridas pelos leitores através de seu
+consumo ao longo do tempo, semelhante ao processo de aquisição de conhecimentos da
+schemata explicitada por Gombrich (1986).
+Sendo assim, se for adicionada a ideia de representação e captação da linguagem contida
+nos mangás, são inclusas também as formas como os elementos de cada página serão
+apresentadas visual e textualmente para o leitor. A maneira como o movimento é
+retratado, os ângulos presentes em cada cena, o desenho da iluminação, a representação
+comportamental e sentimental dos personagens e a visualização de como se relacionam
+os quadros do mangá são, dessa forma, outras características que auxiliam na percepção
+geral de uma obra.
+Para Linden (2011), histórias em quadrinhos são formas de expressão caracterizadas pela
+articulação de “imagens solidárias”. Seguindo essa descrição, a maneira como cada uma
+das imagens presentes nas compartimentações dos quadrinhos se relacionam entre si
+podem ser a diferença entre o sucesso ou o fracasso da comunicação, da mesma forma
+que ângulos de visão podem esconder detalhes de uma cena, a iluminação pode conferir
+dramaticidade à uma sequência e expressões faciais podem revelar elementos da narrativa
+implícitos na trama, dispensando até mesmo o uso de elementos textuais.
+
+74
+
+O que se pretende dizer com isso é que o planejamento desses trabalhos não implica
+apenas em planejar a criação de cada peça ficcional. É preciso verificar como cada uma
+delas vai se encaixar do ponto de vista narrativo e de construção de uma fantasia e se
+apresentar como produto final para o mercado, provocando combinações até mesmo
+inusitadas. Um autor, por exemplo, pode escolher tratar de um assunto de forma séria
+ou de forma cômica. O primeiro pode ser obtido utilizando traços mais detalhados, com
+expressões faciais nos personagens que pouco se distanciam da realidade. O segundo, por
+sua vez, pode ser construído por traços mais simples, por expressões exageradas e até
+mesmo pelo processo de “super-deformação” visto na Figura 26.
+
+5.3 ANÁLISE DE CASOS
+Feita essa breve introdução às principais características da linguagem do mangá, passa-se à
+análise mais detalhada a respeito do processo criativo, bem como o papel que o designer
+possui ao aplicá-lo quando se trata dessa modalidade de história em quadrinhos.
+Inicialmente, retomando a ideia de Gombrich, é importante dizer que os mangás, assim
+como qualquer outro tipo de mídia, necessita de um ponto inicial. Mais do que uma
+inspiração, trata-se de uma reação do criador ao mundo que o cerca, bem como à cultura,
+à história, aos acontecimentos do cotidiano e outros inúmeros fatores que o permeiam.
+No caso dos criadores de mangá, alguns preferem se pautar em conceitos históricos,
+como samurais, ninjas e contos do Japão antigo, enquanto outros preferem o período
+contemporâneo, esperando ter uma conexão mais forte com o público atual. Ainda mais,
+existem aqueles que buscam sua resposta em um interior profundo, como se quisessem
+expressar os sentimentos que possuem naquele momento. Somam-se a tudo isso robôs,
+criaturas mitológicas, realidades alternativas, superpoderes e muitos outros conceitos que
+
+75
+
+são tão variados quanto os assuntos que tratam, aumentando a complexidade ainda mais
+se forem consideradas as variações existentes na linguagem visual do próprio mangá vistas
+anteriormente.
+Através dessas observações, conclui-se que não falta variedade nas formas de execução
+de projetos dessa natureza, constituindo-se em uma pesquisa que pode se tornar muito
+extensa, indo muito além do que a desejada para este estudo. Portanto, é considerado mais
+interessante e objetivo o aprofundamento nas características do mangá e seu processo
+criativo através de análises de casos de alguns artistas selecionados para descrever melhor
+como ocorre a gênese de suas obras. Dessa forma, não serão abordadas somente as
+características visuais do estilo mangá, mas também o envolvimento do processo criativo,
+com foco em design, entre aqueles que estão inseridos em sua produção.
+Afinal, há formas de agir que são comuns à maioria dos profissionais dos mangás, como
+a elaboração de um roteiro, o desenvolvimento de personagens, storyboards e a artefinalização, sem falar da lógica de trabalho existente entre o autor e seus assistentes.
+Sendo assim, como estudos de caso, foram escolhidos dois mangás: Boku no Hero Academia
+(2014), de Kohei Horikoshi e Fullmetal Alchemist (2001), de Hiromu Arakawa. É preciso
+lembrar que as escolhas dessas obras foram realizadas não apenas por terem auxiliado no
+processo criativo do trabalho autoral referenciado nesta monografia, mas também pela
+disponibilidade dos “rastros do artista” e de documentação criativa durante a pesquisa.
+
+		
+
+5.3.1 BOKU NO HERO ACADEMIA (2014) –
+
+		KOHEI HORIKOSHI
+O mangá Boku no Hero Academia (Figura 27), de Kohei Horikoshi, envolve superheróis, mas de forma não convencional. Com influências vindas dos comics americanos,
+trata-se de uma história em que a maioria dos seres humanos do planeta passou a ter
+superpoderes. Com isso, à medida que o caos se espalhava com pessoas que usavam seus
+
+76
+
+novos poderes para o mal, o número de heróis que atuavam também crescia, fazendo
+surgir uma nova profissão. A trama, dessa forma, acompanha a vida de Izuku Midoriya,
+um jovem que nasceu sem poderes e se sente excluído da sociedade, mas que, através
+de muitas superações, conseguiu ser aprovado para entrar na academia de heróis mais
+prestigiosa do Japão.
+
+Figura 27 – Capa do mangá Boku no Hero Academia (2014), de Kohei Horikoshi.
+
+Fonte: http://bokunoheroacademia.wikia.com/wiki/Chapters_and_Volumes
+
+Em uma entrevista realizada para a Weekly Shõnen Magazine, Kohei Horikoshi discorreu
+sobre a principal motivação que o levou a criar sua obra. Segundo ele, a série no qual
+trabalhava foi cancelada abruptamente depois de um curto espaço de tempo, o que o
+deixou bem deprimido. Como estava sem energia para criar coisas novas, decidiu aproveitar
+todos os acontecimentos felizes que havia desenhado em seus trabalhos anteriores para
+gerar um novo projeto. Isso mostra novamente a importância que os “documentos de
+
+77
+
+processo” explicitados por Salles (2004) têm no processo criativo: através de pequenos
+pedaços produzidos anteriormente, o autor foi capaz de criar algo novo.
+Adiciona-se a isso influências de quadrinhos americanos, principalmente, segundo
+Horikoshi, de Spiderman, um personagem com quem teve sua primeira experiência ao ver
+o filme e que chama a atenção para a comunicação criativa que existe entre os diferentes
+tipos de mídia.
+Os personagens, como o principal, Izuku Midoriya, receberam um tratamento em que
+o próprio autor inseria seus sentimentos durante a criação dos mesmos. Ainda nesse
+quesito, Horikoshi frequentemente apresenta entre os capítulos de seu mangá pequenos
+rascunhos e desenhos que tentam mostrar como eram as aparências dos personagens
+antes de chegarem à sua versão final, fornecendo dados interessantes sobre o que o autor
+estava pensando durante seu processo criativo (Figura 28).
+
+Figura 28 – Arte do mangá mostrando como eram os personagens antes de suas versões finais.
+
+https://sugarmagic.tumblr.com/post/123641610548/hi-who-is-yamikumo-sorry-if-this-is-a-stupid
+
+78
+
+É interessante notar que esse é um dos pontos de importância que o design envolvido
+no processo criativo pode ter. O artista não criou os personagens baseando-se apenas
+em seus interesses ou sentimentos, mas pensou os visuais deles tentando atrelá-los às
+suas personalidades, histórias e, no caso desse mangá, aos seus superpoderes, criando
+combinações que podem gerar tramas interessantes para o leitor e passar mensagens e
+ensinamentos.
+A influência dos comics americanos também pode ser vista quando o autor formulou o
+personagem Allmight, um super-herói musculoso e considerado o maior de todos na
+trama, sendo seu desenho sempre realizado utilizando-se grandes quantidades de tons
+pretos no sombreamento, evocando ainda mais a ideia do acabamento existente na artefinal dos comics. Apesar disso, há toques cômicos e interessantes que mudam o personagem,
+que pode até ser um pouco atrapalhado e cheio de entusiasmo, possuindo um sorriso
+constante em seu rosto. (Figura 29).
+
+Figura 29 – O personagem Allmight, assim como mostrado no mangá Boku no Hero
+Academia (2014):a estética do desenho, com sua arte finalização, também evoca significados.
+
+http://bokunoheroacademia.wikia.com/wiki/Toshinori/Image_Gallery
+
+79
+
+Aproximando-se do que foi dito anteriormente a respeito da cultura do mangá, apesar do
+tom cômico e divertido, muitos dos heróis possuem uma história difícil em seu passado,
+ou situações que devem vencer em seu caminho para alcançarem seus sonhos. O sonho
+de Izuku, por exemplo, é se tornar um herói tão grande quanto seu ídolo Allmight, razão
+pela qual é visto dando o melhor de si em todos os momentos do mangá, não importando
+para ele o quanto falhe, o quão difícil ou doloroso seja.
+Isso se contrasta com a aparência física do personagem, com seu cabelo desgrenhado e
+visto inicialmente como um fracassado e motivo de chacota para aqueles em sua volta.
+Mas o que falta em todos os outros, ele possui em seu interior: um imenso altruísmo,
+como uma vontade de salvar todos aqueles que estão à sua volta, característica importante
+para super-heróis.
+Isso é fruto de uma reflexão de uma narrativa, de um design, de um projeto. Contrastando
+cuidadosamente o início humilde do personagem, seus problemas, suas ambições e seu
+crescimento como pessoa, é possível relacionar a obra com os leitores, que ficam curiosos,
+como torcedores que esperam que Izuku obtenha sucesso em sua desafiadora carreira.
+Somam-se a isso a aparição calculada de desafios, como vilões, e momentos difíceis, como
+quando o personagem realiza descobertas que o colocam diretamente contra os sonhos
+de outras pessoas.
+O mangá em si vem em formato tradicional, com cada edição sendo impressa em preto
+e branco, com cerca de 190 páginas e com a distribuição realizada através de meio físico.
+Do ponto de vista do design, é possível dizer que tais especificações correspondem aos
+padrões estabelecidos pela indústria, a qual trabalha com determinados tipos de papel e
+dimensões que se adequem às formas produtivas.
+Visualmente, as páginas também seguem a linguagem visual do mangá, com o já citado
+preto e branco na maior parte e com destaques coloridos no início do livro. Soma-se a
+isso a utilização de retículas, uma espécie de processo de halftone, em pontos localizados.
+
+80
+
+A organização e a estética dos balões de fala, bem como dos próprios quadros que contêm
+os desenhos, variam quanto ao alinhamento e encaixe de acordo com a narrativa, podendo
+preencher a página inteira para dar ênfase a um momento ou utilizar a linguagem convencional
+referenciada por Cohn (2007) para dar um efeito narrativo cômico (Figura 30).
+Figura 30 – Exemplo de página do mangá Boku no Hero Academia (2014): o momento intenso é
+aumentado pelos quadros em tamanho amplo e pela adição de linhas de movimento, acompanhado
+por onomatopéias que se distorcem como se quisessem reproduzir ainda mais o barulho. O último
+painel reforça a ideia cinematográfica, como um frame parado no tempo, com o herói preparando
+para desferir seu golpe.
+
+http://mangabase.net/boku_no_hero_academia/52/17/
+
+O design, novamente, atua ao se apropriar das peças, ou seja, dos personagens e dos
+elementos do universo fictício que criou, e colocando-os sobre o tecido visual do mangá,
+
+81
+
+o qual, com seus traços, posicionamentos de balões e enquadramentos que variam de
+acordo com o teor emocional, reflexivo e de intensidade da narrativa, conferem ao leitor
+subsídios suficientes para começar a criar uma lógica dentro de sua própria consciência
+e, consequentemente, uma interpretação final da obra. Tudo isso se completa quando se
+considera a adição final das falas e da tipografia em tamanhos diferentes, que também
+podem fornecer pistas importantes para o leitor a respeito da personalidade do personagem
+ou da dramaticidade de uma cena (Figura 31).
+Figura 31 – Exemplo de página do mangá Boku no Hero Academia (2014): apesar de ser uma
+página da versão norte-americana do mangá, é possível observar a dramaticidade da cena através da
+utilização da tipografia em tamanho grande e do desenho do personagem, com traços aggressivos.
+No quadro superior direito, é possível deduzir que se trata de uma memória sendo evocada no
+personagem, percebida pelo tom cinza e pelos balões diferenciados que parecem emanar ecos.
+
+http://www.mangatown.com/manga/boku_no_hero_academia/c076/22.html
+
+82
+
+		
+
+5.3.2 FULLMETAL ALCHEMIST (2004) –
+
+		HIROMU ARAKAWA
+Parte-se agora para a análise do mangá Fullmetal Alchemist, criado por Hiromu Arakawa.
+Em seu mundo de ficção, a autora constrói a trama em torno dos conceitos da alquimia,
+a qual é considerada nessa realidade uma prática possível, conferindo aos seus praticantes
+habilidades muito poderosas que variam desde a criação de objetos até o porte de
+capacidades ofensivas. Dessa forma, o universo fictício de Arakawa se passa no país de
+Amestris, que utiliza esses alquimistas como parte de suas forças militares (Figura 32).
+Figura 32 – Capa do mangá Fullmetal Alchemist (2004), de Hiromu Arakawa.
+
+Fonte: http://fma.wikia.com/wiki/List_of_Fullmetal_Alchemist_Volumes_and_Chapters
+
+O roteiro acompanha a jornada de dois irmãos, Edward e Alphonse Elric, que saem
+em busca da Pedra Filosofal para poderem consertar os enganos de seu passado. Após
+a morte de sua mãe, os dois órfãos tentam ressuscitá-la usando alquimia, mas acabam
+pagando o preço quando o processo de ressuscitação falha e consome parte ou, no caso
+de Alphonse, a totalidade de seus corpos.
+
+83
+
+Trabalhando com conceitos existentes de alquimia, a autora cria um mundo que não se
+ancora, na primeira vista, com a realidade. Afinal, um país chamado Amestris, bem como
+o uso de alquimia e poderes “mágicos”, não são conceitos naturais no plano terreno. Por
+outro lado, a maneira como ela conduz a criação visual e a narrativa dos personagens, dos
+cenários e dos acontecimentos traz ecos muito fortes do mundo real.
+O design em obras ficcionais pode se encontrar fortemente neste ponto, quando não se
+busca somente a criação de uma narrativa emocionante, mas uma narrativa emocionante
+que se forma através de características presentes na realidade, podendo se constituir até
+mesmo em uma obra crítica em relação a certos aspectos que ocorrem ao nosso redor.
+Novamente, trata-se da reação ao mundo como ponto de partida para o processo criativo.
+Enquanto a obra de Horikoshi se concentra no aspecto da superação, do esforço
+e do caminho que deve ser trilhado para se alcançar seus sonhos, constituindo-se em
+interessantes aspectos sociais e psicológicos, Arakawa faz isso através de uma abordagem
+relativamente diferente. Edward e Alphonse não buscam se tornar pessoas melhores
+porque esse é o objetivo final deles. Na realidade, sua busca pelo melhor reside no fato de
+desejarem recuperar seus corpos e, principalmente, trazer sua amada mãe de volta à vida.
+À primeira vista, não parece ser uma mudança considerável. Mas o simples fato de se
+alterar a escolha da motivação dos personagens confere uma comunicação totalmente
+diferente à obra. Fullmetal Alchemist, apesar de ser igualmente pontuado por momentos
+felizes e de comédia, constitui-se em uma obra muito mais trágica do que Boku no Hero
+Academia. Os conceitos de design residem no fato da escolha desse “background” ser
+de extrema importância para o andamento da obra do ponto de vista de sua identidade
+narrativa, a qual também poderá definir a forma como é conduzida a produção visual,
+estética e diagramática de todos o conteúdo do produto final.
+Tal fato também permite o contato dos irmãos Elric com tudo ao redor de formas distintas.
+Seu país, Amestris, é uma nação pesadamente influenciada por uma estética ocidental. Seja
+
+84
+
+na arquitetura, nos automóveis, nas estações de trem, na vestimenta, sem falar dos nomes
+dos personagens principais, são notáveis as fontes de influência da autora (Figuras 33 e 34).
+
+Figuras 33 e 34 – Respectivamente, mapa do país fictício de Amestris e imagem do mangá
+mostrando o uso de trens a vapor: influências no processo criativo provenientes do mundo Ocidental.
+
+Fontes: http://img3.wikia.nocookie.net/__cb20140303220335/fma/images/f/f3/MAP.png e
+http://aminoapps.com/page/fullmetal-alchemist/1065353/30-day-challenge-day-16
+
+Ela toma a noção industrial da civilização ocidental e a contrapõe com outras culturas
+que ela formulou para seu próprio universo, podendo gerar situações interessantes para
+
+85
+
+a narrativa e para a crítica que ela realiza em relação ao mundo real. Por exemplo, há
+sempre o tema da opressão a outros povos na trama de Fullmetal Alchemist. O povo de
+Ishval, uma cultura minoritária dentro de Amestris, é oprimido e perseguido quase até
+o ponto da extinção. As origens dessa abordagem vêm da própria Arakawa, natural da
+região de Hokkaido no norte do Japão, que viu a perseguição e a extinção quase absoluta
+dos indígenas Ainu que ali residiam nos últimos séculos.
+A artista se utiliza dessa parte da história do arquipélago japonês para usar como
+ferramenta crítica em seu mangá em relação à opressão, ao racismo e até mesmo ao
+genocídio que foram praticados pela humanidade ao longo de sua história. Isso serve
+como um “documento de projeto” para a criação de certos tipos de personagem, como
+Scar, um descendente do povo oprimido de Amestris, e que representa, no mangá, o valor
+que a raiva pode ter em certos momentos, mas que muitas vezes tem de ser repensada,
+direcionando-a não contra outras pessoas, mas contra as injustiças em si.
+Por outro lado, a artista também reforça os aprendizados que o indivíduo pode obter
+através de pessoas com origens diferentes. Em seu mangá, os irmãos Elric fazem amizade
+com vários personagens ao longo da narrativa, cada um mais distinto que o outro. Sejam
+eles personagens vindos de outros países, como no caso de Xing, uma nação inspirada
+na China, ou de personalidades variadas, Arakawa traz à tona as lições de vida que são
+aprendidas através da confiança e aprendizado com aqueles que estão ao seu redor, não
+importa o quão diferente sejam suas aparências, culturas ou crenças (Figura 35).
+A ideia geral que permanece com o mangá é de que é possível transmitir uma mensagem
+que se relacione para o leitor no mundo real através de uma obra ficcional. Não
+necessariamente é preciso um posicionamento invariavelmente atrelado ao mundo
+concreto, sendo que efeitos de comunicação e crítica igualmente poderosos podem ser
+obtidos quando se cria com cuidado elementos como os personagens e o plano de fundo
+em que são desenvolvidos.
+
+86
+
+Figura 35: Imagem de referência da adaptação do mangá para anime, mostrando alguns dos
+inúmeros personagens presentes em Fullmetal Alchemist: o “projeto” dos personagens, um mais
+variado que o outro, traz uma diversidade estética e também transmite o conceito humano de poder
+aprender com a ajuda e a diferença dos outros.
+
+Fonte: http://imgur.com/HaVUa
+
+E tudo isso se origina de um design, um projeto que se desenvolve em todo o processo
+criativo na obra ficcional. Mesmo se os limites formais como o número de páginas, folhas
+e dimensões forem previamente estabelecidos, os criadores e designers ainda possuem a
+imensa capacidade de criar peças com os quais podem trabalhar no âmbito da ficção. O
+cabelo desgrenhado de Izuku e sua luta para se tornar um herói vem junto com a ideia de
+como alguém considerado um “zé-ninguém” pode alcançar seus sonhos se não desistir.
+Os membros mecânicos desenhados para Edward Elric e seu irmão vêm junto com a
+ideia do arrependimento e a confiança mútua necessária com outras pessoas para superar
+seus desafios (Figura 36).
+
+87
+
+Figura 36: Rascunhos de Hiromu Arakawa tentando capturar a construção do personagem Edward
+Elric: seu braço mecânico faz sentido não apenas para a trama, mas também para a percepção de
+que o personagem cometeu um erro e está disposto a corrigí-lo.
+
+Fonte: http://www.zerochan.net/1667748
+
+São, de certa forma, qualidades importantes do ponto de vista social e humano que são
+passadas por dois trabalhos de naturezas diferentes, mesmo quando se tratam da mesma
+linguagem visual do mangá e do mesmo teor fictício em suas tramas. Os quadrinhos
+japoneses, assim outras modalidades de ficção, não podem se formar se não houver
+um embasamento inicial através de fatores externos, como a trajetória do artista, e o
+pensamento crítico por trás das escolhas realizadas.
+No caso de Hiromu Arakawa, ela se aproveita de sua juventude, onde viveu e cresceu na
+fazenda dos pais, aprendendo que não há como se obter algo se você também não der algo
+
+88
+
+de si em troca: não há como colher se você também não semear. E, não coincidentemente,
+isso se manifesta em Fullmetal Alchemist, com o conceito da “troca equivalente” existente
+na alquimia. Horikoshi, por sua vez, enfrentando problemas com seus próprios trabalhos,
+teve a coragem de juntar tudo o que lhe trazia felicidade para criar algo inédito. No fim, as
+histórias de vida distintas entre os dois autores, um inspirado por super-heróis e outra por
+sua vida na fazenda onde cresceu, foram o que geraram peças originais dentro do mesmo
+mundo dos quadrinhos japoneses.
+E são justamente esses fatores que tornam os mundos ficcionais tão atrativos para o estudo,
+uma vez que são como camadas profundas que podem ser destrinchadas pouco a pouco,
+revelando uma estrutura muito mais complexa do que anteriormente percebida. Uma
+obra de entretenimento em sua superfície é também um trabalho carregado de pequenos
+detalhes e escolhas pensadas chegam a uma posição além do personagem dotado de
+superpoderes ou de um mundo de fantasias, reflexão que foi de grande influência para o
+trabalho autoral desta monografia que será mostrado a seguir.
+
+89
+
+6
+
+DESENVOLVIMENTO DO
+TRABALHO AUTORAL
+
+Finalmente, assim como estabelecido no início da monografia, será apresentado um
+projeto de história em quadrinhos em estilo mangá de autoria própria, o qual foi finalizado
+após as pesquisas deste trabalho de graduação. Dessa forma, seria interessante expor com
+maiores detalhes do que se trata essa obra, bem como as etapas do processo criativo e as
+influências que ajudaram em sua formação, ao mesmo tempo que se busca traçar relações
+disso com o design e todo material de pesquisa obtido.
+
+6.1 ORIGENS DO PROJETO
+De certa maneira, o nascimento da obra ocorreu há muitos anos, antes mesmo do início
+de meu curso de graduação em Design, durante o período do colégio. Desde aquela época,
+possuía interesse por universos de ficção, mas não de maneira superficial, gostando de me
+adentrar cada vez mais fundo e descobrir os segredos, as influências e todo o conteúdo
+que foi construído para transformar a ficção em um mundo maior do que aparentava.
+Particularmente influenciado por sagas como Star Wars (1977), de George Lucas, e através
+de um processo criativo descompromissado e caracterizado pela ausência de um projeto
+geral para as fantasias que eram criadas em minha mente, a motivação se constituía mais
+em um hobby do que um projeto propriamente dito. Não havendo nenhum tipo de
+objetivo à frente, a maior parte do que havia sido criada, escrita e rascunhada acabava
+surgindo e desaparecendo constantemente. Vários personagens, tramas e universos se
+formaram e foram perdidos durante esse intervalo de tempo.
+
+93
+
+A ideia não era obter um projeto final, constituindo-se mais em estudos de como articular
+um mundo de ficção que realmente funcionasse. Almejava-se um ambiente que ia além
+dos personagens principais e suas aventuras, integrando a geração de pequenos detalhes,
+como roupas, localidades, culturas e outros elementos capazes de enriquecer cada vez
+mais a criação. A atração por pequenas histórias era substituída pelo interesse por grandes
+universos que fossem capazes de acomodá-las.
+Além disso, desde aquele tempo, já possuía grande interesse pelo mangá e seu estilo de
+desenho, o qual, pouco tempo depois, acabou se fundindo ao meu interesse por história,
+principalmente às partes relacionadas aos conflitos ocorridos durante todo o percurso
+temporal da humanidade. Inevitavelmente, a partir dos livros de história vistos durante o
+colégio, o projeto aqui exposto acabou por tomar como base inicial uma história europeia,
+desde a era medieval até a primeira metade do século XX.
+Como um trabalho que se iniciou durante o colegial e que foi transportado para a
+universidade, com a maturidade veio o planejamento crítico do mundo de fantasia. Com
+uma visão mais apurada em relação aos assuntos da contemporaneidade e uma série de
+eventos pessoais e influências, inclusive do próprio curso de design, o projeto começou
+definitivamente a tomar forma.
+Seu objetivo, agora, não era mais ser um passatempo. Constituía-se em uma necessidade
+motivada pelas perspectivas de exercer profissionalmente uma carreira relacionada aos
+mangás e ao processo criativo. Ideias vindas do curso universitário como composição,
+tipografia e, principalmente, uma atenção muito grande à identidade visual vieram à
+tona. Traduzindo isso para o projeto, começava a dar mais atenção aos aspectos de
+comunicação do produto, principalmente por refletir que outras pessoas teriam de
+recebê-lo e interpretá-lo na etapa final, algo que se assemelha à uma experiência do
+usuário através do suporte que usam.
+
+94
+
+Dessa forma, ao criar o universo, o foco passava para os elementos de ficção como uma
+ferramenta para comunicar ideias ao leitor de formas diferentes. Ao invés de escrever
+e explicar, por que não passar a ideia de forma mais sofisticada através da diagramação
+planejada de quadros em uma história em quadrinhos? O que a criação de culturas fictícias
+pode dizer a respeito da trama? Como esconder elementos na ilustração que possam ser
+tomadas como pistas narrativas pelos leitores?
+Além disso, o design potencializou o planejamento físico das obras, bem como sua forma
+de distribuição. Seja pelo aproveitamento de papel e as “brincadeiras” que podem ser
+realizadas pelo suporte físico do projeto ou pela forma como tratamos a imagem no meio
+digital, foi possível abrir novos horizontes e visualizar a história em quadrinhos como um
+suporte muito mais poderoso do que visto nas origens do trabalho autoral.
+Com o passar do tempo e utilizando a ilustração como importante forma de expressão,
+os inúmeros esboços realizados foram vistos de forma reflexiva e, consequentemente,
+acabaram resistindo ao tempo e tornaram-se muito valiosos para a condução futura do
+processo criativo (Figuras 37, 38, 39 e 40).
+
+Figura 37 – Rascunhos iniciais da cidade fictícia de Alessia que
+serviram de base para o mundo de ficção.
+
+Fonte: Elaborado pelo autor
+
+95
+
+Figuras 38 e 39 – Rascunhos iniciais de roupas, e cidades que
+serviram de base para o mundo de ficção.
+
+Fonte: Elaborado pelo autor
+
+96
+
+Figura 40 – Rascunhos arquitetônicos que
+serviram de base para o mundo de ficção.
+
+Fonte: Elaborado pelo autor
+
+Isso demonstra, novamente, a importância de registrar constantemente toda a produção
+do processo de criação, pois são materiais essenciais para se compreender a mentalidade
+do autor no momento e também para registrar as metamorfoses que acontecem com as
+ideias e o projeto geral de um trabalho durante sua construção. Com certeza, durante todos
+esses anos de desenvolvimento, a visão de mundo por trás do projeto autoral discutido
+sofreu e continua sofrendo mudanças consideráveis.
+Com a ideia geral em mente, foi possível iniciar gradualmente a formalização do projeto
+como um produto final, cujo processo de criação e desenvolvimento será descrito no
+item a seguir.
+
+97
+
+6.2 FORMALIZAÇÃO DO PROJETO
+Como uma espécie de piso sobre o qual se ergue uma construção, a partir dos vários
+rascunhos e metamorfoses, um mapa preliminar do mundo de ficção surgiu durante o
+período na universidade (Figura 41).
+
+Figura 41 – Mapa do mundo fictício proposto para este projeto: a base inicial foi o mapa da Europa,
+o qual foi se expandindo de maneira indutiva quanto ao seu formato e as fronteiras entre os países.
+
+Fonte: Elaborado pelo autor
+
+Ao mesmo tempo, não abandonando os devaneios e influências criativas do passado, um
+nome para o universo de “faz de conta” também veio a ser criado. Tomando como base
+o que foi dito anteriormente, o ponto de partida, como parte das influências da história
+europeia, naturalmente deveria vir do latim. O nome pensado inicialmente foi Unicum,
+traduzido livremente para o português como “unicamente”, como um universo singular e
+criativo, diferente de qualquer obra já existente.
+
+98
+
+Entretanto, após diversas mudanças e reflexões, o nome foi alterado para Varietas
+(diferença, variação, diversidade), o qual considerei muito mais apropriado, uma vez
+que, durante o processo criativo, o mundo se metamorfoseava cada vez mais, agregando
+influências não apenas dos livros de história, dos mangás e dos jogos eletrônicos com os
+quais tive contato ao longo do tempo, mas também das perspectivas de identidade visual
+e de projeto que foram fornecidas pelo design.
+O passo seguinte foi a criação de civilizações que poderiam ocupar esse novo solo.
+Novamente, a inspiração veio da Europa. Para mim, era indispensável fazer relações de
+semelhança com os países do Velho Continente, juntamente com suas culturas, costumes
+e até mesmo estereótipos, o que ocasionou, consequentemente, o surgimento de nomes
+como Aurelia, Hansel, Marealis e Volgria.
+O pensamento da obra de ficção como projeto contribuiu enormemente para o processo
+criativo em cada uma dessas nações. A partir de pesquisas feitas informalmente pela
+internet e em livros e revistas, foram pensados nomes que evocassem de alguma maneira
+seus semelhantes no mundo real. Personagens históricos famosos, nomes de regiões
+europeias e até figuras religiosas serviram de base para a construção da nomenclatura,
+realizada através de testes vocais e de escrita, opiniões de amigos próximos e consultas
+por referências em busca de significados que poderiam estar implícitos em cada palavra.
+A intenção, com isso, era criar identidades visuais e conceituais de cada uma das criações,
+o que acabava se refletindo na escolha de elementos como tipografia, cores e composição.
+Sendo assim, como um dos primeiros elementos que foram criados, o Reino de Aurelia é o
+país fictício sobre o qual mais desenvolvi conteúdos até agora (Figuras 42, 43 e 44). Baseada
+na França, sua identidade visual e conceitual foi inspirada pela Belle Époque, anterior à eclosão
+da Primeira Guerra Mundial. Consequentemente, as cores e a estética selecionadas muitas
+vezes tentam emanar as cores da bandeira francesa, com uma grande presença do azul e de
+tons dourados, evocando também o passado monárquico do país. É uma nação, pode se
+dizer, quase utópica, separada entre grandes cidades, vetores do conhecimento científico,
+
+99
+
+arte e cultura, e regiões campestres, compostas por pessoas mais simples e que buscam
+proteger seu estilo de vida frente ao desenvolvimento industrial acelerado.
+
+Figuras 42 e 43 – Respectivamente, rascunhos que ilustram o processo criativo da bandeira de
+Aurelia e desenho que tenta definir a aparência geral de uma cidade dessa nação fictícia: inspirações
+na França, sua cultura e arquitetura.
+
+Fonte: Elaborado pelo autor
+
+100
+
+Figura 44 – Estudo arquitetônico embasado em diversas correntes estéticas existentes no mundo
+real: influências que não apenas deixam o mundo de ficção mais interessante, mas também mais
+realista e vivo diante do leitor.
+
+Fonte: Elaborado pelo autor
+
+Juntou-se também ao processo criativo uma imagem de uma França católica na vida real
+para criar uma religião fictícia baseada em uma santa chamada Aurelia, considerada por
+lendas a fundadora do reino e cujo nome foi emprestado ao mesmo. O resultado, com
+
+101
+
+isso, é uma nação estruturada na cultura e na ciência, ao mesmo tempo que se divide entre
+um temor religioso e uma luta de classes que prima, assim como na Revolução Francesa,
+pela “liberté, égalite, fraternité”.
+Seguindo o mesmo modelo de ação, utilizando desenhos ilustrativos, rascunhos e
+mantendo todos esses “documentos de processo” para ir modelando a obra de ficção até
+um estado satisfatório, outras nações e elementos desse universo foram sendo criados.
+Dessa forma, o próximo a ser gerado foi o Império de Hansel, baseado em uma Alemanha
+recém-unificada também anterior à Primeira Guerra Mundial (Figura 45). O nome foi
+inspirado pelo protagonista homônimo do conto de origem germânica Hänsel und Gretel
+(João e Maria na versão em português).
+
+Figura 45 – Rascunhos que ilustram o processo criativo da bandeira de Hansel:
+impérios prussiano e germânico como base.
+
+Fonte: Elaborado pelo autor
+
+Para este caso, buscou-se certo distanciamento da era moderna e um retorno, em partes,
+à era medieval, às lendas germânicas e aos cavaleiros teutônicos. Hansel, dessa maneira,
+se constitui como um império muito jovem no mundo de Varietas, passando por um
+rápido processo de industrialização e expansão militar. A cultura, ainda extremamente
+
+102
+
+influenciada pela doutrina de honra de cavaleiros medievais, possibilita o surgimento de
+uma sociedade extremamente militarizada, com líderes que foram inspirados pelos junkers
+alemães na vida real.
+Dessa maneira, castelos se misturam à maquinas modernas, espadas são usadas ao mesmo
+tempo que armas de fogo e cavaleiros em armaduras brilhantes têm a mesma importância
+que os zepelins usados pela força aérea da nação, constituindo-se em uma combinação
+interessante.
+O próximo país é o Reino de Marealis, inspirado pela Grã-Bretanha e seu vasto império
+colonial durante a Era Vitoriana (Figuras 46 e 47). Da mesma forma que na realidade,
+é uma monarquia que fora erguida pela conquista e união de países próximos, pela
+dominação imperialista sobre outros povos e sobre uma grande Revolução Industrial.
+
+Figuras 46 e 47 – Respectivamente, rascunhos que ilustram o processo criativo da bandeira de
+Marealis e desenhos que tentam definir a aparência geral de uma cidade dessa nação fictícia:
+Revolução Industrial, Corrida Espacial e colonialismo como ponto de partida.
+
+Fonte: Elaborado pelo autor
+
+103
+
+Nesta ocasião, ao contrário de Hansel, foi decidido partir para o futuro no processo criativo.
+Ao invés de criar uma trama em que a colonização tivesse sido naval e para outras partes
+desse continente de ficção, por que não juntar isso à corrida espacial da Guerra Fria (outro
+ponto de meu interesse quando se trata de história)? Sendo assim, Marealis não seria apenas
+uma potência naval em Varietas, mas também uma potência espacial, colonizando luas e
+outros planetas galáxia afora pelas armas de seus soldados vestidos em uniformes inspirados
+pelas icônicas casacas vermelhas que tanto caracterizam a Grã-Bretanha na realidade.
+Por fim, foi criada também a vasta nação representada pelo Império de Volgria, definitivamente
+baseada na Rússia czarista (Figura 48). Sendo extenso em dimensões e apresentando uma
+população avassaladora, o país ficcional foi imaginado como dona de grandes glórias, mas
+também de grandes lutas, opressões e revoltas populares.
+Figura 48 – Rascunho que ilustra o processo criativo da bandeira de Volgria: uma monarquia
+totalitária que será a futura base de uma versão de fantasia da União Soviética?
+
+Fonte: Elaborado pelo autor
+
+Controladora de vários povos, esse império se mostra em constante instabilidade,
+permeado por guerras de independência e perseguições, ao mesmo tempo que o cidadão
+
+104
+
+comum luta para sobreviver aos seus severos invernos. Com isso, imagino que talvez, em
+um futuro processo criativo, seja possível criar uma versão fantasiosa da Revolução Russa
+e até mesmo uma espécie de União Soviética que vai abalar o equilíbrio nesse continente
+fictício, algo que só o desenvolvimento da trama e futuras influências sobre o ato criador
+poderão definir.
+Como é possível observar, o modo de agir de meu processo criativo é um sistema
+pesadamente influenciado por vários elementos históricos do mundo real. Seja por minha
+formação escolar, pelos livros de história com os quais tive contato ou até mesmo pelos
+mangás vistos anteriormente e certos jogos eletrônicos, nada do que fora criado veio do
+acaso, de uma epifania a partir de um ponto inexistente.
+Nesse caso, tratou-se de uma recepção de influências externas, as quais foram processadas
+no interior da mente do autor e, de acordo com suas próprias concepções em relação à
+realidade, foram devolvidas ao mundo através de uma obra criativa, constituindo-se no
+início de uma comunicação.
+Semelhantemente à ideia de schemata de Gombrich (1986), também preciso integrar à
+minha todas as experiências provenientes desse processo criativo e de pesquisa para
+verificar as possibilidades que podem ser criadas a partir delas. Somente através disso é
+confortável seguir para o estágio de transformação dessa massa de informações em uma
+estrutura coerente.
+Se Cecília Salles (2004) considera como “documentos de processo” os retratos temporais
+do percurso criativo, trazendo à discussão peças como entrevistas, depoimentos e
+anotações como uma forma de auxiliar na obtenção de uma obra final, o método que
+escolhi para guiar este projeto de graduação é representado não apenas pelos fatos
+históricos, fotografias e outras abordagens culturais, mas também através de tudo o
+que adquiri e guardo de minha própria formação durante o curso de design, o que será
+mostrado de forma mais aparente no tópico a seguir.
+
+105
+
+6.3 DESENVOLVIMENTO DO PROJETO
+6.3.1 MUDANÇA DE CURSO E REQUISITOS DE PROJETO
+Com base no mundo ficcional criado, iniciou-se o desenvolvimento do projeto em
+forma de produto para este trabalho de graduação. Inicialmente, em busca de uma trama
+capaz de se adequar a um formato enxuto para apresentação, foram pensadas pequenas
+histórias que se passassem no universo anteriormente explicitado. Várias tentativas foram
+realizadas, mas o universo ficcional se mostrou expansivo demais para poder ser incluso
+de forma satisfatória em um trabalho de dimensões relativamente reduzidas.
+Com a realização da primeira banca do Trabalho de Conclusão de Curso e obtendo
+sugestões da mesma, a abordagem a respeito da história em quadrinhos sofreu alterações
+drásticas: ao invés de criar uma ficção que se passasse no mundo de Varietas, foi preferível
+discorrer sobre ele de forma sintética e metafórica através do mangá, construindo, em
+outras palavras, uma obra metalinguística que falasse diretamente do processo criativo
+através dos olhos de um personagem criador.
+Devido à própria natureza do trabalho, também se tornou complicada a definição absoluta
+de requisitos de projeto para ele. Como se não bastasse ter iniciado a gênese das ideias de
+forma aleatória no passado, a qual só se organizou em tempos recentes, há a necessidade
+de se garantir certa fluidez e liberdade no processo criativo para a condução da obra de
+forma satisfatória.
+Apesar disso, é possível sim definir de maneira mais flexível alguns requisitos
+considerados como essenciais, pelo menos para serem utilizados como guias de
+condução até a finalização do projeto. Dessa maneira, o primeiro desses requisitos
+consiste na necessidade de o mesmo ser formalizado no estilo de desenho do mangá,
+uma vez que se enquadra no grupo de técnicas com as quais tenho maior familiaridade.
+Ainda mais, é necessário seguir a linguagem visual dos mangás, envolvendo também
+o uso de páginas em preto e branco e o sentido inverso de leitura oriental, ou seja, da
+
+106
+
+direita para esquerda, tanto no folhear das páginas quanto na leitura da narrativa.
+Outro requisito é a necessidade do uso de elementos que fortalecessem ainda mais o caráter
+metalinguístico do projeto, fornecendo pistas ao leitor de forma visual e textual no produto
+final. Assim, a diagramação e o tratamento formal que trabalhem nesse sentido também
+devem ser considerados imprescindíveis do ponto de vista dos requisitos de projeto.
+Por fim, há o requisito de permitir a impressão física do mangá, razão pela qual certas
+decisões de composição das páginas foram tomadas nos tópicos a seguir.
+
+6.3.2 ROTEIRO
+Finalizado o item anterior, foi iniciada a construção de um roteiro, o qual se caracterizou
+nos primeiros momentos pela utilização de papel e lápis e pela realização do processo de
+brainstorming. O intuito era tentar visualizar ideias sobre as quais pudessem ser construídas
+toda a narrativa da história em quadrinhos que iria ser feita, o que incluía também possíveis
+temas, personagens interessantes, abordagens metalinguísticas distintas, entre outras peças
+que pudessem guiar a construção de um roteiro mais formal (Figura 49).
+Figura 49 – Exemplo do processo de brainstorming realizado para o projeto.
+
+Fonte: Elaborado pelo autor
+
+107
+
+Ao terminar o brainstorm e selecionar a melhor abordagem, o material obtido foi
+transcrito para documentos digitais, nos quais se tentava organizar as ideias escritas no
+papel e prepará-las para o processo de roteirização. O roteiro em si foi desenvolvido
+tomando os resultados mais satisfatórios do brainstorm e organizando-os narrativamente,
+adicionando-se falas, personagens e eventos sequenciais. Houve cuidado para separar
+falas vocais e de pensamentos dos personagens, bem como para desenvolver textos
+sucintos que conseguissem expressar de maneira ágil o que estaria contido em cada
+página no produto final.
+Durante a confecção do roteiro, houve a necessidade de imaginar mentalmente como seria
+a distribuição dos desenhos e dos eventos da trama em cada página a ser desenvolvida.
+Alguns rascunhos e desenhos de teste foram feitos para verificar se a fluidez do texto e
+dos desenhos estariam de acordo com o almejado na versão final.
+Terminado o processo, o texto foi impresso e correções adicionais foram feitas, preparando
+o conteúdo para o próximo estágio: o storyboard.
+
+6.3.3 STORYBOARD
+Assim como dito anteriormente, esta etapa consistiu na criação de inúmeros storyboards
+e rascunhos capazes de ilustrar como ficaria cada página ao final do projeto. Foram
+necessárias várias tentativas para se chegar ao resultado desejado: quando uma versão era
+finalizada, outra era feita baseando-se no antecessor e agregando melhorias (Figuras 50,
+51 e 52). De certa forma, não foi a metodologia mais eficiente, uma vez que consumia
+muito tempo para sua confecção. Apesar disso, provou ser muito eficiente para descobrir
+falhas de continuidade na narrativa e para revelar a “velocidade” dos acontecimentos em
+cada página.
+Em outras palavras, foi neste estágio em que foram realizados ajustes em sequências que se
+tornaram muito mais longas ou curtas que o esperado, bem como no número de páginas
+
+108
+
+que o mangá possuiria. Inicialmente, a obra foi planejada em torno de 20 a 24 páginas,
+mas as sucessivas tentativas com os rascunhos e storyboards acabaram aumentando a
+quantidade para 40 páginas.
+
+Figura 50 – Imagem do primeiro storyboard, ainda muito cru e experimental.
+
+Fonte: Elaborado pelo autor
+
+109
+
+Figuras 51 e 52 – Respectivamente, imagens da segunda e terceira tentativas de storyboard: o
+desenvolvimento acontece de forma gradual, sempre corrigindo erros e agregando pontos positivos.
+
+Fonte: Elaborado pelo autor
+
+110
+
+Os storyboards também representaram importantes “documentos de processo”, através
+dos quais foi possível observar a evolução gradual do que estava sendo feito, auxiliando
+na tomada de decisões dependendo das situações narrativas contidas na trama.
+Do ponto de vista do design, foi o estágio em que foram tomados os maiores cuidados
+com a quantidade de informações que haveria em cada página. Qualquer excesso era
+retirado ou reaproveitado em localidades pertinentes e o tamanho das falas e suas
+relações com os desenhos eram revistas constantemente, sendo que, se houvesse alguma
+possibilidade de expressar a narrativa por meio de imagens, os textos eram retirados em
+favor da expressividade dos personagens e da cena. Os ângulos de cada ilustração e o
+desenvolvimento de rascunhos para a capa completaram este estágio.
+
+6.3.4 DESENVOLVIMENTO
+Chegando a um storyboard definitivo, foi a vez de traduzir todo o material produzido para
+sua forma final. Utilizando apenas traços de lápis cinza e azul durante a construção, cada
+uma das páginas foi sendo elaborada quadro a quadro para que reproduzissem tudo que
+havia sido formalizado através das etapas anteriores.
+A ilustração dos conjuntos de páginas foi feita em tamanho A4. Posteriormente, tais
+conjuntos seriam reduzidos para serem impressos em tamanho A5, exigindo cuidados
+para não ilustrar detalhes muito pequenos que desaparecessem na versão impressa e,
+consequentemente, atrapalhassem a narrativa e a estética do mangá.
+Nesta fase, foram efetuadas novas correções ao serem constatados novos problemas de
+coerência e de fluidez durante a leitura do mangá. Apesar de os balões de fala ainda
+não terem sido adicionados, prestou-se atenção para os mesmos não bloquearem partes
+importantes das ilustrações. Além disso, houve a adição de margens de segurança de
+aproximadamente 5mm, assegurando que nenhum conteúdo textual fosse cortado durante
+a impressão e a encadernação.
+
+111
+
+O procedimento foi, sem dúvida alguma, a mais trabalhosa de todo o projeto, pois
+demandou ilustrações precisas que teriam de ser finalizadas para a impressão (Figuras 53
+e 54).
+Figura 53 – Página do mangá ilustrada com lápis preto e azul: definição final de todos os
+componentes que irão para a versão finalizada do projeto.
+
+Fonte: Elaborado pelo autor
+
+112
+
+Figura 54 – Página do mangá ilustrada com lápis preto e azul: definição final de todos os
+componentes que irão para a versão finalizada do projeto.
+
+Fonte: Elaborado pelo autor
+
+113
+
+6.3.5 FINALIZAÇÃO E IMPRESSÃO
+Em seguida, as imagens no papel foram escaneadas, transferidas para um computador e
+tratadas para poderem receber a arte-finalização. Durante este estágio, os traços definitivos
+foram elaborados através da utilização de um tablet. Novamente, quaisquer erros de
+consistência ou elementos desnecessários foram corrigidos ou retirados.
+Um dos pontos mais importantes para esta etapa foi a realização de uma escolha que
+considero crucial para a conclusão do projeto. Inicialmente, se desejava obter uma obra
+totalmente arte-finalizada, ou seja, com traços firmes integralmente feitos no computador.
+No entanto, por se tratar de um trabalho autoral metalinguístico, o qual envolve o próprio
+ato de criar e também de desenhar, foi interessante considerar uma linguagem visual que
+conseguisse se aproximar ainda mais do processo criativo.
+Dessa forma, ao invés de traçar todas as linhas e finalizar as páginas completamente,
+foi decidido manter as linhas de referência para a construção do desenho, bem como
+as marcas de lápis originais (vide Figuras 53 e 54) que estavam contidas nas imagens
+escaneadas. É importante notar que o procedimento foi aplicado apenas nas partes em
+que o personagem principal se adentrava em seu processo criativo, permanecendo ele
+mesmo de forma completamente finalizada no computador.
+Em outras palavras, é possível observar que as páginas em que a trama se passa no
+ambiente externo ao processo criativo do personagem apresentam traços mais firmes,
+feitos digitalmente, sendo a própria página mais branca e limpa. Por outro lado, em
+partes onde o personagem se encontra no interior do mundo gerado por ele, as linhas de
+rascunho permanecem, dando a impressão do processo construtivo de sua imaginação e
+completando o teor metalinguístico do trabalho (Figuras 55 e 56).
+As páginas foram retocadas e receberam camadas digitais de pintura cinza, ressaltando
+partes importantes. A fonte utilizada é uma tradicional existente entre os mangás
+publicados no Ocidente, a Wild Words. O trabalho foi, então, impresso em papel offset
+
+114
+
+120g/m², gramatura que considerei suficiente para não deixar cada página marcada por
+sua face oposta, e encadernado por meio do processo de hot melt, sendo que a capa foi
+confeccionada em papel couchê 300 g/m². A encadernação, como dito anteriormente,
+obedece ao sentido de leitura oriental.
+Figura 55 – Página do mangá com o personagem no mundo real: os traços são firmes, totalmente
+digitalizados no computador e com a aplicação
+
+Fonte: Elaborado pelo autor
+
+115
+
+Figura 56 – Página do mangá com o personagem em seu mundo fictício: há uma mescla entre
+o traço firme do personagem e os traços rascunhados de tudo o que ele cria em sua imaginação,
+evidenciando de forma visual seu processo de criação.
+
+Fonte: Elaborado pelo autor
+
+116
+
+Outro ponto de importância em relação ao teor metalinguístico do projeto se manifesta
+em determinadas localidades da obra. Por exemplo, além da existência das idas e vindas do
+personagem dentro de sua própria imaginação, há páginas que buscam expressar o início
+do processo criativo do mesmo através do surgimento de manchas tentando representar
+gotas de tinta, como se fosse a origem de tudo, um Big Bang.
+Adicionam-se a isso as características criadas para o próprio personagem e o cenário em
+que ele se encontra. O primeiro, com suas roupas discretas, sem chamar muita atenção,
+foi formulado tentando agregar a ideia de um artista tímido, indeciso e em constante
+conflito com suas criações. Tal fato se reflete ao observar sua sala de desenho, totalmente
+bagunçada, como se séries de frustrações o tivessem levado a um estado de obsessão, nem
+possuindo tempo para realizar uma organização básica de seu local de trabalho.
+Na realidade, a base para tal conceito acabou se formando através de minhas próprias
+experiências quando tentava criar uma trama bem estruturada para este projeto. Em uma
+mistura entre a fluidez vinda do mundo externo (as circunstâncias reais, os problemas e
+as frustrações para se criar um Trabalho de Conclusão de Curso) e o requisito de projeto
+objetivo que lida com o metalinguístico, é possível observar o ponto de partida para a
+forma final da obra apresentada.
+Finalmente, há também as características presentes na capa. Por se referir a um mundo
+de fantasia, julgou-se melhor trazer uma estética semelhante a um livro do gênero, como
+um conto de fadas pronto para ser lido. Isso se manifesta sob a presença de molduras
+na ilustração, na escolha de cores, principalmente a do verde que domina a capa, e da
+tipografia, chamada de Enchanted Land.
+
+117
+
+7
+
+CONCLUSÃO
+
+Buscou-se, nesse trabalho de conclusão de curso, mostrar a importância que os elementos
+típicos de obras de ficção têm na articulação do processo comunicativo com o público.
+Por outro lado, para a concretização do projeto gráfico, além dos conhecimentos de
+diagramação, tipografia e Gestalt, é também necessária a pesquisa e reflexão sobre a
+formação dos personagens, eventos da narrativa e o universo de fantasia em que habitam.
+Seja para os mangás, focos deste estudo, ou animações, jogos eletrônicos, livros ilustrados
+ou qualquer outro tipo de projeto que lida com o imaginário, a síntese dessas peças
+provenientes da criatividade já adquire sua formação quanto ao poder comunicativo antes
+mesmo do profissional de design pensar nos aspectos mais técnicos e de acabamento
+para o produto. Em outras palavras, a elaboração da mensagem, analogamente ao
+desenvolvimento de uma identidade visual, já se inicia ao pensar o personagem, a roupa
+que irá vestir, sua personalidade e os eventos da narrativa que ocorrem ao seu redor.
+A definição dessas características, por mais inofensiva que possa parecer, é o ponto de
+partida para se obter discursos coerentes, de uma série de interpretações que podem ser
+captadas pelo público.
+Peirce, segundo escrito por Salles (2004), tem a concepção de que o real é aquilo que
+tem as características que tem, independentemente do que alguns indivíduos pensam. O
+fictício, por sua vez, é aquilo cujas características são dependentes daquelas que alguém
+lhe atribui como, por exemplo, o universo fictício imaginado por um escritor.
+
+121
+
+Dessa forma, o designer seria uma dessas pessoas capazes de atribuir todas as características
+necessárias a uma obra ficcional para se obter o máximo efeito perante os receptores. O
+profissional, já acostumado a um agir de projeto e planejamento, se juntaria à influência
+da fluidez dos “rastros do artista” para criar seus próprios personagens, os atores que
+receberão a atenção do leitor durante o desempenhar da narrativa, a qual, por sua vez,
+será articulada por uma sequência de ilustrações, imagens, frames, textos e receberia o
+tratamento dos elementos técnico-diagramáticos para ser passado ao público.
+O design como comunicação, ao mesmo tempo que é capaz de organizar, de informar e
+criticar, é também capaz de fazer com que experimentemos situações, surpresas, narrativas
+e, enfim, emoções que são tão importantes para o usuário, para seu lado humano, quanto
+o visual de uma placa de sinalização de trânsito ou a ergonomia de um produto.
+As perspectivas de desenvolvimento futuro do projeto apresentado nesta monografia,
+busca realizar justamente isso. Seu personagem, criado a partir de referências no mundo
+real, se adentra no interior de seu próprio universo, expondo indagações, creio eu, que
+devem ter passado na cabeça de todo criador: a ideia de se obter algo melhor, de ainda não
+ter chegado lá, de falhar e tentar de novo.
+O personagem sem nome, em constante luta com sua consciência e com tudo o que está
+sendo criado diante dele, foi arquitetado em torno de uma estrutura metalinguística, a
+qual, usando as ferramentas do mangá, possibilitou o projeto de um suporte que não são
+apenas ilustrações deixadas ao ar livre, mas que se entrelaçam e se estruturam em um
+produto direcionado ao leitor, o qual pode ser outro designer, um artista, um escritor ou
+uma pessoa buscando um minuto de entretenimento.
+Mesmo se certos elementos não forem percebidos, como a inspiração por trás do
+personagem e da trama, a profundeza do mundo de ficção que só pode mostrar parte
+do que é e o agrupamento dos quadros e balões de fala que se constituem em estruturas
+
+122
+
+narrativas distintas, eles não deixam de criar significados e interpretações semelhantes ou
+distintas que podem ser compreendidos por aqueles familiares, ou não, com a linguagem.
+Enfim, devido à natureza limitada deste trabalho, não foi possível apresentar com maior
+detalhamento todas as ações realizadas durante a construção da história em quadrinhos.
+Mesmo assim, espero que o que foi produzido seja capaz de transmitir o esforço, o choro,
+a alegria e todas as reflexões que finalmente levaram à conclusão de suas cópias físicas,
+bem como a exposição das características que uma abordagem realizada por um designer
+pode obter no âmbito dos mundos de ficção e do mangá.
+
+123
+
+11. BIBLIOGRAFIA
+11.1 LIVROS
+GOMBRICH, E. H. Arte e Ilusão: um estudo da psicologia da representação
+pictórica. São Paulo: Martins Fontes, 1986.
+LEE, Suzy. A trilogia da margem: o livro ilustrado segundo Suzy Lee. São Paulo:
+Cosac Naify, 2012.
+LINDEN, Sophie Van der. Para Ler o Livro Ilustrado. São Paulo: Cosac Naify, 2011.
+LUYTEN, Sonia. História em Quadrinhos: leitura crítica. São Paulo: Paulinas, 1984.
+LUYTEN, Sonia. Mangá: O poder dos quadrinhos japoneses. São Paulo: Hedra, 2001.
+MUNARI, Bruno. Das Coisas Nascem Coisas. São Paulo: Martins Fontes, 2008.
+NIKOLAJEVA, Maria; SCOTT, Carole. Livro Ilustrado: palavras e imagens. São
+Paulo: Cosac Naify, 2014.
+PIETROFORTE, Antônio. Semiótica Visual: os percursos do olhar. São Paulo:
+Contexto, 2010.
+PLAZA, Júlio. Tradução Intersemiótica. São Paulo: Perspectiva, 2010.
+SALLES, Cecília. Gesto inacabado: processo de criação artística. São Paulo:
+Annablume: FAPESP, 2004.
+SCHODT, Frederik L. Manga! Manga! The World of Japanese Comics. New York:
+Kodansha USA, Inc., 2012.
+11.2 ARTIGOS
+COHN, Neil. Comics, Linguistics and Visual Language: The Past and Future of a
+Field. Disponível em: <http://www.visuallanguagelab.com/P/NC_Comics&Linguistics.
+pdf>. Acesso em: 17 de abr. 2016.
+
+125
+
+COHN,
+
+Japanese
+
+Neil.
+
+Visual
+
+Language.
+
+Disponível
+
+em:
+
+<http://www.
+
+visuallanguagelab.com/P/japanese_vl.pdf>. Acesso em: 17 de abr. 2016.
+GOMES, R. S.; MANCINI, Renata. Textos midiáticos: uma introdução à semiótica
+discursiva. Atas do IX FELIN. Rio de Janeiro: UERJ, 2007. Disponível em: <http://
+www.http://www.filologia.org.br/ixfelin/trabalhos/pdf/66.pdf>. Acesso em: 21 de fev.
+2016.
+HOLLAND, Norman N. Spider-man? Sure! The neuroscience of suspending
+disbelief. INTERDISCIPLINARY SCIENCE REVIEWS, 2008, VOL. 33, NO. 4
+Disponível
+
+em:
+
+<https://www.researchgate.net/researcher/2003369909_Norman_
+
+Holland>. Acesso em: 17 de mai. 2016
+MATTE, A. C. F.; LARA, G. M. P. Um Panorama da Semiótica Greimasiana.
+Disponível em: <http://www.letras.ufmg.br/arquivos/matte/artigos/artigoAlfa_Matte_
+Lara2009%5B3%5D.pdf>. Acesso em: 21 de fev. 2016.
+SALLES, C. A.; CARDOSO, D. R. Crítica Genética em Expansão. Disponível em:
+<http://cienciaecultura.bvs.br/scielo.php?pid=S0009-67252007000100019&script=sci_
+arttext>. Acesso em: 6 de mar. 2016.
+11.3 VÍDEOS
+TED-Ed. Como Construir um Mundo Ficcional – Kate Messner. Disponível em:
+<https://www.youtube.com/watch?v=ZQTQSbjecLg>. Acesso em 6 de mai. 2016
+The
+
+Game
+
+Theorists.
+
+Disponível
+
+em:
+
+<https://www.youtube.com/user/
+
+MatthewPatrick13>. Acesso em: 10 abr. 2016.
+ShoddyCast. Disponível em: <https://www.youtube.com/user/ShoddyCast>. Acesso
+em: 10 abr. 2016
+The Making of Paprika – Part 1 of 2. Disponível em: <https://www.youtube.com/
+watch?v=hlHCdi6ASE0>. Acesso em 20 de mai. 2016
+
+126
+
+The Making of Paprika – Part 2 of 2. Disponível em: <https://www.youtube.com/
+watch?v=EFGa4tpM-iM>. Acesso em 20 de mai. 2016
+11.4 SITES
+Visual Language Lab. Disponível em: <http://www.visuallanguagelab.com/>. Acesso
+em 2 de mai. 2016.
+Wikipedia. Suspension of Disbelief. Disponível em: <https://en.wikipedia.org/wiki/
+Suspension_of_disbelief>. Acesso em 17 de mai. 2016.
+Ranking Oricon de venda de mangás no Japão. Disponível em: <http://www.coullon.
+com/portfolio/kiubi.html> Acesso em 4 de jun 2017
+Ranking Oricon de venda de mangás no Japão. Disponível em: <http://blog.comix.
+com.br/top-oricon-mangas-os-mais-vendidos-do-japao/> Acesso em 4 de jun 2017.
+Panorama de vendas de mangá no Japão em 2015. Disponível em: <https://
+en.wikipedia.org/wiki/2015_in_manga> Acesso em 4 de jun 2017.
+Tradução de entrevista com Kohei Horikoshi.
+
+Disponível em: <https://www.
+
+reddit.com/r/BokuNoHeroAcademia/comments/4cwbm0/transcript_of_horikoshis_
+interview_before_the/> Acesso em 4 de jun 2017.
+Imagem original da entrevista com Kohei Horikoshi. Disponível em: <http://
+imgur.com/a/a27aj> Acesso em 4 de jun 2017.
+A filosofia de Fullmetal Alchemist, Parte 1. Disponível em: <https://www.themarysue.
+com/hiromu-arakawa-part-1/> Acesso em 11 de jun 2017.
+A filosofia de Fullmetal Alchemist, Parte 2. Disponível em: <https://www.themarysue.
+com/hiromu-arakawas-fma-part-2/> Acesso em 11 de jun 2017.
+
+127
+
+

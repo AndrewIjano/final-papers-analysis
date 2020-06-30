@@ -1,0 +1,22 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: no
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: no 
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec:
+n_ssb_sec:
+n_sss_sec:
+tem_anexo: no
+ini: Introdução
+secoes:
+ - Fundamentação Teórica
+ - Desenvolvimento Experimental
+end: Conclusão
+ref: Referências Bibliográficas

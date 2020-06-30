@@ -1,0 +1,1995 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINA DE RIBEIRÃO PRETO
+CURSO DE CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM
+SAÚDE
+
+HELENA FRANCELIN
+
+EFEITO DO AMBLYOMIN-X NO PROCESSO DE ATIVAÇÃO E DIFERENCIAÇÃO
+DA LINHAGEM CELULAR THP-1
+
+RIBEIRÃO PRETO
+2018
+
+	  
+
+1	  
+
+HELENA FRANCELIN
+
+EFEITO DO AMBLYOMIN-X NO PROCESSO DE ATIVAÇÃO E DIFERENCIAÇÃO
+DA LINHAGEM CELULAR THP-1
+
+Trabalho de Conclusão de Curso submetido à
+Faculdade de Medicina de Ribeirão Preto da
+Universidade de São Paulo, como requisito
+parcial para a obtenção do título de Bacharel
+em Ciências Biomédicas, com Ênfase em
+Biotecnologia em Saúde.
+
+Orientador(a): Dra. Ana Marisa Chuszinski-Tavassi
+
+RIBEIRÃO PRETO
+2018
+
+	  
+
+2	  
+
+Àquela que viveu comigo todas as conquistas e
+frustrações da graduação, como se fossem
+suas. Àquela que nunca deixou de me ouvir. À
+quem me inspira todos os dias. À minha irmã.
+
+	  
+
+3	  
+
+AGRADECIMENTOS
+À Dra. Ana Marisa Chudzinski-Tavassi, pela oportunidade de estudar sob sua
+orientação e por ser um exemplo e incentivadora da inovação na pesquisa brasileira.
+Aos coordenadores e professores do Curso de Ciências Biomédicas por seu
+empenho e dedicação fundamentais para a construção do curso.
+À todos os mestrandos, doutorandos e pós-doutorandos membros do CENTD
+por compartilharem seus conhecimentos e experiências, que sem dúvidas foram
+muito importantes para o meu desenvolvimento profissional e pessoal.
+Ao Dr. Jean Gabriel de Souza por me mostrar as belezas da Imunologia, e
+principalmente, pela paciência de me ensinar e acompanhar em cada etapa do meu
+trabalho e sempre me salvar nos momentos de desespero.
+Ao Dr. Carlos De Ocesano Pereira pelos ensinamentos em Biologia Molecular
+e os conselhos sobre a vida, e por se tornar uma inspiração para mim.
+Ao Dr. Giuliano Bonfá por compartilhar comigo todas as adversidades ao
+longo da padronização da THP-1 e pelas importantes discussões sobre a
+diferenciação celular, sem as quais não seria possível consolidar o modelo celular.
+À minha família, que sempre me apoiou em todas as minhas decisões e
+nunca me deixaram desistir; em especial à minha irmã, que viveu comigo todas as
+aventuras ao longo da minha graduação.
+
+	  
+
+4	  
+
+“Viver é enfrentar um problema atrás do
+outro. O modo como você o encara é que
+faz a diferença.”
+(Benjamin Franklin)
+
+	  
+
+5	  
+
+RESUMO
+O tumor é uma massa heterogênea composta por diversos tipos celulares, como
+células imunológicas, endoteliais, estromais e tumorais. A interação entre estas
+células ocorre por contato direto, via ativação e/ou inibição de receptores ou via
+mediadores solúveis, tais como citocinas e quimiocinas. O conjunto de eventos que
+ocorre na massa tumoral, também chamado de
+
+microambiente tumoral é um
+
+sistema complexo capaz de modular a função de células do sistema imunológico o
+qual pode favorer ou inibir a progressão do tumor. Diversos mecanismos como
+nutrição, sobrevivência, crescimento e dispersão de metástases são orquestrados
+por este microambiente. Os macrófagos associados ao tumor (TAM) são as
+principais células imunológicas que atuam no microambiente tumoral, e podem
+exercer diversas funções que contribuem para a progressão do tumor, como
+angiogênese, crescimento celular e metástase. Como exemplo, em pacientes
+oncológicos, o recrutamento de macrófagos em determinados tumores, induzem
+maior formação de coágulos, bem como, angiogênese, o que está relacionado com
+o maior desenvolvimento do tumor e maior ocorrência de metástase.. O AmblyominX é uma proteína recombinante expressa em sistema E.col, sem cauda de histidina,
+que foi identificada a partir da biblioteca de cDNA das glândulas salivares do
+carrapato Amblyomma sculptum. Estudos in vitro e in vivo com Amblyomin-X
+demonstram
+
+que esta proteína é capaz de inibir o Fator Xa da cascata de
+
+coagulação, e possui efeito antitumoral via inibição do proteassoma, estresse do
+retículo endoplasmático e parada do ciclo celular, de forma seletiva ao tumor. Os
+efeitos do tratamento com Amblyomin-X reforçam o potencial desenvolvimento da
+molécula como um futuro fármaco. No entanto, a estreita relação entre os sistemas
+de coagulação sanguínea e imunológico frente a modulação do microambiente
+tumoral carece de maiores estudos, para o melhor entendimento da ação desta
+proteína em células presentes no microambiente tumoral, especialmente células
+imunológicas.
+Palavras-chave: THP-1; Diferenciação celular; Macrófagos tipo 1; Amblyomin-X;
+ativação celular.
+
+	  
+
+6	  
+
+ABSTRACT
+
+The tumor is a heterogeneous mass composed of several cell types, such as
+immunological, endothelial, stromal and tumor cells. The interaction between these
+cells occurs by direct contact, via activation and / or inhibition of receptors or via
+soluble mediators, such as cytokines and chemokines. The set of events that occurs
+in the tumor mass, also called tumor microenvironment is a complex system capable
+of modulating the function of cells of the immune system which may favor or inhibit
+tumor progression. Several mechanisms such as nutrition, survival, growth and
+dispersal of metastases are orchestrated by this microenvironment. Tumorassociated macrophages (TAM) are the major immunological cells that act in the
+tumor microenvironment, and can exert various functions that contribute to tumor
+progression, such as angiogenesis, cell growth and metastasis. As an example, in
+cancer patients, recruitment of macrophages into certain tumors induces increased
+clot formation, as well as angiogenesis, which is related to increased tumor
+development and increased occurrence of metastasis. Amblyomin-X is a protein
+recombinant strain expressed in E.coli system, without histidine tail, which was
+identified from the cDNA library of Amblyomma sculptum tick salivary glands. In vitro
+and in vivo studies with Amblyomin-X demonstrate that this protein is capable of
+inhibiting Factor Xa of the coagulation cascade, and has an antitumor effect via
+proteasome inhibition, endoplasmic reticulum stress and cell cycle arrest, selectively
+to the tumor . The effects of Amblyomin-X treatment reinforce the potential
+development of the molecule as a future drug. However, the close relationship
+between blood clotting and immunological systems against the modulation of the
+tumor microenvironment needs further studies to better understand the action of this
+protein in cells present in the tumor microenvironment, especially immunological
+cells.
+Key words: THP-1; Cell differentiation; Macrophage Type 1; Amblyomin-X; cell
+activation
+
+	  
+
+7	  
+
+LISTA DE IMAGENS
+Figura 1: representação dos mecanismos de imunoedição em tumores................. 15
+Figura 2: Representação da diferenciação celular de THP-1 em macrófagos pelos
+protocolos 1 e 2 ........................................................................................................ 33
+Figura 3: Representação da diferenciação celular de THP-1 em macrófagos pelos
+protocolos 3 e 4 ........................................................................................................ 34
+Figura 4: Modulação da expressão de marcadores celulares após o processo de
+diferenciação celular................................................................................................. 35
+Figura 5: imagens representativas da expressão dos marcadores celulares CD11b e
+CD14 frente aos diferentes protocolos de diferenciação celular .............................. 36
+Figura 6: Representação da estratégia de gate utilizada para análise dos dados da
+citometria de fluxo por imagem................................................................................ .38
+Figura 7: Ativação de STAT3 após o tratamento de macrófagos e células THP-1
+com Amblyomin-X por 24h........................................................................................ 39
+Figura 8: Imagens representativas da translocação nuclear de STAT3 em células
+controle e tratadas com Amblyomin-X ..................................................................... 39
+Figura 9: Ativação de p38 após o tratamento de macrófagos e células THP-1 com
+Amblyomin-X por 24h................................................................................................ 40
+Figura 10: Imagens representativas da translocação nuclear de p38 em células
+controle e tratadas com Amblyomin-X ..................................................................... 41
+Figura 11: Representação da integridade das amostras utilizadas no experimento de
+qRT-PCR................................................................................................................... 42
+Figura 12: Modulação da expressão gênica após o tratamento de macrófagos e
+células THP-1 com Amblyomin-X por 12h................................................................ 44
+Figura 13: Modulação da expressão gênica após o tratamento de macrófagos e
+células THP-1 com Amblyomin-X por 24h ............................................................... 45
+Figura 14: Modulação do perfil de liberação de citocinas após o tratamento de
+macrófagos e células THP-1 com Amblyomin-X por 12 e 24h ................................. 47
+
+	  
+
+8	  
+
+LISTA DE TABELAS
+Tabela 1: lista das citocinas analisadas por Multiplex ............................................. 27
+Tabela 2: lista dos genes avaliados por qRT-PCR e representação das respectivas
+sequências dos primers foward e reverse utilizados para realização do experimento
+..................................................................................................................................31
+Tabela 3: Índice de pureza das amostras utilizadas no experimento qRT-PCR...... 42
+Tabela 4: Quantificação das amostras utilizadas no experimento qRT-PCR............43
+Tabela 5: lista das citocinas moduladas pelo tratamento com Amblyomin-X........... 46
+
+	  
+
+9	  
+
+LISTA DE ABREVIACÕES E SIGLAS
+BSA
+
+Bovine Serum Albumin
+
+cDNA
+
+DNA complementar
+
+HCS
+
+High Content Screening
+
+GM-CSF
+
+Granulocyte-macrophage colony-stimulating factor
+
+IL-1ß
+
+Interleucina 1ß
+
+IL6
+
+Interleucina 6
+
+IL8
+
+Interleucina 8
+
+IRF3
+
+Interferon Regulatory Factor 3
+
+IRF9
+
+Interferon Regulatory Factor 9
+
+MCP-1
+
+Monocyte Chemoattractant Protein 1
+
+MIP-1
+
+Macrophage Inflammatory Protein 1
+
+Myd88
+
+Myeloid differentiation primary response 88
+
+mRNA
+
+RNA mensageiro
+
+PMA
+
+Phorbol 12-myristate 13-acetate
+
+PBS
+
+Phospate Buffered Saline
+
+PHEM
+
+Pipes – HEPES- EGTA – MgCl2
+
+p38
+
+Mitogen activated protein kinase p38
+
+PKC
+
+Protein Kinase C
+
+PCR
+
+Polymerase Chain Reaction
+
+qRT-PCR
+
+Reverse transcription polymerase chain reaction quantitative real
+time
+
+SFB
+
+Soro Fetal Bovino
+
+STAT3
+
+Signal transducer and activator of transcription 3
+
+STAT1
+
+Signal transducer and activator of transcription 1
+
+TAM
+
+Tumor Associate Macrophage
+
+TFPI
+
+Tissue Factor Pathway Inhibitor
+
+TRIM
+
+T Cell interaction molecule
+
+SOCS3
+
+Supressor of cytockine signaling 3
+
+	  
+
+10	  
+
+LISTA DE SÍMBOLOS
+mL
+
+mililitros
+
+µL
+
+microlitros
+
+µM
+
+micromolar
+
+nM
+
+nanomolar
+
+nm
+
+nanometro
+
+	  
+
+11	  
+
+SUMÁRIO
+
+RESUMO	  ..............................................................................................................................................	  5	  
+ABSTRACT	  ..........................................................................................................................................	  6	  
+LISTA	  DE	  IMAGENS	  ..........................................................................................................................	  7	  
+LISTA	  DE	  TABELAS	  ..........................................................................................................................	  8	  
+LISTA	  DE	  ABREVIACÕES	  E	  SIGLAS	  ..............................................................................................	  9	  
+LISTA	  DE	  SÍMBOLOS	  ....................................................................................................................	  10	  
+1)	  Introdução	  ............................................................................................................................................	  12	  
+1.1)	  Inflamação	  e	  câncer	  .....................................................................................................................................	  12	  
+1.2)	  Macrófagos	  associados	  ao	  tumor	  (TAM)	  ............................................................................................	  16	  
+1.3)	  Amblyomin-­‐X	  .................................................................................................................................................	  17	  
+1.4)	  Linhagem	  celular	  de	  monócito	  humano	  -­‐	  THP-­‐1	  ............................................................................	  19	  
+2)	  Objetivo	  .................................................................................................................................................	  20	  
+3)	  Materiais	  e	  Métodos	  ..........................................................................................................................	  20	  
+3.1)	  Cultura	  de	  células	  .........................................................................................................................................	  20	  
+3.2)	  Diferenciação	  da	  linhagem	  THP-­‐1	  em	  macrófagos	  utilizando	  PMA	  .......................................	  20	  
+3.3)	  Tratamento	  e	  coleta	  das	  células	  .............................................................................................................	  21	  
+3.4)	  Avaliação	  da	  taxa	  de	  diferenciação	  celular	  por	  HCS	  (High	  Content	  Screening)	  ................	  23	  
+
+3.5)	  Avaliação	  do	  estado	  de	  ativação	  celular	  após	  o	  tratamento	  com	  Amblyomin-­‐X	  por	  
+Citometria	  de	  Fluxo	  por	  Imagem	  ....................................................................................................................	  25	  
+3.6)	  Análise	  da	  modulação	  de	  citocinas	  induzida	  pelo	  tratamento	  com	  Amblyomin-­‐X	  através	  
+da	  técnica	  de	  Multiplex	  .......................................................................................................................................	  26	  
+3.7)	  Avaliação	  da	  expressão	  gênica	  induzida	  pela	  diferenciação	  celular	  e	  pelo	  tratamento	  
+com	  Amblyomin-­‐X	  pela	  técnica	  de	  qRT-­‐PCR	  .............................................................................................	  28	  
+3.8)	  Análise	  estatística	  ........................................................................................................................................	  31	  
+3)	  Resultados	  e	  discussão	  ....................................................................................................................	  32	  
+3.1)	  Padronização	  da	  diferenciação	  celular	  a	  partir	  da	  linhagem	  THP-­‐1	  .....................................	  32	  
+3.2)	  Expressão	  de	  receptores	  envolvidos	  no	  processo	  de	  diferenciação	  em	  macrófagos.	  ....	  34	  
+3.3)	  Translocação	  nuclear	  de	  STAT3	  e	  P38	  em	  THP-­‐1	  e	  Macrófagos	  após	  tratamento	  com	  
+Amblyomin-­‐X	  ...........................................................................................................................................................	  37	  
+5)	  Conclusão	  ..............................................................................................................................................	  49	  
+6)	  Referências	  Bibliográficas	  ..............................................................................................................	  50	  
+
+	  
+
+12	  
+
+1) Introdução
+	  
+1.1) Inflamação e câncer
+O câncer é uma doença que está relacionada à desregulação da proliferação
+celular; ao desenvolvimento de mecanismos de evasão do sistema imune e da morte
+celular; alterações metabólicas; angiogênese; instabilidade genômica e mutações, o
+que permite que células normais se tornem células neoplásicas (Hanahan and
+Weinberg, 2011). Algumas células tumorais têm a capacidade de se desprender da
+massa tumoral e migrar para outros órgãos através da corrente sanguínea ou
+linfática, sendo este fenômeno caracterizado como metástase (Kitamura et al.,
+2015). A divisão celular acelerada leva ao crescimento de uma massa de tecido
+sólido e desorganizado, denominado tumor, o qual é caracterizado por ser bastante
+heterogêneo, sendo composto por células tumorais; estromais, como por exemplo
+fibroblastos e células endoteliais; e células do sistema imune, como macrófagos,
+linfócitos e células dendríticas; além de matriz extracelular, a qual pode apresentar
+quantidades variáveis dependendo do tamanho tumor (de Visser et al, 2006).
+O desenvolvimento do câncer está associado a diversos fatores ambientais e
+genéticos. O estilo de vida do paciente, como tabagismo, obesidade, presença de
+infecções crônicas e exposições a substâncias cancerígenas são as principais
+causas de câncer relacionadas a fatores ambientais. Já o histórico familiar de
+desenvolvimento de tipos específicos de câncer indicam uma predisposição ligada a
+hereditariedade genética. Tais fatores, quando combinados, resultam em uma série
+de mutações no material genético, fazendo com que a célula não passe pelo
+processo de senescência, se multiplicando indeterminadamente. Além disso, o
+microambiente composto por citocinas, quimiocinas e fatores de crescimento
+liberados por diversos tipos celulares induz a formação de novos vasos sanguíneos,
+o que proporciona as condições adequadas para o crescimento do tumor e invasão
+de tecidos distantes, através da chegada de nutrientes pelo suprimento sanguíneo
+(Grivennikov et al., 2010) .
+Sabe-se que a maioria dos tumores recrutam células imunológicas, o que
+contribui para o desenvolvimento de um quadro inflamatório, principalmente devido a
+ação de células do sistema imune inato, como macrófagos associados ao tumor (na
+sigla em inglês TAM, Tumor-Associated Macrophage) (Shiao et al., 2011). A
+inflamação proporciona a liberação de citocinas e quimiocinas, que juntamente com
+
+	  
+
+13	  
+
+demais fatores liberados por outras células presentes na massa tumoral, como
+células estromais, endoteliais e tumorais, desenvolvem um microambiente que é
+capaz de modular a ação das células inflamatórias, resultando no desenvolvimento
+de um perfil imunossupressor e desenvolvimento de respostas inflamatórias prótumorais que favorecem o crescimento do tumor (Gajewski et al., 2013). Dessa
+forma, as células inflamatórias presentes no tumor liberam citocinas que auxiliam na
+progressão dos mecanismos necessários para o desenvolvimento tumoral, como
+angiogênese, replicação celular ilimitada, invasão e metástase. Este fenômeno é
+denominado imunoedição, em que a medida que o tumor cresce, há o
+desenvolvimento de um microambiente tumoral imunossupressor, que estimula o
+desenvolvimento de mecanismos de evasão da resposta imune protetora (Smyth et
+al., 2006).
+Vesely e colaboradores descrevem em seu trabalho as várias interações
+entre a imunidade inata e adaptativa no câncer sugerindo um modelo dinâmico de
+imunoedição, onde células como macrófagos M2, MDSC, TH17, Treg e TCD8+
+expressando o receptor CTLA-4 estão presentes na inflamação crônica e favorecem
+os processos relacionados à progressão tumoral. Em contra partida, os autores
+ainda apontam a importância das células NK, NKT, TCD8+, TCD4+, Macrófagos M1,
+DCs, célula Tγδ e as citocinas IL12 e IFN-gama no equilibro e eliminação de células
+tumorais, conforme ilustrado na figura 1.
+
+	  
+
+14	  
+
+Figura 1: Imunoedição do processo tumoral: envolvimento da Imunidade Inata e adaptativa na
+erradicação, equilíbrio e promoção tumoral, adaptada de Vesely, 2011
+
+As principais células imunológicas encontradas no tumor e que contribuem
+para o desenvolvimento do microambiente tumoral são os linfócitos (Gajewski et al.,
+2013), e macrófagos associados ao tumor (TAM), que possuem importante papel no
+desenvolvimento do quadro inflamatório (Grivennikov et al., 2010). TAMs participam
+de diversos processos envolvidos no desenvolvimento tumoral e metástase, desde a
+angiogênese, até a transição epitélio-mesenquimal, transporte de células tumorais
+na corrente sanguínea, intravasão e extravasão de células tumorais dos vasos
+
+	  
+
+15	  
+
+sanguíneos e preparação do nicho pré-metástatico. Além disso, também estão
+relacionados com a liberação de citocinas que contribuem para o desenvolvimento
+do microambiente tumoral e modulação de células do sistema imunológico (Kitamura
+et al., 2015; Noy and Pollard, 2014).
+Diversos tipos de tumores apresentam infiltrados linfocitários, apresentando
+linfócitos T CD4+, os quais podem liberar citocinas que contribuem ou inibem o
+crescimento do tumor dependendo do microambiente tumoral desenvolvido; e
+linfócitos TCD8+, os quais estão relacionados com o melhor prognóstico do câncer e
+desenvolvimento de respostas antitumorais, apesar de também serem modulados
+pela ação de outras células inflamatórias presentes no tumor (Grivennikov et al.,
+2010; Gajewski et al., 2013).
+Outro tipo celular que também está presente no tumor e possui sua função
+alterada devido a ação do microambiente tumoral são as células dendríticas, as
+quais podem exercer um papel pró-tumoral através da maior expressão de
+moléculas regulatórias da resposta imunológica antitumoral, como PD-1; e da
+redução da ativação do sistema imunológico adaptativo de combate ao tumor,
+devido ao fato de que o microambiente tumoral é capaz de reduzir o potencial de
+apresentação de antígenos destas células (Tran Janco et al., 2015).
+É importante notar também que os tipos de células imunológicas presentes
+em cada tumor varia de acordo com o tipo de câncer que o paciente apresenta, bem
+como a função de tais células pode variar segundo o microambiente tumoral
+desenvolvido, o que faz com que diferentes tipos de tumor apresentem mecanismos
+diferentes de desenvolvimento (Grivennikov et al., 2010).
+Tais células inflamatórias liberam diversas citocinas, como IL-1ß, IL-6, IL-11,
+IL-22,TNF-alfa e TGF-ß que são capazes de se ligarem a receptores presentes na
+membrana plasmática de células tumorais e desencadear diversas vias de
+sinalização intracelulares, provocando a ativação de alguns fatores de transcrição
+como STAT3, NF-kB e AP-1, os quais ativam genes relacionados com a
+sobrevivência, proliferação e crescimento celular; produção e liberação de citocinas;
+angiogênese e motilidade, o que contribui para o crescimento da massa tumoral
+(Grivennikov et al., 2010). Tais citocinas também participam do processo de
+metástase, exercendo diferente funções, como preparação do nicho pré-metastático,
+síntese de metaloproteínas de matriz, transição epitélio-mesenquimal de células
+
+	  
+
+16	  
+
+tumorais, bem como intravasão e extravasão de tais células nos vasos sanguíneos
+(Kitamura et al., 2015; Noy and Pollard, 2014).
+Além disso, diversos estudos já comprovaram que além da ação do sistema
+imunológico no microambiente tumoral, o sistema hemostático também exerce
+importante função no mesmo, contribuindo para o desenvolvimento tumoral. Alguns
+estudos demonstram que o tumor induz o estado de hipercoagulabilidade, e
+predispõe a formação de coágulos e trombose; ao passo que a fibrinólise afeta a
+biologia do tumor, reduzindo o crescimento do mesmo, a angiogênese e a taxa de
+metástase (Wang et al., 2012). Dessa forma, a indução ao estado de
+hipocoagulação em casos de desenvolvimento tumoral pode reduzir o crescimento
+do mesmo.
+1.2) Macrófagos associados ao tumor (TAM)
+Os macrófagos associados ao tumor são considerados as células mais
+importantes no desenvolvimento da inflamação e do microambiente tumoral,
+liberando grandes quantidades de citocinas que promovem o crescimento tumoral,
+como IL-6, TNF- alfa e IFN-gama (Grivennikov et al., 2010; Noy and Pollard, 2014) .
+Assim como demais células do sistema imunológico, os macrófagos recrutados para
+o ambiente tumoral apresentam inicialmente respostas antitumorais. No entanto, ao
+passo que o microambiente tumoral se desenvolve, a resposta imunológica destas
+células é modulada, sendo caracterizada pelo seu papel imunossupressor e prótumoral (Qian and Pollard, 2010).
+TAMs participam de diferentes processos necessários para a progressão do
+tumor, como angiogênese, invasão, motilidade, intravasão, extravasão, crescimento
+celular e até mesmo preparação do nicho pré-metastático (Kitamura et al., 2015; Noy
+and Pollard, 2014). Estes mecanismos pró-tumorais ocorrem devido a liberação de
+diferentes citocinas, como CSF-1, EGF e TGF-beta; quimiocinas, como CCL22,
+CCL5 e CCL20; algumas enzimas, como Arginase-I; bem como a expressão de
+algumas moléculas em sua membrana plasmática, como PD-L1 e B7, que são
+capazes de se ligarem a receptores PD-1 e CTLA-4, respectivamente, que quando
+ativados levam a imunossupressão de diversas células efetoras do sistema imune,
+como linfócitos T CD4+ e T CD8+ (Noy and Pollard, 2014) .
+As citocinas liberadas pelos macrófagos associados ao tumor (TAM) também
+são responsáveis pela modulação do perfil imunossupressor do microambiente
+
+	  
+
+17	  
+
+tumoral, juntamente com demais citocinas liberadas pelas diferentes células
+presentes no tumor, o que acarreta no desenvolvimento, recrutamento e
+sobrevivência de linfócitos T reguladores; inativação de linfócitos T citotóxicos; e
+inativação e diminuição da maturação de linfócitos T CD4+, fazendo com que estas
+células apresentem perfil imunossupressor, o que contribui para o crescimento
+tumoral (Grivennikov et al., 2010; Noy and Pollard, 2014; Qian and Pollard, 2010).
+Além disso, sabe-se também que há uma significante relação entre a
+formação de coágulos e o recrutamento de macrófagos, o que contribui com o
+desenvolvimento tumoral e o maior índice de metástases (Gil-Bernabe et al., 2012).
+Devido ao fato de que as células tumorais apresentam maior expressão do Fator
+Tecidual, também conhecido como Fator III, o qual é responsável por iniciar a via
+extrínseca da cascata de coagulação (Lima and Monteiro, 2013), há a maior
+formação de coágulos em regiões próximas ao tumor. Alguns macrófagos, em
+especial aquelas células que expressam CD11b, são capazes de se interagir com
+alguns componentes do coágulo, como fibronectina, e desencadear uma série de
+ações sobre o tumor relacionados a sobrevivência das células tumorais e o processo
+de metástase, através da liberação de citocinas (Gil-Bernabe et al., 2012).
+Outro fator que contribui para o maior índice de formação de coágulos em
+pacientes oncológicos, é a maior expressão dos fatores de ativação da cascata de
+coagulação, os quais juntamente com o Fator Tecidual, expresso nas células
+tumorais, desencadeiam uma série de sinalizações intracelulares que culminam na
+ângiogênese tumoral e crescimento do mesmo (Lima and Monteiro, 2013). Ademais,
+tais proteínas também podem agir como mediadores capazes de modular o perfil de
+ativação dos macrófagos recrutados devido à formação do coágulo, o que resulta no
+perfil imunossupressor e pró tumoral (Ma et al., 2011). Sendo assim, inibidores dos
+fatores de ativação da cascata de coagulação são alternativas para o tratamento do
+câncer e redução de metástases (Lima and Monteiro, 2013).
+1.3) Amblyomin-X
+O Amblyomin-X, é uma proteína recombinante, com massa molecular de
+cerca de 13 KDa, capaz de inibir o fator X ativado da cascata de coagulação, com Ki
+na faixa de 4 uM, de forma não competitiva. Esta molécula foi encontrada a partir de
+estudos de uma biblioteca de cDNA das glândulas salivares do carrapato
+Amblyomma sculptum, popularmente conhecido como Carrapato Estrela (Branco et
+
+	  
+
+18	  
+
+al., 2016). Esta proteína apresenta o domínio do tipo Kunitz, o qual também está
+presente em alguns inibidores da cascata de coagulação, como TFPI ou inibidores
+TFPI-like (Batista et al., 2010).
+Alguns inibidores da cascata de coagulação, como heparina, TFPI e outros
+inibidores do fator X ativado, possuem efeitos anti-angiogênicos, antitumorais e
+antimetastáticos (Wang et al., 2012; Zalpour et al., 2011). O Amblyomin-X também é
+capaz de reduzir a massa tumoral e metástase em tumores sólidos (Ventura et al.,
+2013), através da indução à apoptose devido a inibição do proteassoma e parada do
+ciclo celular (Chudzinski-Tavassi et al., 2010; Maria et al., 2013). Além disso, o
+tratamento de animais saudáveis com a proteína recombinante não apresentou
+toxicidade para células em estado fisiológico e demais órgãos saudáveis, indicando
+um mecanismo de seletividade para células tumorais (Chudzinski-Tavassi et al.,
+2010).
+Como já descrito anteriormente, o sistema imunológico exerce papel
+importante no microambiente tumoral, principalmente devido a imunoedição
+realizada pelas microambiente tumoral (Gajewski et al., 2013). Dessa forma, a
+modulação da função das células imunológicas no ambiente tumoral pode favorecer
+a redução do tumor, bem como a diminuição das taxas de metástase. Dados
+recentes do grupo demonstraram, em modelo translacional de tumor renal, que o
+tratamento com Amblyomin-X demonstrou o maior recrutamento e ativação de
+linfócitos T CD4+, T CD8+ e células NK, além de alterar o perfil de citocinas e
+induzir a modulação do tipo de resposta pró-inflamatória no microambiente tumoral
+favorecendo o efeito antitumoral da molécula.
+Dessa forma, o Amblyomin-X é uma molécula capaz de induzir a apoptose
+seletiva de células tumorais, bem como a redução de metástases, através da
+inibição do proteassoma, sendo que seu efeito antitumoral é intensificado pela ação
+de células imunológicas, devido a sua potencial atividade imunomoduladora. Além
+disso, o Amblyomin-X também é capaz de inibir a cascata de coagulação, a qual
+desempenha importante função quanto a sobrevivência e dispersão de células
+tumorais através de mecanismos relacionados ao recrutamento, ativação e
+modulação de macrófagos. Assim sendo, é de grande relevância compreender
+melhor o efeito do Amblyomin-X no processo de ativação dos macrófagos.
+
+	  
+
+19	  
+
+1.4) Linhagem celular de monócito humano - THP-1
+Diversos estudos têm como objetivo compreender melhor o papel de
+monócitos e macrófagos no contexto de diversas doenças, uma vez que o sistema
+imunológico exerce importante papel no desenvolvimento de algumas doenças
+crônicas, como câncer, diabetes e osteoartrite. O uso de linhagens celulares é
+bastante difundido na área da pesquisa visando o melhor controle de variáveis afim
+de elucidar o entendimento acerca do objeto de estudo. A THP-1 é uma linhagem
+de monócito cultivada em suspensão e que responde a diferenciação para células
+de origem mieloide dependendo do tipo de estímulo. Classicamente, a THP-1 pode
+ser induzida a diferenciação celular para macrófagos quando tratada com ésteres de
+forbol, como o PMA (forbol-12-miristato-13-acetato); ou demais moléculas, como
+1,25 – dihidroxivitamina D3 (Daigneault et al., 2010).
+A THP-1 (ATCC® TIB 202) foi estabelecida em 1980, e obtida a partir do
+sangue periférico de uma criança portadora de uma doença denominada leucemia
+monocítica aguda (Tsuchiya et al., 1980). É caracterizada por ser cultivada em
+suspensão e apresentar morfologia arredondada, alta refringência, e compartilhar
+algumas características específicas de monócitos humanos, como expressão de
+alguns marcadores (Qin, 2012).
+A THP-1 é uma das linhagens celulares mais utilizadas em pesquisas, devido
+ao fato de apresentar algumas vantagens em relação ao uso de monócitos humanos
+primários, como acessibilidade fácil e rápida, pelo fato de poderem ser congeladas
+por muito tempo sem que a viabilidade ou capacidade de diferenciação seja
+alterada; alto índice de proliferação; baixo risco de contaminação com demais tipos
+celulares; e background genético homogêneo, o que reduz o grau de variabilidade
+de fenótipo celular . Além disso, alguns estudos já demonstraram que a THP-1
+apresenta um fenótipo mais semelhante a de monócitos humanos em relação a
+outras linhagens monocíticas, como por exemplo a U937 (Qin, 2012; Forrester et al.,
+2018).
+Na literatura, o agente indutor da diferenciação celular mais utilizado é o
+PMA, o qual é capaz de ativar a enzima PKC (Protein Kinase C), proteína presente
+em vias de sinalização intracelulares relacionadas à diferenciação e proliferação
+celular (Daigneault et al., 2010). Sabe-se que o tratamento de células THP-1 com
+PMA ativa majoritariamente a isoforma PKCδ (Schwende et al., 1996), através da
+
+	  
+
+20	  
+
+ligação do agente indutor no domínio N-terminal da proteína PKC, o que induz a
+translocação da mesma para o seu sítio de ação, que resultará na ativação de
+fatores de transcrição como NF-kB e AP1 (Park et al., 2007). Além disso,
+anteriormente ao início do processo de diferenciação celular, o PMA inibe a
+progressão do ciclo celular na fase G1/S, através da ativação da via de sinalização
+MAPK de maneira dependente da produção de ROS (Reactive Oxygen Species).
+Sendo assim, estudos sugerem que a ativação da via de sinalização Raf/MEK/ERK
+pode interferir de maneira direta ou indireta na regulação da expressão gênica que
+ocorre no processo de diferenciação celular (Traore et al., 2005).
+2) Objetivo
+Avaliar o efeito do Amblyomin-X na ativação e modulação de macrófagos
+derivados da linhagem celular THP-1.
+3) Materiais e Métodos
+3.1) Cultura de células
+As células foram cultivadas em suspensão em meio RPMI 1640 como
+recomendado pela ATCC®, suplementado com 10% de soro fetal bovino (SFB) e 1%
+de L-glutamina em garrafas de 125 cm3, com volume total de 30ml, à 37˚C e
+atmosfera de 5% de CO2. A troca de meio foi realizada a cada três dias, com
+densidade inicial de 200.000 células/ml, seguindo as recomendações descritas pela
+ATCC®.
+3.2) Diferenciação da linhagem THP-1 em macrófagos utilizando PMA
+Alguns protocolos de diferenciação celular da linhagem THP-1 em macrófagos
+induzida por PMA foram testados, a fim de padronizar a melhor condição para o
+presente estudo. Há diversos estudos com
+
+protocolos divergentes quanto a
+
+concentração de PMA, o período de tratamento e o tempo de descanso. Após uma
+breve análise da literatura, notou-se que a concentração de PMA variava entre 5nM
+e 200nM entre os diferentes protocolos. Além disso, os períodos de tratamento eram
+inversamente proporcionais às concentrações de PMA, ou seja, quanto maior
+concentração de PMA, menor o período de tratamento. Sendo assim, foram
+encontrados protocolos que apresentavam tempo de tratamento de 24horas a 4
+
+	  
+
+21	  
+
+dias. Por fim, também observou-se que o tempo de descanso variava de modo
+proporcional à concentração de PMA utilizada, apresentando uma variação de 24
+horas a 5 dias dentre os diferentes protocolos estudados.
+A fim de selecionar o protocolo mais adequado para a realização dos
+experimentos, testou-se 4 protocolos distintos, sendo eles:
+1. 100nM de PMA durante 3 dias + 5 dias de descanso
+2. 100nM de PMA durante 3 dias + 3 dias de descanso
+3. 100nM de PMA durante 2 dias + 24 horas de descanso
+4. 25nM de PMA durante 2 dias + 24 horas de descanso
+Todos os protocolos foram realizados utilizando 2x106 células em garrafas de 25
+cm3, com volume total de 5 ml.
+Preparação do meio para diferenciação
+O PMA (Sigma) utilizado para realização de todos os experimentos foi diluído
+conforme instruções fornecidas pelo próprio fabricante, e aliquotado em eppendorf
+âmbar, com volume de 15µl cada na concentração de 1mg/mL, e armazenado a 20˚C.
+Cada alíquota de PMA foi utilizado uma única vez, sendo a fração não
+utilizada descartada. Preparava-se o volume necessário de meio RPMI 1640,
+suplementado com 10% de SFB, em tubos Falcon, e em seguida, acrescentava-se o
+PMA conforme a molaridade de cada condição. Por fim, colocava-se 5 ml deste
+meio, juntamente com as células, em cada garrafa, e incubava-se por 48 horas em
+estufas à 37˚C e 5% de CO2.
+Preparação do meio para o período de descanso
+Após o período de tratamento com PMA, o meio foi aspirado e adicionado 5 ml
+de meio RPMI 1640 fresco, suplementado com 10% de SFB e 1% de L-glutamina,
+durante os períodos estabelecidos, em estufas à 37˚C e 5% de CO2.
+3.3) Tratamento e coleta das células
+Após a diferenciação em macrófagos, as células foram tratadas com 50µM de
+Amblyomin-X com volume final de 2,5ml de meio, em privação de soro fetal bovino,
+
+	  
+
+22	  
+
+em garrafas de 25 cm3. Os tratamentos foram realizados durante 12 e 24 horas, em
+quatro condições distintas, sendo elas:
+•
+
+THP-1 sem tratamento;
+
+•
+
+THP-1 tratada com 50µM de Amblyomin-X;
+
+•
+
+macrófago sem tratamento;
+
+•
+
+macrófago tratado com 50µM de Amblyomin-X.
+
+Ao término de cada uma das condições de tratamento acima citadas, as células
+eram coletadas e ressuspendidas em PBS 1X. Previamente ao início dos protocolos
+dos diferentes experimentos subsequentes, avaliava-se o número de células
+recuperadas e a viabilidade celular através do método de exclusão pelo corante Azul
+de Tripan.
+Processo de coleta de células THP-1 após o tratamento
+Para obtenção das células THP-1, coletava-se todo o meio em tubos Falcon,
+centrifugava-se por 5 minutos a 1100 rpm, descartava-se o sobrenadante, e então, o
+pellet de células era ressuspendido em 1ml PBS 1X.
+Processo de coleta de macrófagos derivados de THP-1 após o tratamento
+Como os macrófagos derivados de THP-1 são células aderentes, é
+necessário utilizar alguma reação enzimática para soltá-los da garrafa. Para tanto,
+foi utilizado o reagente TripLE Express, o qual é um substituinte direto da Tripsina, e
+que através da reação de protease recombinante cliva a porção C-terminal das
+proteínas de adesão celulares. O mesmo foi escolhido devido ao fato de apresentar
+maior eficiência, menor degradação de proteínas celulares e maior rapidez em
+relação a Tripsina.
+Sendo assim, para execução do protocolo de obtenção dos macrófagos, o meio
+foi aspirado, e a garrafa lavada somente uma vez com 5ml de PBS 1X. Em seguida,
+2ml de TripLE Express foi adicionado por 20 minutos em estufa à 37˚C e 5% de
+CO2. Após o período de incubação, acrescentou-se 2ml de PBS 1X, uma vez que o
+TripLE Express não necessita de nenhum inibidor para ser inativado, bastando
+apenas a diluição do mesmo. Por fim, coletava-se todo o volume em tubos Falcon,
+centrifugava-se por 5 minutos a 1100 rpm, descartava-se o sobrenadante e o pellet
+de células era ressuspendido em 1ml de PBS 1X.
+
+	  
+
+23	  
+
+3.4) Avaliação da taxa de diferenciação celular por HCS (High Content
+Screening)
+High Content Screening (HCS) é uma tecnologia avançada que permite a
+aquisição de forma automatizada de imagens de microscopia de fluorescência em
+alta resolução, as quais estão acopladas a um sistema de análise quantitativa. Neste
+processo analítico, além de obter dados quantitativos em larga escala relacionados a
+morfologia celular (morfometria), também podemos extrair dados quantitativos
+baseados na intensidade de fluorescência de marcadores específicos. Devido aos
+diversos avanços tecnológicos na ciência, como microscópios automatizados,
+melhoramento de softwares de análise de imagens, plataformas de softwares
+integrados e acesso a banco de dados, o HCS é capaz de avaliar uma grande
+quantidade de amostras de maneira rápida e eficaz, o que contribui para que esta
+seja uma das metodologias mais utilizadas recentemente na busca de novas drogas,
+além de estudos de larga escala para compreensão de sistemas biológicos e efeitos
+de pequenas moléculas na biologia celular (Zanella et al, 2018).
+Esta ferramenta foi utilizada com o objetivo de avaliar a taxa de diferenciação
+celular a partir da análise da variação do nível de expressão de receptores de
+membrana característicos de células THP-1 e macrófagos, após o protocolo de
+diferenciação celular com PMA.
+Escolha dos protocolos de diferenciação celular e obtenção das amostras
+Visando a padronização da diferenciação celular de THP-1 em macrófagos,
+foram testados vários protocolos de diferenciação celular conforme descritos
+anteriormente. Durante este processo, as células foram observadas por microscópio
+óptico de luz, a fim de avaliar quais procedimentos testados resultariam em
+alterações morfológicas. Dos quatro protocolos testados, apenas dois indicaram
+adequada mudança morfológica característica de macrófagos, os quais foram
+escolhidos para análise dos receptores por HCS, sendo eles:
+1) Tratamento com 25nM PMA por 48 horas + 24 horas de descanso
+2) Tratamento com 100nM PMA por 48 horas + 24 horas de descanso
+Para realização do experimento, foram plaqueadas 4x106 células em 2
+garrafas de 25 cm3, para cada um dos protocolos listados acima, e as células foram
+
+	  
+
+24	  
+
+tratadas por 48 horas com as diferentes concentrações de PMA. Após o período de
+tratamento, as células foram coletadas segundo o protocolo descrito anteriormente.
+Em seguida, plaqueou-se 4x104 células por poço em uma placa de 96 wells, estéril,
+preta, µClear e específica para HCS (Greiner, No.: 675986). Após o plaqueamento,
+as células descansaram durante 24 horas em meio fresco, na estufa à 37˚C e 5% de
+CO2.
+Seleção dos marcadores de diferenciação celular
+Para avaliação da taxa de diferenciação celular, escolheu-se os receptores de
+membrana CD11b, como marcador para macrófago; e CD14, como principal
+indicador de células THP-1, conforme descrito na literatura (Forrester et al., 2018;
+Qin, 2012).
+Protocolo de marcação para imunofluorescência
+Após a realização da diferenciação celular, iniciou-se o protocolo de
+marcação para imunofluorescência, o qual é composto por quatro etapas principais.
+A primeira delas é a etapa de fixação celular, em que se utiliza uma solução de
+PHEM (2 mM HEPES, 10 mM EGTA, 2 mM MgCl2, 60 mM PIPES – pH 6.9)
+contendo PFA 4% durante 30min a temperatura ambiente, seguido por 3 lavagens
+com PHEM-Glicina, com um intervalo de 5min entre elas. O próximo passo consistiu
+na etapa de bloqueio por 30min, em solução BSA 1%, a temperatura ambiente. Em
+seguida, as células foram incubadas com os anticorpos primários, overnight, a 4˚C.
+No dia seguinte, elas foram lavadas 3 vezes com PHEM; finalmente, as células
+foram incubadas com os anticorpos secundários, durante 1h à temperatura
+ambiente. Apos esta etapa, as celulas foram lavadas 3 vezes com PHEM e mantidas
+com 200µL de PBS. E importante ressaltar que a escolha dos fluoróforos foi
+estratégica e determinada pela configuração do equipamento de aquisição das
+imagens. Simultaneamente a marcação com os anticorpos secundários, o DNA
+nuclear foi corado com Hoechst 33342 (5µM – Life Technologies, Thermo Fisher
+Scientific) por 1h a temperatura ambiente.
+Aquisição e análise dos dados
+As imagens foram adquiridas no equipamento ImageXpress Micro Confocal
+High-Content Imaging System (Molecular Devices, USA) de acordo coma
+
+	  
+
+25	  
+
+recomendaçoes do fabricante. Os dados foram adquiridos e analisados pelo
+software MetaXpress 6 High Content Image Acquisition and Analysis Software
+(Molecular Devices, USA). A aquisição das imagens e quantificação da intensidade
+de
+
+fluorescência
+
+foram
+
+conduzidas
+
+automaticamente
+
+através
+
+do
+
+software
+
+MetaXpress, usando a objetiva de 20X. Para cada condição de tratamento e filtro do
+equipamento, foram adquiridas 9 imagens por poço em triplicata. Em todos os
+casos, também foi realizada a contagem do número de células por poço. A
+expressão dos marcadores foram determinadas e quantificadas através de
+mudanças da intensidade do sinal de fluorescência (MFI – Median Fluorescent
+Intensity) usando o módulo “Multi Wavelenght Cell Scoring”. Os valores plotados nos
+gráficos correspondem a média da intensidade de fluorescência obtida a partir da
+média dos 9 sítios analisados por poço, cuja mediana foi normalizada pelo número
+de células adquiridas.
+3.5) Avaliação do estado de ativação celular após o tratamento com
+Amblyomin-X por Citometria de Fluxo por Imagem
+A citometria de fluxo por imagem é uma técnica que integra a citometria de fluxo
+convencional e a microscopia de fluorescência, o que permite a obtenção de uma
+imagem em alta resolução de cada célula que passa ao longo do sensor de fluxo,
+sendo possível identificar cada evento obtido a partir da citometria de fluxo através
+das imagens adquiridas em tempo real (Han et al., 2016). Assim, esta técnica
+possibilita análises morfológicas e fenotípicas, como tamanho celular e expressão
+proteica, de cada célula, bem como a região da célula em que é expressa,
+possibilitando a distinção de populações heterogêneas, de forma rápida e eficiente
+(Barteneva et al., 2012).
+Esta técnica foi utilizada com o objetivo de avaliar o estado de ativação celular, a
+partir da análise e quantificação do nível de translocação nuclear do fator de
+transcrição STAT3 e da proteína p38.
+Processo de obtenção das amostras
+Para coleta das amostras foram diferenciadas 4x106 células em 2 garrafas de
+25 cm3, para cada condição de tratamento. A diferenciação celular foi realizada de
+acordo com protocolo padronizado anteriormente, em que utiliza-se 25nM de PMA
+durante 48 horas, seguido de 24 horas de descanso em meio fresco. Após a
+
+	  
+
+26	  
+
+diferenciação, as células foram tratadas com Amblyomin-X (50µM) durante 24 horas.
+Ao final do tratamento, o pellet de células foi coletado e iniciou-se o protocolo de
+marcação para imunofluorescência, semelhante àquele descrito para HCS. O
+experimento foi realizado em triplicata biológica.
+Aquisição e análise dos dados
+O equipamento utilizado para realização do experimento foi o ImageStream®X
+Mark II (Millipore). Para aquisição e análise dos dados utilizou-se os softwares
+INSPIRE® e IDEAS®, respectivamente, ambos fornecidos pelo próprio fabricante.
+3.6) Análise da modulação de citocinas induzida pelo tratamento com
+Amblyomin-X através da técnica de Multiplex
+A metodologia multiplex consiste em um ensaio imunológico multiparamétrico,
+que permite a quantificação de diversos mediadores liberados para o sobrenadante
+de cultura de forma simultanea, com alta sensibilidade de deteção e rápida. A
+tecnologia Luminex xMAP®,
+
+é baseada na detecção de esferas magnéticas
+
+recobertas por anticorpos contra cada analito que pretende-se detectar em um meio
+solúvel, seja plasma, soro, lisado celular ou sobrenadantes. Cada esfera magnética
+recorbeta pelos anticorpos a serem analisados, possui uma característica de cor e
+tamanho. Após a reação de ligação entre as diferentes esferas e seus respectivos
+analitos um anticorpo de revelação acoplado ao fluorocromo Ficoeritrina é
+adicionado, o qual irá se ligar apenas nos sítios que houveram ligação com os
+mediadores investigados. Enquanto a intensidade de fluorescência identifica os
+níveis em pictogramas/mL, as características de cada esfera magnética possibilita a
+distinção entre cada um dos analitos. Sendo assim, a identificação de cada citocina
+é baseada nas características das esferas magnéticas, ao passo que a quantificação
+das mesmas ocorre pela intensidade de fluorescência do anticorpo secundário
+(Chowdhury et al., 2009)
+Esta técnica foi utilizada com o objetivo de analisar a modulação da liberação
+de citocinas induzida pelo tratamento com Amblyomin-X, a partir da quantificação do
+nível de expressão de um conjunto de citocinas pré-determinados.
+
+	  
+
+27	  
+
+Processo de obtenção das amostras
+Para coleta das amostras, foram diferenciadas 4x106 células em 2 garrafas de
+25 cm3, para cada condição de tratamento. A diferenciação celular foi realizada de
+acordo com protocolo padronizado previamente, em que utiliza-se 25nM de PMA
+durante 48 horas, seguido de 24 horas de descanso em meio fresco. Após a
+diferenciação, as células foram tratadas com Amblyomin-X (50µM) durante 12 e 24
+horas, como descrito anteriormente. Após os períodos de tratamento, coletou-se
+separadamente o sobrenadante de cada garrafa em tubos Falcon e centrifugou-se.
+Em seguida, foram colhidas três alíquotas de 100µl de cada uma das condições de
+tratamento e congelou-se em freezer -20˚C. O experimento foi realizado em triplicata
+biológica.
+Seleção dos analitos
+Neste experimento, foram analisados 24 analitos, conforme disposto no kit
+para multiplex HMCYTOMAG – 60K - 24 (Millipore) listados na Tabela 1.
+
+Lista de analitos kit HMCYTOMAG60K-24
+MCP-3
+IL-6
+FGF-2
+IL-12P70 IL-8
+EGF
+CD40L
+IP-10
+TGF-alfa
+IL-17A
+MCP-1
+G-CSF
+IL-1alfa
+MIP-1alfa
+GM-CSF
+IFN-Alfa2
+IL-1beta
+MIP-1beta
+IFN-Gama
+IL-2
+TNF-alfa
+IL-10
+IL-4
+TNF-beta
+Tabela 1: analitos avaliados no kit HMCYTOMAG – 60K – 24 utilizado para realização do experimento
+
+Aquisição e análise dos dados
+Para execução do experimento, seguiu-se todas as instruções contidas no
+protocolo fornecido pelo fabricante do kit. O equipamento utilizado para realização
+do experimento foi o Luminex 200 (Merck). Os dados foram adquiridos utilizando o
+software Xponent, e a análise dos mesmos foi realizada pelo software Milliplex
+Analysis, ambos fornecidos pelo próprio fabricante.
+
+	  
+
+28	  
+
+3.7) Avaliação da expressão gênica induzida pela diferenciação celular e pelo
+tratamento com Amblyomin-X pela técnica de qRT-PCR
+O PCR quantitativo em tempo real (qRT-PCR) é um método que permite
+quantificar a expressão de mRNA de maneira altamente sensível, sendo derivada da
+técnica de Reação em Cadeia da Polimerase (PCR) convencional. O processo de
+amplificação das amostras no qRT-PCR ocorre de maneira similar ao PCR,
+apresentando uma fase de desnaturação dos ácidos nucleicos, seguida pelo
+anelamento dos primers e a ação polimerásica da DNA Polimerase. No entanto, na
+reação do qRT-PCR são adicionados corantes fluorescentes que são capazes de se
+ligar às fitas de DNA durante a sua síntese, permitindo a quantificação das amostras
+em tempo real, a qual pode ser realizada de duas maneiras. A primeira delas é a
+quantificação relativa que baseia-se na análise comparativa da expressão gênica de
+uma molécula alvo em diferentes condições em relação a um controle interno de
+referência, também conhecido como gene normalizador, o qual deve ser um gene de
+expressão constitutiva. Já a quantificação absoluta visa calcular o número exato de
+moléculas de um determinado transcrito alvo em qualquer situação, inclusive na
+ausência de um gene normalizador, utilizando como referência uma curva de
+calibração gerada a partir de diluições seriadas de uma quantidade inicial conhecida
+da molécula alvo. Neste caso, será utilizado o método de quantificação relativa.
+Este método foi utilizado a fim de avaliar a expressão gênica induzida durante a
+diferenciação de células THP-1 em macrófagos, bem como pelo tratamento com
+Amblyomin-X.
+Processo de obtenção das amostras
+Para obtenção das amostras, foram diferenciadas 4x106 células em 2 garrafas de
+25 cm3, com um volume final de 5ml de meio, para cada condição de tratamento. A
+diferenciação celular foi realizada de acordo com protocolo descrito anteriormente,
+em que foi utilizado 25nM de PMA durante 48h, seguido de 24h de descanso em
+meio fresco. Após a diferenciação, as células foram tratadas com Amblyomin-X
+(50µM) durante 12 e 24h, como descrito anteriormente. No final do tratamento, o
+pellet de células foi coletado e congelado em freezer -150˚C até que todas as
+amostras fossem obtidas. Foi realizada triplicata biológica para cada condição
+experimental.
+
+	  
+
+29	  
+
+Extração do RNA total, purificação e tratamento com DNAse
+O isolamento do RNA foi purificado e tratado com DNAseI utilizando o kit
+RNAspin (GE Healthcare), de acordo com o protocolo do fabricante, alterando-se
+apenas o tempo de incubação com a DNAseI de 15 min para 1h. O RNA purificado
+foi armazenado a -80oC.
+Avaliação da integridade do RNA
+As amostras de RNA foram quantificadas por sua densidade óptica a 260nm, e
+sua pureza atestada pelas razões 260/280nm e 260/230nm. As medidas foram
+realizadas no espectrofotômetro NanoDrop (Thermo Scientific). Também realizou-se
+a quantificação de mRNA pelo ensaio de fluorescência por Ribogreen, o qual
+consiste em um método de alta sensibilidade para quantificação de ácidos
+nucleicos.O RNA foi analisado quanto à sua integridade utilizando-se o equipamento
+Bioanalyzer 2100 (Agilent Technologies), que realiza uma eletroforese capilar de alta
+resolução. A integridade das amostras foi avaliada com o programa 2100 Expert
+(Agilent Technologies). Este programa atribui um valor de integridade de RNA (RNA
+Integrity Number, RIN), que permite uma estimativa da integridade das amostras de
+RNA por meio da análise das intensidades das bandas de todo o traçado
+eletroforético da amostra, e não apenas da razão entre as bandas dos RNAs
+ribossomais. Apenas amostras que tinham uma boa integridade (RIN > 7) foram
+utilizadas em todos os experimentos.
+Transcrição reversa e síntese do cDNA
+Para a transcrição reversa e síntese de cDNA fita simples foram utilizados 325 ng
+de RNA total de cada condição experimental. Cada amostra foi transcrita com o kit
+SuperScript III First Strand Synthesis Mix (Invitrogen), utilizando oligonucleotídeos
+iniciadores oligo-dT(20), segundo as recomendações do fabricante, com incubação à
+50oC. É importante mencionar que uma pré-incubação de 3 min a 85oC foi
+introduzida no protocolo, antes da fase de anelamento, para desnaturar
+completamente o RNA. Após o término da fase de anelamento, a reação foi mantida
+a 50oC por 2h, para a adição da enzima em tampão pré-aquecido à 50oC,
+eliminando-se a etapa de resfriamento no gelo descrita no protocolo do fabricante. O
+cDNA obtido foi diluído 10X antes da utilização nas reações subsequentes das
+PCRs.
+
+	  
+
+30	  
+
+PCR em tempo real – quantificação relativa
+As reações das PCRs em tempo real (qPCR) para a quantificação relativa foram
+feitas em duplicata em um volume de 8µL contendo 4µL de SYBER Green Fast
+Master Mix (Applied Biosystems), 2µL de cDNA da transcrição reversa (RT) (diluído
+1:10) e 400nM de cada par de oligonucleotídeos iniciadores (Forward e Reverse)
+específicos para cada gene. A concentração dos oligos utilizados nas reações foi
+calculada previamente através da construção de curva de otimização da
+concentração de cada par de primer (dados não mostrados). A reação foi realizada
+no equipamento QuantStudio 3 Real-Time PCR System (Thermo Fisher Scientific,
+Applied Biosystems) utilizando os parâmetros padrão do equipamento.
+O ciclo da PCR no qual a intensidade de fluorescência do SYBER Green Fast,
+ligado à dupla fita de DNA amplificado, é detectada determina o Ct do gene (Cycle
+threshold – ciclo referência). Este Ct é uma medida relativa da quantidade inicial de
+moléculas do transcrito alvo presente no cDNA ou DNA genômico analisado. Quanto
+menor o Ct, mais abundante é o transcrito. Para tornar as medidas de expressão
+comparáveis entre as amostras usa-se como referência o Ct de um gene constitutivo
+ou que não tenha sua expressão alterada nas diferentes condições de estudo. Neste
+caso, utilizamos como genes de referência ACTB e RPL37A (Maess et al., 2010),
+através do fator de normalização calculado entre ambos.
+O delta-Ct (ΔCt) foi obtido pela diferença entre a média das triplicatas (réplicas
+técnicas) do Ct do gene em análise e o Ct médio do gene normalizador. A partir dos
+valores de ΔCt obtidos, foi calculado o valor de delta-delta-Ct (ΔΔCt) que consistiu
+na subtração do ΔCt obtido nas diferentes condições testadas (tratamento e
+controle). A diferença de expressão relativa do gene em estudo, fold change, foi
+calculada como 2-ΔΔCt (considerando-se que os iniciadores possuem uma
+eficiência similar e alta, como previamente testada – dados não mostrados) de
+acordo com as recomendações de Pfaffl (Pfaffl, 2001).
+Seleção dos genes avaliados e desenho dos oligonucleotideos iniciadores
+Os genes selecionados para avaliação da expressão foram escolhidos segundo
+resultados obtidos em estudos prévios realizados no laboratório que também
+buscaram avaliar a diferença de expressão gênica de diversos genes após o
+tratamento das células com Amblyomin-X em um modelo de melanoma in vivo.
+Foram selecionados 20 genes, os quais estão relacionados com
+
+processos de
+
+	  
+
+31	  
+
+modulação e ativação do sistema imunológico. Os primers foram desenhados
+seguindo alguns parâmetros específicos para as reações de qRT-PCR, entre eles: a
+temperatura de melting, porcentagem de C-G e o tamanho do amplicon gerado.
+Além disso, também levou-se em consideração a baixa probabilidade de formação
+de self e hetero-dimer entre os oligos. Foi utilizado o programa Primer3 para
+desenho dos oligos, o qual é um software de domínio aberto (Rozen and Skaletsky
+2000) e o OligoAnalyzer, para análise dos parâmetros moleculares citados acima.
+Todos os primers utilizados no presente trabalho estão apresentados na Tabela 2.
+Gene
+OSM
+SELP
+STAT3
+PI3KR6
+VEGFA
+IFN-gama
+CD36
+IL1B
+IL8
+TNF-alfa
+IL6
+IRF9
+IRF3
+STAT1
+CD86
+SOCS3
+TREM1
+MYD88
+CD40
+CD80
+*ACTB
+*RPL37A
+
+Primer forward
+
+Primer reverse
+
+CCAGCTCCAGAAGCAGACAG
+
+CCCTGCAGTGCTCTCTCAGT
+
+ACGAGGACTGCGTGGAGATA
+
+GGCACTCTCCTTGTTTGCTG
+
+GTGACAGCTTCCCAATGGAG
+
+TGGCATGTGATTCTTTGCTG
+
+AAGAAGGTCGAGCG
+
+GCAAGGGAATGATGACATGC
+
+CTTCAAGCCATCCTGTGTGC
+
+CCGCATAATCTGCATGGTG
+
+TGTGGAGACCATCAAGGAAGA
+
+CATGTATTGCTTTGCGTTGG
+
+GCCAGTTGGAGACCTGCTTA
+
+CCTGTGGATTTTGCACATCA
+
+CCATGGACAAGCTGAGGAAG
+
+ATCGTGCACATAAGCCTCGT
+
+CAAACCTTTCCACCCCAAAT
+
+CAGTTTTCCTTGGGGTCCAG
+
+GTGCTGACCGACAAAGAAGG
+
+AGGGTGATGGTGTCATCTCG
+
+TGGCTGAAAAAGATGGATGC
+
+CACAGCTCTGGCTTGTTCCT
+
+CCATGCAGAACTGCACACTC
+
+GCTCCCAATGTCTGAATGGA
+
+TGGGGCCCTTCATTGTAGAT
+
+CTTGACCATCACGAGCCTCT
+
+TCGGGGAATATTCAGAGCAC
+
+CCAGGCTCTTGATTTCATGC
+
+CGACGTTTCCATCAGCTTGT
+
+GCTGAGGGTCCTCAAGCTCT
+
+AGGAGAGCGGCTTCTACTGG
+
+GACTGGGTCTTGACGCTGAG
+
+AGCCTCACATGCTGTTCGAT
+
+CAAGGCCTTAGTGGTGGTAGG
+
+AGCAGGAGGAGGCTGAGAAG
+
+TGGGGCAATAGCAGATGAAG
+
+AAATACTGCGACCCCAACCT
+
+TCGTACAGTGCCAGCCTTCT
+
+TGCTGGCTGGTCTTTCTCAC
+
+CGAGTTTGTGCCAGCTCTTC
+
+ATTGCCGACAGG
+
+GCTGATCCACAT
+
+ATTGAAATCAGCCAGCACGC
+
+AGGAACCACAGTGCCAGATCC
+
+Tabela 2: Oligonucleotídeos iniciadores utilizados para as qRT-PCR.*Refere-se aos genes que foram
+utilizados como referências nas reações de qRT-PCR.
+
+3.8) Análise estatística
+Todos os experimentos foram realizados por no mínimo três ensaios
+independentes em triplicata. Os valores foram expressos como média ± SD (desvio
+padrão) e analisados estatisticamente por ANOVA de duas vias seguido pelo pós
+teste de múltipla comparação de Tukey-Kramer ou Teste t student paramétrico uni-
+
+	  
+
+32	  
+
+caudal (INSTAT- GraphPad Software 7.0), comparando-se os valores do grupo
+controle com os valores experimentais. As diferenças foram consideradas
+significativas para o nível de * p<0,05 (5%), **p<0.01, *** p<0.001, ****p<0.0001.
+3) Resultados e discussão
+	  
+3.1) Padronização da diferenciação celular a partir da linhagem THP-1
+A linhagem celular THP-1 sofre alterações morfológicas durante o processo
+de diferenciação, o qual resulta em um fenótipo semelhante a macrófago. Após a
+diferenciação, os macrófagos derivados de THP-1 aderem na superfície de cultivo e
+apresentam menor taxa de proliferação. A morfologia ameboide, característica de
+macrófagos, ocorre devido ao aumento do citoplasma e do número de organelas,
+como complexo de golgi e retículo endoplasmático, maior número de ribossomos e
+tornam-se abeis ao processo de fagocitose (Qin, 2012). Inicialmente, avaliou-se as
+melhores condições para a diferenciação celular, levando em conta a capacidade
+de aderência das células, bem como as alterações morfológicas, por microscopia
+óptica de campo claro.
+Para o primeiro protocolo de diferenciação celular testado, foi utilizado 100nM
+de PMA por 3 dias, seguido de 5 dias de descanso em meio fresco. Após o
+tratamento com PMA foi possível observar alteração da morfologia celular (Figura
+2a). No entanto, após o terceiro dia de descanso notou-se que as células iniciaram
+um processo de dediferenciação, apresentando formato mais arredondado e menor
+aderência, o que resultou poucas células aderidas ao final do período de descanso
+(Figura 2b). Dessa forma, o protocolo foi refutado para a continuidade dos demais
+experimentos. O segundo protocolo de diferenciação celular, foi realizado mantendo
+a mesma concentração de PMA e o mesmo tempo de incubação, no entanto o
+período de descanso, ou seja, sem PMA, foi de três dias. O resultado observado no
+segundo protocolo foi similar ao primeiro . Ao final do período de descanso, as
+células também estavam arredondas e desprendendo da superfície de cultivo (Fig.
+2c).
+
+	  
+
+33	  
+
+Figura 2: Imagens representativas do processo de diferenciação de células THP-1 em macrófagos. a)
+células THP-1. b) Após 3 dias de incubação com 100nM de PMA. Comum aos protocolos 1 e 2. c)
+Descanso de 3 dias, após 3 dias de estimulação com 100nM de PMA. D) Descanso de 5 dias, após 3
+dias de estimulação com 100nM de PMA. As setas indicam alguns macrófagos .
+
+Um terceiro foi testado utilizando 100nM de PMA por 48 horas, seguido do
+período de descanso por apenas 24 horas, em meio fresco. Após o tratamento com
+PMA, observou-se alteração da morfologia celular (Fig. 3a). Ao término do período
+de descanso, as células continuavam aderidas, inclusive notou-se que houve
+aumento no número de células diferenciadas (Fig. 3b).
+Como o principal objetivo foi analisar a ativação dos macrófagos frente ao
+tratamento com Amblyomin-X, o protocolo mais adequado de diferenciação celular
+seria aquele que, ao término do procedimento, as células estivesse com maior
+numero de diferenciação e menor estado de ativação. Desta forma, testou-se o
+protocolo descrito por Lund et al.(2016), onde foi realizado o estímulo de 25nM de
+PMA durante 48 horas, seguido do período de descanso por 24 horas, em meio
+fresco. Ao final do tratamento, houve diferenciação celular semelhante ao protocolo
+anterior (Fig. 3c). Após o período de descanso de 24 horas, as células
+permaneceram aderidas, e com maior quantidade de células diferenciadas (Fig. 3d).
+
+	  
+
+34	  
+
+Figura 3: Representação da diferenciação de células THP-1 em macrófagos segundo descrito no
+protocolo 3, após realização do tratamento com 100nM PMA durante 48 horas (a); seguido do
+período de descanso de 24 horas em meio fresco (b). Representação da diferenciação de células
+THP-1 em macrófagos segundo descrito no protocolo 4, após realização do tratamento com 25nM
+PMA durante 48 horas (c); seguido do período de descanso de 24 horas em meio fresco (d).
+
+Tendo em vista que ao final do terceiro e quarto protocolos, as células
+apresentaram as alterações morfológicas características de macrófagos,
+
+a
+
+diferenciação celular dos dois últimos protocolos foram avaliadas em HCS (High
+Content Screening – Molecular Devices) quanto a expressão de receptores,
+característicos para macrófagos.
+3.2) Expressão de receptores envolvidos no processo de diferenciação em
+macrófagos.
+Nesta etapa, foram avaliadas a expressão dos receptores CD11b e CD14 nas
+células diferenciadas a partir dos protocolos 3 e 4.
+Os resultados obtidos utilizando a tecnologia HCS demonstraram aumento na
+expressão de CD11b em macrófagos em relação às células THP-1. Além disso,
+notou-se uma diferença significativa no nível de expressão de CD11b entre os
+diferentes protocolos realizados, sendo que o tratamento com 25nM de PMA induziu
+
+	  
+
+35	  
+
+maior expressão deste marcador celular em relação ao tratamento com 100nM de
+PMA (Figura 4a). O mesmo padrão de variação de expressão proteica também pode
+ser observado em relação ao marcador CD14, ou seja, nota-se que macrófagos
+apresentam maior expressão de tal receptor em relação às células THP-1, bem
+como o tratamento com 25nM de PMA induziu maior expressão de CD14 quando
+comparado com o tratamento de 100nM de PMA (Figura 4b).
+
+a
+
+b
+
+Figura 4: representação gráfica da modulação da expressão dos marcadores celulares (a)CD11b e
+(b)CD14 após o tratamento com diferentes concentrações de PMA a fim de padronizar o protocolo de
+diferenciação celular. Significância por ANOVA de duas vias, seguido pelo pós teste de múltipla
+comparação de Tukey-Kramer. ***P<0,001.
+
+A variação da expressão dos receptores na membrana plasmática também pode ser
+observado através das imagens obtidas através da tecnologia HCS (Figura 5)
+
+	  
+
+36	  
+
+Figura 5: imagens representativas da expressão dos marcadores celulares CD11b(a) e CD14(b) nos
+diferentes protocolos testados.
+
+	  
+
+37	  
+
+Embora culturas primárias de monócitos isolados a partir do sangue,
+apresente aumento da expressão de CD11b e redução de CD14 no processo de
+diferenciação em macrófagos, está bem documentado na literatura que no processo
+de diferenciação de THP-1 em macrófagos, o aumento na expressão de CD11b e
+CD14 é o esperado (Forrester et al., 2018; Starr et al., 2018; Qin, 2012; Yu et al.,
+2016; Schwende et al., 1996). Porém, alguns artigos defendem que a diferenciação
+celular de THP-1 em macrófagos induz o aumento de CD11b e a redução de CD14
+(Daigneault et al., 2010). Sendo assim, o uso do receptor de membrana CD14 como
+marcador da diferenciação celular para macrófagos é contraditório na literatura.
+No entanto, alguns estudos demonstram que a modulação do nível de
+expressão de CD14 antes e após a diferenciação celular de THP-1 em macrófagos
+induzida por PMA é dependente da forma como as células são cultivadas
+anteriormente ao processo de diferenciação. Aldo et al (2013). apresentou que a
+cultura de células THP-1 em alta densidade estimula a expressão de CD14 ainda em
+fase monocítica, e potencializa a expressão de tal receptor após o tratamento com
+PMA; enquanto que o fenômeno reverso pode ser observado quando células THP-1
+são cultivadas em baixa densidade (Aldo et al., 2013).
+As células THP-1 utilizadas para realização do presente estudo foram
+inicialmente cultivadas em densidade maior que a recomendada pela ATCC, porém
+mais baixa que a densidade celular apresentada pelo artigo de Aldo et al.(2013).
+Dessa forma, este fator pode ter influenciado uma possível alteração no fenótipo das
+células THP-1, o que resultou no aumento da expressão do receptor CD14 após o
+processo de diferenciação celular.
+Assim, com base nos resultados obtidos nos experimentos anteriores, o
+estímulo de 25nM de PMA durante 48 horas, seguido pelo descanso de 24 horas, foi
+o protocolo adotado para os tratamentos com Amblyomin-X (50uM).
+3.3) Translocação nuclear de STAT3 e P38 em THP-1 e Macrófagos após
+tratamento com Amblyomin-X
+Avaliou-se a ativação de células THP-1 e macrófagos após o tratamento com
+Amblyomin-X (50µM), a partir da análise do nível de translocação nuclear do fator de
+transcrição STAT3 e da proteína p38.
+Na citometria de fluxo por imagem, os dados são adquiridos com base na
+imagem. Por isso, é necessário utilizar uma estratégia de gate em que
+
+	  
+
+38	  
+
+primeiramente deve-se determinar o foco de aquisição das imagens, e em seguida
+especificar o gates nos quais as células de interesse estão localizadas, para
+posteriormente analisar os dados com base na pergunta a ser respondida. Neste
+caso, a estratégia de gate foi elaborada com o objetivo de selecionar as células que
+apresentavam translocação nuclear de alguma das proteínas estudadas (Figura 6).
+
+Figura 6: estratégia de gate utilizada para análise dos dados
+
+As células THP-1 quando tratadas com Amblyomin-X (50µM) apresentam maior
+nível de translocação nuclear do fator de transcrição STAT3 comparado às células
+sem tratamento. Por outro lado, não houve diferença estatística quando o mesmo
+tratamento foi realizado em macrófagos (Figura 7). Além disso, pode-se observar
+também que as células THP-1 tratadas com Amblyomin-X (50µM) apresentaram
+maior translocação nuclear de STAT3 em relação aos macrófagos que receberam o
+tratamento nas mesmas condições.
+
+	  
+
+39	  
+
+Figura 7: Translocação nuclear de STAT3 em THP-1 e Macrófagos, tratado com Amblyomin-X
+(50uM). A) Gráfico de barras: número de células positivas para translocação nuclear para STAT3. B)
+Histograma representativo: o deslocamento para a direita indica maior número de células
+translocadas .Experimentos realizados por citometria de Imagem. O gráfico representa a média ± SD
+de três experimentos independentes. Significância por ANOVA de duas vias, seguido pelo pós teste
+de múltipla comparação de Tukey-Kramer. **P<0,01.
+
+Figura 8: imagens representativas da translocação nuclear de STAT3 em células THP-1 e
+macrófagos obtidas a partir da citometria de fluxo por imagem. Ch01 – campo claro; Ch07 – Núcleo;
+Ch11 – Stat3-AF647
+
+O mesmo efeito do tratamento com Amblyomin-X pode ser observado em relação a
+translocação nuclear da proteína p38, em que células THP-1 tratadas com
+Amblyomin-X (50µM) são mais responsivas quando comparadas ao seu respectivo
+controle, representado pelo deslocamento para direita da curva correspondente às
+células THP-1 tratadas, em relação ao respectivo controle (Figura 9). Além disso,
+também nota-se que não há diferença na translocação nuclear da proteína p38 entre
+
+	  
+
+40	  
+
+macrófagos tratados e controle, indicado pela sobreposição parcial dos histogramas
+correspondentes a cada condição de tratamento (Figura 9b). É possível observar
+também que as células THP-1 tratadas com Amblyomin-X apresentaram maior
+translocação nuclear quando comparado com macrófagos tratados com AmblyominX (50µM) (Figura 9a).
+
+Figura 9:	   Translocação nuclear da proteína p38 em THP-1 e Macrófagos, tratado com Amblyomin-X
+(50uM). A) Gráfico de barras: número de células positivas para translocação p38. B) Histograma
+representativo: o deslocamento para a direita indica maior número de células translocadas.
+Experimentos realizados por citometria de Imagem. O gráfico representa a média ± SD de três
+experimentos independentes. Significância por ANOVA de duas vias, seguido pelo pós teste de
+múltipla comparação de Tukey-Kramer. **P<0,01.
+
+Figura 10: imagens representativas da translocação nuclear de p38 em células THP-1 e macrófagos
+obtidas a partir da citometria de fluxo por imagem. Ch01 – campo claro; Ch02 – p38-AF488; Ch07 –
+Núcleo.
+
+	  
+
+41	  
+
+Sabe-se que tanto STAT3, quanto P38 estão intimamente relacionados à
+regulação da transcrição de diversas citocinas e quimiocinas pró-inflamatórias, como
+IL6, IL-1ß e TNF-alfa. Sendo assim, avaliou-se a modulação da expressão gênica de
+alguns genes relacionados à ativação da imunidade inata em células THP-1 e
+macrófagos frente ao tratamento com Amblyomin-X através da qRT-PCR.
+Foi realizada como controle de qualidade, uma breve análise de integridade e
+pureza dos mRNAs extraídos, a fim de garantir que os resultados de amplificação
+obtidos seriam correspondentes unicamente aos genes de interesse.
+A análise da integridade do mRNA foi realizada utilizando a tecnologia
+Bioanalyzer. Os resultados demonstraram que nenhuma das amostras degradaram
+ao longo do processo de extração do mRNA, como pode ser observado pelas
+bandas bem definidas correspondentes às amostras (Figura 11).
+
+Figura 11: representação dos resultados obtidos utilizando a técnica Bioanalyzer, demonstrando a
+integridade do mRNA extraído do pellet de células. As setas em vermelho indicam as bandas
+correspondentes às amostras (a) tratadas com Amblyomin-X 50µM durante 12 horas e (b) durante 24
+horas.
+
+A pureza das amostras também foi avaliada a partir das razões 260/280nm e
+260/230nm obtidas através do espectrofotômetro NanoDrop, como descrito na seção
+Materiais e Métodos. O fabricante indica que amostras com alto índice de pureza
+devem apresentar valores entre 1,8 e 2,0. Sendo assim, o mRNA extraído das
+amostras não apresentaram contaminantes proteicos ou compostos fenólicos
+
+	  
+
+42	  
+
+derivados do processo de extração do mRNA, uma vez que os valores estão
+próximos daqueles indicados como adequados (Tabela 3).
+
+Tabela 3: representação dos valores de absorbância obtidos através do espectrofotômetro NanoDrop,
+indicando o alto nível de pureza das amostras uma vez que os resultados estão próximos ou iguais
+aos valores considerados ideais. Segundo recomendação do fabricante os valores das razões
+260/280nm e 260/230nm devem estar entre 1,8 e 2,0.
+
+Por último, obteve-se a quantificação do mRNA extraído de cada uma das
+amostras através do ensaio de fluorescência por Ribogreen, o qual é um método
+quantitativo
+
+de
+
+ácidos
+
+nucleicos
+
+de
+
+maior
+
+sensibilidade
+
+em
+
+relação
+
+ao
+
+espectrofotômetro NanoDrop. A partir dos resultados obtidos (Tabela 4), determinouse a quantidade de mRNA necessária para síntese do cDNA de cada uma das
+amostras (cálculos não apresentados).
+
+	  
+
+43	  
+
+Tabela 4: representação dos valores de quantificação do mRNA de cada uma das amostras obtidos
+por NanoDrop, bem como os valores quantitativos obtidos pelo ensaio de fluorescência por
+Ribogreen. Os valores da concentração final de mRNA de cada amostra e que foram utilizados para
+realização dos cálculos da síntese de cDNA estão indicados em verde.
+
+Tendo em vista que as amostras apresentavam alta qualidade e obteve-se
+quantidade suficiente para a síntese de cDNA para todas as amostras, realizou-se o
+experimento para avaliar a expressão dos genes selecionados em dois tempos
+distintos de tratamento, sendo 12 e 24h.
+Os resultados demonstraram que o tratamento de macrófagos com
+Amblyomin-X induziu maior modulação da expressão de maior número de genes em
+relação às células THP-1 tratadas nas mesmas condições, o que indica que
+macrófagos são mais responsivos ao tratamento quando comparados a monócitos
+(Figura 12). Além disso, também é possível observar que a expressão de alguns
+genes é alterada quando se compara os dois tempos de tratamento, sendo que o
+
+	  
+
+44	  
+
+tratamento com Amblyomin-X por 24h induziu maior modulação da expressão gênica
+em ambos os tipos celulares, quando comparados com o tratamento de 12h (Figura
+13).
+
+a
+Fold	  change	  relative	  to	  control	  
+12h	  (normalized	  to	  RPL37A)	  
+
+THP-­‐1	  Amblyomin-­‐X	  	  12h	  
+100	  
+
+10	  
+
+1	  
+
+0,1	  
+
+b
+
+Macrófago	  -­‐	  Amblyomin-­‐X	  	  12h	  
+Fold	  change	  rela-ve	  to	  control	  12h	  
+(normalized	  to	  RPL37A)	  
+
+1000	  
+
+100	  
+
+10	  
+
+1	  
+
+0,1	  
+
+0,01	  
+
+Figura 12: Representação gráfica da modulação da expressão gênica pelo tratamento com
+Amblyomin-X por 12h. As barras correspondem à variação da expressão gênica em comparação com
+o controle (não apresentado), em logaritmo.
+
+	  
+
+45	  
+
+a
+THP-1 - Amblyomin-X 24h
+
+Fold change relative to control 24h
+(normalized to RPL37A)
+
+10000,00
+1000,00
+100,00
+10,00
+1,00
+0,10
+0,01
+
+b
+Macrófago - Amblyomin-X 24h
+Fold change relative to control 24h
+(normalized to RPL37A)
+
+1000
+
+100
+
+10
+
+1
+
+0,1
+
+Figura 13: Representação gráfica da modulação da expressão gênica pelo tratamento com
+Amblyomin-X por 24h. As barras correspondem à variação da expressão gênica em comparação com
+o controle (não apresentado), em logaritmo.
+
+A fim de dar continuidade na avaliação da modulação da ativação celular
+induzida pelo Amblyomin-X, analisou-se a liberação de citocinas após o tratamento,
+presentes nos sobrenadantes coletados das amostras utilizadas para realização da
+qRT-PCR. Os resultados demonstraram que dos 24 analitos avaliados durante o
+experimento, somente 15 destas citocinas foram moduladas. As demais citocinas
+
+	  
+
+46	  
+
+não apresentaram nenhuma modulação da liberação induzida pelo tratamento, as
+quais estão listadas na tabela abaixo (Tabela 5).
+Citocinas	  não	  moduladas	  
+por	  Amblyomin-­‐X	  
+(50µM)	  
+
+IL17	  
+CD40L	  
+TGF-­‐alfa	  
+IFN-­‐gama	  
+
+EGF	  
+MCP-­‐3	  
+IL4	  
+TNF-­‐ß	  
+
+Citocinas	  moduladas	  por	  Amblyomin-­‐
+X	  (50µM)	  
+TNF-­‐alfa	  
+IL-­‐1B	  
+IL-­‐8	  
+IL-­‐6	  
+G-­‐CSF	  
+
+GM-­‐CSF	  
+FGF-­‐2	  
+IFN-­‐alfa2	  
+IL-­‐10	  
+IL-­‐12p70	  
+
+IL-­‐1alfa	  
+IP-­‐10	  
+MCP-­‐1	  
+MIP-­‐1alfa	  
+MIP-­‐1ß	  
+
+Tabela 5: lista das citocinas moduladas ou não pelo tratamento com Amblyomin-X (50µM)
+
+Ao analisar os resultados obtidos somente das citocinas que apresentaram
+alguma modulação no perfil de liberação induzida por uma das condições de
+tratamento, notou-se que tanto as células THP-1, quanto os macrófagos
+aumentaram a liberação de algumas quimiocinas, como MCP-1, IP-10 e MIP-1ß,
+independentemente do período de tratamento. Também observa-se aumento na
+liberação de citocinas pró-inflamatórias, como TNF-alfa e IL-8, em ambos os tipos
+celulares estimuladas pelos tratamentos de 12 e 24h. No entanto, nota-se que
+macrófagos aumentam a liberação de maior número de citocinas pró-inflamatórias,
+como IL-1ß e IL6; além de alguma citocinas estimuladoras da diferenciação celular,
+como G-CSF e GM-CSF, quando comparado com células THP-1, o que indica que
+macrófagos podem ser mais responsivos ao tratamento com Amblyomin-X,
+independentemente do tempo de tratamento (Figura 14).
+
+	  
+
+47	  
+
+Figura 14: representação gráfica da modulação do perfil de liberação de citocinas frente ao
+tratamento com Amblyomin-X (50µM) durante 12 e 24h em células THP-1 e macrófagos. O gráfico
+representa a média ± SD de três experimentos independentes. Significância por ANOVA de duas
+vias, seguido pelo pós teste de múltipla comparação de Tukey-Kramer. * p<0,05 (5%), **p<0.01, ***
+p<0.001, ****p<0.0001.
+
+Em conjunto, os resultados demonstram que tratamento com Amblyomin-X
+(50µM) por 24 horas induziu a ativação e translocação nuclear do fator de
+transcrição STAT3 e da proteína P38 em monócitos. Sabe-se que a P38 está
+
+	  
+
+48	  
+
+relacionadas com diversas funções celulares, dentre elas diferenciação celular,
+proliferação, angiogênese, migração e produção de citocinas pró-inflamatórias.
+Alguns estudos demonstram que a diferenciação de monócitos em macrófagos, bem
+como a migração e recrutamento de tais células é dependente da ativação de P38
+(Ayala et al., 2000). Além disso, a P38 tem importante papel na regulação pós
+transcricional de algumas citocinas, como TNF-alfa, IL8 e IL-6 (Cuenda	  and	  Rousseau,	  
+2007), e está relacionada com a síntese de interferons através da ativação do fator
+de transcrição STAT1 (Goh et al., 1999). Sendo assim, a maior ativação da P38
+frente ao tratamento com Amblyomin-X pode estar relacionado com a indução do
+perfil pró-inflamatório de monócitos, visto que houve aumento na expressão de
+STAT1 e das citocinas pró-inflamatórias TNF-alfa, IL6 e IL8, o que também resultou
+na maior liberação de tais citocinas no sobrenadante, principalmente IL8 e TNFalfa.
+Sabe-se também que o fator de transcrição STAT3 pode ser ativado por
+diversos fatores de crescimento e por citocinas pró-inflamatórias, como IL6,
+oncostatina-M e IL11(Hillmer et al., 2016). Alguns estudos comprovam que
+
+a
+
+migração e infiltração de monócitos e macrófagos está relacionada com a ativação
+de STAT3 induzida por IL-6, o que resulta na maior síntese de algumas
+quimioncinas, como MCP-1, MIP-1alfa e RANTES, que estão relacionadas no
+processo de recrutamento e quimioatração de células da imunidade inata (Zhang et
+al., 2013). O tratamento com Amblyomin-X induziu maior expressão de quimiocinas
+como MCP-1 e MIP-1alfa, em monócitos, o que pode estar relacionado com a
+ativação da via IL6/STAT3, uma vez que algumas citocinas que ativam a via do
+STAT3, como oncostatina e IL6 também estão mais expressas em monócitos
+tratados com Amblyomin-X .
+Em contrapartida, o tratamento com Amblyomin-X(50µM) em macrófagos não
+levou a ativação da proteína P38, nem do fator de transcrição STAT3, apesar de
+apresentar elevada liberação de citocinas pró-inflamatórias. No entanto, nota-se que
+houve aumento da expressão do fator de transcrição STAT1 e da proteína SOCS3.
+Alguns estudos demonstraram que SOCS3 é capaz de inibir a ativação de STAT3, e
+induzir a ativação de STAT1, o que leva a polarização do perfil M1 de macrófagos, o
+qual é caracterizado por desempenhar um papel pró-inflamatório e desempenhar
+efeito positivo de morte de células tumorais, através de diversos mecanismos, entre
+eles a liberação de diversas citocinas inflamatórias, como IL-1ß, IL6 e IL8 (Wilson,
+2014).
+
+	  
+
+49	  
+
+Além disso, os macrófagos tratados com Amblyomin-X apresentaram
+aumento de expressão do receptor TREM1, o qual é expresso principalmente em
+monócitos e macrófagos CD14+, e que tem importante função na amplificação da
+resposta inflamatória e desenvolvimento do perfil pró-inflamatórios em macrófagos,
+induzindo a síntese e liberação de diversas citocinas inflamatórias, como TNF-alfa,
+IL6 e IL-1ß, bem como de quimiocinas como MIP-1alfa, MIP-2 e GM-CSF, através
+da via de sinalização PI3K/AKT (Dower et al., 2008).
+O tratamento com Amblyomin-X também modulou a expressão de algumas
+proteínas, como aumento da expressão de IRF9 e redução de IRF3. Estudos
+demonstraram que IRF9 está relacionado com a ativação do fator de transcrição
+STAT1 e indução da liberação de algumas quimiocinas, como IP-10, a qual
+desempenha a função de quimioatração de células produtoras de interferon-gama,
+como Linfócitos T CD8 citotóxicos.
+
+Apesar de IRF3 estar relacionado com o
+
+desenvolvimento do perfil M2 de macrófagos, o estímulo de tais células com GMCSF leva a redução da expressão de IRF3 e aumento de Myd88, o que colabora
+com a polarização do perfil M1 de macrófagos (Günthner and Anders, 2013).
+Colaborando com a polarização para perfil M1 dos macrófagos, o tratamento
+com Amblyomin-X induziu o aumento da expressão de alguns receptores de
+membrana em macrófagos do tipo 1, como CD40 (Vogel et al., 2014), CD80 e
+CD86, sendo o último em menor amplitude. Tanto CD80, quanto CD86 são
+receptores co-estimulatórios no processo de sinapse imunológica, que leva a
+ativação de outras células do sistema imune inato e adquirido. Também são
+importantes no processo inflamatório, sendo o CD80 o que exerce papel mais
+relevante na regulação da inflamação em alguns casos específicos, como sepse.
+Dessa forma, CD80 é mais expresso em células inflamatórias ativadas do que CD86
+(Nolan et al., 2009).
+5) Conclusão
+Pode-se concluir que o Amblyomin-X induz a polarização de macrófagos para
+o perfil M1, bem como ativa monócitos para expressão de moléculas próinflamatórias importantes para o processo de diferenciação, ativação e recrutamento
+de células para o ambiente da inflamação. Sabe-se que macrófagos com perfil M1
+desempenha importante função no desenvolvimento de mecanismos anti-tumorais,
+como aumento do recrutamento de linfócitos e células NK para o tumor, que auxiliam
+
+	  
+
+50	  
+
+no processo de morte de células tumorais, bem como células do sistema imune para
+melhor apresentação de antígenos tumorais. O conjunto de dados apresentados
+nesse estudo abre a perspectiva para investigações com o objetivo de avaliar a
+capacidade de macrófagos tratados com Amblyomin-X ativar outras células do
+sistema imune e gerar respostas contra tumores susceptíveis a resposta imune.
+6) Referências Bibliográficas
+1) HANAHAN, Douglas; WEINBERG, Robert A. Hallmarks of Cancer: The Next
+Generation. Cell, v. 144, n. 5, p. 646–674, 2011.
+2) KITAMURA, Takanori; QIAN, Bin-Zhi; POLLARD, Jeffrey W. Immune cell
+promotion of metastasis. Nature Reviews Immunology, v. 15, n. 2, p. 73–86,
+2015.
+3) DE VISSER, Karin E.; EICHTEN, Alexandra; COUSSENS, Lisa M.
+Paradoxical roles of the immune system during cancer development. Nature
+Reviews Cancer, v. 6, n. 1, p. 24–37, 2006.
+4) GRIVENNIKOV, Sergei I.; GRETEN, Florian R.; KARIN, Michael. Immunity,
+Inflammation, and Cancer. Cell, v. 140, n. 6, p. 883–899, 2010.
+5) SHIAO, Stephen L. et al. Immune microenvironments in solid tumors: new
+targets for therapy. Genes & Development, v. 25, n. 24, p. 2559–2572, 2011.
+6) GAJEWSKI, Thomas F; SCHREIBER, Hans; FU, Yang-Xin. Innate and
+adaptive immune cells in the tumor microenvironment. Nature Immunology,
+v. 14, n. 10, p. 1014–1022, 2013.
+7) SMYTH, Mark J.; DUNN, Gavin P.; SCHREIBER, Robert D. Cancer
+immunosurveillance and immunoediting: the roles of immunity in suppressing
+tumor development and shaping tumor immunogenicity. Advances in
+Immunology, v. 90, p. 1–50, 2006.
+8) VESELY, Matthew D. et al. Natural Innate and Adaptive Immunity to Cancer.
+Annual Review of Immunology, v. 29, n. 1, p. 235–271, 2011.
+9) NOY, Roy; POLLARD, Jeffrey W. Tumor-Associated Macrophages: From
+Mechanisms to Therapy. Immunity, v. 41, n. 1, p. 49–61, 2014.
+10) TRAN JANCO, Jo Marie et al. Tumor-Infiltrating Dendritic Cells in Cancer
+Pathogenesis. The Journal of Immunology, v. 194, n. 7, p. 2985–2991,
+2015.
+
+	  
+
+51	  
+
+11) QIAN, Bin-Zhi; POLLARD, Jeffrey W. Macrophage Diversity Enhances Tumor
+Progression and Metastasis. Cell, v. 141, n. 1, p. 39–51, 2010.
+12) ADEEGBE, Dennis O.; NISHIKAWA, Hiroyoshi. Natural and Induced T
+Regulatory Cells in Cancer. Frontiers in Immunology, v. 4, 2013.
+13) GIL-BERNABE, A. M. et al. Recruitment of monocytes/macrophages by
+tissue factor-mediated coagulation is essential for metastatic cell survival and
+premetastatic niche establishment in mice. Blood, v. 119, n. 13, p. 3164–
+3175, 2012.
+14) LIMA, Luize G.; MONTEIRO, Robson Q. Activation of blood coagulation in
+cancer: implications for tumour progression. Bioscience Reports, v. 33, n. 5,
+p. 701–710, 2013.
+15) MA, Ying-Yu et al. Interaction of coagulation factors and tumor-associated
+macrophages mediates migration and invasion of gastric cancer. Cancer
+Science, v. 102, n. 2, p. 336–342, 2011.
+16) WANG, J.G. et al. Tumor-derived tissue factor activates coagulation and
+enhances thrombosis in a mouse xenograft model of human pancreatic
+cancer. Blood, v. 119, n. 23, p. 5543–5552, 2012.
+17) ZALPOUR, Ali et al. Role of Factor Xa Inhibitors in Cancer-Associated
+Thrombosis: Any New Data? Advances in Hematology, v. 2011, p. 1–12,
+2011.
+18) BATISTA, I.F.C. et al. A new Factor Xa inhibitor from Amblyomma cajennense
+with a unique domain composition. Archives of Biochemistry and
+Biophysics, v. 493, n. 2, p. 151–156, 2010.
+19) VENTURA, Janaína Souza et al. A Kunitz-type FXa inhibitor affects tumor
+progression, hypercoagulable state and triggers apoptosis. Biomedicine &
+Pharmacotherapy, v. 67, n. 3, p. 192–196, 2013.
+20) CHUDZINSKI-TAVASSI, Ana Marisa et al. A new tick Kunitz type inhibitor,
+Amblyomin-X, induces tumor cell death by modulating genes related to the cell
+cycle and targeting the ubiquitin-proteasome system. Toxicon, v. 56, n. 7,
+p. 1145–1154, 2010.
+21) MARIA, Durvanei Augusto et al. A novel proteasome inhibitor acting in
+mitochondrial dysfunction, ER stress and ROS production. Investigational
+New Drugs, v. 31, n. 3, p. 493–505, 2013.
+
+	  
+
+52	  
+
+22) BRANCO, Vania G. et al. Amblyomin-X having a Kunitz-type homologous
+domain, is a noncompetitive inhibitor of FXa and induces anticoagulation in
+vitro and in vivo. Biochimica et Biophysica Acta (BBA) - Proteins and
+Proteomics, v. 1864, n. 10, p. 1428–1435, 2016.
+23) TSUCHIYA, Shigeru et al. Establishment and characterization of a human
+acute monocytic leukemia cell line (THP-1). International Journal of Cancer,
+v. 26, n. 2, p. 171–176, 1980.
+24) QIN, Zhenyu. The use of THP-1 cells as a model for mimicking the function
+and regulation of monocytes and macrophages in the vasculature.
+Atherosclerosis, v. 221, n. 1, p. 2–11, 2012.
+25) FORRESTER, Megan A. et al. Similarities and differences in surface receptor
+expression by THP-1 monocytes and differentiated macrophages polarized
+using seven different conditioning regimens. Cellular Immunology, v. 332,
+p. 58–76, 2018.
+26) DAIGNEAULT, Marc et al. The Identification of Markers of Macrophage
+Differentiation in PMA-Stimulated THP-1 Cells and Monocyte-Derived
+Macrophages. PLoS ONE, v. 5, n. 1, p. e8668, 2010.
+27) PARK, K. A. et al. Sustained activation of protein kinase C downregulates
+nuclear factor- B signaling by dissociation of IKK- and Hsp90 complex in
+human colonic epithelial cells. Carcinogenesis, v. 28, n. 1, p. 71–80, 2007.
+28) SCHWENDE, Heike et al. Differences in the state of differentiation of THP-1
+cells induced by phorbol ester and 1,25-dihydroxyvitamin D 3. Journal of
+Leukocyte Biology, v. 59, n. 4, p. 555–561, 1996.
+29) TRAORE, Kassim et al. Signal transduction of phorbol 12-myristate 13-acetate
+(PMA)-induced growth inhibition of human monocytic leukemia THP-1 cells is
+reactive oxygen dependent. Leukemia Research, v. 29, n. 8, p. 863–879,
+2005.
+30) ZANELLA, Fabian; LORENS, James B.; LINK, Wolfgang. High content
+screening: seeing is believing. Trends in Biotechnology, v. 28, n. 5, p. 237–
+245, 2010.
+31) HAN, Yuanyuan et al. Review: imaging technologies for flow cytometry. Lab
+on a Chip, v. 16, n. 24, p. 4639–4647, 2016.
+
+	  
+
+53	  
+
+32) BARTENEVA, Natasha S.; FASLER-KAN, Elizaveta; VOROBJEV, Ivan A.
+Imaging Flow Cytometry: Coping with Heterogeneity in Biological Systems.
+Journal of Histochemistry & Cytochemistry, v. 60, n. 10, p. 723–733, 2012.
+33) CHOWDHURY, Ferdousi; WILLIAMS, Anthony; JOHNSON, Peter. Validation
+and comparison of two multiplex technologies, Luminex® and Mesoscale
+Discovery, for human cytokine profiling. Journal of Immunological Methods,
+v. 340, n. 1, p. 55–64, 2009.
+34) JONES, Laurie J. et al. RNA Quantitation by Fluorescence-Based Solution
+Assay: RiboGreen Reagent Characterization. Analytical Biochemistry,
+v. 265, n. 2, p. 368–374, 1998.
+35) Untergasser A, Cutcutache I, Koressaar T, Ye J, Faircloth BC, Remm M,
+Rozen SG (2012) Primer3 - new capabilities and interfaces. Nucleic Acids
+Research 40(15):e115
+Koressaar T, Remm M (2007) Enhancements and modifications of primer
+design program Primer3 Bioinformatics 23(10):1289-91
+36) PFAFFL, M. W. A new mathematical model for relative quantification in realtime RT-PCR. Nucleic Acids Research, v. 29, n. 9, p. e45, 2001.
+37) MAESS, Marten B.; SENDELBACH, Stefanie; LORKOWSKI, Stefan. Selection
+of reliable reference genes during THP-1 monocyte differentiation into
+macrophages. BMC molecular biology, v. 11, p. 90, 2010.
+38) LUND, Maria E. et al. The choice of phorbol 12-myristate 13-acetate
+differentiation protocol influences the response of THP-1 macrophages to a
+pro-inflammatory stimulus. Journal of Immunological Methods, v. 430,
+p. 64–70, 2016.
+39) STARR, Tregei et al. The phorbol 12-myristate-13-acetate differentiation
+protocol is critical to the interaction of THP-1 macrophages with Salmonella
+Typhimurium. PloS One, v. 13, n. 3, p. e0193601, 2018.
+40) YU,
+
+Xiao
+
+et
+
+al.
+
+A
+
+novel
+
+miR-200b-3p/p38IP
+
+pair
+
+regulates
+
+monocyte/macrophage differentiation. Cell Discovery, v. 2, n. 1, 2016.
+Disponível em: <http://www.nature.com/articles/celldisc201543>. Acesso em:
+24 out. 2018.
+41) ALDO, Paulomi B. et al. Effect of Culture Conditions on the Phenotype of
+THP-1
+
+Monocyte
+
+Cell
+
+Line.
+
+American
+
+Immunology, v. 70, n. 1, p. 80–86, 2013.
+
+Journal
+
+of
+
+Reproductive
+
+	  
+
+54	  
+
+42) CUENDA, Ana; ROUSSEAU, Simon. p38 MAP-Kinases pathway regulation,
+function and role in human diseases. Biochimica et Biophysica Acta (BBA)
+- Molecular Cell Research, v. 1773, n. 8, p. 1358–1375, 2007.
+43) AYALA, J. M. et al. Serum-induced monocyte differentiation and monocyte
+chemotaxis are regulated by the p38 MAP kinase signal transduction pathway.
+Journal of Leukocyte Biology, v. 67, n. 6, p. 869–875, 2000.
+44) GOH, K. C.; HAQUE, S. J.; WILLIAMS, B. R. p38 MAP kinase is required for
+STAT1 serine phosphorylation and transcriptional activation induced by
+interferons. The EMBO journal, v. 18, n. 20, p. 5601–5608, 1999.
+45) HILLMER, Emily J. et al. STAT3 signaling in immunity. Cytokine & Growth
+Factor Reviews, v. 31, p. 1–15, 2016.
+46) ZHANG, Congcong et al. Interleukin-6/Signal Transducer and Activator of
+Transcription 3 (STAT3) Pathway Is Essential for Macrophage Infiltration and
+Myoblast Proliferation during Muscle Regeneration. Journal of Biological
+Chemistry, v. 288, n. 3, p. 1489–1499, 2013.
+47) WILSON, Heather M. SOCS Proteins in Macrophage Polarization and
+Function. Frontiers in Immunology, v. 5, p. 357, 2014.
+48) DOWER, K. et al. Innate Immune Responses to TREM-1 Activation: Overlap,
+Divergence,
+
+and
+
+Positive
+
+and
+
+Negative
+
+Cross-Talk
+
+with
+
+Bacterial
+
+Lipopolysaccharide. The Journal of Immunology, v. 180, n. 5, p. 3520–3534,
+2008.
+49) GÜNTHNER, Roman; ANDERS, Hans-Joachim. Interferon-Regulatory Factors
+Determine Macrophage Phenotype Polarization. Mediators of Inflammation,
+v. 2013, p. 1–8, 2013.
+50) VOGEL, Daphne Y.S. et al. Human macrophage polarization in vitro:
+Maturation and activation methods compared. Immunobiology, v. 219, n. 9,
+p. 695–703, 2014.
+51) NOLAN, Anna et al. Differential Role for CD80 and CD86 in the Regulation of
+the Innate Immune Response in Murine Polymicrobial Sepsis. PLoS ONE,
+v. 4, n. 8, p. e6600, 2009.
+
+	  
+
+55	  
+
+

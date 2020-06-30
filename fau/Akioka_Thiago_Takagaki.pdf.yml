@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no  
+dedictria: no
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: no
+ini: Introdução
+secoes:
+ - O processo criativo em obras de ficção
+ - Metodologia de projeto no processo criativo
+ - Ilusão, originalidade e o funcionamento da ficção
+ - Mangá e o processo criativo
+ - Desenvolvimento do trabalho autoral
+end: Conclusão
+ref: Bibliografia

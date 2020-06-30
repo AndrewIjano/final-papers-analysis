@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no
+dedictria: yes
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: no 
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 8
+n_ssb_sec: 2
+n_sss_sec: 0
+tem_anexo: no
+ini: INTRODUÇÃO
+secoes:
+ - CONCORRÊNCIA E REGULAÇÃO
+ - DAS TEORIAS CONCILIADORAS ENTRE A SUPREMACIA DO DIREITO REGULATÓRIO E O DIREITO ANTITRUSTE
+ - MERCADOS DE ENERGIA ELÉTRICA
+ - BRASIL UM SETOR EM TRANSIÇÃO
+ - CONCORRÊNCIA E REGULAÇÃO A PARTIR DA LEI 9427/96
+end: CONCLUSÃO
+ref: BIBLIOGRAFIA

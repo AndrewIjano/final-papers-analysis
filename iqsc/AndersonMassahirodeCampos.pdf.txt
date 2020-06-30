@@ -1,0 +1,1891 @@
+Universidade de São Paulo
+Instituto de Química de São Carlos
+
+Utilização de sensores eletroquímicos à base de sílica mesoporosa
+contendo grafeno para a análise de bisfenol A
+
+São Carlos - SP
+2015
+
+Anderson Massahiro de Campos
+
+Utilização de sensores eletroquímicos à base de sílica
+mesoporosa contendo grafeno para a análise de bisfenol a
+
+Monografia apresentada ao Curso de
+Bacharelado em Química do Instituto
+de
+
+Química
+
+de
+
+São
+
+Carlos
+
+da
+
+Universidade de São Paulo, como
+requisito básico para a obtenção do
+grau de bacharel em Química sob
+orientação do Professor Doutor Sergio
+Antonio Spinola Machado.
+
+SÃO CARLOS/SP
+2015
+
+AGRADECIMENTOS
+Agradeço inicialmente a Deus por permitir que superasse todas as adversidades,
+sendo possível até romper as barreiras das leis da termodinâmica ao produzir mais
+trabalho do que energia que me foram fornecidas, todos os dias, sempre seguindo em
+frente, lutando e nunca desistindo.
+Agradeço aos meus pais e irmã pela paciência (principalmente pela paciência) e
+por me ensinarem a ser quem eu sou, sempre me apoiando em todas minhas decisões,
+me ensinando a ser forte, honesto e justo.
+Agradeço à Taisla quem sempre esteve junto comigo nesta etapa da vida e estará
+nas posteriores, sempre com muita paciência (haja paciência), me ajudando e sempre
+servindo de exemplo em todos os aspectos possíveis.
+Agradeço a todos os meus amigos de faculdade (Tarcício, Eduardo, Lucas, Gabriel,
+Paulo, Ricardo, Quaresma), pelo convívio diário (ou quase), o que tornou toda essa
+jornada mais divertida e inesquecível, além da ajuda desde as primeiras matérias até o
+presente trabalho (obrigado Baiano!).
+Agradeço ao Professor Sérgio A. S. Machado, pela orientação e amizade,
+oferecidas nesses quase três anos e pela confiança em meu trabalho.
+Agradeço a todos os membros do grupo GMEME, pela paciência e pela contribuição
+efetiva para este trabalho, além dos momentos de descontração.
+Agradeço ao Thiago C. Canevari e ao Fernando H. Cincotto pelo auxílio inicial na
+iniciação científica sem os quais este projeto não teria sido viabilizado e pelo
+reconhecimento no trabalho publicado.
+Agradeço ao Paulo Raymundo por toda a ajuda desde o começo e agora nesta
+etapa final, pela paciência, pela orientação e pela sua confiança, sem as quais não teria
+sido possível terminar esta etapa.
+Agradeço ao Thiago Prado por toda a ajuda, por todas as conversas pela
+convivência diária.
+Agradeço ao João, que sempre está disposto a me ensinar o que sabe e sempre a
+resolver os problemas no laboratório.
+Agradeço ao IQSC pela infra-estrutura e pela formação profissional excelentes e
+aos funcionários que aqui trabalham e fazem com que o nosso trabalho aconteça.
+Agradeço à FAPESP (Porcesso 2014/05197-0) pela bolsa concedida.
+
+“O
+
+medíocre
+
+caracterizado
+
+é
+pelo
+
+ressentimento direcionado
+às realizações dos outros”.
+(Ayn Rand)
+
+RESUMO
+
+Neste trabalho foi desenvolvido um sensor eletroquímico, constituído por um
+nanocompósito a base de grafeno oxidado (GO), nanopartículas metálicas de prata
+(AgNP) e sílica mesoporosa desordenada (SMD). Este sensor foi utilizado na
+determinação de bisfenol-A em amostras de água de abastecimento e águas de riachos
+da região de São Luiz do Paraitinga. Inicialmente a síntese direta (in situ) de
+nanopartículas de prata (AgNP) na sílica mesoporosa desordenada (SMD) contendo
+grafeno oxidado (GO) foi realizada utilizando N,N-dimetilformamida (DMF) como agente
+redutor, por meio dos procedimentos descritos na literatura. A seguir, o nanocompósito
+obtido foi caracterizado por microscopia eletrônica de transmissão de alta resolução (HRTEM) e microscopia eletrônica de varredura (SEM), para se determinar tamanho e
+distribuição de nanopartículas de prata e de folhas de grafeno, espectroscopia de
+fotoelétrons excitados por raios X (XPS) e técnicas eletroquímicas como voltametria
+cíclica, espectroscopia de impedância eletroquímica e voltametria de pulso diferencial. As
+AgNPs apresentaram formação e distribuição homogênea com tamanho médio de
+partícula de 20 nm no material híbrido. Os eletrodos modificados com SMD-GO-AgNP
+foram caracterizados eletroquimicamente em solução aquosa contendo 0,1 mol L-1 de
+tampão fosfato (NaH2PO4/Na2HPO4), pH 7.0, e em solução contendo 5,0 mmol da sonda
+redox ferrocianeto/ferricianeto de potássio e 0,1 mol L-1 de cloreto de potássio utilizandose a técnica de voltametria cíclica e espectroscopia de impedância eletroquímica,
+respectivamente. O sensor foi avaliado e otimizado com relação à determinação de
+bisfenol-A utilizando-se a técnica de voltametria de pulso diferencial. As características
+do desempenho eletroanalítico foram: faixa linear entre 1,0 x 10-7 e 2,8 x 10-6 mol L-1,
+limite de detecção de 4,6 x 10
+
+-9
+
+mol L-1 com sensitividade de 1.27 x 10-7 A mol-1 L. O
+
+sensor proposto foi utilizado na análise de amostra de água de torneira contendo Bisfenol
+A e o erro obtido para o método proposto foi de 4%. Finalmente, o sensor proposto foi
+comparado estatisticamente com o método padrão para determinação de Bisfenol A em
+amostra da micro-bacia da região da cidade de São Luiz do Paraitinga.
+Palavras Chaves: Sílica Mesoporosa Desordenada (SMD), grafeno, nanopartículas de
+prata (AgNP), bisfenol A, disruptor endócrino, sensor eletroquímico.
+
+ABSTRACT
+The present study describes the synthesis of an electrochemical sensor using a graphene
+oxide (GO), silver nanoparticles (AgNP) and disordered mesoporous silica (SMD) based
+nanocomposite. The sensor was used in the determination of bisphenol A in water supply
+and river water samples, the later obtained from the region of São Luiz do Paraitinga - SP.
+Initially the silver nanoparticles were synthetized directly on the hybrid material consisted
+of disordered mesoporous silica and grapheme oxide, using N,N-dimethylformamide
+(DMF) as the reducing agent, as described in literature. Afterwards the nanocomposite
+was characterized by high resolution transmission electron microscopy (HR-TEM) and
+scanning electron microscopy (SEM) to determinate size and distribution of silver
+nanoparticles and grapheme sheets, scanning electron spectroscopy (XPS) and
+electrochemical techniques
+
+like cyclic voltammetry,
+
+electrochemical impedance
+
+spectroscopy and differential pulse voltammetry. The AgNPs presented a homogeneous
+formation and distribution with average size of 20 nm in the hybrid material. The modified
+electrodes with SMD-GO-AgNP were electrochemically characterized in a 0.1 mol L-1
+aqueous phosphate buffer solution (NaH2PO4/Na2HPO4), at pH 7,0, and with a redox
+probe in solution consisted of 5.0 mmol of ferrocyanide/ferricyanide redox couple in a 0.1
+mol L-1 potassium chloride solution using the cyclic voltammetry and electrochemical
+impedance spectroscopy respectively. The sensor was evaluated and optimized toward
+bisphenol A determination using the differential pulse voltammetry. The characteristics of
+the electroanalytical performance were: linear work range between 1.0 x 10
+2.8 x 10
+
+-6
+
+-7
+
+and
+
+mol L-1, limit of detection of 4.6 x 10-9 mol L-1 with sensitivity of 1.27 x 10-7 mol
+
+L-1. The proposed sensor was used in water supply samples containing bisphenol A
+resulting in 4% of error. Lastly, the sensor was statistically compared with a standard
+method of bisphenol A determination in an river water sample consisted of several rivers
+from the São Luiz do Paraitinga region.
+
+Keywords: Disordered mesoporous silica (SMD), graphene, silver nanoparticles
+(AgNP), bisphenol A, endocrine disruptor, electrochemical sensor.
+
+LISTAS DE ILUSTRAÇÕES
+
+Figura 1 - Estrutura bidimensional do grafeno (2D). ...........................................11
+Figura 2 - Modelo idealizado para a estrutura do grafeno oxidado.....................12
+Figura 3 - Esquematização do processo de transferência de elétrons (a) na
+presença de nanopartículas metálicas e (b) na ausência de
+nanopartículas metálicas................................................................13
+Figura 4 - Reação de formação do bisfenol A. ...................................................14
+Figura 5 – Regressão linear para a comparação de duas metodologias analíticas:
+(a) mostra perfeita concordância entre as duas metodologias para
+todas as amostras; (b)-(f) ilustra os resultados de vários tipos de
+erros sistemáticos. .........................................................................17
+Figura 6 - Representação esquemática de uma célula eletroquímica utilizada nas
+medidas voltamétricas: c.e. representa o contra eletrodo (conter
+electrode), w.e. representa o eletrodo de trabalho (working
+electrode) e r.e. repreenta o eletrodo de referência (reference
+electrode). ......................................................................................19
+Figura 7– Modelo de circuito equivalente utilizado para análise dos dados obtidos
+com os gráficos de plano complexo obtidos com a EIE. ................24
+Figura 8 - a-d Espectro do material SMD/GO/AgNPs: valores de energia de
+ligação de camadas eletrônicas internas para Ag3d, O1s, C1s e
+Si2p. ...............................................................................................25
+Figura 9 - (a) imagens do material SMD/GO/AgNPs, obtidas através da técnica
+de SEM e (b) o mapeamento correspondente a Ag, C e Si. ..........27
+Figura 10 - (a) micrografias das folhas de grafeno, (b) várias ampliações do
+material SMD/GO/AgNPs e (c) o EDX correspondente ao material
+híbrido SMD/GO/AgNPs.................................................................28
+Figura 11 - Voltamogramas obtidos para o carbono vítreo (GCE), SMD/GO/GCE
+e SMD/GO/AgNPs/GCE em PBS (pH = 7,0); velocidade de
+varredura: 20 mV s-1.......................................................................29
+Figura 12 – (A) Espectros de plano complexo obtidos para o eletrodo de carbono
+vítreo não-modificado (a) e modificado com SMD/GO (b) e
+SMD/GO/AgNP (c), em potencial de circuito aberto. Faixa de
+
+freqüência de 100 kHz a 0,1 Hz e onda senoidal de 10 mV. (B) Fitting.
+.......................................................................................................30
+Figura 13 – Voltamogramas de pulso diferencial obtidos em solução tampão
+fosfato 0,1 mol L-1 para o carbono vítreo puro e modificado com
+SMD/GO e SMD/GO/AgNP na presença de 2,0 x 10 -6 mol L-1.
+Voltamogramas com ajuste de linha de base. ................................33
+Figura 14 – Curvas analíticas obtidas para o eletrodo de carbono vítreo
+modificado com 4 (a), 8 (b) e 12 (c) µL, respectivamente, de
+suspensão SMD/GO/AgNP. ...........................................................34
+Figura 15 –Curvas de calibração para o BPA no carbono vítreo puro (a), no
+carbono vítreo modificado com SMD/GO (b) e SMD/GO/AgNPs. ..35
+Figura 16 - Voltamogramas de pulso diferencial obtidos para o eletrodo de
+carbono vítreo modificado com a matriz híbrida SMD/GO/AgNP com
+a variação da concentração de BPA de 0,1 a 2,3 µmol L-1. ............36
+Figura 17 – Curva analítica obtida para o eletrodo de carbono vítreo modificado
+com a matriz híbrida SMD/GO/AgNP variando-se a concentração de
+BPA em solução entre 0,1 e 28 µ mol L-1. Inserto: gráfico dos
+resíduos para o diagnóstico da regressão linear. ...........................37
+Figura 18 – Efeito da presença de 1,0 × 10−6 mol L−1 de hidroquinona, catecol,
+estriol e etinilestradiol no sinal eletroquímico obtido por 1,0 × 10 −6
+mol L−1 de BPA para o sensor CV/SMD/GO/AgNP. .......................38
+Figura 19 - Regressão linear obtida pela correlação entre as duas técnicas .....40
+
+SUMÁRIO
+
+1. INTRODUÇÃO ....................................................................................10
+1.1
+
+Sílica mesoporosa desordenada (SMD) .......................................10
+
+1.2
+
+Grafeno Oxidado (GO) .................................................................11
+
+1.3
+
+Nanopartículas metálicas .............................................................12
+
+1.4
+
+Interferentes endócrinos ...............................................................13
+
+1.5
+
+Validação utilizada para comparação ...........................................15
+
+2. OBJETIVOS ........................................................................................18
+3. SEÇÃO EXPERIMENTAL ...................................................................18
+3.1
+
+Instrumentação básica .................................................................18
+
+3.2
+
+Medidas voltamétricas ..................................................................18
+
+3.3
+
+Medidas de espectroscopia de impedância eletroquímica ...........20
+
+3.4
+
+Microscopia Eletrônica de Varredura por Emissão de Campo
+(FEG-SEM) .........................................................................................20
+
+3.5
+
+Microscopia Eletrônica de Transmissão com Alta Resolução (HRTEM)...................................................................................................20
+
+3.6
+
+Espectroscopia de Fotoelétrons Excitados por Raios-X (XPS) ....20
+
+3.7
+
+Análise por GC-FID ......................................................................21
+
+3.8
+
+Preparo de amostra ......................................................................21
+
+3.9
+
+Reagentes e soluções ..................................................................21
+
+4
+
+MATERIAIS E MÉTODOS ..................................................................22
+
+4.1
+
+Síntese do grafeno oxidado (GO) .................................................22
+
+4.2
+
+Síntese da matriz híbrida de sílica mesoporosa contendo grafeno
+SMD/GO .............................................................................................22
+
+4.3
+
+Síntese direta de nanopartículas metálicas de prata AgNP ..........23
+
+4.4
+
+Caracterização morfológica e estrutural........................................23
+
+4.5
+
+Preparação do sensor ...................................................................23
+
+4.6
+5
+
+Caracterização Eletroquímica e Performance Eletroanalítica .......24
+RESULTADOS & DISCUSSÃO ..........................................................25
+
+5.1
+
+Espectroscopia de fotoelétrons excitados por raios X (XPS). ......25
+
+5.2
+
+Microscopia eletrônica de varredura por emissão de campo
+(FEG- SEM) ........................................................................................26
+
+5.3
+
+Microscopia eletrônica de transmissão com alta resolução (HRTEM)...................................................................................................28
+
+5.4
+
+Caracterização eletroquímica .......................................................29
+
+5.5
+
+Impedância Eletroquímica .............................................................30
+
+5.6
+
+Performance Eletroanalítica ..........................................................32
+
+5.7
+
+Análise em amostras reais .............................................................39
+
+5.8
+
+Comparação estatística .................................................................39
+
+6
+
+CONCLUSÃO .....................................................................................41
+
+7
+
+REFERÊNCIAS BIBLIOGRÁFICAS ....................................................42
+
+10
+
+1. INTRODUÇÃO
+
+Eletroanalítica é a definição utilizada para caracterizar o uso das técnicas
+eletroquímicas como voltametria cíclica, pulso diferencial, onda quadrada, associadas
+a parâmetros analíticos como limite de detecção, limite de quantificação, sensibilidade
+e seletividade. Estas técnicas têm seu enfoque na interação entre transferência de
+elétrons e reações químicas, ou seja, entre as medidas elétricas como corrente,
+potencial ou carga, com os parâmetros químicos.
+A pesquisa por novos materiais especiais, que tenham aplicações práticas em
+diversas áreas, principalmente em eletroanalítica, está cada vez mais intensa, em
+virtude de poucos materiais, em sua forma simples, apresentarem as características
+desejadas para serem utilizados no desenvolvimento de sensores eletroquímicos, tais
+como, alta taxa de transferência de elétrons, alta condutividade elétrica, alto poder
+catalítico e, consequentemente, altas seletividade e sensibilidade. Para contornar
+estes problemas, utiliza-se a combinação de mais de um componente para a formação
+de um novo material. Estes componentes estão intimamente associados, agregando
+suas características individuais neste único material, o qual é denominado material
+híbrido. Como apresentam em sua composição mais um material, os materiais
+híbridos possuem propriedades únicas e desempenho superior aos compostos
+quando utilizados isoladamente.1
+
+1.1 Sílica mesoporosa desordenada (SMD)
+
+Dentre as diversas possibilidades de materiais híbridos existentes, os materiais
+a base de sílica (SiO2) tem atraído grande interesse por parte dos pesquisadores, visto
+que apresentam diversificadas propriedades físicas interessantes, como elevadas
+área superficial, porosidade, resistência mecânica, estabilidades químicas e térmicas,
+além de fornecer uma superfície reativa onde possa haver a possibilidade de
+modificação, ancorando diversificados grupamentos de compostos orgânicos e
+inorgânicos, para detecção de diversos analítos.2
+Uma das principais características da sílica é sua elevada área superficial,
+devido a presença de alta porosidade, a sílica pode ser classificada de acordo com o
+tamanho e distribuição poros, sendo denominada, segundo a IUPAC
+
+11
+
+(International Union of Pure and Applied Chemistry), como microporosa, mesoporosa
+e macroporosa. As mesoporosas, (diâmetros dos seus poros de 2 a 50 nm),
+apresentam como vantagem a possibilidade de grande funcionalização da matriz.3; 4
+Apesar de oferecer diversas características favoráveis, a sílica apresenta grande
+resistividade elétrica, aspecto altamente indesejável para análises eletroquímicas,
+sendo necessária a incorporação de um material condutor, no caso grafeno, em sua
+matriz.5
+
+1.2 Grafeno Oxidado (GO)
+
+O grafeno é um dos alótropos do carbono, no qual o grafite, os nanotubos de
+carbono e os fulerenos fazem parte. Sendo assim, o grafeno é constituído por uma
+folha de grafite bidimensional com geometria trigonal planar, possui estrutura
+semelhante a um favo de mel, com uma rede de elétrons deslocalizada, a qual
+possibilita a condução eletrônica Figura 1.
+
+Figura 1 - Estrutura bidimensional do grafeno (2D).
+
+Fonte: Adaptado de LOH, K. P. et al. The chemistry of graphene. Journal of Materials
+Chemistry, v. 20, n. 12, p. 2277-2289, 2010.
+Devido sua estrutura planar, o grafeno apresenta diversas propriedades
+químicas e físicas, como excelente condutividade elétrica, elevada área superficial,
+elasticidade,
+
+band-gap
+
+semicondutoras),
+
+ajustável
+
+(apresentando
+
+biocompatibilidade,
+
+robustez
+
+propriedades
+e
+
+metálicas
+
+principalmente
+
+ou
+
+diversas
+
+possibilidades de modificação e funcionalização de sua estrutura, o que o torna muito
+atrativo para aplicações
+eletroquímicos.
+
+6
+
+na área de desenvolvimento de sensores e biossensores
+
+12
+
+O grafeno pode apresentar-se nas formas oxidada (grafeno oxidado, GO) e
+reduzida (grafeno reduzido, rGO), ambas com características físicas e químicas
+próprias. A forma oxidada (GO), apresenta estrutura em camadas similar à do grafite,
+porém com diversos grupos oxigenados ligados aos carbonos, os quais, além de
+expandir o espaço intercamadas, tornam-no hidrofílico.7 Esta forma do grafeno
+constitui um ótimo substrato para o desenvolvimento de sensores eletroquímicos, visto
+que permitem imobilização de outras espécies, garantindo grande versatilidade ao
+mesmo, como é representado na Figura 2.
+
+Figura 2 - Modelo idealizado para a estrutura do grafeno oxidado.
+
+Fonte: Adaptação de DREYER, D. R. et al. The chemistry of graphene oxide.
+Chemical Society Reviews, v. 39, n. 1, p. 228-240, 2010.
+
+A forma reduzida (rGO), consiste em folhas únicas de grafeno sem grupos
+oxigenados presentes, ou seja, é constituída de folhas únicas de grafite. Esta é a
+forma que apresenta as características físicas e químicas citadas acima, e pode ser
+obtida através da redução do grafeno oxidado (existem diversos métodos, porém não
+há obtenção do rGO com estrutura ideal, devido aos grupos residuais, ou ocorrerem
+deformações na estrutura), e através de métodos de esfoliação mecânica direta do
+grafite (“método fita Scotch”).7
+
+1.3 Nanopartículas metálicas
+
+13
+
+As nanopartículas metálicas (MNPs) têm sido amplamente utilizadas para
+aumentar a taxa de transferência de elétrons diretamente do analíto, para o eletrodo
+de trabalho em materiais híbridos, aumentando em até doze ordens de magnitude,
+como representado na figura 3.8 Dentre as mais utilizadas, destacam-se as
+nanopartículas de prata (AgNPs) e as de ouro (AuNPs), devido sua biocompatibilidade
+e excelentes propriedades condutoras.8
+
+Figura 3 - Esquematização do processo de transferência de elétrons (a) na presença
+de nanopartículas metálicas e (b) na ausência de nanopartículas metálicas.
+
+Fonte: CHAZALVIEL, J. N.; ALLONGUE, P. On the Origin of the Efficient
+Nanoparticle Mediated Electron Transfer across a Self-Assembled Monolayer.
+Journal of the American Chemical Society, v. 133, n. 4, p. 762-764, 2011.
+
+1.4 Interferentes endócrinos
+
+Interferentes endócrinos são compostos orgânicos com propriedades hormonais
+ativas, os quais provocam alterações no sistema endócrino de seres vivos em baixas
+concentrações. Como diversos compostos podem atuar como interferentes
+endócrinos, estes são classificados pelo seu efeito biológico ao invés de sua natureza
+química. O interesse no estudo destas substâncias é relativamente recente, o qual foi
+motivado a partir de observações sobre a ocorrência de anormalidades no sistema
+endócrino de animais submetidos à exposição a alguns destes compostos. 9 Um dos
+principais interferentes endócrinos é o bisfenol A (BPA), devido a sua grande utilização
+na indústria. Os grupos hidroxilas são capazes de interagir com os sítios receptores
+de estrogênio, mimetizando-o e causando uma resposta hormonal, levando a
+desequilíbrios no sistema endócrino.10
+
+14
+
+O BPA ou 4,4-di-hidróxi-2,2-difenilpropano, é amplamente utilizado na indústria,
+pois apresenta baixo custo de produção, características físicas (como dureza e
+transparência), utilizado como monômero para diversos polímeros, apresentando
+grande versatilidade, sendo utilizado para diversas finalidades, desde a produção de
+resinas epóxi, policarbonatos, brinquedos até na produção de equipamentos médicos,
+agente fungicida e retardante de chama.11
+O BPA apresenta baixa solubilidade em água, 120 a 300 mg L -1, baixa pressão
+de vapor 5,3 x 10-9 kPa, pKa de 9,6-11,3 e fator de bioconcentração (logKow) de 3,4,
+indicando que este se acumula no organismo. É produzido através de uma reação de
+condensação da acetona com o fenol, utilizando ácido clorídrico (HCl) como
+catalisador, figura 4.10
+Sendo um agente danoso à saúde, órgãos governamentais internacionais como
+a Agência Nacional de Proteção ao Meio Ambiente dos Estados Unidos e a União
+Europeia estabeleceram limites de uso para o BPA, o que levou a ANVISA (Agência
+Nacional de Vigilância Sanitária), órgão responsável também pelo controle de
+embalagens de alimentos no Brasil, a seguir os padrões estabelecidos e a restringir o
+uso do BPA em embalagens para 0,26 mg kg-1, a considerar como 0,1ng mL-1 o limite
+de BPA em águas fluviais.9
+
+Figura 4 - Reação de formação do bisfenol A.
+
+Fonte: UGLEA, C. V., NEGULESCU, I. I. Synthesis and Characterization of
+Oligomers. Boca Raton: CRC Press, 1991. 384.
+
+Levando em consideração o que foi exposto acima, devido a elevada toxicidade
+do bisfenol A para seres humanos, torna-se muito atrativo o estudo e desenvolvimento
+de métodos analíticos eficientes para a identificação do composto.
+Os métodos de detecção adotados pelas agências reguladoras são os métodos
+cromatográficos, em fase gasosa acoplada a outras técnicas de detecção (GC- MS,
+GC-FID), ou em fase líquida, também acoplada a outras técnicas (HPLC-UV, HPLC-
+
+15
+
+FL, HPLC-MS, entre outras). Apesar destas técnicas se mostrarem eficientes,
+apresentando baixos limites de detecção (da ordem de 0,01 ng L-1 12), a cromatografia
+é uma técnica que necessita de tratamento prévio da amostra, operador
+especializado,
+
+equipamentos
+
+de
+
+alto
+
+custo,
+
+uso
+
+de
+
+solventes
+
+orgânicos
+
+consequentemente geração de resíduos orgânicos, entre outros.
+Portanto, devido as dificuldades de se trabalhar com cromatografia, tornam-se
+atrativos os sensores eletroquímicos, os quais, além de apresentar alta sensibilidade
+(semelhante aos demais métodos analíticos), seletividade e robustez, também são de
+fácil manuseio, apresentam custo inferior e não necessitam de extenso tratamento
+prévio das amostras. Além disso, os sensores eletroquímicos podem ser utilizados in
+situ em estações de tratamento de água e esgoto indicando contaminação por
+Bisfenol A.
+
+1.5 Validação utilizada para comparação
+
+A validação de um método analítico pode ser realizada sob diversas formas,
+utilizando uma série de materiais e procedimentos padrão. Qualquer comparação
+entre duas metodologias analíticas tem como objetivo avaliar os erros sistemáticos e
+aleatórios, mostrando se os resultados obtidos são significantemente maiores ou
+menores do que o procedimento padrão. Ademais, os procedimentos de prétratamento de amostra e de operação são fatores importantes ao se comparar duas
+técnicas analíticas13
+Uma das formas mais comuns de se validar um método experimental é a
+comparação dos resultados obtidos com aqueles providos por um procedimento
+analítico padrão, adotado pela agência de controle. Entretanto, esta comparação,
+muitas vezes, não é óbvia. Como comparar resultados diferentes, como por exemplo,
+voltametria de pulso diferencial e cromatografia? Muitas vezes esta comparação é
+feita utilizando rendimento de experimentos de recuperação, o que não apresenta
+qualquer significado de validação, uma vez que a recuperação é uma das
+características inerentes das técnicas analíticas, que não interfere na precisão ou
+exatidão do método.
+Uma maneira proposta por Miller e Miller e da Silva e Machado14 para se
+comparar dois métodos analíticos consiste em elaborar uma relação entre os
+
+16
+
+resultados obtidos pelo método padrão (eixo X) e o método proposto a ser validado
+(eixo Y) através da análise de diferentes amostras. Com o conjunto de pontos esperase obter uma relação linear entre os dois métodos, utilizando ferramentas estatísticas
+bem definidas e calcular seu coeficiente angular (b), o intercepto (a) e o coeficiente
+produto-momento (r) da regressão linear. Caso cada amostra resulte em resultados
+semelhantes para ambas as técnicas, o intercepto será nulo (a curva passa pela
+origem), o coeficiente angular e o produto-momento valerão 1 (figura 5a). Na prática
+isto dificilmente ocorre visto que, os erros sistemáticos sejam eliminados, os erros
+aleatórios não permitem que os resultados sejam os mesmos para todas as amostras.
+Portanto ocorrem desvios da condição ideal (a = 0, b = r = 1) de maneiras distintas.
+É possível que o coeficiente angular da curva de regressão seja igual a 1, mas
+com intercepto diferente de zero (figura 5b), o que indica que um dos métodos de
+análise fornece resultados com valores maiores ou menores do que o outro, por um
+valor fixo. Isto pode ocorrer quando o ruído (linha de base) não foi corretamente
+tratado em alguma das técnicas. Este caso é comum quando compara-se técnicas
+eletroquímicas com as demais, pois no sistema eletroquímico há a corrente capacitiva
+o que torna a linha de base diferente de zero.
+O coeficiente angular pode ser maior ou menor do que 1, o que indica a
+presença de erros sistemáticos nas medidas dos coeficientes angulares das curvas
+de calibração individuais de ambos os métodos (figura 5c). O valor do intercepto pode
+ser diferente de 0 e o coeficiente angular diferente de 1, levando a resultados
+diferentes. A Figura 5d-f ilustra os resultados de vários tipos de erros sistemáticos.
+
+17
+
+Figura 5 – Regressão linear para a comparação de duas metodologias
+analíticas: (a) mostra perfeita concordância entre as duas metodologias para todas as
+amostras; (b)-(f) ilustra os resultados de vários tipos de erros sistemáticos.
+
+Fonte: Adaptação de MILLER, J. N. M., J. C. Statistics and Chemometrics for
+Analytical Chemistry. 5th ed. Harlow-Essex, UK: Pearson Education Limited, 2005,
+p 124
+
+No presente estudo será realizada a comparação entre a técnica eletroquímica
+(Voltametria de pulso diferencial) e a técnica cromatografia gasosa, ou seja, uma das
+técnicas padrão para a análise de bisfenol A.
+Inicialmente serão construídas curvas de calibração para cada uma das técnicas
+e serão realizadas análises das amostras. Os valores das respostas analíticas obtidas
+serão interpolados nas respectivas curvas de calibração a fim de obter os valores de
+concentração de cada amostra medidos para cada técnica. Após obter as respostas
+analíticas para cada concentração em cada uma das técnicas, e elaborar a relação
+
+18
+
+proposta por Miller e Miller, será necessário realizar testes estatísticos de significância
+com um nível de confiança de 95%. O teste t Student para avaliar uma correlação
+significativa pode ser utilizado para comparar os dados obtidos a fim de provar se os
+valores das concentrações detectadas diferem significativamente.
+
+2. OBJETIVOS
+
+O objetivo deste trabalho é desenvolver, caracterizar e aplicar um sensor
+eletroquímico de carbono vítreo modificado com um nano material híbrido a base de
+sílica, onde serão incorporados o grafeno oxidado e as nanopartículas metálicas de
+prata, a fim de detectar a presença do interferente endócrino bisfenol-A em amostras
+de água.
+
+3. SEÇÃO EXPERIMENTAL
+
+3.1 Instrumentação básica
+
+Todas as pesagens foram realizadas utilizando-se uma balança analítica Mettler
+Toledo, modelo AL 204 com precisão de ±0,1mg.
+
+3.2 Medidas voltamétricas
+
+As medidas voltamétricas foram realizadas em uma célula eletroquímica de 25
+mL contendo três eletrodos (figura 6), sendo um eletrodo de trabalho (eletrodo de
+carbono vítreo), um eletrodo de referência (Ag/AgCl (KCl 3M)) e um eletrodo auxiliar
+de
+
+platina
+
+(1,0
+
+cm²)
+
+conectados
+
+a
+
+um
+
+Potenciostato/Galvanostato
+
+PGSTAT302N/Autolab® (Ecochimie, Netherlands) acoplado a um microcomputador e
+gerenciado pelo software NOVA 1.10. Os resultados obtidos foram plotados utilizando
+o programa Origin® 7 e 9 da Microcal Inc.
+
+19
+
+Figura 6 - Representação esquemática de uma célula eletroquímica utilizada
+nas medidas voltamétricas: c.e. representa o contra eletrodo (conter electrode), w.e.
+representa o eletrodo de trabalho (working electrode) e r.e. repreenta o eletrodo de
+referência (reference electrode).
+.
+
+Fonte: UGLEA, C. V., NEGULESCU, I. I. Synthesis and Characterization of
+Oligomers. Boca Raton: CRC Press, 1991. 384.
+
+Eletrodo de referência
+
+O eletrodo de referência Ag/AgCl (KCl 3M) foi construído embutindo-se um fio
+de prata, previamente polido com lixas 600, anodizado em solução de HCl 0,3 mol L- 1
+para obtenção de um filme de cloreto de prata, em um tubo de vidro preenchido com
+uma solução de KCl 3M contendo cristais de AgNO3.
+
+Eletrodo auxiliar
+Uma placa de platina com 1,0 cm2 de área geométrica, soldada a um fio de
+platina e embutidos em um tubo de vidro. O eletrodo auxiliar foi aquecido em chama
+redutora utilizando um mini maçarico e lavado em água Mili-Q.
+
+20
+
+Eletrodo de trabalho
+
+Os eletrodos consistem em um eletrodo de carbono vítreo com 0,3 cm de
+diâmetro (7,1 mm²), embutidos em Teflon®.
+
+3.3 Medidas de espectroscopia de impedância eletroquímica
+
+Os experimentos de Espectroscopia de Impedância Eletroquímica (EIE) foram
+realizados com os materiais descritos no ítem 3.1.2. Os experimentos foram
+realizados em um Potenciostato/Galvanostato PGSTAT30/Autolab® acoplado a um
+microcomputador e controlado pelo software FRA. Os espectros de plano complexo
+foram analisados com o software Electrochemistry-ZView2. As medidas foram
+realizadas em temperatura ambiente.
+
+3.4 Microscopia Eletrônica de Varredura por Emissão de Campo (FEGSEM)
+
+As análises de FEG-SEM foram obtidas utilizando-se o equipamento de modelo
+FEG-Zeiss Supra 35VP (Zeiss, Alemanha), operando a 6,0 kV, equipado com um
+detector secundário de elétrons de alta resolução.
+
+3.5 Microscopia Eletrônica de Transmissão com Alta Resolução (HRTEM)
+
+As análises de HR-TEM foram obtidas utilizando-se o equipamento FEI TECNAI
+G- F20 microscópio de transmissão de elétrons operando a 200 kV.
+
+3.6 Espectroscopia de Fotoelétrons Excitados por Raios-X (XPS)
+
+As análises de XPS foram realizadas em um VSW HA 100 hemispherical electron
+analyser utilizando um anodo de Al como fonte de raios-X, operado a 12 keV e 15mA.
+As alterações nas energias de ligação foram corrigidas utilizando a linha Si2p da sílica.
+
+21
+
+3.7 Análise por GC-FID
+
+As medidas cromatográficas foram realizadas utilizando-se um cromatógrafo
+GC-FID 17-A SHIMADZU equipado com o detector por FID e um modo de injeção
+splitless. A coluna utilizada foi Restek RTX-XLB (5% divinilbenzeno e 95% de
+polidimetilsiloxano) de 30 metros, com uma fase estacionária de espessura de 0,5 µm.
+O gás carreador foi N2, taxa de 1,13 mL min-1 utilizando um controle de pressão
+eletrônico. Durante a injeção da fibra, a temperatura do injetor permaneceu a 320 oC
+e o tempo de amostragem foi de 5 minutos. A temperatura inicial do forno foi de 80 oC,
+durante 2 minutos, rampa de aquecimento de 40 oC min-1 até 300 oC.
+
+3.8 Preparo de amostra
+
+As amostras de água fluvial superficial foram previamente filtradas para eliminar
+detritos. A extração do bisfenol A nas amostras de rio foram realizadas através do
+método de micro-extração em fase sólida (do inglês Solid-phase microextraction,
+SPME) utilizando um holder manual e uma fibra sendo ambos disponíveis
+comercialmente (Supelco). A fibra utilizada apresenta 100 μm de fase de
+polidimetilsiloxano. Após a otimização dos parâmetros da técnica, foi obtida uma curva
+analitica com concentrações entre 366 e 639 µg.L-1.
+
+3.9 Reagentes e soluções
+
+Todos os reagentes empregados foram de alto grau de pureza analítica e foram
+utilizados sem purificação prévia. Todas as soluções aquosas foram preparadas com
+água purificada no sistema Nanopure com resistividade de 18 MΩ cm -1 (Barnested
+Nanopure System).
+O grafite em pó, nitrato de sódio (NaNO3), tetraetilortosilicato (TEOS), N,NDimetilformamida (DMF), etanol foram adquiridos da empresa Sigma-Aldrich®. O
+ácido sulfúrico (H2SO4), permanganato de potássio (KMnO4), ácido clorídrico (HCl) e
+peróxido de hidrogênio (H2O2) foram adquiridos da empresa Synth®. O nitrato de prata
+(AgNO3) foi adquirido da empresa da MERCK®.
+
+22
+
+A caracterização voltamétrica dos eletrodos modificados e não modificados bem
+como as medidas de espectroscopia de impedância eletroquímica foram realizadas
+em solução contendo 5,0 mmol de ferrocianeto de potássio (Mallinckrodt ®) e
+ferricianeto de potássio (J.T. Baker®) em KCl 0,1 mol L-1 (Sigma-aldrich®).
+Os estudos voltamétricos com Bisfenol-A (Sigma-aldrich®) foram realizados em
+solução 0,1 mol L-1 tampão fosfato (pH 7.0) dissolvendo-se quantidades apropriadas
+dos sais fosfato de sódio monobásico e fosfato de sódio dibásico (Na2HPO4 e
+NaH2PO4) (Sigma-aldrich®).
+
+4 MATERIAIS E MÉTODOS
+4.1 Síntese do grafeno oxidado (GO)
+
+A síntese do grafeno foi realizada utilizando-se o método Hummers15 com
+algumas modificações, a saber: 1,0 g de grafite e 1,0 g de NaNO3 foram dispersos em
+46,0 mL de H2SO4 concentrado (98% P.A). A mistura resultante foi mantida sob
+agitação e resfriamento em banho de gelo, até a temperatura de 20 ºC. Na sequência,
+6,0 g de KMnO4 foram adicionados lentamente, sob agitação constante. A mistura
+resultante foi mantida sob resfriamento a 0 ºC, por um período de 24h.
+Transcorrido o tempo de resfriamento, 240 mL de água foram adicionados à
+solução sob agitação constante, a temperatura foi elevada a 98 ºC durante 60 min.
+Em seguida, 85 mL de H2O2 a 30% (V/V) foram adicionados. A mistura resultante foi
+filtrada a quente e lavada com uma solução de HCl (5 % V/V). O GO obtido foi seco
+em estufa a 50 ºC, durante 48h.
+
+4.2 Síntese da matriz híbrida de sílica mesoporosa contendo grafeno
+SMD/GO
+
+A síntese da matriz híbrida de sílica mesoporosa desordenada (SMD) contendo
+grafeno oxidado (GO) foi realizada de acordo com a metodologia descrita por Canevari
+e colaboradores16: uma mistura contendo 5,0 mL de TEOS (0,022 mol) foi adicionado
+a 5,0 mL de etanol anidro, mantida sob agitação por 60 min para homogeneização e
+iniciar a pré-hidrólise do TEOS. Transcorrido o tempo, 0,2 mL de ácido clorídrico (37%
+PA), 0.46 g do grafeno oxidado e 0.8 mL de água (miliQ) foram adicionados e a mistura
+
+23
+
+resultante foi mantida sob ultrassonicação até que o processo de gelatinização se
+completasse. O material foi mantido em repouso à temperatura ambiente até a
+completa evaporação do solvente e formação da rede mesoporosa de sílica, por um
+período de sete dias. O xerogel resultante foi macerado em um cadinho de ágata, e o
+sólido resultante foi lavado com etanol em um sistema Soxleth para remover os
+resíduos de TEOS e grafeno. O sólido obtido foi seco a vácuo.
+
+4.3 Síntese direta de nanopartículas metálicas de prata AgNP
+
+A síntese das nanopartículas de prata foi realizada in situ sobre o material
+híbrido
+
+(SMD/GO)
+
+utilizando-se
+
+a
+
+metodologia
+
+descrita
+
+por
+
+Conzuelo
+
+e
+
+colaboradores17: 0,5 g do material híbrido foi disperso em 15 mL de DMF contendo
+8,0 x 10-3 mol L-1 de AgNO3. A mistura resultante foi mantida sob ultrassonicação por
+um período de 60 min na ausência de luz. O produto foi submetido à centrifugação,
+lavado com DMF e seco na estufa a 100 ºC durante 4 h.
+
+4.4 Caracterização morfológica e estrutural
+
+O material híbrido (SMD/GO/AgNPs) foi caracterizado através das técnicas de
+espectroscopia de fotoelétrons excitados por raios X (XPS), microscopia de eletrônica
+de varredura por emissão de campo (FEG-SEM), microscopia eletrônica de
+transmissão com alta resolução (HR-TEM).
+
+4.5 Preparação do sensor
+
+Inicialmente, o eletrodo de carbono vítreo (ECV) foi polido com suspensões de
+micropartículas de alumina de 0,30 e 0,05 µm, respectivamente. Em seguida, este foi
+lavado abundantemente com álcool etílico e água ultrapura. O ECV foi então levado a
+banho ultra-sônico em álcool isopropílico durante três minutos e posteriormente com
+água ultrapura por cerca de cinco minutos. Por fim, deixou-se secar à temperatura
+ambiente.
+Uma massa de 10,0 mg de SMD/GO/AgNPs foi adicionada a 2,0 mL de água e
+5 µL de Nafion® e a mistura submetida a ultrassom durante 60 minutos de modo a
+formar uma suspensão estável de SMD/GO/AgNPs. Essa suspensão foi armazenada
+
+24
+
+em frasco âmbar e a temperatura ambiente. Em seguida, adicionou-se 4, 8 e 12 µL da
+suspensão do material híbrido sobre a superfície do GCE com o auxílio de uma
+micropipeta e deixou-se secar à temperatura ambiente até completa evaporação do
+solvente.
+
+4.6 Caracterização Eletroquímica e Performance Eletroanalítica
+
+Os eletrodos de carbono vítreo não-modificados e modificados com
+SMD/GO/AgNPs foram caracterizados por voltametria cíclica (VC) e espectroscopia
+de impedância eletroquímica (EIE). Aplicou-se uma onda senoidal com 10 mV de
+amplitude no potencial de circuito aberto em uma faixa de freqüência de 100 kHz a
+0,1 Hz. O circuito modelo utilizado nesse estudo foi o circuito de Randles RS
+(CPE[RctZW]) como apresentado na Figura 7 abaixo.
+
+Figura 7– Modelo de circuito equivalente utilizado para análise dos dados
+obtidos com os gráficos de plano complexo obtidos com a EIE.
+
+Fonte: Autoria própria
+
+Na figura 7, RS é a resistência da solução, Rct é a resistência de transferência de
+carga, ZW é a impedância de Warburg e CPE é o elemento de fase constante
+(representa a capacitância da dupla camada). Os estudos da performance
+eletroanalítica foram realizados utilizando-se voltametria de pulso diferencial.
+
+25
+
+5 RESULTADOS E DISCUSSÃO
+5.1 Espectroscopia de fotoelétrons excitados por raios X (XPS).
+
+A Figura 8a-d apresenta o espectro de XPS e os valores de energia de ligação
+para os componentes spin-órbita Ag3d, O1s, C1s e Si2p.
+
+Figura 8 - a-d Espectro do material SMD/GO/AgNPs: valores de energia de ligação
+de camadas eletrônicas internas para Ag3d, O1s, C1s e Si2p.
+
+Fonte: Autoria própria
+
+O espectro da prata Ag3d para o material híbrido Sílica mesoporosa
+desordenada/ Grafeno oxidado/ Nanopartícluas de Prata, (SMD/GO/AgNPs)
+apresenta dois picos. Os picos relacionados aos componentes spin-órbita Ag3d3/2 e
+Ag3d5/2, com energias de ligação em 373,9 e 367,9 eV, indicando a presença de
+espécies metálicas de Ag, confirmado a formação de AgNPs.18; 19 Também é possível
+
+26
+
+afirmar que a ausência de energias de ligação próximas de 367,3 eV e 367,6 eV, indica
+que não houve formação significativa de AgO e Ag2O, respectivamente. 18; 20
+O espectro de oxigênio O1s, mostra duas componentes na energia de ligação,
+o valor de 532,9 eV o qual foi atribuído ao oxigênio ligado aos átomos de carbono (CO, os grupos funcionais presentes no grafeno)21 e uma energia de ligação em torno
+de 530,4 eV indicando que o oxigênio está ligado a átomos de silício, sugerindo a
+formação de uma espécie Si-O-Ag.
+
+22
+
+A ausência de componentes da energia de
+
+ligação O1s próximos de 529 eV e 528 eV reforçam a idéia de que não houve
+formação significativa de AgO e Ag2O respectivamente.20
+A deconvolução do espectro de XPS relativo ao carbono C1s, mostrou dois
+componentes correspondendo à átomos de carbono com grupos funcionais distintos:
+a energia de ligação em torno de 284,1 eV indica átomos de carbono ligados entre si
+(C-C) em estruturas poli-aromáticas e o pico próximo a 287,3 eV indica a formação de
+grupos funcionais contendo carbonos ligados ao oxigênio (C-O)23 durante a síntese
+do grafeno. Estes grupos funcionais permitem que as AgNPs permaneçam ancoradas
+no material.
+O espectro do silício Si2p, do material híbrido SMD/GO/AgNPs mostrou um pico
+intenso com uma energia de ligação de 109,08 eV, indicando a formação da matriz de
+sílica contendo grafeno.24
+
+5.2 Microscopia eletrônica de varredura por emissão de campo
+(FEG- SEM)
+
+A Figura 9a apresenta imagens, obtidas através da técnica SEM, do material
+híbrido SMD/GO/AgNPs, obtidas utilizando elétrons espalhados refletidos a uma
+ampliação de 5000x.
+
+27
+
+Figura 9 - (a) imagens do material SMD/GO/AgNPs, obtidas através da técnica de
+SEM e (b) o mapeamento correspondente a Ag, C e Si.
+
+Fonte: Autoria própria
+As nanopartículas de prata, representadas por pontos brancos brilhantes, foram
+distribuídas homogeneamente através do material híbrido SMD/GO. O mapeamento
+de Ag, como também C e Si, utilizando a sonda de elétrons EDS, evidencia que as
+AgNPs foram homogeneamente distribuídas no material híbrido (Figura 9b).
+
+28
+
+5.3 Microscopia eletrônica de transmissão com alta resolução (HR-TEM)
+
+A caracterização estrutural do óxido de grafeno e do material híbrido
+SMD/GO/AgNPs foi realizada por microscopia eletrônica de transmissão com alta
+resolução de alta resolução Figura 10.
+Figura 10 - (a) micrografias das folhas de grafeno, (b) várias ampliações do material
+SMD/GO/AgNPs e (c) o EDX correspondente ao material híbrido SMD/GO/AgNPs.
+
+Fonte: Autoria própria
+
+A Figura 10a apresenta as folhas de grafeno, as quais foram sintetizadas e
+então incorporadas na matriz de sílica, gerando o material híbrido SMD/GO. A Figura
+10b apresenta as AgNPs bem distribuídas através do material híbrido, com diâmetros
+de aproximadamente 20 nanômetros. Sugere-se que as AgNPs se formaram
+principalmente nas folhas de grafeno devido a presença de grupos funcionais criados
+durante o processo de síntese. Para confirmar a formação de nanopartículas de prata,
+como também a presença de sílica e grafeno no material híbrido, foi utilizada a técnica
+
+29
+
+de Espectroscopia de raios X por dispersão em energia (EDX) (Figura 10c). O sinal
+de Cu é devido às grades utilizadas para a análise de HR-TEM. A boa distribuição das
+AgNPs no material híbrido SMD/GO garante boas características eletrocatalíticas para
+o material híbrido SMD/GO/AgNPs, tornando-o potencialmente útil para o
+desenvolvimento de sensores eletroquímicos.
+
+5.4 Caracterização eletroquímica
+
+A Figura 11 apresenta os voltamogramas cíclicos obtidos para o eletrodo de
+carbono vítreo não-modificado (CV) e para o eletrodo de carbono vítreo modificado
+com o material híbrido SMD/GO e SMD/GO/AgNPs, em solução tampão fosfato 0,1
+mol L-1 (pH 7,0) a uma velocidade de varredura de 20 mV s-1. O eletrodo modificado
+contendo as AgNPs apresentou dois picos redox, diferentemente do carbono vítreo
+modificado com o material SMD/GO e o carbono vítreo não-modificado, indicando a
+presença das AgNps.
+
+Figura 11 - Voltamogramas obtidos para o carbono vítreo (GCE), SMD/GO/GCE e
+SMD/GO/AgNPs/GCE em PBS (pH = 7,0); velocidade de varredura: 20 mV s-1
+
+Fonte: Autoria própria
+
+30
+
+Os picos com potenciais EOX1 = +0,45 V e ERed1 = +0,20 V estão relacionados
+com o processo redox das espécies Ag0/Ag+ e Ag+/Ag0, respectivamente, indicando a
+formação das AgNPs25 no material SMD/GO, concordando com as imagens obtidas
+no SEM e nas micrografias obtidas pela HR-TEM. Comparando com outros estudos
+contendo AgNPs22; 25; 26 ocorreu um deslocamento no potencial de deslocamento para
+a região de valores mais positivos, o que pode estar relacionado com o diâmetro do
+eletrodo e efeitos sinergéticos entre a sílica, as nanopartículas de prata e o grafeno
+que constitui o material híbrido.
+
+5.5 Impedância Eletroquímica
+
+A Figura 11 apresenta os espectros de plano complexo (diagrama de Nyquist)
+para as superfícies de carbono vítreo (CV) puro e para as superfícies híbridas
+contendo SMD/GO e SMD/GO/AgNPs obtidos em solução contendo 5 mmol de
+ferrocianeto/ferricianeto de potássio em 0,1 mol L -1 de KCl utilizando potencial de
+circuito aberto.
+Figura 12 – (A) Espectros de plano complexo obtidos para o eletrodo de carbono
+vítreo não-modificado (a) e modificado com SMD/GO (b) e SMD/GO/AgNP (c), em
+potencial de circuito aberto. Faixa de freqüência de 100 kHz a 0,1 Hz e onda senoidal
+de 10 mV. (B) Fitting.
+
+(a) CV Puro
+(b) SMD/GO
+(c) SMD/GO/AgNP
+
+(A)
+
+3000
+
+2000
+
+(B)
+
+(a) CV Puro
+(b) SMD/GO
+(c) SMD/GO/AgNP
+
+4000
+
+- Z´´/ ohm
+
+- Z´´ / Ohm
+
+4000
+
+3000
+
+2000
+
+1000
+
+1000
+
+0
+
+0
+0
+
+1000
+
+2000
+
+3000
+
+Z'/Ohm
+Fonte: Autoria própria
+
+4000
+
+0
+
+1000
+
+2000
+
+3000
+
+Z´/ ohm
+
+4000
+
+31
+
+A simulação dos resultados, aplicando-se um circuito de Randles modificado
+RS(CPE[RtcZW]), com o software Electrochemistry-ZView2 forneceu os parâmetros
+listados na Tabela I. RS consiste na resistência da solução, CPE é o elemento de fase
+constante e representa um capacitor não ideal, enquanto Rtc é a resistência de
+transferência de carga e ZW a impedância de Warburg.
+A aplicação de ondas senoidais de baixa amplitude possibilitou uma boa
+separação de regiões de frequência onde a oxi-redução da sonda redox [Fe(CN)6]4/[Fe(CN)6]3- ocorre por controle cinético e por controle de transporte de massa. Sob
+essas condições a constante de velocidade de transferência eletrônica heterogênea
+aparente (kapp) da reação pode ser determinada pela equação 127:
+
+K app 
+
+RT
+F R tc C A
+
+(1)
+
+2
+
+onde F é a constante de Faraday (96 485, 3365 C mol-1), C é a concentração de
+[Fe(CN)6]4-/[Fe(CN)6]3- em solução (5,0 mmol L-1), R é a constante física dos gases
+(8,3145 J K mol), T é a temperatura em Kelvin (298 K), A é a área do eletrodo (0,283
+cm²) e Rtc é a resistência de transferência de carga obtida com a simulação dos
+resultados da Figura 11. Os valores de Kapp obtidos estão listados na Tabela I.
+Tabela I – Parâmetros obtidos a partir dos espectros de plano complexo para os
+eletrodos de carbono vítreo puro e modificado com SMD/GO e SMD/GO/AgNPs.
+Eletrodo
+
+RS (Ω)
+
+CPE (µF)
+
+Rtc (Ω)
+
+Kapp
+
+CV
+
+179,7
+
+0,634
+
+2775
+
+1,04x10-6
+
+CV/SMD/GO
+
+166,2
+
+0,572
+
+40,96
+
+1,54 x10-8
+
+CV/SMD/GO/AgNP
+
+154,3
+
+69,6
+
+1141
+
+4,30 x10-7
+
+O valor de resistência de transferência de carga referente ao eletrodo de carbono
+vítreo modificado com SMD/GO apresentou uma drástica diminuição (40,96 Ω)
+quando comparado ao eletrodo de carbono vítreo puro (2775 Ω). Consequentemente,
+
+32
+
+a constante de velocidade de transferência eletrônica heterogênea aparente (k app)
+apresentou um aumento proporcionalmente a Rtc evidenciando o efeito da matriz
+híbrida nanoestruturada SMD/GO na velocidade de transferência eletrônica.
+Inesperadamente, o eletrodo modificado com a matriz híbrida nanoestruturada
+SMD/GO/AgNP apresentou um aumento da Rtc quando comparado com a matriz
+SMD/GO sugerindo um efeito sinergético não favorável das nanopartículas metálicas
+na matriz SMD/GO28. Ambos os materiais foram avaliados com a relação ao BisfenolA e será discutido na sequência. Esta característica da superfície híbrida SMD/GO e
+SMD/GO/AgNP torna-se interessante para aplicação deste dispositivo em sensores e
+biossensores eletroquímicos pois pode proporcionar aumento da seletividade e
+sensibilidade dos sensores eletroquímicos.
+
+5.6 Performance Eletroanalítica
+
+A Figura 13 apresenta os voltamogramas de pulso diferencial (VPD) para os
+eletrodos de carbono vítreo puro (a), modificado com SMD/GO (b) e com
+SMD/GO/AgNP (c) obtidos em solução contendo 0,1 mol L-1 de tampão fosfato na
+presença de 2,0 µmol L-1 de BPA. Os voltamogramas foram ajustados para a linha
+de base com a finalidade de facilitar a comparação “diminuindo” o efeito da corrente
+capacitiva.
+
+33
+
+Figura 13 – Voltamogramas de pulso diferencial obtidos em solução tampão fosfato
+0,1 mol L-1 para o carbono vítreo puro e modificado com SMD/GO e SMD/GO/AgNP
+na presença de 2,0 x 10-6 mol L-1 de BPA. Voltamogramas com ajuste de linha de
+base.
+(a) CV
+(b) CV/SMD/GO
+(c) CV/SMD/GO/AgNP
+
+0.572V
+
+0,25
+
+I / A
+
+0,20
+0,15
+
+c
+
+0,10
+
+0.613 V
+0.548 V
+
+0,05
+
+b
+a
+
+0,00
+
+0,2
+
+0,4
+0,6
+0,8
+E vs. Ag/AgCl / V
+
+1,0
+
+Fonte: Autoria própria
+
+Dentre os materiais estudados, é evidente que a corrente de oxidação presente no
+voltamograma de pulso diferencial obtido para o eletrodo de carbono vítreo modificado
+com SMD/GO/AgNP (c) apresentou maior magnitude de corrente de pico anódico
+(0,27 µA) quando comparado com os eletrodos de carbono vítreo puro (0,06 µA) e
+modificado com SMD/GO (0,08 µA). Este comportamento evidencia o efeito
+eletrocatalítico das AgNP´s presentes na matriz híbrida SMD/GO/AgNP, sugerindo
+maior sensitividade.
+As condições operacionais para o eletrodo proposto GC/SMD/GO/AgNP foram
+utilizadas de acordo com as otimizadas anteriormente por Cincotto et al29. Após
+estabelecido as melhores condições experimentais foram realizados sucessivos VPD
+em solução tampão fosfato a 0,1 mol L-1 a uma velocidade de varredura de potenciais
+de 10 mV s-1.
+
+34
+
+O efeito do volume de suspensão disperso sobre a superfície do eletrodo de
+carbono vítreo foi estudado. A Figura 14 apresenta as curvas analíticas obtidas para
+o eletrodo de carbono vítreo modificado com 4 (a), 8 (b) e 12 (c) µL, respectivamente,
+de suspensão SMD/GO/AgNP variando-se a concentração de BPA em solução no
+intervalo entre 0,1 e 2,3 µ mol L-1.
+Figura 14 – Curvas analíticas obtidas para o eletrodo de carbono vítreo
+modificado com 4 (a), 8 (b) e 12 (c) µL, respectivamente, de suspensão
+SMD/GO/AgNP.
+
+(a) 4 L
+(b) 8 L
+(c) 12 L
+
+0,5
+
+(c)
+
+I / A
+
+0,4
+(b)
+(a)
+
+0,3
+
+0,2
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+C / mol L
+
+2,5
+
+3,0
+
+-1
+
+Fonte: Autoria própria
+
+Na Figura 13, as curvas analíticas obtidas utilizando-se 8 (b) e 12 (c) µL
+apresentaram três regiões lineares distintas enquanto a curva analítica obtida
+utilizando-se 4 (a) µL apresentou linearidade em toda a faixa estudada compreendida
+entre 0,1 e 2,3 mmol L-1. Portanto, o volume de 4 µL foi selecionado para preparação
+do sensor na análise da amostra contendo BPA.
+Para avaliar a performance analítica do eletrodo modificado frente ao analíto,
+foram realizados os seguintes testes quantitativos. A figura 15 ilustra as curvas de
+calibração para a oxidação do Bisfenol A no carbono vítreo puro, no eletrodo
+modificados com SMD/GO e SMD/GO/AgNP, numa faixa de concentração de
+1,0 x 10-7 a 2,1x10-6 mol L-1.O carbono vítro puro demonstrou baixos coeficiente
+
+35
+
+angular e coeficiente de correlação, enquanto o SMD/GO não apresentou coeficiente
+de correlação frente a oxidação do Bisfenol A. Em termos de sensitividade na curva
+de calibração, o material híbrido SMD/GO/AgNP exibiu o maior valor de sensibilidade,
+0,064 A M-1.
+
+Figura 15 –Curvas de calibração para o BPA no carbono vítreo puro (a), no
+carbono vítreo modificado com SMD/GO (b) e SMD/GO/AgNPs.
+(a) carbono vítreo puro
+(b) SMD/GO
+(c) SMD/GO/AgNP
+
+0,18
+0,16
+0,14
+
+I / A
+
+0,12
+0,10
+0,08
+0,06
+0,04
+0,02
+0,00
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+CBPA / mol L
+
+-1
+
+2,5
+
+3,0
+
+Fonte: Autoria própria
+
+A figura 16 apresenta os voltamogramas de pulso diferencial obtidos em solução
+tampão fosfato 0,1 mol L -1 na ausência e na presença de 0,1 – 2,3 µmol L-1 de BPA
+para a superfície híbrida SMD/GO/AgNP.
+
+36
+
+Figura 16 - Voltamogramas de pulso diferencial obtidos para o eletrodo de
+carbono vítreo modificado com a matriz híbrida SMD/GO/AgNP com a variação da
+concentração de BPA de 0,1 a 2,3 µmol L-1.
+
+branco
+1,0E-07
+2,0E-07
+3,0E-07
+4,0E-07
+5,0E-07
+6,0E-07
+7,0E-07
+8,0E-07
+9,0E-07
+1,0E-06
+1,1E-06
+1,2E-06
+1,3E-06
+1,4E-06
+1,5E-06
+1,6E-06
+1,7E-06
+1,8E-06
+1,9E-06
+2,0E-06
+2,1E-06
+2,2E-06
+2,3E-06
+
+0,6
+
+I / A
+
+0,5
+0,4
+0,3
+0,2
+
+0,2
+
+0,4
+
+0,6
+
+0,8
+
+1,0
+
+E vs. Ag/AgCl / V
+Fonte: Autoria própria
+
+O aumento da concentração de BPA em solução produziu um aumento
+significativo na magnitude de corrente de pico anódica (E PA = 0,60 V)., o que mostra
+claramente o efeito eletrocatalítico da matriz híbrida.
+Os valores de corrente de pico anódica produziram uma relação linear de acordo
+com o aumento da concentração de BPA em solução. A curva analítica (Figura 17) foi
+linear no intervalo de concentração de BPA entre 1,0 x 10-7 e 2,8 x 10
+
+-6
+
+mol L-1
+
+representada pela equação (I (A) = 1,27 x 10-7 + 0,064 . CBPA (mol L-1) com um
+coeficiente de correlação linear (r) de 0,9995. O gráfico dos resíduos na inserção
+(figura 15B) demonstrou que a distribuição dos resíduos foi satisfatória.
+
+37
+
+Figura 17 – Curva analítica obtida para o eletrodo de carbono vítreo modificado
+com a matriz híbrida SMD/GO/AgNP variando-se a concentração de BPA em solução
+entre 0,1 e 28 µ mol L-1. Inserto: gráfico dos resíduos para o diagnóstico da regressão
+linear.
+
+0,30
+
+-7
+
+-1
+
+I(A) = 1.27 x 10 + 0.064 CBPA (mol L )
+
+0,28
+0,26
+
+I / A
+
+0,24
+0,22
+0,20
+0,18
+
+0
+
+0,16
+0,14
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+CBPA / mol L
+
+-1
+
+2,5
+
+3,0
+
+Fonte: Autoria própria
+
+O limite de detecçao foi calculado utilizando-se a equação LOD = yb + 3 SB onde
+yb é o valor do intercepto da curva de calibração e SB o desvio padrão14, o que resultou
+num valor de 45,3 x 10 - 9 mol L- 1.
+O efeito de possíveis interferentes na análise de bisfenol A em água, foi realizado
+monitorando o pico de oxidação de 1,0 x 10-6 mol L-1 de BPA, na presença de 1,0 x 10- 6
+mol L-1 hidroquinona, catecol, estriol e etinilestradiol. Inicialmente adicionou-se 1,0 x
+10-6 mol L-1 de BPA e realizou-se uma VPD para promover sua eletro-oxidação. Na
+sequência os interfentes foram adicionados individualmente e as VPD foram
+registradas. Estes resultados estão apresentados na figura 18.
+
+38
+
+Figura 18 – Efeito da presença de 1,0 × 10−6 mol L−1 de hidroquinona, catecol,
+estriol e etinilestradiol no sinal eletroquímico obtido por 1,0 × 10−6 mol L−1 de BPA para
+o sensor CV/SMD/GO/AgNP.
+
+Bisfenol A
+Hidroquinona
+Catecol
+Estriol
+Ethinilestradiol
+
+0,08
+
+I / A
+
+0,06
+0,04
+0,02
+0,00
+0,3
+
+0,4
+
+0,5
+
+0,6
+
+0,7
+
+0,8
+
+0,9
+
+E vs. Ag/AgCl
+Fonte: Autoria própria
+É possível observar que as adições de 1,0 x 10 -6 mol L-1 de hidroquinona e
+catecol na cela eletroquimica resultaram uma pequena variação de corrente próximo
+ao sinal do BPA. Porém estes compostos não interferem na análise visto que os picos
+de oxidação da hidroquinona e do catecol ocorrem em 70 e 120 mV, respectivamente,
+vs Ag/AgCl22, enquanto que o do BPA foi de 572 mV vs Ag/AgCl. Entretanto, estriol e
+etinilestradiol apresentam uma variação de interferência maior na corrente de
+oxidação do BPA. Considerando que o sinal do BPA (4.79 x 10- 8 A) é livre de
+interferentes, podemos estimar os percentuais de interferência advindas do estriol e
+do etinilestradiol, sendo que os valores obtidos foram de 11,7 e 46%, respectivamente.
+Este fato pode ser explicado devido aos grupos hidroxila presentes nas estruturas
+aromáticas destas moléculas. Conhecendo-se as contribuições de cada interferente
+na análise, é possível utilizar o eletrodo proposto na detecção do BPA na presença de
+estriol e etinilestradiol.
+
+39
+
+5.7 Análise em amostras reais
+
+Inicialmente o sensor proposto foi utilizado na análise de amostra de água da
+torneira sem pré-tratamento. Foram realizadas adições consecutivas de alíquotas de
+50 µL de água da torneira numa cela eletroquímica contendo 10 mL de solução de
+tampão fosfato. As amostras não demonstraram picos de oxidação, o que indica que
+a água não estava contaminada com BPA. Então, a amostra foi propositalmente
+contaminada com uma concentração conhecida 2,0 µmol L-1 de Bisfenol-A e analisada
+através do método proposto. A concentração de Bisfenol-A encontrada na análise da
+amostra contaminada foi de 2,08 µmol L-1, indicando um erro de 4%.
+
+5.8
+
+Comparação estatística
+
+Após a análise inicial de água de torneira, foram realizadas análises de uma
+amostra ambiental, a qual era composta de diversas amostras dos rios coletadas nas
+micro bacias da região de São Luiz do Paraitinga. As análises foram realizadas pela
+técnica de cromatografia gasosa acoplada a um detector FID (do inglês Flame
+Ionization Detector) (GC-FID)30 como descrito na seção experimental, e pela técnica
+de voltametria de pulso diferencial, utilizando as mesmas amostras de água.
+Após otimizar o sistema de preparo da amostra no GC-FID, analizou-se uma
+amostra de água ambiental em ambas as técnicas. A amostra do rio não apresentou
+nenhum sinal no tempo de retenção característico do bisfenol A para a técnica
+GC - FID e nem de oxidação para VPD, indicando a ausência do composto naquelas
+amostras. Então, foram separadas alíquotas da água do rio e cada uma delas foi
+contaminada com uma quantidade conhecida de bisfenol A a fim de analisá-las por
+ambas as técnicas. Para cada uma das técnicas foi elaborada uma curva de calibração
+na faixa de trabalho entre 1,6 x 10-6 e 2,8 x 10-6 (366 a 639 µg L- 1) e as amostras
+fortificadas foram analisadas.
+A comparação estatística foi realizada pela avaliação da regressão linear da
+equação da reta, onde os resultados da detecção eletroanalítica foram graficados no
+eixo das ordenadas e os resultados da metodologia padrão de detecção, comotografia
+gasosa, foram graficados no eixo das abscissas, para cada amostra realizada, na
+mesma faixa de trabalho. A figura 19 apresenta a correlação obtida entre as duas
+técnicas para a determinação de BPA em amostra de água fluvial superficial
+
+40
+
+Figura 19 - Regressão linear obtida pela correlação entre as duas técnicas
+
+-7
+
+2,8x10
+
+-6
+
+y = 1,37e10 + 0,89x
+r = 0,99404
+
+-6
+
+2,4x10
+
+-6
+
+2,2x10
+
+-6
+
+2,0x10
+
+-6
+
+1,8x10
+
+-6
+
+CBPA VPD / mol L
+
+-1
+
+2,6x10
+
+1,8x10
+
+-6
+
+2,0x10
+
+-6
+
+2,2x10
+
+-6
+
+2,4x10
+
+-6
+
+2,6x10
+
+CBPA GC / mol L
+
+-6
+
+2,8x10
+
+-6
+
+3,0x10
+
+-6
+
+-1
+
+Fonte: autoria própria
+
+É possível observar que o valor do intercepto é bem próximo de zero e tanto o
+coeficiente angular quanto o coeficiente de correlação produto-momento possuem
+valores próximos de 1, caracterizando a situação próxima da ideal (figura 5a), o que
+indica que há correlação entre as técnicas, ou seja, são análogas para a detecção de
+BPA, na faixa de concentração analisada.
+Para corroborar com o resultado apresentado, foi realizado a avalição dos
+resultados das detecções de ambas as metodologias para cada amostra pelo método
+estatístico t de Student, utilizando-se a equação 𝑡
+
+=
+
+|𝑟|√𝑛−2
+, onde r é o coeficiente
+√1−𝑟 2
+
+de correlação produto-momento, 𝑛 o número total de medidas realizadas para cada
+técnica.
+
+41
+
+O coeficiente de correlação produto-momento pode ser calculado pela equação
+
+𝑟=
+
+∑𝑖{(𝑥𝑖 −𝑥̅ )(𝑦𝑖− 𝑦̅)}
+{[∑𝑖{(𝑥𝑖 −𝑥̅ )2 ][∑𝑖{(𝑦𝑖 −𝑦̅)2 ]}1/2
+
+, onde
+
+𝑥 são os valores de concentração das
+
+amostras determinadas pela técnica padrão, 𝑥̅ a média dos valores de concentração
+das amostras determinadas pela técnica padrão, 𝑦 são os valores de concentração
+das amostras determinadas pela método proposto e 𝑦̅ a média dos valores de
+concentração das amostras determinadas pelo método proposto.
+O resultado foi de 12,8, valor maior do que o t crítico tabelado, de 4,30 a 95% de
+confiança para n = 4 (GL = 2; α = 0.05). Desta forma a hipótese nula (que indica que
+não há correlação entre o x e y) pode ser descartada, o que significa que e a
+metodologia eletroanalítica utilizando a técnica de voltametria de pulso diferencial é
+análoga à técnica de cromatografia à gás, a 95% de confiança e 2 graus de liberdade.
+De acordo com o exposto acima, o sensor eletroquímico proposto pode ser
+utilizado para determinação de bisfenol A em amostras de água de abastecimento e
+fluviais de maneira alternativa ao método cromatográfico.
+
+6 CONCLUSÃO
+
+As análises por EDX e por SEM confirmaram a presença de prata, grafeno e
+sílica no material híbrido, além disso, os voltamogramas cíclicos também identificaram
+a presença de prata no material híbrido SMD/GO/AgNP. As análises por XPS e as
+imagens obtidas por microscopia eletrônica de transmissão e de varredura
+confirmaram a formação das nanopartículas de prata. Através do XPS foi possível
+identificar a formação das nanopartículas de prata (picos com energias de 373,9 e
+367,9 eV), visto que foram descartadas as possibilidades de formação de óxidos de
+prata (ausência de picos em 367,3 e 367,6 eV). As imagens HR-TEM identificaram
+partículas distribuídas sob o material híbrido com tamanhos menores ou iguais a 20
+nanômetros, e nas imagens obtidas através de SEM foi possível visualizar pontos
+brilhantes, homogeneamente distribuídos na matriz. De acordo com o que foi exposto,
+é possível afirmar que a síntese do material híbrido foi realizada de maneira correta,
+fato que foi evidenciado por todas as técnicas utilizadas para caracterização do
+mesmo.
+O sensor proposto com a matriz híbrida SMD/GO/AgNP foi aplicado para
+detecção do interferente endócrino bisfenol-A em amostras reais fortificadas tanto de
+
+42
+
+de água de torneira quanto de águas fluviais superficiais. Nas análises de amostras
+de água da torneira o erro da análise foi inferior a 5%. Nas análises de amostras de
+águas fluviais superficiais, realizaram-se diversos experimentos utilizando a técnica
+padrão de cromatografia a gás e a técnica eletroquímica de voltametria de pulso
+diferencial a fim de compará-las. Um extenso tratamento estatístico foi empregado
+através do método de comparação entre curvas de regressão e posterior avaliação
+dos resultados das detecções de ambas as metodologias para cada amostra pelo
+método estatístico t de Student.
+Houve êxito na comparação entre as duas técnicas e o valor de t calculado foi
+de 12,8. Este resultado demonstra que a metodologia eletroanalítica é análoga à
+técnica de cromatografia gasosa na análise do interferente endócrino bisfenol-A, na
+faixa de concentração de 366 a 639 µg L-1 em amostras do rio.
+Portanto, pode-se concluir que há grande vantagem em utilizar a metodologia
+eletroquímica para análises pois, além de apresentar a possibilidade de aplicação in
+situ, de monitoramento em tempo real, de possuir equipamentos de fácil manipulação,
+baixo custo de análise e baixa produção de resíduos, seus resultados são
+comparáveis às técnicas de cromatografia.
+
+7 REFERÊNCIAS BIBLIOGRÁFICAS
+1
+
+LEE, K. E. et al. Development, characterization and the application of hybrid
+materials in coagulation/flocculation of wastewater: A review. Chemical
+Engineering Journal, v. 203, p. 370-386, 2012.
+
+2
+
+JAL, P. K.; PATEL, S.; MISHRA, B. Chemical modification of silica surface by
+immobilization of functional groups for extractive concentration of metal ions.
+Talanta, v. 62, n. 5, p. 1005-1028, 2004.
+
+3
+
+SING, K. S. W. et al. Reporting Physisorption Data for Gas Solid Systems with
+Special Reference to the Determination of Surface-Area and Porosity
+(Recommendations 1984). Pure and Applied Chemistry, v. 57, n. 4, p. 603619, 1985.
+
+4
+
+MELDE, B. J.; JOHNSON, B. J. Mesoporous materials in sensing: morphology
+and functionality at the meso-interface. Analytical and Bioanalytical
+Chemistry, v. 398, n. 4, p. 1565-1573, 2010.
+
+5
+
+TANG, L. H. et al. Preparation, Structure, and Electrochemical Properties of
+Reduced Graphene Sheet Films. Advanced Functional Materials, v. 19, n. 17,
+p. 2782-2789, 2009.
+
+43
+
+6
+
+ZHU, Y. W. et al. Graphene and Graphene Oxide: Synthesis, Properties, and
+Applications. Advanced Materials, v. 22, n. 35, p. 3906-3924, 2010.
+
+7
+
+PEI, S. F.; CHENG, H. M. The reduction of graphene oxide. Carbon, v. 50, n.
+9, p. 3210-3228, 2012.
+
+8
+
+CHAZALVIEL, J. N.; ALLONGUE, P. On the Origin of the Efficient Nanoparticle
+Mediated Electron Transfer across a Self-Assembled Monolayer. Journal of
+the American Chemical Society, v. 133, n. 4, p. 762-764, 2011.
+
+9
+
+RAIMUNDO, C. C. M. Ocorrência de interferentes endócrinos e produtos
+farmacêuticos nas águas superficiais da bacia do rio Atibaia. 2007. (tese de
+doutorado). Instituto de Química, Universidade Estadual Paulista "Júlio de Mesquita
+Filho"
+
+10
+
+MA, X. Y. et al. Characteristics of BPA removal from water by PACl-Al-13 in
+coagulation process. Journal of Colloid and Interface Science, v. 337, n. 2,
+p. 408-413, 2009.
+
+11
+
+GONÇALVES, C. S. Síntese, caracterização e aplicação de polímeros conjugados
+derivados de ferroceno e de bisfenol-A. 2008. 214 (tese de doutorado). Instituto de
+Química, Universidade de São Paulo
+
+12
+
+LAFLEUR, A. D.; SCHUG, K. A. A review of separation methods for the
+determination of estrogens and plastics-derived estrogen mimics from aqueous
+systems. Analytica Chimica Acta, v. 696, n. 1-2, p. 6-26, 2011.
+
+13
+
+MILLER, J. N. M., J. C. Statistics and Chemometrics for Analytical
+Chemistry. 5th ed. Harlow-Essex, UK: Pearson Education Limited, 2005.
+
+14
+
+DA SILVA, O. B.; MACHADO, S. A. S. Evaluation of the detection and
+quantification limits in electroanalysis using two popular methods: application in
+the case study of paraquat determination. Analytical Methods, v. 4, n. 8, p.
+2348-2354, 2012.
+
+15
+
+HUMMERS, W. S.; OFFEMAN, R. E. Preparation of Graphitic Oxide. Journal
+of the American Chemical Society, v. 80, n. 6, p. 1339-1339, 1958.
+
+16
+
+CANEVARI, T. C. et al. Simultaneous electroanalytical determination of
+hydroquinone and catechol in the presence of resorcinol at an SiO2/C electrode
+spin-coated with a thin film of Nb2O5. Analyst, v. 138, n. 1, p. 315-324, 2013.
+
+17
+
+CONZUELO, F. et al. Integrated disposable electrochemical immunosensors
+for the simultaneous determination of sulfonamide and tetracycline antibiotics
+residues in milk. Biosensors & Bioelectronics, v. 50, p. 100-105, 2013.
+
+18
+
+LI, Y. A.; CHEN, Y. J.; TAI, N. H. Fast Process To Decorate Silver Nanoparticles
+on Carbon Nanomaterials for Preparing High-Performance Flexible Transparent
+Conductive Films. Langmuir, v. 29, n. 26, p. 8433-8439, 2013.
+
+44
+
+19
+
+YUAN, W. H.; GU, Y. J.; LI, L. Green synthesis of graphene/Ag
+nanocomposites. Applied Surface Science, v. 261, p. 753-758, 2012.
+
+20
+
+HOFLUND, G. B.; HAZOS, Z. F.; SALAITA, G. N. Surface characterization
+study of Ag, AgO, and Ag2O using x-ray photoelectron spectroscopy and
+electron energy-loss spectroscopy. Physical Review B, v. 62, n. 16, p. 1112611133, 2000.
+
+21
+
+ZHOU, J. H. et al. Characterization of surface oxygen complexes on carbon
+nanofibers by TPD, XPS and FT-IR. Carbon, v. 45, n. 4, p. 785-796, 2007.
+
+22
+
+CANEVARI, T. C. et al. Direct Synthesis of Ag Nanoparticles Incorporated on
+a Mesoporous Hybrid Material as a Sensitive Sensor for the Simultaneous
+Determination of Dihydroxybenzenes Isomers. European Journal of
+Inorganic Chemistry, v. 2013, n. 33, p. 5746-5754, 2013.
+
+23
+
+BI, H. Q. et al. Carbon-nanotube-modified glassy carbon electrode for
+simultaneous determination of dopamine, ascorbic acid and uric acid: The effect
+of functional groups. Sensors and Actuators B-Chemical, v. 171, p. 11321140, 2012.
+
+24
+
+ZHOU, X.; SHI, T. J. One-pot hydrothermal synthesis of a mesoporous SiO2graphene hybrid with tunable surface area and pore size. Applied Surface
+Science, v. 259, p. 566-573, 2012.
+
+25
+
+CUI, K. et al. A novel hydrogen peroxide sensor based on Ag nanoparticles
+electrodeposited on DNA-networks modified glassy carbon electrode.
+Electrochemistry Communications, v. 10, n. 4, p. 663-667, 2008.
+
+26
+
+LI, J. H. et al. Green synthesis of silver nanoparticles-graphene oxide
+nanocomposite and its application in electrochemical sensing of tryptophan.
+Biosensors & Bioelectronics, v. 42, p. 198-206, 2013.
+
+27
+
+SABATANI, E. et al. Organized Self-Assembling Monolayers on Electrodes .1.
+Octadecyl Derivatives on Gold. Journal of Electroanalytical Chemistry, v.
+219, n. 1-2, p. 365-371, 1987.
+
+28
+
+CESARINO, I.; CINCOTTO, F. H.; MACHADO, S. A. S. A synergistic
+combination of reduced graphene oxide and antimony nanoparticles for estriol
+hormone detection. Sensors and Actuators B-Chemical, v. 210, p. 453-459,
+2015.
+
+29
+
+CINCOTTO, F. H. et al. Simultaneous determination of epinephrine and
+dopamine by electrochemical reduction on the hybrid material SiO2/graphene
+oxide decorated with Ag nanoparticles. Analyst, v. 139, n. 18, p. 4634-4640,
+2014.
+
+30
+
+CHANG, C. M.; CHOU, C. C.; LEE, M. R. Determining leaching of bisphenol A
+from plastic containers by solid-phase microextraction and gas
+
+45
+
+chromatography-mass spectrometry. Analytica Chimica Acta, v. 539, n. 1-2,
+p. 41-47, 2005.
+
+

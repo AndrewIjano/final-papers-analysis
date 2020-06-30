@@ -1,0 +1,3488 @@
+UNIVERSIDADE DE SÃO PAULO
+ESCOLA DE ENGENHARIA DE SÃO CARLOS
+
+LETÍCIA SANTOS DE ALENCAR
+
+Avaliação da degradação térmica de creosoto em solos contaminados a
+partir de simulação de bancada
+
+São Carlos – SP
+2019
+
+LETÍCIA SANTOS DE ALENCAR
+
+Avaliação da degradação térmica de creosoto em dois solos a partir de
+simulação de bancada
+
+Trabalho de Graduação apresentado à Escola de
+Engenharia de São Carlos da Universidade de
+São Paulo para obtenção do título de
+Engenheira Ambiental.
+
+Orientador: Prof. Dr. Marcelo Monteiro da
+Rocha
+Co-orientador: Alexandre Muselli Barbosa
+
+São Carlos – SP
+2019
+
+Aos meus pais e às minhas irmãs,
+por serem minha essência e todo o
+meu amor.
+
+AGRADECIMENTOS
+
+Aos meus pais, Vera e Milton, pela dedicação, cuidado e por toda a inspiração que a
+existência deles me desperta. Às minhas irmãs e melhores amigas, Irene e Débora, pela conexão
+de sangue e alma. Jade e Dante por trazerem nosso sorriso de volta. Allan e Alex, por se
+tornarem parte. Gabi pela amizade que, de tão jurássica, virou irmandade. E aos meus avós,
+Francisco, Carmem e Eunice, pelo orgulho que me fazem sentir.
+À saudosa São Carlos que me acolheu nos últimos anos, pelas boas memórias e
+aprendizados. À vida em república, que me ensinou a olhar o lado pedagógico do caos. Aos
+amigos da Trairagem, pelas melhores lembranças, em especial à Lari e à Carol Torkomian. À
+Carol Nemeth, Taísa e Thais, por se tornarem minha família.
+A toda a vivência universitária que tive o privilégio de desfrutar. Aos professores, em
+especial à Luciana Schenk, pela parceria de anos. Aos meus colegas da ambiental. À SAPA, ao
+GEISA e ao CAASO, por mostrarem que a Universidade vai muito além da sala de aula.
+Ao IPT, que proporcionou toda a estrutura para execução desse trabalho. Ao Alexandre
+e ao Reginaldo, por toda didática e paciência. Ao pessoal do LRAC que somou, de alguma
+forma, na minha experiência durante o estágio. À Andressa e à Taci, pelas angústias e risadas
+compartilhadas.
+Às professoras que marcaram meus tempos de escola e que eu carrego no coração,
+Flávia, Maria Helena, Agnes, Roseli e Mônica.
+
+RESUMO
+ALENCAR, L. S. Avaliação da degradação térmica de creosoto em solos contaminados a
+partir de simulação de bancada. 2019. 80 f. Monografia (Trabalho de Conclusão de Curso
+em Engenharia Ambiental) – Escola de Engenharia de São Carlos, Universidade de São Paulo,
+São Carlos, 2019.
+
+Avaliar a eficiência de métodos de remediação de solos é fundamental no processo de
+Gestão de Áreas Contaminadas, de modo que, através de testes de bancada, sejam estabelecidos
+parâmetros de escalonamento para aplicação em campo. Neste sentido, o trabalho teve como
+objetivo simular o tratamento térmico de dois tipos de solo contaminados com creosoto
+intemperizado, avaliando-se quais os compostos presentes e o potencial de degradação do óleo,
+através de ensaio termogravimétrico. Foram utilizadas 11 temperaturas (22 °C, 100 °C, 225 °C,
+250 °C, 300 °C, 350 °C, 400 °C, 455 °C, 490 °C, 550 °C e 650 °C), com tempo de exposição
+de 12h cada faixa. Trabalhou-se com duas proporções diferentes de contaminação, 4% e 20%,
+em função da relação entre massa de óleo e massa de solo, além dos brancos de amostra. Os
+resultados mostraram que o creosoto da área é composto principalmente por hidrocarbonetos
+policíclicos aromáticos, com predominâncias de substâncias com 2 e 3 anéis, e o teste
+termogravimétrico se mostrou eficiente, indicando que a maioria dos contaminantes foi
+eliminada e aqueles remanescentes permaneceram com concentrações abaixo dos valores
+orientadores estabelecidos pela CETESB e pela EPA. Determinou-se também que 400 °C foi a
+temperatura com maior eficiência de remoção (acima de 90%), considerando a perda de massa
+acumulada. Numa análise custo-benefício, representa uma boa alternativa de aplicabilidade. As
+amostras do solo P-59 demonstraram eficiência ligeiramente menor que a da ANB. Essa
+diferença pode estar relacionada à sua mineralogia, já que o quartzo presente na areia possui
+melhor condutividade térmica que a caulinita, argilomineral predominante no outro solo. Além
+disso, a matéria orgânica presente no P-59 atua como resistor térmico. Quando aplicado in situ,
+o sistema de remediação termal deve considerar o aumento do fator mobilidade da pluma, com
+a queda da viscosidade, de modo a não agravar os impactos negativos sobre o meio.
+
+Palavras-Chave: Áreas Contaminadas. Remediação Termal. Hidrocarbonetos Policíclicos
+Aromáticos. Solos Tropicais.
+
+ABSTRACT
+ALENCAR, L. S. Evaluation of thermal degradation of creosote in contaminated soils
+under bench testing. 2019. 80 f. Monograph (Completion of Course Work in Environmental
+Engineering) – Engineering School of São Carlos, University of São Paulo, São Carlos, 2019.
+
+Evaluating the efficiency of soil remediation methods is fundamental in Contaminated
+Site Management process, therefore, scaling parameters are established for field application
+through bench tests. Thereby, the work had as objective to simulate a thermal treatment of two
+types of soil with weathered creosote, evaluating their compounds and potential of oil
+degradation, through thermogravimetric test. Eleven temperatures were used (22 °C, 100 °C,
+225 °C, 250 °C, 300 °C, 350 °C, 400 °C, 455 °C, 490 °C, 550 °C e 650 °C), with an exposure
+time of 12 hours each. Two different contamination proportions were used, 4% and 20%,
+according to the ratio between oil mass and soil mass, besides the blank samples. The results
+showed that the creosote of the area is mainly composed of aromatic polycyclic hydrocarbons
+with predominance of substances with 2 and 3 rings. The thermogravimetric test proved to be
+efficient, indicating that most of the contaminants were eliminated and those who stayed at
+concentrations below of the guiding values established by CETESB and EPA. It was also
+determined that 400 ° C was the temperature with the highest removal efficiency (above 90%),
+considering the accumulated mass loss. In a cost-benefit analysis, it represents a good
+alternative of applicability. The P-59 soil samples showed some lower efficiency than ANB.
+This difference may be related to its mineralogy, since the quartz present in the sand has better
+thermal conductivity than kaolinite, predominant in the other soil. In addition, the organic
+matter present in P-59 acts as a thermal resistor. When applied in situ, the thermal remediation
+system should consider increase the contamination plume mobility, with the decrease of
+viscosity, to not aggravate negative impacts on the environment.
+
+Keywords: Contaminated Sites. Thermal Remediation. Polycyclic Aromatic Hydrocarbons.
+Tropical Soils.
+
+LISTAS DE FIGURAS
+Figura 1- Fluxograma resumo das principais etapas do Gerenciamento de Áreas
+Contaminadas ................................................................................................................... 17
+Figura 2 - Distribuição de Áreas Contaminadas cadastradas pela CETESB quanto à fase do
+processo de Gerenciamento, no Estado de São Paulo .......................................................... 20
+Figura 3 - Produção do óleo creosoto ................................................................................. 26
+Figura 4 - Estrutura e nomenclatura dos 16 HPA prioritários da USEPA ............................. 29
+Figura 5 - Principais componentes do solo ......................................................................... 31
+Figura 6: Diagrama textural baseado no Sistema Norte Americano de classificação do
+tamanho das partículas, adotado pela SBCS. ...................................................................... 33
+Figura 7 – Distribuição de hidrocarbonetos em meio subterrâneo e suas diferentes fases...... 36
+Figura 8 - Amostras de solo sem contaminação .................................................................. 50
+Figura 9 - Amostras de solo contaminado ........................................................................... 50
+Figura 10 - Amostras de solo argiloso enviadas para análise química (pré e pós-tratamento) 51
+Figura 11 - Amostras de solo arenoso enviadas para análise química (pré e pós-tratamento) 51
+Figura 12 - Variação em massa do solo P-59 ...................................................................... 53
+Figura 13: Variação em massa de solo arenoso (ANB) ....................................................... 53
+Figura 14: Tratabilidade do óleo no solo P-59 .................................................................... 54
+Figura 15: Tratabilidade do óleo no solo arenoso (ANB) .................................................... 54
+Figura 16: Perda de massa de óleo acumulada - P-59 .......................................................... 55
+Figura 17: Perda de massa de óleo acumulada - ANB ......................................................... 55
+
+LISTA DE TABELAS
+Tabela 1- Propriedades físico-químicas de alguns HPAs ..................................................... 28
+Tabela 2 - Efeitos carcinogênicos, genotóxicos e mutagênicos de alguns HPAs e NHPAs ... 30
+Tabela 3: Frações granulométricas definidas pelos sistemas de classificacão Norte Americano
+(USDA), Internacional (ISSS) e da Sociedade Brasileira de Ciência do Solo (SBCS) .......... 33
+Tabela 4 – Compostos identificados na análise química do creosoto, em ordem decrescente de
+concentração ..................................................................................................................... 47
+Tabela 5 – Requisitos físicos e químicos da ANB ............................................................... 48
+Tabela 6: Análise física da ANB ........................................................................................ 48
+Tabela 7 - Análise física, química e mineralógica do solo P-59 ........................................... 48
+Tabela 8 - Cálculo do teor de umidade ............................................................................... 50
+Tabela 9 - Massa de contaminante por faixa de saturação nos solos P-59 e ANB ................. 50
+Tabela 10- Resultado da análise química pré e pós tratamento ............................................ 52
+
+LISTA DE QUADROS
+Quadro 1- Aspectos envolvidos na desativação de empreendimentos de acordo com sua
+tipologia............................................................................................................................ 24
+Quadro 2- Principais instrumentos de gestão empregados nas políticas corretivas de solos
+contaminados .................................................................................................................... 25
+Quadro 3 - Exemplos de tecnologias de remediação ........................................................... 39
+Quadro 4- Análise química do óleo .................................................................................... 40
+Quadro 5 – Requisitos físicos e químicos da ANB .............................................................. 41
+Quadro 6: Ensaios de caracterização física da ANB ............................................................ 42
+Quadro 7 - Ensaios de caracterização física, química e mineralógica do solo P-59 ............... 43
+Quadro 8- Análise química das amostras de solo contaminado com 20% de óleo, pré e póstratamento ......................................................................................................................... 45
+
+LISTA DE ABREVIATURAS E SIGLAS
+ABNT – Associação Brasileira de Normas Técnicas
+AC – Áreas Contaminadas
+ACV – Análise do Ciclo de Vida
+ANB – Areia Normal Brasileira
+ANVISA – Agência Nacional de Vigilância Sanitária
+BDNAC – Banco de Dados Nacional sobre Áreas Contaminadas
+BTEX – Benzeno, Tolueno, Etil-benzeno e Xilenos
+CCA – Chromated Copper Arsenate
+CETESB – Companhia Ambiental do Estado de São Paulo
+CONAMA – Conselho Nacional do Meio Ambiente
+COSV – Compostos Orgânicos Semi-voláteis
+COV – Compostos Orgânicos Voláteis
+EEA – European Environmental Agency
+EIA – Estudo de Impacto Ambiental
+EESC – Escola de Engenharia de São Carlos
+EPA – Environmental Protection Agency
+FEAM – Fundação Estadual do Meio Ambiente
+FOC – Fração de Carbono Orgânico
+GAC – Gerenciamento de Áreas Contaminadas
+GRO – Gasoline Range Organics
+HPA – Hidrocarboneto Policíclico Aromático
+
+HTP – Hidrocarbonetos Totais de Petróleo
+INEA – Instituto Estadual do Ambiente
+IPT – Instituto de Pesquisas Tecnológicas
+ISSS – International Society of Soil Science
+LRAC – Laboratório de Resíduos e Áreas Contaminadas
+MO – Matéria Orgânica
+NAPL – Non-aqueous phase liquid
+NCRSP – National Contaminated Sites Remediation Program
+NBR – Norma brasileira
+ONU – Organização das Nações Unidas
+PCP – Pentaclorofenol
+PNMA – Política Nacional do Meio Ambiente
+POP – Poluentes Orgânicos Persistentes
+RMSP – Região Metropolitana de São Paulo
+SBCS – Sociedade Brasileira de Ciência do Solo
+SPH – Six Phase Heating
+STP – Substância Tóxica Persistente
+TFSA – Terra fina Seca ao Ar
+USDA – United States Department of Agriculture
+USITC – United States International Trade Comission
+USP – Universidade de São Paulo
+UTM – Usina de Tratamento de Madeira
+
+SUMÁRIO
+LISTAS DE FIGURAS ................................................................................................... 14
+LISTA DE TABELAS ..................................................................................................... 15
+LISTA DE QUADROS.................................................................................................... 15
+LISTA DE ABREVIATURAS E SIGLAS ...................................................................... 16
+1.
+
+INTRODUÇÃO ........................................................................................................ 14
+
+2.
+
+OBJETIVOS ............................................................................................................ 16
+
+3. ÁREAS CONTAMINADAS ........................................................................................ 16
+3.1 PANORAMA GLOBAL.............................................................................................. 17
+3.2 PANORAMA BRASILEIRO ....................................................................................... 19
+4. PASSIVOS AMBIENTAIS.......................................................................................... 21
+4.1 CONCEITO ................................................................................................................ 21
+4.2 IDENTIFICAÇÃO E RESPONSABILIZAÇÃO DO PASSIVO DENTRO DA
+LEGISLAÇÃO AMBIENTAL .......................................................................................... 22
+4.3 A DESATIVAÇÃO DE EMPREENDIMENTOS E SEUS IMPACTOS ........................ 23
+4.4 ESTRATÉGIAS PARA GESTÃO DO PASSIVO ........................................................ 24
+5. CREOSOTO ................................................................................................................ 25
+5.1 ASPECTOS GERAIS .................................................................................................. 25
+5.2 HIDROCARBONETOS POLICÍCLICOS AROMÁTICOS .......................................... 27
+5.3 EXPOSIÇÃO HUMANA E TOXICIDADE DOS COMPOSTOS ................................. 28
+6.
+
+SOLOS ..................................................................................................................... 31
+
+6.1 CARACTERÍSTICAS GERAIS .................................................................................. 31
+6.2 PROPRIEDADES TÉRMICAS ................................................................................... 34
+6.3 SOLOS TROPICAIS ................................................................................................... 35
+6.4 TRANSPORTE DE CONTAMINANTES .................................................................... 36
+6.4.1 Fase residual ...................................................................................................... 36
+6.4.2 Fase livre ........................................................................................................... 37
+6.4.3 Fase dissolvida .................................................................................................. 37
+6.4.4 Fase vapor ......................................................................................................... 37
+6.4.5 Fase adsorvida ................................................................................................... 37
+7.
+
+TECNOLOGIAS DE REMEDIAÇÃO .................................................................... 38
+
+7.1 APLICAÇÃO DE REMEDIAÇÃO TERMAL IN SITU ................................................ 39
+
+8. METODOLOGIA ....................................................................................................... 40
+8.1. COLETA E ANÁLISE DO ÓLEO .............................................................................. 40
+8.2. COLETA E CARACTERIZAÇÃO DOS SOLOS ........................................................ 41
+8.2.1. ANB................................................................................................................. 41
+8.2.2 P-59 .................................................................................................................. 42
+8.2.3 Teor de umidade antes da contaminação ............................................................. 43
+8.3. CONTAMINAÇÃO DAS AMOSTRAS...................................................................... 44
+8.4. TERMOGRAVIMETRIA ........................................................................................... 44
+8.4.1 Análise química dos solos: pré e pós-tratamento ................................................. 45
+8.4.2 Tratamento dos dados obtidos ............................................................................ 45
+9.
+
+RESULTADOS E DISCUSSÃO............................................................................... 46
+
+9.1. ANÁLISE DO ÓLEO ................................................................................................. 46
+9.2. CARACTERIZAÇÃO DO SOLO ............................................................................... 47
+9.2.1 ANB.................................................................................................................. 47
+9.2.2 P-59 .................................................................................................................. 48
+9.2.3. Teor de umidade antes da contaminação ............................................................ 50
+9.3 CONTAMINAÇÃO DAS AMOSTRAS ...................................................................... 50
+9.4. TERMOGRAVIMETRIA ........................................................................................... 51
+9.4.1 Análise química dos solos: pré e pós-tratamento ................................................. 51
+9.4.2 Tratamento dos dados obtidos ............................................................................ 52
+10. CONCLUSÃO .......................................................................................................... 57
+REFERÊNCIAS .............................................................................................................. 59
+APÊNDICES ................................................................................................................... 69
+
+14
+
+1.
+
+INTRODUÇÃO
+O meio ambiente, desde as primeiras formas de sociedade organizada, desempenhou função
+
+não só de fonte de recursos para os mais diversos processos produtivos, mas também como
+destino dos subprodutos das atividades antrópicas. A proporção desse fenômeno acompanha o
+crescimento populacional e seus hábitos de consumo – sobretudo pós Revolução Industrial, no
+século XVIII, que elevou a quantidade e a periculosidade dos materiais descartados (PEJON;
+RODRIGUES; ZUQUETTE, 2013). Observa-se, portanto, que os impactos dessa lógica têm
+colocado em xeque a resiliência do meio ambiente, alterando a qualidade de seus recursos e de
+toda a parcela viva que depende de seus serviços.
+Na história mais recente, tem-se que, a partir da década de 70, diversos setores da sociedade,
+incluindo lideranças internacionais, passaram a considerar a pauta ambiental em seus modelos
+de desenvolvimento econômico. A Conferência de Estocolmo, em 1972, idealizada pela
+Organização das Nações Unidas (ONU) foi um marco da formalização de acordos
+internacionais sobre o meio ambiente por parte dos chefes de Estado. Em 1987, o relatório Our
+commom future, da World Comission on Environment and Development, da ONU, consagrou a
+definição de sustentabilidade como “[...] um modelo de desenvolvimento que satisfaz as
+necessidades do presente, sem comprometer a capacidade das gerações futuras satisfazerem as
+suas próprias necessidades” (CALIJURI; CUNHA, 2013, p.123).
+Para manter o equilíbrio do meio, demanda-se que sejam estabelecidos padrões de qualidade,
+designando condições mínimas para que o sistema ecológico suporte as perturbações,
+preservando sua estrutura e funções vitais, sejam elas de natureza física, química ou biológica.
+Um ambiente degradado pode ser recuperado espontaneamente ou sob algum tipo de
+intervenção, a depender da magnitude e intensidade do impacto. Para qualificar a demanda de
+intervenção e a tecnologia a ser aplicada, no caso de Áreas Contaminadas, é necessário, antes,
+proceder com a identificação e caracterização da área. O Gerenciamento de Áreas
+Contaminadas (GAC) abrange as seguintes etapas: avaliação preliminar, investigação
+confirmatória, investigação detalhada, avaliação de risco toxicológico, plano de intervenção,
+remediação e monitoramento para encerramento da área (MAXIMIANO; MORAES;
+TEIXEIRA, 2014). Cabe aqui ressaltar a complexidade da seleção da tecnologia de remediação,
+quer pela validação dos dados, quer pela execução dos métodos. Desse modo, proceder com
+testes de tratabilidade dos contaminantes reduz a incerteza acerca dos resultados do sistema
+remediado.
+
+15
+
+O presente trabalho simula a remediação termal de dois solos com características distintas,
+contaminados por creosoto intemperizado, coletado em área de Usina de Tratamento de
+Madeira (UTM) desativada. Localizada no Jaguaré, zona oeste do município de São Paulo, a
+UTM funcionou entre 1977 e 1997, com descomissionamento em 2003. As madeiras,
+posteriormente usadas como dormentes em linhas férreas, eram tratadas a base de creosoto ou
+Arseniato de Cobre Cromatado (Chromated Copper Arsenate – CCA). A sucessão de falhas de
+operação e controle do processo, bem como pequenos derrames no armazenamento provocaram
+a contaminação da área, gerando um passivo ambiental a ser recuperado (TEIXEIRA, 2005).
+O creosoto foi introduzido na indústria de preservantes no século XIX, atuando, desde então,
+como fungicida e inseticida (CAVALCANTE, 1979). Segundo a Agência Nacional de
+Vigilância Sanitária (ANVISA), em sua “Relação de monografias dos ingredientes agrotóxicos,
+domissanitários e preservantes de madeira”, o óleo creosoto é classificado como extremamente
+tóxico, isto é, classe I (BRASIL, 2002).
+A remediação termal, como alternativa tecnológica, parte do princípio físico da quebra da
+molécula dos compostos presentes, por meio do calor fornecido pelo sistema. A elevação de
+temperatura provoca a transferência de massa para a fase gasosa, após atingir o ponto de
+ebulição, tornando mais fácil sua mobilização e captura. Há nesse processo, uma relação direta
+entre a quantidade de anéis aromáticos na molécula do composto e a demanda energética para
+seu particionamento (GERKENS; FRANKLIN, 1989; GAUTHIER; MURPHY, 2003).
+Alguns sistemas vêm sendo aplicados in loco para áreas contaminadas por NAPLs (Non
+Aqueous Phase Liquids), sejam eles acumulados acima ou abaixo do nível d’água. O calor
+fornecido pode partir de sistemas que funcionem a base de eletroresistências, extração a vapor
+ou aquecimento térmico por condução (HICKNELL et al., 2018).
+Assim sendo, traçar alternativas de remediação, técnica e economicamente viáveis, que
+contemplem desde as características físicas do solo até o comportamento do contaminante, são
+fundamentais para um ganho de eficiência e boa gestão do problema. Cabe destacar que a
+maioria dos estudos existentes acerca da tratabilidade térmica de solos contaminados se refere
+a solos característicos de clima temperado. O presente trabalho tem como objetivo avaliar a
+eficiência de degradação térmica do creosoto em solo tropical, a partir de ensaios em nível de
+bancada, como foco na tratabilidade dos HPAs. Algumas alternativas tecnológicas para
+remediação serão apresentadas, porém não é a proposta detalhar o plano de intervenção.
+
+16
+
+2.
+
+OBJETIVOS
+
+GERAL
+
+Estudar a eficiência de degradação térmica do creosoto em dois solos.
+
+ESPECÍFICOS
+• Gerar informações acerca da tratabilidade do creosoto, que contribuam na tomada de decisão
+em fase de remediação de áreas contaminadas;
+• Comparar os efeitos do processo térmico em dois tipos solos, sendo um argiloso e um
+arenoso, analisando a influência de suas características no tratamento;
+• Correlacionar a quantidade de anéis aromáticos dos HPAs presentes no contaminante com
+a demanda energética de degradação.
+
+3. ÁREAS CONTAMINADAS
+Pela Lei Estadual 13.577/2009, Áreas Contaminadas (ACs) são locais que contenham
+“[...] quantidades ou concentrações de matéria em condições que causem ou possam causar
+danos à saúde humana, ao meio ambiente ou a outro bem a se proteger” (SÃO PAULO, 2009,
+p.1).
+Frente a isso, é estabelecido um conjunto de medidas a serem tomadas a fim de
+caracterizar a área, definir as medidas de intervenção mais adequadas e minimizar, ou ainda,
+eliminar os riscos e danos à população e ao meio ambiente. Esse conjunto de medidas se refere
+ao processo de Gerenciamento de Áreas Contaminadas – GAC (SÃO PAULO, 2013). As
+principais etapas são apresentadas na Figura 1.
+A organicidade desse sistema depende da existência de diversos atores, entre os quais
+Universidades e Institutos de Pesquisa, cuja função é gerar subsídio técnico e teórico para o
+setor. Destaca-se também a importância de agências reguladoras e fiscalizadoras no controle
+das atividades de recuperação e remediação, todas sob jurisdição do Ministério Público
+(TEIXEIRA et al., 2016).
+
+17
+
+Figura 1- Fluxograma resumo das principais etapas do Gerenciamento de Áreas Contaminadas
+
+Fonte: Adaptado de Maximiano; Moraes; Teixeira (2014).
+
+3.1 PANORAMA GLOBAL
+A crescente relevância do GAC na proteção do meio ambiente tem fortalecido, cada vez
+mais, o mercado de Bens e Serviços Ambientais. Para tanto, é necessário que haja legislações
+consolidadas no sentido de estabelecer a obrigatoriedade da recuperação de áreas contaminadas.
+Nesse contexto, introduz-se o conceito de poluidor-pagador, incorporado formalmente ao plano
+político global em 25 de maio de 1972, através da Organização de Cooperação e
+Desenvolvimento Econômico (OCDE). O princípio estabelece a responsabilidade do poluidor
+arcar com as despesas de medidas de prevenção e controle, a fim de incentivar a utilização
+racional dos recursos ambientais (OECD, 1972).
+Os Estados Unidos lideram o mercado de serviços de remediação. Não
+coincidentemente, é a nação pioneira em legislação voltada para a recuperação de áreas
+contaminadas, em níveis estadual e federal. A EPA estimou que, em 2006, havia cerca de
+290.000 áreas nos EUA com demanda de remediação e custo estimado de mais de 200 bilhões
+de dólares, entre as quais havia indústrias abandonadas, terrenos costeiros e imóveis comerciais.
+Uma estratégia adotada pelo governo para incentivar o setor privado a investir em programas
+de remediação e revitalização de áreas contaminadas foi a isenção de taxas em processos
+industriais (USITC, 2013).
+
+18
+
+As atividades que mais poluem nos Estados Unidos estão relacionadas à mineração,
+indústria, disposição de resíduos urbanos e perigosos, testes militares, processamento de
+madeira, manufatura de carvão e petróleo, disposição de resíduos radioativos, armazenamento
+de combustíveis, lavanderias, etc. (GOODGUIDE, 2015).
+Quanto aos contaminantes mais frequentes, têm-se os metais, os compostos orgânicos
+voláteis (COV), sobretudo derivados de petróleo (BTEX) e também os compostos orgânicos
+semi-voláteis (COSV), dos quais se destacam os solventes. No que tange às tecnologias de
+remediação aplicadas, o programa do governo federal Superfund se destaca na seleção e
+aplicação de métodos com maior custo benefício, de modo que representa uma referência de
+mercado para o segmento. A maior parte dos métodos se caracterizam por tecnologias ex-situ
+(58%), entre as quais predominam as técnicas de solidificação e estabilização, a incineração off
+site, a dessorção térmica e a biorremediação. Esses dados se referem a um período
+compreendido entre 1982 e 2002 (EPA, 2004).
+No Canadá, funciona há quase quatro décadas o Programa Nacional de Remediação de
+Sítios Contaminados (National Contaminated Sites Remediation Program – NCSRP), cuja
+administração é dividida entre governo federal e governos provincianos. Com objetivo de
+classificar e remediar os sítios contaminados, sobretudo por resíduos perigosos, o NCSRP
+funciona sob o princípio do poluidor-pagador, englobando a identificação, avaliação e
+remediação de sítios nos quais sejam confirmados riscos à saúde humana e ao meio ambiente;
+provisão de fundos para sítios de alto risco cujo proprietário é incapaz de arcar com custos de
+remediação; além do desenvolvimento de novas tecnologias (MAGALHÃES, 2000).
+Estima-se que, no continente Europeu existam próximo a 4,2 sítios contaminados a cada
+1.000 habitantes (EEA, 2015). Entre as principais atividades poluidoras, tem-se que o
+tratamento e eliminação de resíduos, sobretudo urbanos e industriais, expressa 38% dos casos
+de contaminação do solo. Tanto em água subterrânea, como em solo, os contaminantes que
+predominam são os metais pesados e o óleo mineral. Ressalta-se aqui que os HPAs refletem
+quase 11% da contaminação em solo e pouco mais que 6% em água subterrânea (PANAGOS
+et al., 2013; EEA, 2015).
+Para solos contaminados, predominam ainda técnicas de remediação mais tradicionais,
+como escavação e destinação do material. Para águas subterrâneas contaminadas, técnicas in
+situ e ex situ são observadas com a mesma frequência. Os países que mais movimentam o
+
+19
+
+Mercado de Áreas Contaminadas são Alemanha (25%), Dinamarca (21%) e Holanda (14%). A
+França também contribui de modo expressivo nesse segmento. Em 1999, junto à Alemanha,
+representavam 58% de todas as áreas investigadas da Europa, com cerca de, respectivamente,
+300.000 e 360.000 áreas contaminadas (BAUMERT et al., 2004).
+Generalizando o contexto dos países africanos e do Sudoeste Asiático, destaca-se a
+problemática dos pesticidas obsoletos. Este conflito é intensificado pela insuficiência de
+recursos a ser investida em tecnologia, disposição adequada de rejeitos e em avaliação e
+remediação das áreas contaminadas. A maioria dos depósitos localiza-se em centros de áreas
+urbanas populosas ou próximo a corpos d’água e incluem, principalmente, compostos
+organoclorados, organofosfatados e carbamatos. Em 1996, estimou-se que havia cerca de
+20.000 toneladas de pesticidas obsoletos na África, sem incluir contaminantes, como materiais,
+recipientes e solo contaminado. Marrocos foi identificado como o país mais afetado, com um
+total de 2.265 toneladas de pesticidas obsoletos distribuídos em 25 sítios, sem nenhuma
+atividade de disposição até a época (MAGALHÃES, 2000).
+
+3.2 PANORAMA BRASILEIRO
+Segundo Araújo et al. (2016), a problemática associada à contaminação de solos e águas
+subterrâneas acompanha o desenvolvimento da indústria no Brasil. Um marco histórico foi o
+caso das Indústrias Matarazzo em São Caetano do Sul, São Paulo, cuja desativação foi iniciada
+em 1975 – decorrente do manejo inadequado de processos diversos, envolvendo H 2SO4, HCl,
+HCH, entre outros. Contudo, a primeira legislação federal específica a tratar da contaminação
+de solos veio apenas em 2000, com a Resolução CONAMA 273 (CONAMA, 2000), referente
+ao licenciamento ambiental de postos de combustíveis. Em 2009, foi publicada a
+CONAMA 420 (CONAMA, 2009), que dispõe sobre critérios e valores orientadores de
+qualidade do solo quanto a presença de substâncias químicas, além de estabelecer diretrizes de
+gerenciamento de ACs, englobando o Banco de Dados Nacional sobre Áreas Contaminadas
+(BDNAC).
+Conforme Araújo (2014), a região sudeste apresenta o melhor cenário em termos de
+nível de gerenciamento. São Paulo foi pioneiro na aprovação de lei estadual específica para AC,
+através da Lei 13.577/2009 (SÃO PAULO, 2009), regulamentada pelo Decreto 59.263/2013
+(SÃO PAULO, 2013).
+Anualmente, a CETESB atualiza e publica a relação de Áreas Contaminadas e
+
+20
+
+Reabilitadas, conforme o artigo 9º do Decreto 59.263/2013 (SÃO PAULO, 2013), sintetizando
+as informações levantadas durante o processo de investigação, além das medidas de intervenção
+traçadas e seu andamento. Comparando-se os dados de 2017 e 2018, observa-se o crescimento
+de 23% do número de Áreas Reabilitadas, de 1.184 para 1.453 áreas (CETESB, 2018). A Figura
+2, a seguir, ilustra a distribuição das áreas cadastradas pela CETESB, até 2018, no que tange à
+fase do processo de gerenciamento.
+Figura 2 - Distribuição de Áreas Contaminadas cadastradas pela CETESB quanto à fase do processo
+de Gerenciamento, no Estado de São Paulo
+
+Fonte: CETESB (2018).
+
+Os dados mais recentes indicam que, no estado de São Paulo, existem 6.110 áreas
+cadastradas, das quais mais da metade se encontra na capital e região metropolitana. Dessas
+áreas, 72% estão associadas a postos de combustíveis. Os principais contaminantes
+relacionados a esse tipo de contaminação se classificam como solventes aromáticos e HPAs
+(CETESB, 2018).
+Destaca-se aqui a importância da mobilização de múltiplos atores sociais no processo
+de identificação e gerenciamento das ACs, dentre os quais segmentos de serviços de saúde,
+recursos hídricos, planejamento urbano, etc., munindo o órgão gestor de ferramentas mais
+efetivas que acarretem em benefícios para o meio ambiente, para a população e para o mercado
+(CETESB, 2018).
+No Rio de Janeiro, até 2014 havia 270 ACs registradas pelo INEA, das quais 56%
+correspondem a postos de combustíveis, seguido de 27% decorrentes da indústria. Dessa última
+parcela, observa-se que a atividade mais expressiva nos casos de contaminação é a de refino de
+petróleo, de modo que os principais contaminantes associados são BTEX, HPAs e HTPs
+
+21
+
+(CAVANI; RISSARDI; TAVARES, 2016).
+A FEAM (Fundação Estadual do Meio Ambiente) divulgou em 2018 seu inventário de
+áreas contaminadas e reabilitadas em Minas Gerais, registrando um total de 662 áreas em 175
+municípios mineiros. Dos empreendimentos cadastrados, 73% se referem aos postos de
+combustíveis, incluindo comércio varejista de combustíveis e revendedores de gasolina, etanol
+e diesel. Os grupos de contaminantes mais frequentes são os compostos orgânicos BTEX, HPAs
+e derivados de petróleo, no geral, como graxas e solventes (FEAM, 2018).
+Todavia, o restante dos estados não possui setor específico responsável pelas ACs em
+seus órgãos ambientais, fato este que dificulta a construção e disponibilização de banco de
+dados para gerenciamento das áreas. As dificuldades mais frequentemente apontadas por esses
+órgãos são os custos elevados para investigação, remediação e outros serviços relacionados
+(como análises químicas, ensaios de tratabilidade, etc.), além da carência de mão de obra
+qualificada. A ausência de automatização no processo de cadastramento das ACs também
+demonstra um déficit no processo. O aspecto financeiro é, portanto, o grande fator limitante
+(CAVANI; RISSARDI; TAVARES, 2016).
+
+4. PASSIVOS AMBIENTAIS
+4.1 CONCEITO
+Projetos de engenharia tem seu uso limitado pelo tempo, seja pela sucessão de
+intempéries que provocam sua deterioração, seja pela obsolescência em detrimento de outra
+tecnologia mais recente. A evolução da sociedade de consumo intensificou esse processo,
+agravando o conflito da disposição de resíduos, em geral. Dentro da lógica industrial, a partir
+dos anos 90, introduziu-se a ideia da Análise do Ciclo de Vida (ACV) do produto, cujo objetivo
+é estudar os potenciais impactos ao meio ambiente durante toda sua vida útil, além de considerálos em sua concepção - design for the environment (SANCHEZ, 2001).
+Sanchez (2001) define passivo ambiental como o acúmulo de danos ambientais que
+devem ser reparados a fim de que seja mantida a qualidade ambiental de um determinado local.
+A princípio, esse conceito é definido partindo do valor monetário que se atribui ao reparo desses
+danos ambientais, de modo que se inclua o custo estimado no orçamento do empreendimento
+em questão, integrando à sua análise de viabilidade econômica. No entanto, comumente, o
+termo passivo ambiental é aplicado independente de sua conotação monetária, expressando,
+
+22
+
+sobretudo, os impactos ao meio natural, que nem sempre são mensuráveis.
+Nesse sentido, faz-se necessário incorporar, a qualquer projeto, os potenciais impactos
+não só de instalação e operação, mas também aqueles imbricados a sua desativação. Os planos
+de encerramento ou planos de recuperação de áreas degradadas são ferramentas para planejar a
+desativação do empreendimento, a fim de anular o passivo ambiental desenvolvido durante
+todas as fases de sua vida útil (SANCHEZ, 2001).
+Os ativos ambientais, em contrapartida, são definidos como os bens adquiridos pela
+companhia, com fins de controle, preservação e recuperação do meio. Insumos utilizados
+diretamente no processo produtivo visando eliminar a geração de poluentes podem ser
+considerados ativos ambientais, assim como máquinas, equipamentos e instalações à parte dos
+segmentos operacionais. Mecanismos caracterizados como “tecnologias limpas” não devem ser
+confundidos com ativos ambientais, visto que se enquadram na função de meio de produção,
+constituindo os ativos operacionais (RIBEIRO; GRATÃO, 2000).
+
+4.2 IDENTIFICAÇÃO E RESPONSABILIZAÇÃO DO PASSIVO
+DENTRO DA LEGISLAÇÃO AMBIENTAL
+A Política Nacional do Meio Ambiente (PNMA), instituída pela Lei 6.938/1981, define
+poluidor como “pessoa física ou jurídica, de direito público ou privado, responsável, direta ou
+indiretamente, por atividade causadora de degradação ambiental” (BRASIL, 1981, Art. 3º).
+Resgata-se aqui um conceito já citado no item 3.1, que é o do poluidor-pagador. O passivo
+ambiental se faz, portanto, uma exigência legal da empresa ou indivíduo responsável pelo
+empreendimento, que deve arcar com o custo envolvido na reparação ou recuperação do meio
+(SANCHEZ, 2006). Em caso de não cumprimento, o poluidor está sujeito a penalidades. A Lei
+9.605/1998 dispõe acerca das sanções penais e administrativas relacionadas às atividades
+lesivas ao meio ambiente (BRASIL, 1998).
+De acordo com Ribeiro 1 (1999 apud BERTOLI; RIBEIRO, 2006), alguns exemplos de
+penalidades legais a serem aplicadas a empresas que não tomam medidas mitigadoras de danos
+ambientais são: multas por infrações, obrigatoriedade de recuperação ou restauração de áreas
+degradadas e interdição governamental das atividades, no caso de infrações mais graves
+(abusivas ou reincidentes).
+1
+
+Ribeiro, M. S. de. Balanço Ambiental. (Documento de Discussão Interna 02/99). São Paulo, SP: Fundação
+Instituto de Pesquisas Econômicas – FIPE. 1999.
+
+23
+
+Dentre as ferramentas para identificação e caracterização de passivos ambientais,
+Ribeiro e Lisboa (1999) destacam o uso das informações levantadas no Estudo de Impacto
+Ambiental (EIA).
+
+4.3 A DESATIVAÇÃO DE EMPREENDIMENTOS E SEUS
+IMPACTOS
+Um dos fatores mais significativos associado aos impactos decorrentes da desativação
+de um empreendimento é o risco de saúde pública relacionado à qualidade do solo. As
+substâncias tóxicas presentes nas áreas contaminadas podem entrar em contato direto com a
+pele, ser ingeridas ou inaladas, quando fixas à superfície de partículas sólidas. Além disso, pode
+haver contaminação de águas subterrâneas ou superficiais. O grau desse risco está diretamente
+ligado à mobilidade da pluma de contaminante que, por sua vez, é relativa ao tipo de uso do
+solo, às suas características físico-químicas e às características da substância em questão
+(SANCHEZ, 2001).
+Urbanisticamente, existem dois vetores que caracterizam a deterioração da qualidade
+ambiental, em um cenário de desativação desprovida de um plano adequado de ações
+mitigadoras de impacto. O primeiro consiste na dificuldade de revitalização e reuso da área; o
+segundo, no fomento da dispersão urbana, elevando custos relacionados à extensão de sua
+infraestrutura (SANCHEZ, 2001).
+O Quadro 1 sintetiza algumas características associadas à desativação de diferentes
+tipologias de empreendimento.
+
+24
+
+Quadro 1- Aspectos envolvidos na desativação de empreendimentos de acordo com sua tipologia
+
+Empreendimento
+
+Vida útil
+
+Principais razões para
+fechamento
+·Obsolescência
+·Mercado
+· Impactos ambientais
+
+Principais passivos
+ambientais
+·Solos contaminados
+·Aquíferos poluídos
+·Resíduos tóxicos
+
+Indústrias
+
+Indeterminada
+
+Minas
+
+·Exaustão
+·Obsolescência
+Determinada, mas variável
+·Mercado
+· Impactos ambientais
+
+·Escavações
+·Áreas de subsidência
+·Áreas alagadas
+·Pilhas de estéreis
+·Barragens de rejeitos
+
+Depósitos de resíduos
+
+·Exaustão
+Determinada, mas variável ·Mercado
+· Impactos ambientais
+
+·Riscos de migração de
+poluentes e de explosões
+de gás
+·Solos contaminados
+
+Infraestrutura de
+transportes
+
+Indeterminada
+
+·Obsolescência
+·Solos contaminados
+·Incompatibilidade com o ·Aquíferos poluídos
+tecido urbano
+·Resíduos tóxicos
+
+Usinas Termelétricas
+
+Indeterminada
+
+·Obsolescência
+·Mercado
+·Impactos ambientais
+
+·Solos contaminados
+·Aquíferos poluídos
+·Resíduos tóxicos
+
+Instalações nucleares
+
+Determinada
+
+·Obsolescência
+
+·Materiais radioativos
+
+Indeterminada
+
+·Obsolescência
+·Riscos de rupturas
+
+·Estrutura obsoleta
+·Sedimentos acumulados
+·Grande superfície
+degradada
+
+Barragens
+
+Fonte: Adaptada de Sanchez (2001).
+
+Por fim, acrescenta-se a problemática econômica envolvida. O entorno da área em
+questão é desvalorizado, afastando a opinião pública e os investidores. A área também se
+torna suscetível ao depósito clandestino de resíduos (SANCHEZ, 2006). Em alguns países
+como os Estados Unidos, a legislação estabelece que a dívida ambiental, semelhantemente às
+dívidas financeiras, seja paga com juros. Essa receita arrecadada teria a maior parte voltada
+para os trabalhos de recuperação da área degradada, incluindo investigações e monitoramento
+(SANCHEZ, 2001).
+
+4.4 ESTRATÉGIAS PARA GESTÃO DO PASSIVO
+Em países industrializados, a abordagem mais recorrente na gestão dos passivos
+ambientais, sobretudo com relação a solos contaminados, é a corretiva. Alguns exemplos de
+instrumentos e suas aplicações são apresentados no Quadro 2.
+
+25
+
+Quadro 2- Principais instrumentos de gestão empregados nas políticas corretivas de solos
+contaminados
+Instrumentos de gestão
+
+Exemplos de aplicação
+
+Inventário de locais possivelmente contaminados
+
+Holanda, Alemanha, EUA, Toronto (Canadá)
+
+Cadastro de imóveis contaminados
+
+Dinamarca, EUA, França, Queensland (Austrália),
+Flandres (Bélgica), Áustria
+
+Responsabilização jurídica dos agentes causadores de
+EUA (Superfund), Ontário (Canadá)
+contaminação
+Auditoria e avaliação de sítios
+
+Victoria (Austrália), EUA, Canadá
+
+Padrões de qualidade do solo (ou valores de
+referência)
+
+Holanda, Alemanha, Quebec (Canadá), Austrália,
+Flandres (Bélgica)
+Queensland (Austrália), Quebec (Canadá),
+Ontário(Canadá), Toronto (Canadá), EUA
+Alemanha, EUA (Superfund e vários estados), França,
+Flandres (Bélgica), Áustria.
+
+Regulação e controle do uso do solo
+Cobrança de taxas especiais para financiar o
+inventário e a limpeza de locais contaminados
+
+EUA (Brownfields Initiative), Reino Unido (Derelict
+Incentivos e subsídios para trabalhos de remediação e
+Land Grant, City Grant), Alemanha (vários estados),
+reutilização de terrenos
+Quebec (Canadá).
+Apoio ao desenvolvimento de tecnologias de limpeza
+
+Alemanha, Canadá, EUA
+
+Auxílio à participação do público
+
+EUA
+
+Avaliação de impacto ambiental
+
+Ontario e Governo Federal (Canadá), Hong Kong
+
+Avaliação de risco
+
+EUA, Ontário (Canadá), Reino Unido, Flandres
+(Bélgica)
+
+Fonte: Adaptada de Sanchez (2001).
+
+É importante salientar, contudo, que os instrumentos por si só não são suficientes para
+implementar uma política corretiva. Somam-se, no decorrer da gestão, alguns impasses de
+cunho político, principalmente, no que diz respeito ao pagamento da conta: como partilhar o
+custo entre o poder público e os agentes privados envolvidos, qual o montante dessa conta, além
+da partilha do custo temporal (SANCHEZ, 2001).
+
+5. CREOSOTO
+5.1 ASPECTOS GERAIS
+Em meados do século XIX, o cientista alemão Karl Reichenbach desenvolveu a primeira
+fórmula de creosoto, registrada em sua obra Das kreosot, atribuindo ao óleo desenvolvido à
+propriedade de evitar a putrefação. Comercialmente, o creosoto mais aplicado é produto da
+destilação do alcatrão de carvão mineral, obtido pela carbonização do carvão betuminoso em
+
+26
+
+altas temperaturas; com faixa de ebulição de, no mínimo 125 °C, podendo variar de 200 °C a
+325 °C, destinado à preservação de madeiras” (JANKOWSKY, 1986). O fluxograma da Figura
+3 ilustra seu processo de fabricação.
+Figura 3 - Produção do óleo creosoto
+
+Fonte: Adaptada de Alencar (2005).
+
+No Brasil, o creosoto começou a ser empregado no tratamento de madeiras após a
+expansão das ferrovias, a fim de preservar os dormentes, no final do século XIX
+(CAVALCANTE, 1983). Segundo Zabel e Morrell2 (1992 apud TEIXEIRA, 2005), a
+substância oleosa e de cor escura é composta por mais de duzentos HPAs - Hidrocarbonetos
+Policíclicos Aromáticos, que correspondem a até 90% do volume do creosoto, de acordo com
+Martinez3 (1952 apud JANKOWSKY, 1986).
+No que tange a toxicidade, tem-se que os compostos de temperatura de ebulição mais
+
+2
+
+ZABEL, R. A.; MORRELL, J. J.. Wood microbiology: decay and its prevention. USA:Academic Press, Inc,
+1992. 476p.
+3
+
+MARTINEZ, J.B. - Conservación de maderas en sus aspectos teórico, industrial y económico. I: estudio
+técnico de los antisépticos de tipo oleaginoso. Madri, Ministério da Agricultura, 1952. 550p.
+
+27
+
+baixa têm maior toxidez, quando analisados pontualmente. Entretanto, aqueles com
+temperaturas de ebulição superiores volatilizam menos e, portanto, representam maior
+permanência da toxidez do creosoto (JANKOWSKY, 1986).
+Cabe ressaltar que, por conta de sua diversidade de matrizes, a análise da composição
+do creosoto é complexa. Os métodos de separação e determinação comumente aplicados são
+cromatografia em fase gasosa de alta resolução, cromatografia líquida de alta eficiência de fase
+inversa e a detecção por espectrometria de massa (CONCISE INTERNATIONAL CHEMICAL
+ASSESSMENT DOCUMENT, 2004).
+O contato da população com componentes de creosoto pode se dar através de produtos
+que o contenham, ar, água, solo ou alimentos (CONCISE INTERNATIONAL CHEMICAL
+ASSESSMENT DOCUMENT, 2004).
+
+5.2 HIDROCARBONETOS POLICÍCLICOS AROMÁTICOS
+Os compostos orgânicos liberados no meio ambiente possuem variados tamanhos de
+moléculas e grupos funcionais, que determinam sua reatividade e aplicabilidade. Junto a outros
+grupos, os HPAs são considerados Substâncias Tóxicas Persistentes (STP). Em 2001, na
+Convenção de Estocolmo, elaborou-se o primeiro tratado global para eliminação de STPs.
+Estabeleceu-se também, dentro desse grupo mais abrangente, a classe dos POPs (Poluentes
+Orgânicos Persistentes), que correspondem às seguintes substâncias, conhecidas como as “doze
+sujas”: aldrin, endrin, dieldrin, clordano, DDT, toxafeno, mirex, heptacloro, hexaclorobenzeno,
+PCB, dioxinas e furanos (ALMEIDA et al., 2007).
+Os Hidrocarbonetos Policíclicos Aromáticos (HPAs) são poluentes orgânicos tidos
+como prioritários em estudos ambientais, uma vez que algumas substâncias podem manifestar
+ação mutagênica e cancerígena em sistemas biológicos (WHO, 1983). São compostos
+exclusivamente por carbono e hidrogênio, arranjados sob forma de dois ou mais anéis
+aromáticos fusionados entre si. Organizam-se em forma linear, angular ou agrupada (NETTO
+et al., 2000). Existem ainda seus derivados nitrados (NHPAs) e oxigenados (oxi-HPAs),
+decorrentes de reações in situ, a partir dos HPAs precursores (SOUZA, 2014).
+Quanto à origem, os HPAs são produzidos de forma natural e contínua a partir da
+combustão incompleta de substâncias orgânicas. No solo, são resultado de atividades antrópicas
+associadas à fabricação de corantes; fibras sintéticas; preservantes de madeira; carvão vegetal;
+extração e gaseificação de carvão mineral; além dos processos de extração, refino, transporte e
+
+28
+
+utilização de petróleo e seus derivados (BAMFORTH; SINGLETON, 2005).
+Os grandes centros urbanos comportam as maiores concentrações de HPAs,
+principalmente por conta dos postos de combustíveis, cujos impactos afetam a qualidade do ar,
+solo e águas subterrâneas, decorrente de vazamentos em tanques de armazenamento
+subterrâneo (LIMA et al., 1998).
+Além da baixíssima solubilidade em água, os HPAs têm forte tendência a sorverem à
+fase sólida do solo, permanecendo por longos períodos no ambiente e elevando a possibilidade
+de exposição humana, além de outros efeitos ao meio ambiente. Seu caráter lipossolúvel, nesse
+sentido, soma como agravante, facilitando sua absorção no organismo através de inalação,
+exposição dérmica ou oral (JACQUES, 2007).
+
+5.3 EXPOSIÇÃO HUMANA E TOXICIDADE DOS COMPOSTOS
+A composição e a complexidade das misturas de HPAs são relativas às suas fontes
+emissoras, que comportam diferentes níveis de concentrações de cada composto. Para
+compreender seu comportamento no meio, e também quando em contato com o organismo, é
+necessário observar algumas características moleculares e as propriedades que elas implicam.
+Quanto maior a quantidade de anéis aromáticos, maior a afinidade lipofílica da molécula e
+menor sua solubilidade em água. No organismo, o caráter lipofílico influencia na facilidade de
+absorção pela pele, por ingestão ou por inalação, sendo rapidamente distribuída para o corpo
+(NETTO et al., 2000). A Tabela 1 esquematiza propriedades físico-químicas de alguns HPAs.
+Tabela 1- Propriedades físico-químicas de alguns HPAs
+
+Composto
+
+Naftaleno
+Acenaftileno
+Fluoreno
+Fenantreno
+Antraceno
+Pireno
+Benzo(a)pireno
+Benzo(ghi)perileno
+
+Peso molecular
+(g/mol)
+
+Número de anéis
+
+Solubilidade em
+água
+(mg/L)
+
+Tempo de meia
+vida no solo *
+
+128
+152
+166
+178
+178
+202
+252
+276
+
+2
+3
+2
+3
+3
+4
+5
+6
+
+31
+16,1
+1,9
+1,1
+0,045
+0,132
+0,0038
+0,00026
+
+<125 d
+43 - 60 d
+32 d
+2d
+50 d - 1,3 a
+210 d - 5,2 a
+269 d - 8,2 a
+<9,5 a
+
+Fonte: Adaptada de Netto et al. (2000).
+
+A presença biológica decorrente da exposição a essas substâncias pode ser detectada de
+
+29
+
+diversas maneiras, seja mensurando a concentração de seus metabólitos em fluidos do corpo,
+seja observando os efeitos bioquímicos resultantes de sua presença no organismo. No primeiro
+caso, podem ser aplicadas técnicas cromatográficas, métodos de fluorescência, entre outros
+(NETTO et al., 2000). A Agência de Proteção Ambiental dos Estados Unidos (US EPA)
+reconhece o grupo de 16 HPAs, ilustrado na Figura 4, como prioritário para monitoramento de
+poluentes orgânicos em estudos ambientais (EPA, 1986).
+
+Figura 4 - Estrutura e nomenclatura dos 16 HPA prioritários da USEPA
+
+Fonte: Fronza (2006).
+
+A toxicidade pode ser classificada em aguda ou crônica, a depender do tipo de
+exposição. Quando o organismo toma contato com o agente químico em um único evento
+durante curto período de tempo, a toxicidade é classificada aguda (ADAMS, 1995). A
+
+30
+
+exposição crônica, por sua vez, diz respeito a um período de tempo mais longo, com menores
+concentrações, contudo, a liberação de substâncias é contínua ou apresenta determinada
+periodicidade, de modo que os efeitos são observados rapidamente ou ao longo da vida, de
+acordo com o grau de toxicidade ou o mecanismo de ação (TOMITA; BEYRUTH, 2002).
+Agentes mutagênicos estão associados às alterações na sequência das bases do DNA,
+podendo acelerar o desenvolvimento de neoplasias. O acúmulo de mutações em uma célula
+pode provocar um descontrole em seus processos de divisão, relacionando-se dessa maneira
+com os efeitos de carcinogenicidade (RIBEIRO; MARQUES, 2003). Em ambiente natural, os
+hidrocarbonetos podem ter seu processo de degradação alterado pelo espalhamento,
+evaporação, dissolução, emulsificação, adsorção, biodegradação, foto-oxidação, sobretudo
+aqueles de baixo peso molecular (FRONZA, 2006), podendo estar associado inversamente ao
+número de anéis aromáticos (CONCISE INTERNATIONAL CHEMICAL ASSESSMENT
+DOCUMENT, 2004). Observam-se na Tabela 2 alguns dados sobre o efeito de HPAs e NHPAs,
+abordando as evidências de carcinogenicidade, genotoxicidade ou mutagenicidade.
+
+Tabela 2 - Efeitos carcinogênicos, genotóxicos e mutagênicos de alguns HPAs e NHPAs
+HPA
+
+Carcinogenicidade
+
+Genotoxicidade
+
+Mutagenicidade
+
+Fluoreno
+
+I
+
+L
+
+-
+
+Fenantreno
+
+I
+
+L
+
++
+
+Antraceno
+
+N
+
+N
+
+-
+
+Fluoranteno
+
+N
+
+L
+
++
+
+Pireno
+
+N
+
+L
+
++
+
+Benzofluorenos
+
+I
+
+I
+
+?
+
+Benzofluorantenos
+
+S
+
+I
+
++
+
+Benzo(a)antraceno
+
+S
+
+S
+
++
+
+Criseno
+
+S
+
+L
+
++
+
+Benzo(a)pireno
+
+S
+
+S
+
++
+
+Indeno(1, 2, 3-cd)pireno
+
+S
+
+I
+
++
+
+Dibenzo(ac)antraceno
+
+L
+
+S
+
++
+
+Dibenzo(a)antraceno
+
+S
+
+S
+
++
+
+Dibenzo(aj)antraceno
+
+L
+
+I
+
++
+
+Benzo(ghi)perileno
+
+I
+
+I
+
++
+
+Antraceno
+
+L
+
+I
+
++
+
+Dibenzopirenos
+
+S
+
+I
+
++
+
+2-nitronaftalenos
+
+N
+
+L
+
+-
+
+Fonte: Adaptada de Netto et al. (2000).
+Legenda: S = suficientes; I = insuficientes; L = limitados; N = não carcinogênico. Genotoxicidade foi
+avaliada através dos testes de deterioração do DNA, aberração cromossômica e mutagenicidade.
+Mutagenicidade (teste de Ames): + (positivo); - (negativo); ? (inconclusivo).
+
+31
+
+6.
+
+SOLOS
+
+6.1 CARACTERÍSTICAS GERAIS
+Segundo a NBR 6502, solo é o “material proveniente da decomposição das rochas pela
+ação de agentes físicos ou químicos, podendo ou não ter matéria orgânica” (ABNT, 1995, p.17).
+De acordo com Santos (1975), os solos se constituem de minerais, substâncias sólidas naturais,
+inorgânicas e homogêneas, que possuem composição química definida e estrutura atômica
+característica. Os minerais se formam por cristalização a partir de líquidos magmáticos,
+soluções termais - pela recristalização em estado sólido – ou como produto de reações químicas
+entre sólidos e líquidos. O fluxograma da Figura 5 apresenta, resumidamente, os principais
+componentes do solo.
+
+Figura 5 - Principais componentes do solo
+
+Fonte: Adaptada de Augusto Filho; Pejon; Zuquette (2013).
+
+A porção orgânica do solo é composta por material decomposto, substâncias húmicas e
+polissacarídeos do solo. A porção inorgânica, por sua vez, compreende aos óxidos, hidróxidos
+
+32
+
+e minerais. A sucessão de fenômenos de intemperismo físico e químico provoca a alteração das
+rochas, constituindo os minerais primários, no caso da rocha alterada ser a rocha matriz. Os
+minerais secundários se formam em decorrência da ação conjunta do intemperismo físico,
+químico ou biológico (AUGUSTO FILHO; PEJON; ZUQUETTE, 2013).
+O intemperismo compreende todos os processos que alteram o maciço rochoso e o
+convertem em fragmentos, íons em solução e/ou coloides. O intemperismo físico se refere à
+desintegração da rocha, sem que haja mudanças na sua composição química e mineralógica. O
+intemperismo químico, por sua vez, engloba transformações na composição química e/ou
+mineral em decorrência de processos superficiais. Há, ainda, a interferência de processos
+biológicos, visto que o espaço ocupado pelo solo comporta organismos vivos, plantas ou
+animais, visíveis ou microscópicos. Esses processos são fortemente influenciados pelo clima e
+litologia do local, logo, a taxa de intemperismo varia bastante em tempo e espaço (AUGUSTO
+FILHO; PEJON; ZUQUETTE, 2013).
+Os minerais secundários, resultantes da ação do intemperismo, são silicatos lamelares,
+predominantemente, e compreendem a maior parte do material argiloso presente nos solos.
+Além das propriedades de adsorção de íons, absorção de água, plasticidade, expansão e
+contração, a combinação de uma maior superfície específica e de carga elétrica superficial
+significativa confere alta capacidade de troca de cátions (CTC). Essa característica corresponde
+a um importante mecanismo no processo de atenuação natural de contaminantes no solo
+(AUGUSTO FILHO; PEJON; ZUQUETTE, 2013).
+Em média, os solos são compostos por 45% de elementos minerais, 25% de ar, 25% de
+água e 5% de matéria orgânica, sendo que a proporção de água e ar varia sazonalmente. Cabe
+ressaltar que a variação dessas proporções, bem como de suas características físicas, químicas
+e biológicas, determina a diferenciação dos tipos de solo (BRAGA, 2005).
+Segundo Ferreira (2010), a textura do solo se refere à distribuição quantitativa das
+partículas sólidas minerais com diâmetro inferior a 2 mm. As principais frações estruturais do
+solo são Areia, Silte e Argila, cuja amplitude de tamanho é variável e depende do sistema de
+classificação adotado. A Sociedade Brasileira de Ciência do Solo (SBCS) apresenta
+classificação baseada em dois sistemas internacionais: o Sistema Norte Americano
+desenvolvido pelo Departamento de Agricultura dos Estados Unidos (USDA) e o Sistema
+Interacional ou de Atterberg, desenvolvido por parte da Sociedade Interacional de Ciência do
+Solo (ISSS). A Tabela 3 dispõe dos valores de classificação textural adotados pelos três
+sistemas citados.
+
+33
+
+Tabela 3: Frações granulométricas definidas pelos sistemas de classificacão Norte Americano
+(USDA), Internacional (ISSS) e da Sociedade Brasileira de Ciência do Solo (SBCS)
+Sistemas
+Frações
+
+USDA
+
+ISSS
+
+SBCS
+
+Ø (mm)
+2–1
+
+-
+
+-
+
+Areia grossa
+
+1 – 0,5
+
+2 – 0,2
+
+2 – 0,2
+
+Areia média
+
+0,5 – 0,25
+
+-
+
+-
+
+Areia fina
+
+0,25 – 0,10
+
+0,2 – 0,02
+
+0,2 – 0,05
+
+Areia muito fina
+
+0,10 – 0,05
+
+-
+
+-
+
+Silte
+
+0,05 – 0,002
+
+0,02 – 0,002
+
+0,05 – 0,002
+
+Argila
+
+<0,002
+
+<0,002
+
+<0,002
+
+Areia muito grossa
+
+Fonte: Adaptado de Ferreira (2010).
+
+Um método usual de classificação da textura do solo é a utilização de diagramas de
+triângulos texturais. Embora exista uma grande variedade de modelos de diagrama, generalizase pelo triângulo da USDA. A Sociedade Brasileira de Ciência do Solo acrescentou a classe
+textural muito argilosa, como apresentado na Figura 6 (FERREIRA, 2010).
+
+Figura 6: Diagrama textural baseado no Sistema Norte Americano de classificação do tamanho das
+partículas, adotado pela SBCS.
+
+Fonte: Lemos; Santos (1984).
+
+Quanto à movimentação de água no solo, Weiner (2000) destaca que os parâmetros
+determinantes são o tamanho das partículas, a distribuição e tamanho dos poros e a
+condutividade hidráulica - relacionada à estrutura do solo. A textura do solo, que diz respeito
+ao tamanho das partículas que o compõem, determina o tamanho médio dos poros e relaciona-
+
+34
+
+se à atração de líquidos por capilaridade. Quanto menor a partícula, maior o valor da área
+superficial em determinado volume do solo, menor o tamanho dos poros e maior a atração por
+capilaridade. Esse fenômeno contribui para a imobilização de líquidos por sorção das partículas
+de solo.
+
+6.2 PROPRIEDADES TÉRMICAS
+Além de armazenar e permitir os processos de transferência de água, gases e solutos, o
+solo também armazena e transfere calor, a depender de suas propriedades térmicas e condições
+meteorológicas locais, influenciando os processos físicos, químicos e biológicos
+(PREVEDELLO, 2010). A compreensão desse fluxo, bem como de seus fatores determinantes,
+é fundamental para executar obras de engenharia (como técnicas de remediação termal em áreas
+contaminadas), agricultura, projetos elétricos com cabeamento enterrado, tubulações para
+petróleo, etc. (FAROUKI, 1981; PESSÔA, 2006).
+A condutividade térmica do solo é a “ [...] quantidade de energia térmica que o solo
+pode transmitir por segundo a uma distância de 1 m, quando a diferença de temperatura dessa
+distância é 1 K” (PREVEDELLO, 2010, p. 179). O calor específico, por sua vez, expressa o
+quanto o solo é capaz de atuar como reservatório de calor (PREVEDELLO, 2010).
+Um dos fatores que estruturam a condutividade térmica efetiva de um solo é o número
+e a natureza do contato entre as partículas sólidas. A porosidade, nesse sentido, tem grande
+influência no fluxo de calor, assim como a presença de água no solo. Em solos secos, quanto
+maior a porosidade, menor o contato entre as partículas sólidas e menor a condutividade
+térmica. (FAROUKI, 1981). Areias quartzosas, por exemplo, tendem a ser menos condutivas
+quando com maior porosidade. Em condições secas, o ar age como resistor térmico. Em
+condições saturadas, a água age analogamente (TARNAWSKI et al., 2008). Comparando-se ar
+e água, tem-se que a água é 24 vezes mais condutiva do que o ar (PESSÔA, 2006).
+A resistividade é a propriedade inversa da condutividade e está associada à mineralogia
+do solo, ao peso específico seco, temperatura e distribuição granulométrica. As areias
+apresentam as menores resistividades, uma vez que são constituídas principalmente de
+feldspato e quartzo, minerais bons condutores de calor. O peso específico seco reflete o contato
+entre os grãos: quanto maior o peso específico, menos resistivo o solo é. Com exceção do
+feldspato, os minerais cristalinos tendem a ter maior resistividade à medida que a temperatura
+aumenta. Porém, a água presente e os poros preenchidos com ar têm sua resistividade reduzida
+
+35
+
+com o aquecimento. Logo, a atuação da temperatura sobre a resistividade irá depender das
+proporções dos componentes ao longo do volume (BRANDON; MITCHELL, 1989). Solos bem
+graduados são mais condutivos, visto que os grãos de menor dimensão se arranjam e
+interconectam as partículas sólidas (TARNAWSKI et al., 2008).
+A presença de íons e sais tem maior impacto em solos de granulometria fina, já que
+possuem grandes superfícies específicas, nas quais ocorrem ligações catiônicas que podem
+aumentar a resistência de uma argila, por exemplo, dependendo da natureza dos íons e de sua
+concentração (PESSÔA, 2016). De acordo com Abu-Hamdeh e Reeder (2000), quanto maior a
+concentração de sais NaCl E CaCl2 e maior teor de matéria orgânica, menor a condutividade
+térmica dos solos. Solos arenosos possuem maior condutividade térmica quando comparados a
+solos argilosos.
+Embora sejam apresentadas algumas generalizações,
+
+vale ressaltar que o
+
+comportamento dos solos argilosos é bastante variado. Segundo Pessôa (2016), uma argila
+totalmente composta de caulim, por exemplo, demonstra maior condutividade quando mais
+porosa, visto comporta maior teor de umidade em seu volume, apresentando menor
+resistividade do que quando em estado seco. Numa argila composta por caulim e bentonita, em
+contrapartida, maior porosidade e maior teor de umidade indicam redução da condutividade
+térmica. Nesse caso, destaca-se o fator de alta CTC da bentonita comparada ao caulim. A maior
+quantidade de sais dissolvidos em água eleva a resistividade do solo e reduz, por consequência,
+o calor conduzido.
+
+6.3 SOLOS TROPICAIS
+Para compreender o processo de formação dos solos tropicais, é necessário observar as
+peculiaridades das condições ambientais do clima, isto é, maior teor de umidade e maior
+suscetibilidade à ação da água, altas temperaturas, presença marcada e diversa, de organismos
+vivos, etc. Todos esses fatores somam para intensificar a taxa de intemperismo, de modo que a
+pedogênese desse solo se mostra mais acelerada quando comparada a solos expostos a outros
+tipos de clima (AGEITEC, ca. 2018).
+No Brasil, predominam os solos sob influência do clima tropical. A faixa se entende
+desde o extremo norte de Roraima até a cidade de São Paulo. Seguindo a sul, ocorrem solos
+semelhantes,
+
+porém
+
+o
+
+clima
+
+de
+
+influência
+
+é
+
+classificado
+
+como
+
+subtropical (AGEITEC, ca. 2018).
+Em condições tropicais há predominância de solos cauliníticos, lateríticos e ricos em
+
+36
+
+óxidos de ferro, alumínio e titânio. Em suma, esses materiais apresentam baixa fertilidade, são
+muito heterogêneos no que tange à morfologia, à composição química e às propriedades físicohídricas (AGEITEC, ca. 2018).
+Um conflito levantado por Bodelão (2014) e que muito se encaixa na proposta deste
+trabalho é o fato de que a maioria das pesquisas relacionadas a solo contaminado por compostos
+orgânicos se referem a solos de regiões temperadas. Nesse sentido, a aplicabilidade de
+resultados é inviabilizada, uma vez que as propriedades físico-químicas são bastante diferentes.
+
+6.4 TRANSPORTE DE CONTAMINANTES
+Para avaliar a infiltração de um poluente em solo tropical, antes se faz necessário
+compreender como ocorre o vazamento dos contaminantes orgânicos em fase líquida não
+aquosa (NAPL). Os impactos no meio ambiente subterrâneo dependem, portanto, das fases em
+que os contaminantes se distribuem e de como se comportam em zona não-saturada. Destacamse, nesse sentido, as propriedades de densidade, viscosidade, tensão interfacial e solubilidade
+do contaminante. As características geológicas do solo, bem como sua porosidade também
+compõem as variáveis que influenciam a dispersão da pluma (BODELÃO, 2014). Os
+hidrocarbonetos apresentam, em meio subterrâneo, cinco fases diferentes em seu processo de
+distribuição. Elas são apresentadas, resumidamente nos tópicos a seguir e estão ilustradas na
+Figura 7.
+Figura 7 – Distribuição de hidrocarbonetos em meio subterrâneo e suas diferentes fases
+
+Fonte: Bodelão (2014).
+
+6.4.1 Fase residual
+
+37
+
+Junto à fase livre, a fase residual está separada do ar, da água na zona não saturada e
+separada da água subterrânea na zona saturada. Constitui o produto puro, com interfaces
+definidas. Ao migrar entre os poros do meio, o contaminante deixa gotículas ou filmes
+desconectados, que se prendem por forças capilares, permanecendo imóveis. A quantidade de
+produto retido depende do tipo de solo (BODELÃO, 2014).
+6.4.2 Fase livre
+
+De acordo com Marin; Wendland (2013), a maior parte dos contaminantes orgânicos
+percola na fase livre não miscível em água (NAPL). A gravidade induz o contaminante a migrar
+verticalmente pela zona não saturada do solo. A profundidade atingida depende do volume
+percolado e, portanto, do quanto ele consegue se estender. Quando esse volume é suficiente
+para atingir a superfície livre do aquífero, o comportamento vai depender da sua densidade. Se
+dissolvido, o contaminante é transportado junto à água subterrânea. Se, no entanto, o
+contaminante não dissolvido tiver densidade menor que a da água, poderá boiar sobre a
+superfície livre. Este é classificado como LNAPL (light nonaqueous-phase liquid). Líquidos
+mais densos que a água percolam até o fundo do aquífero e se acumulam sobre camadas
+impermeáveis, classificando-se como DNAPL (dense nonaqueous-phase liquid).
+6.4.3 Fase dissolvida
+A solubilidade dos contaminantes e o grau de mistura entre a fase livre e a água
+subterrânea estão atreladas a fatores como a temperatura do meio, tipo de contaminante,
+concentração, etc. (BODELÃO, 2014).
+6.4.4 Fase vapor
+
+Quando o contaminante está na ou próximo da zona não-saturada, cujos poros estão
+parcialmente preenchidos por ar, as moléculas volatilizadas podem preencher o restante dos
+poros vazios. A transferência de massa da fase líquida para vapor e controlada pela constante
+de Henry (OLIVEIRA, 1992). A propriedade que caracteriza a volatilidade dos compostos é
+chamada pressão de vapor, que é diretamente proporcional à temperatura e varia de composto
+para composto (BODELÃO, 2014).
+6.4.5 Fase adsorvida
+
+38
+
+Forma-se quando o produto fica retido na superfície dos grãos do solo do ambiente
+subterrâneo. Os compostos dissolvidos na água subterrânea, por forças elétricas, aderem à
+superfície sólida. A quantidade de contaminante adsorvida depende da área da superfície do
+solo e da quantidade de matéria orgânica (FERREIRA, 2003).
+
+7.
+
+TECNOLOGIAS DE REMEDIAÇÃO
+O princípio da aplicação de tecnologias de remediação de solos contaminados é
+
+degradar, remover ou imobilizar os compostos presentes, de modo que sua concentração seja
+compatível com níveis seguros ao meio ambiente e, sobretudo, à saúde humana. Essas
+tecnologias podem ser classificadas de acordo com a natureza de suas técnicas (física, química,
+biológica ou térmica) ou ainda de acordo com o local onde o solo é tratado, sendo considerada
+in situ ou ex situ, respectivamente, sem remoção de solo da área contaminada ou com remoção
+e transporte para outro local de tratamento. Outros fatores a serem considerados são as
+características locais, a legislação ambiental vigente e o uso pretendido (FERNANDES;
+FERREIRA, 2010).
+Os processos físicos incluem reações e processos de transferência de massa. Os
+processos químicos de tratabilidade envolvem reações de transformação na composição do
+contaminante. Os processos térmicos, por sua vez, induzem a volatilização, remoção, fundição
+ou solidificação do contaminante na massa de solo, partindo da energia fornecida pelo
+aquecimento (FERNANDES; FERREIRA, 2010). Por fim, o tratamento biológico consiste na
+utilização de processos ou atividades biológicas na transformação de contaminantes em
+substâncias inertes (HOLLIGER et al., 1997).
+O Quadro 3 esquematiza alguns exemplos de tecnologias de remediação, bem como
+suas classificações no que tange a natureza e local de aplicação (in situ ou ex situ).
+
+39
+
+Quadro 3 - Exemplos de tecnologias de remediação
+Aplicação
+
+in situ
+
+ex situ
+
+Processo
+Físico
+· Encapsulamento
+geotécnico
+· Lavagem do solo
+· Extração de
+vapores
+· Air sparging
+· Air stripping
+· Extração
+multifásica
+
+Físico-químico
+· Bombeamento e
+tratamento da água
+· Barreiras reativas
+· Solidificação/Estabilização
+· Soil flushing
+· Separação eletrocinética
+· Oxidação-química
+
+Biológico
+· Atenuação
+natural
+· Bioaumentação
+· Bioestimulação
+·
+Fitorremediação
+· Landfarming
+
+· Bombeamento e
+tratamento da água
+· Compostagem
+· Lavagem do solo
+· Solidificação/Estabilização · Biorreatores
+
+Térmico
+· Aquecimento por
+resistividade elétrica
+· Injeção de vapor e
+extração
+· Vitrificação
+· Aquecimento por
+condução
+· Aquecimento por
+radiofrequência
+· Dessorção térmica
+· Dessorção térmica
+· Incineração
+
+Fonte: Adaptado de Fernandes; Ferreira (2010), EPA (2006).
+
+7.1 APLICAÇÃO DE REMEDIAÇÃO TERMAL IN SITU
+Inicialmente, o método de aquecimento de formações geológicas foi adotado pela
+indústria para a recuperação de petróleo. Observando o resultado do processo, o método foi
+adaptado ao tratamento de águas subterrâneas e solos contaminados por compostos
+semivoláteis, voláteis e orgânicos, tais como bifenilas policloradas (PCBs), hidrocarbonetos
+policíclicos aromáticos (HPAs), pesticidas, combustíveis, óleos e lubrificantes (ARAÚJO,
+2011; BLACK, 2002).
+Uma vantagem que os métodos in situ têm em relação aos ex situ é a minimização da
+comunidade exposta aos contaminantes, desde o local da contaminação até o de tratamento.
+Métodos in situ viabilizam também o tratamento de contaminações em profundidades iguais ou
+abaixo do lençol freático (BLACK, 2002).
+Existem alguns exemplos bem-sucedidos de remediação termal in situ que podem ser
+citados. Em Visalia, Califórnia, nos Estados Unidos, numa antiga área de tratamento de
+madeira, que operou entre as décadas de 20 e 80, recuperou-se cerca de 500 t de creosoto por
+meio de injeção de vapor. Além de creosoto, o solo e a água subterrânea estavam contaminados
+por diesel e pentaclorofenol (PCP). A madeira tratada era utilizada em postes de energia.
+Vazamentos em tanques de armazenamento e o óleo percolado dos postes tratados espalharam
+o contaminante, atingindo profundidades maiores que 30 m. Uma barreira subterrânea foi
+instalada para deter o movimento da contaminação no aquífero. A proximidade geográfica com
+os projetos de injeção de vapor mais antigos do mundo, relacionados à indústria do petróleo,
+
+40
+
+facilitaram a execução da remediação, visto que muitos equipamentos foram aproveitados, além
+de mão de obra especializada e experiente. O processo de injeção de vapor terminou em 1999,
+após a recuperação ou destruição de 513 t de DNAPLs (KUHLMAN, 2002). A EPA retirou o
+local de sua lista prioritária de remediação de áreas contaminadas em 2009 (EPA, ca. 2016).
+Outro exemplo a ser citado, também nos Estados Unidos, ocorreu em 1998, na cidade
+de Skokie, Illinois, onde uma área contaminada por DNAPL foi remediada a partir da técnica
+Six-Phase Heating (SPH). O local, que permaneceu abandonado por décadas, abrigava
+anteriormente um empreendimento ligado a telecomunicações e apresentava contaminação por
+tricloroetileno, 1,1,1-tricloroetano e 1,2-dicloroeteno. A princípio, a remediação se baseou no
+método de extração a vapor, entre 1991 e 1998. Contudo, não foi suficiente para recuperar a
+qualidade do solo e da água subterrânea, de maneira que foi necessária a aplicação do método
+de SPH (durante seis meses) para atingir valores de concentração abaixo dos orientadores para
+solventes clorados. No total, mais de 18 mil m³ de solo contaminado foram remediados
+(BEYKE, 2000).
+
+8. METODOLOGIA
+8.1. COLETA E ANÁLISE DO ÓLEO
+O creosoto coletado na área da UTM-Jaguaré foi obtido a partir de bombeamento, das
+camadas subsuperficiais de solo até a superfície. A amostra foi enviada para o laboratório ALS
+Corplab, sendo os parâmetros analisados e a metodologia utilizada apresentados no Quadro 4.
+Quadro 4- Análise química do óleo
+Grupo
+Benzeno,Tolueno, Etil-benzeno e Xilenos (BTEX) e outros
+parâmetros analíticos
+Hidrocarbonetos policíclicos aromáticos (HPA)
+
+Método de
+preparo
+-
+
+Hidrocarbonetos totais de petróleo (HTP)
+
+USEPA 3550C Ultrasonic
+Extraction
+
+HTP GRO (Gasoline Range Organics) - C6-C10
+
+-
+
+Compostos orgânicos semivoláteis (COSV)
+
+Fonte: Autora (2019).
+
+Método
+referência
+USEPA 82602006
+USEPA 8270D2007
+USEPA 8015D2003
+USEPA 82602006
+
+41
+
+8.2. COLETA E CARACTERIZAÇÃO DOS SOLOS
+8.2.1. ANB
+A ABNT, por meio da NBR 7215: 2019, estabelece a Areia Normal Brasileira (ANB)
+como material de referência para ensaios laboratoriais relacionados à construção civil em geral,
+como controle de processos na produção do cimento Portland, ensaios físico-mecânicos, etc.
+(ABNT, 2019). Segundo a NBR 7214:2015, a areia normal é definida como “material natural,
+padronizado, constituído principalmente de grãos de quartzo arredondados e subarredondados,
+beneficiado e fornecido pelo Instituto de Pesquisas Tecnológicas do Estado de São Paulo [...]”
+(ABNT, 2015, p.5).
+No mercado, a ANB está disponível em sacos de 25 kg, de acordo com sua
+granulometria, classificada em quatro frações diferentes: grossa (#16 ou 1,2 mm); média grossa
+(#30 ou 0,6 mm), média fina (#50 ou 0,3 mm) e fina (#100 ou 0,15 mm) (IPT, 2017). O Quadro
+5 apresenta os ensaios para determinação dos requisitos físicos e químicos da ANB,
+considerando uma amostra composta, que consiste em uma mistura homogeneizada das quatro
+frações granulométricas, proporcionalmente iguais em massa (ABNT, 2015).
+Quadro 5 – Requisitos físicos e químicos da ANB
+Ensaio
+
+Metodologia
+
+Umidade
+
+ABNT NBR 13956-2 ou
+ABNT NBR 14656
+Ver item 8.2.3
+
+Matéria orgânica
+
+ABNT NBR NM 49
+
+Teor de sílica
+
+Fonte: Adaptado de ABNT (2015).
+
+Para a execução dos ensaios, foi preparada amostra composta de areia normal, com cerca
+de 5 kg de cada fração. Estas foram unidas, homogeneizadas e armazenadas em saco plástico
+no Laboratório de Resíduos e Áreas Contaminadas (LRAC). Para a termogravimetria, 500 g
+dessa mistura foram coletadas.
+O Quadro 6 apresenta os ensaios realizados para caracterização de uma amostra
+composta de ANB, segundo Filgueiras (2018). Os procedimentos foram executados pelo
+LRAC.
+
+42
+
+Quadro 6: Ensaios de caracterização física da ANB
+Ensaio
+
+Metodologia
+
+Densidade de partículas (Método do picnômetro)
+
+EMBRAPA (2009)
+Nogueira (1995)
+Pinto (2006)
+
+Condutividade elétrica
+
+EMBRAPA (2009)
+
+pH
+
+EMBRAPA (2009)
+EPA 9045C (1993)
+
+Teor de matéria orgânica
+Teor de Sólidos Voláteis
+Fração de Carbono Orgânico (FOC)
+
+ABNT NBR 13600 (1996)
+ABNT NBR 13600 (1996)
+ABNT NBR 6457 (1986)
+EMBRAPA (1999)
+EMBRAPA (2011)
+EMBRAPA (2017)
+
+Fonte: Adaptado de Filgueiras (2018)
+
+8.2.2 P-59
+O solo utilizado foi coletado em um perfil dentro do Instituto de Pesquisas Tecnológicas,
+já caracterizado previamente por Guimarães (2018). Ressalta-se aqui que este, identificado
+como P-59, não pertence à área da UTM contaminada por creosoto, justamente para se obter
+uma amostra isenta de hidrocarbonetos antes do ensaio que simula a contaminação para a
+termogravimetria.
+As amostras foram coletadas na camada superficial de solo, em talude natural, obtendose cerca de 60 kg de solo. O material foi peneirado com peneira de 2 mm (270 mesh) e disposto
+ao ar livre para secar (terra fina seca ao ar - TFSA). Uma alíquota deste material foi
+encaminhada para a realização da caracterização física, química e mineralógica. O Quadro 7
+apresenta os ensaios realizados e suas metodologias.
+
+43
+
+Quadro 7 - Ensaios de caracterização física, química e mineralógica do solo P-59
+Ensaio
+
+Metodologia
+ABNT NBR 7181 (2016);
+ABNT NBR 6502 (1995);
+ABNT NBR 6457 (2016);
+Nogueira (1995).
+
+Análise granulométrica conjunta
+
+ABNT NBR 6457 (2016);
+EMBRAPA (2009).
+
+Teores de umidade, matéria orgânica e
+sólidos voláteis
+pH
+Condutividade elétrica
+Fração de Carbono Orgânico (FOC)
+Fluorescência de Raio-X
+Capacidade de troca catiônica (CTC)
+Determinação dos teores de carbono e
+nitrogênio
+Análise mineralógica semiquantitativa
+HTP total e fingerprint
+
+Laboratório
+
+USEPA 9045 D (2004);
+EMBRAPA (2009).
+EMBRAPA (2009).
+EMBRAPA (1997);
+Silva (2009);
+Nelson e Sommers (1982).
+ASTM E1621;
+ANS N432 (ANSI, 1980).
+Pejon (1992).
+ASTM D5373016, método A.
+Difração de raio-X
+(Procedimento IPT 15742).
+USEPA 8015D (2003).
+
+Laboratório de Resíduos e
+Áreas Contaminadas (LRAC) IPT
+
+Laboratório de Combustíveis e
+Lubrificantes (LCL) - IPT
+Laboratório de Materiais de
+Construção Civil (LMCC) - IPT
+ALS Corplab
+
+Fonte: Adaptado de Guimarães (2018).
+
+8.2.3 Teor de umidade antes da contaminação
+Sendo o teor de umidade a relação entre o peso da água e o peso dos sólidos (GIAMPÁ;
+GONÇALES, 2006), aferiu-se a massa úmida natural e a massa seca de uma porção de ANB e
+de P-59. A massa seca foi obtida depois da amostra de solo ser submetida à estufa a 105 °C. A
+NBR 7214:2015 estabelece (110 ± 5) °C até constância da massa e também descreve o seguinte
+cálculo para a areia normal:
+
+h=
+
+Mi – Mf
+Mf
+
+× 100
+
+(1)
+
+Em que:
+h (%) = teor de umidade
+Mi (g) = massa inicial da areia
+Mf (g) = massa final da areia
+A NBR 6457:2016 trata da preparação para ensaios de compactação e ensaios de
+caracterização de amostras de solo. As amostras são igualmente submetidas à estufa, entre
+
+44
+
+105 °C e 110 °C. O cálculo do teor de umidade é dado por:
+
+w=
+
+M1 – M2
+M2−𝑀3
+
+× 100
+
+(2)
+
+Em que:
+w (%) = teor de umidade
+M1 (g) = massa do solo úmido mais recipiente
+M2 (g) = massa do solo seco mais recipiente
+M3 (g) = massa do recipiente
+
+8.3. CONTAMINAÇÃO DAS AMOSTRAS
+Foram preparadas, em triplicata, amostras em faixas de 4% e 20% de massa de creosoto
+em relação à massa de solo da amostra. Prepararam-se também, em triplicata, os brancos de
+amostra, totalizando 18 cadinhos. A massa de solo disposta em cada cadinho foi mantida
+próxima aos 50g.
+Cabe acrescentar que, para as amostras contaminadas na proporção de 20%, preparouse excedente para análise química, as quais foram devidamente armazenadas até o envio ao
+laboratório.
+
+8.4. TERMOGRAVIMETRIA
+A partir dos compostos identificados nas análises químicas realizadas na amostra de
+óleo, foram determinados 11 intervalos, sendo o primeiro a perda referente à exposição à
+temperatura ambiente, e o restante estabelecido mediante a temperatura de ebulição dos
+compostos apresentados por Mackay (2006), sendo as temperaturas utilizadas 22 ºC, 100 °C,
+225 °C, 250 °C, 300 °C, 350 °C, 400 °C, 455 °C, 490 °C, 550 °C e 650 °C. Também foram
+quantificadas as massas das amostras após o processo de contaminação, cujos valores foram
+identificados no “tempo zero” (t0). As amostras permaneceram 12 h em cada temperatura, em
+mufla com sistema catalisador para tratamento de gases potencialmente gerados durante o
+processo de aquecimento. Ao final de cada período, foram registradas as massas com balança
+de precisão (quatro casas decimais) e levadas à mufla para um novo ciclo de 12 h.
+
+45
+
+8.4.1 Análise química dos solos: pré e pós-tratamento
+Para avaliar a eficiência do tratamento térmico sobre o solo contaminado com creosoto,
+foram enviadas quatro amostras para a determinação analítica, identificadas como AG-01,
+AG-02, AR-01 e AR-02. As amostras identificadas por AG se referem ao solo P-59 e as
+amostras AR correspondem à ANB. AG-01 e AR-01 são as amostras contaminadas com 20%
+de creosoto antes do tratamento. AG-02 e AR-02, por sua vez, são as amostras após o
+tratamento térmico e mesmo teor de contaminação.
+O Quadro 8 apresenta os grupos de compostos analisados, bem como sua metodologia.
+As análises foram realizadas pelo laboratório ALS Corplab - São Paulo. Com os resultados
+obtidos, foi possível comparar as concentrações de HPA nas amostras antes e depois do
+tratamento térmico, de modo a verificar a eficácia de sua remoção. Também observou-se a
+conformidade com os padrões estabelecidos pela CETESB (2016) e EPA para solos
+residenciais (EPA, 2018).
+Quadro 8- Análise química das amostras de solo contaminado com 20% de óleo, pré e pós-tratamento
+Grupo
+
+Método de análise
+
+Método de referência
+
+Cromo VI
+Mercúrio
+ICP OES
+COSV
+COSV
+
+POP 056 - Rev.13
+USEPA 7471A - 1996
+USEPA 6010C – 2007
+USEPA 8270D – 2007
+USEPA 8270D – 2007
+
+HTP
+
+HTP
+HTP Fracionado - Faixa DRO
+HTP Fracionado - Faixa GRO
+
+USEPA 8015D
+USEPA 8260 – C
+
+Umidade
+
+Umidade
+
+POP 053 - Rev. 06
+
+COV Varredura (Solo)
+
+COV
+
+USEPA 8260 – C
+
+Metais e elementos
+HPA
+COSV
+
+Fonte: Autora (2019).
+
+8.4.2 Tratamento dos dados obtidos
+Dos dados resultantes da termogravimetria, calculou-se, em cada faixa de temperatura,
+o percentual de perda de massa, para o branco do método e para as amostras contaminadas. A
+diferença desses percentuais reflete o quanto de contaminante foi tratado. O cálculo está
+explicitado nas Equações 3 e 4.
+p=
+
+MT−1 – MT
+M0
+
+× 100
+
+(3)
+
+46
+
+póleo = psolo contaminado - pbranco
+
+(4)
+
+Em que:
+p (%) = perda de massa
+MT-1 (g) = massa da amostra em temperatura inicial
+MT (g) = massa da amostra em temperatura final
+M0 (g) = massa da amostra em t0
+póleo (%) = perda de massa do óleo (tratabilidade)
+pbranco (%) = perda de massa do branco
+psolo contaminado (%) = perda de massa do solo contaminado
+
+9.
+
+RESULTADOS E DISCUSSÃO
+
+9.1. ANÁLISE DO ÓLEO
+A composição do creosoto é bastante heterogênea e varia conforme seu processo de
+fabricação (CONCISE INTERNATIONAL CHEMICAL ASSESSMENT DOCUMENT,
+2004), além do fato de ser uma amostra de óleo intemperizado, o que pode influenciar no estado
+de degradação do contaminante. A análise química trouxe, com maior precisão, informações
+sobre os compostos presentes na área contaminada. A Tabela 4 apresenta, em ordem
+decrescente de concentrações, o resultado dos HPAs identificados e suas derivações (oxi-HPA
+e NHPA), que serviram de base para estabelecer as faixas da termogravimetria, segundo suas
+temperaturas de ebulição, que também constam na tabela, junto ao número de anéis aromáticos.
+Dos HPAs presentes no creosoto analisado, doze se enquadram no grupo das 16 STPs
+determinadas pela EPA, como apresentado na Figura 4. São eles: Naftaleno, Acenaftaleno,
+Fluoreno, Fenantreno, Fluoranteno, Antraceno, Pireno, Benzo(a)antraceno, Criseno,
+Benzo(b)fluoranteno, Benzo(k)fluoranteno e Benzo(a)pireno. O Dibenzofurano e o Carbazol
+são derivações de HPA, respectivamente oxi e NHPA.
+
+47
+
+Tabela 4 – Compostos identificados na análise química do creosoto, em ordem decrescente de
+concentração
+
+Fenantreno
+
+Temperatura de
+ebulição (°C)
+340
+
+Acenafteno
+
+279
+
+2
+
+mg/kg
+
+47155
+
+Fluoranteno
+
+384
+
+3
+
+mg/kg
+
+44143
+
+2-Metilnaftaleno
+
+241,1
+
+2
+
+mg/kg
+
+35718
+
+Dibenzofurano
+
+287
+
+2
+
+mg/kg
+
+33920
+
+Naftaleno
+
+217,9
+
+2
+
+mg/kg
+
+32549
+
+Fluoreno
+
+295
+
+2
+
+mg/kg
+
+30834
+
+Pireno
+
+404
+
+4
+
+mg/kg
+
+26506
+
+Benzo(a)antraceno
+
+438
+
+4
+
+mg/kg
+
+9277
+
+Parâmetro
+
+Nº de anéis
+
+Unidade
+
+Resultado
+
+3
+
+mg/kg
+
+59286
+
+Criseno
+
+448
+
+4
+
+mg/kg
+
+6719
+
+Antraceno
+
+339,9
+
+3
+
+mg/kg
+
+6589
+
+Carbazol
+
+354,69
+
+2
+
+mg/kg
+
+6070
+
+Benzo(b)fluoranteno
+
+481
+
+4
+
+mg/kg
+
+4171
+
+Benzo(k)fluoranteno
+
+480
+
+4
+
+mg/kg
+
+3012
+
+Benzo(a)pireno
+
+495
+
+5
+
+mg/kg
+
+2437
+
+Fonte: Autora (2019).
+
+Os compostos com maior concentração no óleo coletado da área são Fenantreno,
+Acenafteno e Fluoranteno, com concentrações acima de 40.000 mg/kg. Os três compostos estão
+associados a efeitos mutagênicos, sendo o Fluoranteno também relacionado a efeitos
+carcinogênicos. Há predominância de compostos com dois e três anéis, que representam 85%
+do total de HPAs. Os 15% restantes possuem quatro anéis, com exceção do Benzo(a)pireno,
+com cinco. Percebe-se relação direta com a temperatura de ebulição: 85% dos compostos
+presentes se enquadram abaixo dos 400 °C. Esses valores foram calculados a partir da relação
+entre o resultado da concentração por composto e a soma dessas concentrações, que representa
+o total de HPAs no óleo. A energia demandada para particionamento da molécula, portanto, é
+diretamente proporcional ao número de anéis aromáticos.
+
+9.2. CARACTERIZAÇÃO DO SOLO
+9.2.1 ANB
+A Tabela 5 apresenta os requisitos físicos e químicos segundo a NBR 7214:2015.
+
+48
+
+Tabela 5 – Requisitos físicos e químicos da ANB
+Propriedade
+
+Requisito
+
+Teor de sílica
+Umidade
+
+≥ 95% em massa
+≤ 0,2% em massa
+
+Matéria orgânica
+
+≤ 100 ppm
+
+Fonte: Adaptado de ABNT (2015).
+
+A areia quartzosa utilizada no ensaio tem mineralogia predominantemente composta por
+sílica, material caracterizado por sua boa condutividade térmica. Seu teor de umidade é baixo
+(comparado ao da argila, como consta no item 9.2.2), assim como o teor de matéria orgânica
+(solo inerte). A Tabela 6 apresenta dados complementares da caracterização física da areia, de
+acordo com Filgueiras (2018).
+
+Tabela 6: Análise física da ANB
+Parâmetro
+
+Unidade
+
+Resultado
+
+Densidade de partículas
+
+g/cm³
+
+2,65
+
+Condutividade elétrica
+
+µS/cm
+
+12,9
+
+pH
+
+-
+
+6,59
+
+Umidade
+
+%
+
+0
+
+Matéria orgânica
+
+%
+
+0,23
+
+Sólidos Voláteis
+
+%
+
+0,28
+
+Fração de carbono orgânico (FOC)
+
+g de carbono orgânico/kg de solo
+
+0
+
+Fonte: Adaptado de Filgueiras (2018).
+
+9.2.2 P-59
+A Tabela 7 apresenta os resultados da análise de caracterização física, química e
+mineralógica do solo P-59, segundo Guimarães (2018).
+
+Tabela 7 - Análise física, química e mineralógica do solo P-59
+Parâmetro
+
+Unidade
+
+Resultado
+
+HTP Total (C8-C40)
+
+mg/kg
+
+<23
+
+Faixa C8 - C11
+
+mg/kg
+
+<23
+
+Faixa C12 - C14
+
+mg/kg
+
+<23
+
+Faixa C15 - C20
+
+mg/kg
+
+<23
+
+Faixa C21 – 40
+
+mg/kg
+
+<23
+
+Análises químicas
+
+49
+
+Parâmetro
+
+Unidade
+
+Resultado
+
+Areia (<2,0 mm)
+
+%
+
+41,5
+
+Silte (0,06 mm)
+
+%
+
+3
+
+Argila (0,002 mm)
+
+%
+
+55
+
+Análises físicas
+
+Umidade
+
+%
+
+22,5
+
+Matéria orgânica (MO)
+
+%
+
+8,42
+
+Sólidos Voláteis
+
+%
+
+9,79
+
+pH
+
+-
+
+5,24
+
+Condutividade elétrica
+
+µS/cm
+
+24,27
+
+Fração de carbono orgânico (FOC)
+
+g carbono orgânico/kg solo
+
+4,53
+
+Capacidade de troca catiônica (CTC)
+
+cmolc/kg
+
+14,6
+
+Teor de carbono
+
+% massa
+
+0,9
+
+Teor de nitrogênio
+
+% massa
+
+0,1
+
+Relação C/N
+
+-
+
+9
+
+Análise mineralógica
+Argilomineral do grupo caulinita
+
+%
+
+90 a 95
+
+Argilomineral do grupo vermiculita
+
+%
+
+5a8
+
+Argilomineral do grupo ilita
+
+%
+
+<2
+
+Gibbsita, quartzo e goethita
+
+%
+
+Presente
+
+Fonte: Adaptado de Guimarães (2018).
+
+A partir dos resultados da análise química, observa-se que o solo P-59 coletado não
+apresenta contaminação por hidrocarbonetos, de modo que os valores se encontram abaixo do
+limite de quantificação do laboratório. Pelo diagrama textura apresentado na Figura 6, o solo se
+classifica como argiloso. É levemente ácido e marcado pela presença de matéria orgânica, como
+observado nos valores de teor de MO, FOC e sólidos voláteis (já que se trata de um solo
+superficial retirado de talude, rico em restos vegetais em decomposição) superiores aos valores
+da areia.
+Em sua mineralogia, predomina a caulinita, que corresponde a um material
+termicamente menos condutivo do que o quartzo. Por ser um solo de granulometria mais fina,
+possui superfícies específicas maiores, nas quais ocorrem ligações catiônicas. Essa propriedade
+lhe confere a capacidade de troca catiônica (CTC) e acaba por influenciar em sua condutividade
+elétrica superior à da areia (24,27 µS/cm e 12,9 µS/cm, respectivamente).
+Além disso, o tamanho das partículas que compõem o solo implica em menor
+porosidade e maior atração de líquidos por capilaridade, retendo água com maior facilidade, o
+que é evidenciado pelo teor de umidade superior em relação à areia.
+
+50
+
+9.2.3. Teor de umidade antes da contaminação
+A Tabela 8 sintetiza os resultados dos cálculos descritos nas Equações 1 e 2.
+
+Tabela 8 - Cálculo do teor de umidade
+Tipo de solo
+
+ANB
+
+P-59
+
+Massa da amostra úmida natural(g)
+Massa da amostra seca a 105°C (g)
+Teor de umidade (%)
+
+91,7234
+91,6043
+0,13
+
+83,9463
+81,6381
+2,83
+
+Fonte: Autora (2019).
+
+De fato, o teor de umidade da ANB converge com os requisitos da NBR 7214:2015
+(≤ 0,2%).
+
+9.3 CONTAMINAÇÃO DAS AMOSTRAS
+A Tabela 9 expressa a dosagem de óleo, com valores de massa próximos às faixas de
+4% e 20% de saturação de creosoto em relação ao solo, em termos de massa, segundo a média
+das triplicatas A Figura 8 e a Figura 9 ilustram as amostras antes e depois da contaminação.
+Tabela 9 - Massa de contaminante por faixa de saturação nos solos P-59 e ANB
+Massa (g)
+
+Saturação do óleo
+(%)
+
+P-59
+
+4
+
+1,9812
+
+1,9692
+
+20
+
+9,7865
+
+10,9669
+
+ANB
+
+Fonte: Autora (2019).
+Figura 8 - Amostras de solo sem contaminação
+
+Figura 9 - Amostras de solo contaminado
+
+Fonte: Autora (2019).
+
+51
+
+9.4. TERMOGRAVIMETRIA
+9.4.1 Análise química dos solos: pré e pós-tratamento
+As análises químicas (Tabela 10) demonstraram redução quase total na concentração
+dos contaminantes, indicando que o sistema térmico foi eficiente em sua remoção, resultado
+este congruente ao obtido na observação das amostras pré e pós-tratamento (Figura 10 e Figura
+11). A coloração no desfecho do processo é muito semelhante à do solo antes da contaminação.
+Figura 10 - Amostras de solo argiloso enviadas
+para análise química (pré e pós-tratamento)
+
+Figura 11 - Amostras de solo arenoso enviadas
+para análise química (pré e pós-tratamento)
+
+Fonte: Autora (2019).
+
+Os valores de concentração finais foram confrontados com os valores de referência da
+EPA (EPA, 2018) e também com os Valores de Intervenção (VI) da CETESB (CETESB, 2016),
+ambos para solos residenciais. Na amostra AG-02, foram identificados ainda a presença de 2Metilnaftaleno, Acenafteno, Dibenzofurano e Fluoreno, porém todos em concentrações
+menores que os valores de referência. Em AR-02 se detectou apenas resquícios de Naftaleno,
+também abaixo dos valores da CETESB e da EPA. Esses resultados reforçam a veracidade da
+eficiência do sistema na eliminação de riscos associados aos efeitos dessas substâncias no meio
+ambiente e à saúde humana.
+
+52
+
+Tabela 10- Resultado da análise química pré e pós tratamento
+
+Composto
+
+Temperatura
+de ebulição
+(°C)
+
+EPA
+CETESB
+2018
+2016 (VI –
+(Resident
+Residencial)
+soil)
+
+Concentração (mg/kg)
+
+Nº de
+anéis
+
+Naftaleno
+
+218
+
+2
+
+AG-01
+8.979.723
+
+AG-02
+< 0,10
+
+AR-01
+7.624.740
+
+2-Metilnaftaleno
+
+241
+
+2
+
+1.348
+
+2
+
+Acenafteno
+
+279
+
+2
+
+1.635
+
+Dibenzofurano
+
+287
+
+2
+
+Fluoreno
+
+295
+
+2
+
+AR-02
+0,18
+
+1,8
+
+3,8
+
+2.104
+
+< 0,12
+
+-
+
+240
+
+0,7
+
+2.481
+
+< 0,12
+
+-
+
+3600
+
+1.228
+
+0,41
+
+1.876
+
+< 0,12
+
+-
+
+73
+
+1.188
+
+0,23
+
+1.809
+
+< 0,12
+
+-
+
+2400
+
+Antraceno
+
+340
+
+3
+
+352
+
+< 0,12
+
+577
+
+< 0,12
+
+4600
+
+18000
+
+Fenantreno
+
+340
+
+3
+
+2.929
+
+< 0,12
+
+3.742
+
+< 0,12
+
+40
+
+-
+
+Carbazol
+
+355
+
+2
+
+209
+
+< 0,12
+
+288
+
+< 0,12
+
+-
+
+-
+
+Fluoranteno
+
+384
+
+3
+
+2.729
+
+< 0,12
+
+3.216
+
+< 0,12
+
+-
+
+2400
+
+Pireno
+
+404
+
+4
+
+1.207
+
+< 0,12
+
+1.742
+
+< 0,12
+
+-
+
+1800
+
+Benz(a)antraceno
+
+438
+
+4
+
+463
+
+< 0,12
+
+416
+
+< 0,12
+
+7
+
+1,1
+
+Criseno
+
+448
+
+4
+
+213
+
+< 0,12
+
+331
+
+< 0,12
+
+600
+
+110
+
+Benzo(k)fluoranteno
+
+480
+
+4
+
+119
+
+< 0,12
+
+173
+
+< 0,12
+
+75
+
+11
+
+Benzo(b)fluoranteno
+
+481
+
+4
+
+224
+
+< 0,12
+
+353
+
+< 0,12
+
+7,2
+
+1,1
+
+Benzo(a)pireno
+
+495
+
+5
+
+108
+
+< 0,12
+
+148
+
+< 0,12
+
+0,8
+
+0,11
+
+Fonte: Autora (2019).
+
+9.4.2 Tratamento dos dados obtidos
+Parte da redução da massa das amostras está associada à matéria orgânica, umidade do
+solo ou às transformações em sua mineralogia. Na Figura 12 e na Figura 13 é possível observar
+a curva de perda de massa das amostras, considerando os valores médios em cada faixa de
+temperatura. Observa-se que o solo P-59 variou mais em massa que a ANB – com perda de,
+12,8% contra 0,31% da massa inicial das amostras sem contaminação. Isso ocorre por conta
+dos maiores teores de umidade (2,83%) e MO (8,42%), totalizando assim, 11, 25% da massa
+do solo P-59 – ver Tabela 7 e Tabela 8.
+
+53
+
+Figura 12 - Variação em massa do solo P-59
+65
+60
+
+Massa (g)
+
+55
+50
+45
+40
+35
+0
+
+22
+
+100
+
+225
+
+0% de óleo na amostra
+
+250 300 350 400
+Temperatura (°C)
+
+455
+
+490
+
+550
+
+650
+
+4% de óleo na amostra
+
+20% de óleo na amostra
+
+Fonte: Autora (2019).
+Figura 13: Variação em massa de solo arenoso (ANB)
+65
+60
+
+Massa (g)
+
+55
+50
+45
+40
+
+35
+0
+
+22
+
+100
+
+0% de óleo na amostra
+
+225
+
+250 300 350 400
+Temperatura (°C)
+
+455
+
+490
+
+550
+
+650
+
+4% de óleo na amostra
+
+20% de óleo na amostra
+
+Fonte: Autora (2019).
+
+Conforme o item 8.4.2, calculou-se o quanto, percentualmente, as amostras perderam
+de contaminante em cada faixa de temperatura, removendo-se os efeitos dos brancos sobre os
+tratamentos, como ilustrado na Figura 14 e na Figura 15.
+
+54
+
+Perda de óleo em relação à massa da
+amostra (%)
+
+Figura 14: Tratabilidade do óleo no solo P-59
+10
+8
+6
+4
+2
+0
+0
+
+22
+
+100 225 250 300 350 400 455 490 550 650
+
+-2
+
+Temperatura (°C)
+4% de óleo na amostra
+
+20% de óleo na amostra
+
+Fonte: Autora (2019).
+
+Perda de óleo em relação à massa da
+amostra (%)
+
+Figura 15: Tratabilidade do óleo no solo arenoso (ANB)
+10
+8
+6
+
+4
+2
+
+0
+0
+
+22
+
+100 225 250 300 350 400 455 490 550 650
+
+-2
+
+Temperatura (°C)
+4% de óleo na amostra
+
+20% de óleo na amostra
+
+Fonte: Autora (2019).
+
+Quando em ambiente natural, os hidrocarbonetos, sobretudo aqueles de menor peso
+molecular e menor quantidade de anéis, podem ser atenuados por diversos processos
+(evaporação, espalhamento, dissolução, etc.), como levantado por Fronza (2006). Nos testes de
+bancada, essas substâncias com menor quantidade de anéis são as primeiras a serem degradadas
+no tratamento térmico, visto que suas temperaturas de ebulição são mais baixas (como
+observado na Tabela 10). O princípio por trás desses fenômenos é o mesmo: menor demanda
+de energia para quebra dessas moléculas.
+Atentando aos picos das curvas de ambos os solos, verifica-se que os maiores
+
+55
+
+percentuais de perda de massa se encontram próximos às temperaturas de 225 ºC e 350 ºC. De
+fato, segundo os resultados da análise química as substâncias de maiores concentrações são
+Naftaleno e Fenantreno, cujos pontos de ebulição são, respectivamente, 218 ºC e 340 ºC.
+Percebe-se que, depois dos 455 ºC, há menor perda de massa, justamente, pelos compostos com
+temperatura de ebulição acima de 438 ºC, conforme os resultados da análise química,
+apresentarem concentrações menos expressivas nas amostras contaminadas (são eles
+Benz(a)antraceno, Criseno, Benzo(k)fluoranteno, Benzo(b)fluoranteno e Benzo(a)pireno). Os
+gráficos de perda de massa acumulada de óleo ao longo do tratamento térmico para os solos
+estudados estão ilustrados na Figura 16 e na Figura 17.
+
+Perda acumulada da massade óleo
+(%)
+
+Figura 16: Perda de massa de óleo acumulada - P-59
+120
+
+100
+80
+60
+40
+20
+0
+0
+
+22
+
+100 225 250 300 350 400 455 490 550 650
+Temperatura (°C)
+
+4% de óleo na amostra
+
+20% de óleo na amostra
+
+Fonte: Autora (2019).
+
+Perda acumulada da massade óleo (%)
+
+Figura 17: Perda de massa de óleo acumulada - ANB
+120
+
+100
+80
+60
+40
+20
+0
+0
+
+22
+
+100 225 250 300 350 400 455 490 550 650
+Temperatura (°C)
+
+4% de óleo na amostra
+
+Fonte: Autora (2019).
+
+20% de óleo na amostra
+
+56
+
+Analisando a perda acumulada da massa de óleo, a partir da metodologia apresentada, é
+possível observar que a temperatura de 400 ºC denota, quantitativamente, eficiência quase total
+na degradação do óleo, em ambos os solos. Em termos de aplicação in situ, a capacidade do
+sistema de remediação termal deve equilibrar viabilidade técnica-econômica com eficiência na
+degradação dos contaminantes. A avaliação em bancada serve, portanto, de respaldo para esse
+estudo do custo benefício. Há evidências de que um sistema a 400 ºC seria uma alternativa
+efetiva. O ligeiro ganho de massa das amostras de argila nas últimas faixas de temperatura
+provavelmente se refere à absorção de umidade do ambiente durante as operações do ensaio,
+visto que tendem a sorver moléculas de água em sua superfície por capilaridade, conforme já
+discutido no item 9.2.2.
+Entretanto, Jankowsky (1986) ressalta que as substâncias de maior peso molecular e
+maior quantidade de anéis são as que volatilizam menos e, portanto, permanecem no meio por
+mais tempo (como pode ser observado na Tabela 1). Por apresentarem maior afinidade
+lipofílica, em um cenário de exposição, elas são facilmente absorvidas e distribuídas pelo
+organismo (NETTO et al., 2000). Isso significa que, mesmo em pequenas concentrações, seus
+efeitos podem ser bastante nocivos. Na Figura 4, que trata dos 16 HPAs prioritários no
+monitoramento de poluentes orgânicos, segundo a USEPA, é possível observar que o potencial
+cancerígeno está associado às substâncias com mais de quatro anéis aromáticos. A análise
+química toma, nesse sentido, papel fundamental em fornecer dados de concentração a serem
+comparados com valores de referência na avaliação de risco.
+Existem algumas particularidades a serem observadas na interface bancada-campo,
+como, por exemplo, a distribuição não homogênea de calor sobre um grande contingente de
+solo. As propriedades térmicas do solo tomam, nesse sentido, grande importância. Os resultados
+obtidos na análise termogravimétrica foram bastante semelhantes nos dois solos, apesar de suas
+diferentes características. Porém, é possível que em maiores volumes as divergências sejam
+mais contrastantes. Um solo quartzoso, como a ANB, tende a ser mais condutivo, considerando
+sua mineralogia. Todavia, outros aspectos precisam ser analisados, como a presença de água e
+seu estado de compactação. O fato de ser uma areia bem graduada, tratando-se de uma amostra
+composta, contribui para que os grãos de maior dimensão se interconectem por meio dos
+menores, facilitando o fluxo de calor.
+O P-59, por sua vez possui alguns aspectos que elevam sua resistividade térmica, como
+a presença de matéria orgânica, além da parcela de argila ser superior à de areia. A caulinita,
+argilomineral predominante, tende a ter baixa CTC. Comparado a argilas de alta atividade, a
+caulinita pode apresentar menos resistividade na presença de água, pois teria menor quantidade
+
+57
+
+de sais dissolvidos, que dificultam o fluxo de calor. Durante a termogravimetria, não se
+quantificou a temperatura das amostras em si. As faixas de temperatura indicadas se referem à
+temperatura que a mufla atingiu. A ligeira diferença na eficiência de redução do P-59 e da ANB
+pode estar relacionada ao fato da ANB ter propriedades que favoreçam mais sua condutividade
+térmica. É importante salientar também que os aspectos aqui levantados consideram um solo
+em condições naturais. A saturação com óleo, certamente, influencia na condutividade do meio.
+A mobilidade da pluma de contaminação, intensificada pela redução da viscosidade
+(que é inversamente proporcional à temperatura) é outro fator importante de ser analisado, de
+modo a não agravar os impactos ambientais.
+
+10. CONCLUSÃO
+Os resultados apresentados indicam que a remediação térmica corresponde a uma
+alternativa vantajosa na degradação de contaminantes orgânicos, como os compostos presentes
+no creosoto, cuja predominância é de HPAs. Os dados obtidos em análise química foram
+congruentes aos da termogravimetria em escala micro. Isto é, foi possível observar a massa de
+óleo removido em cada faixa de temperatura, de modo a correlacionar a concentração dos
+compostos no solo contaminado. O predomínio da concentração de compostos de dois ou três
+anéis aromáticos justifica a pouca variação da massa depois dos 400 ºC, evidenciando a
+correlação entre a energia necessária para que fossem degradados. Compostos de quatro ou
+cinco anéis necessitam de mais calor para serem particionados e, portanto, apresentam
+temperaturas de ebulição superiores, entre 404 ºC e 495 ºC. O Naftaleno e o Fenantreno foram
+as substâncias de maior concentração identificadas e, de fato, os intervalos entre 100 ºC –
+225 ºC e 300 ºC – 350 ºC demonstraram a maior perda de massa, visto que as temperaturas de
+ebulição são, respectivamente, 218 ºC e 340 ºC.
+Em escala macro, também se verifica a validade da análise termogravimétrica na
+avaliação da eficiência de remoção do creosoto nos solos. Quantitativamente, as amostras de
+solo P-59 tiveram 99% e 93% de remoção do contaminante (respectivamente, nas proporções
+de 4% e 20% de óleo) e nas de ANB, ambas tiveram 100%. Qualitativamente, têm-se os
+resultados da análise química, que demonstram, para as amostras com maior taxa de
+contaminante, remoção praticamente total. Quando cruzadas as concentrações finais com os
+valores orientadores da CETESB e da EPA, estas se enquadram abaixo do limite.
+Pensando na aplicabilidade in situ de um sistema térmico de remediação, verifica-se que
+a temperatura de 400 ºC desempenha o máximo de eficiência de remoção de contaminantes.
+
+58
+
+Numa relação custo-benefício, um sistema com esta capacidade térmica seria satisfatório, com
+o devido monitoramento de sua tratabilidade, visto que o processo de aquecimento não se daria
+de maneira homogênea como nos testes em bancada.
+O método comparativo entre o P-59 e a ANB ressalta as interferências das características
+do solo sob os efeitos da remediação termal, de modo que a areia normal, constituída
+basicamente de quartzo possui condutividade térmica superior ao solo P-59 argiloso (composto
+de caulinita, principalmente). O fato de ser bem graduada e ter baixo teor de matéria orgânica
+também favorece o fluxo de calor. Os grãos de menor dimensão interconectam os de maior
+dimensão, de modo a minimizar os poros e reduzir o efeito de resistor térmico desempenhado
+pelo ar seco (visto que foi quantificado baixo teor de umidade). O solo P-59, por ser uma
+amostra superficial, retirada de talude, possui quantidade significativa de matéria orgânica,
+evidenciada pelos valores de FOC, sólidos voláteis e teor de MO. O ensaio em bancada lida
+com pequenos volumes de solo, mas demostrou ligeira diferença na eficiência de remoção, que
+pode estar associada a essas características.
+
+59
+
+REFERÊNCIAS
+ABU-HAMDEH, N.H.; REEDER, R.C., Soil Thermal Conductivity: Effects of Density,
+Moisture, Salt Concentration, and Organic Matter. Soil Science Society of America Journal,
+64, p. 1285- 1290, 2000. Disponível em: <https://dl.sciencesocieties.org/publications/sssaj/ab
+stracts/64/4/1285>. Acesso em: 15 jun. 2019.
+
+ADAMS, W.J. Aquatic Toxicology Testing Methods. In HOFFMAN, D. J. et al. Handbook of
+ecotoxicology. Boca Raton, Lewis Publishers. Cap. 13, p. 25-46, 1995.
+
+AGÊNCIA EMBRAPA DE INFORMAÇÃO TECNOLÓGICA – AGEITEC. Solos Tropicais.
+Brasília, ca. 2018. Disponível em: <http://www.agencia.cnptia.embrapa.br/gestor/solos_tropic
+ais/arvore/CONTAG01_1_2212200611535.html>. Acesso em: 29 mar. 2019.
+
+ALENCAR, I. S. (2004). Dormentes de madeira tratados com creosoto, alternativas para
+reposição e reuso: estudo de caso da estrada de ferro carajás com vistas à saúde ambiental.
+2004. 202f. Dissertação (Mestrado) - Escola de Engenharia de São Carlos, Universidade de São
+Paulo, São Carlos - SP, 2005.
+
+ALMEIDA F. V.; CENTENO, A. J.; BISINOTI, M. C.; JARDIM, W. F. Substâncias Tóxicas
+Persistentes (STP) no Brasil. Química Nova, São Paulo, v. 30, n. 8, p. 1976-1985, 2007.
+
+ARAÚJO, A. O Brasil no Contexto do Gerenciamento de Áreas Contaminadas: Um olhar
+crítico para as regiões desiguais do país. 32f. 2014. Dissertação (Mestrado) – Centro de
+Tecnologia, Universidade Federal de Alagoas. Maceió - AL, 2014.
+
+ARAÚJO, M. M. et. al. Histórico, motivação e legislação para a dinâmica do GAC no
+Brasil. In: MORAES, S. L.; MOTTA, F. G.; TEIXEIRA, C. E. (Orgs.). Panorama GAC Mapeamento da cadeia de Gerenciamento de Áreas Contaminadas. São Paulo: IPT, p. 45-43,
+2016.
+
+ARAÚJO, M. M. Estudo do comportamento térmico do inseticida HCH com perspectivas
+para aplicação em descontaminação térmica de solos. 120f. 2011. Dissertação (Mestrado) –
+Instituto de Biociências, Letras e Ciências Exatas. Universidade Estadual Paulista. São José do
+Rio Preto - SP, 2011.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT NBR 6457: Amostras de
+solo preparação para ensaios de compactação e ensaios de caracterização. Rio de Janeiro, 2016.
+8 p.
+
+60
+
+______. NBR 6502: Rocha e solos. Rio de Janeiro, 1995. 18 p.
+
+______. NBR 7214: Areia normal para ensaio de cimento - especificação. Rio de Janeiro, 2015.
+4 p.
+______. NBR 7215: Cimento Portland – determinação da resistência à compressão de corpos
+de prova cilíndricos. Rio de Janeiro, 2019. 12 p.
+
+AUGUSTO FILHO, O.; PEJON, O. J.; ZUQUETTE, L. V. Geologia e solos. In: CALIJURI,
+M. C.; CUNHA, D. G. F. (Orgs.). Engenharia Ambiental: Conceitos, Tecnologia e Gestão. Rio
+de Janeiro: Elsevier, p. 15-46, 2013.
+
+BAMFORTH, S.; SINGLETON, I. Bioremediation of polycyclic aromatic hydrocarbons:
+current knowledge and future directions. Journal of Chemical Technology and
+Biotechnology,
+v.80,
+n.7,
+p.723-736,
+2005.
+Disponível
+em:
+<http://lib3.dss.go.th/fulltext/Journal/J.of%20chemical%20technology%20and%20biotechnol
+ogy/2005/no.7/2005vol.80no.7p.723-736.pdf>. Acesso em: 9 jun. 2019.
+BAUMERT, J. et al. Remediation and Nature and Landscape Protection Services: An
+Examination of U.S. and Foreign Markets. Washington - DC: United States International Trade
+Commission, USITC. Report of Investigation Nº 332-454, Publication, 3727, 2004. Disponível
+em: <https://www.usitc.gov/publications/docs/pubs/332/pub3727.pdf>. Acesso em: 8 jun.
+2019.
+
+BERTOLI, A. L.; RIBEIRO, M. S. Passivo ambiental: Estudo de Caso da Petróleo Brasileiro
+S.A – Petrobrás. A Repercussão Ambiental nas Demonstrações Contábeis, em Consequência
+dos Acidentes Ocorridos. Revista de Administração Contemporânea, v.10, n.2, p.117-136,
+2006. Disponível em: <http://www.scielo.br/pdf/rac/v10n2/a07.pdf>. Acesso em: 10 jun. 2019.
+BEYKE, G. In situ DNAPL remediation using Six-Phase Heating – a case study of a successful
+full-scale DNAPL remediation. In: WM’00 Conference, Tucson, 2000. Disponível em:
+<http://www.wmsym.org/archives/2000/pdf/51/51-2.pdf>. Acesso em: 10 jun. 2019.
+
+BLACK, H. The hottest thing in remediation. (Innovations). Environmental Health
+Perspectives,
+v.
+110,
+n.
+3,
+2002,
+p.
+A146+.
+Academic
+OneFile,
+<http://link.galegroup.com/apps/doc/A84865548/AONE?u=capes&sid=AONE&xid=15d25d7
+e>. Accesso em: 16 jun. 2019.
+
+BODELÃO, T. G. Distribuição de LNAPL na zona não saturada em solos tropicais, no
+município de Rio Claro/SP. 2014. 171f. Dissertação (Mestrado) - Instituto de Geociências e
+Ciências Exatas, Universidade Estadual Paulista, Rio Claro - SP, 2014.
+
+61
+
+BRAGA, B.; HESPANHOL, I.; CONEJO, J.G.L.; BARROS, M.T.L.; SPENCER, M.; PORTO,
+M.; NUCCI, N.; JULIANO, N.; EIGER, S. Introdução à Engenharia Ambiental – 2ª Edição.
+São Paulo: Pearson Prentice Hall, 2005.
+
+BRANDON, T.L. e MITCHELL, J.K., Factors Influencing the Thermal Resistivity of Sands.
+Journal of Geotechnical Engineering, ASCE, 115, n. 12, p. 1683-1689, 1989. Disponível em:
+<https://ascelibrary-org.ez67.periodicos.capes.gov.br/doi/abs/10.1061/(ASCE)07339410(1989)115:12(1683)>. Acesso em: 15 jun. 2019.
+
+BRASIL. Lei nº 6.938, de 31 de agosto de 1981. Dispõe sobre a Política Nacional do Meio
+Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências. Diário
+Oficial da União, Brasília, DF, 2 set. 1981.
+
+______. Lei nº 9.605, de12 de fevereiro de 1998. Dispõe sobre as sanções penais e
+administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras
+providências. Diário Oficial da União, Brasília, DF, 12 fev. 1998.
+
+______. Relação de monografias dos ingredientes agrotóxicos, domissanitários e preservantes
+de madeira. Índice Monográfico 015. Óleo creosoto. ANVISA. Diário Oficial da União,
+Brasília, DF, Seção 3, p. 189, 15 mai. 2002.
+
+CALIJURI, M. C.; CUNHA, D. G. F. Atribuições da Engenharia Ambiental e seu papel
+para a sustentabilidade. In: CALIJURI, M. C.; CUNHA, D. G. F. (Orgs.). Engenharia
+Ambiental: Conceitos, Tecnologia e Gestão. Rio de Janeiro: Elsevier, p. 119-127, 2013.
+
+CAVALCANTE, M. S. Preservação de madeiras no Brasil. São Paulo: Instituto de Pesquisas
+Tecnológicas do Estado de São Paulo S.A., 23p. 1979 (IPT. Publicação, 1122).
+
+______. Implantação e desenvolvimento da preservação de madeiras no Brasil. São Paulo:
+Instituto de Pesquisas Tecnológicas do Estado de São Paulo S.A., 57p. 1983 (IPT. Publicação,
+1234).
+
+CAVANI, A. C. M., RISSARDI, M., TAVARES, T. Mapeamento das Áreas Contaminadas
+no Brasil. In: MORAES, S. L.; MOTTA, F. G.; TEIXEIRA, C. E. (Orgs.). Panorama GAC Mapeamento da cadeia de Gerenciamento de Áreas Contaminadas. São Paulo: IPT, p. 63-83,
+2016.
+CETESB – Companhia de Tecnologia de Saneamento Ambiental., Relatório de Áreas
+Contaminadas e Reabilitadas, 2018. Disponível em: <https://cetesb.sp.gov.br/areascontaminadas/wp-content/uploads/sites/17/2019/04/Texto-explicativo_dez-2018.pdf> Acesso
+em 30 mar. 2019.
+
+62
+
+CONAMA – Conselho Nacional de Meio Ambiente. Resolução de n°273, de 29 de novembro
+de 2000. Estabelece diretrizes para o licenciamento ambiental de postos de combustíveis e
+serviços e dispõe sobre a prevenção e controle da poluição. Diário Oficial da União, Brasília,
+nº5, p.20-23, 8 jan. 2001.
+
+______. Resolução de n°420, de 28 de dezembro de 2009. Dispõe sobre critérios e valores
+orientadores de qualidade de solo quanto à presença de substâncias químicas e estabelece
+diretrizes para o gerenciamento ambiental de áreas contaminadas por essas substâncias em
+decorrência de atividades antrópicas. Diário Oficial da União, Brasília, nº249, p. 81-84, 30
+dez. 2009.
+
+CONCISE International Chemical Assessment Document. Coal Tar Creosote. Geneva: World
+Health Organization, v. 62, 2004. Disponível em: <http://www.inchem.org/documents/cicads/
+cicads/cicad62.htm>. Acesso em: 13 fev. 2019.
+
+EEA - European Environment Agency. Progress in management of contaminated sites.
+Copenhagen,
+2014.
+Disponível
+em:
+<http://www.eea.europa.eu/data-andmaps/indicators/progress-in-management-of-contaminated-sites-3/assessment>. Acesso em:
+22 jan. 2019.
+EPA – UNITED STATES ENVIRONMENTAL PROTECTION AGENCY. Quality Criteria
+for
+Water,
+1986.
+EPA
+440/5-86-001.
+395 p.
+Disponível
+em: <https://nepis.epa.gov/Exe/ZyPDF.cgi/00001MGA.PDF?Dockey=00001MGA.PDF>.
+Acesso em: 9 jun. 2019.
+______. Cleaning Up the m; Nation’s Waste Sites: Markets and Technology Trends. Cincinnati,
+OH: EPA, 2004. 338 p. Disponível em: <https://nepis.epa.gov/Exe/ZyPDF.cgi/30006II3.PDF
+?Dockey=30006II3.PDF>. Acesso em: 8 jun. 2019.
+
+______. Southern California Edison Co. (Visalia Poleyard), Visalia, CA. EPA, ca.
+2016. Disponível em: <https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=
+second.cleanup&id=0902061>. Acesso em: 27 mai. 2019.
+FAROUKI, O. T. Thermal Properties of Soils. 151f. 1981. Monograph – United States Army
+of Engineers. Cold Regions Research and Engineering Laboratory. Hanover, New Hampshire,
+1981.
+FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE DO ESTADO DE MINAS GERAIS –
+FEAM. Inventário de Áreas Contaminadas e Reabilitadas, 2018. Disponível em:
+<http://www.feam.br/noticias/1/1693-feam-divulga-inventario-de-areas-e-contaminadas-ereabilitadas-em-minas>. Acesso: 10 abr.2019.
+
+63
+
+FERNANDES, R. L.; FERREIRA, J. P. Estudo dos efeitos da remediação eletrocinética em
+um solo contaminado por hidrocarbonetos. 95f. 2010. Monografia – Escoa Politécnica –
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2010.
+
+FERREIRA, S. M. Relação entre a Espessura Real e Aparente da Gasolina com Etanol e
+da Gasolina Pura em Colunas de Laboratório. 2003. Tese (Doutorado). Programa de PósGraduação em Recursos Minerais e Hidrogeologia, Universidade de São Paulo, São Paulo –
+SP, 2003.
+
+FERREIRA, M. M. Caracterização Física do Solo. In: JONG VAN LIER, Q. (Ed.). Física do
+Solo. Viçosa, Sociedade Brasileira de Ciência do Solo, p. 1-27, 2010.
+
+FILGUEIRAS, H. R. Estudo da Influência de Hidrocarbonetos nas Características Físicoquímicas de Solos Tropicais. Programa de Iniciação de Pesquisa Tecnológica. Fundação de
+Apoio ao Instituto de Pesquisas Tecnológicas. IPT, 2018.
+
+FRONZA, L. Capacidade de Liberação de Hidrocarbonetos dos Sedimentos de Áreas
+Contaminadas do Estuário da Lagoa dos Patos – RS. 2006. 126f. Dissertação (Mestrado) –
+Departamento de Geociências, Fundação Universidade Federal de Rio Grande, Rio Grande RS, 2006.
+
+GAUTHIER, D.T.; MURPHY, B.L. Age dating groundwater plumes based on the ratio of
+1,1-dichloroethylene to 1,1,1-trichloroethane: an uncertainty analysis. Environ. Forensic
+4, p. 205 - 213, 2003. Disponível em: <https://www.tandfonline.com/doi/pdf/10.1080/713848
+505?needAccess=true>. Acesso em: 10 jun. 2019.
+
+GERKENS, R.R.; FRANKLIN, J.A. The rate of degradation of 1,1,1-trichloroethane in
+water by hydrolysis and dehydrochlorination. Chemosphere 19 (12), p.1929–1937, 1989.
+Disponível em: <https://www.sciencedirect.ez67.periodicos.capes.gov.br/science/article/pii/0
+045653589900167>. Acesso em 10 jun. 2019.
+
+GIAMPÁ, C. E Q.; GONÇALES, V. G. Águas subterrâneas e poços tubulares profundos.
+– São Paulo: Signus, 502p. 2006.
+GOODGUIDE. Scorecard – The Pollution Information Site.
+<http://scorecard.goodguide.com/index.tcl>. Acesso em: 15 mar. 2019.
+
+Disponível
+
+em:
+
+GUIMARÃES, C. C. Estudo da utilização de composto orgânico para a remediação de solo
+contaminado por hidrocarbonetos de petróleo. 2018. 132f. Dissertação (Mestrado) Instituto de Energia e Ambiente, Universidade de São Paulo, São Paulo – SP. 2018.
+
+64
+
+HICKNELL, B. N., MUMFORD, K. G., KUEPER, B. H. Laboratory study of creosote
+removal from sand at elevated temperatures. Queen's University, Department of Civil
+Engineering, Kingston K7L 3N6, Ontario, 2018. Disponível em: <https://wwwsciencedirect.ez67.periodicos.capes.gov.br/science/article/pii/S0169772218302109?via%3Dih
+ub>. Acesso em: 13 fev. 2019.
+
+HOLLIGER, C.; GASPARD S.; GLOD, G.; HEIJMAN, C.; SCHUMACHER, W.;
+SCHWARZENBACH, R. P.; VAZQUEZ, F. Contaminated environmental in the
+subsurface and bioremediation: organic contaminantes. FEMS Microbiology Review,
+Amsterdam, v.20, n.4, p.517-523. 1997. Disponível em: <https://academic-oupcom.ez67.periodicos.capes.gov.br/femsre/article/20/3-4/517/516939>. Acesso em: 10 jun.
+2019.
+
+JACQUES, R. J. S.; BENTO, F. M. ANTONIOLLI, Z. I.; CAMARGO, F. A. O.
+Biorremediação de solos contaminados com hidrocarbonetos policíclicos aromáticos. Revisão
+Bibliográfica. Ciência Rural. Santa Maria, v. 37, n.4, p.1192-1201, 2007. ISSN 0103-8478.
+Disponível em: <http://www.lume.ufrgs.br/bitstream/handle/10183/22261/000614626.pdf?seq
+uence=1>. Acesso em: 25 mar. 2019.
+
+JANKOWSKY, I. P. Os creosotos na preservação de madeiras, Departamento de Ciências
+Florestais. Piracicaba, SP, n.34, Escola Superior de Agricultura Luiz de Queiroz, Piracicaba –
+SP, p.5-14. 1986. Disponível em: <https://www.ipef.br/publicacoes/scientia/nr34/cap01.pdf>.
+Acesso em: 9 jun. 2019.
+
+KUHLMAN, M. I.; Analysis of the steam injection at the Visalia Superfund Project with fully
+compositional nonisothermal finite difference simulations. Journal of Hazardous Materials,
+n. 92, p. 1- 19. 2002. Disponível em: <https://www.sciencedirect.com/science/article/pii/S030
+4389401003697>. Acesso em: 27 mai. 2019.
+
+LIMA, C. B. S. et al. Efluentes: a qualidade da água comprometida. In: MENEGAT, R. et
+al. (Orgs). Atlas Ambiental de Porto Alegre. Universidade Federal do Rio Grande do Sul, Porto
+Alegre, 1998. p.157-158
+
+MACKAY, D.; SHIU, W. Y.; MA, K.; LEE, S. C. Handbook of physical-chemical
+properties and environmental fate for organic chemicals: Vol I – Introduction and
+Hydrocarbons. 2nd ed. Taylor & Francis Group, LLC, 2006. 925p.
+
+MAGALHÃES, J. S. B. Avaliação da Gestão de Sítios Contaminados por Resíduos
+Perigosos nos EUA, Canadá, Países Europeus e Brasil e Exemplo de um Manual
+Simplificado de Avaliação de Saúde Ambiental destes Sítios para o Brasil. 95p. 2000.
+Dissertação (Mestrado) – Escola Nacional de Saúde Pública. Fundação Oswaldo Cruz, Rio de
+Janeiro - RJ. 2000.
+
+65
+
+MARIN, I. S. P.; WENDLAND, E. Contaminação de águas subterrâneas. In: CALIJURI,
+M. C.; CUNHA, D. G. F. (Orgs.). Engenharia Ambiental: Conceitos, Tecnologia e Gestão. Rio
+de Janeiro: Elsevier, p. 269-293. 2013.
+
+MAXIMIANO, A. M. S.; MORAES, S. L.; TEIXEIRA, C. E. Etapas do Gerenciamento de
+Áreas Contaminadas. In: MAXIMIANO, A. M. S.; MORAES, S. L.; TEIXEIRA, C. E.
+(Orgs.). Guia de elaboração de planos de intervenção para o Gerenciamento de Áreas
+Contaminadas. São Paulo: IPT e BNDS. p. 27-33. 2014.
+
+MEIRE, R. O.; AZEREDO, A.; TORRES, J. P. M. Aspectos Ecotoxicológicos de
+Hidrocarbonetos Policíclicos Aromáticos. Oecol Brasil, 2007; 11(2). Laboratório de
+Radiótopos Eduardo Penna Franca, Instituto de Biofísica Carlos Chagas Filho, Universidade
+Federal do Rio de Janeiro. Rio de Janeiro. p.188-201. 2007.
+
+NETTO, A. D. P.; MOREIRA J. C.; DIAS A. E. X. O.; ARBILLA, G.; FERREIRA, F. V.;
+OIVEIRA, A. S.; BAREK, J. Avaliação da contaminação humana por hidrocarbonetos
+policíclicos aromáticos (HPAs) e seus derivados nitrados (NHPAs): uma revisão metodológica.
+Química Nova, São Paulo, v.23, n.6, p.765-773. 2000.
+ORGANIZATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT – OECD.
+Recommendation of the Council on Guiding Principles concerning International
+Economic Aspects of Environmental Policies. 1972.Disponível em <https://legalinstrument
+s.oecd.org/en/instruments/OECD-LEGAL-0102>. Acesso em: 8 jun. 2019.
+
+PANAGOS et al. Contaminated States in Europe: Review of the Current Situation Based on
+Data Collected through a European Network. Journal of Environmental and Public Health.
+v. 2013. Article ID 158764, 12p. 2013 Disponível em <https://www.researchgate.net/publicati
+on/248398132_Contaminated_Sites_in_Europe_Review_of_the_Current_Situation_Based_on
+_Data_Collected_through_a_European_Network>. Acesso em: 8 jun. 2019.
+
+PESSÔA, T. O. A. Avaliação da Influência da Mineralogia, Índice de Vazios e Teor de
+Umidade em Propriedades Térmicas de Solos. 163f. 2006. Dissertação (Mestrado) –
+Departamento de Engenharia Civil, Pontifícia Universidade Católica, Rio de Janeiro -RJ. 2006.
+
+PEJON, O. J.; RODRIGUES, V. G. S.; ZUQUETTE, L. V. Impactos ambientais sobre o solo.
+In: CALIJURI, M. C.; CUNHA, D. G. F. (Orgs.). Engenharia Ambiental: Conceitos,
+Tecnologia e Gestão. Rio de Janeiro: Elsevier, 2013. p. 317-343.
+
+PREVEDELLO, C. L. Energia Térmica do Solo. In: JONG VAN LIER, Q. (Ed.). Física do
+Solo. Viçosa, Sociedade Brasileira de Ciência do Solo, p. 177-211, 2010.
+
+66
+
+OLIVEIRA, E. de. Contaminação de aquíferos por hidrocarbonetos provenientes de
+vazamentos de tanques de armazenamento subterrâneo. 112p. 1992. Dissertação
+(Mestrado) - Instituto de Geociências, Universidade de São Paulo, São Paulo - SP. 1992.
+ONU – Organização das Nações Unidas. Our Commom Future, Relatório da World
+Commission on Environment and Development. Disponível em <http://undocuments.net/wced-ocf.htm>. Acesso: 10 fev. 2019.
+
+RIBEIRO, M. S. de, LISBOA, L. P. Balanço Social. Revista Brasileira de Contabilidade,
+(115), jan-fev. p. 74-81. 1999.
+RIBEIRO, M. S. de; GRATÃO, A. D. Custos Ambientais – O Caso das Empresas
+Distribuidoras de Combustíveis. VII Congresso Brasileiro de Custos – Recife, PE, Brasil. Ago.
+2000. Disponível em <https://anaiscbc.emnuvens.com.br/anais/article/view/3020/3020>.
+Acesso em: 10 jun. 2019.
+
+RIBEIRO, L. R.; MARQUES, E. K. A importância da Mutagênese Ambiental. In: RIBEIRO,
+L. R.; SAVADORI D. M. F.; MARQUES, E. K. (Orgs.). Mutagênese Ambiental. Canoas:
+ULBRA, 2003. p. 21-27.
+
+SANCHEZ, L. E. Desengenharia: o passivo ambiental na desativação de empreendimentos
+industriais. São Paulo: EDUSP, 2001. 253p.
+
+______. A Desativação de Empreendimentos Industriais e a Gestão do Passivo Ambiental,
+2014. Disponível em <http://arquivos.ambiente.sp.gov.br/cea/2011/12/LuisSanchez.pdf>.
+Acesso: 15 abr. 2019.
+
+SANTOS, P.S., Tecnologia de Argilas, Aplicada às Argilas Brasileiras. São Paulo: Edgard
+Blücher - Universidade de São Paulo, vol.1, 340p. 1975.
+
+SÃO PAULO (Estado). Lei n° 13.577, de 8 de julho de 2009. Dispõe sobre diretrizes e
+procedimentos para a proteção da qualidade do solo e gerenciamento de áreas contaminadas, e
+dá outras providências correlatas. Diário Oficial do Estado, São Paulo, 8 jul. 2009.
+
+______. Decreto n° 59.263, de 5 de junho de 2013. Regulamenta a Lei n° 13.577, de 2009, que
+dispõe sobre diretrizes e procedimentos para a proteção da qualidade do solo e gerenciamento
+de áreas contaminadas, e dá outras providências correlatas. Diário Oficial do Estado, São
+Paulo, 6 jun. 2013.
+
+67
+
+LEMOS, R.C.; SANTOS, R.D. Manual de descrição e coleta de solo no campo. 2.ed.
+Campinas: Sociedade Brasileira de Ciência do Solo; Embrapa-SNLCS, 46p. 1984.
+
+SOUZA, K. F. Influência da queima da cana-de-açúcar nos níveis de HPAs, nitro-HPAs e
+oxi-HPAs, associados ao aerossol atmosférico. 100f. 2014. Tese (Doutorado) – Instituto de
+Química, Universidade de São Paulo, São Paulo - SP. 2014.
+
+TARNAWSKI, V. R.; MOMOSE, T.; LEONG, W. H.; BOVESECCHI, G.; COPPA, P.
+Thermal Conductivity of Standard Sands. Part I. Dry-State Conditions. International Journal
+of Thermophysics, n. 30. p 949– 968. Disponível em: <https://link- springer- com.ez67.perio
+dicos.capes.gov.br/content/pdf/10.1007%2Fs10765-009-0596- 0.pdf>. Acesso em: 15 jun.
+2019.
+
+______. Thermal Conductivity of Standard Sands. Part II. Satured Conditions. International
+Journal of Thermophysics, n. 32. p 984– 1005. Disponível em: <https://link- springer- com.
+ez67.periodicos.capes.gov.br/content/pdf/10.1007%2Fs10765-011-0975- 1.pdf>. Acesso em:
+15 jun. 2019.
+
+TEIXEIRA, L. C. C. A fitorremediação como alternativa para recuperar solos
+contaminados com produto preservativo de madeira (Arseniato de Cobre Cromatado CCA): um estudo de caso. 2005. 101f. Dissertação (Mestrado). Instituto de Pesquisas
+Tecnológicas do Estado de São Paulo, São Paulo - SP, 2005.
+USITC – UNITED STATES INTERNATIONAL TRADE COMMISSION. Environmental and
+Related Services. Washington, DC: USITC, 2013. 148 p. (USITC Publication 4389).
+Disponível em: <https://www.usitc.gov/publications/332/pub4389.pdf>. Acesso em: 8 jun.
+2019.
+
+TEIXEIRA, C. E.; MOTTA, F. G.; MORAES, S. L.; QUEIROZ, A. P.; CUNHA, R. C. A.
+Conceitos norteadores. In: MORAES, S. L.; MOTTA, F. G.; TEIXEIRA, C. E. (Orgs.).
+Panorama GAC - Mapeamento da cadeia de Gerenciamento de Áreas Contaminadas. São Paulo:
+IPT, p. 15-21, 2016.
+
+TOMITA, R. Y.; BEYRUTH, Z. Toxicologia de agrotóxicos em ambiente aquático. Biológico,
+v.4, n. 2, p. 135-142, 2002.
+
+VIANA, F. V. Acumulação de HPA pela Spartina alterniflora cultivada em solo de
+landfarming de indústria petroquímica. 2008. 124f. Dissertação (Mestrado) – Instituto de
+Oceanografia, Universidade Federal do Rio Grande, Rio Grande -RS, 2008.
+
+68
+
+VIANNA, J. S.; FERREIRA, M. I. P.; SARAIVA, V. B.; MACHADO, P. V. L. Contaminação
+do solo por creosoto em uma Unidade de Conservação de Proteção Integral: o caso da Reserva
+Biológica da União – RJ/Brasil. Boletim do Observatório Ambiental Alberto Ribeiro
+Lamego,
+Campos
+dos
+Goytacazes,
+p.131-153.
+2016.
+Disponível
+em:
+<https://www.researchgate.net/publication/318668176_Contaminacao_do_solo_por_creosoto
+_em_uma_Unidade_de_Conservacao_de_Protecao_Integral_o_caso_da_Reserva_Biologica_
+Uniao_-_RJBrasil>. Acesso em: 18 jan. 2019.
+
+WEINER, E. R. Applications of Environmental Chemistry: A Practical Guide for
+Environmental Professionals. Florida: CRC Press, 442p. 2000.
+WHO – WORLD HEALTH ORGANIZATION, Evaluation of the carcionogenic risk of
+chemicals to humans, Polynuclear Aromatic Compounds, Part. 1, chemical environmental and
+experimental data, 32. International Agency for Research on Cancer, World Health
+Organization Regional Office for Europe.
+483p. 1983. Disponível em:
+<https://monographs.iarc.fr/wp-content/uploads/2018/06/mono32.pdf>. Acesso em: 9 jun.
+2019.
+
+69
+
+APÊNDICES
+Apêndice A – Evolução colorimétrica das amostras de solo P-59
+
+1- Amostras retiradas da mufla a 100 °C
+
+3- Amostras retiradas da mufla a 250 °C
+
+5- Amostras retiradas da mufla a 350 °C
+
+2- Amostras retiradas da mufla a 225 °C
+
+4- Amostras retiradas retirado da mufla a 300 °C
+
+6- Amostras retiradas da mufla a 400 °C
+
+70
+
+7- Amostras retiradas da mufla a 455 °C
+
+8- Amostras retiradas da mufla a 490 °C
+
+9- Amostras retiradas da mufla a 550 °C
+
+10- Amostras retiradas da mufla a 650 °C
+
+71
+
+Apêndice B – Evolução colorimétrica das amostras de ANB
+
+1- Amostras retiradas da mufla a 100 °C
+
+2- Amostras retiradas da mufla a 225 °C
+
+3- Amostras retiradas da mufla a 250 °C
+
+4- Amostras retiradas da mufla a 300 °C
+
+5- Amostras retiradas mufla a 350 °C
+
+6- Amostras retiradas da mufla a 400 °C
+
+72
+
+7- Amostras retiradas da mufla a 455 °C
+
+8- Amostras retiradas da mufla a 490 °C
+
+9- Amostras retiradas da mufla a 550 °C
+
+10- Amostras retiradas da mufla a 650 °C
+
+

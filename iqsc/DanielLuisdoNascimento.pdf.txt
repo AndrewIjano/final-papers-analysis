@@ -1,0 +1,1882 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+
+PREPARO E CARACTERIZAÇÃO DE BIOMATERIAIS DE
+COLÁGENO E GELATINA COM ADIÇÃO DE RESINA DE
+JATOBÁ
+
+Daniel Luis do Nascimento
+
+São Carlos, 2016
+
+Daniel Luis do Nascimento
+
+PREPARO E CARACTERIZAÇÃO DE BIOMATERIAIS DE COLÁGENO
+E GELATINA COM ADIÇÃO DE RESINA DE JATOBÁ
+
+Monografia apresentada ao curso de
+Bacharelado em Química como requisito
+para obtenção do grau de bacharel em
+química.
+
+Orientadora: Profa. Dra. Ana Maria de Guzzi Plepis
+
+São Carlos, 2016
+
+Dedicatória
+
+Dedico esta monografia ao meu querido avô Luiz Recchia que
+sempre foi meu amigo e voz da experiência e que nunca media esforços para
+me dar o suporte necessário para que eu pudesse chegar a este momento.
+Tenho certeza de que ele estaria orgulhoso de mim e de todo seu trabalho ter
+sido recompensado.
+
+Agradecimentos
+À minha família pelo apoio e suporte que nunca me faltaram durante
+todos esses anos. Sem a ajuda e conselho deles minha caminhada até aqui
+não seria possível.
+À minha orientadora Ana Maria de Guzzi Plepis primeiramente por
+me acolher em seu laboratório, mas também por ser uma pessoa tão boa de
+coração e uma fonte de inspiração para que eu possa um dia ser como ela.
+Aos meus amigos de infância Caio, Rachid, Gabriel, Felipe e
+Kaisuky e também ultimamente ao grande amigo Guilherme por terem feito
+parte de minha vida até então, não somente passando bons momentos, mas
+também ajudando- me a me formar como indivíduo.
+À sempre prestativa e energética Virgínia Martins pela sabedoria e
+paciência ao me ensinar diariamente todas as artimanhas de como é ser um
+químico responsável e pelos sábios conselhos nas horas em que eu
+necessitava.
+Ao professor Sérgio Akinobu Yoshioka por todo positivismo e
+momentos de conversa sobre seus interessantes pensamentos a respeito de
+seus projetos.
+À professora Eny Maria Vieira por ministrar minha primeira aula no
+instituto e por estar presente nesta última etapa de minha graduação.
+A todos do laboratório 08 pelos momentos de companheirismo e
+descontração e pelas inúmeras xícaras de café oferecidas durante todos esses
+anos.
+Ao Keith, Kyle, Massa, Koposto e Daniel Mindiola pela fonte
+inesgotável de sabedoria e amizade que eles representam a mim desde o dia
+em que comecei a trabalhar ao lado deles no laboratório na Filadélfia.
+À minha companheira inseparável Ariane Sanchez por fazer parte
+desta conquista, sempre me acolhendo e apoiando em todos os momentos
+difíceis.
+Aos professores, estudantes e funcionários que disponibilizaram
+seus espaços, equipamentos e materiais para que eu pudesse realizar esse
+trabalho. Estes são: Agnieszka Maule, Osvaldo Novaes, Aloísio Vulcani, Márcio
+de Paula e Débora Gonçalvez.
+
+A todos os professores que estiveram presentes nesta minha
+jornada e que tentaram ao máximo passar um pouco de seus enormes
+conhecimentos.
+Ao IQSC pela infraestrutura que tornou possível eu concluir meu
+curso com a certeza de que sou um químico completo.
+Ao PIBIC/CNPq pelo auxílio financeiro e confiança em meu trabalho
+como químico.
+A Deus por ter me colocado neste caminho tão bonito que é a
+química e tenho certeza de que vou poder contribuir muito para a humanidade
+através desta profissão maravilhosa.
+
+Epígrafe
+
+“Somewhere, something incredible is waiting to be known.”
+Carl Sagan
+
+RESUMO
+A pele, o maior órgão do corpo humano, é uma membrana fibroelástica que apresenta
+uma gama muito grande de funcionalidades indispensáveis para os seres vivos. Frente
+a seu papel essencial para a manutenção da vida, faz- se necessário o
+desenvolvimento de novos produtos capazes de regenerá-la de modo rápido e
+eficiente diante dos mais diversos tipos de ferimentos sofridos pela mesma. Tendo isto
+em vista, a engenharia de tecidos vem como uma área estratégica na confecção de
+novos métodos e produtos que visam a melhor forma de se desenvolver matrizes
+biocompatíveis para tal finalidade. Este trabalho teve como objetivo o desenvolvimento
+de uma membrana provinda da mistura de colágeno e gelatina, com a combinação de
+resina de jatobá em diferentes concentrações. O colágeno foi obtido por hidrólise
+alcalina de serosa porcina por 72h a 25ºC, seguido da estabilização e extração em
+solução de ácido acético pH 3,5. O gel de gelatina foi preparado por dissolução de
+gelatina comercial (Sigma®, Tipo A) em água, sendo gelatinizada a 60 °C durante 30
+min, seguido por resfriamento. As misturas foram caracterizadas por estudo reológico,
+e as membranas por espectroscopia no infravermelho (FT-IR), microscopia eletrônica
+de varredura (MEV), análise térmica (TGA, DSC), ângulo de contato e absorção de
+água. A reologia revelou um aumento da viscosidade, mas mais ainda da elasticidade
+das misturas com o aumento da concentração da resina. O espectro FT-IR apresentou
+bandas que geralmente estão presentes em resinas naturais contendo terpenos e
+compostos ácidos. MEV mostrou que para as diferentes concentrações de resina, a
+membrana muda de uma superfície homogênea para rugosa e que tal rugosidade
+aumenta com o aumento de concentração de resina. As curvas DSC mostram que o
+estrutura do colágeno sofre alterações com a adição da resina havendo o
+aparecimento de uma transição de desnaturação em torno de 40oC. As curvas
+termogravimétricas mostraram que a adição da resina junto ao colágeno não altera a
+temperatura de decomposição, mas diminui a quantidade de água perdida no primeiro
+estágio (25-200oC). Em relação à absorção de água, observou-se que todas as
+amostras hidratou-se com menos de 1 minuto e que a presença da resina diminuiu a
+quantidade de água absorvida, como constatado também no experimento de ângulo
+de contato, que mostrou que elas são mais hidrofóbicas.
+
+ABSTRACT
+The skin is the biggest organ in human body and is a fibroelastic membrane which has
+a wide variety of indispensable functionalities for every human being. Giving its vital
+role of maintaining life, it is necessary the development of new products capable of
+repairing it in a quick and efficient way. With that in mind, tissue engineering shows up
+as a strategic area in the confection of new methods and products that aim a better
+approach for promoting biocompatible membranes for this purpose. This project had
+the objective of developing a new membrane derived from a mixture of collagen and
+gelatin with the addition of Jatobá resin in different concentrations. Collagen has been
+obtained by alkaline hydrolysis of porcine serosa (72h) at 25oC, followed up by
+stabilization and extraction in acetic acid solution pH 3.5. Gelatin gel has been
+prepared by dissolution of commercial gelatin (Sigma®, Tipo A) in water, being
+gelatinized at 60oC for 30 minutes followed by cooling. The mixtures were
+characterized by their rheological study, whereas membranes were characterized by
+infrared spectroscopy (FT-IR), scanning electron microscopy (SEM), thermal analysis
+(TGA, DSC), contact angle, and water absorption. Rheological study revealed an
+elevation in viscosity and an even higher elevation in elasticity of mixtures as the resin
+concentration is increased. FT-IR spectrum showed peaks that are generally present in
+natural resins which contain terpenes and acid components. SEM images revealed that
+for different resin concentrations the membranes surface change from a homogenous
+characteristic to a rugose one and rugosity increases as the resin concentration goes
+up. The DSC curves exhibited that the collagen-gelatin structure goes through
+modification as resin is added because it displayed the increment of a new
+denaturation transition at 40oC in those cases. TG curves showed that the addition of
+resin in the mixture does not alter the decomposition temperature, but it decreases the
+amount of water lost in the first stage (25- 200 oC). Regarding the water absorption, it
+has been observed that all samples hydrated in less than a minute and that the
+presence of resin in the mixture contributed in a way that decreased the amount of
+water absorbed, as also observed at the contact angle experiment, which showed them
+as being more hydrofobic.
+
+LISTA DE FIGURAS
+Figura 1 - Estrutura da pele humana 2. ....................................................................................... 14
+Figura 2 - Processo de formação das fibrilas de colágeno 10. ..................................................... 18
+Figura 3- Fibras de colágeno de tecidos conectores compostos por unidades de fibrilas 5. ...... 18
+Figura 4- Extração de gelatina de tecidos contendo colágeno 14................................................ 19
+Figura 5 - Árvore e resina de Jatobá 19, 20. ................................................................................... 20
+Figura 6 - Misturas de colágeno e gelatina CG11 (sem resina), CG11R48 (com resina de
+concentração 48 mg mL-1) e CG11R96 (com resina de concentração 96 mg mL-1). ................... 28
+Figura 7 - Coloração da solução de resina de Jatobá (RES). ........................................................ 28
+Figura 08 - G’ (sólido) e G’’ (vazio) em função da % de deformação para () CG11, (■) CG11R48
+e (▲) CG11R96............................................................................................................................ 30
+Figura 9 - Módulos G’ (sólido) e G’’ (vazio) em função da frequência angular para () CG11,
+(■) CG11R48 e (▲) CG11R96. ..................................................................................................... 31
+Figura 10 - Curvas de viscosidade complexa em função da frequência angular para as misturas:
+() CG11, (■) CG11R48 e (▲) CG11R96. ................................................................................... 32
+Figura 11 - G’ (sólido) e G’’ (vazio) em função da temperatura para () CG11, (■) CG11R48 e
+(▲) CG11R96............................................................................................................................... 33
+Figura 12 - Curvas de η* vs. Temperatura para as misturas () CG11, (■) CG11R48 e (▲)
+CG11R96. ..................................................................................................................................... 34
+Figura 13 – Foto digital das membranas. .................................................................................... 35
+Figura 14- Curvas TG para as várias amostras analisadas, sendo (―) CG11, (―) RES, (―)
+CG11R48, (―) CG11R96. ............................................................................................................. 35
+Figura 15 - Curvas DSC para (―) CG11, (―) CG11R48, (―) CG11R96. ....................................... 37
+Figura 16 - Fotomicrografias por MEV para: (A) CG11, (B) CG11R48 e (C) CG11R96. Aumento de
+200x. ............................................................................................................................................ 38
+Figura 17 – Fotomicrografias por MEV para (B’) CG11R48 e (C’) CG11R96. Aumento de 20000x
+..................................................................................................................................................... 39
+Figura 18 - Espectro de absorção no IV para a resina de Jatobá (RES). ...................................... 39
+Figura 19 - Espectro de absorção no IV para a CG11. ................................................................. 40
+Figura 20 - Espectros de absorção no IV de todas as amostras estudadas, sendo (―) RES, (―)
+CG11, (―) CG11R48, (―) CG11R96............................................................................................. 41
+Figura 21 - Esquema do ângulo de contato de uma gota em uma superfície sólida 34. ............. 42
+Figura 22 - Imagens da gota na superfície das membranas, sendo: (A): CG11, (B): CG11R48 e
+(C): CG11R96. .............................................................................................................................. 43
+Figura 23 - Fotos de membranas antes (A) e após (B) o intumescimento. ................................. 44
+Figura 24 - Curvas de intumescimento para as membranas: () CG11; (■) CG11R48 e (▲)
+CG11R96. ..................................................................................................................................... 45
+
+LISTA DE TABELAS
+Tabela 1- Aminoácidos presentes na proteína de colágeno 5. ................................................... 17
+Tabela 2 - Valores de G’ e G’’ para as misturas na frequência de 5,0 rad s-1.............................. 31
+Tabela 3 - Porcentagem de perda de massa nas diferentes fases para cada uma das
+membranas e para a resina. ........................................................................................................ 36
+Tabela 4 - Temperaturas de transições térmicas das amostras analisadas. ............................... 37
+Tabela 5 - Valores dos ângulos de contato e suas médias para as membranas. ........................ 43
+Tabela 6 - % de absorção para as membranas no tempo de 10 minutos. .................................. 46
+
+LISTA DE ABREVIAÇÕES E SIGLAS
+CG11 – Mistura de colágeno 1% e gelatina 1% (1:1).
+RES – Solução de resina de Jatobá e etanol.
+CG11R48 – Mistura de colágeno 1% e gelatina 1% (1:1) + 48 mg de resina de Jatobá.
+CG11R96 – Mistura de colágeno 1% e gelatina 1% (1:1) + 96 mg de resina de Jatobá.
+FT-IR – Espectroscopia no infravermelho.
+TG – Termogravimetria.
+DSC – Calorimetria exploratória diferencial.
+MEV – Microscopia eletrônica de varredura.
+
+SUMÁRIO
+LISTA DE FIGURAS ..................................................................................................... 9
+LISTA DE TABELAS ................................................................................................... 10
+LISTA DE ABREVIAÇÕES E SIGLAS ........................................................................ 11
+1
+
+INTRODUÇÃO..................................................................................................... 14
+1.1 PELE ................................................................................................................. 14
+1.2 BIOMATERIAIS ................................................................................................. 15
+1.3 COLÁGENO ...................................................................................................... 16
+1.4 GELATINA ........................................................................................................ 18
+1.5 RESINA DE JATOBÁ ........................................................................................ 20
+
+2 OBJETIVOS............................................................................................................. 22
+3 PROCEDIMENTO EXPERIMENTAL ....................................................................... 23
+3.1 MATERIAIS E MÉTODOS ................................................................................. 23
+3.2 PREPARAÇÃO DOS MATERIAIS ..................................................................... 23
+3.2.1. Obtenção do colágeno ............................................................................... 23
+3.2.2 Preparação do gel de gelatina 1% .............................................................. 24
+3.2.3 Mistura de colágeno e gelatina 1% (CG11) ................................................. 24
+3.2.4 Resina (RES) .............................................................................................. 24
+3.2.5 Mistura de colágeno/gelatina/resina ............................................................ 24
+3.3 PREPARAÇÃO DAS MEMBRANAS ................................................................. 25
+3.4 CARACTERIZAÇÃO ......................................................................................... 25
+3.4.1 Estudo reológico ......................................................................................... 25
+3.4.2 Espectroscopia no infravermelho (FT-IR) .................................................... 25
+3.4.3 Termogravimetria (TG)................................................................................ 26
+3.4.4 Calorimetria exploratória diferencial (DSC) ................................................. 26
+3.4.5 Microscopia eletrônica de varredura (MEV) ................................................ 26
+3.4.6 Ângulo de contato ....................................................................................... 26
+3.4.7 Absorção de água ....................................................................................... 27
+4 RESULTADOS E DISCUSSÃO ............................................................................... 28
+4.1 CARACTERIZAÇÃO DAS MISTURAS .............................................................. 28
+4.1.1 Estudo reológico ......................................................................................... 29
+4.1.1.1 Varredura de Deformação .................................................................... 29
+4.1.1.2 Varredura de Frequência ...................................................................... 30
+4.1.1.3 Varredura de Temperatura ................................................................... 33
+4.2. CARACTERIZAÇÃO DAS MEMBRANAS ........................................................ 34
+
+4.2.1 ANÁLISE TÉRMICA .................................................................................... 35
+4.2.1.1 Termogravimetria (TG) ......................................................................... 35
+4.2.1.2 Calorimetria Exploratória Diferencial (DSC) .......................................... 37
+4.2.2 Microscopia eletrônica de varredura (MEV) ................................................ 38
+4.2.3 Espectroscopia de absorção no infravermelho (FITR)................................. 39
+4.2.4 Ângulo de contato ....................................................................................... 42
+4.2.5 Absorção de água ....................................................................................... 44
+5 CONCLUSÕES........................................................................................................ 47
+6 REFERÊNCIAS ...................................................................................................... 48
+
+14
+Introdução
+
+1 INTRODUÇÃO
+1.1 PELE
+A
+
+pele
+
+é
+
+o
+
+maior
+
+órgão
+
+do
+
+corpo
+
+humano,
+
+constituindo
+
+aproximadamente 16% de seu peso total e apresentando em média 1,8 m 2 de
+área. Ela apresenta diversas funções, sendo que dentre elas a mais importante
+é a de proteção física contra meio ambiente, ou seja, microorganismos,
+radiação UV e choques mecânicos. Além do mais, ela também serve para
+controle de agentes tóxicos e permite e limita a passagem de água, eletrólitos e
+várias outras substâncias 1. A Figura 1 mostra a estrutura da pele de um ser
+humano.
+Figura 1 - Estrutura da pele humana 2.
+
+Fonte: Site - sendicosmeticos.com.br
+
+Existem três camadas estruturais na pele: a epiderme, a derme e a
+hipoderme. As principais células da epiderme são os queratinócitos, que
+produzem a queratina e são interconectados por uma rede de proteínas
+chamadas desmossomos. Nesta camada há uma subdivisão de quatro partes
+dependendo da maturação da queratina, que se encontra em constante
+movimento para a camada mais externa da pele para substituir células velhas.
+Esta camada pode variar de 0,05 a 1,50 mm de espessura. A derme se
+encontra debaixo da epiderme e pode variar de espessura de 0,6 a 3 mm e é
+
+15
+Introdução
+
+composta por uma matriz celular rígida que serve como base. Ela é subdividida
+em duas camadas, sendo que a mais exterior se conecta com a epiderme e
+contém fibras de colágeno frouxamente organizadas, enquanto que a camada
+mais interna apresenta grossos aglomerados de colágeno. A derme é
+composta por fibroblastos que dão origem ao colágeno, que compõe 70 % de
+sua camada e promove força e rigidez, a elastina, que confere flexibilidade, e
+os proteoglicanos, que provêm viscosidade e hidratação. Por fim, tem-se a
+hipoderme, que é composta por tecidos frouxamente conectados e gordura e
+pode chegar a até 3 cm de espessura no abdômen. Nesta camada estão
+presentes vasos sanguíneos e nervos maiores do que na derme 3.
+
+1.2 BIOMATERIAIS
+Uma revolução em cuidados médicos começou com a substituição
+bem sucedida de tecidos. Afortunadamente, tal revolução coincidiu com o
+aumento na expectativa de vida dos seres humanos. Para esta operação, duas
+alternativas eram possíveis, o implante ou o transplante. A primeira opção na
+maioria dos casos era encontrar um tecido do paciente de um local doador e
+transplantá-lo para um local alvo tornou-se o objetivo da maioria dos
+procedimentos
+
+cirúrgicos.
+
+Este
+
+tipo
+
+de
+
+enxerto,
+
+chamado
+
+autograft,
+
+apresentava diversas limitações, especialmente referente à sua disponibilidade,
+morbidez do tecido alvo, tendência de reabsorção e algumas vezes
+comprometimento de propriedades biomecânicas. Uma solução parcial para
+algumas dessas limitações era utilizar-se tecidos transplantados de doadores
+humanos (homograft) vivo, ou morto. Disponibilidade, necessidade de fármacos
+imunossupressores, preocupação com contaminações prévias e embates
+éticos e religiosos tornaram-se constantes para este tipo de procedimento 4.
+Uma segunda opção na revolução de substituição de tecidos foi o
+desenvolvimento, ou em muitos casos a modificação de materiais elaborados
+para implante a partir de biomateriais. As vantagens significativas de implantes
+sobre transplantes são disponibilidade, reprodutibilidade e confiabilidade 4.
+Segundo a Clemson University Advisory Board for Biomaterials, um
+biomaterial pode ser definido como “uma substância sistematicamente e
+farmacologicamente inerte, criada para implantação ou incorporação em
+organismos vivos”, ou seja, além de suas características desejadas, como
+
+16
+Introdução
+
+resistência à corrosão e propriedades mecânicas destinadas ao seu uso, ela
+ainda deve ser biocompatível com o organismo em questão, o que significa não
+poder provocar qualquer tipo de irritação no tecido ao redor, não provocar
+nenhuma resposta inflamatória anormal, não incitar resposta alérgica ou
+imunológica e, finalmente, não causar câncer 5.
+Hoje em dia, biomateriais são rotineiramente utilizados em
+aplicações médicas com diversas finalidades como liberação de fármacos,
+engenharia de tecidos, terapias com base em dispositivos e estudo de imagem
+médica. A muito se tem reconhecido que as propriedades dos materiais afetam
+os resultados biológicos, incluindo meia-vida de fármacos, biocompatibilidade
+de dispositivos implantados e taxas de liberação de carreadores de fármacos.
+De mesmo modo, as propriedades dos biomateriais podem ter profundo
+impacto na proliferação de células e remodelação de tecidos 6.
+Atualmente existe uma grande variedade de biomateriais e estes
+podem ser divididos em dois grupos, os sintéticos, que se entende pelos
+polímeros sintéticos, metais, cerâmicos e compósitos, e os naturais, nos quais
+fazem parte o colágeno, a elastina, a seda dentre outros 7.
+Para um biomaterial ser bem sucedido quando aplicado a um
+possível reparo tecidual, ele deve contar com certas características, como
+promover o crescimento celular, ser bem vascularizado e promover um suporte
+elástico estrutural para a pele. Essas características fazem do colágeno o
+material ideal para ser utilizado 8.
+
+1.3 COLÁGENO
+O colágeno é a proteína mais abundante encontrada no corpo
+humano com diversas funções biomecânicas nos ossos, tendões e ligamentos
+e controlando a expressão de gene celular em seus desenvolvimentos 5.
+Atualmente, 29 moléculas se classificam como moléculas de
+colágeno, sendo que dentre elas o colágeno tipo I é o mais abundante e o
+componente principal do tecido conjuntivo, dos ossos, tendões e ligamentos 9.
+Seu peso é de aproximadamente 283.000 Daltons e ele é composto por três
+cadeias polipeptídicas que formam a hélice tripla, sendo que duas delas são
+iguais e uma diferente (2α1 e 1α2). Mais de 95% de seus aminoácidos
+apresentam a conformação Gly-Pro-Hyp e os 5% restantes não, o que faz com
+
+17
+Introdução
+
+que esta parte não se apresente com o mesmo formato de tripla hélice que o
+restante, sendo conhecida por telopeptídeos Sua estrutura helicoidal é
+estabilizada por fatores como a presença de ligações de hidrogênio entre os
+hidrogênios ligados ao nitrogênio e oxigênio de resíduos de aminoácido
+distintos; um conciso arranjo dos aminoácidos na hélice tripla e finalmente a
+contribuição das moléculas de água para a formação das ligações de
+hidrogênio. A Tabela 1 lista a composição dos principais aminoácidos
+encontrados
+
+na
+
+molécula
+
+de
+
+colágeno 5.
+Tabela 1- Aminoácidos presentes na proteína de colágeno 5.
+
+A região de telopeptídeos é onde comumente se explora técnicas de
+clivagem do colágeno para formação de derivados por rompimento das
+ligações de reticulação por enzimas proteolíticas como a pepsina. O
+tropocolágeno é importante construtor estrutural agregando-se para formar
+estruturas maiores, as fibrilas (Figura 2 e 3). A organização das moléculas de
+colágeno nas fibrilas é específica de cada tecido 5.
+
+18
+Introdução
+Figura 2 - Processo de formação das fibrilas de colágeno 10.
+
+Fonte: BATISTA, 2008, p.26.
+
+Figura 3- Fibras de colágeno de tecidos conectores compostos por unidades de
+fibrilas 5.
+
+Fonte: BRONZINO, 2003, p. 122.
+
+A agregação das fibrilas forma as fibras que possuem as funções de
+desenvolvimento e orientação dos tecidos que estão se formando, além de
+apresentar alta capacidade de tensão elástica e ser também bastante flexível, o
+que torna a utilização do colágeno como biomaterial muito atraente
+
+11
+
+.
+
+1.4 GELATINA
+A gelatina é um biopolímero natural derivado do colágeno que
+contém um alto teor de glicina, prolina e hidroxiprolina. Sua fibra é um polímero
+biodegradável com excelente biocompatibilidade, adesividade, adesão celular e
+além do mais ela tem a capacidade de promover o crescimento celular
+
+12
+
+.
+
+19
+Introdução
+
+Geralmente têm-se dois tipos de gelatina, a tipo A, extraída e processada a
+partir de um pré-tratamento ácido do colágeno, e a tipo B, na qual é obtida ao
+passo que o colágeno é submetido a um pré-tratamento alcalino, convertendo
+os resíduos de glutamina e asparagina em ácido glutâmico e aspártico
+
+13
+
+. A
+
+Figura 4 apresenta o processo de obtenção da gelatina.
+Figura 4- Extração de gelatina de tecidos contendo colágeno 14.
+
+Fonte: Site- albumen.conservation-us.org.
+
+Durante o processo de desnaturação do colágeno para a obtenção
+da gelatina, sua hélice tripla é hidrolisada nos locais onde os crosslinks
+covalentes unem os três peptídeos.
+A gelatina forma géis em solventes que possam formar ligações de
+hidrogênio. Sua formação, acompanhada por um rearranjo ordenadodesordenado nos quais as cadeias da gelatina recuperam parcialmente a
+estrutura de hélice tripla do colágeno levam à formação de uma gelatina com
+regiões principais amorfas de cadeias enroladas randomicamente, que são
+estabilizadas por ligações de hidrogênio entre a ligação N-H da Glicina e C=O
+da Prolina 15.
+Existem estudos que apontam a gelatina como sendo uma grande
+aliada na área de engenharia de tecidos por auxiliar no suporte e fixação além
+
+20
+Introdução
+
+do crescimento celular, como as células epiteliais, endoteliais, fribroblastos e
+osteoblastos 16.
+
+1.5 RESINA DE JATOBÁ
+O cerrado é um conjunto de ecossistemas compostos por florestas,
+gramíneas, savanas e florestas ribeirinhas. Ele chega a ocupar um quarto de
+todo o território brasileiro e é o segundo maior bioma da América do Sul,
+apenas atrás da Amazônia.
+No cerrado, muitas plantas foram reconhecidas pela ação bioativa
+de suas resinas, sementes e frutos
+
+17
+
+. As resinas vegetais podem ser definidas
+
+funcionalmente como “uma mistura lipossolúvel de compostos fenólicos ou
+terpenóides secundários que são usualmente secretados por estruturas
+especializadas localizadas tanto internamente quanto na superfície da planta e
+de potencial significado em interações ecológicas”
+
+18
+
+. Dentre as plantas
+
+presentes no cerrado que podem apresentar os compostos bioativos está o
+Jatobá (Hymenaea courbaril L.), uma árvore típica desta região que pode
+alcançar de 15 a 20 metros de altura e ter um tronco que pode ultrapassar
+1 metro de diâmetro
+vezes
+
+translúcido)
+
+18
+
+. Sua resina apresenta um aspecto opaco (e algumas
+
+de
+
+fragmentos
+
+amarelos-pálidos
+
+e
+
+é
+
+composta
+
+principalmente por sesquiterpenos, tendo como principal constituinte o óxido de
+cariofileno, e diterpenos, constituídos majoritariamente por ácidos labdanóicos
+19
+
+. A Figura 5 mostra a árvore de Jatobá e sua resina.
+Figura 5 - Árvore e resina de Jatobá 19, 20.
+
+Fonte: Site- onordeste.com; DOMÉNECH-CARBÓ, 2008, p.82.
+
+21
+Introdução
+
+A resina é obtida através de talhos em seu tronco
+
+21
+
+e estudos
+
+recentes mostram que o uso de Jatobá exibe diversas propriedades
+interessantes
+
+para
+
+o
+
+emprego
+
+junto
+
+à
+
+biomateriais,
+
+como
+
+atividade
+
+antimicrobiana contra bactérias gram-positivos e vírus da dengue tipo 2, além
+de ser usada na prevenção e terapia contra câncer por ser uma substância
+menos tóxica que os outros agentes quimioterápicos. Adicionalmente, seus
+metabólitos secundários como a fisetina, têm ações anti-inflamatórias e antioxidantes 22.
+
+22
+Objetivos
+
+2 OBJETIVOS
+O objetivo principal deste trabalho foi o preparo e a caracterização
+de membranas de colágeno e gelatina com a adição de resina de jatobá para
+estudar-se sua influência na mistura, visando atingir qualidades que
+proporcionariam tais membranas serem atrativas como biomateriais para
+utilização em regeneração de pele.
+Secundariamente,
+
+visou-se
+
+analisar
+
+o
+
+efeito
+
+de
+
+diferentes
+
+concentrações da resina no meio a fim de investigar se este parâmetro era
+suficiente para alterar suas propriedades físicas e dentre elas apontar
+supostamente qual seria a mais interessante frente a suas características
+apresentadas.
+
+23
+Procedimento Experimental
+
+3 PROCEDIMENTO EXPERIMENTAL
+3.1 MATERIAIS E MÉTODOS
+Os reagentes e solventes foram de grau PA e utilizados como tal.
+
+3.2 PREPARAÇÃO DOS MATERIAIS
+3.2.1. Obtenção do colágeno
+A serosa bruta foi comprada em casa de carnes, lavada interna e
+externamente com bastante água e água desionizada para se retirar o excesso
+de sal sendo então cortada longitudinalmente e depois em pedaços de 5,0 cm.
+Em seguida se fez um tratamento com solução de ácido acético (HAc)
+0,5 mol L-1 por 30 minutos e após esse período novamente lavou-se com água
+desionizada para posteriormente tratá-la com hidróxido de sódio (NaOH)
+0,5 mol L-1 por 30 minutos a temperatura de 5°C. Após esse procedimento, a
+serosa foi lavada alternadamente, por 1 hora de intervalo, com água
+desionizada e NaOH 0,1 mol L-1 à temperatura ambiente até o momento em
+que ela adquiriu uma coloração creme/branca com posterior lavagens com
+água desionizada até pH de 6,84. Retirou-se o excesso de água da mesma
+escorrendo-se em uma peneira e secando-se com um papel absorvente e
+então a serosa foi cortada em pedaços menores de cerca de 1,0 cm cada.
+Preparou-se uma solução básica contendo os sais de cloretos e
+sulfatos de sódio, potássio e cálcio na qual ela foi imersa por um período de
+72 horas 23. O sistema foi mantido a temperatura ambiente durante esse tempo,
+agitando- o por volta de 4 vezes ao dia. Após esse processo, ela foi removida,
+lavada com de água desionizada e adicionada a uma solução aquosa dos
+mesmos cloretos e sulfatos anteriores por um período de 6 horas, também a
+temperatura ambiente. Repetiu-se o procedimento de escorrer e lavar com de
+água desionizada e então se colocou em uma solução de ácido bórico 3%.
+Lavou-se a serosa com água desionizada por 3 vezes, esperando-se 1 hora
+entre cada lavagem e então ela foi tratada com uma solução de EDTA 0,3%
+(m/m) com pH 11,0. O colágeno foi extraído com uma solução de HAc pH 3,5
+sendo
+
+homogeneizado
+
+e
+
+desareado.
+
+Pelo
+
+processo
+
+de
+
+liofilização
+
+24
+Procedimento Experimental
+
+determinou-se que sua concentração foi de 2,1 %. A partir de uma solução
+estoque preparou-se uma solução de 1 % por diluição com HAc pH 3,5.
+3.2.2 Preparação do gel de gelatina 1%
+Para se preparar a gelatina (Sigma, tipo A, pele porcina) 1%, pesouse 2,0 g da mesma adicionando-se 198 mL de água desionizada. Aqueceu-se o
+sistema a 60oC por 30 minutos para sua gelatinização.
+3.2.3 Mistura de colágeno 1% e gelatina 1% (CG11)
+Para se fazer esta mistura, prosseguiu-se do seguinte modo: pesouse 15 g de cada um dos componentes e homogeneizou-se por agitação
+mecânica a 1500 rpm por 30 minutos.
+3.2.4 Resina (RES)
+A resina utilizada nos experimentos é oriunda de árvores adultas da
+espécie Hymenaea courbaril, obtida no município de Jataí-GO e cedida pelo
+Prof. Dr. Valcinir Aloísio Scalla Vulcani da Universidade Federal de Goiás.
+Primeiramente a resina bruta foi triturada e peneirada. Para purificala testaram-se diversos solventes nos quais a resina poderia, porventura,
+dissolver- se, como água, dimetilsulfóxido, acetona, clorofórmio e etanol. O que
+apresentou melhor resultado dentre eles foi o etanol e desta maneira foi o
+escolhido para se continuar o experimento.
+Uma massa de 250 mg de resina foi colocada em 5mL de etanol,
+sob agitação e aquecimento a 75oC. A seguir ela foi filtrada em placa porosa e
+seus resíduos insolúveis foram aferidos para se calcular a concentração final
+da resina na solução. A resina solubilizada teve a concentração de sua solução
+ajustada para 48 mg mL-1 e desta uma segunda solução de concentração de
+96 mg ml-1 obtida por concentração da anterior sob evaporação do etanol por
+ar comprimido.
+3.2.5 Mistura de colágeno/gelatina/resina
+À 20 g da CG11 foi adicionado uma solução de resina com
+concentração de 48 mg mL-1 sob agitação mecânica (1500 rpm) e temperatura
+ambiente. Essa mistura foi denominada de CG11R48.
+
+25
+Procedimento Experimental
+
+De maneira similar foi feita a mistura utilizando-se uma solução de
+resina com concentração de 96 mg mL-1 que foi denominada de CG11R96.
+
+3.3 PREPARAÇÃO DAS MEMBRANAS
+Com as soluções descritas no item 3.2.5 fizeram-se 20 membranas
+circulares de 0,8 g de solução em moldes de teflon. Deixaram-se as
+membranas secarem em uma câmara sob fluxo de ar constante.
+
+3.4 CARACTERIZAÇÃO
+3.4.1 Estudo reológico
+As misturas formadas tiveram suas propriedades reológicas
+determinadas em um reômetro de tensão controlada (AR-1000N - TA
+Instruments), com geometria cone-placa de 60 mm e ângulo 30’ com gap de
+15 µm em um sistema termostatizado por um banho circulatório modelo FS18
+da Julabo.
+A região viscoelástica foi determinada por varredura de 0,05 a
+100 Pa, com ν = 1 Hz e T = 25°C para obter os módulos elástico (G’) e viscoso
+(G’’) em função da deformação. Os módulos de armazenamento (G’) e de
+perda (G”) foram obtidos em função da temperatura e frequência angular
+dentro
+
+da
+
+região
+
+viscoelástica.
+
+A
+
+determinação
+
+da
+
+temperatura
+
+de
+
+desnaturação do colágeno foi feita com variação de temperatura de 20 a 65°C,
+razão de aquecimento de 5°C min-1, ν = 1 Hz e deformação 1,0%. Os ensaios
+de varredura de frequência foram feitos de 0,1 a 100 rad s -1 com deformação
+de 1,0%, a temperatura de 25 °C.
+3.4.2 Espectroscopia no infravermelho (FT-IR)
+O espectro de absorção no infravermelho foi feito a partir das
+misturas diluídas (aproximadamente 0,5 mg delas em 1 mL de HAc pH 3,5). A
+solução foi colocada em um molde de teflon para se formar filme sob um fluxo
+de ar constante. No caso da resina, sua solução foi seca em fluxo de ar,
+acondicionada em dessecador à vácuo na presença de parafina e
+posteriormente triturada. O espectro foi feito a partir do pó em pastilha de KBr.
+Para ambos os casos o intervalo estudado foi entre 4000 a 400 cm–1,
+com resolução de 4 cm-1, utilizando um espectrofotômetro de infravermelho
+
+26
+Procedimento Experimental
+
+com transformada de Fourier (FTIR), modelo IRAffinity-1 Shimadzu, software IR
+solution.
+3.4.3 Termogravimetria (TG)
+Para a determinação da estabilidade térmica das membranas, foram
+obtidas
+
+as
+
+curvas
+
+termogravimétricas
+
+utilizando-se
+
+amostras
+
+de
+
+aproximadamente 10 mg em atmosfera de ar sintético, com variação de
+temperatura de 25 a 800oC e razão de aquecimento de 10oC min-1 em um
+equipamento TGA Q-50 (TA Instruments). Este procedimento foi realizado no
+laboratório da Profª Dra. Agnieszka Joanna Pawlicka Maule, no Instituto de
+Química de São Carlos-USP.
+3.4.4 Calorimetria exploratória diferencial (DSC)
+Para se conduzir o experimento de DSC, pesou-se por volta de
+20 mg das amostras que foram colocadas em suporte hermético de alumínio.
+A medida foi iniciada em 25°C, com razão de 10 oC min-1, até 120°C. Foi
+utilizado nitrogênio como gás de arraste, com fluxo de 80 mL min-1. Utilizou-se
+o equipamento da TA – Instruments, modelo DSC 2010.
+3.4.5 Microscopia eletrônica de varredura (MEV)
+As fotomicrografias das superfícies membranas foram obtidas após
+serem coladas em stubs por fita condutora de carbono e recobertas com uma
+fina camada de ouro de 6 nm de espessura em um metalizador Coating System
+BAL-TEC MED 020 (BAL-TEC, Liechtenstein) com pressão na câmara de 2,00
+x10-2 mbar, corrente de 60 mA e taxa de deposição de 0,60 nm/s. Utilizou-se o
+equipamento ZEISS LEO 440 (Cambridge, England) com detector OXFORD
+(model 7060), operando com feixe de elétrons de 20 kV.
+3.4.6 Ângulo de contato
+Os ensaios de ângulo de contato foram feitos no Laboratório de
+Polímeros do Instituto de Física de São Carlos-USP, sob a supervisão da
+técnica responsável, Dra. Débora Gonçalves e sob orientação do Prof. Dr.
+Osvaldo Novais de Oliveira Junior. As membranas tiveram seu ângulo de
+contato medido em temperatura ambiente com o uso do equipamento CAM 200
+KSV Instruments – Helsinki. Foram escolhidos três pontos para teste em cada
+
+27
+Procedimento Experimental
+
+membrana e uma gota de água de 3 µL foi depositada sobre sua superfície,
+sendo feitas cinco medidas, uma a cada minuto, com as quais foi calculado o
+valor médio. A forma assumida pela gota foi registrada por câmera digital CCD
+(LG) com aquisição de imagens pelo software KSV, o qual determinou a
+evolução do ângulo de contato.
+3.4.7 Absorção de água
+Para se analisar a absorção de água pelas membranas, amostras de
+massa conhecida que variaram de 2 a 5 mg foram mergulhadas em água
+desionizada a temperatura de 25oC. Em tempos pré-determinados foram
+removidas da água com o excesso de água retirado com papel de filtro e
+pesadas. Esse procedimento foi realizado até se obter uma massa absorvida
+constante em cada amostra. A equação (1) utilizada para o estudo foi:
+𝐴𝑏𝑠. (%) =
+
+(𝑚𝑎𝑠𝑠𝑎 𝑚𝑒𝑚𝑏𝑟𝑎𝑛𝑎 ℎ𝑖𝑑𝑟𝑎𝑡𝑎𝑑𝑎) − (𝑚𝑎𝑠𝑠𝑎 𝑚𝑒𝑚𝑏𝑟𝑎𝑛𝑎 𝑠𝑒𝑐𝑎)
+𝑥 100
+(𝑚𝑎𝑠𝑠𝑎 𝑚𝑒𝑚𝑏𝑟𝑎𝑛𝑎 𝑠𝑒𝑐𝑎)
+
+(1)
+
+28
+Resultados e Discussão
+
+4 RESULTADOS E DISCUSSÃO
+4.1 CARACTERIZAÇÃO DAS MISTURAS
+Pôde-se
+
+observar
+
+que
+
+as
+
+misturas
+
+que
+
+continham
+
+resina
+
+apresentavam um aspecto mais líquido quando comparadas com a sem resina
+(Figura 6). Adicionalmente, suas colorações se tornaram mais esbranquiçadoamareladas, sendo esta última cor típica da solução de resina (Figura 7).
+Figura 6 - Misturas de colágeno e gelatina CG11 (sem resina), CG11R48 (com resina
+de concentração 48 mg mL-1) e CG11R96 (com resina de concentração 96 mg mL-1).
+
+Figura 7 - Coloração da solução de resina de Jatobá (RES).
+
+As misturas foram caracterizadas por ensaios reológicos.
+
+29
+Resultados e Discussão
+
+4.1.1 Estudo reológico
+A palavra “viscoelástica” significa a existência simultânea de
+propriedades viscosas e elásticas no material. Pode-se pensar que todos os
+materiais reais são viscoelásticos; quando o experimento for relativamente
+devagar, a amostra tenderá a parecer mais viscosa que elástica, enquanto que
+se o experimento for relativamente rápido, ela apresentará ser mais elástica
+que viscosa. Em situações intermediárias, uma mistura viscoelástica é
+observada.
+A reologia permite se conhecer a estrutura do material através das
+propriedades viscoelásticas. As funções e parâmetros dos materiais medidos
+nos experimentos se mostram uma poderosa ferramenta para o controle de
+qualidade nos produtos industriais. Por fim, um respaldo em viscoelasticidade
+linear pode ser de grande ajuda quando se deseja proceder a análises mais
+complexas como os demais ensaios reológicos por ser utilizado como condição
+de contorno 24.
+Na região viscoelástica linear, a resposta (tensão) por parte da
+amostra analisada a qualquer momento é diretamente proporcional ao valor do
+sinal inicial (estresse aplicado). Assim, por exemplo, se aplicarmos o dobro de
+estresse na amostra, a tensão também deverá dobrar
+
+24
+
+. Em outras palavras,
+
+essa região é onde os módulos de armazenamento e perda são constantes a
+uma faixa de deformação.
+4.1.1.1 Varredura de Deformação
+A partir da varredura de deformação pôde-se avaliar que o colágeno
+apresenta o módulo de armazenamento G’ com um valor maior que o módulo
+de perda G’’(Figura 08), apresentando uma maior característica do tipo sólido
+do que do tipo fluido e se mostrando altamente estruturado, ou seja,
+cadeias longas e flexíveis 26.
+
+25
+
+com
+
+30
+Resultados e Discussão
+Figura 08 - G’ (sólido) e G’’ (vazio) em função da % de deformação para () CG11,
+
+1000
+100
+
+100
+1000
+
+100
+10
+
+100
+10
+
+10
+
+10
+
+1
+
+1
+
+1
+
+1
+
+0,1
+0,1
+
+0,01
+0,01
+
+G'' / (Pa)
+
+G' (Pa)
+
+(■) CG11R48 e (▲) CG11R96.
+
+0,1
+0,1
+
+0,1
+
+1
+
+10
+
+100
+
+1000
+
+10000
+
+0,01
+100000
+
+% deformaçao
+
+De acordo com a Figura 08 foi escolhida a deformação de 1% na
+região viscoelástica linear para ser utilizada nos demais ensaios oscilatórios.
+Foi feito o teste de varredura de deformação também para a resina,
+no entanto esta não apresentou uma região viscoelástica linear e deste modo
+não se conduziu os experimentos seguintes.
+
+4.1.1.2 Varredura de Frequência
+Para este estudo, se analisou a resposta das amostras frente ao
+aumento da frequência a temperatura constante de 25oC. Tal estudo é
+importante para se caracterizar a natureza da amostra em questão, bem como
+definir de forma clara a variação dos módulos G’ e G’’ presentes nos gráficos. A
+Figura 9 mostra os resultados obtidos.
+
+31
+Resultados e Discussão
+Figura 9 - Módulos G’ (sólido) e G’’ (vazio) em função da frequência angular para
+() CG11, (■) CG11R48 e (▲) CG11R96.
+
+10000
+
+10000
+
+1000
+
+1000
+
+100
+
+100
+
+10
+
+10
+
+1
+
+1
+
+0,1
+
+G'' / (Pa)
+
+100000
+
+G' / (Pa)
+
+100000
+
+0,1
+0,1
+
+1
+
+10
+
+100
+-1
+
+Frequência angular / (rad seg )
+
+As curvas de varredura de frequência mostram que o módulo
+elástico G’ é maior que o viscoso G’’ para todas as misturas líquidas
+estudadas, sendo elas também dependentes da frequência aplicada. Escolheuse a frequência de 5,0 rad seg-1 para aferir os dados de ambos os módulos em
+cada uma das misturas, resultando na tabela a seguir.
+Tabela 2 - Valores de G’ e G’’ para as misturas na frequência de 5,0 rad s-1.
+
+Amostra
+
+Módulos
+G’ (Pa)
+
+G’’ (Pa)
+
+CG11
+
+45,71
+
+10,29
+
+CG11R48
+
+5903
+
+521,1
+
+CG11R96
+
+11770
+
+957,2
+
+Com base na Figura 9 e na Tabela 2 se conclui que a presença da
+resina na membrana aumenta o caráter elástico das mesmas. Enquanto que
+em CG11 a diferença entre os módulos G’ e G’’ era de 35,4 Pa, na CG11R48
+foi de 5382 Pa e na CG11R96 10813 Pa, indicando uma relação de quanto
+maior a concentração da resina, maior será o caráter elástico da mistura. Outro
+
+32
+Resultados e Discussão
+
+fator que corrobora com este fato é o espaçamento entre os mesmos módulos
+das diferentes misturas. Fazendo-se a razão o G’CG11R48 / G’CG11, obteve-se
+uma ordem de grandeza de aproximadamente 130 vezes. Para a razão
+G’CG11R96 / G’CG11 a ordem de grandeza foi para aproximadamente 260 vezes,
+indicando que o dobro da concentração da resina ocasionou no dobro de
+elasticidade da misturas em relação à misturas sem resina.
+No caso da viscosidade (Figura 10) teve-se que a razão entre os
+módulos descritos na Tabela 2 G’’CG11R48 / G’’CG11 foi de 50 vezes e G’’CG11R96 /
+G’’CG11 foi de 90 vezes, o que mostra que também há o aumento da
+viscosidade, mas que este parâmetro não segue a mesma relação da
+elasticidade entre a quantidade de resina e seu aumento no módulo. Através
+desse resultado, concluiu-se então que de fato aumentou-se o caráter viscoso
+das misturas, mas o elástico supera seus valores.
+Figura 10 - Curvas de viscosidade complexa em função da frequência angular para as
+misturas: () CG11, (■) CG11R48 e (▲) CG11R96.
+100000
+
+10000
+
+/ (Pa s)
+
+1000
+
+100
+
+10
+
+1
+
+0,1
+0,1
+
+1
+
+10
+
+100
+-1
+
+Frequência / (rad s )
+
+Com base na Figura 10 verifica-se que a CG11 e CGR96 têm um
+comportamento exclusivamente pseudoplástico em toda a varredura da
+frequência estudada, ou seja, há uma diminuição drástica na viscosidade com
+o aumento da frequência angular
+
+27
+
+. A adição da resina à solução CG11R48
+
+mostra um efeito de formação de um patamar Newtoniano em frequências
+
+33
+Resultados e Discussão
+
+próximas de 0,1 rad s-1 para até por volta de 0,4 rad s-1, onde a deformação
+aplicada é proporcional à frequência angular. À frequências maiores, CG11R48
+também se comporta como material pseudoplástico.
+4.1.1.3 Varredura de Temperatura
+Esta análise foi feita para determinar o comportamento das amostras
+com a variação de temperatura, além de obter-se a temperatura de
+desnaturação do colágeno.
+Primeiramente analisaram-se os módulos G’ e G’’ em função da
+temperatura, que estão mostrados na Figura 11.
+Figura 11 - G’ (sólido) e G’’ (vazio) em função da temperatura para () CG11, (■)
+CG11R48 e (▲) CG11R96.
+
+1000
+
+1000
+
+100
+
+100
+
+10
+
+10
+
+1
+
+G'' / (Pa)
+
+10000
+
+G' (Pa)
+
+10000
+
+1
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+o
+
+Temperatura / ( C)
+
+Na Figura 11 pode-se observar que a CG11, com o aumento da
+temperatura, tem seus módulos decrescendo, indicando que há a desnaturação
+do colágeno no decorrer do experimento. A CG11R48 se manteve
+praticamente constante durante toda a análise, enquanto que a CG11R96
+demonstrou um aumento abrupto de seus módulos com o aumento da
+temperatura.
+A Figura 12 contém as curvas de viscosidade complexa vs.
+temperatura.
+
+34
+Resultados e Discussão
+Figura 12 - Curvas de η* vs. Temperatura para as misturas () CG11, (■) CG11R48
+
+e (▲) CG11R96.
+10000
+
+* / (Pa s)
+
+1000
+
+100
+
+10
+
+1
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+o
+
+Temperatura / ( C)
+
+Novamente verifica-se que a resina manteve a viscosidade num
+patamar constante em função da temperatura para CG11R48, ao passo que
+para a CG11R96 houve um aumento com o aumento da temperatura. Isto
+mostra que a alteração na viscosidade das misturas é uma ação
+exclusivamente proporcionada pela resina adicionada, que provavelmente
+atuou na conformação tridimensional da mistura.
+A partir da Figura 12 é possível se construir a curva da primeira
+derivada da CG11 de forma que esta irá mostrar a temperatura de
+desnaturação do colágeno.
+Constatou-se que o colágeno apresentou uma temperatura de
+desnaturação de 40,7oC. Este valor difere do obtido pelo DSC, uma vez que
+aquele se apresentava na forma sólida, enquanto que este se apresenta na
+forma de gel, possuindo um maior grau de liberdade o que modifica suas
+propriedades.
+
+4.2. CARACTERIZAÇÃO DAS MEMBRANAS
+As membranas obtidas tiveram um aspecto similar ao das misturas,
+sendo que as que continham a resina apresentavam uma coloração mais
+
+35
+Resultados e Discussão
+
+amarelada e dependendo da concentração, mais ou menos pontos brancos
+estavam distribuídos pela sua superfície.
+Figura 13 – Foto digital das membranas.
+
+4.2.1 ANÁLISE TÉRMICA
+4.2.1.1 Termogravimetria (TG)
+A análise termogravimétrica foi utilizada para se avaliar a
+estabilidade térmica das membranas obtidas e também da resina frente ao
+aumento gradual da temperatura. A Figura 14 reproduz as curvas obtidas para
+cada uma delas.
+Figura 14- Curvas TG para as várias amostras analisadas, sendo (―) CG11, (―)
+RES, (―) CG11R48, (―) CG11R96.
+
+Todo o processo de perda de massa, no caso das membranas, pode
+ser dividido em três fases. A primeira consiste na perda de água estrutural e
+absorvida das amostras entre as temperaturas de 25 a 200oC. A segunda fase
+
+36
+Resultados e Discussão
+
+consiste na decomposição térmica do colágeno e gelatina e compreende a
+região de 200 a 500oC. A partir dos 500oC, a terceira fase, está relacionada a
+carbonização dos materiais. No caso da resina, a curva TG mostrou 4 fases: a
+primeira também compreendendo a perda de água estrutural e absorvida entre
+as temperaturas de 25 e 200oC, a segunda fase de 200 a 370oC, a terceira de
+370
+
+a
+
+450oC,
+
+com
+
+essas
+
+duas
+
+últimas
+
+sendo
+
+referentes
+
+a
+
+degradação/decomposição dos componentes da resina e por fim a última fase
+vai de 450oC em diante, que foi devido a carbonização do material. A Tabela 3
+mostra a quantidade de perda de massa em cada fase para as membranas e
+para a resina.
+Tabela 3 - Porcentagem de perda de massa nas diferentes fases para cada uma das
+membranas e para a resina.
+
+Amostra
+
+Porcentagem de massa perdida
+25-200oC
+
+200-500oC
+
+500-700oC
+
+CG11
+
+20,5
+
+50,4
+
+27,6
+
+CG11R48
+
+13,3
+
+60,3
+
+25,0
+
+CG11R96
+
+11,4
+
+61,1
+
+23,9
+
+RES
+
+25-200oC
+
+200-370oC
+
+370-450oC
+
+450-700oC
+
+1,4
+
+21,0
+
+57,9
+
+19,5
+
+Na primeira fase, a membrana CG11 sofreu uma maior perda de seu
+valor total e a resina sofreu pouca influência do aumento da temperatura, o que
+já era de se esperar devido a sua composição química que apresenta apenas
+uma pequena porção de seus componentes capazes de absorver água
+
+28
+
+,
+
+sugerindo que a resina de jatobá pode alterar as interações das misturas de
+colágeno e gelatina, tornando-os menos susceptíveis a incorporação de água
+em seu meio. Adicionalmente, conforme se aumentou a concentração de resina
+na membrana, a perda de água foi menor, mas ambas as membranas com
+resina tiveram uma perda próxima. Na segunda fase, por volta de 300oC, se
+começa a notar uma perda acentuada por parte das membranas. É
+interessante verificar-se que as membranas que contém resina na mistura
+apresentam uma queda mais rápida quando comparada com a sem resina. Isto
+
+37
+Resultados e Discussão
+
+é por conta da própria resina que tem um decaimento abrupto de sua massa
+proveniente da degradação/decomposição de seus compostos orgânicos. Na
+fase 3 da perda de massa, as três membranas se comportam praticamente da
+mesma maneira devido à curva da resina demonstrar uma total carbonização
+de seu material a temperaturas menores a esta.
+4.2.1.2 Calorimetria Exploratória Diferencial (DSC)
+As curvas DSC obtidas para as três membranas estão mostradas na
+Figura 15.
+
+-1
+
+Fluxo de Calor / (W g )
+
+Figura 15 - Curvas DSC para (―) CG11, (―) CG11R48, (―) CG11R96.
+
+-1
+
+0,2 W g
+
+exo
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Temperatura / (°C)
+
+Observa-se que a CG11 possui apenas uma transição térmica
+observável, enquanto que as com resina apresentam duas. Com base nessas
+observações fez-se a Tabela 4.
+Tabela 4 - Temperaturas de transições térmicas das amostras analisadas.
+
+Amostra
+
+Transições Térmicas
+1a (oC)
+
+2a (oC)
+
+CG11
+
+-
+
+60,5
+
+CG11R48
+
+34,8
+
+54,3
+
+CG11R96
+
+38,0
+
+55,7
+
+A resina influenciou as misturas de modo a aparecer mais um
+temperatura de desnaturação a aproximadamente 25oC menor do observado
+para a CG11 e também diminuiu em cerca de 5oC a segunda temperatura de
+
+38
+Resultados e Discussão
+
+desnaturação. Observa-se que ambas as temperaturas para CG11R48 foram
+menores que para CG11R96, mas essa diferença foi relativamente pequena
+para ser levada em conta.
+As moléculas de colágeno são estabilizadas por ligações de
+hidrogênio e por ligações intermoleculares
+
+29
+
+. Tanto o aparecimento de uma
+
+nova temperatura de desnaturação, quanto à diminuição da observada em
+CG11 sugere que a resina influenciou a mistura competindo com essas
+interações que as estabilizam, fazendo com que sua presença torne mais fácil
+de ocorrer desnaturações nas respectivas temperaturas.
+4.2.2 Microscopia eletrônica de varredura (MEV)
+A análise da morfologia da superfície das membranas de colágeno e
+gelatina com e sem resina pôde ser conduzida através de suas fotomicrografias
+(Figura 16).
+Figura 16 - Fotomicrografias por MEV para: (A) CG11, (B) CG11R48 e (C) CG11R96.
+Aumento de 200x.
+
+Pelas imagens observa-se que a superfície do material tornou-se
+rugosa a partir da adição de resina de Jatobá. Além do mais, tal rugosidade
+apresenta um aumento com o aumento da concentração da resina presente.
+
+39
+Resultados e Discussão
+Figura 17 – Fotomicrografias por MEV para (B’) CG11R48 e (C’) CG11R96. Aumento
+de 20000x
+
+Ao ampliar para 20.000x, notou-se que conforme se aumenta a
+concentração de resina, houve um maior recobrimento da superfície da
+membrana.
+4.2.3 Espectroscopia de absorção no infravermelho (FITR)
+A figura 18 mostra o espectro de absorção na região do
+infravermelho para a resina de Jatobá.
+
+Transmitância / (%)
+
+Figura 18 - Espectro de absorção no IV para a resina de Jatobá (RES).
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+-1
+
+Numero de Onda / (cm )
+
+A região espectral entre 3700 e 3100 cm -1 é predominada por um
+pico largo por volta de 3400 cm-1 que é atribuída ao estiramento simétrico das
+ligações O-H. A outra absorção nessa região é o pequeno pico localizado a
+3083 cm-1, que é relacionado ao estiramento C-H dos grupos monoalquil. A
+
+40
+Resultados e Discussão
+
+região espectral de 3050-2400 cm-1 é caracterizada por bandas referentes a
+frequências vibracionais das ligações alifáticas simples da ligação C-H e é
+dominada por uma banda intensa em 2933 cm -1 produzida pelos grupos
+metileno 30.
+Os picos em 1694 cm-1 e 1722 cm-1 referem-se a vibrações das
+duplas ligações C=O em grupos carboxilas de resinas ácidas. Uma absorção
+em 1643 cm-1 é provavelmente relacionada ao dobramento de O-H. A região
+espectral 1550-650 cm-1 contém as maiores quantidades de absorção e podem
+ser atribuidas ao movimento de deformação do C-H em grupos de metil e
+metilenos. A região espectral compreendida entre 1300-1100 cm-1 contém
+absorções atribuídas a ligações simples C-O. Um grande número de bandas
+localizadas a regiões menores que 1100 cm-1 apresentam baixas amplitudes e
+são causadas por vibrações em estruturas macromoleculares. Uma exceção a
+isto é o pico em 891 cm-1, que é atribuído ao movimento de deformação para
+fora do plano das ligações C-H em grupos de metilenos terminais 30.
+A Figura 19 retrata o espectro FTIR da CG11 sendo possível
+constatar três bandas que são características das proteínas 31, 32.
+Figura 19 - Espectro de absorção no IV para a CG11.
+
+Duas delas, em 1557,4 e 1658,4 cm -1 correspondem a bandas da
+amida I e II, provenientes da deformação axial da ligação C=O e deformação
+angular do N-H, junto com o estiramento da ligação C-N, respectivamente. Em
+661,6 cm-1 uma banda alargada e de média intensidade se forma devido a
+
+41
+Resultados e Discussão
+
+deformação angular fora do plano da ligação N-H. Em 3320,6 cm-1 se tem uma
+banda larga e intensa proveniente do estiramento O-H.
+A banda em 1242,3 cm-1 é devido às vibrações no plano da amida
+III, a deformação da ligação N-H e ao estiramento C-N, e em 1457,3 cm-1
+ocorre pela vibração dos anéis pirrolidínicos presentes na prolina e
+hidroxiprolina. Essas duas bandas podem ser utilizadas para se verificar a
+integridade da tripla hélice do colágeno no material de modo que a primeira é
+sensível à presença da estrutura secundária do tropocolágeno, enquanto que a
+segunda não. Para se fazer tal controle da estrutura secundária do
+tropocolágeno, basta se determinar a razão entre as duas bandas bandas e
+verificar se o valor resultante é próximo de 1,0. Caso este valor esteja próximo
+de 0,5, isso significa que houve uma desnaturação da estrutura
+
+32,33
+
+. Como
+
+nenhuma de nossas membranas é constituída apenas de colágeno, não foi
+feito tal cálculo, uma vez que ele não expressaria a relação real entre as
+bandas.
+A Figura 20 apresenta os espectros tanto da resina, quanto os de
+todas as membranas.
+Figura 20 - Espectros de absorção no IV de todas as amostras estudadas, sendo
+(―) RES, (―) CG11, (―) CG11R48, (―) CG11R96
+
+Analisando a Figura 20, constata-se primeiramente que os espectros
+das membranas CG11R48 e CG11R96 são praticamente idênticos. Neles
+ainda observou-se um aumento de intensidade na banda em 2933 cm-1
+provinda do acréscimo da resina às membranas e adicionalmente elas tiveram
+
+42
+Resultados e Discussão
+
+um alargamento de suas bandas em 1658 cm-1, que deve ter sido
+consequência da sobreposição de sua banda com a da resina em 1690 cm -1.
+Observou-se que nos espectros para CG11R48 e CG11R96 houve o
+aparecimento de uma banda em 891 cm -1 da deformação fora do plano dos
+metilenos provindo da resina.
+4.2.4 Ângulo de contato
+O ângulo de contato (θ) é uma medida quantitativa do sólido sendo
+molhado por um líquido, o que mostra seu caráter hidrofílico, ou hidrofóbico.
+Geometricamente é definido como o ângulo formado por um líquido nas
+fronteiras das três fases, na qual um líquido, um gás e um sólido se
+interceptam (Figura 21).
+Figura 21 - Esquema do ângulo de contato de uma gota em uma superfície sólida 34.
+
+Fonte: adaptado de POPA, 2013, p.938.
+
+A equação (2) que rege esta medida é conhecida como a relação de
+Young, descrita a seguir.
+
+𝛾𝑙𝑣 . 𝑐𝑜𝑠𝜃 = 𝛾𝑠𝑣 . 𝛾𝑠𝑙
+
+(2)
+
+Em que 𝛾𝑠𝑣 , 𝛾𝑠𝑙 e 𝛾𝑙𝑣 , são as três tensões interfaciais envolvidas: a
+sólida-gasosa, a sólida-líquida e a líquida-gasosa respectivamente.
+A Figura 22 mostra as imagens das gotas nas superfícies das
+membranas.
+
+43
+Resultados e Discussão
+
+Figura 22 - Imagens da gota na superfície das membranas, sendo: (A): CG11,
+(B): CG11R48 e (C): CG11R96.
+
+A Tabela 5 apresenta os resultados de ângulo de contato para as
+membranas de colágeno e gelatina com e sem a resina de Jatobá em
+quintuplicata, bem como a média aritmética e seu desvio padrão.
+Tabela 5 - Valores dos ângulos de contato e suas médias para as membranas.
+
+CG11
+
+Ângulo de Contato (o)
+CG11R48
+
+CG11R96
+
+45,47
+
+43,40
+
+68,78
+
+43,49
+
+45,43
+
+68,36
+
+44,87
+
+44,53
+
+68,11
+
+45,18
+
+45,46
+
+68,08
+
+45,29
+
+43,80
+
+68,22
+
+44,86±0,79 a
+
+44,52±0,93 a
+
+68,31±0,28 a
+
+a – média aritmética dos valores e desvio padrão.
+
+Como mostrado na Tabela 5, todos os ângulos analisados foram
+inferiores a 90o, indicando um bom grau de hidrofilicidade e molhabilidade para
+a superfície das membranas. Para as membranas CG11 e CG11 R 48
+observaram-se um maior grau de “espalhamento” da gota na superfície das
+membranas. Já para a CG11R96, a de maior concentração, obteve-se maior
+valor para ângulo de contato, indicando que o aumento da concentração de
+resina tornou a membrana menos hidrofílica.
+
+44
+Resultados e Discussão
+
+O valor do ângulo de contato tanto da membrana CG11 e CG11R48
+aproximaram do valor expresso na literatura para uma membrana de colágeno
+puro de 45o
+
+35
+
+. A presença da resina nessa concentração não interfere na
+
+hidrofilicidade e molhabilidade da membrana, podendo ser interessante para
+certos fins em sua utilização para a regeneração da pele.
+Sabe-se que para a aplicação de membrana de colágeno para
+liberação controlada de fármacos in vivo, uma maior hidrofilicidade pode
+acelerar a permeabilização de água e promover uma taxa de difusão mais
+eficiente de fármacos aos poros da membrana. Assim sendo, talvez fosse mais
+interessante se considerar o uso da membrana com adição da resina como a
+descrita para CG11R48 caso se objetivasse utilizá-la para tal finalidade, uma
+vez que esta se apresentou com um carácter mais hidrofílico que a mais
+concentrada
+
+36
+
+. Contudo, se a finalidade fosse utilizar uma membrana para a
+
+retenção de líquidos e fármacos junto a um tecido, fazendo com que não
+houvesse dispersão a membrana mais interessante seria a que tem maior
+concentração da resina devido a sua maior hidrofobicidade.
+4.2.5 Absorção de água
+As fotos digitais na Figura 23 mostram membranas antes e depois
+do processo de intumescimento.
+Figura 23 - Fotos de membranas antes (A) e após (B) o intumescimento.
+
+Com base nas fotos digitais verifica-se, visualmente, que para a
+membrana CG11 ocorre o intumescimento com um pequeno aumento de
+
+45
+Resultados e Discussão
+
+tamanho e um aumento na transparência. Para as membranas com resina
+CG11R48 e CG11R96 ocorre um maior aumento de tamanho com grande
+aumento na opacidade.
+Para tornar o método de investigação mais quantitativo, pesaram-se
+as membranas em determinados tempos e então se fez as curvas de
+intumescimento para as três membranas estudadas. Neste experimento
+monitorou-se a absorção de água nas membranas por um período total de
+24 h, mas os resultados mostram que em apenas 1 minuto já se tem a
+estabilização do grau de absorção.
+Figura 24 - Curvas de intumescimento para as membranas: () CG11;
+(■) CG11R48 e (▲) CG11R96.
+300
+
+250
+
+% Absorçao
+
+200
+
+150
+
+100
+
+50
+
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Tempo / (min)
+
+A Figura 24 corrobora nossas observações acerca das fotos digitais
+obtidas e também do raciocínio utilizado no experimento de TG. A membrana
+CG11 demonstrou valores de intumescimento maiores que ambas as outras,
+indicando que a resina promove um caráter hidrofóbico à membrana sendo
+influenciado pela concentração do componente, o que também foi notado no
+estudo de ângulo de contato.
+Com o intuito de se comparar a porcentagem de absorção das
+membranas, fez-se a Tabela 6 para o tempo de 10 minutos.
+
+46
+Resultados e Discussão
+Tabela 6 - % de absorção para as membranas no tempo de 10 minutos.
+Amostra
+
+% Absorção
+
+CG11
+
+246,4
+
+CG11R48
+
+140,8
+
+CG11R96
+
+114,8
+
+A quantidade de água absorvida a mais da membrana sem resina,
+quando comparada com a CG11R48 foi de 1,75 vezes, enquanto que em
+relação à CG11R96 foi de 2,15 vezes, indicando que de fato a resina atua nas
+misturas de modo a diminuir a interação das moléculas de água com elas e
+este efeito é mais pronunciado conforme se aumenta sua concentração.
+
+47
+Conclusões
+
+5 CONCLUSÕES
+Com base nos resultados é evidente a influência da resina nas
+misturas e que sua concentração afeta suas propriedades. Os estudos
+reológicos nos mostraram que sua presença faz com que o caráter viscoso e
+elástico das misturas sejam aumentados, mas que este último em uma
+proporção maior que o outro, ainda mais se a resina estiver em maior
+concentração. Além do mais, observou-se que com o aumento da temperatura
+os módulos G’ e G’’ para as misturas com resina aumentaram também
+proporcionalmente à concentração de resina, enquanto que para a CG11
+houve um decréscimo em seus valores. A análise térmica também mostrou que
+a resina atua de forma a diminuir a quantidade de água absorvida pelas
+membranas e para o DSC obteve-se uma nova temperatura de desnaturação
+para as misturas, sugerindo que os grupos funcionais da resina possam atuar
+de modo a desestabilizar sua estrutura.
+As fotomicrografias das membranas revelaram que com a adição da
+resina no meio, suas superfícies tornaram-se cada vez mais rugosas conforme
+se aumentava a concentração. Já os espectros de infravermelho mostraram o
+alargamento de certas bandas do CG11 e a intensificação da banda em 2933
+cm-1 proveniente da resina.
+No caso do estudo do ângulo de contato verificou-se que a resina na
+proporção de CG11R48 não exerce grande influência no grau de molhabilidade
+da membrana ficando com seu valor próximo a CG11, enquanto que a de maior
+concentração demonstrou um maior grau de hidrofobicidade. Este resultado é
+importante por nos mostrar que não há uma membrana de determinada
+concentração que seja melhor ou pior que a outra para sua utilização, mas sim
+que uma é mais apropriada que a outra dependendo do uso que se queira.
+Finalmente, o estudo de absorção de água mostrou-nos que após
+este procedimento todas as membranas aumentam de tamanho, mas que
+somente as que contêm resina se tornam mais opacas. Além do mais, também
+se observou que a membrana que contém maior concentração de resina é a
+que menos absorveu água, o que vai de encontro com os outros resultados
+obtidos.
+
+48
+Referências
+
+6 REFERÊNCIAS
+1 - Disponível em:
+<http://courses.washington.edu/bioen327/Labs/Lit_SkinStruct_Bensouillah_Ch0
+1.pdf>.p. 1. Acesso em 28/05/2016
+2 - Disponível em:
+<http://sendicosmeticos.com.br/linhaprofissional/imagens/pele.jpg>. Acesso em
+01/06/2016
+3 - Disponível em:
+<http://courses.washington.edu/bioen327/Labs/Lit_SkinStruct_Bensouillah_Ch0
+1.pdf>.p. 2-5. Acesso em 28/05/2016
+4 - HENCH, L. L. Biomaterials: a forecast for the future. Biomaterials, v.19,
+p. 1419-1423, 1998.
+5 - PARK, J. B.; BRONZINO, J. D. Biologic Materials: Tissue Derived
+Biomaterials (Collagen). In: PARK, J. B.; BRONZINO, J. D. Biomaterias:
+Principles and Applications v.2, Boca Raton, Fl.: CRC Press, 2003. p.117-139.
+6 – MITRAGOTRI, S.; LAHANN, J. Physical approaches to biomaterial design.
+Nature Materials, v. 8, p. 15-23, 2008.
+7 - PARK, J. B.; BRONZINO, J. D. Biomaterias: Principles and Applications.
+Boca Raton, CRC Press, 2002. 250 páginas.
+8 - MACNEIL, S. Biomaterials for tissue engineering of skin. Materials Today,
+v. 11, p. 26-35, n. 5, 2008.
+9 - SÖDERHÄLL, C.; et al. Variants in a novel epidermal collagen gene
+(COL29A1) are associated with atopic dermatitis. PLoS Biology, v.5, p. 19521961, 2007.
+10 – BATISTA, T. M. Mineralização in vitro de matrizes de colágeno aniônico
+derivadas de tecidos biológicos. 2008. 115 f. Tese (Doutorado em Química
+Analítica) – Instituto de Química de São Carlos, Universidade de São Paulo,
+São Carlos, 2008.
+11 - USHIKI, T. Collagen fibers, reticular fibers, elastic fibers. A comprehensive
+understanding from a morphological viewpoint. Arch. Histol. Cytol., v.65, n.2, p.
+109-126, 2002.
+12 - HUANG, C. H.; et al. Evaluation of proanthocyanidin-crosslinked
+electrospun gelatin nanofibers for drug delivering system. Materials Science
+and Engineering, v. 32, p. 2476–2483, 2012.
+
+49
+Referências
+
+13 – ZHANG, Y.; OUYANG, H.; LIM, C. T.; RAMAKRISHNA, S.; HUANG, Z.-M.
+Electrospinning of gelatin fibers and gelatin/PCL composite fibrous scaffolds. J.
+Biomed. Mater. Res., 72B, p. 156–165, 2005.
+14 - Disponível em:
+<http://albumen.conservation-us.org/library/c20/vonendt1991e.gif>. Acesso em
+03/05/2016.
+15 - Disponível em: < http://www.intechopen.com/books/biomaterialsapplications-for-nanomedicine/collagen-vs-gelatine-based-biomaterials-andtheir-biocompatibility-review-and-perspectives> Acesso em: 10/01/2016.
+16 - LANCELOTTI, C. Obtenção e caracterização de hidrogéis neutros de
+colágeno, gelatina e extrato de semente de uva. 2014. 82 f. Tese (Mestre
+Química Analítica) – Instituto de Química de São Carlos, Universidade de São
+Paulo, São Carlos, 2014.
+17 – DIAS, L. S.; LUZIA, D. M. M.; JORGE, N. Physicochemical and bioactive
+properties of Hymenaea courbaril L. pulp and seed lipid fraction. Industrial
+Crops and Products, v. 49, p. 610-618, 2013
+18 - LANGENHEIM, J. H. Plant Resins: chemistry, evolution, ecology, and
+ethnobotany. Annals of Botany, v. 93, p. 784-785, 2004.
+19 - DOMÉNECH-CARBÓ, M. T.; et al. Ageing behaviour and analytical
+characterization of the Jatobá resin collected from Hymenaea stigonocarpa,
+International Journal of Mass Spectrometry, v. 284, p. 81-92, 2009.
+20 - Disponível em:
+<http://www.onordeste.com/administrador/personalidades/imagemPersonalidad
+e/d2c79cf2418d943660c17ef80c651c7b228.jpe> . Acesso em: 07/06/2016
+21 - Disponível em:
+<http://www.plantasquecuram.com.br/ervas/jatoba.html#.V1h1dvkrLIU>.
+Acesso em: 27/04/2016
+22 - DA COSTA, M. P.; et al. Antifungal and cytotoxicity activities of the fresh
+xylem sap of Hymenaea Courbaril L. and its major constituent fisetin.
+Complementary and Alternative Medicine, v. 14, p. 245, 2014.
+23 – HORN, M. M. Obtenção e caracterização de hidrogéis de quitosana,
+xantana e colágeno aniônico. 2008. 73 f. Tese (Mestre Química Analítica) –
+Instituto de Química de São Carlos, Universidade de São Paulo, São Carlos,
+2008.
+24 – BARNES H. A.; HUTTON J. F.; WALTERS K. An Introduction to Rheology.
+United Kingdom: Elsevier, 2005. 199 p.
+
+50
+Referências
+
+25 - LAUN, M. Understanding Rheology of Structured Fluids. Private
+communication, 1964. 11p.
+26 - WITTEN, T. A.; Structured fluids. Physics today, v. 43, p. 21-28, 1990.
+27 - SCHRAMM, G.; Reologia e reometria: fundamentos teóricos e práticos.
+e. 2, São Paulo: Artliber, 2006. 238p.
+28 - BEZERRA, G. P. Estudo Farmacoquímico Bioguiado Pela Atividade
+Miorrelaxante Do Extrato Etanólico Das Cascas Do Caule De Hymenaea
+Courbaril L. (Jatobá). 2013. 128 f. Tese (Mestre em Ciências Farmacêuticas) –
+Departamento de Farmácia, Universidade Federal do Ceará, Fortaleza, 2013.
+29 - DA SILVA, T. F.; PENNA, A. L. B. Colágeno: Características químicas e
+propriedades funcionais, Rev. Inst. Adolfo Lutz, v. 71, p. 530-539, 2012.
+30 – TAPPERT, R.; WOLFE, A. P.; MCKELLAR, R. C.; TAPPERT, M. C.;
+MUEHLENBACHS, K. Characterizing modern and fossil gymnosperm exudates
+using micro-Fourier transform infrared spectroscopy. Int. J. Plant Sci., v. 172,
+p. 120–138, 2011.
+31 - PAYNE, K. J.; VEIS, A. Fourier-transform ir spectroscopy of collagen and gelatin
+solutions - deconvolution of the amide i-band for conformational studies.
+Biopolymers, v. 27, p. 1749-1760, 1988.
+32 - GEORGE, A.; VEIS, A. FT-IR in H2O demonstrates that collagen
+monomers undergo a conformational transition prior to thermal self-assembly in
+vitro. Biochemistry, v. 30, p. 2372-2377, 1991.
+33 - EGAWA, E. Y. Caracterização Térmica e Reológica de Blendas de
+Glicerol:Colágeno Tipo I de Diferentes Tecidos. 2007. 106 f. Tese (Mestre
+Química Analítica) – Instituto de Química de São Carlos, Universidade de São
+Paulo, São Carlos, 2007.
+34 - POPA, L.; GHICA, M. V.; ALBU, M. G.; ORTAN, A.; DINU-PÎRVU, C. E.
+Hysteresis of contact angle. Dynamic wettability studies of collagen and
+doxycycline porous matrices crosslinked with tannic acid. Digest Journal of
+Nanomaterials and Biostructures, v. 8, n. 3, p. 937 – 943, 2013.
+35 – YING, P.; JIN, G.; TAO, Z. Competitive adsorption of collagen and bovine
+serum albumin—effect of the surface wettability, Colloids and Surfaces B:
+Biointerfaces, v. 33, p. 259–263, 2004.
+36 - PEDROSO, M. G. V. Estudo comparativo de colágeno hidrolisado e
+comercial com adição de PVA. 2009. 70 f. Tese (Mestre Química Analítica) –
+Instituto de Química de São Carlos, Universidade de São Paulo, São Carlos,
+2007.
+
+

@@ -1,0 +1,2076 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE GEOGRAFIA
+
+SÃO PAULO E AS CICLOVIAS - ANÁLISE DA MOBILIDADE URBANA
+
+Gabriel Eiji Akamine
+
+Trabalho de Graduação Individual para
+conclusão do curso de Bacharelado em
+Geografia na Faculdade de Filosofia,
+Letras e Ciências Humanas da
+Universidade de São Paulo
+
+Orientadora Profª. Drª. Isabel Aparecida Pinto Alvarez
+
+São Paulo
+Setembro de 2017
+
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE GEOGRAFIA
+
+SÃO PAULO E AS CICLOVIAS- ANÁLISE DA MOBILIDADE URBANA
+
+Gabriel Eiji Akamine
+7620641
+
+Trabalho de Graduação Individual para
+conclusão do curso de Bacharelado em
+Geografia na Faculdade de Filosofia,
+Letras
+e
+Ciências
+Humanas
+da
+Universidade de São Paulo
+
+Orientadora Profª. Drª. Isabel Aparecida Pinto Alvarez
+
+São Paulo
+Setembro de 2017
+
+AGRADECIMENTOS
+
+Agradeço a professora Isabel Alvarez, minha orientadora, pela boa instrução
+e por me auxiliar na própria motivação para realizar este trabalho. Sou grato aos
+meus colegas na faculdade por tornarem o dia-a-dia mais agradável. Agradeço ao
+professor Jorge Gustavo da Graça Raffo por me fazer entender sobre cartografia,
+fundamento essencial da Geografia que me serviu como norte durante a graduação
+inteira. Sou imensamente grato a uma das melhores almas da universidade, Dona
+Iraci, por seu exemplo de esforço, simpatia e humildade. Finalmente, agradeço aos
+meus amigos, família e Deus por serem minhas bases. Sem eles, nada seria
+possível.
+
+RESUMO
+
+São Paulo e as ciclovias: análise da mobilidade urbana
+A mobilidade urbana é uma questão complexa e problemática nas cidade de
+São Paulo, especialmente para os trabalhadores. O principal motivo dos
+deslocamentos na cidade é justamente o trabalho. O problema da mobilidade se dá
+pela própria formação da cidade ao longo de sua história. As políticas públicas
+sempre favoreceram os automóveis, mesmo a maioria dos trabalhadores estarem
+dependentes do transporte público. Em 2012, é estabelecida uma política nacional
+de mobilidade nova, que prioriza o transporte coletivo e alternativas melhores para o
+meio-ambiente. Nesse contexto, a prefeitura de São Paulo, na gestão Fernando
+Haddad (2013-2016), executa um projeto de implantação de estrutura cicloviária na
+cidade. As bicicletas serviriam como uma alternativa de qualidade para a mobilidade.
+Esse trabalho tem como objetivo analisar a estrutura cicloviária e seu impacto
+na mobilidade urbana de São Paulo.
+
+Palavras-chave- Mobilidade Urbana, São Paulo, Ciclovias
+
+ABSTRACT
+
+São Paulo and the cycle routes: Urban mobility analysis
+Urban mobility is a complex and problematic issue in São Paulo, especially for
+workers. The main reason for the displacements in the city is precisely work. The
+problem of mobility is due to the very formation of the city throughout its history.
+Public policies have always favored cars, even though the majority of workers are
+dependent on public transport. In 2012, a new national mobility policy is established,
+which prioritizes collective transportation and better alternatives for the environment.
+In this context, the municipal power
+
+of São Paulo, in Fernando Haddad‟s
+
+administration (2013-2016), executes a project of implantation of cycling structure in
+the city. Bicycles would serve as a quality alternative to mobility.
+This study aims to analyze the cycling structure and its impact on urban
+mobility.
+
+Keywords- Urban Mobility, São Paulo, Cycle routes
+
+SUMÁRIO
+INTRODUÇÃO....................................................................................................7
+1. A MOBILIDADE, CICLOVIAS E O QUADRO EM SÃO PAULO...................9
+1.1 Mobilidade urbana e ciclovias...................................................................9
+1.2 A mobilidade em São Paulo.....................................................................12
+1.3 O uso das bicicletas em São Paulo.........................................................23
+2. O PROJETO DAS CICLOVIAS....................................................................33
+2.1 Projetos anteriores...................................................................................33
+2.1.1 Legislação municipal antes da gestão Haddad..................................34
+2.2. O projeto na campanha...........................................................................36
+2.3 Implantação...............................................................................................39
+3. ANÁLISE DA INFRAESTRUTURA CICLOVIÁRIA.....................................43
+3.1 Centro........................................................................................................43
+3.2 Zona Oeste................................................................................................45
+3.3 Zona Sul.....................................................................................................49
+3.4 Zona Norte.................................................................................................53
+3.5 Zona Leste.................................................................................................56
+3.6 Sistema de compartilhamento de bicicletas..........................................61
+3.7 Regras para uso de bicicletas no transporte coletivo..........................64
+4. O uso das ciclovias e perspectivas do projeto........................................65
+CONSIDERAÇÕES FINAIS..............................................................................67
+REFERÊNCIAS BIBLIOGRÁFICAS.................................................................69
+
+LISTA DE ILUSTRAÇÕES
+
+Mapa 1 - População residente de São Paulo ............................................................16
+Mapa 2 - Empregos formais em São Paulo ...............................................................17
+Mapa 3 - Renda Média Familiar em São Paulo .........................................................20
+Mapa 4 - Áreas onde ocorre o maior número de viagens de bicicleta por Zona de
+Origem no município de São Paulo ...........................................................................27
+Mapa 5 - Áreas onde ocorre o maior número de viagens internas de bicicleta por
+Zona de Origem-Zona de Destino no município de São Paulo..................................28
+Mapa 6 - Deslocamentos com mais de 500 viagens externas/dia de bicicleta .........29
+Mapa 7 - Deslocamentos com 200 a 300 viagens externas/dia de bicicleta .............30
+Mapa 8 - Deslocamentos com 100 a 200 viagens externas/dia de bicicleta .............31
+Mapa 9 - Deslocamentos com 50 a 100 viagens externas/dia de bicicleta ...............31
+Figura 1 - Pista para bicicletas em 1976....................................................................33
+Mapa 10 - Mapa de Infraestrutura Cicloviária ...........................................................42
+Mapa 11 - Mapa de Infraestrutura Cicloviária, destaque para o Centro ..................44
+Mapa 12 - Mapa de Infraestrutura Cicloviária, destaque para a Zona Oeste ...........47
+Mapa 13 - Mapa de Infraestrutura Cicloviária, destaque para a Zona Sul ................51
+Mapa 14 - Mapa de Infraestrutura Cicloviária, destaque para a Zona Norte ............55
+Mapa 15 - Mapa de Infraestrutura Cicloviária, destaque para a Zona Leste ............58
+Mapa 16 - Sistema Bike Sampa, localização das estações.......................................61
+Mapa 17 - Sistema CicloSampa, localização das estações.......................................62
+
+LISTA DE TABELAS
+
+Tabela 1 - Viagens diárias por modo e motivo na RMSP ..........................................13
+Tabela 2 - Viagens diárias por modo e motivo na RMSP ..........................................14
+Tabela 3 - Viagens diárias por modo e renda familiar mensal na RMSP...................21
+Tabela 4 - Tempo médio das viagens diárias por modo e renda familiar mensal na
+RMSP.........................................................................................................................22
+Tabela 5 - Número de veículos em São Paulo em 1921 ...........................................23
+Tabela 6 - Evolução das viagens diárias por modo principal na RMSP ....................24
+Tabela 7 - Viagens diárias por modo principal e motivo na RMSP ...........................25
+Tabela 8 - Viagens diárias por modo principal e renda familiar mensal na
+RMSP.........................................................................................................................26
+Tabela 9 - Infraestrutura cicloviária do Centro de São Paulo.....................................43
+Tabela 10 - Infraestrutura cicloviária da Zona Oeste de São Paulo...........................46
+Tabela 11 - Infraestrutura cicloviária da Zona Sul de São Paulo...............................50
+Tabela 12 - Infraestrutura cicloviária da Zona Norte de São Paulo...........................54
+Tabela 13 - Infraestrutura cicloviária da Zona Leste de São Paulo ..........................57
+
+INTRODUÇÃO
+O objeto de pesquisa deste trabalho é uma reflexão sobre o projeto de
+implantação de ciclovias, ciclofaixas e ciclorrotas na cidade de São Paulo, iniciado
+na gestão do prefeito Fernando Haddad, entre 2013 e 2016.
+O projeto foi considerado como uma das maiores ações urbanísticas
+realizadas na cidade nos últimos tempos, tendo grande repercussão na mídia e no
+cotidiano. Um dos motivos é pelas ciclovias se constituírem de faixas que se
+destacam bastante da via dominada por automóveis, gerando bastante impacto
+visual. No entanto, o impacto não é apenas estético. Os impactos das faixas para
+bicicletas serão abordados nesse trabalho. Uma das justificativas do poder público
+sobre o projeto é estimular o uso das bicicletas pelos cidadãos, sendo uma
+alternativa de transporte saudável para pessoas e ambiente, melhorando a
+mobilidade urbana. Além disso, seria uma opção de lazer na cidade.
+A gestão Haddad planejou construir ao menos 400 kms de ciclovias,
+ciclofaixas e ciclorrotas até 2016, espalhadas pela cidade, como é descrito nas
+Diretrizes para a Bicicleta no Plano de Governo de Fernando Haddad para a
+Prefeitura de São Paulo, divulgadas em 2012, ainda na campanha eleitoral do
+mesmo ano. Dado esse número e o objetivo do projeto, formula-se a hipótese de
+que o projeto de ciclovias, ciclofaixas e ciclorrotas promoveria uma melhoria
+significativa da mobilidade urbana em São Paulo. O trabalho tem como foco maior
+avaliar a relação entre as proposições do projeto e a mobilidade em relação aos
+percursos realizados para o trabalho, tendo sempre em vista a cidade em si.
+Para elaborar a hipótese foram utilizados dados coletados empiricamente
+sobre a mobilidade urbana em São Paulo, uma análise do projeto da prefeitura e
+análise da distribuição, alcance e condições técnicas das ciclovias, ciclofaixas e
+ciclorrotas. A base teórica do trabalho são textos e publicações sobre a configuração
+urbana da cidade e sua mobilidade, além de análises sobre o planejamento urbano,
+feitos por Milton Santos, Teresa Pires do Rio Caldeira, Raquel Rolnik, entre outros.
+No primeiro capítulo do trabalho é feita uma análise da condição da
+mobilidade urbana em relação aos deslocamentos para o trabalho em São Paulo
+atualmente e como as bicicletas aparecem no cenário mais recente, na última
+7
+
+década. O segundo capítulo aborda o projeto da prefeitura, desde a proposta de
+campanha até sua implantação, analisando a condição das vias até o momento e o
+que é está previsto para ser implantado.
+O terceiro capítulo aborda as ciclovias em si, onde estão implantadas, seus
+aspectos técnicos e entorno. Assim se chegará à principal discussão do trabalho,
+sendo feita a análise crítica do projeto e uma avaliação de seus impactos na
+mobilidade urbana. No quarto capítulo, as perspectivas do projeto são discutidas,
+uma vez que um projeto feito por governos estão sujeitos a alterações com
+mudanças de gestão.
+A pesquisa tem como principal dificuldade a escassez de trabalhos
+acadêmicos abordando a questão das ciclovias em São Paulo e em outras cidades
+brasileiras, devido ao projeto ser recente. Há também uma falta de estudos e
+pesquisas mais amplas sobre o efetivo uso das novas vias para bicicletas em São
+Paulo.
+
+8
+
+1. A MOBILIDADE, CICLOVIAS E A SITUAÇÃO EM SÃO PAULO
+
+1.1
+
+Mobilidade urbana e ciclovias
+
+Mobilidade urbana, segundo GOLLNICK (2009), é “a condição em que se
+realizam os deslocamentos de pessoas e cargas no espaço urbano de uma cidade,
+aglomeração urbana e/ou metrópole”.
+
+Ainda, segundo o autor, uma mobilidade
+
+urbana adequada é obtida
+“Por meio de políticas de transporte e circulação que visam a
+melhoria da acessibilidade e mobilidade das pessoas e cargas
+no espaço urbano, através da priorização dos modos de
+transporte coletivo e não motorizados de maneira efetiva,
+socialmente inclusiva e ecologicamente sustentável”.
+GOLLNICK (2009)
+O poder público é responsável pelas políticas de transporte. A legislação
+brasileira trata do assunto na Constituição Federal de 1988, ao estabelecer as
+competências da União.
+“Instituir diretrizes para o desenvolvimento urbano, inclusive
+habitação, saneamento básico e transportes urbanos”. (BRASIL,
+Constituição Federal, Art. 21, Inc. XX)
+O Estatuto da Cidade, sancionado em 2001, estabelece os instrumentos para
+que as cidades trabalhassem seu desenvolvimento urbano. Estes instrumentos
+devem estar atrelados aos planos Diretores, um conjunto de estratégias, diretrizes e
+normas, que deveria nortear o crescimento urbano de cada cidade.
+A mobilidade urbana veio a ser tratada de maneira mais direta somente pela
+lei Nº 12.587, de 2012. Essa lei institui a Política Nacional de Mobilidade Urbana. As
+diretrizes fundamentais dessa política são:
+I - integração com a política de desenvolvimento urbano e
+respectivas políticas setoriais de habitação, saneamento
+básico, planejamento e gestão do uso do solo no âmbito dos
+entes federativos;
+
+9
+
+II - prioridade dos modos de transportes não motorizados sobre
+os motorizados e dos serviços de transporte público coletivo
+sobre o transporte individual motorizado;
+III - integração entre os modos e serviços de transporte urbano;
+IV - mitigação dos custos ambientais, sociais e econômicos dos
+deslocamentos de pessoas e cargas na cidade;
+V - incentivo ao desenvolvimento científico-tecnológico e ao
+uso de energias renováveis e menos poluentes;
+VI - priorização de projetos de transporte público coletivo
+infraestruturadores do território e indutores do desenvolvimento
+urbano integrado; e
+VII - integração entre as cidades gêmeas localizadas na faixa
+de fronteira com outros países sobre a linha divisória
+internacional.
+(BRASIL, Lei n° 12.587/12, Art.6.)
+É nessa lei que as ciclovias aparecem como um instrumento urbano, junto com
+vias, metroferrovias e hidrovias. A lei estabelece diretrizes que se mostram distintas
+do quadro dominante, como a prioridade ao transporte coletivo e o não-motorizado.
+A execução da lei poderia lançar uma nova direção para as cidades, uma
+transformação em seu espaço urbano, que favorece deslocamentos feitos por
+automóveis particulares.
+No Brasil, a questão das ciclovias é tratada com mais destaque pela mídia e
+poder público apenas recentemente. No cenário mundial, a questão das ciclovias é
+mais antiga.
+Segundo LESISZ(2004), a primeira ciclovia do mundo foi feita em 1885 na
+cidade de Utrecht, na Holanda, graças a uma petição feita por 44 pessoas para usar
+uma trilha já existente para pedalar. A primeira ciclovia feita ao lado de uma via
+principal foi feita em 1896, em Brabant, também na Holanda. Uma ciclovia mais
+ambiciosa foi feita na Califórnia, Estados Unidos, com mais de 2Km de extensão.
+Mais ciclovias foram sendo feitas na Dinamarca, Alemanha e França. A primeira
+ciclovia feita com a cor vermelha foi feita em 1970, na Inglaterra, sendo uma via
+compartilhada com pedestres. O primeiro país a ter todas as ciclovias na cor
+vermelha foi a Holanda.
+10
+
+Nos países em que a bicicleta foi mais utilizada ao longo do tempo, mais
+infraestruturas urbanas foram feitas para acompanhar esse uso. As ciclovias são um
+instrumento dessa infraestrutura. Atualmente, as cidades europeias ainda são
+referência na infraestrutura de bicicletas. Nelas, o transporte individual nãomotorizado e o coletivo são priorizados. Segundo o Ranking Copenhagenize (um
+dos rankings mais considerados do mundo sobre ciclismo urbano, que leva em conta
+fatores como equipamentos para bicicleta, Infraestrutura, política, aceitação social e
+cota modal), as cidades mais preparadas para o ciclismo urbano em 2017 são
+cidades europeias, como Copenhagen(Dinamarca), as citadas anteriormente Utrecht
+e Amsterdã, Estrasburgo(França) e Malmo(Suécia). De outros continentes, apenas
+Tóquio e Montreal figuram entre as 20 cidades mais preparadas.
+É nesse contexto de uma legislação nova de política urbana e do avanço das
+ciclovias ao redor do mundo, que se começa a ver com mais profundidade a questão
+das ciclovias no Brasil e em São Paulo.
+
+11
+
+1.2
+
+A mobilidade em São Paulo
+
+O sistema viário e de transportes de São Paulo historicamente favorece os
+automóveis como meio de mobilidade para a população. As políticas no país e no
+município tiveram como prioridade as ruas e rodovias, em detrimento a outras
+modalidades de transporte. A frota de automóveis da cidade passou de 5,4 milhões
+em 2016, segundo o IBGE, correspondendo a mais de 10% da frota nacional, de 51
+milhões. Isso se explica pelo fato do automóvel ser de uma cadeia produtiva muito
+importante na industrialização nacional, gerando lucros para grandes empresas e
+movimentando o mercado consumidor. Observam-se várias propagandas cada vez
+mais chamativas para a divulgação de novos modelos de automóveis. O
+favorecimento aos automóveis não acontece apenas em São Paulo, mas em todo
+Brasil.
+O projeto das ciclovias se apresentaria como uma possível mudança nesse
+paradigma, oferecendo uma alternativa de mobilidade.
+Os moradores da cidade de São Paulo se deslocam diariamente
+majoritariamente para o trabalho, segundo a pesquisa de mobilidade urbana de
+2012, realizada pelo Metrô, como mostra a tabela 1.
+
+12
+
+Tabela 1: Viagens diárias por modo e motivo na RMSP (METRÔ)
+
+Observa-se que de 2007 para 2012 houve um aumento geral no número de
+viagens realizadas (14%) e que o modo coletivo e motorizado segue sendo
+majoritário em quase todos os motivos de viagem, com pouca variação porcentual.
+O modo motorizado ainda tem maior elevação nas viagens para fins educacionais. A
+tabela 2, da mesma fonte que a anterior, traz com mais detalhes os modos de
+viagem, fazendo distinções dentro dos modos motorizados, não-motorizados,
+coletivos e individuais. Os modos motorizados são o metrô, trem, ônibus, fretado,
+escolar, automóveis, táxi e moto. Os não-motorizados são a pé e bicicleta. Os
+modos coletivos são metrô, trem, ônibus, fretado e escolar. Por fim, os individuais
+são automóveis, táxi, moto, bicicleta e a pé.
+
+13
+
+Tabela 2: Viagens diárias por modo e motivo na RMSP (METRÔ)
+
+Há um aumento de 48% no número de viagens de metrô e 10% do ônibus por
+contra do trabalho, de 2007 para 2012. O aumento do uso de automóveis é de 19%,
+sendo a modalidade mais usada, superando o ônibus. A bicicleta, um dos objetos do
+trabalho, apresenta queda de 7% na utilização.
+A mobilidade urbana é diferenciada entre as várias porções da cidade,
+apresentando várias disparidades em condições, custos e motivos. Estas
+disparidades em relação à mobilidade se relacionam com os padrões de segregação
+espacial na cidade (CALDEIRA, 2000). No período da industrialização da cidade, até
+14
+
+meados do século XX, as classes altas e baixas estavam relativamente próximas,
+com a classe alta ocupando as centralidades de relevo mais elevado, como a atual
+Avenida Paulista. Ao longo do século XX houve uma expansão em direção à
+periferia, uma vez que os trabalhadores, de modo geral, não conseguiam pagar por
+habitações nas áreas mais centrais. Através da ação de loteadores e do próprio
+Estado, a mancha urbana foi se espraiando, com habitações, em geral, precárias, e
+sem a oferta de serviços públicos. Além disso, o poder público agiu no sentido de
+garantir a valorização de terrenos e imóveis nas centralidades, como será abordado
+mais adiante no trabalho. Grandes loteamentos na periferia foram feitos, alojando os
+operários e pessoas que vieram de outras cidades. Consolida-se assim o padrão de
+segregação centro-periferia (CALDEIRA, 2000).
+Como podemos observar no mapa 1, abaixo, as áreas mais populosas de São
+Paulo se encontram nas periferias, principalmente na Zona Leste. A Zona Sul da
+cidade concentra mais habitantes nos distritos mais distantes do Centro. A
+extremidade apresenta pouca população por ter reservas ambientais.
+
+15
+
+Mapa 1: População residente de São Paulo (IBGE/EMPLASA)
+
+No entanto, como mostra o mapa 2, a maior oferta de empregos se encontra
+no Centro, Zona Oeste e Zona Sul.
+
+16
+
+Mapa 2: Empregos formais em São Paulo (Ministério do Trabalho/EMPLASA)
+
+As regiões Centro e Oeste da cidade concentram uma grande quantidade de
+prédios da administração pública, incluindo as sedes do poder municipal (Centro) e
+estadual (Zona Oeste), além de muitos estabelecimentos comerciais, de serviços e
+pontos turísticos, aumentando a oferta de empregos da região. A Zona Sul possui
+17
+
+grandes centros de comércios, bancos e empresas, como a Avenida Paulista. Tratase de uma centralidade nova, cuja formação data do final do século XIX, com
+investimento privado e auxílio estatal. Outras novas centralidades são a região da
+Berrini e Faria Lima, na Zona Oeste, que cresceram com investimentos privados e
+ajuda estatal através das operações urbanas.
+As periferias da cidade apresentam uma oferta menor de emprego, uma vez
+que empresas maiores e o poder público não se instalam nessas regiões. Preferem
+as áreas que possuem infraestruturas mais favoráveis economicamente há mais
+tempo. Nas periferias se encontram mais frequentemente pequenos comércios e
+serviços, além de indústrias menores.
+As maiores rendas médias familiares também se encontram nas regiões de
+maior oferta de empregos, como mostra o mapa 3, elaborado com dados da
+pesquisa de origem e destino do Metrô, de 2007, juntamente com a Emplasa.
+Verifica-se que a Zona Leste possui uma parte, mais próxima ao Centro, com
+população de maior renda, enquanto outra, em geral mais próxima dos limites
+municipais, apresenta rendas baixas. A Zona Leste mais próxima ao centro
+expandido da cidade que se valorizou, enquanto a outra parte segue segregada.
+O poder público foi determinante nesse processo de diferenciação interna na
+Zona Leste. ROLLNIK e FRÚGOLI(2001), tratam desse processo, que ditou a
+formação não só da Zona Leste, mas de São Paulo como um todo.
+“(o poder público) de um lado, concentrou investimentos no
+centro expandido protegendo, através de um complexo
+regulatório urbanístico, o patrimônio imobiliário da população
+de maior renda que vive nesse território e, de outro, priorizou
+investimentos na periferia, basicamente em sistema viário e de
+transportes, que servem para mover a população trabalhadora
+da „cidade-dormitório‟ para os espaços de trabalho.” (ROLLNIK
+e FRÚGOLI, 2001)
+Esses investimentos no centro expandido proporcionaram uma dinâmica
+habitacional nova que se observa entre os anos 80 e 90, com distritos intermediários
+da Zona Leste como Belém, Mooca, Tatuapé, Água Rasa, Penha, Vila Formosa, Vila
+Prudente tendo empreendimentos imobiliários de apartamentos de 2 dormitórios,
+aumentando a verticalização desses distritos (ROLLNIK e FRÚGOLI, 2001). A
+expansão imobiliária se deu por investimentos privados, que também construíram
+18
+
+shopping centers como o Shopping Metrô Tatuapé e Shopping Anália Franco. O
+poder público atuou com a construção de rede metroviária na região, além de vias e
+bom número de terminais de ônibus.
+A Zona Leste mais próxima ao centro teve melhores equipamentos
+urbanísticos, se verticalizou e eventualmente parte de sua população se dispersou
+para outras áreas, perdendo densidade demográfica. Enquanto a zona mais
+periférica viu sua população aumentar em condições precárias.
+
+19
+
+Mapa 3: Renda Média Familiar em São Paulo (METRÔ/EMPLASA)
+
+Com os dados, verifica-se que a mobilidade para o trabalho acontece
+majoritariamente no sentido periferia-centro, indo de acordo com o quadro de
+segregação discutido por CALDEIRA (2000). A população está concentrada na
+periferia e tem que se deslocar para as áreas centrais, que concentram os
+empregos. Os maiores problemas da mobilidade nascem desse quadro de
+desigualdade entre as regiões da cidade.
+20
+
+Um grande contingente precisa se deslocar ao mesmo tempo para o trabalho,
+percorrendo grandes distâncias. Isso somada à grande frota de automóveis gera o
+problema recorrente de tráfego na cidade. Quem está com o automóvel enfrenta o
+tráfego, enquanto quem precisa do transporte coletivo (ônibus, metrô e trem)
+enfrenta situações de grande desconforto¹, pois o número de pessoas em um
+mesmo ônibus ou vagão de trem ou metrô é grande. Essa segunda situação afeta
+principalmente os trabalhadores de menor renda. A tabela 3, com dados da pesquisa
+de mobilidade do Metrô apresenta a relação da renda mensal com a modalidade de
+transporte
+
+Tabela 3 Viagens diárias por modo e renda familiar mensal na RMSP
+
+O transporte coletivo é o mais utilizado entre os trabalhadores de menor
+renda. Há apenas uma leve redução do porcentual de 2007 para 2012. O tempo de
+viagem no modo coletivo é maior, chegando a ser o dobro do individual motorizado e
+o triplo do não-motorizado, como mostra a tabela 4.
+¹ ”O sofrido transporte coletivo”, Jornal O Estado de São Paulo, http://opiniao.estadao.com.br/noticias/geral,o-sofrido-transportecoletivo,10000014901
+
+21
+
+Tabela 4: Tempo médio das viagens diárias por modo e renda familiar mensal na RMSP
+
+Segundo SANTOS (1985), “a cidade capitalista. graças à respectiva
+distribuição dos usos do solo, com a localização anárquica das atividades e das
+residências, agrava a problemática das populações mais pobres.” Essas populações
+ficam dependentes do transporte coletivo. Ainda segundo SANTOS (1985), “Quanto
+mais pobre o individuo, mais dependente ele é dos transportes coletivos” e “assim,
+as camadas inferiores da sociedade urbana estão subordinadas a meios de
+locomoção frequentemente precários e pelos quais devem pagar uma parcela cada
+vez maior dos seus ganhos.”, Os preços das passagens dos transportes coletivos
+em São Paulo seguem aumentando. Em 2017, a passagem do Metrô, CPTM e
+ônibus custa R$3,80.
+Neste contexto é que o uso de bicicletas como meio de mobilidade poderia se
+colocar como alternativa aos gastos excessivos com transporte e como redutora de
+poluição e tráfego, sinalizando, ainda que de modo parcial, para transformações
+possíveis no modo de viver na cidade. O projeto das ciclovias seria uma alternativa
+para promover o uso das bicicletas.
+
+22
+
+1.3
+
+O uso das bicicletas em São Paulo
+
+A bicicleta, como mostrado anteriormente, não é tão utilizada como outras
+modalidades de transporte na atualidade. No entanto, ela já teve um papel muito
+maior na mobilidade para o trabalho. Os trabalhadores operários nas primeiras fases
+da industrialização usavam a bicicleta para chegar às fábricas. Em 1921, o número
+de bicicletas superava o de automóveis particulares, como mostra a tabela 5, com
+dados mencionados por Eugênio Egas e sintetizados por PETRONE (1955)
+Veículos de tração
+animal:
+
+Veículos motorizados
+
+c) Outros veículos:
+
+Carroças
+
+8.468
+
+Automóveis particulares
+
+2.380
+
+Bicicletas
+
+3.312
+
+Aranhas
+
+934
+
+Automóveis aluguel ou carga
+
+1.419
+
+Carroças de mão
+
+870
+
+Carruagens
+
+68
+
+Motocicletas
+
+278
+
+Barcas
+
+311
+
+Carros de bois
+
+57
+
+TOTAL
+
+4.077
+
+Botes
+
+133
+
+Tílburis
+
+49
+
+15
+
+Carretões
+
+7
+
+Carros para enterro
+Lanches ou botes a
+vapor
+
+Tróleis de sítio
+
+6
+
+Balsas
+
+2
+
+TOTAL
+9.589
+TOTAL
+Tabela 5: Número de veículos em São Paulo em 1921 (PETRONE, 1955)
+
+10
+4.853
+
+Trata-se de um quadro claramente distinto do atual, anterior ao processo de
+segregação centro-periferia, com transportes coletivos sendo pouco presentes e os
+operários não morando tão longe de seus locais de trabalho. Os bondes logo teriam
+mais destaque, juntamente com as primeiras linhas de ônibus. Pode-se afirmar que,
+com a expansão para a periferia, começa o declínio da bicicleta em números, com
+os automóveis ganhando espaço. Começa também a dependência anteriormente
+citada da população de menor renda do transporte público.
+Na atualidade, a bicicleta tem uma participação pequena na mobilidade, como
+mostra a tabela 6, com dados da pesquisa de mobilidade do Metrô, de 2012.
+
+23
+
+Tabela 6: Evolução das viagens diárias por modo principal na RMSP (METRÔ)
+
+Há um aumento expressivo do número de viagens de bicicleta da década de
+70 para 2012, apesar da queda de 2007 para 2012. A participação da bicicleta em
+porcentual continua baixa, não chegando a 2% do total das viagens diárias nãomotorizadas realizadas. O principal motivo das viagens diárias de bicicleta é o
+trabalho, como mostra a tabela 7.
+
+24
+
+Tabela 7: Viagens diárias por modo principal e motivo na RMSP (Metrô)
+
+O número de viagens para trabalho utilizando a bicicleta teve queda,
+acompanhando a tendência da modalidade. Na tabela 8, verifica-se que os que
+utilizam a bicicleta estão em faixas de menor renda familiar , principalmente da faixa
+de 1.244 a 2.488 Reais.
+
+25
+
+Tabela 8: Viagens diárias por modo principal e renda familiar mensal na RMSP (Metrô)
+
+Baseado nos dados das tabelas anteriores, é possível traçar um primeiro
+perfil do uso de bicicletas para o deslocamento. O principal motivo do uso de
+bicicletas é o deslocamento para o trabalho, sendo o trabalhador de uma renda
+familiar mais baixa. A participação da bicicleta nas viagens ainda é baixa.
+O mapa 4 apresenta a quantidade de viagens de bicicleta por zonas de
+origem, ou seja, os locais onde os usuários de bicicleta residem.
+
+26
+
+Mapa 4: Áreas onde ocorre o maior número de viagens de bicicleta por Zona de Origem no município
+de São Paulo (Pesquisa de Origem e Destino do Metrô – 2007/Mapa elaborado pela CET/GPL/DPJ –
+2009 apud MALATESTA (2014))
+
+Observa-se que o maior número de viagens se encontra nos distritos que
+estão nas periferias da Zona Sul, Leste e Norte, pelos limites da cidade,
+principalmente perto da cidade de Guarulhos. São distritos com menor renda, menor
+oferta de empregos e grande número de habitantes, como mostrado nos mapas 1, 2
+e 3. O mapa 5 apresenta o número de viagens internas de bicicleta, ou seja, as
+viagens cujo destino são o próprio distrito de origem.
+
+27
+
+Mapa 5: Áreas onde ocorre o maior número de viagens internas de bicicleta por Zona de OrigemZona de Destino no município de São Paulo (Pesquisa de Origem e Destino do Metrô – 2007/Mapa
+elaborado pela CET/GPL/DPJ – 2009 apud MALATESTA (2014))
+
+As áreas com maior número de viagens também apresentam o maior número
+de viagens internas. Segundo MALATESTA (2014), os distritos da Zona Leste e
+Norte com maior número de viagens internas são regiões-dormitório, com boa parte
+da população trabalhando em Guarulhos. O uso interno se dá para trabalho em
+comércios, especialmente fretes e carretos. Nos distritos da Zona Leste se
+encontram centralidades locais e comércio mais intenso. Observa-se também, ainda
+segundo MALATESTA (2014) o “uso de bicicletas por mulheres, inclusive senhoras,
+utilizando bicicleta para suas atividades cotidianas de levar filhos à escola ou fazer
+28
+
+compras”. Na Zona Sul, no distrito do Grajaú, as condições de mobilidade com a
+bicicleta são mais precárias, tendo a Avenida Belmira Marin como uma das únicas
+alternativas. Nas viagens internas, o usuário de bicicleta pode ter uma mobilidade
+melhor, uma vez que não gastará tanto tempo para se deslocar e pode fazer
+atividades de seu cotidiano, além do trabalho. No entanto, são poucas as áreas com
+maior presença desse tipo de viagem.
+As viagens externas correspondem a 66% das viagens de bicicleta na cidade,
+segundo MALATESTA (2014). O mapa 6 apresenta os deslocamentos com mais de
+500 viagens externas diárias, o maior número de viagens, segundo os dados
+coletados pela Pesquisa de Origem e Destino do Metrô de 2007.
+
+Mapa 6: Deslocamentos com mais de 500 viagens externas/dia de bicicleta (Pesquisa de Origem e
+Destino do Metrô – 2007/Mapa elaborado pela CET/GPL/DPJ – 2009 apud MALATESTA (2014))
+
+Observa-se que esses deslocamentos são, na maior parte, para distritos
+vizinhos. Guarulhos aparece como um município importante dos deslocamentos por
+bicicleta, mostrando uma relação mais intensa deste meio de transporte com a
+cidade de São Paulo. A maior distância percorrida, e também o maior fluxo, parte da
+Zona Sul, do Grajaú, em direção à região da Avenida Paulista. Praticamente não se
+observa essa intensidade de deslocamento (500 viagens diárias) na Zona Oeste e
+na centralidade sudoeste do município de São Paulo. A maior parte dos fluxos desta
+29
+
+intensidade é proveniente das zonas Norte e Leste e parecem estar relacionados à
+oferta de empregos nas imediações da marginal Tietê. Os deslocamentos maiores e
+no sentido Leste-Oeste se encontram majoritariamente nas faixas de 200 a 300 e de
+100 a 200 viagens diárias, como mostram os mapas 7 e 8, respectivamente.
+
+Mapa 7: Deslocamentos com 200 a 300 viagens externas/dia de bicicleta (Pesquisa de Origem e
+Destino do Metrô – 2007/Mapa elaborado pela CET/GPL/DPJ – 2009 apud MALATESTA (2014))
+
+30
+
+Mapa 8: Deslocamentos com 100 a 200 viagens externas/dia de bicicleta (Pesquisa de Origem e
+Destino do Metrô – 2007/Mapa elaborado pela CET/GPL/DPJ – 2009 apud MALATESTA (2014))
+
+As zonas de origem são as de menor renda e o destino são para os locais de
+trabalho nas centralidades. Os deslocamentos com menor frequência são mostrados
+no mapa 9, da faixa de 50 a 100 viagens diárias.
+
+Mapa 9: Deslocamentos com 50 a 100 viagens externas/dia de bicicleta (Pesquisa de Origem e
+Destino do Metrô – 2007/Mapa elaborado pela CET/GPL/DPJ – 2009 apud MALATESTA (2014))
+
+31
+
+Tratam-se de deslocamentos, em sua maioria, menores em distância e mais
+presentes nas centralidades, à exceção da Zona Sul, na qual observa-se também
+um fluxo do Grajau em direção ao centro. Em termos gerais, os mapas das viagens
+externas retratam o difícil quadro do uso das bicicletas. A maior frequência é entre
+bairros ou distritos vizinhos, em distâncias menores. O longo trajeto casa-trabalho
+que os trabalhadores devem percorrer não é realizado de bicicleta. Como as ofertas
+de emprego estão mais concentradas apenas em alguns distritos, os trabalhadores,
+a maior parte dos trajetos realizados por bicicleta para o trabalho são curtos. Assim,
+os trabalhadores permanecem dependentes do transporte público, que alcança
+maiores distâncias e tem maior infraestrutura.
+A bicicleta em São Paulo é utilizada majoritariamente para o trabalho, por
+pessoas de menor renda familiar, que residem em periferias e que fazem trajetos
+curtos.
+
+32
+
+2. O PROJETO DAS CICLOVIAS
+2.1 Projetos anteriores
+
+As ciclovias, ciclofaixas e ciclorrotas da cidade não foram todas feitas pela
+gestão Haddad. Não se trata de algo inédito na história de São Paulo². Em 1976 foi
+construída uma pista para bicicletas, na gestão Olavo Setúbal, ao lado da Avenida
+Juscelino Kubitschek, recém-inaugurada³.
+
+Figura 1: Pista para bicicletas em 1976 (Benedito Salgado/ Estadão)
+
+No entanto, essa pista deixou de existir após as obras do túnel na avenida,
+realizadas por Jânio Quadros em 1988, demonstrando que o transporte motorizado
+e individual seguia sendo a prioridade. Houve um plano para construção de
+ciclovias, elaborado em 1981, prevendo a criação de 174 km de infraestrutura
+cicloviária planejada e 14 setores interligados. A Companhia de Engenharia e
+Tráfego (CET) apontava que os canteiros centrais das vias, após a canalização de
+córregos, deveriam ser utilizadas como ciclovias. O projeto na época teria baixo
+custo e boa viabilidade, segundo a CET, mas não se concretizou e os canteiros
+centrais viraram faixas adicionais para automóveis. Algumas ciclovias foram de fato
+
+33
+² RIBEIRO, Ana. "De-1976-a-2017-uma-breve-historia-da-bicicleta-na-cidade." Folha de São Paulo, São Paulo, disponível em
+folha.uol.com.br, 2017
+³ VEIGA, Edison. "Nos anos 1970, a primeira ciclovia". Estadão, São Paulo, disponível em estadão.com.br, 2017
+
+construídas, como a das avenidas Sumaré, Pedroso de Morais e Inajar de Sousa,
+que até o momento ainda estão implantadas.
+Em 1993, o prefeito Paulo Maluf prometeu construir 300 km de ciclovias após
+protestos de ativistas. Construiu apenas 29 km, sendo a maioria dentro de parque,
+como o do Ibirapuera. Entre 2007 e 2010, o Metrô e CPTM liberaram o uso de
+bicicletas, instalando bicicletários em estações e ciclovias pelo rio Pinheiros e pela
+Radial Leste, presentes até o momento. Tratam-se de ciclovias feitas pelo governo
+estadual, não municipal.
+A gestão Kassab, de 2007 a 2012, entregou ciclovias de lazer, limitadas para
+uso
+
+aos
+
+domingos
+
+e
+
+feriados.
+
+Investiu
+
+nas
+
+ciclorrotas,
+
+faixas,
+
+vias
+
+de
+
+compartilhamento, não exclusivas para ciclistas. Ao final de sua gestão, a cidade
+contava com cerca de 54 km de ciclovias. Uma ciclovia de destaque entregue nessa
+gestão foi a da avenida Brigadeiro Faria Lima.
+Observa-se
+
+que
+
+os
+
+projetos
+
+de
+
+ciclovias
+
+anteriores
+
+contemplaram
+
+majoritariamente o Centro, Zona Oeste e Sul, ao longo de grandes vias e muitas
+dentro de parques e com objetivo único de lazer, com pouco uso prático para o
+deslocamento para o trabalho. A pequena extensão da infraestrutura contribuiu para
+o pouco uso prático.
+
+2.1.1 Legislação municipal antes da gestão Haddad
+O Legislativo de São Paulo produziu grande quantidade de leis e projetos
+para a implantação de um sistema cicloviário em São Paulo. No entanto, foram de
+cunho oportunista, sem embasamento que pautasse a justificativa e nem
+explicações sobre a viabilidade, segundo MALATESTA (2014). Projetos que nunca
+saíram do papel ou foram entregues de forma incompleta, como mencionado
+anteriormente.
+A Lei Municipal 10.907, de 1990, Lei das Ciclovias em Novas avenidas,
+tornava obrigatória a implantação de ciclovias nas avenidas que fossem construídas,
+além de ciclofaixas para os finais de semana. Essa lei pouco observou cumprimento.
+Um dos poucos exemplos de ciclovia feita ao lado de uma nova avenida foi a da
+34
+
+avenida Brigadeiro Faria Lima. Essa lei foi feita antes do Código de Trânsito
+Brasileiro, de 1997, tendo um caráter bastante inovador, analisando o contexto da
+época. Estabelece a infraestrutura cicloviária como parte integrante do sistema
+viário.
+O Plano Diretor de 2002 torna obrigatória a implantação de ciclovias em
+parques lineares, a sinalização de corredores a receber ciclovias, além de proibir
+sua implantação em vias expressas. A Lei Municipal 13.885 de 2004 traz um
+complemento ao Plano Diretor de 2002, instituindo Planos Regionais Estratégicos
+das Subprefeituras. Tratam-se das medidas e diretrizes de cada subprefeitura, em
+ações regionais. A questão das bicicletas e ciclovias aparece diversas vezes, mas
+em muitos artigos de forma muito vaga, limitando-se apenas a “Implantar ciclovia”.
+Há muitas diferenças entre cada plano das subprefeituras, com algumas fornecendo
+planos mais detalhados, outros deixando a proposta vaga e sem prazos. A maioria
+das ciclovias previstas nunca saiu do papel.
+A Lei Municipal 14.266, de 2007, traz avanços significativos para a instalação
+de uma infrastrutura cicloviária na cidade. Torna obrigatória a instalação de
+bicicletários em terminais e estações de transporte público, institui obrigatoriedade
+de programas educativos de trânsito para ciclistas. Resgata elementos da lei de
+1990, sobre as ciclovias em novas vias. Apesar dos avanços, pouco se observou de
+seu cumprimento nos anos seguintes.
+
+35
+
+2.2
+
+O projeto na campanha
+
+Em 2012, ainda em campanha para a prefeitura de São Paulo, o então
+candidato Fernando Haddad, do Partido dos Trabalhadores (PT), divulgou as
+“Diretrizes para a bicicleta no plano de governo de Fernando Haddad para a
+prefeitura de São Paulo”. Um objetivo principal dessas diretrizes quanto à política de
+mobilidade é “Promover a sustentabilidade com a melhoria da qualidade de vida e
+do ar, reduzir os congestionamentos, democratizar o uso do espaço viário, a
+acessibilidade aos bens e serviços”. As diretrizes mostram preocupação com a
+questão ambiental e a qualidade de vida. Buscam democratizar a gestão e utilização
+do sistema viário.
+A rede de transportes seria requalificada, tornando os meios de transporte
+coletivos interessantes, sendo uma alternativa ao automóvel. Tal requalificação
+também consiste em tornar calçadas e travessias melhores para viagens a pé e criar
+infraestrutura para uso de bicicletas.
+A bicicleta seria vista como uma modalidade de transporte e política de efetiva
+na mobilidade. A facilidade de locomoção e flexibilidade do horário das viagens são
+exaltadas no texto. Um ponto interessante é o destaque para a vantagem em
+viagens curtas, com extensões inferiores a 5 km. Como visto anteriormente, os
+deslocamentos curtos são predominantes no uso das bicicletas em São Paulo.
+Há a ciência de uma quantidade considerável diária de viagens de bicicleta,
+tendo como base a pesquisa Origem e Destino do Metrô de 2007. O número de
+ciclovias em 2012 não seria suficiente para o número de viagens. Propõe então um
+“Plano Cicloviário, com ciclovias, ciclofaixas, ciclorrotas, Infraestrutura, sinalização e
+normas para consolidar a cultura da bicicleta e ampliar a rede viária apropriada” para
+melhorar a circulação. As diretrizes buscam retomar os objetivos do plano
+mobilidade para bicicletas da gestão Marta Suplicy(2001-2004), do mesmo partido
+político na época, que não se concretizaram. Os objetivos a ser retomados são:
+
+36
+
+- Articular o transporte por bicicleta com o Sistema de
+Transporte por Passageiros, viabilizando os deslocamentos com
+segurança, eficiência e conforto para o ciclista;
+- Implementar infraestrutura para o trânsito de bicicletas e
+introduzir no planejamento a implantação de ciclovias ou
+ciclofaixas nos trechos de rodovias em zonas urbanizadas, nas
+vias públicas, nos terrenos marginais às linhas férreas, nas
+margens de cursos d‟água, nos parques e em outros espaços
+naturais;
+- Implantar trajetos cicloviários onde as linhas de desejos sejam
+expressivas para a demanda de viagens por bicicletas;
+- Agregar aos terminais de transporte coletivo urbano,
+infraestrutura apropriada para a guarda de bicicletas;
+- Promover atividades educativas visando à formação de
+comportamento seguro e responsável no uso da bicicleta e no
+uso do espaço compartilhado;
+- Promover o lazer ciclístico e a conscientização ecológica.
+(HADDAD, “Diretrizes para a bicicleta no plano de governo de
+Fernando Haddad para a prefeitura de São Paulo”. 2012)
+
+Dentro desses objetivos a infraestrutura para as bicicletas seria feita com as
+ciclovias, ciclofaixas, ciclorrotas e estacionamentos para bicicletas. Dadas as bases
+das diretrizes, as propostas são expostas, como a integração com o transporte
+público. As viagens mais curtas, com as bicicletas, seriam integradas com as
+viagens mais longas, de ônibus e Metrô. Tal necessidade é embasada pelos dados
+da Pesquisa de Origem e Destino, pela quantidade de viagens diárias, citadas
+anteriormente. As regiões abordadas como principais origens são Grajaú, Vila Maria,
+Jardim Helena, Jaçanã, Vila Medeiros, Tremembé e Itaim Paulista.
+É proposto um sistema de compartilhamento e empréstimo de bicicletas pelo
+Bilhete Único. O usuário poderia tomar emprestada uma bicicleta em pontos usando
+o Bilhete Único.
+Uma das principais propostas das diretrizes é a criação do Sistema Cicloviário
+do Município, com as seguintes iniciativas
+- Integração de Sistemas Cicloviários locais ao Sistema do
+Município de São Paulo;
+- Criação de 400 km de vias clicáveis em 4 anos (ciclovias,
+ciclofaixas e ciclorrotas);
+- Bicicletários e Paraciclos nos equipamentos de transporte
+público, nos prédios públicos e normatização nos
+equipamentos de uso público;
+37
+
+- Reserva de vagas com paraciclos para estacionar bicicletas
+nas áreas de Zona Azul;
+(HADDAD, “Diretrizes para a bicicleta no plano de governo de
+Fernando Haddad para a prefeitura de São Paulo”. 2012)
+
+A principal proposta, que seria a mais conhecida do projeto das ciclovias se
+dá nessas iniciativas, que seriam os 400 km de vias cicláveis em 4 anos. Outras
+propostas são programas de educação do trânsito para informar ciclistas e nãociclistas sobre seus direitos no trânsito, além de tentar diminuir o número de
+acidentes e melhorar a questão da segurança para os ciclistas. No âmbito da
+gestão, as ciclovias seriam incentivadas e viabilizadas com as seguintes iniciativas:
+- Criação e inclusão do Plano Cicloviário Municipal como parte
+do Plano Diretor Estratégico e do Plano Municipal de
+Mobilidade;
+- Regulamentação da Lei 14.266/2007 e outras leis que tratam
+do tema;
+- Criação de um órgão coordenador/gestor do Sistema
+Cicloviário vinculado à Secretaria Municipal de Transportes;
+- Criação de um Conselho que incorpore setores da sociedade
+civil e democratize a gestão e a informação, com formato a ser
+definido a partir de amplo debate com a sociedade.
+(HADDAD, “Diretrizes para a bicicleta no plano de governo de
+Fernando Haddad para a prefeitura de São Paulo”. 2012)
+Propõe-se também a integração com as cidades da Região Metropolitana de
+São Paulo, principalmente as cidades que demandam mais viagens intermunicipais.
+O projeto seria financiado através do fundo municipal para transportes. Finalmente,
+o então candidato conclui afirmando seu compromisso com a sociedade.
+O projeto em si não mostra grandes novidades ou inovações em termos de
+propostas e legislação. Regulamentaria a lei de 2007 e aproveita planos de metas
+não concretizados da gestão Marta Suplicy. A proposta dos 400 km é apenas maior
+em números ao se comparar com as metas estabelecidas pela gestão Kassab ou a
+promessa de Paulo Maluf. Todas as outras gestões fizeram propostas similares,
+incluindo a integração entre meios de transporte. A maior inovação do projeto seria
+sua concretização.
+
+38
+
+O uso das bicicletas aparenta ser um fator norteador das propostas, com a
+infraestrutura cicloviária sendo implantada tendo em mente as viagens de curta
+distância em determinadas regiões.
+
+2.3
+
+Implantação
+
+Fernando Haddad venceu as eleições de 2012, iniciando sua gestão no dia
+01/01/2013. No Plano de Metas da prefeitura, de 2013, as ciclovias aparecem na
+Meta 97: “Implantar uma rede de 400 km de vias cicláveis”. Por decreto, o Conselho
+Municipal de Transporte e Trânsito (CMTT) é criado no mesmo ano, reunindo o
+Executivo, operadores de transporte, sociedade civil e ativistas. Esse órgão teve
+caráter consultivo, não deliberativo. Ainda assim, foi um avanço na questão em
+relação as gestões anteriores.
+Entre Abril e Setembro de 2013 foi realizado um processo participativo para a
+elaboração do Plano Diretor Estratégico, aprovado no ano seguinte. Foram
+realizadas 114 audiências temáticas e regionais. Cidadãos e ativistas pautaram a
+mobilidade urbana como um dos temas centrais, fazendo o tema ser contemplado
+de maneira abrangente no Plano (ITDP, 2015). Em 2014, o Programa CicloviaSP foi
+apresentado na CMTT. Inicia-se o cronograma de obras para a implantação das
+ciclovias na cidade, com o propósito de atender o Plano de Metas. Entre 2014 e
+2015 foi elaborado o Plano de Mobilidade de São Paulo, com participação da
+sociedade. Uma parte desse plano é o Modo Bicicleta, que apresenta todas as
+diretrizes, metas e aspectos técnicos do projeto de implantação de ciclovias. O plano
+apresenta as tipologias das infraestruturas para as bicicletas:
+Ciclovias - Pista de uso exclusivo de bicicletas e outros ciclos,
+com segregação física do tráfego lindeiro motorizado ou não
+motorizado, com sinalização viária, podendo ter piso
+diferenciado no mesmo plano da pista de rolamento ou no nível
+da calçada.
+· Ciclovia unidirecional: é a ciclovia com um único sentido de
+circulação.
+· Ciclovia bidirecional: é a ciclovia com sentido duplo de
+circulação.
+39
+
+Ciclofaixas - Faixa de rolamento de uso exclusivo à circulação
+de ciclos, com segregação visual do tráfego lindeiro, podendo
+ter piso diferenciado no mesmo plano da pista de rolamento.
+· Ciclofaixa unidirecional: é a ciclofaixa com um único sentido
+de circulação.
+· Ciclofaixa bidirecional: é a ciclofaixa com sentido duplo de
+circulação.
+Ciclorrotas - Sinalização cicloviária específica em pista de
+rolamento compartilhada com os demais veículos, onde as
+características de volume e velocidade do trânsito na via
+possibilitam o uso de vários modos de transporte a
+necessidade de segregação. Este conceito deve ser aplicado
+obedecendo ao princípio da continuidade e orientação,
+especialmente em complementação às ciclovias e ciclofaixas.
+Calçadas compartilhadas e partilhadas - O CTB (Art. 59)
+prevê que a circulação de bicicletas nas calçadas é permitida
+"desde que autorizada e devidamente sinalizada pelo órgão ou
+entidade com circunscrição sobre a via”. Sem que haja prejuízo
+do conforto e da segurança de pedestres e cadeirantes, é
+possível utilizar as calçadas de duas formas na rede cicloviária:
+· Calçada Compartilhada: espaço comum para a circulação de
+bicicletas, pedestres e cadeirantes, devidamente sinalizado.
+· Calçada Partilhada: espaço exclusivo para circulação de
+ciclos sobre a calçada, com segregação visual do tráfego de
+pedestres, podendo ter piso diferenciado no mesmo plano,
+devidamente sinalizado. As calçadas partilhadas equiparam-se
+às ciclofaixas, porém na calçada.
+(PREFEITURA DE SÃO PAULO, Plano de Mobilidade 2015)
+
+O Plano de Mobilidade lança diretrizes que vão de acordo com o proposto na
+campanha eleitoral:
+• Conectividade: os percursos cicloviários devem conectar
+origens e destinos de viagens para que o ciclista possa fazer
+uso eficiente da rede. Os pontos de conexão
+funcionam como nós de integração dos trajetos, possibilitando
+ao usuário programar o seu caminho da forma como melhor lhe
+convier;
+• Ligações perimetrais e radiais: a constituição da Rede
+Cicloviária deve possibilitar a conexão do centro aos bairros,
+através de infraestruturas radiais, e também a conexão entre
+eles através de infraestruturas perimetrais, possibilitando assim
+a consolidação de uma malha que permita ao usuário definir
+seu trajeto, articulando assim também as centralidades;
+• Linearidade: busca-se que o usuário faça o seu trajeto
+através da menor distância possível de viagem. Nesse sentido,
+40
+
+devem ser apontadas aqui duas considerações: a definição de
+vias com maior atratividade para a bicicleta está sendo
+considerada na ótica da circulação da bicicleta, independente
+do sentido de direção dos outros modos.
+• Intermodalidade:conexão com os terminais e estações de
+transporte coletivo e seus pontos nodais, particularmente
+através da implantação de estacionamento de bicicletas nestes
+locais, assim como de ações que possibilitem o transporte de
+bicicletas pelos veículos do transporte coletivo;
+• Funcionalidade relativa ao uso do solo: é importante
+considerar na definição da via a função que a mesma
+desempenha na política de uso do solo, de forma a ser atrativa
+ao usuário do modo;
+• Funcionalidade relativa à hierarquia viária: as vias de
+função infraestrutural na hierarquia viária devem ser objeto
+prioritário para a inclusão de Infraestrutura cicloviária.
+• Incorporação de novas vias: todas as vias infraestruturais a
+serem construídas ou alargadas deverão prever a implantação
+de infraestrutura cicloviária.
+(PREFEITURA DE SÃO PAULO, Plano de Mobilidade 2015)
+Parte importante da infraestrutura cicloviária é o estacionamento de bicicletas.
+Duas modalidades de estacionamento são descritos no Plano de Mobilidade.
+Paraciclo: – dispositivo utilizado para a fixação de bicicletas,
+podendo ser instalado em área pública ou privada;
+Bicicletário: – equipamento público para estacionamento de
+bicicletas em área pública ou privada dotado de zeladoria
+presencial ou eletrônica.
+(PREFEITURA DE SÃO PAULO, Plano de Mobilidade 2015)
+Diferentemente das gestões passadas, observou-se a concretização do
+projeto de ciclovias conforme proposto em campanha eleitoral. Segundo a CET, até
+a finalização desse trabalho, “A cidade de São Paulo possui 498,3 km de vias com
+tratamento cicloviário permanente, sendo 468,0 km de Ciclovias/Ciclofaixas e 30,3
+km de Ciclorrotas.” A proposta dos 400 km foi cumprida. Em relação às outras
+infraestruturas, segundo a CET, “o ciclista conta com 6.149 vagas em Bicicletários
+públicos, e 121 paraciclos públicos instalados nos Terminais de Ônibus e nas
+Estações de Trem e Metrô.” Observa-se que a meta de paraciclos do Plano de
+Mobilidade (4.000 paraciclos até 2016) não foi atingida. A Infraestrutura cicloviária
+atual é apresentada no mapa 10, disponível para consulta no site da CET. As linhas
+vermelhas são as ciclovias, ciclofaixas e ciclorrotas. Os símbolos vermelhos são os
+bicicletários públicos da cidade, administrados pela CPTM, Metrô e SPTrans.
+41
+
+Mapa 10: Mapa de Infraestrutura Cicloviária (CET)
+
+Com os dados das ciclovias implantadas, começa a análise sobre seus
+impactos na mobilidade para o trabalho.
+
+42
+
+3.
+
+ANÁLISE DA INFRAESTRUTURA CICLOVIÁRIA
+
+Para a análise da Infraestrutura cicloviária da cidade, foi feito um levantamento
+das ciclovias, ciclofaixas e ciclorrortas implantadas e sua extensão, a interligação
+com o ônibus, Metrô e CPTM, além de suas posições, conectividade e linearidade. A
+análise será feita pelas zonas da cidade, levando em conta a distribuição dos
+bicicletários públicos da cidade. Os programas de compartilhamento de bicicleta
+BikeSampa e CicloSampa serão abordados posteriormente.
+
+3.1
+
+Centro
+
+A zona central da cidade possui a menor Infraestrutura em Km e 8 ciclovias,
+como mostra a tabela 9, sendo a Rede Cicloviária Centro composta por várias
+ciclofaixas que se conectam. O mapa 11 apresenta a localização da Infraestrutura
+cicloviária.
+
+Infraestrutura cicloviária – Centro
+Rede Cicloviária Centro
+Ciclovia R. Silva Pinto
+Ciclovia Perdizes e Sta Cecília/Higienópolis
+Ciclovia Pacaembu
+Ciclofaixa Martiniano de Carvalho
+Ciclovia Luz/Bom Retiro
+Ciclofaixa Consolação
+Ciclovia Centro de Esportes Radicais
+Ciclofaixa Liberdade-Vergueiro
+Total = 34,5 Km
+
+Km
+16,4
+0,6
+4,1
+1,4
+2,7
+1,6
+2,5
+0,8
+4,4
+
+Tabela 9: Infraestrutura cicloviária do Centro de São Paulo, elaborado pelo autor com dados da CET
+e site Cidade de São Paulo
+
+43
+
+Mapa 11: Mapa de Infraestrutura Cicloviária, destaque para o Centro (CET)
+
+Observa-se que as ciclovias e ciclofaixas dessa região possuem grande
+conectividade, como é visível na Rede Cicloviária Centro, que se estende da Sé até
+Santa Cecília, ligando vários bairros comerciais com grande presença de prédios da
+administração pública, bancos e pontos turísticos, como o Pateo do Colégio.
+Ciclofaixas extensas como a Martiniano de Carvalho e Liberdade-Vergueiro ligam o
+centro até a região Sul, indo até a ciclovia da Avenida Paulista. A ciclovia da
+Consolação liga o centro até a Zona Oeste e a principal ligação com a Zona Norte se
+dá pela ciclofaixa Cruzeiro do Sul. As ligações com a Zona Leste são mais
+escassas. A ciclovia do Brás não está conectada diretamente com as da Zona Leste.
+O Centro é servido pelas estações Sé, Anhangabaú, Liberdade, São Bento,
+São Joaquim, República, Santa Cecília, Marechal Deodoro, Luz, Pedro II e Brás das
+linhas Azul e Vermelha do Metrô, possuindo bicicletários do Metrô nas estações Sé,
+Liberdade, Anhangabaú, Santa Cecília e Brás, somando 48 vagas. Todas as
+estações possuem ciclovias e ciclofaixas pelas suas proximidades. Os principais
+terminais de ônibus do Centro são o Terminal Pq. D.Pedro II e Terminal Bandeira.
+44
+
+Ambos possuem bicicletários, com 56 e 22 vagas, respectivamente e há ciclofaixas
+próximas. O Centro, que possui grande quantidade de oferta de empregos,
+apresenta infraestruturas consideráveis para o trabalhador chegar à região com o
+ônibus e metrô e então usar as bicicletas para ir ao trabalho.
+Viagens dentro do Centro e para as regiões Oeste e Sul são mais facilitadas,
+uma vez que as ciclovias possuem maior conectividade e linearidade. A Rede
+Cicloviária Centro possui uma grande extensão e é a via mais conectada.
+As regiões do Brás e Liberdade apresentam maiores espaços vazios sem
+ciclovias. A conectividade para a Zona Leste poderia ser facilitada com presença
+maior de Infraestrutura viária no Brás.
+
+3.2
+
+Zona Oeste
+
+A Zona Oeste possui uma expressiva Infraestrutura cicloviária, só sendo
+superada em Km pela da Zona Leste, com mais de 40 ciclovias, ciclofaixas e
+ciclorrotas, como mostra a tabela 10. Os dados são localizados no mapa 12.
+
+45
+
+Infraestrutura cicloviária - Zona Oeste
+Ciclofaixa Sumaré/Paulo VI
+Ciclofaixa Rua Itápolis
+Ciclovia Rua Camargo
+Ciclovia Rio Pinheiros
+Ciclovia Portão 1 da USP
+Ciclovia Ponte dos Remédios
+Ciclovia no Jardim Paulista
+Ciclofaixa Lineu de Paula Machado
+Ciclofaixa José Alves Cunha
+Ciclofaixa João Moura
+Ciclovia Jaguaré
+Ciclofaixa Hugo Carotini
+Ciclofaixa Honduras
+Ciclofaixa Hebe Camargo
+Ciclofaixa Gaspar Moreira
+Ciclovia Faria Lima
+Ciclovia Escola Politécnica
+Ciclofaixa em Vila Andrade e Vila Sônia
+Ciclofaixa Elisio Cordeiro Silveira
+Ciclovia Eliseu de Almeida
+Ciclofaixa do Parque Arariba – 1º Trecho
+Ciclovia Distrito Raposo Tavares
+Ciclovia da Av. Valdemar Ferreira
+Ciclofaixa Coriolano
+Ciclofaixa Corifeu
+Ciclofaixa Caio Graco
+Ciclofaixa Av. Torres de Oliveira
+Ciclofaixa Pablo Casals
+Ciclofaixa Av. Otacílio Tomanik
+Ciclofaixa Artur de Azevedo
+Ciclorrota Lapa
+Ciclorrota Jardins
+Ciclovia Butantã
+Ciclopassarela e Ciclovia de Ligação
+Ciclofaixa COHAB Educandário
+Ciclofaixa Barão da Passagem
+Ciclofaixa Amarilis
+Ciclofaixa Candido Motta
+Ciclofaixa Fradique Coutinho
+Ciclovia João Saad
+Ciclovia Luís Carlos Berrini
+Ciclofaixa Ponte Júlio de Mesquita Neto
+Total = 121,77 Km
+
+Km
+3
+1,7
+0,2
+24
+0,07
+0,6
+1,6
+3,3
+1
+2,5
+0,7
+0,6
+2,8
+3,5
+0,5
+18,2
+1,8
+4,3
+1,9
+5,4
+1
+4,7
+1,3
+1,5
+2
+0,5
+0,6
+1
+1,8
+1,5
+6,8
+4,5
+0,3
+1,3
+4,6
+1,5
+1,7
+1,3
+0,1
+1,8
+3,3
+1
+
+Tabela 10: Infraestrutura cicloviária da Zona Oeste de São Paulo, elaborado pelo autor com dados da
+CET e site Cidade de São Paulo
+
+46
+
+Mapa 12: Mapa de Infraestrutura Cicloviária, destaque para a Zona Oeste (CET)
+
+A expressiva extensão da infraestrutura cicloviária se dá pelas ciclovias Rio
+Pinheiros e Faria Lima, as duas maiores da cidade, fazendo ligação com a Zona Sul.
+Os primeiros trechos inaugurados das duas vias foram implantadas antes da gestão
+Haddad, que complementou as ciclovias. Elas se conectam em diversas porções,
+permitindo a ligação entre bairros. A ciclovia da Faria Lima se conecta com a ciclovia
+Luís Carlos Berrini. Faria Lima e Berrini, como dito anteriormente, são novas
+centralidades da cidade que já possuem uma infraestrutura cicloviária considerável.
+A Zona Oeste apresenta uma conectividade grande de Perdizes para Vila
+Leopoldina, se conectando com o Jaguaré. A conexão para o Centro poderia ser
+ainda mais facilitada com uma ciclovia na Avenida Rebouças, cujo espaço é
+marcado por grandes corredores de ônibus. O Jaguaré, Rio Pequeno e Butantã se
+conectam principalmente pelas ciclovias do Jaguaré e da Escola Politécnica,
+formando uma rede mais compacta. Atende aos cidadãos dos bairros Jardim
+Adalgisa, que é um local de grande origem de viagens de bicicleta, como visto no
+mapa 4 e Parque Continental, que tem número considerável de viagens internas,
+como visto no mapa 5. Há uma falta de conectividade com a Zona Norte, feita
+apenas na Barra Funda e Jaguara.
+47
+
+Chamam atenção os espaços vazios na infraestrutura cicloviária nas regiões
+da Vila Madalena, Butantã, Morumbi e Vila Sônia. Na Universidade de São Paulo a
+presença de ciclovias é majoritária pela Escola Politécnica, enquanto a Ciclovia do
+Portão 1 é uma das menores da cidade. O campus da USP, um espaço utilizado
+também para o lazer, tem uma infraestrutura cicloviária pequena.
+A Zona Oeste é servida por várias linhas do Metrô e CPTM. Pelo Metrô a
+Linha Vermelha com a Estação Barra Funda, a Linha Verde com as estações
+Clínicas, Sumaré e Vila Madalena e a Linha Amarela com as estações Faria Lima,
+Fradique Coutinho, Pinheiros e Butantã. Pela CPTM a Linha Rubi com as estações
+Barra Funda, Lapa e Água Branca, a Linha Prata com as estações Barra Funda,
+Lapa, Domingos de Moraes e Imperatriz Leopoldina e a Linha Esmeralda com as
+estações Ceasa, Villa Lobos-Jaguaré, Cidade Universitária, Pinheiros, HebraicaRebouças, Cidade Jardim, Vila Olímpia e Berrini. As linhas da CPTM ligam São
+Paulo a cidades da Região Metropolitana, sendo bastante utilizadas por quem mora
+nas cidades vizinhas e trabalha em São Paulo.
+Apenas as estações Barra Funda, Vila Madalena, Ceasa, Fradique Coutinho,
+Cidade Universitária, Villa-Lobos-Jaguaré, Butantã, Vila Olímpia e Pinheiros contam
+com bicicletários, tendo 773 vagas ao todo. Todas as estações possuem ciclovias
+nos entornos, com a Linha Esmeralda estando ao lado da Ciclovia Rio Pinheiros. A
+Estação Vila Madalena não conta com ciclovias em direção ao bairro, apenas para o
+Centro.
+Um dos maiores terminais de ônibus da região é o Terminal Lapa, que tem
+bicicletário com 74 vagas. O Largo da Batata possui um dos poucos bicicletários
+municipais, com 100 vagas.
+Em termos gerais, a infraestrutura da Zona Oeste é consideravelmente boa
+para quem mora e trabalha na região, tendo boa conectividade e extensão, com
+muitas opções de interligação com ônibus, Metrô e CPTM. Cabem melhorias na
+questão dos vazios de infraestrutura na Vila Madalena, Morumbi e Vila Sônia, além
+da instalação de bicicletários em mais estações, além do aumento de vagas em
+estações como a Barra Funda, que possui apenas 8 vagas.
+
+48
+
+3.3
+
+Zona Sul
+
+A Zona Sul possui a ciclovia mais emblemática do projeto de infraestrutura
+cicloviária da gestão Haddad: A ciclovia da Avenida Paulista. A infraestrutura tem
+mais de 40 ciclovias, ciclofaixas e ciclorrotas, tendo a 3ª maior extensão em Km da
+cidade, como mostra a tabela 11 e localizada no mapa 13.
+
+49
+
+Infraestrutura cicloviária - Zona Sul
+Ciclofaixas Abaúna, Elba e Abagiba
+Ciclovia Visconde de Taunay
+Ciclovia Santa Cruz
+Ciclovia Parque Guarapiranga
+Ciclofaixa no Rio Bonito
+Ciclofaixa no Cambuci
+Ciclofaixa na Saúde
+Ciclofaixa na Rua Jupatis
+Ciclofaixa na Av. Luiz Gushiken
+Ciclofaixa Juarez Távora
+Ciclofaixa Jardim Cordeiro
+Ciclofaixa Jabaquara
+Ciclofaixa em Vila Andrade e Vila Sônia
+Ciclofaixa em Mirandópolis
+Ciclofaixa do Rio Pequeno
+Ciclofaixa do Morumbi
+Ciclofaixa de Interlagos
+Ciclofaixa da R. dos Patriotas
+Ciclofaixa da Capela do Socorro
+Ciclofaixa da Avenida Atlântica
+Ciclofaixa Corbisier
+Ciclofaixa Cidade Dutra
+Ciclovia Chácara Sto Antônio
+Ciclovia Bernardino de Campos
+Ciclovia Av. Amarílis
+Ciclovia Armando de Arruda Pereira
+Ciclorrota e ciclovia Vila Mariana
+Ciclorrota Brooklin
+Ciclofaixa e ciclorrota Moema
+Ciclovia Avenida Paulista
+Ciclofaixa Marsilav
+Ciclovia Teotonio Cilela
+Ciclofaixa Jair Ribeiro
+Ciclofaixa NSRA do Sabará
+Ciclofaixa Carlos Caldeira
+Ciclovia Aida
+Ciclofaixa Bosque da Saúde
+Ciclofaixa Abaúna
+Ciclofaixa Aratas
+Ciclofaixa do Grito
+Ciclofaixa França Pinto
+Ciclofaixa George Corbisier
+Ciclofaixa Nazaré
+Ciclofaixa Nhambiquaras
+Total = 105,8 Km
+
+Km
+5,2
+1
+0,7
+3,5
+0,8
+4
+1,5
+0,8
+1,1
+1,1
+0,9
+3,5
+4,3
+0,2
+2,6
+2,3
+1,5
+2,2
+1,5
+1,2
+1,6
+1,6
+2,3
+0,8
+1,8
+3,5
+10
+15
+3,2
+2,7
+2,5
+4
+1,7
+1,7
+2,4
+0,9
+0,9
+1,3
+0,7
+0,7
+1,5
+1,6
+2,7
+0,8
+
+Tabela 11: Infraestrutura cicloviária da Zona Sul de São Paulo, elaborado pelo autor com dados da
+CET e site Cidade de São Paulo
+
+50
+
+Mapa 13: Mapa de Infraestrutura Cicloviária, destaque para a Zona Sul (CET)
+
+Observa-se pelo mapa a grande disparidade na distribuição e quantidade das
+ciclovias na região.. Enquanto a parte mais próxima ao Centro e Zona Oeste
+possuem mais ciclovias, a parte mais ao Sul tem pouca ou nenhuma infraestrutura.
+Há maior conectividade e linearidade nas ciclorrotas da Vila Mariana e do
+Brooklin, formando uma rede que permite viagens mais facilitadas. Ambas estão
+próximas a outras ciclovias, fazendo conexão com outras partes da região. São
+também as vias mais extensas da região.
+A ciclovia da Avenida Paulista, grande símbolo do projeto, fica no canteiro
+central e percorre a avenida inteira, servindo bem quem usa a infraestrutura, tendo
+sinalização e fácil acesso às calçadas e ruas vizinhas. Diferentemente de outras
+ciclovias, ela não foi pintada. Foi implantada com concreto pigmentado.
+O Itaim Bibi, Jardim Paulista, Vila Mariana, Saúde, Bela Vista e Moema
+possuem ciclovias que se conectam e permitem uma ligação facilitada com o Centro
+e a Zona Oeste. Parte de Santo Amaro possui uma rede cicloviária com conexão
+51
+
+com a Avenida Faria Lima, além de infraestrutura local aceitável. No entanto, não
+conta com ciclovias em sua principal via, a Avenida Santo Amaro.
+As ciclovias mais extensas e conectadas da Zona Sul estão localizadas em
+bairros com menor número de habitantes, maior renda e mais oferta de empregos
+formais, enquanto os bairros mais populosos e de menor renda possuem menos
+infraestruturas. Os bairros de Pirajussara e Jardim São Luís são origens de bom
+número de viagens diárias de bicicleta, mas o primeiro não tem ciclovias e o
+segundo apenas uma, a Luís Gushiken. Pirajussara poderia se beneficiar com a
+presença de infraestrutura, uma vez que tem muitas viagens diárias internas de
+bicicleta. São João Climaco é origem considerável de viagens, mas não possui
+infraestrutura.
+O vazio mais chamativo é, possivelmente, no Grajaú. O populoso distrito tem
+um grande número de viagens diárias de bicicleta, muitas delas sendo internas.
+Essa realidade é mencionada nas diretrizes da campanha eleitoral de 2012.
+Atualmente, o distrito permanece isolado em infraestrutura cicloviária.
+A Zona Sul é servida pelas Linhas Azul, Verde e Lilás do Metrô. Pela Azul as
+estações Paraíso, Ana Rosa, Vila Mariana, Santa Cruz, Praça da Árvore, Saúde,
+São Judas, Conceição e Jabaquara. Pela linha Verde as estações Trianon-Masp,
+Brigadeiro, Paraíso, Ana-Rosa, Chácara Clabin, Santos-Imigrantes, Alto do Ipiranga,
+Sacomã e Tamanduateí. Pela linha Lilás, as estações Capão Redondo, Campo
+Limpo, Vila das Belezas, Giovanni Gronchi, Santo Amaro, Largo Treze e Adolfo
+Pinheiro. Contam com paraciclos as estações Vila das Belezas, Capão Redondo e
+Campo Limpo, somando 24 vagas. As estações Tamanduateí e Paraíso possuem
+bicicletários, somando 20 vagas.
+A CPTM atende a região com a Linha Esmeralda, tendo as estações Granja
+Julieta, Santo Amaro, Socorro e Jurubatuba, Autódromo, Primavera-Interlagos e
+Grajaú. Há bicicletários nas estações Jurubatuba, Autódromo, Primavera-Interlagos
+e Grajaú, somando 927 vagas.
+Há ciclovias no entorno das estações próximas à Avenida Paulista, rio
+Pinheiros e Avenidas Vergueiro e Jabaquara. Nas outras estações, principalmente
+as da Linha Lilás, não há ciclovias.
+Dos 10 terminais de ônibus mais utilizados da cidade, 7 estão na Zona Sul, de
+acordo com ranking feito pela CET. São os terminais Santo Amaro, Capelinha,
+52
+
+Varginha, João Dias, Jardim Ângela, Campo Limpo e Grajaú, muito utilizados para
+os trabalhadores irem para o Centro. Todos os terminais possuem bicicletários, com
+537 vagas ao todo. No entanto, os terminais possuem acesso dificultado às
+ciclovias, que estão mais distantes. No caso do Grajaú, não há ciclovias próximas ao
+terminal.
+A Zona Sul é a região com os maiores espaços sem infraestrutura cicloviária,
+não suprindo a demanda da população dos distritos mais populosos e de menor
+renda, que permanecem dependentes do transporte público para o deslocamento
+para ir ao trabalho. Há um expressivo número de vagas em bicicletários, mas
+poucas ciclovias próximas a eles.
+Apenas a parte mais próxima ao centro tem uma infraestrutura favorável.
+
+3.4
+
+Zona Norte
+
+A Zona Norte possui infraestrutura cicloviária com números pequenos em
+relação à demanda da bicicleta. Possui 40 ciclovias e ciclofaixas, sem ciclorrotas. A
+maioria das ciclofaixas são de curta extensão, como mostra a tabela 12. O mapa 14
+localiza a infraestrutura.
+
+53
+
+Infraestrutura cicloviária - Zona Norte
+Ciclofaixa Zaki Narchi
+Ciclofaixa São João
+Ciclofaixa R. Balsa
+Ciclofaixa Ponte Vila Guilherme
+Ciclofaixa Ponte Jânio Quadros
+Ciclofaixa Ponte das Bandeiras
+Ciclofaixa Pasteur – Canindé
+Ciclofaixa Parque Infantil
+Ciclofaixa na Vila Maria
+Ciclofaixa na Praça Santa Luiza de Marillac
+Ciclofaixa na Freguesia do Ó
+Ciclofaixa na Av. Pedroso da Silveira
+Ciclofaixa Maestro Gabriel Migliori
+Ciclofaixa José Natividade Saldanha
+Ciclofaixa Guilherme Cotching
+Ciclofaixa Fuad Lutfalla
+Ciclofaixa Eng. Caetano Alvares
+Ciclofaixa da Ponte da Casa Verde
+Ciclofaixa da Av. Luis Stamatis
+Ciclovia Cruzeiro do Sul
+Ciclofaixa Braz Leme
+Ciclofaixa Av. Joaquina Ramalho
+Ciclovia Av Padre Orlando G da Silveira
+Ciclofaixa Parque Novo Mundo
+Ciclofaixa Jaraguá
+Ciclofaixa Koshun Takara
+Ciclofaixa Inajar de Souza
+Ciclofaixa Edu Chaves / Antonio Borges
+Ciclofaixa Cerejeiras
+Ciclofaixa Dumont Villares
+Ciclofaixa Luis Stamatis
+Ciclofaixa Poeta
+Ciclofaixa Amambai
+Ciclofaixa Ananalias Holanda de Oliveira
+Ciclofaixa Direitos Humanos
+Ciclofaixa Estação Armênia
+Ciclofaixa Guilherme
+Ciclofaixa Mandaqui
+Ciclofaixa Olavo Fontoura
+Ciclovia Otto Baumgart
+Ciclofaixa Pari-Canindé
+Total = 59,1 Km
+
+Km
+1,8
+4
+1
+1
+0,5
+1
+0,3
+0,1
+0,8
+0,7
+2,6
+0,5
+1,4
+0,5
+1,7
+2,2
+3
+0,6
+1,1
+3,1
+3
+1,7
+0,8
+1
+3,6
+0,8
+1
+1,7
+2,5
+1,6
+1,1
+0,5
+0,3
+0,3
+2,2
+0,1
+1,8
+0,4
+2,2
+0,9
+3,7
+
+Tabela 12: Infraestrutura cicloviária da Zona Norte de São Paulo, elaborado pelo autor com dados da
+CET e site Cidade de São Paulo
+
+54
+
+Mapa 14: Mapa de Infraestrutura Cicloviária, destaque para a Zona Norte (CET)
+
+Em relação à área, número de residentes e viagens de bicicleta, a Zona Norte
+é a mais desprovida de infraestrutura cicloviária. As ciclovias praticamente não
+apresentam conectividade ou linearidade. Apenas as vias que ligam ao Centro estão
+mais conectadas. A conexão com a Zona Oeste praticamente inexiste e com a Zona
+Leste se dá apenas entre a ciclofaixa Parque Novo Mundo e a ciclofaixa Ponte
+Domingos Franciulli Neto, ainda com interrupção. Há grandes espaços vazios, sem
+nenhuma infraestrutura.
+Não há ciclovias que liguem a Zona Norte a Guarulhos, embora seja uma rota
+de viagem externa muito frequente na região. Nas diretrizes para a bicicleta de 2012,
+é proposta a ligação com outras cidades, de acordo com a demanda.
+As regiões da Vila Maria, Jardim Helena, Jaçanã, Vila Medeiros e Tremembé
+são mencionadas nas diretrizes de 2012 como principais origens de viagens de
+bicicleta, como também se observa nos mapas 6 e 7. As 4 primeiras são atendidas
+com ciclofaixas que formam um traçado único, conectando ao Centro, com detalhe
+para o traçado tortuoso da ciclofaixa Cerejeiras. Os habitantes dos bairros contam
+com poucas opções. Não há bicicletários públicos nos entornos. O Tremembé não
+conta com nenhuma infraestrutura cicloviária.
+
+55
+
+A Zona Norte é servida pelo Metrô com as estações Tiradentes, Armênia,
+Portuguesa-Tietê, Carandiru, Santana, Jardim São Paulo, Parada Inglesa e
+Tucuruvi. Apenas as estações Jardim São Paulo e Parada Inglesa possuem
+paraciclos, com 8 vagas cada. Apenas as estações Tietê e Armênia contam com
+ciclovias próximas. É servida também pela Linha Rubi da CPTM, com as estações
+Piqueri, Pirituba, Vila Clarice, Jaraguá, Vila Aurora e Perus. Apenas a estação Vila
+Aurora possui bicicletários, tendo 144 vagas. Nenhuma estação da CPTM tem
+ciclovias próximas.
+A Zona Norte possui um dos terminais de ônibus mais usados da cidade, o
+Terminal Vila Cachoeirinha, com 81 mil viagens diárias, segundo a SPTrans em
+ranking feito em 2014. No entanto, esse terminal não possui bicicletário e tampouco
+ciclovias próximas. O terminal Pirituba possui bicicletário com 156 vagas, sem
+ciclovias próximas. O terminal Casa Verde possui bicicletário com 7 vagas, tendo as
+ciclofaixas Caetano Álvares e Gabriel Migliori por perto.
+Em termos gerais, a Zona Norte tem uma infraestrutura cicloviária precária,
+que não tem conectividade e interligação com outros meios de transporte, além de
+não atender a uma demanda conhecida da população. Os melhores trechos estão
+entre Santana e Vila Guilherme, pela Avenida Zaki Narchi, uma das mais conhecidas
+e valorizadas da cidade. Na atual condição, a infraestrutura não torna a bicicleta um
+modo de transporte atrativo para a região, especialmente para o trabalho.
+
+3.5
+
+Zona Leste
+
+A mais populosa região de São Paulo, com a maior população periférica, tem
+a maior infraestrutura cicloviária em termos de extensão, com mais de 40 ciclovias,
+ciclofaixas e ciclorrotas, como mostra a tabela 13. O mapa 15 localiza a
+infraestrutura.
+
+56
+
+Infraestrutura cicloviária - Zona Leste
+Ciclovia Vilanova Artigas
+Ciclovia Viaduto Domingos Franciulli Neto
+Ciclovia Taubaté
+Ciclovia Rangel Pestana
+Ciclovia Rangel – Figueira
+Ciclovia Parque São Rafael
+Ciclofaixa Parque São Lourenço
+Ciclovia Parque Ecológico do Tietê
+Ciclofaixa Parque do Trabalhador
+Ciclovia Parque da Mooca e ciclorrota Mooca
+Ciclofaixa Antonio Estevão de Carvalho
+Ciclovia na Vila Carrão
+Ciclovia na Av. José Pinheiro Borges
+Ciclofaixa Jardim Helena São Miguel
+Ciclofaixa estrada do Imperador
+Ciclovia Governador Carvalho Pinto
+Ciclovia Francisco Mesquita
+Ciclovia Engenho Novo
+Ciclovia Dr. Cândido Mota Filho
+Ciclofaixa Vila Prudente
+Ciclovia da Avenida Afonso de Sampaio e Sousa
+Ciclovia Curuça
+Ciclofaixa Cidade Tiradentes
+Ciclofaixa Caminho Verde
+Ciclovia Calim Eid
+Ciclovia Bom Sucesso
+Ciclovia Bento Guelfi
+Ciclofaixa Av. Aguiar da Beira
+Ciclovia Adutora Rio Claro
+Ciclovia Adélia Chohfi
+Ciclovia Abel Ferreira
+Ciclovia Arena Corinthians
+Ciclofaixa Shopping Tatuapé
+Ciclofaixa Paranaguá
+Ciclofaixa Arraias do Araguaia
+Ciclovia monotrilho Vila Prudente
+Ciclofaixa Serra da Bocaina
+Ciclofaixa Assis Ribeiro
+Ciclofaixa Gamelinha
+Ciclofaixa Vitória Speers
+Total = 127,2 Km
+
+Km
+1,9
+1,4
+2
+0,5
+0,9
+1,9
+3,3
+11,4
+0,8
+7
+2,7
+2,2
+1,3
+8,2
+6,5
+2,7
+2,6
+1
+1,3
+6,6
+3,1
+1,1
+2
+11,5
+4,7
+0,5
+1,3
+2,1
+7,4
+7,2
+1,3
+1,3
+0,4
+2,5
+1,6
+2,4
+1
+5,6
+4
+1,2
+
+Tabela 13: Infraestrutura cicloviária da Zona Leste de São Paulo, elaborado pelo autor com dados da
+CET e site Cidade de São Paulo
+
+57
+
+Mapa 15: Mapa de Infraestrutura Cicloviária, destaque para a Zona Leste (CET)
+
+As ciclovias mais extensas da Zona Leste são a Ciclovia Parque Ecológico do
+Tietê e Caminho Verde. A primeira acompanha o Parque Ecológico em sua
+totalidade, tendo seu fim próximo à Vila Maria, na Zona Norte, sem conectar as
+regiões. A segunda se localiza na Radial Leste, acompanhando estações do Metrô
+da Linha Vermelha (Tatuapé até Corinthians-Itaquera). Ambas foram implantadas
+antes da gestão Haddad.
+A conectividade se apresenta como um dos principais problemas da
+infraestrutura cicloviária da região. Há ciclovias extensas, mas que não se conectam
+com outras, não formando uma rede. Por exemplo, as ciclofaixas que ligam a Vila
+Carrão à Vila Formosa não se conectam a nenhuma outra ciclovia. Sua utilidade fica
+restrita a deslocamentos muito locais, propícios para o trabalho apenas entre os 2
+distritos. O Terminal Carrão da SPTrans fica distante da ciclofaixa da Vila Carrão.
+Observa-se maior conectividade na Mooca, Vila Prudente, Ermelino Matarazzo e
+Jardim Helena. Nos 2 últimos casos, a infraestrutura cicloviária atende a demanda,
+58
+
+uma vez que essas regiões são origem de várias viagens diárias de bicicleta, sendo
+boa parte de viagens internas ou para bairros vizinhos.
+A Zona Leste fica relativamente isolada das outras regiões na infraestrutura
+cicloviária. Enquanto as outras regiões possuem conexões diretas através das
+ciclovias, a Zona Leste tem descontinuidades. O trajeto de Arthur-Alvin para a Vila
+Maria é descontinuado no bairro Parque Novo Mundo. A ciclovia Caminho Verde é
+interrompida logo após a Estação Tatuapé e as ciclovias da Vila Prudente não se
+conectam com as do Ipiranga.
+Grandes áreas muito populosas e com rendas familiares menores não
+possuem nenhuma infraestrutura cicloviária, como Lajeado, José Bonifácio, Itaquera
+(porção a Leste da Arena Corinthians), São Rafael, Guianazes, Cidade Tiradentes e
+Itaim Paulista, região com muitas viagens diárias de bicicleta. A Zona Leste mais
+próxima do Centro tem melhores infraestruturas, enquanto a mais periférica, com
+exceção ao Jardim Helena e Ermelino Matarazzo, é relegada.
+A Zona Leste é servida pelo Metrô com a Linha Vermelha, tendo as estações
+Bresser-Mooca, Belém, Tatuapé, Carrão, Penha, Vila Matilde, GuilherminaEsperança, Patriarca, Arthur e Alvin e Corinthians-Itaquera. Pela Linha Verde do
+Metrô apenas pela estação Vila Prudente. É servida pela Linha Coral da CPTM com
+as estações Corinthians-Itaquera, José Bonifácio, Dom Bosco e Guaianazes; pela
+Linha Safira da CPTM com as estações Brás, Tatuapé, Eng. Goulart, USP Leste,
+Comendador Ermelino, São Miguel Paulista, Jardim Helena-Vila Mara, Itaim Paulista
+e Jardim Romano.
+As estações de Metrô e Trem possuem, em sua maioria, ciclovias próximas.
+No entanto, tratam-se das extensas ciclovias do Parque Ecológico e Caminho Verde,
+sem conexões com os bairros ao seu redor. Há maiores ligações apenas nos
+arredores das estações Patriarca, Arthur-Alvim, Corinthians-Itaquera e Jardim
+Helena. Há ausência total de ciclovias nas estações Bresser-Mooca, São Miguel
+Paulista, Itaim Paulista, Jardim Romano, José Bonifácio, Dom Bosco e Guaianazes.
+
+As estações Belém, Vila Matilde, Penha, Artur Alvin, Vila Prudente e São
+Miguel Paulista possuem paraciclos, tendo ao todo 57 vagas. As estações
+Corinthians-Itaquera, Guilhermina-Esperança, Jardim Romano, Jardim Helena-Vila
+Mara, Comendador Ermelino e USP Leste possuem bicicletários, tendo 978 vagas
+59
+
+ao todo. Apesar do número considerável de vagas, o número de estações é
+pequeno e algumas que possuem vaga não estão próximas a ciclovias.
+Vários terminais de ônibus levam trabalhadores da Zona Leste para outras
+regiões, tendo como um dos principais destinos o Terminal Pq. D.Pedro II, no
+Centro. Os terminais Carrão, Penha, Sapopemba, São Matheus, Cidade Tiradentes
+e São Miguel possuem bicicletários, tendo ao todo 430 vagas. Notavelmente, não há
+ciclovias no entorno da maioria desses terminais.
+A utilização de bicicletas para o trabalho fica dificultada na Zona Leste pela
+falta de conectividade das ciclovias e ciclofaixas da própria região e também pela
+inexistência de conexões diretas com as outras regiões. Para realizar o
+deslocamento periferia-centro, o trabalhador segue dependente do transporte
+público, ainda que possa economizar uma passagem de ônibus até uma estação do
+Metrô ou CPTM ou um terminal maior de ônibus usando a bicicleta para chegar. A
+rede cicloviária da Zona Leste apenas atende com melhor eficácia demandas locais
+do Jardim Helena e Ermelino Matarazzo.
+
+60
+
+3.6
+
+Sistema de compartilhamento de bicicletas
+
+A prefeitura de São Paulo iniciou em 2012, ainda na gestão Kassab, uma
+parceria com a iniciativa privada para a instalação de sistemas de compartilhamento
+de bicicletas. Os sistemas implantados foram o Bike Sampa e CicloSampa, em
+parceria com os bancos Itaú e Bradesco, respectivamente.
+O usuário pode ir a uma das estações do sistema e pegar uma bicicleta
+emprestada por um período de tempo. Assim, o usuário não precisaria comprar uma
+bicicleta para se deslocar. Os sistemas utilizam o Bilhete Único e cartões de crédito
+como pagamento, tendo alta qualidade tecnológica, com aplicativos de celular para
+orientar os usuários. O mapa 16 mostra a rede do Bike Sampa e mapa 17 o do
+CicloSampa.
+
+Mapa 16: Sistema Bike Sampa, localização das estações (Site Bike Sampa)
+
+61
+
+Mapa 17: Sistema CicloSampa, localização das estações (Site CicloSampa)
+
+O sistema Bike Sampa tem maior alcance e estações mais próximas a
+diversos terminais de ônibus, como o Pq. D.Pedro II e estações de Metrô. No
+entanto, os dois sistemas não são gratuitos. Cobra-se do usuário taxas de utilização
+depois de determinado tempo de uso. O Bike Sampa cobra R$5,00 após uma hora
+de uso e repete a cobrança a cada hora. O CicloSampa cobra R$5,00 após 30
+minutos e repete a cobrança. Assim, os sistemas de compartilhamento podem ser
+mais custosos do que o ônibus, Metrô e CPTM, que cobram R$3,80 até a finalização
+desse trabalho.
+O uso para o trabalho pode ser dificultado dependendo de onde o trabalhador
+precisa ir e a disponibilidade de estações. Ele tem que pegar a bicicleta em uma
+estação e então devolvê-la em outra rapidamente, ou será taxado. Assim, o
+trabalhador pode ter que gastar mais tempo para ir até uma estação devolver a
+bicicleta e então chegar ao local onde trabalha. Além disso, o número de vagas por
+estação é relativamente pequeno, numa média de 10 a 15. Se ele for devolver a
+bicicleta, mas a estação estiver cheia, terá que procurar outra para devolver.
+Notavelmente, os dois sistemas se concentram no Centro, Zona Oeste e a
+porção da Zona Sul mais próxima ao Centro, com o Bike Sampa se estendendo às
+porções da Zona Leste mais próximas ao Centro. Os dois sistemas de
+62
+
+compartilhamento não divulgam dados gerais sobre o uso de suas bicicletas. Assim,
+não se pode fazer um levantamento sobre quais estações do sistema são mais
+utilizados.
+Poderiam ser uma boa opção para os trabalhadores se deslocarem quando
+chegam às regiões dos trabalhos, mas se mostram potencialmente complexos,
+custosos e restritivos.
+
+63
+
+3.7
+
+Regras para uso de bicicletas no transporte coletivo
+
+Nos trens do Metrô, a bicicleta é permitida apenas após as 20:30 nos dias
+úteis, apenas no último vagão de cada trem, com no máximo 4 bicicletas. Aos
+Sábados, o uso é permitido apenas após as 14 horas. É liberado apenas nos
+Domingos e feriados. A CPTM impõe as mesmas regras, com o diferencial da
+permissão de bicicletas dobráveis devidamente embaladas, em qualquer horário.
+Nos ônibus mais longos da SPTrans, de 23 metros, o uso é permitido nos dias úteis,
+entre 10h01 e 15h59, e das 19h01 às 5h59. O embarque deve ser feito pela porta central
+ou traseira.
+Assim, o uso das bicicletas para o trabalho no transporte público é inviável. Seria
+impossível colocar uma bicicleta nos horários de pico, dada a grande lotação. A
+interligação da bicicleta com o transporte público se realiza pelos bicicletários públicos e
+pelo sistema de compartilhamento de bicicletas.
+
+64
+
+4.
+
+O uso das ciclovias e perspectivas do projeto
+
+Atualmente, não há dados oficiais sobre o uso total das ciclovias da cidade de
+São Paulo. Afinal, a expansão da infraestrutura cicloviária é algo bastante recente e
+os ciclistas podem não aparecer de forma imediata. Uma nova pesquisa de Origem
+e Destino do Metrô será realizada em 2017, podendo trazer números da utilização
+das bicicletas em São Paulo. A tendência é que haja um aumento de viagens de
+bicicleta, restando saber os motivos e a renda média do usuário. O projeto das
+ciclovias serve também para incentivar o uso, não apenas atender demandas locais.
+Em 2017 iniciou-se a gestão Dória na cidade. Em seu plano de governo,
+divulgado em 2016, a questão das bicicletas e infraestrutura cicloviária é abordada
+brevemente:
+- Adequar a malha cicloviária existente e a ser implantada com
+melhorias de sinalização e iluminação; promover a conexão
+dos pontos de ciclovias ou ciclofaixas já existentes,
+implantando, assim, uma Rede Cicloviaria do município.
+- Ampliar o sistema de empréstimo de bicicletas levando em
+conta a padronização e criando facilidades para o cidadão que
+utiliza o serviço; incentivar a criação de bicicletários nos
+terminais e polos geradores de tráfego;
+(COLIGAÇÃO ACELERA SP, Plano de Governo)
+No Programa de Metas da gestão Dória, apresentados em 2017, o “Projeto:
+Mobilidade Ativa” aborda a questão das bicicletas. Usa dados da Pesquisa de
+Mobilidade de 2012, que constata que as viagens de bicicleta correspondem a
+apenas 0,6% das viagens realizadas. A linha de ação do projeto seria:
+- Implementar o Programa Bike SP (programa de incentivo ao
+uso da bicicleta) por meio de parcerias.
+- Ofertar sistema de compartilhamento de bicicletas (Bike
+Sharing) por meio de parcerias.
+-Implantar estações com infraestrutura de paraciclos e
+vestiários em terrenos públicos (Programa Bike Stop) por meio
+de parcerias.
+-Aprimorar o sistema cicloviário.
+(PREFEITURA DE SÃO PAULO, Programa de Metas
+20172020)
+Assim, a prefeitura espera que haja migração do transporte motorizado para a
+“mobilidade ativa”, aumentando em 10% a participação no total de viagens
+realizadas.
+65
+
+Os planos da gestão Dória para a bicicleta e infraestrutura não são
+detalhados. A proposta mais interessante é a do plano de governo lançado em 2016,
+que propõe conectar as ciclovias e ciclofaixas existentes. Em 2017, a prefeitura tem
+realizado ações e lançado propostas para readequar a rede, apagando algumas
+ciclovias e remanejando outras, tornando-as ciclorrotas. As periferias podem sofrer
+maiores impactos4 Isso, associado ao fato de que as medidas mais específicas
+envolvem parcerias, o que sugere, portanto, serviços pagos
+Será preciso esperar para saber se a infraestrutura cicloviária terá melhorias
+reais ou se estagnará ou retrocederá. Com a divulgação de novos dados sobre uso
+da bicicleta ou das ciclovias, pode haver pressões novas por mais estruturas.
+
+4
+
+CARDOSO, William "Remoção de ciclovias atingirá mais a periferia de São Paulo, diz Doria", Jornal Folha de São Paulo, São Paulo,
+disponível em folha.uol.com.br, 2017
+
+66
+
+CONSIDERAÇÕES FINAIS
+
+Os deslocamentos em São Paulo se dão majoritariamente para o trabalho. O
+poder público, então, deveria priorizar o trabalhador com políticas de mobilidade
+urbana propícias. No entanto, o que se observa é uma mobilidade urbana dominada
+pelo automóvel, com grandes congestionamentos nas vias. A maioria dos
+trabalhadores fica dependente do transporte público, enfrentando grandes lotações,
+que causam grande desconforto. Outro agravante é a longa distância que o
+trabalhador percorre, devido à formação histórica da cidade, que levou grandes
+contingentes a morar nas periferias, enquanto concentrou os empregos nas
+centralidades e arredores.
+O projeto das ciclovias, dentro do contexto de uma política nacional de
+mobilidade nova, que pode mudar o quadro atual, se apresenta como uma
+alternativa e possibilidade para a mobilidade para o trabalho.
+Implantar infraestrutura cicloviária é essencial para estimular o uso da
+bicicleta na cidade, uma vez que o trabalhador se sentirá incentivado e poderá ver
+vantagens com a bicicleta. A infraestrutura atual, no entanto, não incentiva de forma
+igualitária o uso.
+As melhores ciclovias, ciclofaixas, ciclorrotas e sistemas de compartilhamento
+de bicicleta estão concentrados no Centro, Zona Oeste e a porção da Zona Sul mais
+próxima ao Centro, as regiões mais ricas e menos populosas da cidade. A Zona
+Norte possui infraestrutura cicloviária precária, a Zona Leste tem ciclovias extensas,
+mas pouca conectividade e grandes vazios e a Zona Sul após o Jabaquara se
+encontra desolada em estrutura. Regiões populosas e com grande demanda, tal
+como o Tremembé e o Grajaú, não são atendidas ou só contam com um trecho
+único de ciclovias,. Grandes áreas populosas na Zona Leste não contam com
+ciclovias. A demanda em bairros como o Guaianazes não se mostra grande, mas um
+dos intuitos do projeto é o de incentivar o uso. A prefeitura poderia implantar
+ciclovias e então a população poderia usá-las para se deslocar, gerando demanda.
+Assim, é improvável que a mobilidade para o trabalho tenha grandes
+melhorias com as ciclovias, uma vez que atende de forma adequada apenas uma
+parcela da população. A proposta em si, incentivando viagens curtas, ainda mantém
+
+67
+
+a dependência do transporte público, uma vez que os deslocamentos são muito
+extensos.
+O trabalhador de um bairro periférico que trabalha em uma região central
+poderia usar a bicicleta de sua casa até uma estação do Metrô, CPTM ou terminal
+de ônibus e deixar em um estacionamento, economizando ao menos uma passagem
+de transporte público na ida ao trabalho e outra na volta. No entanto, muitos bairros
+periféricos e populosos não possuem estrutura cicloviária favorável para tal. Não há
+o incentivo do uso de bicicleta pela estrutura dada.
+A estrutura cicloviária do Centro, Zona Oeste e Zona Sul é favorável para uso
+de bicicletas. O trabalhador poderia usar com facilidade uma bicicleta quando chega
+a essas regiões pelo transporte público com uma bicicleta alugada, podendo
+economizar alguma passagem para chegar ao seu local de trabalho. Os sistemas de
+compartilhamento de bicicleta, no entanto, se mostram complexos e possivelmente
+custosos, desestimulando o uso pelo trabalhador.
+O projeto das ciclovias não possui a pretensão de resolver o problema do
+deslocamento para o trabalho, é bom ressaltar. Apresenta-se como uma alternativa
+possível para o futuro. Uma mudança realmente significativa na mobilidade
+necessitaria de uma mudança na própria estrutura sócio-econômica da cidade, algo
+que não é feito apenas com ciclovias e bicicletas.
+Dados oficiais atualizados sobre o uso das ciclovias são necessários para
+avaliar possíveis mudanças causadas pela nova infraestrutura cicloviária. O projeto
+das ciclovias é certamente válido e benéfico para a cidade, mas precisa atender
+melhor às demandas e a todas as regiões, apresentando conectividade e
+linearidade, além de uma melhor integração com o transporte coletivo.
+
+68
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+CALDEIRA, Teresa Pires do Rio. "Cidade de muros: crime, segregação e cidadania
+em São Paulo", 2000
+GOLLNICK, Sérgio. “Desafios para a gestão da „coisa pública‟”, 2009
+LESISZ, Radoslaw. "Honderd jaar fietsen in Nederland 1850-1950. Over het begin
+van de fietscultuur", 2004
+MALATESTA, Maria Ermelina. "A bicicleta nas viagens cotidianas de São Paulo",
+2014
+PETRONE, Pasquale. "A cidade de São Paulo no século XX." Revista de História
+10.21-22 (1955): 127-170.
+ROLLNIK e FRÚGOLI. Reestruturação urbana da metrópole paulistana: a Zona
+Leste como território de rupturas e permanências, 2001
+SANTOS, MILTON. Metrópole corporativa fragmentada: o caso de São Paulo, 1985
+
+DADOS, DOCUMENTOS E PESQUISAS
+BIKESAMPA.
+
+Disponível em
+
+https://bikesampa.tembici.com.br. Acessado
+
+em
+
+02/2017
+CET-Companhia de Engenharia de Trafego. Disponível em www.cetsp.com.br.
+Acessado em 02/2017
+CICLOSAMPA.
+
+Dusponível
+
+em
+
+http://www.ciclosampa.com.br.
+
+Acessado
+
+em
+
+Disponível
+
+em
+
+02/2017
+COLIGAÇÃO ACELERA SP. Plano de Governo, 2016
+CPTM
+
+-
+
+Companhia
+
+Paulista
+
+de
+
+Trens
+
+Metropolitanos.
+
+https://www.cptm.sp.gov.br. Acessado em 05/2017
+EMPLASA – Empresa Paulista de Planejamento Metropolitano S.A, "Unidades de
+Informações Territorializadas (UITs)", 2012
+HADDAD, Fernando. “Diretrizes para a bicicleta no plano de governo de Fernando
+Haddad para a prefeitura de São Paulo”, 2012
+IBGE - Instituto Brasileiro de Geografia e Estatística, Cidades-Frota de veículos.
+Acessado em 05/2017
+
+69
+
+INSTITUTO DE POLÍTICAS DE TRANSPORTE & DESENVOLVIMENTO, Política de
+Mobilidade por Bicicletas e Rede Cicloviária da Cidade de São Paulo: Análise e
+Recomendações , 2015
+METRÔ, Metropolitano de São Paulo. "Pesquisa de Mobilidade 2012 - síntese das
+informações", 2013
+SPTRANS - São Paulo Transportes. Disponível em www.sptrans.com.br. Acessado
+em 02/2017
+
+LEGISLAÇÕES
+BRASIL, Constituição Federal, Art. 21
+______, Lei n° 12.587/12
+______,, Lei n° 10.257/01
+PREFEITURA DE SÃO PAULO. Lei Municipal 10.907/90
+_________________________. Lei Municipal 13.885/04
+_________________________. Lei Municipal 14.266/07
+_________________________. Plano de Mobilidade 2015
+_________________________. Programa de Metas 2017-2020, 2017
+
+REPORTAGENS
+CARDOSO, William "Remoção de ciclovias atingirá mais a periferia de São Paulo,
+diz Doria", Jornal Folha de São Paulo, São Paulo, disponível em folha.uol.com.br,
+2017
+ESTADO DE SÃO PAULO ”O sofrido transporte coletivo”, Jornal O Estado de São
+Paulo, São Paulo, disponível em estadao.com.br, 2016
+RIBEIRO, Ana. "De-1976-a-2017-uma-breve-historia-da-bicicleta-na-cidade." Folha
+de São Paulo, São Paulo, disponível em folha.uol.com.br, 2017
+VEIGA, Edison. "Nos anos 1970, a primeira ciclovia". Estadão, São Paulo, disponível
+em estadão.com.br, 2017
+
+70
+
+

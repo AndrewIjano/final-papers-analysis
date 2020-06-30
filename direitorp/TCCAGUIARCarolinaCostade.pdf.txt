@@ -1,0 +1,3297 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE DIREITO DE RIBEIRÃO PRETO
+
+EXTERNALIDADES POSITIVAS E CUSTOS DOS ESPAÇOS PROTEGIDOS EM
+ÁREAS DE PRODUÇÃO SUCROENERGÉTICA
+
+Carolina Costa de Aguiar
+Orientadora: Prof.ª Dr.ª Flavia Trentini
+
+RIBEIRÃO PRETO
+2012
+
+CAROLINA COSTA DE AGUIAR
+
+EXTERNALIDADES POSITIVAS E CUSTOS DOS ESPAÇOS PROTEGIDOS EM
+ÁREAS DE PRODUÇÃO SUCROENERGÉTICA
+
+Trabalho de conclusão de curso apresentado à
+Faculdade de Direito de Ribeirão Preto da
+Universidade de São Paulo como requisito
+parcial para obtenção do grau de bacharel em
+Direito.
+
+Orientadora: Prof.ª Dr.ª Flavia Trentini
+
+RIBEIRÃO PRETO
+2012
+
+Autorizo a reprodução e divulgação total ou parcial deste trabalho, por qualquer meio
+convencional ou eletrônico, para fins de estudo e pesquisa, desde que citada a fonte.
+
+FICHA CATALOGRÁFICA
+A282
+
+Aguiar, Carolina Costa de
+Externalidades positivas e custos dos espaços protegidos em
+áreas de produção sucroenergética / Carolina Costa de Aguiar. -Ribeirão Preto, 2012.
+94 p. ; 30 cm
+Trabalho de Conclusão de Curso, Faculdade de Direito de
+Ribeirão Preto da Universidade de São Paulo.
+Orientadora: Flavia Trentini.
+1. Espaços protegidos. 2. Externalidades positivas. 3. Assimetria
+de informação. 4. Custos de transação. 5. Incentivos estatais.
+CDD 338.1
+
+AGUIAR, Carolina Costa de. Externalidades positivas e custos dos espaços protegidos em
+áreas de produção sucroenergética. Trabalho de Conclusão de Curso apresentado à
+Faculdade de Direito de Ribeirão Preto da Universidade de São Paulo para obtenção do grau
+de bacharel em Direito.
+
+Aprovado em:
+
+Banca Examinadora
+
+Prof. Dr. ______________________________ Instituição:____________________________
+Julgamento: ____________________________Assinatura: ___________________________
+
+Prof. Dr. ______________________________ Instituição:____________________________
+Julgamento: ____________________________Assinatura: ___________________________
+
+Prof. Dr. ______________________________ Instituição:____________________________
+Julgamento: ____________________________Assinatura: ___________________________
+
+Aos meus pais, por todo o apoio e
+confiança que sempre me dedicaram.
+
+AGRADECIMENTOS
+
+À minha irmã, que à sua maneira me tornou uma pessoa melhor.
+Aos meus amigos, os de longa data e os que me acompanharam nesses anos de faculdade, por
+estarem ao meu lado, me apoiando e alegrando meus dias.
+À minha orientadora, por tudo que me ensina (e pela paciência e carinho com que o faz), por
+todo o incentivo e por me salvar das chatices jurídicas, me mostrando caminhos mais
+interessantes a seguir.
+À Fundação de Amparo à Pesquisa do Estado de São Paulo, pela concessão da bolsa de
+iniciação científica e apoio financeiro para a realização deste estudo.
+À Usina participante do estudo, que se colocou à disposição para a realização do estudo de
+caso, e aos seus funcionários, que gentilmente auxiliaram na pesquisa.
+
+RESUMO
+
+A existência de espaços protegidos dentro da propriedade rural promove benefícios coletivos,
+pois contribuem para a preservação do meio ambiente. Por meio da ação privada dá-se o
+aumento do bem-estar social, o que se chama de externalidades positivas. Ao mesmo tempo,
+recai sobre o agente que as produz uma série de custos, dentre eles custos de transação, uma
+vez que o mercado não transporta as informações necessárias para que as externalidades
+sejam percebidas pelos agentes econômicos e consumidores. O problema deste trabalho
+consiste em estudar o comportamento do agente econômico diante das externalidades
+positivas e custos derivados dos espaços protegidos em áreas agrícolas, com o objetivo de
+analisar se ele internaliza essas externalidades e custos e como o faz; para que se verifiquem
+as implicações econômicas sobre a concretização da preservação ecológica. Para tanto, são
+utilizados como principais aportes teóricos o Direito Ambiental e a Nova Economia
+Institucional (NEI). O Direito Ambiental permite o estudo da proteção ambiental e,
+especificamente, dos espaços protegidos, sem se descuidar da ótica econômica que permeia a
+relação entre ser humano e meio ambiente. A NEI proporciona o estudo dos custos de
+transação e das externalidades positivas, para que se possam analisar a percepção e o
+comportamento do agente frente às externalidades que produz, verificando-se qual a
+relevância das instituições nesse contexto. A metodologia aplicada é a pesquisa bibliográfica e
+estudo de caso, sob uma abordagem indutiva. Para o estudo de caso, toma-se como unidade de
+análise uma usina de cana-de-açúcar, em razão da expressividade do setor sucroenergético,
+que utiliza grande parte do território nacional para produção, e do aumento da importância do
+setor e do biocombustível etanol. O etanol é um bem cujas informações sobre o processo
+produtivo são difíceis de serem obtidas pelo consumidor, o que resulta em uma assimetria de
+informação e custos que afetam a eficiência econômica e, ao fim, podem desestimular a
+preservação ecológica. A partir dos dados coletados, o estudo de caso constatou que a
+proteção ambiental praticada pela usina resulta precipuamente de incentivos advindos do
+próprio mercado. A atenção do agente está voltada à reputação no mercado e na sociedade e à
+certificação ambiental, que diminui a assimetria de informação e os custos de transação. Essa
+postura permite a inserção e permanência em novos mercados, cada vez mais rigorosos
+quanto à exigência de certos padrões ambientais de gestão. Conclui-se que, tendo sido
+verificado o caráter indutor do mercado quanto à proteção ambiental, cabe ao Estado intervir
+no sentido de fomentar esse comportamento convergente com o interesse público de um meio
+ambiente ecologicamente equilibrado. Para isso, são necessárias políticas públicas que
+promovam por meio de instrumentos econômicos os comportamentos desejados,
+abandonando a arraigada e ineficiente estrutura focada somente em instrumentos de comando
+e controle. Assim, se o mercado tem exigido uma gestão ecologicamente sustentável, ao criar
+incentivos à certificação o Estado cumpre seu papel de garantidor de um ambiente
+institucional que promove a proteção ambiental.
+Palavras-chave: Espaços protegidos. Externalidades positivas. Assimetria de informação.
+Custos de transação. Incentivos estatais.
+
+ABSTRACT
+
+The existence of protected areas inside the rural property promotes collective benefits, as this
+areas contribute to the preservation of the environment. Through private action takes place the
+increase in social welfare, which is called positive externalities. At the same time, a range of
+costs falls on the agent that produces these externalities, including transaction costs, since the
+market does not carry the information necessary to ensure that externalities are perceived by
+economic agents and consumers. The problem of this paper is to study the behavior of
+economic agent in the face of positive externalities and costs derived from protected areas in
+agricultural areas, in order to examine whether he internalizes these externalities and costs
+and how does it, in order to verify the economic implications on the implementation of
+ecological preservation. For this purpose, the paper uses as main theoretical framework
+Environmental Law and New Institutional Economics (NIE). The Environmental Law
+provides the study of environmental protection and specifically the study of the protected
+areas, without neglecting the economic point of view that permeates the relationship between
+humans and the environment. The NIE provides the analysis of transaction costs and positive
+externalities, so that we can analyze the agent‟s perception and behavior in the face of the
+externalities that he produces, verifying the relevance of institutions in this context. The
+applied methodology is the literature research and the case study, under an inductive
+approach. For the case study the unit of analysis is a sugarcane processing mill, due to
+the expressiveness of the sugarcane industry, which uses much of the country for production,
+and because the increasing importance of the sector and biofuel ethanol. Ethanol is a good
+whose information about the production process are difficult to obtain by the consumer,
+resulting in an information asymmetry and costs that affect the economic efficiency and then
+may discourage the ecological preservation. Based on the data collected, the case study found
+that environmental protection practiced by the mill results mainly from the incentives arising
+from the market. The concern of the agent is directed to his reputation in the market and in the
+society and to the environmental certification, which reduces the information asymmetry and
+transaction costs. This posture allows to enter and stay in new markets, increasingly rigorous
+about certain environmental management standards. Checked the inducer character of the
+market concerning of environmental protection, it concludes that the state must intervene to
+encourage this convergent behavior with the public interest in an ecologically balanced
+environment. For this, public policies are necessary, to promote the desired behaviors through
+economic instruments, abandoning the entrenched and inefficient structure focused only on
+command and control instruments. Thus, if the market has demanded an ecologically
+sustainable management, when the state creates incentives for certification it ensures an
+institutional environment that promotes environmental protection.
+Keywords: Protected areas. Positive externalities. Information asymmetry. Transaction costs.
+State incentives.
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+ABNT: Associação Brasileira de Normas Técnicas
+ABNT NBR: Norma Brasileira aprovada pela ABNT
+APP: Área de Preservação Permanente
+Bonsucro: Better Sugarcane Initiative
+CTFS: Center for Tropical Forest Science
+ICMS: Imposto sobre a Circulação de Mercadorias e Serviços
+IPI: Imposto sobre Produtos Industrializados
+ISO: International Organization for Standardization
+ISS: Imposto sobre Serviços
+ITR: Imposto sobre a Propriedade Territorial Rural
+MMA: Ministério do Meio Ambiente
+NEI: Nova Economia Institucional
+ONG: Organização Não-Governamental
+PFPSA: Programa Federal de Pagamento por Serviços Ambientais
+PL: Projeto de Lei
+PNMA: Política Nacional do Meio Ambiente
+PNSA: Política Nacional de Serviços Ambientais
+PSA: Pagamento por Serviços Ambientais
+SISNAMA: Sistema Nacional do Meio Ambiente
+UNICA: União da Indústria de Cana-de-Açúcar
+
+SUMÁRIO
+
+1 INTRODUÇÃO ............................................................................................................... 17
+1.1 PROBLEMA DE PESQUISA .................................................................................... 17
+1.2 OBJETIVOS .............................................................................................................. 18
+1.3 JUSTIFICATIVA ....................................................................................................... 19
+1.4 ESTRUTURA DO TRABALHO ................................................................................ 20
+2 METODOLOGIA ........................................................................................................... 22
+2.1 ESTRATÉGIA DE PESQUISA.................................................................................. 23
+2.1.1 Seleção do caso ................................................................................................... 24
+2.1.2 Coleta de dados ................................................................................................... 25
+2.2 PROTOCOLO DE ESTUDO DE CASO .................................................................... 26
+2.2.1 Visão geral do projeto de estudo de caso ............................................................. 26
+2.2.2 Procedimentos de campo ..................................................................................... 27
+2.2.3 Questões do estudo .............................................................................................. 27
+2.2.4 Guia para o relatório do estudo de caso .............................................................. 28
+3 PROTEÇÃO DO MEIO AMBIENTE ........................................................................... 29
+3.1 DIREITO AMBIENTAL ECONÔMICO ................................................................... 29
+3.1.1 Meio ambiente ..................................................................................................... 29
+3.1.2 Transversalidade das normas ambientais ............................................................ 30
+3.2 INTRUMENTOS DE POLÍTICA AMBIENTAL ....................................................... 33
+3.2.1 Instrumentos de comando e controle .................................................................... 35
+3.2.2 Instrumentos econômicos ..................................................................................... 36
+3.3 ESPAÇOS TERRITORIAIS ESPECIALMENTE PROTEGIDOS.............................. 37
+3.4 EXTERNALIDADES POSITIVAS ............................................................................ 41
+4 INTERNALIZAÇÃO DAS EXTERNALIDADES POSITIVAS .................................. 44
+4.1 ASSIMETRIA DE INFORMAÇÃO E CUSTOS DE TRANSAÇÃO ......................... 44
+4.2 MERCANTILIZAÇÃO DO MEIO AMBIENTE........................................................ 47
+4.3 CORREÇÃO DO MERCADO POR MEIO DE INCENTIVOS.................................. 50
+4.4 MENSURAÇÃO DOS BENS NATURAIS ................................................................ 51
+5 RESULTADOS DO ESTUDO DE CASO ...................................................................... 54
+5.1 CONDUTA AMBIENTAL DA USINA ..................................................................... 54
+5.2 COMPORTAMENTO RELATIVO AOS ESPAÇOS PROTEGIDOS ........................ 55
+5.3 ASPECTOS INSTITUCIONAIS DETERMINANTES DO COMPORTAMENTO DO
+AGENTE ......................................................................................................................... 56
+5.4 ANÁLISE DOS RESULTADOS DO ESTUDO DE CASO ........................................ 57
+5.4.1 Análise das hipóteses de trabalho ........................................................................ 58
+
+5.4.2 O papel das instituições ....................................................................................... 59
+5.4.2.1 A função promocional do direito ................................................................... 63
+6 INCENTIVOS À PROTEÇÃO AMBIENTAL .............................................................. 67
+6.1 INCENTIVOS FISCAIS ............................................................................................ 67
+6.2 PAGAMENTO POR SERVIÇOS AMBIENTAIS ...................................................... 70
+6.3 CERTIFICAÇÃO AMBIENTAL ............................................................................... 76
+6.3.1 Fidelização .......................................................................................................... 76
+6.3.2 Marca de certificação .......................................................................................... 77
+6.3.4 Funções do Estado na certificação ...................................................................... 80
+7 CONSIDERAÇÕES FINAIS .......................................................................................... 82
+REFERÊNCIAS .................................................................................................................. 86
+
+17
+
+1 INTRODUÇÃO
+
+1.1 PROBLEMA DE PESQUISA
+
+Desenvolvimento econômico e proteção do meio ambiente são dois conceitos que não podem
+ser analisados de maneira apartada, uma vez que ambos estão relacionados a um mesmo
+objetivo final: o bem-estar individual e coletivo.
+É essencial, contudo, repensar a maneira como interagem entre si. Os recursos naturais não
+são inesgotáveis e o meio ambiente não possui capacidade plena de resiliência, ao mesmo
+tempo em que a atividade econômica não pode parar; ao contrário, cresce cada vez mais para
+atender às novas demandas da população.
+Assim, o desafio atual é compatibilizar essas duas premissas de modo a promover um
+desenvolvimento que seja sustentável não só economicamente, mas também social e
+ambientalmente. O desenvolvimento econômico não pode ser realizado como um fim em si
+mesmo, mas como um meio que garanta possibilidades materiais mínimas (BRANDELLI,
+2011, p. 165) para a consecução do desenvolvimento social, e garantindo-se nesse processo a
+sustentabilidade ambiental.
+Diante desse panorama, uma série de imposições são feitas pelo Direito à atividade
+econômica, estabelecendo-se certos limites a esta para que o processo produtivo não agrida o
+meio ambiente de maneira a comprometer sua sustentabilidade. Verifica-se tal limitação nos
+espaços territoriais especialmente protegidos, áreas geográficas que contêm determinados
+atributos naturais e que, por essa razão, são submetidas a um regime jurídico especial quanto à
+modificabilidade e fruição (SILVA, 2010, p. 231), para a proteção dos valores ambientais ali
+presentes.
+Os espaços protegidos podem ser áreas geográficas públicas ou privadas. Quando são de
+domínio público, vê-se o Poder Público simplesmente executando as atribuições estabelecidas
+a ele pelo ordenamento jurídico, tendo como principal marco o art. 225 da Constituição
+Federal (BRASIL, 1988).
+Por outro lado, no caso de espaços protegidos no âmbito da propriedade privada, surgem
+outras considerações que vão além da questão de ser atribuída a todos a defesa e preservação
+
+18
+
+do meio ambiente. O estabelecimento desses espaços dentro dos limites da propriedade
+privada gera custos ao titular do bem, que vão desde estudos técnicos prévios à implantação
+até a manutenção do espaço, sem se esquecer do ônus de não se poder utilizar essa parte da
+propriedade para a finalidade econômica a que ela se destina.
+A existência dos espaços protegidos resulta em benefícios que são coletivos, na medida em
+que contribuem para a recuperação e preservação do meio ambiente. É o que se chama de
+externalidades positivas, pois por meio da atuação privada dá-se o aumento do bem-estar
+social.
+Os benefícios derivados da preservação dos espaços interessam a toda a coletividade, mas tal
+dever imposto pelo Poder Público deve ser observado levando-se em conta o ônus gerado ao
+particular e a conduta que este terá frente à imposição. Pois, embora a determinação legal vise
+a objetivos os mais benéficos possíveis, os custos podem atuar como fator que irá inibir a
+eficácia social da norma e, como consequência, fazer com que a proteção não seja factível.
+Discute-se, então, se é possível, e por quais mecanismos, a internalização das externalidades
+positivas, visando a diminuir os custos que recaem sobre o agente econômico para que, com
+isso, a proteção ambiental seja estimulada e verificada de fato.
+Assim, apresenta-se o problema do trabalho: estudar o comportamento do agente econômico
+diante das externalidades positivas e custos derivados dos espaços protegidos em áreas
+agrícolas, com o objetivo de analisar se ele internaliza essas externalidades e custos e como o
+faz; para que se verifiquem as implicações econômicas sobre a concretização da proteção
+ambiental e como ela pode ser incentivada.
+
+1.2 OBJETIVOS
+
+O objetivo geral do estudo é analisar o comportamento do agente econômico frente às
+externalidades positivas geradas pelos espaços protegidos. Vinculados ao interesse central da
+pesquisa, foram delineados os seguintes objetivos específicos:
+
+
+Estudar os custos de transação relacionados à criação e/ou manutenção do espaço
+protegido na área de produção sucroenergética;
+
+
+
+Analisar possíveis mecanismos de internalização de externalidades positivas;
+
+19
+
+
+
+Verificar se o agente econômico pratica a internalização;
+
+
+
+Analisar se esses custos são manejados pelo agente de modo a não comprometer seu
+lucro nem a implementação dos espaços protegidos; e se a possibilidade de
+internalização das externalidades atua de maneira favorável à proteção ambiental.
+
+1.3 JUSTIFICATIVA
+
+A preocupação com o meio ambiente, cada vez maior em razão das mudanças globais que
+vêm sendo observadas, esbarra na questão do desenvolvimento econômico. O desafio atual é
+compatibilizar tal desenvolvimento com a proteção ambiental, tendo em vista que são
+interdependentes.
+Os espaços protegidos em áreas de produção agrícola ilustram bem o conflito entre meio
+ambiente e atividade econômica. Muitas vezes as normas ambientais deixam de ser atendidas
+porque o agente econômico prefere incorrer no risco de sofrer a sanção se acreditar que este é
+menor do que o potencial ganho ao explorar a área que deveria ser preservada.
+Deve-se atentar à finalidade a que se destina a construção jurídica acerca da proteção
+ambiental, especificamente as disposições sobre espaços protegidos. Se o objetivo é a
+proteção eficaz do meio ambiente, o esforço deve ser no sentido de torná-la exequível, para
+que seja de fato concretizada. Dessa forma, o trabalho busca analisar quais estratégias
+poderiam ser utilizadas frente a essa questão.
+A unidade de análise do estudo de caso é uma usina de cana-de-açúcar em razão da
+expressividade do setor sucroenergético, que utiliza grande parcela do território nacional
+como área agrícola. Isso indica que, proporcionalmente, há uma relevante dimensão territorial
+que deve ser preservada, constituída sobretudo por áreas de preservação permanente e reserva
+legal.
+Pelo motivo de ser o etanol um bem cujas informações sobre o processo produtivo são difíceis
+de serem obtidas pelo consumidor, são altos os custos que incidem na atividade,
+especificamente os resultantes da assimetria de informação relativa à produção das
+externalidades positivas, como as decorrentes da proteção ambiental.
+
+20
+
+Por tais razões, o trabalho se propõe a estudar qual a conduta do agente econômico diante das
+externalidades positivas e custos derivados dos espaços protegidos, para que se possa entender
+se a internalização das externalidades possibilitaria a diminuição dos custos que recaem sobre
+o agente – custos esses que diminuem a eficiência econômica e desestimulam a criação e
+manutenção de áreas protegidas – e se, dessa forma, estimularia a proteção ambiental.
+
+1.4 ESTRUTURA DO TRABALHO
+
+No capítulo 2 descreve-se a metodologia do trabalho, cuja estratégia de pesquisa é a
+realização de um estudo de caso e que utiliza o método indutivo de análise. O capítulo explica
+a seleção do caso, a coleta dos dados e traz o protocolo de estudo, que orienta a realização da
+pesquisa e análise dos resultados.
+O capítulo 3 versa sobre o meio ambiente e sua proteção. Trata da tutela jurídica do meio
+ambiente, a partir do estudo do ordenamento jurídico nacional e dos instrumentos de política
+ambiental. Em seguida, apresenta os conceitos de espaços territoriais especialmente
+protegidos e externalidades positivas.
+Para estudar a internalização das externalidades positivas expostas no capítulo anterior, o
+capítulo 4 utiliza, ao lado dos conceitos jurídicos, uma abordagem econômica para tratar da
+assimetria de informação e dos custos de transação. São apresentadas duas teorias sobre
+internalização das externalidades – a mercantilização do meio ambiente e a correção do
+mercado por meio de incentivos – e, na seção seguinte, é abordada a questão da mensuração
+dos bens naturais, dificuldade inerente a ambas as teorias.
+O capítulo 5 trata dos resultados do estudo de caso. Apresentam-se os dados e conclusões
+sobre a conduta ambiental da usina de cana-de-açúcar, obtidos por meio da pesquisa empírica.
+Os resultados são analisados a partir dos dados do estudo de caso e dos aportes teóricos já
+abordados. Verificam-se as hipóteses de trabalho e, por fim, analisa-se o papel das instituições
+e, especificamente, do direito quanto à defesa do meio ambiente.
+No capítulo 6 apresentam-se mecanismos de incentivo à proteção ambiental, como propostas
+teóricas para a atuação estatal. São tratados os incentivos fiscais, o pagamento por serviços
+ambientais e a certificação.
+
+21
+
+As considerações finais são apresentadas no capítulo 7. Após, são elencadas as referências do
+trabalho.
+
+22
+
+2 METODOLOGIA
+
+O trabalho busca conhecer o comportamento do agente econômico diante dos custos da
+proteção ambiental. Para tanto, utiliza o método indutivo, que proporciona conclusões cujo
+conteúdo é muito mais amplo que o das premissas nas quais se basearam. A indução é
+realizada em três etapas, a observação dos fenômenos, a descoberta da relação entre eles e,
+por fim, a generalização da relação (MARCONI; LAKATOS, 2007, p. 86-87).
+Como principais aportes teóricos são utilizados o Direito Ambiental e a Nova Economia
+Institucional (NEI). O Direito Ambiental permite o estudo da proteção ambiental, sem se
+descuidar da ótica econômica que permeia a relação entre o ser humano e o meio ambiente, e
+a descrição dos espaços protegidos, analisando-se o que são, a que se destinam e a sua
+previsão no ordenamento jurídico.
+A NEI proporciona a análise dos custos de transação e das externalidades positivas, para que
+se possa analisar se o agente percebe as externalidades positivas que produz e os custos
+relacionados a elas; se as internaliza e quais mecanismos utiliza para isso; e se a
+internalização viabiliza a manutenção, ou até mesmo incremento, da proteção ambiental,
+verificando-se qual a relevância das instituições nesse processo.
+Em um primeiro momento é realizada uma abordagem teórica sobre a proteção ambiental,
+especificamente quanto aos espaços protegidos, e sobre as externalidades positivas, assimetria
+de informações e custos. Estuda-se a relação entre a questão ambiental e os aspectos
+econômicos a ela inerentes, à luz do paradigma da sustentabilidade. Em seguida, são
+estudadas as possibilidades de internalização das externalidades positivas.
+Esse desenvolvimento teórico preliminar proporciona o substrato necessário para a execução
+da pesquisa de campo, a partir da qual são analisados os resultados e verificadas as hipóteses
+do trabalho. Parte-se dos dados colhidos empiricamente para realizar nova investigação
+teórica sobre mecanismos de incentivo à proteção ambiental, buscando-se a comunicação
+entre teoria e prática, que auxilie a análise indutiva proposta.
+
+23
+
+2.1 ESTRATÉGIA DE PESQUISA
+
+A estratégia de pesquisa é o estudo de caso. Essa forma de pesquisa investiga um fenômeno
+contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre o
+fenômeno e o contexto não estão claramente definidos, e é indicada em pesquisas que buscam
+responder questões do tipo “como” ou “por que” e que não exijam controle sobre os eventos
+estudados (YIN, 2001, p. 19; 32).
+O objetivo do estudo de caso é expandir e generalizar teorias, e não enumerar frequências.
+Dessa forma, suas conclusões são generalizáveis a proposições teóricas e não a populações ou
+universos (YIN, 2001, p. 29). Com o objetivo de construir teorias, a pesquisa qualitativa, aqui
+realizada, possibilita a análise mais aprofundada do problema do trabalho.
+Segundo Robert Yin (2001, p. 42), um projeto de pesquisa de estudo de caso deve ser
+composto por cinco componentes: as questões de estudo; as proposições de estudo; a unidade
+de análise; a lógica que une os dados às proposições; e os critérios para interpretar as
+constatações.
+As questões de estudo referem-se à internalização das externalidades positivas derivadas da
+proteção ambiental. A partir disso são desenvolvidas as proposições de estudo, chamadas de
+hipóteses de trabalho.
+Se um problema de pesquisa pode ser visto como uma indagação, a hipótese é uma resposta
+plausível e provisória para essa indagação, a ser testada no processo de investigação (ALVESMAZZOTTI; GEWANDSZNAJDER, 1998, p. 157). Segundo Marconi e Lakatos (2007, p.
+133-134), as principais funções das hipóteses são:
+i) generalizar uma experiência, quer resumindo, quer ampliando os dados empíricos
+disponíveis; ii) desencadear inferências, atuando como afirmações ou conjecturas
+iniciais sobre o “caráter”, a “quantidade” ou as “relações” entre os dados; iii) servir
+de guia à investigação; iv) atuar na tarefa de interpretação (hipóteses explicativas) de
+um conjunto de dados ou de outras hipóteses; v) funcionar como proteção de outras
+hipóteses.
+
+A pesquisa tem como hipóteses de trabalho: i) os custos da proteção ambiental são altos, pois
+as externalidades positivas geradas não são diretamente remuneradas; ii) apesar dos custos
+incidentes, utilizando estratégias de redução das assimetrias informacionais os agentes
+
+24
+
+conseguem obter lucro; iii) a partir da redução de assimetria e obtenção de lucro, há um
+incentivo à continuidade da proteção ambiental.
+As hipóteses buscam evidenciar que a internalização das externalidades positivas são úteis ao
+agente econômico e importantes para que as práticas de proteção do meio ambiente continuem
+a ser realizadas.
+
+2.1.1 Seleção do caso
+
+A unidade de análise da pesquisa é a proteção ambiental no contexto da usina de cana-deaçúcar. Em razão do estudo de caso se caracterizar como uma pesquisa cujo objeto é uma
+unidade que será analisada profundamente (GODOY, 1995, p. 25), decidiu-se pelo estudo de
+um caso que seja representativo para que se verifiquem as hipóteses.
+Optou-se por analisar a questão das externalidades positivas advindas da proteção ambiental
+no contexto de uma usina de cana-de-açúcar em razão do plantio da cana-de-açúcar ocupar no
+Brasil, um dos maiores produtores mundiais, cerca de 8,49 milhões de hectares, o que
+representa 2,3% das terras aráveis do país (NEVES; TROMBIN; CONSOLI, 2010, p. 38).
+A cana ocupa uma área expressiva, o que leva à constatação de que, atendidas as exigências
+legais de manutenção de espaços protegidos, é significativa a área em que deve haver
+proteção ambiental (sobretudo em relação a áreas de preservação permanente e reserva legal),
+no âmbito dessa área total que o setor sucroenergético detém.
+Além disso, há o motivo de ser o etanol um bem cujas informações sobre o processo
+produtivo são difíceis de serem obtidas pelo consumidor, o que gera altos custos que incidem
+na atividade, especificamente os resultantes da assimetria de informação relativa à produção
+das externalidades positivas, como as decorrentes da proteção ambiental.
+Para a seleção do caso, foi realizada uma entrevista com o assessor de responsabilidade
+ambiental da União da Indústria de Cana-de-Açúcar (UNICA), Daniel Lobo, em que foram
+expostos os objetivos do trabalho e esclarecida a necessidade de realizar o estudo de caso com
+uma usina que desenvolvesse práticas ambientais de modo voluntário, e não em razão de
+termo de ajustamento de conduta.
+
+25
+
+Foi indicada, então, a Usina X, que será assim tratada em razão de não ter sido autorizada a
+divulgação do nome, fator que não interfere no resultado da pesquisa. A usina é produtora de
+cana, açúcar, etanol e levedura seca. Está localizada na região central do estado de São Paulo,
+em uma área que abrange 11 municípios, totalizando 41.000 hectares de plantação de cana-deaçúcar.
+A usina desenvolve algumas ações de proteção ambiental além das exigidas pela legislação e,
+sendo voluntária sua conduta, a escolha possibilita estudar os motivos pelos quais a usina
+preserva e pratica a responsabilidade ambiental, e como internaliza as externalidades positivas
+produzidas.
+
+2.1.2 Coleta de dados
+
+As fontes de informação utilizadas no estudo de caso foram entrevistas e documentos. Os
+documentos podem fornecer informações específicas para corroborar outras informações
+obtidas por meio de demais fontes (YIN, 2001, p. 109). A entrevista é importante fonte e,
+como apontam Marconi e Lakatos (2007, p. 200), oferecem vantagens como uma maior
+flexibilidade, podendo o entrevistador repetir ou esclarecer perguntas, especificar algum
+significado; e possibilita a obtenção de dados que não se encontram em fontes documentais e
+que sejam relevantes e significativos.
+As entrevistas se realizaram de modo semiestruturado, pois foi elaborado um roteiro
+previamente estabelecido, com perguntas predeterminadas (MARCONI; LAKATOS, 2007, p.
+199), mas ao mesmo tempo foram conduzidas com certa espontaneidade, permitindo ao
+entrevistado que apresentasse sua opinião sobre o fato (YIN, 2001, p. 112) e, de acordo com
+isso, conduziu-se a entrevista por outras direções além das preestabelecidas.
+As entrevistas foram realizadas com o Supervisor de Sustentabilidade e Garantia de
+Qualidade, uma Engenheira Florestal responsável pela Divisão Agrícola da empresa e um
+Analista de Sustentabilidade.
+Para cada um dos entrevistados houve um roteiro diferenciado a ser seguido, de acordo com a
+função exercida por eles. Os objetivos das entrevistas eram auxiliar a compreensão do
+Programa Ambiental Y1 desenvolvido pela usina, a análise de como a responsabilidade
+1
+
+Adotou-se essa denominação para evitar a identificação da Usina.
+
+26
+
+ambiental desenvolvida pela empresa influencia na sua reputação e se isso contribui para a
+redução da assimetria informacional e custos relacionados à proteção ambiental desenvolvida
+pela usina.
+
+2.2 PROTOCOLO DE ESTUDO DE CASO
+
+O protocolo para o estudo de caso tem um caráter instrumental, pois orienta o pesquisador a
+como realizar a coleta de dados, mas também compreende os procedimentos e regras gerais
+que devem ser seguidos ao se utilizar o instrumento do estudo de caso. Ele aumenta a
+confiabilidade da pesquisa e deve ser composto das seguintes seções: i) visão geral do projeto
+de estudo de caso; ii) procedimentos de campo; iii) questões do estudo de caso; iv) guia para o
+relatório do estudo de caso (YIN, 2001, p. 89-91). O protocolo do trabalho está descrito a
+seguir.
+
+2.2.1 Visão geral do projeto de estudo de caso
+
+O estudo tem como ponto central os espaços protegidos, que viabilizam a proteção do meio
+ambiente, e os custos que recaem sobre o particular para criação, manutenção ou
+melhoramento de tais espaços.
+Essas áreas protegidas geram externalidades positivas que o particular pode tentar
+internalizar, visando à diminuição dos gastos com as áreas. Com isso, a internalização pode
+servir como fator estimulante à proteção ambiental.
+Para analisar esse contexto, a pesquisa foi dividida nas seguintes fases:
+
+
+Análise da base conceitual (Direito Ambiental e Nova Economia Institucional);
+
+
+
+Levantamento das hipóteses;
+
+
+
+Coleta de dados (estudo de caso);
+
+
+
+Análise do caso;
+
+
+
+Conclusão.
+
+27
+
+2.2.2 Procedimentos de campo
+
+Os procedimentos de campo se iniciaram já na fase de elaboração do projeto de pesquisa, com
+o contato com o assessor de responsabilidade ambiental da União da Indústria de Cana-deAçúcar (UNICA), Daniel Lobo, a quem foi apresentada a proposta de pesquisa.
+Como tratado no item 2.1.1, foram expostos ao representante da UNICA os objetivos do
+trabalho e esclarecida a necessidade de realizar o estudo de caso com uma usina que
+desenvolvesse práticas ambientais de modo voluntário. Considerando-se, então, esses fatores,
+foi indicada a Usina X para constituir a unidade de análise do estudo.
+Apresentou-se o projeto de pesquisa à usina e, por meio de contato telefônico e envio de
+mensagem eletrônica, ela foi convidada a participar do estudo. Após o aceite, iniciou-se a
+coleta de dados por meio de documentos e entrevistas, realizadas durante visita à usina.
+
+2.2.3 Questões do estudo
+
+De acordo com Robert Yin (2001, p. 95), as questões do estudo são um conjunto de questões
+substantivas que refletem a investigação real do caso. Não são as mesmas utilizadas no
+instrumento de coleta de dados, pois as questões do estudo são voltadas ao próprio
+pesquisador e acompanhadas de uma lista de fontes prováveis de evidência.
+
+Quadro 1: Questões do estudo
+
+Questões relevantes
+
+Fontes de evidência
+
+Quais são os motivos que levam a empresa a Entrevista
+
+com
+
+preservar o meio ambiente (imposição legal, Sustentabilidade
+reputação da empresa, marketing etc)?
+
+com
+
+ambiental, a empresa preserva além das imposições Sustentabilidade
+
+Garantia
+
+de
+
+Supervisor
+
+de
+
+e
+
+Garantia
+
+de
+
+Qualidade e Engenheira Florestal
+
+Quais estratégias a usina utiliza para reduzir as Entrevistas
+
+com
+
+assimetrias informacionais e, assim, também os Sustentabilidade
+custos de transação? E em que medida obtém êxito?
+
+de
+
+Qualidade
+
+Para alcançar os seus objetivos relativos à proteção Entrevistas
+
+legais?
+
+e
+
+Supervisor
+
+Qualidade
+
+e
+
+Sustentabilidade
+
+e
+
+Supervisor
+
+de
+
+Garantia
+
+de
+
+Analista
+
+de
+
+28
+
+As estratégias listadas acima contribuem para que a Entrevista
+
+com
+
+usina se sinta estimulada a manter/aumentar a Sustentabilidade
+proteção ambiental? Se não, como esse estímulo Qualidade
+poderia ocorrer?
+
+e
+
+e
+
+Supervisor
+
+de
+
+Garantia
+
+de
+
+Analista
+
+de
+
+Supervisor
+
+de
+
+Garantia
+
+de
+
+Supervisor
+
+de
+
+Garantia
+
+de
+
+Sustentabilidade
+
+Como o mecanismo de pagamento por serviços Entrevista
+
+com
+
+ambientais poderia influenciar o comportamento da Sustentabilidade
+
+e
+
+usina quanto à proteção ambiental? Quais outros Qualidade
+incentivos poderiam ser oferecidos?
+A
+
+política
+
+de
+
+responsabilidade
+
+ambiental Entrevistas
+
+desenvolvida pela usina agrega valor a esta?
+
+com
+
+Sustentabilidade
+
+e
+
+Qualidade
+
+2.2.4 Guia para o relatório do estudo de caso
+
+Foi elaborado um relatório do estudo de caso seguindo a estrutura abaixo descrita, para
+auxiliar o planejamento e análise do estudo de caso:
+ Histórico da usina de cana-de-açúcar;
+ Descrição das atividades praticadas pela empresa visando à proteção ambiental;
+ Análise das estratégias da usina para internalizar as externalidades positivas geradas
+pelas áreas protegidas;
+ Conclusão.
+
+29
+
+3 PROTEÇÃO DO MEIO AMBIENTE
+
+3.1 DIREITO AMBIENTAL ECONÔMICO
+
+3.1.1 Meio ambiente
+
+Meio ambiente é o espaço onde se encontram os recursos naturais, inclusive aqueles já
+transformados ou degenerados (DERANI, 2008, p. 52). Não obstante, conforme acrescenta
+Cristiane Derani, esse conceito não pode ser reduzido aos elementos tais como ar, água e
+terra, e sim deve ser considerado inclusive como o “conjunto das condições de existência
+humana, que integra e influencia o relacionamento entre os homens, sua saúde e seu
+desenvolvimento”.
+Em outras palavras, o meio ambiente é a interação do conjunto de elementos naturais,
+artificiais e culturais que propiciem o desenvolvimento equilibrado da vida em todas as suas
+formas (SILVA, 2010, p. 18). E pode ser considerado em duas diferentes facetas: o meio
+ambiente artificial e o meio ambiente natural.
+O meio ambiente artificial abarca o meio ambiente construído (urbano e rural); o meio
+ambiente cultural – que difere do meio ambiente construído em razão do sentido especial que
+adquiriu –, composto pelo patrimônio histórico, artístico, paisagístico e turístico; e o meio
+ambiente do trabalho, que é o local onde é exercida a atividade laboral do trabalhador
+(SILVA, 2010, p. 19; FIGUEIREDO, 2009, p. 46).
+A outra faceta é o meio ambiente natural, integrado pela água, ar, terra e biodiversidade, onde
+ocorre toda a interação dos seres vivos e seu meio (SILVA, 2010, p. 19). É este último
+aspecto que é tratado pela Política Nacional do Meio Ambiente (Lei nº 6938/81) e que
+compõe a abordagem do presente trabalho.
+Como se percebe, falar sobre meio ambiente não equivale a falar simplesmente sobre
+biodiversidade e meio físico isolados do contato humano. Não se olvida que a natureza possui
+um valor intrínseco, chamado de valor de existência, decorrente do simples fato de ela existir,
+de subsistir em suas características inerentes, independentemente de qualquer utilidade que
+
+30
+
+possa proporcionar. No entanto, não se pode dissociá-la completamente do aspecto humano,
+uma vez que a própria existência do homem está a ela vinculada.
+
+3.1.2 Transversalidade das normas ambientais
+
+Atualmente, a proteção ambiental se desdobra em dupla dimensão: como bem autônomo e
+como pressuposto da vida humana (LEITE; PILATI; JAMUNDÁ, 2005, p. 618). Ela engloba
+todas as medidas destinadas à manutenção e melhoria das bases naturais da vida, e também
+aquelas para evitar ou minimizar danos e utilizar racionalmente os recursos naturais
+(DERANI, 2008, p. 227).
+A Constituição Federal de 1988 não deixou de tratar o direito ao meio ambiente sob um
+aspecto subjetivo, ao dispor no caput do art. 225 que todos têm direito ao meio ambiente
+ecologicamente equilibrado (BRASIL, 1988). No entanto, foi além da concepção
+individualista, reputando-o bem de uso comum do povo e essencial à sadia qualidade de vida,
+como valor autônomo juridicamente considerado, o qual se destina inclusive a limitar o
+exercício de direitos subjetivos (LEITE; PILATI; JAMUNDÁ, 2005, p. 620), tal como ocorre
+ao direito de propriedade.
+A Constituição estabelece um poder-dever em relação ao meio ambiente: confere a todos o
+direito fundamental ao meio ambiente ecologicamente equilibrado e, simultaneamente, impõe
+ao poder público e à coletividade o dever de defendê-lo. Há o compartilhamento de
+responsabilidades e obrigações que cabem não só ao Estado, mas também aos particulares,
+pessoas físicas ou jurídicas.
+É necessário um patamar mínimo de qualidade ambiental para o exercício da vida humana em
+níveis dignos, pois o equilíbrio ecológico constitui pré-requisito do gozo dos direitos
+fundamentais mais essenciais, como os direitos à vida e à saúde (SARLET;
+FENSTERSEIFER, 2011, p. 90; CARVALHO, E., 2010, p. 448). Por outro lado, deve-se
+reconhecer que a concretização de uma qualidade de vida satisfatória está intrinsecamente
+relacionada à forma como a sociedade apreende e transforma seus recursos, ou seja, como
+desenvolve sua atividade econômica (DERANI, 2008, p. 224).
+Segundo Paulo de Bessa Antunes (2010, p. 9), considerar a natureza como recurso é
+reconhecê-la como base material da vida em sociedade. O homem não é elemento externo ao
+
+31
+
+meio ambiente, está nele compreendido como parte de um conjunto de relações econômicas,
+sociais e políticas construídas a partir da apropriação dos bens naturais, que se transformam
+em recursos essenciais para a vida humana em quaisquer de seus aspectos.
+Economia e meio ambiente são partes integrantes e dispersas no mesmo todo, seja porque se
+considere que este é fonte de recurso para aquele, seja pelo fato de que o meio ambiente é a
+integração e interação dos seres vivos com o meio, e a Economia é uma maneira pela qual o
+homem interage com seu mundo (D‟ISEP, 2004, p. 39)2.
+O desenvolvimento econômico sempre esteve ligado à necessidade de avanço sobre as áreas
+florestais e seus recursos. Dadas as atuais proporções do desastre ambiental decorrente,
+sobretudo, das atividades econômicas e do consumo, surgiu a preocupação recente de se frear
+tamanha devastação, como garantia de sobrevivência digna da atual e das futuras gerações.
+Em razão disso, o Direito busca organizar a maneira pela qual a sociedade se utiliza dos
+recursos naturais (ANTUNES, 2010, p. 3), estabelecendo limites à atividade predatória do ser
+humano. Entretanto, as normas ambientais não são entraves ao desenvolvimento econômico,
+pois não impedem que ele ocorra, apenas se destinam a balizar o modo como ele deve ocorrer,
+indicando que o desenvolvimento sustentável é a diretriz a guiar as atividades humanas,
+inclusive as econômicas.
+Como enfatiza Juarez Freitas (2011, p. 50), o desenvolvimento aparece de modo expresso na
+Constituição, mas a sustentabilidade desponta como um princípio constitucional-síntese a
+guiá-lo, porque o único desenvolvimento que interessa é aquele que se constitui mutuamente
+com a sustentabilidade3.
+Nessa direção, Ingo Sarlet e Tiago Fensterseifer (2011, p. 125) afirmam que a Constituição
+Federal de 1988 optou por um capitalismo socioambiental (ou economia socioambiental de
+mercado), voltada a compatibilizar, sob a perspectiva do desenvolvimento sustentável, a livre
+2
+
+Nesse sentido, recorde-se que os termos “economia” e “ecologia” derivam da mesma palavra grega oikos, que
+significa casa.
+3
+Sustentabilidade, segundo o autor, vai além do conceito atualmente limitado de ser a capacidade da geração
+presente de suprir suas necessidades sem afetar a possibilidade das gerações futuras de suprir as suas. Para o
+autor, “trata-se do princípio constitucional que determina, independentemente de regulamentação legal, com
+eficácia direta e imediata, a responsabilidade do Estado e da sociedade pela concretização solidária do
+desenvolvimento material e imaterial, socialmente inclusivo, durável e equânime, ambientalmente limpo,
+inovador, ético e eficiente, no intuito de assegurar, preferencialmente de modo preventivo e precavido, no
+presente e no futuro, o direito ao bem-estar físico, psíquico e espiritual, em consonância homeostática com o
+bem de todos”, entendida a homeostase como a capacidade biológica e institucional de promover o reequilíbrio
+dinâmico (FREITAS, 2011, p. 15; 40-41).
+
+32
+
+iniciativa, a autonomia privada e a propriedade privada com a proteção ambiental e a justiça
+social, como se pode depreender dos princípios que regem a ordem econômica (BRASIL,
+1988, art. 170).
+Assim, a defesa do meio ambiente se apresenta como um princípio basilar da ordem
+econômica, pois é condição para o desenvolvimento da atividade econômica. Por outro lado,
+tem seu conteúdo ampliado e aparece no art. 225 da Constituição como um direito
+fundamental (DERANI, 2008, p. 244)4.
+Segundo Cristiane Derani (2008, p. 244), o que constitui o vínculo axiológico entre a
+realização da ordem econômica e a prática de proteção ao meio ambiente é o princípio da
+dignidade da pessoa humana. A afirmação da autora vem ao encontro da ideia já apresentada
+de que a proteção ambiental e a atividade econômica possuem um escopo comum, o de
+promover o bem estar. Assim, esta é a principal razão por que ambos os temas não são
+possíveis de serem tratados de maneira desconexa, o próprio ordenamento jurídico deve ser
+analisado em seu conjunto, como um sistema.
+Sob esse esteio, o trabalho utilizou a expressão “Direito Ambiental Econômico” por pretender
+apresentar a problemática ambiental sob o viés de que ela não pode ser tratada com um olhar
+meramente conservacionista e apartado da realidade econômica; e sim sob um ponto de vista
+mais próximo da complexidade inerente às relações humanas, nas quais Direito, Ecologia e
+Economia constituem quase sempre um grande emaranhado.
+Decorre da complexidade dessa temática o fato de o Direito Ambiental possuir uma relação
+transversal com os demais ramos do Direito, pois as normas ambientais tendem a incidir nas
+demais normas jurídicas, fazendo com que cada uma delas leve em conta a proteção
+ambiental. Assim, o Direito Ambiental atua como um direito de coordenação (ANTUNES,
+2010, p. 20-21), exigindo que o raciocínio e a prática ambiental não sejam setorializados.
+As normas ambientais não formam um corpo único, estão presentes nos mais diversos ramos
+do Direito, dando-lhes um enfoque diferente. Isto é, por força das normas ambientais que
+
+4
+
+“O princípio da defesa do meio ambiente conforma a ordem econômica (mundo do ser), informando
+substancialmente os princípios da garantia do desenvolvimento e do pleno emprego. Além de objetivo, em si, é
+instrumento necessário – e indispensável – à realização do fim dessa ordem, o de assegurar a todos existência
+digna. Nutre também, ademais, os ditames da justiça social. Todos têm direito ao meio ambiente ecologicamente
+equilibrado, bem de uso comum do povo – diz o art. 225, caput” (GRAU, 2010, p. 256).
+
+33
+
+neles estão incorporadas, cada ramo deve se voltar à proteção do meio ambiente (PHILIPPI
+JÚNIOR; RODRIGUES, 2005, p. 10).
+Logo, essas diretrizes de atenção integrada à proteção ambiental devem ser observadas pelo
+Poder Público ao cumprir sua tarefa constitucional de promover um meio ambiente
+ecologicamente equilibrado. Para tanto, ele pode se utilizar de uma série de instrumentos de
+política ambiental, sobre os quais se tratará a seguir.
+
+3.2 INTRUMENTOS DE POLÍTICA AMBIENTAL
+O compromisso do Estado de buscar o desenvolvimento sustentável exige que pratique tanto
+ações positivas quanto negativas. No tocante à proteção ambiental, deve ter uma postura
+positiva no sentido de fiscalização das atividades e, ao mesmo tempo, de promoção de
+atitudes benéficas ao meio ambiente, incentivando-as financeiramente, por exemplo. Por outro
+lado, precisa realizar ações negativas, como não permitir ou financiar atividades que causem
+degradação sem apresentar as devidas medidas de mitigação (SOARES, 2005, p.556). Essas
+ações praticadas pelo Estado são chamadas de políticas públicas ambientais.
+A evolução histórica das políticas públicas ambientais pode ser dividida em quatro
+abordagens básicas, que foram se sucedendo de forma não excludente, ou seja, o início de
+uma fase da política ambiental não significa o completo abandono das formas antigas de
+atuação do Estado. Pelo contrário, houve apenas o aprimoramento da estratégia de proteção
+do meio ambiente, que foi se tornando multifacetada e integrada.
+A primeira delas é o enfoque da administração dos recursos naturais, que iniciou a
+regulamentação da forma de apropriação desses recursos (PHILIPPI JÚNIOR; BRUNA;
+SILVEIRA, 2005, p. 797-798). São exemplos dessa abordagem de política ambiental o
+Código de Águas (Decreto nº 24643, de 1934), o Estatuto da Terra (Lei nº 4504, de 1964) e o
+Código Florestal de 1965 (Lei nº 4771, de 1965).
+A abordagem seguinte visa ao controle da poluição ambiental. Iniciou-se como decorrência do
+desenvolvimento industrial brasileiro e consequente poluição gerada, que demonstraram a
+necessidade de intervenção do Estado. Assim surgiu, por exemplo, o estabelecimento de
+padrões, que determinam limites quantitativos dentro dos quais a atividade está “autorizada a
+degradar” sem que se comprometa a qualidade ambiental desejada.
+
+34
+
+A terceira diz respeito ao planejamento territorial, que reflete a compreensão do processo de
+ocupação do espaço e distribuição dos recursos naturais e de infra-estrutura. Nesse contexto
+surgiu o zoneamento.
+Por fim, passou-se a buscar a gestão integrada de recursos, para tornar mais eficientes os
+meios de administração ambiental e integrá-los sob um único sistema, objetivando superar a
+visão facetada com que eram aplicados os mecanismos de política ambiental até o momento.
+O marco histórico dessa abordagem é a Política Nacional do Meio Ambiente (Lei nº 6938, de
+1981), a partir da qual a proteção ambiental passou a ser compreendida de forma unívoca e
+globalizada, o que se chama de “visão holística do meio ambiente” (RODRIGUES, 2008, p.
+128).
+De acordo com Ana Maria Nusdeo (2010b, p. 402), com a Política Nacional do Meio
+Ambiente (PNMA), pela primeira vez este é visto como um conjunto, e o objeto protegido
+passa a ser o equilíbrio ambiental e a gestão integrada dos diferentes recursos naturais.
+Foram estabelecidos objetivos, princípios e instrumentos que orientam a implementação da
+política até hoje e criou-se uma estrutura institucional para sua execução, o Sistema Nacional
+do Meio Ambiente (SISNAMA).
+Os instrumentos de política ambiental podem ser divididos em dois grupos principais, os
+instrumentos de comando e controle, também chamados de regulação direta, e os
+instrumentos econômicos, ou de mercado, que serão abordados a frente.
+A evolução dos instrumentos utilizados pelo Poder Público para tutelar o meio ambiente
+resulta da necessidade de uma estratégia multifacetada, pois o problema ambiental é muito
+maior do que a capacidade de ser solucionado por um só mecanismo, como a simples criação
+de padrões. São necessárias ações das mais variadas espécies e que estejam concatenadas
+entre si, para que se possa enfrentar o desafio de reverter a degradação ambiental.
+Nesse passo, o dever do Estado de proteger o meio ambiente engloba também o dever de
+evitar riscos, adotando uma postura preventiva, para se antecipar ao dano ambiental
+(SARLET; FENSTERSEIFER, 2011, p. 183). O Direito Ambiental Econômico deve ir além
+do mero poder de polícia, uma vez que pode exercer a função de orientar as forças produtivas
+em uma determinada direção, visando à utilização racional dos recursos naturais (ANTUNES,
+2010, p. 13).
+
+35
+
+Todavia, mesmo que se tenha constatado que a política ambiental evoluiu no decorrer das
+últimas décadas, ela ainda carece de efetividade, o que resulta, dentre outros fatores, da
+insuficiência de quadros administrativos, de suas condições de trabalho e da incipiente
+educação ambiental no país, segundo pondera Ana Maria Nusdeo (2010b, p. 403). Acrescenta
+a autora que é necessária a articulação da política ambiental a outras políticas setoriais que
+possam vir a impactar sobre o meio ambiente, admitindo-se a característica de
+transversalidade da questão.
+
+3.2.1 Instrumentos de comando e controle
+
+Os instrumentos de controle são aqueles que fixam normas, regras, procedimento e padrões
+determinados para as atividades com a finalidade de assegurar o cumprimento dos objetivos
+da política em questão (NUSDEO, 2006, p. 364).
+São exemplos de instrumentos de comando e controle das políticas ambientais o controle ou
+proibição de determinado produto; licenciamento ambiental; proibição ou restrição de
+atividades; especificações tecnológicas; controle do uso de recursos naturais; estabelecimento
+de padrões de qualidade ambiental etc.
+Esses instrumentos estão relacionados ao poder de polícia do Estado, atividade que consiste
+em limitar o exercício de direitos individuais em favor do interesse público (DI PIETRO,
+2008, p. 117), no caso, a proteção do meio ambiente.
+Por se tratar da descrição de um comportamento obrigatório que, se descumprido, implica
+sanções diversas para o agente (NUSDEO, 2010a, p.119), requer contínua e efetiva
+fiscalização por parte dos órgãos reguladores, implicando altos custos de implementação, pois
+necessita de uma estrutura adequada para aplicação das regras de controle (LUSTOSA;
+CÁNEPA; YOUNG, 2003, p.142; NUSDEO, 2006, p. 365).
+A atuação dos órgãos ambientais exercendo função de controle pode ser preventiva ou
+repressiva. No entanto, o que comumente se verifica é que a ação desses órgãos é reativa,
+sendo que a expansão de suas atividades é normalmente resultado do agravamento de
+problemas não-resolvidos (LUSTOSA; CÁNEPA; YOUNG, 2003, p.151).
+Devido a essa característica reativa, que não condiz com os princípios da precaução e da
+prevenção que regem o Direito Ambiental, além dos problemas de fiscalização em razão da
+
+36
+
+escassez de recursos humanos e financeiros, critica-se a ineficiência dos instrumentos de
+comando e controle. Por isso, cada vez mais se enfatiza a aplicação complementar dos
+instrumentos econômicos.
+
+3.2.2 Instrumentos econômicos
+
+Os instrumentos econômicos atuam diretamente nos custos de produção e consumo
+(majorando-os ou diminuindo-os) dos agentes econômicos cujas atividades estejam
+relacionadas aos objetivos da política pública (MOTTA, 2000, p. 88). Servem a duas
+principais funções: internalização de determinados custos sociais positivos ou negativos e
+indução de comportamentos sociais (NUSDEO, 2010a, p. 117).
+Ana Maria Nusdeo (2006, p. 366-368) classifica os instrumentos econômicos do Direito
+Ambiental em duas categorias: instrumentos precificados, que provocam alteração dos preços
+de bens e serviços; e instrumentos de criação de mercado, que alocam direitos de uso dos
+recursos naturais ou de emissão de poluentes aos agentes econômicos e criam mecanismos
+para que sejam transacionados (como o denominado “mercado de carbono”).
+Podem ser citados os seguintes exemplos: subsídios; criação, majoração ou diminuição de
+tarifas; certificados de emissão transacionáveis; isenção de ITR relativo às áreas de
+preservação permanente, de reserva legal ou sob regime de servidão florestal ou ambiental;
+compensação de reserva legal etc.
+Destaca-se o caráter indutor dos instrumentos econômicos, pois permitem alcançar
+comportamentos desejados pela política ambiental (NUSDEO, 2006, p. 366), condicionando a
+ação do agente econômico em busca de uma atividade menos agressiva ao meio ambiente
+(ANTUNES, 2010, p. 15).
+São estímulos a comportamentos desejados, porém que não são exigidos pela legislação,
+diferentemente dos instrumentos de comando e controle, que se relacionam apenas a
+comportamentos obrigatórios, cujo descumprimento acarretará sanção.
+Por outro lado, os instrumentos econômicos podem vir a incidir também sobre condutas
+obrigatórias, em função da necessidade de aumentar a efetividade das normas; ou por um
+motivo econômico, como ajudar os proprietários a enfrentar o custo para o cumprimento da
+lei, ou compensar parte do custo de oportunidade (NUSDEO, 2010a, p. 122-123).
+
+37
+
+A política ambiental brasileira não privilegia os instrumentos econômicos, ao contrário, focase nos instrumentos de comando e controle. No entanto, essa estrutura não tem sido eficiente
+para impedir a degradação ambiental, uma vez que, segundo Alexandre Altmann (2008, p.
+12), esta é motivada por uma nefasta equação: a impunidade de quem degrada somada à falta
+de incentivos àqueles que preservam. De tal modo, discute-se uma nova leitura do Direito
+Ambiental, que considere a relevância dos mecanismos de incentivo ao lado dos instrumentos
+de comando e controle5.
+
+3.3 ESPAÇOS TERRITORIAIS ESPECIALMENTE PROTEGIDOS
+
+O ordenamento jurídico brasileiro reconhece uma dupla finalidade da proteção ambiental, que
+é um objetivo e tarefa estatal e, ao mesmo tempo, um direito e dever do indivíduo (SARLET;
+FENSTERSEIFER, 2011, p. 92). Isso implica que o dever de agir positivamente à proteção
+ambiental compete não só ao Estado, mas a toda a coletividade.
+Para que se realize a proteção ambiental muitas vezes ocorrem limitações à autonomia privada
+e ao direito de propriedade, uma legítima restrição ao gozo dos direitos individuais em prol do
+interesse coletivo, uma vez que a atual ordem jurídico-econômica está vinculada ao propósito
+de um desenvolvimento sustentável (SARLET; FENSTERSEIFER, 2011, p.235).
+A propriedade privada é garantida pela Constituição Federal, porém com um novo contorno,
+que não existia no conceito liberal de propriedade, o qual a concebia como um direito
+absoluto, com efeitos apenas na esfera particular. Como afirma Cristiane Derani (2008, p.
+238), hoje o exercício do domínio só será constitucional se compatível com a dupla
+característica da propriedade: domínio privado, frutos privados e sociais.
+Verifica-se a limitação do direito de propriedade em razão do interesse coletivo quando ocorre
+a preservação dos recursos naturais de uma parcela da propriedade, que não pode ser utilizada
+ou tem seu uso reduzido a determinadas condições.
+5
+
+Sobre a aplicação de instrumentos econômicos ambientais (IE), convém citar algumas considerações de
+Ronaldo Motta (2000, p. 92-93): a) o IE não cria direitos de degradação, esses direitos já existem na lei nos
+padrões, licenciamento etc; b) quando o custo do IE é repassado para o preço criam-se incentivos ao
+desenvolvimento de tecnologia limpa mais barata e padrão de consumo com menor impacto ambiental; c) é o
+objetivo ambiental e não o IE que aumenta custo, reduz competitividade ou afeta os pobres, no entanto, a receita
+do IE, mesmo que secundária, pode ajudar a realizar políticas compensatórias para atenuar esses efeitos; d) o
+custo de implementação do IE não é necessariamente maior ou menor do que do IC; e) um IE requer ação
+conjunta com órgãos de fazenda e base legal bem definida, uma vez que afeta preços e direitos de uso; f) os
+problemas que afetam o IC também afetam o IE; g) sua implementação deve ser gradual para criar a necessária
+capacidade institucional, política e legal.
+
+38
+
+Na evolução do ordenamento jurídico brasileiro, pouco a pouco determinadas áreas ganharam
+proteção legal, mas de maneira esparsa e não muito sistematizada, apenas para atender a
+necessidades conjunturais. A preocupação com a natureza evoluiu e passou a estabelecer
+objetivos mais amplos e variados, buscando proteger a biodiversidade como um todo e seus
+complexos ecológicos, e não somente a cobertura vegetal de uma área.
+No Brasil, o conceito de espaços territoriais especialmente protegidos surge com a
+Constituição Federal de 1988, inovando ao criar um regime jurídico especial e incluir tais
+espaços no rol dos instrumentos da Política Nacional do Meio Ambiente. O regime jurídico a
+que estão submetidos é de interesse público e diz-se especial quanto à fruição e
+modificabilidade, segundo José Afonso da Silva (2010, p. 231), pois não podem ser alterados
+nem suprimidos senão por meio de lei e nem ser utilizados de modo a comprometer os
+atributos que justifiquem sua proteção.
+Os espaços protegidos podem ser conceituados como áreas geográficas que contenham certos
+atributos naturais, os quais possuem a função de manutenção do equilíbrio ecológico,
+preservação de recursos genéticos, manejo de recursos naturais, preservação de belezas
+cênicas e ambientes históricos, proteção de recursos hídricos, desenvolvimento de pesquisas
+científicas e outros mecanismos diversos que buscam a preservação da biodiversidade.
+Existem diferentes modalidades de espaços protegidos, que indiretamente visam ao objetivo
+comum de proteção do meio ambiente, mas possuem diferentes objetos de proteção imediata,
+como, por exemplo, espécies da fauna de uma área específica ou matas ciliares que
+acompanham cursos d‟água. Os principais tipos são as áreas de preservação permanente e a
+reserva legal, disciplinadas pelo Código Florestal (Lei nº 12.651/2012), e as unidades de
+conservação, criadas pela Lei nº 9.985/2000.
+As áreas de preservação permanente (APP) consistem em áreas protegidas, cobertas ou não
+por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a
+estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o
+solo e assegurar o bem-estar das populações humanas. São listadas nos artigos 4º e 6º do novo
+Código Florestal (BRASIL, 2012), que trazem, respectivamente, a APP por imposição legal –
+pois o Código Florestal determina que a área com determinadas características constitui uma
+APP – e a APP derivada de ato do Poder Público – que assim é considerada somente quando
+declarada pelo chefe do Poder Executivo.
+
+39
+
+A reserva legal é uma parcela da propriedade que deve ser mantida com cobertura de
+vegetação nativa. Era considerada pelo Código florestal revogado (BRASIL, 1965) como área
+necessária ao uso sustentável dos recursos naturais, à conservação e reabilitação dos processos
+ecológicos, à conservação da biodiversidade e ao abrigo e proteção de fauna e flora nativas. O
+novo Código (BRASIL, 2012) manteve essa redação mas a ela somou a função de assegurar o
+uso econômico de modo sustentável dos recursos naturais do imóvel rural.
+Em resumo, a APP e a reserva legal distinguem-se por ser a primeira voltada à preservação de
+áreas com características específicas, previstas no art. 4º do Código Florestal6, ou então áreas
+que o Poder Público determina que sejam permanentemente preservadas em busca dos
+objetivos do art. 6º dessa lei7. Enquanto a reserva legal destina-se a preservar um percentual
+mínimo da propriedade, para que não haja uma total supressão da cobertura vegetal.
+
+6
+
+“Considera-se Área de Preservação Permanente, em zonas rurais ou urbanas, para os efeitos desta Lei: I - as
+faixas marginais de qualquer curso d‟água natural, desde a borda da calha do leito regular, em largura mínima
+de: a) 30 (trinta) metros, para os cursos d‟água de menos de 10 (dez) metros de largura; b) 50 (cinquenta) metros,
+para os cursos d‟água que tenham de 10 (dez) a 50 (cinquenta) metros de largura; c) 100 (cem) metros, para os
+cursos d‟água que tenham de 50 (cinquenta) a 200 (duzentos) metros de largura; d) 200 (duzentos) metros, para
+os cursos d‟água que tenham de 200 (duzentos) a 600 (seiscentos) metros de largura; e) 500 (quinhentos) metros,
+para os cursos d‟água que tenham largura superior a 600 (seiscentos) metros;
+II - as áreas no entorno dos lagos e lagoas naturais, em faixa com largura mínima de: a) 100 (cem) metros, em
+zonas rurais, exceto para o corpo d‟água com até 20 (vinte) hectares de superfície, cuja faixa marginal será de 50
+(cinquenta) metros; b) 30 (trinta) metros, em zonas urbanas;
+III - as áreas no entorno dos reservatórios d‟água artificiais, na faixa definida na licença ambiental do
+empreendimento, observado o disposto nos §§ 1o e 2o;
+IV - as áreas no entorno das nascentes e dos olhos d‟água, qualquer que seja a sua situação topográfica, no raio
+mínimo de 50 (cinquenta) metros;
+IV – as áreas no entorno das nascentes e dos olhos d‟água perenes, qualquer que seja sua situação topográfica, no
+raio mínimo de 50 (cinquenta) metros; (Redação dada pela Medida Provisória nº 571, de 2012).
+V - as encostas ou partes destas com declividade superior a 45°, equivalente a 100% (cem por cento) na linha de
+maior declive;
+VI - as restingas, como fixadoras de dunas ou estabilizadoras de mangues;
+VII - os manguezais, em toda a sua extensão;
+VIII - as bordas dos tabuleiros ou chapadas, até a linha de ruptura do relevo, em faixa nunca inferior a 100 (cem)
+metros em projeções horizontais;
+IX - no topo de morros, montes, montanhas e serras, com altura mínima de 100 (cem) metros e inclinação média
+maior que 25°, as áreas delimitadas a partir da curva de nível correspondente a 2/3 (dois terços) da altura mínima
+da elevação sempre em relação à base, sendo esta definida pelo plano horizontal determinado por planície ou
+espelho d‟água adjacente ou, nos relevos ondulados, pela cota do ponto de sela mais próximo da elevação;
+X - as áreas em altitude superior a 1.800 (mil e oitocentos) metros, qualquer que seja a vegetação;
+XI - as veredas.
+XI – em veredas, a faixa marginal, em projeção horizontal, com largura mínima de 50 (cinquenta) metros, a
+partir do limite do espaço brejoso e encharcado. (Redação dada pela Medida Provisória nº 571, de 2012)”
+(BRASIL, 2012).
+7
+“Conter a erosão do solo e mitigar riscos de enchentes e deslizamentos de terra e de rocha; proteger as restingas
+ou veredas; proteger várzeas; abrigar exemplares da fauna ou da flora ameaçados de extinção; proteger sítios de
+excepcional beleza ou de valor científico, cultural ou histórico; formar faixas de proteção ao longo de rodovias e
+ferrovias; assegurar condições de bem-estar público; auxiliar a defesa do território nacional, a critério das
+autoridades militares; proteger áreas úmidas, especialmente as de importância internacional” (BRASIL, 2012).
+
+40
+
+Já a unidade de conservação tem por objetivo a conservação dos atributos ecológicos de um
+espaço territorial delimitado e os recursos ambientais nele contidos. A lei a define como o
+espaço territorial e seus recursos ambientais (incluindo-se nestes as águas jurisdicionais) com
+características naturais relevantes, instituído com objetivo de conservação, com seus limites
+definidos e sob regime especial de administração (realizada por um órgão colegiado,
+composto por representantes do Poder Público e da sociedade civil), ao qual se aplicam
+garantias adequadas de proteção (BRASIL, 2000).
+Há duas categorias de unidades de conservação, a primeira é composta pelas unidades de
+proteção integral, cujo objetivo básico é preservar a natureza permitindo-se apenas o uso
+indireto de seus recursos naturais (por exemplo, visitas e pesquisa científica), sujeito a
+condicionamentos e restrições.
+As espécies de unidades de proteção integral são: a) estação ecológica, que tem por objetivo a
+preservação da natureza e realização de pesquisas científicas; b) reserva biológica, que busca
+a preservação integral da biota; c) parque natural, para preservação de ecossistemas naturais
+de grande relevância ecológica e beleza cênica; d) refúgio da vida silvestre, que visa à
+proteção de ambientes naturais para a existência ou reprodução de espécies locais ou
+migratórias; e) monumento natural, para a preservação de sítios naturais raros, singulares ou
+de grande beleza cênica (BRASIL, 2000; MMA, 2010, p. 14).
+A segunda categoria é representada pelas unidades de uso sustentável, que permitem coleta e
+uso direto dos recursos naturais, cuja exploração varia de acordo com a espécie de unidade de
+conservação.
+São as seguintes espécies: a) área de proteção ambiental, que objetiva proteger a diversidade
+biológica, disciplinar o processo de ocupação e assegurar a sustentabilidade do uso dos
+recursos naturais; b) área de relevante interesse ecológico, cujo propósito é manter os
+ecossistemas naturais de importância regional ou local e regular o uso admissível das áreas; c)
+floresta nacional, estadual ou municipal, que permite o uso múltiplo sustentável dos recursos
+florestais e a pesquisa científica, com ênfase em métodos para a exploração sustentável de
+florestas nativas; d) reserva extrativista, cujo objetivo é proteger os meios de vida e a cultura
+das populações, assegurando o uso sustentável dos recursos naturais da unidade; e) reserva de
+fauna, adequada para estudos científicos sobre o manejo econômico sustentável de recursos
+faunísticos; f) reserva de desenvolvimento sustentável, para preservar a natureza e, ao mesmo
+
+41
+
+tempo, assegurar as condições necessárias para a reprodução e melhoria da qualidade de vida
+e exploração dos recursos naturais das populações tradicionais; g) reserva particular do
+patrimônio natural, que visa à conservação da diversidade biológica, e é instituída por
+iniciativa do proprietário (BRASIL, 2000; MMA, 2010, p. 20).
+Os espaços protegidos estão ligados ao aspecto ambiental da função social da propriedade,
+pois esta, mesmo que esteja sob o domínio particular, deve atender ao interesse público de
+preservação do meio ambiente. Assim, o proprietário deve obedecer aos limites decorrentes
+da existência de APP, proceder à delimitação da reserva legal, bem como obedecer às
+diretrizes do plano de manejo de uma unidade de conservação que eventualmente englobe
+parte de sua propriedade, dentre outras obrigações.
+De acordo com o exposto acima, deve-se levar em conta que, mesmo que constituam deveres
+a serem cumpridos, essas limitações geram embaraços ao proprietário. Há o dever de
+proteger, mas é necessário que sejam asseguradas as condições para que ele realmente ocorra
+e o interesse coletivo seja atendido. A partir dessa ideia, serão discutidos nas próximas seções
+os benefícios gerados pelos espaços protegidos e, mais a frente, estratégias para que se
+garanta a sua manutenção.
+
+3.4 EXTERNALIDADES POSITIVAS
+
+A manutenção de espaços territoriais especialmente protegidos dentro da propriedade privada
+cria uma série de obrigações e custos para o particular, mas ao mesmo tempo são prestados
+serviços ambientais8 cujos benefícios serão usufruídos por toda a coletividade. Devido aos
+efeitos desses serviços recaírem sobre terceiros alheios à atividade que os produziu, e se tratar
+de benefícios, são chamados de externalidades positivas.
+As externalidades, ou efeitos externos ao mercado, consistem nos efeitos sociais secundários
+da produção ou do consumo, que podem tanto ser positivos (representando ganhos para os
+terceiros), como negativos (implicando perdas para os terceiros). Em qualquer das situações,
+está presente a característica comum de não serem espontaneamente consideradas: quem
+
+8
+
+Em resumo, serviços ambientais são todas as atividades envolvidas no processo produtivo que contribuam para
+a proteção dos ecossistemas e da biodiversidade. Tais como a ciclagem de oxigênio e carbono, decomposição de
+resíduos orgânicos, estabilização climática, manutenção da fertilidade do solo, reciclagem de nutrientes,
+polinização, purificação da água e do ar, proteção do solo (CARVALHO, E., 2010, p. 125-126). O tema será
+explorado no item 6.2 deste trabalho.
+
+42
+
+causa obstáculos a outrem não os paga, quem cria benefícios a outrem não é compensado
+(ARAGÃO, 1997, p. 32).
+As externalidades positivas produzidas pela empresa agrária estão ligadas ao conceito de
+multifuncionalidade da agricultura, pelo qual a atividade agrária desempenha outras funções
+além da produção de bens agrícolas e agroalimentares. O conceito compreende questões nãocomerciais, relacionadas às ideias de preservação ambiental e de paisagens, bem-estar dos
+animais, estímulo ao emprego rural, manutenção cultural e desenvolvimento sustentável
+(WATANABE, 2008, p. 2).
+Trata-se da noção de um espaço rural multifuncional, com função econômica, ecológica e
+sócio-cultural, que não deve ser entendido somente como simples gerador de
+desenvolvimento econômico, mas sim abrangendo outros aspectos, relacionados, sobretudo, à
+necessidade de que o desenvolvimento seja um processo controlado, atento ao equilíbrio
+social e biológico (TRENTINI, 2012, p. 45).
+O espaço rural multifuncional presta serviços ambientais cuja quase totalidade é indispensável
+à preservação de um ecossistema e, em última análise, à própria qualidade de vida do homem,
+não podendo ser providos por meios alternativos caso não exista a manutenção e proteção de
+certas áreas. Dessa forma, os benefícios gerados são positivos e, também, essenciais, fazendo
+com que interesse à sociedade que continuem a ser produzidos 9.
+Acrescente-se a isso a incerteza que paira sobre a problemática ambiental, por se desconhecer
+até que ponto pode ser revertida ou não. Torna-se necessária uma postura de precaução quanto
+à degradação do meio ambiente. Observada a propriedade rural sob tal ótica, percebe-se que é
+possível, e imprescindível, que promova o desenvolvimento econômico em consonância com
+o equilíbrio biológico.
+Como pondera Flavia Trentini (2012, p. 45), o desenvolvimento sustentável deve disciplinar
+todas as atividades produtivas e de modo particular a agrária, a qual necessita da utilização de
+muitos recursos naturais para a sua prática.
+
+9
+
+Nesse sentido: “os serviços do ecossistema têm algumas características que o tornam extremamente
+importantes economicamente. Provavelmente a maior importância é que é pouco provável que possamos
+desenvolver substitutos para a maioria desses serviços, incluindo a capacidade de proporcionar o habitat
+adequado para os seres humanos. Nós pouco entendemos como esses serviços são gerados, e não temos
+conhecimento de todos eles” (tradução nossa) (DALY; FARLEY, 2004, p. 106).
+
+43
+
+Nesse ponto se ressalta a importância dos espaços territoriais especialmente protegidos, que
+interessam à coletividade como um todo, mas que constituem um dever que o Poder Público
+estabelece ao particular e que deve ser observado levando-se em conta o ônus que a imposição
+pode gerar para este. É preciso considerar que a geração das externalidades positivas
+ambientais representa custos para aquele que as produz, que podem fazer com que a proteção
+deixe de ser realizada em níveis satisfatórios ao interesse social.
+Ana Maria Nusdeo (2006, p. 359) se refere às externalidades positivas como benefícios
+circulando extramercado 10. A partir disso, a autora chama atenção para o fato de que a própria
+conceituação do termo externalidade deixa claro que se trata de um tema interdisciplinar
+localizado na fronteira de disciplinas como a Economia, a Ecologia e o Direito, passando pela
+gestão de políticas públicas.
+Considerando-se, então, que o problema não se restringe ao campo jurídico, possíveis
+soluções devem ser estudadas a partir da natureza – complexa – da questão que se apresenta.
+De tal modo, junto ao aspecto jurídico é preciso analisar também as implicações econômicas
+dos espaços protegidos e das externalidades positivas geradas.
+
+10
+
+Nesse sentido, Maria Aragão (1997, p. 33) explica: “A denominação efeitos externos ao mercado é
+compreensível, porque se trata de transferência de bens ou prestações de serviços fora dos mecanismos do
+mercado. São transferências por meios não económicos na medida em que não lhes corresponde qualquer fluxo
+contrário de dinheiro. Sendo transferências „a preço zero‟, o preço final dos produtos não as reflecte, e por isso
+não pesam nas decisões de produção ou consumo, apesar de representarem verdadeiros custos ou benefícios
+sociais decorrentes da utilização privada dos recursos comuns”.
+
+44
+
+4 INTERNALIZAÇÃO DAS EXTERNALIDADES POSITIVAS
+
+4.1 ASSIMETRIA DE INFORMAÇÃO E CUSTOS DE TRANSAÇÃO
+
+Ao impor a criação ou preservação dos espaços protegidos no bem de propriedade privada, o
+Estado limita a atividade econômica que utiliza a propriedade como fator de produção. Essa
+limitação acarretará consequências sobre o lucro e a eficiência da atividade, pois a utilização
+da área foi restringida, gerando custos de oportunidade; além de gerar outros custos para o
+proprietário com a sua implantação e manutenção.
+Além dos custos em se criar ou conservar um espaço territorial especialmente protegido, o
+proprietário suporta custos derivados de uma assimetria de informação, pois o mercado não
+consegue transportar naturalmente as informações necessárias para a percepção das
+externalidades positivas (derivadas da proteção ambiental) pelos agentes econômicos e
+consumidores (DERANI, 2008, p. 91).
+Ou seja, a informação de que o processo produtivo ocorreu associado à proteção de certos
+espaços e seus atributos naturais e que tal proteção gerou despesas ao proprietário – que
+justificariam o possível pagamento de um valor superior pelo bem ou serviço, que englobasse
+o ganho social – não são transmitidas pelo mercado. Consequentemente, surgirão custos de
+transação para eliminar tal assimetria, pois obter (ou fazer com que alguém obtenha)
+informação implica custos.
+De acordo com Ronald Coase (1960), nem os mercados nem a organização interna da firma
+funcionam a custo zero, e os custos de transação 11 derivam de assimetrias de informação que
+dificultam a negociação dos direitos de propriedade.
+
+11
+
+Rachel Sztajn (2004, p. 9) define: “Transação, no jargão dos economistas, é qualquer operação econômica,
+operação de circulação de riqueza entre agentes econômicos. Custos de transação são aqueles custos em que se
+incorre que, de alguma forma, oneram a operação, mesmo quando não representados por dispêndios financeiros
+feitos pelos agentes, mas que decorrem do conjunto de medidas tomadas para realizar uma transação”.
+Em uma análise mais detalhada: “Os custos de transação são os custos de troca. Uma troca tem três
+etapas. Primeiro, um parceiro de troca tem de ser localizado. Trata-se de encontrar alguém que queira comprar o
+que você está vendendo ou vender o que você está comprando. Em segundo lugar, uma barganha deve ser
+atingida entre os parceiros de troca. uma barganha é alcançada por meio de negociação bem sucedida, que
+inclui a elaboração de um acordo. Em terceiro lugar, depois que uma barganha tiver sido alcançada, deve ser
+aplicada. Aplicação envolve monitorar o desempenho das partes e punir violações do acordo. Podemos
+chamar as três formas de custos de transação correspondentes a esses três passos de uma troca: (1) custos de
+
+45
+
+Segundo a Teoria da Nova Economia Institucional (NEI), os custos de transação no mundo
+real são positivos e são influenciados pelo papel das instituições, diferentemente da
+abordagem da Economia Neoclássica, que tomava como ponto de partida um mundo
+hipotético sem custos de transação, propiciando a alocação eficiente por meio do mercado.
+Conforme a NEI, as instituições formam o ambiente institucional, composto pelas regras
+formais e informais e são quem determina a alocação dos direitos de propriedade.
+Para o presente trabalho, a importância dos custos de transação decorre do fato de que quando
+há externalidades o preço de um determinado bem não reflete o real custo da sua produção
+para a sociedade, não há uma eficaz delimitação do direito de propriedade. Na medida em que
+esses custos não são refletidos nos preços, levam à não-percepção da escassez do determinado
+fator de produção – no caso, os recursos naturais – e, por conseqüência, à sua excessiva
+utilização (NUSDEO, 2006, p. 359).
+Os espaços protegidos exercem uma função ecológica que gerará externalidades positivas, as
+quais, em princípio, o mercado é incapaz de remunerar. Diante do impasse entre interesse
+privado do indivíduo – remuneração pelos serviços ambientais prestados – e interesse coletivo
+da sociedade, verifica-se a incapacidade do mercado para conduzir a economia ao ponto
+ótimo de bem-estar social (ARAGÃO, 1997, p. 34).
+Assim, questiona-se a internalização das externalidades positivas para que os custos sejam
+coletivamente divididos, uma vez que toda a sociedade se vale dos benefícios gerados e deles
+necessita. Para isso, é necessário um ambiente institucional que promova a internalização,
+pois de tal modo ele pode propiciar melhores condições para a proteção ambiental.
+A análise proposta dos mecanismos utilizados pelo agente econômico para internalizar as
+externalidades positivas e diminuir custos de transação permite entender a influência do
+ambiente institucional na prática do agente. E, com isso, podem ser discutidas formas de
+incentivo a essas condutas privadas a fim de garantir que a proteção ambiental continue a se
+realizar e, até mesmo, seja incrementada.
+Em sentido contrário, há quem possa julgar indevida a internalização das externalidades
+positivas, pois, sendo dever de todos a proteção do meio ambiente, ao particular caberia
+
+pesquisa [search costs], (2) custos de negociação [bargaining costs], e (3) custos de aplicação [enforcement
+costs]” (tradução nossa) (COOTER; ULEN, 2008, p. 91-92).
+
+46
+
+simplesmente cumprir as imposições normativas de conservação dos espaços naturais, sem se
+discutir o ônus que lhe é gerado e o dever da sociedade de retribuir pelos benefícios auferidos.
+Todavia, não se pode negar que o espaço rural, tido hoje como multifuncional, presta serviços
+ambientais que beneficiam toda a coletividade; assim sendo, é justo que exista uma
+contraprestação, como forma de remunerar e mesmo garantir a continuidade da prestação do
+serviço.
+Um segundo argumento diz respeito à eficiência da construção jurídica acerca da proteção
+ambiental. É notoriamente sabido que as normas ambientais frequentemente não são
+cumpridas e, assim, estão longe de garantir a efetiva defesa do meio ambiente. Uma das
+críticas se funda na crise estrutural da Administração Pública, que não consegue realizar a
+necessária fiscalização dos instrumentos de comando e controle, predominantes no nosso
+ordenamento.
+Há diversas razões para explicar por que o direito “chega tarde”, tais como as citadas por
+Juarez Freitas (2011, p. 103-104): a falta de racionalidade antecipatória; o excesso de cultura
+vingativa que age a posteriori, em vez de resolver os problemas na raiz; a falta de visão
+multifacetada sobre a questão ambiental, que é deveras complexa para ser tratada apenas sob
+o enfoque jurídico; o excesso de exploração parasitária da morosidade processual.
+Tendo em vista o panorama da degradação do meio ambiente, do aquecimento global e do
+estado de alerta em que se encontra a população mundial, é premente que o direito abandone
+esse caráter retardatário diante da questão ambiental, passando a agir segundo os princípios da
+prevenção e da precaução12, antecipando-se ao dano.
+É preciso compreender melhor a dinâmica dos custos ambientais (FREITAS, 2011, p.134),
+indo além das técnicas de comando e controle e do caráter repressivo do direito. Aplicando-se
+os princípios da prevenção e da precaução de maneira a fazer com que se torne mais vantajoso
+manter a floresta em pé, com o oferecimento de alternativas ao desmatamento (FREITAS,
+2011, p. 98), para que a proteção seja de fato concretizada.
+12
+
+“O princípio da prevenção é aquele em que se constata, previamente, a dificuldade ou a impossibilidade de
+reparação ambiental, ou seja, consumado o dano ambiental, sua reparação é sempre incerta ou excessivamente
+onerosa. Doutra banda, o princípio da precaução [...] aplica-se àqueles casos em que o perigo é abstrato, de um
+estado de perigo em potencial [...] Dessa forma, o princípio da precaução consiste em evitar que medidas de
+proteção sejam adiadas em razão da incerteza que circunda os eventuais danos ambientais” (TRENNEPOHL,
+2008, p. 51). Em resumo, segundo Marcelo Abelha Rodrigues (2008, p. 134): “Previne-se contra o dano que se
+conhece. Precave-se contra o risco desconhecido”.
+
+47
+
+Para isso, as instituições devem ser proativas ao invés de reativas, elaborando estratégias e
+políticas exequíveis, simples e adaptadas, baseadas em entendimentos que reconheçam as
+incertezas subjacentes a questões complexas, como a questão ambiental (CARVALHO, E.,
+2010, p. 121).
+Por meio da internalização, a coletividade passa a contribuir com a geração das externalidades
+positivas, deixando de ser mera beneficiária para se tornar solidariamente responsável por tal
+processo. Possibilita a diminuição dos custos que recaem sobre o agente econômico e, então,
+estimula a recuperação e manutenção dos espaços protegidos.
+Há duas principais teorias que tratam do modo como a internalização das externalidades
+positivas pode ocorrer. Uma delas é a “mercantilização do meio ambiente”, que defende a
+atribuição de valor ao meio ambiente para que este seja incorporado ao mercado. Já a segunda
+corrente é focada na intervenção do Estado por meio de incentivos aos particulares.
+
+4.2 MERCANTILIZAÇÃO DO MEIO AMBIENTE
+
+A mercantilização do meio ambiente ocorre por meio da teoria da extensão do mercado, a
+qual incorpora a este último o meio ambiente, atribuindo-lhe preços. Os sujeitos privados
+negociam seus interesses em um sistema de direitos de propriedade, buscando a internalização
+eficiente das externalidades (DERANI, 2008, p. 92).
+Essa teoria transforma a natureza em um marketable good (DERANI, 2008, p. 95). Trata-se
+de imputar um valor para os recursos naturais, cujo uso ensejará uma contraprestação
+monetária. Isto é, delimita-se o direito de propriedade de forma a nele incluir os fatores
+ambientais, para que possam ser transacionados.
+O conceito de direito de propriedade possui significados diversos quando analisado sob o
+enfoque do Direito ou da Economia. Na visão jurídica é um direito real que permite usar, fruir
+e dispor de um bem, e de reavê-lo de quem injustamente o possua. Em outras palavras, a
+submissão de uma coisa, em todas as suas relações, a uma pessoa (GOMES, 2009, p. 109).
+Sob o enfoque econômico, segundo Yoram Barzel (1997, p. 4), o direito de propriedade é o
+poder de consumir o bem ou serviços do ativo direta ou indiretamente ˗ nesta última hipótese,
+por meio da troca. Para o autor, economic rights são o fim, o que as pessoas buscam em
+última análise, enquanto legal rights são os meios para se atingir esse fim.
+
+48
+
+Economicamente, o direito de propriedade vai além do conceito jurídico, é a possibilidade de
+utilização de um ativo de forma direta ou indireta, é um objeto potencial de transações no
+mercado. Como elucidam Decio Zylbersztajn e Rachel Sztajn (2005, p. 85), “o que se negocia
+não são os bens-objeto de Direito, mas, sim, direitos de propriedade sobre as dimensões de
+bens”, tomada a expressão “direitos de propriedade” em sua acepção econômica.
+Trata-se de um poder de disposição sobre oportunidades econômicas e dentro desse conceito
+de direito de propriedade são englobadas oportunidades que não constituem propriamente um
+direito real de propriedade, pois abrangem outros tipos de direitos que podem ser criados na
+esfera das relações privadas, os quais se aproximam mais de um direito obrigacional
+(ESTEVES, 2010, p. 163).
+De acordo com Heloisa Esteves (2010, p. 163-164), a distinção entre os sentidos jurídico e
+econômico dos direitos de propriedade pode ser interpretada como uma diferença de pontos
+de vista, “o que interessa para a análise econômica é o poder efetivo de um indivíduo sobre o
+objeto do direito/um ativo, enquanto do ponto de vista jurídico, interessa aquilo que o Estado
+determina como sendo direitos atribuídos a cada um”.
+Assim, a acepção econômica do direito de propriedade pode ser entendida como poder efetivo
+– no sentido de disposição sobre oportunidades econômicas – de um indivíduo sobre o objeto
+do direito. A partir disso, há que se considerar que esse direito de propriedade será bem
+delimitado quando seu titular puder transacionar todos os atributos relativos ao ativo, ou seja,
+além de negociar um bem propriamente dito, poderá negociar os benefícios sociais gerados
+por ele, por exemplo.
+Nesse contexto, o valor atribuído ao objeto do direito somente será adequado se englobar
+todos os seus atributos. Como pondera Marcelo Abelha Rodrigues (2002, p. 141), o preço de
+um bem no mercado só é passível de ter uma medida correta, um valor justo, se no valor que
+lhe for atribuído estiverem computados todos os ganhos sociais advindos de sua produção e
+consumo.
+De acordo com a teoria da extensão do mercado, desenvolvida por Ronald Coase (1960), é
+possível eliminar por meio da negociação a divergência entre custos privados e custos sociais,
+que decorre do fato de ao mercado só interessar a transação de bens aos quais corresponda um
+direito de propriedade definido (ARAGÃO, 1997, p. 37-38).
+
+49
+
+O conceito econômico de direito de propriedade está intimamente ligado aos custos de
+transação, como se pode verificar pela teoria de Barzel (1997, p. 4-5):
+Para que os direitos a um ativo sejam completa ou perfeitamente delineados, tanto
+seu proprietário quanto outros indivíduos potencialmente interessados no ativo
+devem conhecer plenamente todos seus atributos estimados. Com conhecimento
+pleno, a transferência de direitos de um ativo pode ser prontamente realizada.
+Reciprocamente, quando direitos são perfeitamente delineados, as informações sobre
+o produto podem ser obtidas sem custo e os custos de transação (relevantes) serão
+zero.
+Quando os custos de transação são positivos, os direitos sobre os ativos não serão
+perfeitamente delineados. A razão é que, em relação ao seu valor, alguns dos
+atributos dos ativos são difíceis de serem mensurados. Portanto, os atributos de tais
+ativos não são plenamente conhecidos pelos futuros proprietários e frequentemente
+não são conhecidos sequer pelo proprietário atual. A transferência de ativos implica
+custos que resultam dos esforços de ambas as partes para determinar o que são os
+atributos estimados desses ativos e dos esforços de cada um para capturar aqueles
+atributos que, devido aos elevados custos, restam mal definidos. (tradução e grifo
+nosso)
+
+A eficaz delimitação do direito de propriedade importa para as transações econômicas porque
+ele constitui objeto da transação no mercado e, assim, sua delimitação influencia a criação e
+organização de mercados e redução de seus custos de transação (ESTEVES, 2010, p. 166).
+Segundo a presente abordagem, é preciso que as externalidades positivas sejam reconhecidas,
+valoradas e incorporadas ao bem, refletindo, pois, em seu valor, o que elimina a assimetria de
+informação e diminui custos de transação. Essa necessidade surge do fato de que, se esse
+atributo não for bem definido a ponto de poder ser reconhecido e transacionado, o agente
+deixará de fornecer os benefícios sociais decorrentes da proteção ambiental.
+Desse modo, a valorização das externalidades positivas decorrentes dos espaços protegidos
+constitui um incentivo à sua criação e continuidade da preservação. Pois os preços não
+refletem adequadamente o valor dos serviços ambientais, ou seja, o mercado falha na
+valoração adequada da conservação biológica e, uma vez que o preço da madeira, da terra ou
+dos produtos agrícolas é mais elevado, isto leva ao processo de desmatamento (NUSDEO,
+2008, p. 3-4) 13.
+Há que se considerar que a falha do mercado está relacionada também a problemas e custos
+de mensuração de um determinado bem, visto que é preciso atribuir-lhe o devido valor para
+
+13
+
+Tratando de externalidades, Maria Aragão (1997, p. 38) pondera: “Concebendo os factores de produção como
+direitos, consegue fazer entrar no jogo do mercado muitos dos elementos ambientais, „privatizando-os‟.
+Teríamos então o direito à água pura contra o direito de poluir a água; direito a uma floresta contra o direito de
+construir uma estrada; direito ao silêncio contra o direito de funcionamento de uma fábrica ruidosa, etc”.
+
+50
+
+que seja definido o direito de propriedade a ser transacionado. E direitos de propriedade que
+não são perfeitamente seguros desestimulam os investimentos (MUELLER, 2005, p. 92).
+Por ser difícil a mensuração, o direito de propriedade será mal definido e, consequentemente,
+prejudicará a transação, problema que constitui um óbice à concretização da teoria da
+mercantilização do meio ambiente. A dificuldade de mensuração dos serviços ambientais será
+melhor abordada na seção 4.4 do trabalho.
+
+4.3 CORREÇÃO DO MERCADO POR MEIO DE INCENTIVOS
+
+Enquanto a mercantilização do meio ambiente é considerada como extensão do mercado, já
+que incorpora o meio ambiente a este, a teoria da correção do mercado acredita que por
+intermédio do Estado pode-se solucionar o desarranjo entre interesse particular e interesse
+social.
+Essa teoria surge com Pigou, que chamou de deseconomias externas os efeitos sociais
+danosos da produção privada, e de economias externas os efeitos de aumento de bem-estar
+social da produção. O Estado deve introduzir no primeiro caso um sistema de imposto e, no
+caso de efeitos sociais positivos, um sistema de subvenção ou incentivo (DERANI, 2008, p.
+91).
+O meio ambiente ecologicamente equilibrado constitui um direito difuso e deve ser protegido
+pelo Estado, seja direta ou indiretamente, exercendo os deveres que a ele incumbe a
+Constituição Federal ou estimulando determinadas condutas por parte dos indivíduos. Ele
+deve reconhecer as falhas do ordenamento jurídico e do sistema econômico e agir no sentido
+de corrigi-las ou propiciar instrumentos para a correção. Para que isso ocorra, podem-se criar
+incentivos a comportamentos individuais que sejam positivos em relação ao meio ambiente.
+Tendo em vista que os ecossistemas e a biodiversidade são úteis à coletividade e que a
+humanidade depende, para sua existência, dos serviços ecossistêmicos, cuja rápida destruição
+tem consequências ainda muito incertas, é premente a adoção de uma postura preventiva
+contra processos predatórios irreversíveis (CARVALHO, E., 2010, p. 121).
+Para isso, é papel fundamental do Estado direcionar a concretização da proteção ambiental,
+sobretudo quando ela não for efetuada espontaneamente pelos indivíduos – o que pode ocorrer
+
+51
+
+se, em razão da não internalização das externalidades positivas e do ineficiente mecanismo de
+coerção estatal, o agente optar por abandonar as práticas ambientais que as geram.
+Como pondera Ana Grizzi (2008, p. 57), é imprescindível demonstrar ao empreendedor que,
+em contrapartida à revisão de suas atividades, a partir da incorporação da variável ambiental
+ele continuará a obter lucro, seja pela redução de passivos ou contingências ambientais,
+redução de custos operacionais com prevenção ambiental, redução da taxa de juros em
+financiamentos, melhora da imagem corporativa junto a seus consumidores, ou como fator de
+diferencial competitivo no seu segmento de mercado.
+Percebe-se que a teoria de correção do mercado está voltada precipuamente à eficiência dos
+mercados, buscando a solução de certas falhas de mercado. Mas o mecanismo de incentivos
+estatais se presta igualmente a outras funções, como se verifica no caso da proteção
+ambiental, uma vez que a intervenção do Estado também atende ao interesse social de defesa
+do meio ambiente.
+Assim, o Estado intervém no mercado por meio de incentivos para orientar a atuação dos
+agentes, garantindo-se uma prática privada gratificante tanto ao investidor quanto à sociedade
+(DERANI, 2008, p. 149). Ele fomenta as condutas compatíveis à defesa do meio ambiente
+com medidas como incentivos fiscais, pagamento por serviços ambientais, dentre outras;
+tornando-se a proteção ambiental vantajosa inclusive ao agente e, assim, garantindo que
+continue a ser praticada em benefício de toda a coletividade.
+Esse papel incentivador será abordado com mais atenção em seção à parte, quando se
+discutirá a função promocional do direito.
+
+4.4 MENSURAÇÃO DOS BENS NATURAIS
+
+Tanto na abordagem sobre mercantilização do meio ambiente, quanto em casos de
+intervenção do Estado por meio de incentivos, depara-se com a problemática da mensuração,
+devido à dificuldade em se atribuir valor aos bens naturais.
+Não são conhecidas todas as funções ambientais e outras ainda não se conseguem bem
+delimitar. Além disso, o “valor social” do meio ambiente está relacionado não somente ao que
+a sua exploração econômica pode gerar, mas também a um valor intrínseco a ele, um valor de
+existência, independentemente das utilidades que proporciona (ARAGÃO, 1997, p. 236).
+
+52
+
+Por isso a árdua questão de como se internalizar os custos decorrentes das externalidades
+positivas derivadas dos espaços protegidos, uma vez que o direito de propriedade de bens
+naturais não pode ser bem delimitado. Os métodos de valoração tendem a ser incompletos,
+primeiro porque é necessária uma visão completa da questão estudada, a ser desenvolvida por
+economistas, biólogos, ecologistas e muitos outros profissionais. E, sobretudo, pela incerteza
+de não se conhecer grande parte das consequências da excessiva utilização e degradação dos
+recursos naturais.
+Atualmente, uma das pesquisas mais avançadas acerca da mensuração do meio ambiente é a
+realizada pelo Center for Tropical Forest Science (CTFS) do Smithsonian Tropical Research
+Institute. Trata-se de uma rede global de investigação de reservas florestais dedicada ao
+estudo da função das florestas tropicais e temperadas e de sua diversidade. O CTFS
+desenvolve o projeto chamado Agua Salud, que busca entender e quantificar o diversificado
+conjunto de serviços ecológicos, sociais e econômicos providos pelas florestas tropicais de
+bacias hidrográficas ligadas ao Canal do Panamá.
+O Agua Salud busca quantificar os efeitos dos diferentes usos do solo na qualidade,
+quantidade e distribuição temporal da água, armazenamento de carbono e valores da
+biodiversidade. Os estudos permitirão a realização de inventários de recursos ambientais e
+pretende-se expandir o projeto para que englobe também os valores sociais e econômicos das
+florestas.
+O projeto utiliza o papel central do Canal do Panamá no comércio mundial para chamar a
+atenção sobre os serviços ambientais prestados pelas florestas tropicais, pois a armazenagem
+de carbono, água limpa e abundante, e a conservação da biodiversidade para auxiliar a função
+ecossistêmica e o ecoturismo são apenas alguns dos serviços prestados por tais florestas.
+Além disso, o Canal do Panamá passa por um processo de expansão que culminará em um
+conjunto novo e maior de bloqueios até 2014. Serão realizadas comparações espaciais
+e temporais que permitam uma melhor compreensão dos serviços dos ecossistemas associados
+às florestas, conhecimento relevante, sobretudo, em uma era de mudanças climáticas globais
+como a que é vivida hoje.
+Nesse projeto será investigada uma gama de serviços de variados impactos temporais e
+espaciais que afetam a sustentabilidade de diferentes estratégias de conservação e uso da terra,
+já que os estudos se focam em serviços ambientais que afetam pessoas mesmo a certa
+
+53
+
+distância, mas não são incluídos nos preços de mercado. Um dos objetivos é fornecer
+importantes informações para decisões de gestão sustentável dos usos da terra, não só na
+região do Canal do Panamá, mas no mundo todo14.
+Além dos estudos do Center for Tropical Forest Science, existem outras pesquisas sobre
+técnicas socioeconométricas para se atribuir valor ao meio ambiente. Entretanto, a utilização
+das técnicas de quantificação ainda apresenta inúmeras dificuldades, não tendo sido
+encontrado até o momento um mecanismo que permita a eficiente mensuração dos bens
+naturais.
+Dessa forma, a mensuração ainda constitui um obstáculo à internalização das externalidades
+positivas, na medida em que dificulta a definição dos direitos de propriedade para que estes
+sejam transacionados de maneira eficiente e, consequentemente, eleva os custos de transação.
+Além de constituir um embaraço ao Estado no processo decisório sobre a necessidade e
+delimitação da intervenção por meio de incentivos, pois, não se conhecendo exatamente o
+bem a ser tutelado, torna-se difícil verificar o quanto é preciso intervir de modo com que essa
+ação seja suficiente e eficaz.
+Não obstante os problemas decorrentes da dificuldade de mensuração apresentados, o agente
+econômico pode buscar maneiras alternativas de internalizar as externalidades positivas, de
+forma viável para o caso concreto. Para analisar essa questão o trabalho se propôs à realização
+de um estudo de caso, com o intuito de verificar o comportamento do agente diante dessas
+externalidades e quais mecanismos utiliza, na prática, na tentativa de internalizá-las. Os
+resultados desse estudo serão discutidos no próximo capítulo.
+
+14
+
+Sobre o Projeto Agua Salud, conferir: <http://www.ctfs.si.edu/aguasalud/>. Acesso em: 18 jun. 2011.
+<http://www.ctfs.si.edu/group/Panama+Canal+Watershed+Experiment>. Acesso em: 18 jun. 2011.
+
+54
+
+5 RESULTADOS DO ESTUDO DE CASO
+
+5.1 CONDUTA AMBIENTAL DA USINA
+A Usina X, objeto de análise do estudo de caso, é produtora de cana, açúcar, álcool e levedura
+seca. Está localizada na região central do Estado de São Paulo, em uma área que abrange 11
+municípios, onde são cultivados 41.000 hectares de cana-de-açúcar.
+Dentre a área total de operação da usina, 3.745,01 hectares são áreas de preservação
+permanente (APP), monitoradas por engenheiros florestais de sua Divisão Agrícola,
+responsável pela manutenção e recuperação da área. Além de APP, protege 710 hectares de
+fragmentos florestais do Cerrado, Florestas Estacionais Semideciduais e Deciduais.
+A empresa possui um Programa Ambiental Y, que prevê ações como, por exemplo, concluir
+em 201115 o plantio adicional de 116.700 mudas de árvores nativas, produzidas em viveiro de
+mudas da própria Usina, com capacidade de produção de 200.000 mudas anuais. Por meio do
+viveiro são produzidas anualmente cerca de 100 mil essências florestais nativas da região, das
+quais 60 mil são para uso próprio nas áreas da usina e 40 mil são doadas para os fornecedores
+de cana realizarem a recuperação dentro das suas respectivas áreas de produção.
+O programa abrange a doação de mudas a fornecedores e outros proprietários rurais do
+entorno, com possibilidade de assistência técnica situacional sob pedido; realiza-se
+planejamento para a doação, esclarecem-se dúvidas sobre o plantio e este é acompanhado ao
+longo do tempo.
+A usina é também signatária do Protocolo Agroambiental (Certificado Etanol Verde),
+assinado em 2007 pelo Governo de São Paulo, Secretaria Estadual do Meio Ambiente e União
+da Indústria Sucroalcooleira (UNICA), à qual a empresa é associada. O Protocolo tem por
+objetivo desenvolver ações que estimulem a sustentabilidade da cadeia produtiva de açúcar,
+etanol e bioenergia, e reconhece as boas práticas ambientais do setor sucroenergético com um
+Certificado de Conformidade Agroambiental, renovado anualmente.
+
+15
+
+O trabalho apresenta apenas a meta da usina para 2011 porque o relatório da safra 2010/2011 será concluído e
+divulgado apenas no segundo semestre de 2012.
+
+55
+
+O Protocolo Agroambiental estabelece diretivas técnicas ambientais, como as referentes à
+proteção de espaços: proteção das áreas de matas ciliares das propriedades canavieiras, devido
+à relevância de sua contribuição para a preservação ambiental e proteção à biodiversidade;
+proteção das nascentes de água das áreas rurais do empreendimento canavieiro, recuperando a
+vegetação ao seu redor (SÃO PAULO, 2007).
+Além disso, a empresa adota o Sistema de Gestão Ambiental da norma ABNT NBR ISO
+14001 e desde outubro de 2011 tem 85% de sua produção certificada pelo Padrão Better
+Sugar Cane Initiative (Bonsucro).
+
+5.2 COMPORTAMENTO RELATIVO AOS ESPAÇOS PROTEGIDOS
+
+O comportamento do agente em relação aos espaços protegidos varia de acordo com o arranjo
+utilizado para obtenção da cana-de-açúcar. Dados aproximados indicam que cerca de 37% da
+área utilizada para produção é de propriedade da empresa. Quanto ao restante, a maior parte
+corresponde a contratos de arrendamento16 e de parceria17
+
+18
+
+e aproximadamente 10% da
+
+cana-de-açúcar advém de contrato de fornecimento19.
+Na relação contratual com os fornecedores há cláusulas ambientais e de segurança do
+trabalho, mas a Usina X realiza auditorias somente de cunho trabalhista. Os fornecedores
+podem aderir ao Programa Ambiental Y, recebendo mudas e consultoria técnica da empresa.
+16
+
+Arrendamento rural é o contrato agrário pelo qual uma pessoa se obriga a ceder à outra, por tempo
+determinado ou não, o uso e gozo de imóvel rural, parte ou partes do mesmo, incluindo, ou não, outros bens,
+benfeitorias e ou facilidades, com o objetivo de nele ser exercida atividade de exploração agrícola, pecuária,
+agro-industrial, extrativa ou mista, mediante certa retribuição ou aluguel, observados os limites percentuais da lei
+(BRASIL, 1966, art. 3º).
+17
+A parceria é “um contrato oneroso, pelo qual uma ou mais pessoas, sendo uma ou várias delas proprietárias de
+um imóvel rural, admitem que outra ou outras delas ocupem dito imóvel, para fins rurais, ou seja, exploração
+extrativa, agrícola, pecuária ou agroindustrial, por certo tempo, mediante a distribuição convencional dos frutos
+produzidos”, observadas as restrições impostas pelo Estatuto da Terra, Lei nº 4.505/64 (OPTIZ, S.; OPITZ, O.,
+2012, p. 429).
+18
+Esses dois contratos diferenciam-se, sobretudo, em razão de no arrendamento o proprietário não participar do
+risco do negócio, ocorre meramente a cessão do uso e gozo do imóvel ao arrendatário, o qual tem a posse direta e
+o direito de tirar proveito da terra (COELHO, 2011, p. 81). Enquanto na parceria existe um pagamento anual,
+mediante partilha de frutos e produtos auferidos na produção do imóvel (COELHO, 2011, p. 83). “Existe na
+parceria uma comunhão de fins que não se encontra no arrendamento. Neste há uma troca de interesses, ao passo
+que na parceria há um vínculo entre os parceiros que implica o bom ou o mau sucesso, isto é, numa comunhão de
+riscos. Há na parceria um espírito associativo, que não se verifica no arrendamento” (OPTIZ, S.; OPITZ, O.,
+2012, p. 390).
+19
+No contrato de fornecimento uma das partes obriga-se a prestações periódicas ou contínuas de coisas em troca
+do pagamento do preço; este contrato é, pois, caracterizado pela repetição ou continuidade das prestações do
+fornecedor (GOMES, 2008, p. 285). Diferencia-se dos contratos de parceria e arrendamento pelo fato de que
+nestes transaciona-se a terra, como insumo para a produção de matéria prima; e no contrato de fornecimento
+transaciona-se o produto agrícola (TRENTINI; SAES, 2010, p. 71).
+
+56
+
+Quanto aos arrendamentos realizados, a terra que constitui o objeto contratual é somente a
+área que pode ser cultivada, excluindo-se do contrato as áreas de APP e reserva legal, que são
+protegidas por meio do recuo da cana, mas não são recuperadas. No entanto, se desejarem, os
+proprietários da área arrendada também podem se valer do auxílio fornecido por meio do
+Programa Ambiental Y da Usina.
+
+5.3 ASPECTOS INSTITUCIONAIS DETERMINANTES DO COMPORTAMENTO DO
+AGENTE
+
+A partir dos dados obtidos por meio das entrevistas e documentos da usina, verifica-se que o
+comportamento da empresa quanto à proteção ambiental, especificamente quanto aos espaços
+protegidos, pauta-se na legislação ambiental e também em questões relacionadas ao mercado.
+Por um lado, a usina se adéqua às normas vigentes, buscando cumprir os deveres legais de
+proteção do meio ambiente. Por outro, percebe-se que sua conduta é influenciada
+precipuamente pelo próprio mercado.
+A atenção do agente está voltada à reputação no mercado e na sociedade, uma vez que a
+responsabilidade ambiental pode lhe agregar valor. Ademais, algumas ações são adotadas
+especificamente para atender às exigências de uma determinada carteira de clientes.
+Alguns compradores exigem que a empresa adote certos padrões ambientais, como, por
+exemplo, a série ISO 14000. A especificidade da demanda acaba, portanto, influenciando toda
+a gestão da usina e, consequentemente, a proteção ambiental praticada por ela. E essa questão
+é verificada não apenas nos negócios com um determinado comprador, mas também em
+relação a grandes segmentos de mercado, sobretudo no mercado externo.
+Outro objetivo da empresa, diretamente relacionado ao de satisfação das especificidades das
+demandas, é a certificação ambiental. A proteção ambiental é realizada de maneira a permitir
+certificações como o Certificado de Conformidade Agroambiental, no âmbito do Protocolo
+Agroambiental, e a certificação do Bonsucro, selo internacional recentemente introduzido no
+setor sucroalcooleiro brasileiro, e exigido pela União Europeia para importações de produtos
+originados da cana-de-açúcar.
+Há influência do ambiente institucional também por parte da organização da qual a Usina X é
+associada e por meio da qual ocorre a comercialização do açúcar e do etanol produzidos. Essa
+
+57
+
+organização incentiva que se busque a certificação, em razão de o mercado estar acenando
+para isso.
+A adoção de padrões ambientais e a certificação constituem, portanto, condição para o acesso
+a novos mercados e permanência da empresa nesses e em outros, cada vez mais rigorosos em
+relação à gestão ambiental.
+
+5.4 ANÁLISE DOS RESULTADOS DO ESTUDO DE CASO
+
+A análise dos resultados do estudo de caso permite concluir que, ao realizar ações protetivas
+do meio ambiente, a atenção da usina está voltada, sobretudo, à sua reputação no mercado e
+na sociedade e à certificação ambiental.
+A certificação demonstra ser o principal mecanismo utilizado para internalizar as
+externalidades positivas ambientais, uma vez que reconhece as atividades realizadas pela
+empresa em benefício do meio ambiente e com isso lhe possibilita transacionar com agentes
+que exijam essa conduta “verde” da outra parte.
+Não é possível determinar se por meio da certificação a usina é diretamente remunerada pelas
+externalidades positivas que gerou, se há um pagamento pelos benefícios gerados 20. Mas
+certamente pode-se afirmar que, mesmo que indiretamente, a empresa ganha com a
+certificação, pois esta lhe permite atuar em mercados que demandam cada vez mais produtos
+e serviços cujo processo produtivo tenha ocorrido em observância da proteção do meio
+ambiente.
+A partir dessas constatações, verifica-se que é o próprio mercado quem incentiva a empresa a
+proteger o meio ambiente, realizando até mesmo atividades além das exigidas pelo
+ordenamento jurídico, como o desenvolvimento do Programa Ambiental Y. Ela responde a
+esses incentivos porque possui interesses econômicos (já que a própria razão de existência de
+uma empresa privada é o lucro, e sua saúde financeira também possui uma função social 21);
+
+20
+
+A análise do lucro da empresa em razão da certificação seria objeto de estudo da Economia e outras áreas
+afins.
+21
+Nesse sentido, afirma Clarissa D‟Isep (2004, p.43) que “(...) uma gestão empresarial que se preze, isto é, que
+faça jus às características econômicas, vai se adequar à legislação ambiental e, se possível, dela extrair a
+lucratividade, que, numa versão capitalista, será „socializando os custos e privatizando o lucro‟. Não se pretende
+dizer que a empresa não deva obter lucro e se tornar social, mesmo porque, ao obtê-lo, ela já exerce um papel
+social, pois garante a sua sobrevivência (e, conseqüentemente, garante empregos, hoje o maior desafio do
+
+58
+
+no entanto, com essa conduta, ao mesmo tempo em que satisfaz interesses privados passa a
+atender ao interesse coletivo de um meio ambiente ecologicamente equilibrado.
+Conclui-se também que a partir da criação de uma estrutura de incentivos é possível estimular
+a expansão das ações desenvolvidas pelo agente. Por exemplo, quanto à usina objeto do
+estudo de caso, se a empresa identificar retornos positivos pode vir a mudar seu
+comportamento de modo a recuperar inclusive áreas verdes das propriedades arrendadas, o
+que não ocorre hoje.
+
+5.4.1 Análise das hipóteses de trabalho
+
+Realizado o estudo teórico e analisados os resultados do estudo de caso, pode-se verificar se
+as hipóteses de trabalho correspondem à realidade encontrada. A primeira hipótese admitia
+que os custos da proteção ambiental são altos, pois as externalidades positivas geradas não
+são diretamente remuneradas, o que de fato é verdade, uma vez que, como estudado, os
+espaços protegidos geram custos ao particular em razão de sua recuperação ou manutenção e
+também custos de oportunidade, derivados do fato de que a área que constitui o espaço
+protegido não pode ser utilizada para a finalidade econômica do agente.
+Incidem, ainda, os custos de transação em razão de uma assimetria de informação e
+ineficiente delimitação do direito de propriedade. A conduta ambiental praticada não é
+reconhecida, pois essa informação não é devidamente transmitida pelo mercado, e as
+externalidades positivas correspondentes à proteção do meio ambiente não são internalizadas
+de modo a integrarem o direito de propriedade que será transacionado. Dessa forma, essas
+externalidades não são remuneradas e os custos de sua produção recaem somente sobre o
+agente produtor. Por isso, confirma-se a primeira hipótese apresentada.
+Na segunda hipótese afirmava-se que apesar dos custos incidentes, utilizando estratégias de
+redução das assimetrias informacionais os agentes conseguem obter lucro. As evidências do
+estudo de caso comprovam também essa hipótese, pois se demonstrou que os padrões e
+certificações adotados reduzem as assimetrias de informação e, assim, agregam valor à
+empresa, já que permitem atender às demandas específicas, promover a fidelização de clientes
+e transacionar em mercados que exigem determinados parâmetros ambientais.
+sistema capitalista). Tampouco pretendemos externar que ela deva socializar os prejuízos. Apenas descrevemos
+as suas características”.
+
+59
+
+Por fim, é confirmada a hipótese de que a partir da redução de assimetria e obtenção de
+lucro, há um incentivo à continuidade da proteção ambiental, pois, ao vislumbrar uma
+contrapartida às suas ações, o agente econômico é motivado a continuar a realizá-las uma vez
+que são remuneradas – o que diminui os custos em que ele incorre para cumprir a legislação
+ambiental – e, até mesmo, porque constituem condição para o lucro em determinados casos,
+como nas situações em que é exigida determinada padronização ou certificado.
+Desse modo, a verificação das hipóteses de trabalho evidenciou algumas das implicações
+econômicas sobre a concretização da proteção ecológica: custos relacionados às
+externalidades positivas; necessidade de redução da assimetria informacional para diminuição
+dos custos; continuidade da conduta ambiental a partir da obtenção de lucro.
+Ou seja, o estudo de caso identificou os fatores econômicos que motivam e determinam a
+conduta da empresa. A partir disso, é possível realizar uma nova investigação teórica que
+analise como as instituições estatais podem agir sobre esses fatores a fim de influenciar a
+tomada de decisão do agente econômico, para que esta seja a mais eficiente possível sob o
+ponto de vista ambiental.
+Em suma, o estudo de caso revelou a racionalidade econômica quanto à proteção ambiental,
+resultado do qual se pode partir para analisar mecanismos de incentivo que possam ser
+eficientes à defesa do meio ambiente. Mecanismos esses que sejam atrativos ao agente
+privado de maneira a potencializar a prática de atividades desejadas socialmente22.
+
+5.4.2 O papel das instituições
+
+As instituições são regras que definem as interações sociais e as estruturas políticas e
+econômicas (NORTH, 1991, p. 97). Podem ser compostas por regras formais, que são um
+produto do processo de escolha deliberada, como constituições, leis e demais atos e políticas
+22
+
+A ideia de interferir na conduta privada a partir de incentivos se conforma ao que pondera Ricardo Abramovay
+(2009, p. 338): “É claro que o setor privado age por interesse. A questão consiste em saber de que maneira se
+formam e se exprimem esses interesses. A principal crítica que se pode fazer aos que rejeitam, a princípio, o
+conceito de responsabilidade socioambiental do setor privado é que tratam os interesses empresariais como se
+fossem imunes à pressão social. Tudo se passa como se os mercados, de fato, fossem mecanismos de equilíbrio,
+neutros, impessoais e situados, por assim dizer, acima da vida social”. E acrescenta o autor: “A ideia de que
+objetivos humanos emancipadores só podem ser alcançados fora do âmbito daquilo que se faz no mercado se
+apoia no mito de que a economia existe fora da sociedade e que a produção material é e deve ser autônoma com
+relação a valores e escolhas sociais baseadas em valores. É nesse sentido que a responsabilidade socioambiental
+do setor privado só pode ser compreendida à luz da inserção das empresas, do mercado, do sistema de preços e
+da economia no mundo social” (2009, p. 356).
+
+60
+
+governamentais; ou informais, que se podem dizer difusas, encontradas no dia-a-dia do
+comportamento social dos indivíduos e a ele incorporadas por meio de um processo muitas
+vezes não percebido, como exemplo, os costumes, tradições e códigos de conduta
+(AGUIRRE, 2005, p. 237).
+Rachel Sztajn (2005, p. 228) afirma que a palavra “instituição” possui diversos significados,
+mas com um cerne comum: representam um conjunto de princípios e regras (jurídicas ou
+não), que configuram relações sociais ou grupo de relações sociais. E para o direito as
+instituições representam a ordenação sistêmica da disciplina, os pilares sobre os quais se
+estrutura o edifício lógico-normativo.
+São as instituições que criam ordem, reduzem incertezas nas trocas e influenciam escolhas,
+pois afetam diretamente a estrutura e conduta das organizações, as quais respondem às regras
+e incentivos estabelecidos. Constituem as “regras do jogo” (NORTH, 1991), assim, a forma
+com que as instituições são postas influencia a tomada de decisão, pois a estrutura de
+incentivo provida por elas influi nas preferências dos agentes econômicos, interferindo no
+desenvolvimento de uma economia ou setor econômico e no modo como ele ocorrerá.
+O papel das instituições é decisivo para a eficiência das organizações, pois cria estímulos para
+que estas se comportem de modo propício à execução de um projeto de desenvolvimento
+político, econômico, ambiental e social.
+As instituições podem ser eficientes, utilizando-se incentivos que estabeleçam recompensas à
+prática de atividades desejadas e desincentivos e sanções para as atividades indesejadas
+(BRANDELLI, 2011, p. 150). Ou podem ser ineficientes se falharem nesse mecanismo de
+incentivo/desincentivo. Quando há a falta de sanção das práticas indesejadas, isso pode se
+tornar até mesmo um incentivo a atividades oportunistas.
+É o que ocorre hoje em relação à degradação ambiental no Brasil. Diante do quadro de falhas
+na fiscalização, morosidade dos procedimentos de apuração e julgamento, e falta de
+efetividade das sanções aplicadas, os agentes oportunistas considerarão mais vantajoso em
+vez de cumprir as regras de proteção ambiental incorrer no risco de sofrer a sanção, se
+acreditarem que este é menor do que o potencial ganho ao explorar a área que deveria ser
+preservada.
+
+61
+
+Além disso, recentemente houve questionáveis mudanças institucionais no tocante aos
+espaços protegidos, com a promulgação do novo Código Florestal (BRASIL, 2012), que para
+alguns é considerado em muitos pontos um retrocesso na proteção ambiental brasileira.
+Ele traz disposições criticáveis como a extensão de tratamento diferenciado (concedido à
+pequena propriedade e posse rural familiar) a propriedades e posses rurais com até quatro
+módulos fiscais que desenvolvam atividades agrossilvipastoris, sem dizer se essas devem
+estar ligadas à agricultura familiar (BRASIL, 2012, art. 3º, parágrafo único). Isso faz com que
+propriedades como chácaras utilizadas para lazer possam ser beneficiadas sem fazer jus aos
+motivos – sobretudo de subsistência – por que se dedicou um tratamento diferenciado à
+pequena propriedade familiar.
+Criou-se também quanto à Amazônia Legal a possibilidade do poder público reduzir a reserva
+legal para até 50%, para fins de recomposição, quando o Município tiver mais de 50% da área
+ocupada por unidades de conservação da natureza de domínio público e por terras indígenas
+homologadas (BRASIL, 2012, art. 12, § 4º). Com tal dispositivo desconsidera-se que a
+reserva legal e as unidades de conservação são institutos diferentes exatamente por tutelarem
+bens jurídicos diversos, o que não justificaria admitir a redução da reserva legal em razão de o
+município já possuir grande extensão de unidades de conservação.
+Há muitos outros pontos questionados, como: a) a permissão para computar área de APP no
+cálculo do percentual de reserva legal para qualquer imóvel, sob a imposição de condições
+insuficientes; b) a permissão para que propriedades que detinham, até 22 de julho de 2008,
+área de até quatro módulos fiscais, e que possuíam vegetação nativa em percentuais inferiores
+ao previsto para a reserva legal, passem a considerar como reserva legal apenas a vegetação
+remanescente na propriedade (o que pode representar até mesmo “meia dúzia” de árvores),
+legalizando-se a diminuição indiscriminada de áreas protegidas; c) a introdução de muitas
+diferenciações pela nova lei que aumentará ainda mais as dificuldades de monitoramento e
+controle ambiental.
+Assim, percebe-se que as instituições de controle estatal falham na proteção ambiental, por
+motivos como as deficiências relativas à efetiva fiscalização e sanção e o retrocesso
+apresentado por novas normas. Então, para buscar eficiência na defesa do meio ambiente é
+necessária a correção dessas falhas mas, também, contar com mecanismos de incentivo, que
+induzam práticas mais saudáveis ao meio ambiente.
+
+62
+
+Além disso, as instituições estatais, ditas formais, podem buscar agir em harmonia com as
+instituições informais criadas pelo mercado, para buscar maior eficiência dos mecanismos de
+incentivo. No estudo de caso realizado, verificou-se que a pressão exercida pelo mercado
+quanto à gestão ambiental faz com que a empresa procure moldar seu comportamento de
+acordo com as regras de mercado, aderindo à adoção de padrões de gestão e submetendo-se à
+certificação. Dessa forma, as instituições formais podem atuar complementarmente ao
+mercado apoiando e fomentando essa conduta motivada por ele, por meio da criação de uma
+estrutura (inclusive normativa) adequada para a concretização das ações desejadas.
+De acordo com Maria Cecília Lustosa (2003, p. 164-165), os fatores institucionais são
+importantes estímulos para que o agente realize investimentos ambientais e, segundo a autora,
+são quatro os principais fatores que induzem esse comportamento: a regulamentação estatal; a
+pressão dos consumidores finais e intermediários; a pressão dos stakeholders, exercida por
+diversos grupos, desde populações residentes na vizinhança de um empreendimento poluidor
+até parlamentares e sociedade civil organizada; e a pressão dos investidores.
+A empresa procura moldar seu comportamento de acordo com esse ambiente institucional e
+de maneira a auferir algum benefício. Dessa forma, o meio ambiente tem se tornado uma nova
+variável introduzida no gerenciamento dos negócios (GIORDANO, 2001, p. 267). O agente
+responde à pressão pela proteção ecológica, mas ao mesmo tempo faz com que esta lhe
+agregue valor, ou seja, internaliza as externalidades positivas que produz. Adota um modelo
+de gerenciamento denominado gestão ambiental, um conjunto de medidas e procedimentos
+bem definidos e adequadamente aplicados que visam a reduzir os impactos de um
+empreendimento sobre o meio ambiente (GIORDANO, 2001, p. 261).
+Trata-se, na verdade, de um dever legal, pois a exigência do desenvolvimento da atividade
+econômica de modo compatível com a defesa do meio ambiente permeia todo o ordenamento
+jurídico23. No entanto, como lembra Clarissa D‟Isep (2004, p. 136), não se pode negar o
+caráter criativo do mercado, que faz de um dever também uma atividade lucrativa, ao utilizar
+essa postura de proteção ambiental para influenciar a reputação da empresa na sociedade e no
+mercado.
+
+23
+
+Podem ser citados os principais dispositivos que assim dispõe: art. 225 e art.170, incisos III e VI da
+Constituição Federal; art. 2º da Política Nacional do Meio Ambiente (Lei nº 6.938/81) e art.51, XIV, do Código
+de Defesa do Consumidor (Lei nº 8.078/90).
+
+63
+
+5.4.2.1 A função promocional do direito
+
+Dado o papel de grande influência que o Estado exerce sobre o ambiente institucional, cabe a
+ele fomentar comportamentos convergentes com o interesse público de um meio ambiente
+equilibrado, garantindo um ambiente institucional que promova a preservação ecológica.
+E cabe ao direito se adaptar segundo as conjunturas que se apresentam, dialogando
+permanentemente com as mudanças sociais (ALTMANN, 2008, p. 23), sempre em busca de
+dar a efetiva tutela aos interesses coletivos. A complexidade das demandas da sociedade
+contemporânea exige do Estado estratégias multifacetadas e concatenadas entre si para que se
+enfrentem desafios como o de frear a degradação do meio ambiente e seus reflexos.
+Para isso, é necessário que se abandone a postura predominantemente repressiva do Estado,
+que não tem sido plenamente eficaz. O Estado deve proteger o meio ambiente evitando riscos
+e antecipando-se ao dano ambiental24.
+Afirma Cristiane Derani (2008, p. 197) que o direito moderno adquire sua legitimação pela
+eficiência e não pela formalidade de que se reveste. Segundo a autora, para resolver a “crise
+do direito” é preciso superar os mitos de infalibilidade e perfeição sistêmica formal do
+ordenamento jurídico diante da realidade, procurando uma adaptação conjuntural eficiente.
+O direito ambiental deve ir além do mero poder de polícia e orientar as forças produtivas em
+uma determinada direção, menos agressiva ao meio ambiente. As instituições estatais devem
+ser proativas em vez de reativas, formulando políticas exequíveis, simples e adaptadas
+(CARVALHO, E., 2010, p. 121).
+Para isso, o direito ambiental deve ser entendido e aplicado de acordo com o ideal de
+desenvolvimento sustentável. Segundo esse paradigma, não há por que se manter estanques a
+atuação estatal e a atuação do agente econômico em relação ao meio ambiente. Pelo contrário,
+o que se propõe é que caminhem conjuntamente. Por meio de políticas públicas devem ser
+estimuladas as ações de proteção ambiental realizadas pelo agente, fazendo com que a
+atividade econômica se realize de modo compatível à sustentabilidade ambiental.
+
+24
+
+Sobre o caráter retardatário e repressivo do Direito: “Não se garantindo os meios para que o direito acompanhe
+a velocidade de mudanças da sociedade, fica ele condenado a caminhar constantemente atrás dos acontecimentos
+sociais, realizando apenas uma tarefa de polícia, recusando-se a cumprir seu papel político, no sentido de ação
+constituidora e não apenas corretora” (DERANI, 2008, p. 55).
+
+64
+
+O Estado não precisa agir somente no sentido de coibir as práticas degradantes. A partir de
+uma função promocional ele pode também estimular as condutas desejáveis socialmente. Por
+um lado, isso condiz com o princípio da precaução, pois o incentivo representa um
+planejamento que busca a não-ocorrência do dano – principalmente por se considerar que a
+norma proibitiva pode ser descumprida tendo-se em vista os problemas brasileiros de
+fiscalização e sanção.
+Por outro lado, essa atitude promocional e a implementação do princípio da precaução estão
+diretamente relacionados à realização de outro princípio ambiental, o da cooperação. Este
+princípio diz respeito a uma atuação conjunta do Estado e sociedade na escolha de prioridades
+e nos processos decisórios, voltada a objetivos como o de “estabilidade no relacionamento
+entre liberdade individual e necessidade social” (DERANI, 2008, p. 142; 251), buscando a
+melhor harmonização entre os valores e as práticas da sociedade, inclusive as da atividade
+econômica.
+Uma das questões mais importantes na economia de bem-estar25 é a derivação de uma função
+de bem-estar social, que agrega preferências individuais em preferências sociais (COOTER;
+ULEN, 2008, p. 47). A partir dessa ideia é que o Estado deve atuar, intervindo na ordem
+econômica de maneira a estimular condutas privadas que coadunem com a defesa do meio
+ambiente.
+Conforme Eros Grau (2010), uma das modalidades de intervenção do Estado é a intervenção
+por indução, por meio da qual ele intervém sobre o processo econômico. O Estado manipula
+os instrumentos de intervenção em consonância e na conformidade das leis que regem o
+funcionamento dos mercados, “convidando” o agente a uma opção de agir convergente com o
+interesse social (GRAU, 2010, p. 147-148).
+Esse tipo de intervenção representa a preocupação do Estado com uma eficiência dinâmica do
+sistema, intervindo no mercado de modo a causar-lhe distorções, alterá-lo, interferir no seu
+funcionamento, a fim de fazer com que os resultados produzidos deixem de ser apenas os
+
+25
+
+Claramente optada pela Constituição Federal de 1988, que traz como um dos objetivos fundamentais da
+República a promoção do bem-estar social (BRASIL, 1988, art. 3º, IV) e, mais a frente, declara que a ordem
+econômica tem por fim assegurar a todos existência digna, conforme os ditames da justiça social (BRASIL,
+1988, art. 170).
+
+65
+
+naturais ou espontâneos, para se aperfeiçoarem às metas fixadas, socialmente desejadas e
+fomentadas (NUSDEO, 1993, p. 25-26)26.
+Trata-se do exercício da função promocional do direito, tratada por Norberto Bobbio e
+caracterizada pela técnica do encorajamento, que visa não apenas a tutelar a possibilidade de
+fazer ou não fazer, caso se trate de atos permitidos, a possibilidade de fazer, caso se trate de
+atos obrigatórios, e a possibilidade de não fazer, caso se trate de atos proibidos; mas também a
+provocar o exercício dos atos conformes às regras, tornando os atos obrigatórios
+particularmente atraentes e os atos proibidos particularmente repugnantes (2007, p. 14-15).
+O encorajamento pode ser por meio da sanção positiva, que vem sob a forma de recompensa,
+isto é, depois de o comportamento já ter sido realizado; ou por meio da facilitação, que
+precede ou acompanha o comportamento que se pretende encorajar (BOBBIO, 2007, p. 17).
+Em resumo, pode-se encorajar intervindo sobre as consequências do comportamento ou sobre
+as formas e condições do próprio comportamento.
+De um ponto de vista funcional, a grande diferença entre as normas de desencorajamento (as
+que visam apenas a tutelar, e não a incentivar atos conformes) e as de encorajamento reside no
+fato de que as primeiras são utilizadas predominantemente com o objetivo de conservação
+social e as segundas com o objetivo de mudança (BOBBIO, 2007, p. 20-21).
+Partindo-se da afirmação do autor de que uma medida destinada simplesmente a desencorajar
+a transgressão de uma dada norma serve para manter o status quo, evidencia-se ainda mais a
+necessidade no caso brasileiro de técnicas de encorajamento, que transformem o estado atual
+da proteção ambiental no Brasil, pouco eficiente.
+É premente uma atitude mais ativa do que passiva, que estimule e sustente condutas benéficas
+ao meio ambiente. Isso não significa descartar ou diminuir a importância dos instrumentos de
+comando e controle, com a inclusão de instrumentos de incentivo positivo o que se pretende é
+“prevenir a degradação ambiental de tal sorte que não se faça necessária a utilização de
+instrumentos de comando e controle” (ALTMANN, 2008, p. 24)
+
+26
+
+Diogo Moreira Neto (2005, p. 106-107) relaciona o novo papel do Estado na economia ao conceito de
+eficiência, a ser obtida seja pela atuação estatal direta, seja pelo mercado: “Essa nova acepção de eficiência passa
+a ser vital no processo de globalização, como um imperativo não só de desenvolvimento como de sobrevivência,
+em um mundo em que as demandas não podem deixar de ser atendidas a contento, seja pelas instituições
+públicas, seja pelas instituições privadas. Com efeito, as pessoas querem ter seus interesses satisfeitos, pouco
+importando quem deles se ocupe [...]”.
+
+66
+
+Além disso, a indução do comportamento por meio de incentivos pode produzir efeitos até
+mesmo para terceiros que não optaram por aderir à conduta estimulada. Estes acabam ficando
+em posição desprivilegiada no mercado, por não estarem na mesma situação do concorrente
+que se beneficiou com um subsídio ou redução de tributo, por exemplo. Isso confere àqueles
+que aderiram ao comportamento incentivado melhores condições de participação no mercado
+(GRAU, 2010, p. 149) e, assim, estimula-se um mercado com agentes que atuem de forma
+convergente ao interesse social.
+Para a criação de uma estrutura eficaz à defesa do meio ambiente, necessitam-se políticas
+públicas ambientais27 que articulem o uso dos instrumentos de comando e controle com os
+instrumentos econômicos de incentivo, de modo a promover uma atuação integrada28. Nesse
+sentido, considera Ana Maria Nusdeo (2006, p. 363):
+Políticas públicas – entre as quais a ambiental – devem comparar e avaliar a relação
+dos instrumentos econômicos com aqueles de controle. O melhor instrumento será
+aquele que atinge os objetivos perseguidos com o menor custo social, isto é, o custo
+incorrido pela sociedade para atingi-los. Em outras palavras, o instrumento que
+apresente a menor relação custo-benefício para a sociedade e, ao mesmo tempo, se
+articule com os demais objetivos das políticas públicas num determinado país,
+sobretudo aquelas relacionadas ao desenvolvimento sustentável. (grifo nosso)
+
+Demonstra-se, assim, evidente a importância da atuação estatal no sentido de impulsionar as
+condutas privadas de proteção ambiental, em caráter complementar aos tradicionais
+instrumentos de comando e controle. Para isso, podem ser aplicadas diversas formas de
+incentivo, dentre elas: os incentivos fiscais, o pagamento por serviços ambientais e os
+incentivos à certificação, tratados no capítulo seguinte.
+
+27
+
+Políticas públicas compostas por ações coordenadas entre si, com uma estratégia bem definida; conforme
+conceitua Maria Paula Bucci (2002, p.241), “programas de ação governamental visando a coordenar os meios à
+disposição do Estado e as atividades privadas, para a realização de objetivos socialmente relevantes e
+politicamente determinados” (grifo nosso).
+28
+Não é apenas hoje que o Estado assume uma função que não se limita ao poder de polícia, conforme Norberto
+Bobbio (2007, p. 67-68): “Parto da distinção estabelecida por Jhering, que repercutiu em Kelsen, entre a esfera
+das relações econômicas, na qual a alavanca predominante e caracterizadora da conduta é a recompensa, e a
+esfera das relações político-jurídicas, na qual a alavanca predominante e caracterizadora é a coação. Essa
+distinção está vinculada à imagem de uma sociedade em que a atividade econômica primária, a atividade da
+produção dos bens, cabe sobretudo aos particulares, enquanto ao Estado compete essencialmente a organização
+da força, isto é, a produção de um serviço indispensável à coexistência, à coesão, à integração do grupo social.
+Essa imagem jamais correspondeu à realidade, nem mesmo nos momentos de maior expansão econômica da
+sociedade civil ou burguesa (que é, simultaneamente, também a sociedade privada ou das relações privadas).
+Entretanto, desde que o Estado estendeu suas atividades para a produção de outros serviços, além da organização
+da coação, e provê, direta ou indiretamente, também a produção de bens, aquela imagem certamente passou a ser
+falsa. Se ela é falsa, surge a suspeita de que também a separação entre as recompensas e as penas em dois
+campos distintos, à qual se religa aquela imagem, deva ser revista”.
+
+67
+
+6 INCENTIVOS À PROTEÇÃO AMBIENTAL
+
+6.1 INCENTIVOS FISCAIS
+
+A tributação é o meio pelo qual o Estado aufere recursos necessários à sua existência como
+unidade político-operacional (aspecto fiscal ou arrecadatório). Mas, além de possuir essa
+finalidade arrecadatória, ela é utilizada como um poderoso instrumento de gestão de políticas
+econômicas e sociais, com caráter indutor dos comportamentos desejados (aspecto extrafiscal
+ou regulatório) (MICHELS, 2005, p. 228; COSTA, 2005, p. 313).
+Assim, a extrafiscalidade é o emprego de instrumentos tributários com objetivo não apenas
+fiscal, mas também ordinatório, a partir do qual o Estado deliberadamente utiliza tais
+instrumentos para alcançar finalidades regulatórias de condutas sociais, em matéria
+econômica,
+
+ambiental,
+
+política
+
+ou
+
+social,
+
+com
+
+vista
+
+à
+
+realização
+
+de
+
+valores
+
+constitucionalmente consagrados (COSTA, 2005, p. 321; RIBAS, 2005, p. 688).
+A Constituição Federal estabelece em seu artigo 170 uma série de princípios a serem
+observados pela atividade econômica, dentre eles o inciso VI, “a defesa do meio ambiente,
+inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e
+serviços e de seus processos de elaboração e prestação” (BRASIL, 1988).
+Com essa finalidade, por meio da tributação o Estado pode estimular comportamentos nãopoluidores e desestimular os poluidores, tributando menos quem não polui ou polui pouco.
+Esse uso extrafiscal da tributação com objetivo de proteção do meio ambiente não requer
+necessariamente tributos novos, mas sim o manejo dos já existentes (RIBAS, 2005, p. 692;
+719).
+A extrafiscalidade pode ser implementada mediante a instituição e a graduação de tributos,
+com adoção de técnicas como a progressividade e diferenciação de alíquotas; a concessão de
+isenções; e outros incentivos fiscais, como a possibilidade de dedução de despesas efetuadas
+pelos contribuintes referentes a recursos empregados na preservação do meio ambiente.
+(COSTA, 2005, p. 321-322).
+Os incentivos fiscais podem ser classificados quanto à sua aplicação no momento da despesa
+ou da receita pública. No momento da despesa são os apoios financeiros, como subvenções,
+
+68
+
+créditos presumidos e subsídios; e no momento da receita ocorrem as reduções do encargo
+tributário, que abrangem as imunidades, isenções, diminuição de alíquotas etc. Entretanto, em
+relação aos incentivos fiscais no âmbito da despesa pública, é relevante destacar a dificuldade
+que surge quanto à fiscalização do uso dos recursos públicos destinados aos fins a que se
+propõem (TRENNEPOHL, 2008, p. 102-103).
+A adoção de incentivos fiscais pode auxiliar o sistema de comando e controle ambiental, pois
+a vantagem das normas indutoras, que estimulam o comportamento individual a se direcionar
+a uma postura ambientalmente correta, advém do fato de que elas “interferem no bolso do
+contribuinte” (COSTA, 2005, p. 323), que então prefere adotar comportamentos menos
+agressivos ao meio ambiente.
+Luís Eduardo Schoueri (2005a, p. 45) denomina esse mecanismo de incentivos como
+intervenção por indução, e diz que esta, “longe de afastar o mercado, o pressupõe, já que se
+vale de meios de convencimento cujo efeito apenas se dá num cenário em que o destinatário
+da norma pode decidir pela conveniência, ou não, do ato visado”.
+A atuação estatal não visa a substituir os mecanismos de mercado, ao contrário, constatandose falhas (como a existência de externalidades positivas), realizam-se adaptações nas receitas
+e despesas, de modo a permitir que, a partir daí, o próprio mercado venha a agir (SCHOUERI,
+2005b, p. 237).
+A importância dessa questão foi possível de ser analisada na prática a partir do estudo de caso
+com a usina de cana-de-açúcar, no qual por meio das entrevistas a empresa se manifestou no
+sentido de que incentivos fiscais seriam um apoio motivador. Sobretudo, seria uma forma de
+tratar de maneira diferente e com equidade a empresa que investe em proteção ambiental da
+que não investe.
+Quanto à aplicação da intervenção por indução no nosso ordenamento, Consuelo Yoshida
+(2005, p. 534) lembra que a própria Política Nacional do Meio Ambiente (Lei nº 6.938/81) já
+revela a importância dos instrumentos tributários e econômico-financeiros para a proteção
+ambiental ao prever a perda ou restrição dos incentivos fiscais e a perda ou suspensão de
+participação em linhas de financiamento em estabelecimentos oficiais de crédito como
+espécies de sanção administrativa (art. 14, II e III).
+
+69
+
+São exemplos de situações em que houve uso da extrafiscalidade com finalidade ambiental: a
+legislação do Imposto de Renda que autorizou a dedução de importâncias empregadas em
+projetos de reflorestamento (Lei nº 5.106/66, Decreto nº 93.607/86 e Decreto nº 96.233/88)29;
+a Lei nº 9.393/96, que disciplina o Imposto sobre a Propriedade Territorial Rural (ITR) e
+exclui da área tributável as áreas de APP e reserva legal.
+Outro exemplo comumente citado é o “ICMS ecológico” (Imposto sobre a Circulação de
+Mercadorias e Serviços), que é um instrumento financeiro e não tributário, pois trata da
+definição de critérios para a distribuição da arrecadação desse imposto (COSTA, 2005, p.
+324), de modo a favorecer os Municípios onde haja ações de proteção do meio ambiente.
+Entretanto, ainda sobre o ICMS, a sua seletividade, em função da essencialidade das
+mercadorias e serviços, pode ser usada em questões ambientais – o que também pode se
+aplicar ao IPI (Imposto sobre Produtos Industrializados) – pois, conforme Lídia Maria Ribas
+(2005, p. 711), “é essencial a proteção do ambiente, por meio do qual se protege a saúde, o
+bem-estar e a própria vida, o que se traduz afinal em justiça social”.
+É possível também que a legislação do ISS (Imposto sobre Serviços) incentive serviços
+voltados à preservação ambiental, como o ecoturismo, sabidamente orientador e educativo
+(COSTA, 2005, p. 324).
+O novo Código Florestal (BRASIL, 2012) estabelece no art. 41 que o Poder Executivo federal
+está autorizado a instituir, sem prejuízo do cumprimento da legislação ambiental, programa de
+apoio e incentivo à conservação do meio ambiente. Para isso prevê linhas de ação como a
+compensação pelas medidas de conservação ambiental necessárias para o cumprimento dos
+objetivos do Código, por meio de instrumentos como a “isenção de impostos para os
+principais insumos e equipamentos, tais como: fios de arame, postes de madeira tratada,
+bombas d‟água, trado de perfuração de solo, dentre outros utilizados para os processos de
+recuperação e manutenção das Áreas de Preservação Permanente, de Reserva Legal e de uso
+restrito30” (BRASIL, 2012, art. 41, II, f).
+
+29
+
+“Quando a legislação do IR permite o abatimento de gastos com investimentos destinados ao reflorestamento
+[Lei nº 5.106/66], incentiva a formação de reservas florestais assim como pode permitir, por exemplo, a dedução,
+pelas empresas, de gastos com máquinas, materiais ou mão-de-obra utilizados na implantação de dispositivos
+que protejam o ambiente, o que efetiva a implementação de política de proteção ao meio ambiente” (RIBAS,
+2005, p. 712).
+30
+Áreas de uso restrito são as definidas pelos artigos 10 e 11 do novo Código Florestal, respectivamente, os
+pantanais e planícies pantaneiras, onde é permitida a exploração ecologicamente sustentável, e as áreas de
+
+70
+
+Além disso, para financiar as atividades necessárias à regularização ambiental das
+propriedades rurais, esse programa federal de apoio e incentivo à conservação do meio
+ambiente poderá prever a dedução da base de cálculo do imposto de renda do proprietário ou
+possuidor de imóvel rural, pessoa física ou jurídica, de parte dos gastos efetuados com a
+recomposição das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito cujo
+desmatamento seja anterior a 22 de julho de 2008 (BRASIL, 2012, art. 41, §1º, II).
+É possível também que o programa estabeleça diferenciação tributária para empresas que
+industrializem ou comercializem produtos originários de propriedades ou posses rurais que
+cumpram os padrões e limites estabelecidos quanto às áreas de preservação permanente, áreas
+de uso restrito e reserva legal, ou que estejam em processo de cumpri-los (BRASIL, 2012, art.
+41, §2º).
+Assim, com a utilização dos incentivos o Estado pode incrementar as políticas públicas de
+preservação ambiental, entretanto, é preciso observar as competências e limitações
+constitucionais e legais para o estabelecimento desses benefícios. Exemplo disso é a
+determinação da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000), que prevê
+em seu artigo 14 que a concessão ou ampliação de incentivo ou benefício deverá demonstrar
+que não será afetada a receita e as metas de resultados fiscais, bem como que haverá medidas
+de compensação (TRENNEPOHL, 2008, p. 105).
+
+6.2 PAGAMENTO POR SERVIÇOS AMBIENTAIS
+
+O pagamento por serviços ambientais (PSA) é um instrumento utilizado para que
+ecossistemas sejam manejados de modo a gerar determinados serviços ambientais (COSTA,
+2008, p. 14). Esses serviços são prestados pelo ecossistema e estão ligados a funções como a
+regulação do clima, conservação da biodiversidade, absorção de carbono atmosférico,
+proteção de beleza cênica, regulação hidrológica e proteção de mananciais, ciclagem de
+nutrientes etc. (ALTMANN, [20--], p. 1; NUSDEO, 2010, p. 127).
+O PSA versa sobre a remuneração das atividades que contribuam para a provisão desses
+serviços, inclusive as envolvidas no processo produtivo. Atribuir valor a serviços ambientais
+prestigia o caráter multifuncional do meio ambiente e, sobretudo, do espaço rural, que não é
+inclinação entre 25° e 45°, onde são permitidos o manejo florestal sustentável e o exercício de atividades
+agrossilvipastoris (BRASIL, 2012).
+
+71
+
+visto mais como mero fornecedor de produtos primários, conferindo-se a ele importância
+ecológica, econômica e sociocultural (SÁ, 2007, p. 5; 9).
+Dentre as práticas de produção agrícola consideradas adequadas à produção sustentável,
+podem-se citar: conservação do solo e água, conservação da biodiversidade (manutenção de
+áreas florestais nativas, conservação e replantio de espécies vegetais nativas, manutenção das
+áreas de preservação permanentes, proibição e fiscalização rigorosa do corte de matas
+nativas), utilização de práticas agronômicas saudáveis, reciclagem de matérias-primas rurais,
+educação ambiental e diversas outras (GIORDANO, 2001, p. 265-266).
+A natureza fornece a base dos elementos necessários à vida e ao exercício da atividade
+econômica. Conforme haja degradação, são necessárias soluções artificiais para a substituição
+dos serviços prestados pelos ecossistemas, soluções essas que são menos adequadas e mais
+custosas (NUSDEO, 2010, p. 126). Investir em instrumentos de prevenção, como o PSA,
+pode significar economia na reparação de danos ambientais, na recuperação ou substituição
+do serviço ambiental (ALTMANN, [20--], p. 4).
+Quando não há a valorização dos serviços ambientais, a área é convertida para outro uso que
+seja mais vantajoso para o proprietário. O pagamento pelos serviços ambientais, compensando
+os benefícios renunciados, pode servir para induzir o indivíduo a trocar práticas degradantes
+do meio ambiente por outras que sejam protetivas. Desse modo, os programas de PSA podem
+complementar as normas jurídicas de proteção ambiental31.
+O objetivo fundamental do pagamento por serviços ambientais é transformar a proteção em
+algo mais atrativo do que a exploração, pois é um mecanismo por meio do qual se
+internalizam as externalidades positivas, visto que terceiros (beneficiários dessas
+externalidades) são introduzidos no processo de geração dos serviços ambientais, tornando-se
+solidariamente responsáveis pelos ganhos coletivos.
+
+31
+
+“Os serviços ambientais historicamente foram percebidos pelas sociedades como livres, ou seja, como algo
+que a natureza provê gratuitamente ao homem, ainda que estes serviços lhes fossem essenciais à vida e às
+atividades produtivas. Isso se explicava diante da abundância dos serviços ecológicos. Com a exploração
+exacerbada dos ecossistemas em busca de espaço físico (fragmentação dos habitats) e de recursos naturais,
+verificou-se a escassez de alguns dos serviços ambientais antes prestados gratuitamente pela natureza nesses
+ecossistemas. Em resposta a escassez desses serviços, bem como diante da constatação de que os instrumentos
+de comando e controle não eram suficientes para garantir o provimento dos serviços ambientais, alguns países
+adotaram experiências de remuneração pela manutenção de tais serviços [...] As perdas econômicas e sociais
+decorrentes da escassez dos serviços ambientais fizeram com que a economia atribuísse valor a tais serviços”
+(ALTMANN, [20--], p. 3).
+
+72
+
+A iniciativa do pagamento por serviços ambientais pode vir de diferentes agentes. Alguns
+programas de PSA exigem uma participação mais intensa do Estado, outros têm maior
+envolvimento de ONGs e outros têm como agentes principais de seu desenvolvimento entes
+privados, como os mercados de crédito de carbono (NUSDEO, 2008, p. 18).
+Em muitos casos verifica-se até mesmo uma disposição a pagar por parte dos beneficiários da
+preservação do serviço ambiental, uma vez que a remuneração do provedor garante o fluxo
+desse serviço (ALTMANN, [20--], p. 4). Por exemplo, a decisão de uma empresa
+abastecedora de água de pagar proprietários vizinhos para proteger seus mananciais, ou um
+hotel voltado ao ecoturismo recompensar um vizinho para manter uma área preservada a fim
+de garantir sua paisagem (NUSDEO, 2008, p. 15).
+O PSA ocorre por meio de uma transação voluntária, entre o pagador do serviço ambiental e
+aquele que preserva o ecossistema para garantir a provisão dos serviços. Além disso, é
+necessário que esteja claro e bem definido o serviço ambiental pelo qual se está pagando, por
+isso é importante estabelecer previamente referências ou parâmetros que indicarão a
+quantidade e/ou qualidade do serviço ecológico a ser remunerado (ALTMANN, [20--], p. 5).
+Embora haja a possibilidade de outros entes criarem programas de pagamento por serviços
+ambientais, destaca-se a importância do poder público em assumir tal iniciativa, cumprindo
+seu papel de direcionar a concretização da proteção ambiental pelos indivíduos. No Brasil, já
+existem projetos nesse sentido, como o Programa de Desenvolvimento Socioambiental da
+Produção Familiar Rural (Proambiente), criado em 2000, no âmbito da Amazônia
+(OLIVEIRA; ALTAFIN, [20--], p. 4).
+Outro exemplo é o Programa de Apoio à Conservação Ambiental Bolsa Verde (parte do
+Programa Brasil Sem Miséria), criado em 2011 com os objetivos de incentivo à conservação
+dos ecossistemas e melhoria das condições de vida de populações de baixa renda. Ele
+concede, a cada trimestre, um benefício de R$ 300,00 (trezentos reais) às famílias em situação
+de extrema pobreza que vivem em áreas consideradas prioritárias para conservação ambiental.
+E tramita na Câmara dos Deputados o Projeto de Lei nº 792/2007 32, ao qual estão apensados
+diversos outros projetos, que tratam da Política Nacional de Serviços Ambientais (PNSA),
+
+32
+
+Para mais informações sobre o PL 792/2007:
+<http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=348783>. Acesso em: 14 jul.
+2012.
+
+73
+
+cuja maior estratégia é o Programa Federal de Pagamento por Serviços Ambientais (PFPSA),
+um instrumento de operacionalização dos incentivos àqueles que colaboram com a geração de
+serviços ambientais e, consequentemente, com a proteção ambiental. O PL nº 792/2007
+dispõe:
+Art.1º Consideram-se serviços ambientais aqueles que se apresentam como fluxos de
+matéria, energia e informação de estoque de capital natural, que combinados com
+serviços do capital construído e humano produzem benefícios aos seres humanos,
+tais como:
+I - os bens produzidos e proporcionados pelos ecossistemas, incluindo alimentos,
+água, combustíveis, fibras, recursos genéticos, medicinas naturais;
+II - serviços obtidos da regulação dos processos ecossistêmicos, como a qualidade
+do ar, regulação do clima, regulação da água, purificação da água, controle de
+erosão, regulação enfermidades humanas, controle biológico e mitigação de riscos;
+III - benefícios não materiais que enriquecem a qualidade de vida, tais como a
+diversidade cultura, os valores religiosos e espirituais, conhecimento – tradicional e
+formal –, inspirações, valores estéticos, relações sociais, sentido de lugar, valor de
+patrimônio cultural, recreação e ecoturismo;
+IV - serviços necessários para produzir todos os outros serviços, incluindo a
+produção primária, a formação do solo, a produção de oxigênio, retenção de solos,
+polinização, provisão de habitat e reciclagem de nutrientes.
+Art. 2º. Todo aquele que, de forma voluntária, empregar esforços no sentido de
+aplicar ou desenvolver os benefícios dispostos no Art. 1º desta lei fará jus a
+pagamento ou compensação, conforme estabelecido em regulamento (BRASIL,
+2007).
+
+O projeto prevê que o pagamento seja realizado por meio de um fundo federal, cujos recursos
+podem ser provenientes de doações de pessoas físicas ou jurídicas; rendimentos da aplicação
+do patrimônio do próprio fundo; recursos do Ministério do Meio Ambiente sobre a
+participação especial paga pela exploração de petróleo em grande volume ou grande
+rentabilidade; dinheiro do Orçamento da União e seus créditos adicionais; verbas de
+convênios com órgãos e entidades da administração pública federal, estadual, do Distrito
+Federal ou municipal; empréstimos e saldos anuais não aplicados. Entretanto, não há
+atualização sobre a tramitação do projeto desde junho de 2011.
+O Código Florestal promulgado em 2012 também prevê a possibilidade de criação de um
+programa federal de apoio e incentivo à conservação do meio ambiente, que tenha como linha
+de ação o pagamento ou incentivo a serviços ambientais como retribuição, monetária ou não,
+às atividades de conservação e melhoria dos ecossistemas e que gerem serviços ambientais 33,
+33
+
+O dispositivo apresenta um rol exemplificativo de serviços ambientais: o sequestro, a conservação, a
+manutenção e o aumento do estoque e a diminuição do fluxo de carbono; a conservação da beleza cênica natural;
+a conservação da biodiversidade; a conservação das águas e dos serviços hídricos; a regulação do clima; a
+valorização cultural e do conhecimento tradicional ecossistêmico; a conservação e o melhoramento do solo; a
+manutenção de Áreas de Preservação Permanente, de Reserva Legal e de uso restrito (BRASIL, 2012, art. 41,
+I).
+
+74
+
+(BRASIL, 2012, art. 41, I). E estabelece que esse programa deverá integrar os sistemas em
+âmbito nacional e estadual, objetivando a criação de um mercado de serviços ambientais
+(BRASIL, 2012, art. 41, §5º).
+No entanto, a simples inclusão da possibilidade de pagamento por serviços ambientais no
+Código Florestal não traz muito avanço se não vier acompanhada de uma efetiva política
+nacional sobre o tema, que regulamente e torne efetivo o PSA. O novo Código dispõe de
+maneira muito vaga sobre a integração do programa de apoio e incentivo à conservação do
+meio ambiente com os “sistemas em âmbito nacional e estadual” para criação de um mercado
+de serviços ambientais, sem apresentar nem linhas gerais de como se daria essa integração e
+criação de um mercado.
+Outra questão discutida quanto ao PSA é se a remuneração é devida mesmo para as situações
+em que simplesmente se protege de acordo com o que é previsto na legislação, ou se o
+pagamento seria cabível apenas quando é gerado um benefício além do mínimo exigido do
+particular.
+As previsões no ordenamento jurídico brasileiro quanto a esse instituto – seja nos programas
+já criados ou no projeto de lei sobre a Política Nacional de Serviços Ambientais, bem como
+nas disposições do novo Código Florestal – não diferenciam os serviços ambientais gerados
+pelo mero cumprimento da lei daqueles que seriam um “bônus” para a sociedade, gerados por
+ações além das exigidas legalmente.
+Dessa forma, não havendo disposição em contrário, pode-se dizer que o PSA abrange todos os
+serviços ambientais prestados, de acordo com as disposições de cada programa,
+independentemente da conduta de proteção ambiental simplesmente se enquadrar nos padrões
+exigidos ou oferecer algo a mais.
+Assim, quanto aos espaços protegidos, tema deste estudo, deve-se admitir que os serviços
+prestados, mesmo que por meio de sua mera manutenção dentro dos parâmetros legais,
+caracterizam-se como serviços ambientais, uma vez que promovem a redução do
+desmatamento, proteção da biodiversidade, manutenção dos ecossistemas, dentre muitas
+outras funções que fazem parte da definição do conceito de serviço ambiental. Essa
+constatação justifica o pagamento pelos serviços ambientais gerados por esses espaços,
+remunerando-se o particular pela proteção que promove.
+
+75
+
+O instrumento de PSA parece adequado para estimular principalmente ações de proteção
+ambiental por parte da agricultura familiar, pois muitas vezes essas pessoas vivem em
+situação de miséria, com baixíssimo rendimento anual. O PSA pode, então, ajudar para que
+tenham condições de preservar, em vez de degradar áreas verdes para que sejam utilizadas
+para a produção, voltada à própria subsistência. Para isso, é necessário que o programa não
+apenas remunere os serviços ambientais e fiscalize se a proteção ambiental está sendo
+cumprida, mas também que seja prestado auxílio técnico-informacional a esses produtores.
+No caso da agricultura familiar e pequenos empresários rurais, os elevados custos de
+recuperação e manutenção dos espaços protegidos podem inibir a criação e conservação de
+tais áreas como estabelecem as normas ambientais. Logo, o Estado pode se valer do PSA
+como uma política pública que sirva de instrumento complementar às normas de comando e
+controle, pois remunerar quem presta serviços ambientais pode constituir um incentivo
+eficiente para promover a proteção ambiental, considerando-se que faticamente a norma
+jurídica não produzirá seus efeitos se não for compatível com a realidade econômica do seu
+destinatário.
+Nos demais casos, como de produtores com grande poder econômico, o PSA não é visto com
+a mesma essencialidade quanto nos casos acima citados, mas constitui um instrumento de
+incentivo que poderia maximizar a atuação privada no sentido de defesa do meio ambiente.
+Além de transformar a proteção em algo mais atrativo do que degradar em razão do custo de
+oportunidade da área protegida, poderia estimular ações ambientais além das exigidas por lei.
+Por exemplo, poderia estimular os agentes econômicos a desenvolverem projetos de
+recomposição de áreas de preservação permanente, como o Programa Ambiental Y executado
+pela empresa objeto do estudo de caso, em que são fornecidas mudas e informação técnica aos
+interessados.
+Por outro lado, os que já possuem algum programa de proteção ambiental poderiam ampliar
+sua atuação. No caso estudado, a usina não realiza a recomposição das áreas verdes das
+propriedades arrendadas, apenas fornece mudas e assistência para tanto; no entanto, uma vez
+existindo o pagamento por serviços ambientais a empresa poderia ser incentivada a mudar tal
+conduta de modo a atuar diretamente na recomposição dessas áreas.
+
+76
+
+6.3 CERTIFICAÇÃO AMBIENTAL
+
+6.3.1 Fidelização
+
+No estudo de caso realizado, verificou-se que os objetivos de fidelização de clientes com
+demanda especializada e certificação para acesso a determinados mercados levaram a empresa
+a práticas vantajosas ao meio ambiente.
+A fidelização de clientes é um dos objetivos de um agente econômico. Segundo Itzhak
+Bogmann (2002, p. 21), “no contexto empresarial, cliente fiel é aquele que está envolvido,
+presente; aquele que não muda de fornecedor, e mantém consumo freqüente, optando por uma
+organização em particular, sempre que necessita de um determinado produto ou similar”.
+A fidelização está ligada à questão da qualidade, tomada esta em seu sentido amplo, desde o
+processo produtivo até o produto em si. As organizações devem se adaptar à demanda que
+exige especificidades do produto, aprender a lidar com o mercado que passou a exigir
+cuidados com o meio ambiente.
+Ela traz o cliente externo para dentro da empresa (BOGMANN, 2002, p. 24), pois a produção
+passa a ocorrer conforme as determinações dos clientes, para criar o valor desejado por eles –
+no caso, o valor ambiental – e atender à demanda específica.
+Antes que a fidelização ocorra, no entanto, há um custo de transação para identificar os
+clientes que procuram produtos com aqueles determinados atributos. A fim de diminuir esse
+custo, o agente pode adotar padrões de referência, que facilitam a coordenação entre as partes,
+uma vez que reduzem os custos de aquisição da informação sobre o produto e limitam
+situações sujeitas ao chamado “risco moral” (moral hazard)34, criadas pela falta de
+informação dos compradores e pela possibilidade de que os vendedores dissimulem
+problemas de qualidade (FARINA, 2003, p. 20).
+
+34
+
+“Denomina-se risco moral ou moral hazard a possibilidade de ação oportunista de uma das partes da transação
+que detém informação privilegiada sobre o bem ou serviço transacionado, e tira proveito em detrimento de sua
+contraparte” (FARINA, 2003, p. 20).
+
+77
+
+Como exemplo de padronização pode-se citar a ISO série 1400035, constituída por uma série
+de padrões destinados a fornecer às empresas um sistema para gerenciar o impacto ambiental
+que elas possam causar (GIORDANO, 2001, p. 276).
+Entretanto, quando a padronização torna-se insuficiente para atender às necessidades dos
+agentes e consumidores ou quando passa a ser muito complexa, é preciso dar um passo a
+frente, adotando-se a certificação (NASSAR, 2003, p. 31).
+Conforme apresenta Elisabeth Farina (2003, p. 21), quando os compradores não podem
+verificar por si próprios o atendimento a padrões de qualidade desejada, torna-se necessária a
+certificação da presença de atributos específicos e desejados dos produtos.
+
+6.3.2 Marca de certificação
+
+A marca de certificação, também chamada de marca de garantia, possui a função de atestar a
+composição de um produto devido à presença de elementos que ofereçam certo nível de
+qualidade ou que o produto foi elaborado segundo um determinado procedimento ou método
+de fabricação (TRENTINI, 2012, p. 81).
+Segundo o art. 123 da Lei de Propriedade Industrial (BRASIL, 1996), a marca é usada para
+distinguir produto ou serviço de outro idêntico, semelhante ou afim, de origem diversa. A
+marca de certificação, mais especificamente, é usada para atestar a conformidade de um
+produto ou serviço com determinadas normas ou especificações técnicas, notadamente quanto
+à qualidade, natureza, material utilizado e metodologia empregada.
+Para que ocorra a certificação é necessário um regulamento com determinações claras e
+objetivas sobre as especificações técnicas das características a certificar, de maneira a
+possibilitar a adequada supervisão pelo titular da marca (entidade certificadora), bem como
+medidas de controle e sanções a serem impostas pelo titular em caso de descumprimento
+(UZCÁTEGUI, 2004).
+A certificação serve ao controle de qualidade e de conformidade técnica ao conjunto de
+especificações precisas que atestem determinado padrão exigido pela entidade certificadora,
+
+35
+
+Norma editada pela International Organization for Standardization, que possui 110 países associados, com
+sede em Genebra na Suíça. No Brasil, ela é representada pela Associação Brasileira de Normas Técnicas
+(ABNT).
+
+78
+
+que pode ser pública ou privada, sem interesse direto no produto atestado. Mas, além da
+função de garantir certos atributos, a marca de certificação atualmente constitui parte
+integrante e estratégica do capital intelectual da empresa (UZCÁTEGUI, 2004), sendo um
+diferencial do agente econômico no mercado.
+A certificação ambiental é um instrumento de mercado capaz de influenciar a demanda por
+meio da sinalização e garantia de que um processo produtivo cumpre certos requisitos
+previamente estabelecidos no que diz respeito à não-agressão ambiental. Com isso, diferencia
+determinado processo produtivo, certificado, dos demais processos existentes em um dado
+setor, agregando valor frente a uma demanda qualificada (CARVALHO, L., 2010, p. 24).
+A certificação constitui um importante mecanismo para internalizar as externalidades
+positivas ambientais, uma vez que reconhece as atividades realizadas pelo agente econômico
+em benefício do meio ambiente e com isso lhe possibilita transacionar com outros agentes que
+exijam esse tipo de conduta “verde” da outra parte.
+Esse instrumento está relacionado à teoria da mercantilização do meio ambiente elaborada por
+Ronald Coase (1960), denominada também de teoria da extensão do mercado, a qual
+incorpora a este último o meio ambiente, atribuindo-lhe preços. Os sujeitos privados
+negociam seus interesses em um sistema de direitos de propriedade, buscando a internalização
+eficiente das externalidades (DERANI, 2008, p. 92). Delimita-se o direito de propriedade de
+forma a nele incluir os fatores ambientais, para que possam ser transacionados.
+Uma vez que os indivíduos potencialmente interessados no ativo devem conhecer plenamente
+todos seus atributos estimados (BARZEL, 1997, p. 4), há a necessidade de que as
+externalidades positivas sejam reconhecidas, valoradas e, com isso, incorporadas ao bem,
+refletindo em seu valor; o que elimina a assimetria de informação e diminui custos de
+transação, como já discutido anteriormente.
+A certificação ambiental é um instrumento eficiente para estimular a proteção ecológica, pois
+diminui ou elimina essa assimetria informacional. A oferta do produto será realizada já com a
+informação de que ele possui determinados atributos, garantidos pela certificação. Esses
+benefícios ambientais passarão a compor o direito de propriedade a ser transacionado.
+Isso reduz os custos de transação, uma vez que, ao fornecer informação qualificada, facilita a
+coordenação entre as partes. De tal maneira, aquele produto passará a ser reconhecido e
+
+79
+
+procurado no mercado por conter as características específicas certificadas, será diferenciado
+de outros produtos não submetidos à certificação. Devido a essa diferenciação e acesso a
+mercados que valorizam o produto certificado, o agente é estimulado a manter a proteção
+ambiental praticada.
+É difícil determinar se por meio da certificação o agente é diretamente remunerado pelas
+externalidades positivas que gerou, se há um pagamento direto pelos benefícios. Mas é certo
+que, mesmo que indiretamente, a empresa ganha com a certificação, pois esta lhe permite
+atuar em mercados que demandam cada vez mais produtos e serviços cujo processo produtivo
+tenha ocorrido em observância da proteção ecológica.
+Os “selos verdes” conferidos pela certificação surgem como resposta à falha de mercado
+representada pela assimetria de informação. Paulo Furquim de Azevedo (2005, p. 122-123)
+diz que um dos problemas que desta decorrem é a seleção adversa, que “elimina do mercado
+os produtos de boa qualidade porque o vendedor não consegue convencer o comprador sobre
+a qualidade do produto”.
+O vendedor exigirá um alto valor para a transação do bem de alta qualidade e o comprador,
+ignorante quanto à alta qualidade, aceita pagar somente o valor correspondente à qualidade
+esperada, que seria inferior. Assim, somente o bem de qualidade inferior – no caso, aquele
+cujo processo produtivo não esteve atento às condições ambientais – será comercializado e o
+outro será excluído do mercado, o que não ocorreria se houvesse a certificação a atestar as
+características do produto.
+E, além de atuar como redutora da assimetria informacional, é preciso acrescentar que, uma
+vez obtido um certo grau de conhecimento e reputação, a marca de certificação fará com que
+outros produtores queiram ajustar-se a esses mesmos padrões e dela fazer uso (SENIOR,
+2007, p. 488). Consequentemente, a certificação ambiental é um importante instrumento para
+contribuir com uma significativa melhora da qualidade do processo produtivo e dos produtos,
+no tocante à proteção do meio ambiente.
+Ademais, a empresa que desenvolve práticas de proteção ambiental a médio e longo prazo
+pode vir a se tornar mais competitiva no mercado, à medida que essa conduta estimula a
+inovação e modernização dos processos produtivos, fomentando o uso de tecnologias mais
+limpas (SENIOR, 2007, p. 486). O que, repita-se, é desejável segundo o ideal de
+desenvolvimento sustentável.
+
+80
+
+6.3.4 Funções do Estado na certificação
+
+Uma vez que o mercado tem atuado como sinalizador para a adoção de ações ambientais
+positivas pelos agentes econômicos quando exige certos padrões e certificados, o Estado pode
+intervir por meio de incentivos para orientar a atuação dos agentes, garantindo e otimizando
+uma prática privada gratificante tanto ao investidor quanto à sociedade (DERANI, 2008, p.
+149).
+Pode impulsionar as empresas à certificação, seja a partir de apoio e incentivos a adotarem
+certificações privadas como, por exemplo, o Bonsucro; ou criando ele mesmo selos próprios,
+como a iniciativa do Estado de São Paulo, que criou em 2007, no âmbito do Protocolo
+Agroambiental, o Certificado de Conformidade Agroambiental.
+Esse Protocolo visa a reconhecer e premiar as boas práticas ambientais e, por meio da
+publicidade do certificado concedido às unidades agroindustriais e às associações de
+fornecedores de cana, influencia na imagem das usinas e associações frente ao mercado
+interno e externo, determinando um padrão positivo de planos e metas de adequação
+ambiental a ser seguido (SÃO PAULO, 2007).
+Em razão desse tipo de influência na sua imagem, o agente econômico é atraído a adotar boas
+práticas ambientais e a se submeter à certificação, pois esta atua como um mecanismo redutor
+de assimetria de informação e que lhe agrega valor.
+Nos sistemas de certificação há três atores principais, o Estado, as empresas e as associações.
+Ao Estado pode competir o papel de executor e coordenador, mas nem sempre, pois a
+certificação pode ser realizada por instituições privadas, geralmente associações.
+Por outro lado, sempre cabe ao poder público o papel de agente regulamentador 36. Pois ao
+Estado cumpre garantir o ambiente institucional, algumas vezes por meio de regulamentações
+específicas para cada sistema de certificação; outras vezes, regulamentações gerais que
+servem de balizamento para a certificação (NASSAR, 2003, p. 41-42).
+
+36
+
+“O direito é sistema aberto e, como é influenciado pelo meio que o produz não pode ignorar que, quando
+agentes econômicos atuam, criando para si novas formas de relacionamento, elas devem ser captadas pelo
+ordenamento que disporá quanto à eficácia dos efeitos” (SZTAJN, 2001. p. 9).
+
+81
+
+A garantia é dada pelo titular da marca, a entidade certificadora, mas é necessário que as
+autoridades públicas desempenhem papel de vigilância do cumprimento do regulamento de
+utilização da marca e das características que ela garante (UZCÁTEGUI, 2004). Cabe a ele
+auxiliar o setor privado na certificação e monitorar os resultados ao consumidor (NASSAR,
+2003, p. 44).
+Além da função de regulamentador, há que se considerar o papel do Estado de fomento das
+condutas privadas desejáveis socialmente. É preciso pensar a forma como o direito age na
+mudança de perspectiva da apropriação dos recursos naturais para o desenvolvimento
+econômico (DERANI, 2008, p. 103), para que passe a agir de maneira preventiva, e não só
+repressiva.
+Ao poder público importa a promoção da certificação porque existe o interesse coletivo pelo
+fato de que colabora para o cumprimento das normas ambientais. Como bem elucida Luiz
+Carvalho (2010, p. 25), a relação da certificação ambiental com a legislação é auxiliar, uma
+vez que a regulação da primeira gera o enquadramento da atividade produtiva na segunda, e a
+supera. Desse modo, a coordenação entre as duas é benéfica; são independentes, mas os
+objetivos/consequências as unem.
+Dentre outros fatores, os critérios fixados para a certificação tomam a legislação ambiental
+existente como linha base, piso a partir do qual ser partirá. Por isso é importante contar com a
+presença do Estado no processo, apoiando a criação e consolidação de um sistema de
+certificação (CARVALHO, L., 2010, p. 81).
+Ressalte-se, ainda, que a certificação é um instrumento de grande permeabilidade no mercado,
+já que o agente facilmente enxerga vantagens econômicas em se certificar, como o acesso a
+determinados mercados. Por isso, é muito eficiente na alteração de comportamentos do setor
+produtivo, fazendo com que estes se tornem mais adequados aos objetivos das políticas
+ambientais.
+
+82
+
+7 CONSIDERAÇÕES FINAIS
+
+Os espaços protegidos geram obrigações e custos para o particular e, ao mesmo tempo,
+serviços ambientais que constituem benefícios coletivos. São as chamadas externalidades
+positivas, que revelam o conflito entre interesse privado e interesse social.
+Em princípio, essas externalidades não são remuneradas, devido a uma assimetria de
+informação. Entretanto, o estudo de caso realizado verificou que, por meio de estratégias
+como a certificação ambiental, o agente econômico faz com que as ações de proteção
+ecológica por ele praticadas lhe agreguem valor.
+Por meio da certificação, internalizam-se as externalidades positivas ambientais, que passam a
+compor o direito de propriedade a ser transacionado. Ela diminui a assimetria de informação,
+pois sinaliza e garante certos atributos do produto, e, com isso, reduz também os custos de
+transação, uma vez que ao fornecer informação qualificada facilita a coordenação entre as
+partes.
+A adoção da certificação decorre da pressão exercida pelo mercado, pois constitui requisito
+para que a usina possa atender a demandas específicas e promover a fidelização desses
+clientes, além de transacionar em segmentos de mercado que exigem determinados
+parâmetros ambientais.
+Dessa forma, a partir da internalização das externalidades positivas e consequente vantagem
+econômica do agente, este é impulsionado a manter sua conduta benéfica à proteção
+ambiental. Ou seja, ao mesmo tempo em que a empresa satisfaz seu objetivo de lucro, adota
+um comportamento que atende ao interesse social.
+Assim, o estudo de caso identificou os fatores econômicos que determinam a conduta da
+usina: custos relacionados às externalidades positivas; necessidade de redução da assimetria
+informacional para diminuição desses custos; continuidade da conduta ambiental em razão da
+obtenção de lucro apesar dos custos suportados.
+A análise desses fatores que influenciam as ações da empresa permitiu investigar como as
+instituições estatais podem sobre eles agir a fim de influenciar a tomada de decisão do agente
+
+83
+
+econômico, de modo com que esta seja a mais eficiente possível sob o ponto de vista
+ambiental.
+Nesse passo, uma vez constatado o caráter indutor do mercado quanto à proteção ecológica –
+ao exigir certos padrões e certificação –, cabe ao Estado uma função complementar de intervir
+no sentido de fomento às atividades privadas convergentes com o objetivo de um meio
+ambiente ecologicamente equilibrado.
+É papel fundamental do Estado direcionar e promover a concretização da proteção do meio
+ambiente. Ele deve reconhecer as falhas do ordenamento jurídico, do ineficiente mecanismo
+de coerção estatal e falhas de mercado (como as externalidades) e agir no sentido de corrigilas ou propiciar instrumentos para a correção. Para que isso ocorra, devem ser criados
+incentivos para a adoção e manutenção das condutas desejadas socialmente.
+São necessárias políticas públicas que alinhem o uso dos instrumentos de comando e controle
+com os instrumentos econômicos de incentivo, para que se torne mais eficiente a defesa do
+meio ambiente e condizente com o princípio da precaução, antecipando-se aos danos, quase
+sempre difíceis de serem reparados.
+A intervenção estatal pode se valer de técnicas de encorajamento caracterizadas por
+instrumentos como incentivos à certificação, a qual se mostrou eficiente à tutela ambiental no
+caso estudado, e outros mais, tais como os incentivos fiscais e o pagamento por serviços
+ambientais.
+Os incentivos fiscais estão relacionados à extrafiscalidade, por meio da qual a tributação se
+volta à indução de comportamentos, para buscar determinados resultados sociais. Com o
+objetivo de estimular ativamente a proteção ambiental, a extrafiscalidade pode ser
+implementada mediante a diferenciação de alíquotas, concessão de isenções, dentre outros
+mecanismos.
+Já existem algumas aplicações da extrafiscalidade ambiental no Brasil, como em relação ao
+ITR, que exclui da área tributável a APP e a reserva legal, além de possibilitar a dedução de
+importâncias empregadas em projetos de reflorestamento. Porém, a legislação brasileira
+poderia avançar na questão, por exemplo, valendo-se de maneira mais efetiva da seletividade
+do IPI e possibilidade de seletividade do ICMS, em função da essencialidade de produtos e
+serviços que estejam ligados à proteção ecológica.
+
+84
+
+O novo Código Florestal autoriza a criação de um programa de apoio e incentivo à
+conservação ambiental que preveja instrumentos como isenções, deduções da base de cálculo
+e diferenciações tributárias. Entretanto, a implementação dos incentivos fiscais, por meio da
+criação desse programa ou concessão de outros benefícios como os acima citados, é preciso
+estar sempre atenta às competências e limitações constitucionais e legais.
+Por outro lado, a proteção pode ser incentivada também por meio de um pagamento aos
+serviços ambientais gerados a partir do caráter multifuncional do espaço rural, o qual presta
+uma série de serviços essenciais ao equilíbrio ecológico. Busca-se evitar a conversão das
+áreas protegidas para outro uso que seja mais vantajoso para o proprietário; ou seja, uma vez
+que o PSA compensa os benefícios renunciados, pode servir para induzir o indivíduo a trocar
+práticas degradantes do meio ambiente por outras que sejam protetivas.
+Há exemplos de programas de pagamento por serviços ambientais no país, como o
+Proambiente e o Programa de Apoio à Conservação Ambiental Bolsa Verde, e também o
+Código Florestal de 2012 prevê a possibilidade de criação de um programa de PSA e de um
+mercado de serviços ambientais. Porém, a disposição do Código é apenas programática, o que
+ainda faz necessário o estabelecimento do programa, regulamentando com precisão os
+serviços que ensejarão o pagamento, qual o pagador, a fonte dos recursos, seus beneficiários
+etc.
+Quanto ao papel do poder público na certificação, cumpre a ele exercer a função de agente
+regulamentador, estabelecendo regulamentações gerais e específicas para a certificação –
+como sobre a fiscalização a ser aplicada sobre as certificadoras, questão ainda mal abordada
+no ordenamento jurídico brasileiro. Mas o Estado pode também atuar no sentido de incentivo
+aos particulares à adoção das certificações privadas, bem como criar ele próprio determinados
+selos.
+Ao criar incentivos como os tratados pelo estudo, o Estado reconhece os benefícios sociais
+produzidos a partir de ações privadas e proporciona ao agente condições para que as
+externalidades positivas ambientais continuem a ser geradas. E, assim, pode cumprir seu papel
+de garantidor de um ambiente institucional que promove efetivamente a proteção ambiental.
+Essa postura revela o caráter de cooperação que pode existir entre o poder público e o setor
+econômico no tocante à defesa do meio ambiente, a qual passa a contar com a participação
+
+85
+
+ativa de vários atores na busca de maior eficiência da proteção ecológica, a partir de uma
+perspectiva de sustentabilidade entre as questões ambientais e econômicas.
+
+86
+
+REFERÊNCIAS
+
+ABRAMOVAY, Ricardo. Responsabilidade socioambiental: as empresas no meio ambiente,
+o meio ambiente nas empresas. In: VEIGA, José Eli da (Org). Economia socioambiental.
+São Paulo: Senac, 2009. p. 335-358.
+AGUIRRE, Basília. Mudança institucional: a perspectiva da nova economia institucional. In:
+ZYLBERSZTAJN, Decio; SZTAJN, Rachel (Org.). Direito & Economia: análise econômica
+do direito e das organizações. Rio de Janeiro: Elsevier, 2005. p. 235-243.
+ALTMANN, Alexandre. A função promocional do direito e o pagamento pelos serviços
+ecológicos. Revista de Direito Ambiental, São Paulo, ano 13, n. 52, p. 11-26, out./ dez.
+2008.
+______. Pagamento por serviços ambientais: aspectos jurídicos para sua aplicação no Brasil.
+Instituto
+
+O
+
+Direito
+
+por
+
+Um
+
+Planeta
+
+Verde.
+
+[20--].
+
+Disponível
+
+em:
+
+<http://www.planetaverde.org/artigos/arq_12_51_43_26_10_10.pdf>. Acesso em: 20 mar.
+2011.
+ALVES-MAZZOTTI, Alda Judit; GEWANDSZNAJDER, Fernando. O método nas ciências
+naturais e sociais: pesquisa quantitativa e qualitativa. 2. ed. São Paulo: Thomson, 1998.
+ANTUNES, Paulo de Bessa. Direito ambiental. 12. ed. rev. e atual. Rio de Janeiro: Lumen
+Juris, 2010.
+ARAGÃO, Maria Alexandra de Sousa. O princípio do poluidor pagador: pedra angular da
+política comunitária do ambiente. Coimbra: Coimbra Editora, 1997.
+AZEVEDO, Paulo Furquim de. Economia dos contratos. In: ZYLBERSZTAJN, Decio;
+SZTAJN, Rachel (Org.). Direito & Economia: análise econômica do direito e das
+organizações. Rio de Janeiro: Elsevier, 2005. p. 102-136.
+BARZEL, Yoram. Economic analysis of property rights. New York: Cambrige University
+Press, 1997.
+BOBBIO, Norberto. Da estrutura à função: novos estudos de teoria do direito. Barueri:
+Manole, 2007.
+
+87
+
+BOGMANN, Itzhak Meir. Marketing de relacionamento: estratégias de fidelização e suas
+implicações financeiras. São Paulo: Nobel, 2002.
+BRANDELLI, Leonardo. A eficiência econômica como instrumento da racionalidade no
+direito. Revista dos Tribunais, São Paulo, ano 100, v. 913, p. 137-173, nov. 2011.
+BRASIL. Constituição da República Federativa do Brasil, de 5 de outubro de 1988.
+Disponível em: <http://www.planalto.gov.br/ccivil_03/constituicao/constituiçao.htm>. Acesso
+em: 20 ago. 2011.
+______. Decreto nº 59.566, de 14 de novembro de 1966. Disponível em: <
+http://www.planalto.gov.br/ccivil_03/decreto/Antigos/D59566.htm>. Acesso em: 16 jul.
+2012.
+______.
+
+Lei
+
+nº
+
+4.771,
+
+de
+
+15
+
+de
+
+setembro
+
+de
+
+1965.
+
+Disponível
+
+em:
+
+<http://www.planalto.gov.br/ccivil_03/Leis/L4771.htm>. Acesso em: 20 mar. 2011.
+______.
+
+Lei
+
+nº
+
+6.938,
+
+de
+
+31
+
+de
+
+agosto
+
+de
+
+1981.
+
+Disponível
+
+em:
+
+<
+
+http://www.planalto.gov.br/ccivil_03/Leis/L6938.htm>. Acesso em: 20 ago. 2011.
+______.
+
+Lei
+
+nº
+
+9.279,
+
+de
+
+14
+
+de
+
+maio
+
+de
+
+1996.
+
+Disponível
+
+em:
+
+<http://www.planalto.gov.br/ccivil_03/leis/L9279.htm>. Acesso em 24 mar. 2012.
+______.
+
+Lei
+
+nº
+
+9.985,
+
+de
+
+18
+
+de
+
+julho
+
+de
+
+2000.
+
+Disponível
+
+em:
+
+<http://www.planalto.gov.br/ccivil_03/Leis/L9985.htm>. Acesso em: 20 ago. 2011.
+______.
+
+Lei
+
+nº
+
+12.651,
+
+de
+
+25
+
+de
+
+maio
+
+de
+
+2012.
+
+Disponível
+
+em:
+
+<http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12651.htm>. Acesso em:
+30 jun. 2012.
+______.
+
+Projeto
+
+de
+
+Lei
+
+nº
+
+792/2007.
+
+Disponível
+
+em:
+
+<http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=348783>.
+Acesso em: 14 jul. 2012.
+BUCCI, Maria Paula Dallari. Direito administrativo e políticas públicas. São Paulo:
+Saraiva, 2002.
+CARVALHO, Edson Ferreira de. Meio ambiente e direitos humanos. Curitiba: Juruá, 2010.
+
+88
+
+CARVALHO, Luiz Souza Lima da Silva. Desenvolvimento responsável: abordagens e
+implicações da certificação ambiental do setor sucroalcooleiro brasileiro. Dissertação
+(Mestrado em Direito) - Universidade de São Paulo, São Paulo, 2010.
+COASE, Ronald H. The problem of social cost. Journal of Law and Economics, v. 3, p.120,
+
+oct.
+
+1960.
+
+Disponível
+
+em:
+
+<http://weber.ucsd.edu/~jlbroz/Courses/POLI200C/syllabus/Coase_social%20cost.pdf>.
+Acesso em: 17 maio 2011.
+COELHO, José Fernando Lutz. Contratos agrários: uma visão neo-agrarista. Curitiba:
+Juruá, 2011.
+COOTER, Robert; ULEN, Thomas. Law & Economics. 5th ed. Boston: Addison-Wesley,
+2008.
+COSTA, Regina Helena. Apontamentos sobre a tributação ambiental no Brasil. In: TÔRRES,
+Heleno Taveira (Org.). Direito tributário ambiental. São Paulo: Malheiros, 2005. p. 312332.
+COSTA, Rosangela Calado da. Pagamentos por serviços ambientais: limites e
+oportunidades para o desenvolvimento sustentável da agricultura familiar na Amazônia
+Brasileira. Tese (Doutorado) – Programa de Pós-Graduação em Ciência Ambiental,
+Universidade de São Paulo, São Paulo, 2008.
+D‟ISEP, Clarissa Ferreira Machado. Direito ambiental econômico e a ISO 14000. São
+Paulo: Editora Revista dos Tribunais, 2004.
+DALY, Herman; FARLEY, Joshua. Ecological economics: principles and applications.
+Washington, DC: Island Press, 2004.
+DERANI, Cristiane. Direito ambiental econômico. 3. ed. São Paulo: Saraiva, 2008.
+DI PIETRO, Maria Sylvia Zanella. Direito administrativo. 21. ed. São Paulo: Atlas, 2008.
+ESTEVES, Heloisa Borges Bastos. Economia e Direito: um diálogo possível. Tese
+(Doutorado) – Programa de Pós-Graduação em Economia, Universidade Federal do Rio de
+Janeiro, Rio de Janeiro, 2010.
+
+89
+
+FARINA,
+
+Elisabeth
+
+M.
+
+M.
+
+Q.
+
+Padronização
+
+em
+
+sistemas
+
+agroindustriais.
+
+In:
+
+ZYLBERSZTAJN, Decio; SCARE, Roberto Fava (Org.). Gestão de qualidade no
+agribusiness: estudos e casos. São Paulo: Atlas, 2003. p. 18-29.
+FIGUEIREDO, Guilherme José Purvin de. Curso de direito ambiental. 3. ed. Curitiba: Arte
+& Letra, 2009.
+FREITAS, Juarez. Sustentabilidade: direito ao futuro. Belo Horizonte: Editora Fórum, 2011.
+GIORDANO,
+
+Samuel
+
+Ribeiro.
+
+Gestão
+
+ambiental
+
+no
+
+sistema
+
+agroindustrial.
+
+In:
+
+ZYLBERSZTAJN, Decio; NEVES, Marcos Fava (Org.). Economia e gestão dos negócios
+agroalimentares: indústria de alimentos, indústria de insumos, produção agropecuária,
+distribuição. São Paulo: Pioneira, 2001. p. 255-281.
+GODOY,
+
+Arilda Schmidt.
+
+Pesquisa
+
+qualitativa:
+
+tipos
+
+fundamentais.
+
+Revista de
+
+Administração de Empresas, São Paulo, v. 35, n. 3, p. 20-29, maio/jun. 1995.
+GOMES, Orlando. Contratos. 26. ed. Rio de Janeiro: Forense, 2008.
+______. Direitos reais. 19. ed. Rio de Janeiro: Forense, 2009.
+GRAU, Eros Roberto. A ordem econômica na Constituição de 1988: interpretação e crítica.
+14. ed. São Paulo: Malheiros, 2010.
+GRIZZI, Ana Luci Limonta Esteves. Direito ambiental aplicado aos contratos. São Paulo:
+Verbo Jurídico, 2008.
+LEITE, José Rubens Morato; PILATI, Luciana Cardoso; JAMUNDÁ, Woldemar. Estado de
+direito ambiental no Brasil. In: KISHI, Sandra A. S.; SILVA, Solange T. da; SOARES, Inês
+V. P. (Org.). Desafios do direito ambiental no século XXI: estudos em homenagem a Paulo
+Affonso Leme Machado. São Paulo: Malheiros, 2005. p. 611-634.
+LUSTOSA, Maria Cecília Junqueira. Industrialização, meio ambiente, inovação e
+competitividade. In: MAY, Peter Hermann; LUSTOSA, Maria Cecília; VINHA, Valéria da
+(Org.). Economia do meio ambiente: teoria e prática. Rio de Janeiro: Elsevier, 2003. p. 155172.
+
+90
+
+______; CÁNEPA, Eugenio Miguel; YOUNG, Carlos Eduardo Frickmann. Política
+ambiental. In: MAY, Peter Hermann; LUSTOSA, Maria Cecília; VINHA, Valéria da (Org.).
+Economia do meio ambiente: teoria e prática. Rio de Janeiro: Elsevier, 2003. p. 135-153.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia
+científica. 6. ed. São Paulo: Atlas, 2007.
+MICHELS, Gilson Wessler. Desenvolvimento e sistema tributário. In: BARRAL, Welber
+(Org.). Direito e desenvolvimento: análise da ordem jurídica brasileira sob a ótica do
+desenvolvimento. São Paulo: Editora Singular, 2005. p. 225-258.
+MMA. Ministério do Meio Ambiente. Roteiro para criação de unidades de conservação
+municipais.
+
+2010.
+
+Disponível
+
+em:
+
+<http://www.mma.gov.br/estruturas/sbf2008_dap/_publicacao/149_publicacao210120110459
+53.pdf>. Acesso em: 30 jan. 2012.
+MOREIRA NETO, Diogo de Figueiredo. O novo papel do Estado na economia. Revista de
+Direito Público da Economia, Belo Horizonte, ano 3, n. 11, p. 99-120, jul./set. 2005.
+MOTTA, Ronaldo Serôa da. Instrumentos econômicos e política ambiental. Revista de
+Direito Ambiental, São Paulo, ano 5, n. 20, p. 86-93, out./ dez. 2000.
+MUELLER, Bernardo. Direitos de propriedade na nova economia das instituições e em
+Direito & Economia. In: ZYLBERSZTAJN, Decio; SZTAJN, Rachel (Org.). Direito &
+Economia: análise econômica do direito e das organizações. Rio de Janeiro: Elsevier, 2005.
+p. 91-101.
+NASSAR, André Meloni. Certificação no agribusiness. In: ZYLBERSZTAJN, Decio;
+SCARE, Roberto Fava (Org.). Gestão de qualidade no agribusiness: estudos e casos. São
+Paulo: Atlas, 2003. p. 30-46.
+NEVES, Marcos Fava; TROMBIN, Vinicius Gustavo; CONSOLI, Matheus Alberto.
+Measurement of sugar cane chain in Brazil. International Food and Agribusiness
+Management Review, Volume 13, Issue 3, p. 37-54, 2010.
+NORTH, Douglass C. Institutions. The Journal of Economic Perspectives, v. 5, n. 1, p. 97112, Winter, 1991. Disponível em: <http://www.jstor.org/pss/1942704>. Acesso em: 17 set.
+2011.
+
+91
+
+NUSDEO, Ana Maria de Oliveira. Áreas de preservação permanente e reservas legais: uma
+análise das motivações para a sua efetiva conservação. In: FIGUEIREDO, Guilherme José
+Purvin et al. (Org.). Código florestal: estudos e reflexões. Curitiba: Letra da Lei, 2010a. p.
+115-130.
+______. O papel dos mercados e dos direitos de propriedade na proteção ambiental,
+2008.
+
+Disponível
+
+em:
+
+<http://www.law.yale.edu/documents/pdf/sela/Nusdeo_Portuguese.pdf>. Acesso em: 14 jan.
+2012.
+______. O uso de instrumentos econômicos nas normas de proteção ambiental. Revista da
+Faculdade de Direito da Universidade de São Paulo, São Paulo, v. 101, p. 357-378, jan./
+dez. 2006.
+______. Regulação econômica e proteção do meio ambiente. In: SCHAPIRO, Mario Gomes
+(Coord.). Direito econômico: direito econômico regulatório. São Paulo: Saraiva, 2010b. p.
+394-421.
+NUSDEO, Fábio. Fundamentos para uma codificação do Direito Econômico. Tese
+(Concurso de provimento do cargo de Professor Titular) – Faculdade de Direito da
+Universidade de São Paulo, São Paulo, 1993.
+OLIVEIRA, Luiz Rodrigues de; ALTAFIN, Iara Guimarães. PROAMBIENTE: uma política
+de pagamento de serviços ambientais no Brasil. SOBER. [20--]. Disponível em:
+<http://www.sober.org.br/palestra/9/421.pdf>. Acesso em: 20 mar. 2011.
+OPTIZ, Silvia C. B.; OPITZ, Oswaldo. Curso completo de direito agrário. 6. ed. São Paulo:
+Saraiva, 2012.
+PHILIPPI JÚNIOR, Arlindo; BRUNA, Gilda Collet; SILVEIRA, Vicente Fernando. Políticas
+públicas e desenvolvimento sustentável. In: PHILIPPI JÚNIOR, Arlindo; ALVES, Alaôr
+Caffé (Org.). Curso interdisciplinar de direito ambiental. Barueri: Manole, 2005. p. 789810.
+PHILIPPI JÚNIOR, Arlindo; RODRIGUES, José Eduardo Ramos. Uma introdução ao direito
+ambiental: conceitos e princípios. In: PHILIPPI JÚNIOR, Arlindo; ALVES, Alaôr Caffé
+(Org.). Curso interdisciplinar de direito ambiental. Barueri: Manole, 2005. p. 3-26.
+
+92
+
+RIBAS, Lídia Maria Lopes Rodrigues. Defesa ambiental: utilização de instrumentos
+tributários. In: TÔRRES, Heleno Taveira (Org.). Direito tributário ambiental. São Paulo:
+Malheiros, 2005. p. 675-723.
+RODRIGUES, Marcelo Abelha. Instituições de direito ambiental. v. 1. São Paulo: Max
+Limonad, 2002.
+______. O direito ambiental no século 21. Revista de Direito Ambiental, São Paulo, ano 13,
+n. 52, p. 125-137, out./ dez. 2008.
+SÁ, João Daniel Macedo. Serviços ambientais: a utilização de instrumentos econômicos para
+valorização da conservação e preservação ambiental. Conpedi, Belo Horizonte, 2007.
+Disponível
+
+em:
+
+<http://www.conpedi.org.br/manaus/arquivos/anais/bh/joao_daniel_macedo_sa.pdf>. Acesso
+em: 20 mar. 2011.
+SÃO PAULO. Protocolo Agro-ambiental do Setor Sucroalcooleiro Paulista. 2007.
+Disponível
+
+em:
+
+<http://www.ambiente.sp.gov.br/etanolverde/documentos/protocoloAgroindustriais.pdf>.
+Acesso em: 12 mar. 2011.
+SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. Direito constitucional ambiental:
+estudos sobre a constituição, os direitos fundamentais e a proteção do ambiente. São Paulo:
+Editora Revista dos Tribunais, 2011.
+SCHOUERI, Luís Eduardo. Normas tributárias indutoras e intervenção econômica. Rio
+de Janeiro: Forense, 2005a.
+______. Normas tributárias indutoras em matéria ambiental. In: TÔRRES, Heleno Taveira
+(Org.). Direito tributário ambiental. São Paulo: Malheiros, 2005b. p. 235-256.
+SENIOR, Alexa et al. Responsabilidad ambiental: factor creador de valor agregado en las
+organizaciones. Revista de Ciencias Sociales, Maracaibo, n. 3, v. 13, p. 484-494, dic. 2007.
+Disponível em: <http://www.scielo.org.ve/pdf/rcs/v13n3/art09.pdf>. Acesso em: 13 mar.
+2012.
+SILVA, José Afonso da. Direito ambiental constitucional. 8. ed. São Paulo: Malheiros,
+2010.
+
+93
+
+SMITHSONIAN TROPICAL RESEARCH INSTITUTE. Agua Salud Project. Disponível
+em: <http://www.ctfs.si.edu/aguasalud/>. Acesso em: 20 mar. 2011.
+______.
+
+Panama
+
+Canal
+
+Watershed
+
+Experiment
+
+Sites.
+
+Disponível
+
+em:
+
+<http://www.ctfs.si.edu/group/Panama+Canal+Watershed+Experiment>. Acesso em: 20 mar.
+2011.
+SOARES, Inês Virgínia Prado. Meio ambiente e orçamento público. In: KISHI, Sandra A. S.;
+SILVA, Solange T. da; SOARES, Inês V. P. (Org.). Desafios do direito ambiental no século
+XXI: estudos em homenagem a Paulo Affonso Leme Machado. São Paulo: Malheiros, 2005.
+p. 553-578.
+SZTAJN, Rachel. Ensaio sobre a natureza da empresa: organização contemporânea da
+atividade. Tese (Concurso de provimento do cargo de Professor Titular) – Faculdade de
+Direito da Universidade de São Paulo, São Paulo, 2001.
+______. Externalidades e custos de transação: a redistribuição de direitos no novo código
+civil. Revista de Direito Mercantil, Industrial, Econômico e Financeiro, São Paulo, ano
+XLIII, n. 133, p. 7-31, jan./ mar. 2004.
+______. Mudança institucional: a perspectiva do direito. In: ZYLBERSZTAJN, Decio;
+SZTAJN, Rachel (Org.). Direito & Economia: análise econômica do direito e das
+organizações. Rio de Janeiro: Elsevier, 2005. p. 228-234.
+TRENNEPOHL, Terence Dornelles. Incentivos fiscais no direito ambiental. São Paulo:
+Saraiva, 2008.
+TRENTINI, Flavia. Teoria geral do direito agrário contemporâneo. São Paulo: Atlas,
+2012.
+______; SAES, Maria Sylvia Macchione (Org.). Sustentabilidade: o desafio para os
+biocombustíveis. São Paulo: Annablume, 2010.
+UZCÁTEGUI, Astrid. A marca de certificação e suas particularidades. Revista da
+Associação Brasileira da Propriedade Industrial, Rio de Janeiro, n. 68, p. 3-10, jan./ fev.
+2004. Disponível em: <http://www.cjp.ula.ve/gpi/documentos/marcas_certificacion.pdf>.
+Acesso em: 15 abr. 2012.
+
+94
+
+WATANABE, Kassia; SCHMIDT, Carla Maria. A multifuncionalidade da agricultura e suas
+externalidades positivas para o desenvolvimento local. In: XLVI CONGRESSO DA
+SOCIEDADE BRASILEIRA DE ECONOMIA, ADMINISTRAÇÃO E SOCIOLOGIA
+RURAL,
+
+2008,
+
+Rio
+
+Branco.
+
+Anais
+
+eletrônicos.
+
+Disponível
+
+em:
+
+<http://www.sober.org.br/palestra/9/930.pdf>. Acesso em: 20 mar. 2011.
+YIN, Robert K. Estudo de caso: planejamento e métodos. 2. ed. Porto Alegre: Bookman,
+2001.
+YOSHIDA, Consuelo Yatsuda Moromizato. A efetividade e a eficiência ambiental dos
+instrumentos econômico-financeiros e tributários. Ênfase na prevenção. A utilização
+econômica dos bens ambientais e suas implicações. In: TÔRRES, Heleno Taveira (Org.).
+Direito tributário ambiental. São Paulo: Malheiros, 2005. p. 527-564.
+ZYLBERSZTAJN, Decio; SZTAJN, Rachel. A economia e o direito de propriedade. In:
+______ (Org.). Direito & Economia: análise econômica do direito e das organizações. Rio de
+Janeiro: Elsevier, 2005. p. 84-91.
+
+

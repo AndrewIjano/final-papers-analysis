@@ -1,0 +1,5304 @@
+COISO
+Experimento 01
+
+Segunda parte do trabalho de conclusão
+de curso apresentado à Universidade
+de São Paulo - Campus Butantã, como
+exigência obrigatória para obtenção
+do grau de Bacharel em Design
+
+Orientação Profa. Dra. Daniela Kutschat Hanns
+Ana Lídia Tudella Marini nusp 7597826
+
+Universidade de São Paulo | Design | 2017
+
+“A expressão reta não sonha.
+Não use o traço acostumado.
+A força de um artista vem
+das suas derrotas.
+Só a alma atormentada pode
+trazer para a voz um formato
+de pássaro.
+Arte não tem pensa:
+O olho vê, a lembrança revê,
+e a imaginação transvê.
+É preciso transver o mundo.”
+Manoel de Barros
+
+Agradecimentos
+trajetória
+
+Agradeço a todos que de alguma maneira, em
+algum momento, participaram dessa troca que
+é a vida, sempre em movimento, para construção, aprendizado e crescimento.
+Agradeço à Daniela Hanns, minha orientadora, pelo percurso neste trabalho e ao longo
+dos anos na FAU, pela constante busca da construção de conhecimentos significativos e transformadores, e por despertar meu olhar sempre
+para novas questões. Também à Clice Mazzilli
+e Giorgio Giorgi, que de igual maneira fizeram
+parte desta troca de conhecimento e vivências
+nesses anos de formação.
+Aos meus amigos, com os quais pude aprender para além das disciplinas, na alegria e na
+cumplicidade, durante os projetos e os dias de
+convivência dentro e fora da FAU, os quais levo
+daqui para a vida.
+À meus pais e à minha irmã, não só pelo
+apoio incondicional nesse tempo de estudo intenso, mas também pelo grande amor, que me
+ajudou a percorrer esse caminho de maneira
+mais leve e edificadora.
+Agradeço especialmente à minha mãe, que
+sendo minha inspiração na vida e para este
+trabalho me conduziu até esse ponto, não só
+como mãe, mas como educadora, missão que
+é cheia de beleza e significado. Que me levou
+a querer trilhar o mesmo caminho, por uma
+estrada diferente, que culmina em um mesmo
+objetivo: transformar pessoas que farão a diferença no mundo.
+Aos entrevistados, educadores, as pessoas
+que cruzaram meu caminho neste tempo de
+desenvolvimento. Pessoas queridas que me
+mostraram que o conhecimento e a conversa
+podem ser muito menos burocráticos e muito
+mais transformadores, que pensar junto é muito melhor, que na conversa se aprende, e que
+lugar de aprender é qualquer lugar.
+E por fim, de maneira especial, agradeço a
+Andrei Speridião, que de todas as maneiras possíveis me amparou e motivou nessa caminhada.
+
+Resumo
+Esta é a segunda parte do Trabalho de Conclusão
+de Curso de Design na Faculdade de Arquitetura e
+Urbanismo da Universidade de São Paulo.
+No volume anterior, construiu-se um panorama sobre o design e a educação. A pesquisa foi
+iniciada de maneira ampla, buscando entender
+esses territórios, ainda não vislumbrando suas conexões, a fim de construir o conhecimento sobre
+suas particularidades, características e evolução.
+Ao longo do processo também foi necessário entender os novos paradigmas e iniciativas
+na educação, o que resultou na compilação de
+algumas referências importantes para o desenvolvimento do estudo, e no reconhecimento da
+riqueza e diversidade de iniciativas.
+Por fim, após todas as investigações, o design
+e a educação foram aproximados, em uma relação de complementaridade e parceria, na busca
+por transformações na educação, orientada pela
+transdisciplinaridade, pelo olhar centrado na
+criança e pela criatividade.
+A proposta deste segundo volume é sintetizar a pesquisa em um projeto aplicável em sala
+de aula, realizando assim um estudo exploratório sobre a influência da brincadeira de faz de
+conta, ou jogo simbólico, na aprendizagem e no
+desenvolvimento infantil. Aproximando a realidade da imaginação.
+Para atingir esse objetivo, foram realizadas experimentações práticas que exploraram as possibilidades e potencialidades da proposição de novas abordagens no ensino. Estas explorações revelaram pontos
+importantes, discutidos neste trabalho.
+
+MARINI, Ana Lídia Tudella., Profa. Dra. Daniela
+Kutschat Hanns. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, julho de
+2017. COISO - Experimento 01.
+Palavras-chave: design, desenvolvimento infantil,
+protagonismo, educação, faz de conta, imaginação
+
+Abstract
+This is the second part of the final graduation
+work for Design course at Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.
+The previous volume built a general view of the
+intersects between design and education. It began with an open research exploring these territories in an unbiased manner, setting apart
+its connections, thus enabling a deeper understanding of each of their own particularities,
+characteristics, and evolution processes.
+Throughout the whole process it was also
+required to understand the new paradigms and
+education initiatives. The research of those resulted in a compilation of important references for the development of this work, and the
+acknowledgement of the rich plurality of initiatives on education. After all these investigations, the merging of design and education
+moved towards complementarity and partnership. It was concluded that the search for
+transformation in education should be guided
+by children-centered perspective, transdisciplinarity, and creativity.
+The aim of this second volume is to synthesize the research in a project that is applicable
+in the classroom, as it performs an exploratory
+study about the influence of symbolic play on
+learning ability and child development.
+In order to achieve the goal, it was conduced
+practical experimentations, as to explore the possibilities and potentialities of new approaches
+for learning. This exploration revealed important
+points, discussed throughout this work.
+
+MARINI, Ana Lídia Tudella., Profa. Dra. Daniela
+Kutschat Hanns. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, july, 2017.
+COISO - Experiment 01.
+Keywords: design, child development, protagonism, education, symbolic play, imagination
+
+O trabalho foi organizado seguindo a ordem do
+projeto, de maneira a oferecer uma visão geral
+do processo, retomando brevemente alguns
+conceitos e questões levantadas em sua primeira versão e passando por toda a sequência de
+desenvolvimento: revisão de conceitos, definição da proposta, execução do protótipo, testes
+em sala e uma primeira ideia do que seria um
+possível futuro como produto.
+
+Sumário
+1. Do trabalho apresentação ......................... 11
+
+6. COISO - experimento 01..................... 81
+
+1.1 Minhas vivências a motivação............................................................................13
+
+6.1 Do lugar as crianças e a escola.........................................................................82
+
+1.2 TCC1 x TCC2 a evolução.....................................................................................14
+
+6.1.1 A escola, as crianças e o entorno......................................................82
+
+1.3 A questão objetivos do trabalho.........................................................................16
+
+6.1.2 O grupo: perfil e cotidiano de atividades.........................................83
+
+2. Da pesquisa revisão teórica....................... 19
+2.1 A primeira infância uma visão geral.................................................................21
+2.2 Fala e escuta voz ativa da criança....................................................................22
+2.3 O faz de conta realidade e fantasia..................................................................23
+2.4 Educação infantil a criança e a escola.............................................................24
+
+3. Das referências e inspirações.......... 27
+
+6.2 O teste experiências em sala de aula..............................................................86
+6.2.1 Dia 01.......................................................................................................88
+6.2.2 Dia 02.......................................................................................................92
+6.2.3 Dia 03....................................................................................................102
+6.3 Impressões o primeiro teste............................................................................114
+
+7. Do futuro o que pode se tornar?...........117
+Conclusão................................................................................................................122
+
+4. Do projeto processo................................. 39
+
+Anexos.......................................................................................................................125
+
+4.1 A metodologia processo de projeto..................................................................40
+
+Anexo A requisitos......................................................................................126
+
+4.2 As oportunidades olhar atento...........................................................................41
+4.3 Requisitos diretrizes projetuais..........................................................................42
+4.4 Geração de alternativas primeiras hipóteses..................................................43
+4.5 A ideia COISO - experimento 01.......................................................................44
+
+5. Do protótipo processo............................. 47
+5.1 Interação momentos e sons ..............................................................................50
+5.2 Núcleo hardware e shield....................................................................................58
+5.3 Invólucro caixa e montagem..............................................................................72
+
+Anexo B blueprint........................................................................................128
+Anexo C desenhos esquemáticos - caixa.............................................134
+Anexo D desenhos esquemáticos - peças............................................136
+Referências bibliográficas..........................................................................140
+Lista de figuras...................................................................................................141
+
+10
+
+“A alegria não chega apenas
+no encontro do achado, mas faz
+parte do processo da busca. E ensinar
+e aprender não pode dar-se fora
+da procura, fora da boniteza
+e da alegria” Paulo Freire
+
+1 apresentação
+
+Do trabalho:
+11
+
+12
+12
+
+Fig 1. Retrato
+da infância, com
+minha irmã mais nova
+no meu primeiro dia
+de aula do ensino
+fundamental (EMEF
+Flávio D’Angieri),
+em Jundiaí, São Paulo
+
+1.1 a motivação
+
+Minhas vivências		
+
+A inspiração para este trabalho surgiu em uma
+experiência realizada em uma escola na cidade
+de São Paulo.
+Na realidade, deve ter surgido um bom tempo antes, quando ainda criança não me atentava à
+pensamentos muito futuros, como o que eu gostaria de ser quando crescesse, ou as questões que
+gostaria de investigar e responder quando adulta.
+Durante as idas à escola em que minha mãe era
+educadora, onde poucos anos me separavam dos
+pequenos que ela alfabetizava. Onde vivi momentos em que pude ensinar enquanto criança, coisa
+que pode parecer inconcebível diante de uma visão hierárquica e tradicional do ensino, mas que
+me permitiu aprender muito mais ou em maior
+profundidade do que nas horas de estudo sentada
+em fileiras na sala de aula.
+Até o início do desenvolvimento deste trabalho - no começo do ano de 2016 - minha visão
+sobre ensino e educação eram pautadas por essa
+bagagem, a minha, própria, única, adquirida durante os anos estudando em escolas públicas municipais e estaduais, e por essa convivência com
+minha mãe - professora da rede pública - que,
+como dito, sempre me incentivou e deixou participar dos seus dias em sala de aula e de seus
+preparos de atividades em casa. Dizem que todo
+filho de professor é meio assistente. Talvez porque
+a educação ultrapasse as fronteiras da sala de aula
+e se estenda até onde se encontrem pessoas interessadas em continuá-la.
+Estudei em escolas da rede pública durante
+toda a minha “vida de formação básica” e os momentos que para mim ficaram na memória não
+foram os das tabuadas ou fórmulas aprendidas
+e sim o das interações humanas e aprendizados
+práticos. Das idas à horta com o Sr. Antônio para
+plantar e acompanhar o crescimento das mudas
+e dos momentos de escutar as explicações daquele senhor sobre o ciclo das coisas. Das leituras
+feitas para as outras turmas em roda, onde havia
+uma troca grande de conhecimento entre nós,
+as próprias crianças. Das vezes que cantávamos
+
+Tarde em Itapuã para estudar sobre coisas que já
+nem me lembro mais.
+Assim, considero que tive a sorte de estar
+em uma escola que apesar do método tradicional,
+fomentou em mim a curiosidade e vontade de
+aprender com autonomia e liberdade.
+Mesmo tendo esse contato com esforços para
+transformação dos métodos educacionais, a metodologia tradicional vigente - desenvolvida de
+acordo com os princípios do sistema tradicional
+- parecia ser o modelo predominante de escola,
+centrado no professor e na construção de conhecimento unilateral.
+Com o desenvolvimento da primeira parte
+do Trabalho de Conclusão de Curso pude expandir meu olhar sobre educação, conhecendo novas
+práticas, iniciativas, e realidades, em escolas particulares e públicas, e fora delas.
+Acompanhando essas mudanças, e agora,
+com um maior entendimento sobre a prática
+do design e seus objetivos (confesso que entrei
+na faculdade como boa parcela dos ingressantes, ainda sem compreender do que se tratava
+verdadeiramente), passei a enxergar pontos de
+comunicação entre a educação e o design, o que
+me levou a buscar novos meios de experimentar essas conexões, que se refletem neste trabalho e nas experimentações e investigações que
+ainda estão por vir.
+
+13
+
+1.2 a evolução
+
+TCC1 x TCC2 			
+
+TCC1
+A primeira parte deste trabalho foi iniciada no
+primeiro semestre de 2016, tendo como foco
+principal investigar as relações entre o design e
+a educação e como estas poderiam moldar e se
+refletir no ensino na rede pública. O primeiro título "Design e educação: Educação como design de
+humanidade" já deixava claro o interesse particular de observação das relações humanas, e não só
+projetuais ou técnicas.
+14
+
+"Se o design é uma atividade desenvolvida pelo
+ser humano e para o ser humano. Fazer design é
+justamente praticar estas habilidades da melhor
+maneira possível, de forma ética, estética, consciente e responsável. Assim, pode-se dizer que o
+design constitui a interface nas relações estabelecidas entre o ser humano e o entorno.” (FONTOURA e PEREIRA, 2004, p.1)
+A primeira pergunta, pensada como fio condutor para o início do desenvolvimento da pesquisa foi:
+Como o design – atividade que modela o entorno
+por meio de projetos, e se relaciona intimamente com a
+tecnologia e as artes – pode atuar como transformador
+das práticas tradicionais de ensino, somando-se à educação, buscando incentivar o protagonismo da criança e a
+valorização e desenvolvimento de suas potencialidades,
+bem como a sensibilização para os problemas do cotidiano e do mundo?
+Desse questionamento partiu a estrutura da
+primeira parte do trabalho, que se deu da seguinte
+maneira: primeiro em uma investigação das duas
+áreas separadamente, sendo o design e seus conceitos, processos, atividades, habilidades e objetivos e a educação, o modelo tradicional e as novas
+iniciativas e paradigmas. Após esse levantamento
+as duas áreas foram aproximadas, as conexões entre elas foram percebidas e exploradas e começaram a ser estruturados alguns conceitos-base do
+trabalho: a transdisciplinaridade, o estímulo da
+criatividade, o protagonismo, o aprendizado mão-
+
+na-massa e a experimentação, que se tornou um
+ponto muito importante e central do trabalho.
+O design seguiu durante todo o processo sendo visto sob a ótica que dialoga com habilidades
+e competências intrínsecas ao ser humano, que
+podem ser desenvolvidas por meio de suas relações com a literatura, a arte, a ciência, a tecnologia. E que configuram a base para o pensamento
+complexo, visto que a complexidade da sociedade
+contemporânea apresenta desafios que, se analisados tão somente sob a ótica disciplinar, não
+poderiam ser resolvidos.
+A educação foi enxergada de maneira ampla,
+embasada no conceito de “formação informal”:
+o processo de “dar forma”. Vista sob o olhar dos
+mistérios, revelados por André Gravatá, no livro
+Mistérios da educação (2014): olhar, escuta, ousadia,
+consistência, espaço e tempo, somados à visão de
+Bruno Munari sobre o processo de design, que se
+dá na fantasia, invenção, criatividade e imaginação.
+Dessas visões de design e educação, das
+pesquisas e do descobrimento de novas maneiras de educar, alguns princípios norteadores do
+desenvolvimento do projeto foram determinados: o conceito de saber / sabor (estimular o
+aprendizado com sentido), o conceito de musculatura (criar as bases para o aprendizado, investindo nas competências socioemocionais), a
+empatia (buscando a sensibilização e a capacidade de se projetar no outro) e o estímulo da
+imaginação e criação.
+Assim, a pesquisa inicial, que culminou no
+primeiro volume deste trabalho, se estendeu por
+temas abrangentes, buscando investigar as grandes áreas da educação e do design e suas possíveis
+conexões, o que levou à percepção de grande diversidade de necessidades e possibilidades. Sendo assim, ao final da primeira parte do trabalho a
+proposta permaneceu aberta ainda que algumas
+diretrizes tenham sido determinadas e reflitam
+agora no seu formato final.
+
+TCC2
+Com a conclusão da primeira parte da pesquisa
+e as observações da banca, surgiram questionamentos e ideias que orientaram a revisão de certos pontos no trabalho.
+Uma pesquisa ampla teve como resultado
+uma variedade de possibilidades de projetos
+e propostas. No início do processo foi difícil
+determinar a problemática, visto que a educação é um sistema complexo, com necessidades
+particulares e oportunidades em diferentes níveis de atuação.
+Pode-se dizer que foram três os principais
+pontos considerados para determinação da proposta: o primeiro foi a experimentação. A ideia
+de testar o projeto na sala de aula se transformou em requisito.
+Também foi considerada a visão centrada na
+criação de novas possibilidades de interação e
+ensino, em detrimento de uma visão centrada
+somente em problemas já existentes e muito
+discutidos. Outro princípio norteador foi a investigação dos limites entre imaginação e realidade. A ideia de estimular a criação e a imaginação por meio do faz de conta.
+Aproximando e conectando esses princípios foi possível direcionar o olhar para um
+viés de projeto centrado na primeira infância
+- faixa etária de 3 a 5 anos - fase extremamente
+rica em aprendizados e na formação de bases
+que serão levadas para a vida, onde a experimentação da criança se dá de maneira natural,
+na busca por descobrir os significados do que
+é ser uma pessoa e de cada coisa que faz parte
+do seu cotidiano, onde o faz de conta começa a
+fazer parte das brincadeiras.
+Assim, a pergunta que antes orientou a primeira parte das investigações deste trabalho se
+transformou em:
+Qual o limite entre o real e o imaginário, e como
+o estímulo da brincadeira do faz de conta pode criar
+aprendizados e interações reais e transformadoras?
+
+15
+
+1.3 objetivos do trabalho
+A questão 			
+
+16
+
+Assim pode-se dizer que o objetivo deste trabalho é
+investigar os limites. Entre imaginação e realidade,
+design e educação, design e tecnologia, o artificial e
+o real, design e arte, arte e tecnologia, entre tantas
+outras conexões e aproximações possíveis.
+Atuar nos limites é mais do que encontrar divergências e contrapor conceitos, é buscar o limiar,
+onde as conexões acontecem, onde as coisas se
+mesclam e não se distingue o fim e o começo.
+Mac Barnett - ilustrador de livros infantis - em
+seu Ted “Por que um bom livro é uma porta secreta”(2014), trata da relação entre verdade e mentira,
+ficção e realidade, e cita a frase de Pablo Picasso:
+"Todos sabemos que a Arte não é verdade. A arte é
+uma mentira que nos faz compreender a verdade,
+ou ao menos a verdade que nos é dada a entender.
+O artista deve conhecer a maneira de convencer os
+outros da veracidade de suas mentiras."
+Para Barnett, ao aproximarmos a verdade e a
+mentira, temos um pequeno espaço, no meio, esse
+espaço limiar é arte. Assim, todo esforço em construir
+a ficção é para que esta escape para o mundo real, fazendo com o livro seja uma porta secreta que se abre e
+faz com que as histórias adentrem na realidade.
+Tomando como inspiração essa visão, o objetivo
+deste trabalho é transitar entre a realidade e a imaginação, criando, por meio da interação com um objeto
+real, hipóteses e histórias, que aproximem esses dois
+mundos em um ambiente fecundo para a criação.
+Mais do que o pensamento de solução de problemas e necessidades com atuações pragmáticas, também espera-se tornar visíveis as oportunidades, criando novas relações e meios de se enxergar a educação e
+as interações entre as próprias crianças, as crianças e
+o educador, e os objetos educacionais e estes.
+Além disso, este trabalho reflete um objetivo pessoal, de exercitar outras perspectivas da
+formação de designer, desenvolver novas habilidades e mais do que comprovar o aprendizado,
+continuar a aprender. Experimentando e desvendando mistérios como criança.
+
+verdade
+arte
+mentira
+
+17
+
+18
+
+“Aprendemos todas as matérias pra
+alargar um rio e deixá-lo fora do mar
+talvez desaprender do começo nos faça
+reverter o olhar” André Gravatá
+
+2 revisão teórica
+
+Da pesquisa:
+19
+
+20
+
+Para complementar a pesquisa e por conta das
+mudanças de rumos que se deram entre a primeira e esta versão, faz-se necessária uma breve
+revisão teórica, para deixar claros alguns conceitos e referências que orientam o desenvolvimento do projeto.
+Além disso, é preciso entender melhor a criança, que é o centro deste projeto, as especificidades
+do seu desenvolvimento, suas relações com a escola
+e o entorno e com o faz de conta e as brincadeiras.
+
+Fig 2. Cena do
+documentário "O começo
+da Vida", da diretora
+Estela Renner (2016)
+
+2.1 uma visão geral
+
+A primeira infância
+
+A primeira infância compreende os primeiros anos
+de vida da criança - da gestação até os 6 anos -, fase
+marcada por intenso desenvolvimento e determinante para a capacidade cognitiva e sociabilidade. “É um
+período de maior vulnerabilidade, que demanda proteção especial e um ambiente seguro, acolhedor e estimulante.” (UNICEF, 2011, p.145).
+Nessa fase as crianças se deparam constantemente com mistérios e coisas que não entendem,
+pois estão descobrindo o que significa ser uma pessoa. Vivem um processo de descoberta dos significados das coisas do seu entorno, explorando os limites,
+e experimentando a todo momento.
+“Não à toa, o cérebro infantil tem de trabalhar incansavelmente: é duas vezes mais ativo do que o de
+um adulto. Para dar conta de tamanha atividade,
+75% da energia do corpo é destinada ao desenvolvimento neurológico. Nessa fase, os neurônios formam
+de 700 a mil novas conexões por segundo. O resultado de tudo isso pode ser notado a olhos vistos: até os
+3 anos de idade, o cérebro atinge 87% do tamanho
+que terá no futuro.” (REVISTA CRESCER)
+Segundo Piaget, - que descreve sua teoria sobre
+o desenvolvimento da criança, basicamente, em 4
+estados, que ele próprio define como fases de transição: sensório-motor (0 – 2 anos), pré-operatório (2 – 7
+anos), operatório-concreto (7 – 12 anos) e o estágio formal (a partir de 12 anos) - durante a primeira infância
+a criança se encontra no período pré-operatório.
+“Nesta abordagem o que marca a passagem do período sensório-motor para o pré-operatório é o aparecimento da função simbólica ou semiótica, ou seja,
+é a emergência da linguagem.” (terra)
+Tamanha a importância do desenvolvimento da linguagem nesse período, que a aceleração
+do alcance do pensamento neste estágio do desenvolvimento, é atribuída, em grande parte, às
+possibilidades de contatos e interações permitidos pela linguagem.
+
+Vygotsky trata de outro eixo básico dessa etapa
+do desenvolvimento, a característica da criança de
+adotar a atitude do sujeito em relação a si, reproduzindo comportamentos.
+“Ao tomar o papel do outro, a criança lida com as
+diferentes perspectivas envolvidas na situação e considera que existe uma visão diferente da sua, o que
+lhe possibilita construir o que é chamado de “diálogo
+interior” (como o “falar com seus botões”), característico do pensamento verbal.” (Fundação Maria
+Cecília Souto Vidigal, p.18)
+Assim, por meio da imitação a criança amplia
+suas habilidades, constrói seus próprios raciocínios e define padrões, sendo que uma criança
+privada de troca verbal argumentativa tem poucas
+oportunidades de dominar essas operações.
+Daí a importância das oportunidades e estímulos,
+para que possam desenvolver cada uma de suas aptidões. Para criar essa complexa rede de informações, a
+criança precisa ser estimulada com palavras, canções,
+afeto e proteção, visto que a cultura que a criança está
+inserida, bem como o momento histórico e social delineia diferentes aspectos do seu desenvolvimento.
+“[...] as habilidades da criança de expressar afetos,
+discriminar formas, memorizar cantigas, representar algo através de um desenho, consolar outra
+criança que chora, exprimir desejos, observar, conversar, explorar o entorno etc. são formas culturais
+de ação. Tais formas vão sendo apropriadas pela
+criança em sua experiência de relacionar-se com o
+mundo material e social em situações concretas[...]”
+Fundação Maria Cecília Souto Vidigal, p.14)
+Nesse período, a criança toma a si como referencial para entender o mundo, e constrói um
+pensamento denominado sincrético, em que se
+mesclam aspectos perceptuais, afetivos, linguísticos e cognitivos. Assim é necessária uma visão
+holística sobre o desenvolvimento da criança, que
+considere todos os seus aspectos.
+
+21
+
+Fig 3. Roda de conversa
+em uma creche na cidade
+de São Paulo
+
+2.2 voz ativa da criança
+Fala e escuta
+
+A linguagem oral é o sistema pelo qual o ser humano se comunica e expressa pensamentos e ideias. A
+fala não é um processo inato, é adquirida nas interações estabelecidas com o outro, a criança nasce com
+a capacidade de desenvolvê-la mas isso só acontece a
+partir dos estímulos externos.
+
+22
+
+“A partir dessa interação e do diálogo com outras
+pessoas, a criança desenvolve uma inteligência denominada verbal, essa inteligência é guiada pela
+linguagem agindo sobre as ideias. A criança começa
+a comparar, classificar, inferir, deduzir etc., criando
+modalidades de memória e imaginação indicando
+situações de desejo e objetos do mundo externo, as
+crianças utilizam palavras que especificam características próprias, servindo de instrumento para o diálogo e para o pensamento discursivo.” (FARAGO
+e SANTOS, 2015, p.115)
+Como dito anteriormente, nesta fase do desenvolvimento a criança tem a característica de adotar a
+atitude do sujeito em relação a si, e reproduzir comportamentos. Assim, nessas trocas e interações com
+o outro, entende e começa dar significado a seus gestos, sons e ações. Daí a importância de referenciais,
+- adultos que incentivem a fala e conversem com a
+criança - e de situações que estimulem a verbalização,
+levando a criança à compreensão da linguagem.
+Com isso e as possibilidades de diálogo que encontra em seu meio, a criança aprende a usar a linguagem como instrumento de pensamento, e assim
+a fala passa a ser racional e o pensamento verbal.
+“O processo de aquisição da linguagem como veículo
+de comunicação e pensamento irá depender das possibilidades das crianças observarem e participarem
+cotidianamente de situações diversas em que podem
+informar, perguntar, conversar, ouvir ou narrar histórias, contar um fato, brincar com palavras, refletir
+e expressar os próprios pontos de vista, diferenciar
+conceitos, ver ligação entre ideias e descobrir novos
+caminhos de entender o mundo.” (Fundação Maria Cecília Souto Vidigal, p.25)
+
+Portanto, toda comunicação se faz na interação. Sendo assim, um dos agentes de grande importância nesse processo é o educador, pois dispõe
+de meios para estimular a oralidade e promover
+as capacidades da criança, conversando, propondo
+brincadeiras e narrativas.
+Dessa maneira, uma das tarefas da educação infantil é ensinar às crianças o significado e
+importância da fala, ampliando as condições da
+criança de desenvolver e se manter no contexto
+falado, promovendo a escuta, e estimulando a comunicação do raciocínio.
+“Dessa forma, por meio da expressão oral as crianças ampliam seus universos de comunicação, expressando opiniões e ideias, sentimentos e emoções, argumentam, comunicando-se com maior facilidade.
+Partindo do exposto a oralidade é uma habilidade
+imprescindível para o convívio social em diversas
+práticas, o professor deve considerar a oralidade
+como fator essencial fazendo com que os alunos tornem-se sujeitos falantes, participantes da sociedade.”
+(FARAGO e SANTOS, 2015, p.122)
+Assim, cabe aos educadores criar situações e promover atividades de forma a possibilitar que a criança se torne mais comunicativa e se sinta à vontade
+para interagir com o grupo. Diversos são os meios
+de trabalhar a oralidade em sala de aula, a leitura e
+contação de histórias é uma possibilidade, e contribui para aumentar o vocabulário e melhorar a pronúncia. Além da leitura, o reconto pode ser uma boa
+ferramenta, sendo que além de incentivar a fala e a
+memória, estimula a imaginação.
+Por fim um dos momentos mais importantes
+para interação e diálogo entre as crianças e adultos
+na sala de aula é a roda de conversa, que deve ser
+uma atividade permanente e diária, sendo que as
+crianças devem ter voz ativa e um espaço seguro para
+expressarem-se, não devendo esta ser uma atividade
+centrada no adulto como falante e na criança como
+ouvinte. Aprender a se expressar garante à criança
+protagonismo e autonomia.
+
+2.3 realidade e fantasia
+O faz de conta
+
+O processo de desenvolvimento da criança é a brincadeira. No brincar a identidade e a autonomia são
+desenvolvidas, além de habilidades importantes
+como atenção, memória, imitação e imaginação.
+Ao brincar as crianças criam uma cultura lúdica, assumem seus papéis, determinam regras e
+temas, características marcantes no jogo simbólico, ou faz de conta. O jogo simbólico está intimamente ligado à aquisição da linguagem, visto que
+o processo de construção de símbolos está também intrinsecamente associado à esta, e ao jogo
+de representações de situações.
+“Com o aparecimento da linguagem, as condutas
+são profundamente modificadas no aspecto afetivo e no intelectual. Além de todas as ações reais
+ou materiais que é capaz de efetuar, como no curso do período precedente, a criança torna-se, graças à linguagem, capaz de reconstruir suas ações
+passadas sob forma de narrativas, e de antecipar
+suas ações futuras pela representação verbal.”
+(PIAGET, 2003, p.24)
+Portanto, entendem-se as expressões faz de
+conta, jogo simbólico ou brincadeira simbólica,
+como o tipo de brincadeira realizada socialmente pelas crianças no período pré-operatório (2 – 7
+anos), segundo Piaget, caracterizada por recriar
+a realidade usando sistemas simbólicos, ou seja,
+por meio da ressignificação de objetos.
+É por meio das interações com outras crianças
+e pessoas e das suas experiências e aprendizados
+que as crianças tornam-se capazes de criar símbolos para substituir a realidade. Assim, constroem as relações entre a realidade e a fantasia, e no
+desenvolvimento da brincadeira expressam sentimentos e resolvem conflitos, por meio da representação de papéis.
+[...] o jogo infantil inclui as seguintes características: simbolismo, ao representar a realidade e
+atitudes; significação, uma vez que permite relacionar ou expressar experiências; atividade,
+
+ao permitir que a criança faça coisas; voluntário
+ou intrinsecamente motivado, ao incorporar seus
+motivos e interesses; regrado, de modo implícito
+ou explícito; e episódico, caracterizado por metas
+desenvolvidas espontaneamente. (FARAGO e
+SANTOS, 2015, p.8)
+Brincando de simbolismo a criança aprende
+sobre o modo de se relacionar com outras pessoas e consigo mesma, visto que na hora do brincar
+seu pensamento evolui e a expressão das emoções
+e percepções é favorecida. Assim, desenvolvem a
+imaginação e a criatividade e controlam seus medos e ansiedades, entram em contato com regras
+de convivência e resolução de situações problema.
+Portanto, no brincar, aprendem competências
+e habilidades necessárias para a vida, um dos motivos pelo qual o faz de conta tem grande importância na Educação Infantil, onde os educadores
+são considerados membros participativos e mediadores do processo, devendo buscar a criação de
+um ambiente lúdico, que estimule a brincadeira e
+dê insumos para a criação das crianças, valorizando a interação entre os pares e com o ambiente.
+Para estimular e motivar a criança a entrar neste
+exercício de desenvolvimento podem ser organizados espaços na escola que enriqueçam suas
+experiências lúdicas e deve-se respeitar o ritmo e
+imaginação de cada criança.
+Além disso, o educador pode atuar como auxiliador na construção de significados, questionando e incentivando a criação, deixando que as
+crianças criem respostas dentro de um mundo
+imaginário, fecundo e criativo.
+
+23
+
+2.4 a criança e a escola
+Educação Infantil
+
+De acordo com o documento “Intensificando o desenvolvimento da primeira infância”, publicado pela
+Fundação Maria Cecília Souto Vidigal (2014), o
+investimento na primeira infância é um dos melhores investimentos que os países podem fazer.
+
+24
+
+“Falhas no início do desenvolvimento infantil
+comprometem a capacidade da criança para
+atingir essas metas importantes e alcançar
+seu pleno potencial na vida. Intervenções nos
+primeiros anos têm o potencial de compensar
+as tendências negativas e fornecer às crianças
+mais oportunidades de uma qualidade ideal
+de aprendizagem, crescimento físico e saúde, e
+consequentemente aumentar sua produtividade ao longo da vida. Novas evidências biológicas e sociais oferecem uma riqueza de recursos
+com estratégias inovadoras que promovem o desenvolvimento e crescimento ideal da criança.”
+(Fundação Maria Cecília Souto Vidigal, p.1)
+Pia Britto, consultora de primeira infância
+da Unicef, afirma em entrevista à revista CRESCER que segundo a instituição, cerca de 30%
+das crianças no mundo não atinge sua plena capacidade por falta de incentivo.
+Assim, percebe-se a necessidade de garantir o
+acesso de crianças pequenas a ambientes acolhedores e estimulantes, cognitiva e emocionalmente.
+Visto que, sem uma educação da primeira infância
+adequada, crianças pequenas não têm as habilidades
+necessárias para se beneficiarem plenamente da educação que recebem ao nível primário.
+O aumento dos índices de matrículas em pré
+-escola para 50 por cento de todas as crianças
+em países de baixa e média renda pode resultar
+em ganhos de renda vitalícios de US$ 14-US$
+34 bilhões.31 Programas DPI de alta qualidade voltados para grupos vulneráveis nos Estados Unidos têm uma taxa de retorno anual de
+7-16 por cento.75,76 (Fundação Maria Cecília
+Souto Vidigal, p.12)
+
+É importante, então, garantir um ensino de
+qualidade já nos primeiros anos de vida. Ensino
+esse que não inclui apenas uma visão voltada
+para a escolarização, mas uma visão holística de
+aprendizagem, que considere a indissociabilidade entre cuidar e educar, visando o bem-estar
+físico, intelectual, e o desenvolvimento socioemocional e cognitivo.
+Além de considerar essa visão do processo
+de aprendizagem é necessário garantir experiências significativas e concretas, que estejam alinhadas ao cotidiano das crianças e incentivem o
+pensamento e proposição de soluções.
+Outros aspectos demonstram a importância
+de uma educação infantil de qualidade. Na escola a criança tem a possibilidade de observar
+outras formas de reagir a um mesmo problema
+ou situação, e assim aprender a resolver conflitos e problemas. Além disso, aprende a conviver em grupo, iniciando a sociabilidade, interagindo com seus pares, aprendendo a conversar,
+negociar, a ouvir o outro, criar amizades, entre
+outras habilidades.
+Também na escola a criança tem a oportunidade de conquistar maior autonomia, aprendendo a executar sozinha uma série de tarefas,
+e construindo uma forma própria de reagir a
+situações cotidianas, ampliando assim sua capacidade de decisão.
+É importante, considerando esse período de
+muito aprendizado, propor atividades exploratórias, que permitam que a criança exerça diferentes habilidades, brincando, pesquisando,
+pintando, modelando, argumentando, a fim de
+estimular a inteligência, a afetividade, a linguagem, entre outras competências.
+É necessária portanto uma escola que, mais
+do que ensinar, acolha a criança, encoraje as
+suas descobertas, a criação e a imaginação, respeite seu tempo e necessidades, promova a escuta e incentive a expressão de ideias, que mais
+do que fonte de informação seja fonte de carinho, afeto e descoberta.
+
+25
+
+26
+
+“Olhe as pessoas com lupa no teu
+olhar a cada miudeza de pessoa
+um infinito vai se revelar” André Gravatá
+
+3
+
+Das referências
+inspirações
+27
+
+28
+
+Nesta parte do trabalho foram reunidas as referências que serviram de base, tanto conceitual,
+quanto formal e visual, para o desenvolvimento
+do projeto. Foram pesquisados produtos de design, metodologias, escolas, projetos independentes que ocorrem fora das escolas, livros e
+materiais, que de alguma maneira refletissem as
+intenções deste projeto.
+O design se aplica na educação, como meio
+e pensamento, e também na criação de produtos
+para que o aprender seja mais interessante, relevante e transformador. A tecnologia tem sido
+uma das aliadas nesse processo, com sua popularização e as diversas possibilidades de aplicação.
+Alinhados a esses novos paradigmas de
+transformação da educação, os projetos aqui citados, de alguma maneira trabalham questões
+de autonomia, imaginação e da aprendizagem
+por meio do fazer, que se alinham com os conceitos-base do trabalho.
+Para organizar melhor as referências foram
+criados painéis por assunto, que reuniram: os
+conceitos, produtos tomados como referências formais, produtos tomados como referências de sistema e visuais, e projetos realizados fora ou dentro
+das escolas, trazendo novas visões de educação.
+Alguns projetos mais relevantes foram destacados dos painéis e reunidos ao lado, visto
+que foram tomados como as referências principais deste trabalho.
+Por fim, pode-se dizer que as iniciativas aqui
+citadas demonstram a diversidade de possibilidades na educação, que pode ser transformada por
+meio de produtos, sistemas, metodologias, na
+união de diferentes disciplinas e pessoas, com
+um mesmo objetivo transformador.
+
+4
+
+5
+
+826 Valencia
+
+Primo
+
+826 Valencia, fundada pelo autor Dave Eggers, é
+uma organização sem fins lucrativos dedicada a ajudar as crianças e os jovens adultos a desenvolver habilidades de escrita e ajudar professores a inspirar
+seus alunos a escrever. A ideia do projeto é tornar
+a escrita divertida, desmistificando o processo. Para
+isso foi criada uma loja de suprimentos de pirataria
+na parte da frente do centro de redação que apoia a
+organização, além de inspirar as crianças, criando
+um ambiente fecundo para a imaginação.
+
+O projeto tem como objetivo introduzir a
+linguagem e a lógica de programação para
+crianças pequenas. O “brinquedo” tem um
+tabuleiro com uma sequência de comandos que tem como objetivo levar o simpático robozinho até sua “casa” desviando dos
+obstáculos no meio do caminho. Assim, as
+crianças são estimuladas a elaborar uma
+sequência, baseada em comandos simples:
+frente, esquerda, direita e função.
+29
+
+6
+
+7
+
+Little Bits
+
+Billy Twitters and his Blue Whale Problem
+
+O objetivo do projeto é permitir que qualquer criança
+se torne um inventor, fazendo uma ponte entre a prática e o aprendizado. Os Little Bits são kits de módulos eletrônicos com sensores de luz e som, motores e
+componentes sem fio, que se unem magneticamente, permitindo a criação de diversos circuitos. Os kits
+são direcionados a alunos do Ensino Fundamental,
+e permitem às crianças resolver desafios reais. Um
+guia propõe aos alunos observar o cotidiano e inventar coisas que solucionem os problemas percebidos.
+
+No livro do escritor Mac Barnett, Billy se esquiva
+de suas tarefas diárias e ganha de sua mãe uma
+grande baleia, entregue de surpresa pelo “Fed
+Up: Delivering Punishment Worldwide” em sua
+casa. Billy precisa lidar com as dificuldades de
+cuidar do animal e a surpresa é a relação criada
+entre eles. No final do livro as crianças são convidadas a escrever para receberem sua baleia, e
+podem ligar para um número de telefone, pelo
+qual é possível conversar com sua baleia azul.
+
+8
+
+30
+
+Conceito
+Fig 8.
+Cena do filme 2001 - Uma Odisseia no Espaço, dirigido
+por Stanley Kubrick. O monolito é uma experiência visual
+que ultrapassa a comunicação verbal, é sintético e convida
+à explorar o desconhecido.
+Fig 9.
+826 Valencia. Projeto de reforço de escrita, para estudantes
+de 6 a 18 anos que tem uma loja de insumos para piratas na parte
+da frente, criando um ambiente propício para a imaginação.
+Fig 10.
+Produtos da Hoxton Street Monster Supplies, em Londres.
+Loja de insumos para monstros, inspirada na 826 Valencia.
+
+10
+
+Fig 11.
+Cena da série brasileira "Mundo da Lua" (personagem Lucas
+Silva e Silva com seu gravador). Nas cenas o personagem
+viajava para o mundo da imaginação contando suas histórias.
+Fig 12.
+Imagem do livro Billy Twitters and His Blue Whale Problem
+de Mac Barnett. O livro termina com uma oferta imperdível
+para o leitor, uma baleia azul. E convida a criança a escrever
+para a baleia imaginária.
+Fig 13.
+The Echo Park Time Travel Mart, em Los Angeles.
+Loja de produtos de todos os tempos, inspirada na 826 Valencia.
+
+12
+
+9
+
+31
+
+11
+
+13
+
+14
+
+32
+
+Produtos formais
+Fig 14.
+NORIO KIDS - Cocoro. Um sitema de encaixe com peças
+de papelão que permite que crianças criem seus próprios
+brinquedos e espaços, por ser de papel é altamente personalizável,
+podendo receber desenhos e recortes.
+Fig 15 a 17.
+Makedo. Sistema de junções e ferramentas que permite unir,
+recortar e customizar diferentes materiais. É vendido em kits, com
+quantidades e tipos de peças diferentes, de parafusos a pequenas
+serras e junções articuladas.
+Fig 18.
+Looks Like Music. Instalação do designer Yuri Suzuki.
+Cinco pequenos robôs andam sobre desenhos feitos com
+canetas e produzem sons a partir desses desenhos.
+
+15
+
+Fig 19.
+Little Bits. Kits de módulos eletrônicos com sensores
+de luz e som, motores e componentes sem fio, que se unem
+magneticamente, permitindo a criação de diversos circuitos.
+Fig 20.
+PRIMO. Um pequeno robô compõe um sistema para ensino
+de programação desde a primeira infância. Sem telas, a ideia
+é que as crianças entendam conceitos básicos de programação
+por meio de um jogo de tabuleiro e de pequenas aventuras pelas
+quais o robozinho é conduzido.
+
+18
+
+16
+
+33
+
+17
+
+19
+
+20
+
+21
+
+34
+
+22
+
+Produtos sistema
+Fig 21 a 23.
+PRIMO. Um pequeno robô compõe um sistema para ensino
+de programação desde a primeira infância. Sem telas, a ideia
+é que as crianças entendam conceitos básicos de programação
+por meio de um jogo de tabuleiro e de pequenas aventuras pelas
+quais o robozinho é conduzido. O sistema, além de muito
+coerente e bem resolvido visualmente, disponibiliza para
+o educador diferentes insumos para criação de uma melhor
+experiência, como guias de uso e montagem, guias de interação
+e propostas de atividades em sala de aula.
+Fig 24.
+Tripkit: Roadtrip Adventure Kit. Um kit para viagem com
+pequenos compartimentos para serem abertos pelo caminho,
+a ideia é que a jornada completa seja divertida.
+Fig 25.
+MusicInk. Com arduino e tinta condutiva as crianças transformam
+papéis em instrumentos e podem criar sons e experiências. MusicInk
+é um kit completo para que a experiência aconteça. Com tintas, uma
+caixa controladora e diferentes stencils que podem ser usados como
+moldes para os desenhos, criam-se diversas experiências sonoras.
+Fig 26.
+TOC TOC. Um kit de materiais de artes para crianças.
+A ideia do projeto é provocar a curiosidade. O que será que tem
+na caixa? A cada caixa aberta uma experiência é proposta
+e novos materiais descobertos.
+
+24
+
+23
+
+35
+
+25
+
+26
+
+Projetos
+
+27
+
+36
+
+28
+
+CPCD – Ser Criança
+
+Virada educação
+
+O CPCD é uma organização não-governamental, sem
+fins lucrativos e de utilidade pública federal, estadual
+e municipal, fundada em 1984, pelo educador e antropólogo Tião Rocha, em Belo Horizonte/MG.
+Um dos projetos do CPCD é o Ser criança. Que
+acontece nas cidades de Araçuaí em Minas Gerais e
+Itapecuru Mirim no Maranhão. O projeto busca cuidar da infância, fase importante da vida, com ações
+educativas e de formação humana, provocando mudança de maneira positiva na vida das crianças e adolescentes participantes. A base do Ser Criança é o diálogo, que inclui pais, alunos e comunidade. O foco
+principal é sua filosofia de inserção integral na vida
+da criança, a regra geral na aplicação dessa filosofia é
+o respeito às diferenças e singularidades individuais:
+cada ritmo, cada fazer, cada saber.
+Assim, todas as situações vividas pelas crianças, das mais rotineiras às mais ocasionais, através
+do brincar, são encaradas no projeto como “conteúdos educacionais” significativos. Todos os espaços
+comunitários ocupados pelos participantes são
+convertidos em “espaços de aprendizagem” e todas
+as escolas em “centros de cultura comunitária”.
+Todas as pessoas participantes da vida das crianças
+são consideradas educadoras, sejam eles pais, amigos, outros alunos, ou professores.
+A ideia do Ser criança é trabalhar para o IPDH
+– “Índice de Potencial de Desenvolvimento Humano”– que mede as fortalezas, o lado cheio do copo.
+
+“A educação está em todo lugar
+É rio profundo
+É transbordar...” André Gravatá, jornalista, educador, membro do coletivo educ-ação e do movimento entusiasmo.
+Onde começa e onde termina o espaço de aprender?
+as escolas podem se aproximar do teatro que fica na frente? São os questionamentos da Virada Educação, que
+surge com o Movimento Entusiasmo. Uma iniciativa que de maneira poética busca provocar mudanças no aprendizado das pessoas por meio da conexão
+com o território, um território do aprender.
+O evento acontece todo ano, desde 2014. Em
+2015, na sua segunda edição, reuniu cerca de 3 mil
+participantes (circulando pelas mais de 100 atividades) e 40 voluntários, todos em cerca de 9 espaços
+espalhados por São Paulo, entre eles a Praça Roosevelt, a Biblioteca Monteiro Lobato, outras instituições culturais e escolas estaduais e infantis.
+A Virada é um projeto que versa sobre provocar novas apropriações do território e a construção de uma comunidade coletiva mais conectada.
+Convida a cidade a um dia de celebração com atividades que ocupam criativamente os espaços, se
+expandem para fora das fronteiras da escola, estabelecendo novas relações com o entorno. Dentre as
+atividades acontecem diálogos, exibições de filmes,
+teatro, música, intervenções que ressignificam os
+espaços, criam novas conversas, trilhas e oficinas.
+
+29
+
+30
+
+Transform+ação
+
+Lab educação
+
+“Se você tem uma maçã e eu tenho outra e nós trocamos as maçãs, então cada um terá sua maçã. Mas se
+você tem uma ideia e eu tenho outra, e nós as trocamos;
+então cada um terá duas ideias”. Caio Dib, educador
+e idealizador do Transform+ação.
+O projeto, que é uma iniciativa do jornalista
+Caio Dib, criador do Caindo no Brasil – uma empresa de inteligência educacional – começou em
+2014, no bairro do Paraíso, em São Paulo.
+O Transform+ação acontece no período contrário ao da aula, às quartas-feiras, das 14h às 16h, e
+reúne alunos do fundamental 2 – de 11 a 14 anos
+– que juntos buscam realizar melhorias no bairro,
+no entorno da escola e em outras escalas da vida.
+“A proposta é que eles próprios encontrem os problemas ou possibilidades de melhoria no bairro do
+Paraíso. A partir disso, serão instrumentados para
+buscarem possibilidades de soluções e viabilizarem as
+mudanças por meio de debates, elaboração de projetos,
+estratégias de captação de recursos e de comunicação
+com a comunidade.”, conta Caio Dib.
+Para o desenvolvimento dos projetos a base é
+o CoDesign (ou Design Colaborativo). Nele, as etapas e o processo guiam o projeto (experimentação,
+ideação, prototipagem e interação), estas são viabilizadas por campanhas na internet em plataformas
+de financiamento coletivo. No processo uma série
+de habilidades e competências são desenvolvidas,
+como autonomia, empatia, trabalho em equipe.
+
+“Acreditamos em uma educação cujo propósito maior
+é facilitar o desenvolvimento de pessoas capazes de
+equacionar os complexos dilemas do mundo em que
+vivemos.” Maria Cláudia Amaro e Luiza Barguil,
+idealizadoras do projeto.
+O Lab educação é um laboratório de educação, inovação e desenvolvimento de conhecimento aplicável que busca ampliar o diálogo entre
+profissionais de diferentes campos, e fortalecer
+o debate sobre a Educação no Brasil, se inspira
+em iniciativas nacionais e internacionais, e principalmente em modelos de ensino baseados em
+neurociência, teoria dos jogos, dinâmica de grupo
+e disciplinas tradicionais ensinadas por meio dos
+elementos da vida cotidiana.
+A ideia do Lab é utilizar metodologias de
+inovação para identificar e implementar soluções em educação. Buscando além do mapeamento e pesquisa, a prototipagem desses objetos educacionais.
+A base é a aprendizagem maker, o fazer com
+tecnologia, incentivando a participação das crianças em grupos de pesquisa e desenvolvimento de
+novas práticas na educação, a testar suas ideias,
+suportados por um aparato tanto físico quanto
+de conhecimento. O espaço do Lab é aberto tanto a alunos quanto a professores, pesquisadores,
+curiosos, que buscam aprender e discutir a educação e o aprendizado.
+
+37
+
+38
+
+“Ninguém é sujeito da autonomia
+de ninguém. Por outro lado, ninguém
+amadurece de repente aos 25 anos.
+A gente vai amadurecendo todo dia,
+ou não. A autonomia, enquanto
+amadurecimento do ser para si,
+é processo, é vir a ser.” Paulo Freire
+
+4
+
+Do projeto
+processo
+
+39
+
+4.1 processo de trabalho
+A metodologia
+
+40
+
+Por derivar de uma pesquisa ampla, que não terminou delimitando um caminho específico a ser
+seguido o processo de projeto foi longo e não-linear. O caminho, para que se chegasse à ideia final,
+foi repleto de ciclos de geração de ideias e revisitação dos conceitos e requisitos.
+Mais do que um processo estruturado por
+um método claro, todo o projeto se deu na experimentação. A ideia era que tanto o desenvolvimento quanto resultado gerassem reflexões
+e não se encerrassem em uma proposta totalmente finalizada, mas em algo que fosse testado e refinado na prática.
+Apesar disso, o desenvolvimento também
+foi guiado por fases tradicionais do processo de
+design, de análise das oportunidades, geração e
+seleção de alternativas, criação de protótipos e
+proposição de projeto.
+Analisando agora seu ciclo, este pode ser resumido esquematicamente da seguinte maneira:
+
+Construir
+
+Aprender
+
+Observação
+
+Síntese
+
+Observação
+
+Síntese
+
+Medir
+
+TCC1
+
+TCC2
+
+Fig 31. Crianças brincando
+no parque, durante uma das
+visitas à EMEB Benedita
+Alzira de Moraes Camunhas
+
+4.2 olhar atento
+
+As oportunidades
+
+Primeiramente, antes de buscar uma solução para
+problemas e necessidades, foram observadas as
+oportunidades de criação de novas dinâmicas, diálogos e experimentações, baseadas nas potencialidades das crianças, educadores e escolas. A ideia
+foi olhar para o “lado cheio do copo”, e o “índice
+de potencial de desenvolvimento” de cada pessoa,
+lugar e materiais.
+“Olhar a comunidade não por suas carências, mas
+pela sua potencialidade é construir um novo paradigma, um novo jeito de olhar, pensar e atuar. Investir e maximizar os potenciais de “AÇÃO” é a nova
+estratégia.” (ROCHA, 2015)
+Desde o primeiro volume deste trabalho, as
+ideias, conceitos e questionamentos, foram pautados em observações e conversas, que se deram nas
+diversas escolas visitadas, - públicas e privadas - e
+nas conversas individuais, com amigos, familiares, professores, designers. Ou seja, no aprendizado por meio das interações.
+Observar as crianças em sala, a prática dos
+educadores e as diferentes iniciativas em educação
+gerou insumos para determinar a linha de experimentação do projeto, que considerou: a capacidade
+natural de criação das crianças; que as atividades
+mais significativas envolviam a prática e o brincar;
+e que crianças de 3 a 5 anos estão na fase mais ativa
+da brincadeira de faz de conta, transitando entre a
+verdade e a mentira, o real e o imaginário e construindo suas bases para o futuro.
+Daí, decidiu-se propor um projeto que estimulasse a imaginação e suas conexões com
+a realidade, criando um ambiente fértil para a
+fala, a escuta e as interações entre as crianças, o
+educador e o objeto projetado.
+Ainda que no início do processo de projeto,
+não estivesse estruturada e explícita, a pergunta
+norteadora deste trabalho foi:
+Qual é o limite entre o real e o imaginário, e como
+o estímulo da brincadeira do faz de conta pode criar
+aprendizados e interações reais e transformadoras?
+
+41
+
+4.3 diretrizes projetuais
+Requisitos
+
+42
+
+Os requisitos de projeto - aqui resumidos -,
+foram divididos de acordo com as frentes do
+projeto, com relação ao conceito, aos usuários
+(educadores, crianças e escola), ao conteúdo ou
+programa e ao objeto e o sistema do qual este
+faria parte. Os requisitos podem ser encontrados na íntegra no "Anexo A".
+
+ção de narrativas de maneira coletiva, sem esquecer a importância das características individuais e o tempo de cada criança.
+• Não deve depender da infraestrutura da escola para seu funcionamento (por exemplo: conexão com a internet, caixas de som, etc)
+• Dar formação e suporte à escola e ao professor.
+
+Conceituais
+
+Formato / objeto e sistema
+
+• Estimular a brincadeira do faz de conta, por
+meio do mistério e do desconhecido.
+• Estimular a imaginação fazendo uso de outros sentidos e não só da visualidade.
+• Valorizar a oralidade, a verbalização e a escuta da criança. Incentivar e motivar a fala, o
+desenvolvimento da linguagem e a criação de
+narrativas faladas e visuais.
+• Provocar a curiosidade. Deve incentivar a
+criança a “aprender a aprender”, desenvolvendo a autonomia.
+
+Educadores / crianças / escola
+
+• Ser projetado de maneira adequada para
+crianças entre 3 e 5 anos, considerando suas
+particularidades.
+• Incentivar a criatividade do educador na
+busca de soluções e criação de novas ferramentas e narrativas, estimulando a relação colaborativa entre educador e crianças para criação de
+outras narrativas e materiais.
+• Considerar a aplicação em organizações com
+currículos escolares distintos. Considerar a interação com diferentes educadores, com suas características, visões pessoais, e grau de formação.
+• Incentivar a reflexão do educador sobre
+novas possibilidades de dinâmicas de ensino,
+baseadas na autonomia da aprendizagem, e no
+papel do educador como facilitador.
+
+Programa / conteúdo
+
+• Oferecer a possibilidade de personalização do
+conteúdo e das temáticas a serem desenvolvidas.
+• Valorizar a coletividade, incentivando a cria-
+
+• Ter aparência amigável, favorecendo a criação de vínculos e empatia.
+• Deve oferecer a possibilidade de personalização do objeto.
+• Valorizar o material natural. Buscar materiais pouco trabalhados preservando a textura
+e cores naturais.
+• O sistema deve ser composto por um objeto
+físico ou um conjunto de objetos para interação
+em sala de aula (que pode ser estendida para
+o exterior da escola), além de insumos e materiais para formação do professor.
+• O sistema deve oferecer guias e dicas de utilização mas não deve estabelecer regras rígidas de
+uso, deve incentivar a livre criação e interpretação.
+• Ser de livre replicação e construção (ainda
+que somente partes do projeto).
+
+Telefone mágico
+Fig 32 a 36.
+Estudos e esboços
+
+4.4 primeiras hipóteses
+Geração de ideias
+
+O processo de geração de alternativas deste trabalho foi tal qual seu resultado, experimental. Além
+da experimentação por meio de protótipos e desenhos, a ideação se deu nas conversas e trocas com
+diferentes pessoas. Algumas ideias, já no processo final de geração, determinaram o rumo para o
+qual o trabalho final seguiria, e se mostram muito
+pautadas no processo de criação de personagens e
+narrativas, no faz de conta e na fala e escuta:
+• Um dispositivo sonoro que crie possibilidades
+narrativas baseadas nos sons de objetos, personagens e cenários para incentivo de criação de histórias. (Exemplo: apito de trem / barulho de bicho).
+A cada som a criança é provocada a contar histórias ou adivinhar do que / de quem é o ruído.
+• Máquina que grava histórias contadas pelas
+crianças > relato de memória
+• Monstro em pedaços > peças que formam um
+personagem e são construídas pelas crianças.
+• Amigo esquisito distante. Conversar com ser
+de outro mundo por meio de um comunicador >
+troca de correspondências > sons > imagens
+• Jogo criação de histórias através de situações
+problemas colocadas na roda de conversa > cartas
+com situações imaginárias > partes de histórias
+• Jogo para pais e crianças inventarem histórias
+Máquina do tempo > futuro / passado e presente >
+viagem por histórias e épocas diferentes
+
+Caixa monstro
+
+43
+
+Gravador
+de histórias
+
+Estudos de formas
+
+!
+
+4.5
+
+A ideia
+
+COISO - experimento 01
+
+Pra quem
+
+Crianças de 3 a 5 anos
+
+Onde
+
+Escolas da rede pública
+
+Por que
+
+Muitos foram os porquês considerados para determinar o rumo para o qual este trabalho seguiria.
+44
+
+• Por que estimular a imaginação abre a porta
+para diálogos que vem de dentro e é um jeito divertido e significativo de aprender.
+• Por que a faixa etária de 3 a 5 anos é marcada
+por descobrimentos e mistérios e pelo início do interesse pela da brincadeira do faz de conta. Além de
+ser uma fase de transição para a escolarização, em
+que ocorrem mudanças significativas no processo
+de aprendizagem e na estrutura escolar.
+• Por que inovar em escolas públicas demanda
+recursos muitas vezes inalcançáveis, e faz necessária uma mudança geral de paradigmas.
+
+• Por que o som é um recurso poderoso de percepção e criação pouco explorado.
+• Por que a fala e a escuta são de essencial importância nessa fase da vida, em que se adquire a
+linguagem, se constrói a capacidade de argumentar, entender o outro, dialogar e se entender como
+sujeito pensante.
+• Por que a criação de vínculos e empatia é importante nessa fase da vida, em que se inicia o processo de socialização.
+
+O que / A hipótese
+“Uma coisa aparece. Uma coisa que parece familiar
+mas tem algo de diferente. Pisca como a gente mas
+não tem cara de gente. Fala, mas não fala como a
+gente. O que será? De onde vem? Pode ser tudo. É
+tudo, menos uma caixa.”
+Diante da pergunta: Qual é o limite entre o real e o
+imaginário, e como o estímulo da brincadeira do faz de
+conta pode criar aprendizados e interações reais e transformadoras? Uma ideia surgiu: E se os limites entre esses dois mundos fossem aproximados por um objeto real,
+
+cotidiano, ressignificado? E se esse objeto pudesse ganhar
+vida? E se ele ganhasse vida pela mão das crianças?
+Assim surgiu a primeira ideia do que viria a
+ser o “COISO”, uma criatura artificial que compõe uma plataforma para criação de personagens
+e narrativas através de interações sensoriais.
+A ideia seria permear o mundo real com personagens. Estreitando os limites entre a imaginação e a
+realidade, estimulando outros sentidos e criando possibilidades de interação. Seria possível ouvir, tocar, falar
+com um ser diferente? E se fosse possível criar esse ser?
+
+O que / A hipótese
+
+A ideia de trazer um personagem para o mundo real
+explorando os limites entre realidade e imaginação
+abriu possibilidades. Mas como seria essa criatura?
+Primeiramente ela deveria ser "viva". Contendo um núcleo, algo semelhante a um coração, que
+centralizasse sua função básica: a fala. A ideia era
+que o personagem pudesse se comunicar com as
+crianças e expressar-se, sendo ativado por interações sensoriais vindas das crianças e da educado-
+
+Fig 37 e 38. Sala de aula
+da EMEB Benedita Alzira
+de Moraes Camunhas
+e crianças brincando
+com caixas de papelão
+
+ra. Assim determinou-se o uso da eletrônica para
+construção do primeiro protótipo.
+Além de um coração a personagem precisaria
+de um corpo, um invólucro, uma pele. Com o refinamento da proposta decidiu-se por utilizar um
+objeto do cotidiano das crianças passível de customização para que elas pudessem criar sua própria
+personagem. Daí a caixa de papelão. A caixa, além
+de já fazer parte das brincadeiras cotidianas das
+crianças na escola, é ressignificada por elas o tempo todo. Uma caixa para uma criança pode ser um
+barco, um avião, um castelo, o que a imaginação
+permitir. Também é um material barato, reciclável
+e facilmente customizável.
+Assim, ficaram definidas as características básicas
+do objeto/criatura. Deveria ser um suporte sem muitas interferências visuais, que pudesse emitir sons,
+reagir a estímulos e interações e que através dessas
+interações e explorações sonoras ganhasse vida por
+meio da customização feita pelas próprias crianças.
+A ideia central é deixar que as crianças dêem
+vida à própria imaginação.
+
+45
+
+46
+
+“O principal objetivo da educação
+é criar pessoas capazes de fazer
+coisas novas e não simplesmente
+repetir o que as outras gerações
+fizeram.” Jean Piaget
+
+5
+
+Do protótipo
+processo
+
+47
+
+48
+
+Com a determinação do objeto a ser projetado e
+de suas primeiras características foi iniciado o
+processo de construção do protótipo, que envolveu diferentes frentes de trabalho.
+A ideia foi construir um objeto que, ainda que
+não finalizado, refletisse os principais atributos
+do que se imaginaria deste como produto final.
+Primeiramente definiu-se uma hipótese e
+uma história, que guiou tanto a interação quanto
+às características formais do invólucro e as particularidades do hardware. A história seria continuada e criada pela professora em sala de aula:
+“Uma coisa apareceu na nossa sala, um visitante
+estranho. Parece uma caixa mas tem algo de diferente.
+Pisca como a gente mas não tem cara de gente. Fala,
+mas não fala como a gente. O que será? De onde vem?
+Como falamos com ela? Será apenas uma caixa?”
+Baseadas nessa história algumas premissas
+foram determinadas:
+
+Quanto à interação:
+
+Para dar mais referências às crianças de que se
+tratava de uma criatura, algo vivo, a interação teria algumas características antropomórficas, para
+que houvesse identificação. E deveria convidar à
+aproximação, ao toque e criação de vínculo.
+
+Quanto ao som:
+
+A primeira personagem a ser testada teria um
+conjunto de sons mais abstratos. A ideia seria
+perceber como a imaginação das crianças criaria, se tenderiam a caminhos parecidos, se o
+som seria relevante para a construção de alguma personagem e como perceberiam e comunicariam esses sons.
+
+Quanto à caixa:
+
+Nessa fase de teste a caixa - o invólucro ou
+corpo da personagem - teria o mínimo possível de interferências visuais. A ideia é que se
+percebesse o quanto as crianças conseguiriam
+abstrair do formato e como criariam as características da personagem.
+
+Quanto ao núcleo:
+
+O núcleo seria a centralização das interações.
+O coração da criatura. Além disso deveria ser
+modular o suficiente para possibilitar o acoplamento em invólucros de tamanhos diferentes.
+Decidiu-se por incorporar a eletrônica a fim
+de conseguir interações que envolvessem os diferentes sentidos (tato, escuta, fala).
+Assim, foram desenvolvidos três grandes componentes do objeto final: a interação
+(em conjunto com o som), o núcleo (coração) e
+o invólucro (caixa).
+Para facilitar o entendimento do processo
+de projeto os componentes serão explicados
+um a um em seções separadas, ainda que o desenvolvimento tenha se dado em paralelo.
+
+3.invólucro
+
+49
+
+1.interação
+
+2.núcleo
+
+1.interação
+
+momentos
+
+sons
+
+5.1 momentos + sons
+Interação
+
+50
+
+Dado o caráter experimental e investigativo do trabalho, pode-se dizer que as interações são a alma
+do projeto. Assim, pensá-las de maneira detalhada
+e cuidadosa foi parte fundamental do processo.
+Além disso, o detalhamento das interações foi
+necessário para que se tivesse uma base para o desenvolvimento da parte eletrônica e um guia para
+o teste que seria feito em sala.
+Alguns fatores influenciaram a determinação
+das interações: as limitações técnicas e específicas
+do hardware (parte eletrônica), a história e temática escolhidas e o tempo disponível para experimentação em sala de aula.
+Assim, considerando esses fatores, a experimentação foi dividida em três dias, para que fosse
+possível realizar um ciclo completo de testes, com
+início e fim. Cada dia com suas atividades e dentro
+de uma sequência na história.
+Para especificar de maneira mais detalhada
+as interações de cada dia fez-se uso do blueprint,
+uma ferramenta operacional que tem como objetivo sistematizar as interações entre os itens de
+um sistema, os usuários e também também os
+recursos, para que fosse possível construir uma
+visão geral das etapas.
+No blueprint foram consideradas: a jornada
+das crianças, a jornada da professora, o estado
+do objeto em cada momento (como reagiria aos
+estímulos e o estado de cada sensor), os inputs e
+outputs, e as necessidades de desenvolvimento de
+objetos de suporte para cada etapa.
+Além de obter uma visão mais ampla de cada
+dia de testes, durante o exercício do blueprint algumas características do objeto foram determinadas,
+já com relação às interações e à parte eletrônica do
+projeto. Determinou-se por exemplo que:
+• Uma das únicas interferências visuais na
+caixa seria a colocação de olhos, que conteriam
+LEDs, que acenderiam e apagariam de acordo
+com o estado do objeto.
+
+• O corpo emitiria alguma luz com efeito de respiro, para que fosse um sinal visual de vida, e fosse possível trabalhar com cores.
+• O toque acionaria o som, para que por meio
+do carinho a personagem falasse com as crianças.
+• Ao chacoalhar a caixa ela tremeria, o que seria
+mais uma resposta à um outro tipo de interação.
+Conforme foram sendo determinadas, as características e as etapas dos dias foram transferidas para uma planilha de interação, na qual foram
+cruzadas as interações e estados de cada componente a fim de começar a determinar as funções
+para a fase de programação.
+Assim, foram criadas três planilhas de interação, uma para cada dia, elencando todos os componentes, inputs, outputs e momentos da interação, bem como a determinação do som específico
+para cada etapa.
+Nesse momento foi possível refinar a interação. Foram definidas algumas funções fixas,
+que seriam repetidas todos os dias para determinar uma rotina. Determinou-se, por exemplo, que todos os dias as crianças encontrariam
+a criatura dormindo e deveriam acordá-la (uma
+das maneiras de aproximar a personagem do
+cotidiano delas).
+Também foi possível determinar com mais facilidade os estados de cada componente do objeto
+em cada situação. Por exemplo, foi possível determinar que quando a coisa estivesse dormindo os
+LEDs do olho estariam apagados, os motores desligados e os LEDs do corpo acesos em intensidade baixa, assim, caada momento da interação foi
+pensado com suas especificidades.
+Para deixar mais claro o processo e as particularidades e a sequência de cada dia, a seguir
+serão apresentados um resumo do blueprint, da
+planilha de interação e dos sons. A versão completa do blueprint pode ser consultada ao fim desse volume, no "Anexo B".
+
+Resumo das interações
+
+Crianças
+
+Professora
+
+Estado do objeto
+
+Dia 01 | o que é?
+Objetivo: conhecer o objeto e explorar as interações, gerar curiosidade, instigar a imaginação
+No dia 01 o objeto aparece misteriosamente na sala de aula, a ideia é que as crianças interajam com a
+criatura desconhecida, entendam como provocar a fala, como ela se expressa e descubram as primeiras
+interações. Também é o dia de criar as primeiras hipóteses em torno da sua origem: de onde vem? como
+veio parar aqui? o que é?
+
+Blueprint resumido
+Chegam
+na sala
+e percebem
+a coisa
+
+Se assustam
+ou ficam
+curiosas.
+O que é?
+
+Descobrem
+como acordar
+a coisa
+misteriosa
+
+Interagem
+com a coisa
+ouvindo
+seus sons
+
+Em roda
+começam
+a pensar
+nas primeiras
+hipóteses
+
+Desenham
+e conversam
+sobre o que
+acham que
+ela é
+
+Dormir
+
+Dormir
+
+Acordar
+
+Conhecer
+
+Conhecer
+
+Dormir
+
+Conduz
+as crianças
+até a sala
+
+Conta
+a história
+e prepara
+o ambiente
+
+Incentiva
+as crianças a se
+aproximarem
+e explorarem
+
+Incentiva
+as crianças a se
+aproximarem
+e explorarem
+
+Questiona
+sobre as
+hipóteses,
+o que é?
+
+Incentiva
+as crianças
+a imaginarem
+e se
+expressarem
+
+Dia 02 | como é?
+Objetivo: dar vida à imaginação, transformar as hipóteses do primeiro dia em realidade
+No dia 02 o objeto aparece diferente, com algum sinal visual que seja uma dica de que ele está se transformando. A ideia é que as crianças percebam que ao objeto não é somente uma caixa, mas algo "vivo",
+e que elas podem continuar seu processo de transformação, dando vida a ela por meio de desenhos e
+intervenções na caixa.
+
+Blueprint resumido
+Percebem
+algo diferente.
+A coisa
+mudou!
+
+Acordam
+a coisa
+e escutam
+um som
+diferente
+
+Imaginam
+o que pode
+ter acontecido
+
+Começam
+a dar vida
+à personagem
+
+Terminam
+de caracterizar
+
+Dão um nome
+para a coisa
+
+Dormir
+
+Acordar
+
+Conhecer
+
+Conhecer
+
+Gratidão
+
+Dormir
+
+Conduz
+as crianças
+até a sala
+
+Incentiva
+as crianças a se
+aproximarem
+e explorarem
+
+Questiona
+e incentiva
+o diálogo
+e a fala
+
+Auxilia
+no processo
+e conduz
+a inetração
+
+Forma a roda
+e posiciona
+o sensor hall
+
+Incentiva
+as crianças
+no processo
+
+51
+
+Dia 03 | despedida
+Objetivo: mapear os vínculos construídos, levar a personagem novamente para o plano da imaginação
+e deixar que continuem a criar e imaginar sem a presença física e visual
+
+A criatura visitante vai embora agora que está completa, a ideia é que nesse dia as crianças possam produzir desenhos, lembranças e outras coisas que desejarem para que ela leve embora. Além de entender
+como se deu a criação de vínculo é um meio de incentivar produções visuais e orais.
+
+Blueprint resumido
+
+52
+
+Chegam
+na sala e vão
+acordar
+a coisa
+
+Chegam
+na sala e vão
+acordar
+a coisa
+
+Percebem
+que será
+um dia
+diferente
+
+Fazem carinho
+e escutam
+os sons
+
+Preparam
+os desenhos
+e lembranças
+e se despedem
+
+Levam a coisa
+para o parque
+ou voltam
+para suas
+atividades
+
+Dormir
+
+Acordar
+
+Cutucar
+
+Carinho
+
+Despedir
+
+Dormir
+
+Conduz
+as crianças
+até a sala
+
+Incentiva
+as crianças
+a se
+aproximarem
+e explorarem
+
+Conta para
+as crianças
+que a coisa
+vai embora
+
+Conta para
+as crianças
+que a coisa
+vai embora
+
+Incentiva
+as crianças
+a imaginarem
+e se
+expressarem
+
+Deixa as
+crianças livres
+para deicidirem
+como interagir
+
+As interações detalhadas no blueprint foram
+traduzidas então em estados ou funções do objeto, relacionadas à cada dia. Foram determinadas oito funções: preparar (selecionar o dia
+de interação), dormir (objeto ligado esperando
+interação), acordar (primeiro contato com o objeto), cutucar (reação a movimentações), conhecer (reprodução de sons), caracterizar (reação
+especial do segundo dia de interações), deitar
+(outro input para fazer com que o objeto entrasse na função dormir) e desligar. As funções, tiveram por objetivo nomear os estados básicos
+do objeto em determinado momento dentro do
+dia específico de interação.
+Associados a essas interações foram determinados os inputs e outputs, sendo inputs os iniciadores, ou start do estado do objeto, e outputs
+a manifestação de acordo com o estado iniciado.
+Por exemplo: o toque foi determinado como input
+para o som, assim toda vez que uma criança tocasse o objeto um som seria tocado, nesse caso o som
+foi definido como output e assim sucessivamente
+para todos os momentos.
+
+Fig 39. Criança em sala
+de aula interagindo com
+o primeiro protótipo
+do "COISO"
+
+Inputs/outputs e funções
+
+Estado do objeto
+
+outputs
+
+Inputs
+
+As interações detalhadas no blueprint foram traduzidas então em estados ou funções do objeto, relacionadas à cada dia, depois disso foram colocadas em uma planilha de interações para que fosse possível
+determinar a lista de componentes necessários para o núcleo.
+
+Toque
+
+Acordar
+
+Conhecer
+
+Mexer / deitar
+
+Acordar
+
+Dormir
+
+Cutucar
+
+Chave seletora
+
+Ligar e desligar
+
+Selecionar dia 01
+
+Selecionar dia 02
+
+Selecionar dia 03
+
+Surpresa
+
+Caracterizar
+
+Tremer
+
+Acordar
+
+Conhecer
+
+Cutucar
+
+Piscar
+
+Acordar
+
+Conhecer
+
+Cutucar
+
+Caracterizar
+
+Respirar
+
+Acordar
+
+Conhecer
+
+Cutucar
+
+Caracterizar
+53
+
+Falar
+
+Ativo em todas as etapas
+
+Fig 40. Núcleo
+do primeiro protótipo
+aceso, visão geral dos
+componentes
+
+Depois da definição dos inputs e outputs e dos nomes de cada estado do objeto foi criada uma planilha de interação, com o objetivo de tornar visíveis
+os componentes e seus estados em cada momento
+dos dias. Assim, os estados do objeto foram dispostos na horizontal e as ações de input e output
+na primeira coluna vertical.
+Cada input e output foi traduzido em um estado de componente. Por exemplo: na função acordar (L2 / C4) o output de piscar (L9 / C1) seria
+visto como um LED aceso em intensidade alta piscando a cada 10 segundos.
+Dessa maneira foi possível determinar mais
+detalhadamente como cada componente estaria
+relacionado ao outro e quais funções seriam necessárias para organizar o código.
+Além disso obteve-se uma visão sistemática de
+como o objeto deveria responder a cada estímulo facilitando a validação do funcionamento do protótipo.
+
+54
+
+Planilha de interações
+
+Estado do objeto
+PREPARAR
+
+DORMIR
+
+Toque
+
+InPUTS
+OUTPUTS
+
+ACORDAR
+
+CUTUCAR
+
+Toque na cabeça
+
+Mexer / chacoalhar
+Chave seletora
+
+LOOP ACORDADO
+
+Chacoalhão
+
+Chacoalhão
+
+Vibração leve
+
+Vibração leve
+
+Som bocejo / Som respiro
+(loop)
+
+Som chacoalhão
+
+Olhos acesos intensidade
+alta / piscar (cada 10 s.)
+
+Luz com intensidade alta
+transição suave com cores
+
+Luz com intensidade alta
+cor branca
+animação de respiração
+
+Luz com intensidade alta
+transição suave com cores
+
+Selecionar o dia de
+interação (1, 2 ou 3)
+
+Surpresa
+Tremer
+Falar
+
+Som ronco
+(loop)
+
+Piscar
+Respirar
+
+Luz com intensidade baixa
+cor branca
+animação de respiração
+
+55
+
+COnHECER
+
+CARACTERIZAR
+
+DEITAR
+
+DORMIR
+
+DESLIGAR
+
+Toque na cabeça
+Deitar
+Voltar a chave para
+a posição inicial
+Colocar elemento final (ímâ)
+Vibração leve
+Play som aleatório entre os
+inéditos (depois reseta)
+
+Play som específico 02
+(som de tarefa concluída)
+
+Olhos acesos intensidade
+alta / piscar (cada 10 s.)
+
+Olhos intensidade alta /
+transição suave colorida
+
+Luz com intensidade alta
+com cor
+sem animação (fixa)
+
+Luz com intensidade alta
+transição suave com cores
+
+Som ronco
+(loop)
+
+Som ronco
+(loop)
+
+Luz com intensidade baixa
+cor branca
+animação de respiração
+
+Luz com intensidade baixa
+cor branca
+animação de respiração
+
+1.interação
+
+Escolha dos sons
+
+56
+
+sons
+
+momentos
+
+Com o detalhamento das funções, inputs e outputs,
+e todos os momentos de cada dia por meio da planilha de interação, surgiram as diretrizes para
+pesquisa dos sons.
+Como ponto de partida decidiu-se que no primeiro protótipo seria feita uma mistura entre sons humanos e abstratos, a fim de experimentar possibilidades mais abertas de criação. Assim, determinou-se
+que os sons que representassem rotinas diárias (dormir e acordar), seriam sons reconhecíveis, visto que
+seriam os primeiros a serem ouvidos pelas crianças.
+Os demais sons se pareceriam mais com ruídos do
+que com falas e reações humanas.
+Também nesse momento foi possível determinar a quantidade, recorrência, e duração
+de cada som, detalhadas na tabela abaixo. Os
+sons de dormir e respirar ficaram definidos
+
+como loops, já que só seriam acionados outros
+sons mediante alguma interação. As “falas” da
+personagem foram divididas em 10 sons curtos de 2 segundos, repetidos entre os dias de
+maneira aleatória, sendo que a cada dia eram
+adicionados novos sons à composição dos 10.
+Um único som específico foi necessário
+entre os 3 dias de interação, o som da caracterização, que seria acionado quando as crianças
+terminassem de caracterizar a personagem, por
+meio da aproximação de uma peça especial, para
+que o fim da caracterização ficasse marcado por
+um evento especial, simulando uma tarefa cumprida e gamificando a interação.
+Todos os sons foram baixados de sites gratuitos,
+selecionados, cortados e tratados, para que tivessem
+uma unidade quanto a duração e volume.
+
+Sons
+
+Dia 01
+
+Dia 02
+
+Dia 03
+
+Dormir
+
+Ronco
+
+Loop
+
+Loop
+
+Loop
+
+Acordar
+
+Bocejo / respiração
+
+2 seg. / Loop
+
+2 seg. / Loop
+
+2 seg. / Loop
+
+Cutucar
+
+Som chacoalhão
+
+2 seg
+
+2 seg
+
+2 seg
+
+Conhecer
+
+Voz personagem
+
+10 sons / 2 seg cada
+
+10 sons / 2 seg cada
+
+10 sons / 2 seg cada
+
+Caracterizar
+
+Som tarefa cumprida
+
+Deitar
+
+Loop ronco
+
+2 seg
+Loop
+
+Loop
+
+Loop
+
+Fig 41. Detalhe
+do núcleo. Acionamento
+do potenciômetro e vista
+geral dos componentes
+
+57
+
+2.núcleo
+
+hardware
++
+código
+
+caixa
++
+peças
+
+5.2 hardware e shield
+Núcleo
+
+As funções determinadas na interação, foram a
+base para a definição das características da parte eletrônica do projeto. Cada um dos estados
+do objeto foi traduzido em componentes, como
+mostra a tabela abaixo. Além disso a planilha
+de interação serviu como guia para a determinação dos estados de cada componente em
+cada momento de interação, e posteriormente,
+para a programação.
+Dentro do sistema, o núcleo age como o centro da interação, o coração. Por meio de seus com-
+
+Toque
+
+Sensor de toque / Sensor Touch Capacitivo TTP223B
+
+Mexer / chacoalhar
+
+Acelerômetro / Acelerômetro e Giroscópio 3 Eixos 6 DOF MPU-6050
+
+Chave seletora
+
+Potenciômetro / Potenciômetro Linear 100K
+
+Inputs
+
+Surpresa
+
+Hall sensor / Hall Effect Sensor - US1881
+
+outputs
+
+58
+
+ponentes os inputs são percebidos e traduzidos
+em respostas - os outputs-, que dão à personagem
+as características de criatura viva, com o som, as
+luzes e respostas motoras.
+A lógica parte do princípio que o núcleo possui uma central de processamento local baseada
+na plataforma Arduino, - uma plataforma de prototipagem eletrônica de hardware livre e de placa
+única, que pode ser usada para o desenvolvimento de objetos interativos independentes -, em conjunto com os sensores relacionados abaixo.
+
+Tremer
+
+Motor Solar Mini 300 3-5V + Driver Motor Ponte H L298N
+
+Piscar
+
+LED (olho) / LED RGB x10 WS2812B 5050 Endereçável
+
+Respirar
+
+LED (corpo) / LED RGB x10 WS2812B 5050 Endereçável
+
+Falar
+
+MP3 Player Shield Sparkfun para Arduino + amplificador
+
+Sensor de toque
+
+Motor
+
+Com a identificação do toque ou não
+toque é acionado o próximo som,
+no caso de o objeto estar na função
+dormir é iniciado o loop de acordar.
+Esses sensores identificam
+o aumento da capacitância de
+um circuito, com uma capacitância
+menor quando não há nada
+tocando e uma capacitância maior
+quando os dedos o tocam.
+
+Motor acionado pelo toque,
+nas funções acordar, cutucar
+e em cada passagem de som.
+Motor DC com tensão de
+alimentação de 3 à 5VDC
+e 3000 rpm + Driver
+controlador de motor,
+para determinar velocidade
+e rotação.
+
+Acelerômetro
+
+LED (olhos)
+
+Com a identificação da
+inclinação do objeto determina
+o estado de acordar ou dormir,
+também serve como input para
+a função cutucar.
+Um acelerômetro é um
+instrumento capaz de medir
+a aceleração sobre objetos,
+reconhecendo sua posição
+em relação aos eixos x,y, e z.
+
+Dois LEDS posicionados como
+olhos do objeto, acionados pelo
+sensor de toque e animados
+de tempo em tempo para piscar.
+LEDs RGB endereçáveis,
+podem ser montados em
+cadeia e utilizam apenas
+um pino do Arduino
+para controlar cada LED
+individualmente.
+
+Potenciômetro
+
+LED (corpo)
+
+Com a identificação da variação
+da tensão em um determinado
+intervalo determina o dia
+da interação: 1, 2 ou 3.
+É um componente eletrônico
+que possui resistência elétrica
+ajustável. Geralmente, é um
+resistor de três terminais onde
+a conexão central é deslizante
+e manipulável.
+
+Oito LEDS posicionados na
+parte de baixo do objeto, animados
+como respiração, entram em loop
+nas funções dormir e acordar.
+LEDs RGB endereçáveis,
+podem ser facilmente
+montados em cadeia e utilizam
+apenas um pino do Arduino
+para controlar cada LED
+individualmente.
+
+Hall sensor
+
+MP3 Shield
+
+Com a aproximação de uma peça
+composta por pequenos ímãs, há
+uma variação na tensão de saída
+que aciona a função de surpresa
+na caracterização.
+Um Sensor de Efeito Hall
+é um transdutor que, quando
+sob a aplicação de um campo
+magnético, responde com uma
+variação em sua tensão de saída.
+
+Player MP3
+O Shield tem a função
+de aumentar a funcionalidade
+da placa Arduino com facilidade
+de conexão. Os arquivos de
+áudio são armazenados em um
+cartão microSD e o shield possui
+um conector P2 para conectar
+fones de ouvido, caixas de som
+ou amplificadores.
+
+59
+
+Power Bank
+MP3 shield + Arduino
+
+Acelerômetro
+
+60
+
+LED (olhos)
+
+Fig 42. Detalhe
+do núcleo. Esquema com
+indicação da localização
+dos componentes
+
+Amplificador
+
+Potenciômetro
+
+Motor + ponte H
+
+Sensor de toque
+61
+
+Hall sensor
+
+Processo / circuito
+
+62
+
+Com a determinação e compra de todos os componentes necessários para prototipar as interações, iniciaram-se os testes para montagem do
+núcleo e início da programação.
+O primeiro passo foi prototipar no protoboard - uma placa de ensaio ou matriz de contato
+com furos e conexões condutoras para montagem de circuitos elétricos experimentais -, assim foi possível desenvolver e testar as interações sem que fosse necessário soldar a placa
+final. Os testes se iniciaram pelo input de toque
+como acionador do motor e dos LEDs.
+Depois de realizados os testes a placa final
+foi soldada e um primeiro núcleo de papelão
+foi montado, para que fosse possível determinar um tamanho aproximado do conjunto bem
+como a sensibilidade do sensor de toque quando sobreposto por uma barreira (a caixa de papelão). Assim foi possível perceber a necessidade de uma antena que amplificasse a área de
+contato e sensibilidade ao toque.
+Também foi possível testar a potência do
+motor, a ideia era que ao encostar na caixa fosse possível perceber que esta estava tremendo.
+Para potencializar isso um excêntrico foi projetado e acoplado ao pino do motor, garantindo o
+efeito desejado.
+Com o primeiro núcleo de papelão também
+se iniciaram os testes de fixação no corpo do
+objeto (invólucro), além de testes de sustentação e peso, para que o desenho fosse fechado.
+Os últimos componentes adicionados ao
+circuito foram o amplificador de som e o controlador de volume, retirados de uma caixa de
+som antiga de computador.
+Duas questões percebidas durante o desenvolvimento demandaram maior esforço de
+projeto. A primeira com relação à alimentação
+de energia, visto que era necessário que não
+
+Fig 43. Início
+do processo
+de prototipagem
+do circuito
+no protoboard
+
+houvessem fios aparentes e nada conectado a
+tomadas, tanto para garantir a segurança quanto para não quebrar a magia da interação, por
+fim, definiu-se o uso de um Power Bank para
+cumprir essa função.
+A outra questão veio da necessidade de introduzir um fator surpresa à interação, ao fim
+do segundo dia, terminada a caracterização da
+personagem/criatura, haveria uma reação especial do objeto, luzes coloridas se acenderiam
+e um som diferente tocaria, dando ideia de
+tarefa cumprida. Considerando isso foi necessário pensar em um input que não conflitasse
+com os demais, visto que o sensor de toque e o
+acelerômetro estavam sendo usados como outros inputs, e esta ação se daria uma única vez.
+A solução foi incorporar um sensor hall, que
+acionaria a reação no dia 2 quando uma peça
+especial com ímãs fosse aproximada, causando
+uma variação em sua tensão de saída e assim a
+execução da função surpresa.
+
+63
+
+Fig 44 a 47. Processo
+de desenvolvimento do núcleo,
+passando pela soldagem,
+montagem da caixa preliminar
+e colocação do excêntrico
+
+2.núcleo
+
+hardware
++
+código
+
+caixa
++
+peças
+
+Processo / núcleo de acrílico ("Anexo c")
+
+64
+
+Para encapsular o núcleo garantindo a segurança dos componentes e também a possibilidade
+de troca entre invólucros (caixa de papelão), decidiu-se desenvolver um shield, um escudo ou
+caixa protetora.
+A primeira ideia era que este, assim como o
+invólucro fosse feito de papelão, porém devido
+a necessidade de que a luz de respiro, localizada na parte de baixo da caixa, fosse visível, optou-se pelo acrílico transparente. Além disso,
+assim seria possível visualizar os componentes
+internos, o que poderia ser interessante tanto
+para facilitar a manutenção quanto para aguçar
+a curiosidade da educadora e das crianças.
+A necessidade de visibilidade da luz pela
+parte de baixo também acabou por determinar
+uma altura mínima da caixa em relação ao chão,
+e assim a adição de pés ao desenho da caixa.
+Com base no primeiro teste feito em papelão, foram determinadas as principais medidas
+e a localização de encaixes e saídas para fios e
+fixadores. Também foi determinada a forma de
+encaixe do núcleo na caixa de papelão, que se
+daria por dentro, sendo que os dois pés atravessariam a caixa e seriam unidos por uma trava
+(este esquema pode ser visto na seção de montagem mais a frente).
+Antes de iniciar o processo de corte na máquina a laser uma primeira versão da caixa planificada foi impressa, para que os componentes fossem
+distribuídos e fosse validado o tamanho e o desenho do núcleo. Depois disso a primeira versão foi
+cortada e montada e algumas falhas e possíveis
+melhorias foram percebidas, principalmente com
+relação à fixação e à altura dos pés.
+Feitos os ajustes uma nova versão da caixa
+foi cortada, agora com espaços para inserção de
+parafusos para melhorar a fixação e gravação de
+um indicador de dias para seleção da interação.
+
+Fig 48 e 49. Processo
+de desenvolvimento
+da caixa de acrílico.
+Planificação
+e primeira versão
+
+Trava inferior
+
+13,4 cm
+
+23 cm
+
+Acesso/arduino
+
+65
+
+6,4 cm
+
+Parafuso
+Fixadores
+
+Saída de som
+Saída para fios
+
+14 cm
+
+13,4 cm
+
+Seletor de dias
+
+2.núcleo
+
+hardware
++
+código
+
+caixa
++
+peças
+
+Processo / peças impressas ("Anexo d")
+
+66
+
+Apesar da centralização da eletrônica no núcleo
+alguns componentes precisariam ser fixados no
+invólucro para que funcionassem, ficando externos à caixa de acrílico. Sendo assim, foi necessário
+criar peças para auxiliar a fixação e garantir uma
+unidade entre o sistema.
+Para validar a modelagem 3D e buscando algo
+que garantisse um bom acabamento para o primeiro protótipo, os modelos 3D foram impressos
+em PLA (ácido polilático), um polímero com base
+vegetal biodegradável.
+Diversos testes de impressão foram realizados
+para que se adequassem os encaixes, espessura
+das paredes, pegas e outros detalhes.
+A primeira peça desenhada foi a de fixação dos
+olhos, portanto o formato redondo, que acabou
+derivando as outras partes do sistema, que é composto por três peças no total: para o LED (olhos),
+para o sensor de toque e para o hall sensor.
+
+Fig 50. Detalhe
+do primeiro teste
+de impressão
+das peças, ainda
+com o material
+transparente
+
+Peça 1 | olhos (LEDs)
+A primeira peça desenhada foi a de fixação dos
+LEDs dos olhos, que deveriam ficar visíveis na
+parte externa da caixa mas ter seus fios escondidos na parte interna.
+Para isso foi projetada uma peça bipartida,
+unida por uma rosca, que seria inserida pela parte
+de dentro da caixa e rosqueada pela parte de fora.
+A peça também conta com um slot para o LED e
+um passador para o fio.
+Para que a pega ficasse mais confortável durante o fechamento foram desenhadas algumas entradas circulares na lateral, para encaixe dos dedos.
+Desta primeira peça derivaram as demais componentes do sistema.
+
+4,5 cm
+
+5,2 cm
+
+67
+Fig 51. Detalhe
+da peça para encaixe
+dos olhos, aberta
+e fechada pela rosca
+
+Encaixe para a antena
+
+Peça 2 | sensor de toque
+vista lateral
+Para que pudesse ser fixado na parte superior
+interna da caixa o sensor de toque precisava de
+uma superfície de contato para receber a fita
+dupla face. Assim aproveitou-se o módulo dos
+olhos como base e criou-se um encaixe para
+que a superfície do sensor ficasse rente à superfície da peça.
+Também foi necessária a criação de um sulco em todo o diâmetro lateral para encaixe do
+fio de estanho, que serviu de antena para amplificação da área de contato do sensor.
+
+68
+
+Fig 52. Detalhe
+da peça para encaixe
+do sensor de toque,
+a antena foi acomodada
+na lateral da peça
+
+5,2 cm
+
+Fig 53. Detalhe
+da peça para encaixe
+e acionamento do hall.
+Aberta e fechada
+pelos ímãs.
+
+69
+
+Peça 3 | hall sensor
+A peça do hall sensor assim como a do sensor
+de toque foi baseada no módulo dos olhos, porém com algumas particularidades.
+Foram projetadas duas peças, uma para
+fixação do hall na parede interna da caixa, e
+outra para ser fixada externamente com auxílio dos ímãs, para o acionamento, somento no
+momento da função especial no dia 2.
+Na peça fixada na caixa foi projetado um
+sulco retangular para encaixe do sensor, fazendo com que a superfície deste e da peça ficassem no mesmo nível.
+Além de necessitar de uma superfície para
+fixação com a fita dupla face, foram feitos 3 encaixes para pequenos ímãs na peça interna e
+quatro encaixes para os ímãs na peça externa,
+para que um deles ficasse exatamente sobre o
+sensor hall, para que assim houvesse o acionamento da função.
+
+5,2 cm
+
+70
+
+Fig 54 e 55. Núcleo
+montado e peças. Detalhe
+do núcleo, acionamento
+do potenciômetro e escala
+
+Fig 56. Núcleo aceso,
+( luz inferior e luzes
+dos dois "olhos")
+
+71
+
+3.invólucro
+
+invólucro
+(caixa)
+
+Montagem
+
+5.3 caixa e montagem
+Invólucro
+
+72
+
+Desde o início do processo de projeto já se sabia
+que a caixa contaria com duas partes principais:
+o núcleo (coração da interação) e o invólucro, o
+corpo que envolveria o núcleo.
+Outra premissa era que o invólucro, - dentro
+da proposta de que as crianças construíssem sua
+própria personagem -, deveria ter o mínimo de referências visuais para que fosse possível observar
+a criação das crianças de maneira livre, ou seja,
+não devia se assemelhar a um brinquedo convencional de personagem.
+Além disso, deveria ser feito de um material o
+mais próximo possível do natural, que convidasse ao toque, fácil de customizar, recortar, colar e
+desenhar, algo que pudesse ser facilmente manipulado e alterado pelas crianças e pela educadora.
+Diante dessas diretrizes o material escolhido
+foi a caixa de papelão, que além de se adequar
+como material, por ser facilmente alterável, evoca
+significados que complementam a interação. Tem
+uma aura misteriosa, parece esconder algo dentro
+de si, e convida à descoberta.
+Também é um objeto presente no dia a dia
+das crianças, que costumam brincar com caixas
+e as ressignificam a todo momento, com esse
+simples suporte podem criar todos mundos e
+objetos imaginários possíveis.
+Definido o material foi o momento de escolher como seria esta caixa. Um dos fatores determinantes foi o tamanho do núcleo (em amarelo
+no esquema ao lado), tendo este tamanho definido, uma pesquisa das caixas standard disponíveis
+no mercado foi feita, e foram comparadas as medidas de suas bases. Por fim, a caixa escolhida foi
+a que mais se adequou ao tamanho do núcleo e
+também à altura desejada, algo próximo do tamanho das crianças, que elas conseguissem abraçar,
+carregar, e customizar.
+Depois disso foram definidos os recortes necessários para fixação do núcleo e das peças, que
+
+se resumiram a dois recortes na face frontal da
+caixa para colocação dos olhos e três na parte inferior para fixação do núcleo e passagem da luz de
+respiro (esquema ao lado).
+A ideia é que com esse recorte em mãos
+fosse possível utilizar diferentes tamanhos de
+caixas e até outros suportes para a criação de
+diferentes personagens e coisas.
+
+Caixas possíveis (standard)
+
+vista inferior
+
+Caixa escolhida
+Dimensões Internas
+(Comp. x Larg. x Alt.):
+66,0 x 30,0 x 27,0 cm
+Dimensões Externas
+(Comp. x Larg. x Alt.):
+67,4 x 31,2 x 30,0 cm
+
+Recortes (recortar na linha pontilhada)
+9 cm
+
+73
+
+4,5 cm
+
+13,3 cm
+
+23,5 cm
+
+4 cm
+
+8 cm
+
+0,5 cm
+
+3.invólucro
+
+74
+
+invólucro
+(caixa)
+
+Montagem
+
+1
+
+Fazer os recortes indicados na caixa
+
+2
+
+Colar as abas de uma das laterais
+
+5
+
+Passar a trava pelos dois recortes unindo os pés
+
+6
+
+Caixa com o núcleo fixado
+
+9
+
+Fita dupla face nas laterais da peça do sensor de toque
+
+10
+
+Fixar o sensor na parte superior interna da caixa
+
+Passado o processo de montagem do núcleo, de fixação das
+peças impressas e sensores e preparação da caixa de papelão
+com os recortes foi possível unir todas as partes, finalizando
+assim o primeiro protótipo.
+
+Fig 57 a 68.
+Passo a passo
+da sequência
+de montagem
+do protótipo
+
+3
+
+Colocar o núcleo e as peças dentro da caixa
+
+4
+
+Encaixar os pés do núcleo no recorte da parte de baixo
+
+7
+
+Organizar os fios e peças para começar a fixar
+
+8
+
+Passar a peça do olho pelo recorte e rosquear
+
+11
+
+Colocar fita na peça do sensor hall e fixar
+
+12
+
+Vista geral da caixa montada
+
+75
+
+76
+
+Fig 69 e 70. Vista interior
+da caixa com o núcleo
+fixado, antes da fixação
+das peças impressas e vista
+geral da caixa montada
+
+Sensor
+de toque
+
+Olhos
+
+Hall
+
+77
+
+núcleo
+
+Fig 71. Vista da caixa
+montada e finalizada
+
+78
+
+79
+
+80
+
+“E gostasse mais de ensinar que a exuberância
+maior está nos insetos do que nas paisagens.
+Seu rosto tinha um lado de ave. Por isso ele podia
+conhecer todos os pássaros do mundo pelo coração
+de seus cantos. Estudara nos livros demais.
+Porém aprendia melhor no ver, no ouvir, no pegar,
+no provar e no cheirar.” Manoel de Barros
+
+6
+
+COISO
+experimento 01
+
+81
+
+Fig 72 e 73. Turma
+do grupo 4, da EMEB
+Benedita Alzira
+de Moraes Camunhas
+
+6.1
+
+Do lugar
+
+as crianças e a escola
+
+6.1.1 A escola,
+as crianças e o entorno
+
+82
+
+A EMEB Benedita Alzira de Moraes Camunhas
+foi escolhida para realização dos testes com o
+primeiro protótipo do projeto. Além de ser uma
+escola pública de ensino infantil, mais um fator foi levado em consideração para a escolha,
+a proximidade com a professora - minha mãe,
+Luciana Marini - que aceitou entrar nessa jornada de experimentações, o que tornou mais fácil
+o alinhamento dos detalhes, datas, etapas e impressões de cada dia de testes.
+A escola está localizada no Bairro Fazenda
+Grande, na cidade de Jundiaí, interior de São
+Paulo. As crianças e suas famílias residem no
+bairro da escola e nos bairros circunvizinhos,
+Novo Horizonte, Residencial Cravos, Jardim
+Ermida I, Medeiros, Parque Residencial Jundiaí II, Almerinda e Parque Industrial, porém a
+maioria é residente no próprio bairro.
+O bairro Fazenda Grande é um dos mais
+recentes da cidade, as primeiras residências do
+loteamento foram entregues no ano de 2002. O
+clima do bairro é de cidade do interior, muitas
+crianças chegam à pé na escola, na companhia
+dos pais e responsáveis.
+Vê-se que a realidade das famílias é diferente das escolas visitadas em São Paulo - na
+maioria particulares -, algumas não dispõem de
+recursos para aquisição de materiais, que ficam
+a cargo da escola.
+O espaço externo da escola é bonito e amplo,
+com parques, quadra, campinho de futebol que
+são bem explorados pelas crianças em vivências
+diárias programadas. É um local arborizado, bem
+cuidado e acessível, buscando a segurança e mobilidade das crianças nos diferentes espaços.
+O espaço interno é bom. Com salas de aula
+grandes e arejadas, circundadas por solários com
+vista para os parques da escola onde há muitas
+árvores. A sala da turma da professora Luciana
+
+não conta com solário e o espaço é bem menor
+do que o das outras salas. No período da manhã o
+sol adentra na sala e por isso as cortinas precisam
+estar fechadas em boa parte do período.
+Assim, o espaço de circulação das crianças
+é reduzido, portanto a dinâmica de aulas e propostas a serem desenvolvidas precisam ser planejadas contando com essa configuração.
+Outro ponto a se considerar é que a sala é
+utilizada nos períodos da manhã e tarde, o que
+faz com que seja necessária uma maior interação entre as professoras dos dois períodos para
+que o espaço seja bem utilizado e organizado
+em relação à exposição de cartazes, calendário,
+lista de nomes, exposição de atividades, dentre
+outros materiais. Além da importância de manter a organização dos armários e cantinho da
+leitura para que o ambiente fique agradável e
+acolhedor, livre de poluição visual.
+A turma que hoje ocupa este espaço está
+formada por vinte e quatro crianças, sendo dez
+meninas e quatorze meninos, algumas delas estão frequentando a escola pela primeira vez.Não
+há casos de inclusão na classe. A faixa etária
+das crianças é variada: com 4 anos completos
+e a completar no primeiro semestre. A maioria
+completará 5 ao longo do ano letivo.
+
+83
+
+84
+
+Fig 74. Algumas
+das crianças da turma
+do grupo 4, da EMEB
+Benedita Alzira
+de Moraes Camunhas
+
+6.1.2 O grupo, perfil
+e cotidiano de atividades
+Para entender melhor as crianças, o grupo e o
+cotidiano da sala foi analisado um diagnóstico
+de perfil realizado pela própria educadora, a
+fim de determinar algumas características observadas no primeiro bimestre deste ano, quando as crianças estão se adaptando à escola.
+De acordo com o perfil da sala, observado
+pela professora ao longo do primeiro bimestre,
+pode-se dizer que as crianças desse grupo construíram em pouco tempo laços de amizade e
+parceria, tanto com os colegas quanto com as
+professoras. Elas gostam de se ver, de brincar
+juntas, de conversar com os colegas e a professora, demonstram carinho e afeição.
+No processo de criação de vínculos conflitos acontecem, e nessa fase as crianças estão
+aprendendo a lidar com eles, é possível perceber que no início da vida escolar elas ainda não
+apresentam repertório para a resolução de problemas e precisam da ajuda da professora.
+
+ças interagem muito bem, os conflitos são poucos
+pois nesses momentos elas podem correr, pular,
+gritar, se movimentando com mais liberdade, as
+restrições para o brincar são mínimas.”
+Além do brincar, expressar-se é uma coisa
+da qual as crianças gostam. Costumam narrar os fatos ocorridos com clareza de ideias,
+expõem suas ideias sobre diversos temas demonstrando seus interesses e conhecimentos,
+se comunicam com segurança e interesse. E
+começam a se apropriar de procedimentos e
+posturas para esses momentos de roda (escutar
+o amigo, esperar a vez, etc.).
+Durante o primeiro bimestre foram realizadas
+atividades com foco nas diferentes linguagens:
+
+“Ao longo desses meses conversamos e vivenciamos
+alguns procedimentos e atitudes legais, positivos,
+de se ter em relação aos colegas, professora e aos
+ambientes e espaços da escola. Sendo que os mais
+explorados e vivenciados foram esperar a vez e
+respeitar a vez do amigo (para comer, para falar, para beber água, para brincar, etc.); procedimentos de cuidar e guardar os objetos, materiais
+e brinquedos; organização e limpeza dos ambientes; escutar as orientações da professora; procedimentos de roda de conversa e história.”
+
+“Na Linguagem escrita foram realizadas, nesses
+meses de aulas, propostas para reconhecimento e
+escrita do nome e das letras do alfabeto, com o objetivo de levantar os conhecimentos dos alunos como,
+autorretrato (desenho: Eu sou assim! - tarja com o
+nome das crianças para colar); música e brincadeira do foguetinho (Confecção de um foguetinho
+com o nome das crianças para colar); entrega das
+agendas; pescaria de letras, dentre outras. A escrita
+apresenta para a turma significado e relevância. “
+“A Linguagem não verbal, especialmente o desenho é
+muito significativo para as crianças, é parte essencial
+do ser criança. O desenho de uma parte da turma
+está na categoria da garatuja e suas diversas expressões (linhas circulares/ horizontais/ formas aleatórias/ experimentação, às vezes só movimento sem
+intenção de nomear ou criar uma história).“
+“A turma aprecia muitas outras linguagens
+como, teatro, música, dança. Demonstraram um
+interesse maior em relação a música e dança.”
+
+De acordo com a percepção da professora, o
+maior momento de interatividade e aprendizagem
+dos pequenos ocorre nos momentos do Brincar.
+“Durante esses momentos realizei algumas
+observações em diferentes espaços na escola. Nos
+momentos de brincar (livre) no parque, as crian-
+
+Analisando esse perfil pode-se dizer que as
+crianças dessa turma apreciam o desenho e manifestações artísticas, gostam de se expressar e
+expor ideias e estão na fase de início da socialização, entendendo-se enquanto criança e nas
+suas relações com o outro.
+
+85
+
+Fig 75. Sala de aula
+da turma do grupo 4,
+da EMEB Benedita Alzira
+de Moraes Camunhas,
+onde foi aplicado o projeto
+
+6.2
+
+86
+
+O teste
+
+experiências em sala de aula
+
+As experimentações em sala de aula foram realizadas nos dias 17, 18 e 19 de maio de 2017, na
+EMEB Benedita Alzira de Moraes Camunhas,
+durante as aulas da professora Luciana Marini,
+no período da manhã.
+A ideia deste primeiro experimento era não
+só validar o projeto ou o protótipo, mas entender como se daria o acolhimento das crianças
+com relação à proposta e ao objeto. O foco experiência estava em observar as relações e interações das crianças e da educadora entre si e
+com a coisa.
+Seria estabelecido um vínculo? Acreditariam que
+aquele objeto era mesmo uma personagem, algo vivo?
+Iriam interagir com o objeto? Ficariam curiosos?
+Diante de tantas perguntas foram elencadas
+algumas premissas para o teste com métricas
+de avaliação, ainda que muito subjetivas, considerando sentimentos e interações, e a imprevisibilidade das crianças.
+
+Premissas que justificam o teste
+
+Métricas de avaliação
+
+As crianças são naturalmente curiosas
+
+As crianças vão identificar um ou mais personagens
+
+Se interessam por mistérios
+
+As crianças ficarão curiosas com o objeto
+
+Criam narrativas naturalmente
+
+Alguma criança vai querer falar com a personagem
+
+Estão desenvolvendo a oralidade
+
+Vão conversar entre elas sobre a personagem misteriosa
+
+Estão desenvolvendo a linguagem
+
+Vão criar vínculo e empatia com a personagem
+
+Estão desenvolvendo a brincadeira de faz de conta
+(se projetam no objeto / brincadeira)
+
+A professora vai se apropriar da proposta e fazer sugestões
+
+As formas escolhidas para coleta de dados e
+avaliação das métricas foram: a observação em
+sala de aula, com registro de imagens e vídeos, a proposição de atividades que gerariam um
+material passível de avaliação e conversas com a
+educadora após cada dia de testes.
+A professora esteve à frente da experiência,
+conduzindo cada momento em conjunto com as
+crianças. Cada dia de interação foi pautado nas
+interações descritas no processo de construção
+do protótipo, ainda que durante a experiência
+algumas mudanças tenham ocorrido.
+Todos os dias de interação foram precedidos
+por conversas com a professora para o planejamento do dia seguinte, revisão do protótipo e
+teste de funções básicas e um checklist diário
+tanto de interação quanto de materiais de apoio.
+A seguir, cada dia de experimentação será
+detalhado em suas preparações, aplicação e impressões gerais.
+
+87
+
+Fig 76. Crianças
+da turma do grupo
+4, da EMEB
+Benedita Alzira
+de Moraes Camunhas
+em sala de aula
+
+DIA 01
+
+88
+
+DIA 02
+
+DIA 03
+
+6.2.1 Dia 01 (quarta-feira, 17 de maio)
+
+Sobre o dia 01
+
+Considerando o blueprint e a planilha de interações, o primeiro dia seria o dia de sensibilização,
+em que as crianças conheceriam a coisa, e começariam a interagir com ela.
+
+Cheguei na escola junto com a professora às
+7h15 da manhã. Algumas crianças já estavam
+esperando no portão da escola, que é aberto
+por volta das 7h30, quando as crianças entram
+e seguem para suas salas. A professora utiliza
+esses minutos iniciais para preparação da sala
+de aula e organização dos materiais.
+Aos poucos as crianças foram chegando, a
+maioria ainda com sono, e uma a uma foram
+cumprindo o ritual de todas as manhãs colocando suas mochilas num cantinho especial e
+entregando a agenda para a professora.
+Algumas crianças vieram me perguntar
+quem eu era, e por que estava com uma câmera
+na sala de aula. Expliquei que eu também estudava e estava tirando fotos para a minha escola,
+vi carinhas de surpresa imediatamente, como
+pode um adulto ir pra escola?
+Acredito que esse tenha sido um ponto
+bom do adiamento do teste, o primeiro dia serviu como uma primeira aproximação minha
+com as crianças, para que se acostumassem
+com a minha presença na sala de aula e com
+as fotos que estavam sendo tiradas. Além disso
+pude conhecer a escola, e entender o espaço e a
+rotina para planejar melhor a interação.
+Poucos minutos depois da chegada a professora os reuniu em roda, um costume diário,
+para conversarem sobre a rotina do dia e revisarem alguns combinados, nesse momento também me apresentou para as crianças, alguns se
+lembraram de mim, já que já tinha estado na
+sala em uma visita anterior.
+Logo depois da roda saímos para a colação,
+o primeiro lanche que as crianças tomam, antes de dar início ao dia, nesse momento pude
+me aproximar mais das crianças e conversar
+com elas, todas muito curiosas, queriam contar sobre suas casas, do aniversário que chegaria, me perguntavam onde eu estudava, como
+
+“ Dia 01 - o que é?
+Objetivo: conhecer o objeto e explorar as interações,
+gerar curiosidade, instigar a imaginação
+No dia 01 o objeto aparece misteriosamente na sala
+de aula, a ideia é que as crianças interajam com a
+criatura desconhecida, entendam como provocar a
+fala, como ela se expressa e descubram as primeiras
+interações. Também é o dia de criar as primeiras hipóteses em torno da sua origem: de onde vem? como
+veio parar aqui? o que é?”
+Porém, na noite anterior ao primeiro dia de
+testes o núcleo que antes funcionava perfeitamente apresentou problemas com relação ao som.
+Após muitas tentativas de resolução, chegou-se a
+uma possível causa, a alimentação de energia feita
+pelo Power Bank. Ainda assim, foi preciso adiar o
+teste para o dia seguinte.
+Foi necessário então um replanejamento dos
+dias e das interações. Decidiu-se manter as interações exatamente como tinham sido propostas,
+porém, agrupando os dias 2 e 3 em um só. Reorganizando dessa maneira:
+• Dia 01 - Reconhecimento do espaço / preparação do ambiente e materiais
+• Dia 02 - Primeiro dia de testes (baseado no
+blueprint do dia 01)
+• Dia 03 - Segundo dia de testes (baseado no
+blueprint dos dias 02 e 03)
+Assim, o primeiro dia na escola foi um dia de
+reconhecimento do espaço, observação da rotina, e
+preparação do ambiente e dos materiais necessários
+para o início dos testes no dia seguinte.
+
+funcionava a câmera, pareciam querer saber de
+tudo a todo momento.
+Algumas semanas antes de iniciarmos a
+experimentação a professora já tinha avisado
+a turma que eles receberiam uma visita misteriosa, de alguém diferente, e nesse momento
+algumas crianças comentaram isso comigo, e
+aproveitei para reforçar o suspense, perguntando quem seria, de onde será que vinha esse visitante, e todas se mostraram curiosas.
+Voltamos para a sala e o dia se desenrolou
+segundo a rotina planejada pela professora,
+que teve brincadeira livre no parque, contação
+de histórias, uma atividade de escrita com letras coloridas e exibição de vídeos.
+Na brincadeira no parque foi possível perceber como as crianças conseguem criar mundos inteiros com muito pouco recurso, no
+tanque de areia construíram vulcões, castelos,
+reinos, bolos de chocolate, o que vinha à cabeça se materializava ali.
+Decidi fotografar todos os momentos do
+dia, e as crianças se mostraram muito curiosas,
+no início posavam toda hora e me pediam para
+tirar fotos delas, mas aos poucos foram se acostumando e ao final do dia quase não percebiam
+a presença da câmera.
+Aproveitamos um momento do dia em que
+as crianças saíram para uma atividade com outra professora para organizarmos alguns materiais que precisaríamos para o último dia da
+interação, quando as crianças caracterizariam
+o objeto. Enchemos uma caixa com tecidos,
+tintas, papéis coloridos, todos os insumos possíveis para que pudessem soltar a imaginação
+e criar a personagem.
+Quando as crianças retornaram as atividades correram normalmente e ao final do dia a
+professora deu a notícia: no dia seguinte receberiam uma visita especial...
+
+89
+
+Fig 77 e 78.
+Atividade dos nomes
+em sala de aula.
+Caixa com materiais
+para o dia de testes
+com o protótipo
+
+Fig 79 a 82.
+Fotos tiradas no dia
+de observação na escola.
+Roda de histórias,
+brincadeira no parque
+e atividade dos nomes
+
+90
+
+91
+
+DIA 01
+
+DIA 02
+
+DIA 03
+
+6.2.2 Dia 02 (quinta-feira, 18 de maio)
+
+92
+
+Tendo resolvido o problema do protótipo, apesar de o volume do som ter ficado mais baixo
+do que o imaginado, foi possível iniciar o teste
+em sala de aula. Antes disso todas as etapas
+foram revisadas e o passo a passo de organização da sala foi pensado, para que a professora estivesse tranquila e soubesse como seguir
+com a interação.
+Na noite anterior foi feita uma revisão das
+atividades e propostas, o protótipo foi testado
+novamente, uma sequência inteira de interação
+foi reproduzida e as baterias de alimentação foram carregadas. Na manhã do teste o checklist
+foi revisado e um novo teste com o protótipo
+foi realizado.
+O objetivo do primeiro dia de interações
+era inserir o objeto / criatura na sala de aula
+e entender como se daria a descoberta das
+crianças. Como acolheriam o objeto, se ficariam curiosas, se iriam abstrair do formato e
+entender a coisa como algo vivo, enfim, quais
+hipóteses elas criariam. Além disso, a ideia era
+provocar essa criação de hipóteses sobre a coisa, questionando as crianças sobre o que seria
+aquilo, de onde teria vindo, a fim de estimular
+a imaginação.
+Além disso, pedagogicamente, tinha-se a
+intenção de trabalhar o estímulo da imaginação, a expressão de ideias com a fala e a escuta
+das crianças, a construção coletiva e a criação
+de vínculo e empatia.
+Assim, o dia foi dividido em três grandes
+momentos: o primeiro contato, ou seja, as
+primeiras interações com o objeto, a sensibilização; um momento de geração de hipóteses
+sobre a coisa e um momento de representação
+da coisa, em que as crianças demonstrariam
+como tinham entendido o objeto.
+Com essas bases definidas iniciou-se o primeiro dia de testes.
+
+Pré-teste
+Repassar um teste inteiro com a professora (interações)
+Preparar a caixa de papelão
+Preparar o ambiente
+Ligar a caixa selecionando o dia correto de interação
+
+Pós-teste
+Fazer balanço dia 02
+Preparar a caixa de papelão e sensor hall
+Testar núcleo fora da caixa
+Conferir o checklist do dia 03
+Separar os materiais do dia 03
+Rever a dinâmica dia 03
+
+Fig 83. Turma
+do grupo 4, da EMEB
+Benedita Alzira
+de Moraes Camunhas
+
+Resumo das interações
+
+Crianças
+
+Professora
+
+Estado do objeto
+
+Dia 01 | o que é?
+Objetivo: conhecer o objeto e explorar as interações, gerar curiosidade, instigar a imaginação
+No dia 01 o objeto aparece misteriosamente na sala de aula, a ideia é que as crianças interajam com a
+criatura desconhecida, entendam como provocar a fala, como ela se expressa e descubram as primeiras
+interações. Também é o dia de criar as primeiras hipóteses em torno da sua origem: de onde vem? como
+veio parar aqui? o que é?
+
+Blueprint resumido
+Chegam
+na sala
+e percebem
+a coisa
+
+Se assustam
+ou ficam
+curiosas.
+O que é?
+
+Descobrem
+como acordar
+a coisa
+misteriosa
+
+Interagem
+com a coisa
+ouvindo
+seus sons
+
+Em roda
+começam
+a pensar
+nas primeiras
+hipóteses
+
+Desenham
+e conversam
+sobre o que
+acham que
+ela é
+
+Dormir
+
+Dormir
+
+Acordar
+
+Conhecer
+
+Conhecer
+
+Dormir
+
+Conduz
+as crianças
+até a sala
+
+Conta
+a história
+e prepara
+o ambiente
+
+Incentiva
+as crianças a se
+aproximarem
+e explorarem
+
+Incentiva
+as crianças a se
+aproximarem
+e explorarem
+
+Questiona
+sobre as
+hipóteses,
+o que é?
+
+Incentiva
+as crianças
+a imaginarem
+e se
+expressarem
+
+93
+
+Fig 84 a 87.
+Primeiro dia de interações:
+caixa colocada na sala,
+crianças entrando na sala
+e primeiros momentos
+de interação
+
+94
+
+Sobre o dia 02
+O momento escolhido para que o objeto aparecesse
+na sala foi a volta da colação - primeiro lanche do dia,
+logo após a chegada das crianças na escola -, enquanto eles tomavam o lanche coloquei a caixa na sala e
+apaguei as luzes, para que quando voltassem a caixa
+parecesse ter aparecido misteriosamente.
+Antes de entrarem na sala a professora anunciou
+que alguma coisa estranha estava lá dentro, logo as
+crianças começaram a se abraçar e ficaram ansiosas.
+A professora conduziu-os para dentro em silêncio. A
+coisa estava lá, roncando na sala.
+Algumas crianças tiveram medo, outras ficaram
+curiosas e perceberam que a coisa estava dormindo.
+Aos poucos a professora foi acalmando a turma. E
+disse que deviam descobrir como acordá-la, as crianças bateram palmas, gritaram e por fim uma delas
+decidiu chacoalhar a caixa, assim os olhos se acenderam e todos gritaram, a coisa tinha acordado.
+Perceberam que os olhos piscavam e logo ficaram intrigados para descobrir como. Olhavam fixamente para os olhos, por baixo da caixa, e começaram
+a criar suas hipóteses.
+Um a um eles puderam se aproximar e explorar o objeto, descobriram que o toque na cabeça fazia
+com que os sons saíssem e a caixa vibrasse, começaram então a imitar os barulhos.
+
+95
+
+96
+
+Todos ficaram muito agitados e queriam tocar,
+chacoalhar e ouvir a caixa. Gritavam a cada nova
+coisa que descobriam. Naturalmente começaram
+a criar suas hipóteses sobre o que seria aquele
+Coiso estranho - nome que surgiu durante a experiência em sala e foi adotado como título deste
+trabalho -, de onde teria vindo, se era ou não real.
+Propusemos então uma atividade: cada
+criança diria sua hipótese enquanto a professora as anotaria no cartaz. Aqui um uso curioso e
+não esperado do objeto foi feito, para organizar
+a sala a professora colocou o Coiso em cima de
+uma das mesinhas.
+A atividade do cartaz se mostrou pouco efetiva, as crianças ainda queriam explorar o objeto
+mais livremente e se envolveram pouco com a
+atividade. Como eu estava apenas acompanhando a dinâmica muitas crianças se aproximavam
+para me contar suas opiniões, percebi que assim
+a imaginação fluia muito mais, e que quando
+questionadas tendiam a sentir vergonha de se
+expressar, ou pensavam mais para isso. Ainda
+assim algumas hipóteses surgiram:
+• O que é? Urso bom / urso polar / cavalo / coelho / astronauta (por conta das luzes) / dinossauro
+/ fantasma (pelos olhos) / ursinho / aranha
+• De onde vem? Do escuro / espaço / lua / foguete / mundo da imaginação / portal
+
+97
+
+Fig 88 a 91.
+Primeiro dia de interações:
+experimentações livres
+e atividade de geração
+de hipóteses com cartaz
+
+98
+
+Fig 92 a 95.
+Primeiro dia de interações:
+alguns desenhos das crianças,
+atividade de desenho em sala
+e crianças mostrando suas
+produções para o amigo
+
+99
+
+Entendendo que a atividade não estava sendo totalmente proveitosa a professora decidiu avançar
+para a outra proposta, pedindo que as crianças
+ocupassem suas mesinhas para desenharem o
+que achavam que seria esse tal Coiso.
+Nessa proposta as crianças se envolveram. Devido
+a diferença de idade da turma fas produções também
+foram diferentes, algumas mais elaboradas e outras
+ainda próximas da garatuja, mas todas com um significado que ia sendo contado pelas próprias crianças.
+Algumas crianças desenharam a caixa exatamente como viam, representando a forma retangular e os
+dois olhos, algumas inseriam o Coiso em cenários, se
+colocavam nos desenhos, e outras desenharam mais
+o que achavam que ele era do que o que viam.
+A atividade de desenho fluiu bem, tanto que
+quiseram mostrar o desenho para o amigo - aos
+poucos começaram a chamar o objeto de amiguinho -, de grupo em grupo foram se aproximando e
+posicionavam os desenhos bem nos olhos do Coiso para que visse o que tinham feito.
+Finalizada a atividade a professora fez uma
+roda de apreciação dos desenhos, então dissemos
+que o amigo estava cansado e precisaria ir embora, todos se despediram e a caixa foi retirada da
+sala. Durante todo o dia as crianças perguntaram
+do Coiso, se voltaria, para onde teria ido, e continuaram criando suas histórias.
+
+100
+
+Algumas falas das crianças
+Eu já sei o que tem dentro
+do Coiso prô! A minha vó o meu
+pai a minha mãe e o meu vô!
+
+Eu descobri de onde nosso amiguinho
+vem! Ele passou num portal que
+vem do mundo da imaginação e chega
+até aqui a sala.
+
+Sabia prô eu vi o amiguinho ele passou
+em cima da minha casa voando
+e eu e meu pai e meu irmão vimos ele
+e ele veio parar aqui.
+
+Esse desenho aqui é o medo
+dele prô. Quando tá escuro
+ele fica com medo.
+
+Hoje eu conheci um amiguinho
+de papelão que tem uns olhinhos
+que piscam.
+
+Eu acho que ele é um astronauta
+por causa dessas luzinhas que
+ele tem embaixo assim.
+
+Fig 96 e 97. Crianças
+escutando os sons
+e olhando curiosas
+as luzes da parte
+de baixo do Coiso
+
+Impressões gerais
+Sobre o protótipo
+O volume baixo do som afetou a percepção das crianças, quando estavam em grupo era difícil escutar,
+apesar disso, a necessidade de aproximação gerou
+um vínculo e elas deitavam sobre a caixa para falar
+com o Coiso. A criação de hipóteses também pode
+ter sido influenciada por isso, não escutando com
+clareza os sons a maioria delas tendeu mais ao que
+queriam que o Coiso fosse, do que a uma interpretação do que estavam ouvindo.
+A caixa foi fechada com velcro em uma das faces
+para facilitar a abertura, assim tinha uma pequena
+fenda na lateral, o que poderia ter sido uma falha mas
+levou as crianças a ficarem curiosas sobre o que estaria lá dentro.
+Por precisar estar elevada do chão para que a luz
+de baixo fosse percebida, o pé de acrílico ficou perceptível, bem como as luzes de LED, o que fez com que
+ficassem curiosas sobre o que estava debaixo do Coiso.
+Algumas sutilezas do protótipo foram percebidas
+pelas crianças e deram veracidade à criatura, muitas
+delas comentaram que os olhos piscavam. Para elas
+as referências de que o Coiso estava vivo foram as piscadas, o som, as mexidas (quando mudava o som a
+caixa tremia levemente) e o barulho de ronco.
+
+Sobre as atividades
+A primeira atividade, de escrita das hipóteses no cartaz, acabou funcionando, as crianças ainda estavam
+muito eufóricas e a pausa para uma atividade menos
+dinâmica gerou uma quebra na interação. Percebemos que o melhor teria sido deixar que explorassem a
+caixa fazendo as perguntas e anotando as respostas de
+maneira mais orgânica, com gravações ou filmagens.
+Apesar disso as crianças criaram suas hipóteses e
+se interessaram em desenhá-las. Contavam o tempo
+todo o que estavam retratando e porque, e quiseram
+inclusive mostrar os desenhos para o Coiso.
+Além de um incentivo a produções visuais e à
+oralidade as atividades se mostraram como opor-
+
+tunidades para diagnósticos, visto que as crianças
+representam muito mais do que sentem e sabem
+do que o que vêem e as produções representaram
+isso. Também viu-se a oportunidade de trabalhar
+noções de trabalho coletivo, de socialização e regras
+de convivência.
+
+Sobre a interação e as crianças
+Algumas crianças se envolveram totalmente e acreditaram se tratar de uma coisa viva, outras crianças
+ficaram mais curiosas em entender o que era aquilo,
+porque e como piscava, como as luzes do olho acendiam, o que tinha dentro da caixa.
+Uma coisa interessante é que para alguns, no
+início da interação, a caixa foi encarada como embalagem e só aos poucos foram conseguindo abstrair o
+formato e o material. Alguns comentavam que a caixa
+era a pele do amigo, outros que ele na verdade estava
+dentro da caixa, e assim foram criando suas hipóteses.
+Naturalmente eles se envolveram com a história
+e o objeto e criaram vínculos e logo propuseram de
+levar o Coiso para o parque, e estavam sempre abraçando a caixa. Duas crianças perceberam alguns pinceis num canto da sala e se adiantaram perguntando
+se iríamos pintar a caixa, o que mostrou que a proposta parecia natural para eles.
+As crianças surpreenderam com seus comportamentos, um dos meninos, o mais novo de todos,
+segundo relatos da professora, não se envolvia nas
+atividades da sala e imediatamente criou interesse pelo Coiso, fez questão de desenhar e contar
+sobre o seu desenho e passou a interagir com as
+crianças. Algumas crianças mais com tendência
+a comportamentos mais agressivos também se
+mostraram cuidadosas com a caixa.
+Já na saída ouvi um dos pequenos comentando
+com seu irmão e alguns amiguinhos que tinha conhecido amigo de papelão com olhos que piscavam.
+As crianças ficaram espantadas e isso demonstrou
+que a criação de vínculo tinha acontecido.
+
+101
+
+DIA 01
+
+DIA 03
+
+DIA 02
+
+6.2.3 Dia 03 (sexta-feira, 19 de maio)
+
+102
+
+Antes de iniciar o terceiro e último dia de testes em
+sala foi feito um balanço geral do primeiro dia de
+interações, assim foi possível ouvir as impressões
+da educadora, entender os pontos positivos do processo e o que poderia ter sido feito diferente. Dessa
+maneira, estruturar o terceiro dia foi mais fácil, visto que a própria educadora estava mais tranquila e
+inteirada da proposta.
+Na noite anterior foi feita uma revisão das atividades, o protótipo foi testado novamente, uma
+sequência inteira de interação foi reproduzida e as
+baterias de alimentação foram carregadas. Além
+disso, uma mudança na sequência de interação foi
+sugerida pela educadora: ao invés de encontrarem
+o objeto na sala, como no dia anterior, as crianças
+seriam convidadas a procurá-lo pela escola, o que
+daria mais dinâmica para a atividade, faria com
+que explorassem outros espaços e adicionaria um
+fator surpresa à interação.
+A caixa também foi preparada de maneira diferente, um sinal visual foi adicionado (pintas coloridas), para que fosse possível observar se as crianças
+perceberiam a mudança, e para que assim se tivesse
+o fio condutor para propor a caracterização do objeto.
+Na manhã do teste o checklist foi revisado e um novo
+teste com o protótipo foi realizado.
+O objetivo do segundo dia de interações era
+perceber se as crianças se lembrariam sozinhas do
+objeto / criatura, sendo que nessa idade geralmente
+precisam de estímulos para recordarem de atividades
+passadas. Além disso, se teriam criado um vínculo,
+se ficariam interessadas em criar a personagem e
+como seria esse processo. Pedagogicamente, tinha-se
+a intenção de trabalhar o estímulo da imaginação, a
+expressão de ideias com a fala e a escuta das crianças,
+a construção coletiva e a criação de vínculo e empatia.
+Assim, o dia foi dividido em três grandes momentos: a procura do Coiso pela escola, a caracterização – momento de criar a personagem -, e a despedida, momento de dar asas à imaginação.
+
+Pré-teste
+Fazer balanço dia 02
+Preparar a caixa de papelão e sensor hall
+Conferir o checklist do dia 03
+Separar os materiais do dia 03
+Rever a dinâmica dia 03 / Repassar um teste inteiro
+
+Pós-teste
+Fotografar a caixa com os desenhos
+Planejar alguma atividade pós-teste
+Fazer um balanço geral do dia 03
+Fazer um balanço geral da interação completa
+Coletar impressões da professora
+
+Fig 98. Crianças
+saindo para procurar
+o objeto no segundo
+dia de interação
+
+Resumo das interações
+
+Crianças
+
+Professora
+
+Estado do objeto
+
+Dia 03 | como é? / despedida
+Objetivo: dar vida à imaginação, transformar as hipóteses do primeiro dia em realidade
+No dia 02 o objeto aparece diferente, com algum sinal visual que seja uma dica de que ele está se transformando. A ideia é que as crianças percebam que ao objeto não é somente uma caixa, mas algo "vivo",
+e que elas podem continuar seu processo de transformação, dando vida a ela por meio de desenhos e
+intervenções na caixa.
+
+Blueprint resumido
+Percebem
+algo diferente.
+A coisa
+mudou!
+
+Acordam
+a coisa
+e escutam
+um som
+diferente
+
+Imaginam
+o que pode
+ter acontecido
+
+Dormir
+
+Acordar
+
+Conhecer
+
+Conhecer
+
+Gratidão
+
+Dormir
+
+Conduz
+as crianças
+até a sala
+
+Incentiva
+as crianças a se
+aproximarem
+e explorarem
+
+Questiona
+e incentiva
+o diálogo
+e a fala
+
+Auxilia
+no processo
+e conduz
+a inetração
+
+Forma a roda
+e posiciona
+o sensor hall
+
+Incentiva
+as crianças
+no processo
+
+Começam
+a dar vida
+à personagem
+
+Terminam
+de caracterizar
+
+Dão um nome
+para a coisa e
+se despedem
+103
+
+Fig 99 a 103.
+Crianças saindo à procura
+do Coiso pela escola
+e o momento do encontro
+
+104
+
+Sobre o dia 03
+No terceiro dia, assim que chegamos à escola escondi o Coiso na sala dos professores. As crianças
+chegaram na sala como de costume. Entraram,
+ainda com sono, colocaram as mochilas no cantinho e entregaram suas agendas. Nenhuma criança comentou nada sobre o amigo estranho que
+tinham conhecido no dia anterior.
+Logo a roda para socialização das atividades do dia foi feita e seguiram para a colação.
+A essa altura eu e a professora achávamos que
+tinham se esquecido do Coiso, mas queríamos
+deixar que elas mesmas lembrassem antes de
+provocarmos a memória delas.
+No momento da colação uma das crianças
+chegou perto de mim e disse: “Será que quando a gente voltar lá vai tar escuro e o amiguinho
+vai tar lá dentro?”. Imediatamente entendemos
+que as crianças tinham associado o momento
+da volta da colação à chegada do Coiso na sala.
+Aou poucos outras crianças foram se lembrando e entre elas criando hipóteses.
+Começamos então a alimentar a imaginação
+dos pequenos, e voltando à sala fizemos uma roda
+para tentar descobrir para onde teria ido o tal amigo. A professora os questionou: lembravam o que
+tinha acontecido no dia anterior? onde estaria o
+Coiso? será que voltaria?
+Diversas hipóteses surgiram: podia ter ido
+para a lua, para casa, estava brincando na escola, teria ficado doente ou derretido na chuva que
+caia lá fora. Depois de muita conversa uma das
+crianças se antecipou no que tínhamos planejado
+e sugeriu que procurássemos na escola.
+E assim saímos em expedição, procurando
+pelo pátio, banheiros, merenda, salas, deixamos
+que as crianças explorassem os espaços. No caminho as crianças iam contando para todos o que
+estavam procurando: um amigo de papelão que
+tinha olhos brilhantes e fazia blablablabla (imitando um dos sons que ouviram).
+Quando chegaram na sala dos professores
+uma das crianças viu a caixa e todos correram para
+acordá-la. Deixamos que as crianças interagissem
+- como percebemos no dia anterior, era importante respeitar o tempo delas de exploração -, deram
+oi, ouviram os sons, abraçaram, e logo depois levamos todo mundo para a sala para seguirmos
+com as atividades.
+Colocamos a caixa em um ponto visível da
+sala e pedimos que as crianças se sentassem
+para que todos pudessem participar, então,
+chamamos a atenção das crianças para um detalhe: o que tinha de diferente? Logo, vendo as
+pintas coloridas, um dos meninos comentou
+algo que imaginávamos: o amiguinho devia
+estar doente!
+
+105
+
+106
+
+Fig 104 a 106.
+Início da caracterização, crianças
+desenhando e colando
+materiais para "dar
+vida" ao Coiso
+
+A professora propôs então uma atividade de socialização, para que a turma pudesse dar suas
+opiniões sobre as pintas misteriosas na caixa,
+e foi direcionando a história: o Coiso estava se
+transformando! Depois fizemos uma lista com
+detalhes que podíamos colocar na caixa e fariam ela se tornar uma personagem. Ela só tem
+olhos, o que mais pode ter? boca, pés, cabelo, braços, e por aí vai.
+Para organizar melhor a atividade, já que o
+grupo era grande, dividimos as crianças em pequenas turmas, que eram chamadas uma a uma
+para desenhar, pintar, colar e transformar a caixa.
+Para que as crianças ficassem tranquilas foram
+oferecidas atividades paralelas, de desenho e massinha de modelar.
+Cada criança foi se expressando da maneira
+que se sentiu mais a vontade, mas a maioria preferiu o desenho. Desenharam boca, sobrancelha,
+tentaram escrever, até um tubarão foi desenhado
+na caixa. Colocaram orelhas, cabelo de lã, e depois
+de todos os grupos a caixa estava transformada.
+Fizemos então uma roda e explicamos que agora que estava completo o Coiso precisava ir embora,
+nesse momento colocamos a última pinta especial
+(o sensor hall), e o Coiso se despediu com luzes coloridas. Uma a uma as crianças puderam se despedir e o Coiso estranho seguiu sua viagem.
+
+107
+
+108
+
+Fig 107 a 110.
+Momento de caracterização, crianças desenhando
+e colando materiais para
+"dar vida" ao Coiso
+
+109
+
+110
+
+Fig 111 e 113. Fim
+da caracterização
+e momento de despedida,
+as crianças foram muito
+carinhosas
+
+Impressões gerais
+Sobre o protótipo
+Como citado nas impressões do dia 02, o volume baixo do som afetou um pouco a percepção das crianças,
+sendo que quando estavam em grupo era difícil escutar os sons. Apesar disso, a necessidade de aproximação gerou um vínculo e elas deitavam sobre a caixa
+para falar com o Coiso.
+Em termos de interação as crianças entenderam
+e descobriram sem dificuldades como interagir com
+o objeto, descobriram como acordar, como provocar
+os sons, e ficaram curiosas com as luzes e vibrações.
+Pediam silêncio quando a caixa “dormia” e riam muito com os sons que escutavam.
+
+Sobre as atividades
+As atividades correram muito bem e com tranquilidade, as crianças entenderam as propostas e se envolveram durante todo o processo.
+Por não haver uma definição clara de personagem nos sons e nas referências visuais a criação se
+deu de maneira muito aberta, o que estava de acordo
+com o que tinha sido pensado.
+A necessidade de atividades paralelas no momento de caracterização deixou clara a oportunidade
+e necessidade de desenvolver melhor essas atividades
+para que estivessem mais vinculadas ao processo.
+
+Sobre a interação e as crianças
+As crianças ficaram curiosas e se lembraram do dia
+anterior, conversaram entre si, comigo e com a professora, imaginando se o amigo viria e como viria.
+A sequência de atividades que tinha sido pensada
+fluiu de maneira orgânica, as próprias crianças propuseram algumas atividades antes que tivessem sido
+comentadas, como no caso de ir procurar o amiguinho pela escola, algo que surgiu de maneira natural.
+Duas crianças que estavam em processo de integração com a turma, ainda tímidas e um pouco
+deslocadas, se envolveram nas atividades e passaram a apresentar outro comportamento em relação aos colegas e a professora.
+
+111
+
+Fig 114. Caixa
+montada e preparada
+antes dos testes
+
+112
+
+Fig 115. Caixa depois dos
+testes e da caracterização
+feita pelas crianças
+
+113
+
+6.3
+
+114
+
+Impressões
+o primeiro teste
+
+Ainda que a aplicação do primeiro teste não
+determine isoladamente o sucesso absoluto
+do projeto, visto que poderiam ser realizadas
+diferentes experimentações combinando e
+alterando os fatores que influenciaram os resultados (tema, forma do protótipo, tipos de
+sons, atividades, etc). “COISO - experimento
+01” mais do que atendeu as expectativas, revelou-se um processo rico de aprendizado, descoberta e encantamento.
+Um processo de projeto que se deu em variáveis, medidas exatas, componentes eletrônicos, e no ajuste de pequenos detalhes por fim
+tornou-se fantasia e imaginação. LEDs se resumiram em luzes coloridas, sons e toque em fala,
+motores e controladores em tremiliques, e assim, todo um aparato eletrônico detalhadamente pensado se transformou em um COISO, uma
+criatura meio real meio imaginária.
+Coisa difícil de acreditar, se não se pensa
+com cabeça de criança, sempre em processo de
+descoberta do mundo e dos limites do impossível, livre dos paradigmas e certezas que limitam
+a imaginação.
+Talvez um dos maiores ganhos deste projeto
+tenha sido a possibilidade de observar e registrar esse potencial inventivo da criança, justamente na fase em que imaginação e realidade
+se relacionam de maneira tão próxima, em um
+acreditar questionador.
+Nessa relação (entre realidade e imaginação)
+as conexões foram construídas. As crianças se
+envolveram verdadeiramente com a proposta,
+criando hipóteses e imaginando a personagem.
+O que pôde ser percebido também pela capacidade de lembrarem do Coiso mesmo quando
+este não se fazia presente, demonstrando a criação de vínculo. Os objetivos gerais foram atingidos de maneira orgânica, muitas vezes partindo
+das próprias crianças, o que confirmou que a
+proposta tinha sentido para elas.
+Também foi possível observar a rotina real
+em sala de aula, os limites, as possibilidades, e
+
+os desafios dos educadores em lidar com uma
+turma grande de crianças, com demandas particulares. Para a educadora o processo também
+foi de descoberta, ainda que se tivesse um receio inicial, por conta da tecnologia e da proposta inovadora, logo as atividades foram alinhadas
+e além de exercitar novas visões a professora se
+sentiu confortável para propor alterações.
+Com o desenvolvimento da proposta em
+sala foram observadas mudanças práticas, uma
+das coisas mais fascinantes na educação, a possibilidade de ver com os próprios olhos a transformação e evolução humana.
+Mais do que interagir com o objeto, a intenção era que interações e expressões das crianças
+entre si e com a educadora fossem estimuladas,
+assim algumas crianças com comportamentos
+mais retraídos foram encorajadas a se expressarem e passaram a se envolver mais com os
+colegas e as atividades cotidianas.
+Viu-se o quanto a conversa, a atenção individual, a escuta da criança e a mudança de olhares
+com a proposição de novos formatos pode ser a
+chave para muitas questões. Assim, a proposta
+mostrou-se muito mais ampla do que a criação
+de personagens e narrativas, envolveu questões
+de convivência, empatia, criação de vínculos e
+demonstrou a possibilidade de ser usada como
+um auxílio para diagnósticos, avaliações e acompanhamento das crianças.
+Considerando o planejamento inicial podese dizer que na primeira experiência cumpriuse o que se foi proposto, - ainda que alguns imprevistos com o protótipo tenham acontecido
+- um primeiro contato foi criado e mais do que
+um sistema ou objeto definido sem validação,
+obteve-se como resultado final um experimento, que resultou em algumas certezas mas ainda
+muitos questionamentos.
+Teria um som mais direcionado um resultado diferente? E se o suporte (o invólucro) fosse
+de outro material ou tamanho? E se ao invés de
+ir embora o COISO permanecesse em sala?
+
+Assim, para o caso de haver um segundo teste
+que busque investigar essas e mais tantas outras questões foram determinadas algumas diretrizes e analisadas as métricas de avaliação:
+
+Coisx 02
+Diretrizes para o protótipo
+• A questão do volume do som deve ser resolvida totalmente (o som influencia a criação?)
+• Experimentar outro tamanho de suporte (o
+suporte influencia a criação?)
+• Experimentar outro material facilmente customizável (o tipo de material influencia a criação?)
+
+Diretrizes para a interação
+• Experimentar sons mais específicos facilmente relacionados a alguma personagem ou
+
+coisa (o tipo de som direciona a criação?)
+• Vincular as luzes a emoções ou reações mais
+específicas (as crianças percebem as emoções
+da personagem sem as expressões?)
+• Experimentar um sinal visual, no dia da caracterização, mais vinculado a uma personagem
+ou coisa específica (o sinal visual direciona a
+criação?)
+• Experimentar uma sequência de interação
+mais longa (a permanência do objeto altera a
+interação? continuam a interagir?)
+• Deixar as crianças mais livres para interagir,
+sem propostas determinadas (como o objeto se
+insere na rotina?)
+• Considerar a possibilidade de abrir a caixa
+em algum momento para que as crianças vejam
+o que tem dentro (entendem o que está dentro?
+questionam? passam a não mais acreditar?)
+
+Métricas de avaliação
+
+Validação
+
+As crianças vão identificar um ou mais personagens
+
+As crianças identificaram diversas personagens
+
+As crianças ficarão curiosas com o objeto
+
+As crianças se envolveram com o objeto
+
+Alguma criança vai querer falar com a personagem
+
+As crianças conevrsaram com a caixa
+
+Vão conversar entre elas sobre a personagem misteriosa
+
+As crianças negociaram e argumentaram sobre a coisa
+
+Vão criar vínculo e empatia com a personagem
+
+As crianças perguntavam e falavam da caixa
+
+A professora vai se apropriar da proposta e fazer sugestões
+
+A professora sugeriu mudanças de percurso
+e se envolveu no processo
+
+115
+
+116
+
+“O indivíduo criativo está, pois,
+em contínua evolução e suas possibilidades
+criativas nascem da contínua utilização
+e do alargamento do conhecimento em todos
+os domínios” Bruno Munari
+
+7
+
+Do futuro
+(o que pode se tornar?)
+
+117
+
+Uma ideia de sistema
+
+118
+
+Ainda que a ideia central do trabalho fosse a
+entrega de um primeiro protótipo do que viria
+a ser um produto, e da documentação de todo
+o processo de desenvolvimento e testes, fez-se
+um exercício adicional, de olhar para o futuro,
+com a intenção de demonstrar uma visão geral
+do que poderia ser o projeto. Uma ideia inicial,
+que ainda que não totalmente definida pudesse guiar os futuros testes e a continuidade do
+desenvolvimento.
+Observando a experimentação em sala de aula
+e os seus resultados, definiu-se que o objeto não
+poderia existir sem um sistema, dada sua complexidade e as diferentes possibilidades de interação.
+Assim, o objeto (invólucro + núcleo) seria um
+dos componentes, o centro da interação, garantida
+por meio de outras atividades e suportes.
+Além do objeto, seria necessário um manual
+do usuário, visto que o núcleo poderia ser trocado
+de invólucro e o professor executaria essa operação
+
+de montagem, além disso, seria interessante que o
+educador entendesse os componentes e a estrutura
+eletrônica, de maneira simples e objetiva.
+O invólucro (caixa) poderia fazer parte de um
+kit básico ou ser independente, de acordo com a
+necessidade do educador.
+Também seria necessário um “livro” guia
+de sugestões de interação, com possibilidades
+de histórias e abordagens, para dar ao professor
+mais recursos de se sentir a vontade de criar suas
+próprias histórias.
+Em conjunto com esse livro poderiam ser sugeridas algumas atividades adequadas à temática,
+visto que observou-se a necessidade de atividades
+paralelas no teste em sala de aula.
+A criação de uma plataforma online para acesso das atividades, recursos e uma biblioteca de
+sons também poderia ser considerada.
+Sendo assim, o sistema poderia ser representado
+em um diagrama resumido da seguinte maneira:
+
+Objeto
+
+Atividades
+e materiais
+
+Manual
+do usuário
+
+"Livro" guia
+de interação
+
+Ideia de sistema
+
+Kit
+
+Núcleo +
+invólucro
+
+Manual
+do usuário
+
+"Livro" guia
+de interação
+
+Plataforma
+
+Atividades
+e materiais
+
+Manual
+do usuário
+
+"Livro" guia
+de interação
+
+Biblioteca
+de sons
+119
+
+Ciclo básico de interação
+
+Recebe
+ou adquire
+o kit
+
+Acessa
+o manual
+do usuário
+(físico ou na
+plataforma)
+
+Escolhe
+o invólucro
+Recebe o kit
+núcleo + invólucro
+
+Monta seu
+objeto (núcleo
+e peças +
+invólucro)
+
+Escolhe
+um guia
+de interações
+(livro com
+uma história)
+
+Define
+as atividades
+paralelas
+(sugestões
+na plataforma)
+
+Professora
+
+SALA DE AULA
+DIA 01 - Atividades
+.......
+Final do ciclo
+(criar outro Coiso)
+
+Escolhe
+os sons
+Prepara
+o objeto
+(teste)
+
+Flexibiliade e personalização
+O núcleo pode se adequar a vários tamanhos de caixas,
+assim podem ser criadas Coisas e Coisos diferentes
+
+120
+
+Núcleo + módulos dos sensores
+
+Manual do usuário
+
+Guia de interação
+
+121
+
+Manual do usuário
+• Instrução de montagem do núcleo e das peças (pode conter um gabarito
+para auxiliar o processo, com os cortes necessários)
+• Explicações fáceis e esquemas sobre os componentes do núcleo
+• Instruções para solução de problemas ou alterações do núcleo (personalização)
+
+Guia de interação (história)
+• Sugestão de temática para desenvolvimento da história e da personagem
+• Passo a passo de como programar as interações dentro da temática
+• Sugestão de sons e de interações possíveis com link para atividades
+
+Conclusão
+
+122
+
+A realização deste trabalho investigativo permitiu
+não só a validação de aspectos conceituais, formais e de interação do projeto, mas também uma
+experiência de inclusão do usuário no processo de
+projeto de design.
+Desde de o início da pesquisa as relações
+humanas e a experimentação foram pontos
+centrais. Além de falar do aprendizado mão na
+massa e da importância do fazer era importante
+colocar isso em prática, portanto, este trabalho
+reflete muito mais um desejo, como designer,
+de desenvolver um projeto aplicável, do que a
+entrega de um exercício final.
+Além disso, criar um projeto com diversas
+frentes se demonstrou um grande desafio, foi um
+aprender como criança, cheio de descobertas, um
+processo constante de desvendar coisas desconhecidas. Foram pensados o objeto em si, sua mecânica, as interações, o que foi um bom exercício de
+conclusão de curso, dada a complexidade e multidisciplinaridade envolvidas.
+Ainda que se tenha muito a desenvolver para
+chegar a um projeto final, dado que a experiência
+gerou insumos que mostraram ser necessárias algumas revisões para um próximo teste a fim de
+determinar características finais do que pode vir
+a ser o projeto, os resultados do “experimento 01”
+se mostraram surpreendentes diante da proposta.
+Algumas questões foram esclarecidas e muitas outras criadas, estas esperam para ser experimentadas, investigadas e talvez resolvidas.
+“E gostasse mais de ensinar que a exuberância
+maior está nos insetos do que nas paisagens. Seu rosto
+tinha um lado de ave. Por isso ele podia conhecer todos os pássaros do mundo pelo coração de seus cantos.
+Estudara nos livros demais. Porém aprendia melhor
+no ver, no ouvir, no pegar, no provar e no cheirar.”
+Manoel de Barros
+
+123
+
+124
+
+Anexos
+desenvolvimento
+
+125
+
+Anexo A
+requisitos
+
+126
+
+Conceituais
+
+Educadores / crianças / escola
+
+• Estimular a brincadeira/criação do Faz de
+conta, por meio do mistério e do desconhecido
+• Estimular a imaginação fazendo uso de outros sentidos e não só da visualidade
+• Valorizar a oralidade, a verbalização e a escuta da criança. Incentivar e motivar a fala, o
+desenvolvimento da linguagem e a criação de
+narrativas faladas e visuais
+• Oferecer e estimular atividades que trabalhem diferentes habilidades e linguagens (visual, verbal, entre outras)
+• Criar oportunidades para a manifestação da
+voz ativa da criança, com momentos de construção coletiva. Integrar a criança no processo de
+criação e decisões
+• Valorizar o professor no processo, sensibilizando-o para novas dinâmicas e possibilidades
+• Atuar como semente de mudança nas percepções tradicionais de ensino e maneiras de
+ensinar. Introduzir novas perspectivas de ensino que se afastem do modelo tradicional. Um
+momento de respiro na rotina curricular
+• Provocar a curiosidade. Deve incentivar a
+criança a “aprender a aprender”, desenvolvendo
+a autonomia
+• De maneira indireta, incentivar o desenvolvimento das competências socioemocionais com
+base na teoria do Big Five e suas cinco dimensões: Abertura a novas experiências (tendência
+a ser aberto a novas experiências estéticas, culturais e intelectuais); Consciência (inclinação a
+ser organizado, esforçado e responsável); Extroversão (orientação de interesses e energia em
+direção ao mundo externo, pessoas e coisas);
+Amabilidade (tendência a agir de modo cooperativo e não egoísta); Estabilidade Emocional
+(previsibilidade e consistência de reações emocionais, sem mudanças bruscas de humor).
+• Estar alinhado às bases da ONU para a educação: Aprender a conhecer, Aprender a fazer,
+Aprender a ser, e Aprender a conviver
+
+• Ser projetado de maneira adequada para
+crianças entre 3 e 5 anos, considerando suas
+particularidades
+• Incentivar a criatividade do educador na busca de soluções e criação de novas ferramentas e
+narrativas. Co-autoria
+• Configurar um sistema integrado que sejapensado para aplicação em sala de aula, ainda
+que a experiência possa se estender para fora
+da escola.
+• Ser acessível e de fácil construção e replicação para diminuir as dificuldades de aquisição
+pela escola ou dos professores interessados.
+Flexibilizar o modo de obtenção e aplicação do
+projeto, pensando em soluções para a distribuição e custos.
+• Não depender somente da iniciativa pública, e considerar o financiamento coletivo como
+possibilidade para ativação do projeto.
+• Não deve depender da infraestrutura da escola para seu funcionamento (ex: conexão com
+a internet, caixas de som, etc)
+• Ser de livre aplicação, não se configurando
+como uma disciplina, podendo ser inserido de
+maneira gradual ao currículo escolar.
+• Considerar a aplicação em organizações com
+currículos escolares distintos.
+• Considerar a interação com diferentes docentes, com suas características, visões pessoais, e grau de formação.
+• Considerar a rede pública de ensino e suas
+necessidades. Não excluindo a rede particular.
+Bem como realidades escolares de menor acesso a recursos.
+• Proporcionar a relação colaborativa entre docente e crianças para criação de outras narrativas e materiais.
+• Incentivar a reflexão do docente sobre novas
+possibilidades de dinâmicas de ensino, baseada
+na autonomia da aprendizagem, e no papel do
+educador como facilitador.
+
+Programa / conteúdo
+• Possibilidade de personalização do conteúdo
+e das temáticas a serem desenvolvidas
+• Usar o faz de conta como meio de criação e
+imaginação e fio condutor das demais atividades integrantes do sistema
+• Promover a mudança gradual dos paradigmas escolares, da visão dos professores e alunos, valorizando a autonomia da criança, o
+protagonismo e incentivando o aprendizado colaborativo e criativo
+• Através de atividades pertencentes a um sistema coeso e integrado, incentivar o pensamento divergente, criativo e questionador
+• Criar um ambiente de discussão e manifestação livre e aberto
+• Valorizar a coletividade, buscando criar narrativas de maneira coletiva, sem esquecer a
+importância das características individuais e o
+tempo de cada criança
+• Considerar a integração da família e comunidade no processo, como meio de conectar
+o aprendizado e a busca do conhecimento ao
+mundo externo à escola
+• Fornecer formação e suporte ao professor
+• O conteúdo não deve se encerrar na sala de
+aula, promovendo a continuidade seja pela investigação ou pela comunicação
+• Não reforçar conceitos de aprendizagem baseada em conteúdos e disciplinas isoladas. Nem
+mesmo a pura instrução
+• As atividades não devem ser pautadas em
+estereótipos de gênero (para menino, para menina). Cuidar da linguagem e da maneira que os
+conteúdos serão apresentados
+
+Formato / objeto e sistema
+• Ter aparência amigável, favorecendo a criação de vínculos e empatia
+• Deve oferecer possibilidade de personalização do objeto
+
+• Valorizar o material natural. Buscar materiais pouco trabalhados preservando a textura e
+cores naturais
+• Considerar os conceitos de faz de conta e
+enigma como bases para os desafios e propostas
+• O sistema deve ser composto por um objeto
+físico ou um conjunto de objetos para interação
+em sala de aula (que pode ser estendida para
+o exterior da escola), além de uma plataforma
+para formação do professor
+• O sistema deve oferecer guias e dicas de utilização mas não deve estabelecer regras rígidas
+de uso, deve haver certa liberdade de criação e
+interpretação
+• Apresentar bom design, amigável e não institucional, no sentido de não se assemelhar ou
+se configurar como livros didáticos ou materiais
+tradicionais de ensino
+• Apresentar pelo menos uma alternativa de
+baixíssimo custo
+• Utilizar a linguagem de design de maneira
+acessível e não excludente. Ser acessível e compreensível, independente de fatores como inclusão digital.
+• Deve considerar o modo de pensar do design
+e o modo de pensar da criança, utilizando-se do
+modo de pensar do design e suas metodologias,
+de maneira orgânica, não sendo isso um entrave ao processo.
+• Considerar a utilização de plataforma digital como componente do sistema, para coleta de
+dados e disseminação de conteúdos de apoio
+Apresentar uma linguagem visual acessível, familiar e agradável. Que desperte a atenção e a
+curiosidade das crianças
+• Considerar a diversidade das crianças, seja
+corporal, cultural, de habilidades ou identidade
+• Pode considerar a jornada da criança entre a
+casa e a escola, e as diversas fases do seu dia, para
+que a construção do conhecimento possa ser algo
+contínuo e não restrito ao âmbito escolar
+
+127
+
+A caixinha está
+ligada num lugar
+visível na sala
+
+Pronto! Hora de
+chamar as
+crianças
+
+Tem que esperar
+a professora
+chamar a gente
+aqui
+
+A caixinha está
+preparada e vai
+ser ligada
+
+Vou ligar a
+caixinha e ver se
+tudo acende
+direitinho
+
+Caixa + chave
+para ligar (ímã)
+
+Chave + Manual
+
+JORNADA
+DO USUÁRIO
+Criança
+
+JORNADA
+
+JORNADA
+DO USUÁRIO
+Professor
+
+EVIDÊNCIA
+FÍSICA
+(Objeto)
+
+Suporte
+(Criar)
+
+O que será que é
+isso? Olhem
+essas luzinhas
+
+A caixinha está
+ligada num lugar
+visível na sala
+
+Parece um
+olhinho, o que
+vocês acham que
+é?
+
+A caixinha está
+ligada num lugar
+visível na sala
+
+A caixinha está
+ligada num lugar
+visível na sala
+
+Pra isso a gente
+precisa acordar
+ela, vejam como
+ela dorme
+
+A caixinha está
+ligada num lugar
+visível na sala
+A prô recebeu
+essa caixa
+mágica, que se
+transforma em
+um personagem
+
+Tem um monte de Eu acho que é
+A prô disse que é A gente tem que
+luzinhas numa
+uma caixinha de
+uma caixa mágica
+acordar o
+caixa! Eu acho
+brinquedo mas o
+com um bichinho bichinho! Como
+que é um
+pedro acha que é
+dormindo dentro!
+que faz será?
+brinquedo
+um transformer
+
+Olha crianças ele
+acordou! Vamos
+sentar pra ver o
+que é
+
+Caixinha
+acordada
+
+As crianças
+chacoalham a
+caixinha e ela
+acorda
+Pra acordar a
+gente precisa
+chacoalhar de
+levinho, vamos
+juntos
+
+ACORDOU! Tá
+com o olhinho
+aceso e aberto
+agora
+Tem que
+chacoalhar ele
+
+Som curto ronco
+3 seg
+
+Som curto
+respiração 3 seg
+
+Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do
+corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa mais corpo acesa mais
+do olho menos
+do olho menos
+do olho menos
+do olho menos
+do olho menos
+do olho menos
+intensa + luz do
+intensa + luz do
+intensa e - - (som intensa e - -(som intensa e - - (som intensa e - - (som intensa e - - (som intensa e - - (som olho mais intensa olho mais intensa
+respiração)
+respiração)
+respiração)
+respiração)
+respiração)
+respiração)
+e o o > vibração
+eoo
+
+Crianças! Hoje
+recebemos uma
+coisa muito
+misteriosa
+
+A caixinha está
+ligada num lugar
+visível na sala
+
+Hoje a prô disse
+A prô chamou!
+que tem uma
+Vou pegar meu
+coisa diferente na
+lugar na mesinha
+sala
+
+20 min
+
+DIA 1 - o que é
+
+Blueprint / PROTÓTIPO 1 - Dia 01
+
+128
+
+Dia 01
+
+Anexo B
+blueprint
+
+Vou fazer um
+carinho nele pra
+ver se ele fica
+tranquilo e
+conversa com a
+gente
+
+Mas como a
+gente descobre o
+que ele é?
+
+Som termina e a
+caixinha está
+acordada
+
+Som termina e a
+caixinha está
+acordada
+
+Vou fazer uma
+Vocês
+lista com todas
+O que vocês
+entenderam o que
+as ideias que a
+acham que ele é?
+ele disse?
+gente tiver pra ver
+se adivinhamos
+
+Reprodução do
+som
+Aí cada um
+desenha o seu
+bichinho e
+amanhã vamos
+ver se a gente
+tem uma pista
+
+Som termina e a
+caixinha está
+acordada
+
+Vocês podem
+fazer carinho pra
+ouvir mais sons e
+pegar dicas
+
+Caixinha começa
+a reproduzir o
+som
+
+O pedro não sai
+de perto dele!!!
+
+Caixinha dorme
+de novo
+
+Vamos colar tudo
+Agora a prô vai
+aqui no mural e
+colocar ele pra
+deixamos até
+dormir enquanto
+amanhã pra gente
+desenhamos
+ver se descobre
+
+Caixinha dorme
+de novo
+
+O bichinho dormiu Será que ele vai
+e vamos desenhar contar pra gente
+pra ele agora
+as pistas?
+
+10 sons curtos de
+10 seg
+
+Luz de respiro do
+Luz de respiro do Luz de respiro do Luz de respiro do
+Luz de respiro do Luz de respiro do
+Com carinho a corpo acesa mais corpo acesa mais corpo acesa mais Com input de voz corpo acesa + luz corpo acesa + luz
+corpo acesa mais Com carinho a
+a caixinha
+intensa + luz do caixinha reproduz caixinha reproduz intensa + luz do
+intensa + luz do
+intensa + luz do
+do olho menos
+do olho menos
+um som
+um som
+olho mais intensa
+olho mais intensa olho mais intensa olho mais intensa reproduz um som intensa e - - (som intensa e - - (som
+eoo
+eoo
+eoo
+eoo
+respiração)
+respiração)
+
+Caixinha começa
+a reproduzir o
+som
+
+Caixinha
+acordada
+
+Eu acho que é um
+A prô fez carinho Ele fala um monte
+Eu vou colocar
+monstro
+Eu acho que é um
+e ele fez um
+de coisa estranha
+uma cabeça bem
+pequenininho!
+Um monstro prô!!!
+robô
+barulhinho
+e a gente não
+grande e pernas
+Não pedro, não é
+estranho
+entende nada
+peludas nele
+tubarão
+
+Blueprint / PROTÓTIPO 1 - Dia 01
+
+129
+
+A prô chamou a
+gente e disse que
+alguma coisa
+estranha
+aconteceu
+A gente tá
+entrando bem
+quietinho na sala
+
+UM RABÃO E UM
+PÉ PELUDO
+NASCERAM NO
+BICHINHO!
+
+Tem que acordar
+ele pra gente
+poder falar com
+ele e ver se
+adivinha
+Eu já sei! Vamos
+chacoalhar!
+Acordou!!
+
+Acho que não é
+um tubarão! Olha
+que som de
+monstro
+
+Suporte
+(Criar)
+
+Chave + Manual +
+cereja 1
+
+Caixa com
+materiais de
+caracterização
+
+Som monstro
+
+Será um tubarão?
+E um dinossauro?
+Vamos fazer mais
+carinho pra ver se
+temos outros
+sons
+
+Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do
+Caixa + chave
+corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa mais corpo acesa mais Com carinho a
+para ligar (ímã) + do olho menos
+do olho menos
+do olho menos
+do olho menos
+intensa + luz do
+intensa + luz do caixinha reproduz
+pistas (indícios) intensa e - - (som intensa e - - (som intensa e - - (som intensa e - - (som olho mais intensa olho mais intensa
+um som
+respiração)
+respiração)
+respiração)
+respiração)
+eoo
+eoo
+
+Vamos
+chacoalhar ele
+devagarinho
+
+Agora que ele
+acordou vamos
+ver se a gente
+descobre pela
+nossa lista
+
+EVIDÊNCIA
+FÍSICA
+(Objeto)
+
+Vamos acordar
+ele pra ver se a
+gente adivinha o
+que ele é
+
+JORNADA
+DO USUÁRIO
+Professor
+
+Gente acho que
+nosso bichinho
+está ganhando
+vida!!
+
+Caixinha
+Caixinha
+Caixinha
+acordada
+Caixinha ligada e Caixinha ligada e Caixinha ligada e Caixinha ligada e Caixinha ligada e
+acordada e com acordada e com
+reproduz som
+com as pistas
+com as pistas
+com as pistas
+com as pistas
+com as pistas
+as pistas
+as pistas
+com luz
+preparadas
+preparadas
+preparadas
+preparadas
+preparadas
+preparadas
+preparadas
+característica do
+(rabo+dente+etc) (rabo+dente+etc) (rabo+dente+etc) (rabo+dente+etc) (rabo+dente+etc)
+(rabo+dente+etc) (rabo+dente+etc)
+personagem
+
+Será que o
+bichinho tá na
+sala de novo?
+
+Blueprint / PROTÓTIPO 1 - Dia 02
+
+Gente! Uma coisa
+muito estranha
+Vou ligar a
+Vamos olhar aqui
+aconteceu,
+caixinha e colocar
+no cantinho o que
+entrem quietinhos
+as pistas aqui
+aconteceu
+que o bichinho tá
+dormindo
+
+JORNADA
+
+JORNADA
+DO USUÁRIO
+Criança
+
+DIA 2 - como é
+
+Dia 02
+
+130
+
+Som gratidão
+
+Vamos fazer uma
+Certo! Agora
+votação enquanto
+precisamos dar
+ele dorme aqui no
+um nome pra ele
+cantinho
+
+Caixinha dorme
+de novo
+
+Caixinha
+acordada
+
+Luz de respiro do
+Luz de respiro do Luz de respiro do
+corpo acesa mais
+corpo acesa mais corpo acesa + luz
+intensa pisca +
+intensa + luz do
+do olho menos
+luz do olho mais
+olho mais intensa intensa e - - (som
+intensa pisca e o
+eoo
+respiração)
+o
+
+Caixinha
+acordada
+
+Caixinha treme
+curto tempo >
+desenham e
+pintam > muito
+tempo mãos
+
+Eu vou votar no
+meu!
+
+Ele pode chamar
+bartôlino!!!
+
+Luz de respiro do Luz de respiro do Luz de respiro do
+Treme > luz
+corpo acesa mais corpo acesa mais corpo acesa mais
+intensa + luz do
+intensa + luz do
+intensa + luz do respiro intensa >
+olho pisca?
+olho mais intensa olho mais intensa olho mais intensa
+eoo
+eoo
+eoo
+
+Som termina e a
+caixinha está
+acordada
+
+Olha prô!! Ele
+gostou acho
+
+Ele treme prô!
+Acho que tem
+cosquinha
+
+Terminamos?
+Vamos ver como
+ficou nosso
+monstro
+
+Som termina e a
+caixinha está
+acordada
+
+Som termina e a
+caixinha está
+acordada
+
+Coloca pintas
+vermelhas!!
+
+Vamos fazer o
+A gente desenha
+Pronto! Agora
+seguinte então,
+Ok! Todos
+ele aqui na lousa
+cada grupo
+vamos ajudar
+concordam que é
+primeiro e depois começa a colocar
+nosso amiguinho
+um dinomonstro?
+cada grupinho vai as coisinhas no
+e terminar de dar
+fazer uma parte
+bichinho
+vida pra ele
+
+Sim!! É um
+dinomostro
+
+É um dinomonstro
+
+Blueprint / PROTÓTIPO 1 - Dia 02
+
+131
+
+5
+
+Suporte
+(Criar)
+
+Chave + Manual +
+materiais e pistas
+
+Que tal se
+acordarmos ele
+primeiro?
+
+Chacoalhem ele
+crianças
+
+Caixinha
+acordada
+
+Caixinha
+acordada
+
+Caixinha
+acordada
+
+Aí ele lembra da
+gente sempre lá
+de longe
+
+Caixinha
+acordada
+
+Acordou! Acho
+que antes do
+parque podíamos
+fazer
+lembrancinhas
+
+Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do
+Caixa + chave
+corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa + luz corpo acesa mais corpo acesa mais corpo acesa mais
+para ligar (ímã) + do olho menos
+do olho menos
+do olho menos
+do olho menos
+intensa + luz do
+intensa + luz do
+intensa + luz do
+pistas (indícios) intensa e - - (som intensa e - - (som intensa e - - (som intensa e - - (som olho mais intensa olho mais intensa olho mais intensa
+respiração)
+respiração)
+respiração)
+respiração)
+eoo
+eoo
+eoo
+
+Ele precisa voltar Podemos mostrar
+pra casa e vamos a escola pra ele e
+nos despedir
+o nosso parque
+
+Caixinha ligada
+
+EVIDÊNCIA
+FÍSICA
+(Objeto)
+
+Gente chegou o
+dia que nosso
+amiguinho vai
+embora
+
+Caixinha ligada
+
+Vou ligar a
+caixinha e colocar
+as pistas aqui
+
+A prô disse que a
+gente podia fazer Será que ele vai
+lembranças pro lembrar da gente?
+bichinho levar
+
+JORNADA
+DO USUÁRIO
+Professor
+
+Caixinha ligada
+
+Ele acordou!
+
+Vamos acordar
+ele primeiro
+
+Caixinha ligada
+
+A gente pode
+levar ele no
+parque prô?
+
+JORNADA
+
+É o último dia
+dele aqui e agora
+ele precisa voltar
+pra casa
+
+Será que o
+bichinho tá na
+sala de novo?
+
+A prô disse que
+hoje o bichinho
+vai embora
+
+Blueprint / PROTÓTIPO 1 - Dia 03
+
+JORNADA
+DO USUÁRIO
+Criança
+
+DIA 3 - despedida
+
+Dia 03
+
+132
+
+Agora podemos
+sair pra brincar
+com ele
+
+Eu abracei ele e
+ele fez um
+barulhinho de
+tchau pra mim
+Boa viagem
+monstrinho!
+
+Gente! Chegou a
+hora de ir
+
+Caixinha
+acordada
+
+Tchaau!
+
+Vamos abraçar o
+A prô vai colocar
+Podem conversar ele pra dormir por
+amiguinho e
+com ele
+desejar boa
+que ele viaja
+viagem
+amanhã cedinho
+
+Caixinha
+Caixinha
+Caixinha
+acordada > reage acordada > reage acordada > reage
+ao toque /
+ao toque /
+ao toque /
+abraços
+abraços
+abraços
+
+Tá na hora de dar
+tchau
+
+Tchau tchau
+
+Caixinha ligada /
+dormindo
+
+Tchau
+monstrinho!
+
+6/2017 20:19:16
+
+Ruídos monstro
+feliz (20 min)
+
+Ruídos monstro
+feliz > toca com o
+contato?
+
+Luz de respiro do Luz de respiro do
+Luz de respiro do
+Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do Luz de respiro do
+corpo acesa mais corpo acesa mais
+corpo acesa mais
+corpo acesa mais corpo acesa mais corpo acesa mais corpo acesa mais corpo acesa mais corpo acesa + luz
+intensa + luz do
+intensa + luz do
+intensa + luz do
+intensa + luz do
+intensa + luz do
+intensa + luz do
+intensa + luz do
+intensa + luz do
+do olho menos
+olho mais intensa olho mais intensa
+olho mais intensa
+olho mais intensa olho mais intensa olho mais intensa olho mais intensa olho mais intensa intensa e - - (som
+e o o > corpo
+e o o > corpo
+eoo
+eoo
+e o o > piscando e o o > piscando e o o > piscando
+eoo
+respiração)
+piscando
+piscando
+
+Ele ficou muito
+feliz com as
+lembranças
+
+Caixinha
+acordada
+
+Caixinha
+Caixinha
+acordada > ruídos acordada > ruídos
+e sons felizes >
+e sons felizes >
+luzinhas piscando luzinhas piscando
+
+Caixinha
+acordada
+
+Olha ele tá
+O que cada um de
+falando, acho que
+vocês vai fazer?
+está feliz de ver
+Um desenho, uma
+vocês
+escultura?
+desenhando
+
+Agora vamos
+levar ele pro
+parque
+
+Ele começou a
+A gente deu os
+falar acho que ele desenhos pra ele
+tá feliz
+e ele ficou feliz!
+
+Vou fazer um
+desenho bem
+bonito pra ele
+lembrar de mim
+
+Blueprint / PROTÓTIPO 1 - Dia 03
+
+133
+7
+
+Anexo C
+desenho esquemático - caixa
+Escala 1:2
+Corte
+Gravação
+
+134
+
+parte de baixo
+
+trava
+
+135
+
+parte de cima (tampa)
+
+Anexo D
+desenho esquemático - peças
+Sensor de toque
+
+vista superior
+136
+
+vista frontal
+
+vista lateral
+
+Hall sensor
+
+137
+
+Anexo D
+desenho esquemático - peças
+Olhos
+
+138
+
+Knob para o potenciômetro / excêntrico para o motor
+
+vista superior
+139
+
+vista frontal
+
+vista lateral
+
+Referências
+bibliográficas
+Livros e textos
+
+ALENCAR, Vagner de. Estudo mostra importância da
+criatividade na infância. Site PORVIR. Disponível em:
+<http://porvir.org/estudo-mostra-importancia-dacriatividade-na-infancia/> Acesso em: 24 mar. 2017.
+COX, Maureen. Desenho da criança. 3. ed. São
+Paulo, SP: Editora Martins Fontes, 2007.
+FARAGO, Alessandra Corrêa e SANTOS, Maria
+Gabriela da Silva, Bernardo Alfredo Mayta. O desenvolvimento da oralidade das crianças na Educação Infantil. Bebedouro, SP: 2015. Disponível em: <http://
+unifafibe.com.br/revistasonline/arquivos/cadernodeeducacao/sumario/35/06042015200343.pdf>
+Acesso em: 14 abr. 2017.
+140
+
+Fundação Maria Cecília Souto Vidigal. Nota 10 - primeira infância (volume dois de 4 a 6 anos). Disponível em: <http://issuu.com/
+fmcsv/docs/livro_programa_nota_10_primeira_
+inf_24a74526d816f2?e=3034920/31021349#search> Acesso em: 16 mai. 2017.
+FUNDACIÓN BOTÍN. Buenos días creatividad! Hacia una educación que despierte la capacidad de crear. Santander, ESP: 2012. Disponível
+em: <http://www.centrobotin.org/oedihg287ddy278_uploads/web_1/personales/Creatividad/2014%20Informe%20Creatividad%20ES.
+pdf> Acesso em: 22 abr. 2017.
+FUNDACIÓN BOTÍN. Artes y emociones
+que potencian la creatividad!. Santander, ESP:
+2014. Disponível em: <https://issuu.com/
+fundacionbotin/docs/buenos_dias_creatividad?e=3744893/2585256> Acesso em: 22
+abr. 2017.
+GRAVATÁ, André; PIZA, Camila; MAYUMI,
+Carla; SHIMAHARA, Eduardo. Volta ao mundo
+em 13 escolas. 2. ed. São Paulo: Fundação Telefônica: A.G., 2013. Disponível em: <https://drive.
+google.com/file/d/0B8Ga3Zu6Q0gVS09Fc2gzd3Z5UHc/view>. Acesso em: 26 fev. 2017.
+GRAVATÁ, André; IANAE, Daniel. Mistérios
+da educação. Disponível em: <http://movimentoentusiasmo.me/ >. Acesso em: 25 mar. 2017.
+
+I Laboratori Bruno Munari. Disponível
+em: <http://www.brunomunari.it/i_laboratori.
+htm> Acesso em: 10 abr. 2017.
+MUNARI, Bruno.Fantasia invenção, criatividade e imaginação na comunicação visual. 1. ed. LISBOA, PT: Editora Presença, 1981.
+MUNARI, Bruno. Das coisas nascem as coisas.
+1. ed. São Paulo, SP: Editora Martins Fontes, 2002.
+PHILLIPS, John Lawrence. Origens do intelecto: A teoria de Piaget. 1. ed. São Paulo, SP: Editora
+Nacional, Editora USP, 1971.
+TERRA, Márcia Regina. O desenvolvimento humano na teoria de Piaget. Disponível em: <http://
+www.unicamp.br/iel/site/alunos/publicacoes/textos/d00005.htm#_ftn1> Acesso em: 14 abr. 2017.
+Unicef. Guia para elaboração de Planos Municipais pela Primeira Infância. Disponível em:
+<http://www.fmcsv.org.br/pt-br/acervo-digital/
+Paginas/Guia-para-elabora%C3%A7%C3%A3ode-Planos-Municipais-pela-Primeira-Inf%C3%A2ncia.aspx> Acesso em: 18 abr. 2017.
+
+Documentários e vídeos
+
+DOIN, German e GUZZO Verónica. La Educación Prohibida. [Filme-vídeo]. Argentina. 2012. 120
+minutos. Documentário. Disponível em: <https://
+www.youtube.com/watch?v=-t60Gc00Bt8>. Acesso em: 25 fev. 2017.
+LIMA, Anderson; LOVATO, Antônio e PEREZ, Raul. Quando sinto que já sei. [Filme-vídeo].
+Brasil. 2014. 78 minutos. Documentário. Disponível em: <https://www.youtube.com/watch?v=HX6P6P3x1Qg>. Acesso em: 10 fev. 2017.
+RHODEN, Cacau. Tarja branca. [Filme-vídeo].
+Brasil. 2014. 80 minutos. Documentário. Disponível em: <https://www.youtube.com/watch?v=UjtWdecuX3w>. Acesso em: 12 fev. 2017.
+TED Talks. Why a good book is a secret door. 16
+minutos. Disponível em: <https://www.ted.com/
+talks/mac_barnett_why_a_good_book_is_a_secret_door>. Acesso em: 18 mai. 2017.
+
+Lista de figuras
+Fig 1. ....................................................................... 13
+Retrato da infância, com minha irmã mais nova no meu
+primeiro dia de aula do ensino fundamental (EMEF Flávio
+D’Angieri), em Jundiaí, São Paulo. Fonte: acervo pessoal.
+Fig 2. ....................................................................... 21
+Cena do documentário"O começo da Vida", da diretora
+Estela Renner (2016). Fonte: http://g1.globo.com/ceara/noticia/2016/08/documentario-o-comeco-da-vida-e
+-exibido-em-fortaleza-neste-sabado.html
+Fig 3. ....................................................................... 22
+Roda de conversa em uma creche na cidade de São Paulo.
+Fonte: https://educacao.uol.com.br/album/2012/09/21/
+creche-inclusiva.htm#fotoNav=15
+Fig 4. ....................................................................... 29
+826 Valencia. Fonte: http://ww1.hdnux.com/photos/31/56/27/6743512/3/rawImage.jpg
+Fig 5. ....................................................................... 29
+PRIMO. Fonte: https://www.primotoys.com/
+blog/2016/12/young-kids-learn-robots/
+
+Fig 13. ..................................................................... 30
+The Echo Park Time Travel Mart. Fonte: http://californiathroughmylens.com/los-angeles-guide
+Fig 14. ..................................................................... 32
+NORIO KIDS - Cocoro. Fonte: http://www.tatakidsdesign.com/search/label/cardboard?updated-max=2016-09-30T10:54:00%2B02:00&max-results=20&start=6&by-date=false
+Fig 15 a 17............................................................... 32
+Makedo. Fonte: http://www.thepaperstory.co.za/tag/
+makedo/ e https://www.fastcodesign.com/1670746/
+makedo-the-kit-that-turns-trash-into-toys-comes-to-the-us
+Fig 18. ..................................................................... 32
+Looks Like Music. Fonte: http://tonton-art.
+jp/2014/09/129/
+Fig 19. ..................................................................... 32
+Little Bits. Fonte: http://www.europapress.es/murcia/
+noticia-cultura-organiza-talleres-ninos-adolescentes-mejoren-creatividad-traves-tecnologia-20150409115137.html
+
+Fig 6. ....................................................................... 29
+Little Bits. Fonte: http://www.europapress.es/murcia/
+noticia-cultura-organiza-talleres-ninos-adolescentes-mejoren-creatividad-traves-tecnologia-20150409115137.html
+
+Fig 20. ..................................................................... 32
+PRIMO. Fonte: https://www.primotoys.com/
+
+Fig 7. ....................................................................... 29
+Billy Twitters and His Blue Whale Problem. Fonte:
+https://fany-blog.blogspot.com.br/2012/11/
+
+Fig 24. ..................................................................... 34
+Tripkit: Roadtrip Adventure Kit. Fonte: https://www.
+behance.net/gallery/6693427/Tripkit-Roadtrip-Adventure-Kit
+
+Fig 8. ....................................................................... 30
+Cena do filme 2001 - Uma Odisseia no Espaço. Fonte:
+http://fabacademy.org/archives/2014/students/mauricio.bruno/cargocultism/mindmap.mm.html
+
+Fig 21 a 23............................................................... 34
+PRIMO. Fonte: https://www.primotoys.com/
+
+Fig 25. ..................................................................... 34
+MusicInk. Fonte: https://www.wired.com/2013/10/conductive-ink-turns-paper-into-musical-instruments/
+
+Fig 9. ....................................................................... 30
+826 Valencia. Fonte: http://ww1.hdnux.com/photos/31/56/27/6743512/3/rawImage.jpg
+
+Fig 26. ..................................................................... 34
+TOC TOC. Fonte: https://foxvalleygirlscodingclub.
+com/img_1816/
+
+Fig 10. ..................................................................... 30
+Hoxton Street Monster Supplies, em Londres. Fonte: https://www.flickr.com/photos/alistairhall/15250909573/
+
+Fig 27. ..................................................................... 36
+Ser criança. Fonte: http://www.cpcd.org.br/ser-crianca/
+
+Fig 11. ..................................................................... 30
+Cena da série Mundo da Lua. Fonte: http://midiainteressante.com/2016/10/canal-pipocando-e-luciano-amaral-relembram-os-5-classicos-brasileiros-da-tv-cultura.html
+Fig 12. ..................................................................... 30
+Billy Twitters and His Blue Whale Problem. Fonte:
+https://fany-blog.blogspot.com.br/2012/11/
+
+Fig 28. ..................................................................... 36
+Virada educação. Fonte: https://www.facebook.
+com/489306227864039/photos/?tab=album&album_
+id=881870451940946
+Fig 29. ..................................................................... 37
+Transform+ação. Fonte: http://projetodraft.com/caiodib-varreu-o-brasil-em-busca-de-praticas-educacionais
+-inspiradoras-e-fez-disso-um-negocio-social/
+
+141
+
+Fig 30. ..................................................................... 37
+Lab educação. Fonte: http://www.labeducacao.com/
+comida-brincante-resultados-janeiro-2015/
+
+Fig 52. ..................................................................... 68
+Detalhe da peça para encaixe do sensor de toque. Fonte:
+acervo pessoal.
+
+Fig 31. ..................................................................... 41
+Crianças brincando no parque, durante uma das
+visitas à EMEB Benedita Alzira de Moraes Camunhas.
+Fonte: acervo pessoal.
+
+Fig 53. ..................................................................... 69
+Detalhe da peça para encaixe e acionamento do hall.
+Fonte: acervo pessoal.
+
+Fig 32 a 36. ............................................................. 43
+Estudos e esboços. Fonte: acervo pessoal.
+Fig 37 e 38. ............................................................. 45
+Sala de aula da EMEB Benedita Alzira de Moraes Camunhas e crianças brincando com caixas de papelão.
+Fontes: acervo pessoal e http://www.colegiologosofico.
+com.br/noticias/4574/infantil-4-utiliza-caixas-de-papelao-para-inventar-brincadeiras.
+142
+
+Fig 39. ..................................................................... 52
+Criança em sala de aula interagindo com o primeiro
+protótipo do "COISO". Fonte: acervo pessoal.
+Fig 40. ..................................................................... 54
+Núcleo do primeiro protótipo aceso, visão geral dos
+componentes. Fonte: acervo pessoal.
+Fig 41. ..................................................................... 57
+Detalhe do núcleo, acionamento do potenciômetro e
+vista geral dos componentes. Fonte: acervo pessoal.
+Fig 42. ..................................................................... 61
+Detalhe do núcleo, esquema com indicação da localização dos componentes. Fonte: acervo pessoal.
+Fig 43. ..................................................................... 62
+Início do processo de prototipagem do circuito no protoboard. Fonte: acervo pessoal.
+Fig 44 a 47. ............................................................. 63
+Processo de desenvolvimento do núcleo, passando pela
+soldagem, montagem da caixa preliminar e colocação
+do excêntrico. Fonte: acervo pessoal.
+Fig 48 e 49. ............................................................. 64
+Processo de desenvolvimento da caixa de acrílico. Planificação e primeira versão. Fonte: acervo pessoal.
+Fig 50. ..................................................................... 66
+Detalhe do primeiro teste de impressão das peças, ainda
+com o material transparente. Fonte: acervo pessoal.
+Fig 51. ..................................................................... 67
+Detalhe da peça para encaixe dos olhos, aberta e fechada pela rosca. Fonte: acervo pessoal.
+
+Fig 54 e 55. ............................................................. 70
+Núcleo montado e peças. Fonte: acervo pessoal.
+Fig 56. ..................................................................... 71
+Núcleo aceso. Fonte: acervo pessoal.
+Fig 57 a 68. ............................................................. 75
+Passo a passo da sequência de montagem do protótipo.
+Fonte: acervo pessoal.
+Fig 69 e 70............................................................... 76
+Vista interior da caixa com o núcleo fixado. Vista
+geral da caixa montada. Fonte: acervo pessoal.
+Fig 71. ..................................................................... 78
+Vista da caixa montada e finalizada. Fonte: acervo pessoal.
+Fig 72 e 73. ............................................................. 82
+Turma do grupo 4, da EMEB Benedita Alzira de Moraes
+Camunhas. Fonte: acervo pessoal.
+Fig 74. ..................................................................... 85
+Algumas das crianças da turma do grupo 4, da EMEB Benedita Alzira de Moraes Camunhas. Fonte: acervo pessoal.
+Fig 75. ..................................................................... 86
+Sala de aula da turma do grupo 4, da EMEB Benedita
+Alzira de Moraes Camunhas. Fonte: acervo pessoal.
+Fig 76. ..................................................................... 87
+Crianças do grupo 4, da EMEB Benedita Alzira de Moraes
+Camunhas em sala de aula. Fonte: acervo pessoal.
+Fig 77 e 78. ............................................................. 89
+Atividade dos nomes em sala de aula. Caixa com materiais
+para o dia de testes com o protótipo. Fonte: acervo pessoal.
+Fig 79 a 82. ............................................................. 90
+Fotos tiradas no dia de observação na escola. Roda de
+histórias, brincadeira no parque e atividade dos nomes.
+Fonte: acervo pessoal.
+Fig 83. ..................................................................... 92
+Turma do grupo 4, da EMEB Benedita Alzira de Moraes Camunhas. Fonte: acervo pessoal.
+Fig 84 a 87. ............................................................. 94
+Primeiro dia de interações. Fonte: acervo pessoal.
+
+Fig 88 a 91. ............................................................. 97
+Primeiro dia de interações. Fonte: acervo pessoal.
+Fig 92 a 95. ............................................................. 98
+Primeiro dia de interações. Fonte: acervo pessoal.
+Fig 96 e 97. ........................................................... 101
+Crianças escutando os sons do objeto. Fonte: acervo pessoal.
+Fig 98. ................................................................... 102
+Crianças saindo para procurar o objeto no segundo dia
+de interação. Fonte: acervo pessoal.
+Fig 99 a 103. ......................................................... 104
+Crianças saindo à procura do Coiso pela escola e o momento do encontro. Fonte: acervo pessoal. Fonte: acervo pessoal.
+Fig 104 a 106. ....................................................... 106
+Início da caracterização, crianças desenhando e colando
+materiais para "dar vida" ao Coiso. Fonte: acervo pessoal.
+Fig 107 a 110. ....................................................... 109
+Momento de caracterização, crianças desenhando e
+colando materiais para "dar vida" ao Coiso. Fonte:
+acervo pessoal.
+Fig 111 e 113. ....................................................... 111
+Fim da caracterização e momento de despedida, as crianças foram muito carinhosas. Fonte: acervo pessoal.
+Fig 114. ................................................................. 112
+Caixa montada e preparada antes dos testes. Fonte:
+acervo pessoal.
+Fig 115. ................................................................. 113
+Caixa depois dos testes e da caracterização feita pelas
+crianças. Fonte: acervo pessoal.
+
+143
+
+Esse trabalho foi composto com as famílias tipográficas
+Akzidenz Grotesk e Scala e impresso em julho de 2017.
+
+

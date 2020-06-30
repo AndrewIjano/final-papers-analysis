@@ -1,0 +1,2395 @@
+1
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINA DE RIBEIRÃO PRETO
+
+PARTICIPAÇÃO DA OSTEOPROTEGERINA NOS EFEITOS DO ESTRADIOL NA
+HOMEOSTASE ENERGÉTICA
+
+Marina Saavedra Azzem
+
+Trabalho de Conclusão de Curso apresentado
+para obtenção de título de Bacharel em Ciências
+Biomédicas com Ênfase em Ciências Básicas da
+Saúde.
+
+RIBEIRÃO PRETO - SP
+2018
+
+2
+Marina Saavedra Azzem
+
+PARTICIPAÇÃO DA OSTEOPROTEGERINA NOS EFEITOS DO ESTRADIOL NA
+HOMEOSTASE ENERGÉTICA
+
+Orientadora:
+
+Profa.
+
+Dra.
+
+Lucila
+
+Leico
+
+Kagohara Elias
+
+Trabalho de Conclusão de Curso apresentado
+para obtenção de título de Bacharel em Ciências
+Biomédicas com Ênfase em Ciências Básicas da
+Saúde.
+
+RIBEIRÃO PRETO - SP
+2018
+
+3
+DEDICATÓRIA
+
+“Dedico este trabalho à minha mãe, Fernanda,
+aos meus pais, Alfredo e Alexandre, à minha
+irmã, Júlia, e aos meus avós, minha base, desde
+sempre.”
+
+4
+AGRADECIMENTOS
+À minha orientadora, Lucila Leico Kagohara Elias, pela enorme oportunidade
+de estudar sob sua orientação, por ter me auxiliado a alcançar um maior crescimento
+pessoal e pela confiança depositada em mim. Agradeço também pelas broncas dadas,
+permitindo o meu amadurecimento profissional, e pelo apoio e acolhimento
+incomparáveis dados em diversos momentos. Espero conseguir ser um terço do que
+ela é como profissional e pessoa. À senhora, a minha eterna gratidão por tudo!
+À minha co-orientadora, Mariana Kiomy Osako, por todas as histórias vividas e
+compartilhadas, por todos os momentos de risada e descontração. Por estar sempre
+disposta a me ajudar, tanto no âmbito acadêmico, quanto no pessoal. Por todos os
+ensinamentos dados e por mostrar que a luta pela ciência é árdua, porém o caminho
+mais belo de se perserverar.
+Aos meus colegas de laboratório por todas as risadas e momentos de
+acolhimento compartilhados. Às técnicas, Valci e Milene, pelas ajudas diárias e
+momentos de descontração. Ao professor José Antunes Rodrigues, por ser uma
+inspiração única do ato de fazer ciência em nosso país. Ao pessoal do RANKLab por
+me auxiliarem e não medirem esforços quanto a isso, e por trazerem calmaria em
+momentos de desespero.
+Agradeço à Fundação de Amparo à Pesquisa do Estado de São Paulo pelo
+apoio financeiro e institucional, assim como a Universidade de São Paulo, pela
+oportunidade de realização deste projeto e continuidade no curso desejado.
+Aos coordenadores e todos os professores que participaram e participam
+arduamente e ativamente na formulação e manutenção do curso de Ciências
+Biomédicas. Tenho todos como inspiração de comprometimento com a docência e
+com os desafios proporcionados por ela. Agradecimento especial à Nadine, por toda
+a ajuda oferecida, por todas as conversas compartilhadas e por ter me mostrado luz,
+quando não mais a enxergava.
+Agradeço aos meus pais, Fernanda, Alfredo e Alexandre, não só pelo apoio
+financeiro, mas por se fazerem presentes diariamente durante toda essa caminhada,
+mesmo distantes. Pela confiança e expectativa depositadas em mim e por
+incentivarem, desde sempre, o meu crescimento pessoal e profissional a todo e
+
+5
+qualquer custo. Não seria metade do que sou hoje sem o apoio emocional e todo amor
+dado por vocês! À minha mãe, principalmente, por acreditar fielmente em mim e por
+ser a mulher na qual me inspiro e espelho todos os dias. Tenho muito orgulho do
+momento que passamos e por tratar recomeços como oportunidades de mudanças e
+não como fracassos. Espero um dia me tornar metade da mulher que você é e
+compartilhar sempre do maior amor do mundo que já me foi dado.
+À minha irmã Júlia, pelo apoio e vivências compartilhadas desde pequenas. Por
+me oferecer conselhos valiosos, por me compreender nos momentos de dificuldade e
+por ser inspiração de calma e equilíbrio sempre. Obrigada por ter sido abrigo e
+proteção sempre que precisei. Você é meu bem mais precioso!
+Aos meus avós por me incentivarem e mostrarem que a educação é o único
+meio de nos libertar. Em especial ao meu avô Marco, meu anjinho, por ter sido a
+pessoa que mais vibrou com o meu ingresso na Universidade e que, com certeza,
+acompanhou toda a minha trajetória e está vibrando com mais essa conquista.
+Aos meus melhores amigos, minha segunda família em Ribeirão Preto, da qual
+tenho muito orgulho em fazer parte. As melhores pessoas que eu poderia conhecer e
+desejar compartilhar todas as conquistas e derrotas, crescimentos, vivências e
+risadas. Sou eternamente grata por ter vocês, Maycon, Ana, Thaís e Viviana, em
+minha vida e por me aceitarem do jeitinho que sou!
+Aos meus amigos de Ribeirão Preto, Rodrigo, Glaucia, Daniela, Marlon,
+Hadder, Julia e Yasmin, e de Araraquara, Ana, Patrícia, Izabella, Júlia e Viviane, por
+todo o apoio oferecido durante esses quatro anos e por compartilharem comigo as
+melhores histórias que eu poderia ter como recordação.
+
+6
+EPÍGRAFE
+
+“Quando o cansaço era rio
+e rio qualquer dava pé.”
+
+7
+RESUMO
+A homeostase energética é regulada por neurônios hipotalâmicos sensíveis a fatores
+circulantes, como hormônios e nutrientes. O estrógeno é responsável por alterações
+no metabolismo de adipócitos e no gasto energético, além de desempenhar papel
+fundamental no remodelamento ósseo. A redução da expressão de mRNA OPG em
+células osteoblásticas, observada em ratas ovariectomizadas, sugere um efeito
+protetor do estradiol no tecido ósseo. Além disso, também foi demonstrada a
+expressão de receptores de estradiol no tecido adiposo, assim como a expressão de
+OPG em células adiposas. Portanto, o objetivo do trabalho foi avaliar o efeito do
+estradiol na expressão de RANKL/OPG em células 3T3-L1 e cultura primária, e o
+efeito da deleção de osteoprotegerina no peso corporal e na ingestão alimentar em
+camundongos machos e fêmeas. Para isso, foram utilizados camundongos knockout
+machos e fêmeas, heterozigotos e homozigotos selvagens para o gene Tnfrsf11b que
+codifica a osteoprotegerina. A ingestão alimentar e o peso corporal destes animais
+foram mensurados semanalmente após o desmame por 20 semanas. As linhagens
+celulares 3T3-L1 e células de cultura primária foram estimuladas com diferentes
+concentrações de 17β-estradiol (0nM, 1nM, 10nM, 100nM e 1000nM) juntamente ao
+coquetel de diferenciação. Após estimulação, os padrões de expressão gênica de
+Tnfrsf11b, Tnfs11, Ucp1, Adipoq, Ppargc1a e Prdm16 foram obtidos por RT-PCR, e
+as concentrações de OPG e RANKL no sobrenadante foram analisadas por ELISA.
+Houve uma redução do peso corporal entre camundongos selvagens e nocautes, bem
+como uma tendência à menor ingestão alimentar por esses animais. Entretanto, não
+houve diferença de peso corporal entre controles e heterozigotos, indicando que a
+deleção parcial de Tnfrs11b não é capaz de causar alterações no peso corporal.
+Observou-se também que adipócitos submetidos a estímulos de diferentes
+concentrações de 17β-estradiol apresentaram um aumento na expressão e produção
+de RANKL em adipócitos, bem como de marcadores de browning como Ucp1 e
+Ppargc1a, associando o aumento do processo de browning em tecidos adiposos
+brancos, quando submetidos ao tratamento com estrógeno, com um possível papel
+protetivo de RANKL nestes tecidos.
+
+Palavras-chave:1.Estradiol, 2.OPG, 3.Tecido Adiposo, 4.Homeostase energética.
+
+8
+ABSTRACT
+Energy homeostasis is regulated by hypothalamic neurons sensitive to circulating
+factors such as hormones and nutrients. Estrogen is responsible for changes in
+adipocyte metabolism and energy expenditure, and also plays a key role in bone
+remodeling. Reduction of OPG mRNA expression in osteoblastic cells, observed in
+ovariectomized rats, suggests a protective effect of estradiol on bone tissue. In
+addition, expression of estradiol receptors in adipose tissue has also been
+demonstrated, as well as the expression of OPG in adipose cells. Therefore, the
+objective of this study was to evaluate the effect of estradiol on RANKL/OPG
+expression in 3T3-L1 cells and primary culture, and the effect of osteoprotegerin
+deletion on body weight and food intake in male and female mice. For this, male and
+female knockout mice for Tnfrsf11b gene, encoding osteoprotegerin, heterozygotes
+and homozygotes were used. Food intake and body weight were measured weekly
+after weaning for 20 weeks. The 3T3-L1 and primary culture cells were stimulated with
+different concentrations of 17β-estradiol (0nM, 1nM, 10nM, 100nM and 1000nM)
+among with the differentiation cocktail. After stimulation, the gene expression patterns
+of Tnfrsf11b, Tnfs11, Ucp1, Adipoq, Ppargc1a and Prdm16 were obtained by RT-PCR,
+and the concentrations of OPG and RANKL in the supernatant were analyzed by
+ELISA. There was a decrease in body weight between wild type mice and knockouts,
+as well as a tendency to lower food intake by these animals. However, there was no
+difference in body weight between controls and heterozygous, indicating that partial
+deletion of Tnfrs11b is not able to cause changes in body weight and food intake. It
+was also observed that adipocytes submitted to stimuli of different concentrations of
+17β-estradiol showed an increase in the expression and production of RANKL in
+adipocytes, as well as browning markers like Ucp1 and Ppargc1a, associating the
+increase of the browning process in white adipose tissues, when submitted to estrogen
+treatment, with a possible protective role of RANKL in these tissues.
+
+Keywords:1.Estradiol, 2.OPG, 3.Adipose tissue, 4.Energy Homeostasis.
+
+9
+Sumário
+1. INTRODUÇÃO
+
+11
+
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+
+11
+15
+18
+19
+20
+
+TECIDO ADIPOSO E A HOMEOSTASE ENERGÉTICA
+HORMÔNIOS SEXUAIS E A HOMEOSTASE ENERGÉTICA
+HORMÔNIOS SEXUAIS E O REMODELAMENTO ÓSSEO
+OSTEOPROTEGERINA E O TECIDO ADIPOSO
+ESTRADIOL E OSTEOPROTEGERINA NO TECIDO ADIPOSO
+
+2. OBJETIVOS
+
+22
+
+2.1. GERAL
+2.2. ESPECÍFICOS
+
+22
+22
+
+3. MATERIAIS E MÉTODOS
+
+23
+
+3.1. ESTUDO IN VITRO
+23
+3.1.1. EFEITO DO ESTRADIOL NA PRODUÇÃO DE OPG E RANKL EM ADIPÓCITOS 3T3-L1 23
+3.1.2. EFEITO DO ESTRADIOL NA PRODUÇÃO DE OPG E RANKL EM CULTURA PRIMÁRIA DE
+ADIPÓCITOS
+24
+3.1.3. DETERMINAÇÃO DA EXPRESSÃO DE MRNA PARA OS GENES DA OSTEOPROTEGERINA
+(OPG), DO RECEPTOR ATIVADOR DO FATOR NUCLEAR KAPPA B (RANKL), DA ADIPONECTINA
+(ADIPOQ), DA PROTEÍNA DESACOPLADORA 1 (UCP-1), DA PROTEÍNA 16 CONTENDO O
+DOMÍNIO PR (PRDM16) NO PROTOCOLO DE CULTURA CELULAR
+25
+3.2. ESTUDO IN VIVO
+27
+3.2.1. GENOTIPAGEM
+27
+3.2.2. AVALIAÇÃO DA INGESTÃO ALIMENTAR E DO PESO CORPORAL
+28
+3.2.3. COLETA DE SANGUE E TECIDOS
+28
+3.2.4. DOSAGEM DE PARÂMETROS HORMONAIS
+28
+3.2.5. DETERMINAÇÃO DA EXPRESSÃO DE MRNA PARA OS GENES DA OSTEOPROTEGERINA
+(OPG), DO RECEPTOR ATIVADOR DO FATOR NUCLEAR KAPPA B (RANKL), DA ADIPONECTINA
+(ADIPOQ), DA PROTEÍNA DESACOPLADORA 1 (UCP-1), DA PROTEÍNA 16 COM DOMÍNIO PR
+NOS TECIDOS ADIPOSOS BRANCO E MARROM
+29
+3.3. ANÁLISE ESTATÍSTICA
+29
+4. RESULTADOS
+
+30
+
+4.1. GENOTIPAGEM E AVALIAÇÃO DE INGESTÃO ALIMENTAR E PESO CORPORAL SOB DIETA
+REGULAR:
+30
+4.2. CONCENTRAÇÃO PLASMÁTICA DE OPG E RANKL EM CAMUNDONGOS MACHOS E
+FÊMEAS OPG+/+ E OPG-/34
+4.3. EFEITO DO ESTRADIOL NA PRODUÇÃO DE OPG E RANKL EM ADIPÓCITOS 3T3-L1 35
+
+10
+4.4. EFEITO DO ESTRADIOL NA PRODUÇÃO DE OPG E RANKL EM CULTURA PRIMÁRIA DE
+ADIPÓCITOS
+38
+5. DISCUSSÃO
+
+40
+
+6. CONCLUSÕES
+
+43
+
+6.1. CONCLUSÕES
+
+43
+
+7. REFERÊNCIAS
+
+44
+
+11
+1. INTRODUÇÃO
+1.1.
+
+Tecido adiposo e a Homeostase Energética
+Em indivíduos saudáveis, o peso corporal e o conteúdo de tecido adiposo
+
+corporal são estáveis ao longo do tempo devido a um processo biológico denominado
+homeostase energética, que combina a ingestão alimentar com o gasto energético
+(CHOE et al., 2016). O hipotálamo tem papel fundamental na integração da resposta
+homeostática que regula a ingestão alimentar e o gasto energético (KELLY;
+RONNEKLEIV, 2015; BOU KHALIL; SOUAIBY; FARÈS, 2017). Os neurônios
+hipotalâmicos que expressam proopiomelanocortina (POMC) ou neuropeptídeo
+Y/peptídeo relacionado a agouti (NPY/AgRP), localizados no núcleo arqueado,
+compõem uma via crítica para a regulação da homeostase energética, uma vez que a
+estimulação de neurônios NPY/AgRP determinam a ingestão alimentar, enquanto os
+neurônios POMC apresentam ações opostas (APONTE; ATASOY; STERNSON,
+2011; KELLY; RONNEKLEIV, 2015; SUYAMA et al., 2017). Estes neurônios são
+sensíveis a níveis circulantes de hormônios, metabólitos e nutrientes, regulando a
+liberação de neurotransmissores peptídicos para neurônios alvos no núcleo
+paraventricular, assim como em outros núcleos hipotalâmicos (KELLY; RONNEKLEIV,
+2015). A leptina, peptídeo derivado de adipócito, é liberada no plasma em níveis
+proporcionais ao tecido adiposo corporal total, além de ser induzida pela insulina e
+possuir um importante papel na regulação central da ingestão alimentar e da
+homeostase energética (TIMPER; BRÜNING, 2017). O aumento nos níveis séricos de
+leptina promove a ativação de neurônios POMC, cuja clivagem deriva o α-MSH, além
+de inibir neurônios NPY/AgRP, suprimindo, concomitantemente, a produção e
+secreção de NPY e AgRP (GAUTRON; ELMQUIST; WILLIAMS, 2015).
+O tecido adiposo também exerce um importante papel na homeostase
+energética, atuando como reservatório energético (CHOE et al., 2016) e o excesso de
+tecido adiposo, ocasionado por uma interação complexa entre fatores genéticos,
+hormonais, comportamentais e ambientais, caracteriza a obesidade (PALLOTTINI et
+al., 2008). Trata-se, portanto, de um tecido dinâmico, passível de processos de
+remodelamento por meio de mudanças no número e/ou tamanho de adipócitos e de
+células vasculares quando submetido a alterações no status energético, conforme
+observado na figura 1(CHOE et al., 2016).
+
+12
+
+Figura 1- Caracterização de adipócitos durante a sua hipertrofia. Adaptado de: CHOE, S. S., HUH, J.
+Y., HWANG, I. J., KIM, J. B. Adipose Tissue Remodeling: Its Role in Energy Metabolism and
+Metabolic Disorders. Front Endocrinol (Lausanne). 7: 30 p. 2016.
+
+Também se encontra distribuído pelo corpo, sendo capaz de expandir a fim de
+acomodar o excesso de energia na forma de lipídeos. O tecido adiposo pode ser
+dividido em dois tipos de tecidos, tecido adiposo branco e tecido adiposo marrom
+(BJÖRNTORP, 1997). O tecido adiposo branco é o principal reservatório de energia,
+responsável por secretar um grande número de hormônios e citocinas que regulam o
+metabolismo (GÓMEZ-HERNÁNDEZ et al., 2016), e compreende dois depósitos
+teciduais conhecidos como subcutâneo e visceral, sendo este último mais
+concentrado na cavidade abdominal e observado em excesso em casos de obesidade
+(MAUVAIS-JARVIS; CLEGG; HEVENER, 2013; CHOE et al., 2016). O tecido adiposo
+abdominal, também conhecido como tecido adiposo branco visceral, é a região de
+maior depósito deste tecido no corpo e está intrinsecamente relacionado a distúrbios
+metabólicos, como a obesidade (CHOE et al., 2016). O tecido adiposo marrom (BAT),
+ao contrário do tecido adiposo branco, tem a função de dissipar energia na forma de
+calor, contribuindo para a manutenção da temperatura corporal. O tecido adiposo
+marrom “clássico” é encontrado de maneira expressiva na vida perinatal e é
+caracterizado pela expressão da proteína desacopladora 1 (UCP-1), proteína
+responsável pelo desacoplamento da oxidação de ácidos graxos da produção de ATP,
+levando à geração de calor (ROSEN; SPIEGELMAN, 2013). Inicialmente, acreditava-
+
+13
+se que o tecido adiposo marrom em humanos estava presente apenas no neonato, no
+entanto, atualmente, sabe-se que indivíduos adultos também apresentam tecido com
+características de tecido adiposo marrom que expresa UCP-1 e que contribui para a
+manutenção da homeostase energética (FAIN et al., 2010; SEALE, 2010). Em
+roedores, tecido adiposo semelhante ao BAT pode ser encontrado entremeado no
+tecido adiposo branco, sendo denominado de tecido adiposo bege, e sua atividade
+está relacionada ao aumento de gasto energético (SEALE, 2010; KAJIMURA;
+SPIEGELMAN; SEALE, 2015). O desenvolvimento deste tecido está relacionado à
+adaptação ao frio ou em resposta ao tratamento com agonistas seletivos β3adrenérgicos, sendo sua ocorrência mais proeminente em depósitos de tecido adiposo
+inguinal (SEALE, 2010; KAJIMURA; SPIEGELMAN; SEALE, 2015). PRDM16,
+proteína 16 contendo o domínio PR, é um coregulador transcricional responsável pelo
+controle do desenvolvimento de adipócitos marrons em depósitos clássicos de WAT
+(SEALE, 2010; CHONDRONIKOLA; SIDOSSIS, 2018). Seale et al., em seu estudo,
+mostraram que PRDM16 se encontra altamente expresso no tecido adiposo branco
+inguinal e a sua expressão neste tecido acarretou na transformação fenotípica deste
+em tecido adiposo marrom (SEALE, 2010). Assim, PRDM16 atua como fator
+determinante em adipócitos inguinais para estabelecimento de um programa genético
+sob condições basais que pode permitir a ativação da termogênese em resposta ao
+frio ou superalimentação, servindo também como um marcador de browning em
+tecidos adiposos branco.
+Estudos recentes mostraram que a obesidade está associada a um alto grau
+de inflamação no tecido adiposo, ressaltando a relação entre adipócitos e sistema
+imune, assim como a capacidade destas células em sintetizar e secretar diversos
+fatores conhecidos por adipocinas, dentre elas adiponectina e leptina (BASTARD et
+al., 2006), que estão sendo intensamente investigadas devido suas atuações no
+controle da homeostase energética (CHOE et al., 2016). O processo inflamatório é
+caracterizado como uma resposta biológica frente a um estímulo nocivo, como, por
+exemplo, a invasão de um patógeno ou o dano celular (CHOE et al., 2016). A resposta
+inflamatória aguda envolve a presença de componentes plasmáticos, como leucócitos,
+no sítio de infecção ou dano, a ativação de receptores da resposta imune inata, como
+receptores do tipo Toll (TLRs) e receptores do tipo NOD (NLRs), e a produção de
+mediadores inflamatórios por macrófagos e mastócitos (BARTON, 2008). Porém, esse
+
+14
+processo inflamatório persiste e passa a adquirir novas características, apresentando
+no local do infiltrado neutrofílico, macrófagos e células T, e, quando prolongada,
+origina a resposta inflamatória crônica com a formação de granulomas (MEDZHITOV,
+2008). A resposta inflamatória desencadeada pela obesidade envolve diversos
+componentes da resposta inflamatória e é caracterizada pelo aumento na circulação
+sistêmica de citocinas, pelo decréscimo de fatores protetores e pela comunicação
+entre células responsáveis pelas respostas inflamatórias e metabólicas (LUMENG;
+SALTIEL, 2011).
+A polarização de macrófagos envolve duas vias determinadas pelas respostas
+ocasionadas às citocinas inflamatórias liberadas. Em resposta às citocinas IFNγ e
+TNF, os macrófagos apresentam o fenótipo M1 com a produção de níveis altos de IL12 e baixos níveis de IL-10. Macrófagos M2 são estimulados por citocinas Th2,
+caracterizados por altos níveis de IL-10 e TGF-β e baixa produção de IL-12 (BOLEGO
+et al., 2013). Sinais parácrinos de macrófagos M1 classicamente ativados podem
+prejudicar a sinalização da insulina e da adipogênese nos adipócitos, enquanto
+macrófagos M2 não estimulados ou ativados alternativamente não geram esses
+efeitos (LUMENG et al., 2008), assim como efeitos semelhantes na inflamação de
+adipócitos são gerados por sinais de células T ativadas, como, por exemplo, o IFNγ(FEUERER et al., 2009), exemplificando a comunicação entre células inflamatórias
+e metabólicas mencionada acima.O tecido adiposo também atua na produção de
+mediadores pró- e anti-inflamatórios que influenciam nas inflamações sistêmica e local
+(MANCUSO, 2016). O tecido adiposo branco, além de reservatório energético,
+também é um órgão secretor de moléculas que possuem ações endócrinas,
+parácrinas e autócrinas, envolvidas na regulação do peso corporal (leptina,
+adiponectina), na inflamação observada na obesidade (IL-6, TNF-α e IL-1β), na função
+vascular, entre outras funções (GÓMEZ-HERNÁNDEZ et al., 2016). A expressão da
+citocina inflamatória TNFα se encontra aumentada em tecido adiposo de obesos, além
+de outras citocinas pró-inflamatórias como IL-1β, IL-6 e MCP-1 (HOTAMISLIGIL et al.,
+1995; GREGOR; HOTAMISLIGIL, 2011; CHOE et al., 2016). Além disso, os adipócitos
+também sintetizam e secretam adipocinas, cuja produção se encontra alterada na
+obesidade, no DM2 e na síndrome metabólica (BASTARD et al., 2006). A leptina,
+codificada pelo gene Lep em camundongos, é um hormônio secretado por estas
+células e possui um importante papel na regulação do peso corporal através de seus
+
+15
+efeitos centrais sobre o apetite e na regulação do gasto energético (BASTARD et al.,
+2006). Em pacientes obesos, a leptina encontra-se em altas concentrações,
+dependendo do grau de adiposidade, e está associada à resistência às suas ações
+(GÓMEZ-HERNÁNDEZ et al., 2016). Outro hormônio que participa na homeostase
+energética é a adiponectina, cujo gene que a codifica em camundongos é o Adipoq, e
+que se encontra em baixos níveis em indivíduos obesos, além de possuir um papel
+protetor contra aterosclerose e resistência à insulina (BASTARD et al., 2006). A
+adiponectina também pode ter um papel protetor na parede vascular ao atuar
+inicialmente em diversas etapas da aterogênese como, por exemplo, na modulação
+de moléculas de adesão endotelial, além de reduzir a secreção de TNF-α por
+macrófagos (BASTARD et al., 2006).
+
+1.2.
+
+Hormônios sexuais e a Homeostase Energética
+Hormônios sexuais também influenciam na homeostase energética e
+
+participam na regulação do metabolismo de adipócitos, assim como atuam no
+remodelamento específico de depósitos de lipídeos (BJÖRNTORP, 1997). O estradiol
+modula a excitabilidade neuronal hipotalâmica responsável pela regulação da
+reprodução, da homeostase energética, da temperatura, do estresse e do ciclo
+circadiano (KELLY; RONNEKLEIV, 2015). Os efeitos hipofágicos de E2 em roedores
+são mediados através de sítios de ação no SNC, uma vez que estudos com aplicações
+diretas de estradiol nos núcleos hipotalâmicos arqueado e ventromedial mostraram a
+sua ação efetiva na redução da ingestão alimentar, do peso corporal e aumento da
+atividade física em fêmeas (COLVIN; SAWYER, 1969)(Colvinet al., 1969; Buteraet al.,
+1984; Leal et al., 1998).
+As ações do estradiol no Sistema Nervoso Central (SNC), são mediadas por
+receptores de estradiol (ERs), pertencentes à família de receptores nucleares,
+classificados em dois tipos – receptores alfa (ERα) e beta (ERβ) (KELLY;
+RONNEKLEIV, 2015). Estes receptores encontram-se amplamente expressos em
+regiões críticas para a regulação do metabolismo energético, como os núcleos
+hipotalâmicos arqueado (ARC), ventromedial (VMH), paraventricular (PVH), área préóptica (POA) e área hipotalâmica lateral (LHA) (FRANK; BROWN; CLEGG, 2014). A
+isoforma ERβ encontra-se mais expressa nos núcleos hipotalâmicos POA e PVH, e
+núcleos
+
+supra-ópticos,
+
+enquanto
+
+ERα
+
+encontra-se
+
+expresso
+
+nos
+
+núcleos
+
+16
+hipotalâmicos POA, amígdala, PVH, região ventrolateral do núcleo VMH e núcleo
+arqueado (FRANK; BROWN; CLEGG, 2014). Foi demonstrado, em camundongos
+nocautes para ERα e ovariectomizados que a sinalização de E2 via ERα é um
+componente crítico na regulação da homeostase energética (GEARY et al., 2001).
+Ainda, um estudo realizado com ratas ovariectomizadas recebendo ou não
+tratamento com estradiol apresentou decréscimo de atividade locomotora e aumento
+do peso corporal, quando os níveis de estrógeno se encontravam baixos (Clegget al.,
+2007). Enquanto que, em humanos, a perda de função de ERα por mutação resultou
+em fenótipo metabólico com expressão de diabetes do tipo 2, hiperinsulinemia e
+obesidade (AN et al., 2007; UGUR-ALTUN; ALTUN, 2007; XU et al., 2011)(Smith et
+al., 1994; Musatovet al., 2007; Xuet al., 2011).
+Além da expressão de receptores para estradiol em regiões centrais do Sistema
+Nervoso e tecido ósseo, tecidos adiposos subcutâneo e visceral expressam ambos
+receptores ERα e ERβ (MAUVAIS-JARVIS; CLEGG; HEVENER, 2013). O ERα
+modula o metabolismo em adipócitos, como demonstrado por estudos com deleção
+deste receptor em camundongos, acarretando hiperplasia e hipertrofia de adipócitos,
+assim como redução do gasto energético (MAYES; WATSON, 2004). Por outro lado,
+a administração de E2 em adipócitos subcutâneos de mulheres reduziu a expressão
+de LPL (lipase lipoproteica), controlando a distribuição de adiposidade corporal,
+apresentando um efeito inibitório sobre a atividade de LPL (PALLOTTINI et al., 2008).
+Outra função importante do estrógeno é a modulação do crescimento e da
+diferenciação de diversos tipos celulares, mecanismo avaliado pela ação de 17βestradiol em precursores mesenquimais, mostrando o seu efeito positivo no potencial
+osteogênico
+
+destas
+
+células,
+
+bem
+
+como
+
+a
+
+melhora
+
+na
+
+diferenciação
+
+adipogênica(NIADA et al., 2016). O ERα participa também na distribuição do tecido
+adiposo, uma vez que camundongos fêmeas e machos nocautes para ERα
+apresentaram um aumento no tecido adiposo branco, principalmente tecido adiposo
+visceral, mas não em tecido adiposo marrom, ocasionado por hiperplasia e hipertrofia
+de adipócitos (HEINE et al., 2000); e o tratamento de camundongos fêmeas
+ovariectomizadas e nocautes para ERβ com estradiol possibilitou a redução de tecido
+adiposo nesses animais, diferente do observado em animais nocautes para ERβ e
+ERα, os quais não apresentaram redução, mostrando que este efeito é dependente
+de ERα (LINDBERG et al., 2002). Além disso, as diferentes concentrações de
+
+17
+receptores para hormônios sexuais (receptores para estrógeno e andrógeno) nos
+diferentes tecidos adiposos conferem dimorfismo sexual, uma vez que camundongos
+machos apresentam maior deposição de tecido adiposo visceral, enquanto
+camundongos fêmeas apresentam maior deposição de tecido adiposo subcutâneo
+(MAYES; WATSON, 2004; MAUVAIS-JARVIS; CLEGG; HEVENER, 2013). Por isso,
+a ausência de receptor ERα no tecido adiposo branco em camundongos machos e
+fêmeas é responsável por provocar distúrbios metabólicos como
+
+obesidade,
+
+resistência à insulina e diabetes, além do estradiol atuar suprimindo o acúmulo de
+tecido adiposo branco através da redução da síntese de triglicerídeos e ácidos graxos
+e da lipogênese(MAUVAIS-JARVIS; CLEGG; HEVENER, 2013).
+Estudos experimentais também mostraram que estrógeno intensifica a
+propriedade termogênica de adipócitos marrons ao aumentar a expressão de UCP-1
+nos tecidos. O aumento dessa expressão se dá por meio do aumento de Pgc-1 alpha
+via AMPK, mas sabe-se, também, que somente o receptor ERα é expresso no tecido
+adiposo marrom e está localizado, principalmente, em mitocôndrias atuando também
+como um coativador direto deste aumento de expressão, conforme demonstrado na
+figura 2 abaixo (LIZCANO; GUZMAN, 2014).
+
+Figura 2- Estrógeno e sua atuação em adipócitos branco e marrom. Retirado de: LIZCANO, F.;
+GUZMAN, G. Estrogen Deficiency and the Origin of Obesity during Menopause. Biomed Res Int.
+2014: 757461 p. 2014.
+
+A deficiência de estrógeno eleva a predisposição ao DM2 e à síndome
+metabólica e às doenças cardiovasculares em mulheres na menopausa (LIZCANO;
+GUZMAN, 2014; CHOE et al., 2016). Níveis reduzidos de E2 em camundongos
+fêmeas ovariectomizadas estão associados com hiperfagia, gasto reduzido de energia
+
+18
+e ganho de peso (LIZCANO; GUZMAN, 2014; CHOE et al., 2016; LÓPEZ; TENASEMPERE, 2016). Reposição de E2 nessas condições reverte o ganho de peso
+induzido por ovariectomia e o comprometimento metabólico ao elevar o gasto de
+energia (LÓPEZ; TENA-SEMPERE, 2016, 2017). Além disso, estradiol regula diversos
+aspectos metabólicos como a sensibilidade a insulina, a função da célula pancreática
+beta e o metabolismo lipídico (FRIAS et al., 2001; ANA ALONSO, 2012; MARTÍNEZ
+DE MORENTIN et al., 2014). Assim, seu efeito no tecido adiposo é relevante, atuando
+na regulação da sua distribuição corpórea, diferenciação, inflamação e fibrose
+(LÓPEZ; TENA-SEMPERE, 2016).
+
+1.3.
+
+Hormônios sexuais e o remodelamento ósseo
+Com a menopausa, os níveis circulantes de estrógeno reduzem e essa situação
+
+é acompanhada por alterações na homeostase energética (MAUVAIS-JARVIS, 2011;
+MAUVAIS-JARVIS; CLEGG; HEVENER, 2013)e na composição óssea (LIZCANO;
+GUZMAN, 2014), acarretando em diversas patologias, dentre elas a osteoporose.
+Osteoporose é o distúrbio caracterizado pela perda da massa óssea ocasionado por
+diversos mecanismos patogênicos que se convergem resultando em deterioração da
+estrutura esquelética. Esta deterioração provocada por fragilidade esquelética originase a partir dos seguintes processos: produção falha de uma arquitetura esquelética
+com massa e força ótimas durante o crescimento; reabsorção óssea excessiva
+acarretando em redução da massa óssea e micro deterioração do esqueleto; e uma
+formação inadequada em resposta ao aumento da reabsorção durante o
+remodelamento ósseo (RAISZ, 2005).
+O estradiol tem ações também no metabolismo ósseo, bloqueando a formação
+de osteoclastos que proliferam a partir da indução por citocinas e a diferenciação de
+precursores de monócitos, tendo como ação secundária o aumento da apoptose
+destas células; e, com isso, este efeito inibitório também atua impedindo a
+osteoclastogênese, assim como no bloqueio da apoptose de osteoblastos e osteócitos
+(LIZCANO; GUZMAN, 2014).
+O remodelamento ósseo envolve três citocinas pertencentes à superfamília do
+receptor de fator de necrose tumoral (TNF), sendo elas a osteoprotegerina (OPG),
+cujo gene que a codifica em camundongos é Tnfrsf11b, o ligante do receptor ativador
+de NFkB (RANKL), codificado pelo gene Tnfsf11 em camundongos, e o receptor
+
+19
+ativador de NFkB (RANK) (PHETFONG et al., 2016). Enquanto OPG apresenta como
+função a proteção óssea, RANKL estimula a reabsorção óssea a partir da
+diferenciação de osteoclastos e ativação de osteoclastos maduros, tendo o sistema
+OPG/RANK/RANKL envolvimento no balanço entre a formação e a reabsorção óssea,
+no qual RANK é expresso em precursores de osteoclastos, osteoclastos maduros,
+células dendríticas, células B e T, fibroblastos, entre outras células, enquanto OPG e
+RANKL encontram-se expressos em osteoblastos (PÉREZ DE CIRIZA; LAWRIE;
+VARO, 2015).
+A osteoporose ocasionada pela deficiência de estrógeno após a menopausa,
+também conhecida como osteoporose pós-menopausa, pode ser mimetizada por meio
+de modelos animais a partir da técnica de ovariectomia (KALU, 1991). O tratamento
+com estrógeno possui efeitos diretos em osteócitos, osteoclastos e osteoblastos,
+promovendo a inibição da reabsorção óssea e a manutenção da formação óssea
+(BLACK; ROSEN, 2016), como mostrado por Cauley et al., que observaram que o
+tratamento com estrógeno reduziu o índice de fraturas, e Richman et al., cujo estudo
+demonstrou que o tratamento aumentou a densidade mineral óssea em mulheres
+menopausadas. Ikeda et al. analisaram mudanças na atividade biológica de células
+ósseas de ratas em diferentes tempos após a ovariectomia a partir da expressão de
+colágeno do tipo I em osteoblastos e expressão de osteopontina, um fator importante
+para o remodelamento ósseo, por osteócitos. Assim, mostrou-se um aumento na
+expressão de RNAm de osteopontina em osteócitos e aumento da expressão de
+RNAm de colágeno do tipo I, ocasionado pelo decréscimo de osso trabecular,
+responsável
+
+pela
+
+manutenção
+
+da
+
+força
+
+e
+
+elasticidade
+
+óssea,
+
+em
+
+ratas
+
+ovariectomizadas, sugerindo a participação destas células em sítios osteoclásticos
+específicos da reabsorção óssea, (IKEDA et al., 1996; IKEDA; UTSUYAMA;
+HIROKAWA, 2001). Em estudo posterior, Ikeda et al. (2001) analisaram a expressão
+de RNAs de RANKL, RANK e OPG em ossos de ratas sham e ovariectomizadas com
+idade de 8 e 10 meses, mostrando o aumento na expressão de RNAm para RANKL e
+a ausência de expressão de RNAm para OPG nas células osteoblásticas em ratas
+ovariectomizadas, sugerindo um decréscimo do volume ósseo e uma reação protetora
+contra o excesso de reabsorção óssea ocasionada pela ovariectomia.
+
+1.4.
+
+Osteoprotegerina e o tecido adiposo
+
+20
+Pérez de Ciriza et al. em seu estudo mostraram, a partir da comparação entre
+indivíduos obesos e não obesos, o aumento nos níveis séricos de OPG em obesos,
+até então não apresentando estudos que identificassem a sua expressão direta no
+tecido adiposo (PÉREZ DE CIRIZA; LAWRIE; VARO, 2015). A expressão de OPG
+observada por An et al. a partir da diferenciação de 3T3L1 em adipócitos, mostrou o
+aumento da sua expressão nestas células e, também no tecido adiposo branco
+subcutâneo, periomental e mais abundantemente no tecido adiposo epididimal,
+quando analisado o mRNA total em diferentes tecidos de ratos (AN et al., 2007). Além
+disso, o tratamento de células 3T3-L1 com TNF-α e IL-1β, citocinas responsáveis por
+estimular a expressão e secreção de OPG em células MG-63 (células osteoblastolike) como mostrado por Pantouli et al. , também promoveu o aumento da razão
+OPG/RANKL (PANTOULI; BOEHM; KOKA, 2005).
+A partir do estudo em camundongos tratados com dieta hiperlipídica (HFD),
+Bernardi et al. mostraram que os níveis circulantes e teciduais de OPG estavam
+significativamente elevados quando comparados aos animais controles, assim como
+os níveis das moléculas pró-inflamatórias IL-6 e TNF-α também se encontravam
+aumentados (BERNARDI et al., 2014). Outro estudo responsável por mostrar a
+expressão de citocinas ósseas em cultura celular de tecido adiposo foi realizado por
+Harslof et al, no qual a cultura celular de tecido adiposo subcutâneo foi submetida a
+tratamentos com IL-1β, TNF-α, cortisol e troglitazone, droga responsável por ativar
+PPARγ (HARSLOF et al., 2011). Assim, mostrou-se o aumento de OPG sob estímulo
+de IL-1β, e, principalmente, TNF-α, bem como a redução de secreção de OPG sob
+estímulo de cortisol, demonstrando a produção de citocinas ósseas no tecido adiposo
+e um possível cross-talk entre tecidos ósseo e adiposo via mecanismos endócrinos.
+
+1.5.
+
+Estradiol e osteoprotegerina no tecido adiposo
+Com a menopausa, há também um aumento da ativação de células T, assim
+
+como a produção de TNF e RANKL por estas células, além de ser conhecido também
+que as células T, pelo sistema CD40L/CD40, promovem a produção de OPG pelas
+células B. Com isso, a deficiência de estrógeno provocada por esta condição expande
+o pool de células T produtoras de TNF, uma vez que este hormônio é responsável
+
+21
+pela supressão da função tímica e aumento do número relativo de células T
+reguladoras (CENCI et al., 2000; PACIFICI, 2012).
+O papel do estrógeno na inibição da adesão de monócitos ao reduzir a
+expressão de moléculas de adesão na superfície de células endoteliais está
+relacionado à expressão de receptores ERα tanto em monócitos, quanto macrófagos
+(BOLEGO et al., 2013). Além disso, hormônios ovarianos possuem grande impacto
+no recrutamento de macrófagos, na expressão de receptores do tipo Toll e na
+fagocitose. O tratamento com E2 inibe a ativação de NF-κB e os níveis de TNF, assim
+como a obesidade e HFD induzem reação inflamatória no tecido adiposo e a troca
+fenotípica para M1 dos macrófagos presentes no tecido adiposo (BOLEGO et al.,
+2013). A inibição da diferenciação de monócitos em osteoclastos é realizada por
+Tregs, responsáveis por suprimirem a função efetora de Th1, Th2 e Th17, através da
+secreção de IL-4, IL-10 e TGF1 e o estrógeno parece ter grande influência ao inibir
+a diferenciação de monócitos, uma vez que este hormônio aumenta o número de
+células T reguladoras (PACIFICI, 2012).
+A adiponectina, adipocina envolvida em vários processos inflamatórios, na
+modulação da função endotelial e na proteção contra a resistência à insulina,
+encontra-se inversamente associada aos níveis de estrógeno, tendo em vista a
+correlação negativa entre seu nível plasmático e o nível plasmático de E2 (BASTARD
+et al., 2006). Wang et al em estudo in vitro demonstroraram que a adiponectina
+estimula a expressão de RANKL e a inibição de OPG em osteoblastos, contribuindo
+para a formação de osteoclastos(WANG et al., 2012). Com o intuito de analisar os
+efeitos de E2 na regulação da expressão OPG/RANKL induzida pela adiponectina, foi
+realizado um estudo in vitro em cultura primária de osteoblastos, mostrando que a
+indução da expressão de RANKL e inibição de OPG por adiponectina foi atenuada na
+presença de E2, sugerindo a supressão da ação de adiponectina pelo estradiol
+(WANG et al., 2012).
+Diante dos estudos apresentados anteriormente, considerando 1) a presença
+de receptores para estrógeno em tecidos adiposos e sua atuação na homeostase
+energética e na modulação do metabolismo de adipócitos, 2) expressão de
+osteoprotegerina no tecido adiposo e 3) ação do estradiol na expressão de OPG no
+tecido ósseo, torna-se relevante a investigação da interação da osteoprotegerina e
+estradiol na homeostase energética.
+
+22
+2. OBJETIVOS
+2.1.
+
+Geral
+Investigar a participação da osteoprotegerina nas ações do estradiol na
+
+homeostase energética.
+
+2.2.
+
+Específicos
+
+2.2.1. Avaliar, in vitro, o efeito do estradiol na expressão de RANKL e OPG em células
+de linhagem celular 3T3-L1;
+2.2.2. Avaliar, in vitro, o efeito do estradiol na expressão de RANKL e OPG em cultura
+primária de adipócitos;
+2.2.3. Avaliar, in vitro, o efeito do estradiol na expressão gênica de Adiponectina,
+UCP-1, Pgc-1 alpha e PRDM16 em adipócitos;
+2.2.4. Avaliar o efeito da deleção deTnfrsf11b sobre o peso corporal e ingestão
+alimentar em camundongos machos e fêmeas, sob dieta regular;
+2.2.5. Avaliar o efeito da deleção de Tnfrsf11b sobre a expressão gênica de
+Adiponectina, UCP-1, Pgc-1 alpha e PRDM16 em tecidos adiposos branco e marrom;
+
+23
+3. MATERIAIS E MÉTODOS
+3.1.
+
+Estudo In Vitro
+
+3.1.1. Efeito do estradiol na produção de OPG e RANKL em adipócitos
+3T3-L1
+Para o estudo, foram utilizadas linhagens celulares 3T3-L1.
+Inicialmente, estas células foram cultivadas em placas de 10cm a uma
+densidade de 1x106 células em meio M-1, conforme especificado na tabela abaixo. As
+células foram mantidas por mais 2 dias em meio M-1 até que atingissem 70% de
+confluência. Para o dia 0 da indução à diferenciação, o meio foi trocado por M-2,
+conforme especificado na tabela abaixo, e as células foram cultivadas neste meio por
+2 dias (dia 0 ao dia 2) em placas de seis poços, a uma densidade de 2x105 células. O
+meio foi novamente substituído, por meio M-3, composto por M-1 acrescido de
+1,5µg/mL de insulina, no dia 2, com a troca por meio fresco a cada 2 dias durante 6
+dias (dia 2 ao dia 8).
+As diferentes concentrações de 17β-estradiol (0nM, 1nM, 10nM, 100nM e
+1000nM, Sigma) foram aplicadas na cultura de pré-adipócitos após atingirem
+confluência (dia 0) até a sua maturação, juntamente ao coquetel de diferenciação
+como descrito em Pektas et al. (2015).
+Após a estimulação, foram analisados os padrões de expressão gênica de
+Tnfrsf11b e Tnfs11, Adipoq, UCP-1, Ppargc1a e Prdm16 por RT-PCR, e a
+concentração de OPG e RANKL no meio de cultura por kit ELISA (R&D Systems,
+Quantikine®).
+
+M-1
+
+M-2
+
+M-3
+
+DMEM 4,5 mg/mL glicose
+
+M-1
+
+M-1
+
+4,0 mM glutamina
+
+1,5 µg/mL insulina
+
+1,5 µg/mL insulina
+
+1 mMpiruvato de sódio
+
+0,5 mM IBMX
+
+10% soro fetal bovino
+
+1,0 µM dexametasona
+
+1% streptomicina/penicilina
+
+Tabela 1- Meios de diferenciação para adipócitos brancos.
+
+24
+3.1.2. Efeito do estradiol na produção de OPG e RANKL em cultura
+primária de adipócitos
+Para o estudo, foram utilizados adipócitos obtidos a partir da diferenciação de
+células estromais coletadas do tecido adiposo branco inguinal, conforme especificada
+na imagem abaixo.
+
+Figura 3 - Depósitos de tecidos adiposos branco e marrom em camundongos. Adaptado de: CHOE,
+S. S., HUH, J. Y., HWANG, I. J., KIM, J. B. Adipose Tissue Remodeling: Its Role in Energy
+Metabolism and Metabolic Disorders. Front Endocrinol (Lausanne). 7: 30 p. 2016.
+
+Primariamente, foi preparado o meio de digestão contendo colagenase D,
+dispase II, PBS e CaCl2 conforme as concentrações indicadas na tabela abaixo:
+
+Meio de Digestão (5mL/5 animais por tecido coletado)
+Colagenase D 1,5 u/mL
+Dispase II 2,4 u/mL
+25 mL PBS
+CaCl2 10mM
+
+Tabela 2- Meio de digestão para obtenção de adipócitos em cultura primária.
+
+Após o preparo do meio, os animais foram eutanasiados e dissecados para
+obtenção do tecido de interesse. O tecido dissecado foi adicionado ao PBS para
+remoção de toda contaminação como, por exemplo, pêlo, músculo esquelético e
+
+25
+tecido conjuntivo. Posteriormente, o tecido foi secado em papeis de filtro
+autoclavadose armazenado em placa de petri. Por conseguinte, foi adicionado o meio
+de digestão nesta placa e o tecido foicortado em pequenos fragmentosde forma que
+facilitasse a pipetagem com uma pipeta de 5mL. O tecido foi, então, transferido para
+tubo falcon de 50mL com o restante do meio de digestão e este foi mantido a 37ºC,
+em agitação constante a 150 rpm, por 40-50 min, checando o processo de digestão a
+cada 10 minutos para evitar que o tecido fosse muito digerido.
+Após 50 minutos, a digestão foi interrompida com a adição de 5 mL de meio
+completo (DMEM com soro e antibióticos). As células digeridas foram então
+centrifugadas a 700xg por 10 minutos, havendo formação de um pellet de cor marrom
+ao fundo do tubo, tratando-se, portanto, das células de interesse. A camada de
+adipócitos maduros formada ao topo e o restante do líquido de digestão foram
+removidos, mantendo somente o pellet, ressuspendendo-o em 10 mL de meio
+completo. Este processo foi repetido mais uma vez, obtendo a suspensão celular de
+interesse.
+Em um novo tubo falcon de 50 mL, foi posicionado um filtro celular de 50-70 µm
+de diâmetro e a suspensão celular foi filtrada. Por fim, a suspensão celular filtrada foi
+plaqueada em placas de 10 cm de diâmetro. Após 24 horas do plaqueamento, aspirouse o meio, lavou-se as placas com PBS por duas vezes e novo meio foi adicionado.
+Para o processo de diferenciação e estimulação, foram utilizados os protocolos
+detalhados anteriormente. Após este processo, foram analisados os padrões de
+expressão gênica de Tnfrsf11b e Tnfs11, Adipoq, Ucp1, Ppargc1a e Prdm16 por RTPCR.
+
+3.1.3. Determinação
+
+da
+
+expressão
+
+de
+
+mRNA
+
+para
+
+os
+
+genes
+
+da
+
+osteoprotegerina (OPG), do receptor ativador do fator nuclear
+Kappa
+
+B
+
+(RANKL),
+
+da
+
+adiponectina
+
+(Adipoq),
+
+da
+
+proteína
+
+desacopladora 1 (UCP-1), da proteína 16 contendo o domínio PR
+(Prdm16) no protocolo de cultura celular
+Após o tratamento das células 3T3-L1 e cultura primária detalhados acima,
+coletou-se os sobrenadantes e foram adicionados 500 µL de TRIzol Reagent
+(Invitrogen) a cada poço para lise das células, mantendo, também, a integridade do
+
+26
+RNA. Posteriormente, este conteúdo foi coletado em eppendorfs e armazenado no 70°C até o seu uso.
+No dia do experimento, transferiu-se as amostras para o gelo a fim de
+descongelá-las. Adicionou-se 100µL de clorofórmio 100% e 10µL de glicogênio, e os
+tubos foram agitados manualmente durante 15 segundos por inversão com incubação
+seguinte em temperatura ambiente por 5 minutos. Então, as amostras foram
+centrifugadas a 1400 rpm por 15 minutos a 4°C, ocorrendo a formação de 3 fases:
+fase inferior com coloração rosa, fase intermediária mais fina com coloração branca e
+o sobrenadante incolor, no qual contém o RNA. Ao sobrenadante foi adicionado 250
+µL de isopropanol com posterior agitação manual e incubação overnight no freezer 80°C.
+No dia seguinte, centrifugou-se a amostra a 1400 rpm por 15 minutos a 4ºC,
+ocorrendo a formação de um pellet. Retirou-se o sobrenadante contendo o
+isopropanol adicionado e adicionou-se 500 µL de etanol 70% para outro processo de
+centrifugação. Após a centrifugação, o etanol foi retirado por inversão e se deixou
+secar o pellet em temperatura ambiente juntamente com o pellet formado neste
+processo. Quando seco (coloração branca do pellet tornou-se transparente),
+ressuspendeu-se o pellet em 15 µL de água DEPC com posterior incubação em banho
+seco a 60°C por 10 minutos e incubação overnight no freezer -20°C.
+Então, o RNA ressuspendido foi transferido para um eppendorf de 200 µL e
+adicionou-se 0,1 volume de DNAse I buffer 10x e 1 µL de DNAse. Incubou-se o
+eppendorf a 37ºC por 30 minutos e, posteriormente, adicionou-se 2µL do reagente de
+inativação da DNAse. Realizou-se, assim, a última incubação do protocolo por 2
+minutos em temperatura ambiente e conseguinte centrifugação a 10000 xg por 1
+minuto e 30 segundos e transferênciado RNA (sobrenadante) para eppendorf de 600
+µL.
+A fim de manter as amostras em concentração final de 1500ng em 15 µL de
+água, foi realizada a quantificação das amostras e posterior diluição.
+Após esta etapa, foi realizada a síntese de DNA complementar (cDNA) por kit
+comercial High-CapacitycDNA Reverse Transcription (AppliedBiosystems) e a
+transcrição reversa foi realizada em termociclador (GeneAmp PCR System 9600,
+AppliedBiosystems), seguindo instruções do fornecedor.
+
+27
+Por último, foram analisados os padrões de expressão gênica de Tnfrsf11b,
+Tnfs11 e Adipoq, Ucp1, Ppargc1a e Prdm16 por RT-PCR no equipamento 7500 RealTime PCR System (AppliedBiosystemsâ), cuja reação consistiu em 4 µL da amostra
+obtida e 8 µL do MIX contendo 1, 6 µL de H2O, 6,25 µL de TaqMan e 0,65 µL da sonda.
+A expressão relativa do gene-alvo foi calculada baseando-se no threshold cycle
+(Ct), utilizando-se a beta-actina como controle endógeno (Mn00607939_S1
+cat.4352341E, Life Technologies). Os resultados foram analisados de acordo com o
+método Ct.
+
+3.2.
+
+Estudo In Vivo
+Foram utilizados camundongos machos e fêmeas homozigotos (OPG+/+, OPG-
+
+/-)
+
+e heterozigotas (OPG+/-) com deleção do gene Tnfrsf11b, que codifica a
+
+osteoprotegerina, e homozigotos selvagem (wild type - OPG+/+), gerados a partir do
+cruzamento entre animais heterozigotos (OPG+/-). Os animais, obtidos em
+colaboração com a Profa. Mariana Kiomy Osako (FMRP-USP), foram ambientalizados
+e aclimatados a temperatura ambiental controlada (23±2 C), em regime de luz
+claro/escuro de 12h (luz 6:00 – 18:00 h). Os animais tiveram livre acesso à água e
+ração com dieta comum. Os animais foram submetidos a diversos procedimentos
+experimentais, previamente encaminhados para apreciação e aprovados pela
+Comissão de Ética no Uso de Animais (CEUA) da Faculdade de Medicina de Ribeirão
+Preto – USP sob protocolo nº 0104/2017.
+
+3.2.1. Genotipagem
+Com 15 dias de vida, cada filhote recebeu uma marca na orelha (utilizando um
+furador) para sua identificação. Em seguida, foi retirado um fragmento (5mm) da cauda
+de cada camundongo e realizada a extração do DNA do fragmento da cauda dos
+camundongos, utilizando o Kit REDE-extract-N-AmpTissue PCR Kit (Sigma
+AldrichBiotechnology). Posteriormente, foi realizada a PCR, cuja reação consistiu de
+adição de 5 μl do Mix REDE-extract –N-Amp PCR, 2,5 μl de água estéril e 0,5 μl dos
+primers:
+OPG Forward – GGTCCTCCTTGATTTTTCTATGCC
+OPG Reverse - TGCCCTGACCACTCTTATACGGAC
+OPG Neo–TGACCGCTTCCTCGTGCTTTAC
+
+28
+Tamanho das bandas:
+
+OPG knockout: ~600 pares de bases
+Heterozigoto: ~600 pares de bases e ~249 pares de bases
+Wild type: 249 pares de bases
+
+3.2.2. Avaliação da ingestão alimentar e do peso corporal
+Após o desmame (com 21 dias) até 20 semanas de vida, os camundongos
+OPG+/+, OPG+/-, OPG-/-. machos e fêmeas foram mantidos em microisoladores (3 por
+caixa) e foram mensuradas semanalmente a ingestão alimentar e o peso corporal dos
+animais.
+Os animais receberam dieta controle (DC) – (Quimtia, Nuvilab®. – 3,86 Kcal/g
+sendo 4% lipídeos, 22% proteínas e 60% carboidratos).
+
+3.2.3. Coleta de sangue e tecidos
+Após a realização da avaliação da ingestão alimentar e do peso corporal, os
+animais foramexpostos a ambiente com 1% de isofluranoe eutanasiados por
+decapitação para posterior coleta de sangue e tecidos.
+O sangue do tronco foi coletado em tubos contendo heparina, sob gelo. O
+plasma foi obtido após centrifugação por 20 minutos, 3000 rotações/min, a 4ºC e
+posteriormente estocado a -70ºC, até o momento das dosagens.
+Após a decapitação, o cérebro foi removido a partir da abertura da calota
+craniana, utilizando-se materiais cirúrgicos esterilizados e em ambiente livre de
+RNase, e foi congelado imediatamente em gelo seco. Logo em seguida, o cérebro foi
+estocado no freezer -80ºC. Foram coletados também os tecidos adiposos branco
+retroperitoneal e inguinal e tecido adiposo marrom da região interescapular.
+
+3.2.4. Dosagem de parâmetros hormonais
+Foram realizadas dosagens de OPG e RANKL plasmáticos com Kit ELISA R&D
+Systems.
+
+29
+3.2.5. Determinação da expressão de mRNA para os genes da
+osteoprotegerina (OPG), do receptor ativador do fator nuclear Kappa B
+(RANKL), da adiponectina (Adipoq), da proteína desacopladora 1 (UCP 1), da proteína 16 com domínio PR nos tecidos adiposos branco e
+marrom
+Após a avaliação da ingestão alimentar e do peso corporal dos animais
+selvagens e nocautes para osteoprotegerina, os tecidos adiposos branco e marrom
+coletados foram macerados e lisados para posterior extração do RNA, seguindo o
+protocolo detalhado acima (3.1.3.).
+Por conseguinte, foram analisados os padrões de expressão gênica de
+Tnfrsf11b, Tnfs11 e Adipoq, Ucp1, Prdm16 e Ppargc1apor RT-PCR no equipamento
+7500 Real-Time PCR System (AppliedBiosystemsâ) e a expressão relativa do genealvo foi calculada baseando-se no thresholdcycle (Ct), utilizando-se a beta-actina
+como controle endógeno (Mn00607939_S1 cat.4352341E, Life Technologies). Os
+resultados foram analisados de acordo com o método Ct. O grupo calibrador
+utilizado foram células não submetidas ao estímulo de 17β-estradiol.
+
+3.3.
+
+Análise Estatística
+Os dados foram apresentados como médias ± erro padrão da média (EPM).
+
+Para finalidade de análise estatística, os valores de OPG séricos abaixo do nível de
+detecção do ensaio, consideramos a metade do nível de detecção. O nível de
+significância adotado foi de p<0,05. As análises foram feitas pala análise de variância
+(ANOVA) one-way, seguida do pós-teste de Bonferroni.
+
+30
+4.
+
+RESULTADOS
+
+4.1. Genotipagem e avaliação de Ingestão Alimentar e Peso Corporal
+sob dieta regular:
+Inicialmente, foram gerados camundongos machos e fêmeas homozigotas
+(OPG-/-) e heterozigotas (OPG+/-) com deleção do gene Tnfrsf11b, que codifica a
+osteoprotegerina, e homozigotos selvagens (wildtype - OPG+/+), a partir do
+cruzamento entre animais heterozigotos (OPG+/-).O genótipo foi determinado de
+
+acordo com o tamanho da banda conforme especificado em Materiais e Métodos.A
+figura 4 apresenta fotomicrografia representativa de eletroforese em gel de agarose
+com as bandas para cada genótipo.
+Figura 4- Genotipagem dos animais obtidos a partir de cruzamentos entre animais heterozigotos
+(OPG+/-).
+
+A figura 5 apresenta a evolução do peso corporal dos camundongos fêmeas
+nocautes (OPG-/-) e selvagens (OPG+/+) semanal durante 20 semanas.
+
+31
+
+O P G + /+
+O P G + /-
+
+O P G + /+
+
+O P G - /-
+
+O P G - /25
+
+P e s o c o rp o ra l (g )
+
+P e s o c o rp o ra l (g )
+
+25
+
+20
+
+15
+
+10
+
+20
+
+15
+
+*
+5
+
+5
+
+10
+
+15
+
+***
+
+10
+
+5
+0
+
+*
+** *
+*
+*
+
+20
+
+*
+5
+
+10
+
+S em anas
+
+15
+
+20
+
+S em anas
+
+Figura 5-Avaliação do peso corporal de camundongos fêmeas durante 20 semanas. (*p<0.05)
+
+Entre as fêmeas, ao compararmos os animais selvagens com camundongos
+homozigotos nocautes para osteoprotegerina (OPG-/-), notou-se uma redução média
+de peso de 2 gramas, com diferenças de peso estatisticamente significativas, ou seja,
+com p<0,05, durante as semanas 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 e 15. Observamos,
+também, que não houve diferença de peso entre camundongos fêmeas selvagens
+(OPG+/+) e heterozigotos (OPG+/-), determinando que a deleção parcial de Tnfrsf11b
+não é capaz de provocar alterações no peso corporal desses animais.
+
+O P G + /+
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+O P G - /35
+
+P e s o c o rp o ra l (g )
+
+P e s o c o rp o ra l (g )
+
+35
+30
+25
+20
+15
+10
+
+30
+25
+20
+15
+10
+5
+
+5
+0
+
+5
+
+10
+
+S em anas
+
+15
+
+20
+
+0
+
+5
+
+10
+
+15
+
+20
+
+S em anas
+
+Figura 6 - Avaliação do peso corporal de camundongos machos durante 20 semanas.
+
+A mesma redução de peso corporal também foi observada em camundongos
+machos nocautes quando comparados aos camundongos selvagens (Figura 6),
+porém o número de animais em cada grupo analisado até o momento é reduzido,
+
+32
+portanto, esse dado de peso corporal deverá ser analisado posteriormente com o
+aumento do tamanho amostral.
+Durante este período, também foi realizada a análise da ingestão alimentar de
+camundongos machos e fêmeas, obtendo os gráficos abaixo (figura 7).
+
+In g e s tã o A lim e n t a r ( g /s e m a n a )
+
+O P G + /+
+
+O P G - /-
+
+40
+
+30
+
+20
+
+10
+
+0
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+S em anas
+
+Figura 7–Avaliação da Ingestão Alimentar Semanal de camundongos fêmeas por 20 semanas.
+
+Nota-se no gráfico acima (Figura 7), no qual comparou-se a ingestão alimentar
+semanal (g/semana) de camundongos fêmeas, um padrão de menor ingestão
+alimentar por camundongos fêmeas nocautes (OPG-/-) a partir da 15ª semana de vida,
+quando comparadas a camundongos fêmeas selvagens (OPG+/+), porém essa
+redução não foi estatisticamente significativa.
+Diferentemente do observado em camundongos fêmeas, a ingestão alimentar
+semanal de camundongos machos nocautes (OPG -/-) foi maior que a observada nos
+animais controles, porém o resultado é inconclusivo devido ao n reduzido de ambos
+os grupos experimentais.
+
+33
+
+In g e s tã o A lim e n t a r ( g /s e m a n a )
+
+O P G + /+
+
+O P G - /-
+
+40
+
+30
+
+20
+
+10
+
+0
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+S em anas
+
+Figura 8 - Ingestão Alimentar Semanal de camundongos machos por 20 semanas.
+
+Também foi realizada a análise da ingestão alimentar diária individual destes
+mesmos animais, entre as idades de 18 e 20 semanas, obtendo o gráfico a seguir
+(figura 9):
+
+In g e s t ã o A lim e n ta r ( g /d ia )
+
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+8
+
+6
+
+4
+
+2
+
+0
+d ia 1
+
+d ia 2
+
+d ia 3
+
+d ia 4
+
+Figura 9 - Ingestão alimentar diária de camundongos fêmeas por 4 dias
+
+Observou-se, durante a análise de ingestão alimentar diária (g/dia) individual
+em camundongos fêmeas (Figura 9), uma menor ingestão por animais nocautes
+quando comparados aos animais selvagens e heterozigotos, porém essa redução de
+ingestão não foi significativa.
+
+34
+
+In g e s t ã o A lim e n ta r ( g /d ia )
+
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+8
+
+6
+
+4
+
+2
+
+0
+d ia 1
+
+d ia 2
+
+d ia 3
+
+d ia 4
+
+Figura 10 - Ingestão alimentar diária de camundongos machos por 4 dias
+
+Ao analisarmos a ingestão alimentar diária dos camundongos machos (Figura
+10), observamos o mesmo padrão apresentado durante a análise da ingestão
+alimentar semanal, porém por apresentar um número reduzido de animais nocautes
+para osteoprotegerina, o resultado é inconclusivo.
+
+4.2. Concentração plasmática de OPG e RANKL em camundongos
+machos e fêmeas OPG +/+ e OPG -/Como
+
+esperado,
+
+observamos
+
+que,
+
+em
+
+camundongos
+
+fêmeas,
+
+as
+
+concentrações séricas de OPG foram significativamente reduzidas no grupo OPG -/(1,9 ± 0,5 pg/mL), quando comparados aos grupos controles (1980,0 ± 237,8 pg/mL)
+e heterozigotos (1365,0 ±86,4 pg/mL) (Figura 11), enquanto que os níveis séricos de
+RANKL se encontravam elevados (2782,0 ± 466,3 pg/mL), quando comparados aos
+controles (356,3 ± 177,9 pg/mL) e heterozigotos (592,0 ± 141,3 pg/mL).
+
+35
+
+4000
+
+100
+
+10
+
+3000
+
+( p g /m l)
+
+D o s a g e m s é r ic a R A N K L
+
+1000
+
+( p g /m L )
+
+D o s a g e m s é r ic a O P G
+
+10000
+
+2000
+
+1000
+
+0
+
+1
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+Figura 11–Concentração sérica de OPG e RANKL em camundongos fêmeas.
+
+Analisando os dados iniciais obtidos de camundongos machos, observamos
+que os animais nocautes (OPG-/-) apresentaram concentração sérica de OPG menor
+(6,5 pg/mL), quando comparado aos grupos controles (2156 ± 122,9 pg/mL) e
+heterozigotos (1378 ± 257,7pg/mL) (Figura 12). Observou-se que camundongos
+machos nocautes para osteoprotegerina apresentaram valores séricos elevados de
+RANKL (2827 pg/mL), quando comparados aos controles (176,1 ± 9,06 pg/mL) e
+heterozigotos (482,5 ± 39,8 pg/mL).
+
+100
+
+10
+
+1
+
+( p g /m l)
+
+D o s a g e m s é r ic a R A N K L
+
+3000
+
+1000
+
+( p g /m l)
+
+D o s a g e m s é r ic a O P G
+
+10000
+
+2000
+
+1000
+
+0
+
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+O P G + /+
+
+O P G + /-
+
+O P G - /-
+
+Figura 12 - Dosagem sérica de OPG e RANKL em camundongos machos.
+
+4.3.
+
+Efeito do Estradiol na produção de OPG e RANKL em adipócitos
+3T3-L1
+A figura 13 retrata o observado após 8 dias de diferenciação das células 3T3-
+
+L1 sob o estímulo de diferentes concentrações de 17β-estradiol.
+
+36
+0 nM
+
+1 nM
+
+10 nM
+
+100 nM
+
+1000 nM
+
+Figura 13 - Células 3T3-L1 após 8 dias de diferenciação na objetiva de 40x, sob tratamento de 17bestradiol nas concentrações 0nM, 1nM, 10nM, 100nM e 1000nM.
+
+Ao realizar a análise da expressão relativa dos genes alvos, utilizando-se a
+beta-actina como controle endógeno, notou-se uma baixa expressão de RANKL e
+OPG nas amostras, uma vez que diversas amostras não atingiram o limiar de
+detecção.
+Ao analisar o padrão de expressão de Adipoq nestas células, notou-se também
+um aumento da expressão concomitante ao aumento da concentração de estradiol,
+com um aumento expressivo da expressão após 7 dias de diferenciação e tratamento,
+
+A d ip o n e c tin
+
+r e la t iv e m R N A e x p r e s s io n
+
+conforme observado no gráfico abaixo (Figura 14).
+
+0 nM
+
+8
+
+1 nM
+10 nM
+
+6
+
+100 nM
+1000 nM
+
+4
+
+2
+
+0
+D F /3
+
+D F /7
+
+D F /9
+
+Figura 14 - Expressão relativa de adiponectina nas células 3T3-L1 nos dias 3, 7 e 9 de diferenciação
+estímulo com estradiol.
+
+37
+
+Verificou-se, também, a expressão de Ucp1, Prdm16, Ppargc1a, a fim de
+analisar o processo de browning nestas células. Conforme retratado na figura 15
+abaixo, observamos uma tendência ao aumento da expressão de Ppargc1a nestas
+células quando estimuladas com concentrações de 1 nM, 10 nM e 1000 nM de 17βestradiol, com aumento estatisticamente significativo na concentração de 10 nM.
+Porém, o tratamento destas células não apresentou expressão de Prdm16 e, quando
+analisada a expressão relativa de Ucp1, notou-se uma expressão similar quando
+comparada ao controle, com exceção das concentrações 10nM e 1000nM que
+
+E x p r e s s ã o r e la t iv a d e U c p 1
+
+1 .5
+
+1 .0
+
+0 .5
+
+0 .0
+0 nM
+
+1 nM
+
+10 nM
+
+100 nM
+
+1000 nM
+
+E x p r e s s ã o r e la t iv a d e P p a r g c 1 a
+
+acarretaram no aumento da expressão deste gene.
+
+5
+
+*
+4
+
+3
+
+2
+
+1
+
+0
+0 nM
+
+1 nM
+
+10 nM
+
+100 nM 1000 nM
+
+Figura 15- Expressão relativa de mRNA de Ucp1 e Ppargc1a em células 3T3-L1 após o estímulo de 8
+dias com estradiol.
+
+Foram realizadas também dosagens de OPG e RANKL nos sobrenadantes
+coletados por kit ELISA R&D Systems, obtendo-se os resultados especificados na
+tabela e no gráficoabaixo:
+OPG (pg/mL)
+
+RANKL (pg/mL)
+
+D2 0nM
+
+Indetectável
+
+3,552
+
+D2 1000nM
+
+Indetectável
+
+7,731
+
+D4 0nM
+
+Indetectável
+
+2,823
+
+D4 1000nM
+
+Indetectável
+
+6,02
+
+D6 0nM
+
+Indetectável
+
+4,339
+
+D6 1000nM
+
+Indetectável
+
+6,102
+
+D8 0nM
+
+Indetectável
+
+4,189
+
+D8 1000nM
+
+Indetectável
+
+8,366
+
+38
+Tabela 3 -Concentraçãode OPG e RANKL no sobrenadante de células 3T3-L1 sob estímulo
+de diferentes concentrações de 17b-estradiol
+
+0nM
+
+1000 nM
+
+6
+
+( p g /m L )
+
+n o s o b r e n a d a n te
+
+D osagem de R A N K L
+
+8
+
+4
+
+2
+
+0
+D F /3
+
+D F /5
+
+D F /7
+
+D F /9
+
+Figura 16- Dosagem de RANKL no sobrenadante de células 3T3-L1 durante os dias 3, 5, 7 e 9 com
+estímulo de estradiol.
+
+Conforme observado acima (Tabela 3), a dosagem de osteoprotegerina foi
+indetectável, indicando a baixa expressão e produção desta proteína. Entretanto,
+observou-se a presença de RANKL no sobrenadante com maior dosagem desta
+proteína sob estímulo de 1000 nM de 17β-estradiol.
+
+4.4.
+
+Efeito do Estradiol na produção de OPG e RANKL em cultura
+primária de adipócitos
+A análise da expressão relativa de Opg e Rankl em cultura primária de
+
+20
+
+30
+
+0 nM
+1000 nM
+
+***
+20
+
+***
+10
+
+E x p re s s ã o re la tiv a d e O p g
+
+E x p r e s s ã o r e la tiv a d e R a n k l
+
+adipócitos está descrita na imagem abaixo (Figura 17).
+
+0 nM
+
+****
+
+1000 nM
+
+15
+
+10
+
+5
+
+*
+0
+
+0
+D F /3
+
+D F /7
+
+D F /9
+
+D F /3
+
+D F /7
+
+D F /9
+
+Figura 17- Expressão relativa de mRNA de Opg e Rankl em adipócitos de cultura primária
+durante os dias 3, 7 e 9 de estímulo com estradiol.
+
+39
+Notou-se que o tratamento com 17β-estradiol na concentração de 1000 nM
+acarretou em aumento da expressão relativa de Opg e Rankl, com destaque para a
+
+0 nM
+1000 nM
+15
+
+10
+
+5
+
+0
+
+E x p re s s ã o re la tiv a d e A d ip o q
+
+D F /3
+
+D F /7
+
+D F /9
+
+20
+
+0 nM
+
+***
+15
+
+10
+
+5
+
+0
+D F /3
+
+D F /7
+
+D F /9
+
+1000 nM
+
+E x p re s s ã o re la tiv a d e P p a r g c 1 a
+
+20
+
+E x p re s s ã o re la tiv a d e P r d m 1 6
+
+E x p re s s ã o re la tiv a d e U c p 1
+
+maior expressão após sete dias de diferenciação.
+
+15
+
+0 nM
+1000 nM
+
+**
+
+10
+
+5
+
+0
+D F /3
+
+D F /7
+
+D F /9
+
+10
+
+0 nM
+1000 nM
+
+***
+
+5
+
+*
+
+0
+D F /3
+
+D F /7
+
+D F /9
+
+Figura 18- Expressão relativa de mRNA de Ucp1, Prdm16, Adipoqe Ppargc1a em adipócitos
+de cultura primária durante os dias 3, 7 e 9 de estímulo com estradiol.
+
+Visando analisar o processo de browning nestas células, verificou-se, também,
+a expressão relativa de Ucp1, Prdm16, Ppargc1a, observando uma tendência de
+aumento de expressão quando estimulados com concentração de 1000 nM de 17βestradiol, com aumentos estatisticamente significativos da expressão gênica de
+Adipoq, Ppargc1a e Prdm16.
+
+40
+5.
+
+DISCUSSÃO
+O processo de remodelamento ósseo, conforme abordado anteriormente,
+
+envolve três citocinas pertencentes à superfamília do receptor de fator de necrose
+tumoral (TNF), sendo elas a osteoprotegerina (OPG), o ligante do receptor ativador
+de NFkB (RANKL) e o receptor ativador de NFkB (RANK) (PHETFONG et al., 2016).
+A proteína OPG, apresenta como função a proteção óssea, tendo o sistema
+OPG/RANK/RANKL envolvimento no balanço entre a formação e a reabsorção óssea.
+Além disso, mostrou-se também, a partir da comparação entre indivíduos obesos e
+não obesos, um aumento nos níveis séricos de OPG em obesos (PÉREZ DE CIRIZA;
+LAWRIE; VARO, 2015), além da redução de secreção desta proteína sob estímulo de
+citocinas pró-inflamatórias, envolvidas na obesidade, demonstrando um possível
+cross-talk entre tecido ósseo e adiposo através de mecanismos endócrinos. Desta
+forma,
+
+buscou-se
+
+avaliar,
+
+com
+
+o
+
+uso
+
+de
+
+camundongos
+
+nocautes
+
+para
+
+osteoprotegerina, a relação desta proteína com a homeostase energética. Observouse uma redução estatisticamente significativa do peso corporal entre camundongos
+fêmeas selvagens (OPG+/+) e nocautes (OPG-/-), bem como uma tendência na menor
+ingestão alimentar desses animais, sendo necessária a realização de experimentos
+de gasto metabólico, a fim de determinar que esta redução no peso corporal esteja
+relacionada ao metabolismo energético. Além disso, podemos supor, também, que
+esta redução de peso corporal é determinada pela maior porosidade do tecido ósseo,
+principalmente da região cortical, uma vez que o espessamento do osso cortical se dá
+devido ao rápido remodelamento da matriz óssea neste local, conforme demonstrado
+por Zhanget al(ZHANG et al., 2016).
+Hormônios sexuais também apresentam enorme influência na homeostase
+energética e participam na regulação do metabolismo de adipócitos, bem como no
+remodelamento específico de depósitos lipídicos (BJÖRNTORP, 1997). O estrógeno,
+além de apresentar receptores no
+
+Sistema Nervoso e tecido ósseo, também
+
+apresenta expressão de seus receptores em tecidos adiposos subcutâneo e visceral
+(MAUVAIS-JARVIS; CLEGG; HEVENER, 2013), atuando na modulação metabólica
+em adipócitos, acarretando em hiperplasia e hipertrofia destas células com a deleção
+destes receptores em camundongos (MAYES; WATSON, 2004). Sabendo-se,
+também, que a osteoprotegerina é expressa nestes tecidos, tornou-se válido avaliar o
+efeito deste hormônio sob a expressão e produção desta proteína. A análise da
+
+41
+expressão relativa de Opg e Rankl em linhagens celulares de pré-adipócitos sob
+diferenciação mostrou uma baixa expressão destas, enquanto que, a dosagem destas
+proteínas no sobrenadante mostrou que o tratamento com 17β-estradiol levou ao
+aumento gradativo da concentração de RANKL no sobrenadante, corroborando com
+a hipótese de Takeshita et al, que consistia na expressão e secreção de RANKL em
+células no estágio de pré-adipócitos (TAKESHITA et al., 2014). No entanto, o aumento
+de RANKL observado na maior concentração de tratamento (1000 nM) quando
+comparado ao controle mostra seu papel inverso ao observado no metabolismo
+ósseo, uma vez que o aumento da expressão de Rankl no tecido ósseo está
+diretamente relacionado ao aumento da adiposidade com o envelhecimento. O
+mesmo aumento foi observado na expressão relativa de Rankl na cultura primária de
+adipócitos. Tal aumento, induzido pelo estradiol, poderia estar relacionado ao
+desenvolvimento de um papel protetor desta proteína no tecido adiposo, uma vez que
+o estímulo com estradiol acarreta na regulação metabólica positiva de adipócitos,
+prevenindo a obesidade.
+O estrógeno também atua promovendo o aumento da expressão de UCP-1 nos
+tecidos, intensificando a propriedade termogênica e atuando como potencializador do
+processo de browning (LIZCANO; GUZMAN, 2014). Com isso, o aumento no acúmulo
+de gotículas de lipídio, configurando adipócitos multiloculares, está relacionado a uma
+menor resistência a insulina e a uma caracterização menor do adipócito, uma vez que
+adipócitos hipertróficos apresentam gotícula unilocular, conforme demonstrado na
+figura 1. Observou-se também um aumento da expressão de adiponectina simultâneo
+ao aumento da concentração de estradiol (Figura 14), corroborando com o esperado,
+uma vez que, níveis reduzidos de E2 estão associados com ganho de peso como
+mostrado por Cho et al, e já se sabe que o hormônio adiponectina se encontra em
+baixos níveis em indivíduos obesos, conforme mostrado por Bastard et al (BASTARD
+et al., 2006; CHOE et al., 2016).
+Al-Qahtani et al. mostraram que a expressão elevada de stat3 no tecido adiposo
+visceral de animais tratados com dieta hiperlipídica e estradiol está envolvida com a
+perda de adiposidade nestes animais via aumento do gasto energético.
+Concomitantemente, foi observado o aumento na expressão de Ucp1 nestes tecidos,
+contribuindo para a transformação do tecido adiposo branco em tecido adiposo bege,
+e, desta forma, associando a modulação da expressão de Ucp1 via STAT3 (AL-
+
+42
+QAHTANI et al., 2017). Com isso, sabendo-se que o estradiol está relacionado ao
+processo de browning do tecido adiposo branco (CHOE et al., 2016; LÓPEZ; TENASEMPERE, 2017), notou-se que o tratamento com 17β-estradiol, tanto em linhagem
+celular, quanto em adipócitos de cultura primária, aumentou a expressão relativa de
+marcadores de browning como Ucp1, Prdm16 e Ppargc1a (KIM et al., 2016; LÓPEZ;
+TENA-SEMPERE, 2017), podendo o aumento observado na expressão e produção
+de RANKL estar associado a um possível papel protetivo em tecidos adiposos
+brancos, uma vez que o processo de browning nestes tecidos também se encontra
+aumentado.
+
+43
+6.
+
+CONCLUSÕES
+
+6.1.
+
+Conclusões
+A partir dos resultados apresentados e da discussão realizada, foi possível
+
+estabelecer algumas considerações finais para o presente trabalho. Tendo em vista
+que o tecido adiposo exerce um importante papel na homeostase energética, atuando
+como reservatório energético, e que o estrógeno é um importante fator para a
+regulação do metabolismo de adipócitos e o remodelamento dos depósitos de
+lipídeos, tornou-se relevante o estudo sobre a interação da osteoprotegerina e
+estradiol na homeostase energética. Os estudos realizados neste projeto mostraram
+que o nocaute total de osteoprotegerina em camundongos promove redução de peso
+corporal e ingestão alimentar nestes animais. Entretanto, experimentos envolvendo a
+análise do gasto energético precisam ser realizados afim de determinar essa relação.
+Observou-se também que adipócitos submetidos a estímulos de diferentes
+concentrações de 17β-estradiol apresentaram um aumento na expressão e produção
+de RANKL em adipócitos, bem como de marcadores de browning como Ucp1 e
+Ppargc1a, associando o aumento do processo de browning em tecidos adiposos
+brancos, quando submetidos ao tratamento com estrógeno, com um possível papel
+protetivo de RANKL nestes tecidos. Para avaliar também a relação da
+osteoprotegerina com a homeostase energética, e a sua influência sob os efeitos do
+estradiol, torna-se crucial, também, a realização da análise de peso corporal, ingestão
+alimentar e gasto energético em animais tratados com dieta hiperlipídica e submetidos
+à ovariectomia.
+
+44
+7. REFERÊNCIAS
+AL-QAHTANI, S. M.; BRYZGALOVA, G.; VALLADOLID-ACEBES, I.; KORACHANDRÉ, M.; DAHLMAN-WRIGHT, K.; EFENDIĆ, S.; BERGGREN, P.; PORTWOOD,
+N. 17 β -Estradiol suppresses visceral adipogenesis and activates brown adipose
+tissue-specific gene expression. Hormone Molecular Biology and Clinical
+Investigation, v. 29, n. 1, p. 13–26, 2017.
+AN, J. J.; HAN, D. H.; KIM, D. M.; KIM, S. H.; RHEE, Y.; LEE, E. J.; LIM, S. K.
+Expression and regulation of osteoprotegerin in adipose tissue. Yonsei Medical
+Journal,
+
+v.
+
+48,
+
+n.
+
+5,
+
+p.
+
+765–772,
+
+2007.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.3349/ymj.2007.48.5.765>.
+ANA ALONSO, C. G. Neuroprotective role of estrogens: relationship with insulin/IGF1 signaling. Frontiers in Bioscience, p. 607–619, 2012.
+APONTE, Y.; ATASOY, D.; STERNSON, S. M. AGRP neurons are sufficient to
+orchestrate feeding behavior rapidly and without training. Nature Neuroscience, v.
+14, n. 3, p. 351–355, 2011. Disponível em: <http://dx.doi.org/10.1038/nn.2739>.
+BARTON, G. M. A calculated response: control of inflammation by the innate immune
+system. Journal of Clinical Investigation, v. 118, n. 2, p. 413–420, 2008. Disponível
+em: <http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2214713>.
+BASTARD, J. P.; MAACHI, M.; LAGATHU, C.; KIM, M. J.; CARON, M.; VIDAL, H.;
+CAPEAU, J.; FEVE, B. Recent advances in the relationship between obesity,
+inflammation, and insulin resistance. European Cytokine Network, v. 17, n. 1, p. 4–
+12, 2006. Disponível em: <http://dx.doi.org/>.
+BERNARDI, S.; FABRIS, B.; THOMAS, M.; TOFFOLI, B.; TIKELLIS, C.; CANDIDO,
+R.; CATENA, C.; MULATERO, P.; BARBONE, F.; RADILLO, O.; ZAULI, G.;
+SECCHIERO, P. Osteoprotegerin increases in metabolic syndrome and promotes
+adipose tissue proinflammatory changes. Molecular and Cellular Endocrinology, v.
+394,
+
+n.
+
+1–2,
+
+p.
+
+13–20,
+
+2014.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.1016/j.mce.2014.06.004>.
+BJÖRNTORP, P. Body Fat Distribution , Insulin Resistance , and Metabolic Diseases.
+Nutrition, v. 13, n. 9, p. 795–803, 1997.
+
+45
+BLACK, D. M.; ROSEN, C. J. Postmenopausal Osteoporosis. New England Journal
+of
+
+Medicine,
+
+v.
+
+374,
+
+n.
+
+3,
+
+p.
+
+254–262,
+
+2016.
+
+Disponível
+
+em:
+
+<http://www.nejm.org/doi/10.1056/NEJMcp1513724>.
+BOLEGO, C.; CIGNARELLA, A.; STAELS, B.; CHINETTI-GBAGUIDI, G. Macrophage
+function and polarization in cardiovascular disease: a role of estrogen signaling?
+Arteriosclerosis, Thrombosis, and Vascular Biology, v. 33, n. 6, p. 1127–1134,
+2013. Disponível em: <http://dx.doi.org/10.1161/atvbaha.113.301328>.
+BOU KHALIL, R.; SOUAIBY, L.; FARÈS, N. The importance of the hypothalamopituitary-adrenal axis as a therapeutic target in anorexia nervosa. Physiology and
+Behavior,
+
+v.
+
+171,
+
+p.
+
+13–20,
+
+2017.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.1016/j.physbeh.2016.12.035>.
+CENCI, S.; WEITZMANN, M. N.; ROGGIA, C.; NAMBA, N.; NOVACK, D.;
+WOODRING, J.; PACIFICI, R. Estrogen deficiency induces bone loss by enhancing Tcell production of TNF-alpha. The Journal of Clinical Investigation, v. 106, n. 10, p.
+1229–1237, 2000. Disponível em: <http://dx.doi.org/10.1172/jci11066>.
+CHOE, S. S.; HUH, J. Y.; HWANG, I. J.; KIM, J. I.; KIM, J. B. Adipose Tissue
+Remodeling: Its Role in Energy Metabolism and Metabolic Disorders. Frontiers in
+Endocrinologyogy,
+
+v.
+
+7,
+
+p.
+
+30,
+
+2016.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.3389/fendo.2016.00030>.
+CHONDRONIKOLA, M.; SIDOSSIS, L. S. Brown and Beige fat: From molecules to
+physiology. BBA - Molecular and Cell Biology of Lipids, 2018. Disponível em:
+<https://doi.org/10.1016/j.bbalip.2018.05.014>.
+COLVIN, G. B.; SAWYER, C. H. Induction of Running Activity by Intracerebral Implants
+of Estrogen in Ovariectomized Rats. Neuroendocrinology, v. 4, p. 309–320, 1969.
+FAIN, J. N.; TAGELE, B. M.; CHEEMA, P.; MADAN, A. K.; TICHANSKY, D. S. Release
+of 12 adipokines by adipose tissue, nonfat cells, and fat cells from obese women.
+Obesity,
+
+v.
+
+18,
+
+n.
+
+5,
+
+p.
+
+890–896,
+
+2010.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.1038/oby.2009.335>.
+FEUERER, M.; HERRERO, L.; CIPOLLETTA, D.; NAAZ, A.; WONG, J.; LEE, J.;
+GOLDFINE, A.; BENOIST, C.; SHOELSON, S.; MATHIS, D. Fat Treg cells: a liaison
+
+46
+between the immune and metabolic systems. Nature, v. 15, n. 8, p. 930–939, 2009.
+FRANK, A.; BROWN, L. M.; CLEGG, D. J. The role of hypothalamic estrogen receptors
+in metabolic regulation. Frontiers in Neuroendocrinology, v. 35, n. 4, p. 550–557,
+2014. Disponível em: <http://dx.doi.org/10.1016/j.yfrne.2014.05.002>.
+FRIAS, J. P.; MACARAEG, G. B.; OFRECIO, J.; YU, J. G.; OLEFSKY, J. M.;
+KRUSZYNSKA, Y. T. Decreased Susceptibility to Fatty Acid – Induced Peripheral
+Tissue Insulin Resistance in Women. Diabetes, v. 50, 2001.
+GAUTRON, L.; ELMQUIST, J. K.; WILLIAMS, K. W. Neural control of energy balance:
+Translating circuits to therapies. Cell, v. 161, n. 1, p. 133–145, 2015. Disponível em:
+<http://dx.doi.org/10.1016/j.cell.2015.02.023>.
+GEARY, N.; ASARIAN, L.; KORACH, K. S.; PFAFF, D. W.; OGAWA, S. Deficits in E2dependent control of feeding, weight gain, and cholecystokinin satiation in ER-α null
+mice. Endocrinology, v. 142, n. 11, p. 4751–4757, 2001.
+GÓMEZ-HERNÁNDEZ, A.; BENEIT, N.; DÍAZ-CASTROVERDE, S.; ESCRIBANO, Ó.
+Differential Role of Adipose Tissues in Obesity and Related Metabolic and Vascular
+Complications. International Journal of Endocrinology, v. 2016, 2016. Disponível
+em: <http://dx.doi.org/10.1155/2016/1216783>.
+GREGOR, M. F.; HOTAMISLIGIL, G. S. Inflammatory Mechanisms in Obesity. Annual
+Review of Immunology, v. 29, n. 1, p. 415–445, 2011. Disponível em:
+<http://www.annualreviews.org/doi/10.1146/annurev-immunol-031210-101322>.
+HARSLOF, T.; HUSTED, L. B.; CARSTENS, M.; STENKJAER, L.; SORENSEN, L.;
+PEDERSEN, S. B.; LANGDAHL, B. L. The expression and regulation of bone-acting
+cytokines in human peripheral adipose tissue in organ culture. Hormone and
+Metabolic Research, v. 43, n. 7, p. 477–482, 2011.
+HEINE, P. A.; TAYLOR, J. A.; IWAMOTO, G. A.; LUBAHN, D. B.; COOKE, P. S.
+Increased adipose tissue in male and female estrogen receptor-alpha knockout mice.
+Proceedings of the National Academy of Sciences of the United States of
+America, 2000.
+HOTAMISLIGIL, G. S.; ARNER, P.; CARO, J. F.; ATKINSON, R. L.; SPIEGELMAN,
+B. M. Rapid Publication Obesity and Insulin Resistance. Journal of Clinical
+
+47
+Investigation, v. 95, n. January, p. 2409–2415, 1995.
+IKEDA, T.; UTSUYAMA, M.; HIROKAWA, K. Expression profiles of receptor activator
+of nuclear factor kappaB ligand, receptor activator of nuclear factor kappaB, and
+osteoprotegerin messenger RNA in aged and ovariectomized rat bones. Journal of
+Bone and Mineral Research, v. 16, n. 8, p. 1416–1425, 2001. Disponível em:
+<http://dx.doi.org/10.1359/jbmr.2001.16.8.1416>.
+IKEDA, T.; YAMAGUCHI, A.; YOKOSE, S.; NAGAI, Y.; YAMATO, H.; NAKAMURA, T.;
+TSURUKAMI, H.; TANIZAWA, T.; YOSHIKI, S. Changes in biological activity of bone
+cells in ovariectomized rats revealed by in situ hybridization. Journal of Bone and
+Mineral
+
+Research,
+
+v.
+
+11,
+
+n.
+
+6,
+
+p.
+
+780–788,
+
+1996.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.1002/jbmr.5650110609>.
+KAJIMURA, S.; SPIEGELMAN, B. M.; SEALE, P. Review Brown and Beige Fat :
+Physiological Roles beyond Heat Generation. Cell Metabolism, v. 22, n. 4, p. 546–
+559, 2015. Disponível em: <http://dx.doi.org/10.1016/j.cmet.2015.09.007>.
+KALU, D. N. The ovariectomized rat model of postmenopa bone loss. Bone and
+Mineral, v. 15, p. 175–191, 1991.
+KELLY, M. J.; RONNEKLEIV, O. K. Minireview: neural signaling of estradiol in the
+hypothalamus. Molecular Endocrinology, v. 29, n. 5, p. 645–657, 2015. Disponível
+em: <http://dx.doi.org/10.1210/me.2014-1397>.
+KIM, S.-N.; JUNG, Y.-S.; KWON, H.-J.; SEONG, J. K.; GRANNEMAN, J. G.; LEE, Y.H. Sex differences in sympathetic innervation and browning of white adipose tissue of
+mice. Biology of Sex Differences, v. 7, n. 1, p. 67, 2016. Disponível em:
+<http://bsd.biomedcentral.com/articles/10.1186/s13293-016-0121-7>.
+LINDBERG, M. K.; WEIHUA, Z.; ANDERSSON, N.; MOVERARE, S.; GAO, H.; VIDAL,
+O.; ERLANDSSON, M.; WINDAHL, S.; ANDERSSON, G.; LUBAHN, D. B.;
+CARLSTEN, H.; DAHLMAN-WRIGHT, K.; GUSTAFSSON, J. A.; OHLSSON, C.
+Estrogen receptor specificity for the effects of estrogen in ovariectomized mice.
+Journal of Endocrinology, v. 174, n. 2, p. 167–178, 2002. Disponível em:
+<http://dx.doi.org/>.
+LIZCANO, F.; GUZMAN, G. Estrogen Deficiency and the Origin of Obesity during
+
+48
+Menopause. Biomed Research International, v. 2014, p. 757461, 2014. Disponível
+em: <http://dx.doi.org/10.1155/2014/757461>.
+LÓPEZ, M.; TENA-SEMPERE, M. Estradiol and brown fat. Best Practice & Research
+Clinical
+
+Endocrinology
+
+&
+
+Metabolism,
+
+2016.
+
+Disponível
+
+em:
+
+<http://dx.doi.org/10.1016/j.beem.2016.08.004>.
+LÓPEZ, M.; TENA-SEMPERE, M. Estradiol effects on hypothalamic AMPK and BAT
+thermogenesis: A gateway for obesity treatment? Pharmacology and Therapeutics,
+v. 178, p. 109–122, 2017.
+LUMENG, C. N.; DELPROPOSTO, J. B.; WESTCOTT, D. J.; SALTIEL, A. R.
+Phenotypic Switching of Adipose Tissue Macrophages With Obesity Is Generated by
+Spatiotemporal Differences in Macrophage Subtypes. Diabetes, v. 57, p. 3239–3246,
+2008.
+LUMENG, C. N.; SALTIEL, A. R. Review series Inflammatory links between obesity
+and metabolic disease. Life Sciences, v. 121, n. 6, p. 2111–2117, 2011.
+MANCUSO, P. The role of adipokines in chronic inflammation. ImmunoTargets and
+Therapy, v. 5, p. 47–56, 2016. Disponível em: <http://dx.doi.org/10.2147/itt.s73223>.
+MARTÍNEZ DE MORENTIN, P. B.; GONZÁLEZ-GARCÍA, I.; MARTINS, L.; LAGE, R.;
+FERNÁNDEZ-MALLO, D.; MARTÍNEZ-SÁNCHEZ, N.; RUÍZ-PINO, F.; LIU, J.;
+MORGAN, D. A.; PINILLA, L.; GALLEGO, R.; SAHA, A. K.; KALSBEEK, A.; FLIERS,
+E.; BISSCHOP, P. H.; DIÉGUEZ, C.; NOGUEIRAS, R.; RAHMOUNI, K.; TENASEMPERE, M.; LÓPEZ, M. Paper Machine Quality Control Systems - Volume 1:
+Measurement Systems and Product Variability. Cell Metabolism, 2014. Disponível
+em:
+
+<http://www.tappi.org/Bookstore/Books--CD-ROMs/Books/Papermaking/Paper-
+
+Machine-Quality-Control-Systems---Volume-1-Measuremen.aspx>.
+MAUVAIS-JARVIS, F. Estrogen and androgen receptors: regulators of fuel
+homeostasis and
+
+emerging targets
+
+for diabetes and
+
+obesity.
+
+Trends
+
+in
+
+Endocrinology and Metabolism, v. 22, n. 1, p. 24–33, 2011. Disponível em:
+<http://dx.doi.org/10.1016/j.tem.2010.10.002>.
+MAUVAIS-JARVIS, F.; CLEGG, D. J.; HEVENER, A. L. The role of estrogens in control
+of energy balance and glucose homeostasis. Endocrine Reviews, v. 34, n. 3, p. 309–
+
+49
+338, 2013. Disponível em: <http://dx.doi.org/10.1210/er.2012-1055>.
+MAYES, J. S.; WATSON, G. H. Direct effects of sex steroid hormones on adipose
+tissues and obesity. Obesity Reviews, v. 5, n. 4, p. 197–216, 2004.
+MEDZHITOV, R. Origin and physiological roles of inflammation. Nature, v. 454, n.
+7203, p. 428–435, 2008.
+NIADA, S.; GIANNASI, C.; FERREIRA, L. M.; MILANI, A.; ARRIGONI, E.; BRINI, A. T.
+17beta-estradiol differently affects osteogenic differentiation of mesenchymal
+stem/stromal cells from adipose tissue and bone marrow. Differentiation, v. 92, n. 5,
+p. 291–297, 2016. Disponível em: <http://dx.doi.org/10.1016/j.diff.2016.04.001>.
+PACIFICI, R. Role of T cells in ovariectomy induced bone loss-revisited. Journal of
+Bone and Mineral Research, v. 27, n. 2, p. 231–239, 2012.
+PALLOTTINI, V.; BULZOMI, P.; GALLUZZO, P.; MARTINI, C.; MARINO, M. Estrogen
+Regulation of Adipose Tissue Functions: Involvement of Estrogen Receptor Isoforms.
+Infectious Disorders -Drug Targets, v. 8, p. 52–60, 2008.
+PANTOULI, E.; BOEHM, M. M.; KOKA, S. Inflammatory cytokines activate p38 MAPK
+to induce osteoprotegerin synthesis by MG-63 cells. Biochemical and Biophysical
+Research Communications, v. 329, n. 1, p. 224–229, 2005. Disponível em:
+<http://dx.doi.org/10.1016/j.bbrc.2005.01.122>.
+PÉREZ DE CIRIZA, C.; LAWRIE, A.; VARO, N. Osteoprotegerin in cardiometabolic
+disorders. International Journal of Endocrinology, v. 2015, 2015.
+PHETFONG, J.; SANVORANART, T.; NARTPRAYUT, K.; NIMSANOR, N.;
+SEENPRACHAWONG,
+
+K.;
+
+PRACHAYASITTIKUL,
+
+V.;
+
+SUPOKAWEJ,
+
+A.
+
+Osteoporosis: the current status of mesenchymal stem cell-based therapy. Cellular &
+Molecular Biology Letters, v.
+
+21, n.
+
+1,
+
+p.
+
+12, 2016.
+
+Disponível em:
+
+<http://cmbl.biomedcentral.com/articles/10.1186/s11658-016-0013-1>.
+RAISZ, L. G. Science in medicine Pathogenesis of osteoporosis : concepts , conflicts
+, and prospects. The Journal of Clinical Investigation, v. 115, n. 12, 2005.
+ROSEN, E. D.; SPIEGELMAN, B. M. Review What We Talk About When We Talk
+About
+
+Fat.
+
+Cell,
+
+v.
+
+156,
+
+n.
+
+1–2,
+
+p.
+
+20–44,
+
+2013.
+
+Disponível
+
+em:
+
+50
+<http://dx.doi.org/10.1016/j.cell.2013.12.012>.
+SEALE,
+
+P.
+
+Transcriptional
+
+control
+
+of
+
+brown
+
+adipocyte
+
+development
+
+and
+
+thermogenesis. International Journal of Obesity, v. 34, n. S1, p. S17–S22, 2010.
+Disponível em: <http://dx.doi.org/10.1038/ijo.2010.178>.
+SUYAMA, S.; LEI, W.; KUBOTA, N.; KADOWAKI, T.; YADA, T. Adiponectin at
+physiological level glucose-independently enhances inhibitory postsynaptic current
+onto NPY neurons in the hypothalamic arcuate nucleus. Neuropeptides, v. 65, n.
+January, p. 1–9, 2017. Disponível em: <http://dx.doi.org/10.1016/j.npep.2017.03.003>.
+TAKESHITA, S.; FUMOTO, T.; NAOE, Y.; IKEDA, K. Age-related marrow
+adipogenesis is linked to increased expression of RANKL. Journal of Biological
+Chemistry, v. 289, n. 24, p. 16699–16710, 2014.
+TIMPER, K.; BRÜNING, J. C. Hypothalamic circuits regulating appetite and energy
+homeostasis: pathways to obesity. Disease Models & Mechanisms, v. 10, n. 6, p.
+679–689,
+
+2017.
+
+Disponível
+
+em:
+
+<http://dmm.biologists.org/lookup/doi/10.1242/dmm.026609>.
+UGUR-ALTUN, B.; ALTUN, A. Circulating Leptin and Osteoprotegerin Levels Affect
+Insulin Resistance in Healthy Premenopausal Obese Women 1. Archives of Medical
+Research, v. 38, 2007.
+WANG, Q. P.; YANG, L.; LI, X. P.; XIE, H.; LIAO, E. Y.; WANG, M.; LUO, X. H. Effects
+of 17beta-estradiol on adiponectin regulation of the expression of osteoprotegerin and
+receptor activator of nuclear factor-kappaB ligand. Bone, v. 51, n. 3, p. 515–523, 2012.
+Disponível em: <http://dx.doi.org/10.1016/j.bone.2012.05.011>.
+XU, Y.; NEDUNGADI, T. P.; ZHU, L.; SOBHANI, N.; IRANI, B. G.; DAVIS, K. E.;
+ZHANG, X.; ZOU, F.; GENT, L. M.; HAHNER, L. D.; KHAN, S. A.; ELIAS, C. F.;
+ELMQUIST, J. K.; CLEGG, D. J. Distinct hypothalamic neurons mediate estrogenic
+effects on energy homeostasis and reproduction. Cell Metabolism, v. 14, n. 4, p. 453–
+465, 2011. Disponível em: <http://dx.doi.org/10.1016/j.cmet.2011.08.009>.
+ZHANG, L.; LIU, M.; ZHOU, X.; LIU, Y.; JING, B.; WANG, Xi.; ZHANG, Q.; SUN, Y.
+Role of Osteoprotegerin ( OPG ) in Bone Marrow Adipogenesis. Cellular Physiology
+and Biochemistry, v. 200072, p. 681–692, 2016.
+
+

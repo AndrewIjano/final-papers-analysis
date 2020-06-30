@@ -1,0 +1,2436 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+
+Síntese de um intermediário 4-bromoindólico, visando à síntese total do ácido
+lisérgico e alcaloides ergolínicos
+
+Lucas Giani Furniel
+
+Orientador: Prof. Dr. Antonio Carlos Bender Burtoloso
+
+Monografia apresentada ao Instituto de
+Química de São Carlos, da Universidade
+de São Paulo, como requisito para
+obtenção do título de Bacharel em
+Química com opção Fundamental.
+
+São Carlos, dezembro de 2017
+10
+
+Agradecimentos
+
+Gostaria de agradecer à minha família, principalmente a meus pais Claudio e
+Fernanda,
+
+por
+
+me
+
+educarem,
+
+me
+
+incentivarem,
+
+por
+
+demonstrarem
+
+amor
+
+incondicional e por sempre se esforçarem para que eu tivesse uma boa educação.
+Só cheguei até aqui por causa do apoio deles.
+Agradeço a minha namorada Ana, minha companheira neste desafio, por
+estar sempre ao meu lado me incentivando, por me proporcionar tantos momentos
+felizes e por me ensinar tanto. A graduação foi muito menos difícil por causa dela.
+Agradeço aos meus amigos da graduação, pelos bons momentos, noites de
+pôquer, festas e rolês ao longo destes 5 anos.
+Agradeço a todos os professores que tive na minha vida, pois sei que o
+empenho deles fez a diferença no meu aprendizado e formação como pessoa.
+Agradeço aos funcionários da biblioteca, do serviço de graduação do IQSC e
+principalmente aos funcionários da CAQI, Sylvana e André, pelas análises de RMN.
+Agradeço aos companheiros de luta do laboratório “Warner Bruce Kover”:
+João Pedro, João Victor, Pati Momo, Bruna, Bárbara, Camilinha, Meire, Evandro,
+Gustavo, Rafa Gallo, Alexander, Edsito, Anees, Clarice, João Henrique, Grazi, Rafa
+Mafra, Nikolas, Marília, Lari, Eduardo e Tharik pelos conselhos, pelas discussões de
+química, pela ajuda e por fazerem do ambiente de trabalho minha segunda casa.
+Agradeço em especial ao Anees, pelos ensinamentos e pela paciência durante a
+minha coorientação.
+Agradeço ao professor Antonio pela oportunidade de trabalhar em seu grupo,
+pela orientação, por estar sempre presente e interessado no nosso trabalho e por
+nos incentivar a crescer como cientistas, sem nos esquecer dos princípios éticos.
+Agradeço à Fundação de Amparo a Pesquisa do Estado de São Paulo
+(FAPESP) pela concessão da bolsa de iniciação científica (2016/18817-1) e pelo
+suporte financeiro aos projetos do grupo.
+Agradeço aos professores Antonio Aprigio da Silva Curvelo e André Luiz
+Meleiro Porto por aceitarem compor a banca examinadora desta monografia e por
+terem feito parte da minha formação acadêmica.
+Agradeço, por fim, a todos que de alguma forma me ajudaram a começar a
+realizar meu sonho.
+11
+
+“Um trabalho te dá um propósito e um
+significado. A vida é vazia sem
+ambos.”
+Stephen Hawking
+
+12
+
+Lista de Figuras
+Figura 1. Definições de “Alcaloide” desde 1819. .................................................................. 11
+Figura 2. Estrutura da ergolina - núcleo tetracíclico dos alcaloides ergolínicos. ................... 13
+Figura 3. Estrutura do ácido D-(+)-lisérgico.......................................................................... 17
+Figura 4. Mecanismo proposto para a reação XEC entre haletos de alquila e haletos de arila.
+............................................................................................................................................ 20
+Figura 5. Mecanismo para a reação de formação do núcleo indólico. .................................. 22
+Figura 6. Expansão 1 do espectro de RMN-1H (500 MHz, CDCl3) do composto 14. ............ 23
+Figura 7. Expansão 2 do espectro de RMN-1H (500 MHz, CDCl3) do composto 14. ............ 24
+Figura 8. Mecanismo para a reação do tipo Appel. .............................................................. 25
+Figura 9. Expansão do espectro de RMN-1H de 5................................................................ 26
+Figura 10. Expansão do espectro de RMN-1H de 17. ........................................................... 26
+Figura 11. Ciclo catalítico geral para a reação de acoplamento cruzado de Negishi. ........... 31
+Figura 12. Mecanismo da reação de Mitsunobu intramolecular para a formação da aziridina
+36. ....................................................................................................................................... 35
+Figura 13. Expansão 1 do espectro de RMN-1H de 9. .......................................................... 36
+Figura 14. Expansão 2 do espectro de RMN-1H de 9. ......................................................... 36
+Figura 15. Espectro de RMN-1H (500 MHz, CDCl3) do composto 8. .................................... 61
+Figura 16. Espectro de RMN-13C (125 MHz, CDCl3) do composto 8. ................................... 62
+Figura 17. Espectro no IV de 8. ........................................................................................... 63
+Figura 18. RMN-1H (500 MHz, CDCl3) do composto 14. ...................................................... 64
+Figura 19. RMN-13C (125 MHz, CDCl3) do composto 14. ..................................................... 65
+Figura 20. Espectro no IV de 14........................................................................................... 66
+Figura 21. RMN-1H (500 MHz, CDCl3) do composto 17. ...................................................... 67
+Figura 22. RMN-1H (500 MHz, CDCl3) do composto 5. ........................................................ 68
+Figura 23. RMN-13C (100 MHz, CDCl3) do composto 5. ....................................................... 69
+Figura 24. Espectro no IV de 5. ........................................................................................... 70
+Figura 25. RMN-1H (500 MHz, CDCl3) do composto 20. ...................................................... 71
+Figura 26. RMN-13C (100 MHz, CDCl3) do composto 20. ..................................................... 72
+Figura 27. Espectro no IV de 20........................................................................................... 73
+Figura 28. RMN-1H (500 MHz, CDCl3) do composto 21. ...................................................... 74
+Figura 29. RMN-13C (125 MHz, CDCl3) do composto 21. ..................................................... 75
+Figura 30. Espectro no IV de 21........................................................................................... 76
+Figura 31. RMN-1H (500 MHz, CDCl3) do composto 22. ...................................................... 77
+Figura 32. RMN-13C (125 MHz, CDCl3) do composto 22. ..................................................... 78
+Figura 33. Espectro no IV de 22........................................................................................... 79
+Figura 34. RMN-1H (500 MHz, CDCl3) do composto 4. ........................................................ 80
+Figura 35. RMN-13C (125 MHz, CDCl3) do composto 4. ....................................................... 81
+Figura 36. Espectro no IV de 4. ........................................................................................... 82
+Figura 37. RMN-1H (500 MHz, CDCl3) do composto 23. ...................................................... 83
+Figura 38. RMN-13C (125 MHz, CDCl3) do composto 23. ..................................................... 84
+Figura 39. Espectro no IV de 23........................................................................................... 85
+Figura 40. RMN-1H (400 MHz, CDCl3) do composto 27. ...................................................... 86
+Figura 41. Espectro no IV de 27........................................................................................... 87
+Figura 42. RMN-1H (400 MHz, CDCl3) do composto 28. ...................................................... 88
+Figura 43. Espectro no IV de 28........................................................................................... 89
+Figura 44. RMN-1H (500 MHz, CDCl3) do composto 29. ...................................................... 90
+13
+
+Figura 45. RMN-13C (126 MHz, CDCl3) do composto 29. ..................................................... 91
+Figura 46. Espectro no IV de 29........................................................................................... 92
+Figura 47. RMN-1H (500 MHz, CDCl3) do composto 35. ...................................................... 93
+Figura 48. RMN-13C (101 MHz, CDCl3) do composto 35. ..................................................... 94
+Figura 49. Espectro no IV de 35........................................................................................... 95
+Figura 50. RMN-1H (500 MHz, CDCl3) do composto 9. ........................................................ 96
+Figura 51. RMN-13C (126 MHz, CDCl3) do composto 9. ..................................................... 97
+Figura 52. Espectro no IV de 9. ........................................................................................... 98
+Figura 53. RMN-1H (500 MHz, CDCl3) do composto 36. ...................................................... 99
+Figura 54. RMN-13C (101 MHz, CDCl3) do composto 36. ................................................... 100
+Figura 55. Espectro no IV de 36......................................................................................... 101
+Figura 56. RMN-1H (400 MHz, CDCl3) do composto 37. .................................................... 102
+Figura 57. RMN-13C (101 MHz, CDCl3) do composto 37. ................................................... 103
+Figura 58. Espectro no IV de 37......................................................................................... 104
+Figura 59. RMN-1H (400 MHz, CDCl3) do composto 38. .................................................... 105
+Figura 60. RMN-13C (100 MHz, CDCl3) do composto 38. ................................................... 106
+Figura 61. Espectro no IV de 38......................................................................................... 107
+
+14
+
+Lista de Tabelas
+Tabela 1. Classificação de alguns tipos de alcaloides de acordo com a estrutura de seu
+heterocíclico nitrogenado. .................................................................................................... 12
+Tabela 2. Classificação dos alcaloides ergolínicos. ............................................................. 13
+Tabela 3. Metodologias descritas para a síntese de derivados dos 4-bromo ou 4iodotriptofanos. .................................................................................................................... 14
+Tabela 4. Resultados da primeira tentativa de acoplamento utilizando a rota A. .................. 27
+Tabela 5. Resultados da segunda tentativa de acoplamento utilizando a rota A. ................. 30
+Tabela 6. Resultados obtidos com a segunda tentativa de acoplamento utilizando a rota B.33
+
+15
+
+Lista de Esquemas
+Esquema 1. Intermediário indólico 1 proposto. .................................................................... 18
+Esquema 2. Intermediário indólico-piperidínico sintetizado por nosso grupo. ...................... 18
+Esquema 3. Análise retrossintética para a síntese do intermediário 1. ................................ 19
+Esquema 4. Rota sintética proposta para construção do indol 14. ....................................... 21
+Esquema 5. Rota sintética utilizada para construção do iodeto 5, derivado da L-serina. ..... 25
+Esquema 6. Rota sintética utilizada para construção do iodeto 4, derivado da L-serina. ..... 28
+Esquema 7. Rota sintética utilizada para construção do indol protegido com Boc. .............. 29
+Esquema 8. Reação descrita na Tabela 5 na ausência de 23.............................................. 30
+Esquema 9. Síntese do 3-iodo-N-tosilindol. ......................................................................... 32
+Esquema 10. Reação teste de acoplamento cruzado de Negishi. ....................................... 32
+Esquema 11. Síntese do indol 29. ...................................................................................... 32
+Esquema 12. Primeira tentativa com a reação de acoplamento de Negishi (rota B). ........... 32
+Esquema 13. Síntese da aziridina 36. .................................................................................. 34
+Esquema 14. Reação de abertura de da aziridina 9 e reações de proteção/desproteção
+subsequentes. ..................................................................................................................... 37
+
+16
+
+Lista de abreviaturas, símbolos e siglas
+Abreviatura
+
+Descrição
+
+IUPAC
+eq
+
+União Internacional de Química Pura e Aplicada
+equivalente
+
+Boc
+
+terc-butoxicarbonil
+
+DMAP
+
+4-dimetilaminopiridina
+
+DMF
+
+N,N-dimetilformamida
+
+THF
+
+tetraidrofurano
+
+CCD
+
+cromatografia em camada delgada
+
+TMSCl
+
+cloreto de trimetilsilano
+
+RMN
+
+Ressonância Magnética Nuclear
+
+ppm
+
+partes por milhão
+
+m
+
+multipleto
+
+t
+
+tripleto
+
+d
+
+dubleto
+
+dd
+
+duplo-dubleto
+
+s
+
+singleto
+
+Hz
+
+Hertz
+
+J
+
+constante de acoplamento
+
+δ
+
+deslocamento químico (ppm)
+
+IV
+
+Infravermelho
+
+MeOH
+
+metanol
+
+COD
+
+1,5-ciclooctadieno
+
+OTf
+
+triflato
+
+Ac
+
+acetil
+
+AcOEt
+
+acetato de etila
+
+ee
+
+excesso enantiomérico
+
+dr
+
+razão diastereisomérica
+
+CTF
+
+catalisador de transferência de fase
+
+TBAF
+
+fluoreto de tetrabutilamônio
+
+AcOH
+
+acido acético
+
+DIAD
+
+diisopropil azodicarboxilato
+
+1,2-DCE
+
+1,2-dicloroetano
+
+DMPU
+
+1,3-Dimetil-3,4,5,6-tetraidro-2(1H)-pirimidinona
+
+CbzCl
+
+cloroformato de benzila
+
+TBDPSCl
+
+cloreto de terc-butildifenilsilil
+
+DBE
+
+1,2-dibromoetano
+
+17
+
+Resumo
+Este trabalho teve por objetivo a síntese do intermediário 4-bromoindólico 1,
+derivado do triptofano, que poderá ser empregado na síntese total do ácido lisérgico
+e derivados. Foram avaliadas 3 estratégias para a síntese deste intermediário. A
+primeira estratégia consistiu no acoplamento cruzado entre carbonos eletrofílicos
+catalisado por complexos de Ni, tendo como substratos os 3,4-dihaloindois e iodetos
+derivados da L-serina. Os substratos indólicos 1-acetil-3-iodo-4-bromoindol e 1-(tercbutoxicarbonil)-3-iodo-4-bromoindol foram preparados a partir do bloco de
+construção 2-metil-3-nitroanilina comercialmente disponível, com os rendimentos
+globais de 8% (5 etapas) e 32% (5 etapas). Já os derivados da serina (R)-2-((tercbutoxicarbonil)amino)-3-iodopropanoato
+
+de
+
+metila
+
+e
+
+(R)-benzil(1-((terc-
+
+butildifenilsilil)oxi)-3-iodopropan-2-il)carbamato foram preparados a partir da L-serina
+com rendimentos de 46% (3 etapas) e 36 % (5 etapas), respectivamente. A primeira
+estratégia foi estudada e não foi possível obter o produto de acoplamento,
+observando-se apenas degradação parcial dos materiais de partida. A segunda
+estratégia consistiu no emprego da reação de acoplamento cruzado de Negishi,
+tendo como substratos os derivados iodados da L-serina previamente descritos e 1tosil-3-iodo-4-bromoindol, preparado em duas etapas a partir do 4-bromoindol. Esta
+estratégia também não se mostrou bem sucedida, havendo apenas formação de
+produtos de acoplamento duplo. A última estratégia baseou-se na reação de
+abertura
+
+da
+
+aziridina
+
+terc-butil-2-(((terc-butildimetilsilil)oxi)metil)aziridina-1-
+
+carboxilato, derivada da DL-serina, promovida pelo ânion do 4-bromoindol. Com esta
+estratégia foi possível obter o intermediário desejado, com um rendimento de 55%
+nesta etapa chave.
+
+18
+
+Sumário
+1
+
+Introdução .................................................................................................................................... 11
+1.1.
+
+Definição de alcaloide ......................................................................................................... 11
+
+1.2.
+
+Classificação dos alcaloides .............................................................................................. 11
+
+1.3.
+
+Alcaloides ergolínicos ......................................................................................................... 12
+
+1.4.
+
+Ácido Lisérgico .................................................................................................................... 17
+
+2
+
+Objetivos ...................................................................................................................................... 19
+
+3
+
+Resultados e discussão ............................................................................................................. 20
+
+4
+
+Conclusões .................................................................................................................................. 38
+
+5
+
+Parte experimental ...................................................................................................................... 39
+5.1.
+
+4-bromoindol (8) ................................................................................................................... 39
+
+5.2.
+
+1-acetil-4-bromoindol (14) ................................................................................................... 41
+
+5.3.
+
+Hidrocloreto de (S)-2-amino-3-hidroxipropanoato de metila (16) ................................... 42
+
+5.4.
+
+(S)-2-((terc-butoxicarbonil)amino)-3-hidroxipropanoato de metila (17) ......................... 42
+
+5.5.
+
+(R)-2-((terc-butoxicarbonil)amino)-3-iodopropanoato de metila (5) ............................... 43
+
+5.6.
+
+(S)-2-(((benziloxi)carbonil)amino)-3-hidroxipropanoato de metila (20) .......................... 43
+
+5.7.
+
+(S)-2-(((benziloxi)carbonil)amino)-3-((terc-butildifenilsilil)oxi)propanoato de metila (21)
+44
+
+5.8.
+
+(R)-benzil(1-((terc-butildifenilsilil)oxi)-3-hidroxipropan-2-il)carbamato (22) .................. 45
+
+5.9.
+
+(S)-benzil(1-((terc-butildifenilsilil)oxi)-3-iodopropan-2-il)carbamato (4) ........................ 46
+
+5.10. 1-(terc-butoxicarbonil)-3-iodo-4-bromoindol (23) ............................................................. 46
+5.11. Procedimento geral para as reações de acoplamento descritas nas Tabelas 4 e 5. .... 47
+5.12. 3-iodo-1-tosil-indol (27) ....................................................................................................... 48
+5.13. (S)-2-((tert-butoxicarbonil)amino)-3-(1-tosil-indol-3-il)propanoato de metila (28)......... 48
+5.14. 4-bromo-3-iodo-1-tosilindol (29) ......................................................................................... 49
+5.15. Procedimento geral para as reações de acoplamento de Negishi descritas na Tabela 6.
+50
+5.16. (±)-terc-butil-(1-((terc-butildimetilsilil)oxi)-3-hidroxipropan-2-il)carbamato (35) ........... 51
+5.17. (±)-terc-butil-2-(((terc-butildimetilsilil)oxi)metil)aziridina-1-carboxilato (9) .................... 52
+5.18. (±)-terc-butil(1-(4-bromo-1H-indol-3-il)-3-((terc-butildimetilsilil)oxi)propan-2il)carbamato (36) .............................................................................................................................. 53
+5.19. (±)-terc-butil(1-(4-bromo-1-tosilindol-3-il)-3-((terc-butildimetilsilil)oxi)propan-2il)carbamato (37) .............................................................................................................................. 53
+5.20. (±)-terc-butil(1-(4-bromo-1-tosil-indol-3-il)-3-hidroxipropan-2-il)carbamato (38) .......... 54
+6
+
+Referências bibliográficas .......................................................................................................... 56
+
+7
+
+Seção de espectros ..................................................................................................................... 61
+
+19
+
+1 Introdução
+1.1.
+
+Definição de alcaloide
+
+Ao longo dos anos, a definição de “alcaloide” foi alvo de debate, uma vez que,
+desde 1819, várias definições foram propostas por diversos pesquisadores 1, como
+apresentado na Figura 1.
+Figura 1. Definições de “Alcaloide” desde 1819.
+
+Em 1995, a IUPAC sugeriu a seguinte definição para o termo “Alcaloide”: “Os
+alcaloides são compostos básicos nitrogenados (na maior parte heterocíclicos) de
+maior ocorrência no reino vegetal (mas também existem de origem animal).
+Aminoácidos, peptídeos, nucleotídeos, ácidos nucleicos, amino açúcares e
+antibióticos não são normalmente classificados como alcaloides. Ainda existem
+alguns compostos neutros relacionados biogeneticamente com alcaloides que
+também são classificados como tal”2.
+O isolamento de grande parte dos alcaloides é facilitado devido a este caráter
+básico, uma vez que se torna possível a formação de sais solúveis em água com
+seu tratamento com ácidos minerais3.
+1.2.
+
+Classificação dos alcaloides
+
+Até o presente momento mais de 10000 alcaloides foram isolados, fazendo
+com que a tarefa de classificá-los não seja simples1. Os alcaloides são
+costumeiramente classificados de acordo com a estrutura que contém o ou um dos
+átomos de nitrogênio3, como mostra a Tabela 1. Porém, com a complexidade
+estrutural de alguns alcaloides, surgiram algumas subdivisões desta classificação
+geral.
+
+11
+
+Tabela 1. Classificação de alguns tipos de alcaloides de acordo com a estrutura de seu heterocíclico
+nitrogenado.
+
+Tipo de Alcaloide
+
+Esqueleto
+
+Exemplo
+
+Pirrolidínico
+Pirrolidina
+(+)-Preussina
+
+Indólico
+Indol
+Paspalicina
+
+Piperidínico
+Piperidina
+
+(-)-Lobelina
+
+Fonte: HESSE, M. Alkaloids: Nature’s curse or blessing, 2002.
+
+Também existe a classificação de alcaloides de acordo com seu aminoácido
+precursor, que por vezes tem sua estrutura retida de maneira intacta ou pouco
+modificada na estrutura final do alcaloide. Os principais aminoácidos envolvidos na
+biossíntese de alcaloides são: ornitina, lisina, ácido nicotínico, triptofano, ácido
+antranílico e histidina3.
+
+1.3.
+
+Alcaloides ergolínicos
+
+Os alcaloides ergolínicos são compostos indólicos, biossintetizados a partir do
+L-triptofano,
+
+que apresentam um núcleo tetracíclico correlacionado estruturalmente a
+
+ergolina3, como explicitado na Figura 2.
+
+12
+
+Figura 2. Estrutura da ergolina - núcleo tetracíclico dos alcaloides ergolínicos.
+
+Essa classe de alcaloides representa o maior grupo de metabólitos
+nitrogenados derivados de fungos. Mais de 80 tipos de alcaloides ergolínicos foram
+isolados, sendo os fungos do gênero Claviceps a fonte principal destes4,5.
+Os alcaloides ergolínicos são classificados em três grupos, como mostra a
+Tabela 2.
+Tabela 2. Classificação dos alcaloides ergolínicos.
+
+Tipo de alcaloide
+ergolínico
+
+Característica
+estrutural
+
+Característica
+medicinal
+
+Clavinas
+
+6,8-dimetilergolinas
+
+Não têm uso
+medicinal
+
+Exemplo
+representativo
+
+agroclavina
+
+Ácido Lisérgico e suas
+amidas
+
+Ligação amida – no
+máximo tripeptídeos
+
+Alta atividade
+farmacológia e
+utilizados
+medicinalmente
+ergonovina
+
+Ergopeptídeos
+
+Ligação amida –
+tetrapeptídeos a
+peptídeos superiores
+
+Ergotamina e
+derivados
+semissintéticos
+são empregados
+medicinalmente
+ergotamina
+
+Fonte: American Journal of Pharmaceutical Education, v. 70, n. 5, Article 98, 2006.
+
+13
+
+A partir do século XX os alcaloides ergolínicos demonstraram relevância na
+indústria farmacêutica. Por terem como característica a interação com diferentes
+receptores do sistema nervoso central, esta classe de alcaloides, sejam os
+representantes de ocorrência natural ou seus derivados semissintéticos, são usados
+extensamente na medicina moderna4,5. Os alcaloides ergolínicos apresentam como
+atividades biológicas: atividade uterotônica (indução de parto e diminuição de
+hemorragias)3, modulação da pressão sanguínea, controle da secreção de
+hormônios hipofisários, prevenção de enxaqueca, atividades dopaminérgicas e
+neurolépticas4,5.
+Dentre
+
+os
+
+alcaloides
+
+desta
+
+classe
+
+que
+
+são
+
+utilizados
+
+hoje
+
+como
+
+medicamentos, destacam-se: Ergonovina (Ergotrate, Eli Lilly and Co.), indicado para
+estimulação
+
+da
+
+musculatura
+
+uterina;
+
+Diidroergotamina
+
+(Migranal,
+
+Xcel
+
+Pharmaceuticals), indicado para o tratamento de enxaqueca e outros tipos de dores
+de cabeça; Bromocriptina (Parlodel, Sandoz Pharmaceuticals), indicado para o
+tratamento da secreção descontrolada de hormônios hipofiários e para o tratamento
+da doença de Parkinson em estágios iniciais4,5.
+Devido a estas características, a síntese de 4-halotriptofanos (com halogênio
+= Br ou I) é de grande importância visando seu uso como intermediário inicial na
+síntese dos alcaloides ergolínicos. Entretanto, vários dos métodos descritos na
+literatura apresentam limitações, especialmente quando se necessita de 4halotriptofanos enantiomericamente enriquecidos. Os procedimentos encontrados na
+literatura para a síntese deste tipo de núcleo estão detalhados na Tabela 3.
+Tabela 3. Metodologias descritas para a síntese de derivados dos 4-bromo ou 4-iodotriptofanos.
+Nº
+
+Reação
+
+Referência
+
+1
+
+J. Org.
+Chem., v.
+59, n. 16, p.
+4418-4423,
+1994
+
+2
+
+Tetrahedron
+Letters, v.
+41, p. 68976900, 2000
+
+14
+
+3
+
+Tetrahedron
+, v. 67, p.
+8515-8528,
+2011
+
+4
+
+Tetrahedron
+Letters, v.
+37,
+n. 52, p.
+9309-9312,
+1996
+
+5
+
+Organic
+Letters, v.
+12, n. 9, p.
+2162-2165,
+2010
+
+6
+
+J. Org.
+Chem., v.
+60, n. 6, p.
+1486-1487,
+1995 e Org.
+Lett., v. 12,
+No. 11
+p. 26102613, 2010
+
+7
+
+J. Org.
+Chem., v.
+78, p. 77277734, 2013
+
+8
+
+Eur. J. Org.
+Chem., n. 6,
+p. 12441253, 2004
+
+9
+
+Org. Lett., v.
+16, p. 26222625, 2014
+
+15
+
+10
+
+J. Org.
+Chem., v.
+72, p. 81158118, 2007
+
+11
+
+Tetrahedron
+, v. 71, n.
+23, p. 38333837, 2015
+
+Obs: CTF =
+
+Observando a Tabela 3, nota-se que os métodos de 1 e 2 baseiam-se na
+hidrogenação de um intermediário 4-bromodeidrotriptofano, resultando portanto em
+produtos racêmicos6,7. Já o método nº 3 consiste em uma reação de adição de
+Michael em um 4-bromodeidrotriptofano, também resultando em um produto
+racêmico8. As metodologias 4, 5 e 6, por outro lado, permitem acesso a produtos
+enantiomericamente enriquecidos via reação de hidrogenação assimétrica9-12.
+Porém, estas fazem uso de catalisadores de ródio e fosfinas quirais como ligantes,
+ambos de custo elevado, tornando seu emprego em reações de larga escala
+dificultado.
+A metodologia 7, baseia-se um uma reação de adição de Michael catalisada
+por ácido de Lewis, porém resulta em uma mistura racêmica13. As metodologias 8 e
+9, também dão acesso a 4-bromotriptofanos enantiomericamente enriquecidos, via
+catálise enzimática14,15. Entretanto, o produto da metodologia 8 tem etapa de
+purificação problemática, necessitando de fase estacionária de alto custo, sendo que
+o produto puro somente pode ser obtidos em purificações em pequena escala 14. Já a
+16
+
+metodologia 9 exibe um rendimento muito baixo, inviabilizando sua utilização 15. A
+metodologia 10 baseia-se numa reação de alquilação catalisada por um catalisador
+de transferência de fase quiral16. Apesar de ser uma metodologia eficiente, este
+catalisador também apresenta alto custo. A metodologia 11, que consiste em uma
+reação de abertura de aziridina quiral, é a alternativa mais simples para a obtenção
+de 4-bromotriptofanos, já que esta não necessita de reagentes caros e pode ser
+realizada em escala multigrama sem que haja decréscimo no rendimento 17.
+Vale ressaltar que em um trabalho de síntese total é muito vantajoso e
+interessante que os intermediários iniciais da síntese possam ser obtidos em
+grandes quantidades sem que seja necessário o uso de reagentes de alto custo,
+uma vez que serão necessárias várias transformações até a obtenção do produto
+final e, portanto, haverá o consumo de grande quantidade desses.
+
+1.4.
+
+Ácido Lisérgico
+
+O acido lisérgico é um membro dos alcaloides ergolínicos. Sua estrutura está
+representada na Figura 3.
+Figura 3. Estrutura do ácido D-(+)-lisérgico.
+
+O ácido lisérgico foi isolado do fungo Claviceps purpurea, tendo sua estrutura
+caraterizada em 1949. Após sua caracterização, vários foram conduzidos com o
+objetivo de sintetizar seus derivados, visando os usos destes no combate a diversas
+doenças3-5,18. A biossíntese do ácido lisérgico também foi investigada, uma vez que
+sua elucidação poderia permitir a elaboração de rotas sintéticas biomiméticas.
+Devido às atividades farmacológicas anteriormente citadas, vários grupos de
+pesquisa desenvolveram sínteses totais do ácido lisérgico, utilizando estratégias
+diversas, desde 1956 até 2017. Atualmente, são 13 sínteses totais descritas na
+literatura18-30.
+17
+
+Devido a importância e gama de aplicações dos alcaloides ergolínicos, em
+especial do ácido lisérgico, propõe-se a síntese de um intermediário indólico 1 que
+poderá ser empregado na síntese do esqueleto tetracíclico e posteriormente na
+síntese total do ácido lisérgico e derivados, como apresenta o Esquema 1.
+Esquema 1. Intermediário indólico 1 proposto.
+
+Vale ressaltar que o intermediário indólico-piperidínico 2 (Esquema 2), sem a
+presença do halogênio na posição 4 do núcleo indol e similar ao apresentado acima,
+já foi sintetizado por nosso grupo via metodologia inédita de construção do anel D 31.
+Essa metodologia baseia-se na química das diazocetonas α,β-insaturadas,
+plenamente estudas em nosso grupo32-34.
+Esquema 2. Intermediário indólico-piperidínico sintetizado por nosso grupo.
+
+18
+
+2 Objetivos
+Avaliar 3 rotas que se baseiam no acoplamento entre derivados da serina e
+um núcleo indólico halogenado para realizar a construção do intermediário indólico
+bromado 1. As estratégias para a realização destes acoplamentos têm como
+princípios: a reação de acoplamento cruzado entre carbonos eletrofílicos (A), reação
+de acoplamento de Negishi (B) e reação de abertura de aziridina (C), como
+apresentado no Esquema 3.
+Esquema 3. Análise retrossintética para a síntese do intermediário 1.
+
+19
+
+3 Resultados e discussão
+A primeira estratégia estudada foi a rota A (esquema 3, vide objetivos), que
+envolve o acoplamento cruzado entre carbonos eletrofílicos (XEC – cross
+electrophile coupling) empregando-se complexos de Ni, uma vez que esta
+metodologia apresenta um maior grau de ineditismo que as outras duas rotas35-39.
+Esta metodologia foi e está sendo estudada em detalhes por WEIX e seu
+grupo35-38. O mecanismo, apresentado na Figura 4, proposto após diversos estudos
+cinéticos, está baseado na diferença de reatividade entre haletos de arila e haletos
+de alquila frente à adição oxidativa ao catalisador de níquel e na distinta propensão
+a formação de intermediários radicalares36-38.
+Figura 4. Mecanismo proposto para a reação XEC entre haletos de alquila e haletos de arila.
+
+Adaptado de: Journal of American Chemical Society, v. 135, p. 16192-16197, 2013.
+
+Como apresentado na Figura 4, o ciclo catalítico se inicia com a redução do
+Ni2+ para Ni0 pela ação do agente redutor (neste caso o Mn0). Em seguida, ocorre a
+adição oxidativa do haleto de arila ao complexo de Ni0, seguida pela inserção do
+radical Csp3 previamente formado em outro centro de níquel. Por fim, ocorre a
+eliminação redutiva, formando a ligação Csp2-Csp3 do produto e regenerando em
+sequência o catalisador de Ni2+, que pode ser novamente reduzido a Ni0, iniciando
+um novo ciclo catalítico36.
+20
+
+As razões que garantem a seletividade na reação são: maior facilidade de
+adição oxidativa das ligações Csp2-X frente ao níquel e a maior de tendência de
+formação de radicais de carbonos sp3 em comparação a radicais Csp2 (mais
+instáveis)36.
+Para os primeiros testes frente às condições de acoplamento, foram
+sintetizados o indol 14 e o iodeto derivado da L-serina 5. O grupo de proteção acetil
+foi o escolhido para o 3-iodo-4-bromoindol, pois ele foi empregado por Weix et al no
+acoplamento entre o N-acetil-5-bromoindol e iodoctano nas condições que foram
+empregadas no presente trabalho35.
+Para a síntese do indol 14, utilizou-se a rota sintética descrita no Esquema 4,
+partindo-se de 2-metil-3-nitroanilina, obtendo-se um rendimento global de 8%. Até a
+formação do composto 8, foi utilizado procedimento empregado por Nicolaou et al40.
+Esquema 4. Rota sintética proposta para construção do indol 14.
+
+A primeira reação envolveu a formação do sal de diazônio no grupo amina da
+2-metil-3-nitroanilina e seu deslocamento para a formação da ligação Csp 2-Br, via
+reação de Sandmeyer, com rendimento de 82%. As duas reações seguintes do
+esquema 4, levando a formação do composto 8, são conhecidas como síntese de
+indois de Leimgruber–Batcho, e tem seu mecanismo apresentado na Figura 5. Na
+primeira, a reação de formação da enamina 12 a partir de 11, tem como forças
+motrizes a formação da ligação dupla conjugada com o anel aromático e as saídas
+
+21
+
+de moléculas de metanol e dimetilamina, que são gases na temperatura reacional,
+deslocando o equilíbrio para a formação do produto em 89 % de rendimento.
+Na reação seguinte, primeiramente ocorre a redução do grupo nitro, gerando
+um grupo amina. Na sequência, como a reação se passa em meio ácido, ocorre a
+protonação do carbono da ligação dupla com maior densidade eletrônica, devido à
+conjugação com o nitrogênio, seguido do ataque do grupo amina recém-formado.
+Após protonação do anel pirrolidínico, ocorre a formação do imínio intermediário e a
+saída de pirrolidina como molécula neutra. A remoção de um próton do carbono 3 é
+favorecida pela geração de aromaticidade, resultando no indol desejado 8 com um
+rendimento de 58 %.
+Figura 5. Mecanismo para a reação de formação do núcleo indólico.
+
+22
+
+Vale ressaltar que até a formação do 4-bromoindol 8 não foram necessárias
+purificações dos produtos obtidos em nenhuma das etapas, sendo que os mesmo
+foram apenas extraídos das misturas reacionais e usados diretamente na reação
+seguinte, seguindo procedimento descrito por Nicolaou et al40.
+Em seguida, o indol 8 foi submetido a uma reação de iodação do carbono C3
+na presença de base. O produto 13 foi então utilizado, sem purificação, na reação de
+proteção utilizando-se anidrido acético e DMAP catalítico41,42. Em novas tentativas
+de preparação do indol 14, foi notada a presença de produtos de degradação mais
+polares, via análise por CCD. Dessa forma, após pesquisa bibliográfica, foi tomado
+conhecimento que 3-iodoindois não protegidos são instáveis e devem ser
+imediatamente utilizados43. Como a reação de síntese de 13 e a reação de síntese
+de 14 foram realizadas em dias diferentes, é provável que tenha ocorrido
+degradação do indol 13. Assim, o rendimento de 20% em duas etapas pode ser
+provavelmente otimizado, utilizando-se o procedimento adaptado que foi empregado
+para a síntese do indol 23.
+A síntese do indol 14 pode ser confirmada pela análise do espectro de RMN1
+
+H do produto obtido, mostrado nas Figuras 6 e 7.
+1
+
+Figura 6. Expansão 1 do espectro de RMN- H (500 MHz, CDCl3) do composto 14.
+
+A
+
+B
+D
+
+23
+
+C
+
+1
+
+Figura 7. Expansão 2 do espectro de RMN- H (500 MHz, CDCl3) do composto 14.
+
+E
+
+O duplo dubleto em 8,55 ppm (J = 8,4 Hz, J = 0,7 Hz) corresponde ao
+hidrogênio D, que acopla com os hidrogênios C e B. O singleto em 7,68 ppm
+corresponde ao hidrogênio A, que não acopla com nenhum outro hidrogênio devido
+a sua distância aos demais. O duplo dubleto em 7,50 ppm (J = 7,6 Hz, J = 0,9 Hz)
+está relacionado com o hidrogênio B, que acopla com os hidrogênios C e D. O
+tripleto em 7,22 ppm, corresponde ao hidrogênio C, que acopla com os hidrogênios
+B e D com a mesma constante de acoplamento (3J = 8,2 Hz). Por fim, o singleto com
+integral igual a 3 em 2,63 ppm corresponde a metila do grupo acetil.
+O iodeto 5 derivado da serina, foi preparado a partir do aminoácido natural Lserina em 46% de rendimento global, como mostra o Esquema 5.
+
+24
+
+Esquema 5. Rota sintética utilizada para construção do iodeto 5, derivado da L-serina.
+
+A primeira etapa consistiu na clássica reação de esterificação utilizando-se
+cloreto de tionila, em rendimento quantitativo, gerando o composto 1644. Após a
+proteção do grupo amina com Boc45, realizou-se uma reação do tipo Appel para
+substituir o grupo hidroxila remanescente da L-serina por iodo, gerando o composto
+5 em 76% de rendimento46. O mecanismo para esta transformação está apresentado
+na Figura 8.
+Figura 8. Mecanismo para a reação do tipo Appel.
+
+A formação do composto 5 foi confirmada pela análise do espectro de RMN1
+
+H, apresentado na Figura 9, e pela sua comparação com o espectro de RMN-1H do
+
+composto 17 (Figura 10).
+
+25
+
+1
+
+Figura 9. Expansão do espectro de RMN- H (500 MHz, CDCl3) de 5.
+
+C
+
+A, B
+
+D
+E
+
+1
+
+Figura 10. Expansão do espectro de RMN- H (500 MHz, CDCl3) de 17.
+
+26
+
+Analisando o espectro de 5, é possível notar a presença de dubleto em 5,35
+ppm, correspondente ao hidrogênio E. O multipleto em 4,53 ppm corresponde ao
+hidrogênio D, que acopla com o hidrogênio E e com os hidrogênios diastereotópicos
+A e B. O singleto em 3,81 ppm, integrando para 3 hidrogênios, corresponde aos
+hidrogênios C. A confirmação da presença do produto desejado, porém, provém do
+multipleto correspondendo aos hidrogênios diastereotópicos A e B. Observando as
+Figuras 9 e 10, conclui-se que o sinal correspondente a estes foi deslocado de 3,94
+ppm em 17 para 3,58 ppm em 5. Isso é explicado pela menor eletronegatividade do
+iodo presente no produto, que blinda os hidrogênios A e B, fazendo com que estes
+tenham menor deslocamento químico quando comparado com o material de partida.
+Com os substratos preparados, estes foram submetidos às condições de
+acoplamento. Os resultados obtidos estão dispostos na Tabela 4.
+Tabela 4. Resultados da primeira tentativa de acoplamento utilizando a rota A.
+
+Entrada
+
+Ligante
+
+1
+
+2
+
+3
+
+4*
+
+Redutor
+
+Tempo /h
+
+T / ºC
+
+Mn
+(2 eq)
+
+14
+
+60
+
+Mn
+(2 eq)
+
+96
+
+Zn
+(2 eq)
+
+18
+
+Mn
+(3 eq)
+
+18
+
+Produtos Observados
+
+,
+,
+14 não consumido totalmente
+
+t.a.
+,
+14 não consumido totalmente
+
+60
+,
+,
+,
+14 não consumido totalmente
+
+50
+,
+,
+14 não consumido totalmente
+
+*1,2 equivalentes de 5.
+
+27
+
+Após criteriosa análise dos espectros de RMN-1H dos compostos isolados das
+reações apresentadas na Tabela 4, concluiu-se que não foi obtido o produto de
+acoplamento desejado em nenhuma das entradas. Observou-se que os substratos
+não se mostraram estáveis em nenhuma das condições de acoplamento utilizadas,
+já que o iodeto da serina 5 sofreu eliminação para gerar seu respectivo acrilato e o
+grupo de proteção acetil se mostrou lábil nas condições reacionais. Tendo esses
+resultados em vista, os substratos para a reação de acoplamento foram substituídos.
+Com intuito de evitar a formação do acrilato com a eliminação do iodeto,
+realizou-se a síntese do iodeto derivado da serina 4, em cinco etapas a partir da Lserina, com um rendimento global de 36%, conforme apresenta o Esquema 6.
+Esquema 6. Rota sintética utilizada para construção do iodeto 4, derivado da L-serina.
+
+A primeira reação tratou-se da reação de proteção do nitrogênio da L-serina
+com cloroformato de benzila47. O produto protegido 19 foi utilizado sem purificação
+na reação de esterificação com cloreto de tionila e metanol, obtendo-se 20 com um
+rendimento razoável de 70 % em duas etapas47. A proteção da hidroxila de 20 foi
+realizada com cloreto de tert-butildifenilsilano na presença de imidazol, gerando 21
+com 72 % de rendimento37. A redução do éster metílico de 21 a álcool foi realizada
+utilizando-se solução de LiBH4 em THF, resultando em 22 com rendimento
+quantitativo37. Por fim, o álcool 22 foi convertido no seu respectivo iodeto 4 com 71
+% de rendimento, via reação de tipo Appel48.
+Este derivado da serina 4 ainda tem a vantagem, em relação a 5, de resultar
+em um produto de acoplamento que já conteria o centro estereogênico que, nas
+
+28
+
+condições da rota sintética proposta, resultaria na mesma configuração absoluta que
+o centro estereogênico presente nos alcaloides ergolínicos.
+Já para o caso do indol, o grupo de proteção escolhido foi o Boc, sendo que o
+respectivo indol 23 foi preparado conforme apresenta o Esquema 7.
+Esquema 7. Rota sintética utilizada para construção do indol protegido com Boc.
+
+Para a síntese do indol 23, houve modificação no procedimento de
+preparação quando comparado a preparação de 8, uma vez que já se conhecia a
+instabilidade de 3-iodoindois desprotegidos. Portanto, este foi imediatamente
+utilizado na reação de proteção, sem purificação.
+Nota-se que nas condições otimizadas de preparação do 3-iodo-4-bromoindol
+N-protegido houve um significante aumento de rendimento, quando se compara o
+rendimento para formação de 23 (75% em 2 etapas) e 14 (20 % de rendimento em 2
+etapas).
+Com os substratos preparados, estes foram então submetidos às condições
+da reação de acoplamento. Os resultados obtidos estão dispostos na Tabela 5.
+
+29
+
+Tabela 5. Resultados da segunda tentativa de acoplamento utilizando a rota A.
+
+Entrada
+
+Ligante
+
+Redutor
+
+Tempo /h
+20h
+a t.a.
+então,
+24h
+a 40ºC
+
+Mn
+(2 eq)
+
+1
+
+Mn
+(2 eq)
+
+2
+
+T / ºC
+
+22
+
+Produtos Observados
+
+,
+
+,
+
+23 não consumido totalmente
+
+60
+
+,
+
+,
+
+23 não consumido totalmente
+
+Como apresentado na Tabela 5, não se obteve o produto de acoplamento
+desejado. Ao invés do produto de acoplamento, o que se obteve, em altos
+rendimentos foi a oxazolidinona 25, produto de ciclização de 4.
+Para se verificar se o composto 23 não estava participando na reação de
+formação de 25, realizou-se a reação na ausência de 23, como apresentado no
+Esquema 8.
+Esquema 8. Reação descrita na Tabela 5 na ausência de 23.
+
+Observando o Esquema 8, conclui-se que o indol 23 não participa da reação
+paralela de formação da oxazolidinona 25.
+Até este momento, nenhuma tentativa de acoplamento com a rota A havia
+empregado os mesmos substratos em iguais condições que as empregadas por
+30
+
+Weix et al35 ou Liu et al
+
+39
+
+. Para tanto, foi repetida a reação entre iodoanisol e um
+
+iodeto similar a 5, porém contendo um éster terc-butílico ao invés de metílico, nas
+mesmas condições experimentais que as empregadas por Liu et al39. Entretanto,
+não se observou a formação do produto de acoplamento nem consumo de nenhum
+dos materiais de partida decorrido o tempo descrito no artigo39.
+Como a rota A não se mostrou promissora, os estudos foram voltados para a
+rota B, que tem por princípio a reação de acoplamento de Negishi. O mecanismo
+geral desta reação, para um haleto de arila e um haleto de alquila, é apresentado na
+Figura 11.
+Figura 11. Mecanismo geral para a reação de acoplamento cruzado de Negishi.
+
+A reação se inicia com a adição oxidativa do haleto de arila à espécie de
+paládio (0), formando um intermediário tetracoordenado. Em seguida, ocorre a
+transmetalação do organozinco, transferindo o grupo R1 (alquila, no presente
+trabalho) para o paládio49. A última etapa do ciclo catalítico envolve a eliminação
+redutiva, formando a ligação Csp2-Csp3 e regenerando o catalisador de Pd0.
+Yokoyama et al conduziram um estudo visando o acoplamento de núcleos
+indólicos halogenados na posição 3 com espécies organozinco derivados da serina,
+porém sem explorar o substratos indólicos com iodo ou bromo na posição 4 do
+núcleo indólico50. Com o intuito de avaliar a reprodutibilidade deste método, uma vez
+que esta é a metodologia envolvendo acoplamento de Negishi que mais se
+assemelha a rota B, decidiu-se reproduzir uma das reações descritas no artigo. Para
+tanto, foi sintetizado o substrato 3-iodo-1-tosilindol, de acordo com o Esquema 9.
+31
+
+Esquema 9. Síntese do 3-iodo-N-tosilindol.
+
+O substrato 27 foi então submetido às condições de acoplamento de Negishi,
+de acordo com o Esquema 10.
+Esquema 10. Reação teste de acoplamento cruzado de Negishi.
+
+Conclui-se que a reação foi reproduzida com sucesso, já que o rendimento
+reportado no artigo para esta reação foi 40%. Como, neste artigo, é salientado que o
+grupo de proteção no nitrogênio do 3-haloindol que gera menos subprodutos é o
+grupo tosil, foi preparado o substrato 29, como apresentado no Esquema 11.
+Esquema 11. Síntese do indol 29.
+
+O Esquema 12 apresenta os resultados obtidos com a reação de Negishi
+utilizando os substratos 5 e 29.
+Esquema 12. Primeira tentativa com a reação de acoplamento de Negishi (rota B).
+
+32
+
+Como apresentado no Esquema 12, ao invés do produto de acoplamento com
+1 equivalente de 5, obteve-se o produto de acoplamento com 2 equivalentes de 5.
+Apesar de a reatividade da ligação Csp2-I usualmente ser maior que da ligação
+Csp2-Br frente a adição oxidativa ao centro de Pd0,49 esta diferença não se mostrou
+suficiente ao ponto de se observar quimiosseletividade para o substrato nas
+condições reacionais.
+Imaginou-se que, utilizando o iodeto derivado da serina 4, que contém grupos
+protetores mais volumosos, poder-se-ia impedir ou limitar o acoplamento de um
+segundo equivalente deste reagente na posição 4 do núcleo indólico, devido ao
+impedimento que poderia ser gerado pelo derivado da serina ligado ao carbono 3 do
+núcleo indólico. Os resultados obtidos para as reações de acoplamento, baseandose nessa hipótese e utilizando-se os substratos 29 e 4 estão dispostos na Tabela 6.
+Tabela 6. Resultados obtidos com a segunda tentativa de acoplamento utilizando a rota B.
+
+Entrada
+
+Equivalentes
+de 4
+
+Tempo
+/h
+
+Temperatura
+/ °C
+
+Rendimento
+de 32
+
+Rendimento
+de 33
+
+Observações
+
+1
+
+1,0
+
+3
+
+t.a.
+
+0
+
+Traços
+
+29 não
+consumido,
+redução de 4
+
+0
+
+29 não
+totalmente
+consumido,
+redução de 4, 4bromotosilindol
+
+2*
+
+1,0
+
+22
+
+t.a.
+
+0
+
+3
+
+1,15
+
+24
+
+t.a.
+
+0
+
+0
+
+29 não
+totalmente
+consumido,
+redução de 4, 4bromotosilindol
+
+4
+
+1,15
+
+24
+
+60
+
+0
+
+15 %
+
+29 não
+consumido,
+redução de 4
+
+*Solução do organozinco de 4, adicionado lentamente durante 5h.
+
+33
+
+Inicialmente, utilizando-se as condições da entrada 1, praticamente não foi
+observado consumo dos materiais de partida. Com o intuito de favorecer a
+ocorrência da reação, aumentou-se o tempo de reação de 3 h para 22 h (entrada 2).
+De maneira similar, não foram observados produtos de acoplamento. Assim, na
+entrada 3, aumentou-se o tempo de reação em 2 h e a quantidade de 4, porém a
+reação se comportou de maneira similar à entrada anterior. Na entrada 4, porém,
+realizando-se a reação à temperatura de 60ºC por 24 h, foi possível observar o
+acontecimento da reação, porém resultando na formação de um produto de
+acoplamento com dois equivalentes de 4, em 15% de rendimento, de maneira similar
+ao observado no Esquema 12.
+Não sendo possível se obter a seletividade necessária com a rota B, foram
+iniciados os estudos referentes à rota C. Para estes estudos foi empregada a
+(±)-serina, pois no grupo o aluno de doutorado Edson Emilio Garambel Vilca já havia
+acumulado uma grande quantidade da aziridina enantiomericamente enriquecida,
+sintetizada a partir da L-serina. Os compostos racêmicos sintetizados nesse trabalho
+serão posteriormente utilizados como padrão racêmico para análise por HPLC com
+coluna quiral.
+A rota C baseia-se na reação de abertura da aziridina 9, derivada da (±)serina, promovida pelo ânion de magnésio gerado in situ a partir da desprotonoação
+do 4-bromoindol com brometo de metil magnésio, como descrito por Tokuyama et
+al17. O substrato 9 foi preparado de acordo com o Esquema 13.
+Esquema 13. Síntese da aziridina 36.
+
+34
+
+A série de transformações consistiu na sequência de 4 reações: reação de
+esterificação utilizando-se cloreto de tionila e metanol, reação de proteção do
+nitrogênio com grupo Boc, proteção da hidroxila com TBS e redução do éster
+metílico à álcool com LiBH4
+
+47
+
+. Após essa sequência de reações, obteve-se o álcool
+
+35 com 97% de rendimento em 4 etapas. Em seguida, este álcool foi então
+submetido às condições da reação de Mitsunobu intramolecuar 51 para fornecer a
+aziridina 9, em 57% de rendimento. O mecanismo para esta transformação está
+apresentado na Figura 12.
+Figura 12. Mecanismo da reação de Mitsunobu intramolecular para a formação da aziridina 36.
+
+A comprovação da formação da aziridina 9 foi obtida analisando-se o espectro
+de RMN-1H da mesma, apresentado nas Figuras 13 e 14.
+Analisando as Figuras 13 e 14, é possível notar a presença de dois duplos
+dubletos em 3,80 e 3,63 ppm, correspondentes aos hidrogênios (a) e (b), que são
+diastereotópicos e acoplam entre si com um constante 2J = 11,4 Hz, e acoplam com
+o hidrogênio (c) com uma constante 3J = 4,7 Hz. O multipleto em 2,56 ppm
+corresponde ao hidrogênio (c), que acopla com os hidrogênios diasterotópicos (a),
+(b), (d) e (e). Já os dubletos em 2,26 e 2,07 ppm correspondem aos hidrogênios (d)
+e (e), que acoplam com constantes diferentes com o hidrogênio (c). Por fim, os
+singletos em 1,45 (9H), 0,90 (9H), 0,08 (3H) e 0,07 (3H) ppm correspondem aos
+hidrogênios (f), (g), (h) e (i), respectivamente, confirmando a presença do produto 9.
+
+35
+
+1
+
+Figura 13. Expansão 1 do espectro de RMN- H (500 MHz, CDCl3) de 9.
+
+Figura 14. Expansão 2 do espectro de RMN-1H (500 MHz, CDCl3) de 9.
+
+36
+
+Em seguida, promoveu-se reação de abertura da aziridina 9, bem como
+reações de proteção do nitrogênio indólico com grupo tosil e desproteção do grupo
+TBS, como apresentado no Esquema 14.
+Esquema 14. Reação de abertura de da aziridina 9 e reações de proteção/desproteção
+subsequentes.
+
+Como explicitado no Esquema 14, a rota C foi a que propiciou a obtenção do
+composto 36, derivado do triptofano, objetivo deste projeto. Vale ressaltar que esta
+reação, além de não fazer uso de reagentes de alto custo, pode ser realizada em
+condições multigrama, o que é muito vantajoso considerando as características de
+uma síntese total.
+
+37
+
+4 Conclusões
+Após avaliação da rota A, concluiu-se que esta não se mostrou efetiva, não
+sendo possível a obtenção do intermediário 1, sendo observado apenas degradação
+parcial dos materiais de partida durante as tentativas de acoplamento. Os substratos
+indólicos 14 e 23 foram preparados a partir do bloco de construção 2-metil-3nitroanilina, com os rendimentos globais de 8% (5 etapas) e 32% (5 etapas). Já os
+derivados da serina 5 e 4 foram preparados a partir da L-serina com rendimentos de
+46% (3 etapas) e 36 % (5 etapas), respectivamente.
+A segunda estratégia (acoplamento cruzado de Negishi) também não permitiu
+acesso ao intermediário 1, sendo obtidos apenas os produtos 31 e 33 (de
+acoplamento duplo). Os substratos empregados nesta reação foram os derivados
+iodados da L-serina previamente descritos e o indol 29, preparado a partir do 4bromoindol com 56% de rendimento (2 etapas).
+Por fim, avaliou-se a rota C na qual o intermediário 4-bromo indólico 36,
+objetivo deste trabalho, foi obtido através da reação de abertura da aziridina 9
+promovida pelo 4-bromoindol (8), com 55% de rendimento. Os substratos 9 e 8
+foram preparados a partir do bloco de construção 2-metil-3-nitroanilina (42%, 3
+etapas) e do aminoácido (±)-serina (55%, 5 etapas), respectivamente, ambos
+comercialmente disponíveis.
+
+38
+
+5 Parte experimental
+Os reagentes foram adquiridos de fonte comercial e utilizados sem
+purificação.
+Os solventes foram previamente purificados e secos por refluxo/destilação
+utilizando o agente dessecante apropriado de acordo com o solvente utilizado, de
+acordo com procedimentos descritos na literatura.
+As vidrarias foram secas sob alto-vácuo e aquecimento utilizando-se pistola
+de ar quente, e resfriadas sob atmosfera de argônio.
+As análises de CCD foram realizadas em folhas cromatográficas com sílica
+gel 60Å F254 suportada em placa de alumínio (com revelador para UV e espessura
+de 0,2 mm). A visualização dos compostos foi obtida utilizando-se os seguintes
+reveladores: Lâmpada de UV (254 nm), solução de p-anisaldeído, solução de
+permanganato de potássio em KOH aquoso e solução de vanilina.
+A purificação dos produtos foi realizada por técnicas de recristalização,
+extração e cromatografia em coluna. Na purificação dos compostos realizada por
+cromatografia de adsorção em coluna (cromatografia flash) utilizou-se sílica gel 230400 mesh 60Å (Aldrich).
+As análises de Ressonância Magnética Nuclear (RMN) de 1H e
+
+13
+
+C foram
+
+realizadas nos equipamentos Espectrômetro de Ressonância Magnética Nuclear
+Agilent Technoligies - 400/54 Premium Shielded (400MHz) e Espectrômetro de
+Ressonância Magnética Nuclear Agilent Technoligies - 500/54 Premium Shielded
+(500 MHz). Os dados foram tratados utilizando o software MestreNova 6.0.2-5475.
+As análises no infravermelho foram realizadas no Espectrômetro FT-IR
+ALPHA II-Bruker, com janela ZnSe. As amostras foram depositadas como películas
+finas por deposição de uma solução e deixando-se o solvente evaporar. Os
+espectros foram analisados no próprio software do fabricante e as figuras obtidas
+exportadas como PDF.
+
+5.1.
+
+4-bromoindol (8)
+
+39
+
+Uma suspensão de 2-metil-3-nitroanilina (2,282 g, 15 mmol, 1,0 eq) em água
+(22 mL) foi aquecida à refluxo e uma solução aquosa de HBr 48% (9 mL) foi
+adicionada durante 5 minutos. Após 20 minutos em refluxo, esta solução foi resfriada
+à 0ºC e a ela foi adicionada uma solução de NaNO2 (1,035 g, 15 mmol, 1,0 eq) em
+água (6 mL), gota a gota, sem permitir que a temperatura interna da mistura
+reacional ultrapassasse 5ºC. A solução alaranjada resultante foi agitada por mais 15
+minutos entre 0-5ºC. Em seguida, foi adicionada à mistura reacional, gota a gota,
+uma solução de CuBr (2,797 g, 19,5 mmol, 1,3 eq) e HBr 48 % aquoso (6 mL) em
+água (15 mL). Após o término da adição, a solução resultante foi então aquecida à
+100ºC por 20 minutos. Em seguida, após resfriamento à temperatura ambiente,
+foram adicionados 29 mL de água e a fase aquosa foi extraída com éter etílico (3 X
+15 mL). As fases orgânicas combinadas foram então lavadas com solução de
+NH4OH 3 N (4 X 12 mL), secas com MgSO4 e concentradas, resultando em 11
+(2,693 g, 12,4 mmol, 83 % de rendimento) como um sólido alaranjado. Este material
+foi então dissolvido em DMF (15 mL), e a esta solução foram adicionados N-Ndimetilformamida dimetil acetal (4,94 mL, 37,2 mmol, 3,0 eq) e pirrolidina (1,03 mL,
+12,4 mmol, 1,0 eq). Esta solução foi então aquecida à 110ºC por 5 horas. Após este
+tempo, a mistura reacional foi resfriada à temperatura ambiente e a ela foram
+adicionados 30 mL de água. A fase aquosa foi então extraída com éter etílico (3 X
+20 mL). As fases orgânicas combinadas foram então lavadas com água (2 X 30 mL),
+secas com MgSO4 e concentradas resultando na enamina 12 (3,298 g, 11,1 mmol,
+89% de rendimento) como um líquido vermelho viscoso. Parte deste material bruto
+(1,935 g, 6,5 mmol, 1,0 eq) foi, em seguida, dissolvido em AcOH 80% aquoso (34
+mL), essa mistura aquecida à 75 ºC e tratada com zinco granular (3,8318 g, 20-30
+mesh, 58,5 mmol, 9,0 eq). Esta suspensão resultante foi então aquecida à 85ºC por
+4 horas. Após esse tempo, foram adicionados 30 mL de água e a fase aquosa foi
+extraída com Et2O (3 X 25 mL). As fases orgânicas combinadas foram então lavadas
+com NaHCO3 saturado (3 X 25 mL), secas com MgSO4 e concentradas. Este
+resíduo resultante foi então purificado por cromatografia em coluna flash (sílica gel,
+AcOEt/Hexano, 5%→50%), resultando em 8 (0,733 g, 3,74 mmol, 58% de
+rendimento) como um líquido verde.
+CCD: Rf = 0,52 (25% AcOEt/Hexano);
+
+40
+
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 8,30 (1H, s); 7,36-7,31 (m, 2H), 7,23-7,20 (m,
+1H); 7,04 (1H, t, J = 7,9 Hz); 6,60 (1H, m).
+RMN
+
+13
+
+C (125 MHz, CDCl3) δ (ppm) = 136,0; 128,6; 124,7; 122,9; 122,7; 114,7;
+
+110,2; 102,9.
+IV vmax (puro, cm-1): 3418, 1611, 1563, 1502, 1477, 1332, 1268, 1177, 1142, 1044,
+909, 890, 745.
+
+5.2.
+
+1-acetil-4-bromoindol (14)
+
+A uma solução de KOH (566 mg, 10,1 mmol, 4,0 eq) em DMF (10 mL) e 4bromoindol (495 mg, 2,52 mmol, 1,0 eq) à temperatura ambiente, foi adicionada gota
+a gota uma solução de I2 (640 mg, 2,52 mmol, 1,0 eq) em DMF (8 mL).
+Após 1,5 horas, a mistura reacional foi vertida em uma solução aquosa gelada
+de NaHSO3 3% (200 mL) contendo 4 mL de solução de NH4OH concentrado. Esta
+solução foi então filtrada e o composto retido no papel de filtro (3-iodo-4-bromoindol)
+foi dissolvido em AcOEt, seco com MgSO4, concentrado e utilizado na reação de
+proteção sem purificação.
+No dia seguinte, trietilamina (527 μL, 3,78 mmol, 1,5 eq), anidrido acético (953
+μL, 10,08 mmol, 4,0 eq) e DMAP (61,6 mg, 0,504 mmol, 0,2 eq) foram adicionados a
+uma solução em agitação de 3-iodo-4-bromoindol 13 sintetizado na etapa anterior
+em 1,2-DCE. Esta solução foi agitada por 8h à temperatura ambiente.
+Passado esse tempo a mistura reacional foi resfriada a temperatura ambiente,
+diluída com AcOEt (30 mL), lavada com solução saturada de NH4Cl (15 mL) e a fase
+aquosa extraída com AcOEt (3 X 25 mL). As fases orgânicas combinadas foram
+secas com MgSO4 e concentradas à vácuo. O resíduo foi então purificado por
+cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 5%→25%), resultando em
+14 (180 mg, 0,49 mmol, 20% de rendimento em duas etapas) como um sólido
+branco.
+CCD: Rf = 0,62 (25% AcOEt/Hexano).
+
+41
+
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 8,55 (1H, dd, J = 8,4 Hz, J = 0,7 Hz); 7,68
+(1H, s); 7,50 (1H, dd, J = 7,6 Hz, J = 0,9 Hz), 7,22 (1H, t, J = 8,2 Hz); 2,65 (3H, s).
+RMN
+
+13
+
+C (100 MHz, CDCl3) δ (ppm) = 167,4; 135,8; 132,7; 129,3; 126,7; 126,5;
+
+116,0; 115,2; 63,2; 24,0.
+IV vmax (puro, cm-1): 1688, 1632, 1595, 1561, 1529, 1467, 1415, 1380, 1353, 1329,
+1297, 1265, 1228, 1182, 1164, 1125, 1045, 966, 917, 826, 767, 730, 701, 663, 608.
+
+5.3.
+
+Hidrocloreto de (S)-2-amino-3-hidroxipropanoato de metila (16)
+
+A uma solução de L-serina (211 mg, 2 mmol, 1 eq) em metanol (2,0 mL) à
+0°C, foi adicionado gota a gota SOCl2 destilado (0,5 mL, 6,8 mmol, 3,4 eq). Em
+seguida, a solução foi aquecida à 40ºC por 4h.
+Após esse tempo o solvente foi removido em evaporador rotatório e Et 2O foi
+adicionado. Essa mistura foi então deixada no congelador por 1h e filtrada
+resultando em 16 (300 mg, 1,93 mmol, 97% de rendimento) como um sólido branco,
+que foi utilizado na próxima etapa sem purificação adicional.
+CCD: Rf = 0,43 (50% MeOH/AcOEt).
+5.4.
+
+(S)-2-((terc-butoxicarbonil)amino)-3-hidroxipropanoato de metila (17)
+
+Em um balão de fundo redondo em atmosfera de argônio contendo 16 (0,276
+g, 1,77 mmol, 1,0 eq) e THF anidro (6 mL), foram adicionados trietilamina (0,540 mL,
+3,89 mmol, 2,2 eq) e Boc2O (0,41 mL, 1,77 mmol, 1,0 eq) durante 20 minutos à 0ºC.
+Em seguida, a reação foi agitada por 5 horas a temperatura ambiente. Decorrido
+esse tempo a mistura reacional foi diluída com Et2O (12 mL). Esta solução foi então
+lavada com soluções de aquosas de HCl 3% (7,5 mL), NaHCO3 5% (7,5 mL) e NaCl
+saturado (7,5 mL). A fase orgânica foi então seca com MgSO4 e concentrada
+resultando em 17 (0,239 g, 1,09 mmol, 62 % de rendimento) como um sólido branco
+que foi utilizado na próxima etapa sem necessidade de purificação.
+CCD: Rf = 0,79 (50% MeOH/AcOEt).
+42
+
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 5,45 (1H, s); 4,40 (1H, s); 3,94 (2H, m), 3,80
+(3H, s); 3,58 (2H, m); 2,33 (1H, m); 1,47 (9H, s).
+
+5.5.
+
+(R)-2-((terc-butoxicarbonil)amino)-3-iodopropanoato de metila (5)
+
+A uma solução de trifenilfosfina (0,357 g, 1,36 mmol, 1,25 eq) e imidazol
+(0,0927 g, 1,36 mmol, 1,25 eq) em diclorometano (7 mL) foi adicionado I 2 (0,345 g,
+1,36 mmol, 1,25 eq) à 0ºC. Após a completa dissolução do I2, a temperatura da
+mistura reacional foi elevada à temperatura ambiente por 10 min e novamente
+resfriada a 0ºC. Em seguida 17 (0,239 g, 1,09 mmol, 1,0 eq) foi adicionado a mistura
+e esta foi agitada por 3,5h a 0ºC. Após este tempo a mistura reacional foi lavada
+com solução saturada de tiossulfato de sódio, extraída com AcOEt, lavada com
+brine. As fases orgânicas combinadas foram então secas com MgSO4 e
+concentradas. O resíduo foi purificado por cromatografia em coluna flash (sílica gel,
+AcOEt/Hexano, 10%→30%), resultando em 5 (0,272 g, 0,828 mmol, 76% de
+rendimento) como um sólido amarelado.
+CCD: Rf = 0,43 (15% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 5.35 (1H, br); 4,53 (1H, m); 3,81 (3H, s); 3,58
+(1H, m); 1,47 (9H, s).
+RMN 13C (100 MHz, CDCl3) δ (ppm) = 170,0; 154,8; 80,47; 53,7; 53,0; 28,3; 7,8.
+IV vmax (puro, cm-1): 3370, 2978, 1749, 1715, 1500, 1366, 1346, 1297, 1249, 1211,
+1121, 1065, 1003, 908, 856, 830, 775.
+
+5.6.
+
+(S)-2-(((benziloxi)carbonil)amino)-3-hidroxipropanoato de metila (20)
+
+Cloroformato de benzila (6,51 mL, 97% em massa, 45,6 mmol, 1,2 eq) foi
+adicionado a uma solução de L-serina (4,00 g, 38,0 mmol) em 95 mL de solução
+aquosa de NaHCO3 (7,994 g, 95,0 mmol, 2,5 eq). A mistura foi agitada
+vigorosamente por 4 h à temperatura ambiente. Após esse tempo, a solução foi
+acidificada com HCl concentrado (pH = 3) e extraída com acetato de etila (3 x 50
+43
+
+mL). As fases orgânicas combinadas foram secas com sulfato de magnésio e
+concentradas no evaporador rotatório resultando em 19 como um sólido branco, o
+qual foi todo utilizado na reação de esterificação sem purificação adicional.
+A uma solução da (L)-serina protegida 19 em MeOH (60 mL), resfriada à 0°C,
+foi adicionado cloreto de tionila (4,27 mL, 58 mmol, 1,53 eq.) gota a gota. Após a
+adição, a suspensão foi mantida sob agitação à temperatura ambiente por 22h.
+Decorrido esse tempo, concentrou-se a mistura reacional, adicionou-se éter etílico
+(40 mL) e água (40 mL), e extraiu-se a fase aquosa com éter etílico (2 X 40 mL). As
+fases orgânicas combinadas foram secas com MgSO4 e depois concentradas no
+evaporador rotatório. O produto 20 foi obtido como um óleo amarelo (6,710 g, 26,5
+mmol, 70% de rendimento em duas etapas) e utilizado na próxima reação sem
+purificação.
+CCD: Rf = 0,79 (AcOEt);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 7,39-7,30 (5H, m); 5,70 (1H, d, J = 7,5Hz);
+5,13 (2H, s); 4,45 (1H, m); 4,02-3,92 (2H, m); 3,79 (3H, s)
+RMN
+
+13
+
+C (100 MHz, CDCl3): δ (ppm) = 171,1; 156,3; 136,1; 128,5; 128,5; 128,1;
+
+67,2; 63,1; 56,1, 52,7.
+IV vmax (puro, cm-1): 3367, 3034, 2954, 2889, 1698, 1518, 1455, 1438, 1341, 1207,
+1056, 1027, 975, 912, 775, 737, 696.
+
+5.7.
+
+(S)-2-(((benziloxi)carbonil)amino)-3-((tercbutildifenilsilil)oxi)propanoato de metila (21)
+
+Em uma solução do éster bruto 20 (1,482 g, 5,8 mmol, 1,0 eq) em DMF (6
+mL), foi adicionado imidazol (1,182 g; 17,4 mmol, 3,0 eq). Resfriou-se a mistura
+reacional a 0°C e foi adicionado cloreto de terc-butildifenilsilil (2,03 mL, 7,6 mmol, 1,3
+eq) e deixou-se reagir por 20h à temperatura ambiente. A mistura reacional foi então
+adicionada água, a fase aquosa foi extraída com Et2O (3 X 40 mL). As frações
+orgânicas combinadas foram lavadas com solução de NaHCO3 saturada (15 mL) e
+brine (15mL), secas com MgSO4 e concentradas no evaporador rotatório. O resíduo
+foi então purificado por cromatografia em coluna flash (sílica gel, AcOEt/Hexano,
+
+44
+
+2%→30%), resultando em 21 (2,059 g, 4,2 mmol, 72% de rendimento) como um
+óleo incolor.
+CCD: Rf = 0,56 (20% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 7.,61-7,57 (4H, m), 7,45-7,31 (11H, m), 5.58
+(1H, d, J = 8.6), 5.05 (2H, s), 4.41-4.36 (1H, m), 4.08-4.00 (1H, m), 3.85-3.81 (1H,
+m), 3.67 (3H, s), 0.95 (9H, s).
+RMN
+
+13
+
+C (125 MHz, CDCl3) δ (ppm) = 170,8; 155,9; 136,3; 135,5; 135,5; 132,8;
+
+132,7; 129,9; 129,9; 128,5; 128,2; 128,1; 127,8; 127,8; 67,0; 64,5; 55,9; 52,4; 26,7;
+19,2.
+IV vmax (puro, cm-1): 3442, 3347, 3070, 3033, 2953, 2932, 2888, 2857, 1723, 1503,
+1428, 1342, 1292, 1251, 1204, 1107, 1063, 982, 882, 736, 698, 613.
+
+5.8.
+
+(R)-benzil(1-((terc-butildifenilsilil)oxi)-3-hidroxipropan-2-il)carbamato
+(22)
+
+A uma solução de LiBH4 em THF (4,65 mL, 2,0 M, 9,3 mmol, 3,0 eq), à 0°C,
+adicionou-se uma solução do éster 21 (1,518 g, 3,1 mmol, 1,0 eq) em THF (7,3 mL).
+A reação permaneceu sob agitação à temperatura ambiente por 6 horas. Em
+seguida, resfriou-se a mistura reacional à 0°C e adicionou-se AcOEt (10 mL) e água
+(10 mL). A fase aquosa foi extraída com AcOEt (3 X 15 mL), e, em seguida, as fases
+orgânicas combinadas foram lavadas com brine (3 X 30 mL) e secas com MgSO 4. O
+produto 22 (1,417 g, 3,1 mmol, quantitativo) foi obtido como um sólido branco e
+utilizado sem purificação.
+CCD: Rf = 0,26 (20% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 7,65-7,60 (4H, m); 7,45-7,27 (11H, m); 5,32
+(1H, br); 5,08 (2H, s); 3,87-3,66 (5H, m); 1,05 (9H, s).
+RMN
+
+13
+
+C (125 MHz, CDCl3) δ (ppm) = 156,4; 136,4; 135,5; 135,5; 134,8; 132,7;
+
+130,0; 130,0; 129,6; 128,5; 128,1; 128,0; 127,9; 66,8; 63,9; 63,2; 53,4; 26,9, 19,2.
+IV vmax (puro, cm-1): 3438, 3338, 3070, 2955, 2931, 2884, 2857, 1702, 1509, 1471,
+1427, 1341, 1309, 1218, 1112, 1060, 823, 740, 700, 613.
+
+45
+
+5.9.
+
+(S)-benzil(1-((terc-butildifenilsilil)oxi)-3-iodopropan-2-il)carbamato (4)
+
+A uma solução em agitação de 22 (600 mg, 1,30 mmol, 1,0 eq) em tolueno
+(15 mL) foram adicionados imidazol (194,0 mg, 2,85 mmol, 2,2 eq), I 2 (786,8 mg,
+3,10 mmol, 2,4 eq) e trifenilfosfina (676,7 mg, 2,58 mmol, 2,0 eq). Esta solução foi
+mantida em agitação à temperatura ambiente por 5 horas.
+Em seguida, adicionou-se a mistura reacional solução aquosa de tiossulfato
+de sódio 10 % (8 mL) e solução aquosa saturada de NH4Cl (6 mL). A fase aquosa foi
+extraída com Et2O (3 X 25 mL). As fases orgânicas combinadas foram, em seguida,
+lavadas com solução de tiossulfato de sódio 10 % (10 mL), brine (10 mL) e secas
+com MgSO4. O resíduo foi então purificado por cromatografia em coluna flash (sílica
+gel, AcOEt/Hexano, 0%→20%), resultando em 5 (529 mg, 0,92 mmol, 71% de
+rendimento) como um sólido branco.
+CCD: Rf = 0,60 (20% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) 7,66-7,62 (4H, m); 7,46-7,30 (11H, m); 5,09 (2H,
+s); 5,03 (1H, d, J = 8,8 Hz); 3,85 (1H, dd, J = 10,0 Hz, J = 3,9 Hz); 3,75 (1H, m); 3,63
+(1H, dd, J = 10, Hz, J = 5,5 Hz); 3,48 (1H, m); 3,42 (1H, m); 1,06 (9H, s).
+RMN
+
+13
+
+C (125 MHz, CDCl3) δ (ppm) = 155,5; 136,2; 135,5; 135,5; 132,8; 132,7;
+
+129,9; 129,9; 128,5; 128,2; 127,8; 127,8; 127,7; 66,9; 64,4; 52,3; 26,9, 19,3; 8,09.
+IV vmax (puro, cm-1): 3412, 3327, 3070, 3047, 3033, 2957, 2930, 2891, 2857, 1721,
+1709, 1500, 1471, 1427, 1325, 1304, 1261, 1225, 1193, 1112, 1008, 823, 740, 700,
+613.
+
+5.10. 1-(terc-butoxicarbonil)-3-iodo-4-bromoindol (23)
+
+A uma solução de KOH (118 mg, 2,1 mmol, 4,0 eq) em DMF (4 mL) e 4bromoindol (103 mg, 0,53 mmol, 1,0 eq) à temperatura ambiente, foi adicionada gota
+a gota uma solução de I2 (134 mg, 0,53 mmol, 1,0 eq) em DMF (2 mL).
+Após 1,5 horas, a mistura reacional foi vertida em uma solução aquosa gelada
+de NaHSO3 3% (200 mL) contendo 4 mL de NH4OH concentrado. Esta solução foi
+então rapidamente filtrada e o composto retido no funil de placa porosa (3-iodo-446
+
+bromoindol) foi dissolvido em AcOEt, seco com MgSO4, concentrado e utilizado
+imediatamente na reação de proteção.
+Em sequência, Boc2O (127 mg, 0,58 mmol, 1,1 eq) foi adicionado a uma
+solução de DMAP (1,3 mg, 0,011 mmol, 0,02 eq) e de 3-iodo-4-bromoindol
+sintetizado na etapa anterior em DCM (6 mL). Esta solução foi agitada à temperatura
+ambiente por 5 horas.
+Passado esse tempo, foi adicionado a mistura reacional HCl 1 N aquoso (15
+mL), AcOEt (10 mL), e a fase aquosa extraída com AcOEt (3 X 10 mL). As fases
+orgânicas combinadas foram secas com MgSO4 e concentradas à vácuo. O produto
+23 (167,0 mg, 0,40 mmol, 75 % em 2 etapas) foi obtido como um óleo vermelho e
+utilizado sem purificação.
+CCD: Rf = 0,85 (25% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 8,26 (1H, d, J = 8,3 Hz); 7,81 (1H, s); 7,43
+(1H, dd, J = 7,8 Hz, J = 0,8 Hz), 7,16 (1H, t, J = 8,1 Hz); 1,53 (9H, s).
+RMN
+
+13
+
+C (125 MHz, CDCl3) δ (ppm) = 148,1; 135,7; 133,3; 128,3; 126,5; 125,7;
+
+115,2; 114,7; 85,2; 61,1; 28,1.
+IV vmax (puro, cm-1): 1743, 1597, 1558, 1523, 1470, 1412, 1359, 1337, 1276, 1259,
+1244, 1181, 1153, 1134, 1072, 1054, 933, 847, 804, 774, 735.
+5.11. Procedimento geral para as reações de acoplamento descritas nas
+Tabelas 4 e 5.
+NiI2 (3,75 mg, 0,12 mmol, 0,11 eq), ligante (0,006 mmol, 0,055 eq), indol 14 ou
+23 (0,11 mmol, 1,0 eq) e derivado da serina 5 ou 4 (0,11 mmol, 1,0 eq) foram
+adicionados a um vial de 5 mL fechado com um septo de borracha e atmosfera de
+argônio foi então estabelecida. Em seguida, foi adicionado DMPU (1,5 mL) e piridina
+(1 μL). A esta solução foi então adicionado o agente redutor (Zn ou Mn, 0,22 mmol, 2
+eq) e a reação foi então aquecida a determinada temperatura por determinado
+tempo. Após este tempo a mistura reacional foi então diretamente inserida na coluna
+e purificada por cromatografia em coluna flash utilizando misturas de AcOEt/Hexano
+como eluente.
+
+47
+
+5.12. 3-iodo-1-tosil-indol (27)
+
+A uma solução de KOH (539 mg, 9,6 mmol, 4,0 eq) e indol (277 mg, 2,4
+mmol, 1,0 eq) em DMF (5 mL) à temperatura ambiente, foi adicionada gota a gota
+uma solução de I2 (609 mg, 2,4 mmol, 1,0 eq) em DMF (3 mL).
+Após 2 horas, a mistura reacional foi vertida em uma solução aquosa gelada
+de NaHSO3 (3%, 200 mL) contendo 4 mL de NH4OH concentrado. Esta solução foi
+então rapidamente filtrada e o composto retido no funil de placa porosa (3-iodoindol)
+foi dissolvido em AcOEt, seco com MgSO4, concentrado e utilizado imediatamente
+na reação de proteção.
+Hidreto de sódio (60% em óleo mineral, 144 mg, 3,6 mmol, 1,5 eq) foi
+adicionado a uma solução do bruto da reação anterior em DMF (6,0 mL) à 0ºC e
+essa solução foi agitada a esta temperatura por 30 min. A esta mistura, foi
+adicionado cloreto de p-toluenossulfonila (496 mg, 2,6 mmol, 1,1 eq) e a reação foi
+agitada à temperatura ambiente por 2,5h.
+Após este tempo foi adicionada água, e a fase aquosa extraída com AcOEt (3
+x 30 mL). As fases orgânicas combinadas foram lavadas com brine (2 x 20 mL),
+secas com MgSO4 e concentradas à vácuo. O resíduo foi então purificado por
+cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 0%→20%), resultando em
+27 (752 mg, 80 % em 2 etapas) como um sólido laranja.
+CCD: Rf = 0,60 (15% AcOEt/Hexano);
+RMN 1H (400 MHz, CDCl3): δ (ppm) = 7.98 – 7.93 (m, 1H), 7.80 – 7.74 (m, 2H), 7.69
+(s, 1H), 7.39 – 7.34 (m, 2H), 7.33 – 7.28 (m, 1H), 7.23 (m, 2H), 2.34 (s, 3H).
+IV vmax (puro, cm-1): 1594, 1576, 1518, 1492, 1441, 1369, 1305, 1294, 1266, 1188,
+1171, 1125, 1109, 1088, 1023, 1014, 922, 813, 797, 754, 743, 702, 688, 656.
+
+5.13. (S)-2-((tert-butoxicarbonil)amino)-3-(1-tosil-indol-3-il)propanoato
+metila (28)
+
+48
+
+de
+
+1,2-Dibromoetano (7 μL, 0,08 mmol, 0,4 eq) foi a adicionado a uma
+suspensão de zinco (pó, 102 mg, 1,56 mmol, 7,8 eq) em DMF (0,5 mL), e esta
+mistura foi agitada à 50ºC por 30 min sob atmosfera de argônio. Essa mistura foi
+resfriada à temperatura ambiente, a ela foi adicionado cloreto de trimetilsilano (2 μL,
+0,0156 mmol, 0,078 eq) e continuou-se a agitação por mais 30 min à temperatura
+ambiente. O composto 5 (85,6 mg, 0.26 mmol, 1,3 eq) em DMF (0,5 mL) foi
+adicionado a mistura reacional e esta foi então agitada à temperatura ambiente por 2
+horas. Passado este tempo, a agitação foi cessada para decantação do zinco. A
+solução sobrenadante foi então transferida para um vial contendo 27 (79,4 mg, 0,20
+mmol, 1,0 eq), Pd(OAc)2 (1,12 mg, 0.005 mmol, 0,025 eq), e S-PHOS (4,11 mg, 0.01
+mmol, 0,05 eq). A mistura reacional foi então agitada à 35ºC por 3h. Decorrido este
+tempo, a reação foi vertida em água (10 mL) e a fase aquosa extraída com AcOEt (2
+x 50 mL). As fases orgânicas combinadas foram lavadas com brine (2 x 20 mL),
+secas com MgSO4 e concentradas à vácuo. O resíduo foi então purificado por
+cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 5%→40%), resultando em
+28 (51,4 mg, 42% de rendimento) como um óleo vermelho.
+CCD: Rf = 0,54 (25% AcOEt/Hexano);
+RMN 1H (400 MHz, CDCl3): δ (ppm) = 7,95 (d, J = 8,3 Hz, 1H), 7,72 (d, J = 8,4 Hz,
+2H), 7,45 (d, J = 7,7 Hz, 1H), 7,36 (s, 1H), 7,33 – 7,27 (m, 1H), 7,22 (m, 3H), 5,09 (d,
+J = 7,5 Hz, 1H), 4,63 (m, 1H), 3,63 (s, 3H), 3,20 (m, 2H), 2,32 (s, 3H), 1,45 (s, 9H).
+IV vmax (puro, cm-1): 3392, 2977, 2953, 2930, 1743, 1709, 1597, 1497, 1447, 1365,
+1278, 1251, 1213, 1169, 1121, 1084, 1060, 1019, 976, 858, 813, 798, 760, 745, 703,
+669.
+
+5.14. 4-bromo-3-iodo-1-tosilindol (29)
+
+A uma solução de KOH (240 mg, 4,28 mmol, 4,0 eq) e 4-bromoindol (211 mg,
+1,07 mmol, 1,0 eq) em DMF (8 mL) à temperatura ambiente, foi adicionada gota a
+gota uma solução de I2 (272 mg, 1,07 mmol, 1,0 eq) em DMF (6 mL).
+Após 1 hora, a mistura reacional foi vertida em uma solução aquosa gelada
+de NaHSO3 3% (100 mL) contendo 2 mL de NH4OH concentrado. Esta solução foi
+49
+
+então rapidamente filtrada e o composto retido no funil de placa porosa (3-iodo-4bromoindol) foi dissolvido em AcOEt, seco com MgSO4, concentrado e utilizado
+imediatamente na reação de proteção.
+Hidreto de sódio (60% em óleo mineral, 55,6 mg, 1,39 mmol, 1,3 eq) foi
+adicionado a uma solução do bruto da reação anterior em DMF (6,0 mL) à 0ºC e
+essa solução foi agitada a esta temperatura por 30 min. A esta mistura, foi
+adicionado cloreto de p-toluenossulfonila (224 mg, 1,18 mmol, 1,1 eq) e a reação foi
+agitada à temperatura ambiente por 2,5h.
+Após este tempo foi adicionada água, e a fase aquosa extraída com AcOEt (3
+x 30 mL). As fases orgânicas combinadas foram lavadas com brine (2 x 20 mL),
+secas com MgSO4 e concentradas à vácuo. O resíduo foi então purificado por
+cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 0%→20%), resultando em
+29 (288 mg, 0,61 mmol, 56% em 2 etapas) como um sólido branco.
+CCD: Rf = 0,75 (25% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 8,00 (d, J = 8,3 Hz, 1H), 7,81 (s, 1H), 7,75 (d,
+J = 8,4 Hz, 2H), 7,41 (d, J = 7,5 Hz, 1H), 7,24 (d, J = 8,2 Hz, 2H), 7,14 (t, J = 8,1 Hz,
+1H), 2,34 (s, 3H).
+RMN
+
+13
+
+C (126 MHz, CDCl3) δ (ppm) = 145,8, 134,8, 134,5, 132,8, 130,1, 128,9,
+
+127,0, 126,9, 126,0, 115,6, 112,9, 62,5, 21,6.
+IV vmax (puro, cm-1): 1595, 1556, 1465, 1407, 1372, 1230, 1178, 1161, 1089, 1032,
+921, 773, 688.
+
+5.15. Procedimento geral para as reações de acoplamento de Negishi
+descritas na Tabela 6.
+1,2-Dibromoetano (3,5 μL, 0,04 mmol, 0,4 eq) foi a adicionado a uma
+suspensão de zinco (pó, 51,0 mg, 0,78 mmol, 7,8 eq) em DMF (0,5 mL), e esta
+mistura foi agitada à 50ºC por 30 min sob atmosfera de argônio. Essa mistura foi
+resfriada à temperatura ambiente, a ela foi adicionado cloreto de trimetilsilano (2 μL,
+0,0078 mmol, 0,078 eq) e continuou-se a agitação por mais 30 min à temperatura
+ambiente. O composto 5 (65,9 mg, 0,115 mmol, 1,15 eq) em DMF (0,5 mL) foi
+adicionado a mistura reacional e esta foi então agitada à temperatura ambiente por 2
+horas. Passado este tempo, a agitação foi cessada para decantação do zinco. A
+solução sobrenadante foi então transferida para um vial contendo 29 (47,6 mg, 0,10
+50
+
+mmol, 1,0 eq), Pd(OAc)2 (1,12 mg, 0.005 mmol, 0,05 eq), e S-PHOS (4,11 mg, 0,01
+mmol, 0,10 eq). A mistura reacional foi então agitada à 60ºC por 24h. Decorrido este
+tempo, a reação foi vertida em água (10 mL) e a fase aquosa extraída com AcOEt (2
+x 50 mL). As fases orgânicas combinadas foram lavadas com brine (2 x 20 mL),
+secas com MgSO4 e concentradas à vácuo. O resíduo foi então purificado por
+cromatografia em coluna flash.
+
+5.16. (±)-terc-butil-(1-((terc-butildimetilsilil)oxi)-3-hidroxipropan-2il)carbamato (35)
+
+A uma solução de DL-serina (3,00 g, 28,5 mmol, 1,0 eq) em metanol (35 mL) à
+0°C foi adicionado gota a gota SOCl2 destilado (5,2 mL, 72 mmol, 2,5 eq). Em
+seguida, a mistura foi agitada à temperatura ambiente por 24h. Após esse tempo o
+solvente foi removido em evaporador rotatório e o sólido branco resultante utilizado
+na próxima etapa sem purificação. A este bruto foi adicionado 64 mL de DCM,
+seguido de uma solução de trietilamina (7,96 mL, 57 mmol, 2,0 eq) e Boc2O (6,54
+mL, 28,5 mmol, 1,0 eq) em 20 mL de DCM. Em seguida, a reação foi agitada por 28
+horas à temperatura ambiente. Decorrido este tempo foi esta solução foi vertida em
+água (20 mL), e a fase aquosa extraída com DCM (3 x 80 mL). As fases orgânicas
+combinadas foram secas com MgSO4 e concentradas à vácuo. O óleo incolor obtido
+foi utilizado na próxima etapa sem purificação. O éster bruto obtido na etapa anterior
+foi dissolvido em DMF (25 mL), e a esta solução foi adicionado imidazol (5,82 g, 85,5
+mmol, 3,0 eq). Resfriou-se a mistura reacional a 0°C e foi adicionado cloreto de tercbutildimetilsilil (5,58 g, 37,0 mmol, 1,3 eq) e deixou-se reagir por 6h à temperatura
+ambiente. A mistura reacional foi então adicionada água, a fase aquosa foi extraída
+com Et2O (3 X 80 mL). As frações orgânicas combinadas foram lavadas com solução
+saturada de NaHCO3 (25 mL) e brine (25 mL), secas com MgSO4 e concentradas no
+evaporador rotatório resultando em um óleo incolor. O resíduo foi então dissolvido
+em THF (35 mL) e a esta solução foi adicionada uma solução de LiBH4 em THF
+(19,0 mL, 2,0 M, 38 mmol, 1,3 eq) à 0°C. Em seguida, a reação permaneceu sob
+agitação à temperatura ambiente por 18 horas. Decorrido este tempo, resfriou-se a
+mistura reacional à 0°C e adicionou-se AcOEt (30 mL) e água (30 mL). A fase
+aquosa foi extraída com AcOEt (3 X 30 mL), e, em seguida, as fases orgânicas
+51
+
+combinadas foram lavadas com brine (3 X 30 mL) e secas com MgSO4. O resíduo foi
+então purificado por cromatografia em coluna flash (sílica gel, AcOEt/Hexano,
+5%→25%), resultando em 35 (8,49 g, 27,8 mmol, 97 % de rendimento em 4 etapas)
+como um óleo incolor.
+CCD: Rf = 0,60 (25% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 5,14 (br s, 1H), 3,89 – 3,74 (m, 3H), 3,72 –
+3,60 (m, 2H), 1,45 (s, 9H), 0,90 (s, 9H), 0,07 (s, 6H).
+RMN 13C (101 MHz, CDCl3) δ (ppm) = 156,0, 79,5, 64,0, 63,6, 52,6, 28,3, 25,8, 18,2,
+-5,6.
+IV vmax (puro, cm-1): 3347, 2954, 2930, 2884, 2856, 1691, 1500, 1471, 1391, 1366,
+1314, 1251, 1169, 1089, 1052, 1026, 833, 776, 689.
+
+5.17. (±)-terc-butil-2-(((terc-butildimetilsilil)oxi)metil)aziridina-1-carboxilato
+(9)
+
+A uma solução de Ph3P (4,982 g, 19,0 mmol,1,5 eq) em THF-MeCN (9:1, 189
+mL) foi adicionado gota à gota DIAD (3,74 mL, 19,0 mmol, 1,5 eq) à 0 °C. Após 15
+min de agitação, uma solução de 35 (3,868 g, 12,7 mmol, 1,0 eq) em THF (25 mL)
+foi adicionada a essa solução, gota a gota, durante 15 min. A mistura reacional foi
+aquecida à temperatura ambiente e agitada por 24 horas. Decorrido este tempo os
+componentes voláteis foram evaporados e resíduo foi então purificado por
+cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 2%→10%), resultando em
+9 (2,074 g, 57 % de rendimento) como um óleo incolor.
+CCD: Rf = 0,54 (5% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 3,80 (dd, J = 11,4, 4,7 Hz, 1H), 3,63 (dd, J =
+11,4, 4,9 Hz, 1H), 2,56 (m, 1H), 2,26 (d, J = 6,0 Hz, 1H), 2,07 (d, J = 3,7 Hz, 1H),
+1,45 (s, 9H), 0,90 (s, 9H), 0,08 (s, 3H), 0,07 (s, 3H).
+RMN 13C (126 MHz, CDCl3) δ (ppm) = 162,1, 81,0, 63,4, 38,4, 29,2, 27,9, 25,9, 18,3,
+-5,30.
+IV vmax (puro, cm-1): 2955, 2930, 2897, 2887, 2858, 1721, 1472, 1463, 1392, 1367,
+1304, 1253, 1219, 1160, 1094, 836, 777.
+
+52
+
+5.18. (±)-terc-butil(1-(4-bromo-1H-indol-3-il)-3-((tercbutildimetilsilil)oxi)propan-2-il)carbamato (36)
+
+Em um balão de fundo redondo de 25 mL previamente flambado foi
+adicionado 8 (442 mg, 2,2 mmol, 1,0 eq) e éter seco (8 mL) sob atmosfera de
+argônio. A esta solução foi adicionado MeMgBr (3,0 M em éter, 0,90 mL, 2,9 mmol,
+1,3 eq) à temperatura ambiente. Observou-se intenso borbulhamento. Após esta
+mistura ser agitada à temperatura ambiente por 1,5 h, foi adicionado 9 (1,047 g, 3,6
+mmol, 1,7 eq) em éter seco (3 mL). A mistura reacional foi então agitada à
+temperatura ambiente por 7 h. Decorrido este tempo, a reação foi terminada com a
+adição de solução aquosa saturada de NH4Cl (5 mL). A fase aquosa foi extraída com
+éter (3 x 20 mL) e as frações orgânicas combinadas foram lavadas com brine (25
+mL), secas com MgSO4 e concentradas. O resíduo foi então purificado por
+cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 15%→30%), resultando
+em 36 (591 mg, 1,2 mmol, 55 % de rendimento) como um óleo vermelho.
+CCD: Rf = 0,54 (25% AcOEt/Hexano);
+RMN 1H (500 MHz, CDCl3): δ (ppm) = 8,38 (s, 1H), 7,35 – 7,18 (m, 2H), 7,09 (s, 1H),
+6,97 (t, J = 7,8 Hz, 1H), 4,85 (d, J = 7,4 Hz, 1H), 4,07 (m, 1H), 3,70 (m, 2H), 3,30 (m,
+2H), 1,34 e 0,99 (s, 9H), 0,93 (s, 9H), 0,07 (s, 6H).
+RMN
+
+13
+
+C (101 MHz, CDCl3) δ (ppm) = 155,7, 137,6, 125,8, 124,2, 123,9, 122,5,
+
+114,3, 113,6, 110,5, 78,9, 64,8, 53,1, 28,3, 28,1, 26,0, 18,3, -5,35, -5,40.
+IV vmax (puro, cm-1): 3426, 3305, 2953, 2928, 2857, 1688, 1503, 1471, 1425, 1391,
+1365, 1334, 1251, 1169, 1111, 1086, 1060, 1042, 833, 773, 736.
+
+5.19. (±)-terc-butil(1-(4-bromo-1-tosilindol-3-il)-3-((tercbutildimetilsilil)oxi)propan-2-il)carbamato (37)
+
+53
+
+A um balão de fundo redondo de 50 mL foram adicionados 36 (570 mg, 1,2
+mmol, 1,0 eq), Bu4N.HSO4 (67,9 mg, 0,2 mmol, 0,14 eq) e CH2Cl2 (10 mL). A esta
+solução foi adicionada uma solução de aquosa de NaOH 50% (0,61 mL) à
+temperatura ambiente. Após agitação por 5 minutos, foi adicionado a mistura
+reacional TsCl (458 mg, 2,4 mmol, 2,0 eq). Em seguida, a reação foi agitada a
+temperatura ambiente por 45 min. Decorrido este tempo a reação foi vertida em
+água, a fase aquosa extraída com éter (3 x 25 mL). As frações orgânicas
+combinadas foram lavadas com brine (10 mL), secas com MgSO 4 e concentradas. O
+resíduo foi então purificado por cromatografia em coluna flash (sílica gel,
+AcOEt/Hexano, 5%→25%), resultando em 37 (608 mg, 0,95 mmol, 81 % de
+rendimento) como um sólido amarelo pálido.
+CCD: Rf = 0,45 (10% AcOEt/Hexano);
+RMN 1H (400 MHz, CDCl3): δ (ppm) = 7,93 (d, J = 8,3 Hz, 1H), 7,73 (d, J = 8,3 Hz,
+2H), 7,48 (s, 1H), 7,36 (dd, J = 7,8, 0,7 Hz, 1H), 7,22 (d, J = 8,1 Hz, 2H), 7,09 (t, J =
+8,1 Hz, 1H), 4,77 (d, J = 8,2 Hz, 1H), 4,11-4,00 (m, 1H), 3,69 (m, 2H), 3,23 (m, 1H),
+3,17 – 3,03 (m, 1H), 2,34 (s, 3H), 1,36 e 1,05 (s, 9H), 0,93 (s, 9H), 0,07 (s, 6H).
+RMN
+
+13
+
+C (101 MHz, CDCl3) δ (ppm) = 155,3 , 145,0, 136,4, 135,0, 129,9, 129,0,
+
+127,8, 126,8, 125,8, 125,2, 122,5, 119,7, 114,5, 112,8, 79,2, 64,6, 52,0, 28,3, 25,9,
+21,5, 18,3, -5,42, -5,47.
+IV vmax (puro, cm-1): 3410, 2954, 2929, 2857, 1705, 1367, 1250, 1173, 1120, 1103,
+985, 936, 776, 670.
+
+5.20. (±)-terc-butil(1-(4-bromo-1-tosil-indol-3-il)-3-hidroxipropan-2il)carbamato (38)
+
+A um balão de fundo redondo de 50 mL foram adicionados 37 (587 mg, 0,92
+mmol, 1,0 eq) e THF seco (5 mL). Em seguida, foi adicionado a esta solução TBAF
+(1,0 M em THF, 2,03 mL, 2,03 mmol, 2,2 eq) à temperatura ambiente. A reação foi
+agitada a esta temperatura por 2 h. Decorrido este tempo foi adicionado a mistura
+reacional uma solução saturada de NaHCO3
+54
+
+(aq).
+
+Em seguida, a fase aquosa foi
+
+extraída com AcOEt (3 x 25 mL), as frações orgânicas combinadas foram lavadas
+com brine (15 mL), secas com MgSO4 e concentradas. O resíduo foi então purificado
+por cromatografia em coluna flash (sílica gel, AcOEt/Hexano, 40%→60%),
+resultando em 38 (460 mg, 0,88 mmol, 96 % de rendimento) como um sólido branco.
+CCD: Rf = 0,47 (50% AcOEt/Hexano);
+RMN 1H (400 MHz, CDCl3): δ (ppm) = 7,97 – 7,92 (dd, J = 8,3, 0,8 Hz, 1H), 7,76 –
+7,70 (m, 2H), 7,49 (s, 1H), 7,37 (dd, J = 7,8, 0,8 Hz, 1H), 7,23 (m, 2H), 7,11 (t, J =
+8,1 Hz, 1H), 4,80 (m, 1H), 3,97 (m, 1H), 3,79 (dd, J = 11,1, 3,4 Hz, 1H), 3,28 (dd, J =
+14,9, 5,5 Hz, 1H), 3,09 (m, 1H), 2,34 (s, 3H), 1,40 (s, 9H).
+RMN
+
+13
+
+C (100 MHz, CDCl3) δ (ppm) = 156,2, 145,2, 136,4, 134,8, 130,0, 128,7,
+
+127,9, 126,8, 126,1, 125,4, 119,2, 114,3, 112,9, 79,9, 65,1, 53,5, 28,2, 27,6, 21,6.
+IV vmax (puro, cm-1): 3404, 2977, 2930, 2873, 1689, 1597, 1554, 1512, 1455, 1412,
+1367, 1306, 1293, 1247, 1172, 1131, 1088, 1053, 984, 812, 775, 741, 703, 671, 616.
+
+55
+
+6 Referências bibliográficas
+1 HESSE, M. Alkaloids: Nature’s curse or blessing. New York: John Wiley,
+2002. 413 p.
+2 MOSS, G.P.; SMITH, P.A.S.; TAVERNIER; D. Glossary of class names of
+organic compounds and reactive intermediates based on structure (IUPAC
+Recommendations 1995). Pure and Applied Chemistry, v. 67, n. 8 e 9, p.
+1307-1375, 1995.
+3 DEWICK, P.M. Medicinal natural products: A biosynthetic approach. 2nd
+Edition. New York: John Wiley, 2002. 292 p.
+4 SCHIFF, P. Ergot and its alkaloids. American Journal of Pharmaceutical
+Education, v. 70, n. 5, Article 98, 2006.
+5 WALLWEY, C.; LI, S. M. Ergot alkaloids: structure diversity, biosynthetic gene
+clusters and functional proof of biosynthetic genes. Natural Products
+Reports, v 28, p. 496, 2011.
+6 HORWELL, D. C.; NICHOLS, P. D.; RATCLIFFE, G. S.; ROBERTS, E.
+Synthesis of Conformationally Constrained Tryotophan Derivatives. Journal
+of Organic Chemistry, v. 59, n. 16, p. 4418-4423, 1994.
+7 BAGLEY, M. C.; HIND, S. L.; MOODY, C. J. Studies towards the synthesis of
+diazonamide A. Synthesis of the indole bis-oxazole fragmente. Tetrahedron
+Letters, v. 41, p. 6897-6900, 2000.
+8 GRIFFITHS-JONES, C. M.; KNIGHT, D. W.A total synthesis of (±)-αcyclopiazonic acid using a cationic cascade as a key step. Tetrahedron, v. 67,
+p. 8515-8528, 2011.
+9 YOKOYAMA, Y.; KONDO, K.; MlTSUHASHI, M.; MURAKAMA, Y. Total
+Synthesis of Optically Active Chanoclavine-i. Tetrahedron Letters, v. 37, n.
+52, p. 9309-9312, 1996.
+10 LIM, H. J.; GALLUCCI, J. C.; RAJANBABU, T. V. Annulated Diketopiperazines
+from
+
+Dipeptides
+
+or
+
+Schöllkopf
+
+Reagents
+
+via
+
+Tandem
+
+Cyclization-
+
+Intramolecular N-Arylation. Organic Letters, v. 12, n. 9, p. 2162-2165, 2010.
+11 YOKOYAMA, Y; MATSUMOTO, T.; MURAKAMI, Y. Optically Active Total
+Synthesis of Clavicipitic Acid. Journal of Organic Chemistry, v. 60, p. 14861487, 1995.
+
+56
+
+12 DECK, J. A.; MARTIN, S. F. Enantiosselective Synthesis of (+)-Isolysergol via
+Ring-Closing Metathesis. Organic Letters, v. 12, No. 11 p. 2610-2613, 2010.
+13 MARI, M. BARTOCCINI, F.; PIERSANTI, G. Synthesis of (−)-Epi-Indolactam V
+by an Intramolecular Buchwald− Hartwig C−N Coupling Cyclization Reaction
+Journal of Organic Chemistry, v. 78, p. 7727-7734, 2013.
+14 YOKOYAMA, Y.; HIKAWA, H.; MITSUHASHI, M.; UYAMA, A.; HIROKI, Y.;
+MURAKAMI, Y. Total Synthesis without Protection: Three-Step Synthesis of
+Optically Active Clavicipitic Acids by a Biomimetic Route. European Journal
+of Organic Chemistry, n. 6, p. 1244-1253, 2004.
+15 SMITH, D. R. M.; WILLEMSE, T.; GKOTSI, D. S.; SCHEPENS, W.; MAES, B.
+U. W.; BALLET, S.; GOSS, R. J. M. The First One-Pot Synthesis of L‑7Iodotryptophan from 7‑Iodoindole and Serine, and an Improved Synthesis of
+Other L‑7-Halotryptophans. Organic Letters, v. 16, p. 2622-2625, 2014.
+16 KU, J.; JEONG, B.; JEW, S.; PARK, H. Enantioselective Synthesis of (-)-cisClavicipitic Acid. Journal of Organic Chemistry, v. 72, p. 8115-8118, 2007.
+17 NOJI, T.; OKANO, K.; TOKUYAMA, H. A concise total synthesis of (-)indolactam V. Tetrahedron, v. 71, p. 3833-3837, 2015.
+18 KORNFELD, E.; WOODWARD, R. The total synthesis of lysergic acid.
+Journal American Chemical Society, v. 78, p. 3087-3114, 1956.
+19 LIU, Q.; JIA, Y. Total synthesis of (+)-lysergic acid. Organic Letters, v. 13, n.
+18, p. 4810-4810, 2011.
+20 RAMAGE, R.; COULTON, S. A new synthetic route to (±) lysergic acid.
+Tetrahedron, v. 37, p. 157-164, 1981.
+21 REBEK, J.; SHUE, Y. Synthesis of ergot alkaloids from tryptophan. Journal
+American Chemical Society, v. 106, p. 1813-1819, 1984.
+22 CACCHI, S.; ORTAR, G. A concise, palladium-catalyzed approach to (±)
+lysergic acid. Tetrahedron, v. 19, p. 3117-3120, 1988.
+23 MOLDVAI, I.; SZANTAY, C. Enantioefficient synthesis of α-ergocryptine: First
+direct synthesis of (+)-lysergic acid. Journal Organic Chemistry, v. 69, p.
+5993-6000, 2004.
+24 HENDRICKSON, J.; WANG, J. A new synthesis of lysergic acid. Organic
+Letters, v. 6, n. 1, p. 3-6, 2004.
+
+57
+
+25 INUKI, S.; OHNO, H. Total synthesis of (±)-lysergic acid, lysergol and
+Isolysergol by Palladium-catalyzed domino cyclization of amino allenes
+bearing a bromoindolyl group. Organic Letters, v. 10, n. 22, p. 5239-5242,
+2008.
+26 INUKI, S.; OHNO, H. Enantioselective total synthesis of (+)-lysergic acid, (+)lysergol and (+)-Isolysergol by palladium-catalyzed domino cyclization of
+allenes bearing a bromoindolyl group. Journal Organic Chemistry, v. 76, p.
+2072-2083, 2011.
+27 IWATA, A.; OHNO, H. Formal total synthesis of (+)- lysergic acid via Zn(II)mediated regioselective ring-opening reduction of 2-alkynyl-3-indolyoxirane.
+Journal Organic Chemistry, v. 76, p. 5506-5512, 2011.
+28 UMEZAKI, S.; FUKUYAMA, T. Total synthesis of (+)-lysergic acid. Organic
+Letters, v. 15, n. 16, p. 4230-4233, 2013.
+29 LIU, Q.; JIA, Y. Total synthesis of (+)-lysergic acid. Journal Organic
+Chemistry, v. 78, p. 10885−10893, 2013.
+30 KANNO, R.; YOKOSHIMA, S.; KANAI, M.; FUKUYAMA, T. Total synthesis of
+(+)-lysergic acid. The Journal of Antibiotics, p.1-8, 2017
+31 VILCA, Edson Emilio Garambel. Síntese de um intermediário indólicopiperidínico, visando a síntese total do ácido lisérgico. 2014. 155 p.
+Dissertação (Mestrado em Química Orgânica e Biológica) – Instituto de
+Química de São Carlos, Universidade de São Paulo, São Carlos, 2016.
+32 BURTOLOSO, A. C. B.; DIAS, R. M. P.; BERNARDIM, B. α,β-Unsaturated
+Diazoketones as Useful Platforms in the Synthesis of Nitrogen Heterocycles.
+Accounts of Chemical Research, v. 48, p. 921-934, 2015.
+33 ROSSET, I.; BURTOLOSO, A. Preparation of α,β-unsatured diazoketones
+from aldehydes. Application in the construction of substituted dihydropyridin-3ones. Journal Organic Chemistry, v. 78, p. 9464-9470, 2013.
+34 PINHO, V.; BURTOLOSO, A. Total synthesis of (-)-Indolizidine 167B via an
+unusual
+
+Wolff
+
+rearrangement
+
+from
+
+an
+
+α,β-unsatured
+
+diazoketones.
+
+Tetrahedron Letters, v. 53, p. 876-878, 2012.
+35 EVERSON, D. A.; SHRESTHA, R.; WEIX, D. J. Nickel-Catalyzed Reductive
+Cross-Coupling of Aryl Halides with Alkyl Halides. Journal of American
+Chemical Society, v. 132, p. 920-921, 2010.
+58
+
+36 EVERSON, D. A.; JONES, B. A.; WEIX, D. J. Replacing Conventional Carbon
+Nucleophiles with Electrophiles: Nickel-Catalyzed Reductive Alkylation of Aryl
+Bromides and Chlorides. Journal of American Chemical Society, v. 134, p.
+6146-6159, 2012.
+37 WEIX, D. J. Methods and Mechanisms for Cross-Electrophile Coupling of Csp2
+Halide with Alkyl Electrophiles. Accounts of Chemical Research, v. 48, p.
+1767-1775, 2015.
+38 BISWAS, S.; WEIX, D. J. Mechanism and Selectivity in Nickel-Catalysed
+Cross-Electrophile Coupling of Aryl Halides with Alkyl Halides. Journal of
+American Chemical Society, v. 135, p. 16192-16197, 2013.
+39 LU, X.; YI, J; ZHANG, Z.; DAI, J.; LIU, J.; XIAO, B.; FU, Y.; LIU, L. Expedient
+Synthesis of Chiral α-Amino Acids through Nickel-Catalyzed Reductive CrossCoupling. Chemistry a European Journal, v. 20, p. 15339 – 15343, 2014.
+40 NICOLAOU, K. C.; SNYDER, S. A.; HUANG, X.; SIMONSEN, K. B.;
+KOUMBIS, A. E.; BIGOT, A. Studies toward Diazonamide A Initial Synthetic
+Forays Directed toward the Originally Proposed Structure. Journal of
+American Chemical Society, v. 126, p. 10162-10173, 2004.
+41 BOCCHI, V.; PALLA; G. High Yield Selective Bromination and Iodination of
+Indoles in N,N-Dimethylformamide. Synthesis, v. 12, p. 1096-1097, 1982.
+42 PHIPPS, R. J.; GRIMSTER, N. P.; GAUNT, M. J. Cu(II)-Catalyzed Direct and
+Site-Selective Arylation of Indoles Under Mild Conditions. Journal of
+American Chemical Society, v. 130, p. 8172–817, 2008.
+43 SAULNIER, M. G.; GRIBBLE, G. W. Generation and Reactions of 3-Lithio-1(phenylsulfonyl)indole. Journal Organic Chemistry, v. 47, n. 5, p. 757-761,
+1982.
+44 VILAÇA, H.; HORTELÃO, A. C. L.; CASTANHEIRAS, E. M. S.; QUEIROZ M.
+R. P.; HILLIOU, L.; HAMLEY, I. W.; MARTINS, J A.; FERREIRA, P. M. T.
+Dehydrodipeptide Hydrogelators Containing Naproxen N‑Capped Tryptophan:
+Self-Assembly, Hydrogel Characterization, and Evaluation as Potential Drug
+Nanocarriers. Biomacromolecules, v. 16, p. 3562-3572, 2015.
+45 NAVARRE, L.; MARTINEZ, R.; GENET, J.; DARSES, S. Access to
+Enantioenriched
+
+α-Amino
+
+Esters
+
+59
+
+via
+
+Rhodium-Catalyzed
+
+1,4-
+
+Addition/Enantioselective Protonation. Journal of American Chemical
+Society, v. 130, p. 6159-6169, 2008.
+46 PRASAD ATMURI, N. D.; LUBELL, W. D. Preparation of N-(Boc)-Allylglycine
+Methyl Ester Using a Zinc-mediated, Palladium-catalyzed Cross-coupling
+Reaction. Organic Syntheses, v. 92, p. 103-116, 2015.
+47 KAWAMURA, Meire Yasuko. Emprego de Diazocetonas α,β-Insaturadas
+com Geometria Z na Direta Construção de Esqueletos Indolizidínicos e
+Piperidínicos Funcionalizados. 2016. 207 p. Dissertação (Mestrado em
+Química Orgânica e Biológica) – Instituto de Química de São Carlos,
+Universidade de São Paulo, São Carlos, 2016.
+48 OLLIVIER, A.; GOUBERT, M.; TURSUN, A.; CANET, I.; SINIBALDI, M.
+Orthogonally protected glycerols and 2-aminodiols: useful building blocks in
+heterocyclic chemistry. ARKIVOC, v. ii, p. 108-126, 2010.
+49 TSUJI, J. Palladium Reagents and Catalysts. 1 ed. New York: John Wiley
+and Sons, 1995, 560 p.
+50 TANAKA, M. HIKAWA, H. YOKOYAMA, Y. Convenient synthesis of chiral
+tryptophan derivatives using Negishi cross-coupling. Tetrahedron, v. 67, p.
+5897-5901, 2011.
+51 COLARUSSO, S.; CONTE, I.; DI FILIPPO, M.; ERCOLANI, C.; MACKAY,
+A.C.; PALUMBI, M. C.; FERREIRA, M. R. R.; STANSFIELD, I., ZARAMELLA,
+S.; NARJES, F.; HABERMANN, J. Development of a Scalable Chiral
+Synthesis of MK-3281, an Inhibitor of the Hepatitis C Virus NS5B Polymerase.
+SYNLETT, No. 11, p. 1527–1532, 2011.
+
+60
+
+7 Seção de espectros
+1
+
+Figura 15. Espectro de RMN- H (500 MHz, CDCl3) do composto 8.
+
+61
+
+13
+
+Figura 16. Espectro de RMN- C (125 MHz, CDCl3) do composto 8.
+
+62
+
+Figura 17. Espectro no IV de 8.
+
+63
+
+1
+
+Figura 18. RMN- H (500 MHz, CDCl3) do composto 14.
+
+64
+
+13
+
+Figura 19. RMN- C (125 MHz, CDCl3) do composto 14.
+
+65
+
+Figura 20. Espectro no IV de 14.
+
+66
+
+1
+
+Figura 21. RMN- H (500 MHz, CDCl3) do composto 17.
+
+67
+
+1
+
+Figura 22. RMN- H (500 MHz, CDCl3) do composto 5.
+
+68
+
+13
+
+Figura 23. RMN- C (100 MHz, CDCl3) do composto 5.
+
+69
+
+Figura 24. Espectro no IV de 5.
+
+70
+
+1
+
+Figura 25. RMN- H (500 MHz, CDCl3) do composto 20.
+
+71
+
+13
+
+Figura 26. RMN- C (100 MHz, CDCl3) do composto 20.
+
+72
+
+Figura 27. Espectro no IV de 20.
+
+73
+
+1
+
+Figura 28. RMN- H (500 MHz, CDCl3) do composto 21.
+
+74
+
+13
+
+Figura 29. RMN- C (125 MHz, CDCl3) do composto 21.
+
+75
+
+Figura 30. Espectro no IV de 21.
+
+76
+
+1
+
+Figura 31. RMN- H (500 MHz, CDCl3) do composto 22.
+
+77
+
+13
+
+Figura 32. RMN- C (125 MHz, CDCl3) do composto 22.
+
+78
+
+Figura 33. Espectro no IV de 22.
+
+79
+
+1
+
+Figura 34. RMN- H (500 MHz, CDCl3) do composto 4.
+
+80
+
+13
+
+Figura 35. RMN- C (125 MHz, CDCl3) do composto 4.
+
+81
+
+Figura 36. Espectro no IV de 4.
+
+82
+
+1
+
+Figura 37. RMN- H (500 MHz, CDCl3) do composto 23.
+
+83
+
+13
+
+Figura 38. RMN- C (125 MHz, CDCl3) do composto 23.
+
+84
+
+Figura 39. Espectro no IV de 23.
+
+85
+
+1
+
+Figura 40. RMN- H (400 MHz, CDCl3) do composto 27.
+
+86
+
+Figura 41. Espectro no IV de 27.
+
+87
+
+1
+
+Figura 42. RMN- H (400 MHz, CDCl3) do composto 28.
+
+88
+
+Figura 43. Espectro no IV de 28.
+
+89
+
+1
+
+Figura 44. RMN- H (500 MHz, CDCl3) do composto 29.
+
+90
+
+13
+
+Figura 45. RMN- C (126 MHz, CDCl3) do composto 29.
+
+91
+
+Figura 46. Espectro no IV de 29.
+
+92
+
+1
+
+Figura 47. RMN- H (500 MHz, CDCl3) do composto 35.
+
+93
+
+13
+
+Figura 48. RMN- C (101 MHz, CDCl3) do composto 35.
+
+94
+
+Figura 49. Espectro no IV de 35.
+
+95
+
+1
+
+Figura 50. RMN- H (500 MHz, CDCl3) do composto 9.
+
+96
+
+Figura 51. RMN-13C (126 MHz, CDCl3) do composto 9.
+
+97
+
+Figura 52. Espectro no IV de 9.
+
+98
+
+1
+
+Figura 53. RMN- H (500 MHz, CDCl3) do composto 36.
+
+99
+
+13
+
+Figura 54. RMN- C (101 MHz, CDCl3) do composto 36.
+
+100
+
+Figura 55. Espectro no IV de 36.
+
+101
+
+1
+
+Figura 56. RMN- H (400 MHz, CDCl3) do composto 37.
+
+102
+
+13
+
+Figura 57. RMN- C (101 MHz, CDCl3) do composto 37.
+
+103
+
+Figura 58. Espectro no IV de 37.
+
+104
+
+1
+
+Figura 59. RMN- H (400 MHz, CDCl3) do composto 38.
+
+105
+
+13
+
+Figura 60. RMN- C (100 MHz, CDCl3) do composto 38.
+
+106
+
+Figura 61. Espectro no IV de 38.
+
+107
+
+

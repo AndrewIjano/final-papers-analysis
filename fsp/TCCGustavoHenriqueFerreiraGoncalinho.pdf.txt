@@ -1,0 +1,1964 @@
+Universidade de São Paulo
+Faculdade de Saúde Pública
+Departamento de Nutrição
+
+Biomarcadores do consumo de EPA e DHA e sua associação com
+marcadores inflamatórios em indivíduos adultos
+
+Aluno: Gustavo Henrique Ferreira Gonçalinho
+N°USP: 8035146
+
+Orientadora:
+Professora Doutora Nágila Raquel Teixeira Damasceno
+
+Trabalho de Conclusão do Curso de
+Bacharelado em Nutrição
+
+São Paulo, 2016
+
+Biomarcadores do consumo de EPA e DHA e sua associação com
+marcadores inflamatórios em indivíduos adultos
+
+Aluno: Gustavo Henrique Ferreira Gonçalinho
+N°USP: 8035146
+
+Orientadora:
+Professora Doutora Nágila Raquel Teixeira Damasceno
+
+Trabalho de Conclusão do Curso de
+Bacharelado em Nutrição
+
+São Paulo, 2016
+
+É expressamente proibida a comercialização deste documento tanto na sua forma impressa como
+eletrônica. Sua reprodução total ou parcial é permitida exclusivamente para fins acadêmicos e
+científicos, desde que na reprodução figure a identificação do autor, título, instituição e ano da
+dissertação.
+
+RESUMO
+Introdução: As doenças cardiovasculares são a maior causa de mortalidade no Brasil e no
+mundo, e estas doenças têm como principal fator de risco modificável o estilo de vida. Os ácidos
+graxos poli-insaturados EPA e DHA plasmáticos têm sido associados a melhores parâmetros
+inflamatórios cardiometabólicos. Objetivo: Considerando o potencial anti-inflamatório do EPA, do
+DHA e de seus metabólitos, o objetivo do presente estudo foi associar os biomarcadores de consumo
+de EPA e DHA, individualmente e somados, com marcadores inflamatórios em indivíduos adultos.
+Métodos: A partir de uma subamostra do estudo CARDIONUTRI (estudo clínico, randomizado,
+controlado e duplo-cego com seguimento de 8 semanas) foi realizado um corte transversal,
+selecionando 291 indivíduos de todos os grupos no período basal (t0). Foram monitorados o perfil
+clínico e antropometria. Amostras de sangue foram coletadas após 12 horas de jejum para avaliação
+do perfil lipídico, glicídico e inflamatório. Foi feita estratificação dos indivíduos em dois grupos,
+segundo a mediana, para as variáveis de EPA e DHA plasmáticos isolados. Já para o índice ômega-3
+plasmático (EPA e DHA plasmáticos somados) foi utilizado como ponte de corte o valor 8%. Para a
+realização das análises estatísticas, foi utilizado o programa estatístico SPSS v20.0. Resultados:
+DHA associou-se negativamente com TG e positivamente com HDL pequena e grande, tamanho de
+LDL e com leptina. EPA associou-se negativamente com HDL, Apo A-I, tamanho de LDL, índice
+HOMA-IR, insulinemia e positivamente com LDL pequena e TNF-α. O índice ω-3 se associou
+positivamente com HDL grande e LDL modificada, e negativamente com índice HOMA-IR,
+insulinemia, IL-7 e IL-10. Nas correlações lineares realizadas, o EPA plasmático correlacionou-se
+positivamente de modo fraco com a razão TG/HDL e com a concentração relativa e absoluta de LDL
+pequena, e correlacionou-se negativamente de modo fraco com o tamanho de LDL e insulinemia. Já
+o DHA plasmático correlacionou-se positivamente de modo fraco com a concentração absoluta de
+HDL grande e com o tamanho de LDL, e negativamente de modo fraco com TG, glicemia, razão
+TG/HDL, concentrações absoluta e relativa de LDL pequena e o índice HOMA-IR. O índice ômega3 correlacionou-se positivamente de modo fraco com LDL modificada e negativamente de modo
+fraco com o índice HOMA-IR, IL-7, IL-10 e insulinemia. Nas correlações parciais, os principais
+resultados de EPA foram as correlações fortemente positivas com Apo A-I, com LDL grande e com
+HDL grande. Já o DHA teve correlações fortemente positivas com adiponectina e tamanho de LDL e
+correlações fortemente negativas com TG, LDL pequena e índice HOMA-IR. O índice ômega-3
+apresentou correlações fortemente positivas com Apo A-I, adiponectina e HDL grande. Conclusão:
+Concentrações mais altas de EPA e/ou DHA trazem benefícios cardiometabólicos, principalmente
+pela redução de TG, aumento da sensibilidade à insulina e aumento de HDL.
+
+SUMÁRIO
+1. INTRODUÇÃO................................................................................................................................1
+1.1. Aspectos epidemiológicos e fatores de risco para doenças cardiovasculares.................................1
+1.2. Fisiopatologia da aterosclerose.......................................................................................................1
+1.3. Ácidos graxos poli-insaturados ω-3 e doenças cardiovasculares....................................................3
+1.4. Efeitos isolados do ácido docosahexaenoico nas doenças cardiovasculares...................................5
+1.5. Efeitos isolados do ácido eicosapentaenoico nas doenças cardiovasculares...................................7
+2. OBJETIVOS.....................................................................................................................................9
+3. METODOLOGIA............................................................................................................................9
+3.1. Casuística........................................................................................................................................9
+3.2. Amostra.........................................................................................................................................10
+3.3. Avaliações clínica e antropométrica..............................................................................................10
+3.4. Avaliações bioquímicas.................................................................................................................12
+3.4.1. Coleta de sangue.........................................................................................................................12
+3.4.2. Determinação do perfil lipídico e de apolipoproteínas..............................................................12
+3.4.3. Determinação do tamanho das lipoproteínas LDL e HDL.........................................................12
+3.4.4. Determinação da concentração de LDL modificada..................................................................13
+3.4.5. Determinação da concentração de autoanticorpos anti-LDL(-).................................................14
+3.4.6. Análise da composição de ácidos graxos plasmáticos...............................................................14
+3.4.7. Determinação da adiponectina sérica.........................................................................................15
+3.4.8. Determinação da leptina sérica...................................................................................................15
+3.4.9. Determinação da glicose, insulina e índice de resistência à insulina (HOMA-IR)....................16
+3.4.10. Determinação da concentração de citocinas e quimiocinas.....................................................16
+
+3.5. Análises estatísticas.......................................................................................................................16
+4. RESULTADOS...............................................................................................................................17
+5. DISCUSSÃO...................................................................................................................................24
+6. CONCLUSÃO................................................................................................................................27
+7. REFERÊNCIAS BIBLIOGRÁFICAS.........................................................................................27
+
+1. INTRODUÇÃO
+1.1. Aspectos epidemiológicos e fatores de risco para doenças cardiovasculares
+As doenças cardiovasculares (DCV) constituem um grupo de doenças inter-relacionadas que
+inclui a doença arterial coronariana (DAC), aterosclerose, hipertensão arterial, doença cardíaca
+isquêmica, doença vascular periférica e insuficiência cardíaca (IC). As DCV são a maior causa de
+mortalidade no mundo, representando 31% das mortes em 2008 (17,5 milhões), e também no Brasil,
+representando 29,4% dos óbitos em 2006 (302.682) (AHA, 2014; MDS, 2009; SBC, 2010; IOM,
+2010; WHO, 2011). As DCV são doenças de complexa etiologia multifatorial, cujos principais
+fatores de risco incluem hereditariedade, gênero masculino, tabagismo, hipertensão, obesidade e
+sedentarismo. Do ponto de vista bioquímico, os maiores fatores de risco são a concentração
+plasmática elevada de lipoproteínas de baixa densidade (LDL) e de triacilgliceróis, e baixo conteúdo
+de colesterol associado à lipoproteínas de alta densidade (HDL). O diabetes também é um importante
+fator de risco, uma vez que o risco de DAC é de 3 a 5 vezes maior nesse grupo, ainda que outros
+fatores de risco conhecidos estejam controlados. A coexistência de fatores de risco causa maior
+efeito que o somatório, e, de fato, esse impacto é geralmente sinérgico (AHA, 2014; SBC, 2010;
+IOM,2010; WHO, 2011). A DAC é a doença cardiovascular que tem a maior causa de mortes no
+mundo e é a segunda DCV que mais causa de mortes no Brasil (90.604 – 8,8% do total de óbitos),
+sendo que a primeira é o acidente vascular encefálico (96.530 – 9,4% do total de óbitos) (MDS,
+2009; WHO, 2011)
+O termo DAC descreve a doença cardíaca causada pelo impedimento ao fluxo sanguíneo
+coronariano normal. Na maioria dos casos, a DAC é causada por aterosclerose, o que afeta não
+somente as artérias coronárias, mas também artérias em outras áreas do corpo. As DAC podem
+causar isquemia do miocárdio e angina, infarto do miocárdio ou ataque cardíaco, arritmias cardíacas,
+defeitos de condução, insuficiência cardíaca e morte súbita. A aterosclerose é, de longe, a causa mais
+comum de DAC, sendo seu desenvolvimento um processo crônico, que pode demandar décadas até
+sua primeira manifestação clínica (Porth & Matfin, 2010).
+1.2. Fisiopatologia da aterosclerose
+O termo aterosclerose, que vem das palavras gregas atheros (“sopa” ou “pasta”) e sclerosis
+(“dureza”), denota a formação de lesões fibrogordurosas a partir de um processo inflamatório crônico
+no revestimento da túnica íntima das artérias de grande e médio calibres (Porth & Matfin, 2010). A
+disfunção endotelial é o principal mecanismo de base, caracterizado pela alteração da função
+1
+
+endotelial, aumento da expressão de moléculas de adesão e comprometimento das respostas
+vasodilatadoras (Porth & Matfin, 2010).
+Aproximadamente 70% das lipoproteínas de baixa densidade (LDLs) são removidas da
+corrente sanguínea através da via dependente de receptores para LDLs (aproximadamente 75% dos
+receptores estão localizados nos hepatócitos) e o resto é removido pela via fagocítica, envolvendo a
+captação das LDLs por monócitos e macrófagos, via receptores scavengers (LOX-1, LOX-2, CD36)
+(Porth & Matfin, 2010). Na presença de disfunção endotelial, o processo inflamatório local cria um
+microambiente favorável à internalização das partículas de LDL. Neste ambiente, os componentes
+superficiais da LDL (i. e., fosfolipídeos, colesterol, apo B-100) na presença de radicais livres e
+reduzido conteúdo antioxidante, podem ser modificados. A LDL oxidada possui vários efeitos
+diretos sobre as células endoteliais, incluindo a redução na viabilidade endotelial e na sua produção
+de óxido nítrico que é um potente vasodilatador e ateroprotetor. Além disso, a apo B-100 associada
+ou não a lipídeos oxidados se liga aos receptores scavenger expressos pelos macrófagos, que então
+endocitam a LDL oxidada. Os receptores scavenger não são sub-regulados por sua carga (LDL
+oxidada) ou por subprodutos intracelulares da LDL oxidada que foi endocitada, portanto, não há um
+feedback negativo que limita sua captação pelos macrófagos. Como consequência, os macrófagos se
+transformam em células espumosas, perdem suas funções imunológicas e passam a ser unidades
+secretoras de citocinas inflamatórias e depósito de colesterol dentro da íntima. Esse processo gera as
+estrias gordurosas, que evoluem para as lesões ateroscleróticas primárias e, posteriormente, tornamse lesões maduras, vascularizadas, com um core necrótico e com deposição de cálcio.
+A LDL oxidada também pode contribuir para indução e manutenção da resposta inflamatória
+crônica, que se inicia in situ, mas evolui para expressão e secreção de diversas citocinas
+inflamatórias (TNF-α, IFN-γ, IL-6 e IL-1β), agregação plaquetária, seguida de proliferação e
+migração das células do músculo liso vascular para dentro da íntima, proliferação de tecido
+conjuntivo e formação das placas fibrosas (Porth & Matfin, 2010).
+Uma placa fibrosa típica consiste em uma cápsula composta, em sua maioria, por células
+musculares lisas com tecido conectivo denso contendo colágeno, elastina, proteoglicanos e
+membranas basais, que reveste uma área rica em macrófagos, células musculares lisas e linfócitos T.
+Geralmente, há um núcleo necrótico profundo que contém restos celulares, depósito de lipídeos
+extracelulares e cristais de colesterol. Posteriormente, é comum haver deposição de sais de cálcio
+com o colesterol e outros lipídeos, resultando em calcificações duras, que aumentam a rigidez das
+artérias (Porth & Matfin, 2010).
+2
+
+As artérias ateroscleróticas perdem a maior parte de sua capacidade de relaxamento e, por
+causa das áreas necróticas em suas paredes, sofrem ruptura com facilidade. Além disso, nos locais
+em que as placas fazem protrusão no fluxo sanguíneo, o caráter áspero de suas superfícies provoca a
+formação de coágulos, com consequente desenvolvimento de trombos ou êmbolos, os quais podem
+bloquear subitamente todo o fluxo sanguíneo na artéria. A constrição causada pelas placas fibrosas
+pode resultar em estagnação do fluxo sanguíneo, que pode ser grave, uma vez que os coágulos
+tendem a se formar em locais com fluxo sanguíneo diminuído. Os coágulos também podem se
+formar pela exposição de tecidos danificados. Uma vez formado, é possível que o coágulo migre pela
+corrente sanguínea obstruindo artérias no coração ou no cérebro. O maior evento no infarto do
+miocárdio é a oclusão aguda de uma ou mais artérias coronárias epicárdicas. As fissuras das placas
+com hemorragia intravascular e adesão de plaquetas, os espasmos vasculares e a formação de
+trombos são fatores cruciais no desenvolvimento do infarto (Porth & Matfin, 2010).
+Considerando a gravidade dos eventos cardiovasculares, que podem ser fatais ou altamente
+limitantes, o monitoramento dos fatores de risco, associados à ações preventivas, tornam-se a base
+dos principais programas de saúde pública voltados a saúde cardiovascular.
+Destaca-se ainda o papel inquestionável do estilo de vida como variável modificável que tem
+ação importante em diversos fatores de risco cardiovasculares, tais como obesidade, hipertensão,
+diabetes, tabagismo e dislipidemias. Nesse contexto, a dieta passar a exercer um relevante papel
+cardioprotetor, sob a perspectiva do conteúdo de fibras alimentares, de ácidos graxos
+monoinsaturados e insaturados, em detrimento do papel aterogênico associado aos carboidratos
+refinados, sódio e gorduras saturadas, colesterol e ácidos graxo trans.
+1.3. Ácidos graxos poli-insaturados ω-3 e doenças cardiovasculares
+Os ácidos graxos poli-insaturados (AGPI) são ácidos carboxílicos formados por longas
+cadeias não ramificadas compostas por número par de carbonos e apresentam mais de uma dupla
+ligação. Estes ácidos graxos são classificados de acordo com a posição da primeira dupla ligação
+contada a partir de seu radical metil (ômega – ω) ou a partir de seu grupo funcional (representado
+pela letra delta – δ). Desses, os ácidos graxos denominados ω-3 têm despertado interesse na
+comunidade científica e do público geral por causa de sua essencialidade, mas também devido sua
+associação inversa com as doenças cardiovasculares (Anderson & Ma, 2009; Karkow, 2010; Wang et
+al, 2006). Os AGPI ω-3 se encontram em alimentos de origem marinha, principalmente o ácido
+eicosapentaenoico (EPA) e o ácido docosahexaenoico (DHA) e, em alimentos de origem vegetal, sob
+
+3
+
+a forma de ácido graxo alfa-linolênico (ALA), sendo que os AGPI ω-3 mais consumidos na dieta
+correspondem ao ALA (Akoh & Min, 2002; Anderson & Ma, 2009; Karkow, 2010; SBC, 2010).
+O fígado, o tecido adiposo e as glândulas mamárias são capazes de sintetizar diferentes ácidos
+graxos a partir de glicose e aminoácidos, por meio de reações enzimáticas específicas: elongação,
+com a inserção de novos átomos de carbono na cadeia carbônica de ácidos graxos e dessaturação,
+com a formação de duplas ligações na cadeia carbônica de um ácido graxo. No entanto, o organismo
+humano não possui enzimas delta-12 e delta-15 dessaturases, responsáveis por adicionar uma dupla
+ligação antes do nono carbono a partir da extremidade distal. Dessa maneira, assim como os AGPI
+ω-6, os AGPI ω-3 não podem ser produzidos de novo endogenamente em quantidades significantes
+no ser humano. Embora o corpo humano seja capaz de converter pequenas quantidades de ALA em
+EPA e DHA, essa biotransformação não é suficiente para manter as necessidades corporais, fato que
+mantém sua essencialidade e obtenção a partir da dieta ou suplementos alimentares (Anderson, 2009;
+Karkow, 2010).
+O elo entre a ingestão de AGPI, inflamação e imunidade pode ser atribuído ao fato de que o
+perfil lipídico de membranas das células, inclusive as imunológicas, sofre influência da composição
+de ácidos graxos da dieta. A incorporação de AGPI na membrana das células influencia sua fluidez, a
+estrutura e a função de diferentes receptores, transportadores, enzimas e canais iônicos com ela
+relacionados. Essas alterações podem modular funções de leucócitos de maneira direta ou indireta, e
+quanto mais AGPI na dieta, maior a tendência de a resposta imunológica ser diminuída em
+comparação com uma dieta mais pobre em AGPI, mas claro, com certos limites (Akoh & Min, 2002;
+Karkow, 2010).
+Os AGPI ômega-3 (EPA) incorporados nos fosfolipídeos de membranas celulares participam
+diretamente da resposta imune inflamatória, servindo como substrato alternativo a AGPI ômega-6
+(ácido linoleico) e seu derivado o ácido araquidônico – AA para síntese de eicosanoides – família de
+moléculas de sinalização biológica muito potente que atuam como mensageiros de curta distância,
+agindo sobre os tecidos próximos às células que os produzem. Frente a um estímulo antigênico, EPA
+e AA são mobilizados a partir de fosfolipídeos de membranas celulares pela enzima fosfolipase A2 e
+competem pelas mesmas vias enzimáticas (cicloxigenase e lipoxigenase – COX e LOX) para a
+formação de mediadores inflamatórios. Notadamente, os eicosanoides de série ímpar formados a
+partir de EPA, têm potencial inflamatório significativamente menor do que aqueles eicosanoides de
+série par sintetizados a partir de AA. Desta forma, os perfis alterados de eicosanoides podem exercer
+
+4
+
+efeitos subsequentes, porque estes mediadores lipídicos regulam a produção de citocinas
+inflamatórias (Karkow, 2010).
+Também existem outros grupos de mediadores sintetizados a partir de AGPI via derivação de
+COX-2 que exercem efeitos anti-inflamatórios. São eles: lipoxinas (LXs) derivadas de AA;
+resolvinas de série E derivadas de EPA e resolvinas de série D, docosatrienos e protectinas derivados
+de DHA. As resolvinas da série E estão associadas à redução do número de leucócitos e dos níveis de
+citocinas inflamatórias. As protectinas D exercem potentes efeitos anti-inflamatórios e protetores de
+tecido, como redução da transmigração endotelial de neutrófilos e reduz os níveis de citocinas próinflamatórias. A neuroprotectina D – protectina originária do cérebro - está associada à potente
+redução da transcrição do gene de IL-1β estimulada pelo TNF-α em células gliais humanas
+(Anderson & Ma, 2009; Karkow, 2010).
+Entretanto, efeitos do EPA e DHA que não dependentes de eicosanoides parecem ser
+igualmente prováveis. Estes AGPI inibem a produção de citocinas pró-inflamatórias, como TNF-α,
+IL-1β e IL-6 e modulam favoravelmente a produção da citocina contrarreguladora IL-10, por meio
+da inibição da ativação do fator de transcrição pró-inflamatório NFκB e da ativação do fator de
+transcrição anti-inflamatório PPAR-γ (peroxisome proliferator – activated receptors) – mais
+associados ao DHA – , além de alterarem aspectos estruturais e funcionais fundamentais da
+membrana plasmática (Karkow, 2010). Como resultado, o EPA e DHA alteram a quimiotaxia de
+leucócitos, expressão de moléculas de adesão e produção de citocinas inflamatórias.
+A literatura mostra que os benefícios cardiovasculares do consumo dos ácidos graxos poliinsaturados ω-3 EPA e DHA resumidamente são, em humanos, a diminuição dos níveis sanguíneos
+de triacilgliceróis (TG), a influência favorável no enchimento diastólico cardíaco, na complacência
+arterial e também em algumas mensurações de inflamação e estresse oxidativo, e ainda a redução da
+agregação plaquetária. Apesar de haver evidências das vantagens do consumo de EPA e DHA,
+pouco se sabe sobre os efeitos isolados destes lipídeos e também se estes efeitos são complementares
+ou não (Mozaffarian & Wu, 2012). A seguir serão revistos alguns efeitos isolados do EPA e do DHA
+e suas atuações nas doenças cardiovasculares.
+1.4. Efeitos isolados do ácido docosahexaenoico nas doenças cardiovasculares
+Um alto consumo de DHA tem sido relacionado à redução e melhora de fatores de risco
+cardiovasculares. O efeito cardioprotetor mais conhecido do DHA é a redução de triacilgliceróis
+plasmáticos, principalmente em pacientes hipertrigliceridêmicos, associada com o aumento do
+5
+
+tamanho das partículas de LDL, tornando-as menos aterogênicas, e com o aumento da quantidade de
+HDL-2, que transportam mais colesterol e são mais cardioprotetoras que a HDL-3 (Anderson & Ma,
+2009; Arnoldussen & Kiliaan, 2014; Cottin et al, 2011; Ma et al, 2012; Mozaffarian & Wu, 2012;
+Russell & Bürgin-Maunder, 2012; Singhal et al, 2013). O efeito redutor de VLDL e TG do DHA
+(também do EPA, em menor grau) possivelmente está relacionado à redução da secreção hepática
+destas partículas, ao aumento do clearance de TG provenientes de VLDL e de quilomícrons, assim
+como alterações do tamanho e concentração das VLDL (Cottin et al, 2011). Os potenciais
+mecanismos moleculares envolvem a modulação da atividade de fatores de transcrição das proteínas
+de ligação aos elementos reguladores de esterol (sterol regulatory element-binding protein-SREBP)
+e PPAR. O DHA (e também o EPA) inibem a atividade da SREBP-1c, que controla a síntese de
+ácidos graxos e TG, tendo associação com diminuição da expressão de enzimas lipogênicas. Como o
+DHA (e o EPA) são ligantes do PPAR, estes ácidos graxos podem estimular a β-oxidação por meio
+de mecanismos PPARα-dependentes, contribuindo para a redução de TG secretados pelo fígado e
+aumentando o clearance de TG dos quilomícrons. O DHA também inibe a atividade da enzima 3hidroxi-3metilglutaril redutase (HMG-CoA redutase) nos hepatócitos, provavelmente através de
+mecanismos de modulação da SREBP-2que, por sua vez, modula a síntese de colesterol (Cottin et al,
+2011).
+Por conta de sua cadeia carbônica grande e um maior nível de instauração em relação ao
+EPA, o DHA pode ser mais efetivo em alterar a estrutura e função da membrana lipídica da célula,
+conferindo maior fluidez à mesma. Quando há incorporação de DHA nos lipid rafts (estruturas
+rígidas das membranas ricas em colesterol, esfingolipídeos e fosfolipídeos ricos em ácidos graxos
+saturados, tendo funções de transdução de sinais e ativação de canais iônicos) há um aumento das
+atividades metabólicas (por exemplo, β-oxidação), maior deslocamento de receptores para a
+membrana e inibição da proliferação de citocinas pró-inflamatórias, tendo papéis importantes na
+inflamação e nas doenças cardiovasculares (Anderson & Ma, 2009; Mozaffarian & Wu, 2012).
+Os benefícios da suplementação com DHA também estão relacionados com efeitos
+hemodinâmicos, que englobam a diminuição da pressão arterial e da frequência cardíaca, a melhoria
+da função endotelial e da complacência arterial (Arnoldussen & Kiliaan, 2014; Cottin et al, 2011; Ma
+et al, 2012; Mozaffarian & Wu, 2012; Russell & Bürgin-Maunder, 2012). A diminuição da pressão
+arterial através da suplementação de DHA possivelmente é ocasionada pela geração do metabólito
+ácido epoxidocosapentaenoico (19,20-EDP), um potente vasodilatador sintetizado a partir da
+biotransformação do DHA por enzimas da família CYP450. A suplementação de DHA também
+parece diminuir a resposta vasoconstritiva associada à noradrenalina e aumentar a resposta
+6
+
+vasodilatadora associada à acetilcolina, além de diminuir a expressão de citocinas pró-inflamatórias
+como IL-1β, IL-4, IL-6 TNF-α e de outras moléculas como VCAM-1 (molécula de adesão da célula
+vascular 1), ICAM-1 (molécula de adesão intracelular 1) e E-selectina, que estão associadas à
+disfuncão endotelial. Estas modificações sugerem melhorias da função endotelial, e também
+diminuição da inflamação, que induz aterosclerose e outras doenças metabólicas (Arnoldussen &
+Kiliaan, 2014; Cottin et al, 2011; Ma et al, 2012; Russell & Bürgin-Maunder, 2012).
+Os AGPI ω-3 incorporados nos fosfolipídeos de membranas podem influenciar a função de
+canais iônicos de membranas, incluindo os canais de Na+, canais de Ca+ do tipo L e canais Na+/ Ca+,
+regulando a excitabilidade elétrica e contratilidade das células. O DHA está presente nas membranas
+das células do miocárdio em quantidades entre cinco a dez vezes maiores que a quantidade de EPA.
+Desta forma, a suplementação de DHA tem um especial efeito protetor contra arritmias cardíacas e
+também tem o efeito de diminuir a variabilidade da frequência cardíaca, diminuindo assim o risco
+cardiovascular, porém existem muitas inconsistências quanto a estes efeitos (Cottin et al, 2011;
+Mozaffarian & Wu, 2012; Mozaffarian et al, 2013).
+O DHA parece ter um ótimo efeito anti-trombótico ao ser eficiente para reduzir a agregação
+plaquetária e a produção de tromboxanos de série 2 (TX-2), inibir a síntese do fator de agregação
+plaquetária e estimular a atividade endotelial da óxido nítrico sintetase (NOS). O DHA também tem
+um outro metabólito criado a partir das enzimas da CYP450, o ácido hidroxidocosahexaenoico (22HDoHE), que é um potente inibidor da agregação plaquetária (Cottin et al, 2011; Russell & BürginMaunder, 2012).
+Em relação a efeitos indiretos nas doenças cardiovasculares, a suplementação de DHA pode
+melhorar a resposta glicêmica diminuindo a resistência à insulina através do aumento da secreção de
+adiponectina, que aumenta a sensibilidade à insulina, e também da diminuição de marcadores
+inflamatórios. Outro fator que influencia a melhora da sensibilidade à insulina é a ativação do
+PPARγ, que aumenta a expressão e translocação de GLUT-1 e GLUT-4 e de receptores de insulina
+para as membranas, facilitando a captação da glicose nas células, e também aumenta a β-oxidação
+mitocondrial de ácidos graxos livres. As resolvinas E1 e neuroprotectina D1 apresentam efeitos
+miméticos à insulina, além de também induzirem a expressão gênica de adiponectina (Anderson &
+Ma, 2009; Cottin et al, 2011; Russell & Bürgin-Maunder, 2012). Desta forma, o alto consumo de
+DHA pode trazer benefícios em parâmetros relacionados à obesidade e diabetes, e
+consequentemente, às doenças cardiovasculares.
+1.5. Efeitos isolados do ácido eicosapentaenoico nas doenças cardiovasculares
+7
+
+O consumo elevado de EPA também tem sido relacionado à redução de TG plasmáticos,
+apesar de não apresentar um resultado tão eficiente como os induzidos pelo DHA e nem ter
+alterações do tamanho das partículas de LDL e HDL (Cottin et al, 2011; Mori & Woodman, 2006;
+Mozaffarian & Wu, 2012). O efeito redutor de VLDL e TG associado ao EPA, assim como nos
+efeitos do DHA já citados, está relacionado à redução da secreção hepática destas lipoproteínas e ao
+aumento do clearance de TG. O EPA também apresenta modulação da atividade de SREBP
+(inibindo as atividades da SREBP-1c e da SREBP-2), da HMG-CoA redutase e do PPAR, porém
+aparentemente de forma mais tênue que o DHA (Cottin et al, 2011).
+O EPA é incorporado nos fosfolipídeos de membrana, porém o EPA é o substrato
+preferencial das enzimas COX e LOX, sendo um melhor competidor do ácido araquidônico que o
+DHA. EPA também é substrato preferencial da enzima fosfolipase A2, fazendo com que a liberação
+dos AA dos fosfolipídeos para a síntese de eicosanoides pró-inflamatórios seja inibida. Desta forma,
+o EPA parece ser mais eficiente que o DHA na formação de eicosanoides de série ímpar, mediando
+uma resposta anti-inflamatória. As resolvinas E, metabólitos de EPA, inibem a síntese de citocinas
+pró-inflamatórias, como IL-6 e TNF-α, citocinas que induzem a disfunção endotelial e,
+posteriormente, a aterosclerose. O EPA também apresenta ação anti-trombótica através da inibição
+da síntese de tromboxanos de série par, porém mesmo assim o DHA apresenta melhores resultados
+de diminuição de agregação plaquetária (Anderson & Ma, 2009; Mozaffarian & Wu, 2012 Russell &
+Bürgin-Maunder, 2012).
+Em relação aos efeitos hemodinâmicos, nota-se que a suplementação de DHA traz mais
+benefícios que a suplementação de EPA. Aparentemente não há efeito isolado do EPA na regulação
+da pressão arterial e na frequência cardíaca (Cottin et al, 2011; Mori & Woodman, 2006;
+Mozaffarian & Wu, 2012). O EPA modula a função endotelial e a complacência arterial, porque
+ativa a enzima NOS, fazendo aumentar a geração de NO e, consequentemente, estimula a
+vasodilatação. Além disso, o metabólito de EPA formado pelas enzimas do CYP450, o ácido
+epoxieicosatetraenoico (17,18-EEQ) também exibe efeitos de vasodilatação arterial. Outro
+mecanismo de modulação da função endotelial é através de efeitos anti-inflamatórios do EPA, porém
+mesmo assim EPA exibe menor potência do que o DHA em inibir a expressão de moléculas de
+adesão (Cottin et al, 2011; Mori & Woodman, 2006; Russel & Bürgin-Maunder).
+Nos efeitos indiretos sobre as doenças cardiovasculares, a suplementação de EPA, da mesma
+forma que a suplementação de DHA, pode melhorar a sensibilidade à insulina. O EPA aumenta a
+secreção de adiponectina e ativa o PPARγ, aumentando a expressão e translocação de receptores de
+8
+
+insulina e GLUT-1 e GLUT-4 para as membranas. A resolvina E1 gerada a partir do EPA também
+auxilia na resposta glicêmica mimetizando a insulina e aumentando a expressão de adiponectina. O
+efeito de aumentar a β-oxidação de ácidos graxos nos músculos esqueléticos e no fígado através dos
+PPARα e γ parece ser maior quando se suplementa EPA (Anderson & Ma, 2009; Cottin et al, 2011;
+Mori & Woodman, 2006; Russell & Bürgin-Maunder, 2012). Desta forma, o alto consumo de EPA
+também pode trazer benefícios em parâmetros relacionados à obesidade e diabetes, e
+consequentemente, às doenças cardiovasculares.
+
+2. OBJETIVOS
+Considerando o potencial anti-inflamatório do EPA, do DHA e de seus metabólitos, o
+objetivo do presente estudo foi associar os biomarcadores de consumo de EPA e DHA com
+marcadores inflamatórios em indivíduos adultos.
+
+3. METODOLOGIA
+O presente estudo baseou-se em uma subamostra do estudo CARDIONUTRI, que foi
+aprovado pelos Comitês de Ética em Pesquisa com Seres Humanos da Faculdade de Saúde Pública
+(protocolo 2264) e do Hospital Universitário da Universidade de São Paulo (protocolo 1126/11) e
+que teve a autorização dos participantes através do Termo de Consentimento Livre e Esclarecido
+(TCLE).
+3.1. Casuística
+Utilizou-se um corte transversal do período basal (t0) do estudo CARDIONUTRI, formado
+por indivíduos de ambos os gêneros, com idade entre 30 e 74 anos.
+No estudo mencionado, os participantes foram recrutados do Hospital Universitário da
+Universidade de São Paulo (USP – São Paulo, Brasil). Não foram incluídos gestantes, lactantes,
+indivíduos que participavam de outros estudos, com evento cardiovascular prévio (monitorado por
+eletrocardiograma e avaliação clínica), usuários de drogas ilícitas e alcoolistas.
+O estudo principal teve caráter prospectivo e intervencional por meio da suplementação
+randomizada dos ácidos graxos ω-3, ω-6 e ω-9 (através de alimentos fontes destes nutrientes)
+controlada por placebo.
+9
+
+No estudo atual foram analisados estatisticamente dados percentuais de EPA e DHA
+plasmáticos, tanto isoladamente quanto a somatória dos ácidos graxos, e foram associados com
+marcadores inflamatórios plasmáticos, perfil lipídico e perfil glicídico.
+3.2. Amostra
+A base de dados original do CARDIONUTRI consta de 374 participantes, mas, para a
+realização da pesquisa atual, foram excluídos da base 83 pacientes que não tinham dados de AGPI ω3 plasmáticos, fazendo com que a amostra final seja composta por 291 pessoas. Estes indivíduos
+foram estratificados em dois grupos, segundo a mediana, para as variáveis de EPA e DHA
+plasmáticos isolados. Já para o índice ômega-3 (EPA e DHA plasmáticos somados), Harris e von
+Shacky (2004) propuseram que as pessoas com o valor maior que 8% teriam maior proteção
+cardiovascular, e, portanto, foi utilizado este valor para a estratificação desta variável.
+3.3. Avaliações clínica e antropométrica
+Para a caracterização da amostra, no estudo atual, foram utilizados somente dados clínicos e
+antropométricos obtidos no estudo utilizado como base. Gênero, idade, tabagismo, presença de
+doenças (relatadas pelos indivíduos) e uso de medicamentos (relatados pelos indivíduos) foram os
+dados clínicos utilizados. Nutricionistas ou médicos colaboradores obtiveram os dados através de
+entrevista direta, pesquisa em prontuário e avaliações clínicas. Nas avaliações clínicas foram
+realizadas aferições da pressão arterial dos pacientes por meio de um esfigmomanômetro e com o
+auxílio da equipe de enfermagem do HU-USP. A medida feita em duplicata e o valor final
+considerado foi a média entre os dois valores coletados. O protocolo seguido e classificação da
+presença ou não de hipertensão arterial teve como base as recomendações e classificações das
+Diretrizes Brasileiras de Hipertensão (SBC, 2010).
+Já a antropometria foi realizada com a aferição da estatura, do peso corporal, da
+circunferência da cintura, e também análises de composição corporal, como porcentagem de gordura
+corporal e índice de massa corporal (IMC), sendo todas as medidas coletadas pelo mesmo
+pesquisador e em duplicata, para não haver divergência dos valores.
+A aferição da estatura foi realizada com o estadiômetro portátil Seca® (TBW, São Paulo,
+Brasil) com limite de 2,0m e precisão de 1,0mm; esta medida foi feita com os indivíduos descalços e
+em posição ereta, com os pés paralelos, calcanhares, panturrilha, glúteos e ombros encostados na
+parede e com a cabeça sob o plano horizontal de Frankfurt (Lohman et al, 1998). O peso corporal foi
+medido com os participantes usando o mínimo de roupas e descalços, utilizando-se para fazer a
+10
+
+medida a balança digital Toledo®, modelo 2096PP/2 (Toledo, São Paulo, Brasil) com limite de
+capacidade de 200,0 kg e precisão de 50,0 kg. A classificação do IMC utilizada para os adultos e
+idosos se encontra no Quadro 1.
+Quadro 1 – Classificação de IMC de adultos (*) e de idosos (**). São Paulo, 2016.
+
+IMC (kg/m²)*
+
+IMC (kg/m²)**
+
+Classificação
+
+< 18,50
+
+<23,00
+
+Baixo peso
+
+18,5 – 24,99
+
+23,00 – 27,99
+
+Eutrofia
+
+25,00 – 29,99
+
+28,00 – 29,99
+
+Sobrepeso
+
+≥30,00
+
+≥30,00
+
+Obesidade
+
+Fonte: WHO. Obesity: preventing and managing the global epidemic. Report of a WHO Consultation. WHO Technical Report
+Series 894. Geneva: World Health Organization, 2000.
+
+Para aferir a circunferência da cintura, os indivíduos foram posicionados em pé, com os
+braços paralelos ao corpo e pés unidos, além de permanecerem com o abdômen relaxado. Esta
+medida foi aferida com uma fita inelástica, flexível e com precisão de 1 mm (TBW, São Paulo,
+Brasil), adotando-se como referencial anatômico a última costela e crista ilíaca. A classificação
+utilizada para a circunferência de cintura encontra-se no Quadro 2.
+O percentual de massa gorda (%MG) foi determinado por meio dos valores obtidos na
+bioimpedância elétrica (BIA) tetrapolar Biodynamics®, modelo 450 (TBW, São Paulo, Brasil), com
+corrente elétrica de baixa amplitude (800µA) e frequência de 50 KHz. Para realização desse teste, os
+indivíduos foram orientados a retirar calçados e meias e a ficarem imóveis durante o procedimento.
+Nesse teste, os indivíduos ficam deitados em posição supina e com os braços em ângulo de 30º em
+relação ao corpo e com as pernas sem contato entre si. A corrente elétrica passa pelo corpo deste
+através de dois pares de eletrodos adesivos posicionados na mão e pé direito do participante. Para
+fazer o cálculo do %MG, utilizou-se o programa Biodynamics® (TBW, São Paulo, Brasil),
+considerando o sexo, idade, peso, altura, nível de atividade física, valores de resistência e reatância.
+Os valores normais de %MG considerados foram de 15 a 25% para o sexo masculino e de 20 a 30%
+para o sexo feminino (Armatruda, 2001).
+Quadro 2- Classificação do risco de complicações metabólicas associados à circunferência abdominal de homens e mulheres.
+São Paulo, 2016.
+
+Circunferência de cintura (cm)
+Risco de complicações metabólicas
+Homens
+
+Mulheres
+11
+
+Sem risco
+
+<94
+
+<80
+
+Risco elevado
+
+≥94
+
+≥80
+
+Risco substancialmente elevado
+
+≥102
+
+≥88
+
+Fonte: WHO. Obesity: preventing and managing the global epidemic. Report of a WHO Consultation. WHO Technical Report
+Series 894. Geneva: World Health Organization, 2000.
+
+3.4. Avaliações bioquímicas
+3.4.1. Coleta de sangue
+Após um jejum de 12 horas foram coletadas 20 mL de amostras de sangue em tubos
+vacutainer contendo ethylenediamine tetraacetic acid (EDTA) (1 mg/mL) (da marca BD, Brasil), o
+qual foi utilizado como anticoagulante e antioxidante. Cerca de 4 mL de sangue foram coletados em
+tubo seco, para posterior extração de soro. Tubos com fluoreto de sódio foram utilizados para colher
+o sangue que seria usado para determinar o conteúdo de glicose.
+Todos os tubos foram mantidos em sob refrigeração (8ºC) até o processamento das amostras.
+O sangue foi centrifugado a 3000 rpm a 4ºC por 10 minutos e ao plasma resultante foi acrescentado
+os inibidores de proteases: aprotinina (10 µg/mL de plasma), benzamidina (10 µM/mL de plasma) e
+phenylmethysulfonyl fluoride (PMFS) (5 µM/mL de plasma), além do antioxidante butylated
+hydroxytoluene (BHT) (100 µM/mL de plasma). Todas as amostras foram armazenadas a -80ºC até o
+momento das análises.
+3.4.2. Determinação do perfil lipídico e de apolipoproteínas
+As concentrações de colesterol total (CT) e HDL-c foram realizadas por métodos padrões
+(Colesterol Liquiform® Labtest, Minas Gerais, Brasil) e (Colesterol HDL® Labteste, Minas Gerais,
+Brasil), respectivamente. Já para determinação dos triglicérides (TG) no plasma, utilizou-se o Kit
+Triglicérides Liquiform® (Labtest, Minas Gerais, Brasil). O LDL-c foi calculado por meio da
+fórmula de Friedewald (1972), onde: LDL-C = CT - HDL-C – TG/5, sendo que esta apenas foi
+aplicada para aqueles indivíduos com TG < 400 mg/dL.
+As apolipoproteínas APOAI e APOB foram determinadas pelo método padrão, através da
+utilização dos kits Autokit APO AI® e Autokit APO B® (Randox Chemicals USA Inc., Richmond,
+VA, EUA), respectivamente, pelo método imuno-turbidimétrico. Todas as análises foram feitas em
+duplicata. A partir dos resultados acima foram calculados os índices TG/HDL, CT/HDL, LDL/HDL,
+APOB/APOAI, HDL/APOAI, LDL/APOB.
+3.4.3. Determinação do tamanho das lipoproteínas LDL e HDL
+12
+
+O tamanho das partículas de LDL e HDL foi determinado pelo sistema Lipoprint® System
+(Quantimetrix Corporation). Para a preparação das amostras, foi pipetado 25 µL de plasma e 200 µL
+para análises de LDL ou 300 µL para análises de HDL de gel contendo corante lipofílico. Após
+homogeneização (7x), a amostra aplicada ao gel de poliacrilamida passou pelo processo de
+fotopolimerização (30 min), seguida de corrida em tampão de eletroforese. As bandas mostravam a
+quantidade relativa de partículas lipoproteicas por amostra, seguindo ordem decrescente de tamanho
+de partículas. O kit de LDL e subfrações consistia de uma banda de VLDL, as subfrações de LDL 1 e
+2 correspondiam ao fenótipo “A” (partículas maiores e menos densas). As subfrações de LDL 3 a 7
+correspondiam ao fenótipo “B” (partículas menores e mais densas) e a última banda correspondia a
+uma banda de HDL. As subfrações designadas como fenótipo “A” eram ≥26,51 nm, enquanto o
+fenótipo “B” eram ≤26,5 nm. A área relativa de cada subfração LDL foi determinada pela
+concentração de CT da amostra. Desse modo, os resultados foram expressos em tamanho e
+porcentual de LDL em relação ao CT.
+O kit de HDL identificou uma banda de VLDL + LDL e 10 subfrações de HDL, sendo as
+bandas 1 a 3 consideradas partículas grandes, as bandas 4 a 7 classificadas como intermediárias e as
+bandas 8 a 10 consideradas como partículas pequenas. A última banda expressa na eletroforese era
+formada pela albumina. A área relativa para cada subfração de HDL foi determinada pela
+concentração de colesterol associado à HDL em cada amostra.
+O coeficiente de variação interensaio para as subfrações de LDL pequenas foi de 5,3% e para
+as subfrações de LDL grandes foi de 5,0%.
+3.4.4. Determinação da concentração de LDL modificada
+A LDL(-) ou LDL modificada foi detectada por ELISA sanduíche, seguindo o protocolo
+adaptado do método validado por Faulin et al (2008). A sensibilização das placas (Costar®, modelo
+3690, Corning, US) foi feita com anticorpo monoclonal anti-LDL(-) (MAb-1A3) (0,5 µg/mL, 50,0
+µL/poço), diluído em tampão carbonato-bicarbonato (0,25 M, pH 9,6), sendo as placas incubadas por
+uma noite à 4oC. Após esse período, os sítios livres foram bloqueados com leite desnatado (Molico®,
+Nestlé, São Paulo, Brasil), diluído a 5% em tampão fosfato salina 0,01 mol/L (PBS – pH 7,4) e
+incubados à 37oC por 2h. Em seguida, as placas foram lavadas quatro vezes com PBS-Tween
+(0,05%). Foi adicionado 50,0 µL/poço de plasma diluído (1:1600) em tampão PBS, sendo a placa
+incubada por 2h em temperatura ambiente. Após essa etapa, a placa foi lavada, conforme descrito
+anteriormente, e foi adicionado 50,0 µL/poço de anticorpo monoclonal anti-LDL(-) biotinilado
+(MAb-2C7) (0,5 µg/mL, 50,0 µL/poço). As placas foram novamente incubadas em temperatura
+13
+
+ambiente por 2h e, em seguida, lavadas conforme descrito acima. Após essa etapa, foram
+adicionados 50,0 µL/poço de estreptoavidina-peroxidase (1:80000) diluída em PBS. As placas foram
+incubadas por 1h em temperatura ambiente e novamente lavadas, conforme descrito anteriormente. A
+reação de cor foi desenvolvida por adição de substrato composto por 3,3’, 5,5’- tetrametilbenzina
+(TMB), tampão citrato-fosfato (0,1 M, pH 4,2) e H2O2 (30%) (250/12/10, µL/mL/µL). As placas
+foram incubadas por 15 minutos em temperatura ambiente e protegidas da luz. A reação foi
+bloqueada com 50,0 µL/poço de H2SO4 (2,0 M) e a absorbância monitorada em 450 nm. Os
+resultados foram expressos pela média das absorbâncias das amostras menos o branco e,
+posteriormente, aplicados à curva padrão e multiplicados pela respectiva diluição, sendo os
+resultados expressos em mg/ml. Os anticorpos utilizados nessa análise foram doados pela Professora
+Doutora Dulcineia Saes Parra Abdalla, do Laboratório de Bioquímica Clínica da Faculdade de
+Ciências Farmacêuticas da Universidade de São Paulo (FCF-USP). Os autoanticorpos LDL(-) foram
+determinados segundo Faulin et al (2012).
+3.4.5. Determinação da concentração de autoanticorpos anti-LDL(-)
+Os autoanticorpos anti-LDL(-) foram detectados por ELISA de captura de anticorpo. A
+LDL(-), isolada por fast protein liquid chromatography (FPLC), foi diluída em tampão carbonatobicarbonato (0,25 M, pH 9,6) até concentração final de 1 µg de proteína/poço, e incubada em período
+overnight (15h) a 4ºC. Os espaços livres foram bloqueados com 5% de leite desnatado diluído em
+tampão fosfato-salina 0,01 mol/L (PBS – pH 7,4) e incubados a 37ºC por 90 minutos. As placas
+foram lavadas quatro vezes com PBS-tween (0,05%). As amostras foram diluídas (1:300) em PBStween (0,01%) e incubadas em temperatura de 37ºC por 90 minutos. As placas foram novamente
+lavadas, conforme protocolo. Foi adicionado 50,0 µL/poço de anti-IgG humana marcada com
+peroxidase, (1:5000) diluída em PBS. As placas foram incubadas por 90 minutos, à 37ºC, seguida de
+lavagem, conforme protocolo. A reação de cor se desenvolveu pela adição de substrato composto por
+3,3’, 5,5’ – tetrametilbenzina (TMB), tampão citrato-fosfato (0,1 M, pH 4,2) e H2O2 (30%)
+(250/12/10, µL/mL/µL). As placas foram incubadas por 30 minutos à 37ºC, sob proteção da luz. A
+reação foi bloqueada com 50 µL/poço de H2SO4 (2,0 M) e a absorbância monitorada em 450 nm. Os
+resultados foram gerados aplicando-se a média das absorbâncias das amostras, descontando o branco,
+à equação da curva padrão de MAb 2C7 (0,004 – 0,125 um/L).
+3.4.6. Análise da composição de ácidos graxos plasmáticos
+O percentual de adesão dos participantes ao protocolo de intervenção foi avaliado por dois
+métodos: contagem de cápsulas consumidas ao longo do estudo e perfil de ácidos graxos no plasma.
+14
+
+Inicialmente, os lipídeos foram extraídos utilizando o método de Bligh e Dyer (1959),
+utilizando-se 100 µL de plasma, 50 µL de hidróxido de sódio, 50 µL de ácido heptadecanoico
+(padrão interno), 350 µL de etanol com antioxidante BHT a 150 µM para evitar oxidações dos
+lipídeos durante o procedimento e 50 µL de H2O com 100 µM de DTPA. Esta mistura permaneceu
+em repouso por 90 min em ambiente escuro e após este período, os ácidos graxos livres foram
+extraídos utilizando-se 2 mL de acetato de etila com BHT e hexano (1:9) e 1 mL de NaCl 1% com
+100 µM de DTPA. Após esta etapa, as amostras foram agitadas (vórtex) por 2 min e permaneceram
+em gelo por 5 min. Foi retirado o sobrenadante somente com lipídeos. A quantificação dos ácidos
+graxos foi realizada utilizando sonda fluorescente 9-antrildiazometano (ADAM) (Nimura &
+Kinoshita, 1980). Os lipídeos extrapidos foram secados sob fluxo de nitrogênio. A partir das
+amostras secas e hidrolisadas, foi realizada a reação de derivatização. Os lipídeos foram
+resuspendidos em 50 µL de acetato de etila e derivatizados com 50 µL de ADAM (0,25 mg/mL) em
+temperatura ambiente, sob proteção da luz e mantidos por 30 min em gelo. Os ácidos graxos
+derivatizados foram analisados pelo HPLC utilizando uma coluna Kinetex C18 (50 x 3,0 mm com
+2,6 µm de tamanho de partícula) e pré-coluna de C18. Para cada corrida de amostras do plasma do
+HPLC, correu também uma amostra de branco apenas com padrão interno (ácido heptadecanoico),
+uma amostra de ADAM puro e uma amostra de padrão externo (mix de ácidos graxos separados –
+EPA, DHA, ácido araquidônico, ácido palmitoleico, ácido palmítico, ácido linoleico, ácido
+linolênico e ácido esteárico) para determinar o tempo de retenção dos ácidos graxos em cada corrida
+e proceder a integração dos mesmos de acordo com este tempo. Para a separação dos ácidos graxos
+foi utilizado um gradiente de acetonitrila e H2O, partindo de um gradiente de 79% de acetonitrila,
+chegando a 93%, com fluxo de 1,45 mL/min e 12 min para cada análise. A fluorescência foi
+monitorada em 350 nm e sua emissão analisada em 450 nm. Após integração dos picos obtidos em
+cada corrida, foi calculado o percentual da área de cada pico.
+3.4.7. Determinação da adiponectina sérica
+A concentração de adiponectina no sangue dos participantes foi feita pela dosagem
+quantitativa no soro dos participantes da pesquisa, utilizando o método de ensaio imunoenzimático
+(ELISA) sanduíche (EMD Millipore®). O imunoensaio apresentou controles positivo, negativo e
+curvas de calibração. Todas as análises foram realizadas em duplicata.
+3.4.8. Determinação da leptina sérica
+A concentração de leptina no sangue dos participantes foi feita pela dosagem quantitativa no
+soro dos participantes da pesquisa, utilizando o método ELISA sanduíche (Enzo Lifesciences®). O
+15
+
+imunoensaio apresentou controles positivo, negativo e curvas de calibração. Todas as análises foram
+realizadas em duplicata.
+3.4.9. Determinação da glicose, insulina e índice de resistência à insulina (HOMA-IR)
+A glicose plasmática foi determinada através do kit comercial, enzimático e colorimétrico
+Glicose PAP Liquiform® (Labtest, Minas Gerais, Brasil). Já a insulina no plasma foi detectada por
+meio do método de imunoensaio através do kit comercial HumanInsulinDirect ELISAKit, Novex®.
+A resistência insulínica foi calculada pelo índice de resistência à insulina (HOMA-IR), em
+que HOMA-IR = [concentração da insulina de jejum (µU/mL) x glicemia de jejum (mmol/L) / 22,5.
+A presença de resistência insulínica foi determinada de acordo com o Modelo 1, adotado pela
+Sociedade Brasileira de Diabetes – SBD (2009) e que foi proposto por Stern et al. (2005), em que
+esta é diagnosticada se quaisquer um dos seguintes critérios estiver presente: IMC > 28,9 kg/m 2,
+HOMA-IR > 4,65 ou IMC > 27,5 kg/m² e HOMA-IR > 3,6.
+3.4.10. Determinação da concentração de citocinas e quimiocinas
+A concentração dos marcadores inflamatórios (interleucinas 1β (IL-1β), 2 (IL-2), 4 (IL-4), 5
+(IL-5), 6 (IL-6), 7 (IL-7), 8 (IL-8) e 10 (IL-10), 12 (IL-12), 13 (IL-13), 17 (IL-17), interferon-gama
+(IFN-γ), proteína quimiotática de monócitos 1 (MCP-1), proteína inflamatória de macrófagos 1β
+(MIP-1β), fator estimulador de colônias de granulócitos (G-CSF), fator estimulador de colônias de
+granulócitos e macrófagos (GM-CSF) e fator de necrose tumoral alfa (TNF-α)) foi determinada por
+dosagem no soro utilizando Bio-Plex ProTM Human Cytokine 17-plex Assay, realizando ELISA
+sanduíche. As análises foram realizadas em duplicata e o imunoensaio apresentou controles positivo,
+negativo e curva de calibração.
+3.5. Análises estatísticas
+Para a caracterização das amostras foi utilizado o teste qui-quadrado (x2) de aderência
+assumindo a expectativa de grupos iguais. Os dados estão apresentados na forma de valores
+absolutos, seguidos de suas respectivas porcentagens e o valor p do qui-quadrado. Para a
+apresentação dos dados quantitativos, assim como para a determinação dos testes utilizados, foi
+considerado o tipo de distribuição dessas variáveis (teste Kolmogorov-Smirnov, p<0,05). Para as
+variáveis paramétricas foi utilizado o teste t de Student (p<0,05), e para as variáveis nãoparamétricas foi utilizado o teste de Mann-Whitney (p<0,05). A estratificação dos valores de
+percentuais dos ácidos graxos plasmáticos (Tabelas 2 e 3) foi realizada de acordo com a mediana das
+16
+
+amostras (p50). Foram realizadas correlações lineares paramétricas e não-paramétricas de acordo
+com a distribuição da variável, e, posteriormente, foram realizadas correlações parciais com ajustes
+das variáveis da tabela de caracterização da amostra. A interpretação foi feita de acordo com a
+seguinte classificação: correlação fraca (r < 0,4); correlação moderada (0,4 ≤ r < 0,7); correlação
+forte (0,7 ≤ r <0,9); e correlação muito forte (r ≥ 0,9). Os testes estatísticos foram realizados no
+programa SPSS versão 20.0.
+
+4. RESULTADOS
+A Tabela 1 exibe a caracterização da amostra do estudo segundo os dados clínicos e
+antropométrico dos participantes. Observou-se predominância do sexo feminino (62,9%),
+predominância de pacientes com idade entre 40 e 60 anos (55,0%) e também de não fumantes
+(52,4%). Em relação às doenças autorrelatadas, 89,0% dos pacientes apresentam pelo menos uma das
+enfermidades apresentadas na tabela, onde observou-se predominância de hipertensão arterial
+sistêmica (57,4%) e dislipidemia (55,7%), seguidas por Diabetes mellitus (19,2%). Quanto ao uso de
+medicamentos, 78,7% utilizavam algum dos medicamentos de uso contínuo, sendo que houve
+predominância de uso de anti-hipertensivos (52,2%), seguido pelo uso de estatinas (27,5%) e
+hipoglicemiantes (21,3%). Destaca-se a elevada prevalência de obesidade (50,5%) e sobrepeso
+(28,2%), circunferência de cintura muito elevada (70,8%) e alta porcentagem de gordura corporal
+(72,5%). Esse perfil evidencia que a população estudada apresentava elevado número de fatores de
+risco cardiovasculares.
+Tabela 1- Caracterização da amostra, segundo perfil clínico e antropométrico. São Paulo, 2016.
+
+Variável
+Gênero
+Masculino
+Feminino
+Idade
+30 a 40 anos
+40 a 60 anos
+60 a 74 anos
+Tabagismo
+Fumantes
+Não fumantes
+Ex-fumantes
+Doenças autorrelatadas
+Total
+Diabetes mellitus
+HAS
+
+n
+
+%
+
+108
+183
+
+37,1
+62,9
+
+49
+160
+82
+
+16,8
+55,0
+28,2
+
+68
+183
+98
+
+19,5
+52,4
+28,1
+
+259
+56
+167
+
+89,0
+19,2
+57,4
+
+Valor p do quiquadrado
+<0,001
+
+<0,001
+
+<0,001
+
+<0,001
+
+17
+
+Hipotireoidismo
+Hepatopatias
+Insuficiência renal crônica
+Dislipidemia
+Doença arterial coronariana
+Uso de medicamentos
+Total
+Estatinas
+Antihipertensivos
+Hipoglicemiantes
+Fibrato
+Ansiolítico
+Tireoide
+Índice de massa corporal
+Baixo peso
+Eutrofia
+Sobrepeso
+Obesidade
+Circunferência de cintura
+Sem risco
+Elevada
+Muito elevada
+Porcentagem de gordura
+corporal
+Baixa
+Normal
+Alta
+
+38
+7
+2
+162
+37
+
+13,1
+2,4
+0,7
+55,7
+12,2
+
+229
+80
+152
+62
+8
+14
+41
+
+78,7
+27,5
+52,2
+21,3
+2,7
+4,8
+14,1
+
+<0,001
+
+<0,001
+4
+58
+82
+147
+
+1,4
+19,9
+28,2
+50,5
+
+37
+48
+206
+
+12,7
+16,5
+70,8
+
+<0,001
+
+<0,001
+6
+66
+211
+
+2,1
+22,7
+72,5
+
+n=291. Resultados apresentados em número (n) e frequência (%). HAS: hipertensão arterial sistêmica. Valor de significância p<0,05
+referente ao teste qui-quadrado de aderência assumindo a expectativa de grupos iguais.
+
+A Tabela 2 apresenta os perfis lipídico, glicídico e inflamatório de acordo com a
+porcentagem de EPA ou DHA plasmáticos, sendo os grupos estratificados pelas medianas. O maior
+percentual de DHA plasmático se associou com a menores níveis de TG (p<0,001), maior percentual
+de HDL pequena (p=0,016), HDL grande (p=0,002), maior tamanho das LDL (p=0,011) e maior
+nível de leptina plasmática (p=0,032). Já o EPA plasmático relacionou-se com menor nível de HDL
+(p=0,009), de apo A-I (p<0,001), de insulinemia (p=0,022) e do índice HOMA-IR (p=0,010). EPA
+também se relacionou com maior percentual de LDL pequena (p=0,004) e maior nível plasmático de
+TNF-α (p=0,021). Quando os percentuais de EPA e DHA plasmáticos foram somados, observou-se,
+na Tabela 3, relação com maior percentual de partículas grandes de HDL (p=0,043), e relação com
+menor índice HOMA-IR (p=0,003), menor insulinemia (p=0,017), e também menor nível plasmático
+das citocinas IL-7 (p=0,014) e IL-10 (p=0,021).
+Nas Tabelas 4, 5 e 6 estão apresentadas as correlações lineares significantes entre as
+concentrações ou porcentagens de EPA, DHA ou EPA e DHA somados plasmáticos com os perfis
+lipídico, glicídico e inflamatório. A Tabela 4 aponta uma relação do EPA com os altos níveis de TG,
+evidenciada pela razão TG/HDL (r= 0,136; p=0,020), com a insulinemia (r=-0,132; p=0,042) e com
+18
+
+as partículas pequenas de LDL, exibida pelas correlações com o percentual (r=0,177; 0,003) e
+concentração (r=0,162; 0,006) das partículas pequenas de LDL e com o tamanho destas lipoproteínas
+(r=-0,172; p=0,004). A Tabela 5 reforça a relação de DHA na redução de TG (r=-0,246; p<0,001),
+demonstrada também pela relação TG/HDL (r=-0,261; p<0,001) e na melhora da sensibilidade à
+insulina, demonstrada pela correlação negativa com a glicemia em jejum (r=-0,142; p=0,015) e com
+o índice HOMA-IR (r=-0,174; p=0,007) além da diminuição de partículas pequenas de LDL,
+evidenciada pela correlação negativa com o percentual (r=-0,139; p=0,018) e concentração (r=0,129; p=0,029) destas lipoproteínas e pela correlação positiva com o tamanho da LDL (r=0,198;
+p=0,001). A Tabela 6 mostra uma correlação negativa com o índice HOMA-IR (r=-0,205; p=0,001),
+com a insulinemia (r=-0,166; p=0,010) e com as IL-7 (r=-0,295; p=0,015) e IL-10 (r=-0,321;
+p=0,011), além da correlação positiva com os níveis de LDL modificadas pela oxidação (r=0,119;
+0,042).
+A Tabela 7 apresenta as correlações parciais entre porcentagens de EPA e DHA isolados e
+somados.
+Observou-se que a correlação positiva do EPA com a Apo A-I foi fortemente influenciada
+pelo gênero, tabagismo, IMC, CC e uso de medicamentos (estatinas, anti-hipertensivos e
+hipoglicemiantes). Verificou-se ainda que a associação com o tamanho da HDL foi dependente do
+sexo e do uso de estatinas. Interessantemente, verificou-se que gordura corporal (percentual e
+classificação) influenciou positivamente a associação do EPA com a Apo B.
+Em relação ao DHA, foi observado que a correlação positiva com a adiponectina foi
+fortemente influenciada pelo gênero, tabagismo e uso de estatinas. Já as correlações negativas com
+TG e com HOMA-IR foram fortemente influenciadas pelo gênero e uso de hipoglicemiante. Nota-se
+também que há associação positiva com o tamanho da LDL dependente de gênero e associação
+negativa com a quantidade de partículas pequenas da lipoproteína em função do gênero e do IMC. Já
+em relação às citocinas, nota-se que as correlações foram fortemente influenciadas pela CC.
+Agora o EPA e o DHA somados apresentam correlações com a Apo A-I influenciadas pelo
+gênero, tabagismo, uso de medicamentos (estatinas, anti-hipertensivos e hipoglicemiantes), IMC e
+CC. A quantidade de partículas grandes de HDL foi influenciada pelo gênero. É importante também
+notar que o gênero, o tabagismo, o uso de anti-hipertensivo e estatinas influenciaram as correlações
+com adiponectina.
+
+19
+
+Tabela 2 - Perfis lipídico, glicídico e inflamatório de acordo com porcentagem de EPA ou DHA plasmáticos. São Paulo, 2016.
+
+Variáveis
+bioquímicas
+CT (mg/dL)*
+HDL-C (mg/dL)*
+LDL-C (mg/dL)*
+TG (mg/dL)
+Glicemia em jejum
+(mg/dL)
+Apo A-I (mg/dL)*
+Apo B (mg/dL)*
+HDL pequena (%)*
+HDL grande (%)*
+LDL pequena (%)
+LDL grande (%)*
+Tamanho de LDL
+(nm)
+HOMA-IR
+Insulinemia
+(µIU/mL)
+LDL modificada
+(mg/dL)
+Anti-LDL modificada
+Adiponectina
+Leptina
+IL-1β*
+IL-2
+IL-4
+IL-5
+IL-6
+IL-7
+IL-8
+IL-10
+IL-12
+IL-13
+IL-17
+G-CSF
+GM-CSF
+IFN-γ*
+MCP-1
+MIP-1β
+TNF-α*
+
+DHA plasmático (%)
+<5,75%
+≥5,75%
+(n=145)
+(n=146)
+208,0 (±42,0)
+204,0 (±42,0)
+36,0 (±9,4)
+38,3 (±10,2)
+137,2 (±37,2)
+139,2 (±38,3)
+178,0 (±107,0)
+135,0 (±68,0)
+109,0 (±39,0)
+102,0 (±21,0)
+
+0,473
+0,053
+0,657
+<0,001
+0,195
+
+EPA plasmático (%)
+<1,68%
+≥1,68%
+(n=145)
+(n=146)
+205,0 (±39,0)
+207,0 (±45,0)
+38,7 (±10,9)
+35,6 (±8,5)
+137,0 (±35,7)
+139,6 (±39,8)
+149,0 (±86,0)
+165,0 (±97,0)
+104,0 (±33,0)
+107,0 (±30,0)
+
+0,617
+0,009
+0,563
+0,182
+0,107
+
+130,9 (±26,1)
+104,9 (±24,9)
+20,9 (±7,3)
+28,2 (±8,4)
+4,2 (±4,9)
+25,8 (±5,5)
+267,0 (±6,0)
+
+132,3 (±24,3)
+104,0 (±24,0)
+18,9 (±6,8)
+31,3 (±8,5)
+2,7 (±3,0)
+26,8 (±4,8)
+269,0 (±4,0)
+
+0,639
+0,743
+0,016
+0,002
+0,078
+0,108
+0,011
+
+137,3 (±26,4)
+102,4 (±22,7)
+20,4 (±6,3)
+29,5 (±8,1)
+2,7 (±3,4)
+26,7 (±4,8)
+269,0 (±5,0)
+
+125,9 (±22,4)
+106,5 (±25,9)
+19,3 (±7,9)
+30,0 (±9,0)
+4,1 (±4,7)
+25,9 (±5,8)
+267,0 (±6,0)
+
+<0,001
+0,158
+0,211
+0,708
+0,004
+0,164
+0,007
+
+5,2 (±3,2)
+19,2 (±8,9)
+
+4,4 (±2,2)
+17,4 (±7,8)
+
+0,067
+0,161
+
+5,0 (±2,6)
+19,2 (±8,2)
+
+4,5 (±2,9)
+17,2 (±8,2)
+
+0,042
+0,022
+
+13,9 (±21,9)
+
+18,9 (±31,1)
+
+0,350
+
+16,5 (±29,8)
+
+16,3 (±24,0)
+
+0,254
+
+7,5 (3,9)
+18,0 (±11,0)
+43,0 (±51,0)
+70,8 (±57,4)
+22,0 (±41,9)
+18,7 (±40,6)
+34,6 (±59,2)
+32,5 (±60,6)
+30,6 (±52,0)
+36,6 (±48,8)
+39,1 (±67,0)
+24,1 (±40,9)
+25,9 (±53,1)
+33,6 (±58,8)
+42,8 (±39,1)
+41,8 (±57,2)
+102,3 (±69)
+63,9 (±109,9)
+222,9 (±473,2)
+34,2 (±41,6)
+
+7,9 (±3,8)
+17,0 (±9,0)
+58,0 (±48,0)
+61,4 (±90,55)
+14,3 (±38,8)
+10,9 (±42,1)
+23,5 (±67,4)
+23,5 (±83,6)
+16,9 (±49,8)
+27,0 (±53,2)
+25,2 (±77,2)
+25,6 (±62,3)
+10,6 (±20,7)
+21,3 (±35,8)
+37,3 (±37,8)
+30,3 (±54,1)
+96,9 (±72,2)
+34,3 (±84,5)
+89,0 (±284,1)
+29,1 (±57,1)
+
+0,426
+0,921
+0,032
+0,795
+0,748
+0,399
+0,236
+0,423
+0,076
+0,418
+0,132
+0,690
+0,129
+0,523
+0,531
+0,384
+0,725
+0,065
+0,093
+0,658
+
+7,7 (±3,9)
+18,0 (±10,0)
+57,0 (±63,0)
+2,9 (±0,9)
+4,7 (±3,4)
+1,5 (±1,0)
+3,7 (±1,5)
+6,7 (±4,5)
+5,1 (±2,8)
+16,3 (±12,2)
+5,5 (±3,5)
+9,5 (±6,9)
+3,9 (±1,6)
+13,3 (±10,9)
+30,9 (±20,8)
+19,7 (±14,7)
+94,8 (±65,7)
+15,0 (±6,7)
+18,9 (±6,5)
+17,8 (±12,9)
+
+7,7 (±3,9)
+16,0 (±10,0)
+42,0 (±32,0)
+75,5 (±70,7)
+26,4 (±49,7)
+22,4 (±51,0)
+42,5 (±74,2)
+40,5 (±90,8)
+32,7 (±60,9)
+40,6 (±62,7)
+45,5 (±85,9)
+34,3 (±66,0)
+24,0 (±46,9)
+35,3 (±58,8)
+45,3 (±45,0)
+45,5 (±68,2)
+102,2 (±73,6)
+68,1 (±119,7)
+231,1 (±473,9)
+39,9 (±62,1)
+
+0,899
+0,476
+0,908
+0,179
+0,090
+0,093
+0,189
+0,238
+0,570
+0,095
+0,547
+0,143
+0,234
+0,093
+0,272
+0,099
+0,634
+0,102
+0,321
+0,021
+
+P
+
+P
+
+n=291. Grupos estratificados pelas medianas. *: Variáveis paramétricas (foi utilizado Teste t de Student para obtenção do valor p).
+Para as variáveis não-paramétricas foi utilizado o teste de Mann-Whitney. Foi adotado valor de significância p<0,05 para ambos os
+testes. Apo A-I: apolipoproteína A-I. Apo B: apolipoproteína B. CT: colesterol total. G-CSF: fator estimulador de colônias de
+granulócitos. GM-CSF: fator estimulador de colônias de granulócitos e macrófagos. HDL: lipoproteína de alta densidade. HOMA-IR:
+modelo de avaliação da homeostase da resistência à insulina. IFN- γ: interferon gama. IL: interleucina. LDL: lipoproteína de baixa
+densidade. MCP-1: proteína quimiotática de monócitos-1. MIP-1β: proteína inflamatória de macrófago 1β. TNF-α: fator de necrose
+tumoral α.
+
+20
+
+Tabela 3 - Perfis lipídico, glicídico e inflamatório de acordo com o percentual de EPA e DHA plasmáticos. São Paulo, 2016.
+
+Variáveis bioquímicas
+CT (mg/dL)*
+HDL-C (mg/dL)*
+LDL-C (mg/dL)*
+TG (mg/dL)
+Glicemia em jejum (mg/dL)
+Apo A-I (mg/dL)*
+Apo B (mg/dL)*
+HDL pequena (%)*
+HDL grande (%)*
+LDL pequena (%)
+LDL grande (%)*
+Tamanho de LDL (nm)
+HOMA-IR
+Insulinemia (µIU/mL)
+LDL modificada (mg/dL)
+Anti-LDL modificada
+Adiponectina
+Leptina
+IL-1β*
+IL-2
+IL-4
+IL-5
+IL-6
+IL-7
+IL-8
+IL-10
+IL-12
+IL-13
+IL-17
+G-CSF
+GM-CSF
+IFN-γ*
+MCP-1
+MIP-1β
+TNF-α*
+
+<8,0% (n=120)
+204,0 (±38,0)
+35,9 (±10,1)
+135,4 (±33,3)
+168,0 (±100,0)
+109,0 (±39,0)
+130,6 (±27,0)
+103,0 (±22,7)
+20,7 (±6,7)
+28,5 (±8,1)
+3,5 (±4,3)
+26,2 (±5,5)
+268,0 (±6,0)
+5,2 (±2,6)
+19,3 (±7,7)
+12,6 (±21,8)
+7,6 (±3,9)
+16,0 (±11,0)
+46,0 (±59,0)
+60,4 (±65,3)
+19,3 (±37,7)
+18,4 (±42,8)
+32,4 (±58,6)
+32,9 (±62,0)
+32,8 (±55,6)
+38,9 (±52,9)
+39,5 (±66,6)
+25,2 (±45,3)
+26,8 (±61,9)
+37,1 (±68,7)
+48,0 (±45,1)
+44,1 (±62,8)
+112,5 (±73,7)
+61,9 (±110,9)
+231,2 (±514,5)
+34,9 (±40,8)
+
+EPA+DHA (%)
+≥8,0% (n=171)
+207,0 (±46,0)
+38,0 (±9,6)
+140,2 (±40,4)
+149,0 (±85,0)
+103,0 (±25,0)
+132,3 (±23,6)
+105,4 (±25,9)
+19,3 (±7,4)
+30,6 (±8,8)
+3,3 (±4,0)
+26,4 (±5,3)
+268,0 (±5,0)
+4,4 (±2,8)
+17,5 (±8,8)
+19,1 (±29,9)
+7,7 (±3,9)
+18,0 (±10,0)
+52,0 (±41,0)
+71,5 (±76,9)
+17,4 (±41,8)
+12,8 (±41,0)
+27,9 (±65,5)
+25,7 (±77,8)
+19,7 (±49,2)
+28,4 (±50,6)
+29,1 (±74,7)
+24,7 (±56,6)
+14,1 (±25,6)
+22,9 (±36,2)
+36,5 (±34,9)
+32,1 (±52,4)
+94,1 (±68,9)
+42,3 (±92,0)
+118,0 (±320,1)
+29,9 (±54,1)
+
+P
+0,555
+0,079
+0,271
+0,096
+0,394
+0,567
+0,417
+0,095
+0,043
+0,561
+0,733
+0,946
+0,003
+0,017
+0,025
+0,946
+0,219
+0,069
+0,761
+0,633
+0,320
+0,125
+0,215
+0,014
+0,264
+0,021
+0,507
+0,268
+0,258
+0,270
+0,300
+0,272
+0,191
+0,199
+0,695
+
+n=291. Grupos separados pelo índice ômega-3 de 8% proposto por Harris e von Schacky (2004). *: Variáveis paramétricas (foi
+utilizado Teste t de Student para obtenção do valor p). Para as variáveis não-paramétricas foi utilizado o teste de Mann-Whitney. Foi
+adotado valor de significância p<0,05 para ambos os testes. Apo A-I: apolipoproteína A-I. Apo B: apolipoproteína B. CT: colesterol
+total. G-CSF: fator estimulador de colônias de granulócitos. GM-CSF: fator estimulador de colônias de granulócitos e macrófagos.
+HDL: lipoproteína de alta densidade. HOMA-IR: modelo de avaliação da homeostase da resistência à insulina. IFN- γ: interferon
+gama. IL: interleucina. LDL: lipoproteína de baixa densidade. MCP-1: proteína quimiotática de monócitos-1. MIP-1β: proteína
+inflamatória de macrófago 1β. TNF-α: fator de necrose tumoral α.
+
+21
+
+Tabela 4 - Correlações lineares significantes da porcentagem de EPA plasmático. São Paulo, 2016.
+
+Variáveis bioquímicas
+TG/HDL
+LDL pequena (%)
+LDL pequena (mg/dL)
+Tamanho de LDL (nm)
+Insulinemia (µIU/mL)
+
+% EPA
+r= 0,136
+r= 0,177
+r= 0,162
+r= -0,172
+r= -0,132
+
+P
+0,020
+0,003
+0,006
+0,004
+0,042
+
+n=291. Valor de significância p<0,05 referente ao teste de correlação de Spearman. % EPA: porcentagem de EPA plasmático. HDL:
+lipoproteína de alta densidade. LDL: lipoproteína de baixa densidade. TG: triglicerídeos.
+Tabela 5 - Correlações lineares significantes da porcentagem de DHA plasmático. São Paulo, 2016.
+
+Variáveis bioquímicas
+TG (mg/dL)
+Glicemia em jejum (mg/dL)
+TG/HDL
+HDL grande (mg/dL)
+LDL pequena (%)
+LDL pequena (mg/dL)
+Tamanho de LDL (nm)
+HOMA-IR
+
+% DHA
+r= -0,246
+r= -0,142
+r= -0,261
+r= 0,235
+r= -0,139
+r= -0,129
+r= 0,198
+r= -0,174
+
+p
+<0,001
+0,015
+<0,001
+<0,001
+0,018
+0,029
+0,001
+0,007
+
+n=291. Valor de significância p<0,05 referente ao teste de correlação de Spearman. % DHA: porcentagem de DHA plasmático. HDL:
+lipoproteína de alta densidade. HOMA-IR: modelo de avaliação da homeostase da resistência à insulina. LDL: lipoproteína de baixa
+densidade. TG: triglicerídeos.
+Tabela 6- Correlações lineares significantes da porcentagem de EPA e DHA plasmáticos. São Paulo, 2016.
+
+Variáveis bioquímicas
+HOMA-IR
+LDL modificada (mg/dL)
+IL-7
+IL-10
+Insulinemia (µIU/mL)
+
+% EPA+DHA
+r= -0,205
+r= 0,119
+r= -0,295
+r= -0,321
+r= -0,166
+
+p
+0,001
+0,042
+0,015
+0,011
+0,010
+
+n=291. Valor de significância p<0,05 referente ao teste de correlação de Spearman. % EPA+DHA: porcentagem de EPA e DHA
+plasmáticos (ou índice ômega-3). HOMA-IR: modelo de avaliação da homeostase da resistência à insulina. IL: interleucina. LDL:
+lipoproteína de baixa densidade.
+
+22
+
+Tabela 7 – Correlações parciais testadas entre as porcentagens de EPA, DHA plasmáticos analisados isoladamente e somados.
+São Paulo, 2016.
+
+Variáveis bioquímicas
+Gênero
+TG (mg/dL)
+Apo A-I (mg/dL)
+HDL grande (%)
+LDL pequena (%)
+Tamanho de LDL (nm)
+HOMA-IR
+Adiponectina
+Tabagismo
+Apo A-I (mg/dL)
+LDL grande (%)
+Adiponectina
+Idade
+G-CSF
+Uso de estatina
+Apo A-I (mg/dL)
+HDL grande (%)
+Adiponectina
+Uso de anti-hipertensivo
+Apo A-I (mg/dL)
+Adiponectina
+Uso de hipoglicemiante
+TG (mg/dL)
+Apo A-I (mg/dL)
+HOMA-IR
+IMC
+CT (mg/dL)
+LDL-C (mg/dL)
+Apo A-I (mg/dL)
+LDL grande (%)
+Circunferência de cintura
+Apo A-I (mg/dL)
+IL-2
+IL-4
+IL-5
+IL-12
+IL-13
+IL-17
+Gordura corporal (%)
+Apo B (mg/dL)
+
+EPA (%)
+
+p
+
+DHA (%)
+
+p
+
+EPA+DHA (%)
+
+p
+
+N/S
+r=0,794
+r=0,761
+N/S
+N/S
+N/S
+N/S
+
+0,019
+0,028
+-
+
+r= -0,793
+N/S
+N/S
+r=-0,766
+r=0,743
+r=-0,786
+r=0,821
+
+0,019
+0,027
+0,034
+0,021
+0,012
+
+N/S
+r=0,830
+r=0,814
+N/S
+N/S
+N/S
+r=0,774
+
+0,011
+0,014
+0,024
+
+r=0,792
+r=0,725
+N/S
+
+0,019
+0,042
+-
+
+N/S
+N/S
+r=0,757
+
+0,030
+
+r=0,766
+N/S
+r=0,788
+
+0,027
+0,020
+
+r=0,731
+
+0,039
+
+N/S
+
+-
+
+N/S
+
+-
+
+r=0,794
+r=0,845
+r=0,889
+
+0,019
+0,008
+0,003
+
+N/S
+N/S
+r=0,778
+
+0,023
+
+r=0,790
+N/S
+r=0,965
+
+0,020
+<0,001
+
+r=0,823
+N/S
+
+0,012
+-
+
+N/S
+N/S
+
+-
+
+r=0,832
+r=0,714
+
+0,010
+0,047
+
+N/S
+r=0,791
+N/S
+
+0,019
+-
+
+r=-0,806
+N/S
+r=-0,773
+
+0,016
+0,025
+
+N/S
+r=0,755
+r=-0,766
+
+0,030
+0,027
+
+r=0,767
+N/S
+r=0,722
+N/S
+
+0,026
+0,043
+-
+
+N/S
+N/S
+N/S
+r=0,721
+
+0,043
+
+r=0,858
+r=0,726
+N/S
+N/S
+
+0,006
+0,041
+-
+
+r=0,724
+N/S
+N/S
+N/S
+N/S
+N/S
+N/S
+
+0,042
+-
+
+N/S
+r=0,834
+r=0,756
+r=0,725
+r=0,741
+r=0,890
+r=0,748
+
+0,010
+0,030
+0,042
+0,035
+0,003
+0,033
+
+r=0,721
+N/S
+N/S
+N/S
+N/S
+N/S
+N/S
+
+0,044
+-
+
+r=0,872
+
+0,011
+
+N/S
+
+-
+
+N/S
+
+-
+
+n=291. Valor de significância p<0,05 referente ao teste de correlação parcial. % EPA: porcentagem de EPA plasmático. % DHA:
+porcentagem de DHA plasmático. % EPA+DHA: porcentagem de EPA e DHA plasmáticos (ou índice ômega-3). N/S: não
+significante. Apo A-I: apolipoproteína A-I. Apo B: apolipoproteína B. CT: colesterol total. G-CSF: fator estimulador de colônias de
+granulócitos. HDL: lipoproteína de alta densidade. HOMA-IR: modelo de avaliação da homeostase da resistência à insulina. IL:
+interleucina. LDL: lipoproteína de baixa densidade.
+
+23
+
+5. DISCUSSÃO
+O estudo mostrou que o EPA e o DHA podem exercer diversos efeitos tanto isoladamente
+quanto em conjunto.
+De acordo com o presente estudo, maiores concentrações plasmáticas de DHA estão
+associadas com menores níveis de TG em relação ao EPA, e parece estar mais relacionado com
+tamanhos maiores de LDL e HDL e maiores concentrações relativas de partículas de LDL e HDL
+grandes. Estas informações foram apresentadas pela Tabela 2 e pelas fracas correlações lineares,
+mas foram reforçadas pelos testes de correlações parciais, que mostraram associações fortes. Foram
+apresentadas também fracas correlações lineares com melhor sensibilidade à insulina, demonstrada
+pelo menor índice HOMA-IR e menor glicemia em jejum, e estes resultados foram reforçados pelas
+correlações parciais, que apresentaram fortes associações negativas com o parâmetro HOMA-IR
+(controladas pelo uso de hipoglicemiante e pelo gênero) e também associações positivas de
+adiponectina (controladas por gênero, tabagismo, uso de estatinas e anti-hipertensivos), mostrando
+um possível aumento da secreção do hormônio induzido pela alta taxa de DHA sanguíneo. Estes
+resultados indicam que níveis mais elevados de DHA no plasma possam ter efeitos benéficos no
+metabolismo lipídico e glicídico, indicando um perfil mais antiaterogênico e melhor sensibilidade à
+insulina, fazendo com que haja benefícios adicionais nos desfechos cardiovasculares, como foi
+demonstrado na literatura (Anderson & Ma, 2009; Arnoldussen & Kiliaan, 2014; Cottin et al, 2011;
+Ma et al, 2012; Mozaffarian & Wu, 2012; Russell & Bürgin-Maunder, 2012; Singhal et al, 2013).
+Um dos possíveis mecanismos associados à esta melhora do perfil glicídico e lipídico poderia estar
+relacionado ao estímulo dos PPAR-α e PPAR-γ. O PPAR-γ, expresso principalmente no fígado e no
+tecido adiposo (marrom e branco), está envolvido na ativação de genes necessários para a
+diferenciação de fibroblastos em adipócitos e de genes que codificam proteínas necessárias para a
+síntese e o armazenamento de lipídeos nos adipócitos. O PPAR-γ também está relacionado a
+benefícios no metabolismo de TG e glicose, pois este aumenta a lipólise de TG circulantes, a
+expressão de receptores de insulina, GLUT-1 e GLUT-4 e ainda estimula a síntese de adiponectina
+(Ahmadian et al, 2013; Berger & Moller, 2002; Kersten et al, 2000). A ativação do PPAR-γ pelo
+DHA poderia explicar como houve esta associação positiva com adiponectina, como também a
+ativação do fator de transcrição pelos metabólitos do DHA, a resolvina E1 e a neuroprotectina D1,
+que estão relacionados com o aumento de adiponectina plasmática e a mimetização da insulina nos
+receptores de insulina (Anderson & Ma, 2009; Cottin et al, 2011; Russell & Bürgin-Maunder, 2012).
+Já o PPAR-α é expresso no fígado, no rim, no coração, no músculo esquelético e no tecido adiposo
+marrom. O PPAR-α ativa os genes necessários para a captação e a β-oxidação dos ácidos graxos. O
+24
+
+PPAR-α, assim como o PPAR-γ, regula expressão da lipase lipoproteica e a lipase de triacilglicerol
+adiposo, que têm papel central em catalisar a hidrólise de TG. O PPAR-α também suprime a
+expressão hepática de SREBP-1 (sterol regulatory elemet-binding protein-1), um fator de transcrição
+responsável por ativar genes envolvidos na síntese de ácidos graxos, além de aumentar a síntese de
+HDL (Ahmadian et al, 2013; Berger & Moller, 2002; Kersten et al, 2000; Pudyal et al, 2011). Este
+pode ser o mecanismo de ação hipotriacilgliceridêmica e de aumento de HDL do DHA.
+Quanto ao EPA, o estudo mostrou alguns resultados inconsistentes com a literatura, como a
+falta de associação com efeitos hipotrigliceridêmicos, a associação com altos níveis de partículas
+pequenas de LDL, diminuição de HDL-C e baixos níveis de Apo A-I e HDL-C, evidenciados pelas
+correlações lineares (que foram fracas) e pela Tabela 2. Em contrapartida, as correlações parciais
+foram fortes e exibiram efeito contrário, como associações positivas com partículas grandes de HDL
+(controlado pelo gênero e uso de estatinas), LDL (controlado pelo tabagismo) e Apo A-I (controlado
+pelo gênero, tabagismo, uso de estatinas, hipoglicemiantes e anti-hipertensivos, IMC e CC), que foi o
+resultado mais marcante do EPA. Esta associação com a Apo A-I indica que há uma relação do EPA
+com o aumento das lipoproteínas de alta densidade, podendo indicar também que alta concentração
+plasmática de EPA melhora o perfil lipídico e pode ser fator protetor para doenças cardiovasculares.
+Além disso, EPA também parece ter relação com melhor metabolismo de glicose, indicado pelo
+menor valor de HOMA-IR (Tabela 2) e insulinemia (Tabela 2 e Tabela 4), porém o DHA parece
+ser mais eficiente que o EPA nestes quesitos. Para os benefícios do EPA em relação a sensibilidade à
+insulina, o possível mecanismo de ação é a ativação do PPAR-γ, como foi citado acima. Agora em
+relação ao benefício do EPA no perfil lipídico apresentado, este pode ser explicado pelo mecanismo
+de ativação do PPAR-α, que estimula a expressão de Apo A-I, indicando um aumento da síntese de
+HDL (Ahmadian et al, 2013; Berger & Moller, 2002; Kersten et al, 2000; Pudyal et al, 2011). Não
+foi encontrada nenhuma associação do EPA com o efeito hipotrigliceridêmico consistente com a
+literatura (Anderson & Ma, 2009; Arnoldussen & Kiliaan, 2014; Cottin et al, 2011; Ma et al, 2012;
+Mozaffarian & Wu, 2012; Russell & Bürgin-Maunder, 2012; Singhal et al, 2013).
+Já o índice ômega-3 (EPA e DHA) plasmático indica que valores maiores que 8% apresentam
+associações com maior nível de partículas grandes de HDL, menor índice HOMA-IR e menor
+insulinemia (Tabela 2). As correlações lineares, apesar de fracas, reforçaram esta ideia e as
+correlações parciais apresentaram associações positivas com Apo A-I (controladas por gênero,
+tabagismo, uso de estatinas, anti-hipertensivos e hipoglicemiantes e CC), com adiponectina
+(controladas por gênero, tabagismo, uso de estatinas e anti-hipertensivos) e com HOMA-IR
+(controladas por hipoglicemiantes). Desta forma, parece que o índice ômega-3 plasmático maior que
+25
+
+8% é fator antiaterogênico e antidiabetogênico, pois parece melhorar o perfil de HDL plasmático e a
+sensibilidade à insulina, assim como foi demonstrado na literatura (Anderson & Ma, 2009;
+Arnoldussen & Kiliaan, 2014; Cottin et al, 2011; Ma et al, 2012; Mozaffarian & Wu, 2012; Russell
+& Bürgin-Maunder, 2012; Singhal et al, 2013). O provável mecanismo de ação envolvido nestes
+resultados é a ativação do PPAR-α e do PPAR-γ, tendo o efeito hipotrigliceridêmico e aumentando a
+expressão de Apo A-I, a síntese de HDL, e a expressão de adiponectina, melhorando os parâmetros
+cardiometabólicos (Ahmadian et al, 2013; Berger & Moller, 2002; Kersten et al, 2000; Pudyal et al,
+2011).
+O índice ômega-3 cumpre muitos dos requerimentos para um fator de risco incluindo
+evidência epidemiológica consistente, um mecanismo de ação plausível, um ensaio reprodutível,
+independência de fatores de risco clássicos, modificabilidade, e, o mais importante, a demonstração
+que o aumento do índice levará a uma redução do risco de eventos cardíacos (von Schacky, 2014;
+Harris, 2008). O trabalho de Albert et al (2002), em que foi demonstrado que o índice ômega-3
+plasmático maior que 6,87% se associou com risco 81% menor de morte cardíaca súbita em relação
+ao grupo com índice 3,58%, indicando melhores parâmetros cardiometabólicos, apesar de não terem
+sido avaliados no estudo. Além deste estudo, a literatura mostra que o aumento do índice ômega-3 de
+membranas eritrocitárias está relacionado a redução da frequência cardíaca e sua variabilidade, a
+redução da pressão arterial, a redução da agregação plaquetária, a redução de triglicerídeos, a
+aumento do tamanho das LDL e das HDL, a diminuição das VLDL, e a diminuição de citocinas próinflamatórias. A literatura mostra também que valores mais altos da soma de EPA e DHA estão
+associados com baixo risco de mortalidade geral, parada cardíaca súbita e infarto fatal e não fatal do
+miocárdio, mas em países ocidentais é mais raro observar índices acima do ponto de corte proposto,
+pois só em países asiáticos, onde o consumo de frutos do mar é alto, se observa, com maior
+facilidade, valores acima de 8% (von Schacky, 2014; Harris, 2008). No estudo de Block et al (2007)
+foi examinado as relações entre o uso relatado de suplemento óleo de peixe e a distribuição do índice
+ômega-3 em 768 controles de síndrome coronariana aguda. Apenas 1% dos participantes que não
+relataram uso de peixe apresentou índice ômega-3 de 8% ou mais, enquanto dos que relataram uso de
+suplemento apenas 17% tinham o índice nesta faixa. No grupo que foi relatado o uso de suplementos,
+a maioria estava na faixa de 4% a 8% do índice (64%), enquanto isso no grupo em que o uso não foi
+relatado a maioria estava na faixa abaixo de 4% do índice, considerado de alto risco cardiovascular
+(Harris & von Shacky, 2004), então isso mostra que o ponto de corte de 8% parece inatingível, já que
+mesmo com o suplemento de óleo de peixe a maioria dos controles não conseguiu alcançar o índice
+proposto. São necessários mais estudos aprofundados para a determinação do ponto de corte do
+26
+
+índice ômega-3, pois este parâmetro parece vantajoso de se utilizar, pois este é um fator de risco
+modificável que indica o risco cardiovascular do indivíduo, e também fornece aos nutricionistas um
+alvo terapêutico com potencial de reduzir o risco de morte por doenças cardiovasculares (Harris &
+von Schacky, 2004). Uma limitação do estudo atual foi a utilização da soma de EPA e DHA
+plasmáticos, o que não reflete necessariamente o conteúdo destes ácidos graxos nas membranas
+celulares, mas mesmo assim os ácidos graxos plasmáticos se correlacionam com o conteúdo celular –
+da mesma forma que a glicemia e a HbA1c se relacionam (von Schacky & Harris, 2007).
+Quanto à modulação das citocinas e quimiocinas pró-inflamatórias, o resultado apresentado
+pelo EPA e DHA isoladamente e em conjunto não ficou consistente com a literatura (Anderson &
+Ma, 2009; Arnoldussen & Kiliaan, 2014; Cottin et al, 2011; Ma et al, 2012; Mori & Woodman,
+2006; Mozaffarian & Wu, 2012; Russell & Bürgin-Maunder, 2012).
+Uma limitação importante do estudo é o fato dele ser transversal, pois isso não indica de fato
+uma causalidade. Então seria necessária uma investigação acompanhada para se obter mais
+informações de como o EPA e DHA isoladamente e em conjunto se comportam nas doenças
+cardiovasculares. Outras limitações seriam o fator de confusão causado pelos medicamentos, pois
+este estudo mostrou que há influência destes nos efeitos de EPA e DHA, e o fato de a maioria dos
+participantes utilizar estes medicamentos. Serão necessários mais estudos prospectivos e
+intervencionais controlados por placebo para se avaliar os efeitos diferenciais de EPA e DHA na
+inflamação e nas doenças cardiovasculares.
+6. CONCLUSÃO
+Os ácidos graxos plasmáticos EPA e DHA se correlacionaram com alguns marcadores
+cardiovasculares
+
+e
+
+de
+
+metabolismo
+
+glicídico.
+
+DHA
+
+parece
+
+apresentar
+
+melhor
+
+efeito
+
+hipotrigliceridêmico e efeito na sensibilidade insulínica pela regulação da adiponectina em relação ao
+EPA. Já o EPA parece ser mais potente que o DHA na modulação das lipoproteínas. Em conjunto,
+parece que alguns dos efeitos se somam. Com isso, afirma-se que concentrações mais altas de EPA
+e/ou DHA trazem benefícios cardiometabólicos, principalmente pela redução de TG, aumento da
+sensibilidade à insulina e aumento de HDL.
+
+7. REFERÊNCIAS BIBLIOGRÁFICAS
+Ahmadian, M; Suh, JM; Hah, N; Liddle, C; Atkins, AR; Downes, M; Evans, RM. PPAR-γ signaling
+and metabolism: the good, the bad and the future. Nature Medicine, 2013.
+27
+
+Akoh, CC; Min, DB. Food Lipids. 2nd edition. Marcel Dekker, 2002.
+Albert, CM; Campos, H; Stampfer, MJ; Ridker, PM; Manson, JE; Willett, WC; Ma, J. Blood levels
+of long-chain n-3 fatty acids and the risk of sudden death. N Engl J Med, Vol. 346, No. 15, 2002.
+American Heart Association (AHA). Heart Disease and Stroke Statistics 2014 Update: a Report
+from the American Heart Association. Dallas, Texas. American Heart Association, Circulation, 2014.
+Anderson, BM; Ma, DWL. Are all ω-3 polyunsaturated fatty acids created equal? Lipids in Health
+and Disease, 2009.
+Arnoldussen, IAC; Kiliaan, AJ. Impact of DHA on Metabolic Diseases from Womb to Tomb. Marine
+Drugs 2014, 12, 6190-6212.
+Armatruda, JM. Linemeyer, DL. Obesity. In: Felig, P; Frohmann, LA. Endocrinology & Metabolism.
+4th ed. USA: McGraw Hill, 2001. p. 945-79.
+Berger, J; Moller, DE. The Mechanisms of Action of PPARs. Annu. Rev. Med., 2002. 53:409-35.
+Bligh, EG; Dyer, WJ. A rapid method of total lipid extraction and purification. Canadian Journal of
+Biochemistry and Physiology. 1959; 37(8):911-7.
+Block, RC; Harris, WS; Reid, KJ; Sands, SA; Spertus, JA. EPA and DHA in blood cell membranes
+from acute coronary syndrome patients and controls. Elsevier. Atherosclerosis 197 (2008) 821-828.
+Cottin, SC; Sanders, TA; Hall, WL. The differential effects of EPA and DHA on cardiovascular risk
+factos. Proceedings of the Nutrition Society; 70, 215-231; 2011.
+Faulin, TES; Sena, KC; Telles AER; Grosso, DM; Faulin, EJB; Abdalla, DSP. Validation of a novel
+ELISA for measurement of electronegative low-density lipoprotein. Clin Chem Lab Med
+2008;46(12):1769-1775.
+Faulin, TES; Sena-Evangelista, KCM; Pacheco, DB; Augusto, EM; Abdalla, DSP. Development of
+immunoassays for anti-electronegative LDL autoantibodies and immune complexes. Clin Chim Acta,
+2012;413:291-297.
+Friedewald, WT; Levy, RI; Fredrickson, DS. Estimation of the Concentration of Low-Density
+Lipoprotein Cholesterol in Plasma, Without Use of the Preparative Ultracentrifuge. The American
+Association of Clinical Chemists, Inc. Vol. 18, issue 6; 1972.
+
+28
+
+Harris, WS. The omega-3 index as a risk factor for coronary heart disease. Am J Clin Nutr 2008;
+87(suppl):1997S-2002S.
+Harris, WS; von Schacky, C. The Omega-3 Index: a new risk fator for death from coronary heart
+disease? Elsevier, Preventive Medicine 39 (2004) 212-220.
+Institute of Medicine (IOM). Committee on Preventing the Global Epidemic of Cardiovascular
+Disease: Meeting the Challenges in Developing Countries. Promoting cardiovascular health in the
+developing world: a critical challenge to achieve global health. Washington DC: National
+Academies Press (US); 2010.
+Karkow, FJ. Tratado de Metabolismo Humano. Livraria e Editora Rubio, 2010.
+Kersten, S; Desvergne, B; Wahli, W. Roles of PPARs in health and disease. Nature, 2000.
+Lohman, TG; Roche, AF; Martorell, R. Anthropometric standardization manual. Champaign, IL:
+Human Kinects; 1988.
+Ministério da Saúde (MDS). Saúde Brasil 2008. Brasília/DF, 2009.
+Ma, Y; Lindsey, ML; Halade, GV. DHA derivatives of fish oil as dietary supplements: a nutritionbased drug discovery approach for therapies to prevent metabolic cardiotoxicity. Expert Opin Drug
+Discov, 2012; 7(8): 711-721.
+Mori, TA; Woodman, RJ. The independent effects of eicosapentaenoic acid and docosahexaenoic
+acid on cardiovascular risk factor in humans. Curr Opin Clin Nutr Metab Care 2006; 9:95-104.
+Mozaffarian, D et al. Plasma Phospholipod Long-Chain Omega-3 Fatty Acids and Total and CauseSpecific Mortality in Older Adults: the Cardiovascular Health Study. Ann Intern Med. 2013; 158(7):
+515-525.
+Mozaffarian, D; Wu, JHY. (n-3) Fatty Acids and Cardiovascular Health: Are Effects of EPA and
+DHA Shared or Complementary? The Journal of Nutrition, American Society for Nutrition, 2012.
+Nimura, N; Kinoshita, T. Fluorescent labeling of fatty acids with 9-anthryldiazomethane (ADAM)
+for high performance liquid chromatography. Analyt Letters. 1980; 13(3):191-202.
+Porth, CM; Matfin, G. Fisiopatologia. 8ª edição. Guanabara Koogan, 2010.
+
+29
+
+Poudyal, H; Panchal, SK; Diwan, V; Brown, L. Omega-3 fatty acids and metabolic syndrome: effects
+and emerging mechanisms of action. Elsevier, Progress in Lipid Research 50 (2011) 372-387.
+Russell, FD; Bürgin-Maunder, CS. Distinguishing Health Benefits of Eicosapentaenoic and
+Docosahexaenoic Acids. Marine Drugs 2012, 10, 2535-2559.
+Singhal, A et al. Docosahexaenoic Acid Supplementation, Vascular Function and Risk Factors for
+Cardiovascular Disease: A Randomized Controlled Trial in Young Adults. Journal of the American
+Heart Association, 2013.
+Sociedade Brasileira de Cardiologia (SBC). VI Diretrizes Brasileiras de Hipertensão. Arq Bras
+Cardiol; 95(1 supl.1): 1-51, 2010.
+Sociedade Brasileira de Cardiologia (SBC). V Diretriz Brasileira de Dislipidemias e Prevenção da
+Aterosclerose. Arq Bras Cardiol; Volume 101, n°4, supl. 1, 2013.
+Sociedade Brasileira de Diabetes (SBD). Diretrizes da Sociedade Brasileira de Diabetes, 3a edição.
+Sociedade Brasileira de Diabetes, 2009.
+Stern, ES; Williams, K; Ferrannini, E; DeFronzo, RA; Bogardus, C; Stern, MP. Identification of
+Individuals With Insulin Resistance Using Routine Clinical Measurements. Diabetes, vol. 54; 2005.
+von Schacky, C. Omega-3 index and cardiovascular health. Nutrients 2014, 6, 799-814.
+von Schacky, C; Harris, WS. Cardiovascular benefits of omega-3 fatty acids. Elsevier.
+Cardiovascular Research 73 (2007) 310-315.
+Wang, C et al. n-3 Fatty acids from fish or fish-oil supplements, but not α-linolenic acid, benefit
+cardiovascular disease outcomes in primary and secondary prevention studies: a systematic review.
+Am J Clin Nutr; 84:5; 5-17, 2006.
+World Health Organization (WHO). Global Atlas on Cardiovascular Disease Prevention and
+Control. B editors. World Health Organization, Geneva 2011.
+World Health Organization (WHO). Obesity: preventing and managing the global epidemic. Report
+of a WHO Consultation. WHO Technical Report Series 894. Geneva: World Health Organization,
+2000.
+
+30
+
+

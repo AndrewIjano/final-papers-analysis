@@ -1,0 +1,1705 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+
+Desenvolvimento e Caracterização de filmes de
+quitosana reforçados com whiskers de beta-quitina
+
+Ana Paula Prudente e Silva
+
+São Carlos
+2017
+
+ANA PAULA PRUDENTE E SILVA
+
+Desenvolvimento e Caracterização de filmes de
+quitosana reforçados com whiskers de beta-quitina
+
+Monografia apresentada ao Instituto de Química de São Carlos,
+Universidade de São Paulo, como trabalho de conclusão de curso.
+
+Professor Responsável : Prof. Dr. Sérgio Paulo Campana Filho
+
+São Carlos
+2017
+
+Agradecimentos
+Primeiramente agradeço imensamente a Deus por ter colocado esse sonho no meu coração e
+por ter me acalmado com sua presença nos momentos mais difíceis e deixar transparecer seu
+amor nos momentos mais alegres.
+A meus pais, Suely e Paulo, que são as pessoas que eu mais quero dar orgulho no mundo e que
+sempre estiveram ao meu lado me dando apoio psicolόgico e financeiro durante toda minha
+graduação. Além de acreditarem em mim sempre, mesmo quando eu não acreditava.
+A minha irmã Ana Carolina e meus tios Gildo e Juarez e minha amiga Cássia por sempre me
+acolherem nos finais de semana com felicidade.
+A meus amigos da UFU, Ana Beatriz, Lorraine e Filipe por serem verdadeiros amigos e que
+apesar da distância sempre estiveram ao meu lado.
+Aos meus melhores amigos do Grupo de Oração (GOU), Frank e Joice por todos os momentos
+de oração, choros e risadas que vivemos dentro e fora da universidade.
+Aos meus orientadores, Daniella Morgado e Odílio Assis e amigos e técnicos da Embrapa
+Instrumentação, Bruna, Tais, Silviane e Adriana que me proporcionaram ampliar meus
+conhecimento técnicos e científicos.
+A minha orientadora Valérie Thierry na França que me deu a oportunidade de realizar um
+estágio em um laboratόrio francês e ao meu tutor Quentin por todo o auxílio.
+Ao professor Sérgio Campana que aceitou ser meu orientador para gerar este trabalho e aos
+doutorandos, Danilo e Andrea que me auxiliaram, me deram apoio e acompanharam meu
+trabalho de perto. Além dos alunos de iniciação Vinicius, Barbara e Amanda com quem
+compartilhei bons momentos no laboratόrio.
+Aos amigos de graduação 011, 012 e 013 que passaram por experiências parecidas e me
+acolheram bem durante esses anos juntos e aos mestres que se empenharam a nos ensinar e nos
+preparar profissionalmente, principalmente professor Artur e Aprígio e também a toda
+infraestrutura fornecida pela Universidade de São Paulo e do instituto de Química de São Carlos
+que foi fundamental para minha formação.
+
+Resumo
+O processo de obtenção de whiskers de quitina consiste em submeter esse polímero à hidrólise
+ácida. Dentre os principais fatores que influenciam as características das nanofibras formadas
+(principalmente razão comprimento/diâmetro e carga superficial) obtidas por esse processo
+estão o tipo de ácido empregado, a razão mássica quitina/solução ácida, o tempo e a temperatura
+de hidrólise bem como a granulometria da quitina de partida. Na literatura há poucos estudos
+envolvendo a utilização de whiskers de beta-quitina e que relatam a influência da granulometria
+na propriedade das nanofibras obtidas. Nesse sentido, faz-se necessário a realização de novos
+estudos para a melhor compreensão do efeito desse fator na produção de nanofibras à base de
+quitina. Nesse trabalho, filmes compósitos de quitosana e whiskers de beta-quitina foram
+̅̅̅̅= 17.6 %) produzida via Nformulados a partir de quitosana (≈ 439 000 g.mol-1; 𝐺𝐴
+desacetilação assistida por irradiação ultrassom de alta intensidade e whiskers de beta-quitina
+em duas granulometrias diferentes < 125 µm (w) e > 425 µm (W). Os filmes formados não
+diferiram significativamente na espessura e a luminosidade, porém a análise morfológica
+(MEV) indicou que a dispersão dos whiskers na matriz de quitosana é heterogênea e que a
+heterogeneidade é maior no caso dos whiskers produzidos a partir da fração de beta-quitina
+contendo partículas maiores, pois nesses filmes foram observados aglomerados. A imagem de
+TEM dos whiskers de maior granulometria mostrou que foram formadas nanofibras e,
+provavelmente os whiskers de menor granulometria, que estão mais dispersos na matriz, são
+nanocristais. O caráter hidrofílico dos filmes compósitos se mostrou superior ao do filme de
+quitosana e as propriedades mecânicas foram significativamente melhores nos compósitos,
+principalmente o alongamento na ruptura. O mόdulo de Young é a propriedade mecânica mais
+similar entre todos os filmes analisados. As caracterizações realizadas indicam que nos filmes
+compόsitos Qsw e QsW os whiskers atuam como reforço e que conferem propriedades
+interessantes a esses materiais, com potencial aplicação como materiais biomédicos.
+
+Abstract
+The process to obtain chitin whiskers consists in subjecting this polymer to an acid hydrolysis.
+Among the main factors that influence the characteristics of the nanofibers formed (mainly, the
+length / diameter ratio and the surface charge) by this process, are the type of acid used, the
+chitin / acid solution mass ratio, the time and the temperature of the hydrolysis as well as the
+granulometry of the initial chitin. In the literature, there are few studies involving the use of
+beta-chitin whiskers and specially reporting the influence of the grain size on the properties of
+the obtained nanofibers. Therefore, it is necessary to carry out new studies to better understand
+the effect of this factor on the production of beta-chitin-based nanofibers. In this work, the
+composite films of chitosan and beta-chitin whiskers were formulated from chitosan (≈ 439 000
+̅̅̅̅= 17.6 %) produced via N-deacetylation of beta-chitin by high-intensity ultrasound
+g.mol-1; 𝐺𝐴
+irradiation and beta-chitin whiskers in two different granulometries < 125 µm (w) e > 425 µm
+(W). The films formed did not differ significantly in thickness and luminosity, but the
+morphological analysis (SEM) showed that the dispersion of beta-chitin whiskers in the
+chitosan matrix is heterogeneous anfd that the heterogeneity is higher for the whisker produced
+from the larger granulometry, which also formed agglomerates. The TEM image of the
+whiskers of higher dimension showed that nanofibers were formed and probably the acid
+hydrolisis of beta-chitin of smaller granulometry produced nanocrystals, which are better
+dispersed in the matrix. The hydrophilic character of the composite films was superior to that
+of the chitosan film and the mechanical properties were significantly better in the composites,
+especially the elongation. The Young's modulus is the most similar mechanical property among
+all films analyzed. The characterizations of the composite films showed that Qsw and QsW
+whiskers act as a reinforcement and confer interesting properties to these materials, indicating
+their potential application as biomedical materials.
+
+Lista de Figuras
+Figura 1: Estrutura idealizada de quitina. ................................................................................................ 5
+Figura 2 : Representação esquemática das estruturas polimórficas de quitina, sendo que as setas
+representam as cadeias poliméricas no sentido do terminal não-redutor para o redutor. ........................ 6
+Figura 3: Estrutura idealizada da quitosana. ........................................................................................... 7
+Figura 4: Principais tipos de Compόsitos fibrosos e particulados. ........................................................ 10
+Figura 5 : Corpo de prova e suas dimensões. ........................................................................................ 20
+Figura 6: Espectro de 1H RMN da Quitosana (Qs). .............................................................................. 22
+Figura 7: Imagens dos whiskers > 425 µm. .......................................................................................... 24
+Figura 8: Imagens superfície do filme Qs, sendo S-lado de secagem e P-lado placa. .......................... 25
+Figura 9: Imagens de superfície dos filmes Qsw10, QsW10, Qsw20 e QsW20, sendo S-lado de secagem
+e P-lado em contato com a placa. .......................................................................................................... 26
+Figura 10: Imagens de MEV do corte transversal do filme Qs e dos compόsitos Qsw20 e QsW20. .. 27
+Figura 11: Interação com a água representada pelo decaimento do ângulo de contato em função do tempo
+para cada filme analisados, (A) superfície de secagem, (B) superfície em contato com a placa. Filmes
+com o mesma letra não são significativamente diferentes (p > 0,05) através do Teste de Tukey. ....... 29
+Figura 12: Perda de água em função do tempo dos filmes da Tabela 2. Colunas com o mesma letra não
+são significativamente diferentes (p > 0,05) através do Teste de Tukey. .............................................. 31
+Figura 13: Análise Mecânica, (A) Curvas represrasentativas dos compόsitos, (B) Mόdulo Young, (C)
+Tensão de Ruptura (MPa) e (D) Alongamento (%). Colunas com o mesma letra não são
+significativamente diferentes (p > 0,05) através do Teste de Tukey. .................................................... 32
+Figura 14: Dados obtidos pela medida de colorimetria dos filmes. Colunas com o mesma letra não são
+significativamente diferentes (p > 0,05) através do Teste de Tukey. .................................................... 34
+
+Lista de Tabelas
+Tabela 1: Fontes de alguns polissacarídeos............................................................................................. 3
+Tabela 2: Filmes de quitosana e de compόsitos preparados a partir do método casting. ..................... 18
+Tabela 3 : Ângulo Hue para cada filme compósito analisado para ambos os lados dos filmes. ........... 35
+
+Sumário
+
+1.
+
+Introdução ....................................................................................................................................... 1
+1.1.
+
+Polissacarídeos ........................................................................................................................ 2
+
+1.1.1.
+
+Quitina ............................................................................................................................. 4
+
+1.1.2.
+
+Quitosana......................................................................................................................... 7
+
+1.2.
+
+Compόsitos .............................................................................................................................. 9
+
+1.3.
+
+Whiskers ................................................................................................................................ 11
+
+2.
+
+Objetivos ....................................................................................................................................... 13
+
+3.
+
+Procedimento Experimental .......................................................................................................... 13
+3.1. β-quitina ..................................................................................................................................... 13
+3.2. Quitosana.................................................................................................................................... 14
+3.3. Whiskers de β-quitina ................................................................................................................ 15
+3.4. Caracterização da Quitosana (Qs) .............................................................................................. 15
+3.4.1. Determinação do grau médio de acetilação (𝑮𝑨) ............................................................... 15
+3.4.2. Determinação da Viscosidade Instrínseca e Massa molecular viscosimétrica média ......... 16
+3.5. Caracterização dos whiskers de β-quitina .................................................................................. 17
+3.5.1. Determinação da concentração de whiskers ........................................................................ 17
+3.5.2. Microscopia Eletrônica de Transmissão (TEM) ................................................................ 17
+3.6. Preparação dos filmes compόsitos ............................................................................................. 17
+3.7. Caracterização dos filmes........................................................................................................... 18
+3.7.1. Microscopia Eletrônica de Varredura (MEV) ..................................................................... 18
+3.7.2. Medida de espessura........................................................................................................... 19
+3.7.3. Medida de ângulo de contato............................................................................................... 19
+3.7.4. Taxa de Transmissão ao Vapor da água (WVTR)............................................................... 19
+3.7.5. Análise Mecânica ................................................................................................................ 20
+3.7.6. Análise Óptica ..................................................................................................................... 21
+3.7.7. Análise estatística ................................................................................................................ 21
+
+4.
+
+Resultados e Discussão ......................................................................................................... 22
+
+4.1. Caracterização Quitosana (Qs) ................................................................................................... 22
+4.1.1. Grau de acetilação (𝑮𝑨) ...................................................................................................... 22
+4.2.2. Massa Molecular ................................................................................................................. 23
+4.2. Whiskers de β-quitina ................................................................................................................ 23
+4.2.1. Microscopia Eletrônica de Transmissão (TEM) ................................................................. 23
+4.3. Preparação dos filmes................................................................................................................. 24
+4.3.1. Microscopia Eletrônica de Varredura (MEV) ..................................................................... 24
+4.3.3. Ângulo de Contato .............................................................................................................. 28
+4.3.4. Taxa de Transmissão ao Vapor da Água (WVTR) ............................................................. 30
+4.3.5. Análise Mecânica ................................................................................................................ 32
+4.3.6. Análise Óptica ..................................................................................................................... 34
+5.
+
+Conclusão ...................................................................................................................................... 36
+
+6. Referências Bibliográficas ................................................................................................................ 36
+
+Página: 1
+
+1. Introdução
+Diversas pesquisas têm se dedicado ao desenvolvimento de nanocompόsitos poliméricos,
+isto é, classe de matériais produzidos através da combinação de uma matriz polimérica e
+partículas ou fibras com dimensões nanométricas (< 100 nm) incorporadas como reforço
+(Maneghetti e Qutubuddi, 2006) produzidos a partir de recursos renováveis visando aplicações
+nas indústrias farmacêutica, de alimentos e de cosméticos. Os biopolímeros, como os
+polissacarídeos, estão disponíveis abundantemente e representam uma alternativa viável para a
+produção de materiais biodegráveis e não poluentes (Qin et al., 2016). Um dos principais
+objetivos de produzir materiais biodegráveis é promover a substituição dos materiais
+produzidos a partir de fontes não-renováveis, como os materiais poliméricos produzidos a partir
+do petrόleo.
+Os estudos e propostas de utilização de biopolímeros para a produção de embalagens
+biodegradáveis, películas comestíveis e materiais de revestimento para alimentos aumentou
+consideravelmente nos últimos anos, principalmente devido ao seu caráter renovável e
+abundância de polissacarídeos (amido, celulose, quitina e quitosana) e proteínas (de soja, de
+trigo, caseína e gelatina) que podem ser utilizados para a produção de filmes polímericos
+(Rhim, Park e Ha, 2013).
+Além de serem aplicados em embalagens alimentícias, os filmes poliméricos também são
+desenvolvidos para a indústria farmacêutica, no desenvolvimento de curativos, pois o processo
+de cicatrização de feridas envolve frequentemente o uso de um material com propriedades
+cicatrizantes, antifúngicas e antibacterianas para proteger a lesão de qualquer infecção
+bacteriana, inibir o sangramento, evitar o contato com a água e distúrbios eletrolíticos
+(Zahedi et al., 2010).
+Moreira e colaboradores (2011) produziram filmes de polímeros sínteticos hidrossolúveis, a
+saber poli(acetato de vinila) (PVA) e polietilenoglicol (PEG), para serem aplicados como
+adesivos cutâneos devido atividade antimicrobiana contra as cepas de Escherichia coli,
+Staphylococcus aureus e Candida albicans.
+Porém os filmes poliméricos podem apresentar algumas limitações, como baixa barreira a
+vapor de água, propriedades mecânicas inadequadas para a aplicação final e dificuldade de
+processamento. Essas limitações podem ser superadas através da adição de reforços, por
+exemplo cargas minerais, fibras naturais e sintéticas, e pela adição de plasticizantes que
+
+Página: 2
+
+melhoram as propriedades mecânicas dos filmes e suas propriedades de barreira (Martins et al.,
+2013; Rhim, Park e Ha, 2013).
+Uma alternativa interessante é o reforço dos filmes com fibras de dimensões nanométricas,
+também denominadas nanofibras, que apresentam grande área superficial para interação com a
+matriz polimérica do filme e promovem a melhoria das suas propriedades mecânicas. Os
+materiais nanofibrosos de origem vegetal mais utilizados são os nanocristais de celulose
+produzidos através da hidrόlise ácida, que provoca a despolimerização das cadeias celulósicas
+das regiões amorfas, mais acessíveis, e permite o isolamento dos nanocristais das regiões
+cristalinas, pois essas não sofrem o ataque ácido (Abdul Khalil et al., 2017). Assim, por
+exemplo, quando nanocelulose, fibra celulόsica de dimensões nanométricas obtidas em maior
+proporção da madeira (40-50%), ou da parece celular de diversas plantas, é utilizada como
+reforço, a transparência dos compόsitos de resina de époxido não é alterada, porém a
+permeabilidade a gases diminui (Shimazaki et al., 2007).
+
+1.1.
+
+Polissacarídeos
+
+Os polissacarídeos são polímeros naturais constituídos de um ou mais tipos de
+monossacarídeos e podem ter cadeias lineares ou ramificadas. Podem ser extraídos de fontes
+vegetais, tais como algas, exsudatos, sementes, frutas e cereais, de animais e de
+microorganismos, como fungos e bactérias. (Cunha, 2009). Alguns exemplos de
+polissacarídeos e suas origens são mostrados na Tabela 1.
+
+Página: 3
+
+Tabela 1: Fontes de alguns polissacarídeos.
+Origem
+
+Polissacarídeo
+
+Fonte
+
+Algas
+
+Alginato
+
+Algas pardas
+
+Agaranas
+
+Algas vermelhas
+
+Carragenanas
+
+Algas vermelhas
+
+Goma Arábica
+
+Acacia spp
+
+Tragacante
+
+Astragalus spp
+
+Goma de Cajueiro
+
+Anacardium occidentale
+
+Guar
+
+Cyamopis tetragonolobus
+
+Alfarroba
+
+Ceratonia siliqua
+
+Tamarindo
+
+Tinissa indica
+
+Frutas
+
+Pectina
+
+Maçãs e laranjas
+
+Tubérculos, cereais
+
+Amido
+
+Milho, trigo, batatas
+
+Inulina
+
+Chicória, Jerusalem artichokes
+
+Ácido Hialurônico
+
+Humor vítreo de bovinos, cristas de
+galináceos
+
+Heparina
+
+Pulmão de bovinos e intestinos de
+porcinos
+
+Quitina
+
+Carapaças de crustáceos
+
+Quitosana
+
+Paredes celulares de leveduras e fungos
+
+Fungos
+
+Glucanas
+
+P.ostreatus, Agaricus blazei
+
+Bactérias
+
+Xantana
+
+Xanthomonas ssp
+
+Dextrana
+
+Leuconostoc spp
+
+Gelana
+
+Sphingmonas elodea
+
+Exsudato de plantas
+
+Sementes
+
+Animais
+
+Fonte: adaptado Cunha, Paula e Feitosa, 2009.
+
+Os polissacarídeos obtidos de sementes possuem funções de reserva e estruturais nas fontes
+de origem, já os obtidos de exsudatos de plantas atuam nos mecanismos de defesa contra
+estresse físico e ataques microbianos. O principal polissacarídeo de tubercúlos e cereais, o
+amido, é o principal polissacarídeo de reserva energética de glicose. Os polissacarídeos de
+animais, como o ácido hialurônico, são polissacarideos de sustentação, assim como a quitina
+que é um polissacarídeo estrutural dos exoesqueletos de crustáceos, a exemplo da celulose que
+desempenha papel semelhante nos vegetais (Cunha, Paula e Feitosa, 2009).
+
+Página: 4
+
+Os exopolissarídeos produzidos por bactérias também atuam nos mecanismos de defesa
+contra as adversidades do meio ambiente. A goma xantana, exopolissacarídeo produzido por
+Xanthomonas, é muito utilizada como espessante em bebidas e alimentos devido a propriedades
+gelificantes e espessantes. A pectina extraída de frutas também possui propriedades gelificantes
+e os alginatos e carragenas extraídos de algas, além de gelificantes são agentes de suspensão
+em formulações que tendem a ocorrer a deposição de sόlidos, sendo que ambos são muito
+utilizados nas indústrias alimentícia e de cosméticos (Fani, 2013).
+Dentre as diversas atividades biológicas dos polissacarídeos, estes podem apresentar
+propriedades antivirais, antitumorais, antioxidantes, anticoagulantes e antitrombóticas
+(Cunha, Paula e Feitosa, 2009), que são propriedades importantes para o desenvolvimento de
+materiais para a área biomédica e farmacêutica, além de alguns apresentarem propriedades
+intrínsecas, como biocompatibilidade e biodegradabilidade, que abrem possibilidades mais
+amplas de aplicações na área de saúde humana. Os polissacarídeos são obtidos de fontes
+renováveis e possuem propriedades físicas interessantes, pois são formadores de filmes e
+podem promover a gelificação e o espessamento. Adicionalmente, são facilmente processados
+em diferentes formas, tais como filmes, partículas de diferentes dimensões, cápsulas e fibras
+(Rinaudo, 2006).
+
+1.1.1. Quitina
+
+A quitina é um dos polissacarídeos mais abundante da bioesfera, sendo um dos poucos
+polissacarídeos nitrogenados e dentre esses é o mais abundante (Qin et al., 2016). A quitina é
+um polissacarídeo que pode ser utilizado para a produção de biomaterias, por apresentar
+propriedades peculiares como biodegradabilidade e atividades antibacteriana e antifúngica,
+além de possuir atividade anti-inflamatória e não ser tόxico (Izumi et al., 2016; Qin et al., 2016;
+Robles et al. 2016).
+Um biomaterial é um material que pode ser utilizado de forma temporária ou permanente
+como parte do sistema que trate ou substitua qualquer tecido, όrgão ou função do corpo
+(Azeredo et al., 2007). Lee e colaboradores (2000) formularam um gel de beta-quitina,
+polietilenoglicol e sulfadiazina de prata que foi liofilizado. O biomaterial resultante foi aplicado
+como curativo em lesões de animais e promoveu o controle de infecções, favorecendo a cura
+da lesão.
+A quitina é um copolímero formada predominantemente (> 80 %) por unidades de
+2-acetamido-2-desoxi-D-glicopiranose (GlcNAc) unidas por ligações glicosídicas β-(1→4) e
+
+Página: 5
+
+que apresenta baixo teor (< 10 %) de unidades 2-amino-2-desoxi-D-glicopiranose (GlcN),
+conforme representado na Figura 1. É um polímero fibroso semicristalino e é o constituinte
+básico que fornece estrutura e sustentação aos exoesqueletos de diferentes espécies de
+crustáceos, bivalves, insetos e paredes celulares de fungos (Gupta, 2010; Hamley, 2010).
+
+Figura 1: Estrutura idealizada de quitina.
+HO
+NHCOCH3
+O
+
+CH 2OH
+O
+
+CH 2OH
+
+O
+NHCOCH3
+
+HO
+
+n
+
+A quitina encontrada na natureza não apresenta composição única, as variações existentes
+incluem o tamanho médio das cadeias poliméricas, a quantidade e distribuição das unidades
+GlcNAc e GlcN nas cadeias e a disposição das cadeias nos domínios ordenados
+(Delezuk, 2013).
+̅̅̅̅).
+O teor médio de unidades GlcNAc nas cadeias é expresso como grau médio de acetilação (𝐺𝐴
+Quando ̅̅̅̅
+𝐺𝐴 > 50 – 60 % o polímero é denominado quitina, enquanto ̅̅̅̅
+𝐺𝐴 < 50 – 60 %
+corresponde a quitosana (Pillai, Paul, Sharma, 2009). Adicionalmente, quitina e quitosana
+diferem quanto à solubilidade pois o primeiro polímero é insolúvel na maioria dos solventes
+aquosos e solventes orgânicos mais comumente empregados enquanto quitosana é solúvel em
+meios aquosos de acidez moderada (pH < 5,0).
+As principais propriedades de quitina e quitosana estão relacionadas ao grau médio de
+̅̅̅̅ ), pois este parâmetro afeta suas propriedades químicas e físicas (Kajac, 2015).
+acetilação (𝐺𝐴
+A biodegradação e a compatibilidade celular, além de outras atividades biológicas destes
+polímeros, também dependem de ̅̅̅̅
+𝐺𝐴 (Freirer et al., 2005).
+Existem três poliformas de quitina, a saber α-quitina, β-quitina e γ-quitina. A forma α-quitina
+é a mais abundante e está presente nas carapaças de caranguejos e lagostas, cascas de camarões
+e paredes celulares de fungos e leveduras (Rinaudo, 2006). Já a β-quitina pode ser encontrada
+em gládios de lulas (Paillet e Dufresne, 2001; Morin e Dufresne, 2002). Com relação ao
+empacotamento molecular, as interações intramoleculares da β-quitina são menos numerosas
+que as da α-quitina, logo a β-quitina é mais reativa e mais suscetível a dissolução em alguns
+
+Página: 6
+
+solventes do que a α-quitina (Mincea, Negrulescu e Ostafe, 2012). Isso ocorre devido à
+disposição antiparalela das cadeias poliméricas da α-quitina nos domínios cristalinos. As
+ligações hidrogênio intermoleculares envolvendo cadeias de lamelas diferentes estão presentes
+em maior proporção em alfa-quitina do que em beta-quitina, pois neste último caso as cadeias
+estão orientadas paralelamente, o que desfavorece o estabelecimento de ligações hidrogênio
+entre as cadeias de lamelas diferentes. Portanto a poliforma β-quitina é menos densamente
+empacotada que α-quitina, o que favorece as interações com solventes e promove maior
+intumescimento e aumenta a solubilidade de beta-quitina em relação à alfa-quitina (Campana
+Filho et al., 2007). Um esquema da disposição das cadeias nas poliformas de quitina é ilustrado
+na Figura 2.
+
+Figura 2 : Representação esquemática das estruturas polimórficas de quitina, sendo que as setas
+representam as cadeias poliméricas no sentido do terminal não-redutor para o redutor.
+
+Fonte : Campana Filho et al., 2007.
+
+A associação de cadeias de quitina leva a formação de agregados fibrosos altamente
+cristalinos, denominados de nanocristais ou nanofibras de quitina, que despertaram um interesse
+crescente na comunidade científica devido ao seu potencial como reforços em nanocompósitos
+(João, Silva e Borges, 2015; João et al., 2017). Vários métodos de obtenção de nanocristais
+foram estudados e relatados com sucesso, produzindo materiais em diferentes nanoescalas de
+espessuras e comprimentos. A razão entre comprimento e espessura de nanocristais ou
+nanofibras é uma característica do material denominada aspecto (Akeland, 1996).
+Dentre os métodos de obtenção de nanofibras/nanocristais estão a oxidação mediada por
+radical de 1-oxil-2,2,6,6-tetrametilpiperidina (TEMPO) (Fan, Saito e Isogai, 2008a), moagem
+mecânica (Chen et al., 2014; Fan, Saito e Isogai, 2008b), irradiação com ultrassom (Deng et
+al., 2014) e homogeneização a alta pressão (Salaberria et al., 2015). Os autores citados
+utitizaram as nanofibras/nanocristais de quitina produzidas a partir de diferentes métodos de
+
+Página: 7
+
+obtenção como reforços estruturais ou funcionais em materiais desenvolvidos para a
+cicatrização de feridas, na Engenharia de Tecidos, a administração de medicamentos em
+sistemas de controle de e liberação de farmacos, sensores, cosméticos e absorventes (João et
+al., 2016).
+Madhumathi et al. (2009) e Kumar et al. (2010) desenvolveram nanocompόsitos de hidrόgeis
+de beta-quitina e nanopartículas de prata liofilizados para aplicações na cicatrização de lesões.
+A caracterização biológica mostrou que esses materiais não apresentam toxicidade, promovem
+a adesão celular e permitem a rápida coagulação sanguínea, além de serem bactericidas contra
+Escherichia coli e Staphylococcus aureus.
+Nakorn et al. (2008) desenvolveram um sistema de imobilização de proteínas, para a detecção
+de glicose contendo nanowhiskers (300 nm) de alfa-quitina e nanopartículas (39 nm) de
+quitosana.
+Morganti e colaboradores (2008 e 2011) exploraram as propriedades da nanofibras de alfaquitina no tratamento cosmético da pele e do cabelo. Os autores mostraram que as nanofibras
+ligam-se a compostos utilizados em cosméticos, como por exemplo, os anti-oxidantes (luteína,
+melatonina e ácido lipóico) e os moduladores imunológicos, melhorando a atividade biológica
+e a eficácia.
+
+1.1.2. Quitosana
+
+A quitosana é obtida através da N-desacetilação da quitina e é composta de unidades 2acetamido-2-desoxi-D-glicopiranose (GlcNAc) e 2-amino-2-desoxi-D-glicopiranose (GlcN),
+com predomínio (> 50-60 %) do último tipo de unidade (Figura 3).
+
+Figura 3: Estrutura idealizada da quitosana.
+
+HO
+NH2
+O
+
+CH 2OH
+
+CH 2OH
+O
+O
+NH2
+
+HO
+
+n
+
+Página: 8
+
+A quitosana é facilmente processada em diferentes formas, tais como filmes, membranas,
+micro e nanopartículas, géis, soluções, o que proporciona uma ampla variedade de aplicações
+biomédicas, como na Engenharia de Tecidos e na Nanobiotecnologia, no desenvolvimento de
+curativos para feridas ou para encapsulação e entrega de fármacos (Nagarwal et al., 2009).
+A quitosana é solúvel em meios aquosos moderadamente ácidos (pH ≈ 4,5) devido à
+protonação dos grupos amino de suas unidades GlcN e exibe propriedades de polieletrólitos
+catiônicos nesses meios. Assim, é proposto que suas propriedades antibacterianas se devem, ao
+menos em parte, ao fato de suas cadeias positivamente carregadas interagirem com as cargas
+negativas presentes nas membranas celulares de bactérias, causando perturbações na sua
+organização e podendo provocar o rompimento da membrana celular (Coma et al., 2003 ;
+Zivanovic et al., 2005). A atividade bactericida da quitosana depende de vários fatores que
+podem ser classificados em quatro categorias (Kong et al., 2010):
+1)
+
+Fatores relacionados às espécies de bactérias;
+
+2)
+
+Fatores intrínsecos da quitosana, incluindo massa molecular, grau médio de
+
+acetilação e sequência de unidades GlcN e GlcNAc ao longo das cadeias.
+3)
+
+Estado físico: solução, pό ou filme;
+
+4)
+
+Condições ambientais, como o pH e a temperatura.
+
+Embora os materiais à base de quitosana tenham encontrado um grande número de
+aplicações industriais em diferentes áreas, frequentemente possuem propriedades mecânicas e
+hidrofobicidade inferiores quando comparados a materiais poliméricos produzidos a partir de
+polímeros sintéticos (João et al., 2017).
+Diferentes estudos, utilizando a quitosana processada de várias formas propõem a
+incorporação de cargas (orgânicas ou inorgânicas) à matriz de quitosana, na tentativa de
+combinar as vantagens do polímero e dessas cargas de maneira a desenvolver materiais com
+novas propriedades.
+Corsello e colaboradores (2017) desenvolveram compósitos de quitosana e nanocristais de
+celulose. A carga de nanocristais foi variada de 1 a 10%, sendo que acima de 3% foi observado
+segregação de fases, confirmada pela fraca interação entre a matriz e o reforço vista no espectro
+de infravermelho. Embora o filme formado possua características heterogêneas, a
+hidrofilicidade diminui quando comparado aos filmes de quitosana.
+Tanese e Spiridon (2014) formularam blendas de poli (ácido lático), queratina e quitosana
+para avaliação em células com osteossarcoma. As blendas apresentaram comportamento
+mecânico melhor do que o filme composto apenas por quitosana. Em relação aos testes in vivo,
+esses sugeriram que a blenda tem importante potencial para aplicação na Medicina.
+
+Página: 9
+
+João e colaboradores (2017) estudaram a preparação de filmes em que whiskers de α-quitina
+foram incorporados à matriz de quitosana. Os resultados evidenciaram a existência de duas
+fases, uma formada predominantemente por camadas de quitosana e outra fase composta por
+camadas de whiskers de quitina.
+Embora a quitosana ocorra naturalmente nas paredes celulares de algumas espécies de
+fungos e leveduras, é produzida em indústrias e laboratórios de pesquisa via N-desacetilação de
+quitina, reação que corresponde à hidrólise dos grupos acetamido de unidades GlcNAc,
+resultando em unidades GlcN. O produto desta reação é denominado quitosana, quando o teor
+de unidades GlcN presentes na cadeias poliméricas é superior a 50-60 %. O polímero é solúvel
+em meios aquosos moderadamente ácidos, o que é atribuído à presença de numerosas cargas
+positivas ao longo das cadeias, devido à protonação dos grupos amino das unidades GlcN.
+Processos enzimáticos e químicos podem promover a N-desacetilação de quitina, porém no
+processo mais empregado nas indústrias e também em laboratórios de pesquisa, a reação ocorre
+em meio fortemente alcalino, tipicamente solução aquosa concentrada de hidróxido de sódio,
+em
+
+diferentes
+
+condições
+
+em
+
+termos
+
+de
+
+tempo
+
+e
+
+temperatura
+
+reacionais
+
+(Kumar, 2000; Domard, 2011).
+Embora a hidrólise dos grupos acetamido das unidades GlcNAc seja uma reação simples, a
+conversão de quitina em quitosana tem importantes limitações, pois é um processo heterogêneo
+que tende a apresentar baixa reprodutibilidade, a reação deve ser repetida por várias vezes
+̅̅̅̅ < 5 %), o que
+consecutivas se o objetivo é produzir quitosana extensivamente desacetilada (𝐺𝐴
+provoca acentuada despolimerização, principalmente se a reação é executada em temperatura
+elevada (Lamarque, Viton e Domard, 2004). Entretanto, o desenvolvimento de um novo
+processo de desacetilação, denominado processo de desacetilação assistida por irradiação de
+ultrassom de alta intensidade (Delezuk et al. 2011), tem permitido a produção eficiente de
+quitosanas com características e propriedades definidas, inclusive quitosanas extensivamente
+̅̅̅̅ < 5 %) e de elevada massa molecular média viscosimétrica
+desacetiladas (𝐺𝐴
+̅̅̅̅ ≈ 106 g mol-1) (Fiamingo, 2016).
+(𝑀𝑣
+
+1.2.
+
+Compόsitos
+
+Compόsitos são materiais constituídos de duas ou mais fases com diferentes propriedades
+químicas e físicas. Uma dessas fases é uma fase contínua chamada de matriz e a outra é uma
+fase dispersa dita de reforço ou modificadora. A matriz é responsável por conferir estrutura ao
+compόsito e o reforço possui a função de conferir novas propriedades fisíco-químicas e
+
+Página: 10
+
+melhorar as propriedades mecânicas dos compόsitos. Os principais exemplos de matrizes são
+os metais, os polímeros e as cerâmicas e como reforços os mais utilizados são as fibras (vidro,
+carbono, orgânicas) e o grafite (Levy Neto e Pardini, 2016).
+Os compόsitos de fibra e polímeros naturais são formulados com materiais renováveis e
+sustentáveis, pois fibra e polímero podem ser de origem biolόgica. A matriz polímerica
+termoplástica, isto é, a matriz formada por cadeias polímericas cujas interações
+intermoleculares são facilmente rompidas com o aumento da temperatura, são muito utilizada
+para produção de filmes e embalagens, devido à facilidade de serem remoldados ou reciclados.
+Exemplos de polímeros sínteticos termoplásticos utilizados nessas formulações incluem o
+polietileno (PE), polipropileno (PP), cloreto de polivinila (PVC). Os polímeros sínteticos não
+são biodegradáveis, mas podem ser reciclados (Väisänen, Das e Tomppo, 2017).
+Além das fibras, os reforços podem ser partículas, a Figura 4, mostra os tipos de compόsitos
+reforçados com fibras ou partículas.
+Figura 4: Principais tipos de Compόsitos fibrosos e particulados.
+
+Fonte: Ventura, 2009.
+
+Página: 11
+
+Nas últimas duas décadas, os compósitos reforçados com fibras têm atraído o interesse de
+pesquisadores no mundo todo e muitos esforços têm sido direcionados ao desenvolvimento de
+novos materiais. No passado, o uso de fibras de vidro como reforços para materiais compósitos
+políméricos era comum, contudo a fibras de vidro apresentam algumas desvantagens tais como
+não serem renováveis e causarem problemas de saúde e segurança, além de não poderem ser
+recicladas termicamente por incineração (Singleton et al., 2003). Por outro lado, a utilização de
+fibras naturais como reforços de materiais poliméricos representa uma opção econômica e não
+prejudicial ao meio ambiente. De fato, as fibras provenientes de recursos renováveis requerem
+baixa energia nos processos de extração/produção e no caso das fibras vegetais, por exemplo,
+estas podem ser eliminadas por compostagem no final do seu ciclo de utilidade
+(Kiruthika, 2017).
+Os nanocompόsitos, cujo reforço apresenta dimensões nanométricas (< 100 nm), podem ser
+utilizados em diversas áreas, desde a construção civil, no desenvolvimento de materiais
+estruturais de habitações domiciliares (Kiruthika, 2017) até a biomedicina com a regeneração
+de tecidos (Armentano et al., 2010). Um exemplo na construção civil é o trabalho de Yan (2016)
+que avaliaram o desempenho de compósitos à base de resina epóxi reforçados com fibras de
+linho para componentes de concreto. Cilindros e vigas de concreto simples com e sem as fibras
+foram testados e os resultados indicaram que o concreto com as fibras apresenta melhor tensão,
+energia de fratura e ductilidade.
+Para a regeneração de tecidos, os materias devem ser biocompatíveis e estimularem,
+diferenciação, adesão e proliferação celular. Além disso, os materiais regeneradores devem
+apresentam propriedades mecânicas apropriadas. Polímeros biodegradáveis não satisfazem
+estes requisitos, portanto, materiais poliméricos multi-componentes são desenvolvidos para
+obter
+
+materiais
+
+com
+
+propriedades
+
+adequadas
+
+para
+
+a
+
+regeneração
+
+de
+
+tecidos
+
+(Armentano et al., 2010).
+
+1.3.
+
+Whiskers
+
+Whiskers são fases secundárias que atuam como reforços em compόsitos, como as partículas
+e as fibras. Os whiskers são monocristais alongados, apresentam tipicamente diâmetros de 5 a
+20 nm e comprimento é variável, em geral superior a 100 nm. He e Wang (2008) constataram
+que o reforço de matrizes com whiskers resultam em materiais com melhores propriedades
+mecânicas quando comparados com materiais reforçados com fibras.
+
+Página: 12
+
+Polissacarídeos semicristalinos renováveis, como celulose, quitina e amido podem ser
+utilizados para a obtenção de nanofibras, nanocristais e whiskers. Devido à presença de
+domínios cristalinos e domínios amorfos na estrutura destes polímeros é possível formar
+nanofibras, pois os domínios amorfos podem ser removidos por acidólise e os whiskers são
+isolados em nanoescala (Zeng et al., 2012).
+As partículas cristalinas nanométricas produzidas a partir de polissacarídeos, conhecidas
+como nanocristais, podem ser usadas como reforços em nanocompósitos de matriz polímérica,
+pois
+
+apresentam
+
+excelentes
+
+propriedades
+
+intrínsecas,
+
+elevada
+
+área
+
+superficial,
+
+biodegradabilidade, são atóxicas, apresentam baixa densidade, podem ser facilmente obtidas e,
+em geral, possuem grande quantidade de grupos hidroxila (Habibi, Lucia e Rojas, 2010;
+Angelier, Molina-Boisseau e Dufresne, 2005).
+A quitina forma fibrilas, pequenos filamentos com diâmetros de 2,5 a 25 nm dependendo
+da sua origem biolόgica (Revol e Marchessault, 1993). Fam, Saito e Isogai (2010) obtiveram
+whiskers de α-quitina de diamêtros de 6,2 ± 1,1nm e 250 ± 140 nm de comprimento. Já Morin
+e Dufresne (2002) observaram whiskers de beta-quitina com comprimento de 2,2 µm, porém
+75% dos whiskers apresentavam comprimento abaixo de 3 µm.
+Devido a semelhança estrutural da quitina e da celulose, Marchessault e colaboradores
+relataram pela primeira vez a preparação de uma suspensão de cristais de quitina através da
+hidrólise ácida que rompe as macromoléculas obtendo fibrilas nanométricas em suspensão
+(Marchessault et al., 1959 ; Revol e Marchessault, 1993).
+Os whiskers de quitina são atualmente obtidos como suspensões aquosas estáveis e estão
+sendo estudados para serem utilizadas como reforços de nanocompósitos biodegradáveis, em
+cápsulas biomédicas para fármacos, Engenharia de Tecidos e cosmética (Mincea, Negrulescu,
+Ostafe, 2012). O efeito de reforço dos whiskers de quitina resulta da formação de uma rede de
+percolação baseada em forças de ligação hidrogênio (Dufresne, 2010).
+Morin e Dufresne (2002) prepararam nanocompósitos de uma suspensão aquosa de β-quitina
+com elevado aspecto (equivalente a 120), como reforço e o látex de PCL (policaprolactona)
+como matriz. A dispersão cristalina coloidal foi misturada com a suspensão de látex em
+quantidades diferentes, para obtenção de filmes compósitos com uma fração de whiskers
+variando de 0 a 10%.
+Ma et al. (2011) empregaram nanofibras de quitina e whiskers celulose, com diâmetro de 5
+a 10 nm para o desenvolvimento de membranas para ultrafiltração de água capazes de adsorver
+vírus conforme observado em testes com bacteriόfagos MS2. A membrana produzida apresenta
+
+Página: 13
+
+essa capacidade, pois possui superfície carregada negativamente e elevada relação
+superfície/volume.
+Dolphen e Thiravetyan (2011) demonstraram que whiskers de alfa-quitina são muito
+promissores para a adsorção de melanoidinas e outros pigmentos, muito utilizados em alimentos
+e bebidas. Esses pigmentos quando descarregados em um sistema de recursos hídricos são
+considerados poluentes ambientais. Os autores
+
+mostraram que as nanofibras de quitina
+
+estabelecem uma interação eletrostática e química com a melanoidina e que a absorção desse
+pigmento aumenta com o aumento de temperatura.
+Existem poucos trabalhos na literatura relatando a síntese e utilização de whiskers de
+beta-quitina como reforço de compόsitos. A maioria dos trabalhos emprega nanofibras e
+nanocristais de celulose e de alfa-quitina. Contudo beta-qutina também possui domínios
+cristalinos que podem ser isoladas através da hidrόlise ácida para produzir materiais cristalinos
+de dimensões nanométricas interessantes para serem aplicadas em compόsitos.
+
+2.
+
+Objetivos
+Este trabalho teve como objetivo a preparação e caracterização de filmes de quitosana
+reforçados com whiskers de β-quitina. Nesse sentido, duas frações de beta-quitina compostas
+por partículas com diferentes dimensões médias (< 125 μm ; > 425 μm) foram submetidas à
+hidrólise ácida para produzir whiskers. Os filmes foram produzidos por casting de solução
+aquosa de quitosana à qual foram adicionados teores variáveis de whiskers (2,5 % - 20 %)
+produzidos a partir de duas frações de beta-quitina, distintas quanto às dimensões médias das
+partículas. Os efeitos da variação do teor de whiskers e do tamanho médio das partículas de
+beta-quitina nas propriedades físico-químicas e mecânicas dos filmes compósitos foram
+avaliados.
+
+3.
+
+Procedimento Experimental
+
+3.1. β-quitina
+A β-quitina utilizada neste trabalho foi extraída de gládios de lulas. Os gládios foram lavados
+em água, para remoção dos vestígios de carne e secos em estufa com circulação de ar a 30°C
+durante 12 h. Apόs a secagem, os gládios foram triturados em um moinho de facas (modelo
+MA048 MARCONI).
+
+Página: 14
+
+Segundo a metodologia de Claussard et al. (2004), 200 g de β-quitina foram tratadas em
+3,0 L de solução de NaOH 1M durante 18 h, visando a remoção de impurezas e proteínas.
+Apόs o tratamento com NaOH, a β-quitina foi novamente lavada em água, a fim de
+neutralizá-la e seca em estufa com circulação de ar a 30°C por 12 h. A β-quitina tratada foi
+então triturada em um moinho de facas (modelo MA048 MARCONI) e posteriormente
+separadas em frações em uma sequência de tamizes.
+A fração selecionada para utilização na preparação da quitosana foi de 125-425 µm e para a
+preparação dos whiskers foram utilizadas duas granulometrias: > 425µm e < 125 µm.
+
+3.2. Quitosana
+A quitosana foi obtida através da N-desacetilação da β-quitina assistida por irradiação de
+ultrassom de alta intensidade, processo DAIUS. O processo ultrassônico utilizado foi Hielscher
+Sonifier UP400S (v = 24 kHz), e os paramêtros do porcesso DAIUS foram:
+I)
+
+Sonda
+
+UPR
+
+sonotrodo
+
+Hielscher
+
+H22D
+
+(diâmetro
+
+=
+
+22
+
+mm
+
+e
+
+comprimento = 100 mm)
+II)
+
+Intensidade de irradiação: 50 % de intensidade máxima nominal do equipamento,
+ou seja, 200 W.
+
+III)
+
+Irradiação intermitente: ciclos de 50 % de pulsação.
+
+Foram pesados 5,0 g de β-quitina que foram transferidos para um reator cilíndrico de parede
+dupla (diâmetro interno = 3,5 cm) e 50 mL de solução NaOH 40% (m/m), foram adicionados
+ao reator sob agitação de 300 rpm e acoplado a um banho de circulação de água, que mantém a
+temperatura constante de 60 ± 1 °C. O sonotrodo foi então mergulhado (2/3 do seu
+comprimento) na suspensão e iniciou-se a reação de N-desacetilação da β-quitina. A reação foi
+mantida por 50 min.
+Ao final da reação, gelo de água destilada foi adicionado ao meio reacional para parar a
+reação. Em um banho de gelo, o meio reacional foi neutralizado com a adição de 50 mL de HCl
+concentrado. Apόs a neutralização, a quitosana, resultante da primeira desacetilação foi filtrada
+e lavada em água corrente, até obter pH prόximo a 7. Para a produção dos filmes, foi utilizada
+a quitosana duplamente desacetilada, ou seja, produto da segunda desacetilação em que 5 g da
+quitosana cuja obtenção foi descrita acima foram submetidos ao mesmo processo descrito para
+a N-desacetilação da β-quitina.
+
+Página: 15
+
+A fim de verificar a existência de íons cloreto, o teste qualitativo com solução de nitrato de
+prata 0,0017 mol.L-1 foi realizado, se o sal de cloreto de prata, AgCl, fosse obtido, a quitosana
+era lavada novamente sob água corrente, a fim de a quitosana livre de íons cloreto.
+3.3. Whiskers de β-quitina
+Os whiskers de β-quitina foram preparados segunda a metodologia de Nair e Dufresne (2003)
+com algumas modificações. Em um balão de fundo redondo foram adicionados 150 mL de
+solução HCl 3M e 5,0 g de β-quitina nos diamêtros descritos no item 3.1. A mistura foi agitada
+para promover a homogeneização da solução. O balão foi então acoplado a um sistema de
+refluxo e banho de glicerina a 90 °C (temperatura de ebulição) para a produção de whiskers de
+β-quitina a partir da hidrolise ácida. O sistema foi mantido sob refluxo por 3 h.
+Apόs este périodo, o sistema foi resfriado suavemente em um banho de gelo, para parar a
+hidrόlise. A solução obtida foi centrifugada a uma velocidade de 10000 rpm por 5 min. O
+sobrenadante foi descartado e os whiskers foram suspensos em água deionizada (45- 50 mL) e
+centrifugados novamente até obter pH em torno de 5 a 7. O centrifugado resultante foi dialisado
+por 48 horas e a água destilada foi trocada durante esse período.
+O produto dialisado foi disperso por 5 min a uma velocidade de 19000 rpm com o auxílio
+do Ultra Turrax modelo TI8 marca IKA em banho de gelo e sonicado por 5 min no ultrassom,
+Hielscher Sonifier UP400S (v = 24 kHz) utilizando os mesmos paramêtros empregados na
+preparação da quitosana (item 3.2).
+A suspensão formada foi armazenada sob refrigeração em geladeira (3-5°C).
+
+3.4. Caracterização da Quitosana (Qs)
+̅̅̅̅)
+3.4.1. Determinação do grau médio de acetilação (𝑮𝑨
+
+A quitosana obtida após a aplicação de dois processos consecutivos de desacetilação
+assistida por irradiação de ultrassom de alta intensidade, foi avaliada por espectroscopia de
+Ressonância Magnética Nuclear de Hidrogênio (RMN 1H) para a determinação do grau médio
+̅̅̅̅). O espectro de RMN 1H foi obtido no equipamento Bruker ADVANCE III
+de acetilação (𝐺𝐴
+spectrometer (t = 400 MHz), a 80°C. Foram pesados 10 mg da quitosana (Qs), que foram
+dissolvidos em 1 mL de 1% HCl/D2O por agitação à temperatura ambiente por 24 h. O grau
+̅̅̅̅) foi obtido pela relação entre as áreas dos sinais correspondentes aos
+médio de acetilação (𝐺𝐴
+hidrogênios metílicos dos grupos acetamido em torno de 2,0 – 2,1 ppm (a) e o hidrogênio ligado
+
+Página: 16
+
+ao carbono 2 dos anéis de glicopiranose em trono de 3,1-3,2 ppm (b). Essa relação é indicada
+na Equação 1 (Hirai, Odani e Nakajima, 1991).
+̅̅̅̅
+𝐺𝐴(%) =
+
+𝑎
+3𝑏
+
+𝑥 100
+Equação 1
+
+3.4.2. Determinação da Viscosidade Instrínseca e Massa molecular viscosimétrica média
+
+A viscosidade intrínseca da quitosana foi obtida em triplicata através da dissolução de 12
+mg de quitosana (Qs) em 50 mL de solução tampão 0,3 mol.L-1 acido acético/ 0,2 mol.L-1 de
+acetato de sόdio. As soluções foram previamente filtradas através de membranas 0,8 µm/0,45
+µm de ésteres de celulose (WSCWP / Millipore).
+O viscosímetro AVS-360 e a bureta automática AVS-20, ambos da Schott-Geräte, foram
+utilizados para as medições de viscosidade. O capilar de vidro (/ = 0,53 mm) contendo 15 mL
+da solução de quitosana foi imersa num banho de água mantido a 25 ± 0,01 °C e volumes
+previamente programados do solvente 0,3 mol.L-1 acido acético/ 0,2 mol.L-1 de acetato de sόdio
+foram adicionados sequencialmente para obter diluições sucessivas.
+A viscosidade intrínsica do polímero e sua concentração foram determinadas através da
+equação de Huggins (Equação 2).
+𝜂𝑠𝑝
+= [𝜂] + 𝑘𝐻 [𝜂]2 . 𝐶
+𝐶
+Equação 2
+Onde :
+𝜂𝑠𝑝
+𝐶
+
+= viscosidade reduzida (mL.g-1)
+
+[η] = viscosidade intrínsica (mL.g-1)
+kH = constante de Huggins
+C = concentração da solução (g.mL-1)
+Confome a Equação 2, a viscosidade intrínsica ([η]) é determinada pela extrapolação da
+curva de viscosidade reduzida versus a concentração à diluição infinita. A viscosidade intrínsica
+e a massa molecular média viscosimétrica (Mv) são relacionadas pela relação de MarkHouwink, presente na Equação 3.
+[𝜂] = 𝐾′𝑀𝑣 𝛼
+Equação 3
+
+Página: 17
+
+Onde K’ e α são constantes do polímero, neste caso a quitosana em que K’ e α foram
+propostas por Rinaudo e colaboradores e de acordo com o valor de grau médio de acetilação
+(DA) (Rinaudo, Milas e le Dung, 1993; Signini, Campana Filho, 1999).
+3.5. Caracterização dos whiskers de β-quitina
+3.5.1. Determinação da concentração de whiskers
+
+A concentração de whiskers foi determinada através da pesagem em triplicata de 1,0 g de
+solução resultante. Esta foi então liofilizada e submetida a uma nova pesagem para a
+determinação da concentração mássica de whiskers.
+
+3.5.2. Microscopia Eletrônica de Transmissão (TEM)
+
+A morfologia das nanofibras obtidas a partir da quitina de maior granulometria
+(> 425µm) foram examinadas por TEM em um microscópio Zeiss EM 109 equipado com um
+sistema de captura de imagem digital Olympus MegaView V. A suspensão de nanofibras foi
+diluída para concentração próxima a 0,01% (m/v) e sonicadas por 3 minutos com ultrassom nas
+mesmas paramêtros condições de preparo da quitosana encontrado no item 3.2., em banho de
+gelo e sob agitação magnética a 500 rpm. Logo em seguida, uma gota dessa suspensão foi
+depositada em grade de transmissão de cobre recoberta com Formvar e secas a 40 °C. As
+amostras foram observadas a 80 kV.
+3.6. Preparação dos filmes compόsitos
+Filmes de quitosana e whiskers de β-quitina e compόsitos dos dois materiais foram
+preparados pelo método casting. O método “casting” consiste em espalhar a solução percursora
+do filme em uma superfície lisa. A solução é então seca em uma capela de exaustão, estufa com
+circulação de ar ou temperatura ambiente (Fonseca, 2009).
+O processo de secagem dos filmes ocorre para que o solvente seja evaporado. Após a
+remoção do solvente, os filmes secos são destacados da placa e estão prontos para serem
+analisados.
+Em cada placa de polipropileno foram colacados 30 mL ou 30 g de solução. A partir de agora
+filmes quitosana será nomeada de Qs e whiskers de β-quitina de menor granulometria
+(< 125 µm) de w (minúsculo) e de maior granulometria (> 425 µm) de W (maiúsculo).
+
+Página: 18
+
+Os filmes de quitosana (QS) foram preparados a partir da deposição em placas de
+polipropileno (diâmetro 6cm) de 30 g da solução de quitosana 1% (m/v) dissolvida em ácido
+acético 1% (v/v) que foram previamente agitadas durante 12 h. Os filmes foram secos em estufa
+de circulação de ar a 40 °C durante 24 h.
+Os compόsitos foram preparados através da dispersão dos whiskers em diferentes cargas no
+volume de água destilada utilizada para a dissolução da quitosana durante 3 min, velocidade de
+19000 rpm com o auxílio do Ultra Turrax modelo TI8 marca IKA em banho de gelo. Em seguida
+a massa de quitosana para obter uma concentração 1% (m/v) foi adicionada e a mistura foi
+agitada por um agitador mecânico de hélices tipo pá. Para a completa dissolução da quitosana
+no meio, o ácido acético 1% (v/v) foi adicionado, os whiskers foram adicionados e a mistura
+foi mantida sob agitação por 12 h. Apόs este período, as soluções foram vertidas em placas de
+polipropileno (diâmetro 6 cm) e os filmes foram secos em estufa de circulação de ar a 40 °C
+durante 24 h. Na Tabela 2 são identificados todos os filmes preparados.
+Tabela 2: Filmes de quitosana e de compόsitos preparados a partir do método casting.
+Suspensão de Whiskers
+granulometria
+Filmes Qs
+Compόsitos com whiskers
+(w) de granulometria <
+125 µm
+Compόsitos com whiskers
+(W) de granulometria >
+425µm
+
+Composição dos
+Filmes
+QS 1%
+QS 1% + w 2,5%
+QS 1% + w 5%
+QS 1% + w 10%
+QS 1% + w 20%
+QS 1% + W 2,5%
+QS 1% + W 5%
+QS 1% + W 10%
+QS 1% + W 20%
+
+Sigla dos Filmes
+Qs
+Qsw2,5
+Qsw5
+Qsw10
+Qsw20
+QsW2,5
+QsW5
+QsW10
+QsW20
+
+3.7. Caracterização dos filmes
+3.7.1. Microscopia Eletrônica de Varredura (MEV)
+A estrutura dos filmes foi avaliada por Microscopia Eletrônica de Varredura (MEV). O
+equipamento utilizado foi o Microscópio Eletrônico de Varredura digital LEO-440, aplicando
+uma tensão de 10 kV. Antes da análise, as amostras foram recobertas com uma fina camada de
+ouro
+
+(40-50
+
+nm)
+
+no
+
+metalizador
+
+Coating
+
+System
+
+BAL-TEC
+
+MED
+
+020
+
+(BAL-TEC, Liechtenstein). Foram analisadas a superfície e a secção transversal dos filmes
+
+Página: 19
+
+selecionados, sendo que os filmes foram fraturados manualmente após congelamento em
+nitrogênio líquido.
+
+3.7.2. Medida de espessura
+Para mensurar as espessuras dos filmes compόsitos foi utilizado um micrômetro digital de
+avanço rápido com precisão de 0,001 mm, sendo realizadas 10 medidas aleatórias de cada filme
+compόsitos.
+
+3.7.3. Medida de ângulo de contato
+As medidas de ângulo de contato foram obtidas utilizando goniômetro CAN101 Optical
+Contact Angle Meter (One attension®) a 25 °C, segundo o método proposto pela
+ASTM D5725-99. Amostras dos filmes de dimensões de 10,0 mm x 6,3 mm (comprimento por
+largura), foram fixadas em lâmina de vidro para manter a superfície na horizontal. Em seguida,
+gota de água deionizada (≈ 5 μL) foi colocada sobre a superfície da amostra com auxílio de
+seringa e a imagem da gota foi captada por câmera digital por período de 60 s. Os ângulos de
+contato dos lados direito e esquerdo da gota foram calculados por meio do software One
+attension®. Os valores do ângulo de contato representam a média dos ângulos de três repetições
+que foram obtidos por somatória e divisão dos ângulos direito e esquerdo de cada gota com a
+superfície.
+Para ângulos inferiores a 90° o líquido é considerado molhável e para ângulos acima de 90°
+não-molhável. O que permite a caracterização das substâncias em hidrofílicas e hidrofóbicas.
+A água possui caráter polar e quando ela apresenta com outra superfície um ângulo de contato
+menor que 90° esta superfície é considerada hidrofílica, porém, se este ângulo de contato for
+maior que 90°, o material é considerado hidrofóbico (Farias, 2011).
+
+3.7.4. Taxa de Transmissão ao Vapor da água (WVTR)
+A transmissão ao vapor da água, em inglês Water Vapor Transmission Rate (WVTR) foi
+determinada gravimetricamente segundo método proposto pela ASTM (American Society for
+Testing and Material), E96/E96M 16 (ASTM,2016) modificado, à temperatura de 25 °C.
+Amostras de filmes foram dimensionadas em formato circular com 9 mm de diâmetro e
+aplicadas em células de permeação contendo água destilada. Estas células foram colocadas em
+
+Página: 20
+
+dessecador contendo sílica gel azul (umidade relativa de ≈ 0%) de forma a assegurar um
+gradiente hídrico no sistema, e o conjunto foi armazenado a 25 °C. Ao longo de 2 dias, houve
+monitoramento do peso das células e filmes em intervalos de 2h, de forma a acompanhar a
+variação de peso no período. A transmissão do vapor de água nos filmes (g/m2.h) consiste no
+coeficiente angular da reta obtida por meio da regressão linear dos dados de perda de massa em
+função do tempo. Cinco medidas foram realizadas para cada amostra.
+
+3.7.5. Análise Mecânica
+
+Os materiais utilizados na produção de filmes devem apresentar características adequadas
+para proporcionar propriedades mecânicas desejadas (Whodo e Moraru, 2013).
+A deformabilidade, resistência à tração, porcentagem de alogamento e módulo de Young de
+filmes dependem da composição e das condições ambientais em que se encontram. As
+características mecânicas de filmes podem ser melhoradas com a adição de plastificantes ou
+materiais de reforço que em geral provocam o aumento da porcentagem de alongamento e a
+diminuição da resistência à tração (Sothornvit e Krochta, 2001).
+As propriedades mecânicas de tensão na ruptura (T), alongamento máximo na ruptura (A) e
+módulo de elasticidade (ME), relacionadas ao ensaio de tração do filme de quitosana e
+compόsitos de quitosana e whiskers de β-quitina foram realizadas em um texturômetro
+TA.XT2i Stable Micro Systems a 25°C, com base na norma ASTM D 882–09 (2009) . Os
+corpos de prova dos compόsitos foram cortados de acordo com a Figura 5 e então tracionados
+a um a velocidade de 5 mm/min e distância inicial das garras de 40 mm.
+
+Figura 5 : Corpo de prova e suas dimensões.
+
+As propriedades determinadas a partir das curvas de tensão em função da deformação obtidas
+no software Texture Expert 1.15 dos filmes foram: módulo de elasticidade (MPa), alongamento
+
+Página: 21
+
+na ruptura (%) e tensão na ruptura (MPa). Pelo menos 8 corpos de prova foram avaliados para
+cada formulação. Os ensaios foram realizados no Laboratório de Processamento de Frutas e
+Hortaliças da Embrapa Instrumentação, localizado em São Carlos-SP.
+
+3.7.6. Análise Óptica
+A aparência do filme pode ser determinada através de suas propriedades ópticas através da
+avaliação da cor de sua superfície, em geral medida por um colorímetro (Iahnke, 2015).
+A determinação da coloração dos filmes é geralmente obtida pelo utilização de um
+colorímetro que apresenta o sistema CIELAB, sendo os parâmetros L,a*,b*, onde :
+•
+
+L*é a luminosidade, com variação de 0 (preto) a 100 (branco);
+
+•
+
+a*, do verde (-) ao vermelho (+);
+
+•
+
+b*, do azul (-) ao amarelo (+).
+
+A transparência ou opacidade de filmes é medida através da sua transmitância interna.
+Quanto maior o valor de transmitância, mais transparente é o filme. A opacidade da matriz
+polimérica é inversamente proporcional à sua transparência e depende de sua homogeneidade.
+A presença de heterogeneidades estruturais nos filmes com diferentes índices de refração
+promove espalhamento de luz e consequente maior opacidade (Pastor et al., 2013).
+A luminosidade e a tendência da scores dos compόsitos foram obtidos através do software
+presente no equipamento Colorímetro Meter CR-400/410 (Konica Minolta), de acordo com o
+Sistema CIELAB e os parâmetros L*, a* e b*.
+As leituras dos parâmetros L, a* e b* permitiram calcular o ângulo Hue, ou seja, determinar
+a tonalidade. O ângulo Hue equivale ao [arco tangente (b*/a*)] (Minolta, 1994).
+
+3.7.7. Análise estatística
+
+Os resultados das análises foram submetidos à análise de variância (ANOVA) e as médias
+foram comparadas pelo teste de Tukey com significância de 5 % de probabilidade, com auxílio
+do programa Statistica for Windows versão 10.0 da StatSoft.
+
+Página: 22
+
+4.
+
+Resultados e Discussão
+
+4.1. Caracterização Quitosana (Qs)
+̅̅̅̅)
+4.1.1. Grau de acetilação (𝑮𝑨
+
+O grau de acetilação foi obtido pela Equação 1 descrita no intem 3.5.1., através das áreas
+dos picos identificados como a e b do espectro de RMN 1H apresentado na Figura 6.
+Figura 6: Espectro de 1H RMN da Quitosana (Qs).
+
+̅̅̅̅) da Qs é igual a 17,6%.
+Aplicando na Equação 1 estes valores, obtém-se que o (𝑮𝑨
+A quitosana obtida pelo processo de N-desacetilação da β-quitina assistida por ultrassom de
+alta intensidade é uma quitosana com elevado grau de desacetilação, superior a quitosana de
+elevado grau de desacetilação produzida comercialmente.
+Fiamingo et al. (2016) encontrou para a N-desacetilação da β-quitina, um grau de acetilação
+para a quitosana duplamente desacetilada de 15%. Portanto o resultado é similar ao da literatura.
+
+Página: 23
+
+4.2.2. Massa Molecular
+
+A massa molecular da Quitosana foi obtida pela medida de viscosidade. O coeficiente linear
+da reta obtida do gráfico da concentração (g.L-1) versus a viscosidade reduzida representa a
+viscosidade intríseca.
+A média da viscosidade intríseca obtida para a Quitosana duplamente desacetilada foi de
+1435 ± 15 mL.g-1. Aplicando a Equação 3, para obter a massa molecular e utilizando os
+paramêtros pré-estabelecidos por Rinaudo, Milas e le Dung (1993), para ̅̅̅̅
+𝑮𝑨 =21% , K= 0,074
+e α = 0,76, tem-se que a massa molecular da Qs é equivalente a 439 ± 7 KDa.
+A massa molecular obtida é considerada alta quando comparada as quitosanas vendidas
+comercialmente, porém quando comparada a literatura com a massa molecular encontrada por
+Fiamingo et al. (2016), a massa molecular obtida representa a metade da massa molecular
+encontrada pelos pesquisadores, embora o grau de acetilação seja muito parecido. O ̅̅̅̅
+𝑮𝑨
+encontrado foi de 18% e Fiamingo encontrou um DA de 15% para a Qs. Essa grande diferença
+pode estar relacionada as condições de N-desacetilação, uma vez que as metodologias diferem.
+Fiamingo e colaboradores (2016) partiu de uma granulometria de β-quitina mais fina do que a
+utilizada neste trabalho.
+4.2. Whiskers de β-quitina
+Os whiskers de beta-quitna foram obtidos na forma de uma suspensão aquosa aparentemente
+estável. A concentração média de whiskers foi de 20,73 ± 0,41 mg.g-1 para a suspensão de
+whiskers de beta-quitina de granulometria < 125 µm. Já para a suspensão de whiskers de betaquitina de granulometria > 425 µm a concentração média de whiskers foi de
+22,16 ± 1,83 mg.g-1. O teste de Tukey (p > 0,05) mostra as concentrações dos whiskers obtida
+para as duas granulometrias não são significativamente diferentes e que o método de produção
+de whiskers por hidrόlise ácida é reprodutível.
+
+4.2.1. Microscopia Eletrônica de Transmissão (TEM)
+
+Afim de observar o formato e a disposição dos whiskers produzidos, imagens de Microscopia
+Eletrônica de Transmissão foram obtidas para os whiskers > 425 µm e são ilustradas na
+Figura 7.
+
+Página: 24
+
+Figura 7: Imagens dos whiskers > 425 µm.
+
+O estudo da suspensão aquosa de whiskers de beta-quitina está em desenvolvimento. Porém as
+primeiras imagens obtidas e que está ilustrada na Figura 7, mostra que o processo de hidrόlise
+ácida formou nanofibras de beta-quitina que estão dispostas de forma aleatόria, segundo a
+classificação proposta por Ventura (2009). Não foi possível obter o aspecto.
+
+4.3. Preparação dos filmes
+4.3.1. Microscopia Eletrônica de Varredura (MEV)
+
+Os filmes tiveram a superfície dos dois lados (S-secagem e P-placa) e a fratura dos filmes
+avaliados por microscopia eletrônica de varredura. A Figura 8 representa as imagens da
+superfície do filme puro de quitosana.
+
+Página: 25
+
+Figura 8: Imagens superfície do filme Qs, sendo S-lado de secagem e P-lado placa.
+
+A imagem da superfície revela que ambos os lados do filme de quitosana são aparentemente
+homogêneos. No lado da placa existem ranhuras, provavelmente provenientes do manuseio e
+destaque da placa.
+Para visualizar as imagens de superfície dos compόsitos, as imagens dos dois filmes com
+maiores cargas de whiskers (10 e 20%) das duas granulometrias estudadas são mostradas na
+Figura 9.
+
+Página: 26
+
+Figura 9: Imagens de superfície dos filmes Qsw10, QsW10, Qsw20 e QsW20, sendo S-lado de
+secagem e P-lado em contato com a placa.
+
+O lado em contato com a placa de polipropileno em quase todos os filmes se mostrou liso e
+homogêneo, exceto o fime de menor granulometria com 20% de whiskers, indentificado na
+Tabela 2 como Qsw20. A superfície de secagem dos filmes no entanto se mostrou mais rugosa.
+
+Página: 27
+
+Os compόsitos contendo whiskers de menor granulometria apresentam os whiskers
+aparentemente mais homogeneamente dispersos na matriz de quitosana do que os filmes com
+whiskers de maior granulometria. Na Figura 9 para as superfícies filmes identificados como SQsW10 e S-QsW20 é possível visulalizar aglomerados de whiskers, sugerindo que estes whiskers
+obtidos de partículas de beta-quitina de maior diâmetro médio não se dispersam na matriz tão
+homogeneamente quanto aqueles preparados a partir da fração de beta-quitina composta por
+partículas de menores dimensões, resultando que neste último caso a distribuição dos whiskers
+parece mais homogênea.
+A diferença da dispersão e interação dos whiskers com a matriz pode estar associada às
+dimensões dos nanocristais ou nanofibras formados. Assim, os resultados indicam que,
+provavelmente, a hidrólise ácida da fração de β-quitina contendo partículas de maiores
+dimensões resultou em nanofibras enquanto a da fração com partículas de maiores dimensões
+gerou nanocristais.
+A Figura 10 apresenta as imagens de MEV do corte transversal do filme de quitosana (Qs)
+e os compόsitos com maiores cargas de whiskers e ambas as granulometrias formuladas.
+Figura 10: Imagens de MEV do corte transversal do filme Qs e dos compόsitos Qsw20 e
+QsW20.
+
+Página: 28
+
+As imagens da fratura mostram crescente heterogeneidade dos filmes, sendo o filme puro da
+matriz o mais homogêneo e o compόsito de maior carga e granulometria de whiskers QsW20 o
+mais heterogêneo. A heterogeneidade da fratura indica maior plasticidade dos filmes com
+whiskers de maior granulometria.
+Nas imagens dos compόsitos não foi possível visualizar as fibras, porém aparentemente os
+whiskers de menor granulometria interagem melhor com a matriz de quitosana formando um
+filme mais homogêneo e menos plástico que os compόsitos de whiskers de maior granulometria
+que são visualmente mais heterogêneos, como observado nas imagens das superfícies dos
+filmes.
+João et al. (2017) obtiveram compόsitos heterogêneos de quitosana e whiskers de α-quitina
+porém com uma caractéristica lamelar, em camadas, que não foi observada nas imagens de
+corte da Figura 10. João et al. (2017) observaram também que heterogeneidade dos filmes
+aumenta conforma aumenta a carga de whiskers, o que corrobora com os resultados do presente
+trabalho.
+
+4.3.3. Ângulo de Contato
+
+O ângulo de contato da água com as superfícies de secagem (S) e em contato com a placa
+(P) dos compόsitos relacionados na Tabela 2 foi avaliado. Os gráficos dos ϴ° pelo tempo (s)
+estão representados na Figura 11.
+
+Página: 29
+
+Figura 11: Interação com a água representada pelo decaimento do ângulo de contato em função
+do tempo para cada filme analisados, (A) superfície de secagem, (B) superfície em contato com
+a placa. Filmes com o mesma letra não são significativamente diferentes
+(p > 0,05) através do Teste de Tukey.
+
+Através das curvas das médias de três análises, observa-se que a o decaimento do ângulo de
+contato em função do tempo (s) são similares para ambas as faces dos filmes compόsitos.
+Pode-se dizer também que a preseça de whiskers aumentou a hidrofílicidade dos filmes.
+Uma possível explicação para esta observação é a diferença de rugosidade das superfícies
+do filme Qs e dos filmes compόsitos. Conforme visualidado nas Figuras 8 e 9 da superfície dos
+filmes (MEV), respectivamente a superfície do filme de quitosana é menos rugoso do que a
+superfície dos filmes com whiskers, ou seja, a rugosidade está diretamente relacionada com o
+caráter hidrofílico, pois apresentar maior rugosidade significa apresentar maior superfície de
+contato e consequentemente maior interação com o líquido. Quanto maior a interação com o
+líquido ou quanto maior a rugosidade, menor é o ângulo de contato.
+
+Página: 30
+
+As medidas de ângulo de contato nas diferentes faces do filme Qs revelaram variação de 8877° em 60s e 92-79° em 60s, nas faces de secagem e em contato com a placa, respectivamente.
+Na Figura 11A, três grupos de filmes compósitos podem ser observados: i) mais hidrofóbicos,
+os quais apresentam ângulo de contato inicial > 900, ii) menos hidrofóbicos, que apresentam
+850 < ângulo contato inicial < 900, iii) mais hidrofílicos, que apresentam ângulo de contato
+inicial < 850.
+
+As medidas de ângulo de contato variam nos intervalos 91-77°, 88-71° e
+
+84-63°, respectivamente. Os filmes do último grupo são os que possuem a maior variação,
+sendo o filme Qsw20 pertencente a este grupo e com a variação do ângulo de contato de 84-66°.
+O filme com a maior carga de whiskers e menor granulometria (Qsw20) é mais rugoso do que
+QsW20 conforme imagens de MEV dispostas na Figura 9 e também mais hidrofílico , uma vez
+que a variação do ãngulo de contato para QsW20 é de 88-72°. Na Figura 11B foram observados
+dois grupos filmes com comportamentos similares àqueles observados na Figura 11A.
+
+4.3.4. Taxa de Transmissão ao Vapor da Água (WVTR)
+Na Figura 12 estão representados a perda de massa, diretamente proporcional ao vapor de
+água transmitido, em função do tempo para os filmes produzidos de quitosana e whiskers de βquitina.
+
+Página: 31
+
+Figura 12: Perda de água em função do tempo dos filmes da Tabela 2. Colunas com o mesma
+letra não são significativamente diferentes (p > 0,05) através do Teste de Tukey.
+
+A matriz de quitosana é hidrofílica, afim de minimizar os efeitos de transmissão ao vapor de
+água adicionou-se o reforço de whiskers de beta-quitina. Porém a adição de whiskers não
+diminui significativamente a perda de vapor de água. A taxa de transmissão de vapor de água
+está associda ao efeito da espessura dos filmes, pois a transmissão varia do centro para as bordas
+dos filmes. A espessura do conjunto de filmes analisados não é significativamente diferente
+sendo equivalente a ≈ 84 µm, o que explica a baixa transmissão dos compósitos produzidos
+para ambas as granulometrias de whiskers
+
+empregadas. Quando os whiskers de menor
+
+granulometria foram adicionais, os valores de WVTR diminuiram para todas as cargas de
+whiskers adicionadas, embora essa diminuição não seja significativa, para a maioria das cargas
+de whiskers adicionadas. Apenas para a carga de 10% foi observada uma diminuição mais
+acentuada.
+Quando os whiskers de maior granulometria foram adicionados, os valores de WVTR
+também não apresentaram uma tendência. Uma vez que diminuiu para as cargas de 2,5 e 10 %
+de whiskers e aumentou para 5 e 20 % de whiskers. Nas imagens de MEV dispostas na Figura
+9 foram observados aglomerados para os filmes de maior carga de whiskers e que provocaram
+a redução da eficácia dos whiskers de beta-quitina na matriz de quitosana, devido a diminuição
+da taxa de transmissão ao vapor da água, isto é, a dispersão uniforme dos whiskers nos filmes
+compósitos é importante para obter propriedade de barreira ao vapor de água.
+
+Página: 32
+
+Resultado similar foi obtido por Salaberria e colaboradores (2015) com filmes de amido de
+milho e nanocristais e nafibras de α-quitina que atribuíram a baixa transmissão de vapor de água
+à formação de aglomerados quando elevadas cargas de whiskers foram utilizadas.
+
+4.3.5. Análise Mecânica
+
+A resistência mecânica dos filmes da Tabela 2 foi obtida, através das medidas tensão de
+ruptura e alongação. As curvas representativas e a análise estatística das propriedades dos filmes
+estão indicados na Figura 13.
+Figura 13: Análise Mecânica, (A) Curvas represrasentativas dos compόsitos, (B) Mόdulo
+Young, (C) Tensão de Ruptura (MPa) e (D) Alongamento (%). Colunas com o mesma letra não
+são significativamente diferentes (p > 0,05) através do Teste de Tukey.
+
+As curvas representativas dos filmes compósitos mostram que os filmes com whiskers
+apresentaram melhores propriedades mecânicas quando comparados ao filme de quitosana,
+indicando que os whiskers desempemham o papel de reforços.
+
+Página: 33
+
+Em relação ao módulo de Young, a variação para os filmes analisados foi de
+1,3 a 3,5 MPa, sendo o menor valor de módulo de Young a do filme compósito Qsw2,5 e o maior
+valor de 3,5 MPa para o filme QsW20. O filme Qs apresentou um módulo de elasticidade de
+2,4 MPa. Com exceção dos filmes compósitos com menor carga de whiskers, as demais cargas
+conferiram módulos de Young superiores ou iguais ao filme de quitosana.
+A tensão de ruptura dos filmes analisados variou no intervalo 2,1 MPa - 6,5 MPa. O filme
+Qsw20 foi o que apresentou a menor tensão de ruptura e o filme QsW20 obteve a maior tensão
+de ruptura. Apesar de formar aglomerados e interferirem negativamente nas propriedades de
+barreira, as maiores cargas de whiskers exercem função de reforço, suportando mais força
+aplicada do que o filme de quitosana que rompe a 3,7 MPa, enquanto a tensão na ruptura do
+filme QsW20 foi 6,5 MPa.
+Já para a propriedade de alongamento, todos os filmes se alongaram mais do que a o filme
+da matriz de quitosana. A varição do alongamento obtida foi de 1,8 a 7,1%. Sendo o menor
+alongamento observado para o filme Qs e QsW2,5 que possui baixo teor de whiskers que tendem
+a formar aglomerados. Já a maior porcentagem de alongamento foi a do filme compósito
+QsW10, isto é, a propriedade de alongamento está de acordo com as observações feitas para a
+propriedade de tensão de ruptura. Apesar de aglomerados terem sido visualizados nas imagens
+de MEV dos compósitos formulados com os whiskers > 425 µm, esses possuem características
+plásticas como visualizado nas imagens de MEV da fratura e conferem aos compósitos
+melhores propriedades mecânicas quando comparados a matriz polimérica, exercendo função
+de reforço. O efeito plasticizante dos whiskers se deve provavelmente à presença de água nos
+whiskers que foram obtidos e incorporados à quitosana na forma de suspensão aquosa.
+Embora os compósitos formulados com os whiskers < 125 µm tenham apresentado menor
+alongamento do que os filmes de mesma carga e maior granulometria, esses ainda apresentaram
+maior alongamento do que o filme Qs, atuando como também como reforço.
+João et al. (2017) relataram valores superiores de mόdulo Young, tensão de ruptura e
+alongamento para compόsitos de quitosoana e whiskers de α-quitina com cargas menores (0,75,
+1,5 e 3%). O filme de quitosana de elevada massa molecular apresentou mόdulo Young
+equivalente a 2,01 ± 0,36 GPa e o filme com menor carga de whiskers 0,75% foi de
+5,3 ± 1,3 GPa enquanto o de maior carga 3% apresentou o mόdulo Young prόximo ao de
+quitosana puro é 2,25 ± 0,48 GPa.
+Ou seja embora, a grandeza dos resultados sejam diferentes, devido a diferença de
+equipamento utilizado e pré-carga aplicada, a presença dos whiskers nos compósitos melhorou
+as propriedades mecânicas da matriz polimétrica. A análise mecânica dos filmes compósitos
+
+Página: 34
+
+Qsw e QSW foram realizadas também no equipamento de DMA (Análise Dinâmico-Mecânica),
+em que os filmes não foram rompidos mesmo após atingir a carga máxima do equipamento
+(≈ 18 MPa), ou seja é possível que os baixos valores obtidos neste estudo estejam na realidade
+relacionados aos parâmetros utilizados para a análise e não da falta ou baixa resistância dos
+materiais.
+4.3.6. Análise Óptica
+
+Os filmes foram analisados quanto a luminosidade, paramêtro (a*) e (b*) do sistema
+CIELAB, os dados encontrados estão dispostos na Figura 14.
+
+Figura 14: Dados obtidos pela medida de colorimetria dos filmes. Colunas com o mesma letra
+não são significativamente diferentes (p > 0,05) através do Teste de Tukey.
+
+Os resultados revelam que, apesar de visualmente os filmes com maiores cargas de whiskers
+formados por partículas de beta-quitina de maiores dimensões parecerem mais opacos que
+aqueles de quitosana e dos outros compósitos, os valores de luminosidade dos filmes não
+
+Página: 35
+
+apresentaram diferença significativa, já que todos apresentaram alta luminosidade ( > 95 %),
+ou seja, não absorveram muita luz.
+Resultado similar foi obtido por Qin e colaboradores (2016), as luminosidades dos filmes de
+amido de milho e whiskers de α-quitina (0,5 , 1, 2 e 5%) não apresentaram diferentes apesar da
+carga de whiskers ter alterado a matriz de amido de milho.
+Já os paramêtros a* e b* diferem de filme para filme, embora tenham a mesma tendência,
+isto é, a* é negativo e indica verde para todas as amostras e b* é positivo e indica amarelo para
+todas as amostras. O fato de um filme ser mais amarelo que o outro, no caso, Qsw5 e Qsw10
+serem mais amarelos que os demais pode estar relacionado a maneira e forma de
+armazenamento. Uma vez que os filmes foram preparados em bateladas e armazenados por
+períodos diferentes, é possível que os resultados estejam afetados pelo tempo de armezamento,
+que aparentemente resulta em alteração da coloração dos filmes, que tendem a ser mais
+amarelados quanto maior o tempo de armazenamento.
+Da mesma forma que para a luminosidade os resultados estão de acordo com os encontrados
+por Qin e colaboradores (2016), que relataram a* ≈ -1,5 e b* ≈ 1, indicando predominância de
+amarelo e de verde, respectivamente. Qin e colaboradores (2016) relataram que o aumento da
+carga de whiskers diminuiu o valor de a* e aumentou o valor de b*, enquanto neste trabalho
+não foi observada uma tendência definida de variação desses parâmetros em função da carga e
+das dimensões dos whiskers de beta-quitina.
+Na Tabela 3 estão dispostos os valores de ângulo Hue, obtidos para os filmes compósitos
+analisados.
+
+Tabela 3 : Ângulo Hue para cada filme compósito analisado para ambos os lados dos filmes.
+Filme
+Ângulo (°)
+Compósito lado Secagem
+Qs
+100,4
+Qsw2,5
+101,1
+Qsw5
+101,8
+Qsw10
+101,7
+Qsw20
+99,0
+QsW2,5
+97,9
+QsW5
+98,5
+QsW10
+99,3
+QsW20
+98,6
+
+Ângulo (°)
+lado Placa
+100,4
+101,0
+101,6
+101,5
+98,9
+97,8
+98,4
+99,1
+98,3
+
+Página: 36
+
+Comforme os dados da Tabela X os ângulos de Hue compósitos analisados varia de 98 A
+101°, ou seja, todos tendem a amarelo, pois valores de ângulo de Hue entre 0º-90° indicam
+vermelho, 90º-180° amarelo, 180º-270° verde e 270º-360° azul. Para os filmes formulados com
+whiskers de maior granulometria o ângulo é menor do para os filmes formulados com whiskers
+de menor granulometria que são mais similares ao filme Qs.
+
+5. Conclusão
+Os filmes compósitos à base de quitosana e whiskers de beta-quitina apresentaram
+propriedades que quando comparadas aos trabalhos disponíveis na literatura indicam sua
+potencialidade para aplicações biomédicas. A hidrólise ácida da beta-quitina proporcionou a
+formação de whiskers, que foram incorporados como reforços na matriz de quitosana. Assim,
+foi observado que as propriedades mecânicas dos filmes compósitos, isto é aqueles aos quais
+whiskers de beta-quitina foram incorporaodos, foram superiores em comparação ao filme
+composto apenas por quitosana, principalmente no que diz respeito ao alongamento na ruptura.
+A incorporação dos whiskers, independentemente da fração de beta-quitina empregada, não
+alterou a espessura e luminosidade dos filmes, porém a utilização dos whiskers produzidos a
+partir da fração de beta-quitina composta por partículas maiores (> 425 µm), resultou em
+aglomerados, enquanto os whiskers produzidos a partir da outra fração de beta-quitina
+(partículas < 125 µm) apresentaram melhor dispersão na matriz polimérica. O caráter
+hidrofílico foi mais acentuado nas superfícies dos filmes compósitos em comparação ao filme
+de quitosana. Tais resultados indicam que importantes características e propriedades dos
+materiais estudados, isto é filmes cuja matriz de quitosana é reforçada com whiskers de betaquitina, são afetadas pela carga e pelas dimensões dos reforços incorporados. O potencial uso
+desses materiais na formulação de curativos é indicado desde que estudos avançados sejam
+desenvolvidos.
+
+6. Referências Bibliográficas
+AKELAND, D. R. The science and engineering of materials. 3º edição, Ed. Chapman & Hall, 1996.
+ARMENTANO, I. ; DOTTORI, M. ; FORTUNATI, E., MATTIOLI, S. ; KENNY, J.M. Biodegradable
+polymer matrix nanocomposites for tissue engineering : A review. Polymer Degradation and Stability, v.
+95, p. 2126-2146, 2010.
+AZEREDO, V.V.C. ; CHAVES, S.A. ; BEZERRA, D.C. ; LIA FOOK, M.V. ; COSTA, A.C.F.M. Quitina e
+Quitosana : aplicações como biomateriais. Revista Eletrônica de Materiais e Processos. v. 2.3, p. 27-34,
+2007.
+
+Página: 37
+
+CAMPANA-FILHO, S.P ; DE BRITTO, D. ; CURTI, E. ; ABREU, F.R. ; CARDOSO, M.B. ; BATTISTI,
+M.V. ;SIM, P.C. ; GOY, R.C. ; SIGNINI, R., LAVALL, R. Extração, estruturas e propriedades de α- e βquitina. Química Nova, v. 30, n. 3, p. 644-650, 2007.
+CHEN, C. ; LI, D. ; HU, Q. ; & WANG, R. Properties of polymethyl methacrylate-based nanocomposites:
+Reinforced with ultra-long chitin nanofiber extracted from crab shells. Journal of Materials & Design,
+v.56(C), p.1049–1056, 2014.
+CLAUSSARD, G. ; DOMARD, A. New aspects of the extraction of chitin from squid pens.
+Biomacromolecules, p. 599-564, 2004.
+COMA, V. ; DESCHAMPS, A. ; MARTIAL-GROS, A. Bioactive packaging materials from edible chitosan
+polymer-Antimicrobial activity assessment on dairy-related contaminants. Journal of Food Science, v.68 ?
+n.9, p.2788–2792, 2003.
+CORSELLO, F.A. ; BOLLA, P.A. ; ANBINDER, P.S. ; SERRADELL, M.A. ; AMALVY, J.I. ; PERUZZO,
+P.J. Morphology and properties of neutralized chitosan-cellulose nanocrystals biocomposite films.
+Carbohydrate Polymers, v.156, p.452-459, 2017.
+CUNHA, P.L.R.; PAULA, R. C. M.; FEITOSA, J. P. A. Polissacarídeos da biodiversidade brasileira: Uma
+oportunidade de transformar conhecimento em valor econômico. Química nova, v.32, n.3, p.649-660, 2009.
+DENG, Q..; LI, J.; YANG, J.; LI, D. Optical and flexible Î±–chitin nanofibers reinforced poly(vinyl alcohol)
+(PVA) composite film: Fabrication and property.Composites Part A. Applied Science and Manufacturing,
+v.67(C), p.55–60, 2014.
+DOLPHEN, R.; THIRAVETYAN, P. Absorption of melanoidins by chitin nanofibers. Chemical
+Engineering Journal, v.166, p.890-895, 2011.
+DOMARD, A. A perspective on 30 years research on chitin and chitosan. Carbohydrate Polymers, v.84,
+p.696–703, 2011.
+DOMARD, A. ; RINAUDO, M. Preparation and characterization of fully deacetylated chitosan.
+International Journal of Biological Macromolecules, 5,C. Jeuniaux, R. A. A. Muzzarelli, & G. A. F.
+Roberts (Eds.). Advances in chitin science (Vol. 1, pp. 204–209). Lyon: André Publisher, 1983.
+DUFRESNE, A. Processing of Polymer Nanocomposites Reinforced with Polysaccharide Nanocrystals.
+Molecules, v.15, n.6, p.4111-4128, 2010.
+FAM, Y. ; SAITO, T., ISOGAI, A. Individual chitin nano-whiskers prepared from partially deacetylated αchitin by fibrilsurface cationization. Carbohydrte Polymers, v.79, p. 1046-1051, 2010.
+FAN, Y. ; SAITO, T. ; & ISOGAI, A. Chitin nanocrystals prepared by TEMPO-mediated oxidation of chitin.
+Biomacromolecules, v.9, n.1, p.192–198, 2008a.
+FAN, Y. ; SAITO, T. ; & ISOGAI, A. Preparation of chitin nanofibers from squidpen -chitin by simple
+mechanical treatment under acid conditions. Biomacromolecules, v.9, n.7, p.1919–1923, 2008b.
+FANI, M. Gelifiantes. Food Ingredients Brasil, n. 27, v. XV, 2013.
+FARIAS, M.G; DE LIMA, R.F.M; DE CARVALHO, C.W.P. Efeito do ângulo de contato e atividade de
+água em filmes de amido. III SIMPÓSIO BRASILEIRO DE PÓS-COLHEITA – SPC, 2011. p. 343-346.
+FIAMINGO, A. ; DELEZUK, J.A.M. ; TROMBOTTO, S. ; DAVID, L. ; CAMPANA-FILHO, S.P.
+Extensively deacetylated high molecular weight chitosan from multistep ultrasound-assisted deacetylation of
+beta-chitin. Ultrasonics Sonochemistry, v.32, p. 79-85, 2016.
+FONSECA, S.F.; Utilização de embalagens comestíveis na indústria de alimentos. Pelotas. 34 p. Trabalho
+academic da disciplina Seminário de Alimentos – Universidade Federal de Pelotas, 2009.
+GUPTA, N. S. Chitin-Formation and Diagenesis. Springer : 2010. 1 st ed., v. 34.
+HABIBI, Y.; LUCIA, L. A.; ROJAS, O. J. Cellulose nanocrystals : chemsitry, self-assembly and
+applications. Chemical Reviews, v.110, n.6, p.3479-3500, 2010.
+HAMLEY, I. W. Liquid crystal phase formation by biopolymers. Soft Matter, v.6, n.9, p.1863–1871, 2010.
+HE, Y. ; WANG, J. A novel method to prepare ZnS whiskers. Materials Letters, v.62, p. 1379-1381, 2008.
+HIRAI, A. ; ODANI, H. ; NAKAJIMA, A. Determination of degree of deacetylation of chitosan by 1H NMR
+spectroscopy. Polymer Bulletin, v.26, p.87–94, 1991.
+IZUMI, R.; AZUMA, K.; IZAWA, H.; MORIMOTO, M.; NAGASHIMA, M.; OSAKI, T. Chitin nanofibrils
+suppress skin inflammation in atopic dermatitis-like skin lesions in NC/Nga mice. Carbohydrate Polymers,
+v.146, p.320–327, 2016.
+
+Página: 38
+
+JOÃO, C. F. C. ; BAPTISTA, A. C. ; FERREIRA, I. M. M., SILVA, J. C. ; & BORGES, J. P. Natural
+nanofibres for composite applications. In S. Rana, & R. Fangueiro (Eds.), Fibrous and textile materials for
+composite applications. 2016. Singapore: Springer Singapore. p. 261–299.
+JOÃO, C. F. C. ; SILVA, J. C. ; BORGES, J. P. Chitin-based nanocomposites: Biomedical applications.
+In V. K. Thakur, & M. K. Thakur (Eds.), Eco-friendly polymer nanocomposites (v. 74, p. 439–457, 2015).
+New Delhi: Springer India.
+JOÃO, C.F.C. ; ECHEVERRIA, C. ; VELHINHO, A. ; SILVA, J.C. ; GODINHO, M.H. ; BORGES, J.P.
+Bio-inpired production of chitosan/chitin films from liquid crystalline suspension. Carbohydrate Polymers,
+v.155, p. 372-381, 2017.
+KIRUTHIKA, A.V. A review on physico-mechanical properties of bast fibre reinforced polymer composites.
+Journal of Building Endineering, v.9, p.91-99, 2017.
+KONG, M.; CHEN, X.G. ; XING, K. ; PARK, H.J. Antimicrobial properties of chitosan and mode of action:
+a state of the art review. International Journal of Food Microbiology v.144, n.1, p.51–63, 2010.
+KUMAR, M.N.V.R. A review of chitin and chitosan applications. Reactive and Functional Polymers, v.46,
+p.1–27, 2000.
+KUMAR, P.T.S.; ABHILASH, S.; MANZOOR, K. Preparation and characterization of novel βchitin/nanosilver composite scaffolds for wound dressing applications. Carbohydrate Polymers, v.80,
+p.761–767, 2010.
+LAMARQUE, G.; VITON, C.; DOMARD, A. Comparative study of the first heterogeneous deacetylation of
+alpha- and beta-chitins in a multistep process. Biomacromolecules, v .5, p.992–1001, 2004.
+LEE, Y.M.; KIM S.S. ; PARK, M.H. ; SONG K.W. ; SUNG Y.K. ; KANG, I.K. β-Chitin-based wound
+dressing containing sulfurdiazine. Journal of Materials Science : Materials in Medicine, v.11, p. 817-823,
+2000.
+LEVY NETO, F.; PARDINI, L.C. Compόsitos Estruturais. Ciência e Tecnologia. 2ed. Edgard Blucher: São
+Paulo, 2016. 416 p.
+MA, H.Y.; BURGER, C.; HSIAO, B.S.; CHU, B. Ultrafine Polysaccharide Nanofibrous Membranes for
+Water Purification. Biomacromolecules, v. 12, p.970-976, 2011.
+MADHUMATHI, K. ; KUMAR, P.T.S.; ABHILASH, S. Development of novel chitin/nanosilver composite
+scaffolds for wound dressing applications. Journal of materials science.Journal of Materials Science :
+Materials in Medicine, v.21, p.807–813, 2009.
+MANEGHETTI, P. ; QUTUBUDDI, S. Synthesis, thermal properties and applications of polymer-clay
+nanocomposites. Thermochimica Acta, v.442, p.74-77, 2006.
+MARCHESSAULT, R. H.; MOREHEAD, F. F.; WALTER, N. M. Liquid crystal systems from fibrillar
+polysaccharides. Nature, v.184, p.632−633, 1959.
+MARTINS, J. T.; BOURBON, A. I. ; PINHEIRO, A. C. ; SOUZA, B. W. S. ; CERQUEIRA, M. A.;
+VICENTE, A. A. Biocomposite films based on carrageenan/locust beangum blends and clays: physical and
+antimicrobial properties. Food and Bioprocess Technology, v.6, p.2081–2092, 2013.
+MINCEA, M.; NEGRULESCU, A. ; OSTAFE, V. Preparation, modification and applications of chitin
+nanowhiskers: a review. Reviews on advanced Materials Science, v.30, p. 225-242, 2012.
+MINOLTA. Precise Color Communication: Color Control from Feeling to Instrumentation. Osaka:
+MINOLTA Co. Ltda., 1994. 49 p.
+MOREIRA, P.S.V. ; RODRIGUES, T. ; RODRIGUES, F.A. Desenvolvimento e Caracterizaçéao de filmes
+polímericos para utilização comp adesivos cutâneos. XV Congresso de Iniciação Científica, Universidade de
+Mogi das Cruzes. 2011.
+MORGANTI, P. Chitin nanofibrils and their derivatives as cosmeceuticals. In: Kim S-K (ed) Chitin, chitosan,
+oligosaccharides and their derivatives: biological activities and applications, CRC Press, New York, 2011.
+MORGANTI, P. ; MORGANTI, G. Chitin nanofibrils for advanced cosmeceuticals. Clinics in
+Dermatology, v.26, p.334–340, 2008.
+MORIN, A. ; DUFRESNE, A. Nanocomposites of chitin whiskers from Riftia Tubes and Poly(caprolactone)
+Macromolecules, v.35,n. 6, p. 2190-2199, 2002.
+NAGARWAL, R.C. ; KANT,S. ; SINGH, P.N. ; MAITI, P. ; & PANDIT, J. K. Polymericnanoparticulate
+system: A potential approach for ocular drug delivery. Journal of Controlled Release, v.136, p. 2–13, 2009.
+NAIR, K.G. ; DUFRESNE, A. Crab shell whisker reinforced Natural Rubber Nanocomposites. 1 Processing
+and swelling Behavior. Biomacromolecules¸ v.4, n.3, p. 657-665, 2003.
+
+Página: 39
+
+PAILLET, M. ; DUFRESNE, A. Chitin whisker reinforced thermoplastic nanocomposites.
+Macromolecules, v.34, n.19, p. 6527-6530, 2001.
+PASTOR, C. ; SANCHEZ6GONZALEZ, L. ; CHIRALT, A. ; CHAFER, M. ; GONZALEZ-MARTINEZ,
+C. Physical and antioxidant properties of chitosan and methylcellulose based films containing
+resveratrol. Food Hydrocolloids, v. 30, n. 1, p. 272-280, 2013.
+PILLAI, C.K.S. ; PAUL, W., SHARMA, C. P. Chitin and chitosan polymers: Chemistry, solubility and fiber
+formation. Progress in Polymer Science, v.34, n.7, p. 641–678, 2009.
+QIN, Y.; ZHANG, S.; YU, J., YANG, J. ; XIONG, L. ; & SUN, Q. Effects of chitinnano-whiskers on the
+antibacterial and physicochemical properties of maizestarch films. Carbohydrate Polymers, v.147, p.372–
+378, 2016.
+RHIM, J.W., PARK, H.M., & HA, C.S. Bio-nanocomposites for food packagingapplications. Progress in
+Polymer Science, v.38, p.1629–1652, 2013.
+RINAUDO, M. Chitin and chitosan: properties and applications. Progress in Polymer Science, v.31, p. 603632, 2006.
+RINAUDO, M. ; MILAS, M. ; LÊ DUNG, P. Characterization of chitosan influence of ionic strenfth and
+degree of acetylation on chain expansion. International Journal of Biological Macromolecules, v.15, p.
+281-285, 1993.
+ROBLES, E. ; SALABERRIA, A. M. ; HERRERA, R. ; FERNANDES, S. C. M. ; & LABIDI, J. Self-bonded
+composite films based on cellulose nanofibers and chitin nanocrystals as antifungal materials. Carbohydrate
+Polymers, v.144, p.41–49, 2016.
+SALABERRIA, A. M. ; FERNANDES, S. C. M. ; DIAZ, R. H. ; & LABIDI, J. Processing of α-chitin
+nanofibers by dynamic high pressure homogenization: Characterization and antifungal activity against A.
+niger. Carbohydrate Polymers, v.116, p.286–291, 2015.
+SHIMAZAKI, Y. ; MIYAZAKI, Y. ; TAKEZAWA, Y. ; NOGI, M. ; ABE, K. ; IFUKU, S. ; YANO, H.
+Excellent thermal conductivity of transparent cellulose nanofiber/epoxy resinnanocomposites.
+Biomacromolecules, v.8, p.2976–2978, 2007.
+SIGNINI, R. ; CAMPANA FILHO, S.P. On the preparation and characterization of chitosan hydrochloride.
+Polymer Bulletin, v. 42, p.156-166, 1999.
+SINGLETON, A.C.N. ; BAILLIE, C.A. ; BEAUMONT, P.W.R. ; PEIJS, T. On the mechanical properties,
+deformation and fracture of a natural fibre/recycled polymer composite. Composites Part B, v. 34, p. 519–
+526, 2003.
+TANASE, C. E. ; & SPIRIDON, I. PLA/chitosan/keratin composites for biomedicalapplications. Materials
+Science and Engineering C, v.40, p.242–247, 2014..
+VENTURA, A.M.S. Os Compósitos e a sua aplicação na Reabilitação de Estruturas metálicas. Ciência &
+Tecnologia dos Materiais, V. 21, n.3/4, p.10-19, 2009.
+YAN, L. Plain concrete cylinders and beams externally strengthened with natural flax fabric reinforced epoxy
+composites, Materials and Structures, v.49, p.2083–2095, 2016.
+ZAHEDI, P.; REZAEIAN, I.; RANAEI-SIADAT, S. O.; JAFARI, S. H.; & SUPAPHOL, P. Areview on
+wound dressings with an emphasis on electrospun nanofibrouspolymeric bandages. Polymers for Advanced
+Technologies, v.21, p.77–95, 2010.
+ZENG, J. ; HE, Y. ; Li, S. ; WANG, Y. Chitin Whiskers : an Overview. Biomacromolecules, v. 13,
+p.1-11, 2012.
+ZIVANOVIC, S. ; CHI, S. ; DRAUGHON, A.F. Antimicrobial activity of chitosan films enriched with
+essential oils. Journal of Food Science, v.70, n.1, p.45–51, 2005.
+
+

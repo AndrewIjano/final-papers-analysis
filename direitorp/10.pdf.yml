@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no
+dedictria: no
+agradecim: no
+resumo_ab: yes
+kw: yes
+l_figuras: yes
+l_tabelas: yes
+l_abr_sig: yes
+l_quadros: no
+n_sub_sec: 21 
+n_ssb_sec: 26
+n_sss_sec: 2
+tem_anexo: yes
+ini: INTRODUÇÃO
+secoes:
+ - CAPÍTULO 1 - EFEITOS DO ÁLCOOL NO CORPO HUMANO E SUA INTERFERÊNCIA NO DESEMPENHO DO CONDUTOR
+ - CAPÍTULO 2 – HISTÓRICO DA ALTERAÇÃO DOS ARTIGOS DA LEI SECA
+ - CAPÍTULO 3 – CRÍTICAS À LEI N° 12.760/2012 E ANÁLISE DOS SEUS TEMAS CONTROVERSOS
+ - CAPÍTULO 4 – PANORAMA ESTATÍSTICO SOBRE O TRÂNSITO VIÁRIO
+ - CAPÍTULO 5 – POLÍTICAS PÚBLICAS MELHOR MÉTODO PARA OBTENÇÃO DE UM TRANSITO VIÁRIO MAIS SEGURO
+end: CONSIDERAÇÕES FINAIS
+ref: REFERÊNCIAS BIBLIOGRÁFICAS

@@ -1,0 +1,23 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: no
+agradecim: no 
+resumo_ab: yes
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: yes
+l_quadros: no
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: no
+ini: INTRODUÇÃO
+secoes:
+ - CONTEXTUALIZAÇÃO DO LIVRO DE LAMENTAÇÕES
+ - O LIVRO DE LAMENTAÇÕES
+ - ANÁLISE INTERPRETATIVA DO LIVRO DE LAMENTAÇÕES
+end: CONCLUSÃO
+ref: REFERÊNCIAS

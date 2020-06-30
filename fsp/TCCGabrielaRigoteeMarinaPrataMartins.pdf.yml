@@ -1,0 +1,23 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: no
+agradecim: yes
+resumo_ab: no
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec:
+n_ssb_sec:
+n_sss_sec:
+tem_anexo: yes
+ini: INTRODUÇÃO
+secoes:
+ - OBJETIVO GERAL
+ - PERCURSO METODOLÓGICO
+ - RESULTADOS E DISCUSSÃO
+end: CONCLUSÃO E CONSIDERAÇÕES FINAIS
+ref: REFERÊNCIA

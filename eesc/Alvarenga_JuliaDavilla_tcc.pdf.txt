@@ -1,0 +1,3327 @@
+UNIVERSIDADE DE SÃO PAULO
+
+JÚLIA DÁVILLA DE ALVARENGA
+
+Destinação final do lodo de Estações de Tratamento de Esgoto no Estado de São Paulo:
+estudo da bacia hidrográfica Sorocaba e Médio Tietê
+
+SÃO PAULO
+2019
+
+JÚLIA DÁVILLA DE ALVARENGA
+
+Destinação final do lodo de Estações de Tratamento de Esgoto no Estado de São Paulo:
+estudo da bacia hidrográfica Sorocaba e Médio Tietê
+
+Versão Original
+
+Monografia apresentada ao curso de Engenharia Ambiental da Escola de
+Engenharia de São Carlos na Escola Politécnica da Universidade de São
+Paulo, como parte dos requisitos para obtenção do título de Engenheira
+Ambiental.
+
+Orientador: Prof. Dr. Ronan Cleber Contrera
+
+São Paulo
+2019
+
+Dedico este trabalho àqueles que mantêm a
+perseverança em situações difíceis, quando a vontade
+de desistir dos próprios ideais e valores é alarmante.
+Dedico também aos amigos que permaneceram ao
+meu lado durante a graduação.
+
+AGRADECIMENTOS
+
+Agradeço primeiramente ao professor Ronan, que me orientou durante esta fase final da
+graduação e possibilitou que este trabalho fosse realizado.
+Ao professor Marcelo Zaiat, que sempre foi além de um bom professor durante este meu
+período de graduação. Paciente e muito humano quando nós, alunos da Engenharia Ambiental, o
+procurávamos para pedir conselhos sobre alguma situação – seja ela da graduação ou não.
+Aos amigos que permaneceram ao meu lado tanto nesta etapa final de estudos quanto em
+qualquer outra. Jorge, Gabriel, Alexandre e Matheus, a presença de vocês foi muito importante e
+bem-vinda.
+Aos meu pais, Neide e José, que desde cedo investiram na minha educação, o que me
+possibilitou estudar na Universidade de São Paulo e a iniciar minha vida profissional. Agradeço
+também minha mãe pela ajuda com a correção e formatação deste trabalho.
+Agradeço à Universidade de São Paulo e à Escola de Engenharia de São Carlos pela
+experiência proporcionada durante esses anos. Posso dizer que aprendi muito, não apenas no
+contexto de conhecimento científico. A perpetuidade desse espaço é de grande relevância para a
+sociedade.
+Por fim, agradeço a todos que lutaram para manter a Universidade de São Paulo e garantir
+a permanência de alunos, docentes e funcionários como parte dela.
+
+“Todo ponto de vista é a vista de um ponto.”
+Leonardo Boff (1999)
+
+RESUMO
+
+ALVARENGA, J. D. Destinação final do lodo de Estações de Tratamento de Esgoto no Estado
+de São Paulo: estudo da bacia hidrográfica Sorocaba e Médio Tietê. 2019. 87 f. Monografia
+(Trabalho de Conclusão de Curso) – Escola de Engenharia de São Carlos, Universidade de São
+Paulo, São Carlos, 2019.
+
+O tratamento de esgoto é uma intervenção antrópica no meio e acelera a separação entre as partes
+sólida e líquida que compõem os esgotos sanitários, processo que costuma ocorrer de forma natural
+nos ecossistemas. Existem destinações finais ambientalmente corretas do lodo gerado e, neste
+trabalho, o objetivo principal foi avaliar o que está sendo feito com este resíduo semissólido nas
+ETEs pertencentes aos municípios da bacia hidrográfica Sorocaba e Médio Tietê. O método
+utilizado foi o levantamento de dados em sites (SigRH, prefeituras dos municípios que compõem
+a bacia e nas concessionárias que tratam seus esgotos) e por contato direto com as companhias de
+saneamento. Os resultados apontaram que a maioria dos municípios dessa bacia hidrográfica leva
+seu lodo, tratado ou não, aos aterros sanitários. Considera-se que outros meios de destinação final
+ou de minimização dos volumes de lodo depositados em aterro são essenciais para a
+sustentabilidade da gestão do resíduo semissólido e do próprio tratamento de esgoto.
+
+Palavras-chave: Esgoto sanitário. Ecossistema. Lodo de estação de tratamento de esgoto.
+Sustentabilidade.
+
+ABSTRACT
+
+Alvarenga, J. Dávilla. Final destinantion of Sewage Treatment Station’s sludge in the state of
+São Paulo: study of Sorocaba e Médio Tietê watershed. 2019. 87 f. Monografia (Trabalho de
+Conclusão de Curso) – Escola de Engenharia de São Carlos, Universidade de São Paulo, São
+Carlos, 2019.
+
+Sewage treatment is an anthropic intervention in the environment and accelerates separation
+between solid and liquid that composes sanitary sewage, a process that usually occurs in a natural
+form in ecosystems. There are environmentally correct destinations for the generated sludge and
+the main objective in this study is to evaluate what is being done with this semi-solid waste in the
+Sorocaba and Middle Tietê watershed. The method consisted in get data from websites (the
+watershed committee, SigRH; city halls that composes the watershed; sewage treatment
+responsible companies) and by direct contact with the involved companies. The results showed that
+mostly Sorocaba and Middle Tietê cities uses landfills to disposes its sludge, treated or not. It is
+considered that other ways to final destination volume minimization are crucial for the sustainable
+management of this semi-solid waste and sewage treatment its own.
+
+Keywords: Sanitary sewage. Ecosystem. Sewage treatment plant sludge. Sustainability.
+
+LISTA DE ILUSTRAÇÕES
+
+Figura 1 – Ilustração de tratamento primário. ............................................................................ 16
+Figura 2 – Fluxograma do processo de digestão anaeróbia. ....................................................... 17
+Figura 3 – Esquema de lagoa facultativa. .................................................................................. 19
+Figura 4 – Esquema de lagoa facultativa precedida de anaeróbia. .............................................. 20
+Figura 5 – Esquema de lodos ativados convencional. ................................................................ 22
+Figura 6 – Esquema de lodos ativados com aeração prolongada. ............................................... 23
+Figura 7 – Esquema de reator UASB. ........................................................................................ 24
+Figura 8 – Esquema de reator UASB procedido por lodos ativados. .......................................... 25
+Figura 9 - Esquema de filtro biológico percolador (aeróbio). ..................................................... 26
+Figura 10 - Esquema de tanque séptico procedido por filtro anaeróbio. ..................................... 27
+Figura 11 – Ilustração de MBBR. .............................................................................................. 28
+Figura 12 – Esquema de tanque séptico com apenas uma câmara. ............................................. 29
+Figura 13 – Esquema de leito de secagem. ................................................................................ 36
+Figura 14 – Esquema de lagoa de secagem de lodo.................................................................... 36
+Figura 15 – Filtro prensa. .......................................................................................................... 37
+Figura 16 – Filtro de esteiras. .................................................................................................... 37
+Figura 17 – Centrífuga da ETE Mário Araldo Candello (Indaiatuba). ........................................ 38
+Figura 18 – Bag filtrante horizontal. .......................................................................................... 38
+Figura 19 – Esquema de gaseificador de leito fluidizado borbulhante. ....................................... 49
+Figura 20 – Mapa da bacia hidrográfica Sorocaba e Médio Tietê. .............................................. 51
+Figura 21 – Gráfico da representatividade dos métodos de tratamento de esgoto encontrados. ... 67
+Figura 22 – Gráfico da representatividade das destinações finais de lodo encontradas. .............. 68
+
+LISTA DE QUADROS
+
+Quadro 1 – métodos de remoção de umidade do lodo e funcionamento. .................................... 35
+Quadro 2 – vantagens e desvantagens dos métodos de remoção de umidade do lodo. ................ 39
+Quadro 3 – métodos de higienização do lodo e conceitos atrelados. .......................................... 41
+Quadro 4 – parâmetros a serem analisados para caracterizar lodo para uso agrícola. .................. 42
+Quadro 5 – percentuais de tratamento de esgoto de municípios com divergências no Atlas de
+Esgotos. .................................................................................................................................... 53
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de
+esgoto e destino final do lodo .................................................................................................... 58
+Quadro 7 – número de municípios e porcentagem de esgoto coletado e tratado por esfera de poder
+................................................................................................................................................. 64
+Quadro 8 – métodos de tratamento de esgoto encontrados (agrupados)...................................... 66
+Quadro 9 – formas encontradas de destinação final de lodo (agrupadas). ................................... 66
+Quadro 10 – estimativa de quantidades de sólidos secos tratados e não tratados por concessionária.
+................................................................................................................................................. 69
+
+SUMÁRIO
+
+1. INTRODUÇÃO ................................................................................................................... 11
+2. OBJETIVOS ....................................................................................................................... 14
+2.1. OBJETIVO GERAL ....................................................................................................... 14
+2.2. OBJETIVOS ESPECÍFICOS.......................................................................................... 14
+3. REVISÃO BIBLIOGRÁFICA ........................................................................................... 15
+3.1. ESGOTO SANITÁRIO .................................................................................................. 15
+3.2. TRATAMENTO DE ESGOTO ...................................................................................... 15
+3.3. LAGOAS DE ESTABILIZAÇÃO .................................................................................. 18
+3.4. LODOS ATIVADOS ..................................................................................................... 21
+3.5. UASB (Upflow Anaerobic Sludge Blanket)..................................................................... 23
+3.6. FILTROS BIOLÓGICOS ............................................................................................... 25
+3.6.1 Filtros aeróbios ......................................................................................................... 25
+3.6.2 Filtros anaeróbios ..................................................................................................... 26
+3.7. REATOR DE LEITO MÓVEL COM BIOFILME .......................................................... 27
+3.8. TANQUES SÉPTICOS .................................................................................................. 29
+3.9. LODO ............................................................................................................................ 30
+3.9.1 Legislação – resíduos sólidos e semissólidos ............................................................ 31
+3.10. TRATAMENTO DO LODO ........................................................................................ 33
+3.10.1 Estabilização do lodo .............................................................................................. 34
+3.10.2 Remoção da umidade do lodo ................................................................................. 34
+3.10.3 Higienização do lodo .............................................................................................. 40
+3.11. DESTINAÇÃO FINAL DO LODO .............................................................................. 42
+3.11.1 Disposição no solo .................................................................................................. 42
+
+3.11.2 Compostagem ......................................................................................................... 44
+3.11.3 Disposição oceânica................................................................................................ 46
+3.11.4 Disposição em aterro sanitário ................................................................................ 46
+3.11.5 Processos térmicos .................................................................................................. 47
+4. MÉTODO ............................................................................................................................ 50
+4.1. CARACTERÍSTICAS GEOGRÁFICAS GERAIS ......................................................... 50
+4.2. GESTÃO DA BACIA HIDROGRÁFICA SOROCABA E MÉDIO TIETÊ .................... 51
+4.3. INFORMAÇÕES SÓCIOECONÔMICAS ..................................................................... 52
+4.4 COLETA DE DADOS: ESGOTO E LODO .................................................................... 52
+4.5. AGRUPAMENTO DE RESULTADOS ......................................................................... 55
+5. RESULTADOS E DISCUSSÃO ......................................................................................... 57
+5.1. DADOS RELATIVOS A TRATAMENTO DE ESGOTO .............................................. 66
+5.2. DADOS RELATIVOS A LODO .................................................................................... 67
+6. CONCLUSÕES ................................................................................................................... 70
+REFERÊNCIAS ...................................................................................................................... 72
+ANEXOS ................................................................................................................................. 82
+
+11
+
+1. INTRODUÇÃO
+
+A produção de esgoto é inerente à humanidade e está presente desde grandes áreas urbanas
+até em pequenas comunidades isoladas. Nesses contextos ele pode ser originado por despejos
+domiciliares, resultante de atividades humanas como higiene e necessidades fisiológicas;
+industriais, sendo muito diverso e tendo sua composição dependente do tipo de atividade que o
+originou; ou ainda constituído por ambos e outras parcelas como água de infiltração e contribuição
+pluvial parasitária, segundo dados de Proença et al. (2016) e definições da ABNT NBR 9648.
+Para garantir a qualidade de vida e a integridade do meio ambiente, o tratamento do esgoto
+gerado pela atividade humana tem como finalidade remover substâncias orgânicas e inorgânicas
+da fase líquida por meio de processos físicos e transformações químicas e biológicas, gerando um
+efluente que cause menos impactos nos corpos d’água, sendo estes representados por rios, lagos e
+mares. Para Proença et al. (2016), o tratamento de esgoto pode ser considerado uma intervenção
+antrópica no meio e acelera esse processo de separação e transformação, que costuma ocorrer de
+forma natural nos ecossistemas.
+No último século, o Brasil passou por um célere processo de urbanização, dado que no
+início do século XX a maioria da população do país era rural e, em pouco tempo, houve um grande
+processo de migração para as áreas urbanas, impulsionada pela industrialização. Assim sendo, o
+Brasil chegou ao fim do século XX como um país predominantemente urbano e, nos anos 2000, a
+população residente em áreas urbanas representava 80% da total. O saneamento básico não
+acompanhou o ritmo dessa rápida mudança de cenário e é insuficiente para atender à demanda
+populacional, tornando-se um dos principais problemas ambientais do país. (BRASIL, 2009b)
+De acordo com Brasil (2009), a lei 11.445 assumiu como compromisso o acesso universal
+da população brasileira ao saneamento, orientando as três esferas do governo a melhorarem a
+prestação deste importante serviço, essencial à qualidade de vida e do meio ambiente. Além disso,
+essa mesma lei considera o saneamento básico como o conjunto de instalações operacionais e
+serviços que englobam o abastecimento de água potável, a coleta e tratamento de esgoto sanitário,
+a limpeza urbana, a gestão de resíduos sólidos e a drenagem e manejo de águas pluviais urbanas.
+
+12
+
+Apesar de o tratamento de esgoto ser uma atribuição do município, é comumente repassado
+a empresas concessionárias e é possível ao próprio gerador do esgoto (entidades comerciais ou
+industriais, condomínios e outras economias privadas) implantar sistemas de tratamento isolados
+visando atender necessidades locais – entende-se por sistema isolado o conjunto de rede coletora e
+instalação de tratamento independentes do sistema congênere, geralmente de maior porte, sob
+gestão do município ou concessionária. Esses sistemas são adotados em áreas de difícil acesso, em
+locais não atendidos pelo sistema de maior porte e em outras situações que requerem independência
+na gestão do esgoto. (PROENÇA et al, 2016)
+Dentro do contexto do tratamento de esgoto, Jordão e Pessôa (2011) consideram importante
+destacar que o conjunto de etapas que o constitui gera resíduos sólidos e semissólidos também sob
+responsabilidade da Estação de Tratamento de Esgoto (ETE), a começar pela etapa inicial de
+remoção de sólidos grosseiros por operações físicas como gradeamento e peneiramento – chegam
+à estação de tratamento por meio do uso inadequado dos coletores e instalações prediais no geral.
+Em seguida, remove-se também os diferentes tipos de areia que se encontram em suspensão no
+esgoto, que é comumente levada a aterros sanitários. Estas remoções iniciais têm como principais
+objetivos proteger os equipamentos subsequentes, facilitar a separação entre sólidos e líquido e
+minimizar possíveis obstruções nas canalizações de uma ETE.
+Ainda considerando os resíduos produzidos numa ETE, em etapas seguintes à remoção de
+sólidos grosseiros e areia gera-se um resíduo semissólido chamado lodo, que faz parte do tema
+principal deste trabalho. É composto principalmente por água, porém contém grande concentração
+de matéria orgânica e minerais em relação ao afluente que chega às ETEs, podendo ser gerado em
+diferentes etapas do tratamento. A Pesquisa Nacional de Saneamento Básico realizada pelo IBGE
+em 2008 mostrou que dos 5.564 municípios brasileiros, apenas 1.513 contam com estação de
+tratamento de esgoto, o que representa menos de 30% do total. Já em relação à destinação final do
+lodo produzido pelas ETEs, de 1.091 municípios avaliados, 452 a faziam em aterros sanitários
+(representando 41%), 169 realizavam algum tipo de reaproveitamento, 163 despejavam o lodo em
+rios, 97 faziam o descarte em terrenos baldios, 19 incineravam e o restante utilizava alguma outra
+forma de destinação. (IBGE, 2008)
+Tratamento de esgoto e destinação do lodo gerado são temas de aporte mundial que
+possuem inúmeras problemáticas. Como exemplificação da relevância do tema, o Programa da
+
+13
+
+Organização das Nações Unidas para o Meio Ambiente (PNUMA), protagonista na definição da
+agenda ambiental mundial, divulgou um trabalho sobre o uso do lodo higienizado como adubo na
+agricultura do Paraná, iniciativa desenvolvida pela Companhia de Saneamento do Paraná
+(SANEPAR, 2016). Existem destinações finais ambientalmente corretas do lodo e, neste trabalho,
+a bacia hidrográfica Sorocaba e Médio Tietê, pertencente ao Estado de São Paulo, foi estudada a
+fim de avaliar o que ocorre com esse resíduo semissólido nas ETEs pertencentes aos seus
+municípios.
+
+14
+
+2. OBJETIVOS
+
+2.1. OBJETIVO GERAL
+
+Dentro do contexto apresentado, o objetivo geral desta monografia foi avaliar a destinação
+final do lodo gerado nas ETEs dos municípios da bacia hidrográfica Sorocaba e Médio Tietê,
+englobando a legislação vigente e também as alternativas ambientalmente corretas.
+
+2.2. OBJETIVOS ESPECÍFICOS
+
+Dentro desse objetivo geral, decidiu-se por fazer um estudo dos seguintes tópicos:
+•
+
+Avaliar quais municípios contam com coleta e tratamento de esgoto e qual a cobertura
+desses serviços;
+
+•
+
+Comparar os dados da bacia com cenários estaduais e nacional.
+
+15
+
+3. REVISÃO BIBLIOGRÁFICA
+
+3.1. ESGOTO SANITÁRIO
+
+Metcalf e Eddy (1991) consideram que o esgoto é, essencialmente, a água que abasteceu
+uma comunidade após ter sido utilizada para diversas finalidades. Esse líquido carrega, então,
+resíduos provindos de residências, comércio, indústrias etc.
+O esgoto sanitário é definido pela norma ABNT NBR 9648 como o despejo líquido
+composto por esgotos doméstico e industrial, além de água de infiltração e contribuição pluvial
+parasitária. Neste despejo encontra-se fundamentalmente água, que representa uma parcela de
+99,9% de sua composição, e sólidos, sendo representados pelos 0,1% restantes. Do total de sólidos,
+cerca de 70% são materiais orgânicos como proteínas, carboidratos e gorduras, sendo os outros
+30% os materiais inorgânicos como areia, metais e sais diversos. (DAVID, 2002)
+De acordo com Jordão e Pessôa (2011), a parcela correspondente aos esgotos domiciliares
+decorre principalmente de residências, edifícios comerciais, instituições ou construções que
+contam com presença de encanamento no geral. Sua composição pode variar de um local para
+outro, a depender de parâmetros socioeconômicos e do tipo de edificação predominante.
+
+3.2. TRATAMENTO DE ESGOTO
+
+Há diversas formas que podem ser empregadas para tratar os esgotos gerados, visando
+atingir os parâmetros definidos pela legislação e preservar as características do meio ambiente.
+Apesar dessa diversidade de tratamentos, há uma sequência comum de operações e processos,
+segundo Von Sperling (2005):
+- Tratamento preliminar: consiste na remoção de sólidos grosseiros por meio de grades e/ou
+peneiras, sendo o primeiro contato do efluente com o processo de tratamento em si. Inclui também
+a remoção de areia no desarenador e normalmente, um medidor de vazão, conforme Figura 1. Visa
+
+16
+
+proteger os equipamentos e unidades das etapas subsequentes, bem como os próprios corpos
+receptores;
+
+Figura 1 – Ilustração de tratamento primário.
+Fonte: Oliveira (2014, p. 12).
+
+- Tratamento primário: objetiva remover sólidos sedimentáveis e flutuantes em
+decantadores. Os primeiros sedimentam e acumulam-se ao fundo da unidade, enquanto os segundos
+sobem para a superfície, podendo ser removidos. O material sedimentado constitui o lodo primário;
+- Tratamento secundário: tem como principal objetivo a remoção de matéria orgânica do
+esgoto sanitário, reduzindo então a DBO por meio da biodegradação – etapa biológica realizada
+por microrganismos como bactérias, fungos etc.
+Em relação a essa etapa que envolve microrganismos diversos, destaca-se que pode ser de
+natureza anaeróbia ou aeróbia. A primeira, afirma Pontes (2003), se dá nas seguintes etapas
+principais: hidrólise, em que bactérias diversas são responsáveis por transformar matéria orgânica
+complexa em compostos solúveis mais simples; produção de ácidos (acidogênese e acetogênese),
+em que bactérias fermentativas metabolizam os compostos solúveis produzidos na hidrólise;
+acetogênese, fase em que os ácidos formados na etapa anterior são transformados parte em acetato,
+parte em gases, sendo que o primeiro é utilizado pelas arqueias metanogênicas para gerar metano
+
+17
+
+e gás carbônico na fase final da digestão anaeróbia. A Figura 2 apresenta um esquema das fases
+descritas.
+
+Figura 2 – Fluxograma do processo de digestão anaeróbia.
+Fonte: Pontes (2003, p.6).
+
+Já a segunda, de natureza aeróbia, se dá pela oxidação da matéria orgânica. Parte dos
+produtos formados é utilizada pelos microrganismos para síntese e locomoção celular; outra parte
+é convertida em novas células que, em condições de matéria orgânica insuficiente, passam a
+metabolizar suas próprias reservas celulares (processo chamado de respiração endógena),
+formando produtos como água e gás carbônico. Processos aeróbios são encontrados em tratamentos
+como lodos ativados e filtros biológicos. (LIMA, 2006)
+Além de se conhecer as etapas do tratamento, a vazão e as flutuações do efluente a ser
+tratado, para a elaboração de um projeto é fundamental que se conheça suas características
+qualitativas. Dentro desse contexto, Jordão e Pessôa (2011) afirmam que é importante basear-se
+
+18
+
+em grandezas que indicam as características desse efluente para que se defina a metodologia de
+tratamento, dentre outros fatores que compõem essa escolha. Alguns dos parâmetros comumente
+utilizados para se obter informações a respeito do esgoto a ser tratado são cor e turbidez; pH;
+temperatura; Oxigênio Dissolvido (OD); Demanda Bioquímica de Oxigênio (DBO), medida da
+quantidade de oxigênio necessária para se estabilizar biologicamente a matéria orgânica presente
+no esgoto – costuma ter valores entre 100 e 400 mg/L no efluente bruto; Demanda Química de
+Oxigênio (DQO), correspondente à quantidade de oxigênio necessária para oxidar, em solução
+ácida de permanganato ou dicromato de potássio, a parcela orgânica de uma amostra – os valores
+de DQO do esgoto bruto variam entre 200 e 800 mg/L.
+A seguir, são apresentadas as características gerais dos tipos de tratamento de esgoto
+encontrados nos municípios da bacia hidrográfica Sorocaba e Médio Tietê. Cada um deles possui
+níveis de eficiência e fatores de influência diferentes, atingindo seus próprios níveis de remoção de
+DBO e DQO, por exemplo.
+
+3.3. LAGOAS DE TRATAMENTO
+
+De acordo com Jordão e Pessôa (2011), as lagoas são sistemas de tratamento biológico em
+que ocorre a oxidação bacteriológica (aeróbia ou fermentação anaeróbia) e/ou redução
+fotossintética das algas. Consistem, então, segundo Von Sperling (1996), num método de
+tratamento em que o afluente fica retido por um período de tempo suficiente para que os processos
+de estabilização da matéria orgânica se desenvolvam, resultando num efluente que esteja de acordo
+com a legislação ambiental do local.
+As principais vantagens do uso das lagoas são sua simplicidade de operação, eficiência do
+tratamento e menores custos de construção e operação. Para Jordão e Pessôa (2011), elas operam
+melhor em países de clima quente e necessitam de grandes áreas para serem construídas. São
+classificadas de acordo com a forma predominante pela qual se dá a estabilização da matéria
+orgânica a ser tratada.
+As lagoas facultativas possuem, basicamente, três zonas, como pode ser visto na Figura 3:
+uma aeróbia superior, na qual a fotossíntese das algas e as trocas com a atmosfera garantem a
+presença do oxigênio; uma intermediária, chamada facultativa, na qual ocorrem processos de
+
+19
+
+oxigenação aeróbia e fotossintética; uma inferior, em que ocorre a digestão anaeróbia. (JORDÃO;
+PESSÔA, 2011)
+
+Figura 3 – Esquema de lagoa facultativa.
+Fonte: Von Sperling (1986, p, 21).
+
+Von Sperling (1986) afirma que as lagoas facultativas podem operar sozinhas ou serem
+precedidas por uma lagoa anaeróbia (sistema australiano), conforme esquema simplificado da
+Figura 4. Essa última opera a partir dos processos de digestão ácida e fermentação metanogênica,
+sendo essencial a ausência de oxigênio. Esse cenário pode ser alcançado por meio do lançamento
+de grandes quantidades de DBO por unidade de volume da lagoa, fazendo com que o consumo de
+oxigênio seja muito superior a sua produção. Além disso, as lagoas anaeróbias devem ser mais
+profundas que as facultativas ou as aeróbias para garantir que o oxigênio produzido na superfície
+não alcance camadas inferiores.
+
+20
+
+Figura 4 – Esquema de lagoa facultativa precedida de anaeróbia.
+Fonte: Von Sperling (1986, p. 13).
+
+Conforme explicitado anteriormente, as lagoas de tratamento demandam grandes áreas para
+operarem. No caso de disponibilidade de área menor, dentre outros fatores de escolha, há a
+alternativa de se optar pelas lagoas aeradas, que têm sua demanda de oxigênio suprida através de
+aeradores – esta forma de obtenção de oxigênio é, inclusive, a principal diferença entre as lagoas
+aeradas e as facultativas, já que estas são supridas pela fotossíntese e trocas com a atmosfera. (VON
+SPERLING, 1986)
+Ainda de acordo com o autor, pode-se dizer que as lagoas de tratamento descritas
+anteriormente têm como objetivo maior a remoção de DBO dos esgotos nelas despejados – chegam
+a remover entre 75 e 85% da DBO. Há ainda outra modalidade de lagoa, cujo papel principal é a
+remoção de organismos patogênicos: são as chamadas lagoas de maturação. Elas dão um polimento
+ao efluente que sai dos outros tipos de lagoa e podem vir na sequência de outros tipos de tratamento
+também.
+As modalidades de lagoas citadas têm suas particularidades relacionadas à construção,
+operação e à produção de lodo. Quanto a essa última, Von Sperling (1986) explica que as lagoas
+possuem a vantagem de acumularem esse resíduo semissólido em seu fundo, não necessitando de
+remoção frequente. As características do lodo produzido nas lagoas variam em função do tempo
+em que fica retido nelas, sendo este período da ordem de alguns anos. De acordo com o autor,
+durante essa retenção, o lodo passa por adensamento e digestão anaeróbia, resultando num produto
+com alto teor de sólidos totais e baixo teor de sólidos voláteis.
+As principais técnicas de remoção do lodo de lagoas de tratamento, afirma Von Sperling
+(1986), podem ser divididas em: mecanizadas ou não mecanizadas; com interrupção ou não das
+atividades da lagoa. Há diversos fatores que determinam qual é o melhor método a ser utilizado,
+
+21
+
+dentre eles a quantidade de material a ser removido, a capacidade de suporte do solo sobre o qual
+a lagoa se localiza – no caso de se utilizar equipamentos como tratores –, densidade do lodo etc. É
+importante destacar que após sua remoção, o lodo pode passar por processos de tratamento como
+secagem natural ou utilizando leitos de secagem.
+
+3.4. LODOS ATIVADOS
+
+Dentre as opções de sistemas de tratamento biológico de esgoto, o sistema de lodos ativados
+é amplamente empregado no Brasil por apresentar alta eficiência de tratamento atrelada à reduzida
+área de implantação requerida quando comparado às lagoas de tratamento, por exemplo. O
+princípio do sistema de lodos ativados é baseado na oxidação bioquímica dos compostos orgânicos
+e inorgânicos presentes nos esgotos, processo realizado por uma população microbiana diversa, a
+qual é mantida em suspensão num meio aeróbio. A eficiência do tratamento depende, dentre outros
+fatores, da capacidade de formação de flocos da biomassa em questão e de sua composição, a qual
+requer condições específicas para a estabilidade do floco (BENTO et al., 2005).
+Segundo esses autores, os flocos biológicos constituem um microssistema complexo
+formado majoritariamente por bactérias, mas também por fungos, protozoários e outros
+microrganismos. As bactérias são os principais agentes responsáveis pela depuração da matéria
+carbonácea e pela estruturação dos flocos, embora outros componentes desta microfauna
+diversificada também sejam essenciais para manter equilibrada a comunidade bacteriana, além de
+contribuírem para a floculação e para a remoção de DBO.
+Por mais que o método dos lodos ativados atue para aumentar a qualidade do efluente e
+apresente reduzidos requisitos de áreas, este sistema também conta com um índice de mecanização
+superior a outros modos de tratamento, envolvendo uma operação mais sofisticada bem como
+maior consumo de energia elétrica. Geralmente, como pontua Von Sperling (1997), o sistema de
+lodos ativados apresenta tanque de aeração (reator), onde ocorrem as reações bioquímicas de
+remoção de matéria orgânica; tanque de decantação (decantador secundário), onde ocorre a
+sedimentação dos sólidos no intuito de clarificar o efluente final; e recirculação de lodo, de modo
+a aumentar a concentração de biomassa no reator e, consequentemente, a eficiência do sistema, já
+
+22
+
+que a biomassa possui tempo suficiente para metabolizar praticamente toda a matéria orgânica dos
+esgotos.
+Existem duas principais variações dentro do contexto de sistemas de lodos ativados: o
+sistema convencional e o com aeração prolongada. O primeiro, representado pela Figura 5, com o
+intuito de economizar energia e reduzir o volume do reator biológico, remove parte da matéria
+orgânica (sedimentável) no decantador primário, fase que precede a etapa biológica. Além disso, a
+biomassa retirada nesses sistemas armazena um elevado teor de matéria orgânica em sua estrutura,
+tornando necessária uma etapa posterior de estabilização do lodo em digestores após um processo
+de adensamento.
+Já no segundo, ilustrado na Figura 6, com aeração prolongada, a biomassa permanece no
+sistema por um tempo superior e, portanto, a concentração de biomassa e o volume do reator
+também deverão ser superiores. As bactérias presentes no sistema utilizam a matéria orgânica
+biodegradável de suas próprias células em seus processos metabólicos frente à menor quantidade
+de matéria orgânica por volume de reator e por unidade de biomassa. Consequentemente, há um
+consumo significativo de oxigênio nos processos celulares, não havendo a necessidade de se
+estabilizar o lodo posteriormente, já que este processo ocorre no próprio reator; portanto, não é
+necessário o uso de decantadores primários (VON SPERLING, 1997).
+
+Figura 5 – Esquema de lodos ativados convencional.
+Fonte: Lervolino (2019, adaptado).
+
+23
+
+Figura 6 – Esquema de lodos ativados com aeração prolongada.
+Fonte: Lervolino (2019).
+
+3.5. UASB (Upflow Anaerobic Sludge Blanket)
+
+Chernicharo (1997) relata que a aplicabilidade de métodos anaeróbios como o reator UASB
+para o tratamento de esgotos domésticos depende, principalmente, da temperatura do efluente, dado
+que a atividade das bactérias anaeróbias é reduzida em temperaturas inferiores a 20ºC. Dessa forma,
+esse tipo de tratamento torna-se mais atrativo em países de clima tropical como o Brasil, Colômbia,
+Equador, México, Índia entre outros.
+Os reatores anaeróbios de manta de lodo foram primariamente projetados para tratarem
+efluentes industriais, normalmente possuindo formato cilíndrico (mais recomendado para
+populações menores) ou prismático-retangular (mais indicados para populações maiores pois uma
+parede pode servir a dois módulos adjacentes), de acordo com Versiani (2005). A adaptação do
+UASB para efluentes mais diluídos como os esgotos domésticos geraram alterações como
+dimensionamento em função da carga hidráulica e não da orgânica, fazendo com que a velocidade
+ascensional seja de fundamental importância pois velocidades elevadas resultam na perda de
+biomassa do sistema, consequentemente reduzindo a estabilidade do processo. Outro fator físico a
+ser considerado é a altura do reator, que deve ser reduzida para aumentar a seção transversal e
+garantir a manutenção da velocidade ascensional adequada.
+Ainda segundo a autora, um bom projeto de reator UASB costuma obter uma eficiência
+média de 65% de remoção de DQO e 70% de remoção de DBO. Quando tratando esgotos
+
+24
+
+domésticos, o efluente costuma apresentar concentrações inferiores a 120 mg/L e 80 mg/L de DBO
+e SST, respectivamente, valores que são influenciados pelo tempo de detenção hidráulica. Os
+reatores de manta de lodo são delineados por três parâmetros básicos: taxa de aplicação
+volumétrica, velocidade ascensional e altura do reator.
+Considerando o processo de tratamento pelo reator UASB, Chernicharo (1997) diz que a
+inoculação com lodo anaeróbio deve preceder as outras etapas. Sequencialmente, aumenta-se
+gradativamente a taxa de alimentação do reator para que em alguns meses se obtenha um leito de
+lodo concentrado, com boa capacidade de sedimentação, podendo inclusive ocorrer formação de
+grânulos de lodo com diâmetros de 1 a 5 mm. Acima do leito de lodo, parte hachurada mais escura
+e inferior exibida na Figura 7, forma-se a manta de lodo, camada com microrganismos mais
+dispersos e com velocidade de sedimentação mais baixa. É importante atentar que no
+funcionamento normal do reator de manta de lodo, ocorre homogeneização do seu conteúdo pelo
+movimento ascendente do afluente e das bolhas de gás produzido, sendo que esse último gera
+necessidade da implantação de separador trifásico (sólido, líquido e gás) na parte superior do reator
+por conta do carreamento do lodo.
+
+Figura 7 – Esquema de reator UASB.
+Fonte: Campos (1999, p.58).
+
+Os reatores UASB oferecem como vantagens a baixa produção de sólidos (5 a 10 vezes
+menor quando comparada a tratamentos aeróbios); baixo consumo energético; não necessitam de
+
+25
+
+grandes áreas para implantação e operação; produção de gás metano, que pode ser energeticamente
+reaproveitado; toleram cargas orgânicas elevadas. Em relação às desvantagens, pode-se citar a
+produção de maus odores no caso do sistema não ser bem projetado e operado; a baixa tolerância
+a cargas tóxicas; o tempo necessário elevado para o início das operações, dado o crescimento mais
+lento dos organismos (pode-se utilizar inóculos para minimizar este período de espera); a
+necessidade de um pós-tratamento para que o efluente atenda aos padrões da legislação ambiental,
+que pode ser uma lagoa de polimento, filtro anaeróbio ou mesmo lodos ativados, conforme Figura
+8. (CHERNICHARO, 2017)
+
+Figura 8 – Esquema de reator UASB procedido por lodos ativados.
+Fonte: Reda et al. (2017, p. 52).
+
+3.6. FILTROS BIOLÓGICOS
+
+3.6.1 Filtros aeróbios
+
+Segundo Campos (1999), os filtros biológicos percoladores têm como principal
+característica a utilização de biomassa aderida. Parte do volume do filtro é preenchido por um
+material suporte (brita ou material plástico, por exemplo) sobre o qual os microrganismos crescem
+e formam um biofilme, havendo então elevada retenção de biomassa. O esgoto a ser tratado é
+lançado sobre o leito do filtro por meio de braços rotativos, passando por esse conjunto de material
+inerte e biomassa de forma ascendente ou descendente, conforme Figura 9. Para que essa filtração
+ocorra de forma eficiente, o afluente deve estar bem distribuído na unidade de tratamento e a área
+superficial do meio suporte deve ser ideal, garantindo que o esgoto passe pelos interstícios.
+
+26
+
+Figura 9 - Esquema de filtro biológico percolador (aeróbio).
+Fonte: Fonseca (2009, p. 8).
+
+Considerando esses espaçamentos, o autor afirma que os filtros percoladores são sistemas
+aeróbios e mais adequados para tratar esgotos mais solúveis ou que tenham passado por uma etapa
+anterior de retenção de sólidos, de forma a evitar o entupimento ou colmatação nas unidades de
+filtração. Como vantagens, esses filtros funcionam a partir de uma tecnologia simples, apresentam
+baixo consumo energético e custos operacionais reduzidos, segundo Duda e Oliveira (2011).
+No contexto de resíduos, os filtros biológicos percoladores são usualmente procedidos por
+decantadores secundários, que têm como finalidade clarificar o efluente que sai dos filtros. Logo,
+o lodo gerado pelo processo de tratamento pode ser retirado no decantador. (FONSECA, 2009)
+
+3.6.2 Filtros anaeróbios
+
+Chernicharo (1997) diz que, simplificadamente, os filtros anaeróbios constituem uma
+unidade de tratamento de esgotos de contato, em que o efluente ascende por um tanque retangular
+ou cilíndrico contendo materiais suporte com biomassa retida. Esses materiais costumam ser de
+diferentes tipos de plástico e com formatos que variam de anéis corrugados a placas, ocupando
+desde a base do filtro até 50 a 70% de seu volume. Em relação a parâmetros dimensionais, a largura
+ou diâmetro dos tanques varia de 6 a 26 metros e a altura, de 3 a 13 metros, constituindo volumes
+de 100 a 10.000 m³. Logo, a escolha do material suporte e o dimensionamentos dos filtros
+
+27
+
+anaeróbios dependem de fatores econômicos, operacionais, de demanda e de recomendações locais.
+No Brasil, a norma ABNT NBR 13969 recomenda que a altura do meio suporte seja de 1,20 metros
+para filtros anaeróbios, que normalmente tratam efluentes de tanques sépticos, dado que a maior
+parte da remoção da matéria orgânica ocorre principalmente na parte inferior do filtro.
+O autor também argumenta que as mais recentes instalações de filtros anaeróbios são do
+tipo híbrido, em que existe uma zona de empacotamento abaixo da camada de material suporte,
+onde o lodo é acumulado. Há também a possibilidade de se fazer dois filtros em série, forma que
+aumenta a remoção de DQO do esgoto. A Figura 10 representa um esquema de fossa procedido
+por um único filtro, modalidade que foi encontrada em municípios da bacia hidrográfica Sorocaba
+e Médio Tietê.
+
+Figura 10 - Esquema de tanque séptico procedido por filtro anaeróbio.
+Fonte: Naturaltec (2019).
+
+3.7. REATOR DE LEITO MÓVEL COM BIOFILME
+
+O reator em questão, do inglês Moving Bed Biofilm Reactor (MBBR), foi desenvolvido na
+Noruega na década de 1990, afirma Zilli (2013). Consiste numa tecnologia de tratamento de esgoto
+que combina uma fração da biomassa em suspensão, como ocorre nos lodos ativados, com outra
+fração de biomassa aderida, com formação de biofilme em material suporte, como nos filtros
+biológicos. Um sistema de tratamento que se utiliza do MBBR pode ser composto de um ou vários
+reatores em série, além dos componentes básicos do tratamento como o meio suporte sobre o qual
+se formará o biofilme, peneiras para reter os elementos suportes, sistema de aeração difusa e
+
+28
+
+sistema de agitação para sistemas anóxicos (condição em que há ausência de oxigênio). A Figura
+11 apresenta um esquema simplificado deste tipo de reator.
+
+Figura 11 – Ilustração de MBBR.
+Fonte: Gustawater Treatment (2019, adaptado).
+
+Ainda segundo a autora, ao se utilizar de meios suporte com elevada superfície de adesão
+para os microrganismos, o MBBR garante elevada concentração de biomassa e tempo de retenção
+celular no reator. Consequentemente, o sistema em questão apresenta boa capacidade de depuração
+da matéria orgânica, bem como conversão de compostos do nitrogênio. Além disso, o MBBR
+apresenta reatores com volumes menores, os quais são todo utilizados para o crescimento da
+biomassa, já que o meio suporte permanece imerso no meio reacional e se movimenta
+constantemente, ficando retido pelo uso de grades ou peneiras. Estas costumam ser instaladas em
+pelo menos uma das paredes do reator, deixando somente a fase líquida passar para a etapa seguinte
+de tratamento.
+Como desvantagens, o reator de leito móvel com biofilme apresenta elevados custo
+operacional e consumo energético, além de exigir maior grau de qualificação para sua operação. O
+MBBR é comumente utilizado em associação com outros métodos de tratamento de esgoto, dando
+maior polimento ao efluente a ser tratado. (ZILLI, 2013)
+
+29
+
+Em relação à produção de resíduos, Oliveira, Junior e Piveli (2013) constatam que o excesso
+de biofilme que se desprende naturalmente do suporte pode ser facilmente separado da fase líquida
+em etapa seguinte, por meio da sedimentação. Esse processo faz com que haja superfície disponível
+para outros microrganismos ocuparem.
+
+3.8. TANQUES SÉPTICOS
+
+Também conhecidos como decanto-digestores, os tanques sépticos podem ser constituídos
+por uma ou mais câmaras, conforme Figura 12, sendo que neste último caso as unidades podem
+estar em série (horizontal) ou sobrepostas (vertical). São unidades simples de tratamento de esgoto
+que removem sólidos do esgoto afluente por meio da decantação e realizam a degradação biológica
+da matéria orgânica pela digestão anaeróbia. (CAMPOS, 1999)
+
+Figura 12 – Esquema de tanque séptico com apenas uma câmara.
+Fonte: Campos (1999, p. 120).
+
+Ainda de acordo com o autor, este sistema de tratamento de esgoto não exige elevado grau
+de instrução do operador e apresenta baixos custos de construção e operação, podendo ser
+implantado em comunidades menores. Nesse contexto construtivo, pode-se citar duas normas
+relativas aos tanques sépticos: NBR 7.229:1993, que trata do projeto e construção dos tanques, e
+NBR 13.969:1997, que dá diretrizes sobre unidades de tratamento complementares aos decantodigestores e disposição final dos efluentes.
+Em contrapartida, os tanques sépticos apresentam baixa remoção de matéria orgânica
+quando comparados a outros métodos anaeróbios, mesmo com um tempo de detenção hidráulica
+
+30
+
+da ordem de meses ou anos. Além disso, seu efluente apresenta elevado grau de patogenicidade,
+podendo ser necessária uma unidade subsequente de tratamento, a depender da destinação que será
+dada a ele.
+
+3.9. LODO
+
+Carvalho et al. (2015) definem o lodo originado a partir do tratamento de esgotos como um
+resíduo semissólido predominantemente orgânico e com teores variáveis de substâncias
+inorgânicas. A composição geral do lodo varia principalmente com o tipo de esgoto tratado (se é
+domiciliar, industrial ou composto pelos dois tipos), com a época do ano, com o processo de
+tratamento utilizado na estação e pelos métodos de estabilização e condicionamento final
+empregados.
+Além das diversidades citadas, dentro dos próprios processos de tratamento de esgoto o
+lodo é gerado em diferentes fases, o que os caracteriza, de acordo com Andreoli, Fernandes e Von
+Sperling (2001), em:
+- Lodo primário: gerado em processos que recebem esgoto bruto de decantadores primários
+(como em lodos ativados) e composto pelos sólidos sedimentáveis do esgoto bruto;
+- Lodo secundário ou biológico: composto pela biomassa presente no sistema de tratamento.
+Caso esses microrganismos se tornem muito numerosos por não serem retirados parcialmente do
+processo, acumulam-se e prejudicam a qualidade do efluente final. Esse tipo de lodo é gerado em
+todos os tipos de tratamento biológico de esgotos;
+- Lodo misto: quando o tipo de tratamento de esgoto empregado permite que o lodo
+primário seja enviado para tratamento juntamente ao secundário, forma-se o lodo misto;
+- Lodo químico: gerado a partir de etapa físico-química do tratamento de esgoto – etapa
+que pode ter como finalidade dar polimento ao efluente secundário ou dar melhor desempenho ao
+decantador primário.
+Andreoli, Fernandes e Von Sperling (2001) argumentam que outro fator relacionado ao
+lodo que é variável é a quantidade de resíduo semissólido gerada nos tratamentos e que deve ser
+
+31
+
+retirada. Enquanto nas lagoas de estabilização a remoção de lodo é da ordem de anos, em processos
+como lodos ativados ou filtros biológicos a remoção ocorre em horas. O autor destaca também que
+o lodo gerado pelas ETEs representa cerca de 1 a 2% do volume do esgoto tratado, porém seu
+gerenciamento é complexo e representa entre 20 e 60% dos custos operacionais totais da ETE.
+Entre os produtos resultantes do tratamento de esgoto, afirma Hirata et al. (2015), o lodo é
+apresenta volume significativo e, consequentemente, difíceis tratamento e disposição final. Buscar
+formas de tornar este resíduo mais estável e menos volumoso contribuem, então, para se ter mais
+facilidade de manuseio e transporte e custos reduzidos atrelados a esses fatores.
+Considerando que o resíduo do tema principal do trabalho, o lodo, enquadra-se dentro da
+categoria de sólidos e semissólidos, é importante destacar quais são as leis vigentes em território
+nacional que se referem a sua definição enquanto conceito e ao seu manejo e disposição final.
+Nesse sentido, o próximo tópico trata desse assunto.
+
+3.9.1 Legislação – resíduos sólidos e semissólidos
+
+Em âmbito federal, uma das Legislações existentes para manejar de forma correta os
+resíduos sólidos é a Política Nacional dos Resíduos Sólidos (PNRS), Lei no 12.305 de 2 de agosto
+de 2010, que altera a Lei no 9.605, de 12 de fevereiro de 1998 (BRASIL, 2010), dando também
+mais providências específicas aos resíduos em questão. A PNRS prevê a redução da geração de
+resíduos por meio de práticas sustentáveis como o reuso e a reciclagem, disposição final adequada
+dos resíduos sólidos e semissólidos, gestão compartilhada – responsabiliza todos os envolvidos na
+produção e uso de dado produto, utilizando-se da Logística Reversa – entre outros. Logo, o lodo é
+enquadrado na busca de soluções que foquem em recuperar a matéria orgânica (biossólidos) nele
+presente.
+Em relação a conceito e manejo, pode-se citar também a Associação Brasileira de Normas
+Técnicas (ABNT), definiu os resíduos sólidos e semissólidos por meio da Norma Brasileira (NBR)
+10.004 do ano de 2004 como sendo
+resíduos nos estados sólido e semi-sólido, que resultam de atividades de origem
+industrial, doméstica, hospitalar, comercial, agrícola, de serviços e de varrição.
+Ficam incluídos nesta definição os lodos provenientes de sistemas de tratamento
+de água, aqueles gerados em equipamentos e instalações de controle de poluição,
+
+32
+
+bem como determinados líquidos cujas particularidades tornem inviável o seu
+lançamento na rede pública de esgotos ou corpos de água, ou exijam para isso
+soluções técnica e economicamente inviáveis em face à melhor tecnologia
+disponível.
+
+A norma também classifica os resíduos em perigosos (Classe I) e não perigosos (Classe II);
+não inertes (Classe II-A) ou inertes (Classe II-B) – há ensaios físico-químicos para esta
+determinação. A depender da classificação, o manejo e a destinação final dados ao resíduo mudam.
+No caso do lodo, sua classificação dependerá dos níveis de patogenicidade alcançados pelo
+tratamento.
+Ainda em âmbito federal, mais especificamente para o uso de fertilizantes no solo, assunto
+que será abordado no capítulo 3, tem-se a Instrução Normativa SDA nº 25, do MAPA, que no
+capítulo II define 4 classes para os fertilizantes tendo como base sua matéria-prima, sendo elas
+I – Classe “A”: fertilizante orgânico que, em sua produção, utiliza matéria-prima
+de origem vegetal, animal ou de processamentos da agroindústria, onde não sejam
+utilizados, no processo, metais pesados tóxicos, elementos ou compostos
+orgânicos sintéticos potencialmente tóxicos, resultando em produto de utilização
+segura na agricultura;
+II – Classe “B”: fertilizante orgânico que, em sua produção, utiliza matéria-prima
+oriunda de processamento da atividade industrial ou da agroindústria, onde metais
+pesados tóxicos, elementos ou compostos orgânicos sintéticos potencialmente
+tóxicos são utilizados no processo, resultando em produto de utilização segura na
+agricultura;
+III – Classe “C”: fertilizante orgânico que, em sua produção, utiliza qualquer
+quantidade de matéria-prima oriunda de lixo domiciliar, resultando em produto de
+utilização segura na agricultura; e
+IV – Classe “D”: fertilizante orgânico que, em sua produção, utiliza qualquer
+quantidade de matéria-prima oriunda do tratamento de despejos sanitários,
+resultando em produto de utilização segura na agricultura.
+
+Conclui-se, a partir dessa Instrução, que o fertilizante produzido a partir do lodo dos esgotos
+domésticos se enquadra na Classe D. (BRASIL, 2009a)
+Considerando que a bacia hidrográfica Sorocaba e Médio Tietê está localizada no estado
+de São Paulo, cabe também enquadrá-la na legislação estadual, dada pela Lei nº 12.300/2006 –
+SÃO PAULO (2006). Ela cita, dentre outros fatores, a gestão integrada envolvendo as outras
+esferas do Poder Público, a iniciativa privada e outros segmentos civis; linhas de crédito para
+
+33
+
+implantação de Planos de Gerenciamento de Resíduos Sólidos; medidas de sustentabilidade como
+na PNRS; a obrigação do gerador do resíduo de fazer sua destinação correta etc.
+Dado que os serviços de saneamento são prestados pelos estados e/ou municípios e
+contemplam o tratamento de esgoto e o manejo de resíduos sólidos, pode-se citar também a Política
+Nacional de Saneamento – Lei nº 11.445/2007 – BRASIL (2007) neste contexto. Contempla o uso
+dos recursos hídricos para diluição de esgotos por meio de outorga de direito, padrões de efluente
+a serem alcançados pela concessionária de tratamento de esgoto e inclusive diz que
+Na ausência de redes públicas de saneamento básico, serão admitidas soluções
+individuais de abastecimento de água e de afastamento e destinação final dos
+esgotos sanitários.
+
+Num contexto mais específico de disposição final do lodo, a Companhia Ambiental do
+Estado de São Paulo (CETESB), por meio da P4.230/1999 (Aplicação de lodos de sistemas de
+tratamento biológico em áreas agrícolas – Critérios para projeto e operação – Manual técnico), dá
+diretrizes sobre a disposição do resíduo semissólido em questão sobre o solo ou em sua
+subsuperfície, que será discutida com mais detalhes em outro item deste trabalho.
+
+3.10. TRATAMENTO DO LODO
+
+Considerando que a composição do esgoto sanitário é variável dada sua origem diversa,
+cabe dizer que as características do lodo produzido nos tratamentos deste efluente também diferem.
+São muitos os fatores que podem determinar qual será o tratamento dado ao lodo antes de sua
+disposição final – e nem sempre há um tratamento, – dentre eles podemos citar aqueles ligados à
+composição, como as concentrações de metais pesados, poluentes orgânicos e microrganismos
+patogênicos determinam; disponibilidade orçamentária; legislações específicas etc. (ANDREOLI,
+FERNANDES, VON SPERLING, 2001)
+Além das características diversas, a denominação do lodo propriamente dito também pode
+variar. Lopes (2011) explicita que a Water Environment Federation (WEF) sugere a denominação
+
+34
+
+“biossólido” para o resíduo estabilizado provindo de sistemas de tratamento biológicos; caso
+contrário usa-se lodo ou torta (essa para o caso dos sólidos resultantes).
+A seguir serão apresentados alguns dos métodos de tratamento de lodo.
+
+3.10.1 Estabilização do lodo
+
+Conforme citado anteriormente, o lodo bruto contém microrganismos patogênicos, os
+quais, segundo
+
+Andreoli, Fernandes e Von Sperling (2001), geram putrefação e,
+
+consequentemente, maus odores. Por conta disso, deve-se realizar a estabilização do lodo com o
+objetivo principal de remover matéria orgânica (reduzir sólidos voláteis), o que pode ser feito por
+meio de processos biológicos (digestão bacteriana – aeróbia ou anaeróbia); químicos (adição de
+produtos oxidantes) ou térmicos (o resíduo é sujeito a elevadas temperaturas). Pode-se também
+citar a compostagem como alternativa, processo que também envolve bactérias e aumento de
+temperatura por conta do próprio processo – este é, inclusive, o processo mais antigo de
+estabilização de matéria orgânica.
+
+3.10.2 Remoção da umidade do lodo
+
+Segundo Jordão e Pessôa (2011), o tratamento da fase líquida e a estabilização do lodo
+geram um produto com umidade elevada. A remoção de umidade tem, portanto, o objetivo de
+reduzir o volume do lodo, deixando-o mais fácil de ser manuseado e também reduzindo custos de
+armazenagem e transporte. Além disso, Andreoli, Fernandes e Von Sperling (2001) relatam que a
+remoção de umidade aumenta o poder calorífico do lodo para o caso de se decidir pela incineração.
+Existem vários métodos de se reduzir o volume do lodo pela remoção da umidade, sendo que a fase
+sólida originada nesses processos é denominada torta – rejeito. O Quadro 1 mostra, de forma
+resumida, algumas dessas formas.
+
+35
+
+Quadro 1 – métodos de remoção de umidade do lodo e funcionamento.
+Método de remoção de umidade
+Leito de secagem (Figura 13)
+
+Lagoa de secagem (Figura 14)
+
+Filtro prensa (Figura 15)
+
+Filtro de esteiras (Figura 16)
+
+Centrífuga (Figura 17)
+
+Secagem térmica
+
+Bags/filtros sintéticos (Figura 18)
+
+Fonte: Jordão e Pessôa (2011).
+
+Funcionamento
+Normalmente constituído de tanques de
+armazenamento, camada drenante e
+cobertura; em formato regular. Recebe
+o lodo dos digestores e remove umidade
+a partir de drenagem e evaporação.
+Forma mais simples de remoção de
+umidade, a lagoa é geralmente escavada
+no solo ou posicionada em depressões
+naturais. Recomendada para receber
+lodo previamente digerido. (VON
+SPERLING, 2001)
+Consiste num conjunto de placas
+verticais revestidas por material
+filtrante, sendo estas mais grossas nas
+bordas para acumularem a torta na
+região central. Operam em regime de
+batelada e utilizam-se de coagulantes.
+Opera de forma contínua, combinando
+desaguamento por gravidade e
+compressão mecânica. (DAVID, 2002)
+Opera de forma contínua. Os tipos mais
+comuns são: as fases sólida e líquida
+escoam em sentido contrário (os sólidos
+são levados ao interior do tambor e o
+líquido escoa para a extremidade
+oposta, na qual é retirado); as fases
+escoam no mesmo sentido (passam por
+toda a extensão da centrífuga, sendo
+retiradas na parte cônica).
+Técnica que pode ser utilizada para
+lodo primário ou digerido –
+recomendável que o lodo tenha entre 15
+e 30% de teor de sólidos (desaguamento
+prévio). Consiste em aquecer o lodo
+num ambiente hermeticamente fechado
+para que a água presente evapore.
+(VON SPERLING, 2001)
+Mantas permeáveis, flexíveis e finais
+produzidas a partir de diversos
+polímeros (como geotêxteis). A
+porosidade das bags permite o
+desaguamento contínuo do lodo,
+retendo também contaminantes.
+(BOINA, 2012)
+
+Umidade restante e tempo de
+detenção
+Após um período de 12 – 20
+dias, o lodo é retirado do leito
+com 60 – 70% de umidade.
+
+Após cerca de um ano, o lodo é
+retirado da lagoa com 65 –
+75% de umidade (VON
+SPERLING, 2001)
+
+O operador retira a torta em
+cerca de 2 horas e meia, sendo
+que o lodo sai com 65% de
+umidade.
+75 – 85% de umidade.
+65 – 75% de umidade.
+
+O tempo para retirada da torta
+depende do equipamento
+escolhido, podendo atingir até
+10% de umidade. (VON
+SPERLING, 2001)
+
+O material das bags está sujeito
+a deterioração e a retenção de
+contaminantes pode necessitar
+da adição de polieletrólitos.
+(BOINA, 2012)
+
+36
+
+Figura 13 – Esquema de leito de secagem.
+Fonte: Andreoli, Fernandes, Von Sperling (2001, p. 185).
+
+Figura 14 – Esquema de lagoa de secagem de lodo.
+Fonte: Andreoli, Fernandes, Von Sperling (2001, p. 196).
+
+37
+
+Figura 15 – Filtro prensa.
+Fonte: Águas Claras engenharia (2019).
+
+Figura 16 – Filtro de esteiras.
+Fonte: Mausa (2019).
+
+38
+
+Figura 17 – Centrífuga da ETE Mário Araldo Candello (Indaiatuba).
+Fonte: SAAE (2019).
+
+Figura 18 – Bag filtrante horizontal.
+Fonte: Portal Tratamento de Água (2019).
+
+A escolha do método de remoção de umidade do lodo depende de vários fatores como
+tamanho da ETE em que será implantado – que é influenciado pelo número de habitantes atendidos;
+
+39
+
+disponibilidade de terreno; custo construtivo e operacional; teor de sólidos a ser alcançado na torta
+para disposição final, dentre outros. O Quadro 2 apresenta as principais vantagens e desvantagens
+de cada um dos métodos citados no Quadro 1.
+
+Quadro 2 – vantagens e desvantagens dos métodos de remoção de umidade do lodo.
+Método de remoção de
+umidade
+Leito de secagem
+
+Vantagens
+Simplicidade operacional, baixo
+custo, pouca ou nenhuma
+utilização de químicos e energia,
+torta com alto teor de sólidos
+
+Desvantagens
+
+Requer
+grandes
+áreas,
+desempenho dependente do
+clima,
+torta
+lentamente
+removida, risco de contaminação
+do lençol freático
+Lagoa de secagem
+Vantagens muito semelhantes ao Geração de odores, atração de
+leito de secagem; a lagoa também vetores, risco de contaminação
+pode ser utilizada como unidade do lençol freático, requer grandes
+reserva em ETEs com problemas áreas
+de desaguamento de lodo
+Filtro prensa
+Torta com alto teor de sólidos, Exige atenção do operador, deveefluente líquido clarificado, se lavar o equipamento ao fim de
+baixo consumo de químicos
+cada ciclo
+Filtro de esteiras
+Operação continua, baixo custo Menor remoção de umidade –
+de aquisição, baixo consumo de torta com menor teor de sólidos
+energia
+Centrífuga
+Pode ser usada para adensamento Gera ruídos, deve-se fazer
+e desaguamento do lodo, ocupa manutenção
+das
+partes
+áreas menores, opera com alta componentes, alto consumo de
+taxa de carregamento, facilmente energia, custos maiores
+instalada,
+demanda
+poucos
+químicos
+Secagem térmica
+Redução significativa de volume Elevado consumo de energia,
+do lodo (reduzindo custos de depende
+de
+desaguamento
+transporte),
+produto
+final mecânico prévio do lodo
+praticamente livre de patógenos,
+produto final pode ter diversas
+destinações
+(agricultura,
+incineração, aterro)
+Fonte: Andreoli, Fernandes, Von Sperling (2001).
+
+40
+
+3.10.3 Higienização do lodo
+
+Segundo Andreoli, Fernandes e Von Sperling (2001), a composição do lodo está
+diretamente ligada ao esgoto que o originou e, portanto, às características da população que o
+originou. Esse resíduo semissólido reflete, então, os hábitos e condições dos habitantes atendidos
+por uma dada ETE, incluindo suas condições de saúde, que impactam diretamente na concentração
+de patógenos presentes no lodo – quanto mais saudável for a população, menor será a concentração
+de organismos patogênicos neste resíduo semissólido.
+Sendo esses organismos causadores de danos à saúde e ao ambiente, uma etapa conjugada
+ao tratamento do lodo é sua higienização, em que ocorre inativação de parte dos patógenos
+presentes no lodo de esgotos – o nível a ser alcançado dependerá de qual será a disposição final do
+lodo higienizado. Caso esta seja a reciclagem na agricultura, deve-se atender a níveis mais elevados
+de redução de organismos patogênicos. (ANDREOLI, FERNANDES, VON SPERLING, 2001)
+O Quadro 3 mostra, resumidamente, algumas das formas de se fazer a higienização do lodo.
+
+41
+
+Quadro 3 – métodos de higienização do lodo e conceitos atrelados.
+Método de higienização
+Compostagem
+
+Digestão aeróbia autotérmica
+
+Pasteurização
+
+Estabilização alcalina
+
+Secagem térmica
+
+Hidrólise térmica (tecnologia CAMBI)
+
+Fonte: Andreoli, Fernandes e Von Sperling (2001).
+
+Conceitos gerais
+Processo aeróbio de decomposição da matéria
+orgânica que pode ocorrer em leiras ou reatores.
+Necessita de condições controladas de temperatura,
+umidade, nutrientes e oxigênio. O produto
+resultante da compostagem pode ser utilizado na
+agricultura como melhorador de solos.
+Processo que segue os mesmos parâmetros da
+digestão aeróbia convencional, porém opera em
+condição termofílica (temperatura ótima entre 40 e
+50ºC). O sistema, que possui dois reatores
+operando em regime de semi batelada, é fechado e
+aquecido pelas próprias reações aeróbias de
+digestão do lodo.
+Por meio de trocadores de calor ou injeção de
+vapor, o lodo é aquecido a cerca de 70ºC por 30
+minutos, sendo posteriormente enviado a uma
+rápida refrigeração a 4ºC.
+Utiliza-se de compostos alcalinos como cal para, ao
+serem adicionados ao lodo primário, secundário ou
+digerido, aumentarem seu pH para 12 e, assim,
+reduzir a população de patógenos do resíduo
+semissólido. Este procedimento ocorre num tanque
+de mistura por cerca de 30 minutos e, após o
+contato entre as partes, o lodo deve ser desidratado
+ou enviado para aplicação no solo.
+Consiste em aquecer o lodo com o objetivo de
+evaporar a água contida nele e, consequentemente
+inativar organismos patogênicos. Para a secagem
+térmica ser viável economicamente, o lodo a ser
+aquecido deve ser previamente digerido e
+desidratado (65 a 80% de umidade).
+Processo composto por 3 unidades principais que
+podem processar tanto o lodo secundário quanto
+uma mistura de lodo primário e secundário, sendo
+elas: tanque de mistura com diluição, reator e
+tanque de despressurização rápida. Antes da
+hidrólise CAMBI se iniciar no tanque, onde é
+aquecido a 165ºC e sujeito a uma pressão faixa de
+pressão entre 90 – 100 psi, o lodo deve ser gradeado
+e desaguado (cerca de 18% de teor de sólidos). O
+lodo que passa por esse método de hidrólise pode
+ser viável para uso agrícola. (MIKI, 2018)
+
+42
+
+3.11. DESTINAÇÃO FINAL DO LODO
+
+3.11.1 Disposição no solo
+
+Apesar de serem poucas as estações que utilizam a agricultura como destinação final para
+este resíduo semissólido, esse processo tem ganhado destaque nos últimos anos e estima-se que, a
+cada mês, cerca de 21.000 toneladas de lodo (base seca) sejam destinadas ao uso agrícola, sendo
+este produzido, em sua quase totalidade, em ETEs que utilizam processos de tratamento biológico
+aeróbios como lodos ativados e lagoas aeradas. (SAMPAIO, 2013)
+Conforme explicitado anteriormente, a norma P4.230 da CETESB, juntamente à Instrução
+Técnica CEP/DTA n. 001/2002, foram os únicos respaldos legais e normativos referente à
+disposição de lodo sobre o solo até o ano de 2006, segundo o autor. Tendo em vista o contexto
+geográfico da bacia hidrográfica Sorocaba e Médio Tietê, a Figura 18 mostra os parâmetros a serem
+analisados pela P4.230 para caracterização química e microbiológica do lodo, sendo importante
+citar que a origem do resíduo pode ser esgotos sanitário ou industrial.
+
+Quadro 4 – parâmetros a serem analisados para caracterizar lodo para uso agrícola.
+Carbono orgânico
+Fósforo
+Nitrogênio amoniacal
+Nitrogênio nitrato/nitrito
+Nitrogênio total ou Nitrogênio Kjeldahl
+pH
+Potássio
+Sódio
+Umidade
+Número Mais Provável (NMP) de Salmonella sp
+Número Mais Provável (NMP) de coliformes
+fecais
+Fonte: CETESB (1999, p. 4).
+
+Arsênio
+Cádmio
+Chumbo
+Cobre
+Cromo total
+Mercúrio
+Molibdênio
+Níquel
+Selênio
+Sólidos voláteis
+Zinco
+
+43
+
+Afirmou-se anteriormente que a classificação do lodo perante a NBR 10.004/2004 varia
+conforme a patogenicidade do resíduo. A norma da CETESB em questão diz que o lodo será
+classificado como Classe A se
+• para coliformes fecais, densidade inferior a 103 NMP/g ST (Número Mais
+Provável por grama de Sólidos Totais) e
+• para Salmonella sp, densidade inferior a 3 NMP/4g ST (Número Mais Provável
+por 4 g de Sólidos Totais).
+
+Caso a densidade de coliformes fecais do lodo for inferior a 2 x 106 NMP/g ST, o lodo será
+então classificado como resíduo de Classe B.
+Por fim, a P4.230 também dá exigências sobrea a logística envolvida no processo, explicita
+a periodicidade do monitoramento do lodo destinado à agricultura, possui anexos relativos à parte
+técnica de análise, dentre outros.
+Ao consultar o site do Ministério da Agricultura, Pecuária e Abastecimento (MAPA),
+também é possível acessar uma série de autorizações referentes ao uso do “material secundário
+denominado Lodo de Esgoto Caleado” provenientes de diferentes Unidades de Gerenciamento de
+Lodo (UGL) – que serão explicadas em seguida, – como a UGL da ETE Shalon, localizada em
+Londrina/PR e pertencente à Companhia de Saneamento do Paraná (SANEPAR) (autorização
+CFIC Nº 006/2007). Nestas autorizações, as companhias de saneamento comprometem-se a
+garantir padrões de qualidade relacionados a teores diversos como carbono orgânico, nitrogênio
+total, umidade, pH, sólidos voláteis e totais para cada lote de lodo de esgoto analisado, devendo ser
+informados em documentos que acompanhem o lodo. Além disso, são acordados controles de
+qualidade, abrangência, validade e outros parâmetros que variam caso a caso. (BRASIL, 2007)
+Comparada às outras alternativas de disposição final, a aplicação do lodo de esgoto em
+áreas agrícolas apresenta condições especiais de logística que envolvem monitoramento do resíduo
+semissólido; presença de uma UGL na ETE, determinada pelo art. 19 da Resolução CONAMA 375
+e responsável pelo carregamento e transporte do resíduo semissólido; aplicação do material em
+áreas previamente selecionadas, as quais devem viabilizar a disposição do lodo gerado pelas ETEs
+sem grandes períodos de interrupção. Além disso, deve-se levar em consideração fatores como as
+características inerentes ao processo de adubação de culturas agrícolas, que normalmente possuem
+períodos sazonais de suspensão; e novamente parâmetro da Resolução CONAMA 375 que, na
+
+44
+
+Seção IV, artigo 12, define restrições de periódicas a serem respeitadas entre duas aplicações de
+lodo sucessivas, de acordo com dados de Sampaio (2013) e Godoy (2013), bem como culturas que
+podem ou não receber a aplicação.
+Como exemplo de aplicação de lodo em áreas agrícolas, pode-se citar a ETE principal de
+Franca/SP, regida pela SABESP. Fundada em 1997 e tratando 85% do esgoto coletado pelo sistema
+de lodos ativados convencional, a estação de tratamento remove a umidade do lodo por meio de
+filtros prensa de esteira, segundo o Uso de lodo na agricultura: estudo de caso (2019). O subproduto
+desidratado compõe o chamado “Sabesfértil”, enviado a agricultura para disposição no solo de
+culturas de café desde 2001. Essa iniciativa rendeu à ETE o certificado de “Produtora de Insumo
+Agrícola” do Ministério da Agricultura. (SABESP, 2012)
+Sampaio (2013) afirma que além das áreas agrícolas, o lodo também pode ser disposto em
+áreas florestais, ideais para a ciclagem de nutrientes como o fósforo e nitrogênio. O primeiro, de
+obtenção restrita à exploração de jazidas de rochas fosfáticas, faz-se presente no lodo parte pela
+matéria orgânica ou inorgânica do próprio esgoto, parte pela matéria orgânica que constitui a
+biomassa produzida nos processos de tratamento. Já o nitrogênio, elemento essencial para a
+produção agrícola via fertilizantes nitrogenados, vem gerando grande preocupação pois mesmo
+sendo abundante no planeta, é produzido principalmente pela sintetização do N2 atmosférico,
+procedimento que exige elevadas taxas energéticas.
+
+3.11.2 Compostagem
+
+Gregos, romanos e outros povos da antiguidade já tinham conhecimento que resíduos
+orgânicos podiam ser devolvidos ao solo, mas foi a partir de 1920 que o processo chamado
+compostagem passou a ser cientificamente estudado por Albert Howard, botânico inglês. Nas
+décadas que procederam, muitos trabalhos científicos foram produzidos, permitindo que a técnica
+possa, atualmente, ser utilizada em escala industrial. (FERNANDES, SILVA, 2019)
+Para os autores, a compostagem pode ser definida como um processo aeróbio e exotérmico
+de oxidação feita por microrganismos (principalmente fungos e bactérias) a partir de um substrato
+orgânico, gerando como produtos gás carbônico, água, minerais e matéria orgânica estabilizada.
+
+45
+
+Os três fatores mais importantes para que a compostagem ocorra eficientemente são aeração,
+temperatura e disponibilidade de nutrientes – o carbono é a principal fonte de energia, o nitrogênio
+faz-se necessário para a síntese celular, outros micronutrientes como zinco, magnésio, cobre etc.
+são importantes para reações enzimáticas diversas.
+O processo geral de compostagem pode ser dividido em três fases, afirma Fetti (2013):
+- Mesofílica: durando aproximadamente 15 dias, possui maior atuação de bactérias que
+vivem em temperaturas de aproximadamente 40ºC. Metabolizam os nutrientes formados por
+moléculas mais simples.
+- Termofílica: é a fase mais longa da compostagem, podendo se estender por até 2 meses,
+e é caracterizada pela decomposição de moléculas mais complexas por fungos e bactérias que
+sobrevivem a temperaturas próximas de 65-70ºC. Essa elevação da temperatura por um período
+maior de tempo é muito importante na inativação de microrganismos patógenos.
+- De maturação: fase final do processo, pode durar até 2 meses. Ocorre diminuição da
+temperatura e também da acidez do composto, havendo então uma diminuição da atividade
+microbiana, com a temperatura baixando gradativamente e se aproximando da temperatura
+ambiental. Nesta fase ocorre também diminuição da acidez antes observada no composto, o que
+poderia ser prejudicial às culturas caso fosse aplicado diretamente na agricultura.
+Em relação à estruturação da compostagem, Fernandes e Silva (2019) relatam que o
+processo pode ser dividido em 3 grandes grupos. O primeiro e mais simples é o de leiras revolvidas,
+que se constituem por longas pilhas de lodo e resíduo estruturante e que devem ser revolvidas
+periodicamente para que haja aeração do sistema. O segundo grupo, composto pelas leiras estáticas
+aeradas, é similar ao primeiro, porém o material a ser oxidado pelos microrganismos é colocado
+sobre uma tubulação perfurada para injeção de ar, não havendo necessidade do revolvimento
+mecânico. O terceiro e último grupo é o de reatores biológicos, sistemas fechados que permitem
+maior controle dos parâmetros que influem na compostagem. Em se tratando de desvantagens, o
+primeiro grupo necessita de maior área de implantação e dependência do clima, essa última
+compartilhada pelo segundo grupo. Já o terceiro grupo apresenta baixa adaptabilidade a variações
+de volume de lodo e custos mais elevados.
+
+46
+
+Quanto à legislação, pode-se citar a Resolução CONAMA 481, que dá diretrizes e
+providências para garantir a qualidade e o controle dos processos de compostagem. Na seção I,
+artigo 3, define-se que resíduos orgânicos podem ser utilizados in natura ou após passarem por
+alguma forma de tratamento, sendo os lodos de ETE citados no parágrafo 1, desde haja prévia
+autorização do órgão ambiental sejam respeitadas as legislações pertinentes. (BRASIL, 2017)
+
+3.11.3 Disposição oceânica
+
+O processo de descarga do lodo nos oceanos é definido pelo seu lançamento nos oceanos
+via tubulações, processo que reduz os custos ligados à disposição final principalmente nos casos
+em que o resíduo semissólido se encontra contaminado por produtos químicos, afirma Boina
+(2012). É uma prática em desuso na maioria dos países, porém no Brasil ainda é uma opção de
+disposição e em 2011, foi inaugurado o Sistema de Disposição Oceânica de Jaguaribe, na Bahia,
+para complementar os serviços de esgotamento sanitário.
+Como principais desvantagens, Vieira et al. (2014) cita a poluição da água e do sedimento,
+alteração do equilíbrio da fauna marinha, transmissão de doenças e contaminação dos elementos
+da cadeia alimentar.
+Conforme explicitado anteriormente, 163 municípios analisados pelo IBGE (2008)
+despejam o lodo em rios, gerando os impactos citados anteriormente de forma direta nesses corpos
+d’água, considerando suas particularidades, e indiretamente nos oceanos.
+
+3.11.4 Disposição em aterro sanitário
+
+Para Vieira et al. (2011), a destinação mais comum para o lodo de esgoto no Brasil são os
+aterros sanitários, sendo eles exclusivos para o resíduo semissólido ou compartilhados, havendo
+então disposição compartilhada com os resíduos sólidos urbanos. No primeiro caso, o lodo é
+depositado após secagem térmica ou como torta tratada – pode-se usar cal virgem e/ou
+desaguamento.
+
+47
+
+De acordo com dados do MMA (2019), os aspectos financeiros de um aterro sanitário não
+se mostram atraentes pois para um aterro com uma vida útil média de 20 anos, 85% do orçamento
+total destina-se a operação e manutenção e 10% ao encerramento das atividades. Ainda no aspecto
+das finanças, Moreira et al. (2019) afirmam que a o aterro sanitário pode representar 50% dos
+custos operacionais de uma ETE – Vieira et al. (2011), em 2001 a SABESP divulgou um custo de
+aproximadamente R$ 20.000.000,00 para dispor lodo do interior do Estado de São Paulo em aterro
+sanitário, sendo a região interiorana responsável por 5% do volume total de lodo produzido no
+estado. Além da desvantagem financeira, tem-se que o lodo é rico em carga orgânica, o que piora
+o quadro já problemático do manejo de resíduos urbanos no Brasil; aumenta a geração de lixiviado
+pois mesmo após a desidratação, o biossólido ainda apresenta elevados graus de umidade – fator
+de atenção pois a PNRS prevê a redução de resíduos sólidos úmidos em aterros; incrementa a
+geração de gases, que devem ser controlados e tratados; insere necessidades operacionais no caso
+dos aterros compartilhados, pois deve-se misturar o lodo aos outros rejeitos antes das células do
+aterro sanitário serem compactadas afim de evitar pontos de acúmulo.
+No contexto de aspectos ambientais, Vieira et al. (2011) afirmam que se o aterro ao qual o
+lodo é enviado não for bem projetado e monitorado, pode haver poluição de águas subterrâneas
+(inclusive a área em que o aterro se encontra deve estar longe de áreas de recarga de aquíferos e de
+centros urbanos); lixiviação; emissão de gás metano e contaminação dos solos. Esses últimos dois
+produtos, principalmente, geram risco de desestabilização do aterro e risco de colapso futuro, de
+acordo com Obladen, Obladen e Barros (2016). Para que isso não ocorra, deve-se prever um
+sistema interligado de drenagem, sendo verticais os tubos de coleta de gases e horizontais os de
+coleta de líquidos. Exemplos de sistemas drenantes são tubos de concreto perfurados, valas
+preenchidas com brita e termoplásticos como PVC e PEAD perfurados.
+Uma alternativa para minimizar os danos de se dispor o lodo em aterros sanitários é realizar
+a compostagem da parcela orgânica desse resíduo semissólido, afirmam Vieira et al. (2011). Assim,
+reduz-se o volume desse resíduo semissólido que é enviado aos aterros, ajudando a prolongar a
+vida útil dessas áreas.
+
+3.11.5 Processos térmicos
+
+48
+
+Os principais processos térmicos aplicados ao lodo como tratativa final são a incineração,
+a gaseificação e a pirólise, afirmam Rosa, Chernicharo e Melo (2014). Os aspectos mais
+problemáticos que envolvem as três metodologias são os custos elevados e o maior grau de
+tecnológico envolvido.
+Boina (2012) afirma que a incineração do lodo é o processo de combustão controlada do
+resíduo que libera gases, materiais inertes (cinzas) e calor como produtos, sendo que esse último
+pode ser reaproveitado energeticamente na própria incineração. Andreoli, Fernandes e Von
+Sperling (2001) complementam que os incineradores são normalmente projetados para atender
+populações superiores a 500.000 habitantes e para processarem 1 tonelada por hora de lodo, o qual
+pode vir de mais de uma estação de tratamento de esgoto.
+Estima-se que a incineração do lodo produz uma quantidade de cinzas próxima a 4% do
+volume total desaguado, havendo então uma redução de cerca de 90% do parâmetro, enfatizam
+Andreoli, Fernandes e Von Sperling (2001). É o processo térmico mais difundido e consolidado,
+de acordo com Rosa, Chernicharo e Melo (2014), apresentando simplicidade operacional, menores
+exigências em relação ao preparo do lodo para a incineração de fato e se aplica a ETEs de diferentes
+portes. Todavia, deve haver rigoroso controle ambiental nas unidades incineradoras dada a geração
+de gases poluentes como dioxina, furanos policlorados, derivados do enxofre e nitrogênio e metais
+pesados.
+Em relação a aspectos técnicos do processo, os autores afirmam que a incineração ocorre
+entre 850-950ºC a pressão ambiente e é necessário que o teor de sólidos do lodo seja superior a
+35%. Os sólidos resultantes do processo podem ter aplicação na agricultura ou serem dispostos em
+aterros sanitários, sendo importante analisar as substâncias e suas respectivas quantidades presentes
+nas cinzas para se fazer esta escolha.
+A gaseificação, segunda metodologia citada, é um processo endotérmico que pode ocorrer
+em leito fixo, de arraste ou fluidizado, sendo este último ilustrado pela Figura 19 em uma de suas
+variações (dentre elas borbulhante, intermitente, rápida etc.). Para o caso do lodo e outras
+biomassas, a forma mais utilizada é a de leito fluidizado por proporcionar alto grau de mistura
+quando comparado aos outros dois modelos, além de permitir uso de partículas maiores e
+construção em grande escala. O leito pré-aquecido age como uma superfície de transferência de
+calor por condução e convecção, levando a biomassa a temperaturas mais elevadas (faixa de 800 a
+
+49
+
+900ºC) e ocasionando a quebra de suas moléculas, processo que pode ser chamado de
+craqueamento térmico, segundo Parodi e Sánchez (2002).
+
+Figura 19 – Esquema de gaseificador de leito fluidizado borbulhante.
+Fonte: Miranda (2014, p. 27).
+
+Parodi e Sánchez (2002) enfatizam que o gás produzido pela gaseificação possui alto poder
+calorífico e pode alimentar uma turbina a gás, por exemplo, combinando então o tratamento de um
+resíduo com geração mais limpa de energia. Para Miranda (2014), a principal desvantagem do uso
+de gaseificadores para tratamento do lodo, especialmente os de leito fluidizado, é o seu
+funcionamento mais complexo.
+O terceiro e último método listado é a pirólise, definida por Miranda (2014) como um
+processo termoquímico que gera o rompimento das ligações químicas da biomassa, produzindo
+compostos de menor massa molar na presença ou ausência de agentes oxidantes com o oxigênio.
+Vieira et al. (2011) afirmam que a pirólise geralmente ocorre numa faixa de temperatura que varia
+dos 400°C até o início da gaseificação e apresenta como vantagem a geração de produtos como
+óleo, gases e carvão, que podem ser reaproveitados no ramo energético, por exemplo. Existem dois
+
+50
+
+tipos de processos de pirólise: convencional ou lenta e pirólise rápida. Essa diferenciação se deve
+a fatores como taxa de aquecimento, temperatura, tempo de residência das fases sólida e gasosa e
+produtos desejados – a pirólise lenta dirige-se a produção exclusiva de carvão e a rápida permite
+obtenção de óleo.
+
+4. MÉTODO
+
+Para o desenvolvimento desta monografia, os meios utilizados foram a literatura que
+abrange os conceitos de tratamento de esgoto, de resíduos sólidos e semissólidos, do lodo
+propriamente dito e informações a respeito da bacia hidrográfica Sorocaba e Médio Tietê, estas
+últimas sendo obtidas em sites (SigRH, prefeituras dos municípios que compõem a bacia e também
+nas concessionárias que tratam seus esgotos) e entrando em contato direto com as companhias de
+saneamento.
+
+4.1. CARACTERÍSTICAS GEOGRÁFICAS GERAIS
+
+A bacia hidrográfica Sorocaba e Médio Tietê possui uma área total de aproximadamente
+12.247,14 km², de acordo com a somatória obtida a partir dos dados do IBGE, dos quais cerca de
+2.100 km² correspondem a vegetação nativa segundo o SigRH (2019), a qual ocupa
+aproximadamente 17% da área da bacia. Além disso, a região conta também com mais de 10
+Unidades de Conservação, estando entre elas modalidades como Áreas de Proteção Ambiental e
+Reserva Particular do Patrimônio Natural.
+Em relação às condições de drenagem da bacia hidrográfica Sorocaba e Médio Tietê, o
+SigRH (2019) sua área corresponde a 11.829 km² e os principais rios que correm pela região são:
+Sorocaba, Tietê, Sorocabuçu, Sorocamirim, Pirajibu, Jundiuvira, Murundu, Sarapuí, Tatuí,
+Guarapó, Macacos, Ribeirão do Peixe, Alambari, Capivara e Araqua. Possui dois reservatórios,
+sendo eles as represas Barra Bonita e Itupararanga.
+
+51
+
+Figura 20 – Mapa da bacia hidrográfica Sorocaba e Médio Tietê.
+Fonte: Portal SigRH (2019).
+
+4.2. GESTÃO DA BACIA HIDROGRÁFICA SOROCABA E MÉDIO TIETÊ
+
+O Comitê da Bacia Hidrográfica Sorocaba e Médio Tietê (CBH-SMT) foi concebido no dia
+2 de agosto de 1995 no município de Itu, no interior de São Paulo, e contou com o apoio dos
+prefeitos das cidades constituintes, bem como da sociedade civil. As principais motivações para o
+
+52
+
+surgimento do CBH-SMT foram a poluição das águas do rio Tietê e do reservatório Itupararanga,
+principal manancial da bacia do rio Sorocaba. (SigRH, 2019)
+Ainda de acordo com o SigRH (2019), atualmente o CBH-SMT é constituído por órgãos
+estaduais, representantes da sociedade civil e 34 municípios, sendo eles: Alambari, Alumínio,
+Anhembi, Araçariguama, Araçoiaba da Serra, Bofete, Boituva, Botucatu, Cabreúva, Capela do
+Alto, Cerquilho, Cesário Lange, Conchas, Ibiúna, Iperó, Itu, Jumirim, Laranjal Paulista, Mairinque,
+Pereiras, Piedade, Porangaba, Porto Feliz, Quadra, Salto, Salto de Pirapora, São Roque, Sarapuí,
+Sorocaba, Tatuí, Tietê, Torre de Pedra, Vargem Grande Paulista e Votorantim.
+Além do CBH-SMT propriamente dito, foi criada em 2003 a Fundação Agência da Bacia
+Hidrográfica Sorocaba e Médio Tietê (FABH-SMT) para dar suporte técnico, administrativo e
+financeiro ao Comitê. Em setembro de 2014, a FABH-SMT assumiu a cobrança pelo uso da água
+na bacia, que até então era realizada pelo Departamento de Águas e Energia Elétrica (DAEE),
+sendo que este órgão continua dando suporte à FABH-SMT.
+
+4.3. INFORMAÇÕES SÓCIOECONÔMICAS
+
+No que tange às características socioeconômicas, a bacia hidrográfica em questão engloba
+uma população de 1.869.685 habitantes de acordo com os dados obtidos no Atlas de Esgotos (ANA,
+2017) e as atividades predominantes da região são as industriais, nas regiões metropolitanas, e o
+cultivo da cana-de-açúcar e da laranja, além da pecuária, segundo o SigRH (2019).
+
+4.4 COLETA DE DADOS: ESGOTO E LODO
+
+Em relação à obtenção de dados relacionados aos municípios da bacia hidrográfica
+Sorocaba e Médio Tietê, todos foram obtidos de forma virtual:
+•
+
+O IBGE (2018) forneceu os dados de área para cada município referentes ao ano de 2018;
+O Atlas de Esgotos (ANA, 2013) proveu os dados populacionais de cada município; o
+número de municípios do Estado de São Paulo; porcentagens de coleta e tratamento de
+
+53
+
+esgoto do Brasil, do estado de São Paulo e dos municípios da bacia hidrográfica Sorocaba
+e Médio Tietê. Para as porcentagens municipais, adotou-se os valores de índice de
+atendimento referentes a “com coleta e com tratamento”. Para os municípios que o Atlas
+reportou “apenas coleta”, mas que tiveram tratamento de esgoto reportado por outras fontes,
+como sites das companhias de saneamento ou os próprios Anexos, utilizou-se os valores
+percentuais fornecidos pelo SNIS (2017) a partir de download. O site permite que se faça
+um relatório com os filtros desejados a partir do campo “Água e Esgotos”, então selecionouse as cidades com divergências e a partir das 4 primeiras colunas, fornecidas pelo SNIS,
+calculou-se o percentual municipal dividindo-se o volume de esgotos tratado pelo volume
+de esgotos coletado. Houve exceções a esta metodologia, explicitadas em seguida;
+
+Quadro 5 – percentuais de tratamento de esgoto de municípios com divergências no Atlas de Esgotos.
+Município
+
+População total
+atendida com
+esgotamento
+sanitário
+Alumínio
+10.757
+Araçariguama
+8.252
+São Roque
+39.533
+Vargem
+Grande 16.922
+Paulista
+Fonte: SNIS (2017, adaptado).
+
+•
+
+Volume de
+esgotos coletado
+(1.000 m³/ano)
+498,79
+452,12
+2.541,44
+523,11
+
+Volume de
+esgotos tratado
+(1.000 m³/ano)
+233,3
+130,71
+1.222,95
+167,42
+
+Percentual
+municipal
+
+47%
+29%
+48%
+32%
+
+Município de Mairinque: tanto o Atlas de Esgotos (ANA, 2013) quanto o Quadro 6
+reportaram que há apenas coleta de esgoto, o que se confirma pelo site da companhia de
+saneamento correspondente (SANEAQUA, 2019). Para este caso, utilizou-se então a
+informação do Atlas;
+
+•
+
+Município de Sarapuí: tanto para o Atlas quanto para o SNIS (2017), não há tratamento de
+esgotos. Porém, a Sabesp (Anexo I) reportou sistema de lagoas. Buscou-se, então, o
+percentual de coleta e tratamento no site da concessionária de esgotos (SABESP, 2019);
+
+•
+
+Jumirim: as informações de tratamento de esgoto e destinação final do lodo foram obtidas
+via telefonema para Eliane de Sousa Felício Ragni, responsável pela secretaria da
+Agricultura, Abastecimento, Meio Ambiente e Recursos Hídricos (30/09/2019 às 13h58);
+
+54
+
+•
+
+População de Quadra: o Atlas de Esgotos forneceu uma população de 893 habitantes para
+o ano de 2013, número muito baixo. O site do IBGE foi verificado e a população do Censo
+de 2010, igual a 3.236 habitantes, foi escolhida para compor o Quadro 6;
+
+•
+
+O Apêndice C – Dados do saneamento básico dos municípios paulistas (CETESB, 2018),
+forneceu a concessão do tratamento de esgoto, apesar de que alguns municípios estavam
+com informações desatualizadas e foram necessárias pesquisas para encontrar a
+concessionária atual;
+
+•
+
+O tipo de tratamento de esgoto e a destinação final do lodo que contam com a Sabesp como
+concessionária foram obtidos por meio da Lei nº 12.527/2011 – Lei de Acesso à
+Informação, que regulamenta o direito constitucional de acesso às informações públicas,
+criando mecanismos que possibilitam a pessoa física ou jurídica o recebimento de
+informações públicas dos órgãos e entidades. A companhia enviou um arquivo PDF com
+os dados solicitados, sendo representado pelo Anexo I;
+
+•
+
+Em relação aos municípios que possuem outras concessionárias de tratamento de esgotos,
+parte das informações foi encontrada nos sites das próprias companhias, parte teve que ser
+solicitada por meio da Lei de Acesso à Informação.
+Para o presente trabalho, em relação às divergências nas porcentagens de coleta e
+tratamento de esgoto dos municípios, adotou-se as informações do Atlas de Esgotos por ser
+uma fonte oficial de dados governamentais. Ressalta-se que foram escolhidas as
+porcentagens que se enquadravam nas categorias de coleta e tratamento e apenas coleta,
+dado que havia outras categorias não padronizadas para alguns dos municípios estudados.
+Além disso, para os municípios de Alumínio, Araçariguama, São Roque, Sarapuí e Vargem
+Grande Paulista, há divergência de informações pois a ANA relata que há apenas coleta de
+esgoto, enquanto as companhias de saneamento informam que há também tratamento do
+esgoto coletado. Para os casos destes municípios, considerou-se que as porcentagens
+obtidas no site da ANA representam, além de coleta, tratamento de esgoto.
+Por meio dos dados e metodologias acima, montou-se uma tabela com os principais
+
+resultados e características de cada município em relação ao tema principal do trabalho. O próximo
+capítulo traz esses resultados e sua discussão.
+
+55
+
+4.5. AGRUPAMENTO DE RESULTADOS
+
+Para se fazer análises dos tipos de tratamento de esgoto encontrados nas 57 ETEs da bacia
+hidrográfica deste trabalho e também das formas de disposição de lodo, fez-se três agrupamentos
+de resultados. O primeiro, referente aos métodos de tratamento de esgoto, consiste nos seguintes
+tópicos:
+- Lagoas de tratamento: fez-se uma contabilização de todas as ETEs que utilizam as lagoas
+como método de tratamento de esgoto, seja ele constituído por uma ou mais lagoas;
+- Métodos combinados: esta categoria engloba as ETEs que tratam os esgotos afluentes por
+meio de uma combinação de metodologias, exceto pelo caso explicitado das lagoas;
+- Lodos ativados convencional: ETEs que utilizam apenas esta modalidade para tratar
+esgoto;
+- Lodos ativados com aeração prolongada: ETEs que possuem apenas esta forma de
+tratamento de esgotos;
+- Outros métodos: engloba fossas sépticas e reator em regime de batelada;
+- Não se aplica: refere-se a municípios que não possuem tratamento de esgoto, apenas coleta
+e afastamento.
+O segundo agrupamento, referente às destinações finais do lodo, é composto por:
+- Desidratação em bags e posterior envio a aterro sanitário: solução numericamente mais
+significativa explicitada no Quadro 5;
+- Diretamente para aterro sanitário: engloba as ETEs que não fazem um tratamento prévio
+do lodo antes de seu envio aos aterros;
+- Mais de um método antes de envio a aterro sanitário: grupo composto pelas ETEs que
+fazem a gestão do lodo de forma mais completa, utilizando-se de mais de um tipo de tratamento de
+lodo antes de fazer sua disposição final nos aterros;
+- Não se aplica: engloba o caso da ETE de Sorocaba que está em reforma, ETEs que não
+fazem tratamento do esgoto coletado e também aquelas que se utilizam de lagoas de estabilização
+
+56
+
+das quais não foi removido lodo até o momento (e também não foi informado qual será o destino
+quando ocorrer essa remoção);
+- Sem dados: refere-se às duas estações de tratamento de esgotos de Cerquilho para as quais
+não foi obtido retorno da solicitação de informação via e-SIC e também telefonema (houve
+transferências da ligação entre departamentos e ninguém dar a informação requerida; também foi
+dito no primeiro dos dois telefonemas que a pessoa responsável encontrava-se em férias).
+O terceiro e último agrupamento foi feito para se estimar a quantidades de sólidos lançada
+nas redes coletoras na bacia, de acordo com Godoy (2013), apresentado no próximo capítulo.
+Foram feitos, então, 4 grupos de concessionárias de tratamento de esgoto, conforme segue, dando
+origem ao Quadro 10:
+- Sabesp: maior agrupamento em número – a concessionária em questão trata esgoto de 25
+dos 34 municípios da bacia hidrográfica Sorocaba e Médio Tietê. Somou-se a quantidade de
+habitantes dos municípios atendidos pela Sabesp, fez-se uma média de coleta e tratamento de
+esgoto com base nas porcentagens individuais apresentadas no Quadro 6 e, a partir disso, estimouse, com base em Godoy (2013), a quantidade de lodo produzida por habitante, tratada e não tratada;
+- SAAE: responsável pela concessão de 3 dos 34 municípios da bacia de estudo. Para os
+valores correspondentes de habitantes e percentuais de coleta e tratamento de esgoto, repetiu-se os
+mesmos passos de cálculos que para a Sabesp;
+- Grupo Águas do Brasil: atende a 2 dos 34 municípios da bacia hidrográfica estudada e
+repetiu-se os passos de cálculo já apresentados;
+- Outros: engloba a Cia. Ituana de Saneamento, a Samae e a Prefeitura Municipal de
+Jumirim. Somou-se os valores correspondentes a estas concessionárias e repetiu-se os cálculos
+apresentados acima.
+
+57
+
+5. RESULTADOS E DISCUSSÃO
+
+O Quadro 6 apresenta o compilado das principais informações e resultados obtidos para o
+presente estudo, fundamentando as análises que vêm em sequência. Os distritos dos municípios
+que os possuem foram listados, conforme Anexo I fornecido pela Sabesp. Não foi possível
+encontrar, entretanto, quantos habitantes do total discriminado vivem em cada distrito, bem como
+os percentuais de tratamento e coleta de esgoto para as ETEs distritais. Logo, os valores referentes
+a essas métricas foram agrupados numa única célula para o caso em que se aplicam.
+
+58
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (primeira parte).
+Município/Distrito
+(Portal SigRH,
+2019)
+
+Área (km²)
+(IBGE,
+2018)
+
+População
+(ANA,
+2013)
+
+Concessão
+(CETESB,
+2016)
+
+Coleta e
+tratamento
+de esgoto
+
+Tipo de tratamento
+
+Alambari
+
+159,6
+
+4.027
+
+Sabesp
+
+80,24 %
+(ANA,
+2013)
+
+Alumínio
+
+83,66
+
+14.556
+
+Sabesp
+
+47% (SNIS,
+2017)
+
+Sabesp
+
+74,04%
+(ANA,
+2013)
+
+Lagoa aerada (Anexo
+I)
+
+Lagoas anaeróbia e
+facultativa (Águas de
+Araçoiaba, 2019)
+
+Anhembi (sede)
+736,557
+
+4.624
+
+Dist. Piramboia
+(Anhembi)
+Araçariguama
+
+145,204
+
+19.144
+
+Sabesp
+
+29% (SNIS,
+2017)
+
+Araçoiaba da Serra
+
+255,327
+
+20.681
+
+Águas de
+Araçoiaba
+
+25% (ANA,
+2013)
+
+Sabesp
+
+89,42%
+(ANA,
+2013)
+
+Bofete (sede)
+653,541
+São Roque Novo
+(Bofete)
+Fonte: autora.
+
+6.697
+
+Lagoa facultativa
+(ANA, 2017)
+UASB, filtro aerado
+submerso e
+decantador (Anexo I)
+Lagoa aerada, lagoa
+de decantação,
+desinfecção e aeração
+(Anexo I)
+Lagoa facultativa
+(Anexo I)
+
+Lagoas anaeróbia e
+facultativa (Anexo I)
+
+Fossa-filtro (Anexo I)
+
+Destino final do lodo
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+Aterro sanitário (Anexo I)
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+Todo sólido de tratamento é
+direcionado ao aterro controlado de
+Iperó (Nerli Peres em 12/07/2019 via
+e-mail; responsável pela Assessoria
+de Imprensa)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+A limpeza da fossa gera rejeitos
+dispostos em aterro sanitário (Anexo
+I)
+
+59
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+Município/distrito
+(Portal SigRH, 2019)
+Boituva (Bacia 1:
+Campos de Boituva)
+Boituva (Bacia 2:
+Pau D’Alho)
+
+Área (km²)
+(IBGE,
+2018)
+248,954
+
+População
+(ANA,
+2013)
+50.261
+
+Concessão
+(CETESB,
+2016)
+Sabesp
+
+Coleta e
+tratamento
+de esgoto
+39,37%
+(ANA,
+2013)
+
+Tipo de tratamento
+
+Lagoas aerada e de
+decantação (Anexo I)
+
+Botucatu (sede)
+
+UASB, lodos ativados
+e decantação (Anexo I)
+
+Dist. Cesar Neto
+(Botucatu)
+
+Fossa-filtro (Anexo I)
+
+Dist. Rio Bonito
+(Botucatu)
+
+1.482,642
+
+131.292
+
+Sabesp
+
+98,77%
+(ANA,
+2013)
+
+Lagoas anaeróbia e
+facultativa (Anexo I)
+
+Dist. Rubião Júnior
+(Botucatu)
+
+Lagoas anaeróbia,
+facultativa e de
+maturação (Anexo I)
+
+Vitoriana (Botucatu)
+
+Fossa-filtro (Anexo I)
+
+Cabreúva
+
+260,234
+
+38.234
+
+Sabesp
+
+80,74%
+(ANA,
+2013)
+
+Lagoa facultativa com
+aeração superficial
+(Anexo I)
+
+Destino final do lodo
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em
+aterro sanitário (Anexo I)
+Biosecagem e produção de
+fertilizante orgânico na ETE
+Botucatu (Anexo I)
+Os rejeitos da limpeza das fossas
+são dispostos em aterro sanitário
+(Anexo I)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em
+aterro sanitário (Anexo I)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em
+aterro sanitário (Anexo I)
+Os rejeitos da limpeza das fossas
+são dispostos em aterro sanitário
+(Anexo I)
+Dragagem e desidratação com
+bags,
+posteriormente enviadas para
+disposição em local devidamente
+licenciado pelo órgão ambiental
+(aterro, etc) (Anexo I)
+
+Fonte: autora.
+
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+
+60
+Município/distrito
+(Portal SigRH, 2019)
+
+Área (km²)
+(IBGE,
+2018)
+
+População
+(ANA,
+2013)
+
+Concessão
+(CETESB,
+2016)
+
+Capela do Alto
+(sede)
+169,89
+
+15.682
+
+Sabesp
+
+Bairro do Porto
+(Capela do Alto)
+
+Cerquilho
+
+127,803
+
+41.223
+
+Coleta e
+tratamento
+de esgoto
+
+74%
+(ANA,
+2013)
+
+SAAEC
+
+98%
+(ANA,
+2013)
+
+Sabesp
+
+84,95%
+(ANA,
+2013)
+
+Cesário Lange (sede)
+190,392
+
+11.287
+
+Dist. Fazenda Velha
+(Cesário Lange)
+
+Conchas
+Fonte: autora.
+
+466,120
+
+13.905
+
+Sabesp
+
+81,19%
+(ANA,
+2013)
+
+Tipo de tratamento
+
+Lagoas anaeróbia e
+facultativa (Anexo I)
+ETE compacta
+(aeróbio e anaeróbio)
+(Anexo I)
+ETEs Aliança e Rio
+Sorocaba: 1 lagoa
+anaeróbia + 2
+facultativas; ETE
+Taquaral: lagoa
+anaeróbia + filtro
+aeróbio; ETE
+Capuava: lodos
+ativados com aeração
+prolongada (SAAEC,
+2019)
+UASB e filtros
+anaeróbio e aerado
+(Anexo I)
+Lagoa facultativa
+(Anexo I)
+UASB e filtros
+anaeróbio e aerado
+(Anexo I)
+
+Destino final do lodo
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em
+aterro sanitário (Anexo I)
+Aterro sanitário (Anexo I)
+
+ETEs Taquaral e Capuava:
+possuem leitos de secagem para
+fase sólida (SAAEC, 2019); não
+houve retorno de informação a
+respeito das outras 2 ETEs
+
+Aterro sanitário (Anexo I)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em
+aterro sanitário (Anexo I)
+Biosecagem e produção de
+fertilizante orgânico na ETE
+Botucatu (Anexo I)
+
+61
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+Município/Distrito
+(Portal SigRH,
+2019)
+Ibiúna
+
+Área (km²)
+(IBGE,
+2018)
+1.058,082
+
+População
+(ANA,
+2013)
+26.342
+
+Concessão
+(CETESB,
+2016)
+
+Coleta e
+tratamento
+de esgoto
+
+Tipo de tratamento
+
+Sabesp
+
+33,14%
+(ANA,
+2013)
+
+Lagoas anaeróbia e
+facultativa (Anexo I)
+Lagoa facultativa
+(Anexo I)
+Lagoas anaeróbia e
+facultativa (Anexo I)
+
+Iperó (sede)
+170,289
+
+19.589
+
+Sabesp
+
+61,18%
+(ANA,
+2013)
+
+Itu
+
+670,719
+
+153.380
+
+Cia Ituana de
+Saneamento
+(CIS)
+
+100%
+(ANA,
+2013)
+
+Lodos ativados (CIS,
+2019)
+
+Jumirim
+
+56,685
+
+1.765
+
+Prefeitura
+Municipal
+
+85,09%
+(ANA,
+2013)
+
+Lagoa facultativa
+(telefonema)
+
+George Oetterer
+(Iperó)
+
+Laranjal Paulista
+(sede)
+Dist. Laras
+(Laranjal Paulista)
+
+384,274
+
+24.047
+
+Sabesp
+
+90,24%
+(ANA,
+2013)
+
+Mairinque
+
+210,149
+
+34.466
+
+Saneaqua
+
+76,06%
+(ANA,
+2013)
+
+Fonte: autora.
+
+Lagoas anaeróbia e
+facultativa (Anexo I)
+Lagoa facultativa
+(Anexo I)
+Não possui
+tratamento, apenas
+coleta e afastamento
+do esgoto (Saneaqua,
+2019)
+
+Destino final do lodo
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+Adensamento, digestão anaeróbia,
+coagulação e desidratação, passagem
+por filtro prensa e secagem térmica.
+Parte do lodo é utilizado como adubo
+e o restante é enviado a um aterro
+sanitário em Paulínia
+O lodo, coletado em bags, passa por
+processo de secagem térmica e
+quando chega a 35% de umidade, é
+levado ao aterro sanitário de Cesário
+Lange (telefonema)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+
+Não se aplica
+
+62
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+Município/Distrito
+(Portal SigRH,
+2019)
+
+Área (km²)
+(IBGE,
+2018)
+
+População
+(ANA,
+2013)
+
+Concessão
+(CETESB,
+2016)
+
+Coleta e
+tratamento
+de esgoto
+
+Tipo de tratamento
+
+Lagoas anaeróbia e
+facultativa
+(solicitação
+respondida pela
+SABESP via e-mail
+em 27/06/2019)
+Lodos ativados em
+regime de batelada
+(Anexo I)
+
+Destino final do lodo
+
+Necessária a retirada de lodo a cada
+10 anos aproximadamente, o qual é
+destinado
+a
+aterro
+sanitário
+(solicitação respondida pela SABESP
+via e-mail em 27/06/2019)
+
+Pereiras
+
+223,136
+
+5.347
+
+Sabesp
+
+100%
+(ANA,
+2013)
+
+Piedade
+
+746,868
+
+24.753
+
+Sabesp
+
+53,61%
+(ANA,
+2013)
+
+Sabesp
+
+77,65%
+(ANA,
+2013)
+
+Fossa séptica e lagoa
+facultativa (Anexo I)
+
+SAAE
+
+96,04%
+(ANA,
+2013)
+
+Reator anaeróbio +
+filtro biológico +
+decantador secundário
+(SAAE Porto Feliz,
+2019)
+
+Sabesp
+
+68,21%
+(ANA,
+2013)
+
+UASB, filtro
+biológico e
+decantador secundário
+(Anexo I)
+
+Aterro sanitário (Anexo I)
+
+UASB e filtro
+anaeróbio (Prefeitura
+de Salto, 2019)
+
+Lodo biológico excedente dos
+reatores anaeróbios: segue para as
+centrífugas. A parte líquida retorna ao
+Tanque de Equalização e a fase sólida
+é encaminhada ao aterro. (Sanesalto,
+2019)
+
+Porangaba
+
+Porto Feliz
+
+Quadra
+
+Salto
+
+Fonte: autora.
+
+265,689
+
+4.356
+
+556,706
+
+43.136
+
+205,672
+
+3.236
+(IBGE,
+2010)
+
+133,057
+
+111.264
+
+Sanesalto
+
+69,08%
+(ANA,
+2013)
+
+Aterro sanitário (Anexo I)
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+O lodo é adensado, centrifugado e
+utilizado como adubo ou enviado ao
+aterro sanitário. A parte líquida que
+resta do esgoto é tratada com cloro e
+lançada no rio Tietê (SAAE Porto
+Feliz, 2019)
+
+63
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+Município/Distrito
+(Portal SigRH,
+2019)
+
+Salto de Pirapora
+
+Área (km²)
+(IBGE,
+2018)
+
+População
+(ANA,
+2013)
+
+Concessão
+(CETESB,
+2016)
+
+Coleta e
+tratamento
+de esgoto
+
+280,509
+
+33.484
+
+Sabesp
+
+86,83
+(ANA,
+2013)
+
+306,908
+
+76.602
+
+Sabesp
+
+48% (SNIS,
+2017)
+
+Sabesp
+
+72%
+(SABESP,
+2019)
+
+São Roque (sede)
+Bairro do Carmo
+(São Roque)
+
+Sarapuí
+Fonte: autora.
+
+352,592
+
+7.088
+
+Tipo de tratamento
+
+Lagoas aerada e de
+decantação
+(solicitação
+respondida pela
+SABESP via e-mail
+em 15/05/2019)
+UASB, aeração e
+decantação (Anexo I)
+ETE compacta e
+sistema terciário
+(Anexo I)
+Lagoas facultativa e
+de maturação (Anexo
+I)
+
+Destino final do lodo
+
+O lodo é disposto nos leitos de
+secagem e, posteriormente, levado ao
+aterro
+sanitário
+(solicitação
+respondida pela SABESP via e-mail
+em 15/05/2019)
+
+Aterro sanitário (Anexo I)
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+
+64
+Quadro 7 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+Município/Distrito
+(Portal SigRH,
+2019)
+
+Sorocaba
+
+Área (km²)
+(IBGE,
+2018)
+
+450,382
+
+Tatuí – Bacia 1
+(Ceagesp)
+Tatuí – Bacia 2
+(Incoop)
+Tatuí – Bacia 4
+(Bassi)
+
+523,749
+
+Tietê
+
+404,396
+
+Fonte: autora.
+
+População
+(ANA,
+2013)
+
+622.827
+
+108.914
+
+35.752
+
+Concessão
+(CETESB,
+2016)
+
+Coleta e
+tratamento
+de esgoto
+
+SAAE
+
+84,60%
+(ANA,
+2013)
+
+Sabesp
+
+75,72%
+(ANA,
+2013)
+
+Samae
+
+38% (ANA,
+2013)
+
+Tipo de tratamento
+
+Destino final do lodo
+
+ETE S1: lodo ativado
+convencional; ETE
+S2, Pitico, Itanguá e
+Carandá: lodos
+ativados com aeração
+prolongada; ETE
+Aparecidinha: reator
+UASB + filtros
+biológicos aerados;
+ETE Ipaneminha do
+meio: fossa séptica +
+filtro biológico; ETE
+Quintais do
+Imperador: em
+reforma (adotará o
+MBBR + decantador)
+(Prefeitura de
+Sorocaba via login
+próprio, 2019)
+
+ETEs S1, S2, Pitico, Itanguá,
+Aparecidinha e Carandá fazem a
+desidratação do lodo antes de enviálo ao aterro sanitário (Prefeitura de
+Sorocaba via login próprio, 2019)
+
+Lagoas aerada e de
+decantação (Anexo I)
+Lagoa facultativa
+(Anexo I)
+Lodos ativados com
+aeração prolongada
+em regime de
+batelada (Anexo II)
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+
+Desidratação, secagem e disposição
+em aterro sanitário (Anexo II)
+
+65
+Quadro 6 – municípios componentes da bacia de estudo; informações gerais, de tratamento de esgoto e destino final do lodo (continuação).
+Município/Distrito
+(Portal SigRH,
+2019)
+Torre de Pedra
+
+Vargem Grande
+Paulista
+
+Votorantim
+
+Fonte: autora.
+
+Área (km²)
+(IBGE,
+2018)
+71,348
+
+42,489
+
+183,517
+
+População
+(ANA,
+2013)
+1.534
+
+47.013
+
+111.177
+
+Concessão
+(CETESB,
+2016)
+Sabesp
+
+Coleta e
+tratamento
+de esgoto
+63,10%
+(ANA,
+2013)
+
+Sabesp
+
+32% (SNIS,
+2017)
+
+Águas de
+Votorantim
+
+88,20%
+(ANA,
+2013)
+
+Tipo de tratamento
+
+Lagoa facultativa
+(Anexo I)
+Lagoas anaeróbia e
+facultativa, flotação
+por ar difuso, pós
+aeração e desinfecção
+do efluente final
+(solicitação
+respondida pela
+SABESP via e-mail
+em 30/04/2019)
+ETE Guimarães:
+reator batelada
+sequencial aerado,
+ETE Novo Mundo:
+sistema de batelada
+aerada; ETE Votocel:
+lagoa aerada (Grupo
+Águas do Brasil,
+2019)
+
+Destino final do lodo
+
+A remoção do lodo é feita com
+desidratação em bags filtrantes,
+posteriormente dispostas em aterro
+sanitário (Anexo I)
+Tendo em vista que a ETE entrou em
+operação em 2016, ainda não houve a
+necessidade de limpeza e destinação
+dos lodos (solicitação respondida
+pela SABESP via e-mail em
+30/04/2019)
+
+ETE Guimarães: aterro sanitário;
+ETE Novo Mundo: estocado em
+geobags na própria estação até o
+momento; ETE Votocel: ainda não
+houve remoção de lodo (Anexo III)
+
+66
+
+5.1. DADOS RELATIVOS A TRATAMENTO DE ESGOTO
+
+No que tange o panorama de coleta e tratamento de esgoto, o Quadro 7 demonstra as
+porcentagens destes componentes do saneamento básico em ordem decrescente de esfera de poder.
+
+Quadro 7 – número de municípios e porcentagem de esgoto coletado e tratado por esfera de poder.
+Brasil
+São Paulo
+Bacia de estudo
+Fonte: ANA (2017), adaptado.
+
+Número de municípios
+5.570
+645
+34
+
+Esgoto coletado e tratado (%)
+43,45
+64,45
+70,46
+
+Nota-se que o Brasil possui menos da metade de seu esgoto tratado e coletado, sendo que
+o tratamento empregado em muitos locais não é, ainda, o ambientalmente correto. Numa esfera
+estadual, Maurício (2018) declara que São Paulo é tido como o exemplo de saneamento básico do
+Brasil e que dos 11,5 bilhões de reais investidos nesse direito universal em 2016, quase metade
+veio do orçamento paulista.
+O Quadro 8 apresenta os agrupamentos de métodos de tratamento de esgoto previamente
+explicitados e seus respectivos totais. Destaca-se que, de acordo com o Quadro 6, o município de
+Mairinque não possui tratamento de esgoto, correspondendo à última linha. Essa situação mostra
+que apesar do Estado de São Paulo ser o pioneiro em saneamento básico, há pontos a serem
+ajustados.
+
+Quadro 8 – métodos de tratamento de esgoto encontrados (agrupados).
+Métodos de tratamento (por ETE)
+Lagoas de tratamento
+Métodos combinados
+Lodos ativados convencional
+Lodos ativados com aeração prolongada
+Outros métodos
+Sem tratamento
+Fonte: autora.
+
+Número de ETEs que utilizam o método
+27
+16
+4
+5
+5
+1
+
+67
+
+De forma a ilustrar os dados do Quadro 8, o gráfico da Figura 21 foi feito para demonstrar
+a representatividade de cada agrupamento de tratamento de esgoto, ficando então perceptível que
+na bacia hidrográfica Sorocaba e Médio Tietê, o método predominante de tratamento é o que utiliza
+lagoas de tratamento, seguido pela combinação de um ou mais métodos.
+
+Figura 21 – Gráfico da representatividade dos métodos de tratamento de esgoto encontrados.
+Fonte: autora.
+
+5.2. DADOS RELATIVOS A LODO
+
+O Quadro 9 dá os números relativos ao tipo de destinação final dada ao lodo por cada ETE
+encontrada, ressaltando que para o município de Cerquilho, não foram obtidos dados para duas de
+suas estações de tratamento, representando a última linha do Quadro. É possível notar que a bacia
+hidrográfica Sorocaba e Médio Tietê possui 51 ETEs enviando o lodo produzido para aterros
+sanitários antes ou depois de alguma forma de redução de volume como desidratação.
+
+68
+
+Quadro 9 – formas encontradas de destinação final de lodo (agrupadas).
+Métodos de tratamento (por ETE)
+Desidratação em bags + aterro sanitário
+Diretamente para aterro sanitário
+Mais de um método antes de ser levado ao aterro
+Não se aplica
+Sem dados
+Fonte: autora.
+
+Número de ETEs que utilizam o método
+31
+15
+5
+5
+2
+
+Da mesma forma feita acima, o gráfico da Figura 22 ilustra as representatividades de cada
+agrupamento de destinação final do lodo. Fica explícito que o aterro sanitário é o destino final desse
+resíduo semissólido para a grande maioria das ETEs da bacia de estudo, que possui 53% delas
+reduzindo o volume do lodo pela desidratação antes de enviá-lo ao aterro; 26% fazendo o envio
+direto e uma parcela menor, de 9%, de ETEs que aplicam mais de um método de estabilização no
+lodo antes de fazer sua disposição como rejeito. Vale também frisar que apenas 4 estações de
+tratamento fazem reutilização do lodo como fertilizante, duas sob gestão da Sabesp (ETEs Botucatu
+e a de Conchas), uma sob a gestão da CIS (Itu) e a última sob gestão da SAAE (Porto Feliz),
+conforme Quadro 6.
+
+Figura 22 – Gráfico da representatividade das destinações finais de lodo encontradas.
+Fonte: autora.
+
+69
+
+Foi explicitado anteriormente que de um total de 1.091 municípios brasileiros avaliados
+pelo IBGE no contexto da destinação final do lodo, 41% a faziam em aterros sanitários,
+porcentagem de nível nacional menor que a obtida na bacia de estudo. Foi também citado que 169
+municípios realizavam algum tipo de reaproveitamento do lodo antes de fazer sua disposição,
+representando 15% do total e sendo uma porcentagem menor que a obtida para a bacia hidrográfica
+Sorocaba e Médio Tietê.
+Godoy (2013) afirma em seus estudos que, em média, um ser humano produz cerca de 120g
+de sólidos secos diários, os quais são lançados nas redes de esgoto. Somados os habitantes
+atendidos por cada concessionária, feitas as médias de coleta e tratamento de esgoto a partir dos
+percentuais apresentados no Quadro 6 e multiplicando-se cada subtotal de habitantes por 0,120 kg,
+obteve-se as quantidades de sólidos secos tratado e não tratado. Para exemplificação, 96 toneladas
+de sólidos secos produzidos por dia pela Sabesp representam 100%, então as 65 toneladas da quinta
+coluna representam os 68% de sólidos que irão para as ETEs e, posteriormente, gerarão resíduos e
+efluentes – gases em modalidades de tratamentos anaeróbios, por exemplo; substâncias retiradas
+no tratamento preliminar; e, por fim, parte desses sólidos secos torna-se lodo. A quantidade de
+sólidos secos não tratados foi obtida pela subtração dos tratados pela tonelada total diária (quarta
+coluna).
+
+Quadro 90 – estimativa de quantidades de sólidos secos tratados e não tratados por concessionária.
+Agrupamentos
+de concessão
+
+Habitantes
+
+Coleta e
+tratamento
+68%
+93%
+57%
+
+Toneladas de
+sólidos
+secos/dia
+96
+85
+16
+
+Sólidos secos
+tratados
+(Ton)
+65
+79
+9
+
+Sólidos secos
+não tratados
+(Ton)
+31
+6
+7
+
+Sabesp
+SAAE
+Grupo Águas
+do Brasil
+Outros
+Total geral
+Fonte: autora.
+
+803.278
+707.186
+131.858
+190.897
+1.833.219
+
+74%
+73%
+
+23
+220
+
+17
+170
+
+6
+50
+
+Ressalta-se que as quantidades de efluentes e resíduos gerados pelas estações de tratamento
+de esgoto e, consequentemente, a quantidade de lodo a ser tratada e disposta, variam com o tipo de
+tratamento empregado, com sua eficiência, operação etc.
+
+70
+
+6. CONCLUSÕES
+
+Os resultados obtidos no capítulo anterior explicitam que a grande maioria dos municípios
+da bacia hidrográfica Sorocaba e Médio Tietê acabam por levar seu lodo, tratado ou não, aos aterros
+sanitários, dado que reflete o panorama brasileiro de 2008, conforme pesquisa de saneamento do
+IBGE (2008). Levantamentos do MMA (2019) mostraram que, em 2015, 40% dos municípios
+brasileiros dispõe seus Resíduos Sólidos Urbanos em aterros sanitários. Os outros 60% enviam os
+RSU para aterros controlados ou lixões, dados alarmantes já que esses espaços, principalmente
+lixões, implicam em sérios danos ambientais como infiltração de contaminantes no solo e
+consequente contaminação de lençóis freáticos, transmissão de doenças a população que vive nas
+proximidades desses espaços etc. Também foi relatado que 58% dos municípios não possuem
+planos de gestão integrada de resíduos sólidos, estando em desacordo com as diretrizes da PNRS
+e outras legislações locais. Essa situação mostra que o Brasil padece de iniciativas gerais de
+melhoria, o que afeta a situação do lodo, resíduo semissólido que se enquadra nesse contexto de
+gestão e disposição.
+O caso mais prejudicial a população e ao meio ambiente obtido nesse estudo foi o município
+de Mairinque, que lança esgoto in natura em corpos hídricos da bacia. O município e o estado têm
+como dever melhorar esse panorama, tendo como suporte legislações em todas as esferas de poder,
+o próprio comitê de bacias, a sociedade civil, entre outras partes que podem se envolver.
+Caminhando para uma situação menos crítica, a Sabesp, concessionária da bacia
+hidrográfica Sorocaba e Médio Tietê com maior número de ETEs, utiliza-se fortemente do
+desaguamento de lodo por bags filtrantes. Considerando o caso da ETE de Franca, que produz o
+Sabesfértil, e as 3 estações de tratamento de esgoto da bacia de estudo que reaproveitam parte do
+lodo na agricultura, vê-se que há potencial para aumentar a quantidade de lodo utilizada nessa
+finalidade e reduzir aquela que é levada aos aterros sanitários, ainda mais pela presença de culturas
+de laranja e cana-de-açúcar na bacia de estudo. Para municípios menores como Jumirim, Pereiras,
+Porangaba etc., que possuem menos de 10.000 habitantes, pode-se também considerar o processo
+de compostagem.
+Considerando as problemáticas ambientais envolvidas com a disposição oceânica dos
+lodos, questões de logística (a bacia de estudo localiza-se no interior do Estado de São Paulo, não
+
+71
+
+estando próxima ao mar) e a própria tendência mundial de desuso deste método, essa não é uma
+alternativa considerada viável e ambientalmente correta para o lodo produzido.
+Em relação aos métodos térmicos de tratamento de lodo, os municípios da bacia
+hidrográfica Sorocaba e Médio Tietê não ultrapassam, em geral, os 100.000 habitantes, sendo
+Sorocaba o único município que poderia utilizar um incinerador de acordo com os critérios
+populacionais de Andreoli, Fernandes de Von Sperling, já que o município tem 622.827 habitantes
+(mais que a recomendação de 500.000 habitantes) e possui 8 ETEs. Considerando o panorama
+socioeconômico brasileiro e a pesquisa de saneamento básico realizada pelo IBGE em 2008, que
+diz que apenas 19 municípios do país incineram o lodo produzido por suas ETEs, outros métodos
+térmicos como gaseificação e pirólise não se mostram aptos a serem soluções para a bacia de
+estudo.
+Silveira (2017) informa que em 2017, a população do Brasil era de 207.660.929 milhões de
+habitantes. Desse valor, Reda et al. (2017) afirmam que 14% dos brasileiros (aproximadamente 30
+milhões de pessoas) ainda não têm acesso a água tratada e apenas 48,1% possuem rede coletora de
+esgoto, sendo que menos de 40% do que é coletado recebe algum tipo de tratamento. Considerando
+o percentual de 45,43% de esgoto coletado e tratado fornecido pela ANA (2013), vê-se que o país
+não apresentou uma melhoria desejável neste período.
+Essas informações e os resultados obtidos nesse trabalho indicam que, apesar da bacia
+hidrográfica Sorocaba e Médio Tietê e o Estado de São Paulo despontarem, no geral, com valores
+de saneamento melhores que o panorama nacional, o Brasil apresenta um quadro de poluição severa
+de seus corpos hídricos e também de falta de gestão de resíduos sólidos, não dando a questão do
+lodo sua devida importância. Esse posicionamento deixa o Brasil para trás de nações europeias e
+norte americanas, mostrando que o setor de saneamento básico, juntamente a índices como saúde
+e desenvolvimento humano (IDH), classificam-no como subdesenvolvido, conforme afirmam Reda
+et al. (2017). Torna-se crucial, então, que as esferas do governo brasileiro invistam em capital
+humano e monetário para melhorar os índices de saneamento básico, direito universal dos cidadãos
+e que minimiza impactos antrópicos sobre a sustentabilidade do meio ambiente.
+
+72
+
+REFERÊNCIAS
+
+AGÊNCIA NACIONAL DE ÁGUAS (ANA). Atlas Esgotos: despoluição de bacias hidrográficas.
+2013. Disponível em: http://www.snirh.gov.br/portal/snirh/snirh-1/atlas-esgotos. Acesso em 12
+jul. 2019.
+
+AGÊNCIA NACIONAL DE ÁGUAS (ANA). Atlas Esgotos: despoluição de bacias hidrográficas
+–
+Alambari,
+SP.
+2017.
+Disponível
+em:
+http://portal1.snirh.gov.br/arquivos/Atlas_Esgoto/São_Paulo/Relatorio_Geral/Alambari.pdf.
+Acesso em: 14 abr. 2019.
+
+AGÊNCIA NACIONAL DE ÁGUAS
+(ANA). Saneamento. Disponível em:
+https://www.ana.gov.br/aguas-no-brasil/saiba-quem-regula/saneamento. Acesso em: 27 jul. 2019.
+
+ÁGUAS CLARAS ENGENHARIA. Filtro prensa de placas. Disponível
+https://aguasclarasengenharia.com.br/filtro-prensa-de-placas/. Acesso em 20 ago. 2019.
+
+em:
+
+ANDREOLI, C. V.; FERNANDES, F.; VON SPERLING, M. Princípios do tratamento biológico
+de águas residuárias: Lodo de esgotos: tratamento e disposição final. Belo Horizonte: UFMG,
+2001. 484 p.
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS: NBR 9648: estudo de concepção de
+sistemas
+de
+esgoto
+sanitário.
+Rio
+de
+Janeiro,
+1986.
+Disponível
+em:
+https://www.docsity.com/pt/nbr-9648-estudos-de-concepcao-de-sistemas-de-esgoto-sanitario1/4860756/. Acesso em 05 ago. 2019.
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10004: resíduos sólidos –
+classificação.
+Rio
+de
+Janeiro,
+2004.
+Disponível
+em:
+http://analiticaqmcresiduos.paginas.ufsc.br/files/2014/07/Nbr-10004-2004-Classificacao-DeResiduos-Solidos.pdf. Acesso em: 05 ago. 2019.
+
+BENTO, A. P. et al. Caracterização da microfauna em estação de tratamento de esgotos do tipo
+lodos ativados: um instrumento de avaliação e controle do processo. ABES, v. 10, n. 14, p. 329338, 2005.
+
+73
+
+BOINA, W. L. O. Análise das condições de desaguamento de lodo de ETEs em bag’s: o caso
+da ETE Limoeiro – Presidente Prudente-SP. 2012. 95 p. Dissertação (Mestrado em Engenharia
+Urbana) – Universidade Federal de São Carlos, São Carlos, 2012.
+
+BRASIL. Governo Federal. Lei de Acesso à Informação. Disponível
+http://www.acessoainformacao.gov.br/assuntos/conheca-seu-direito/a-lei-de-acesso-ainformacao. Acesso em: 09 jul. 2019.
+
+em:
+
+BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Autorização CFIC nº 006 de 25
+de maio de 2007. Disponível em: http://www.agricultura.gov.br/assuntos/insumosagropecuarios/insumos-agricolas/fertilizantes/fiscaliz-e-qualid-dos-fertiliz/autorizacaocomercializacao/autorizacao-06_2007-lodo-de-esgoto.pdf/view. Acesso em: 06 out. 2019.
+
+BRASIL (a). Ministério da Agricultura, Pecuária e Abastecimento. Instrução Normativa SDA de
+28
+de
+julho
+de
+2009.
+Disponível
+em:
+http://sistemasweb.agricultura.gov.br/sislegis/action/detalhaAto.do?method=recuperarTextoAtoT
+ematicaPortal&codigoTematica=1229186. Acesso em: 06 out. 2019.
+
+BRASIL (b). Ministério do Meio Ambiente. Módulo específico licenciamento ambiental de
+estações de tratamento de esgoto e aterros sanitários. Brasília, 2009. 67 p. Disponível em:
+http://www.mma.gov.br/estruturas/dai_pnc/_publicacao/76_publicacao19042011110356.pdf.
+Acesso em: 05 ago. 2019.
+
+BRASIL. Ministério do Meio Ambiente. Resolução nº 375 de 29 de agosto de 2006. Disponível
+em: http://www2.mma.gov.br/port/conama/res/res06/res37506.pdf. Acesso em: 27 jul. 2019.
+
+BRASIL. Ministério do Meio Ambiente. Resolução nº 481 de 03 de outubro de 2017. Disponível
+em: http://www.agencia.baciaspcj.org.br/docs/resolucoes/resolucao-conama-481-17.pdf. Acesso
+em: 06 out. 2019.
+
+BRIGHENTI, J. R. et al. Codisposição de lodos de tratamento de esgotos em aterros sanitários
+brasileiros: aspectos técnicos e critérios mínimos de aplicação. Associação Brasileira de
+Engenharia Sanitária e Ambiental, v. 23, n. 5, p. 891-899, 2018.
+
+CAMPOS, J. R. (org.). Tratamento de esgotos sanitários por processo anaeróbio e disposição
+controlada
+no
+solo.
+Rio
+de
+Janeiro:
+PROSAB.
+1999.
+Disponível
+em:
+
+74
+
+https://www.finep.gov.br/images/apoio-e-financiamento/historico-deprogramas/prosab/prosabcamposfinal.pdf. Acesso em: 14 abr. 2019.
+
+CARVALHO, S. et al. Composição química da matéria orgânica de lodos de esgoto. Revista
+Brasileira de Ciências Agrárias, v. 10, n. 3, p. 413-419, 2015.
+
+CHERNICHARO, C. A. L. Princípios do tratamento biológico de águas residuárias: Reatores
+anaeróbios. Belo Horizonte: UFMG. 1997. 246 p.
+
+COMPANHIA AMBIENTAL DO ESTADO DE SÃO PAULO (CETESB). Apêndice C – Dados
+do Saneamento Básico dos Municípios Paulistas. 2016. Disponível em:
+https://cetesb.sp.gov.br/aguas-interiores/wp-content/uploads/sites/12/2018/03/Apêndice-CDados-do-saneamento-básico...-municípios-paulistas-2016_17-04.pdf. Acesso em: 14 abr. 2019.
+
+COMPANHIA AMBIENTAL DO ESTADO DE SÃO PAULO (CETESB). Fundamentos do
+controle de poluição das águas. Disponível em: https://cetesb.sp.gov.br/posgraduacao/wpcontent/uploads/sites/33/2018/08/Aula-07-Tratamento-de-Lodo-Exemplos.pdf. Acesso em: 27 jul.
+2019.
+
+COMPANHIA ITUANA DE SANEAMENTO (CIS). Esgoto. Disponível em: https://cisitu.com.br/servicos/esgoto/. Acesso em: 08 out. 2019.
+
+COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO (SABESP).
+Aventura é com Boituva, cidade com índices de saneamento acima dos 95. 2017. Disponível
+em: http://site.sabesp.com.br/site/imprensa/noticias-detalhe.aspx?secaoId=65&id=7436. Acesso
+em: 14 abr. 2019.
+
+COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO (SABESP).
+Estação de Tratamento de esgoto de Franca é sinônimo de eficiência e qualidade. 2012.
+Disponível
+em:
+http://site.sabesp.com.br/site/imprensa/noticiasdetalhe.aspx?secaoId=65&id=4025. Acesso em: 06 out. 2019.
+
+COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO (SABESP).
+Sabesp inicia obras que ampliam a coleta de esgoto em Sarapuí. 2019. Disponível em:
+http://site.sabesp.com.br/site/imprensa/releases-Detalhes.aspx?secaoId=193&id=8081. Acesso em
+08 out. 2019.
+
+75
+
+COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO (SABESP). Uso
+de lodo de esgoto na agricultura: estudo de caso – produzindo fertilizantes na estação de
+tratamento
+de
+Franca.
+Disponível
+em:
+http://www.sabesp.com.br/Sabesp/filesmng.nsf/DC466180BB9121BF8325760F006AEB08/$File
+/uso_lodo_esgoto_agricultura.pdf. Acesso em 06 out. 2019.
+
+COMPANHIA AMBIENTAL DO ESTADO DE SÃO PAULO (CETESB). Apêndice C – Dados
+do
+saneamento
+básico
+dos
+municípios
+paulistas.
+2018.
+Disponível
+em:
+https://cetesb.sp.gov.br/aguas-interiores/wp-content/uploads/sites/12/2018/06/Apêndice-CDados-de-saneamento-dos-municípios-paulistas.pdf. Acesso em 07 abr. 2019.
+
+COMPANHIA AMBIENTAL DO ESTADO DE SÃO PAULO (CETESB). Norma Técnica
+P4.230: aplicação de lodos sistemas de tratamento biológico em áreas agrícolas – critérios para
+projeto e operação: manual técnico. São Paulo, 1999.
+
+COMPANHIA DE SANEAMENTO DO PARANÁ. ONU divulga trabalho da Sanepar sobre
+uso de lodo na agricultura. 2016. Disponível em: http://site.sanepar.com.br/noticias/onu-divulgatrabalho-da-sanepar-sobre-uso-de-lodo-na-agricultura. Acesso em: 25 fev. 2019.
+
+DAVID, A. C. Secagem térmica de lodos de esgoto. Determinação da umidade de equilíbrio.
+2002. 147 p. Dissertação (Mestrado em Engenharia Hidráulica e Sanitária) – Universidade de São
+Paulo, São Paulo, 2002.
+
+DUDA, R. M., OLIVEIRA, R. A. Tratamento de águas residuárias de suinocultura em reator
+UASB e filtro anaeróbio em série seguidos de filtro biológico percolador. Eng Sanit Ambient, v.
+16, n. 1, p. 91-100, 2011.
+
+FERNANDES, F.; SILVA, S. M. C. P. (org.). Programa de Pesquisa em Saneamento Básico
+(PROSAB): manual prático para a compostagem de biossólidos. Disponível em:
+https://www.finep.gov.br/images/apoio-e-financiamento/historico-deprogramas/prosab/Livro_Compostagem.pdf. Acesso em: 06 out. 2019.
+
+FONSECA, M. F. Remoção de nitrogênio amoniacal em filtro biológico percolador pós-tratando
+efluente de reator UASB. 2009. 118 p. Dissertação (Mestrado em Engenharia Civil) –
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2009.
+
+76
+
+GODOY, L. C. A logística na destinação de lodo de esgoto. Revista Científica On-line da
+Faculdade de Tecnologia de Guaratinguetá, v. 2, n. 1, p. 80-90, 2013.
+
+GRUPO ÁGUAS DO BRASIL – ÁGUAS DE ARAÇOIABA. Estação de tratamento de esgoto.
+Disponível em: https://www.grupoaguasdobrasil.com.br/aguas-aracoiaba/agua-e-esgoto/estacaode-tratamento-de-esgoto/. Acesso em: 14 abr. 2019.
+GRUPO ÁGUAS DO BRASIL – ÁGUAS DE VOTORANTIM. Estação de tratamento de
+esgoto. Disponível em: https://www.grupoaguasdobrasil.com.br/aguas-votorantim/agua-eesgoto/estacao-de-tratamento-de-esgoto/. Acesso em: 14 abr. 2019.
+
+GUSTAWATER TREATMENT. The Ultimate Guide to MBBR (Moving Bed Biofilm
+Reactor). Disponível em: https://www.gustawater.com/blog/mbbr.html. Acesso em 20 ago. 2019.
+
+HIRATA, D. et al. O uso de informações patentárias para a valorização de resíduos industriais: o
+caso do lodo de tratamento de esgoto doméstico. Revista de Ciências da Administração, v. 17,
+n. 43, p. 55-71, 2015.
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). 2018. Municípios.
+Disponível em: https://cidades.ibge.gov.br. Acesso em: 21 ago. 2019.
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Pesquisa Nacional de
+Saneamento
+Básico.
+2008.
+Disponível
+em:
+https://www.ibge.gov.br/estatisticasnovoportal/multidominio/meio-ambiente/9073-pesquisa-nacional-de-saneamentobasico.html?=&t=resultados. Acesso em: 25 fev. 2019.
+
+INSTITUTO BRASILEIRO DE GEOGRAGIA E ESTATÍSTICA (IBGE). Quadra. 2010
+(Censo). Disponível em: https://cidades.ibge.gov.br/brasil/sp/quadra/panorama. Acesso em 09 out.
+2019.
+
+JORDÃO, E. P.; PESSÔA, C. A. Tratamento de Esgotos Domésticos. 6. Ed. Rio de Janeiro:
+ABES, 2011. 969 p.
+
+LEAL, R.M.; VARGAS, R. R. Análise de Demanda Bioquímica de Oxigênio e Nitrogênio Total
+do lago azul. Revista Educação, v. 11, n. 3, p. 70, 2016.
+
+77
+
+LERVOLINO, L. F. Sistema de lodos ativados. Portal Tratamento de Água. 2019. Disponível
+em: https://www.tratamentodeagua.com.br/artigo/sistema-lodos-ativados/. Acesso em: 20 ago.
+2019.
+
+LIMA, A. B. B. V. Pós-tratamento de efluente de reator anaeróbio em sistema sequencial
+constituído de ozonização em processo biológico aeróbio. 2006. 75 p. Dissertação (Mestrado em
+Hidráulica e Saneamento) – Universidade de São Paulo, São Carlos, 2006.
+
+LOPES, E. B. M. Diversidade metabólica em solo tratado com biossólidos. 2001. 65 p.
+Dissertação (Mestrado em Agronomia) – Universidade de São Paulo, Piracicaba, 2001.
+
+MAURÍCIO. T. São Paulo não trata adequadamente quase 40% de seu esgoto. Portal Tratamento
+de Água, 2018. Disponível em: https://www.tratamentodeagua.com.br/sao-paulo-esgoto/. Acesso
+em: 09 out. 2019.
+
+MAUSA. Filtro horizontal de esteiras (prensa desaguadora). Disponível
+http://www.mausa.com.br/?pagina=produtos-detalhes&id=15. Acesso em: 20 ago. 2019.
+
+em:
+
+METCALF & EDDY. Wastewater engineering: treatment, disposal and reuse. 4. Ed. Nova York:
+McGraw Hill, 1991. 1819 p.
+
+MIKI, M. K. Hidrólise do lodo em digestores anaeróbios mesofílicos: otimização global na
+recuperação de recursos. In: 29º CONGRESSO NACIONAL DE SANEAMENTO E MEIO
+AMBIENTE, 2018, p. 1-20. São Paulo, 18 de setembro. Disponível em:
+https://www.tratamentodeagua.com.br/wp-content/uploads/2019/04/9811.pdf. Acesso em: 08 nov.
+2019.
+
+MINISTÉRIO
+DO
+MEIO
+AMBIENTE.
+Resíduos
+sólidos.
+Disponível
+https://www.mma.gov.br/mma-em-numeros/residuos-solidos. Acesso em: 09 out. 2019.
+
+em:
+
+MIRANDA, G. P. Modelagem e simulação de reatores de leito fluidizado para gaseificação da
+biomassa. 2014. 111 p. Dissertação (Mestrado em Engenharia Química) – Universidade Federal
+do Rio de Janeiro, Rio de Janeiro, 2014.
+
+MOREIRA, S. F. et al. O lodo de ETE como alternativa para a recuperação do solo em áreas
+degradadas. Brazilian Applied Science Review, v.3, n. 3, p. 1564-1585, 2019.
+
+78
+
+OBLADEN, N. L., OBLADEN, N. T. R., BARROS, K. R. Guia para Elaboração de Projetos de
+Aterros Sanitários para Resíduos Sólidos Urbanos. Série de Publicações Temáticas do CREAPR,
+v.
+2,
+2016.
+Disponível
+em:
+https://www.crea-pr.org.br/ws/wpcontent/uploads/2016/12/Publicações-Temáticas-Guia-para-Elaboração-de-Projetos-de-AterrosSanitários-para-Resíduos-Sólidos-Urbanos-Volume-II.pdf. Acesso em: 11 out. 2019.
+
+OLIVEIRA, C. M. R. Aplicabilidade de sistemas simplificados para estações de tratamento de
+esgoto de cidades de pequeno porte. 2014. 80 p. Dissertação (Título de Engenheiro Ambiental e
+Sanitarista) – Universidade Federal de Juiz de Fora, Juiz de Fora, 2014.
+
+OLIVEIRA, D. V. M., JUNIOR, I. V., PIVELI, R. P. Avaliação comparativa entre custos dos
+processos MBBR/IFAS e lodo ativado para o tratamento de esgoto sanitário. Revista DAE, n. 193,
+p. 46-55, 2013.
+
+PARODI, F. A., SÁNCHEZ, C. G. Aspectos da co-gaseificação de resíduos agroindustriais e
+municipais. In: ENCONTRO DE ENERGIA NO MEIO RURAL, 4., 2002, Campinas.
+Disponível
+em:
+http://www.proceedings.scielo.br/scielo.php?script=sci_arttext&pid=MSC000000002200200010
+0023&lng=pt&nrm=iso. Acesso em 06 out. 2019.
+
+PONTES, P. P. Reatores UASB aplicados ao tratamento combinado de esgotos sanitários e
+lodo excedente de filtro biológico percolador. 2003. 175 p. Dissertação (Doutorado em
+Saneamento, Meio Ambiente e Recursos Hídricos) – Universidade Federal de Minas Gerais, Belo
+Horizonte, 2003.
+
+PREFEITURA
+DE
+ALAMBARI.
+Dados
+do
+município.
+http://www.alambari.sp.gov.br/dados/. Acesso em: 14 abr. 2019.
+
+PREFEITURA DE SALTO. Perfil do setor de abastecimento.
+https://salto.sp.gov.br/?page_id=2127. Acesso em: 14 abr. 2019.
+
+Disponível
+
+em:
+
+Disponível
+
+em:
+
+PREFEITURA DE SOROCABA. Lei de acesso (e-SIC). 2019. Disponível
+http://leideacesso.etransparencia.com.br/sorocaba.prefeitura.sp/TDAPortalClient.aspx?413.
+Acesso em 17 mai. 2019.
+
+em:
+
+79
+
+PREFEITURA MUNICIPAL DE ANHEMBI. Nossa cidade. Disponível em:
+https://www.anhembi.sp.gov.br/portal/cidade/7/Informacoes-Gerais-do-Municipio. Acesso em: 14
+abr. 2019.
+
+PORTAL TRATAMENTO DE ÁGUA. Bag desidratador TECITEC. Disponível em:
+https://www.tratamentodeagua.com.br/produto/bag-desidratador-tecitec/. Acesso em: 09 out.
+2019.
+
+PROENÇA, H. C. et al. Inovação no tratamento de esgoto em sistema isolado: viabilidade da
+aplicação da tecnologia Cleartec® num condomínio privado. In: XVI SAFETY, HEALTH AND
+ENVIRONMENT WORLD CONGRESS, 2016, p. 14-19. Salvador, 24-27 de julho. Disponível
+em: https://copec.eu/congresses/shewc2016/proc/works/3.pdf. Acesso em: 05 ago. 2019.
+
+REDA, A. L. L. et al. Tratamento de esgoto independente em comunidade isolada: desempenho
+sustentável de ETE com unidade ClearTec® em condomínio da Região Metropolitana de São
+Paulo, Brasil. In: XVII SAFETY, HEALTH AND ENVIRONMENT WORLD CONGRESS,
+2017,
+p.
+50-54.
+Vila
+Real,
+Portugal,
+9-12
+julho.
+Disponível
+em:
+http://copec.eu/shewc2017/proc/works/11.pdf. Acesso em: 06 out. 2019.
+
+ROSA, A. P., CHERNICHARO, C. A. L., MELO, G. C. B. Contribuição para o aproveitamento
+energético do lodo de ETEs em processos térmicos. Revista DAE, v. 63, n. 198, p. 55-62, 2015.
+
+SAMPAIO, A. O. Afinal, queremos ou não viabilizar o uso agrícola do lodo produzido em estações
+de esgoto sanitário? Uma avaliação crítica da Resolução CONAMA 375. Revista DAE, n. 193, p.
+16-27, 2013.
+
+SANEAQUA. O que fazemos. Disponível em: https://www.saneaqua.com.br/seu-esgoto/. Acesso
+em: 08 out. 2019.
+
+SANESALTO. Funcionamento da estação de tratamento de esgoto Santa Isabel. Disponível
+em: http://www.sanesalto.com.br/servicos/tratamento-de-esgoto. Acesso em: 14 abr. 2019.
+
+SÃO PAULO. Assembleia Legislativa do Estado De São Paulo. Lei nº 12.300 de 16 de março de
+2006. Disponível em: https://www.al.sp.gov.br/repositorio/legislacao/lei/2006/lei-1230016.03.2006.html. Acesso em: 27 jul. 2019.
+
+80
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO (SAAE). Equipamentos para obra de
+ampliação da ETE Mário Araldo Candello prontos para serem instalados. Disponível em:
+https://www.saae.sp.gov.br/template-noticias-gerais-161/. Acesso em: 20 ago. 2019.
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO CERQUILHO (SAAEC). Estações de
+tratamento. Disponível em: http://www.saaec.com.br/esgoto/estacoes-de-tratamento/. Acesso em
+27 jul. 2019.
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO PORTO FELIZ (SAAE Porto Feliz). Estação
+de
+tratamento
+de
+esgoto.
+Disponível
+em:
+https://www.saaepfz.com.br/SAAE/web/Institucional/Default.aspx?id=R13031508501898&t=2.
+Acesso em 08 out. 2019.
+
+SILVEIRA, D. Brasil tem mais de 207 milhões de habitantes, segundo IBGE. G1, 2017. Disponível
+em:
+https://g1.globo.com/economia/noticia/brasil-tem-mais-de-207-milhoes-de-habitantessegundo-ibge.ghtml. Acesso em: 09 out. 2019.
+
+SISTEMA INTEGRADO DE GERENCIAMENTO DE RECURSOS HÍDRICOS DO ESTADO
+DE SÃO PAULO (SigRH). Apresentação. Fundação Agência da Bacia Hidrográfica dos rios
+Sorocaba e Médio Tietê. Disponível em: http://www.sigrh.sp.gov.br/fabhsmt/apresentacao. Acesso
+em: 03 fev. 2019.
+
+SISTEMA NACIONAL DE INFORMAÇÕES SOBRE SANEAMENTO (SNIS). Série histórica.
+2017. Disponível em: http://app4.cidades.gov.br/serieHistorica/. Acesso em 08 out. 2019.
+
+VERSIANI, B. M. Desempenho de um reator UASB submetido a diferentes condições
+operacionais tratando esgotos sanitários do campus da UFRJ. 2005. 78 p. Dissertação
+(Mestrado em Engenharia Civil) – Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2005.
+
+VIEIRA, G. E. G. et al. O processo de pirólise como alternativa para o aproveitamento do potencial
+energético de lodo de esgoto – uma revisão. Revista Liberato, v. 12, n. 17, p. 01-106, 2011.
+
+VON SPERLING, M. Princípios do tratamento biológico de águas residuárias: Introdução à
+qualidade das águas e ao tratamento de esgotos. 3. Ed. Belo Horizonte: UFMG, 2005. 452 p.
+
+81
+
+VON SPERLING, M. Princípios do tratamento biológico de águas residuárias: Lagoas de
+estabilização. 2 ed. Belo Horizonte: UFMG, 1986. 196 p.
+
+VON SPERLING, M. Princípios do tratamento biológico de águas residuárias: Lodos ativados.
+2 ed. Belo Horizonte: UFMG, 1997. 428 p.
+
+VON SPERLING, M. Princípios do tratamento biológico de águas residuárias: Princípios
+básicos do tratamento de esgotos. Belo Horizonte: UFMG, 1996. 211 p.
+
+ZILLI, R. P. Influência do tempo de retenção hidráulica e da velocidade superficial do ar no
+desempenho de um reator de leito móvel com biofilme (MBBR). 2013. 125 p. Dissertação
+(Mestrado em Engenharia Química) – Universidade Federal de Santa Catarina, Florianópolis,
+2013.
+
+82
+
+ANEXO I
+
+83
+
+84
+
+85
+
+ANEXO II
+
+86
+
+ANEXO III
+
+87
+
+

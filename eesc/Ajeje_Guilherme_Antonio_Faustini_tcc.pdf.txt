@@ -1,0 +1,3748 @@
+UNIVERSIDADE DE SÃO PAULO
+ESCOLA DE ENGENHARIA DE SÃO CARLOS
+DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+GUILHERME ANTONIO FAUSTINI AJEJE
+
+Fuzzy-FMEA:
+Uso da Lógica Fuzzy para Ponderação das Falhas no FMEA
+
+São Carlos
+2015
+
+1
+
+GUILHERME ANTONIO FAUSTINI AJEJE
+
+Fuzzy-FMEA:
+Uso da Lógica Fuzzy para Ponderação das Falhas no FMEA
+
+Monografia apresentada à
+Universidade de São Paulo para
+obtenção do título de Engenheiro
+de Produção
+
+Área de Concentração:
+Gestão da Qualidade
+
+Orientador: Prof. Dr.
+Luiz Cesar Ribeiro Carpinetti
+
+São Carlos
+2015
+
+2
+
+Resumo
+
+AJEJE, G. A. F. Fuzzy-FMEA: Uso da Lógica Fuzzy para Ponderação das Falhas no
+FMEA. Trabalho de Conclusão de Curso. Escola de Engenharia de São Carlos Universidade de São Paulo, São Carlos, 2015.
+
+O uso de ferramentas e métodos que auxiliem na identificação e melhore o
+atendimento dos requisitos dos clientes se torna cada vez mais importante no cenário
+global de intensa competição entre empresas. O desenvolvimento e, posterior,
+aprimoramento de tais ferramentas se tornam essenciais na busca de processos mais
+eficazes. Neste presente trabalho, alia-se o uso da lógica fuzzy ao FMEA para, assim,
+eliminar as fragilidades desta ferramenta. Para tal efeito, este trabalho realiza
+comparações entre um Sistema de Inferência Fuzzy-FMEA com o FMEA tradicional e,
+posteriormente, avalia os resultados obtidos. Como resultado, o Sistema de Inferência
+Fuzzy-FMEA apresenta vantagens e elimina algumas fragilidades que o FMEA
+tradicional apresenta, como por exemplo, situações em que o NPR não reflete o
+verdadeiro risco da falha. Portanto, o uso da lógica fuzzy aliado ao FMEA contribui para
+uma alocação de recursos para ações de correção mais eficaz, pois retorna melhores
+resultados em relação à incerteza de risco.
+
+Palavras-chave: FMEA. Lógica fuzzy. Inferência fuzzy. Fuzzy-FMEA.
+
+3
+
+Abstract
+
+AJEJE, G. A. F. Fuzzy-FMEA: Using the Fuzzy Logic for Pondering the Failures on
+FMEA. Graduation Work. Engineering School of São Carlos - University of São Paulo,
+São Carlos, 2015.
+
+The use of tools and methods that assists to identify and improve the customer
+service requirements becomes increasingly important in the global scenario of intense
+competition between companies. The development and, later, improvement of such
+tools become essential in the search for more effective processes. The goal of this
+monograph is to combine the use of fuzzy logic to the FMEA to eliminate the
+weaknesses of this tool. For this purpose, this monograph performs comparisons
+between a Fuzzy-FMEA Inference System, developed here, with the traditional FMEA
+and then evaluates the results. As a result, Fuzzy-FMEA Inference System has
+advantages and eliminates some traditional FMEA’s weaknesses, for example,
+situations in which the NPR does not reflect the real risk of failure. Therefore, the use of
+fuzzy logic combined with FMEA contributes to an allocation of resources more
+effective for corrective actions because it returns better results in relation to the risk of
+uncertainty.
+
+Keywords: FMEA. Fuzzy logic. Fuzzy Inference. Fuzzy-FMEA.
+
+4
+
+Lista de Figuras
+
+Figura 1 - Espiral do Progresso em Qualidade – Juran - Tóquio .................................. 12
+Figura 2 - Elementos da Gestão pela Qualidade Total ou TQM ................................... 14
+Figura 3 - Processo de Inferência Fuzzy ....................................................................... 22
+Figura 4 – Número Fuzzy Triangular ............................................................................. 23
+Figura 5 - Visão Geral do Sistema de Avaliação Crítica Fuzzy .................................... 25
+Figura 6 - Funções de Pertinência do Critério Severidade ............................................. 32
+Figura 7 - Funções de Pertinência do Critério Ocorrência ............................................. 33
+Figura 8 - Funções de Pertinência do Critério Detecção ................................................ 33
+Figura 9 - Funções de Pertinência do Número de Prioridade de Risco .......................... 34
+Figura 10 - Representação do Sistema de Inferência Fuzzy no fuzzyTECH ................. 39
+
+5
+
+Lista de Tabelas
+
+Tabela 1 - Pontuação de Severidade .............................................................................. 18
+Tabela 2 - Pontuação da Ocorrência por Probabilidade de Ocorrência .......................... 19
+Tabela 3 – Pontuação de Detecção ................................................................................ 19
+Tabela 4 - Variáveis de Entrada e Seus Termos Linguísticos ........................................ 30
+Tabela 5 - Variável de Saída e Seus Termos Linguísticos ............................................. 31
+Tabela 6 – Parâmetros Utilizados para as Variáveis de Entrada .................................... 32
+Tabela 7 - Parâmetros Utilizados para a Variável de Saída ........................................... 34
+Tabela 8 – Base de Regras .............................................................................................. 37
+Tabela 9 - FMEA do Motor (EESC – USP Formula) .................................................... 42
+Tabela 10 – Comparativo entre FMEA Tradicional e Fuzzy-FMEA (Caso 1) .............. 43
+Tabela 11 – FMEA de Pneu de Veículos Leves ............................................................. 46
+Tabela 12 – Comparativo entre FMEA Tradicional e Fuzzy-FMEA (Caso 2) .............. 47
+
+6
+
+Sumário
+1.
+
+Introdução.................................................................................................................. 8
+1.1.
+
+Contextualização e Justificativa ......................................................................... 8
+
+1.2.
+
+Objetivo ........................................................................................................... 10
+
+1.3.
+
+Método de Desenvolvimento ........................................................................... 10
+
+2.
+
+Revisão Bibliográfica .............................................................................................. 11
+
+2.1.
+
+Gestão da Qualidade ............................................................................................ 11
+
+2.1.1.
+
+Contextualização do Atual Papel da Gestão da Qualidade .......................... 11
+
+2.1.2.
+
+Evolução da Gestão da Qualidade ................................................................ 12
+
+2.2.
+
+Análise dos Modos e Efeitos de Falha (FMEA) .................................................. 15
+
+2.2.1.
+
+Contextualização do Uso do FMEA............................................................. 15
+
+2.2.2.
+
+Visão Geral do FMEA.................................................................................. 16
+
+2.2.3.
+
+Número de Prioridade de Risco (NPR) ........................................................ 17
+
+2.2.3.1.
+
+Severidade de Falha .............................................................................. 18
+
+2.2.3.2.
+
+Ocorrência de Falha .............................................................................. 18
+
+2.2.3.3.
+
+Detecção de Falha ................................................................................. 19
+
+2.2.4.
+2.3.
+
+3.
+
+4.
+
+Limitações do FMEA ................................................................................... 20
+
+Lógica Fuzzy ........................................................................................................ 21
+
+2.3.1.
+
+Contextualização do Uso da Lógica Fuzzy .................................................. 21
+
+2.3.2.
+
+Visão Geral da Lógica Fuzzy ....................................................................... 22
+
+2.3.3.
+
+Aplicação da Inferência Fuzzy ao FMEA .................................................... 25
+
+2.3.4.
+
+Benefícios do Uso da Lógica Fuzzy aliada ao FMEA.................................. 28
+
+Parametrização de um Sistema Fuzzy FMEA ......................................................... 30
+3.1.
+
+Definição das Variáveis de Entrada e Saída .................................................... 30
+
+3.2.
+
+Definição dos Termos Linguísticos ................................................................. 30
+
+3.3.
+
+Desenvolvimento do Sistema Fuzzy FMEA no fuzzyTECH ........................... 31
+
+3.3.1.
+
+Apresentação do fuzzyTECH ................................................................... 31
+
+3.3.2.
+
+Desenvolvimento das Funções de Pertinência.......................................... 31
+
+3.3.3.
+
+Desenvolvimento da Base de Regras........................................................ 35
+
+3.3.4.
+
+Definição dos Operadores Fuzzy do Processo de Inferência .................... 38
+
+3.3.5.
+
+Representação do Sistema de Inferência Fuzzy ........................................ 38
+
+Estudos de Caso e Resultados ................................................................................. 40
+4.1.
+
+Introdução ........................................................................................................ 40
+
+4.2.
+
+Primeiro Caso .................................................................................................. 40
+
+7
+
+4.2.1.
+
+Descrição do Primeiro Caso a Ser Estudado ............................................ 40
+
+4.2.2.
+
+Análise FMEA da EESC – USP Formula ................................................ 41
+
+4.2.3.
+
+Estudo Comparativo entre FMEA Tradicional e Fuzzy FMEA ............... 43
+
+4.3.
+
+Segundo Caso .................................................................................................. 45
+
+4.3.1.
+
+Descrição do Segundo Caso a Ser Estudado ............................................ 45
+
+4.3.2.
+
+Análise FMEA do Grupo de Gestão da Qualidade................................... 46
+
+4.3.3.
+
+Estudo Comparativo entre FMEA Tradicional e Fuzzy FMEA ............... 46
+
+5.
+
+Conclusão ................................................................................................................ 50
+
+6.
+
+Referências Bibliográficas ...................................................................................... 52
+
+8
+
+1. Introdução
+
+1.1. Contextualização e Justificativa
+O conceito de gestão da qualidade tem entre seus objetivos a melhoria dos
+atendimentos dos requisitos dos clientes. Saber e entender o que o cliente espera é de
+vital importância para uma empresa. Por isso, a procura por meios e ferramentas que
+auxiliem na identificação e, posterior, aprimoramento do atendimento desses requisitos
+torna-se importante no contexto de uma empresa.
+Segundo Oliveira (2004), “o cliente é a figura principal de todo processo
+organizacional”. Assim, faz-se necessário que as tarefas operacionais e decisões
+empresarias levem em consideração as expectativas e necessidades do consumidor e, até
+mesmo, tentem superá-las com o intuito de satisfazer completamente os requisitos dos
+clientes.
+Uma técnica bastante usada para minimizar o risco de não atendimento destes
+requisitos é o FMEA (“Failure Mode and Effect Analysis”, ou, em livre tradução para o
+português, Análise dos Modos e Efeitos de Falha). A análise FMEA consiste em uma
+abordagem caracterizada por passos que têm como objetivo principal a identificação e
+classificação, através do índice Número de Prioridade de Risco (NPR), de todas as
+falhas possíveis em um projeto, um processo de fabricação ou montagem, ou de um
+produto ou serviço. Segundo Stamatis (1995), o FMEA apresenta diversas aplicações,
+sendo elas:
+
+
+FMEA de Sistema – analisa sistemas e subsistemas nas fases iniciais de
+concepção e projeto. Através da interação dos sistemas e subsistemas, este tipo
+de aplicação enfoca os modos potencias de falha entre funções do sistema,
+derivadas de deficiências do sistema;
+
+
+
+FMEA de Projeto – analisa produtos antes de serem liberados para produção.
+Este tipo de aplicação enfoca os modos potenciais de falha causados por
+deficiências na fase de projeto do produto;
+
+
+
+FMEA de Processo – analisa os processos de fabricação e montagem. Este tipo
+de aplicação enfoca os modos potenciais de falha causados pelas deficiências
+nos processos de fabricação e/ou de montagem;
+
+9
+
+
+
+FMEA de Serviço – analisa os serviços utilizados para atingir o cliente. Este tipo
+de aplicação enfoca os modos de falha causados pelas deficiências do sistema ou
+processo.
+Porém, apesar do FMEA estar presente no meio empresarial de hoje, existe uma
+
+dificuldade em determinar com precisão a ocorrência de falhas. Além disso, a análise
+FMEA não leva em consideração as interrelações entre os diversos modos de falha
+identificados. Assim, esta técnica apresenta algumas fragilidades:
+
+
+Por simplificação, os fatores ocorrência, severidade e detecção da falha
+apresentam a mesma ponderação na avaliação (CHANG et al. 2010* apud
+KUMRU et al., 2013). Ou seja, a interrelação entre os fatores não é considerada;
+
+
+
+Os números de prioridade de risco apresentam muitos valores duplicados
+(CHANG et al., 2010 apud KUMRU et al., 2013). Com isso, a designação de
+recursos para ações de correção pode ser efetuada de forma errônea, visto que as
+implicações de risco de cada modo de falha podem ser totalmente diferentes;
+
+
+
+O índice Número de Prioridade de Risco é derivado apenas de três fatores,
+principalmente em termos de segurança, e não leva em consideração as relações
+indiretas entre componentes (CHANG et al., 2010 apud KUMRU et al., 2013);
+
+
+
+A atribuição de notas entre 1 e 10 para diferentes fatores a partir da opinião de
+analistas pode causar problemas, visto que precisam se basear em dados
+escassos e não confiáveis (CHANG et al., 2010 apud KUMRU et al., 2013).
+
+Posto isso, a fim de diminuir os efeitos causados no cálculo do Número de
+Prioridade de Risco a partir de notas de julgamento estritamente subjetivo, este presente
+estudo adota o uso da lógica fuzzy. Com a utilização desta ferramenta, é possível criar
+modelos matemáticos que contemplem problemas que apresentam um grande grau de
+incerteza e que não desconsideram aspectos algumas vezes ignorados na aplicação de
+lógicas tradicionais (AGUADO et al., 2010). Assim, o uso da lógica fuzzy permite
+reduzir essas fragilidades e ajudar na tomada de decisões caracterizadas por
+informações imprecisas.
+
+*
+
+CHANG, K.-H.; CHENG, C.-H. A Risk Assessment Methodology Using Intuitionistic Fuzzy
+Set in FMEA. International Journal of Systems Science, 2010.
+
+10
+
+1.2. Objetivo
+Estudar e implementar o Fuzzy FMEA para priorização de falhas e avaliar os
+resultados da aplicação em comparação com o FMEA tradicional.
+
+1.3. Método de Desenvolvimento
+O desenvolvimento do trabalho foi feito segundo as etapas e atividades listadas a
+seguir:
+
+
+Revisão bibliográfica;
+
+
+
+Desenvolvimento do sistema Fuzzy FMEA: definição das variáveis linguísticas;
+
+
+
+Levantamento da opinião de especialistas para a definição das regras de
+inferência;
+
+
+
+Implementação do Fuzzy FMEA usando o programa FuzzyTech;
+
+
+
+Avaliação dos resultados e comparação dos resultados com o FMEA tradicional;
+
+
+
+Discussão e conclusão.
+
+11
+
+2. Revisão Bibliográfica
+
+2.1. Gestão da Qualidade
+
+2.1.1. Contextualização do Atual Papel da Gestão da Qualidade
+Com o atual cenário global de intensa competição entre empresas e diminuição
+do crescimento econômico, as transformações tanto na área de qualidade, quanto na área
+de produtividade, fazem-se necessárias e extremamente importantes. Isto é, a
+sobrevivência de uma empresa passa pela consolidação da qualidade de seus produtos e
+serviços. Esse panorama se deve ao fato, também, de que os clientes passaram a exigir
+maior qualidade nos produtos e serviços a um preço menor. Ou seja, o desejo e a
+opinião dos clientes se tornou fundamental nas organizações e fator chave na
+competição empresarial (BOARIN PINTO et al., 2006).
+Aliado a esse fato, a gestão da qualidade assume papel importante nas empresas
+e no cenário econômico mundial. Segundo Toledo (1997), a gestão da qualidade é
+definida como “a abordagem adotada e o conjunto de práticas utilizadas para obter, de
+forma eficiente e eficaz, a qualidade pretendida pelo produto”. Ou seja, são atividades
+com o objetivo de melhorar os produtos e/ou serviços visando atingir a satisfação do
+cliente. De acordo com Slack (1999), a gestão da qualidade constitui as operações
+produtivas das empresas que incidem diretamente nas atividades de planejamento,
+controle e melhoria.
+A gestão da qualidade é vista como uma estratégia competitiva que têm como
+objetivo conquistar mercados e reduzir desperdícios. Para o primeiro fator, é importante
+que se atenda aos requisitos dos clientes. Com o atendimento desses requisitos, os
+clientes ficarão satisfeitos e, consequentemente, aumentara-se o faturamento, a
+reputação da empresa, o número de pedidos, os empregos e a remuneração dos
+empregados. Já com relação ao segundo fator, é importante reduzir os desperdícios e os
+custos de não qualidade. Assim, com menos desperdícios e menores custos, melhores
+serão os resultados e mais competitiva se tornará a empresa (CARPINETTI et al.,
+2011).
+
+12
+
+2.1.2. Evolução da Gestão da Qualidade
+Ao longo do século XX, a gestão da qualidade passou por importantes
+transformações, as quais podem ser representadas por quatro estágios marcantes: a
+inspeção do produto, o controle do processo, os sistemas de garantia da qualidade e a
+gestão da qualidade total (ou TQM, do inglês Total Quality Management). Os dois
+últimos estágios são resultados importantes dessa evolução, e vêm sendo amplamente
+usados por grande parte das organizações no Brasil e no exterior (CARPINETTI et al.,
+2011).
+Até a década de 50, a gestão da qualidade tinha como objetivo apenas garantir a
+conformidade dos resultados com as especificações através da inspeção e controle dos
+resultados dos processos de fabricação, ou seja, era limitada ao processo de fabricação.
+Porém, nas últimas décadas, a gestão da qualidade ampliou o seu contexto para toda a
+organização, acrescendo-se o início e o fim do ciclo de produção. Uma importante
+contribuição para tal fato foi o trabalho de Juran, o qual percebeu que a adequação do
+produto ao uso dependia de várias atividades, nomeadas por ele de função qualidade, ao
+longo do ciclo produtivo de um produto, que se realizadas levariam ao espiral do
+progresso (CARPINETTI et al., 2011). O espiral do progresso é representado abaixo:
+
+Figura 1 - Espiral do Progresso em Qualidade – Juran - Tóquio (HEGEDUS, 2004)
+
+13
+
+Além de Juran, tivemos importantes contribuições de Deming. Através dos 14
+pontos de Deming, o autor enfatiza a importância de mudar a cultura organizacional e
+os princípios administrativos e de gestão de recursos humanos da época, através da
+liderança, do comprometimento e da capacitação para a qualidade. Outra contribuição
+desse importante guru da qualidade foi o Ciclo PDCA, o qual tem como objetivo de
+conduzir atividades de melhoria contínua de forma cíclica e representada por quatro
+fases: planejar (plan), executar (do), avaliar (check) e agir (act) para melhoria
+(CARPINETTI et al., 2011).
+O desempenho da indústria japonesa traduzido em satisfação dos clientes quanto
+à qualidade do produto demonstrou a possibilidade de usar a qualidade como vantagem
+competitiva e impulsionou um movimento de gestão da qualidade como estratégia
+competitiva. O processo de melhoria contínua se torna inevitável nesse cenário, visto
+que com a melhoria de um produto por parte de uma empresa instiga os seus
+concorrentes a melhorar também. A melhoria do produto se dá necessariamente pela
+melhoria dos processos e de aspectos importantes da qualidade. Por sua vez, os
+processos
+
+de
+
+melhoria
+
+contínua
+
+de
+
+produtos
+
+e
+
+processos
+
+dependem
+
+do
+
+comprometimento da alta gerência e do capacitação e envolvimento dos funcionários
+para a melhoria (CARPINETTI et al., 2011).
+Segundo Carpinetti et al. (2011), essas afirmações dão base de sustentação para
+os princípios fundamentais da gestão da qualidade total:
+
+
+Foco no cliente e qualidade em primeiro lugar;
+
+
+
+Melhoria contínua de produtos e processos;
+
+
+
+Envolvimento, comprometimento e desenvolvimento dos recursos humanos.
+
+Segundo Crosby (1998), a Gestão pela Qualidade Total (ou do inglês, TQM)
+significa criar de forma intencional uma cultura organizacional que permita todas as
+transações serem perfeitamente entendidas e corretamente realizadas, onde os
+relacionamentos entre fornecedores, funcionários e clientes são bem-sucedidos.
+Conforme Carpinetti et al. (2011), o TQM é visto como uma estratégia de negócios de
+modo a maximizar a competitividade de uma empresa através de um conjunto de
+princípios de gestão, métodos e ferramentas de gestão da qualidade, como demonstrado
+na figura 2:
+
+14
+
+Figura 2 - Elementos da Gestão pela Qualidade Total ou TQM (CARPINETTI et al., 2011)
+
+15
+
+2.2. Análise dos Modos e Efeitos de Falha (FMEA)
+
+2.2.1. Contextualização do Uso do FMEA
+A manufatura competitiva, em um mercado global dinâmico, se estabelece
+através de um crescimento sustentável e de ganhos através da concepção da fidelidade
+do cliente pela criação de produtos de alto valor agregado. Para se manterem
+competitivas em um ambiente altamente competitivo, as empresas buscam o baixo custo
+e a alta qualidade em seus produtos. Os projetistas de produtos devem possuir um alto
+padrão de conhecimento e experiência, pois o projeto de um produto exige um
+conhecimento intensivo e a interação entre diversos parâmetros (CHIN et al., 2008).
+Segundo Chin et al. (2008) o projeto de novos produtos é amplamente
+dependente da experiência humana, das ferramentas, de engenheiros, como o de
+produção, os quais devem ter uma experiência ampla e conhecimentos específicos nessa
+área. Porém, há uma escassez de projetistas e engenheiros experientes que vai de
+encontro com a crescente demanda nas indústrias. Por isso, muitos produtos têm seus
+projetos alterados durante as fases de projeto, fabricação e produção de ferramentas, a
+fim de atender os requisitos de manufaturabilidade de ferramentas e economia de
+produção. Esses problemas levam a longos lead times e a altos custos de mudança de
+projeto. Para competirem nesse cenário, as empresas devem desenvolver produtos com
+baixo custo, mas com alta qualidade que sejam confiáveis durante o seu ciclo de vida.
+A qualidade e a confiabilidade de um produto são essenciais para o desempenho
+funcional do produto final. Com o intuito de satisfazer os requisitos de confiabilidade
+do produto, a técnica FMEA é usada na fase inicial do projeto do produto. O uso do
+FMEA vem crescendo no âmbito de produtos de alto valor agregado, como por exemplo
+na indústria automotiva. O uso dessa técnica tem como objetivo identificar e analisar as
+possíveis falhas do produto ou processo, como também os seus efeitos, resultando em
+ações que podem ser usadas para eliminar ou reduzir a chance que essas potenciais
+falhas ocorram. É uma técnica analítica formalizada, a qual lista todas as potenciais
+fontes de falhas e atribui um peso de acordo com a severidade da consequência de cada
+falha. Ou seja, o FMEA é usado para assegurar que todos os modos de falha no projeto
+do produto foram considerados e avaliados a fim de reduzi-los, ou até mesmo eliminálos. Todavia, as dificuldades do uso dessa técnica são geralmente lidar com as
+
+16
+
+interrelações entre os diversos modos de falha, que possuem informações incertas,
+limitadas e até mesmo imprecisas quando o FMEA é aplicado na fase de projeto
+conceitual do produto (CHIN et al., 2008).
+Segundo Besterfield et al. (2003* apud KUMRU et al., 2013) o FMEA é uma
+técnica que combina a experiência das pessoas e a tecnologia para identificar modos de
+falha previsíveis em um produto ou processo e que planeja a eliminação destes. Essa
+ferramenta é amplamente usada nas indústrias manufatureiras em várias fases do ciclo
+de vida de um produto. Recentemente, o seu uso está crescendo também na indústria de
+serviços. Um exemplo disso é o uso dessa técnica no processo de compras de um
+hospital público como abordado no artigo “Fuzzy FMEA Application to Improve
+Purchasing Process in a Public Hospital” (KUMRU, 2013).
+
+2.2.2. Visão Geral do FMEA
+A técnica FMEA fornece um quadro com a análises das causas e efeitos das
+potenciais falhas de um produto. A equipe responsável pela construção do FMEA deve
+ser formada por profissionais de várias áreas, como por exemplo, processo, produção,
+projeto e qualidade, para que seja feita uma análise minuciosa de todos as relações entre
+os diversos modos de falha, efeitos, causas, controles utilizados e ações recomendadas.
+Cada um dos modos de falha identificados nessa técnica é analisado de acordo com três
+parâmetros, são eles: severidade, probabilidade de ocorrência e dificuldade de detecção.
+A multiplicação dos três parâmetros (Severidade (S) x Ocorrência (O) x Detecção (D))
+retorna um número chamado de Número de Prioridade de Risco (RPN, no inglês ou
+NPR, no português). O NPR auxilia a equipe de desenvolvimento de produto a
+identificar as partes ou processos que precisam ser priorizados através de ações de
+melhoria. Assim, as ações serão priorizadas naqueles parâmetros que excederam um
+limite preestabelecido ou, em alguns casos, para o maior NPR identificado,
+independente de um limiar (CHIN et al., 2008).
+Ainda segundo Chin et al. (2008), determinar com precisão a probabilidade de
+ocorrência de uma falha, muitas vezes, pode ser difícil, ou até mesmo impossível. Para
+*
+
+BESTERFIELD, D. H.; BESTERFIELD, G. H.; BESTERFIELD-M, C.; BESTERFIELD-S,
+M. Total Quality Management. Pearson Education, New Jersey, 2003.
+
+17
+
+isso, algumas informações na análise FMEA são expressas em termos linguísticos,
+como por exemplo, “provável”, “importante”, “muito alto”, entre outros. Alguns
+componentes ou sistemas degradam ao longo do tempo e possuem vários estados.
+Assim, os estados também podem ser avaliados de forma subjetiva e qualitativa em
+forma de linguagem natural, como “confiabilidade”, “degradação de performance” e
+“segurança”. É sempre difícil avaliar essas variáveis linguísticas de forma objetiva.
+Além disso, a interdependência entre os diversos modos de falha e efeito, no mesmo
+nível e em diferentes níveis da estrutura hierárquica do produto, não são considerados.
+A combinação de várias avaliações qualitativas desses modos de falha se torna
+improvável e difícil de se obter a distribuição de probabilidade quando eles ocorrem
+simultaneamente. Com isso, a necessidade de equipes experientes e diversificadas se
+tornam essenciais nesse processo, o que leva a altos custos e impede a aplicação do
+FMEA em um escopo mais amplo.
+
+2.2.3. Número de Prioridade de Risco (NPR)
+O FMEA tradicional usa o número de prioridade de risco (NPR, ou no inglês
+RPN) para avaliar o nível de risco de um componente ou processo. O NPR é obtido a
+partir da multiplicação de três fatores (equação 1), que são eles: a severidade da falha
+(S), a probabilidade de ocorrência (O) e a probabilidade de não detecção da falha (D),
+ou seja:
+𝑁𝑃𝑅 = 𝑆 × 𝑂 × 𝐷
+
+(1)
+
+Geralmente, a análise é feita através da atribuição de números entre 1 e 10,
+sendo 1 o melhor caso e 10 o pior caso, para cada um dos parâmetros (Severidade,
+Ocorrência e Detecção).
+No FMEA tradicional, o sistema de classificação NPR é usado para avaliar o
+nível de risco das falhas, para classificar as falhas e, assim, priorizar ações a serem
+tomadas (KUMRU et al., 2013).
+
+18
+
+2.2.3.1.
+
+Severidade de Falha
+
+Segundo Araújo (2008), “o índice Severidade (S) é um indicador do impacto do
+efeito que um modo de potencial trará aos consumidores e à própria empresa, caso esta
+falha ocorra”.
+Como dito anteriormente, os índices são avaliados com notas de 1 a 10. Existem
+diversas parametrizações desses valores. A tabela 1 demonstra um exemplo de
+parametrização:
+Severidade
+Nenhuma
+Muito Desprezível
+Desprezível
+Pequena
+Moderada
+Significante
+Grande
+Extrema
+Séria
+Catastrófica
+
+Pontuação
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Tabela 1 - Pontuação de Severidade (TERNINKO, 2003* apud AGUIAR et al., 2009)
+*
+
+2.2.3.2.
+
+Ocorrência de Falha
+
+De acordo com Araújo (2008) “o índice Ocorrência é utilizado para identificar a
+frequência com que uma falha ocorre para cada uma das causas”. Este índice pode ser
+representado por sua confiabilidade matemática, através das frequências previstas ou
+usar um número acumulativo de falhas por 100 ou 1000 componentes sobre a vida do
+produto em questão.
+A seguir temos um exemplo de parametrização do índice de Ocorrência
+demonstrado em uma tabela:
+
+*
+
+TERNINKO, J. Reability / Mistake-proofing Using Failure Mode and Effect Analysis
+
+(FMEA). ASQ's Annual Quality Congress, 2003.
+
+19
+
+Critério
+Chance Remota
+Baixa Razão de Falha
+Moderada Razão de Falha
+
+Alta Razão de Falha
+Muito Alta Razão de Falha
+Catastrófica
+
+Pontuação
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Razão da Possibilidade de Ocorrência da Falha
+0
+1/20000
+1/10000
+1/2000
+1/1000
+1/200
+1/100
+1/20
+1/10
+1/2
+
+Tabela 2 - Pontuação da Ocorrência por Probabilidade de Ocorrência
+(CHANG et al., 2001* apud AGUIAR et al., 2009)
+*
+
+2.2.3.3.
+
+Detecção de Falha
+
+Já com relação ao índice detecção da falha, Araújo (2008) o caracteriza como a
+“habilidade de testes e de inspeções de planejamento em remover os defeitos ou em
+detectar tais modos de falhas”.
+Um exemplo de parametrização deste índice é representado na tabela 3:
+Detecção
+Absolutamente Incerta
+Muito Remota
+Remota
+Muito Baixa
+Baixa
+Moderada
+Moderadamente Alta
+Alta
+Muito Alta
+Quase Certa
+
+Probabilidade de Detecção da Causa da Falha
+A manutenção não detecta a causa da falha potencial, ou não
+existe manutenção
+Chance muito remota de se detectar a causa da falha
+Chance remota de se detectar a causa da falha
+Chance muito baixa de se detectar a causa da falha
+Chance baixa de se detectar a causa da falha
+Moderada chance de se detectar a causa da falha
+Moderadamente alta a chance de se detectar a causa da falha
+Chance alta de se detectar a causa da falha
+Chance muito alta de se detectar a causa da falha
+A manutenção quase certamente detectará a causa da falha
+
+Pontuação
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Tabela 3 – Pontuação de Detecção (LEAL et al., 2005** apud AGUIAR et al., 2009)
+**
+
+*
+
+CHANG, C. L.; LIU, P. H.; WEI, C. C. Failure mode and effects analysis using grey theory.
+Integrated Manufacturing systems. v. 12, 2001.
+**
+
+LEAL, F.; PINHO, A. F.; ALMEIDA, D. A. Análise de falhas através da aplicação do
+FMEA e da teoria Grey. XXV Encontro Nacional de Engenharia de Produção - Porto Alegre,
+RS, 2005.
+
+20
+
+2.2.4. Limitações do FMEA
+Como citado anteriormente, a dificuldade em determinar com precisão a
+ocorrência de uma falha e a não consideração das interrelações entre os diversos modos
+de falha em uma análise FMEA está entre as principais críticas a esta ferramenta. A
+seguir enumera-se algumas críticas ao FMEA:
+- Por simplificação, os três fatores possuem a mesma ponderação na avaliação
+(CHANG et al., 2010 apud KUMRU et al., 2013). A interrelação entre os fatores não é
+considerada. Ou seja, nessa técnica assume-se que os três fatores são igualmente
+importantes. Isto não condiz com uma aplicação prática do processo FMEA (PILLAY et
+al., 2003* apud KUMRU et al., 2013);
+- Os elementos NPR têm muitos números duplicados (CHANG et al., 2010 apud
+KUMRU et al., 2013). O método que a análise FMEA usa para se chegar à classificação
+de risco é criticamente debatida. O objetivo da classificação de risco é atribuir os
+recursos limitados para os itens com riscos mais graves. É comum encontrar valores
+NPR iguais, o que levaria a uma análise errônea, pois a implicação do risco pode ser
+totalmente diferente. Por exemplo, considere dois eventos com os valores 3, 5, 2 e 2, 3,
+5, respectivamente para Severidade, Ocorrência e Detecção. Nos dois casos o NPR será
+o mesmo, 30, no entanto, as implicações desses eventos não necessariamente serão as
+mesmas. Isto pode implicar em desperdício de recursos e tempo ou até mesmo um
+evento com alto grau de risco passar despercebido (PILLAY et al., 2003 apud KUMRU
+et al., 2013);
+- A escala NPR possui algumas propriedades estatísticas não intuitivas. Ela é
+derivada apenas de três fatores, principalmente em termos de segurança. Além disso, o
+método NPR convencional não considera as relações indiretas entre componentes
+(CHANG et al., 2010 apud KUMRU et al., 2013);
+Ao realizar um FMEA com fins de avaliar a segurança, não se deve forçar a
+precisão onde os dados são escassos e não confiáveis (CHANG et al., 2010 apud
+KUMRU et al., 2013). Ou seja, pedir a um analista ou especialista para atribuir notas
+entre 1 e 10 para diferentes fatores considerados produziria uma impressão falsa e irreal.
+
+*
+
+PILLAY, A.; WANG, J. Modified Failure Mode and Effects Analysis Using Approximate
+Reasoning. Reliability and System Safety, 2003.
+
+21
+
+Embora isso simplifique o cálculo, pode-se causar problemas. As relações entre
+probabilidades e fatores são diferentes (linear ou não linear) (KUMRU et al., 2013).
+
+2.3. Lógica Fuzzy
+2.3.1. Contextualização do Uso da Lógica Fuzzy
+De acordo com Chin et al. (2008), na fase do projeto conceitual, os
+desenvolvedores de produto enfrentam diversas incertezas com relação aos requisitos e
+atributos, tais como, materiais, características, tamanhos e performance funcional que o
+novo produto terá. As decisões tomadas nessa fase têm impacto significativo no custo
+do produto final. Quando Venter et al. (2008) aplicou a teoria dos conjuntos fuzzy para
+modelar a incerteza em projeto de aeronaves, ele descobriu que essa técnica era mais
+eficiente do que a de projeto determinista tradicional (em livre tradução de “traditional
+deterministic design”) que usa um fator de correção para tratar a incerteza. Já Xu et al.
+(2002), apresentou um método baseado em lógica fuzzy para resolver a questão das
+interdependências entre os vários modos de falha com informações imprecisas e incertas
+derivadas da técnica de análise FMEA.
+Muitas decisões e resoluções de problemas tornam-se difíceis de serem
+compreendidas qualitativamente. Porém, as pessoas obtêm sucesso usando o
+conhecimento impreciso, ao invés do preciso. A teoria dos conjuntos fuzzy, introduzido
+por Lotfi Zadeh (1965), assemelha-se à razão humana na utilização de informações e
+incerteza para gerar decisões aproximadas. Essa teoria deu base para o desenvolvimento
+da lógica fuzzy, através da representação matemática da incerteza e imprecisão e de
+ferramentas que tratam a imprecisão intrínseca em muitos problemas. Assim, é notável
+o potencial do uso da teoria dos conjuntos fuzzy para melhorar a performance do FMEA
+(CHIN et al., 2008).
+
+22
+
+2.3.2. Visão Geral da Lógica Fuzzy
+A lógica fuzzy é derivada da teoria dos conjuntos fuzzy com o objetivo de lidar
+com o raciocínio aproximado. As variáveis na lógica fuzzy podem assumir valores entre
+0 e 1, incluindo o 0 e o 1. Ou seja, o grau de verdade de uma afirmação pode variar
+entre 0 e 1 (onde 1-verdade e 0-falso) como na lógica proposicional clássica. Assim, a
+lógica fuzzy fornece uma base para o raciocínio aproximado, isto é, um raciocínio que
+não é totalmente exato ou totalmente inexato. Logo, ela fornece um quadro mais realista
+para o raciocínio humano quando compara a lógica tradicional de dois valores
+(KUMRU et al., 2013).
+O termo “lógica fuzzy” surgiu a partir do desenvolvimento da teoria dos
+conjuntos fuzzy por Lotfi Zadeh (1965). Primeiro Zadeh propôs a teoria dos conjuntos
+fuzzy e, depois, estabeleceu a lógica fuzzy com base nos conjuntos fuzzy. O processo de
+inferência fuzzy é demonstrado na figura 3:
+
+Figura 3 - Processo de Inferência Fuzzy (KUMRU et al., 2013)
+
+Segundo Kumru et al. (2013), a inferência fuzzy possui um algoritmo que pode
+ser descrito nos seguintes passos:
+1. Definir as variáveis linguísticas e os termos (parametrização);
+2. Construir as funções de pertinência (parametrização);
+3. Construir a base de regras (parametrização);
+4. Converter os dados de entrada crisp para valores fuzzy usando as funções de
+pertinência (“fuzzificação”);
+5. Parametrizar as regras na base de regras (inferência);
+6. Combinar os resultados de cada regra (agregação);
+7. Converter os dados de saída para valores não-fuzzy (“defuzzificação”).
+As variáveis de entrada e saída do sistema são chamadas de variáveis
+linguísticas, pois seus valores são palavras ou frases em certo idioma e não valores
+numéricos. Geralmente, são decompostas em um conjunto de termos linguísticos.
+
+23
+
+As funções de pertinência são utilizadas nos passos de “fuzzificação” e
+“defuzzificação” de um sistema de lógica fuzzy, com o intuito de transformar os valores
+de entrada não-fuzzy em termos linguísticos e vice-versa. Assim, a função de pertinência
+é utilizada para quantificar um termo linguístico. Existem diferentes tipos de função de
+pertinência, são elas: triangular, trapezoidal, linear por parte, Gaussiana e singleton
+(KUMRU et al., 2013).
+De acordo com Kumru et al. (2013), o conceito da lógica fuzzy pode ser
+representado matematicamente da seguinte forma: Seja X um conjunto não vazio. Um
+conjunto fuzzy A em X é caracterizado pela função pertinência µx: X → [0,1] e µA(x) é
+interpretado como o grau de pertinência do elemento x no conjunto fuzzy Ã para cada x
+∈ X. Assim, Ã = ((u, µA(u)) / u ∈ X). Geralmente, usa-se Ã(x) em vez de µA(x). A
+família de todos os conjuntos fuzzy em X é denotada por F(X).
+Se X = (x1, ..., xn) é um conjunto finito e Ã é um conjunto fuzzy em X, então usase, geralmente, a seguinte notação:
+Ã=
+
+µ1
+µ𝑛
++ ⋯+
+𝑥1
+𝑥𝑛
+
+(2)
+
+Onde µ1/x1, i = 1, ..., n, significa que µ1 é o grau de pertinência de xi em Ã e o sinal de
+mais representa a união.
+Vamos exemplificar com uma função de pertinência triangular:
+µ(x)
+
+x
+
+Figura 4 – Número Fuzzy Triangular
+
+24
+
+O conjunto fuzzy Ã representado é chamado de número fuzzy triangular com
+centro m, largura esquerda l > 0 e largura direita u > 0 se a função de pertinência for da
+seguinte maneira:
+1 − (𝑚 − 𝑥)/𝑙
+Ã(x)={
+
+1−
+0
+
+𝑙−𝑥
+𝑢
+
+𝑠𝑒 𝑙 ≤ 𝑥 ≤ 𝑚
+
+𝑠𝑒 𝑚 ≤ 𝑥 ≤ 𝑢
+
+(3)
+
+𝑐𝑎𝑠𝑜 𝑐𝑜𝑛𝑡𝑟á𝑟𝑖𝑜
+
+E usamos a notação Ã = (l, m, u). Além disso, um número fuzzy triangular com
+centro em m pode ser visto como uma quantidade fuzzy “x aproximadamente igual a m”.
+Em um sistema de inferência fuzzy, uma base de regras é criada para controlar a
+variável de saída. Uma regra fuzzy é simplesmente uma regra “Se-Então”, que possui
+uma condição e consequência. Depois de avaliar o resultado de cada regra, os resultados
+devem ser combinados a fim de obter um resultado final. Este processo é chamado de
+inferência fuzzy. Os resultados podem ser combinados de diferentes maneiras: por
+máximo, por soma limitada ou por soma normalizada. Dependendo da forma do
+consequente, existem dois tipos principais de modelos fuzzy, segundo Babuška (2012*
+apud KUMRU et al., 2013), baseados em regras:
+1. Modelo fuzzy linguístico Mamdani: Tanto o antecedente como o consequente
+são preposições fuzzy;
+2. Modelo fuzzy Takagi-Sugeno: O antecedente é uma preposição fuzzy e o
+consequente é uma função polinomial crisp.
+A técnica de inferência mais usada em problemas de tomada de decisão é o
+Método Mamdani (MAMDANI, 1977).
+Depois da inferência, o resultado geral é um valor fuzzy. Este resultado deve ser
+“defuzzificado” para obter uma saída crisp final. A “defuzzificação” é feita
+considerando a forma da função de pertinência da variável de saída. Há diferentes tipos
+de operadores de “defuzzificação”, são eles: Centro de Gravidade (CG), Centro de
+Gravidade para Singletons, Centro de Área, Left Most Maximum e Right Most
+Maximum. Dentre essas técnicas, a mais utilizada é a do Centro de Gravidade. Esta
+técnica consiste em encontrar os pontos que cruzam a reta que divide a área em duas
+massas iguais.
+*
+
+BABUŠKA, R. Fuzzy System, Information and Control. 2010.
+
+25
+
+O método de “defuzzificação” do centroide encontra um ponto que representa o
+centro de gravidade do conjunto fuzzy Ã no intervalo (l,u).
+No problema a ser estudado, uma base de regras fuzzy tem como objetivo
+classificar as potenciais causas identificadas no FMEA, que teria os mesmos NPR’s,
+porém com diferentes aplicações de risco. Assim, a lógica fuzzy permite aprofundar a
+análise incluindo fatores de ponderação para os fatores Severidade, Ocorrência e
+Detecção com o uso regras de decisão.
+
+2.3.3. Aplicação da Inferência Fuzzy ao FMEA
+A figura 5 mostra uma visão global da proposta do sistema de avalição fuzzy
+FMEA, onde há três passos principais para realizar essa avaliação, são eles:
+“fuzzificação”, avaliação de regras e “defuzzificação”.
+
+Figura 5 - Visão Geral do Sistema de Avaliação Crítica Fuzzy (CHIN et al., 2008)
+
+26
+
+A seguir Chin et al. (2008) descreve a imagem explicando o passo a passo de
+cada etapa desse sistema:
+Primeiramente, o sistema utiliza variáveis linguísticas para descrever a
+severidade, probabilidade de ocorrência e a dificuldade de detecção. Em seguida, estas
+entradas são “fuzzificadas” para determinar o grau de pertinência de cada classe de
+entrada. O resultado, as chamadas entradas fuzzy, são avaliadas utilizando uma base de
+regras linguísticas e operações fuzzy para, assim, obter uma classificação do grau de
+risco do modo de falha e um grau de pertinência associado à classe de risco. Por fim, as
+saídas fuzzy são “defuzzificadas” para obter o nível de priorização para o modo de falha.
+O processo de “fuzzificação” converte a severidade, a probabilidade de
+ocorrência e a dificuldade de detecção em representações fuzzy que podem ser
+combinadas com as regras estabelecidas na base de regras. As escalas e as funções de
+pertinência identificam a gama de valores de entrada correspondentes a cada rótulo
+linguístico fuzzy.
+A base de regras descreve o grau de risco para cada combinação das variáveis de
+entrada. Essa base consiste nas interações entre os diversos modos de falha e os efeitos,
+que são representados na forma de regras fuzzy “Se-Então”. Tais regras, geralmente, são
+formuladas mais em termos linguísticos do que em numéricos. Essas regras “Se-Então”
+possuem duas partes: um antecedente, que é comparado com os inputs, e uma
+consequente, que é o resultado. Por exemplo, se uma regra fuzzy “Se-Então” tem a
+forma “se X é A então Y é B”, A e B são valores linguísticos definidos por conjuntos
+fuzzy nas gamas X e Y (universos de discurso). A parte “se X é A” é chamada de
+antecedente, enquanto que “então Y é B” é chamado de consequente. O antecedente
+retorna um único número (µÃ(x)) entre 0 e 1, já o consequente atribui a todo conjunto
+fuzzy B a variável de saída Y.
+Na prática, a imprecisão dos antecedentes elimina a necessidade de uma
+correspondência exata com as entradas. Se o antecedente é verdadeiro até certo grau de
+pertinência, então o consequente também é verdadeiro no mesmo grau. Isto é, cada
+regra é encontrada para ser uma função do grau em que seu antecedente corresponde nas
+entradas. Isso possibilita a combinação de várias avaliações qualitativas, podendo até
+várias regras serem ativadas ao mesmo tempo. Desta maneira, FMEA e as regras fuzzy,
+que descrevem as relações entre modos de falha e efeitos, podem ser combinados. Este
+
+27
+
+relacionamento impreciso fornece uma base para interpolação entre possíveis estados de
+entrada e minimiza o número de regras necessárias para descrever a relação entradasaída. Um exemplo de base de regras é mostrado a seguir:
+Se Severidade é “alta”, Ocorrência é “moderada” e Detecção é “baixa”, Então o
+risco é “muito importante”.
+Muitas vezes, a experiência e o conhecimento humano podem ser representados
+por meio das regras fuzzy “Se-Então”, o que justifica a importância de tais regras. Na
+análise de criticidade fuzzy, o sistema representa a seriedade de uma falha através da
+Severidade, a probabilidade de falha através da Ocorrência e o quão difícil é detectar a
+falha através da Detecção. Regras baseadas nesses tipos de variáveis linguísticas são
+mais expressivas e naturais do que quando comparadas com o NPR e com a criticidade
+dos cálculos numéricos. Além disso, as regras permitem combinar dados quantitativos,
+como a probabilidade de falha, com dados subjetivos e qualitativos (Severidade e
+Detecção) de uma maneira uniforme.
+O processo de inferência fuzzy usa a “inferência min-max” para calcular as
+conclusões da regra baseada nos valores de entrada do sistema. O resultado desse
+processo é chamado de “conclusão fuzzy”. O “valor verdade”, ou aplicabilidade, de uma
+regra é determinado a partir da conjunção de seus antecedentes. Por exemplo, se a
+conjunção é definida como “mínima”, então a avaliação de regra consiste em determinar
+o menor antecedente (mínimo), que é considerado o valor verdade da regra. Esse valor
+verdade será aplicado em todas as consequências da regra. Se um output fuzzy é
+consequência de mais de uma regra, ele é definido como valor verdade mais elevado
+(máximo) de todas as regras que o incluem como uma consequência. O resultado da
+avaliação da regra é um conjunto de conclusões fuzzy que refletem os efeitos de todas as
+regras cujo o valor verdade é maior que zero.
+O processo de “defuzzificação” cria um ranking da conclusão fuzzy que expressa
+o grau de risco do projeto, o que permite a priorização de ações corretivas e revisões do
+projeto. Este processo é necessário, pois decifra o significado da conclusão fuzzy e seus
+valores. Além disso, o processo de “defuzzificação” resolve conflitos entre diferentes
+resultados que podem ter surgidos durante a avaliação de regra.
+Muitos algoritmos de “defuzzificação” foram desenvolvidos, mas não existe um
+que seja o melhor para todas as aplicações. O algoritmo “centro de gravidade”, um dos
+
+28
+
+algoritmos mais usados, retorna a média ponderada dos valores de apoio que se
+apliquem a atingir seu valor máximo:
+∑𝑁
+𝑖=1 µ𝑖 (𝑥) . 𝑥𝑖
+𝐶𝐺 =
+∑𝑁
+𝑖=1 µ𝑖 (𝑥)
+
+(4)
+
+Onde:
+N = número de pontos de discretização do conjunto fuzzy de saída;
+xi = o valor de suporte em que a função de membro i atinge o seu valor máximo;
+µi(x) = o grau de pertinência da função;
+CG = o centro de gravidade das conclusões.
+
+2.3.4. Benefícios do Uso da Lógica Fuzzy aliada ao FMEA
+Segundo Kumru et al. (2013), as vantagens da utilização das regras fuzzy aliada
+com a análise FMEA são listadas a seguir:
+
+
+Fornece um método organizado que permite combinar conhecimento
+especializado e experiência em um estudo FMEA. A relação entre NPR e os
+parâmetros Severidade, Ocorrência e Detecção deixa de ser considerada linear,
+como no modelo convencional de NPR, para ser considerada uma relação não
+linear;
+
+
+
+O uso de termos linguísticos permite aos avaliadores atribuir valores mais
+significativos aos fatores considerados e, assim, melhorar a eficácia da análise
+FMEA. Isso acaba garantindo que eventos com baixo NPR não sejam
+esquecidos e analisados quando são abordados por prioridade de atenção;
+
+
+
+A flexibilidade de atribuir pesos aos fatores, fornece um meio específico de
+identificar pontos fracos nos componente e/ou sistemas (PILLAY et al., 2003
+apud KUMRU et al., 2013);
+
+
+
+As combinações dos fatores de entrada (O, S e D) são modeladas. Por exemplo,
+uma falha só terá um NPR elevado se esta possuir uma determinada combinação
+dos fatores O, S e D, que são descritas pelas regras Se-Então. Isto soluciona
+situações em que o NPR não reflete o verdadeiro risco da falha;
+
+29
+
+
+
+Técnicas de inferência fuzzy podem incorporar o conhecimento humano,
+especializado ou não, o qual a informação é descrita por afirmações vagas e
+imprecisas durante um processo de modelagem. O comportamento das técnicas
+de inferência fuzzy são expressos em uma linguagem na qual as pessoas
+consigam facilmente interpretá-las. Assim, os usuários do FMEA conseguem
+personalizar o modelo NPR de uma maneira simples e fácil (TAY et al., 2006*
+apud KUMRU et al., 2013).
+FMEA é uma técnica de avaliação de risco amplamente utilizada para identificar
+
+os possíveis modos de falha de um produto ou processo. A classificação das prioridades
+para ações corretiva, de acordo com os efeitos de cada falha, pode diminuir ou eliminar
+a chance de que a falha ocorra. No entanto, em uma análise FMEA convencional pode
+haver diversas dificuldades, como por exemplo, descrição subjetiva e qualitativa em
+linguagem comum, a importância relativa entre as classificações de risco, a diferença da
+representação de risco entre classificações iguais e o compartilhamento de
+conhecimentos entre a equipe de membros incumbidos do FMEA. Logo, a proposta de
+avaliação de risco com base na teoria fuzzy vem para lidar com essas dificuldades
+(KUMRU et al.,2013).
+
+*
+
+TAY, K.M.; LIM, C. P. Application of Fuzzy Inference Techniques to FMEA. Advances in
+
+Intelligent and Soft Computing, 2006.
+
+30
+
+3. Parametrização de um Sistema Fuzzy FMEA
+
+3.1. Definição das Variáveis de Entrada e Saída
+Por tratar-se de uma análise FMEA, os especialistas consultados (grupo
+composto pelo autor do presente trabalho, um professor doutor e um mestre no assunto
+em questão) determinaram que as variáveis de entrada (inputs) fossem igualmente
+definidas, à análise FMEA tradicional: Severidade, representando o impacto de um
+determinado modo de falha no componente ou processo em análise; Ocorrência,
+representando a frequência com que um modo de falha ocorre; e Detecção,
+representando a dificuldade em diagnosticar um modo de falha.
+A variável de saída em questão, será também igual à análise FMEA tradicional:
+NPR (Número de Prioridade de Risco), o qual determina o nível de risco que uma certa
+falha representa ao componente ou processo a serem analisados.
+
+3.2. Definição dos Termos Linguísticos
+A fim de elaborar um sistema fuzzy FMEA padrão, para que este sirva de base
+para diversas análises e facilite eventuais alterações de acordo com necessidades
+específicas de problemas, os especialistas parametrizaram as variáveis de entrada com o
+mesmo número e denominação de termos linguísticos. Assim, os inputs serão
+representados em termos linguísticos da seguinte forma:
+
+Tabela 4 - Variáveis de Entrada e Seus Termos Linguísticos
+
+Já com relação à variável de saída, o Número de Prioridade de Risco, foi
+determinado pelos especialistas que o ideal seria utilizar um número de termos maior
+
+31
+
+que o utilizado nos valores de entrada (5 termos linguísticos), a fim de obter-se uma
+análise mais eficaz e uma classificação bem distribuída ao longo da gama de possíveis
+valores para a variável em questão. Isso é justificado através de um número maior de
+resultados possíveis, que aumenta possibilidade de obter-se valores com diferenciações
+maiores e, assim, permitindo uma análise mais eficaz dos números obtidos de NPR no
+sistema elaborado. Portanto, os especialistas parametrizaram a variável de saída (NPR)
+com 7 termos linguísticos:
+
+Tabela 5 - Variável de Saída e Seus Termos Linguísticos
+
+3.3. Desenvolvimento do Sistema Fuzzy FMEA no fuzzyTECH
+
+3.3.1. Apresentação do fuzzyTECH
+A ferramenta escolhida para a implementação do sistema fuzzy FMEA a ser
+criado foi o fuzzyTECH, especificamente a versão fuzzyTECH 6.10b Professional
+Edition, com o a licença de uso fornecida pela Universidade de São Paulo para fins de
+estudo.
+Essa ferramenta apresenta uma interface gráfica bem intuitiva que estimula um
+processo de desenvolvimento rápido e eficiente do sistema fuzzy. Isto permite que o
+usuário possua uma flexibilidade para interagir com o sistema e buscar o
+desenvolvimento e implementação desde modelos mais simples até os mais complexos.
+
+3.3.2. Desenvolvimento das Funções de Pertinência
+As funções de pertinência das variáveis de entrada foram igualmente
+determinadas, tanto a morfologia dos números fuzzy quanto seus respectivos valores.
+Para todos os termos linguísticos, os especialistas parametrizaram as funções de
+
+32
+
+pertinência em números fuzzy triangulares por se adequarem melhor às características
+das variáveis em questão. Assim, as funções de pertinência com seus respectivos termos
+linguísticos e valores fuzzy foram definidas da seguinte forma:
+Critérios
+Severidade
+
+Ocorrência
+
+Detecção
+
+Muito Baixo
+
+Parâmetros Usados
+Números fuzzy triangulares
+Baixo
+Médio
+Alto
+
+Muito Alto
+
+lmb=mmb umb lb mb ub lm mm um la ma
+ua lma mma=uma
+1,00 3,25 1,00 3,25 5,50 3,25 5,50 7,75 5,50 7,75 10,00 7,75 10,00
+
+Muito Baixo
+
+Números fuzzy triangulares
+Baixo
+Médio
+Alto
+
+Muito Alto
+
+lmb=mmb umb lb mb ub lm mm um la ma
+ua lma mma=uma
+1,00 3,25 1,00 3,25 5,50 3,25 5,50 7,75 5,50 7,75 10,00 7,75 10,00
+
+Muito Baixo
+
+Números fuzzy triangulares
+Baixo
+Médio
+Alto
+
+Muito Alto
+
+lmb=mmb umb lb mb ub lm mm um la ma
+ua lma mma=uma
+1,00 3,25 1,00 3,25 5,50 3,25 5,50 7,75 5,50 7,75 10,00 7,75 10,00
+Tabela 6 – Parâmetros Utilizados para as Variáveis de Entrada
+
+A seguir estão representados a funções de pertinência desenvolvidas e
+apresentadas no software fuzzyTECH. A figura 6 ilustra as da variável Severidade:
+
+Muito Baixo
+
+Baixo
+
+Médio
+
+Alto
+
+A figura 7 ilustras as funções de pertinência da variável Ocorrência:
+Figura 6 - Funções de Pertinência do Critério Severidade
+
+Muito Alto
+
+33
+
+A figura 7 ilustra as funções de pertinência da variável Ocorrência:
+
+Muito Baixo
+
+Baixo
+
+Médio
+
+Alto
+
+Muito Alto
+
+Figura 7 - Funções de Pertinência do Critério Ocorrência
+
+A figura 8 ilustra as funções de pertinência da variável Detecção:
+
+Muito Baixo
+
+Baixo
+
+Médio
+
+Alto
+
+Figura 8 - Funções de Pertinência do Critério Detecção
+
+Muito Alto
+
+34
+
+Com relação a variável de saída, o Número de Prioridade de Risco (NPR), que
+tem como função classificar o risco de cada conjunto de critérios, foram adotadas 7
+funções de pertinência como explicado na subseção 3.2. Os especialistas optaram por
+funções de pertinência em números fuzzy triangulares simetricamente distribuídas ao
+longo dos valores possíveis, pois trata-se do modelo mais simples em uma análise e o
+que se adequa a um maior número de casos. As funções de pertinência podem assumir
+diferentes formas, assim, é necessário que haja uma análise prévia de qual forma se
+adequa melhor ao problema a ser analisado. Os valores assumidos variaram de 1 a 1000,
+com o intuito de comparar com o FMEA tradicional em uma análise posterior. Assim,
+as funções de pertinência com seus respectivos termos linguísticos e valores fuzzy foram
+definidas conforme a tabela 7:
+Muito Baixo
+lmb=mmb umb
+NPR
+
+1,00
+
+lb
+
+167,50
+
+1,00
+
+Números fuzzy triangulares
+Baixo
+Médio Baixo
+mb
+ub
+lmdb mmdb umdb
+167,50 334,00 167,50 334,00
+
+Médio Alto
+lmda
+mmda umda
+500,50
+
+la
+
+Alto
+ma
+
+ua
+
+lm
+
+500,50
+
+Médio
+mm
+um
+
+334,00 500,50 667,00
+
+Muito Alto
+lma mma=uma
+
+667,00 833,50 667,00 833,50 1000,00 833,50
+
+1000,00
+
+Tabela 7 - Parâmetros Utilizados para a Variável de Saída
+
+A seguir estão representados a funções de pertinência desenvolvidas e
+apresentadas no software fuzzyTECH para a variável de saída (NPR):
+
+Muito Baixo
+
+Baixo
+
+Médio Baixo
+
+Médio
+
+Médio Alto
+
+Alto
+
+Figura 9 - Funções de Pertinência do Número de Prioridade de Risco
+
+Muito Alto
+
+35
+
+3.3.3. Desenvolvimento da Base de Regras
+Depois de determinar as funções de pertinência para cada uma das variáveis do
+sistema, os especialistas consultados parametrizaram a base de regras de inferência, que
+segue abaixo:
+Regra
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+Se
+
+E
+
+Severidade
+MUITO BAIXO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+MUITO BAIXO
+MUITO BAIXO
+MÉDIO
+MUITO BAIXO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+BAIXO
+ALTO
+MUITO BAIXO
+MUITO BAIXO
+MUITO ALTO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+BAIXO
+MÉDIO
+MÉDIO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+BAIXO
+BAIXO
+ALTO
+ALTO
+MUITO BAIXO
+MÉDIO
+MÉDIO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+BAIXO
+
+Ocorrência
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+MUITO BAIXO
+MUITO BAIXO
+MÉDIO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+ALTO
+MUITO BAIXO
+BAIXO
+MUITO BAIXO
+MUITO BAIXO
+MUITO ALTO
+MUITO BAIXO
+BAIXO
+MÉDIO
+MUITO BAIXO
+MÉDIO
+MUITO BAIXO
+BAIXO
+BAIXO
+ALTO
+MUITO BAIXO
+BAIXO
+ALTO
+MUITO BAIXO
+BAIXO
+MÉDIO
+MUITO BAIXO
+MÉDIO
+BAIXO
+MUITO ALTO
+MUITO BAIXO
+MUITO ALTO
+
+E
+
+Operador
+
+Então
+
+Detecção
+Prod/Max
+NPR
+MUITO BAIXO
+=>
+MUITO BAIXO
+BAIXO
+=>
+MUITO BAIXO
+MUITO BAIXO
+=>
+MUITO BAIXO
+MUITO BAIXO
+=>
+MUITO BAIXO
+MÉDIO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+ALTO
+=>
+BAIXO
+BAIXO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+BAIXO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+MUITO ALTO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+MÉDIO
+=>
+BAIXO
+BAIXO
+=>
+BAIXO
+MÉDIO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+BAIXO
+=>
+BAIXO
+MUITO BAIXO
+=>
+BAIXO
+ALTO
+=>
+MÉDIO BAIXO
+BAIXO
+=>
+MÉDIO BAIXO
+ALTO
+=>
+MÉDIO BAIXO
+BAIXO
+=>
+MÉDIO BAIXO
+MUITO BAIXO
+=>
+MÉDIO BAIXO
+BAIXO
+=>
+MÉDIO BAIXO
+MUITO BAIXO
+=>
+MÉDIO BAIXO
+MÉDIO
+=>
+MÉDIO BAIXO
+MÉDIO
+=>
+MÉDIO BAIXO
+MUITO BAIXO
+=>
+MÉDIO BAIXO
+MUITO ALTO
+=>
+MÉDIO BAIXO
+BAIXO
+=>
+MÉDIO BAIXO
+MUITO ALTO
+=>
+MÉDIO BAIXO
+MUITO BAIXO
+=>
+MÉDIO BAIXO
+
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+
+MUITO ALTO
+MUITO ALTO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+BAIXO
+MÉDIO
+MÉDIO
+MÉDIO
+ALTO
+ALTO
+MUITO BAIXO
+MUITO BAIXO
+MÉDIO
+MÉDIO
+MUITO ALTO
+MUITO ALTO
+MUITO BAIXO
+BAIXO
+BAIXO
+ALTO
+ALTO
+ALTO
+BAIXO
+MÉDIO
+MÉDIO
+MUITO BAIXO
+MUITO BAIXO
+BAIXO
+BAIXO
+ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+MUITO ALTO
+BAIXO
+BAIXO
+MÉDIO
+MÉDIO
+ALTO
+ALTO
+MUITO BAIXO
+MUITO ALTO
+MUITO ALTO
+MÉDIO
+
+MUITO BAIXO
+BAIXO
+MÉDIO
+ALTO
+BAIXO
+MÉDIO
+MUITO BAIXO
+BAIXO
+ALTO
+MUITO BAIXO
+MÉDIO
+MÉDIO
+MUITO ALTO
+MUITO BAIXO
+MUITO ALTO
+MUITO BAIXO
+MÉDIO
+ALTO
+BAIXO
+ALTO
+MUITO BAIXO
+BAIXO
+ALTO
+MÉDIO
+BAIXO
+MÉDIO
+ALTO
+MUITO ALTO
+BAIXO
+MUITO ALTO
+MUITO BAIXO
+MUITO ALTO
+MUITO BAIXO
+BAIXO
+ALTO
+MÉDIO
+ALTO
+BAIXO
+ALTO
+BAIXO
+MÉDIO
+MUITO ALTO
+MUITO BAIXO
+MUITO ALTO
+MÉDIO
+
+BAIXO
+MUITO BAIXO
+ALTO
+MÉDIO
+MÉDIO
+BAIXO
+ALTO
+BAIXO
+MUITO BAIXO
+MÉDIO
+MUITO BAIXO
+MUITO ALTO
+MÉDIO
+MUITO ALTO
+MUITO BAIXO
+MÉDIO
+MUITO BAIXO
+ALTO
+ALTO
+BAIXO
+ALTO
+BAIXO
+MUITO BAIXO
+MÉDIO
+MÉDIO
+BAIXO
+MUITO ALTO
+ALTO
+MUITO ALTO
+BAIXO
+MUITO ALTO
+MUITO BAIXO
+ALTO
+BAIXO
+MUITO BAIXO
+ALTO
+MÉDIO
+ALTO
+BAIXO
+MÉDIO
+BAIXO
+MUITO ALTO
+MUITO ALTO
+MUITO BAIXO
+MÉDIO
+
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO BAIXO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+MÉDIO
+
+37
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+
+BAIXO
+BAIXO
+MÉDIO
+MÉDIO
+MUITO ALTO
+MUITO ALTO
+BAIXO
+ALTO
+ALTO
+MÉDIO
+MÉDIO
+ALTO
+BAIXO
+BAIXO
+ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+MÉDIO
+MÉDIO
+MUITO ALTO
+MÉDIO
+ALTO
+ALTO
+BAIXO
+MUITO ALTO
+MUITO ALTO
+MÉDIO
+MÉDIO
+ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+ALTO
+MÉDIO
+MUITO ALTO
+MUITO ALTO
+ALTO
+ALTO
+MUITO ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+MUITO ALTO
+
+MÉDIO
+MUITO ALTO
+BAIXO
+MUITO ALTO
+BAIXO
+MÉDIO
+ALTO
+BAIXO
+ALTO
+MÉDIO
+ALTO
+MÉDIO
+ALTO
+MUITO ALTO
+BAIXO
+MUITO ALTO
+BAIXO
+ALTO
+MÉDIO
+MUITO ALTO
+MÉDIO
+ALTO
+MÉDIO
+ALTO
+MUITO ALTO
+BAIXO
+MUITO ALTO
+ALTO
+MUITO ALTO
+MÉDIO
+MUITO ALTO
+MÉDIO
+ALTO
+ALTO
+MUITO ALTO
+MÉDIO
+MUITO ALTO
+ALTO
+MUITO ALTO
+ALTO
+MUITO ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+
+MUITO ALTO
+MÉDIO
+MUITO ALTO
+BAIXO
+MÉDIO
+BAIXO
+ALTO
+ALTO
+BAIXO
+ALTO
+MÉDIO
+MÉDIO
+MUITO ALTO
+ALTO
+MUITO ALTO
+BAIXO
+ALTO
+BAIXO
+MUITO ALTO
+MÉDIO
+MÉDIO
+ALTO
+ALTO
+MÉDIO
+MUITO ALTO
+MUITO ALTO
+BAIXO
+MUITO ALTO
+ALTO
+MUITO ALTO
+MÉDIO
+ALTO
+MÉDIO
+ALTO
+MUITO ALTO
+MUITO ALTO
+MÉDIO
+MUITO ALTO
+ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+ALTO
+MUITO ALTO
+
+Tabela 8 – Base de Regras
+
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+MÉDIO ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+ALTO
+MUITO ALTO
+MUITO ALTO
+MUITO ALTO
+MUITO ALTO
+
+38
+
+3.3.4. Definição dos Operadores Fuzzy do Processo de Inferência
+Durante a modelagem do sistema criado com o auxílio do software fuzzyTECH,
+faz-se necessário escolher os operadores fuzzy que farão parte do processo de inferência.
+Essa etapa exige uma avaliação minuciosa, pois a escolha inadequada de operadores
+pode conduzir a resultados inadequados. Através de testes realizados a partir do
+fuzzyTECH, os especialistas decidiram pelos seguintes operadores:
+
+
+Para operacionalizar o conectivo “AND” e gerar as relações de implicação entre
+os antecedentes e consequentes nas regras de inferência anteriormente
+apresentadas, foi utilizado o operador “Prod”, o qual é descrito na equação 5:
+𝜇𝑅𝐴→𝐵 (𝑥, 𝑦) = {𝜇𝐴 (𝑥) ∗ 𝜇𝐵 (𝑦)}
+
+
+
+(5)
+
+Para agregar os conjuntos fuzzy que são gerados na saída de cada regra de
+inferência ativada adotou-se o operador “Max”, o qual é descrito na equação 6:
+𝐴𝐺(. ) = max(𝜇𝑅1 (𝑥), … , 𝜇𝑅𝑖 (𝑥), … , 𝜇𝑅𝑛 (𝑥))
+
+
+
+(6)
+
+Para a defuzzificação dos conjuntos fuzzy agregados os especialistas definiram
+que a melhor opção seria o “Centro de Área”, o qual é descrito na equação 7:
+∑𝑛𝑘=1 𝜇𝐴 (𝑥𝑘 )𝑥𝑘
+𝐶𝐷𝐴 = 𝑛
+∑𝑘=1 𝜇𝐴 (𝑥𝑘 )
+
+(7)
+
+3.3.5. Representação do Sistema de Inferência Fuzzy
+Na figura 10 está representada a interação entre as variáveis de entrada
+(Severidade, Ocorrência e Detecção), a base de regras (totalizando 125 regras de
+inferência) e variável de saída (Número de Prioridade de Risco) no software
+fuzzyTECH:
+
+39
+
+Figura 10 - Representação do Sistema de Inferência Fuzzy no fuzzyTECH
+
+40
+
+4. Estudos de Caso e Resultados
+
+4.1. Introdução
+Neste tópico foi estudado casos com o intuito de ilustrar a utilização de um
+Sistema de Inferência Fuzzy combinado ao FMEA. Foram estudados dois casos
+distintos neste presente trabalho: o primeiro caso sendo uma análise FMEA fora dos
+parâmetros determinados no Sistema de Inferência Fuzzy FMEA desenvolvido no
+tópico 3; e o segundo sendo um caso nos moldes do Sistema desenvolvido. O porquê de
+um caso estar ou não dentro dos parâmetros do Sistema desenvolvido será explicado nos
+tópicos a seguirem.
+
+4.2. Primeiro Caso
+
+4.2.1. Descrição do Primeiro Caso a Ser Estudado
+O primeiro caso a ser estudado neste trabalho foi cedido por Renan Stefanutti,
+Diretor Geral do EESC-USP Fórmula SAE no ano de 2015. Segundo Stefanutti, “o
+Formula é uma equipe de 90 alunos dos 10 cursos de Engenharia da Escola de
+Engenharia de São Carlos – USP, que visa produzir um engenheiro de excelência para o
+mercado de trabalho através da construção de um protótipo de alta performance. É da
+competência dos alunos todo o projeto, construção e testes do carro a ser desenvolvido”.
+Dentro desse contexto, a Equipe do Formula, preocupada com a gestão da
+qualidade, desenvolveu análises FMEA’s a fim de analisar problemas históricos da
+equipe. Posteriormente, essas análises contribuíram para a atualização de um processo
+de rotina denominado “Check-List”, o qual fazem uso para realizar uma inspeção prévia
+no protótipo a ser testado. Stefanutti relatou que “a eficácia desse trabalho foi colocada
+à prova na final da 12ª Competição Petrobras Formula SAE Brasil, que ocorreu entre os
+dias 01 e 04 de outubro de 2015, onde a EESC-USP Formula SAE sagrou-se campeã
+nacional, findando um jejum de 10 anos”. Stefanutti relatou ainda que “O protótipo se
+apresentou estável durante toda a competição, comprovando a eficácia do método
+adotado”.
+
+41
+
+Assim, o caso a ser estudado neste presente trabalho, foi obtido de uma análise
+FMEA já realizada, sem entrar no mérito de como e em quais circunstâncias tais dados
+foram obtidos. Este trabalho tem o objetivo de implementar o Sistema de Inferência
+Fuzzy FMEA e, posteriormente, avaliar os resultados e compará-los com o FMEA
+tradicional, no caso realizado pela Equipe da EESC-USP Formula. A única alteração
+realizada nas tabelas de análise FMEA cedidas foi correlação aos valores dos
+parâmetros. Na análise feita pela Equipe da EESC – USP Formula, os valores de
+entrada (Severidade, Ocorrência e Detecção) assumiam os valores 1, 3 ou 5, e não como
+o Sistema de Inferência Fuzzy FMEA desenvolvido no tópico 3 (entre 1 e 10). Sendo
+assim, os valores das análises cedidas foram multiplicados por 2 para se adequarem ao
+Sistema de Inferência desenvolvido. Os efeitos e se esta alteração fez com que a análise
+FMEA realmente se enquadrasse ao Sistema serão discutidos posteriormente.
+
+4.2.2. Análise FMEA da EESC – USP Formula
+A análise FMEA executada pelo Formula está representada na tabela 9:
+
+42
+Componente
+
+Função
+
+Modo de Falha
+
+Categoria
+
+Falta de Sincronismo
+Comando de
+Válvulas
+
+Controle de
+abertura e
+fechamento das
+válvulas
+
+Instalação /
+Manutenção
+Perda de pressão
+
+Causa
+Posicionamento do comando
+Ausência de pastilha
+Posicionamento incorreto dos cames
+Integridade da corrente do comando
+Tensão da corrente do comando
+Falta de guia do comando
+Posicionamento incorreto dos cames
+
+Efeito
+
+Severidade
+Ocorrência
+Competição
+(2-6-10)
+(2-6-10)
+10
+
+2
+
+10
+
+2
+
+Motor não liga
+
+Controle
+
+NPR
+Detecção
+(2-6-10) Competição
+6
+
+120
+
+6
+
+120
+
+6
+
+120
+
+10
+
+200
+
+2
+
+40
+
+6
+
+216
+
+Abertura da tampa do cabeçote
+
+Integridade dos componentes
+
+Cilindro
+
+Promover
+combustão
+
+Combustão irregular
+
+Instalação /
+Manutenção
+
+Virabrequim
+
+Conversão de
+Movimento linear
+em rotativa
+
+Transmissão irregular
+de torque/ Vibrações
+exageradas do motor
+
+Manutenção
+
+RPM insuficiente para
+partida
+
+Manutenção
+
+Falta de corrente no
+motor de partida
+
+Manutenção
+
+Motor de
+partida
+Bomba de
+Óleo
+Bomba de
+Àgua
+Câmbio
+
+Radiador
+
+Bico Injetor
+Filler-Neck
+Tanque de
+Expansão
+Respiro de
+Óleo
+Galeria
+
+Dar partida no
+motor
+
+Pistão avariado
+Anéis avariados
+Bobina com mal funcionamento
+Vela avariada
+Camisa Avariada
+Juntas avariadas
+
+Motor não liga/
+Motor Desliga
+
+10
+
+2
+
+Tirar o caboçote - Análise do
+Pistão, vela e bobina /Pressão no
+cabeçote/Teste de Vela na ECU
+(funcionamento da vela e bobina)
+
+Virabrequim avariado
+
+Carro não anda
+
+10
+
+2
+
+Abrir motor inteiro
+
+Motoro não dá
+partida
+
+10
+
+2
+
+Avaria no motor de partida/ Algo
+travando o motor por dentro do
+mecanismo
+Chicote avariado/Problema nos
+enrolamentos do M.Partida
+
+Bombear Óleo
+
+Falta de bombeamento Manutenção
+
+Engrenagens avariadas
+
+Bombear Água
+
+Falta de bombeamento Manutenção
+
+Engrenagens avariadas
+
+Transmitir Torque
+
+Engrenagens
+quebradas
+
+Resfriar motor
+
+Temperatura de
+trabalho acima do
+permitido
+
+Injetar combustível
+
+Mistura irregular
+
+Levar combustível
+até tanque
+Expansão da agua
+na linha
+Alívio de pressão
+do circuito de
+lubrificação
+
+Vazamento de
+combustível
+
+Levar combustivel
+para bico
+
+Vazamento de água
+Vazamento de óleo
+Perda de pressão/
+Vazamento de
+combustivel
+
+Motor não dá
+partida
+Motor pára
+Fumaça
+Motor pára
+Fumaça
+
+6
+
+6
+
+10
+
+2
+
+Abrir tampa lateral
+
+6
+
+120
+
+10
+
+2
+
+Abrir tampa lateral
+
+6
+
+120
+
+10
+
+2
+
+Abrir tampa lateral
+
+6
+
+120
+
+6
+
+6
+
+Observar sistema todo e nível de
+água
+
+2
+
+72
+
+6
+
+2
+
+Teste no bico na ECU
+
+6
+
+72
+
+2
+
+2
+
+Visualizar
+
+2
+
+8
+
+Manutenção
+
+Engrenagens avariadas
+
+Carro não anda
+
+Manutenção
+/ Instalação
+
+Furo no radiador
+Furo nas mangueiras (linha)
+Erro no dimensionamento
+Falta de água
+
+Fumaça
+Água no chão
+Temperatura
+instável/alta
+Motor
+instavál/Não liga
+Combustível na
+pista
+
+Projeto
+
+Verificar RPM no Log/Testar
+motor de partida na bateria/Abrir
+lateral do mecanismo de partida
+Verificar chicote/ Testar motor de
+partida na bateria
+
+Manutenção
+Instalação
+Instalação
+Manutenção
+Instalação
+Manutenção
+Instalação
+Manutenção
+Projeto
+
+Avariado
+
+Água na pista
+
+2
+
+2
+
+Visualizar
+
+2
+
+8
+
+Furo no respiro
+Excesso de óleo
+Mal dimensionamento
+
+Vaza óleo na
+pista
+
+6
+
+6
+
+Visualizar
+
+2
+
+72
+
+Manutenção
+/ Instalação
+
+Furo na galeria/Vazamento nos
+sensores e espigões
+
+Motor
+instável/Não liga
+
+6
+
+2
+
+Visualizar
+
+2
+
+24
+
+Bico avariado
+Avariado
+
+Tabela 9 - FMEA do Motor (EESC – USP Formula)
+
+43
+
+4.2.3. Estudo Comparativo entre FMEA Tradicional e Fuzzy FMEA
+A tabela 10 ilustra os valores de Risco (NPR) obtidos a partir do FMEA
+tradicional e os valores de Risco obtidos a partir do Sistema de Inferência Fuzzy FMEA
+(NPR Fuzzy) elaborado no software “fuzzyTECH”:
+Severidade
+
+Competição
+Priorização
+Ocorrência Detecção
+Componente Modo de Falha Competição
+Priorização NPR
+Fuzzy
+(2-6-10)
+(2-6-10) NPR
+(2-6-10)
+FMEA Fuzzy
+FMEA
+Transmissão
+irregular de
+torque/
+Virabrequim
+10
+2
+10
+200
+2
+648.58
+1
+Vibrações
+exageradas do
+motor
+Falta de
+10
+2
+6
+120
+3
+574.56
+2
+Comando de
+Sincronismo
+Válvulas
+Perda de pressão
+10
+2
+6
+120
+3
+574.56
+2
+
+Bico Injetor
+Respiro de
+Óleo
+
+Combustão
+irregular
+Falta de
+bombeamento
+Falta de
+bombeamento
+Engrenagens
+quebradas
+Falta de corrente
+no motor de
+partida
+Temperatura de
+trabalho acima
+do permitido
+Mistura irregular
+Vazamento de
+óleo
+
+Motor de
+Partida
+
+RPM insuficiente
+para partida
+
+Cilindro
+Bomba de
+Óleo
+Bomba de
+Água
+Câmbio
+Motor de
+Partida
+
+Radiador
+
+Galeria
+
+Filler-Neck
+Tanque de
+Expansão
+
+Perda de
+pressão/
+Vazamento de
+combustível
+Vazamento de
+combustível
+Vazamento de
+água
+
+10
+
+2
+
+6
+
+120
+
+3
+
+574.56
+
+2
+
+10
+
+2
+
+6
+
+120
+
+3
+
+574.56
+
+2
+
+10
+
+2
+
+6
+
+120
+
+3
+
+574.56
+
+2
+
+10
+
+2
+
+6
+
+120
+
+3
+
+574.56
+
+2
+
+6
+
+6
+
+6
+
+216
+
+1
+
+542.84
+
+3
+
+6
+
+6
+
+2
+
+72
+
+4
+
+417.10
+
+4
+
+6
+
+2
+
+6
+
+72
+
+4
+
+417.10
+
+4
+
+6
+
+6
+
+2
+
+72
+
+4
+
+417.10
+
+4
+
+10
+
+2
+
+2
+
+40
+
+5
+
+309.48
+
+5
+
+6
+
+2
+
+2
+
+24
+
+6
+
+259.40
+
+6
+
+2
+
+2
+
+2
+
+8
+
+7
+
+185.52
+
+7
+
+2
+
+2
+
+2
+
+8
+
+7
+
+185.52
+
+7
+
+Tabela 10 – Comparativo entre FMEA Tradicional e Fuzzy-FMEA (Caso 1)
+
+44
+
+A tabela 10 foi ordenada com relação a prioridade Fuzzy FMEA para facilitar a
+comparação desta com a prioridade do FMEA tradicional.
+Inicialmente, observa-se que o modo de falha “Transmissão irregular de
+torque/Vibrações exageradas do motor” do componente “Virabrequim” que assumia
+prioridade 2 no FMEA tradicional, passa a assumir prioridade 1 no Fuzzy FMEA.
+Consequentemente, o modo de falha “Falta de corrente no motor de partida” que antes
+recebia prioridade 1 no FMEA tradicional, passa a ser apenas o terceiro em prioridade
+na escala do fuzzy FMEA. Isto demonstra uma falha na priorização de risco do FMEA
+tradicional, perante ao real desejo dos especialistas. Portanto, uma simples análise
+FMEA tradicional pode levar os interessados em ações preventivas ou corretivas à
+priorizarem modos de falhas com menor risco implícito, contrariando o desejo que é de
+prevenir ou corrigir aqueles modos de falha que oferecem o maior risco real.
+Neste caso é possível analisar ainda a presença de vários empates no FMEA
+tradicional, que se repetem na análise do Sistema de Inferência Fuzzy FMEA. Tal fato é
+justificado pela multiplicação dos mesmos fatores, no caso do FMEA tradicional, e no
+Sistema de Inferência Fuzzy FMEA desenvolvido, possuir funções de pertinência
+idênticas para os três parâmetros de entrada, o que faz com que a ordem dos fatores não
+altere o resultado em ambos os casos. Por exemplo, para (S=6; O=2; D=6) e (S=6; O=6;
+D=2) há empate nas duas análises. Porém, para a análise FMEA isso sempre irá ocorrer,
+pois a mesma não permite a ponderação de seus parâmetros, diferentemente do Fuzzy
+FMEA que permite ponderar os seus parâmetros, através de suas funções de pertinência
+e/ou da base de regras, quando os interessados julgarem necessário.
+Além dos fatos evidenciados anteriormente, este caso ainda permite fazer uma
+reflexão. Na análise FMEA tradicional realizada pela Equipe da EESC – USP Formula,
+os parâmetros de entrada assumiam apenas 3 valores de entrada possíveis (1, 3 ou 5, que
+posteriormente foram transformados em 2, 6 e 10, respectivamente, conforme explicado
+em 4.2.1), o que fez com que a gama de resultados possíveis fosse reduzida
+consideravelmente se comparado a uma análise que utiliza valores de 1 a 10 para os três
+parâmetros de entrada. Assim, não há empate de NPR’s oriundos da multiplicação de
+diferentes fatores. Logo, em um caso simples como o apresentado, a análise FMEA
+tradicional traz um resultado relativamente satisfatório, pois um dos principais
+problemas do FMEA tradicional é o empate no Número de Prioridade de Risco para
+
+45
+
+modos de falha com diferentes valores de Severidade, Ocorrência e Detecção, o que não
+ocorre neste caso. No segundo caso poderemos evidenciar esse fato.
+
+4.3. Segundo Caso
+
+4.3.1. Descrição do Segundo Caso a Ser Estudado
+O segundo caso a ser estudado foi realizado por um grupo de alunos, no qual o
+autor deste trabalho fez parte, na disciplina Gestão da Qualidade II, disciplina oferecida
+pelo Departamento de Engenharia de Produção da EESC – USP. O trabalho, que será
+descrito a seguir, foi realizado no segundo semestre do ano de 2014, sob a supervisão do
+docente responsável da disciplina naquele ano, Luiz Cesar Ribeiro Carpinetti.
+O trabalho consistia na realização de um FMEA para um produto escolhido. O
+grupo optou por analisar o produto “pneu de veículos leves”. Neste caso, diferentemente
+do primeiro caso, o grupo optou por usar as escalas tradicionais do FMEA (de 1 a 10
+para os três parâmetros). Assim, vale frisar que este caso se encaixa perfeitamente no
+Sistema de Inferência desenvolvido, pois o mesmo foi baseado em uma análise com os
+parâmetros de entrada (Severidade, Ocorrência e Detecção) podendo assumir valores
+entre 1 e 10.
+O principal objetivo do trabalho sugerido pelo docente responsável foi ambientar
+os alunos com um método capaz de verificar quais as não conformidades reais e
+potenciais para um produto em estudo, bem como as suas respectivas causas e efeitos
+sobre os clientes, para assim, tornar evidente aqueles modos de falha que merecem
+maior atenção. Para realizar tal trabalho, o grupo baseou-se em pesquisas quantitativas e
+qualitativas junto a dados expostos na internet por fornecedores do produto em questão.
+
+46
+
+4.3.2. Análise FMEA do Grupo de Gestão da Qualidade
+A análise FMEA executada pelo grupo está representada na tabela 11:
+
+Modos de
+Falha
+
+Murchar
+
+Furar
+
+Efeitos dos
+Modos de Severidade
+Falha
+
+Insatisfação
+do Cliente
+
+Atraso
+
+Estourar
+
+Acidente
+
+Não Rodar o
+Insatisfação
+Mínimo
+do Cliente
+Estipulado
+
+Soltura da
+Banda de
+Rodagem
+
+Acidente
+
+6
+
+7
+
+10
+
+Causas Prováveis das
+Falhas
+
+Ocorrência Formas de Detecção
+
+Mau assentamento da roda
+
+2
+
+Bico com defeito
+
+1
+
+Excesso de peso
+
+3
+
+Vazamento pela Válvula
+
+1
+
+Vazamento pela base da
+válvula
+Baixa Resistência da Matéria
+Prima
+Perfuração por objetos
+pontiagudos
+Arrastes Laterais
+Choques Transversais
+Excesso de Peso
+Impacto em Obstáculo
+Reparo em Mau Estado
+Perfuração sem Reparo
+Aquecimento por Uso
+Excessivo dos Freios
+Danos Oriundos da Roda de
+Alumínio
+Pressões Anormais
+
+8
+
+Má Qualidade da Matéria
+Prima
+
+10
+
+Falha no Projeto do Pneu
+Má Qualidade da Matéria
+Prima
+Falha Humana no Processo
+de Fabricação
+Falha de Equipamento do
+Processo de Fabricação
+
+1
+
+Detecção NPR
+
+Exame Visual
+Exame Visual/Teste em
+Água
+Exame Visual
+Exame Visual/Teste em
+Água
+
+3
+
+36
+
+6
+
+36
+
+2
+
+36
+
+6
+
+36
+
+Exame Visual
+
+6
+
+36
+
+3
+
+84
+
+3
+
+105
+
+5
+7
+3
+8
+5
+6
+
+200
+280
+30
+320
+50
+60
+
+4
+4
+1
+4
+1
+1
+
+Testes Químicos e Físicos
+da Qualidade
+Exame Visual/Teste em
+Água
+Exame Visual
+Exame Visual
+Exame Visual
+Exame Visual
+Exame Visual
+Exame Visual
+
+1
+
+Exame Visual
+
+8
+
+80
+
+5
+
+Exame Visual
+
+7
+
+350
+
+4
+
+Exame Visual
+
+7
+
+280
+
+4
+
+Exame Visual
+
+3
+
+96
+
+7
+
+Gates de Projeto
+Testes Químicos e Físicos
+da Qualidade
+Testes Químicos e Físicos
+da Qualidade
+Testes Químicos e Físicos
+da Qualidade
+
+5
+
+350
+
+2
+
+80
+
+3
+
+120
+
+3
+
+120
+
+4
+5
+
+4
+4
+4
+
+Tabela 11 – FMEA de Pneu de Veículos Leves
+
+4.3.3. Estudo Comparativo entre FMEA Tradicional e Fuzzy FMEA
+Para efeitos de análise, construiu-se a tabela 12 que aliou o estudo realizado pelo
+grupo de Gestão da Qualidade II com os valores de NPR gerados a partir do Sistema de
+Inferência Fuzzy FMEA desenvolvido. A tabela 12 é mostrada a seguir:
+
+47
+
+Modos de Falha Severidade
+
+Estourar
+
+10
+
+Soltura da Banda de
+Rodagem
+Estourar
+Estourar
+Estourar
+Estourar
+Soltura da Banda de
+Rodagem
+Soltura da Banda de
+Rodagem
+
+10
+10
+10
+10
+10
+10
+10
+
+Estourar
+
+10
+
+Estourar
+Não Rodar o
+Mínimo Estipulado
+
+10
+
+Furar
+
+7
+
+Estourar
+Soltura da Banda de
+Rodagem
+
+10
+
+Furar
+
+7
+
+Murchar
+Murchar
+
+6
+6
+
+Murchar
+
+6
+
+Estourar
+
+10
+
+Murchar
+
+6
+
+Murchar
+
+6
+
+8
+
+10
+
+Causas Prováveis das
+Priorização NPR Priorização
+Ocorrência Detecção NPR
+Falhas
+FMEA Fuzzy Fuzzy FMEA
+Danos Oriundos da
+Roda de Alumínio
+Falha no Projeto do
+Pneu
+Impacto em Obstáculo
+Choques Transversais
+Pressões Anormais
+Arrastes Laterais
+Falha Humana no
+Processo de Fabricação
+Falha de Equipamento
+do Processo de
+Aquecimento por Uso
+Excessivo dos Freios
+Perfuração sem Reparo
+Má Qualidade da
+Matéria Prima
+Perfuração por objetos
+pontiagudos
+Reparo em Mau Estado
+Má Qualidade da
+Matéria Prima
+Baixa Resistência da
+Matéria Prima
+Bico com defeito
+Vazamento pela Válvula
+Vazamento pela base da
+válvula
+Excesso de Peso
+Mau assentamento da
+roda
+Excesso de Peso
+
+5
+
+7
+
+350
+
+1
+
+778,06
+
+1
+
+7
+
+5
+
+350
+
+1
+
+778,06
+
+1
+
+4
+4
+4
+4
+
+8
+7
+7
+5
+
+320
+280
+280
+200
+
+2
+3
+3
+4
+
+722,60
+722,54
+722,54
+630,08
+
+2
+3
+3
+4
+
+4
+
+3
+
+120
+
+5
+
+538,98
+
+5
+
+4
+
+3
+
+120
+
+5
+
+538,98
+
+5
+
+1
+
+8
+
+80
+
+9
+
+500,58
+
+6
+
+1
+
+6
+
+60
+
+10
+
+500,54
+
+7
+
+4
+
+3
+
+96
+
+7
+
+491,82
+
+8
+
+5
+
+3
+
+105
+
+6
+
+475,00
+
+9
+
+1
+
+5
+
+50
+
+11
+
+463,56
+
+10
+
+4
+
+2
+
+80
+
+9
+
+455,14
+
+11
+
+4
+
+3
+
+84
+
+8
+
+433,94
+
+12
+
+1
+1
+
+6
+6
+
+36
+36
+
+12
+12
+
+346,56
+346,56
+
+13
+13
+
+1
+
+6
+
+36
+
+12
+
+346,56
+
+13
+
+1
+
+3
+
+30
+
+13
+
+315,52
+
+14
+
+2
+
+3
+
+36
+
+12
+
+270,72
+
+15
+
+3
+
+2
+
+36
+
+12
+
+270,72
+
+15
+
+Tabela 12 – Comparativo entre FMEA Tradicional e Fuzzy-FMEA (Caso 2)
+
+Para fins de análise, a tabela está classificada em ordem de priorização do NPR
+gerado a partir do Sistema de Inferência desenvolvido no software fuzzyTECH.
+Para os cincos primeiros modos de falhas, verifica-se uma igualdade entre os
+sistemas de análise (FMEA tradicional e Sistema de Inferência Fuzzy FMEA), o que
+indicaria uma análise satisfatória do FMEA. No entanto, a partir da classificação de
+número 5, nota-se uma desigualdade com relação às classificações de cada método, o
+
+48
+
+que comprova uma inexatidão do FMEA tradicional perante à expectativa dos
+especialistas.
+As diferenças começam a ser notadas nas posições 6 e 7 da classificação do
+Fuzzy FMEA, que antes assumiam a classificação, respectivamente, 9 e 10 no FMEA
+tradicional. Estas diferenças de classificação evidenciadas por esse estudo de caso
+demonstram a fragilidade do método utilizado pelo FMEA tradicional, o produto das
+notas dos parâmetros Severidade, Ocorrência e Detecção. Sendo assim, modos de falha
+que antes possuíam um NPR melhor classificado na escala de priorização da análise
+FMEA tradicional, passam a receber uma classificação menor quando analisados no
+Sistema de Inferência Fuzzy FMEA, e vice-versa. A principal causa das diferenças entre
+os métodos se dá pelos relacionamentos não-lineares entre as variáveis, justificados pela
+presença de uma base de regras e de funções de pertinência que a lógica fuzzy
+proporciona. Através destas, os especialistas conseguem expressar suas necessidades e
+obter uma resposta de acordo com aquilo que realmente priorizam.
+Neste caso, diferentemente do primeiro caso, conseguimos notar que há empates
+no NPR do FMEA tradicional oriundos de notas diferentes. Por exemplo, os modos de
+falha que estão classificados em 12º no FMEA tradicional possuem um NPR de valor
+36, mas alguns são resultados de um produto de notas com (S=6; D=1; O=6), (S=6;
+D=2; O=3) ou (S=6; D=3; O=2). Isto evidencia mais um ponto fraco da análise FMEA
+tradicional, pois esta análise levaria os interessados em priorizar de forma igual eventos
+com parâmetros distintos. Pelo mesmo motivo justificado no parágrafo anterior, a
+análise através de um Sistema de Inferência Fuzzy FMEA permite que haja resultados
+distintos para esses casos (veja na tabela 12 a diferença dos NPR’s apresentados para o
+método Fuzzy FMEA).
+Este caso ainda permite identificar a ocorrência de empates derivados de valores
+de entrada iguais, mas em ordem diferente. Por exemplo, os modos de falha que
+recebem priorização 1 tanto na classificação do FMEA tradicional, quanto no Fuzzy
+FMEA, possuem os seguintes valores de entrada: (S=10; O=5; D=7) e (S=10; O=7;
+D=5); e em ambas as classificações eles recebem NPR’s com valores iguais. Pelo
+mesmo motivo explicado no Caso 1, isso ocorre no FMEA tradicional porque ele obtém
+o NPR através de uma simples multiplicação de fatores, ou seja, a ordem dos fatores
+não irá alterar o produto. Já com relação ao empate também identificado na
+
+49
+
+classificação Fuzzy FMEA, este ocorre devido a forma com que o Sistema de
+Inferência, aqui proposto, foi desenvolvido, onde os especialistas responsáveis optaram
+por ponderar as variáveis de entrada de maneira similar, sem diferenciação. Portanto,
+caso haja necessidade de ponderação diferencial entre as variáveis de entrada em uma
+análise FMEA, um Sistema de Inferência Fuzzy torna-se imprescindível neste caso,
+pois, diferente do FMEA tradicional, este permite uma ponderação de forma não linear
+de suas variáveis.
+
+50
+
+5. Conclusão
+Nesta monografia foi abordado os benefícios relacionados ao uso da lógica fuzzy
+aliada à FMEA. Com a crescente competitividade entre empresas, a busca por um
+atendimento ao cliente de referência torna-se essencial na sobrevivência e crescimento
+das mesmas. Logo, a procura por ferramentas e/ou métodos que auxiliem na
+identificação e, consequente, aprimoramento do atendimento de requisitos dos clientes é
+de suma importância para as empresas no cenário atual.
+Esta monografia teve como objetivo desenvolver e implementar um Sistema de
+Inferência Fuzzy FMEA, a fim de comparar e validar as vantagens do uso deste Sistema
+de Inferência com o FMEA tradicional. Assim, a metodologia Fuzzy FMEA se mostrou
+bastante satisfatória, podendo inclusive comprovar diversos benefícios citados neste
+trabalho:
+
+
+Desenvolvimento
+
+de
+
+um
+
+método
+
+organizado
+
+que
+
+permitiu
+
+combinar
+
+conhecimento especializado e experiência em um estudo FMEA. A relação entre
+NPR e os parâmetros Severidade, Ocorrência e Detecção deixou de ser
+considerada linear, como no modelo convencional de NPR (FMEA tradicional),
+para ser considerada uma relação não linear;
+
+
+O uso de termos linguísticos permitiu aos avaliadores atribuir valores mais
+significativos aos fatores considerados e, assim, melhorar a eficácia da análise
+FMEA;
+
+
+
+A flexibilidade de atribuir pesos aos fatores, pode fornecer um meio específico
+de identificar modos de falha mais críticos e, assim, contribuir para uma
+priorização mais eficaz;
+
+
+
+As combinações dos fatores de entrada (S, O, D) foram modeladas através da
+base de regras (Se-Então). Ou seja, uma falha só teve um NPR elevado se esta
+possuía uma determinada combinação dos fatores S, O e D, que estavam
+descritas pelas regras Se-Então com consequente elevado. Isto contribui para
+solucionar situações em que o NPR não refletia o verdadeiro risco da falha.
+
+51
+
+Portanto, a combinação da lógica fuzzy com a análise FMEA pode contribuir
+com uma designação de recursos para ações de correção mais eficaz, pois um Sistema
+de Inferência Fuzzy FMEA retorna melhores resultados do índice NPR em relação à
+incerteza do risco. Sendo assim, a metodologia empregada atingiu os objetivos
+principais desse trabalho: implementou um Sistema de Inferência Fuzzy FMEA a partir
+de uma base de regras desenvolvida por especialistas, avaliou e comparou os resultados
+com o FMEA tradicional.
+Para a realização de trabalhos futuros, sugere-se os seguintes tópicos:
+
+
+Aliar outras ferramentas de apoio à decisão à metodologia Fuzzy FMEA, como o
+QFD e/ou a Matriz de Interações);
+
+
+
+Aplicar um Sistema de Inferência Fuzzy FMEA para o controle de falhas em
+uma empresa para, assim, diagnosticar a eficácia das vantagens do uso da lógica
+fuzzy.
+
+52
+
+6. Referências Bibliográficas
+AGUADO, A. G.; CANTANHEDE, M. A. Lógica Fuzzy. Faculdade de Tecnologia,
+UNICAMP, 2010.
+AGUIAR, D. C.; SOUZA, H. J. C.; SALOMON, V. A. P. Aplicação do AHP para a
+Avaliação dos Critérios de Pontuação de FMEA de Processo. XXIX Encontro
+Nacional de Engenharia de Produção, 2009.
+ARAÚJO, W. P. P. Metodologia FMEA-Fuzzy Aplicada à Gestão de Indicadores de
+Continuidade Individuais de Sistemas de Distribuição de Energia Elétrica.
+Florianópolis, 2008.
+BOARIN PINTO, S. H.; CARVALHO, M. M.; LINDA, L. H. Implementação de
+programas de qualidade: um survey em empresas de grande porte no Brasil.
+Gestão & Produção, v.13, n.2, p. 191-203, 2006.
+CARPINETTI, L. C. R.; MIGUEL, P. A. C.; GEROLAMO, M. C. Gestão da
+Qualidade ISO 9001:2008: princípios e requisitos. 4. ed. São Paulo: Atlas, 2011.
+CHIN, K.; CHAN, A.; YANG, J. Development of a Fuzzy FMEA Based Product
+Design System. 2008.
+CROSBY, P. A Gestão pela Qualidade. Banas Qualidade, 1998.
+HEGEDUS, C. E. Os Gurus da Qualidade. Escola de Administração Mauá, 2004.
+KUMRU, M.; KUMRU P. Y. Fuzzy FMEA Application to Improve Purchasing
+Process in a Public Hospital. 2013.
+LIMA JÚNIOR, F. R.; CERVI, A. F. C.; CARPINETTI, L. C. R. Uma Metodologia
+Multicritério Baseada em Inferência Fuzzy para Classificação ABC de Estoques.
+PODes, v.6, n.3, p. 343-366, Rio de Janeiro, Setembro a Dezembro de 2014.
+MAMDANI, E. H. Application of Fuzzy Logic to Approximate Reasoning Using
+Linguistic Systems. IEEE Transactions on Computers, 1977.
+OLIVEIRA, O. J. Gestão da Qualidade – Tópicos Avançados. Cengage Learning
+Editores, 2004.
+SLACK, N. et al. Administração da produção. São Paulo: Atlas, 1999.
+
+53
+
+STAMATIS, D. H. Failure mode and effect analysis: FMEA from theory to
+execution. ASQC Quality Press, 1995.
+TOLEDO, J. C. Gestão da qualidade na agroindústria. Editora Atlas, 1997.
+VENTER, G.; HAFTKA, R. T. Using Response Surface Methodology in Fuzzy Set
+Based Design Optimization. 39th AIAA/ASME/ASCE/AHS/ASC Structures, Structural
+Dynamics and Materials Conference, 1998.
+XU, K.; TANG, L. C.; XIE, M.; HO, S. L.; ZHU, M. L. Fuzzy Assessment of FMEA
+for engine systems. Reliab Eng Syst Safety, 2002.
+ZADEH, L. ‘Fuzzy Sets’. Inf Control, 1965.
+
+

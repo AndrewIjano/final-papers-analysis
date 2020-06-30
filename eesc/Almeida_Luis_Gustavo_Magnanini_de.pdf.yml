@@ -1,0 +1,27 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: no
+agradecim: no 
+resumo_ab: yes
+kw: yes
+l_figuras: yes
+l_tabelas: no
+l_abr_sig: no
+l_quadros: yes
+n_sub_sec: 0
+n_ssb_sec: 0
+n_sss_sec: 0
+tem_anexo: no
+ini: Introdução
+secoes:
+ - Revisão Teórica
+ - Métodos de pesquisa
+ - Estudo de Caso
+ - Estudo de tempos e processos
+ - Cálculo do cronograma de produção
+ - Cronograma da produção
+ - Sugestões de melhorias
+end: Considerações finais
+ref: Bibliografia

@@ -1,0 +1,1666 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+Departamento de Química e Física Molecular
+Laboratório de Cromatografia
+
+Renato Grigolon Capelo
+
+MICROEXTRAÇÃO EM GOTA ÚNICA (SDME) DE PARABENOS
+PROVENIENTES DE AMOSTRA DE ESGOTO
+
+São Carlos
+2017
+
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+Departamento de Química e Física Molecular
+Laboratório de Cromatografia
+
+Renato Grigolon Capelo
+
+MICROEXTRAÇÃO EM GOTA ÚNICA (SDME) DE PARABENOS
+PROVENIENTES DE AMOSTRA DE ESGOTO
+
+Monografia apresentada ao Instituto de Química de São
+Carlos da Universidade de São Paulo, para fins de
+conclusão do curso de Bacharelado em Química.
+
+Orientador: Prof. Dr. Álvaro José dos Santos Neto
+
+São Carlos
+2017
+
+DEDICATÓRIA
+
+Dedico este trabalho aos meus pais, Mauro e Cida, e ao
+meu irmão, Rafael, por todo esforço, carinho e incentivo
+nestes anos de graduação.
+
+AGRADECIMENTOS
+Aos meus pais, Mauro e Cida, que não mediram esforços para que eu
+chegasse até aqui.
+Ao meu irmão, Rafael, por sempre incentivar e torcer por mim.
+Ao Prof. Dr. Álvaro José dos Santos Neto pela orientação nestes últimos
+meses.
+Ao Doutorando Luiz Felipe Cabal e aos colegas do Grupo de Cromatografia
+pela grande ajuda neste trabalho.
+À Atlética CAASO e ao Futebol CAASO pelos bons momentos que me
+proporcionaram e por terem me tornado a pessoa que sou hoje.
+À minha namorada, Maria Clara, aos meus amigos e à República 29 por me
+fazerem sentir em casa mesmo longe de casa.
+
+RESUMO
+O aumento do uso de conservantes nos últimos anos tem causado graves
+problemas ambientais. Um grupo de moléculas importantes na constituição dos
+conservantes são os parabenos, grupo que tem como característica o seu grande
+potencial de ação antimicrobiana. O uso excessivo desta classe de compostos em
+produtos cosméticos e alimentícios, traz como consequência a contaminação de
+águas residuárias. Devido à complexidade dessas matrizes ambientais, a extração e
+detecção desses contaminantes fica comprometida, exigindo o emprego de técnicas
+de preparo de amostra para que estes compostos de interesse sejam passíveis de
+análise. Procedimentos tradicionais como a extração líquido-líquido (LLE) e a
+extração em fase sólida (SPE) são amplamente utilizados para esta finalidade,
+entretanto, ambas demandam um grande consumo de solvente durante o
+procedimento e, por isso, não são técnicas que estão de acordo com os princípios
+da química verde. Introduzindo uma solução para este problema, o presente trabalho
+apresenta o desenvolvimento do método automatizado de microextração em gota
+única (SDME) para extração e detecção de parabenos provindos de águas
+residuárias. O método pode ser aplicado para a detecção de até 100 µg L-1 de
+parabenos, apenas utilizando a técnica de Cromatografia Líquida de Alta Eficiência
+(HPLC) com detecção UV-vis. Destaca-se que, para realização de uma extração dos
+compostos, utiliza-se apenas 300 µL de solvente orgânico. Assim, a técnica se
+encaixa na tendência científica da química verde, reduzindo a geração de resíduos
+durante a realização das análises. De forma geral, o método mostrou-se reprodutível
+e com potencial à aplicação de diferentes tipos de matrizes.
+Palavras-chave: Microextração em gota única, parabenos, cromatográfica líquida,
+química verde.
+
+ABSTRACT
+The increased use of preservatives in the past years has caused several
+environmental issues. An important group of preservatives are the parabens. This
+main characteristic of this group its huge antimicrobial potential. The excessive use
+of this compounds in cosmetics and food products can bring as a consequence the
+contamination of wastewater caused by parabens. Due to the complexity of this
+environmental matric, the extraction and detection of the contaminants get
+compromised, requiring the use of sample preparation techniques so that
+preservatives of interest may be passible of analysis. Traditional procedures such as
+liquid-liquid extraction (LLE) and solid phase extraction (SPE) are widely used,
+however, both of them demand huge consume of solvent during the procedure and
+as a consequence, they are not techniques that are in accordance with the principles
+of green chemistry. Introducing a solution for this problem, the present work presents
+the development of the automated single drop micro-extraction (SDME) for the
+extraction and detection of parabens coming from wastewater. The method can be
+applied to a detection of up to 100 µg L-1 of parabens, using only the technique of
+high performance liquid chromatography (HPLC) with UV-vis detection. It is noted
+that, for the aim of compound extraction, it was consumed only 300 µL of organic
+solvent. Therefore, the technique fits the scientific trends of green chemistry,
+reducing the waste during the analysis. In general, the method has shown to be
+reproducible and has potential to be applied for different types of matrices.
+
+Keywords: single drop micro-extraction, parabens, liquid chromatography, green
+chemistry.
+
+LISTA DE FIGURAS
+Figura 1 - Cromatogramas de análise por HPLC utilizando como fase móvel a mistura
+metanol/acetato de etila (80:20): A) 40%; B) 60%. .....................................................19
+Figura 2 - Cromatogramas de análise por HPLC utilizando 25% de acetonitrila na fase
+móvel .......................................................................................................................... 20
+Figura 3 – Cromatogramas de análise por HPLC utilizando 35% de acetonitrila na fase
+móvel .......................................................................................................................... 20
+Figura 4 - Cromatogramas de análise por HPLC utilizando 45% de acetonitrila na fase
+móvel .......................................................................................................................... 21
+Figura 5 - Comparação dos tempos de retenção obtidos para cada percentual de
+acetonitrila (ACN) na fase móvel ................................................................................ 22
+Figura 6 - Cromatogramas das extrações realizadas com: A) 20 ciclos; B) 25 ciclos; C)
+35 ciclos; D) 45 ciclos ................................................................................................. 23
+Figura 7 - Cromatogramas das amostras resuspendidas em 100 µL de água........... 25
+Figura 8 - Cromatogramas das amostras resuspendidas em 200 µL de água .......... 25
+Figura 9 – Comparação dos valores de área obtidos nos cromatogramas das
+amostras resuspendidas em 100 µL e 200 µL de água, com os respectivos desvios
+padrões ....................................................................................................................... 26
+Figura 10 - Cromatogramas das amostras resuspendidas em 200 µL de solução 5%
+de acetonitrila em água .............................................................................................. 27
+Figura 11 – Comparação dos valores de área obtidos nos cromatogramas das
+amostras resuspendidas em 200 µL de água e solução 5% de acetonitrila, com os
+respectivos desvios padrões ...................................................................................... 27
+Figura 12 - Cromatogramas das amostras extraídas em matriz de esgoto labmade.. 28
+Figura 13 - Cromatogramas das amostras extraídas em matriz de amostra de águas
+residuárias .................................................................................................................. 29
+Figura 14 - Cromatogramas das amostras extraídas em matriz de água .................. 30
+
+Figura 15 – Comparação dos valores dos tempos de retenção para os diferentes tipos
+de matriz ..................................................................................................................... 31
+Figura 16 – Comparação dos valores das áreas dos picos para os diferentes tipos de
+matriz .......................................................................................................................... 31
+
+LISTA DE TABELAS
+Tabela 1 – Propriedades dos principais parabenos utilizados como conservantes.. 15
+Tabela 2 – Composição do esgoto labmade. ........................................................... 18
+Tabela 3 – Valores de Tempo de Retenção (TR) obtidos das análises por HPLC com
+25% de acetonitrila na fase móvel ............................................................................ 20
+Tabela 4 - Valores de Tempo de Retenção (TR) obtidos das análises por HPLC com
+35% de acetonitrila na fase móvel ............................................................................ 21
+Tabela 5 - Valores de Tempo de Retenção (TR) obtidos das análises por HPLC com
+45% de acetonitrila na fase móvel ............................................................................ 21
+Tabela 6 - Parâmetros ótimos do software Arduino para a extração de parabenos. 24
+Tabela 7 – Valores de Tempo de Retenção (TR) e Área (A) obtidos dos
+cromatogramas das amostras resuspendidas em 100 µL de água ......................... 25
+Tabela 8 – Valores de Tempo de Retenção (TR) e Área (A) obtidos dos
+cromatogramas das amostras resuspendidas em 200 µL de água ......................... 25
+Tabela 9 – Valores de Tempo de Retenção (TR) e Área (A) obtidos dos
+cromatogramas das amostras resuspendidas em 200 µL de solução 5% de
+acetonitrila em água ................................................................................................. 27
+Tabela 10 - Valores de Tempo de Retenção (TR) e Área (A) obtidos dos
+cromatogramas das amostras extraídas em matriz de esgoto labmade .................. 29
+Tabela 11 - Valores de Tempo de Retenção (TR) e Áreas (A) obtidos dos
+cromatogramas das amostras extraídas em matriz de amos tra de águas
+residuárias................................................................................................................. 29
+Tabela 12 - Valores de Tempo de Retenção (TR) e Áreas (A) obtidos dos
+cromatogramas das amostras extraídas em matriz de água ................................... 30
+
+SUMÁRIO
+1. INTRODUÇÃO .............................................................................................. 10
+1.1 Parâmetros da SDME ........................................................................................ 12
+1.2 Formas de extração da SDME .......................................................................... 13
+1.3 Cromatografia Líquida de Alta Eficiência (HPLC) .............................................. 13
+1.4 Parabenos........................................................................................................... 14
+
+2. OBJETIVOS ................................................................................................... 16
+2.1 Objetivos Gerais ................................................................................................. 16
+2.2 Objetivos Específicos ......................................................................................... 16
+
+3. MATERIAIS E MÉTODOS ............................................................................. 17
+3.1 Reagentes e Soluções ............................................................................,.......... 17
+3.2 Otimização dos parâmetros da análise por HPLC ............................................. 17
+3.3 Preparo da amostra ........................................................................................... 17
+3.4 Extração por SDME ........................................................................................... 18
+3.5 Secagem e Resuspensão .................................................................................. 18
+3.6 Estudo do efeito de matriz na extração por SDME ............................................ 19
+
+4. RESULTADOS E DISCUSSÃO ..................................................................... 19
+4.1 Otimização dos parâmetros da análise por HPLC ............................................ 19
+4.2 Otimização dos parâmetros para a extração por SDME ................................... 23
+4.3 Otimização das condições de resuspensão dos analitos .................................. 24
+4.4 Estudo do efeito de matriz na extração por SDME ............................................ 28
+
+5. CONCLUSÃO ................................................................................................ 32
+6. PERSPECTIVAS FUTURAS ......................................................................... 32
+7. REFERÊNCIAS ............................................................................................. 33
+
+10
+
+1. INTRODUÇÃO
+Para emprego da maioria das técnicas analíticas, se faz necessário realizar
+preparo das amostras como etapa preliminar a análise. Isso se dá quando a
+amostra, em sua forma bruta, não é passível de ser analisada, tanto pelo fator
+concentração do analito ou pela natureza complexa da matriz. A amostra também
+pode não ser compatível com a técnica instrumental empregada, quer seja pela
+presença componentes que possam interferir no resultado da análise ou até mesmo
+por serem danosos ao equipamento. Essa etapa prévia, em geral, tem como grande
+objetivo realizar a pré-concentração da amostra e extrair dela as substâncias de
+interesse. Como o preparo da amostra corresponde a uma parte considerável do
+tempo total da análise e demanda um grande consumo de recursos (CHEN et al.,
+2008), pode-se dizer que esta é uma etapa determinante para a obtenção de
+resultados confiáveis, além de maximizar o aproveitamento do tempo e diminuir os
+custos da análise. (PINTO; PEDROSO, 2016)
+Para análises cromatográficas, tanto em fase líquida (HPLC) quanto gasosa
+(GC), o preparo de amostras é normalmente realizado por um número elevado de
+técnicas amplamente difundidas na análise instrumental. As mais utilizadas, porém,
+são a extração líquido-líquido (LLE) e a extração em fase sólida (SPE). (LANÇAS,
+2008) A LLE clássica é uma técnica constituída de muitas etapas, logo, demanda um
+tempo considerável para a realização do procedimento e, além disso, faz uso de um
+volume significativo de solvente orgânico, resultando em grandes quantidades de
+resíduos (ARTHUR; PAWLISZYN, 1990). Já a SPE, apesar de superar limitações da
+LLE e ser uma técnica amplamente utilizada, possui desvantagens significativas,
+como a necessidade de cartuchos e acessórios, que acarreta em um custo adicional
+ao processo. (PSILLAKIS; KALOGERAKIS, 2002)
+Com o intuito de solucionar tais problemas, muitos pesquisadores têm
+desenvolvido técnicas sofisticadas de preparo de amostras, buscando diminuir o
+consumo de solventes e a obter resultados em tempos cada vez menores. As
+chamadas microextrações, que são essencialmente técnicas miniaturizadas
+baseadas nas extrações por LLE e SPE, começaram a ser desenvolvidas e
+aplicadas em diversas pesquisas e apresentaram algumas vantagens em relação às
+técnicas tradicionais. Estando em acordo com os princípios da Química Verde e
+permitindo ao analista um maior grau de automação, que resultam na redução de
+
+11
+
+erros durante o preparo da amostra, as microextrações contribuíram para o
+desenvolvimento das análises cromatográficas. (KOKOSA, 2013)
+A microextração em fase sólida (SPME) e microextração em fase líquida
+(LPME ou LLME) são as técnicas miniaturizadas mais comuns. A LPME possui três
+principais variações que são utilizadas dependendo da forma na qual a fase líquida
+extratora se encontra (MARTINS et al., 2012). A primeira delas, a microextração com
+fibras ocas (HF-LPME), utiliza-se de fibras que possuem muitos poros, os quais são
+preenchidos e imobilizam um solvente orgânico imiscível em água. A segunda
+variação é a microextração líquido-líquido dispersiva (DLLME). Nesta, a fase
+extratora é imiscível com a amostra e dispersa em solução aquosa. Para isso,
+necessita-se do auxílio de um solvente dispersivo e, então, o sistema passa por uma
+centrifugação e o solvente extrator é separado da amostra. Finalmente, temos a
+terceira e mais comum variação da LPME: a microextração em gota única (SDME).
+Esta técnica possui um solvente extrator imiscível com a amostra, do qual apenas
+uma única gota é exposta e colocada em contato com a amostra. Essa única gota é
+a responsável por realizar a extração dos componentes de interesse presentes na
+amostra. (HU et al., 2013)
+A SDME surgiu com a extração de compostos orgânicos presentes em água.
+O processo de extração se deu através de uma gota de n-octano de 8 µL suspensa
+no final de um tubo Teflon imerso na solução aquosa. Após certo tempo de contato
+entre as fases, uma alíquota da gota de solvente contido no interior do tubo foi
+amostrada com auxílio de uma microseringa e injetada em um GC. A SDME revelouse rápida e simples e com baixo consumo de solvente orgânico (PINTO; PEDROSO,
+2016). Pesquisas posteriores desenvolveram a técnica utilizando a gota do solvente
+extrator suspensa na ponta de uma microseringa para GC. (HE; LEE, 1997) Durante
+a extração, a amostra ficou contida em um frasco com tampa com septo de silicone.
+O septo da tampa era, então, perfurado pela agulha da microseringa e a ponta da
+agulha imersa na amostra. Lentamente, a gota era exposta na ponta da agulha da
+microseringa, entrando em contato com a amostra por determinado tempo.
+Posteriormente, a gota era retraída para dentro da microseringa e introduzida
+diretamente no injetor do GC. Essa forma mostrou-se vantajosa, minimizando o
+tempo e problemas de diluição e contaminação do extrato, pois extração e injeção
+
+12
+
+são realizadas com a mesma microseringa, sem necessidade de etapas
+intermediárias.
+
+1.1 Parâmetros da SDME
+Alguns parâmetros são
+
+determinantes para
+
+a
+
+realização
+
+de
+
+uma
+
+microextração com gota única. Resumidamente, os parâmetros mais influentes para
+alcançar a otimização de uma extração por SDME são a escolha do solvente
+extrator, volume da gota, tempo de extração, velocidade de agitação, temperatura e
+adição de sal. (LÓPEZ-BLANCO et al., 2005)
+Conforme esperado, os compostos de interesse devem possuir grau elevado
+de solubilidade no solvente utilizado para extraí-los. Em contrapartida, o solvente
+deve ser imiscível em água, uma vez que as amostras brutas são, em geral,
+soluções aquosas. (KOKOSA, 2013)
+O volume da gota extratora interfere na eficiência da extração. Uma gota
+maior possui maior área superficial e, consequentemente, sua estabilidade fica
+comprometida. Desta forma, o tempo de exposição e a velocidade de agitação
+devem ser ajustados a fim de permitir a estabilidade da gota durante todo o
+processo de extração. (KOKOSA, 2015)
+Tempo de extração e velocidade de agitação possuem relação de
+dependência direta, uma vez que com uma agitação mais intensa, o tempo para
+atingir o equilíbrio termodinâmico é reduzido. Apesar de a transferência de massa
+depender do tempo de extração, a taxa de transferência diminui à medida que as
+concentrações nas duas fases se aproximam do equilíbrio. Assim, a velocidade da
+agitação, acelera o estágio de equilíbrio entre as fases e diminui o tempo total de
+extração. (JEANNOT; CANTWELL, 1997; ZHANG et al., 2008)
+A temperatura da extração, por sua vez, altera a constante termodinâmica e,
+portanto, também afeta o equilíbrio entre as fases. Entretanto, não se pode dizer que
+o aumento sempre favorece a extração. Na SDME um aumento na temperatura,
+muitas vezes, acarreta na dissolução da gota extratora na amostra. Desta forma, o
+aumento da temperatura influencia na reprodutibilidade da técnica e raramente é
+utilizada na SDME.
+
+13
+
+Por fim, a adição de sais na solução aquosa também pode ser utilizada em
+extrações deste tipo, pois este parâmetro altera a solubilidade dos analitos através
+do aumento ou diminuição da força iônica da solução. Porém, a adição de sais
+também pode provocar o aumento da viscosidade e, desta forma, reduzir a taxa de
+difusão dos analitos na fase aquosa. (PINTO; PEDROSO, 2016)
+
+1.2. Formas de extração da SDME
+A microextração em gota única pode ser subdividida quanto a forma de
+extração através da constituição do sistema apresentar-se com duas ou três fases.
+Em extrações nas quais a gota de solvente extrator se encontra imersa na solução
+aquosa contendo os analitos de interesse, o sistema é considerado bifásico. Já
+quando não ocorre o contato direto entre a gota e a amostra, considera-se a
+existência de uma terceira fase, podendo esta ser um segundo solvente ou um
+headspace, um espaço entre gota e amostra no qual os compostos a serem
+extraídos devem volatilizar para entrarem em contato com o solvente extrator.
+Nesta última modalidade, sem o contato entre solvente extrator e amostra, a
+interferência de demais componentes da matriz é minimizada, entretanto, se faz
+necessário que os analitos de interesse possuam volatilidade considerável. Já em
+sistemas bifásicos, para que seja possível realizar este tipo de extração, o solvente
+deve ser imiscível na amostra (que normalmente encontra-se em meio aquoso) e,
+em geral, os analitos neutros, apolares e com baixa volatilidade. (JEANNOT;
+PRZYJAZNY; KOKOSA, 2010)
+
+1.3 Cromatografia Líquida de Alta Eficiência (HPLC)
+A cromatografia líquida de alta eficiência (HPLC) é uma técnica de
+separação empregada em muitos métodos analíticos para a realização de
+determinações qualitativas ou quantitativas.
+O processo cromatográfico consiste na partição dos componentes de uma
+mistura entre a fase móvel e a fase estacionária. No caso da cromatografia líquida o
+fluido é um solvente e a fase estacionária é constituída de partículas sólidas
+empacotadas em uma coluna, através da qual flui a fase móvel. As interações
+
+14
+
+químicas e físicas que atuam entre os solutos e as duas fases são responsáveis
+pela retenção dos solutos na coluna cromatográfica. (CIOLA, 1998)
+Na HPLC utiliza-se uma coluna fechada, a qual pode realizar centenas de
+análises e possui grande eficiência. Entretanto, essas colunas oferecem uma grande
+resistência à vazão da fase móvel e, desta forma, se faz necessário o emprego de
+sistemas de bomba de alta pressão (até 400 bars) que realizam a migração da fase
+móvel através da coluna. A vazão da fase móvel é controlada na HPLC, resultando
+em análises mais precisas, uma vez que a reprodutibilidade de seus parâmetros de
+análise é facilitada.
+Quanto aos detectores, vários tipos podem ser empregados na saída da
+coluna. Estes proporcionam identificação e quantificação continua dos componentes
+da amostra, através do tempo de retenção dos mesmos na coluna e da intensidade
+do sinal gerado no detector. Porém, dependendo do detector utilizado, é possível
+determinar quantidades menores dos analitos de interesse. O detector mais
+empregado nesta técnica é o UV-vis, que apresenta boa eficiência e facilidade
+operacional, entretanto, o espectrômetro de massas é o detector com menor limite
+de detecção, mas que muitas vezes é preterido devido ao alto custo envolvido na
+técnica.
+Dentre as aplicações da cromatografia líquida de alta eficiência, pode-se
+destacar seu uso na indústria farmacêutica e na área ambiental. Entretanto, sua
+utilização não fica restrita à estas duas aplicações, já que, segundo estimativas,
+cerca de 90% dos laboratórios de análise fazem uso da HPLC.
+
+1.4 Parabenos
+No presente trabalho, as moléculas de interesse a serem extraídas pela
+técnica SDME são ésteres de alquil do ácido parahidroxibenzóico, comumente
+conhecidos como parabenos. Os parabenos são amplamente utilizados como
+conservantes nos mais variados tipos de produtos, como cosméticos, fármacos,
+alimentos e bebidas. Estruturalmente, os parabenos possuem um anel benzênico
+com grupos hidroxila e éster em posição para. Os compostos diferem quanto à
+
+15
+
+cadeia alquílica, sendo as formas mais comuns metilparabeno, etilparabeno,
+propilparabeno, butilparabeno e benzilparabeno. (MACHADO, 2010)
+Os parabenos possuem certo grau de solubilidade em água, sendo o
+metilpabeno o composto mais solúvel, entretanto, possuem maior solubilidade em
+solventes orgânicos, sendo os compostos de cadeia com maior número de carbonos
+os mais lipossolúveis. (DERISSO, 2017) Outras características desta classe de
+compostos podem ser observadas na Tabela 1.
+Tabela 1 – Propriedades dos principais parabenos utilizados como conservantes.
+
+Metilparabeno Etilparabeno Propilparabeno Butilparabeno Benzilparabeno
+Fórmula
+Estrutural
+
+Fórmula
+Molecular
+
+C8H8O3
+
+C9H9O3
+
+C10H12O3
+
+C11H14O3
+
+C14H12O3
+
+Massa
+molecular
+(g mol-1)
+
+152,16
+
+166,18
+
+180,21
+
+194,23
+
+228,25
+
+Coeficiente
+de partição
+octanolágua (log
+Kow)
+
+1,66
+
+2,19
+
+2,71
+
+3,24
+
+3,56
+
+pKa
+
+8,17
+
+8,22
+
+8,35
+
+8,37
+
+-
+
+Solubilidade
+em água a
+25 °C (mg
+L-1)
+
+2500
+
+885
+
+500
+
+207
+
+50
+
+Fonte: HAMAN et al., 2015 e BŁĘDZKA; GROMADZIŃSKA; WĄSOWICZ, 2014.
+
+Os parabenos são utilizados como conservantes por conta de seu elevado
+potencial antimicrobiano. Esta característica se deve pela presença do grupo éster
+no anel benzílico e a ação antimicrobiana é diretamente proporcional ao número de
+
+16
+
+grupos ésteres na cadeia carbônica. Entretanto, a existência deste grupo também
+implica em diminuição da solubilidade em água, causando complicação no uso dos
+parabenos em determinadas aplicações. (PIAO; CHEN; WANG, 2014)
+Pesquisas recentes têm investigado efeitos danosos do uso excessivo de
+parabenos como conservantes. Há indícios de efeitos carcinogênicos e atividade
+estrogênica. E, ainda, como são compostos de elevado Kow, estes podem ser
+bioacumulados em diversos organismos, especialmente os aquáticos. (DUARTE,
+2002)
+Estudos mostram que mesmo em baixas concentrações os parabenos podem
+ser capazes de estimular a proliferação de células mamárias cancerosas. (WRÓBEL;
+GREGORASZCZUK, 2013) Além disso, segundo estudos, os parabenos podem se
+concentrar na cadeia alimentar, causando impactos especialmente em organismos
+aquáticos, entre eles o atraso no desenvolvimento de peixes, metamorfose de sapos
+e alterações significativas no comportamento e reprodução destes seres. (LI et al.,
+2007)
+
+2 OBJETIVOS
+2.1 Objetivos Gerais
+- Desenvolver um método para análise de parabenos por HPLC através da
+microextração em gota única (SDME) automatizada.
+
+2.2 Objetivos Específicos
+- Desenvolver o método automatizado de extração de parabenos;
+- Otimizar as condições de preparo da amostra;
+- Otimizar as condições cromatrográficas para a análise simultânea de metil,
+etil, propil, butil e benzilparabeno;
+- Comparar o efeito de matriz para as extrações dos parabenos pelo método
+desenvolvido.
+
+17
+
+3 MATERIAIS E MÉTODOS
+3.1 Reagentes e soluções
+Os
+
+padrões
+
+analíticos
+
+metilparabeno,
+
+etilparabeno,
+
+propilparabeno,
+
+butilparabeno e benzilparabeno foram adquiridos da Sigma-Aldrich com 99% de
+pureza. As soluções de estoque foram preparadas em metanol na concentração de
+1 g L-1 e armazenadas à -19 ºC. As soluções de trabalho foram preparadas, a partir
+das soluções de estoque, em água na concentração de 2 mg L-1 de cada parabeno a
+ser analisado, renovadas a cada 2 semanas e armazenadas à 4 ºC.
+Também foram utilizados durante o trabalho, os solventes acetato de etila e
+diclorometano em mistura 1:1 (v/v) para realizar-se a extração dos parabenos.
+
+3.2 Otimização dos parâmetros da análise por HPLC
+Os parâmetros da análise por HPLC foram otimizados a partir da análise de
+uma solução 100 µg L-1 dos parabenos metil, etil, propil, butil e benzil. Realizaram-se
+diversas análises variando-se o solvente utilizado para fase móvel e a porcentagem
+do mesmo. Outros parâmetros que foram fixados para as análises são a temperatura
+da coluna, comprimento de onda do detector e a vazão da fase móvel.
+As análises foram realizadas no HPLC Shimadzu Prominence e utilizou-se
+de uma coluna C18 (150 mm x 0,3 mm d.i. – tamanho das partículas: 2µm).
+As amostras posteriormente extraídas por SDME foram analisadas nas
+condições ótimas determinadas nesta primeira etapa do trabalho.
+
+3.3 Preparo da amostra
+O preparo da amostra foi realizado utilizando-se da solução de trabalho,
+transferindo-se 100 µL desta para um tubo Eppendorf de 2mL. Completou-se o
+volume do mesmo com 1,9 mL de esgoto produzido em laboratório (labmade). A
+amostra utilizada na extração possuía, então, concentração de 100 µg L -1 de cada
+parabeno.
+
+18
+
+O esgoto labmade utilizado foi preparado seguindo o método de TORRES,
+1992 e possui os componentes descritos na Tabela 2.
+Tabela 2 – Composição do esgoto labmade.
+
+Substância
+
+Concentração (mg L-1)
+
+Sacarose
+
+35
+
+Amido
+
+114
+
+Celulose
+
+34
+
+Extrato de carne
+
+208
+
+Óleo de Soja
+
+51
+
+NaCl
+
+250
+
+Detergente Comercial
+
+3 gotas
+
+MgCl2.6H2O
+
+7
+
+CaCl2.6H2O
+
+4,5
+
+NaHCO3
+
+200
+Fonte: TORRES, 1992.
+
+3.4 Extração por SDME
+Os parâmetros do software Arduino foram otimizados através de sucessivas
+extrações realizadas e posteriormente analisadas por cromatografia líquida de alta
+eficiência (HPLC). Realizaram-se extrações com 1, 10, 20, 25, 35 e 45 ciclos de
+exposição. Um ciclo de exposição é definido como o tempo no qual a gota de
+solvente extrator fica exposta em contato com a amostra. Após as análises
+apresentadas na seção 4.2 deste trabalho definiram-se os valores ideais para o
+número de ciclos da extração, o tempo de duração de cada ciclo, o tempo entre
+ciclos e o volume da gota de solvente exposta durante a extração.
+
+3.5 Secagem e resuspensão
+Após a extração, o solvente extrator foi transferido para um vial e seco com
+o auxílio de N2 inserido no meio. Quanto à condição de resuspensão da amostra,
+foram feitos testes em três condições diferentes: em 100 µL de água, 200 µL de
+
+19
+
+água e 200 µL de uma solução 5% de acetonitrila em água. Por fim, agitou-se o vial
+por 5 min para homogeneização da amostra.
+
+3.6 Estudo do efeito de matriz na extração por SDME
+Por fim, realizou-se o estudo sobre a influência da matriz no processo de
+extração por SDME. Realizaram-se em triplicata, extrações em esgoto labmade,
+amostra real de águas residuárias e água deionizada, todas com concentração de
+100 µg L-1 de parabenos, por meio da adição de 100 µL da solução de trabalho.
+
+4 RESULTADOS E DISCUSSÃO
+4.1 Otimização dos parâmetros da análise por HPLC
+Inicialmente, as análises por HPLC utilizaram uma mistura metanol/acetato
+de Etila 80:20 (v/v), seguindo testes realizados previamente no grupo de pesquisa.
+Entretanto, conforme pode ser observado nos cromatogramas da Figura 1, os
+resultados observados não foram satisfatórios. Inicialmente, utilizou-se uma
+porcentagem de 40 % da mistura de solvente orgânico na fase móvel (o restante foi
+completado com água) e, posteriormente, utilizou-se uma porcentagem de 60 %.
+Porém, apesar da evidente separação apresentada em ambos os cromatogramas, o
+tempo para análise foi considerado elevado. Destaque para o segundo, no qual os 5
+picos apresentaram boa resolução, mas o último deles teve um tempo de detecção
+próximo à 25 min. Desta forma, a análise não se mostra interessante por demandar
+um tempo muito elevado.
+Figura 1 - Cromatogramas de análise por HPLC utilizando como fase móvel a mistura metanol/acetato
+de etila (80:20): A) 40%; B) 60%.
+
+A)
+
+B)
+Metil
+Etil
+
+Metil
+
+Propil
+
+Etil
+
+Benzil
+Propil
+
+Butil
+
+20
+
+Assim, realizaram-se testes com o solvente acetonitrila nas proporções 25%,
+25%, 35% e 45% da fase móvel. Os cromatrogramas obtidos para 25% de
+acetonitrila na fase móvel encontram-se na Figura 2 e os resultados obtidos estão
+descritos na tabela 3. Em seguida, encontram-se os cromatogramas para 35% de
+acetonitrila na fase, expostos na Figura 3 e seus respectivos valores de tempo de
+retenção encontram-se na Tabela 4; por fim, os resultados obtidos para 45% de
+acetonitrila na fase móvel encontram-se na Figura 4 e Tabela 5.
+
+Figura 2 - Cromatogramas de análise por HPLC utilizando 25% de acetonitrila na fase móvel.
+
+Tabela 3 – Valores de Tempo de Retenção (TR) obtidos das análises por HPLC com 25% de
+acetonitrila na fase móvel.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+TR2
+
+3,446
+5,799
+9,108
+15,045
+16,190
+
+2,989
+4,428
+7,590
+13,346
+14,403
+
+TR médio TR erro (%)
+3,218
+5,114
+8,349
+14,196
+15,297
+
+10,04
+18,96
+12,86
+8,46
+8,26
+
+Figura 3 - Cromatogramas de análise por HPLC utilizando 35% de acetonitrila na fase móvel.
+
+21
+
+Tabela 4 – Valores de Tempo de Retenção (TR) obtidos das análise por HPLC com 35% de acetonitrila
+na fase móvel.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+TR2
+
+3,014
+4,317
+7,097
+12,842
+13,840
+
+2,908
+4,142
+6,845
+12,477
+13,437
+
+TR médio TR erro (%)
+2,961
+4,230
+6,971
+12,660
+13,639
+
+2,53
+2,93
+2,56
+2,04
+2,09
+
+Figura 4 - Cromatogramas de análise por HPLC utilizando 45% de acetonitrila na fase móvel.
+
+Tabela 5 – Valores de Tempo de Retenção (TR) obtidos das análises por HPLC com 45% de
+acetonitrila na fase móvel.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+TR2
+
+2,822
+3,587
+5,057
+9,525
+10,142
+
+2,993
+4,155
+6,390
+11,746
+12,645
+
+TR médio TR erro (%)
+2,908
+3,871
+5,724
+10,636
+11,394
+
+4,16
+10,38
+16,47
+14,77
+15,53
+
+Conforme observado, com 25% de acetonitrila na fase móvel, o tempo total de
+análise é o maior entre os três testes realizados, uma vez que os parabenos
+apresentam maior tempo de retenção nesta condição. Com 35% de acetonitrila na
+fase móvel, obteve-se uma análise mais rápida em relação a condição anterior e
+todos os cinco picos referentes aos parabenos estão bem definidos nos dois
+cromatogramas. Já com 45% de acetonitrila, o tempo total de análise é ainda menor
+que com 35%. Porém, observa-se em um dos cromatogramas que a separação
+entre os dois últimos picos (correspondentes ao butil e benzilparabeno) é muito
+
+22
+
+pequena. Além disso, com 35% de acetonitrila, a taxa de erro obtida é a menor entre
+as três condições, enquanto para 45% observa-se uma grande variação no tempo
+de retenção entre as duas análises realizadas. Desta forma, determinou-se que a
+condição ótima para a realização da análise de parabenos por HPLC se dá ao
+utilizar 35% de acetonitrila na fase móvel
+Para efeito de comparação entre as condições de fase móvel analisadas,
+apresenta-se um gráfico de barras na Figura 5 que evidencia a relação entre tempo
+de retenção e percentual de acetonitrila na fase móvel, bem como a variação dos
+mesmos obtida nas análises.
+
+Figura 5 – Comparação dos tempos de retenção obtidos para cada percentual de acetonitrila (ACN) na
+fase móvel.
+18,0
+
+Tempo de Retenção (min)
+
+16,0
+14,0
+12,0
+10,0
+
+25% ACN
+
+8,0
+
+35% ACN
+45% ACN
+
+6,0
+4,0
+
+2,0
+0,0
+
+Metil
+
+Etil
+
+Propil
+
+Butil
+
+Benzil
+
+Além de utilizar 35% de acetonitrila na fase móvel, estabeleceu-se outras
+condições de análise por HPLC como a temperatura da coluna em 40 ºC, vazão da
+fase móvel de 0,20 mL min-1, volume de injeção da amostra de 5 µL e comprimento
+de onda do detector UV-vis em 250 nm.
+
+23
+
+4.2 Otimização dos parâmetros para a extração por SDME
+Os parâmetros do software Arduino para a extração de parabenos por
+SDME foram otimizados a partir de uma sucessão de testes nos quais se variava a
+quantidade de ciclos da extração. Os testes com 1 e 10 ciclos não resultaram em
+picos correspondentes aos parabenos na análise por HPLC, indicando que até esta
+quantidade de ciclos não foi possível extrair tais moléculas. Em seguida realizou-se
+as extrações com 20, 25, 35 e 45 ciclos e os resultados estão expostos na Figura 6.
+O tempo de exposição da gota em cada ciclo, bem como o tempo entre cada ciclo e
+o volume da gota foram mantidos constantes ao longo dos testes e estão descritos
+na Tabela 6. Além disso, todas as extrações foram realizadas à temperatura de 25
+ºC e com amostras preparadas conforme a seção 3.3 deste trabalho.
+Figura 6 - Cromatogramas das extrações realizadas com: A) 20 ciclos; B) 25 ciclos; C) 35 ciclos; D) 45
+ciclos.
+
+A)
+
+B)
+
+C)
+
+D)
+
+24
+
+Tabela 6 – Parâmetros ótimos do software Arduino para a extração de parabenos.
+
+Parâmetros Software Arduino
+NÚMERO DE CICLOS
+
+35
+
+TEMPO DE EXPOSIÇÃO DA GOTA
+
+30 segundos
+
+TEMPO ENTRE GOTAS
+
+2,5 segundos
+
+VOLUME DA GOTA
+
+65 µL
+
+Conforme observado nos cromatogramas da Figura 6, a partir de 35 ciclos
+não há um aumento significativo no valor das áreas integradas, sendo que para
+alguns picos, o valor é maior na extração realizada com 35 ciclos em comparação
+com a feita com 45 ciclos. Em valores menores que 35 ciclos, notam-se valores de
+integrais menores e, portanto, conclui-se que a quantidade extraída de parabenos
+também foi menor. Entretanto, a partir de 35 ciclos não foi constatado um aumento
+significativo de extração. Desta forma, adotou-se o número de 35 ciclos como
+número ótimo para este tipo de extração, uma vez que demanda de menos tempo
+em relação a extração com 45 ciclos.
+É valido ressaltar que, nesta etapa do trabalho, já pode-se considerar que o
+método de extração automatizado desenvolvido pelo grupo de pesquisa é capaz de
+realizar a extração de parabenos por SDME.
+
+4.3 Otimização das condições de resuspensão dos analitos
+Inicialmente realizou-se a resuspensão dos parabenos extraídos em 100 µL
+de água e fez-se a análise por HPLC utilizando os parâmetros descritos na seção
+4.1. A fim de otimizar a condição de resuspensão, ou seja, resuspender a maior
+quantidade de parabenos contidas no vial após a secagem do solvente extrator,
+variou-se o volume de água utilizado para a resuspensão para 200 µL. O intuito do
+aumento do volume é permitir um maior contato entre a água e as paredes do vial e
+com isso, ressuspender uma quantidade maior de parabenos. E como observado
+nas Figuras 7 e 8 e na Tabela 7 e 8, as áreas dos picos são, em geral, um pouco
+maiores quando o volume de água no vial foi aumentado.
+
+25
+
+Figura 7 - Cromatogramas das amostras resuspendidas em 100 µL de água.
+
+Figura 8 - Cromatogramas das amostras resuspendidas em 200 µL de água.
+
+Tabela 7 – Valores de Tempo de Retenção (TR) e Área (A) obtidos dos cromatogramas das amostras
+resuspendidas em 100 µL de água.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+A1
+
+TR2
+
+A2
+
+2,987
+4,303
+7,132
+13,022
+14,078
+
+49912
+33532
+33024
+31416
+55450
+
+2,962
+4,241
+6,955
+12,542
+13,537
+
+42106
+57294
+60232
+45601
+39944
+
+TR
+médio
+2,9745
+4,2720
+7,0435
+12,7820
+13,8075
+
+A média
+
+TR erro (%)
+
+A erro (%)
+
+46009,0
+45413,0
+46628,0
+38508,5
+47697,0
+
+0,59
+1,03
+1,78
+2,66
+2,77
+
+12,00
+37,00
+41,26
+26,05
+22,99
+
+Tabela 8 – Valores de Tempo de Retenção (TR) e Área (A) obtidos dos cromatogramas das amostras
+resuspendidas em 200 µL de água.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+A1
+
+TR2
+
+A2
+
+3,006
+4,304
+7,045
+12,670
+13,670
+
+49737
+62086
+62920
+55608
+41322
+
+2,972
+4,255
+6,978
+12,557
+13,548
+
+49756
+55202
+55418
+42606
+42331
+
+TR
+médio
+2,9890
+4,2795
+7,0115
+12,6135
+13,6090
+
+A média
+
+TR erro (%)
+
+A erro (%)
+
+49746,5
+58644,0
+59169,0
+49107,0
+41826,5
+
+0,80
+0,81
+0,68
+0,63
+0,63
+
+0,03
+8,30
+8,97
+18,72
+1,71
+
+26
+
+O gráfico de barras com os valores das médias das áreas de cada condição
+de resuspensão, é representado na Figura 9, e neste fica claro que a melhor
+condição para resuspensão se dá na segunda situação. Apesar dos valores serem
+próximos, decidiu-se adotar o volume de 200 µL para a realização dos próximos
+testes, uma vez que este apresentou resultados ligeiramente melhores.
+
+Figura 9 – Comparação dos valores de área obtidos nos cromatogramas das amostras resuspendidas
+em 100 µL e 200 µL de água, com os respectivos desvios padrões.
+70.000
+60.000
+
+Área
+
+50.000
+40.000
+200 uL
+30.000
+
+100 uL
+
+20.000
+10.000
+0
+Metil
+
+Etil
+
+Propil
+
+Butil
+
+Benzil
+
+Por fim, fez-se a resuspensão com uma solução 5% de acetonitrila em água,
+a fim de facilitar a solubilidade dos parabenos na solução e, consequentemente,
+aumentar a quantidade de parabenos a ser injetada no cromatógrafo. Os resultados
+obtidos estão expressos na Figura 10 e Tabela 9 e, em seguida, fez-se uma
+comparação com a resuspensão em mesmo volume utilizando-se apenas água,
+correspondente à Figura 11.
+
+Figura 10 - Cromatogramas das amostras resuspendidas em 200 µL de solução 5% de acetonitrila em
+água.
+
+27
+
+Tabela 9 – Valores de Tempo de Retenção (TR) e Área (A) obtidos dos cromatogramas das amostras
+resuspendidas em 200 µL de solução 5% de acetonitrila em água
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+A1
+
+TR2
+
+A2
+
+3,024
+4,367
+7,210
+13,101
+14,166
+
+60115
+61194
+57247
+40296
+48460
+
+2,966
+4,245
+6,956
+12,541
+13,537
+
+62119
+63298
+59937
+45834
+44214
+
+TR
+médio
+2,9950
+4,3060
+7,0830
+12,8210
+13,8515
+
+A média
+61117,0
+62246,0
+58592,0
+43065,0
+46337,0
+
+TR erro (%) A erro (%)
+1,37
+2,00
+2,54
+3,09
+3,21
+
+2,32
+2,39
+3,25
+9,09
+6,48
+
+Figura 11 – Comparação dos valores de área obtidos nos cromatogramas das amostras resuspendidas
+em 200 µL de água e solução 5% de acetonitrila, com os respectivos desvios padrões.
+70.000
+60.000
+
+Área
+
+50.000
+40.000
+ACN 05%
+Água
+
+30.000
+20.000
+10.000
+0
+
+Metil
+
+Etil
+
+Propil
+
+Butil
+
+Benzil
+
+Através da análise do cromatograma obtido e da comparação com os
+valores das áreas obtidos na análise feita com resuspensão apenas em água,
+observa-se que a adição de acetonitrila auxilia na resuspensão dos parabenos,
+obtendo áreas maiores dos picos referentes aos mesmos. Portanto, definiu-se como
+condição ótima para a resuspensão a adição de 200 µL de solução 5% de
+acetonitrila.
+
+28
+
+4.4 Estudo do efeito de matriz na extração por SDME
+O efeito de matriz foi analisado realizando-se extrações em esgoto labmade,
+amostra real de águas residuárias e em água. Nas Figuras 12, 13 e 14 e nas
+Tabelas 10, 11 e 12, pode-se observar o comportamento das 3 matrizes e vemos
+que os picos se deslocam pouco em relação ao tempo de retenção, fator melhor
+ilustrado na Figura 15, que compara a média dos tempos de retenção nos três
+casos. Entretanto, na Figura 16, observa-se a comparação do valor das integrais de
+cada pico em cada caso e, com relação à este fator, é perceptível algumas
+diferenças que podem ser atribuídas aos efeitos das diferentes matrizes.
+
+Figura 12 - Cromatogramas das amostras extraídas em matriz de esgoto labmade.
+
+Tabela 10 - Valores de Tempo de Retenção (TR) e Área (A) obtidos dos cromatogramas das
+amostras extraídas em matriz de esgoto labmade.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+A1
+
+TR2
+
+A2
+
+TR3
+
+A3
+
+3,213
+4,615
+7,587
+13,700
+14,782
+
+57465
+51788
+56526
+40259
+41212
+
+3,111
+4,473
+7,360
+13,313
+14,390
+
+107043
+75480
+80353
+45110
+28164
+
+3,049
+4,372
+7,172
+12,916
+13,922
+
+28817
+25560
+28966
+18221
+15113
+
+TR
+médio
+3,1243
+4,4867
+7,3730
+13,3097
+14,3647
+
+A
+TR erro (%) A erro (%)
+média
+64441,7
+2,65
+61,42
+50942,7
+2,72
+49,02
+55281,7
+2,82
+46,52
+34530,0
+2,95
+41,50
+28163,0
+3,00
+46,34
+
+29
+
+Figura 13 - Cromatogramas das amostras extraídas em matriz de águas residuárias.
+
+Tabela 11 - Valores de Tempo de Retenção (TR) e Área (A) obtidos dos cromatogramas das
+amostras extraídas em matriz de amos tra de águas residuárias.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+A1
+
+TR2
+
+3,161
+4,544
+7,472
+13,483
+14,560
+
+29057
+29268
+34629
+24530
+21832
+
+3,135
+4,404
+7,227
+13,009
+14,003
+
+A2
+
+TR3
+
+A3
+
+45314 3,062 27595
+31183 4,378 27499
+40211 7,164 30538
+28761 12,888 20958
+24781 13,919 19237
+
+TR
+médio
+3,1193
+4,4420
+7,2877
+13,1267
+14,1607
+
+A
+TR erro (%)
+média
+33988,7
+1,65
+29316,7
+2,01
+35126,0
+2,23
+24749,7
+2,40
+21950,0
+2,46
+
+A erro (%)
+28,94
+6,28
+13,82
+15,78
+12,64
+
+30
+
+Figura 14 - Cromatogramas das amostras extraídas em matriz de água.
+
+Tabela 12 - Valores de Tempo de Retenção (TR) e Área (A) obtidos dos cromatogramas das
+amostras extraídas em matriz de água.
+
+Parabeno
+Metil
+Etil
+Propil
+Butil
+Benzil
+
+TR1
+
+A1
+
+TR2
+
+3,243
+4,655
+7,682
+13,877
+14,980
+
+63359
+61751
+61525
+37997
+29158
+
+3,130
+4,495
+7,396
+13,365
+14,427
+
+A2
+
+TR3
+
+A3
+
+53119 3,049 93799
+47344 4,346 70555
+51429 7,088 73998
+36475 12,766 50820
+33005 13,759 48852
+
+TR
+médio
+3,1407
+4,4987
+7,3887
+13,3360
+14,3887
+
+A
+TR erro (%)
+média
+70092,3
+3,10
+59883,3
+3,44
+62317,3
+4,02
+41764,0
+4,17
+37005,0
+4,25
+
+A erro (%)
+30,19
+19,57
+18,14
+18,87
+28,21
+
+31
+
+Figura 15 – Comparação dos valores dos tempos de retenção para os diferentes tipos de matriz.
+16,0
+
+Tempo de Retenção (min)
+
+14,0
+12,0
+10,0
+Labmade
+8,0
+
+Amostra Real
+Água
+
+6,0
+4,0
+2,0
+0,0
+Metil
+
+Etil
+
+Propil
+
+Butil
+
+Benzil
+
+Figura 16 – Comparação dos valores das áreas dos picos para os diferentes tipos de matriz.
+90.000
+80.000
+70.000
+
+Área
+
+60.000
+50.000
+
+Labmade
+Amostra Real
+
+40.000
+
+Água
+30.000
+20.000
+10.000
+0
+Metil
+
+Etil
+
+Propil
+
+Butil
+
+Benzil
+
+De maneira geral, vemos que o comportamento dos picos segue uma
+tendência quanto ao tamanho das áreas nos três diferentes tipos de matrizes. De
+acordo com a figura 5, o tamanho das áreas segue a ordem: Metil > Propil > Etil >
+Butil > Benzil, nos três casos analisados. Entretanto, quanto ao comportamento
+
+32
+
+individual de cada matriz, observa-se que a extração em amostra real é a que possui
+menos quantidade de parabenos extraída. Entre as extrações feitas em esgoto
+labmade e água, vemos uma pequena diferença. Porém, de maneira geral, as áreas
+dos picos são maiores para as extrações feitas em água.
+Assim, pode-se dizer que quão maior a presença de interferentes na matriz,
+menor é a quantidade de parabenos extraída no processo. Desta forma, é natural
+esperar que em água se obtenha os maiores picos na análise por HPLC, seguido do
+esgoto labmade e da amostra real.
+Outro ponto a se destacar é que as maiores variações nos valores dos picos
+obtidos ocorreram no pico referente ao metilparabeno. Este fato pode ser justificado
+pela maior quantidade de interferentes que também possuem tempos de retenção
+baixos e, com isso, podem interferir no sinal correspondente à este composto.
+Quanto ao tempo de retenção dos compostos, vemos que este apresenta
+pouca variação nas diferentes matrizes e, portanto, o efeito de matriz não exerce
+influência no mesmo em nenhum dos casos.
+5. CONCLUSÃO
+O método de microextração em gota única se mostrou aplicável para a
+realização da extração de parabenos em águas residuárias, fazendo o uso de um
+pequeno volume de amostra (2,0 mL) e de um volume ainda menor de solvente
+orgânico (300 µL). A baixa produção de resíduos é o grande diferencial desta técnica
+em relação a extração líquido-liquido convencional e apresenta-se em acordo com
+os princípios da química verde.
+O método foi desenvolvido e diversos parâmetros de suas diferentes etapas
+foram otimizados. Além disso, o método foi avaliado em diferentes tipos de matrizes,
+inclusive em uma matriz ambiental, comprovando sua aplicabilidade na detecção e
+quantificação de parabenos.
+
+6. PERSPECTIVAS FUTURAS
+Como complemento ao trabalho desenvolvido, deve-se realizar a validação
+do método de quantificação dos parabenos extraídos a partir da técnica
+desenvolvida em sus condições ótimas. Para tal, deve-se utilizar técnicas mais
+seletivas de análise e com melhor detectabilidade, como por exemplo, o
+
+33
+
+espectrômetro de massas acoplado ao HPLC, a fim de se obter um limite de
+detecção menor. Além disso, deverão ser considerados parâmetros analíticos que
+não foram abordados neste trabalho, tais como linearidade, seletividade, precisão,
+exatidão e robustez.
+
+7. REFERÊNCIAS
+ARTHUR, C. L.; PAWLISZYN, J. Solid Phase Microextraction with Thermal
+Desorption Using Fused Silica Optical Fibers. Analytical Chemistry, v. 62, n. 19, p.
+2145–2148, 1990.
+BŁĘDZKA,
+
+D.;
+
+GROMADZIŃSKA,
+
+J.;
+
+WĄSOWICZ,
+
+W.
+
+Parabens.
+
+From
+
+environmental studies to human health. Environment International, v. 67, p. 27–42,
+2014.
+CHEN, Y. et al. Sample preparation. Journal of Chromatography A, v. 1184, n. 1–
+2, p. 191–219, 2008.
+CIOLA, R. Fundamentos da Cromatografia a Líquido de Alto Desempenho. São
+Paulo: [s.n.].
+DE SOUSA, G. Medição da Comunicação em Crianças Portadoras de
+Deficiência Neuromotora. [s.l.] Universidade do Vale do Itajaí, 2006.
+DERISSO, C. R. Análise de parabenos em amostras de água de rios e de
+esgoto sanitário da cidade de São Carlos/SP. [s.l.] Universida de São Paulo,
+2017.
+DUARTE, M. A. I. Poluentes orgânicos persistentes. [s.l.] Universidade Federal do
+Rio de Janeiro, 2002.
+HAMAN, C. et al. Parabens. From environmental studies to human health. Water
+Research, v. 67, p. 27–42, 2015.
+HE, Y.; LEE, H. K. Liquid-Phase Microextraction in a Single Drop of Organic Solvent
+by Using a Conventional Microsyringe. Analytical Chemistry, v. 69, n. 22, p. 4634–
+4640, 1997.
+
+34
+
+HU, B. et al. Liquid phase microextraction for the analysis of trace elements and their
+speciation. Spectrochimica Acta - Part B Atomic Spectroscopy, v. 86, p. 14–30,
+2013.
+JEANNOT, M. A.; CANTWELL, F. F. Mass Transfer Characteristics of Solvent
+Extraction into a Single Drop at the Tip of a Syringe Needle. Analytical Chemistry,
+v. 69, n. 2, p. 235–239, 1997.
+JEANNOT, M. A.; PRZYJAZNY, A.; KOKOSA, J. M. Single drop microextractionDevelopment, applications and future trends. Journal of Chromatography A, v.
+1217, n. 16, p. 2326–2336, 2010.
+KOKOSA, J. M. Advances in solvent-microextraction techniques. TrAC - Trends in
+Analytical Chemistry, v. 43, p. 2–13, 2013.
+KOKOSA, J. M. Recent trends in using single-drop microextraction and related
+techniques in green analytical methods. TrAC - Trends in Analytical Chemistry, v.
+71, p. 194–204, 2015.
+LANÇAS, F. M. Avanços Recentes e Tendências Futuras das Técnicas de
+Separação : uma visão pessoal. Scientia Chromatographica, v. 0, n. 0, p. 17–44,
+2008.
+LI, W. et al. Occurrence and behavior of four of the most used sunscreen UV filters in
+a wastewater reclamation plant. Water Research, v. 41, n. 15, p. 3506–3512, 2007.
+LÓPEZ-BLANCO, C. et al. Determination of carbamates and organophosphorus
+pesticides by SDME-GC in natural water. Analytical and Bioanalytical Chemistry,
+v. 383, n. 4, p. 557–561, 2005.
+MACHADO, T. D. L. Potencial alérgico de conservantes cosméticos. [s.l.]
+Universidade do Centro Sul Catarinense - UNESC, 2010.
+MARTINS, M. L. et al. Microextração Líquido-Líquido Dispersiva (DLLME):
+fundamentos e aplicações. Scientia Chromatographica, v. 4, n. 1, p. 35–51, 2012.
+PIAO, C.; CHEN, L.; WANG, Y. A review of the extraction and chromatographic
+determination methods for the analysis of parabens. Journal of Chromatography B:
+Analytical Technologies in the Biomedical and Life Sciences, v. 969, p. 139–
+
+35
+
+148, 2014.
+PINTO, I. P. DE; PEDROSO, M. P. Microextração em gota única ( SDME ):
+fundamentos e aplicações. v. 7, n. 3, p. 183–198, 2016.
+PSILLAKIS, E.; KALOGERAKIS, N. Developments in single-drop microextraction.
+TrAC - Trends in Analytical Chemistry, v. 21, n. 1, p. 53–63, 2002.
+TORRES, P. Desempenho de um reator anaeróbico de manta de Lodo (UASB)
+de bancada no tratamento de substrato sintético simulando esgotos sanitários.
+1992. Tese de Mestrado - Escola de Engenharia de São Carlos, Universidade de
+São Paulo, São Carlos, 1992.
+WRÓBEL, A.; GREGORASZCZUK, E. L. Effects of single and repeated in vitro
+exposure of three forms of parabens, methyl-, butyl-And propylparabens on the
+proliferation and estradiol secretion in MCF-7 and MCF-10A cells. Pharmacological
+Reports, v. 65, n. 2, p. 484–493, 2013.
+ZHANG, M. et al. Mixed liquids for single-drop microextraction of organochlorine
+pesticides in vegetables. Talanta, v. 74, n. 4, p. 599–604, 2008.
+
+

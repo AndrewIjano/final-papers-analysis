@@ -1,0 +1,3890 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE ARQUITETURA E URBANISMO
+CURSO DE DESIGN
+
+Henrique José dos Santos Dias
+
+Design e Cidadania para a Segurança Alimentar e Nutricional na ciadade de São Paulo
+Design and Citizenship for Food and Nutrition Security in the city of São Paulo
+
+ORIENTADOR
+Prof. Dr. Robinson Salata
+
+São Paulo
+2017
+
+RESUMO
+Este trabalho é uma reflexão sobre como o Design de Produtos e Serviços inserem-se num ambiente fora da
+lógica de consumo de mercadorias. Essa reflexão partiu da condição brasileira de país periférico e dependente da economia dos países centrais. Apropriar-se desta concepção, portanto, leva e entender quais são
+as diferenças que um Design voltado à emancipação econômica deve afirmar. Não fez sentido nesse trabalho
+reproduzir a lógica dos mercados neoliberais de consumo, que beneficia somente parte restrita da economia
+global. Foi preciso encontrar outro contexto de atuação, que tivesse a capacidade de assegurar o interesse
+público de um território e não dos desejos individuais de consumidores. Assim, encontrou-se o campo da Cidadania com esse potencial e, com ela, seu arcabouço metodológico. Aplicando essa reflexão num contexto
+com alto potencial projetual, a problematização central e específica do trabalho é a Segurança Alimentar e
+Nutricional (tema transdisciplinar de alta complexidade). Nesse contexto, o Brasil encontra-se numa situação
+crítica devido à ofensiva de redes coorporativas de alimentos ultraprocessados, que gera problemas sociais de
+diferentes esferas. Por isso o projeto assume sua proposta de promoção de um palco de projetos e iniciativas
+locais relacionados à alimentação em seus diferentes desdobramentos sustentáveis, através do esboço um
+serviço público e suas evidências físicas no contexto do Design de Produtos. São experimentações metodológicas dos Metadesign, Teoria da Ação Dialógica e Arquitetura Livre (de autores especificados ao longo do
+texto). Em outras palavras, pode-se dizer que o trabalho é uma reflexão sobre uma política de Design Participativo aplicada ao campo da Segurança Alimentar e Nutricional. Buscou-se intervir no desequilibro do sistema
+através da conjugação do Design com a Cidadania. Para tanto, discutiu-se metodologias e suas aplicações
+coerentes com a lógica dos direitos humanos e os bens públicos. Trata-se, portanto, de uma discussão metodológica e prática sobre Design e Cidadania.
+
+Palavras-chave: Design de Produtos, Design de Serviços, Cidadania, Segurança Alimentar e Nutricional, Design
+para Sustentabilidade, Serviço Público, Metadesign, Teoria da Ação Dialógica.
+
+ABSTRACT
+This work is a reflection on how the Product and Services Design are inserted in an environment outside the
+logic of consumption of goods. This reflection started from the Brazilian condition of a peripheral country and
+dependent on the economies of the central countries. To take ownership of this conception, therefore, leads
+to an understanding of what are the differences that a Design aimed at economic emancipation must affirm. It
+did not make sense in this paper to reproduce the logic of neoliberal consumer markets, which benefits only
+a restricted part of the global economy. It was necessary to find another context of action, which had the capacity to ensure the public interest of a territory and not the individual desires of consumers. Thus, the field of
+Citizenship was found with this potential and, with it, its methodological framework. Applying this reflection in a
+context with high project potential, the central and specific problematization of the work is Food and Nutrition
+Security (highly complex transdisciplinary theme). In this context, Brazil is found in a critical situation due to the
+offensive actions of corporate networks of ultraprocessed foods, which generates social problems on different
+spheres. That is why the project assumes its proposal to promote a stage of local projects and initiatives related to food in its different sustainable developments, through the outline of a public service and its physical
+evidences in the context of Product Design. They are methodological experiments of the Metadesign, Theory
+of Dialogical Action and Free Architecture (of authors specified throughout the text). In other words, it can be
+said that this work is a reflection on a Participatory Design policy applied to Food and Nutrition Security. It was
+tried to intervene in the imbalance of the system through the junction of the Design with the Citizenship. For
+that, methodologies and their applications were discussed, consistent with the logic of human rights and public
+goods. It is, therefore, a methodological and practical discussion about Design and Citizenship.
+
+Keywords: Product Design, Service Design, Citizenship, Food and Nutrition Security, Sustainability Design, Public Service, Metadesign, Theory of Dialogical Action.
+
+SUMÁRIO
+RESUMO
+ABSTRACT
+INTRODUÇÃO
+1. OBJETIVOS 11
+1.1. OBJETIVOS GERAIS
+1.2. OBJETIVO ESPECÍFICO
+2. MÉTODO
+
+11
+11
+
+13
+
+3. PROBLEMATIZAÇÃO GERAL 15
+3.1. DEPENDÊNCIA TECNOLÓGICA: O BRASIL ENQUANTO PERIFERIA
+3.2. CIDADANIA COMO FERRAMENTA DE EMANCIPAÇÃO
+16
+3.3. DESIGN COMO FERRAMENTA DE PROMOÇÃO DA CIDADANIA
+4. METODOLOGIAS
+19
+4.1. METADESIGN 20
+4.2. ARQUITETURA LIVRE E TEORIA DA AÇÃO DIALÓGICA
+
+15
+17
+
+20
+
+5. PROBLEMATIZAÇÃO ESPECÍFICA: SEGURANÇA ALIMENTAR E NUTRICIONAL
+23
+5.1. POLÍTICAS PÚBLICAS
+24
+5.1.1. 1° PLANO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL DA CIDADE DE SÃO PAULO (PLAMSAN) 25
+5.2. TRANSDISCIPLINARIDADE EM SAN: CONHECIMENTOS ESPECÍFICOS
+27
+		
+
+5.2.1. SAÚDE
+
+		
+
+5.2.2. CULTURA (DIVERSIDADE)
+
+		
+
+5.2.3. EDUCAÇÃO ALIMENTAR E NUTRICIONAL (EAN)
+
+		5.2.4. TRABALHO
+
+27
+28
+
+30
+
+		5.2.5. MEIO-AMBIENTE 31
+
+6. ESTUDOS DE CASO 33
+6.1. PROJETOS
+33
+		
+
+6.1.1. NUTRI-AÇÃO (REDE CULTURAL BEIJA-FLOR) 33
+
+		
+
+6.1.2. EDUCAÇÃO ALÉM DO PRATO
+
+		
+
+6.1.3. FABLAB LIVRE SP 37
+
+35
+
+		6.1.4. GASTROMOTIVA 38
+		
+
+6.1.5. SLOW FOOD BRASIL
+
+6.2. ANÁLISE COMPARATIVA 40
+
+39
+
+29
+
+7. DIRETRIZES DO PROJETO 41
+7.1. DIAGNÓSTICO 41
+7.2. CONCEITUAÇÃO / POSICIONAMENTO
+
+42
+
+8. SOLUÇÕES 45
+8.1. SOLUÇÕES TCC1/ TCC2 45
+8.2. DESENVOLVIMENTO DO SERVIÇO 46
+		8.2.1. DEFINIÇÕES SOBRE USUÁRIO 46
+8.2.2. ESBOÇOS DO SERVIÇO 48
+8.3. MOBILIÁRIO 49
+		8.3.1. SISTEMA BAMBU 50
+		
+
+8.3.2. SISTEMA PVC
+
+51
+
+8.3.3. PRODUTOS E COMPONENTES
+52
+8.4. APRESENTAÇÕES
+56
+		8.4.1. EXEMPLOS E ILUSTRAÇÕES DO SERVIÇO
+		8.4.2. NARRATIVAS
+
+57
+
+9. CONSIDERAÇÕES FINAIS
+
+59
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+ANEXOS I, II e V
+ANEXOS III, IV e VI (avulsos)
+
+56
+
+INTRODUÇÃO
+Padrões tradicionais de alimentação, desenvolvidos e transmitidos ao longo de gerações, são fontes essenciais de conhecimentos para a formulação de recomendações que visam promover a alimentação adequada e saudável. Esses padrões resultam do acúmulo de conhecimentos sobre as variedades de plantas e de animais que mais bem se adaptaram às condições do clima e do solo, sobre as técnicas de produção
+que se mostraram mais produtivas e sustentáveis e sobre as combinações de alimentos e preparações culinárias que bem atendiam à saúde
+e ao paladar humanos. O processo de seleção subjacente ao período de desenvolvimento dos padrões tradicionais de alimentação constitui
+verdadeiro experimento natural e, nesta qualidade, deve ser considerado pelos guias alimentares. (BRASIL. Ministério da Saúde. 2014. p.21)
+O Brasil saiu do mapa da fome das Nações Unidas. Houve um recente acesso ao consumo por classes mais
+baixas da pirâmide de classes do país. Políticas de acesso ao crédito beneficiaram diversos estratos sociais da
+população e a economia girou.
+A recente ofensiva dos mercados internacionais de redes de alimentação no Brasil já apresenta impactos para
+a população brasileira. Índices alarmantes de obesidade por consumo de alimentos ultraprocessados têm
+crescido significativamente. Campanhas publicitarias não cansam de seduzir os consumidores pela estética do
+branding da alimentação.
+Ainda mais recentemente o Brasil entrou em recessão econômica. Resta atualmente um cenário alarmante de
+padrão de consumo de alimentos industrializados provenientes de redes internacionais, redução na oferta de
+empregos e ingestão inadequada de nutrientes pela alimentação.
+Não há especialista que, em suas áreas de conhecimento afim à alimentação, defenda ou corrobore a manutenção desse padrão. É preciso somar esforços para resgatar os vínculos tradicionais.
+Resgatar os vínculos tradicionais da alimentação quer dizer também estimular relação corpórea do ser humano com o ambiente, fortalecer as relações comunitárias e territoriais, dar voz àqueles que são esquecidos pela
+máquina capitalista e a monetarização do consumo. Reduzir as disparidades que ora promovem anemias ou
+deficiências nutricionais, ora promovem obesidades e excessos de ingestão de nutrientes.
+Nesse caso, tradição quer dizer vínculo corpóreo. Respeitar o movimento natural dos habitantes de seus territórios, palco de suas culturas. Estimular o equilíbrio na saúde, na economia, na política, no meio-ambiente e no
+trabalho. Todos eles estão inclusos na alimentação. E ela está no ser humano, que ao longo de sua história tem
+desenvolvido práticas alimentares tradicionais, muitas vezes não legitimadas pela cultura moderna.
+Este cenário parece apontar para a geração de novas alterativa arejadas dos velhos vícios do consumo. Buscase um pacto de beneficiamento mútuo entre sociedade civil e Estado, através de uma permeabilidade institucional deste último para as culturas tradicionais da primeira. A estratégia para tanto é o Design Participativo,
+numa conjugação entre democracia e práxis.
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+1. OBJETIVOS
+1.1. OBJETIVOS GERAIS
+Este trabalho objetiva contextualizar práticas de design no Brasil enquanto país periférico, a fim de tentar
+compreender as causas da frequente incompatibilidade dos projetos de design de produtos industriais
+com as reais necessidades dos brasileiros, seja em
+
+cional, refletindo sobre os atores envolvidos, suas
+articulações, o Sistema de Nacional de Segurança
+Alimentar e Nutricional e suas capilaridades e como
+o as metodologias de design aplicadas ao campo da
+Cidadania podem contribuir para o avanço e consolidação dessa política pública.
+
+suas esferas econômica, social, política, ambiental,
+
+Para tanto, propõe-se um projeto de intervenção que
+
+seja na perspectiva teórica ou cotidiana expressa nos
+
+tem a difícil tarefa de inserir de forma transdisciplinar
+
+conceitos dos objetos.
+
+num contexto com muitos níveis de complexidade.
+
+Observa-se muito frequentemente práticas de design voltadas às elites como fator de diferenciação
+simbólica. Mesmo quando os objetos se propõem
+com função prática primária, observa-se que estes
+problemas são resolvidos através de produtos voltados a pequenas parcelas da população. O design
+torna-se seletivo em termos de classe.
+O objetivo desse trabalho foi encontrar uma prática
+de design mais ampla em termos de acessos. Nesse
+caminho encontrou-se a ideia e prática da Cidadania,
+que assegura alguns interesses coletivos sob a perspectiva territorial e política. Portanto, foi preciso investigar quais métodos de projeto estariam de acordo com esses preceitos e como funciona a aplicação
+
+Trata-se de um projeto no campo do Design de Produtos que, em certa medida, questiona o conceito de
+produto como entidade fechada de componentes:
+um sistema construtivo apropriável tanto do ponto
+de vista técnico e construtivo, como do ponto de vista
+de seus componentes e produtos.
+No âmbito político, o trabalho orienta-se em propor um contexto de atuação do projeto de produto,
+componentes e técnicas construtivas que contribuam
+para a Segurança Alimentar em seu conceito mais
+amplo e transdisciplinar. Com esse viés, o Design de
+Serviços traz métodos e ferramentas de modelagem
+de processos que são muito úteis para analisar o contexto de articulação do projeto, desenho e usuário.
+
+destes métodos na experiência de projeto dentro de
+
+Busca-se, portanto, um projeto de produto e seu
+
+um recorte temático específico.
+
+contexto de atuação coerentes com os preceitos da
+Cidadania e, mais além, contribuam para a consoli-
+
+1.2. OBJETIVO ESPECÍFICO
+O objetivo específico deste trabalho é debruçar-se
+sobre o contexto da Segurança Alimentar e Nutri-
+
+dação do Direito Humano à Alimentação Adequada
+e Saudável e da política de Segurança Alimentar e
+Nutricional.
+
+11
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+2. MÉTODO
+O método de projeto não difere da metodologia clás-
+
+Nas fases descritas até então, predominam tarefas
+
+sica em Design (pesquisa e desenvolvimento). A es-
+
+de análise e investigação, que caracterizam o primei-
+
+pecificidade deu-se nas etapas iniciais, onde houve,
+
+ro momento de projeto em Design. Encerrado este
+
+em paralelo à problematização e contextualização,
+
+ciclo, adentrou-se num processo de transição onde
+
+uma fase inicial de croquis de infraestrutura e servi-
+
+foi realizado um diagnóstico entre as informações
+
+ços (anexo II). Esse acréscimo de método deu base
+
+pesquisadas e estudos de caso. Este diagnóstico deu
+
+para extrair das pesquisas subsequentes (bastante
+
+espaço às diretrizes e proposta de posicionamento
+
+abstratas) informações orientadas para a ação pro-
+
+do projeto.
+
+jetual. Essa fase inicial ajudou também a materializar
+as impressões prévias, que corriam o risco de serem
+genéricas e estereotipadas pelo fato de ainda não estarem embasadas com as informações especificas de
+pesquisa. Submeter essas impressões a um processo
+
+Na perspectiva de reorientar de encaminhamento do
+projeto com embasamento prático, houve também
+uma avaliação dos croquis realizados nas fases iniciais do projeto.
+
+racionalizável de análise foi importante para o desen-
+
+Foi fundamental, entre as fases de diagnóstico e di-
+
+volvimento do trabalho.
+
+retrizes, a entrevista realizada com a presidente da
+
+Após essa primeira etapa o trabalho adentrou na fase
+de revisão bibliográfica. Em um primeiro momento,
+esta foi orientada a questões gerais (discutidas na
+problematização geral) e metodológicas e, posteriormente, alocada no campo da problematização específica (Segurança Alimentar e Nutricional).
+
+COMUSAN (Conselho Municipal de Segurança Alimentar e Nutricional) e coordenadora de Segurança
+Alimentar do Instituto Pólis, Christiane Araujo Costa.
+Esta entrevista foi fundamental para o desenvolvimento do projeto, esclarecendo dúvidas e materializando abstrações adquiridas durante a pesquisa.
+Infelizmente, por problemas técnicos, não foi possí-
+
+Todas essas questões abstratas pesquisadas nessa úl-
+
+vel registrar a conversa. Fica aqui o agradecimento
+
+tima etapa descrita foram utilizadas como parâmetro
+
+à profissional pela disponibilidade e esclarecimentos
+
+de avaliação da etapa subsequente de estudos que
+
+tão caros a este trabalho.
+
+caso. Foram analisados separadamente cinco projetos que relacionam ao menos com alguns dos temas,
+e posteriormente realizou-se uma análise comparativa entre os casos.
+
+13
+
+14
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Após essa tarefa o trabalho passou por fases de estudos formais de projeto de produto e modelagens de serviço e sistemas, não necessariamente nessa ordem. Foram realizados alguns ensaios com modelos de estudo
+e croquis que serão descritos num capítulo mais oportuno. As soluções foram submetidas a subsequentes
+análises selecionou-se os partidos.
+Finalmente, os projetos foram finalizados e passaram por fase de estudos de comunicação, como forma de
+transmitir os conceitos propostos de maneira mais tangível.
+O capítulo de Considerações Finais é uma última etapa de avaliação das soluções e processos, apontando possíveis encaminhamentos, implementações, erros e acertos. Dessa maneira, o trabalho não se encerra (como
+aponta as discussões metodológicas discutidas durante a pesquisa). Entende-se que no campo da Cidadania,
+os processos tão fundamentais como os seus produtos. Nesse sentido, a análise e a síntese são dois termos
+projetuais em dialeticidade e o projeto está em transformação constante.
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+3. PROBLEMATIZAÇÃO GERAL
+3.1. DEPENDÊNCIA
+TECNOLÓGICA: O BRASIL
+ENQUANTO PERIFERIA
+
+sigual e alinhada aos interesses dos países centrais.
+Todo esse processo atribuiu ao Brasil a relação de dependência econômica e tecnológica em relação aos
+países centrais. De acordo com Bonsiepe:
+(...) desse modo, verifica-se que o valor econômico das patentes
+locais é praticamente nulo. Assim, não se pode negar o alarmante
+
+Em nenhum outro país foram assim contemporâneos e concomitantes processos como a desruralização, as migrações brutais desenraizadoras, a urbanização galopante e concentradora, a expan-
+
+peso econômico da dependência tecnológica. Ainda mais alarmantes são as implicações político-sociais da atual assimetria mundial
+do domínio tecnológico. (BONSIEPE. 2012. p. 39)
+
+são do consumo de massa, o crescimento econômico delirante, a
+
+O apontamento acima esclarece a relação fundamen-
+
+concentração da mídia escrita, falada e televisionada, a degradação
+
+tal de dependência nos dias de hoje, que se estabe-
+
+das escolas, a instalação de um regime repressivo com a supressão
+
+lece não na industrialização em si, mas na origem da
+
+dos direitos elementares dos indivíduos, a substituição rápida e
+
+tecnologia. Bonsiepe continua:
+
+brutal, o triunfo, ainda que superficial, de uma filosofia de vida
+que privilegia os meios materiais e se despreocupa com os aspectos finalistas da existência e entroniza o egoísmo como lei superior, porque é o instrumento da buscada ascensão social. Em lugar
+do cidadão formou-se um consumidor, que aceita ser chamado de
+usuário. (SANTOS. 2014. p. 25)
+Através das palavras acima, Milton Santos pontua o
+processo acelerado de “modernização” registrado
+na História do Brasil. A industrialização brasileira percorreu um caminho tortuoso e faz parte do processo
+descrito.
+Comparando-se o processo de industrialização dos
+países centrais (principalmente na Europa) com o
+brasileiro, encontra-se no primeiro um processo lento, gradual e coerente com a vida social e seus valores. O Brasil industrializou-se de forma tardia, de-
+
+Só haverá mudança do estado de dependência, passando para a
+interdependência, quando a industrialização nos países dependentes for acompanhada pela inovação tecnológica para abastecer
+a indústria local. (BONSIEPE. 2012. p. 41)
+Desenvolvendo as ideias acima, Bonsiepe chega no
+que ele denomina de déficit projetual da periferia,
+no qual o Design Industrial possui papel fundamental. Esse déficit mantem a periferia como reprodutora
+sistemática de tecnologia, e perpetua sua situação
+devido a um conjunto de interesses dos países centrais em manter a relação de dominação política e
+econômica.
+
+15
+
+16
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Dessa maneira, torna-se insuficiente para o contexto
+
+(...)A luta pelos direitos, todos eles, sempre se deu dentro das fron-
+
+dos países periféricos orientar o projeto de seus pro-
+
+teiras geográficas e políticas do Estado-nação. (CARVALHO. 2002.
+
+dutos apenas em seus parâmetros estéticos, simbó-
+
+p.12)
+
+licos e funcionais. É preciso estabelecer parâmetros
+fixados nos processos e relações de produção para
+abarcar a problemática da dependência geopolítica
+e econômica dos países centrais em relação aos periféricos.
+
+Assim como o processo de industrialização, a busca
+pela consolidação da cidadania no Brasil foi (e ainda
+é) muito turbulenta. Aqui houve também a inversão
+da direção das conquistas dos direitos (os sociais
+precederam os demais). Por duas ocasiões houve pe-
+
+Bonsiepe propõe ainda que haja políticas de promo-
+
+ríodos históricos de supressão dos direitos políticos:
+
+ção à Inovação Tecnológica na e para a periferia:
+
+duas ditaduras), além de golpes de Estado (alguns
+
+(...), todavia, a criação das condições para a inovação tecnológica
+local só poderá ser alcançada em prazos muito mais longos, mediante uma política explícita de domínio tecnológico (BONSIEPE.
+2012. p. 42).
+
+3.2. CIDADANIA COMO
+FERRAMENTA DE EMANCIPAÇÃO
+
+consolidados, outros não).
+Milton Santos denuncia ainda:
+O progresso material obtido nestes últimos anos no Brasil teve
+como base a aceitação extrema de uma racionalidade econômica
+exercida pelas firmas mais poderosas, estrangeiras ou nacionais, e
+o uso extremo da força e do poder do Estado na criação de condições gerais de produção propícias à forma de crescimento adotada.
+Essas condições gerais da produção não se cingiam à criação de
+infraestruturas e sistemas de engenharia adequados, mas che-
+
+Para o estudo e elaboração desse projeto, utilizou-se
+o modelo de cidadania proposto por Thomas Humphrey Marshall, que teve como base os processos
+ocorridos na Inglaterra, dentro desse âmbito. Esse
+modelo contempla em ordem: direitos civis, direitos
+políticos e direitos econômicos. Segundo José Murilo
+de Carvalho:
+(...) os direitos civis são os direitos fundamentais à vida, à liberdade, à propriedade, à igualdade perante à lei.
+
+gavam à formulação das condições políticas que assegurassem o
+êxito mais retumbante à conjugação de esforços públicos e privados, no sentido de ver o país avançando, em passo acelerado, para
+uma forma ‘superior’ de capitalismo. Por isso, a noção de direitos
+políticos e direitos individuais teve que ser desrespeitada, se não
+frequentemente pisoteada e anulada. (...) (SANTOS, 2014, p.15)
+Assim é possível identificar um ponto frágil da cidadania no Brasil. Com o investimento em tecnologia
+industrial inadequada (segundo o próprio autor) a
+cidadania atrofiou-se. Em outra oportunidade, Milton
+
+(...) os direitos políticos têm como instituição principal os partidos
+
+Santos contrapõe o conceito de cidadania ao de in-
+
+e um parlamento livre e representativo. São eles que conferem le-
+
+divíduo-consumo.
+
+gitimidade à organização política da sociedade. Sua essência é a
+ideia de autogoverno.
+
+Essas informações mostram como a história da cidadania no Brasil esteve atrelada a interesses econômi-
+
+(...) os direitos sociais permitem às sociedades politicamente or-
+
+cos específicos e distanciada da ideia de bem-estar
+
+ganizadas reduzir os excessos de desigualdades produzidos pelo
+
+social.
+
+capitalismo e garantir um mínimo de bem-estar para todos. A ideia
+central em que se baseiam é a da justiça social. (...) (CARVALHO.
+2002. p.9-10).
+
+Portanto, é preciso aproximar cidadania a bem-estar,
+e afastá-la desses interesses econômicos, interesses
+estes que resignam a situação do Brasil à país perifé-
+
+Além disso, a ideia de cidadania depende de um ter-
+
+rico dependente do centro. Por outro lado, é funda-
+
+ritório e deriva da ideia de Estado-nação:
+
+mental que a cidadania tenha papel propositivo na
+emancipação econômica do país.
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+3.3. DESIGN COMO FERRAMENTA
+DE PROMOÇÃO DA CIDADANIA
+Acerca dessas questões políticas e econômicas, este
+trabalho propõe-se a buscar a cidadania através do
+design.
+Voltando às ideias de Bonsiepe, percebe-se que há
+
+•
+
+a presença de um território;
+
+•
+
+a presença de um Estado;
+
+•
+
+a presença de uma nação (ou população);
+
+•
+
+a qualificação do projeto como política pública;
+
+•
+
+a articulação interdisciplinar (ou transdisciplinar)
+em redes, através das diferentes secretarias interessadas no tema do projeto;
+
+uma divergência entre o que se projeta no Brasil e
+
+É importante ressaltar que o campo da cidadania é
+
+as reais necessidades econômicas e políticas do país.
+
+essencialmente autóctone, no sentido de que as lu-
+
+Nesse contexto, é preciso direcionar os objetivos do
+
+tas dos diferentes movimentos sociais devem estar
+
+projeto:
+
+presentes, quando não à frente da geração das de-
+
+(...)3. Objetivos político-econômicos
+Um exemplo, um empresário que recorresse a um designer industrial para realizar o redesign de um produto, a fim de melhorar a
+posição de sua empresa no mercado, estaria impondo uma metodologia bem diversa daquela aplicável num contexto menos
+dominado pelas leis de mercado. Basta recordar os acordos de
+cartelização de preços entre as empresas de um setor industrial.
+Tendo os preços e os níveis tecnológicos nivelados, aumenta a responsabilidade do design para produzir diferenciais competitivos.1
+
+mandas.
+Ainda na perspectiva de José Murilo de Carvalho, o
+modelo de Marshall, por ser sequencial e, portanto,
+histórico, refere-se ao ocorrido no território inglês,
+podendo ser comparado ao que ocorreu no Brasil (e
+não aplicado de forma pura). Nesse sentido, as lutas
+sociais são inerentes à ideia de direito do cidadão,
+uma vez que estas representam o movimento da sociedade nos fluxos da história.
+
+(BONSIEPE. 2012. p. 95)
+A contradição dos interesses de mercado com as necessidades dos cidadãos dos países periféricos fica
+clara também com a oposição criada por Milton Santos:
+O modelo político e o modelo cívico foram instrumentais ao modelo econômico. As esperanças com que este último acenava às
+massas eram por demais sedutoras, e estas massas eram despertadas para a necessidade, o interesse, a vantagem de ampliação do
+consumo, mas não para o exercício da cidadania, que era cada vez
+mais amputada. (SANTOS. 2014. p.15-16)
+Estas reflexões são base para a estruturação do presente projeto, que estuda uma possibilidade de utilizar o design como ferramenta propositiva e de dialogo no sentido de avanços no campo dos direitos
+sociais.
+Esta é talvez a primeira solução do projeto, e que já
+atribui a priori características chave para direcionar a
+proposta:
+
+Bonsiepe aponta a necessidade esclarecer os objetivos políticos e econômicos do projeto, com intuito de obter as ferramentas
+metodológicas corretas. A defesa é que a dependência econômica dos países periféricos solicita um arcabouço próprio de métodos
+projetuais.
+1
+
+17
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+4. METODOLOGIAS
+A redução da heteronomia no sentido geopolíti-
+
+1. Projeto de produtos alternativos: em vez da milésima variante
+
+co através do design depende de um método que
+
+de uma caixa para televisor, uma luminária, desenvolver produtos
+
+possibilite a relação horizontal de quem projeta, de
+
+que transformem energia eólica em energia elétrica. Em lugar de
+
+quem produz os objetos e de quem utiliza estes ob-
+
+produtos alienantes, projetar objetos ou ferramentas ‘conviviais’
+
+jetos. Em outras palavras, o estudo do método deste
+
+(para usar um termo de Illich).
+
+projeto busca democratizar as relações sociais que o
+design estabelece no contexto brasileiro.
+
+2. Um enfoque diferente do mundo natural, preservando os recursos naturais, reduzindo a poluição: um enfoque pró-rural, antiur-
+
+De acordo com Gui Bonsiepe, no entanto, há uma
+
+bano, em que os produtos de longa duração substituam a acelera-
+
+tendência de se mascarar a origem dos objetos in-
+
+da troca de mercadorias.
+
+dustriais, numa perspectiva de geração de valor de
+troca no mercado internacional. Esse fetichismo é extremamente nocivo à democracia. O trecho abaixo foi
+extraído de um artigo publicado numa conferência,
+na Universidade Tecnológica Metropolitana, em Santiago do Chile.
+Galbraith critica o termo ‘mercado’ como instância anônima impessoal e insiste que se deveria falar do poder das grandes corporações. A este uso do design – em última instância como ferra-
+
+3. Uma ênfase diferente nos fatores de produção: projetar produtos que exijam mais mão de obra e menos bens de capital; produtos que possam ser fabricados com materiais locais; que favoreçam a fabricação descentralizada, em detrimento da fabricação em
+conglomerados multinacionais.
+4. Uma forma diferente de produção: substituir as formas de produção centralizada por outras de produção descentralizada, em
+pequenas cooperativas ou comunidades, para consumo próprio.
+
+menta de poder – se contrapõe a intenção de não concentrar-se
+
+5. Uma atitude diferente diante da produção e do consumo, bus-
+
+em aspectos meramente de poder e desta força anônima chamada
+
+cando aproximá-los entre si, para atingir certa autonomia na provi-
+
+mercado. Esta é a contradição na qual a prática profissional do de-
+
+são de bens materiais e serviços essenciais.
+
+sign se desenvolve, resistindo ao discurso harmonizador de que
+tudo está bem. Pode-se negar esta contradição, mas não se pode
+escapar dela. (GALBRAITH, 2004 apud BONSIEPE, 2005, p. 7)
+
+6. Um novo modo de apresentar e articular as necessidades: ao
+contrário da massa amorfa de consumidores – objeto de análise
+mercadológica -, os indivíduos e grupos articulam suas necessida-
+
+Nesse sentido, o contexto deste projeto solicita um
+
+des de forma ativa, rompendo a hegemonia dos cães de guarda
+
+método alternativo que seja propositivo quanto às
+
+do mercado.
+
+questões político-econômicas levantadas. Bonsiepe,
+em seu livro Design: como prática de projeto (já citado nesse trabalho) aponta:
+
+19
+
+20
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+7. Um design industrial mais equitativo; em vez de enfatizar os
+
+necer sensível aos desejos de seus usuários, a como eles querem
+
+matizes voláteis do status por meio de produtos, criar um design
+
+se associar, e quais devem ser os recursos disponibilizados pelo
+
+industrial que se preste a reduzir as desigualdades econômicas.
+
+sistema. Trata-se, portanto, de uma constante negociação entre as
+
+8. Um design industrial participativo, incorporando os próprios
+
+partes .(ALÂO, 2015, p. 127-128)
+
+consumidores na tarefa projetual (o profissional exercendo o papel
+
+Essa característica, que modifica o papel do desig-
+
+de catalisador, facilitando a intervenção dos usuários). (BONSIEPE,
+
+ner enquanto proponente exclusivo de um projeto
+
+2012, p. 96-97)
+
+fechado em si para um articulador de soluções é fundamental para a concepção de um cenário democrático e empoderador. Ao mesmo tempo, ocorre uma
+
+4.1. METADESIGN
+
+aproximação de quem produz, quem utiliza (produser) e quem projeta. Essa aproximação permite uma
+relação dialógica entre os participantes do projeto,
+
+Na mesma direção dos apontamentos de Bonsiepe
+está o metadesign, que é um conjunto de ferramentas que permitem a criação de um “palco” de soluções ocupado pelos usuários, tornando-os parte ativa
+da geração de soluções do projeto.
+(...)metadesign é uma estratégia que busca, via de regra, fazer do
+designer um facilitador ou intermediário entre os usuários. (ALÂO,
+2015, p. 125)
+
+fazendo com que a ocorrência de conflito por parte destes com alguma infraestrutura do sistema seja
+oportunidade de adaptação, ou, em outras palavras,
+de uma nova versão do sistema.
+Faz parte das premissas básicas que usos e problemas futuros não
+podem ser completamente antecipados no momento do design,
+quando um sistema é desenvolvido. Usuários, no momento do
+uso, descobrirão descompassos entre suas necessidades e o suporte que um dado sistema pode fornecer. Esses descompassos po-
+
+O Metadesign possui, portanto, a característica de
+
+dem levar a colapsos que servirão como fonte potencial de novos
+
+propor um ambiente de colaboração, que aloja os
+
+insights, novos conhecimentos e novos entendimentos. (GIACCAR-
+
+usuários de forma horizontal. Esse ambiente contém
+
+DI; FISCHER, 2004 apud ALÂO, 2015, p. 129)
+
+o designer, que participa do processo de projeto em
+conjunto com os usuários, no que Rui Alão compara
+com um processo de negociação.
+
+Portanto, a busca do método de atuação do design
+está em propor um sistema que se auto organize de
+maneira horizontal, através de uma política pública
+
+Quando se usam soluções colaborativas, portanto, quase sempre
+
+que proponha um cenário de relações interpessoais
+
+se está falando em metadesign: cria-se um serviço com recursos
+
+e de uso (e produção) com a infraestrutura, que seja
+
+necessários para que os usuários possam criar soluções se utilizan-
+
+horizontal e adaptativo às necessidades comumente
+
+do deles. Num primeiro momento, pode parecer que o designer
+
+apresentadas por qualquer sistema vivo.
+
+desaparece quando se usam técnicas de metadesign, ficando a
+responsabilidade da organização da solução por parte do usuário,
+mas não é este o caso. É o designer que concebe as possibilidades de interação entre os usuários: como eles poderão colaborar,
+o que poderão criar, como deverão compartilhar arquivos, como
+podem se associar, como poderão colher os frutos daquilo que pro-
+
+4.2. ARQUITETURA LIVRE E
+TEORIA DA AÇÃO DIALÓGICA
+
+duzem. Todas essas restrições são embutidas em um modelo de
+interação e de arquitetura de informação que é colocado no serviço
+que agrega os produsers. A concepção desse modelo, portanto, é
+de importância vital para que o projeto, seja ele qual for, tenha
+sucesso. É claro que o designer que projeta o sistema deve perma-
+
+Ainda na perspectiva do metadesign, Caio Vassão
+acrescenta a ideia de “Arquitetura Livre”, uma importante contribuição ao tema e que atribui caráter muito mais abrangente ao ferramental. Segundo o autor,
+historicamente a sociedade ocidental aloca a área da
+Cultura de Projetos como conhecimento científico, o
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+que não é suficiente para contemplar o escopo geral
+
+sofo e educador é essencialmente histórico e, portan-
+
+do campo. Parte significativa da atividade projetual
+
+to, atribui movimento ao processo educacional:
+
+orbita na subjetividade:
+
+A educação problematizadora, que não é fixismo reacionário, é
+
+Proponho que essa abordagem liberta de projeto seja denomina-
+
+futuridade revolucionária. Daí que seja profética e, como tal, espe-
+
+da Arquitetura Livre. Ela é uma abordagem de projeto que reco-
+
+rançosa. Daí que corresponda à condição dos homens como seres
+
+nhece a dimensão inescapavelmente subjetiva da criação e pro-
+
+históricos e à sua historicidade. Daí que se identifique com eles
+
+posta, e não toma a ciência como única forma de conhecimento
+
+como seres mais além de si mesmos-como projetos-, como seres
+
+válida, mas sim reconhece a imensidão de práticas de produção e
+
+que caminham para frente, que olham para frente; como seres que
+
+conhecimento, dentre elas a ciência. (VASSÂO, 2010, p. 93)
+
+a quem o imobilismo ameaça de morte; para quem o olhar para
+
+Em outro momento histórico e com outras ferramentas teóricas, Paulo Freire advoga por um método pedagógico que se localiza no mesmo campo de (in)
+consciência que Vassão2, porém com algumas abordagens ideológicas específicas, que serão tratadas
+adiante.
+A objetividade dicotomizada da subjetividade, a negação desta na
+análise da realidade ou ação sobre ela, é objetivismo. Da mesma
+forma, a negação da objetividade, na análise como na ação, conduzindo ao subjetivismo que se alonga em posições solipsistas,
+nega a ação mesma, por negar a realidade objetiva, desde que
+esta passa a ser criação da consciência. Nem objetivismo, nem subjetivismo ou psicologismo, mas subjetividade e objetividade em
+permanente dialeticidade. (FREIRE; Pedagogia do oprimido; p. 51)
+Esses posicionamentos sobre as metodologias apresentadas são importantes porque definem uma contraposição importante sobre a verticalização das relações de projeto (através da oposição à abordagem
+excessivamente técnica, em Vassão) e educacionais
+(através da oposição à concepção bancária de educação, em Paulo Freire).
+O segundo autor não propõe uma reflexão que se
+relaciona especificamente com o campo da Cultura
+
+trás não deve ser uma forma nostálgica de querer voltar, mas um
+modo melhor de conhecer o que está sendo, para melhor construir
+o futuro. Daí que se identifiquem com o movimento permanente
+em que se acham inscritos os homens, como seres que se sabem
+inconclusos; movimentos que é histórico e que tem o seu ponto
+de partida, o seu sujeito, o seu objetivo. (FREIRE, 2014, p. 102-103)
+Daí que a proposta de Paulo Freire seja chamada de
+“Teoria da Ação Dialógica”. É que, grosso modo, todas as relações propostas pelo autor são dialéticas. A
+partir dessa relação, coíbe-se o engessamento através da entrega de algo fechado em si (produto). Para
+tanto, é fundamental a abstração dos objetos (que
+funcionam como mediadores das relações humanas).
+As abstrações são a cristalização das práxis e do diálogo entre os seres humanos em colaboração envolvidos no processo.
+É possível observar semelhanças na Teoria da Ação
+Dialógica e Arquitetura Livre, onde Caio Vassão apresenta alguns princípios adaptados do Software Livre,
+de Richard Stallman:
+Proponho uma releitura e uma ampliação dos princípios de Stallman, para que possam ter aplicação em áreas não restritas ao Softwares Livre:
+
+de Projeto. Mesmo assim, alguns conceitos podem
+
+(1) Acessibilidade Cognitiva - não é o código de máquina que
+
+ser apropriados sem perda de sentido, uma vez que
+
+viabiliza o Software Livre, é o acesso ao código fonte que permite
+
+suas análises são abrangentes o suficiente para abar-
+
+a compreensão de um programa e sua alteração. Parte importante
+
+car o campo . Um desses conceitos é o das “práxis”,
+
+do Metadesign e da Arquitetura Livre é promover essa acessibili-
+
+que é uma maneira interessantíssima de propor uma
+
+dade.
+
+3
+
+construção crítica e coletiva das relações sociais. Nesse conceito, Freire defende a possibilidade de ação
+reflexiva, ou reflexão prática. A inversão é possível
+porque o movimento que define a relação dos dois
+termos é a dialética.
+O caráter dialético das relações defendidas pelo filó-
+
+(2) Compartilhar componentes - o que uma comunidade ou
+indivíduo criam pode ser muito útil ou interessante para outros. A
+comunidade que a criou não poderá determinar todos seus possíveis usos e aplicações. A apropriação deve ser liberta de uma préconfiguração que a capture e restrinja. Os objetos também devem
+ser libertos, mesmo que seja de seu próprio criador.
+
+A analogia proposta entre os autores é exclusivamente relacionada às duas instâncias (objetividade e subjetividade) dos objetos de análise
+dos autores: o projeto (em Vassão) e o método pedagógico (em Freire).
+2
+
+3
+
+Apesar da distinção apontada, Paulo Freire advoga por uma pedagogia com carater projetual, desafiador e problematizador.
+
+21
+
+22
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+(3) Formação de comunidades - os projetos de Software Livre
+
+que o faz, o seu ponto de decisão; 2) que esse movimento se dê
+
+envolvem a emergência autodeterminada de comunidades. Mes-
+
+não só no espaço, mas no tempo próprio do ser, do qual tenha
+
+mo que a entrada de grandes empresas de software nesse campo
+
+consciência. (FREIRE, 2014, p. 217)
+
+possa ter abalado essa tendência, os grandes projetos de Software
+Livre ainda são capitaneados por comunidades que contam com
+lideranças ‘fracas’, que ativam mais do que determinam.
+
+Para tanto, é necessário que, além das perspectivas
+do Metadesign e Arquitetura Livre, seja proposto um
+espaço de ação crítica (práxis) do usuário (produser),
+
+(4) Reputação e reconhecimento - a indicação da genealogia de
+
+onde este possa, a propósito das relações sociais já
+
+uma peça de software – o trajeto conceitual, produtivo, criativo, sob
+
+denunciadas, problematizar sua situação dentro da
+
+o qual se desenvolveu – envolve atribuir reputação e reconheci-
+
+perspectiva da cidadania.
+
+mento público aos atores envolvidos, para que se garanta a coesão da comunidade sem que se estimule o pensamento unívoco.
+Mesmo que ocorra a completa subversão de uma proposta, sua
+genealogia e filiação serão perceptíveis.
+No entanto, os princípios que discuti até agora requerem que mais
+um princípio seja colocado:
+(5) Corpo como principal referência de projeto - A acessibilidade cognitiva começa na percepção. Isso implica manter-se abertas
+as caixas pretas dos sistemas informacionais à percepção imediata. E as propostas devem, de alguma maneira, responder: ‘como
+o Corpo participa do processo? ’ Os bias instrumentais do Metadesign deve ser contrabalanceado pelo primado da percepção, do
+corpo, da informalidade. (VASSÂO, 2010 p. 111-112)
+A contribuição de Caio Vassão é fundamental para
+conceber
+
+tecnologias
+
+que
+
+sejam
+
+efetivamente
+
+apreensíveis pelos usuários, sendo essas apreensões
+tão próximas do nível não abstrato de percepção do
+corpo quanto possível. Dessa maneira há uma apropriação integral da tecnologia, na forma mais pura.
+A proposta deste trabalho é somar à ideia de Arquitetura Livre a Teoria da Ação Dialógica. Essa decisão
+foi tomada, pois algumas ideias de Paulo Freire, em
+concordância com algumas ideias do Metadesign e
+Arquitetura Livre, abarcam também a problematização inicial apontada neste trabalho: as contradições
+tecnológicas intrínsecas às relações geopolíticas dos
+países periféricos com os centrais (onde se encontra
+o Brasil). Como afirma o próprio autor:
+Esta é a razão por que não pode haver desenvolvimento socioeconômico em nenhuma sociedade dual, reflexa, invadida.
+É que, para haver desenvolvimento, é necessário: 1) que haja um
+movimento de busca, de criatividade, que tenha, no ser mesmo
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+5. PROBLEMATIZAÇÃO ESPECÍFICA:
+SEGURANÇA ALIMENTAR E NUTRICIONAL
+Como proposta de estudo de métodos de projeto
+
+tidade e variedade justas, à produção destes, à So-
+
+em design no campo da cidadania, especificou-se os
+
+berania Alimentar, entre outras características vincu-
+
+rumos deste trabalho na área da alimentação huma-
+
+ladas à toda cadeia de produção de distribuição de
+
+na, entendendo esta como um direito humano e, não
+
+alimentos.
+
+obstante, do cidadão brasileiro:
+
+Contíguo ao conceito de SAN está também a Edu-
+
+A alimentação adequada e saudável é um direito humano básico
+
+cação Alimentar e Nutricional (EAN), que no contex-
+
+que envolve a garantia ao acesso permanente e regular, de forma
+
+to das políticas públicas é fundamental para que os
+
+socialmente justa, a uma prática alimentar adequada aos aspectos
+
+conceitos abstratos e transdisciplinares possuam pro-
+
+biológicos e sociais do indivíduo e que deve estar em acordo com
+
+ximidade com a realidade da população.
+
+as necessidades alimentares especiais; ser referenciada pela cultura alimentar e pelas dimensões de gênero, raça e etnia; acessível
+do ponto de vista físico e financeiro; harmônica em quantidade e
+qualidade, atendendo aos princípios da variedade, equilíbrio, moderação e prazer; e baseada em práticas produtivas adequadas e
+sustentáveis. (BRASIL. Ministério da Saúde, 2014, p.8)
+Muito próxima à ideia de Direito Humano à Alimentação Adequada (DHAA) está o de Segurança Alimentar e Nutricional (SAN):
+
+Recentemente, o Brasil passou por um avanço no
+tema alimentação, saindo do mapa da fome das
+Nações Unidas. Esse fato representa um indiscutível
+passo em direção à equidade social. No entanto, com
+esse evento vieram outras modificações socioculturais que trouxeram novos problemas para o campo.
+Nos últimos anos (principalmente após os anos 1990
+e a abertura econômica aos mercados internacionais), o Brasil observou uma crescente entrada de
+
+A segurança alimentar e nutricional consiste na realização do direi-
+
+serviços de alimentação de origem internacional, no-
+
+to de todos ao acesso regular e permanente a alimentos de qua-
+
+tavelmente as redes de alimentação fast-food.
+
+lidade, em quantidade suficiente, sem comprometer o acesso a
+outras necessidades essenciais, tendo como base práticas alimentares promotoras da saúde que respeitem a diversidade cultural e
+que sejam ambiental, cultural, econômica e socialmente sustentáveis. (Art. 3º). (CONSEA; 2006, p.4)
+Fica claro no trecho acima o caráter transdisciplinar
+da SAN. Não é suficiente entender esse conceito
+como simples aquisição dos nutrientes, mas, forma
+mais ampla, como o acesso aos alimentos em quan-
+
+A partir da década de 1990, o mercado das refeições fora do lar
+conheceu um grande desenvolvimento no Brasil. Os motivos para
+que isso acorresse foram vários: abertura da economia, criação do
+Mercosul, estabilização econômica, privatização de empresas estatais e globalização. (MONTEIRO, 2013, p.181)
+Observa-se, portanto uma crescente onda trazida
+pelo consumo desses alimentos. Outra característica
+foi o aumento do consumo de alimentos ultraproces-
+
+23
+
+24
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+sados industrialmente, e com ela uma enorme ofen-
+
+A primeira conferência sobre o tema ocorreu nos
+
+siva das campanhas publicitárias por produtos oriun-
+
+anos 1990, porém somente em 2006 com a criação
+
+dos desse tipo de indústria. Ambos os movimentos
+
+da lei consolidou-se uma Política Nacional de Segu-
+
+representam uma perda significativa na identidade
+
+rança Alimentar e Nutricional que iniciou um proces-
+
+das culturas locais, um decréscimo da qualidade dos
+
+so de articulação das três categorias do poder públi-
+
+alimentos ingeridos e distância cognitiva e produtiva
+
+co (união, estado e municípios) sobre o tema.
+
+dos usuários (consumidores) da cadeia de produção.
+Esse processo está vinculado ao aumento nos índices
+de obesidade e algumas doenças crônicas derivadas
+da ingestão desse tipo de alimentos.
+
+A LOSAN contempla o Direito Humano à Alimentação Adequada, o conceito de Segurança Alimentar e
+Nutricional (exposto no tópico anterior) e o Sistema
+Nacional de Segurança Alimentar e Nutricional. Este
+
+Mais de dois terços dos comerciais sobre alimentos veiculados
+
+sistema apresenta o Conselho (nacional, estadual
+
+na televisão se referem a produtos comercializados nas redes de
+
+ou municipal) de Segurança Alimentar e Nutricional
+
+fast-food, salgadinhos “de pacote”, biscoitos, bolos, cereais mati-
+
+como eixo articulador da Conferência (nacional, es-
+
+nais, balas e outras guloseimas, refrigerantes, sucos adoçados e
+
+tadual ou municipal) de Segurança Alimentar e Nutri-
+
+refrescos em pó, todos esses ultraprocessados. A maioria desses
+
+cional, que por sua vez legitima as Câmaras interseto-
+
+anúncios é dirigida diretamente a crianças e adolescentes. O estí-
+
+riais, como demonstra o infográfico abaixo:
+
+mulo ao consumo diário e em grande quantidade desses produtos
+é claro nos anúncios. (BRASIL. Ministério da Saúde, 2014, p.118)
+
+Segundo consta no 1° Plano Municipal em Segurança
+Alimentar e Nutricional, os planos (o próprio munici-
+
+Essa relação das campanhas publicitárias é aponta-
+
+pal, o estadual e o nacional) são construídos de forma
+
+da por Paulo Freire de forma mais ampla, como uma
+
+participativa com a sociedade civil e membros das
+
+forma pelas quais algumas culturas dominantes e he-
+
+secretariais interessadas no processo. Em tese, as di-
+
+gemônicas esmagam (termo cunhado pelo próprio
+
+retrizes do plano nacional devem seguir de maneira
+
+autor) as potencialidades dos oprimidos.
+
+transversal até o municipal, passando pelo estadual.
+
+Se estas crenças nos falha, abandonamos a ideia, ou não a temos,
+
+Para realização deste projeto, utilizou-se como base
+
+do diálogo, da flexão, da comunicação e caímos nos slogans, nos
+
+as informações, diagnósticos e diretrizes apresenta-
+
+comunicados, nos depósitos, no dirigismo5. Esta é uma ameaça
+
+das no 1° Plano Municipal de Segurança Alimentar
+
+contida nas inautênticas adesões à causa da libertação dos ho-
+
+e Nutricional de São Paulo, em conjunto com alguns
+
+mens.(FREIRE, 2014, p. 73)
+
+apontamentos e análise apresentadas no Guia Ali-
+
+Sendo assim, o Brasil se encontra num momento histórico delicado no que toca o tema alimentação. Fazem-se necessárias políticas públicas que assegurem
+
+mentar e Nutricional para a população brasileira
+confeccionado pelo Ministério da Saúde do Governo
+Federal, em 2014.
+
+a permanência dos vínculos territoriais tão raros não
+somente à análise da cultura, mas à saúde, meio-ambiente, economia e sociedade como um todo.
+
+5.1. POLÍTICAS PÚBLICAS
+As políticas públicas na área de Segurança Alimentar
+e Nutricional no Brasil evoluíram significativamente
+na última década. Quando foi criada a Lei Orgânica
+de Segurança Alimentar e Nutricional (LOSAN) e o
+Sistema Nacional de Segurança Alimentar e Nutricional (SISAN).
+
+A concepção de dirigismo de Paulo Freire também pode estender-se à produtos de projetos oriundos do Design que não possuem caráter
+dialógico com seus usuários, leitores ou clientes.
+5
+
+25
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+GOVERNO MUNICIPAL
+
+GOVERNO ESTADUAL
+
+GOVERNO FEDERAL
+
+SISAN
+GERAL
+Conselho Nacional de Segurança Alimentar e Nutricional (CONSEA)
+Conferência Nacional de Segurança Alimentar e Nutricional
+Câmara Interministerial de Segurança Alimentar e Nutricional
+Plano Nacional de Segurança Alimentar e Nutricional
+
+Conselho Estadual de Segurança Alimentar e Nutricional (CONSEA SP)
+Conferência Estadual de Segurança Alimentar e Nutricional
+Câmara Intersecretarial de Segurança Alimentar e Nutricional do Estado de São Paulo
+
+Conselho Municipal de Segurança Alimentar e Nutricional (COMUSAN)
+Conferência Municipal de Segurança Alimentar e Nutricional
+Câmara Intersecretarial de Segurança Alimentar e Nutricional do Município de
+São Paulo (CAISAN)
+Plano Municipal de Segurança Alimentar e Nutricional
+
+ESPECÍFICO
+
+Figura 1: infrográfico SISAN
+Fonte: acervo pessoal
+
+5.1.1. 1° PLANO MUNICIPAL DE
+SEGURANÇA ALIMENTAR E NUTRICIONAL
+DA CIDADE DE SÃO PAULO (PLAMSAN)
+
+de produção. Uma solução encontrada foi a adesão
+com o Programa de Aquisição de Alimentos (PAA) do
+Governo Federal, que comtempla essas duas dimensões.
+O incentivo à produção também ocorre no cerne das
+
+O plano em questão problematiza a agricultura nas
+regiões urbanas e periurbanas na cidade de São
+Paulo. Resiliente à grande indústria de alimentos e
+a urbanização que não a contempla, a agricultura na
+
+Hortas Urbanas, mais concentradas na região leste
+da cidade e a multiplicação das Escolas Estufas, que
+disponibilizam cursos de capacitação técnica para a
+população.
+
+cidade de São Paulo precisa ser fortalecida no con-
+
+Nesse ano, 2016, foi lançado o Programa Agriculturas Paulistanas,
+
+texto de SAN. Para tanto, o plano defende projetos
+
+que tem por objetivo articular diferentes Secretarias e respectivas
+
+de assessoria técnica aos agricultores (principalmen-
+
+ações e ampliar os serviços voltados à produção de alimentos na
+
+te de agricultura familiar). Outra preocupação é com
+
+cidade de São Paulo. Foram entregues maquinários da ‘Patrulha
+
+a distribuição de produtos provenientes desse tipo
+
+Agrícola’ para uso dos agricultores, possibilitando facilidades no
+trato com a terra e impulsionando a produção.
+
+26
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Além disso, a prefeitura conta com 32 Escolas Estufas que estão
+
+tram mais dificuldade em consolidar uma experiência
+
+alocadas no âmbito das 32 subprefeituras e fazem parte do Pro-
+
+de cidadania em SAN, como é o caso de assentamen-
+
+grama Hortas e Viveiros da Comunidade. Como primeira etapa
+
+tos indígenas, pessoas trans e travestis, pessoas em
+
+do Programa foram feitas articulações com o Programa Operação
+
+situação de rua, idosos e pessoas pretas e pardas.
+
+Trabalho (POT), unindo a formação agroecológica e orgânica (por
+meio de atividades teóricas e práticas de manuseio do solo e cultivo), trabalho e renda para pessoas desempregadas e em vulnerabilidade social. O próximo passo é a reestruturação das Escolas
+
+A busca pela equidade do plano consolida-se nos
+princípios, listados a seguir:
+•
+
+Intersetorialidade: ação em diálogo de diferentes
+
+Estufas (reforma do espaço, reconstrução das estufas, etc.), mobi-
+
+conhecimentos específicos, bem como membros
+
+lização de entidades, órgãos e pessoas do entorno para participa-
+
+da sociedade civil e poder público a fim de pro-
+
+rem de ações formativas em produção agroecológica e orgânica
+
+mover a interação entre os setores.
+
+com o objetivo de popularizar as técnicas e fomentar a produção
+de hortas, pequenos jardins comestíveis, etc. Corroborando, assim,
+
+•
+
+população em seu território para produzir, comer-
+
+com a premissa da preservação ambiental. (SÃO PAULO.Prefeitura
+
+cializar e organizar seu alimento de acordo com
+
+Municipal, 2016, p.18-19)
+Outra dificuldade à implementação de políticas de
+SAN é a desigualdade territorial e de distribuição de
+
+sua própria cultura.
+•
+
+Participação e Controle Social: organiza e atribui
+(co) responsabilidades ao diferentes grupos so-
+
+renda na cidade de São Paulo. A região centro-oeste
+
+ciais e poder público, garantindo um processo de
+
+da cidade, mais irrigada de infraestrutura urbana é
+
+democracia participativa.
+
+também mais bem abastecida em alimentos in natura, mais frescos e de qualidade. A cidade ainda possui
+
+Soberania Alimentar: define o protagonismo da
+
+•
+
+Descentralização Administrativa e Política: defe-
+
+desertos alimentares. No sentido de prover alimentos
+
+sa da autogestão. No contexto da Cidade de São
+
+de qualidade e a preços acessíveis para as regiões
+
+Paulo, descentralizar também significa dialogar
+
+desfavorecidas nesse aspecto, o plano defende a re-
+
+com a capilaridade das subprefeituras. Porém,
+
+vitalização do papel social dos Mercados e Sacolões
+
+também significa fomentar produção e adminis-
+
+Municipais, que podem ser espaços de comercializa-
+
+trações locais e autóctones.
+
+ção de produtos oriundo de produção agroecológica
+local, bem como espaço de formação e cultura.
+
+O plano também conta com diretrizes, tiradas das
+conferências como sugestões de projetos e propos-
+
+b) Diferenças entre os diversos tipos de estabeleci-
+
+tas de consolidação da SAN e EAN na cidade, lista-se
+
+mentos de comercialização de alimentos
+
+abaixo os títulos das diretrizes6:
+
+- Feiras-Livres, mercados municipais e sacolões apre-
+
+_Diretriz 1: promoção do acesso à alimentação adequada e saudá-
+
+sentaram o maior acesso a alimentos saudáveis (in-
+
+vel e água, com prioridade para as famílias e pessoas em situação
+
+cluindo disponibilidade, variedade e promoção e
+
+de INSAN;
+
+propaganda), seguidos por supermercados. “Pequenos mercados de bairro” apresentaram os piores índices de acesso a alimentos saudáveis.
+- Estabelecimentos de comercialização de alimentos localizados
+em bairros de maior nível socioeconômico – independente se
+eram ‘pequenos mercados de bairro’, supermercados ou feiras-livres – apresentaram um melhor acesso a opções saudáveis, quando comparados a estabelecimentos similares, mas localizados em
+áreas de menor nível socioeconômico. (SÃO PAULO.Prefeitura Municipal, 2016, p.23)
+Alguns grupos sociais específicos também encon-
+
+(...)
+_Diretriz 2: promoção do abastecimento público e estruturação de
+sistemas sustentáveis e descentralizados, de base agroecológica e
+solidária de produção, processamento, distribuição e comercialização de alimentos;
+(...)
+_Diretriz 3: instituição de processos permanentes de educação alimentar e nutricional e cultura alimentar, visando a promoção de
+hábitos alimentares saudáveis, com ações formativas, a partir do
+diagnóstico das necessidades locais, com foco nas tecnologias de
+
+Os princípios são preceitos apresentados no corpo do 1°PLAMSAN, já as diretrizes são deliberações coletivas da Conferência Municipal de
+Segurança Alimentar e Nutricional e que também constam no fim do plano.
+6
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+informação e da educação popular, bem como, incentivar a pesquisa e formação nas áreas de SAN e DHAA;
+(...)
+_Diretriz 4: promoção, universalização e coordenação das ações de
+SAN voltadas para os povos e comunidades tradicionais de que trata o Art. 3º, inciso I, do Decreto nº 6.040, de 7 de fevereiro de 2007,
+povos indígenas e assentados da reforma agrária;
+(...)
+_Diretriz 5: fortalecimento das ações de alimentação e nutrição em
+todos os níveis da atenção à saúde, de modo articulado às demais
+ações de SAN, considerando todos os ciclos da vida;
+(...)
+_Diretriz 6: monitoramento da realização do DHAA. (SÃO PAULO.
+Prefeitura Municipal, 2016)
+
+entre os conhecimentos específicos.
+
+5.2.1. SAÚDE
+Segundo o “Guia Alimentar para a População Brasileira”, não é possível generalizar necessidades básicas
+de alimentação. Dessa maneira, uma política pública
+eficiente do ponto de vista do valor nutricional da alimentação deve abranger a capacitação das pessoas
+envolvidas, para que estas tenham autonomia de entender suas próprias necessidades e especificidades
+(físicas, etárias, sexo, financeiras, etc.). Além disso, é
+preciso abranger a possibilidade real da nutrição de
+resolver problemas da Epidemiologia (disseminação
+e prevenção de doenças), que é bastante específico
+do ponto de vista territorial.
+Finalmente, o leitor deste guia notará que não há destaque nas re-
+
+5.2. TRANSDISCIPLINARIDADE
+
+feições apresentadas para a quantidade absoluta de cada alimento
+
+EM SAN: CONHECIMENTOS
+
+proposital uma vez que as necessidades nutricionais das pessoas,
+
+ESPECÍFICOS
+
+da idade, sexo, tamanho (peso, altura) e nível de atividade física.
+
+ou para a quantidade total de calorias nas refeições. Esta omissão é
+particularmente de calorias, são muito variáveis, dependendo
+Além disso, há bastante variabilidade entre as pessoas quanto a
+como distribuem sua alimentação ao longo das refeições do dia.
+
+A Câmara Intersecretarial de Segurança Alimentar e
+Nutricional do Município de São Paulo (CAISAN), responsável pela intersetorialidade disciplinar e instituicional na implementação da SAN na cidade de São
+Paulo é composta pelas seguintes secretarias: Desenvolvimento Trabalho e Empreendedorismo, Saúde, Direitos Humanos e Cidadania, Coordenação de
+Subprefeituras, Verde e Meio Ambiente e Desenvolvimento e Assistência Social, além o próprio Governo.
+Subentende-se nesse contexto algumas áreas de conhecimento específicas envolvidas no processo de
+
+(...) (BRASIL. Ministério da Saúde, 2014, p.56)
+Os alimentos também são categorizados como portadores de nutrientes, mas não podem ser substituídos de forma absoluta por seus componentes químicos. Ao contrário, faz parte da lógica de SAN pensar
+na alimentação como combinação de alimentos, que
+possuem nutrientes, mas também propriedades culturais, sociais e econômicas que também se relacionam com a área da saúde.
+Alimentação é mais que ingestão de nutrientes
+
+implementação das políticas em SAN e os desafios
+
+Alimentação diz respeito à ingestão de nutrientes, como também
+
+que cada uma dessas áreas apresentam para a con-
+
+aos alimentos que contêm e fornecem os nutrientes, a como ali-
+
+solidação da proposta.
+
+mentos são combinados entre si e preparados, a características do
+
+Será possível observar uma relação direta entre cada
+um dos tópicos a seguir e entre si. Os temas ora se
+repetem, ora se interseccionam, ora se completam.
+
+modo de comer e às dimensões culturais e sociais das práticas alimentares. Todos esses aspectos influenciam a saúde e o bem-estar.
+(BRASIL. Ministério da Saúde, 2014, p.23)
+
+Isso ocorre pois não é possível entender Segurança
+
+Sendo assim é importante entender a maneira como
+
+Alimentar e Nutricional isoladamente. Somente numa
+
+os alimentos relacionam-se entre si, para combiná-los
+
+perspectiva sistêmica é que se compreende a relação
+
+27
+
+28
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+também com critério nutricional. Os produtos desse
+segmento podem ser classificados como in natura ou
+
+5.2.2. CULTURA (DIVERSIDADE)
+
+minimamente processados, processados e ultraprocessados. A orientação é que se consuma o máximo
+
+A compreensão da relevância das singularidades cul-
+
+dos primeiros, o mínimo dos segundos e evitar os
+
+turais provenientes da alimentação de cada popula-
+
+terceiros. Outra maneira de classificar os alimentos é
+
+ção e o vínculo com seu território é fundamental no
+
+através da sua propriedade nutricional (pirâmide ali-
+
+conceito de SAN. A identidade de cada povo possui
+
+mentar). Observa-se a presença de alimentos energé-
+
+elementos de significação próprios, sendo a alimen-
+
+ticos, reguladores, construtores e energéticos extra.
+
+tação um desses elementos de produção de cultura.
+
+Nessa ordem, orienta-se a consumir maior quantida-
+
+É importante que a cultura esteja em constante movi-
+
+de dos primeiros e menor quantidades dos últimos.
+
+mento e que a cidadania permita e acompanhe esse
+
+Finalmente, é importante a constante higienização
+dos ambientes e produtos para a prevenção de
+
+movimento, através da flexibilização de sua infraestrutura e de processos políticos participativos.
+
+contaminações. Uma preocupação constante de es-
+
+Finalmente, alimentos específicos, preparações culinárias que
+
+tabelecimentos que atuam nesse segmento é a con-
+
+resultam da combinação e preparo desses alimentos e modos de
+
+taminação cruzada, que consiste na transferência de
+
+comer particulares constituem parte importante da cultura de uma
+
+microrganismos responsáveis pela proliferação de
+
+sociedade e, como tal, estão fortemente relacionados com a identi-
+
+doenças.
+
+dade e o sentimento de pertencimento social das pessoas, com a
+
+•“(...)
+•Circulação e fluxos bem definidos: projetar espaços levando-se
+em consideração os fluxos determinantes, a fim de se evitar a contaminação cruzada dos alimentos por bactérias nocivas à saúde
+como consequência de deslocamentos desnecessários; (MONTEIRO, 2013, p.82)
+
+sensação de autonomia, com o prazer propiciado pela alimentação
+e, consequentemente, com o seu estado de bem-estar.(BRASIL. Ministério da Saúde, 2014, p.16)
+O Brasil assiste um processo de destradicionalização
+de sua cultura alimentar através de culturas hegemônicas que ocupam cada vez mais espaço nas cidades
+(como São Paulo). Esse processo ocorreu em geral à
+
+Para evitar esse tipo de contaminação, orienta-se que
+
+revelia da participação crítica da população, o que
+
+os projetos das infraestruturas dos estabelecimentos
+
+corrobora a tese de Paulo Freire sobre a situação do
+
+relacionados à alimentação estejam atentas sobre o
+
+oprimido frente à invasão cultural do opressor. De
+
+fluxo de alimentos e trabalhos, para que um tipo de
+
+acordo com o Guia Alimentar à População Brasileira:
+
+alimento (carnes, por exemplo) não entre em contato com outro tipo (vegetais, por exemplo), nem suas
+bancadas de trabalho, tábuas de corte, cubas de
+higienização, vasilhas de transporte, etc. O fluxo do
+serviço deve prever a separação do manejo dos tipos
+do alimentos em todas as etapas (triagem, seleção,
+transporte, higienização, corte, cocção e descarte).
+
+No Brasil e em muitos outros países, o processo de transmissão de
+habilidades culinárias entre gerações vem perdendo força e as pessoas mais jovens possuem cada vez menos confiança e autonomia
+para preparar alimentos. As razões para isso são complexas e envolvem a desvalorização do ato de preparar, combinar e cozinhar alimentos como prática cultural e social, a multiplicação das tarefas cotidianas e a incorporação da mulher no mercado formal de trabalho,
+além da oferta massiva e da publicidade agressiva dos alimentos
+ultraprocessados. As propagandas desses alimentos muitas vezes
+sugerem que sua fabricação reproduz exatamente os ingredientes
+e os passos das preparações culinárias, o que não é verdade. Segundo essas propagandas, preparar alimentos em casa seria uma
+perda de tempo, que poderia ser usado em outras atividades mais
+‘produtivas’. (BRASIL. Ministério da Saúde, 2014, p.112)
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+O trecho anterior apresenta pontos de reflexão im-
+
+das. Porém o conceito não é suficiente para a imple-
+
+portantes sobre a cultura da alimentação brasileira. O
+
+mentação da experiência do ser humano enquanto
+
+primeiro deles é a comensalidade, que é o ato de se
+
+cidadão. O Design pode ajudar a construir espaços
+
+alimentar coletivamente e a relação de pertencimen-
+
+de cidadãos autônomos que usem e experienciem a
+
+to e identidade no ato de comer. Essa característica
+
+cidadania como interface de forma participativa.
+
+tão rara à grande parte dos povos e culturas existentes no Brasil está se extinguindo, principalmente nas
+grandes cidades. Esse fenômeno ocorre em partes (e
+este é o segundo ponto de reflexão) pela inclusão da
+mulher ao mercado de trabalho. Nesse sentido, torna-se fundamental a promoção de políticas públicas
+de incentivo à concomitante inclusão do homem à
+administração doméstica, como estratégia para devolver os hábitos alimentares para esses ambientes.
+Outro ponto fundamental é a formação crítica da po-
+
+A Soberania Alimentar somente será possível se acontecer em
+paralelo com a soberania política dos povos que precisam ter
+condições políticas para exercer a autonomia dos seus territórios
+e sobre o Estado, para que este possa aplicar políticas que gerem
+autonomia na produção de alimentos. (SÃO PAULO.Prefeitura Municipal, p.42)
+
+5.2.3. EDUCAÇÃO ALIMENTAR E
+NUTRICIONAL (EAN)
+
+pulação sobre sua condição passiva frente às grandes empresas, que aparece na supremacia política
+
+O conceito de Educação Alimentar e Nutricional está
+
+dos materiais das campanhas publicitárias e na au-
+
+alinhado com as concepções educacionais apresen-
+
+sência de participação popular nos rumos da alimen-
+
+tadas por Paulo Freire, em “Pedagogia do Oprimido”.
+
+tação nos mercados. É preciso, portanto que a EAN
+
+A situação do Brasil em SAN não pode ser dissociada
+
+contemple a formação crítica nesse aspecto.
+
+da situação de dependência econômica, que tem le-
+
+Nesse sentido, o processo de destradicionalização
+cultural da alimentação está sendo observado pelo
+poder público, resta agora políticas afirmativas que
+fortaleçam as culturas tradicionais. O design tem papel fundamental no processo de rompimento ou fortalecimento de hábitos e, portanto, vínculos.
+
+vado ao processo de destradicionalização dos hábitos alimentares, entendidos em toda a sua cadeia de
+produção e consumo. É importante que as práticas
+de EAN promovam o despertar crítico nos educandos, para que estes se reconheçam uns nos outros
+como cidadãos e pertencentes às suas respectivas
+culturas locais. Para que isso ocorra, é preciso proje-
+
+Não obstante, a proteção dos valores do campo em
+
+tar e implementar práticas que materializam a “Teoria
+
+relação a esse processo deve também estar no esco-
+
+da Ação Dialógica” (já apresentada no capítulo ante-
+
+po da cidadania em SAN. A agricultura familiar pro-
+
+rior).
+
+move, mais do que uma forma de produção autônoma uma identidade e cultura próprias:
+
+Em consonância, o Marco de Referência de Educação Alimentar e
+Nutricional para as Políticas Públicas, lançado em 2012 pelo Minis-
+
+Famílias desse tipo, com essas características, nos seus distintos
+
+tério do Desenvolvimento Social e Combate à Fome, aborda que a
+
+modos de existência no decorrer da história da formação social bra-
+
+‘Educação Alimentar e Nutricional (EAN), no contexto da realização
+
+sileira, teceram um mundo econômico, social, político e cultural
+
+do DHAA e da garantia da SAN, é um campo de conhecimento e
+
+que se produz, reproduz e afirma na sua relação com outros agen-
+
+de prática contínua e permanente, transdisciplinar, intersetorial e
+
+tes sociais. Estabeleceram uma especificidade que lhes é própria,
+
+multiprofissional, que visa promover a prática autônoma e volun-
+
+seja em relação ao modo de produzir e à vida comunitária, seja na
+
+tária de hábitos alimentares saudáveis. A prática da EAN deve fazer
+
+forma de convivência com a natureza. (MST, online)
+
+uso de abordagens e recursos educacionais problematizadores e
+
+Por fim, o conceito (e princípio do 1° Plano Municipal
+de Segurança Alimentar e Nutricional da cidade de
+São Paulo) de Soberania Alimentar parece contemplar afirmativamente as questões culturais aponta-
+
+ativos que favoreçam o diálogo junto a indivíduos e grupos populacionais, considerando todas as fases do curso da vida, etapas do
+sistema alimentares e as interações e significados que compõem
+o comportamento alimentar’. (SÃO PAULO.Prefeitura Municipal,
+p.30)
+
+29
+
+30
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Para que isso ocorra, é imprescindível que os educa-
+
+a outros equipamentos públicos, que não são usual-
+
+dores (entendidos aqui de forma ampla, como qual-
+
+mente usados a esse fim. Uma proposta do 1° Plano
+
+quer servidor público que esteja atuando no sentido
+
+Municipal de SAN da cidade de São Paulo foi o uso
+
+de consolidação da cidadania) esteja imerso e efeti-
+
+dos mercados e sacolões municipais também como
+
+vamente envolvido com as comunidades locais. Os
+
+espaço de formação e capacitação na área. As práti-
+
+objetos nesse sentido devem estimular e, para além,
+
+cas educacionais podem estar presentes nas Hortas e
+
+problematizar a situação dos cidadãos. A infraestrutu-
+
+Viveiros Urbanos (mais concentrados na região leste
+
+ra e o trabalho nesse caso são medições das relações
+
+da cidade de São Paulo) e Escolas Estufas (como o
+
+humanas, através da cooperação.
+
+próprio nome já pressupõe).
+
+Dessa maneira, o educador já não é o que ao pensar educa, mas o
+
+O trecho abaixo sintetiza de forma bastante eficiente
+
+que, enquanto educa, é educado, em diálogo com o educando que,
+
+as questões apresentadas nesse tópico:
+
+ao ser educado, também educa. Ambos, assim, se tornam sujeitos
+do processo em que crescem juntos e em que os ‘argumentos de
+autoridade’ já não valem. Em que, para ser-se, funcionalmente,
+autoridade, se necessita de estar sendo com as liberdades e não
+contra elas. Dessa maneira, o educador já não é o que ao pensar
+educa, mas o que, enquanto educa, é educado, em diálogo com
+o educando que, ao ser educado, também educa. Ambos, assim,
+se tornam sujeitos do processo em que crescem juntos e em que
+os ‘argumentos de autoridade’ já não valem. Em que, para ser-se,
+funcionalmente, autoridade, se necessita de estar sendo com as
+liberdades e não contra elas. (FREIRE, 2014, p. 96)
+Uma das dificuldades encontradas na cidade de São
+Paulo para a implementação dessa lógica de EAN
+
+Assim, instrumentos e estratégias de educação alimentar e nutricional devem apoiar pessoas, famílias e comunidades para que
+adotem práticas alimentares promotoras da saúde e para que
+compreendam os fatores determinantes dessas práticas, contribuindo para o fortalecimento dos sujeitos na busca de habilidades
+para tomar decisões e transformar a realidade, assim como para
+exigir o cumprimento do direito humano à alimentação adequada
+e saudável. É fundamental que ações de educação alimentar e nutricional sejam desenvolvidas por diversos setores, incluindo saúde, educação, desenvolvimento social, desenvolvimento agrário e
+habitação.(BRASIL. Ministério da Saúde, 2014, p.22)
+
+5.2.4. TRABALHO
+
+é não conscientização dos profissionais da área de
+educação com esses conceitos pedagógicos, e me-
+
+Recentemente, na maior parte do mundo, as formas de produzir
+
+nos ainda com familiarizados com estes conceitos
+
+e distribuir alimentos vêm-se modificando de forma desfavorável
+
+quando aplicados à área de SAN.
+
+para a distribuição social das riquezas, assim como para a auto-
+
+(...)além disso, é fundamental a inserção dos pais e da comunidade para que de fato, possam promover ações de acordo com as
+necessidades da região.
+As ações de EAN são um momento pedagógico, rico e importantíssimo para a formação de hábitos alimentares saudáveis e prática
+da cidadania. Na grande maioria das vezes, apesar da determinação legal de incluir a educação alimentar e nutricional como tema
+a ser trabalhado pelos professores, isto não acontece. A falta de
+compreensão de que a alimentação é um tema que norteia todo
+o desenvolvimento do aluno, do cognitivo, afetivo e social, além
+do desconhecimento do tema e a falta de estímulo no desenvolvimento de práticas ou estratégias pedagógicas dificultam a sua
+abordagem. (SÃO PAULO.Prefeitura Municipal, p.30-31)
+
+nomia dos agricultores, a geração de oportunidades de trabalho
+e renda, a proteção dos recursos naturais e da biodiversidade e a
+produção de alimentos seguros e saudáveis. (BRASIL. Ministério da
+Saúde, 2014, p.19)
+O Brasil tem avançado continuamente no processo
+de mecanização da produção de alimentos (agropecuária intensiva). O cenário é de cada vez mais investimentos em tecnologias que permitam monoculturas que servem de matéria-prima para indústrias que
+processam alimentos para distribuição em mercados
+privados ou como ração para a pecuária. Esse processo, além de apresentar impacto ambiental negativo, contribui para a má distribuição de renda e terra
+e o distanciamento entre o trabalhador e o produto
+
+Devido ao caráter essencialmente transdisciplinar da
+
+final de seu trabalho. Do ponto de vista político, há
+
+SAN e da EAN, uma possibilidade de implementação
+
+uma perda significativa em autonomia por parte do
+
+dessa lógica é a extensão das práticas pedagógicas
+
+trabalhador.
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+Estão perdendo força sistemas alimentares centrados na agricultu-
+
+Na Zona Leste da cidade existem as hortas comunitárias. São cerca
+
+ra familiar, em técnicas tradicionais e eficazes de cultivo e manejo
+
+de 40 hortas, nas quais trabalham 79 famílias que tem como ati-
+
+do solo, no uso intenso de mão de obra, no cultivo consorciado
+
+vidade principal a produção vegetal. Como destino da produção
+
+de vários alimentos combinado à criação de animais, no proces-
+
+está o autoconsumo e comercialização dos alimentos. Os produto-
+
+samento mínimo dos alimentos realizado pelos próprios agricul-
+
+res adotam diferentes sistemas de comercialização, entre os quais
+
+tores ou por indústrias locais e em uma rede de distribuição de
+
+destacam a venda direta na horta, e as feiras orgânicas e agroeco-
+
+grande capilaridade integrada por mercados, feiras e pequenos
+
+lógicas. (SÃO PAULO.Prefeitura Municipal, p.17)
+
+comerciantes. No lugar, surgem sistemas alimentares que operam
+baseados em monoculturas que fornecem matérias-primas para a
+
+e
+
+produção de alimentos ultraprocessados ou para rações usadas na
+
+Na Zona Sul da cidade existem cerca de 400 produtores rurais, na
+
+criação intensiva de animais. Esses sistemas dependem de gran-
+
+qual se identifica o maior número de produtores com atividades
+
+des extensões de terra, do uso intenso de mecanização, do alto
+
+de AUP. (...) (SÃO PAULO.Prefeitura Municipal, p.17)
+
+consumo de água e de combustíveis, do emprego de fertilizantes
+químicos, sementes transgênicas, agrotóxicos e antibióticos e, ainda, do transporte por longas distâncias. Completam esses sistemas
+alimentares grandes redes de distribuição com forte poder de negociação de preços em relação a fornecedores e a consumidores
+finais. (BRASIL. Ministério da Saúde, 2014, p.19-20)
+
+É importante também que as cozinhas profissionais
+estejam atentas às concepções propostas pela SAN,
+gerando mão-de-obra e mais além, capacitação de
+mão-de-obra, promovendo autonomia e não alienação do trabalho. A tecnologia, nesse sentido, deve
+ser utilizada como ferramenta de auxílio ao trabalho
+
+O trabalho, no que toca a última etapa da cadeia de
+
+e ao bem comum da sociedade, e não como instru-
+
+produção dos alimentos (mercados de distribuição
+
+mento de promoção de desigualdades.
+
+ou redes de cozinhas profissionais) também tem se
+alterado. Comercializam-se cada vez mais alimentos
+processados ou ultraprocessados, que tem tecnologia agregada e muitas vezes menos mão-de-obra en-
+
+5.2.5. MEIO-AMBIENTE
+
+volvida no processo:
+O futuro das preparações em cozinhas profissionais está baseado
+na tendência mundial do uso de produtos pré-processados e pré
+-elaborados, que necessitam apenas de finalização para torná-los
+atraentes para consumo e para paladares individualizados.
+(MONTEIRO, 2013, p.183)
+
+O problema da cadeia de produção do setor de alimentos relacionado à Sustentabilidade Ambiental
+possui relação direta com a escala de produção e sua
+logística. De forma geral, monoculturas tendem a utilizar mais agrotóxicos. Seus produtos finais, quando
+destinados às grandes indústrias de processamento
+
+É interessante, como prática de implementação de
+
+de alimentos ou pecuária apresentam impacto am-
+
+SAN a proteção à Agricultura Familiar, mantendo os
+
+biental negativo, como emissão significativa de me-
+
+vínculos sociais do trabalho e da terra. Especifica-
+
+tano ao ar ou contaminação do solo pelo uso de an-
+
+mente na cidade de São Paulo existe uma quantida-
+
+tibióticos. A logística também é um fator importante
+
+de significativa de Agricultura Urbana e Periurbana
+
+de emissão de poluentes, quando a distribuição dos
+
+(AUP), porém insipiente do ponto de vista da cida-
+
+produtos se dá em grandes distâncias.
+
+dania. A cidade já aderiu ao Projeto de Aquisição de
+Alimentos do Governo Federal (PAA), que beneficia
+a Agricultura Familiar. O 1° Plano Municipal de SAN
+iniciou um mapeamento desses locais. Apesar de ser
+um passo importante do ponto de vista do trabalho
+em SAN, os números são insuficientes para suprir sequer parte significativa da demanda da cidade.
+
+Em relação ao impacto ambiental de diferentes formas de produção e distribuição dos alimentos, há de se considerar aspectos
+como técnicas empregadas para conservação do solo; uso de fertilizantes orgânicos ou sintéticos; plantio de sementes convencionais ou transgênicas; controle biológico ou químico de pragas e
+doenças; formas intensivas ou extensivas de criação de animais;
+
+31
+
+32
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+uso de antibióticos; produção e tratamento de dejetos e resíduos;
+
+munitária, por exemplo, encaminhe seu lixo orgânico
+
+conservação de florestas e da biodiversidade; grau e natureza do
+
+para a compostagem de alguma Horta Orgânica ou
+
+processamento dos alimentos; distância entre produtores e con-
+
+Escala Estufa; seu lixo reciclável pode ser compacta-
+
+sumidores; meios de transporte; e a água e a energia consumidas
+
+do e encaminhado para cooperativas de reciclagem.
+
+ao longo de toda a cadeia alimentar. (BRASIL. Ministério da Saúde,
+
+Todo esse processo pode ser integrado e gerador de
+
+2014, p.19)
+
+mão-de-obra e capacitação.
+
+Numa das maneiras de fomentar a sustentabilidade,
+em suas diversas esferas, está a Agroecologia. Essa
+concepção de produção lança bases para resgatar
+vínculos tradicionais com o meio-ambiente (alguns
+deles esquecidos pela modernidade). No setor de
+alimentos, a busca por produtos que se propõe orgânicos (e, portanto, de base agroecológica) tem
+crescido nos últimos anos, principalmente nas classes médias. É importante, no entanto, que toda a cadeia de produção esteja de acordo com as bases da
+Agroecologia, para que o conceito de Produto Orgânico não se torne mais um fetiche de diferenciação
+de mercado para aumentar as vendas de determinada marca do segmento.
+Alimentos de origem vegetal ou animal oriundos de sistemas que
+promovem o uso sustentável dos recursos naturais, que produzem
+alimentos livres de contaminantes, que protegem a biodiversidade, que contribuem para a desconcentração das terras produtivas
+e para a criação de trabalho e que, ao mesmo tempo, respeitam e
+aperfeiçoam saberes e formas de produção tradicionais são chamados de alimentos orgânicos e de base agroecológica.
+Quanto mais pessoas buscarem por alimentos orgânicos e de base
+agroecológica, maior será o apoio que os produtores da agroecologia familiar receberão e mais próximos estaremos de um sistema
+alimentar socialmente e ambientalmente sustentável.(BRASIL.
+Ministério da Saúde, 2014, p.32)
+Portanto, é inviável pensar em Agroecologia ou Sustentabilidade ambiental desvinculados da escala de
+produção, pois esta modifica diretamente os impactos ambientais de toda a cadeia de produção. Reduzir
+a cadeira significa contribuir para a sustentabilidade.
+A lógica de serviços em rede é bastante útil para
+articular demandas e cruzá-las com o reuso ou reciclagem de resíduos. Assim, na perspectiva dos Equipamentos Públicos é possível que uma Cozinha Co-
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+6. ESTUDOS DE CASO
+Os estudos de caso foram realizados através pesqui-
+
+preventiva e educação nutricional e são voltados ao
+
+sas de campo ou pesquisas via internet. O intuito das
+
+atendimento de crianças e adolescentes em situação
+
+analises foi entender a lógica de projeto, concepção
+
+de vulnerabilidade social pertencentes às comunida-
+
+e implementação das ações e tipo de gestão. Não
+
+des onde os núcleos estão localizados.
+
+foram analisadas questões legais, burocráticas ou
+mesmo práticas que eventualmente dificultem o andamento normal das propostas. No total são 5 projetos que se relacionam de alguma maneira com os
+conceitos de SAN ou EAN ou com as discussões propostas no capítulo “4. Metodologias”.
+Num segundo momento, foi realizada uma análise de
+comparativa entre os 5 estudos de caso, com alguns
+parâmetros que se destacam no contexto desse trabalho.
+
+6.1. PROJETOS
+
+Figura 2: logotipo da Rede Cultural Beija-flor
+Fonte: https://twitter.com/RCBeijaFlor
+
+A organização em rede, que se configurou ao longo
+da história do projeto, é interessante porque articula demandas em frentes de atuação (práxis) que,
+
+6.1.1. NUTRI-AÇÃO
+(REDE CULTURAL BEIJA-FLOR)
+
+interconectadas, se fortalecem. O Núcleo de Comunicação Olhar Social, por exemplo, atua na área de
+Comunicação Social e Educomunicação. Esse núcleo possui uma rádio que promove capacitação nas
+
+A Rede Cultural Beija Flor é uma organização social
+
+áreas citadas. Além disso, divulga e fortalece outros
+
+(OS), localizada nos municípios de Diadema (SP)
+
+projetos da rede e possibilita um olhar sobre a pró-
+
+e Itanhaém (SP). A rede possui diversos projetos e
+
+pria comunidade através de trabalhos jornalísticos,
+
+programas espalhados por quatro núcleos: Espaço
+
+fortalecendo vínculos de identidade e estimulando a
+
+Cultural Beija-Flor, Núcleo de Comunicação Olhar
+
+consciência crítica e problematizadora.
+
+Social, Chácara Beija-Flor e Núcleo Comunitário Sítio Joaninha. Os projetos atuam nas seguintes áreas
+da educação: expressão artística, esporte, meio-ambiente, geração de renda, comunicação social, saúde
+
+O projeto que será tomado para análise específica neste trabalho é o Projeto Nutri-ação, que é uma
+iniciativa localizada no Núcleo Comunitário Sítio
+Joaninha. O Sítio Joaninha situa-se numa região pe-
+
+33
+
+34
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+riurbana em processo de urbanização, na cidade de
+
+ção cotidiana dos conhecimentos e trazê-los para o
+
+Diadema. O local não possui ruas pavimentadas e o
+
+ambiente domiciliar dos educandos.
+
+poder público iniciou o atendimento em saneamento
+básico na região em 2016.
+
+Os nichos periféricos com bancada e cuba em geral
+voltam-se para a higienização e triagem dos alimen-
+
+O Projeto Nutri-ação é voltado para crianças a par-
+
+tos que são realizadas pelos educadores numa pers-
+
+tir de 6 até 17 anos de idade e conta com uma Co-
+
+pectiva de preparar as atividades. Os locais de higie-
+
+zinha Escola e uma horta. A cozinha tem cinco ilhas
+
+nização das mãos são externos às cozinhas.
+
+(com fogão, cuba de higienização e bancada) e duas
+bancadas com cuba de higienização localizadas na
+periferia da planta-baixa do espaço em questão. Os
+educandos são divididos em turmas por faixa etária
+para a realização das atividades na Cozinha Escola.
+
+O mobiliário e leiaute do espaço são adequados à
+finalidade a que se propõe. Do ponto de vista construtivo, as ilhas são adequadas por se tratar de uma
+cozinha de um projeto social específico, com objetivo especifico. Não há a preocupação em mobilida-
+
+O conceito do espaço é propor estações de trabalho
+
+de funcional, pois os usos do espaço são sempre os
+
+concêntricas (estimulando a cooperação) que permi-
+
+mesmos.
+
+tem a formação dos educandos em praxis e em coletivo. Não há preocupação com produtividade. Assim,
+ao fim da aula há uma atividade de degustação dos
+alimentos produzidos pelos educandos, mas não de
+nutrição (que é contemplada por outros programas
+da rede). Além disso, a horta também permite atividade de plantio e colheita para prover parte das atividades de EAN na Cozinha Escola.
+
+Numa perspectiva de projeto para equipamentos
+públicos voltados ao mesmo fim, mas com objetivo
+não tão específico, talvez seja interessante propor
+uma maior flexibilidade de leiaute do espaço para
+diferentes conformações, a fim de abrir margem para
+soluções que se adequem a diferentes realidades territoriais e comunitárias específicas.
+
+O vínculo comunitário permite o envolvimento com
+as famílias, havendo atividades em conjunto ou mesmo especificas para os pais, mães, tios, etc. Mesmo
+alguns membros da comunidade que não são assistidos diretamente pelo projeto acabam beneficiandose da horta e a subsidiam num processo de troca de
+adubos, ou mão-de-obra, por exemplo.
+Por se tratar de um local de relações entre educandos e educadores (que são especializados na área de
+nutrição) é possível consolidar uma prática de Educação e Segurança Alimentar e Nutricional dentro dos
+
+Figura 3: leiaute da Cozinha Escola do Projeto Nutri-ação
+Fonte: acervo pessoal
+
+conceitos apresentados, pois abrange as possibilidades que os educandos e suas famílias têm de vivenciar uma alimentação saudável, mesmo que a custos
+muito baixos, através da manipulação de alimentos,
+geração de novas receitas com os ingredientes disponíveis na região e informações e discussões sobre
+o que está sendo produzido.
+Há também uma preocupação do mobiliário de estar
+dentro do repertório comum dos usuários (fogão e
+geladeira domésticos e mesmo a linguagem de todos os equipamentos), a fim de fomentar a apropria-
+
+Figura 4: leiaute da Cozinha Escola do Projeto Nutri-ação
+Fonte: acervo pessoal
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+Figura 4: detalhe da ilha de cocção do Projeto Nutriação
+Fonte: acervo pessoal
+
+Figura 5: horta comunitária do Projeto Nutriação
+Fonte: acervo pessoal
+
+6.1.2. EDUCAÇÃO ALÉM DO PRATO
+
+e agricultura familiar, estímulo à geração de receitas
+inovadoras e saudáveis, entre outras.
+O programa Educação Além do Prato tem duas frentes de comunicação: uma página do facebook e um
+website. O primeiro contém informações de divulgação de eventos, algumas atividades e ações específicas. Aparentemente, a intenção deste é manter o
+programa em contato com os usuários, mas não necessariamente apresentá-lo aos usuários que não o
+conhecem. O website tem quatro grandes eixos de
+interação e organização das informações: “materiais
+para ir além do prato”, “experiências das escolas”,
+
+Figura 6: logo do projeto Educação Além do Prato
+Fonte:http://portalsme.prefeitura.sp.gov.br/Main/Page/
+PortalSMESP/Educacao-Alem-do-Prato
+
+“projetos e parcerias” e “na mesma mesa”:
+•
+
+ções. A primeira Atividades Educativas apresenta
+
+A ação Educação Além do Prato resume-se em um
+
+um compilado de vídeos, filmes, atividades, etc. O
+
+conjunto de práticas de Educação e Segurança Ali-
+
+segundo é a seção de Guias e Manuais da área de
+
+mentar e Nutricional na perspectiva da alimentação
+
+SAN. O terceiro, Hortas Escolares também tem um
+
+escolar da Rede Municipal de Ensino (RME) de São
+
+conjunto de guias e manuais de orientação nesse
+
+Paulo. Essa iniciativa da Prefeitura de São Paulo con-
+
+âmbito. A última, Sites e Blogs, contém uma rela-
+
+tém uma série de projetos que fomentam a capaci-
+
+ção de referências online.
+
+tação, conscientização e saúde tanto dos servidores
+como dos alunos e suas respectivas comunidades.
+
+•
+
+experiências das escolas: esse eixo contém algumas experiências que já ocorreram nas escolas
+
+A proposta é que as iniciativas estejam além da con-
+
+com o tema EAN E SAN. Há o convite ao usuá-
+
+cepção básica de fornecer alimentos aos beneficia-
+
+rio enviar sua experiência ao email do programa,
+
+dos (passo importante na consolidação do DHAA),
+
+para que seja registrado no website.
+
+mas também no estímulo e orientação a um conjunto
+de práticas que proporcionem a experiência de SAN
+
+materiais para ir além do prato: divide-se em 4 se-
+
+•
+
+projetos e parcerias: nesse eixo há alguns proje-
+
+nas escolas, e que, mais além, estas promovam as no-
+
+tos realizados pelo programa, com ou sem parce-
+
+vas práticas na vida dos envolvidos nos projetos. O
+
+ria.
+
+programa é muito coerente com as concepções da
+SAN. Há informações sobre a redução da cadeia de
+produção dos alimentos, fomento a hortas escolares
+
+•
+
+na mesma mesa: o programa ‘Na Mesma Mesa’
+é uma proposta dos educadores das escolas
+
+35
+
+36
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Figura 7: 4 eixos de interação do Educação Além do Prato
+Fonte: http://portalsme.prefeitura.sp.gov.br/Main/Page/PortalSMESP/Educacao-Alem-do-Prato
+
+dividirem a mesa de refeição com os alunos
+
+Outro problema é no âmbito da comunicação visual.
+
+transformando a alimentação numa atividade
+
+A organização do layout é confusa, os quatro eixos
+
+pedagógica. O website disponibiliza algumas
+
+principais de comunicação estão na parte de baixo
+
+apresentações do programa.
+
+da página e não há uma explicação sobre o progra-
+
+O poder público, através desse programa e em conjunto com diferentes parceiros promovem ações:
+premiações para ações exemplares, vídeos, rodas de
+conversa e mostras fotográficas, que são divulgados
+tanto através do facebook como através do website.
+
+ma, tornando-o de difícil compreensão ao usuário
+num primeiro momento. A presença da marca do
+programa só ocorre no facebook e mesmo assim ela
+vem isolada de um sistema de identidade. No website, há pictogramas e algumas ilustrações na mesma
+linguagem da marca, mas não é suficiente para iden-
+
+A ideia é conectar as escolas da Rede Municipal de
+
+tificação intuitiva do programa. Essa característica é
+
+Educação (RME) e suas iniciativas em SAN e EAN.
+
+agravada quando somada ao fato da página inicial
+
+A proposta é que essas instituições alimentem o
+
+do programa ser, na verdade, um subtópico da se-
+
+programa e seus suportes de comunicação com as
+
+ção destinada à Secretaria Municipal de Educação,
+
+ações pedagógicas. A ação do poder público atra-
+
+no website oficial da Prefeitura de São Paulo. Essa
+
+vés do programa é dar diretrizes, materiais de apoio
+
+questão é grave num projeto que têm apenas uma
+
+e referência para que as escolas desenvolvam seus
+
+plataforma institucional completa (facebook é com-
+
+próprios projetos e também propõe projetos na área.
+
+plementar) e tem como essência conceitual a conec-
+
+Cria-se, portanto, um grande compilado de mobili-
+
+tividade e amplificação de informações.
+
+zações, ações e ideias sobre SAN e EAN, através de
+uma plataforma de comunicação participativa (website). Essa participação, no entanto, é centralizada. Há
+o convite para que os representantes das escolas da
+RME entrem em contato via e-mail e enviem suas experiências para que o portal divulgue. Essa característica, além de burocratizar a participação, é um filtro
+de conteúdo. Não há participação direta.
+
+Um projeto dessa dimensão e importância merece
+sistema coerente com sua proposta. Uma alternativa
+seria um website oficial próprio com uma hierarquia
+de informação bem desenhada, identidade visual
+que ajude na compreensão do programa e possibilidade input de dados pelo próprio usuário, num sistema de login mediante cadastro.
+
+Figura 8: screenshot da página inicial
+do website oficial do Educação Além
+do Prato
+Fonte: http://portalsme.prefeitura.
+sp.gov.br/Main/Page/PortalSMESP/
+Educacao-Alem-do-Prato
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+Para realizar a inscrição nos cursos e dos projetos, o
+
+6.1.3. FABLAB LIVRE SP
+
+usuário deve efetuar seu cadastro no próprio website, que dura cerca de 5 minutos. A partir do cadastro
+efetuado e da aquisição de login e senha, qualquer
+usuário pode se inscrever nos cursos, e se houver
+vaga, estará efetivamente inscrito.
+O serviço Fablab Livre SP apresenta duas plataformas
+de projeto, que possibilitam participação e dialogicidade, que são o website e os próprios laboratórios.
+O primeiro permite o input de dados com grande
+facilidade por qualquer usuário, ou seja, permite e
+incentiva a participação (elemento fundamental de
+qualquer projeto no campo da cidadania). Existe a
+relação entre a plataforma digital e a física (os laboFigura 9: logo Fablab
+Livre SP
+Fonte: Fonte: http://www.
+fablablivresp.art.br/
+
+Fablab é uma proposta criada por Gershenfeld, dire-
+
+ratórios, com localização específica). Nesse sentido, a
+conectividade em rede via internet facilita e potencializa as relações territoriais, num processo de projeto
+de produto participativo e voltado à capacitação.
+
+tor do Center for Bits and Atoms (CBA) no MIT em
+1998. A ideia consiste na criação de laboratórios de
+fabricação digital conectados em rede, no mundo
+todo, unidos pelo mesmo serviço, especificado numa
+espécie de “catálogo de diretrizes” (Fab Charter) do
+MIT (LADIVEZ, 2017).
+A cidade de São Paulo conta com a maior rede de
+fablabs públicos do mundo (12), muitos deles localizados nas regiões periféricas da cidade. Essa rede
+chama-se rede Fablab Livre SP. O serviço foi implementado pelo “Instituto de Tecnologia Social do Brasil (ITS Brasil) ” via edital. A proposta de articulação
+em rede é de distribuição centralizada. O Fab Charter
+assegura a origem e manutenção do projeto enquanto idealização.
+O serviço do Fablab livre SP tem um website oficial,
+uma página no Facebook e 12 laboratórios. A rede
+oferece cursos gratuitos no âmbito da fabricação
+digital, gerando capacitação e apropriação tecnológica. Membros da sociedade civil podem inscrever
+seus projetos no website e produzi-los nos laboratórios com assessoria técnica dos funcionários. Esses
+projetos estão disponíveis num portfólio online de
+trabalhos finalizados e em andamento. No website
+também há a localização de todos os 12 laboratórios.
+
+Figura 10: distribuição dos laboratórios da rede Fablab Livre SP na
+cidade de São Paulo
+Fonte: Educlab, (LADIVEZ, 2016, p.20)
+
+37
+
+38
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+6.1.4. GASTROMOTIVA
+
+•
+
+Capacitação gastronômica: formação em gastronomia com práticas de cozinha;
+
+•
+
+Empreendedorismo: formação e incentivo aos
+alunos interessados em formar seu negócio, com
+viés comunitário e territorial;
+
+•
+
+Super liga: conjunto de ações nas periferias de
+conscientização sobre obesidade infantil;
+
+•
+
+Refeitório gastromotiva: estabelecimento que
+convida chefs e alguns estudantes que se des-
+
+Figura 11: logo oficial da Gastromotiva
+Fonte: http://www.gastromotiva.org/pb/
+
+tacam para preparar refeições com ingredientes
+excedentes;
+
+O Gastromotiva é uma Organização Social que trabalha com o movimento da Gastronomia Social, de
+
+•
+
+Curso gastronomia nos presídios: curso de capa-
+
+escala mundial. O movimento vê o potencial do cam-
+
+citação e profissionalização para mulheres presas,
+
+po da gastronomia como catalizador de mudanças e
+
+em penitenciária da cidade de São Paulo.
+
+hábitos sociais, capacitação, geração de renda e empreendedorismo social. O projeto é uma rede que
+está nas cidades de São Paulo, Rio de Janeiro, Salvador e Cidade do México. A ideia é atuar nas periferias
+e com suas populações, trazendo profissionalização
+em gastronomia e empreendedorismo, cidadania e
+saúde.
+
+O projeto conta com a plataforma do website, que
+tem boa apresentação e hierarquia de informação. O
+usuário pode participar do projeto como estudante
+(na área de empreendedorismo e gastronomia) passando por uma breve inscrição e uma triagem interna. Outros usuários podem participar sendo voluntários, doadores ou mesmo divulgando o projeto. A
+
+A maioria das ações ocorre em universidades priva-
+
+conectividade é em rede, através do website, entre os
+
+das nas cidades onde o projeto está estabelecido e é
+
+diferentes locais e cidades onde estão implementa-
+
+financiado por empresas, fundações, institutos e indi-
+
+dos os projetos. A proposta é a distribuição da infor-
+
+víduos que acreditam na ideia. Também há uma rede
+
+mação de forma centralizada (ou top-down), fazendo
+
+de estabelecimentos no segmento de alimentação
+
+um serviço semelhante ao de uma “franquia” que se
+
+que são portas de entrada ao mercado de trabalho
+
+alastra por diferentes territórios.
+
+aos estudantes. As ações dividem-se em quatro grandes projetos:
+
+Figura 10: screenshot da página
+inicial do website oficial da
+Gastromotiva
+Fonte: http://www.gastromotiva.
+org/pb/
+
+39
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+6.1.5. SLOW FOOD BRASIL
+
+Figura 11: logo oficial do Slow Food
+Fonte: http://www.slowfoodbrasil.com/
+
+Figura 12: screenshot da página inicial do website
+oficial do Slow Food
+Fonte: http://www.slowfoodbrasil.com/
+
+O Slow Food é uma associação internacional sem
+
+O Slow Food não pode ser entendido como um ser-
+
+fins lucrativos, com sede em Bra, na Itália e mantida
+
+viço propriamente dito. Na realidade, trata-se de um
+
+por seus associados. Hoje o movimento tem mais de
+
+movimento, ou coletivo de pessoas que pensam de
+
+100.000 membros e tem escritórios na Itália, Alema-
+
+determinada maneira e articulam-se entre si e com
+
+nha, Suíça, Estados Unidos, França, Japão e Reino
+
+outros atores sociais que contribuem para esta filo-
+
+Unido, e apoiadores em 150 países.
+
+sofia. A estrutura política, portanto, passa a ter mais
+
+O movimento é um contraponto à padronização dos
+
+importância do que um eventual desenho de serviço.
+
+alimentos pela indústria do Fast Food, e tem diretri-
+
+Porém, sendo movimento, empreendimento social e/
+
+zes muito semelhantes às da SAN. O que o difere é
+
+ou serviço é necessário um projeto de conectividade
+
+seu forte apelo à comensalidade e o direito ao prazer
+
+e fluxos de informação, se há intenção de amplifica-
+
+da alimentação (característica presente na SAN, mas
+
+ção de ideias e informações. Está claro que há inves-
+
+talvez com menos importância que neste movimen-
+
+timento em gestão de mídias sociais como facebook
+
+to).
+
+e canal no youtube. Há qualidade de texto, imagens
+
+A estrutura política é bem desenhada:
+•
+
+•
+
+no menu principal não têm uma analogia semântica,
+
+4 em 4 anos e define os membros que irão com-
+
+num primeiro momento. É necessário clicar em cada
+
+por os mandatos de gestão do movimento;
+
+link e ler textos extensos para saber do que se trata
+
+Direção constituída por: presidente, comitê exe-
+
+Direção nacional, supraregional, regional ou outra
+estrutura organizacional reconhecida;
+
+•
+
+lidade comprometida. As informações que constam
+
+Congresso: órgão deliberativo máximo, ocorre de
+
+cutivo, conselho, secretário geral;
+•
+
+e produção de vídeos. Porém o website tem usabi-
+
+cada título. São muitos projetos, cursos, ações, oficinas, materiais didáticos, entre outros programas que
+não tem articulação muito bem explicada.
+O movimento tem identidade conceitual e estrutura
+bem estabelecidas. Existem também muitos mate-
+
+Convívio (a denominação de Convivium utilizada
+
+riais e ações efetivadas. Porém existe um problema
+
+internacionalmente): são organizações locais que
+
+de apresentação, organização de informação e co-
+
+promovem debates, palestras, cursos e oficinas,
+
+nectividade do projeto com os usuários do website.
+
+projetos e parcerias com produtores locais, setor
+
+Quem não conhece o projeto ou está buscando mais
+
+público, etc.
+
+informações sobre o Slow Food tem dificuldade em
+encontrar e entender como funciona o projeto, suas
+ações e articulações internas.
+
+40
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+6.2. ANÁLISE COMPARATIVA
+
+ria um engano devido ao baixo valor quantitativo da
+pesquisa nesse contexto de análise). Por outro lado,
+o estudo dos sistemas e suas plataformas de comu-
+
+Com finalidade de compreender as relações que os
+
+nicação apontam para direções que, de caso a caso,
+
+estudos de caso apresentam entre si, foram elabora-
+
+materializam positiva ou negativamente algumas das
+
+dos uma tabela e um gráfico (figura 12) que contêm
+
+concepções teóricas trazidas ao longo deste traba-
+
+os mesmos parâmetros de análise:
+
+lho.
+
+•
+
+Abrangência: escala que o sistema possui, ou
+
+A partir da escolha de projetos que se articulam em
+
+pode possuir em potencial;
+
+rede e/ou tem como recorte conceitual o campo da
+
+•
+
+Potencial de diferenciação: capacidade que o
+sistema possui de se diferenciar de contexto a
+contexto; esse parâmetro foi selecionado, pois
+dele infere-se que há margem de participação do
+usuário na configuração do sistema.
+
+SAN, foi possível observar que um elemento comum
+entre 4 dos 5 estudos foi a grande importância da
+pesquisa no elemento conectividade em rede via
+internet no funcionamento pleno do sistema (alguns
+inclusive prejudicados por problemas de interface).
+A exceção desta regra foi o projeto Nutri-ação que,
+
+Os parâmetros e suas respectivas escalas de interpre-
+
+como se pode observar no gráfico, tem nível de
+
+tação são de viés qualitativo. As classificações foram
+
+abrangência local (ou comunitário). Apesar disso,
+
+estabelecidas por comparação entre cada sistema.
+
+este projeto também possui seus serviços dispostos
+
+Os estudos de caso não foram utilizados como espaço amostral de tendências ou demandas (o que se-
+
+ABRANGÊNCIA
+POTENCIAL DE
+DIFERENCIAÇÃO
+
+em rede e também possui mídias sócias. No entanto, a interpretação das relações direcionou-se para o
+sentido interpessoal, mais do que no âmbito digital.
+
+NUTRI-AÇÃO
+
+EDUCAÇÃO ALÉM
+DO PRATO
+
+FABLAB LIVRE SP
+
+GASTROMOTIVA
+
+SLOW FOOD
+
+comunitária
+
+municipal
+
+global
+
+global
+
+global
+
+baixo
+
+médio
+
+baixo
+
+baixo
+
+Médio/alto
+
+Tabela1: classificação dos estudos de caso
+potencial de
+diferenciação do sistema
+
+abrangência
+
+Gráfico 1: classificação dos estudos de caso
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+7. DIRETRIZES DO PROJETO
+Como apontado do capítulo que discorre sobre os
+
+As diretrizes legais de Segurança Alimentar e Nutri-
+
+métodos do trabalho, precedendo a fase de diagnós-
+
+cional estão sendo ativadas efetivamente por meio
+
+tico ocorreu uma entrevista com a a presidente da
+
+de iniciativas públicas e também por membros da so-
+
+COMUSAN (Conselho Municipal de Segurança Ali-
+
+ciedade civil e estão em processo de expansão ideo-
+
+mentar e Nutricional) e coordenadora de Segurança
+
+lógica e territorial. Esse movimento encontra frente
+
+Alimentar do Instituto Pólis, Christiane Araujo Costa.
+
+de oposição nas grandes indústrias e mercados de
+
+Não foi possível registrar a conversa, mas as informa-
+
+alimentação que promovem um estilo de vida adver-
+
+ções assimiladas redirecionaram os rumos do projeto
+
+so àquele pregado pela SAN.
+
+e estão inseridas em todas as tomadas de decisão e
+registro realizados após a data da entrevista. Reiterase o agradecimento pela abertura e troca que foram
+tão importantes para o amadurecimento do trabalho.
+
+Os estudos de caso trouxeram reflexões pertinentes
+a materialização de algumas concepções da metodologia do metadesign e cidadania. Por exemplo, a
+ação ‘Educação Além do Prato’ esboça uma plataforma de conectividade que permite e incentiva membros da sociedade civil a ali depositarem seus proje-
+
+7.1. DIAGNÓSTICO
+A consolidação do Direito Humano à Alimentação
+Adequada e Saudável no Brasil é um processo recente (LOSAN) que ainda está em curso. As dificuldades
+de implementação de uma política coesa num país
+com essa abrangência é um desafio. Muitos passos
+
+tos e ideias. Já o Fablab Livre SP tem uma plataforma
+interativa e interface mais bem consolidada com os
+membros da sociedade civil, apesar do baixo potencial de diferenciação da rede (que seria algo muito
+desejável no contexto da cidadania). O nutri-ação
+possui grande assertividade no que concerne SAN,
+mas baixa abrangência.
+
+foram dados: diretrizes, a própria lei que institucio-
+
+Na cidade de São Paulo, a construção do 1°PLAMSAN
+
+naliza o SISAN e o direito; e também as adesões por
+
+é um grande passo na adesão ao sistema e efetivação
+
+alguns estados e cidades brasileiras, como o municí-
+
+da política. Alguns gargalos, no entanto, aparecem
+
+pio de São Paulo.
+
+como em qualquer projeto em fase de implementa-
+
+Seria um engano de método e incoerente com as
+discussões deste trabalho propor uma solução que
+ignorasse as construções realizadas de forma democrática e participativa (como conselhos e conferências previstos pelo sistema).
+
+ção. Nesse caso, percebem-se muitas ideias, ações e
+movimentos que caminham na mesma direção e tem
+demandas complementares e que muitas vezes precisam se encontrar e, mais além se reconhecer como
+pares no contexto da cidadania. As diferentes ações,
+
+41
+
+42
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+quando desarticuladas, também dificultam o acesso
+a novos usuários que podem aderir à causa e incre-
+
+7.2. CONCEITUAÇÃO /
+POSICIONAMENTO
+
+mentar -com- novos projetos.
+A partir dessas afirmações, é possível formular as seguintes perguntas, que apontam o encaminhamento
+
+A partir de toda pesquisa, desde sua problematiza-
+
+do projeto:
+
+ção geral à específica, é possível sintetizar alguns
+
+•
+
+Como é possível intervir no SISAN (e fortalece-lo),
+a fim de que este caminhe ainda mais em direção
+da consolidação do DHAA?
+
+•
+
+Como contribuir para a organização da distribuição do SISAN a partir da União, passando pelos
+Estados e Municípios (e suas regiões)?
+
+•
+
+•
+
+conceitos (de significados abertos), representados
+por palavras chave que se inter-relacionam, pontuando o encaminhamento geral da proposta (FIgura 13).
+As perguntas listadas no tópico anterior encaminham
+o projeto para buscar soluções que modelem a conectividade do SISAN, incrementando o sistema com
+plataformas de informação e participação, que, di-
+
+Como facilitar a interface entre os diversos atores
+
+gitais ou não, estejam dentro das possibilidades de
+
+(articulados ou não) que promovem a SAN no Bra-
+
+apropriação de qualquer cidadão interessado. Por
+
+sil?
+
+exemplo, se em determinado território, há uma par-
+
+Como amplificar as potencialidades destes atores?
+
+cela significativa da população que apresenta deficiências em leitura e interpretação de texto, o projeto
+
+papel ativo
+diálogo
+
+mediação
+
+encontros
+
+participação
+
+CONCEITOS
+repertório
+popular
+
+mobilidade
+
+colaboração
+
+Figura 13: infográfico de conceituação do projeto
+Fonte: acervo pessoal
+
+rede
+
+43
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+nesse caso deve ser apresentado com outros tipos
+
+um projeto que se posiciona em escala na Prefeitura
+
+de linguagem, ou, num local onde há dificuldade de
+
+Municipal de São Paulo. Apesar de ser a menor escala
+
+acesso à computadores ou internet, deve ser pensan-
+
+de abrangência do SISAN, o projeto ainda é de alta
+
+do outro veículo de informação.
+
+complexidade, pois uma metrópole como São Pau-
+
+Por essa razão, determinar a escala de abrangência
+do trabalho torna-se fundamental, pois no caso de
+projetos no campo da cidadania, esse recorte ajuda
+
+lo possui diversas diferenças regionais e relação de
+forte interdependência socioeconômica com outras
+cidades da região metropolitana.
+
+a definir as relações que permearão os componentes
+
+No gráfico 2 pode-se observar que a proposta é de
+
+do sistema.
+
+um sistema de média abrangência (municipal) e de
+
+Por abrangência, compreende-se tanto a escala territorial (no caso da cidadania: federal, estadual, mu-
+
+alto potencial de diferenciação, pois inspira-se nos
+métodos já tratados nos capítulos anteriores.
+
+nicipal, regional, etc.) como também a quantidade
+
+De forma mais concreta, a interpretação da pesquisa
+
+abstrata de conexões disciplinares que determinado
+
+levou ao direcionamento de que há uma demanda
+
+projeto possui, como por exemplo o próprio caso do
+
+no SISAN de modelagem de um serviço participativo,
+
+SISAN, que é um sistema que possui interface com
+
+aberto e disponível a todo cidadão e que facilite a
+
+diversas disciplinas (saúde, educação, meio-ambien-
+
+formação de novos empreendimentos locais da área
+
+te, etc.) e, portanto, sua abrangência acaba por es-
+
+de alimentação através de parcerias entre membros
+
+tender-se. O tipo de usuário também define abran-
+
+da sociedade civil e o Estado. O serviço pode ma-
+
+gência, por exemplo políticas públicas direcionadas
+
+terializar-se em mídias sociais, mapas colaborativos,
+
+a pessoas com alguma deficiência específica são
+
+websites, e-mail, catálogos e manuais impressos e di-
+
+de abrangência menor que um projeto que envolva
+
+gitais, cursos e oficinas, feiras e eventos, etc.
+
+SAN, que trata de uma demanda que perpassa todos
+os cidadãos brasileiros.
+
+No entanto, parte central da proposta é a de articular
+o ambiente digital com os territórios. Para tanto, outro
+
+Por questões de viabilidade e ferramentas metodo-
+
+gargalo da SAN e da EAN é a falta de disponibilidade
+
+lógicas e teóricas (a principal fonte bibliográfica de
+
+de equipamentos de infraestrutura específicas que
+
+SAN foi o 1°PLAMSAN) este trabalho sedimentou-se
+
+comportem atividades nesse âmbito (bancadas cole-
+
+na escala municipal do SISAN. Portanto, trata-se de
+
+tivas, mesas, tendas, etc.). Claro que na execução de
+
+projeto
+
+abrangência
+
+potencial de
+diferenciação do sistema
+Gráfico 2: classificação dos estudos de caso
+
+44
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+grandes eventos, existe uma facilidade maior de levar tendas de arquitetura efêmera e até mesmo mobiliários
+mais permanentes. Porém, num contexto onde a proposta é que muitos projetos emerjam em concomitância,
+o provimento de infraestrutura torna-se mais complexo. Portanto, fez-se necessário também a articulação de
+componentes desse aspecto no sistema de conectividade, para que a potencialidade deste seja ainda maior.
+
+Figura 14: infográfico de objetivos do projeto
+Fonte: acervo pessoal
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+8. SOLUÇÕES
+8.1. SOLUÇÕES TCC1/ TCC2
+
+O resultado dessa avaliação foi que as soluções incialmente propostas eram coerentes e coincidiam
+com algumas demandas encontradas posteriormen-
+
+Os estudos de solução deste trabalho iniciaram-se
+
+te na pesquisa mais aprofundada. Porém, o projeto
+
+já entre as primeiras etapas de projeto. Foi realizada
+
+de uma rede de equipamentos públicos seria pro-
+
+uma breve pesquisa introdutória concomitante aos
+
+fundamente dependente de soluções espaciais no
+
+primeiros croquis; esboços de sistema e serviço; e
+
+cerne dos projetos arquitetônicos dos edifícios e
+
+mobiliário (ainda que o problema ainda não tenha se
+
+demandas locais. Cada implantação traria problemas
+
+definido por completo). Estes croquis estão apresen-
+
+específicos oriundos de seus respectivos territórios e
+
+tados no anexo II deste trabalho. Essas atividades fo-
+
+o projeto do serviço estaria muito destacado do pro-
+
+ram importantes, pois ajudaram a conformar a com-
+
+jeto de produto.
+
+plexidade do problema já com raciocínio projetual.
+
+Os conceitos no campo teórico ajudaram a redirecio-
+
+Em geral, as propostas iniciais direcionaram-se para
+
+nar o projeto para um sistema que reúna diferentes
+
+a criação de uma rede de equipamentos públicos
+
+atores envolvidos no campo da SAN e EAN no muni-
+
+interdisciplinares (como os CRESANs) voltados à
+
+cípio de São Paulo. A articulação entre estes atores,
+
+EAN. Nesse sentido as pesquisas iniciais voltaram-se
+
+afim de multiplicar os empreendimentos sociais e
+
+a como funcionam serviços de educação alimentar,
+
+locais no âmbito da alimentação mostrou-se um ca-
+
+serviços de gastronomia profissional e seus equipa-
+
+minho mais frutífero. Portanto, foram traçadas as li-
+
+mentos de cozinha (profissional e doméstica).
+
+nhas gerais do serviço, apontando quais plataformas
+
+Após essas alternativas serem geradas e passarem
+um processo de avaliação, houve uma pausa na geração de alternativas, dando espaço à imersão da
+revisão bibliográfica. Sendo assim, a assimilação dos
+conceitos levantados nas pesquisas de problematização geral e específica e levantamento de estudos
+de caso funcionaram como uma avaliação dessas primeiras alternativas.
+
+poderiam ser utilizadas, os tipos de conectividade e
+apontamentos de interface. A partir desse levantamento, pode-se retirar quais seriam as evidências físicas dos serviços que se referem mais especificamente
+ao conjunto de componentes do sistema construtivo
+que compõe sua infraestrutura (tema mais central
+deste trabalho).
+
+45
+
+46
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+8.2. DESENVOLVIMENTO
+
+ficar os atores que interessados na cadeia produtiva
+
+DO SERVIÇO
+
+Produtores alimentos pessoas e instituições envolvidas
+
+de alimentação (públicas ou privadas):
+
+na produção de alimentos em seu estado bruto (área
+
+8.2.1. DEFINIÇÕES SOBRE USUÁRIO
+
+agrícola, bovinos, suínos, etc.);
+Distribuidores de alimentos pessoas e instituições envolvidas na distribuição alimentos em seu estado
+
+Definir os usuários no contexto de um projeto que
+
+bruto (açougues, avícolas, frutarias, sacolões, feiras
+
+abre margem a apropriações inesperadas é um de-
+
+livres, etc.);
+
+safio de duas vias em contramão: da mesma forma
+em que é necessário a definição de usuário como recorte de abrangência e posicionamento do projeto é
+incoerente restringir o uso de um projeto no contexto
+da cidadania: o serviço deve ser aberto a qualquer
+
+Consumidores de alimentos pessoas e instituições envolvidas no consumo dos alimentos em seu estado
+bruto (escolas, penitenciárias, casas de repouso, ambientes domésticos, etc.);
+
+cidadão que tenha direito a ser beneficiado (no caso
+
+Geradores de tecnologia de alimentos pessoas ou institui-
+
+da SAN, todos).
+
+ções interessadas na tecnologia de alimentos (univer-
+
+O entendimento de que o projeto deve ser acessível
+a todos traz a reflexão sobre quais são os possíveis
+
+sidades, centros de pesquisa, agrônomos, engenheiros, etc.);
+
+bloqueios de apropriação, buscando não reprodu-
+
+Servidores de saúde ligados à alimentação pessoas ou
+
+zi-los na linguagem das interfaces. Listam-se abaixo
+
+instituições interessadas em atendimento na área da
+
+alguns desses bloqueios encontrados:
+
+saúde (nutricionistas, médicos, etc.);
+
+•
+
+Interface com restrição de uso biomecânico a
+
+Incubadoras de empreendedorismo social pessoas e insti-
+
+pessoas com deficiências físicas;
+
+tuições interessadas no serviço de assessoria técnica
+
+•
+
+Comunicação escrita a pessoas com dificuldade
+de leitura;
+
+•
+
+Tecnologias que sejam de difícil apropriação, tanto por restrições financeiras como restrições de
+capacitação;
+
+•
+
+Uso de signos (equipamentos, mobiliários, linguagens gráficas e escritas, etc.) que não pertençam
+ao sistema cultural dos usuários;
+
+Esta última restrição é especialmente mais complexa,
+pois a cultura não é quantificável e é difícil encontrar
+ferramentas que precisem o que está ou não num
+determinado sistema cultural. Uma alternativa nesse
+caso é buscar linguagens que sejam comuns a todos
+os cidadãos (a língua oral; equipamentos comuns no
+ambiente doméstico das habitações de São Paulo em
+todas as camadas sociais; ilustrações sem viés excessivamente técnico; etc.).
+
+na área de gestão de empreendedorismo social;
+Geradores de infraestrutura pessoas e instituições interessadas em assessoria técnica na produção e manutenção da infraestrutura do serviço (mobiliário,
+software, hardware, utensílios, eletrodomésticos,
+equipamentos diversos, etc.);
+Metaservidores servidores públicos que trabalham na
+gestão do serviço em questão, desde manutenção
+de plataformas até atendimento pessoal nas bases
+de atendimento.
+O protagonismo do serviço, baseado no recorte temático e demandas levantadas na pesquisa localizase nos três primeiros atores (produtores, distribuidores e consumidores de alimentos) pois estes estão
+envolvidos diretamente na cadeia de produção. Porém, como enfoque desde trabalho será desenvolvida mais detalhadamente a articulação do serviço com
+os geradores de infraestrutura (mais especificamente
+
+Outra estratégia para lidar com a complexidade de
+
+no que concerne os objetos físicos –mobiliário- que
+
+pessoas e relações envolvidas nesse projeto foi tipi-
+
+irão compor os empreendimentos locais).
+
+47
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+metaservidores
+
+geradores de
+infraestrutura
+
+foco do trabalho
+protagonismo do serviço
+
+servidores
+da saúde
+
+distribuidores
+de alimentos
+
+demais usuários
+
+incubadoras
+
+servidores
+da saúde
+
+geradores de
+infraestrutura
+
+geradores de
+tecnologia
+de alimentos
+
+geradores de
+infraestrutura
+
+consumidores
+de alimentos
+
+produtores
+de alimentos
+incubadoras
+
+servidores
+da saúde
+
+geradores de
+tecnologia
+de alimentos
+
+Figura 15: infográfico de articulação dos tipos de usuário no serviço
+Fonte: acervo pessoal
+
+incubadoras
+
+geradores de
+tecnologia
+de alimentos
+
+48
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+8.2.2. ESBOÇOS DO SERVIÇO
+
+Todas essas frentes de trabalho pertencem a áreas
+específicas de atuação dentro e fora do campo do
+Design e tem suas complexidades. Por isso não foi
+
+A tipificação dos usuários apresentada no tópico an-
+
+pretensão deste trabalho adentrar-se em todas es-
+
+terior é extensa. Como estratégia para propor um ser-
+
+tas, apenas apontar as direções conceituais de como
+
+viço adequado às diferentes demandas encontradas
+
+cada frente se posiciona no contexto do serviço. Al-
+
+em cada grupo de usuário foi criada uma jornada de
+
+guns aspectos serão ilustrados nos tópicos a seguir
+
+usuário e blueprint de serviço gerais (anexo III), que
+
+para facilitar a compreensão da proposta. No entanto
+
+englobam as operações mais genéricas que todos os
+
+todas essas atividades devem estar alinhadas às dire-
+
+tipos, em tese, teriam que realizar para apropriar-se
+
+trizes gerais já apresentadas.
+
+do serviço. A partir dessa matriz especificou-se quais
+operações difeririam especificamente o grupo “Geradores de Infraestrutura” (mais especificamente no
+que concerne a produção do mobiliário de apoio ao
+
+Num contexto de implementação, além de uma equipe diversa disciplinarmente, seria fundamental a especificação de cada jornada de usuário e blueprint
+
+empreendedorismo social na área de SAN).
+
+de serviço (para cada tipo de usuário). No caso deste
+
+Também com bases nas pesquisas e diretrizes, o
+
+inviável. A opção foi por afunilar o escopo das solu-
+
+serviço não pode encerrar-se somente no ambiente
+
+ções para o tipo de usuário denominado “Geradores
+
+digital por questões de acessibilidade. Por isso pro-
+
+de infraestrutura” e ainda mais especificamente para
+
+põe-se também que as etapas de interação ocorram
+
+aqueles que teriam envolvimento com os processos
+
+sempre que possível com a possibilidade de atendi-
+
+de projeto e produção dos mobiliários necessários
+
+mento pessoal. Quando o funcionamento do serviço
+
+para a implementação de alguns tipos de empreen-
+
+depende exclusivamente dos fluxos digital de infor-
+
+dimentos no campo da alimentação: educação ali-
+
+mações, o serviço deve ser transponível ao ambiente
+
+mentar ou cozinhas produtivas em pequena escala.
+
+físico para pessoas com dificuldade de acesso. Uma
+
+Esse escopo aloca-se no terceiro grupo de processos
+
+alternativa é utilizar a rede CRAS (Centro de Referên-
+
+de interação apresentado (“Rede Social de empreen-
+
+cia em Assistência Social) que é muito consolidado
+
+dedorismo em SAN”).
+
+trabalho, no entanto, essa tarefa apresentou-se como
+
+e difundido pelos territórios da cidade de São Paulo
+para realizar a transposição das informações do ambiente digital para o físico.
+O estudo e levantamento das linhas gerais do serviço
+apontaram três grandes grupos de processos de interação. Estes grupos explicitam os diferentes tipos de
+tarefas necessárias para que os serviços sejam consolidados:
+1. Processos de apresentação: materiais de divulgação do serviço; sistema de identidade visual; e projeto
+de interface e conteúdo do website;
+2. Mapeamento colaborativo: parceria com serviços de mapeamento colaborativo em software livre (como
+o Open Street Map, por exemplo). A proposta é customizar a interface e informações com o contexto da
+SAN, permitindo que empreendedores locais de alimentação (pertencentes aos grupos de usuário levantados) aloquem-se e encontrem-se;
+3. Rede Social de empreendedorismo em SAN: portal de relacionamentos entre usuários, contendo manuais, “kits”, catálogos, notícias, mensagens e grupos, dentre outras informações pertinentes.
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+Nesse sentido foram feitos a jornada do usuário e
+blueprint do serviço específicos para esse recorte
+
+8.3. MOBILIÁRIO
+
+(anexo IV). Neste estudo levantou-se quais são as
+evidências físicas do serviço coerentes às especifici-
+
+As metodologias pesquisadas, quando aplicadas na
+
+dades deste tipo de usuário. Chegou-se a um servi-
+
+perspectiva do Design de Produto apontam, dentre
+
+ço de apoio ao pequeno produtor, que é uma com-
+
+outros, para os caminhos da fabricação digital como
+
+binação entre o que foi denominado “kit de apoio à
+
+materialização de suas concepções (principalmente
+
+produção”, visitas técnicas e serviços de atendimento
+
+no que toca o metadesign). Isso ocorre em parte por-
+
+presencial. É importante salientar que essa proposta
+
+que na fabricação digital os produtos são transforma-
+
+só seria efetiva num contexto onde os atendimentos
+
+dos em informação (digital). Dessa forma estes têm a
+
+presenciais pratiquem as metodologias já discutidas,
+
+possibilidade de se fragmentar e serem veiculados a
+
+neste caso principalmente a Teoria da Ação Dialógica.
+
+longas distâncias em pouco tempo. Essa nova lógica
+
+O “Kit de Apoio à Produção” é um conjunto de catálogos de instruções veiculadas digitalmente e podendo
+ser impressas nas bases locais de atendimento (caso
+o usuário não tenha acesso digital). Além das instruções, o serviço deve garantir a comunicação peer to
+peer entre os usuários, e mais especificamente, entre
+aqueles que firmaram parcerias. O levantamento prévio de quais catálogos devem estar presentes são:
+
+de distribuição pode ser alienante, se limitar-se a reprodução da informação dentro do ferramental (que
+é muito mais distribuindo que na lógica de fabricação
+industrial), mas também pode ser emancipatória, se
+utilizar a fragmentação do produto em componentes
+(até então informacionais) para propor novos arranjos formais, espaciais e conceituais para um mesmo
+sistema de informação.
+Este projeto não está necessariamente alocado na
+
+•
+
+Catálogo de instruções de montagem
+
+•
+
+Catálogo de instruções de produção dos compo-
+
+cisam desse ferramental para serem produzidos. Po-
+
+nentes
+
+rém, uma inspiração importante trazida do metade-
+
+•
+
+Catálogo de instruções de beneficiamento do
+bambu
+
+fabricação digital, pois seus componentes não pre-
+
+sign e que consta na lógica da fabricação digital é a
+fragmentação do produto em componentes informacionais, nesse caso, não são necessariamente digitais.
+
+As instruções, no entanto, não podem ser impositivas.
+
+A proposta assim é decompor a ideia de produto em
+
+Em cada especificidade cultural os usuários têm auto-
+
+componentes que atingem escalas modernizantes
+
+nomia para utilizar as orientações de acordo com sua
+
+em formato de informação.
+
+demanda, ou simplesmente não utilizá-las. Mais além,
+é altamente desejável que cada pequeno produtor se
+aproprie das técnicas de produção da sua maneira e
+acrescente novas soluções projetuais, técnicas cons-
+
+No caso desse projeto, a veiculação do sistema ocorre de três maneiras distintas:
+•
+
+Transferência da técnica: propõem-se informa-
+
+trutivas com os materiais propostos (muitas vezes de
+
+ções sobre métodos e técnicas construtivas den-
+
+caráter vernacular, esquecidas pela modernidade) ou
+
+tro de recortes predefinidos (materiais, ferramen-
+
+mesmo outros materiais que possuam em mãos. O
+
+tas, etc.), por exemplo, catálogos de encaixe em
+
+serviço é um grande compilado de informações pro-
+
+bambu;
+
+jetuais e produtivas compartilhadas, com o propósito
+de ampliar as possibilidades de apropriação ao longo
+
+•
+
+mações sobre como produzir componentes já de-
+
+dos territórios da cidade de São Paulo.
+Para que o projeto se inicie, no entanto, é preciso uma
+proposta que esteja ciente das dificuldades de acessibilidade técnica e produtiva na cidade e exemplifique
+os conceitos de forma prática.
+
+Transferência dos componentes: fluxo de inforsenhados, como conectores, ferragens e tampos;
+
+•
+
+Transferência do produto: informações sobre
+como produzir um determinado produto e seus
+diferentes componentes;
+
+49
+
+50
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Também importante é salientar quem pode propor tais informações. A proposta de um projeto no contexto
+da cidadania direciona a proposição de uma plataforma onde os usuários podem apropriar-se nos três níveis
+apresentados e propor novas soluções em formato de informação.
+Os croquis realizados após a revisão bibliográfica (apresentados no anexo V) foram no sentido de relacionar
+diferentes partes dos produtos através de algumas funções chave dentro de usos predefinidos: mesa, bancada, prateleira e pia. Essas funções determinaram em qual tipologia geométrica estaria o projeto (em geral
+planos e ripas ortogonais). A determinação geométrica, por sua vez, permitiu a escolha de um dos materiais:
+o bambu. Os estudos estão voltaram a como conectar a varas de bambu. Nesse caminho encontrou-se o PVC,
+um material de fácil acesso e sistema construtivo consolidado. O projeto, portanto, passou a ser um sistema
+construtivo que é a multiplicação dos elementos entre si de dois sistemas: sistema bambu e sistema PVC, criando inúmeras possibilidades inesperadas de conformação.
+
+8.3.1. SISTEMA BAMBU
+O bambu é uma gramínea que possui diversos usos, como por exemplo a fabricação de papel e consumido
+como alimento (o broto de bambu). É uma planta com ciclo de vida relativamente curto e alto rendimento. É
+biodegradável se não for adulterado em seu beneficiamento e é muito utilizado na composição de mobiliário
+e utensílios voltados à alimentação, pois possui um bactericida e fungicida natural que protege os objetos de
+contaminação.
+
+Figura 16: Exemplos de conexão
+em bambu
+Fonte: Lopez, 1981, p.15
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+Na construção civil existem inúmeras técnicas de utilização, passando por diferentes beneficiamentos até
+
+8.3.2. SISTEMA PVC
+
+diversos tipos de encaixe. Suas aplicações podem ser
+no próprio colmo, a “alma” do bambu que é o corte
+
+O policloreto de vinila (PVC) é um polímero termo-
+
+longitudinal do colmo mantendo-se os diafragmas,
+
+plástico muito utilizado na construção civil em diver-
+
+ripas, laminado de bambu, esteiras, etc. As diferentes
+
+sos usos, principalmente tubos. Possui sistema cons-
+
+técnicas configuram um sistema construtivo que, por
+
+trutivo extremamente consolidado e conhecido e são
+
+si só, já abre diferentes possibilidades de configura-
+
+inúmeros os conectores de diversos tamanhos e qua-
+
+ção formal. O Brasil contabiliza 232 espécies nativas
+
+lidades. As técnicas de construção são amplamente
+
+(SANTOS, 2016, p.30), demonstrando uma significa-
+
+difundidas e os preços são baixos.
+
+tiva possibilidade do estabelecimento de vínculos
+
+Este projeto focou-se em como o sistema PVC po-
+
+culturais através de técnicas tradicionais e tácitas ao
+longo dos diversos territórios brasileiros.
+
+deria se justapor ao sistema bambu e conformar um
+novo sistema resultante na multiplicação de ambos.
+Nesse sentido o desafio foi como viabilizar a união
+dos dois materiais. O objeto de estudo foi a conexão
+“boca de peixe”, transpondo esta técnica para o PVC.
+Para aumentar a aderência do PVC no bambu, é sugerido que se insira um anel de neoprene de 15mm.
+
+Figura 17: Estudo boca de peixe
+Fonte: acervo pessoal
+
+Para a esta proposta de mobiliário, a principal referência construtiva foi a conexão “boca de peixe” ou
+“boca de pescado”, que é caracterizada pela união de
+dois tubos, sendo um deles usinado para encaixar na
+curvatura do outro. A opção utilizada foi a conexão 4
+da figura 16, que apresenta a união dos colmos de
+bambu pela ferragem em gancho e barra.
+
+Figura 18: estudo de conectores utilizando tubos de papelão
+Fonte: Acervo pessoal
+
+Unindo os dois sistemas construtivos este projeto
+deve ser uma porta de entrada para a geração de inúmeros projetos, conforme a necessidade e demanda
+de cada usuário. Por exemplo, pode-se pensar em
+sistemas de irrigação (utilizando o fluxo hidráulico do
+PVC e a resistência estrutural do bambu) para produtores de alimentos em seu estado bruto.
+
+51
+
+52
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Figura 19: conectores de PVC e neoprene para a conexão boca de peixe
+Fonte: Acervo pessoal
+
+No conector à esquerda apresentado na figura 19, percebem-se dois furos passantes por onde passam as
+ferragens. As retas que descrevem os furos são ortogonais em vista de topo. Porém é possível criar qualquer
+outro ângulo de furação, permitindo uniões não ortogonais. Os anéis pretos representam o neoprene.
+
+8.3.3. PRODUTOS E COMPONENTES
+Como exemplificação das propostas de apropriação dos materiais e seus sistemas construtivos, foram propostos 4 móveis relacionados aos conceitos discutidos. Estes objetos e seus componentes são apresentados
+a seguir (os tampos da prateleira e mesa estão em aberto para o que os territórios tiverem em mãos: vidro,
+concreto, MDF, madeira, etc).
+•
+
+mesa
+
+Figura 20: mesa sistema bambu-PVC, conexão e componentes
+Fonte: Acervo pessoal
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+•
+
+bancada
+
+Figura 21: bancada sistema bambu-PVC, conexão e componentes
+Fonte: Acervo pessoal
+
+•
+
+prateleira
+
+Figura 22: prateleira sistema bambu-PVC, conexão e componentes
+Fonte: Acervo pessoal
+
+53
+
+54
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+•
+
+tenda
+
+Figura 23: tenda sistema bambu-PVC, conexão e componentes
+Fonte: Acervo pessoal
+
+•
+
+componentes
+
+A trava é produzida a partir de uma chapa de PVC de 8mm e curvada com aquecimento por soprador
+térmico. Após ocorre a colagem do neoprene e furação.
+
+O anel também é produzido partir de uma chapa de PVC de 8mm. Após o corte da chapa ocorre a furação
+e a conformação por aquecimento por soprador térmico. Por fim ocorre a soldagem das extremidades
+usando cola de PVC.
+
+O anel também é produzido partir de uma chapa de PVC de 8mm. Após o corte da chapa ocorre a furação
+e a conformação por aquecimento por soprador térmico. Por fim ocorre a soldagem das extremidades
+usando cola de PVC.
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+O pé é produzido a partir de um tubo de PVC. O diâmetro do tubo depende do diâmetro do bambu estará
+sendo utilizado. No caso dos estudos realizados nesse trabalho o diâmetro foi de 50mm. Depois do corte
+do tubo cola-se o neoprene e, por último, é executada a furação passante.
+
+O processo de fabricação do conector base é o mesmo do pé (componente anterior).
+
+O conector boca de peixe é usina por uma serra-copos que possui o mesmo diâmetro aproximado do
+tubo que será encaixado no vale. Após o recorte ocorre o desbaste das arestas, garantindo a união. Por fim
+cola-se o neoprene e realiza-se a furação passante.
+
+O conector boca de peixe 2 é uma conjunção de uma luva fêmea (conexão comum do sistema PVC) com
+um tubo de PVC de 70mm de diâmetro por soldagem. Esse tubo deve ser usinado da mesma maneira
+que o conector boca de peixe. Por fim ocorre a furação passante.
+
+O travamento lateral é o resultado do corte de um tubo de PVC e usinagem boca de peixe nas duas extremidades, após ocorre a furação passante.
+
+A barra roscada pode ser uma barra industrial de 5mm de diâmetro, ou pode ser uma barra lisa de aço
+carbono roscada nas extremidades (como ilustra a figura).
+
+O gancho é produzido a partir de uma barra lisa de aço carbono de 5 mm de diâmetro forjada a quente
+e roscada na extremidade.
+
+As porcas e arruelas são produzidas industrialmente. Nesse projeto são necessários exemplares de 5 mm
+de diâmetro interno.
+
+55
+
+56
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+No caso do bambu é necessário estar atento à espécie que está sendo utilizada e suas propriedades. No
+caso deste estudo, foi utilizada a espécie Phyllostachys pubescens que possui diâmetro médio interno de
+70 mm. Apesar da aproximação, o bambu é um tronco de cone muito longo, o que dificulta a produção da
+conexão no próprio colmo (um dos motivos pelo qual optou-se pela proposição de um conector separado
+em PVC). É necessário realizar o beneficiamento do colmo com sulfato de cobre, que é um sal que protege
+o bambu de insetos e fungos. Esse processo pode ocorrer a partir do método Boucherie, que consiste em
+penetrar a solução deste sal no interior do colmo por pressão hidrostática (LOPES,1974, p. 100), ou por
+simples imersão do colmo na solução (método muito menos eficaz).
+
+O tampo é produzido em chapas de aço inoxidável de 1,2 mm de espessura. Nessa chapa é realizado o recorte da planificação do trampo e das travas internar que encaixar no superior da estrutura
+da bancada. Após o recorte sobra-se a planificação para conformar o sólido e solda-se a extremidade e as travas com solda TIG.
+
+8.4. APRESENTAÇÕES
+8.4.1. EXEMPLOS E ILUSTRAÇÕES DO SERVIÇO
+A fim de ilustrar o funcionamento do serviço, foram realizadas algumas interfaces e elementos de identidade
+visual para materializar o conceito. Não é foco deste trabalho realizar um projeto de sistema de identidade
+visual, user interface (UI) ou user experience (UX). Seria preciso realizar um projeto que acompanhe a complexidade de cada uma dessas áreas. O exemplo a seguir, portanto, são de caráter meramente ilustrativo. O
+catálogo de instruções de montagem consta no anexo VI deste trabalho.
+A proposta do catálogo é que este apresente as informações de montagem não como um manual, mas apresentando diretrizes e ideias, dando margem à criatividade do usuário de reinventar o produto no processo de
+interpretação.
+•
+
+naming e logo
+
+Figura 24: logotipo
+Fonte: Acervo pessoal
+
+57
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+Figura 25: delo de redução
+Fonte: Acervo pessoal
+
+•
+
+mapeamento colaborativo
+
+Figura 26: ilustração de página de busca do mapeamento colaborativo
+Fonte: Acervo pessoal
+
+8.4.2. NARRATIVAS
+Para ilustrar algumas possíveis apropriações do serviço e a articulação dos grupos de usuário foram criadas
+duas personas e suas possíveis atuações, apontando suas aspirações, demandas, formas de contato com o
+serviço e a redes que formariam.
+
+58
+
+Design e Cidadania para a Segurança Alimentar e Nutricional
+
+Figura 27: persona 1
+Fonte: Acervo pessoal
+
+Figura 28: persona 2
+Fonte: Acervo pessoal
+
+FAU USP | Curso de Design | Trabalho de Conclusão de Curso 2
+
+9. CONSIDERAÇÕES FINAIS
+Este Trabalho de Conclusão de Curso foi uma incursão sobre o tema da Segurança Alimentar e Nutricional, do
+Design Participativo, da Cidadania, entre outros temas recorrentes durante o texto. Por outro lado, o trabalho
+também foi uma expedição pessoal, uma busca por autoconhecimento e reflexão do encerramento de uma
+etapa: a graduação. Existem muitas crenças pessoais, angústias e apreensões expressos ao longo de toda pesquisa e desenvolvimento. Talvez por essa razão o trabalho tenha tomado uma amplitude tão grande.
+Essa amplitude é positiva do ponto de vista de conhecer diferentes campos da atuação, contextualização
+e visão sistêmica. Ao mesmo tempo, torna-se inviável por questões práticas um maior aprofundamento nos
+temas discutidos. O projeto do produto, mais especificamente o sistema construtivo em seus diferentes componentes e técnicas são de articulação complexa, e tem campo fértil para muito mais desenvolvimento. O catálogo de instruções de montagem da bancada apresentado, também tem complexidade alta, em seu projeto
+gráfico, seu conteúdo e linguagens ali colocadas podem ser muito mais detalhados e discutidos no âmbito do
+Design Gráfico e de Produto, garantindo maior potencial de participação dos usuários.
+No âmbito metodológico, o projeto de produto voltou-se ao projeto de um sistema, pois nenhum objeto é
+hermeticamente fechado. Os produtos abrem-se em componentes, que por sua vez abrem-se em técnicas
+construtivas. Os acréscimos de outras técnicas seriam esperados num cenário de implementação deste projeto. O mesmo ocorre no nível dos componentes, e também no nível dos produtos.
+No que concerne o projeto do serviço (ainda que em caráter de esboço), a prática do projeto trouxe um confronto com uma visão prévia idealizada sobre serviços públicos. Esperava-se propor um projeto de serviço com
+articulações completamente horizontais (peer-to-peer) ou emergentes (bottom-up), mas nunca centralizadas
+(top-down). Porém, questões práticas de projeto muitas vezes exigem certas relações verticais, geralmente nas
+atribuições de organização, hierarquização da informação e manutenção. Ainda assim, é importante garantir
+onde o serviço deve possibilitar a participação e onde deve ser centralizado, e é importante que essa tomada
+de decisão seja igualmente democrática.
+É coerente com as discussões propostas neste trabalho que um projeto como este, que propõe um serviço
+público de articulação produtiva seja submetido por inteiro a fóruns de deliberação com os atores envolvidos.
+Só assim justifica-se a proposição de serviços com processos top-down na esfera democrática. Essa proposição explicita uma dificuldade constante no desenvolvimento deste trabalho: como um projeto de intervenção
+em uma política pública pode ser realizado individualmente? Essa é uma pergunta sem resposta. Cabe afirmar
+somente que este foi, antes de um projeto, uma reflexão, uma experimentação conceitual que se encerra somente no nível da proposta. Um anteprojeto que precisaria de muitos debates, avaliações e desenvolvimentos
+coletivos para ser implementado.
+Estas ideias e discussões, portanto, seriam o inicio de um processo efetivamente participativo. A partir dele,
+seriam deliberados os reais encaminhamentos. Daí a importância de metodologia participativas, e, mais além,
+ferramentas de projeto de fácil apropriação para o usuário não especializado, para que este tenha voz projetual durante o processo. Caberia neste caso, uma investigação sobre linguagens de representação de projeto
+que não sejam exacerbadamente específicas, incluindo o repertório comum dos próprios usuários.
+
+59
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+ALÃO, Rui Sérgio Dias. PROJETO E COMPLEXIDADE, Reflexões sobre um design colaborativo. Tese de Doutorado. São Paulo: FAU USP, 2015.
+BONSIEPE, Gui. DESIGN: COMO PRÁTICA DE PROJETO. São Paulo: Blucher, 2012.
+BONSIEPE, Gui. DESIGN E DEMOCRACIA. Conferência. Santiago do Chile: Universidade Tecnológica Metropolitana, 2005.
+BRASIL. Ministério do Desenvolvimento Social e Combate a Fome. CONSEA. LEI DE SEGURANÇA ALIMENTAR
+E NUTRICIONAL, Conceitos. Brasília-DF, 2006.
+BRASIL, Ministério da Saúde. GUIA ALIMENTAR PARA A POPULAÇÃO BRASILEIRA. Brasília-DF, 2014.
+CANCLINI, Néstor Garcia . EL CONSUMO CULTURAL: UNA PROPUESTA TEÓRICA. Em Sunkel, Guillermo
+(coord.). El consumo cultural en América Latina. Bogotá: Convénio Andrés Bello.2006
+CARVALHO, José Murilo de. CIDADANIA NO BRASIL, O Longo Caminho. Rio de Janeiro: Civilização Brasileira,
+2002.
+FABLAB LIVRE SP. Disponível em: < http://www.fablablivresp.art.br/>. Acesso: maio.2017.
+FREIRE, Paulo. PEDAGOGIA DO OPRIMIDO. Rio de Janeiro: Paz e Terra, 2014
+GASTROMOTIVA. Disponível em: < http://www.gastromotiva.org/pb/>. Acesso: maio.2017.
+LADIVEZ, Vinícius Hernandez Lopes. EDUCLAB: O impacto das tecnologias de fabricação digital sobre o ensino e o aprendizado em nível fundamental II e médio. Trabalho de Conclusão de Curso. São Paulo. FAU USP,
+2016.
+LOPEZ, Oscar Hidalgo. BAMBU, SU CULTIVO Y APLICACIONES EM: fabricación de papel, construción, arquitetura, ingeniería e artesania. Bogotá: Estudios Tecnicos Colombianos Ltda. – Editores, 1974.
+LOPEZ, Oscar Hidalgo. MANUAL DE CONSTRUCCIÓN CON BAMBÚ. Bogotá: Estudios Tecnicos Colombianos
+Ltda. – Editores, 1981.
+MANZINI, Ezio. DESIGN PARA INOVAÇÃO SOCIAL E SUSTENTABILIDADE: comunidades criativas, organizações colaborativas e novas redes projetuais. Rio de Janeiro: E-papers, 2008.
+MONTEIRO, Renata Zambon. COZINHAS PROFISSIONAIS. São Paulo: Editora Senac, 2013
+MST. AGRICULTURA CAMPONESA. Disponível em: <http://www.mst.org.br/agricultura-camponesa/> Acesso
+em: set.2016
+SANTOS, Gabriel Fernandes dos. DESIGN PARTICIPATIVO PARA A SUSTENTABILIDADE: desenvolvimento de
+painéis modulares para fechamentos, utilizando bambu associado com terra e resíduos. Tese de Doutorado.
+Bauru. FAAC UNESP, 2016.
+SANTOS, Milton. O ESPAÇO DO CIDADÃO. São Paulo: Editora da Universidade de São Paulo, 2014.
+
+SÃO PAULO, Prefeitura Municipal. 1° PLANO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL. São
+Paulo, 2016.
+SÃO PAULO. Prefeitura Municipal. EDUCAÇÃO ALÉM DO PRATO. Disponível em: <http://portalsme.prefeitura.
+sp.gov.br/Main/Page/PortalSMESP/Educacao-Alem-do-Prato>. Acesso em: out.2016
+SÃO PAULO. Prefeitura Municipal. PROGRAMA LEVE LEITE. Disponível em: < http://portal.sme.prefeitura.sp.
+gov.br/Main/Page/PortalSMESP/Programa-Leve-Leite>. Acesso em: out.2016.
+SLOW FOOD. Disponível em: < http://www.slowfoodbrasil.com/>. Acesso: maio.2017.
+VASSÃO, Caio Adorno. METADESIGN, Ferramentas, Estratégias e Ética para a Complexidade. São Paulo: Blucher, 2010.
+
+ANEXO I
+Abaixo listam-se alguns dos equipamentos públicos destacados ao longo da pesquisa, principalmente através
+do 1° Plano Municipal de Segurança Alimentar e Nutricional. Alguns destes equipamentos encontram-se mais
+fortalecidos, outros podem se fortalecer mais, mas em geral todos são possibilidades reais de articulação em
+rede.
+_ Mercados e Sacolões Municipais e feiras livres: os mercados e sacolões municipais são equipamentos públicos voltados à distribuição de alimentos. Muitos deles são voltados à comercialização de alimentos exóticos e
+a preços não muito justos. Porém, uma demanda apontada no 1° PLAMSAN foi a de resgatar o caráter social
+desses locais, alocando cozinhas comunitárias nestes como espaços de formação. Esses locais podem assegurar distribuição de alimentos oriundos de agricultura familiar, por exemplo. As feiras livres são alternativas
+interessantes para os desertos alimentares das cidades, devido ao caráter móvel destas. Esse mesmo caráter,
+por outro lado, reduz a possibilidade de estabelecimento de vínculos comunitários.
+_Escolas Estufa: são locais de formação técnica em agricultura agroecológica. As acessórias técnicas são disponibilizadas pelo poder público como alternativa de geração de renda e capacitação. O intuito do projeto é
+estimular a produção de hortas comunitárias na cidade.
+_Hortas e Viveiros Urbanos: o Projeto Hortas e Viveiros Urbanos é um projeto de assessoria técnica à alguns locais com essa proposta de produção em nível de comunidade. O Governo Municipal disponibiliza uma verba
+de auxílio e acompanhamento técnico afim de formar novos multiplicadores nas áreas.
+_Centro de Referência em Segurança Alimentar e Nutricional (CRESAN): são locais de vivencia e cidadania na
+área de SAN. Estes apresentam cursos de formação em agroecologia, serviços nutricionais, diagnósticos entre
+outros serviços. A ideia é descentralizar políticas de SAN através de CRESAN’s, que tem caráter local.
+_Banco Municipal de Alimentos: são locais responsáveis pela distribuição de alimentos oriundos de doações
+e redistribui-los para entidades socioassistenciais. Os alimentos em gerais são considerados impróprios ao
+consumo, passam por uma triagem e são redistribuídos para seus devidos fins.
+_Escolas Municipais (EMEI/EMEF): as escolas municipais possuem cozinha própria de administração pública
+ou terceirizada. Essas cozinhas subordinam-se ao Plano Nacional de Alimentação Escolar (PNAE). Recentemente o Governo Municipal de São Paulo ampliou significativamente o conjunto de ações públicas voltadas ao
+campo de EAN e SAN nas escolas municipais, que são locais interessantes de construção de redes alimentares.
+_Centro de Educação Unificada (CEU): a intersetorialidade dos CEUs são uma possibilidade interessante de
+implementação de políticas públicas em SAN. No 1°PLAMSAN sugere-se o uso do deste equipamento como
+promotor de EAN.
+_Casa de Agricultura Ecológica (CAE): são equipamentos públicos que disponibilizam assessoria técnica á
+produtores urbanos e periurbanos organizados em associações ou cooperativas. Atualmente existem duas
+delas (em Parelheiros e no Parque no Carmo). É uma iniciativa interessante que deve ser fortalecida.
+
+ANEXO II
+Croquis de infraestrutura pré-revisão bibliográfica
+
+ANEXO II
+Croquis de serviço e sistema pré-revisão bibliográfica
+
+ANEXO V
+Croquis pós-revisão bibliográfica
+
+ANEXO V
+Croquis pós-revisão bibliográfica
+
+

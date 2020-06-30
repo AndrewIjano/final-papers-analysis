@@ -1,0 +1,4161 @@
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+universidade de são paulo
+faculdade de arquitetura e urbanismo
+curso de design
+trabalho de conclusão de curso
+“anormal - a dor do parto que conhecemos”
+projeto de exposição conceitual sobre o medo da dor no parto vaginal
+denise renata passos ikuno
+orientadora: profª drª sara miriam goldchmit
+são paulo, 2017
+
+resumo
+No Brasil, as altas taxas de cirurgia cesariana estão muito acima das
+recomendadas pela Organização Mundial de Saúde. Os motivos são
+inúmeros e as partes envolvidas são diversas. Um desses motivos deve-se às
+cesarianas eletivas causadas pelo medo da dor no parto vaginal. O objetivo
+deste trabalho é traduzir simbolicamente algumas sensações e emoções
+relacionadas ao medo da dor do parto em instalações sensoriais imersivas
+que configurem uma exposição planejada para o Espaço Cênico Ademar
+Guerra, no porão do Centro Cultural Vergueiro, em São Paulo. Espera-se que
+a solução pautada no design expositivo possa contribuir para a apresentação
+de um tema complexo voltado para um público abrangente de modo a
+predispor o engajamento emocional e sensorial dos visitantes.
+24
+
+abstract
+In Brazil, high rates of cesarean surgery are far above those recommended
+by the World Health Organization. There are many reasons for this and
+the parties involved are diverse. One of these reasons is due to the elective
+cesareans caused by fear of vaginal delivery pain. The objective of this work
+is to symbolically translate some sensations and emotions related to the fear
+of childbirth pain in immersive sensory installations that set up a planned
+exhibition for the Ademar Guerra Scenic Space in the basement of the
+Vergueiro Cultural Center in São Paulo. It is hoped that the solution based on
+the exhibition design can contribute to the presentation of a complex theme
+aimed at a wide audience in order to predispose the emotional and sensorial
+engagement of the visitors.
+25
+
+palavras-chave
+Medo; Dor; Parto Humanizado; Cesariana eletiva;
+Parto Normal; Design; Design de Exposição
+
+26
+
+agradecimentos
+Agradeço a
+Fernando Shigueo Fujivara
+Leonardo Akamatsu
+Caio Teixeira da Quinta
+Antonio Augusto Delfim da Silva Santos (Nico)
+Mayara Kise Telles Fujitani
+Rafael Monteiro
+Karin Onuki Kussaba
+Nívea Pascoaloto
+Lucas Marques Otsuka
+Lucas Anghinoni
+Caio Cesar Reis Alonso
+Livia Takemura
+João Schmitt
+Liana Maki Shintate
+Marcos Salvi Philipson
+Jomaryston Candido
+Danilo Makio Saito
+Karina Izumi Gushiken
+Tadeu Kendy de Oliveira Omae
+Leandro Cunha
+Marilia Koeppl
+Cristiane Aun Bertoldi
+Sara Miriam Goldchmit
+Meus pais e meu irmão
+pela graça alcançada.
+
+27
+
+28
+
+índice
+27
+
+introdução
+
+33
+
+definições
+
+41
+
+materiais e métodos de pesquisa
+
+44
+
+pesquisa videográfica _ documentários
+
+52
+
+entrevistas
+
+74
+
+questionário online de caráter quantitativo
+
+82
+
+visita às maternidades
+
+96
+
+curso de formação de doulas (GAMA)
+
+107
+
+levantamento de dados
+
+108
+
+nascer no brasil
+
+118
+
+declaração da oms sobre taxas de cesáreas
+
+124
+
+legislação e práticas governamentais
+
+130
+
+visão antropológica sobre situação atual da assistência ao parto
+
+147
+
+conclusão da primeira parte
+
+153
+
+sobre projeto de exposições
+
+154
+
+expografia contemporânea no brasil
+
+162
+
+engaging spaces
+
+171
+
+a exposição
+
+174
+
+definição da mensagem e discurso
+
+178
+
+definição do local e breve descrição
+
+184
+
+definição da jornada
+
+255
+
+comunicação visual
+
+268
+
+bibliografia
+
+270
+
+projetos de referência
+
+29
+
+30
+
+introdução
+
+31
+
+O cenário obstétrico brasileiro apresenta taxas elevadíssimas de cirurgias
+cesarianas, taxas essas que extrapolam demasiadamente o que seria
+considerado normal pela Organização Mundial de Saúde. Porém essa é uma
+questão com muitas variantes e multifacetada. Os motivos para essas elevadas
+taxas são diversos e apenas alguns deles serão abordados neste trabalho. Há
+problemas de infra-estrutura, falta de profissionais e de equipamentos no
+sistema de saúde pública; falta de apoio jurídico em casos que necessitem; má
+remuneração por parte dos convênios de saúde em casos de partos normais;
+e a própria vontade da mulher no caso da “cesariana eletiva”. Por outro lado,
+ativistas do parto humanizado defendem que a questão da conveniência, para os
+médicos, de uma cesariana agendada, não deve ser desconsiderada.
+Tentando entender melhor as razões que levam as mulheres a optarem por uma
+1. Pesquisa “Nascer no Brasil - Inquérito
+Nacional sobre Parto e Nascimento” (2011):
+
+32
+
+Pesquisa da Fiocruz para estudar os motivos
+da opção do parto normal ou cesariana, avalia
+as consequências que pode trazer para a
+mãe e para o recém-nascido e descreve as
+estruturas das instituições hospitalares.
+
+cesariana nos deparamos com um contexto ainda mais complexo. Segundo a
+1
+
+pesquisa Nascer no Brasil , cerca de 28% das mulheres brasileiras já desejam
+a cesariana desde o começo da gravidez. Ao final da gestação, esse número é
+ainda maior. Em hospitais privados, cerca de 67% das mulheres primíparas
+chegam ao final da gravidez desejando uma cesariana. No caso das multíparas,
+esse número chega a 75%. Os motivos de tantas cesarianas eletivas não foram
+explorados pela pesquisa mas vêm sendo discutidos por ativistas do parto
+humanizado, profissionais da saúde e antropólogos. A violência obstétrica por
+
+2. Fonte: filme “O Renascimento do Parto”(2013)
+
+exemplo, pode transformar a experiência do parto em uma algo traumático,
+2
+
+sofrido e doloroso, segundo Melania Amorim (médica obstetra). Práticas
+como o jejum, impedir movimentação da mulher, uso de manobras como a
+de Kristeler, falta de apoio, de métodos não farmacológicos para alívio da dor
+e de respeito às vontades da mulher podem tornar esse processo fisiológico e
+afetivo em um processo apenas doloroso, associando-o ao sofrimento. O medo
+da dor no parto, que já preocupa muitas mulheres (gestantes ou não), pode
+crescer ainda mais ao se ouvir relatos (ou mesmo ver em filmes ou novelas) de
+sofrimento intenso durante o nascimento.
+
+Esse medo também está atrelado a um medo do desconhecido, por vezes
+ocasionado por falta de informação sobre o tema, e também à peculiaridade
+do próprio evento. Trata-se de um evento único, de sensações únicas e que
+dificilmente serão experienciadas de outra forma. Lida com questões de vida e
+morte fortemente conectadas entre si, nascimento de um filho e de uma mãe. É
+um evento intenso e de grandes transformações. O medo pode ser da sensação
+fisiológica, mas também daquilo que ela representa.
+Embora informações, lidas ou ouvidas, sejam importantes para tomadas
+de decisões, as informações recebidas de forma sensível também têm sua
+3
+
+importância. Segundo alguns antropólogos , na sociedade moderna ocidental
+
+3. Fonte: livro “Cultura, Saúde e
+Doença”, de Cecil Helman
+
+a cultura tecnicista da medicina domina. Evitamos a dor e o sofrimento através
+das mais variadas formas e, muitas vezes, fazendo uso da tecnologia. No
+entanto, ao nos privarmos da experiência da dor, estamos nos privando das
+informações que são trazidas junto a ela. Ao nos privarmos da experiência da
+dor, nós a tornamos algo desconhecido.
+No parto, o medo trabalha ao lado da dor. Segundo a doula Mariana de
+4
+
+Mesquita , na verdade, trata-se de uma corrente “medo-tensão-dor”. Ou seja,
+quanto maior o medo, maior a tensão. Quanto mais tensão, maior o estresse, ou
+seja, maior a relação com sofrimento, e assim, a percepção da dor torna-se mais
+intensa. Fatores externos, como ambiente e atitude dos profissionais do parto,
+podem influenciar no medo e tensão, por consequência, na dor. Deve-se, então,
+proporcionar um ambiente acolhedor e afetivo desde o pré-natal, aliviando
+medos, agústias e tensão em um processo de preparação para o momento do
+parto.
+É importante lembrar que a cesariana não é uma vilã. Quando necessária, pode
+salvar vidas. O que se questiona aqui é a opção por cesarianas quando não
+necessárias, situação essa em que a cirurgia pode trazer mais malefícios do que
+benefícios.
+
+33
+
+4. Informação oral: curso de
+doulagem do GAMA
+
+34
+
+35
+
+36
+
+definições
+
+37
+
+Para um entendimento melhor do texto a seguir, é necessário que se
+esclareçam alguns termos usados ao longo dele:
+
+Parto Natural: aquele que ocorre, desde o trabalho de parto, de forma
+natural, sem intervenções, como corte do períneo, aplicação de soro com
+hormônio sintético, rotura não-expontânea da bolsa, anestesia, raspagem
+dos pêlos púbicos, etc.
+
+1
+
+Parto Humanizado: parto natural em que a mulher é protagonista de
+seu parto, respeitando-se o tempo, desejos, limites, anseios e expectativas
+de cada mulher. O parto humanizado não é um tipo de parto, mas sim um
+conceito, “um processo, e não um produto”.
+
+2
+
+Parto Normal: parto vaginal, porém com intervenções.
+
+3
+
+Cirurgia Cesariana: Operação cirúrgica que consiste em extrair um feto
+por meio de uma incisão no ventre e no útero da mãe, geralmente quando o
+38
+
+parto natural não é possível.
+
+4
+
+Obstetriz: Responsável pelo atendimento das mulheres durante a gestação,
+o parto e o pós-parto. É esse profissional que acompanha todas as fases
+do ciclo gravídico-puerperal: realiza o pré-natal, assiste e realiza o parto
+normal e também cuida da mulher no pós-parto. Um profissional médico é
+convocado em caso de alto risco ou de complicações.
+
+5
+
+Enfermeira Obstétrica: Profissional formado em enfermagem e com
+especialização em obstetrícia.
+Médico Obstetra: médico que estuda a reprodução da mulher e investiga
+sua paciente durante a gestação, parto e pós-parto nos seus aspectos
+fisiológicos e patológicos. Além disso, este profissional é especialista em
+cuidar do desenvolvimento do feto e dar assistência à mulher nesse período
+da gravidez, através dos exames pré-natal. Alguns casos não participam de
+todo o trabalho de parto, deixando às vezes esse acompanhamento para as
+enfermeiras dos hospitais ou uma enfermeira da equipe particular.
+
+6
+
+Doula: a palavra “doula” vem do grego antigo sendo atualmente utilizada
+para definir aquela mulher que auxilia outras mulheres. Vem sendo aplicada
+para se referir a “mulher com experiência no nascimento, que oferece apoio
+físico e emocional continuado, além de informações de suporte para as mães
+antes, durante e após o nascimento.
+
+7
+
+1 - CRUZ, A. P. Parto Natural, 2010.
+2 - http://www.febrasgo.org.br/site/?p=8495 [consultado em 10-06-2016].
+3 - CRUZ, A. P. Parto Natural, 2010.
+4 - “cesárea”, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/ces%C3%A1rea [consultado em 10-06-2016].
+5 - http://www.each.usp.br/obstetricia/obstetricia.htm [consultado em 10-06-2016].
+6 - http://www.brasilprofissoes.com.br/profissao/obstetra/ [consultado em 10-06-2016].
+7 - Informação fornecida por Daniela Andretto, 2016 [citação de Kennell & Klauss, “Mothering the Mother”].
+
+39
+
+Trabalho de Parto: “Estabelece-se o trabalho de parto quando existem
+contrações uterinas ritmadas e que provoquem alterações progressivas no
+colo uterino. Em um conceito mais amplo, considera-se trabalho de parto
+quando os seguintes parâmetros estiverem presentes: apagamento do colo,
+dilatação cervical, formação das bolsas das águas, emissão de mucosidade
+e contrações uterina rítmicas, e em conceito mais simples, quando ocorrem
+duas contrações em 10 minutos. Sob a ação das contrações, a dilatação se
+completa e inicia-se a expulsão.”
+
+8
+
+Episiotomia: procedimento cirúrgico usado em obstetrícia para aumentar
+a abertura vaginal com uma incisão no períneo ao final do segundo estágio
+do parto vaginal. É realizado com tesoura ou bisturi e necessita de sutura.
+Períneo: Espaço compreendido entre o ânus e os órgãos sexuais.
+
+10
+
+Primípara: Diz-se de ou fêmea que vai parir ou pariu pela primeira vez.
+Multípara: Que pare ou pode parir mais de um filho de um só parto.
+Nulípara: Que ou quem nunca pariu.
+40
+
+9
+
+11
+
+12
+
+13
+
+ANS (sigla): Agência Nacional de Saúde Suplementar
+OMS (sigla): Organização Mundial da Saúde
+
+14
+
+15
+
+Febrasgo (sigla): Federação Brasileira das Associações de Ginecologia e
+Obstetrícia
+
+16
+
+Sogesp (sigla): Sociedade Obstetrícia Ginecologia Estado São Paulo
+
+17
+
+Puerpério: Período de várias semanas, posterior ao parto, durante o qual
+os órgãos genitais femininos regressam à normalidade
+
+18
+
+Pródromos: Podem durar dias ou semanas. A duração e a intensidade
+das contrações varia bastante. Você pode perder o tampão mucoso e sentir
+dores nas costas. Para algumas mulheres, os “sintomas” dessa fase são quase
+imperceptíveis. Para outras, causam dificuldade para dormir ou descansar.
+
+19
+
+Tentante: Mulher que está tentando engravidar
+Apresentação pélvica: Bebê na posição “sentada”.
+Apresentação cefálica: Bebê na posição com a cabeça virada para baixo.
+Gestação múltipla: Mais de um bebê sendo gestado.
+
+41
+
+8 - http://www.portaleducacao.com.br/enfermagem/artigos/23076/assistencia-de-enfermagem-ao-trabalho-de-parto#ixzz4B8YmZQrf [consultado em 10-062016].
+9 - http://www.febrasgo.org.br/site/wp-content/uploads/2013/05/feminav37n7p367-71.pdf [consultado em 10-06-2016].
+10 - “períneo”, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/per%C3%ADneo [consultado em 10-06-2016].
+11 - “primípara”, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/prim%C3%ADpara [consultado em 10-06-2016].
+12 - “multípara”, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/mult%C3%ADpara [consultado em 10-06-2016].
+13 - “nulípara”, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/nul%C3%ADpara [consultado em 10-06-2016].
+14 - www.ans.gov.br/ [consultado em 10-06-2016].
+15 - www.who.int/ [consultado em 10-06-2016].
+16 - http://www.febrasgo.org.br/site/ [consultado em 10-06-2016].
+17 - www.sogesp.com.br/ [consultado em 10-06-2016].
+18 - “puerpério”, in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/puerp%C3%A9rio [consultado em 10-06-2016].
+19 - http://casamoara.com.br/fases-do-parto/ [consultado em 10-06-2016].
+
+42
+
+43
+
+44
+
+materiais e métodos de pesquisa
+
+45
+
+O tema deste projeto se trata de um problema de complexidade social e, sob
+o ponto de vista do pensamento do design, está diretamente relacionado à
+capciosidade de um wicked problem, como afirma Jeff Conklin (SIRAIAMA,
+2013). Para Conklin, quanto mais partes envolvidas (stakeholders) e quanto
+maior a diversidade entre elas, maior a complexidade social, pois cada
+uma dessas partes envolvidas pode ter interesses e desejos diferentes.
+Tratando-se de um wicked problem, é necessário que se entenda da melhor
+maneira possível todos os interesses e desejos relacionados a ele, para que,
+dessa forma, alternativas de soluções sejam levantadas e trabalhadas como
+projeto posteriormente. Por isso, foi necessário que a pesquisa deste projeto
+abrangesse várias áreas do conhecimento e analisasse os diversos pontos de
+vista sobre o mesmo assunto.
+Como métodos de pesquisa foram feitas pesquisas bibliográficas nas áreas
+de obstetrícia, psicologia e antropologia, a fim de analisar aspectos da saúde,
+46
+
+da psicologia humana durante a gravidez e o contexto histórico dessa área
+da saúde sob uma perspectiva antropológica. Também foram usadas teses
+de mestrados e doutorados e artigos publicados em revistas científicas sobre
+conteúdos que abordam o parto humanizado e sobre o medo do parto.
+Entrevistas semi-estruturadas com gestantes e mulheres que recentemente
+se tornaram mães e questionários online também foram aplicados de forma
+exploratória, tentando identificar questões que ainda não foram levantadas
+em pesquisas científicas oficiais.
+Para entender melhor o mundo da gestante e do parto humanizado, houve a
+participação em dois cursos para gestantes e acompanhantes e em um curso
+reconhecido de formação de doulas (GAMA - Maternidade Ativa), porém
+não foi possível um acompanhamento próximo de uma gestante do terceiro
+trimestre nem de acompanhamento presencial um nascimento.
+
+Dois documentários fizeram parte da pesquisa videográfica: “The Business
+of Being Born” (2008) e “O Renascimento do Parto” (2013). Além desses,
+diversos vídeos de partos humanizados, vídeos relatando partos, ficções, etc,
+foram assistidos, a fim de entender melhor os vários modos como um parto
+pode ser retratado.
+Dados oficiais de agências de pesquisa renomadas, como a Fundação
+Oswaldo Cruz (Fiocruz) e a Organização Mundial da Saúde (OMS), e de
+órgãos reguladores de saúde, como a Agência Nacional de Saúde Suplementar
+(ANS) também foram usados para dar respaldo técnico.
+De forma exploratória, também foi pesquisado como artistas se expressam
+sobre o evento da gestação e parto. Há fotógrafos, grafiteiros, cantores e
+pintores trabalhando com isso. Até exposições informativas e fotográficas já
+foram feitas sobre parto. Em geral, seus objetivos são sempre baseados em
+sensibilizar e familiarizar seu público com esse evento, tornando-se assim
+relevante referência para este trabalho.
+Depois de definida a mídia em que o objeto de estudo seria abordado (projeto
+de exposição), pesquisou-se também sobre como se dá o desenvolvimento
+desse tipo de projeto, tomando como referência uma dissertação de mestrado
+que tem como estudo de caso o Museu do Futebol, em São Paulo, e o livro
+“Engaging Spaces” sobre experiências imersivas em exposições, escrito por
+designers de um escritório europeu renomado. Algumas exposições também
+foram visitadas ao longo do trabalho, a fim de ver na prática como a teoria
+lida nesses livros é posta em prática.
+
+47
+
+pes uisa videográfica
+documentários
+48
+
+Dois documentários, em especial, foram usados como referência para esse
+projeto: o americano “The Business of Being Born”, direção de Abby Epstein
+(2008) e o brasileiro “O Renascimento do Parto”, direção de Eduardo
+Chauvet (2013).
+
+49
+
+“The Business of Being Born”
+Em “The Business of Being Born”, Abby Epstein mostra o cenário obstétrico
+dos Estados Unidos, trazendo importantes figuras para o parto humanizado,
+como Michel Odent (ginecologista obstetra e um dos precursores do parto
+humanizado), Robbie Davis-Floyd (antropóloga médica), Marden Wagner
+(médico e diretor da “Women’s and Children’s Health” da OMS) e Ina May
+Gaskin (parteira profissional e diretora executiva do “Farm Birth Center”).
+Eles mostram como as parteiras foram expulsas do seu campo profissional
+pela indústria obstétrica dos hospitais ainda nas primeiras décadas do
+século XX (principalmente década de 1920) e os efeitos a longo prazo de
+determinadas práticas médicas, as quais, na época, não tiveram estudos
+aprofundados sobre seus efeitos nas crianças. Além disso, acompanham
+alguns partos humanizados domiciliares feitos por uma determinada obstetriz
+(midwife) e trazem os relatos das parturientes sobre suas experiências de
+50
+
+parto humanizado, como sendo algo empoderador e gratificante.
+Alguns médicos ginecologistas tradicionais são entrevistados, assim como
+residentes de medicina, os quais afirmam que nunca viram um parto normal.
+Os médicos ginecologistas, apesar de apresentarem uma postura flexível
+com relação à opção da mulher e garantirem que um parto normal é mais
+saudável em relação à cesárea, não aceitam o parto domiciliar (planejado
+ou não), alegando que não são providos de nenhuma segurança caso ocorra
+alguma emergência e que não seguem procedimentos técnicos necessários,
+ao que outros médicos e obstetrizes rebatem com exemplos de outros países
+e mostrando o que fazem em casos de emergências e em que casos os parto
+domiciliares são aceitos. Também discorrem brevemente sobre a cultura
+tecnicista na medicina, dizendo que hoje, por causa de diversos motivos, como
+a busca pela beleza perfeita (cirurgias plásticas), as pessoas se submetem a
+cirurgias muito mais facilmente, como se fosse algo normal e muito seguro.
+
+“O Renascimento do Parto”
+Em “O Renascimento do Parto”, Eduardo Chauvet e Erica de Paula também
+contam com a participação de profissionais respeitados no assunto, como
+Michel Odent, Robbie Davis-Floyd, Ana Cristina Duarte (obstetriz), Heloísa
+Lessa (enfermeira obstétrica, PhD), Ricardo Jones (médico obstetra), Daphne
+Rattner (médica epidemiologista, PhD), Melania Amorim (médica obstetra,
+PhD), Esther Vilela (gestora do Ministério da Saúde) e Naoli Vinaver
+(parteira e antropóloga). Nesse documentário, focam no cenário brasileiro da
+violência obstétrica. Apresentam fatores causadores para os elevados índices
+de cesárea, comuns no Brasil, fatores esses externos à saúde e bem estar da
+mulher. O sistema nacional de saúde como é gerido hoje e o modo como os
+convênios de saúde influem na questão econômica do parto, do ponto de vista
+médico e da mulher, são grandes fatores moldadores do estilo de atenção
+obstétrica, além de serem externos à saúde da mulher. A cirurgia cesariana
+traz maior remuneração para o médico dentro de um plano de convênio é
+um dos pontos apontados no documentário. Outro é a conveniência de uma
+cesariana (fator também externo à saúde da mulher), que pode ser agendada,
+não demora, e não traz surpresas para o médico em momentos indesejados.
+No entanto, apesar de tentarem apresentar argumentos baseados em relatos
+e em algumas estatísticas, não há dados documentados (no Brasil) que
+possam provar isso.
+É fato, porém, que as taxas de cesarianas estão muito além das
+recomendações da OMS. Fato esse assumido pelo governo, que vem
+financiando pesquisas para descobrir as causas reais desses números. Dois
+desses estudos são a pesquisa Nascer no Brasil, da Fiocruz, e a Pesquisa
+sobre a Assistência Obstétrica na Saúde Suplementar, da Comissão do Parto
+Normal da ANS. Esses estudos serão abordados adiante.
+
+51
+
+A questão da violência obstétrica também é bastante abordada, sendo
+considerada uma das maiores causas da cesariana eletiva. A mulher,
+que só ouve relatos de experiências traumáticas, ou que já passou por
+experiências assim, obviamente terá medo de passar por isso novamente.
+Por essa conduta estar tão disseminada, a sociedade acaba vendo o parto
+normal apenas como sofrimento, e não como uma experiência que pode ser
+prazerosa e construtiva. Para essa sociedade, o normal é assim, e o anormal
+é o humanizado. Segundo Ricardo Jones, médico obstetra entrevistado
+no documentário, nesse processo, a cultura contamina a sua auto-estima
+da mulher, “fazendo-a acreditar que não é capaz, que são incompetentes,
+fortalecendo [dessa forma] os médicos e as instituições”.
+Em uma palestra (22 de maio de 2016) para o evento online Nascer Melhor
+2, Melania Amorim (médica obstetra), define o que é a violência obstétrica.
+Segundo a médica, violência obstétrica pode ser qualquer coisa que impeça
+52
+
+o apoio contínuo à mulher durante o trabalho de parto e parto. Para ela, esse
+momento tão sensível e delicado devia ser repleto de acolhimento, ternura e
+carinho, mas ao contrário, ela sofre procedimentos que não são baseados nas
+melhores evidências científicas.
+Na palestra, ela cita uma pesquisa divulgada em 2010, pela Fundação
+Perseu Abramo, que mostra que 25% das mulheres se percebiam sofrendo
+violência no momento do parto. Um quarto das mulheres se sentiram
+agredidas. Porém, Melania atenta para o fato de que muitas delas sofrem e
+não percebem, aceitam como normal, como já dito anteriormente. Segundo
+a médica, coisas que podem parecer secundárias ou banais, como falta de
+privacidade, impedir que tenha um acompanhante (o que vai contra a Lei
+Federal 11.108), ou palavras que fragilizem ou menosprezem as parturientes
+e suas sensações e emoções são agressões de violência obstétrica.
+
+Um quarto das mulheres se sentiram agredidas.
+
+53
+
+Melania ainda aponta que a violência obstétrica também tem classe social.
+Pobres, negras, pardas, lésbicas, transgêneros, meninas, usuárias de drogas e
+usuárias do SUS sofrem um atendimento considerado bem mais traumático.
+Outros profissionais também suportam essa afirmação. Na maternidade
+Amparo Maternal, a coordenadora do curso para gestantes afirma ter ouvido
+vários relatos confirmando essa afirmação. Alguns relatos em redes sociais e
+blogs também foram lidos, confirmando também essa afirmação.
+Nas classes mais altas, a violência obstétrica não deixa de acontecer, mas
+acontece de outras formas, mas camufladas, “mais com cara de cesariana
+desnecessária” (AMORIM, 2016).
+Outra causa de cesarianas é o tipo de atendimento no acompanhamento do
+pré-natal. A maioria das mulheres brasileiras (dados da pesquisa Nascer
+no Brasil) começa a gravidez querendo o parto normal, mas é ao longo do
+54
+
+pré-natal que suas opiniões mudam. Para Ana Cristina Duarte (obstetriz
+entrevistada no documentário), essas opiniões podem ser facilmente
+manipuladas por especialistas, seja esta afirmação realizada fortuitamente
+ou com intenção de conduzir uma escolha, em comentários sutis, como:
+“Nossa, que bebezão, será que passa? Difícil o bebê grande assim”, “Ah, você
+quer parto normal? Parabéns, porque dói bastante! É muito difícil. Você é
+bem corajosa!” minando a coragem das mulheres.
+O documentário deixa claro que o problema não é a mulher escolher fazer
+uma cesariana, mas ser manipulada, sem informações ou com informações
+erradas, sem lhe ser oferecida nenhuma opção, e ser deparada com uma falsa
+dicotomia: parto vaginal violento vs cesariana segura e confortável. Para
+os profissionais entrevistados no documentário, nenhuma dessas opções é
+totalmente verdadeira. Para eles, é preciso esclarecimentos para as mulheres.
+
+“Parto Natural Humanizado” (COREN)
+O Conselho Regional de Enfermagem de São Paulo (COREN-SP) também
+realizou um pequeno vídeo (cerca de 15 minutos) sobre o cenário obstétrico
+brasileiro, sob direção de José Gaspar. Esse mini documentário mostra
+também a importância emocional de se ter um acompanhante, de se ter um
+parto humanizado, criando um laço de família muito forte. A enfermeira
+Andrea Porto (conselheira do COREN-SP) também reaçalta que o grande
+medo da mulher é o medo da dor, e que no parto humanizado, está sendo
+provado que, por ter acompanhante e por serem aplicadas técnicas não
+famacológicas de alívio da dor pode diminuir a sensação de dor, sendo que
+na cesárea a mulher pode até não sentir dor no momento do parto em si,
+mas que há sim dor no pós parto e riscos inerentes a qualquer cirurgia e a
+qualquer medicação. A cesárea é uma cirurgia salvadora, sim, mas quando é
+necessária.
+55
+
+entrevistas
+Tentando entender melhor alguns pontos de vista sobre o evento do parto,
+foram feitas entrevistas com uma gestante, cinco mães de filhos pequenos,
+uma ginecologista e uma doula e psicóloga de gestantes, além de algumas
+conversas informais com diversas pessoas. As entrevistas duraram, em
+média, uma hora cada, e as entrevistadas eram orientadas desde o começo
+56
+
+da entrevista a lembrarem sempre de comentar também sobre as emoções e
+sensações pelas quais passaram.
+Em muitas das entrevistas, as mães se emocionaram ao contar suas histórias
+de gestação e parto e compartilhar suas experiências. Algumas chegavam
+a lacrimejar. Isso mostra como esse é um momento sensível da mulher, de
+grandes emoções e sensações quase indescritíveis. Não apenas as mães, mas
+a médica ginecologista entrevistada também se emocionou ao contar como
+foi o primeiro parto que presenciou e o seu próprio parto.
+
+57
+
+Doutora Claudia Grillo (Médica Ginecologista e Obstetra)
+A médica explica que, na primeira vez que viu um parto (ela não lembra se
+era normal ou cesárea), ela sentiu uma “onda de emoções muito fortes” e
+se apaixonou naquele momento. Segundo ela, ainda é o que sente em cada
+parto. Explica ainda que hoje, com a maturidade na profissão, sente-se mais
+como uma “observadora” de um processo natural, e suas responsabilidades
+vão até determinado ponto, assim como as responsabilidades da mãe, mas
+há coisas que não são responsabilidade de nenhuma das partes. Por isso, ao
+mesmo tempo que considera um “processo natural”, também diz que é, sim,
+um “processo médico”, pois a sociedade não aceita mais a morte ou qualquer
+outra “tragédia” como algo natural. A médica mostrou-se bastante sensível em
+relação aos sentimentos das pacientes. Há uma relação de empatia de ambas as
+partes. A médica chora junto com as pacientes e tenta consolá-las e, ao mesmo
+tempo, as próprias pacientes tentam consolá-la, numa relação de troca.
+58
+
+Quando questionada sobre os tipos de parto e se há preferência por algum
+deles, ela diz que não. Para ela, não há diferença entre as vias de parto. É como
+se “você tivesse a opção de sair pela porta da frente ou pela porta dos fundos
+[de uma casa]”. Diz que não há maiores riscos na cesárea, “como dizem por
+aí”, e argumenta que há estudos que comprovam isso. Argumenta também
+que o médico brasileiro consegue fazer cirurgias muito bem, sem muita perda
+de sangue, corte pequeno, e de forma segura. Complementa que “a dor de
+parto é cruel”. Levanta a questão: “Se a mulher não quer uma pessoa saindo
+pela vagina dela, qual o problema?”. Isso sugere que o atendimento dessa
+médica pode ser humanizado em alguns aspectos, mesmo que não concorde
+com alguns estudos defendidos pelos profissionais do parto humanizado,
+por respeitar a vontade da mulher. Para ela, “o melhor parto é aquele que dá
+tudo certo”, mas lembra que o processo ativo pode durar de 8 a 12 horas, que
+é cansativo, tem que fazer força, que pode acontecer de, na hora, a ida para o
+hospital pode ser dificultada por trânsito, falta de meios de transporte, etc.
+
+“(...) por mais que elas pesquisem,
+ainda será algo desconhecido para
+elas, então continuarão com medo.”
+
+59
+
+Essas informações são fatos que podem deixar a mulher insegura, podendo
+levá-la a uma cesariana eletiva. A médica defende que, para mulheres com
+limitações de locomoção (falta de carro disponível, longa distância até o
+hospital, trânsito, etc) a cesariana eletiva é a melhor alternativa e que não
+é justo que essas mulheres sejam julgadas por não esperarem o trabalho
+de parto espontâneo. “Se o parto não for lesivo, o que importa por onde [o
+bebê sai]?”. A cesariana eletiva também é defendida para aquelas que, por
+trabalharem muito e até o final da gravidez, estão exaustas e querem apenas
+descansar, porque “não aguentam mais”. Portanto, a grande maioria das
+cesarianas são eletivas e “muito porque a gente vive em São Paulo, uma cidade
+grande, com muito trânsito, e, bom, porque cansa, não aguenta esperar, fica
+cansada porque trabalha muito”.
+Nesse momento, a médica faz questão de mostrar sua opinião sobre o parto
+domiciliar. Ela diz que é grave e perigoso e defende que é um direito “à boa
+60
+
+assistência” negado ao bebê por modismo. Ela se refere às mães que têm seus
+filhos em casa como “doidas”. “Não é uma questão ideológica. É uma questão
+de direito daquela criatura [o bebê]”. Sob seu ponto de vista, não há diferença
+se “é de cócoras, se é de costas, se corta ou se não corta, se tem música, se não
+tem música, se tem doula ou não, o importante é se está no hospital”.
+Por trabalhar atendendo na rede pública e privada, ela aponta diferenças e
+várias falhas do sistema público. Segundo ela, “o paciente é mal tratado em
+todos os aspectos, tanto técnico quanto psicológico, tudo ruim”, mas continua
+trabalhando na rede pública por ser um hospital escola, ajudando-a a manterse atualizada e ter mais contato com casos mais difíceis, de emergência.
+A médica foi questionada também sobre o estado emocional e psicológico das
+mulheres durante a gestação. “Ela fica instável”. Compara com uma Tensão Pré
+Menstrual (TPM) de nove meses. Ela diz que esse estado é igual durante toda a
+gravidez, mesmo no final dela. O que muda no final da gravidez são os medos.
+
+Ela diz que no começo da gestação, o medo mais comum é o do aborto. Na
+metade, elas ficam bem confortáveis. E no final, ficam com medo do parto,
+da dor do parto. “A dor do parto é o terror de toda grávida”. E completa que,
+nessa hora, não há parceria, por mais que o marido, mãe, sogra, amigos, a
+ajudem durante toda a gravidez. “Essa bronca é tua”. E, portanto, a gestante
+é quem escolhe a via de parto.
+A informação, para a médica, está acessível e as mulheres vão atrás dessas
+informações. Elas lêem livros, revistas, assistem filmes, etc, mas isso ainda
+“não preenche o vazio”, ou seja, por mais que elas pesquisem, ainda será algo
+desconhecido para elas, então continuarão com medo. “A vivência é que vai
+te ensinar. Por mais que ela tenha informação, ela não sabe o que fazer com
+essa informação”. Segundo a médica, “o seu espírito não está maduro [para
+lidar com aquela informação]” e por isso o vínculo com a médica é muito
+consolador. É alguém da confiança da mulher e que, caso aconteça alguma
+coisa, ela vai fazer o melhor por ela. Para a médica, esse é o motivo pelo
+qual muitas das gestantes, algumas vezes, não querem sua opinião médica,
+mas saber como foi o parto dela. Ela concorda com a afirmação de que o que
+as mães mais procuram e pelo que elas são mais influenciadas são relatos
+de outros partos de pessoas em quem confiam, muitas vezes mais até que
+informações de fontes médicas. “A gente é uma coleção de experiências. As
+nossas atitudes são reflexo da nossa coleção de vivências”.
+
+61
+
+Dani Takara (Mãe)
+“Antes mesmo de eu ficar grávida, eu já sabia o parto que eu queria ter”.
+A entrevistada Dani Takara, 33 anos, teve seu parto domiciliar planejado
+aos 32 anos. Ela conta que várias amigas já tinham passado pelo parto
+domiciliar e que, por isso, acabou ficando com vontade. Antes de engravidar,
+Dani já havia se pesquisado bastante sobre o assunto. Logo, quando ficou
+sabendo da gravidez, diz que não tinha “nenhuma dúvida” e que estava bem
+calma e segura. Ela contratou a obstetriz Ana Cristina Duarte, bem famosa e
+reconhecida em sua área, e conta que, normalmente, as gestantes procuram
+essa obstetriz cheias de dúvidas e “querendo que a Ana Cris convença elas
+de fazer parto humanizado”. Já a Dani tinha certeza de que queria um parto
+domiciliar humanizado e que queria essa obstetriz para auxiliá-la. Segundo
+a entrevistada, parir em casa é quase como um status que ela queria atingir
+dentro de uma comunidade “sub classe média hippie Vila Madalena” (ela
+62
+
+lembra que “parto humanizado em casa não é pra qualquer um, e isso é um
+problema dentro do parto humanizado”). Outro motivo era o desgaste e
+incômodo de ter que ir para um hospital em pleno trabalho de parto que ela
+queria evitar.
+Essa mulher é um caso em que somente a informação, os relatos de suas
+amigas e a confiança na obstetriz já bastaram para que se sentisse totalmente
+segura. Para ela, foi essa segurança que a fez não sentir tanta dor na hora
+do parto. Ela conta até que gostaria de ter tido mais dor, talvez porque
+entendesse que, dessa forma, viveria o parto de forma mais intensa.
+Para Dani, a gestação não é apenas do bebê, mas de mãe também. Ela diz “Eu
+lembro que eu gestei a minha maternidade. Quando eu entrei em trabalho
+de parto eu ainda não estava muito consciente de que eu ia virar mãe.”
+Para ela, é como se a transformação do corpo fosse indicando também uma
+transformação interna da mulher.
+
+Ela conta que sempre foi muito racional, e que até a obstetriz Ana Cristina
+Duarte achou que era uma “máscara” usada muito comumente pelas mulheres
+que estão com medo para convencerem-se de que está tudo sob controle.
+Porém, segundo ela, ela não sentiu dor. Ela explicou que nunca teve medo
+da dor, e que, por ter muitas amigas que já passaram por isso, algumas delas
+explicaram vários pontos de vista sobre a dor. Por exemplo, uma delas afirma
+que dor é uma construção cultural, que muitas culturas não entendem dor
+como nós entendemos. Segundo essa amiga, nós entendemos dor como algo
+ruim que deve ser curado. No entanto, o que se sente na hora do parto não
+é dor, mas sim músculos “que nunca trabalharam antes, trabalhando”, ou
+seja, algo desconhecido para o corpo. Diz que não se deve entender a dor
+como sofrimento, mas como seu corpo se movimentando em lugares que
+nunca se movimentou, e que não se trata de uma doença, mas de um parto.
+Mentalizando isso, Dani conseguiu aceitar a dor, “Pode doer que eu não tenho
+medo (...) porque na verdade não é dor”.
+Ela ainda levanta a ideia de que medo é uma coisa construída pela mídia da
+nossa sociedade, com as novelas, filmes, etc. retratando a dor como sofrimento
+intenso e como se a “dor fosse a pior dor do mundo”. Ela conta que leu em
+algum momento um livro (“A Religião dos Tupinambás”) sobre antropologia
+em que o autor descrevia o evento de um parto em uma tribo indígena. Ela
+diz que os sentimentos que fluem pela mulher indígena é outro e o ritual de
+nascimento é outro também.
+Para essa mãe, seus maiores medos eram de fazer parto hospitalar ou ter
+que passar por uma cesárea. Ela lembra de uma cirurgia pela qual passou e
+que ficou dolorida no pós operatório. Vendo isso, a enfermeira disse “Nossa,
+não foi nada. Espera uma cesárea”. A mensagem ficou na cabeça dessa mãe
+aterrorizando-a durante toda a gestação até o dia em que sua filha nasceu. Por
+causa disso, ela conta que “odiou” a gestação.
+
+63
+
+“Pode doer que eu não tenho medo (...)
+64
+
+porque na verdade não é dor”.
+
+Dani conta que fez bastante atividade física durante a gravidez, como ioga,
+pilates e caminhada, porém, por ter sido sempre sedentária, não acreditava
+muito na eficiência desses exercícios. Ela admite que era “maria-vai-comas-outras”. No entanto, também admite que essa preocupação com uma vida
+saudável, a qual nunca teve, a deixava estressada. Mas se defende dizendo
+que preferia que seu corpo estivesse saudável, e não a sua mente. Vê-se que
+ela entende mente e corpo como coisas separadas e não conectadas, o que
+não chegou a interferir no bom andamento do trabalho de parto e parto,
+como é defendido no curso de formação de doulas (melhor explicado mais
+adiante).
+Sobre o atendimento que recebeu de sua doula, ela não considera que
+foi satisfatório. Ela diz que a doula não teve sensibilidade para lidar com
+Leandro, marido da Dani, que é surdo. Ela admite que, quando a contratou,
+não sabia muito bem o que uma doula fazia, e tinha muitas dúvidas sobre
+esse serviço. O critério decisivo que a fez contratar essa doula foi que a doula
+tinha um filho autista, logo, teria mais sensibilidade para lidar com pessoas
+deficientes.
+Para ela, o parto humanizado vem ganhando força no últimos tempos por
+conta de uma classe média branca “neo-hippie”, “alternativa”, “orgânica”,
+“conscientizada” e instruída que vem crescendo ao longo das últimas
+décadas e consumindo produtos que a qualifiquem como tal. O feminismo
+e empoderamento feminino que são um assunto bastante recorrente nesse
+meio também é importante para o parto humanizado. No entanto, ela admite
+que é restrito a uma classe mais elevada. Conta que gastou mais ou menos 12
+mil reais, e que é muito difícil levantar esse dinheiro em nove meses.
+
+65
+
+Joana Fernandez (Mãe)
+Mãe de 33 anos, Joana teve seu filho aos 33. Por ser originalmente de
+Campinas, Joana não tinha uma médica ginecologista de sua confiança
+em São Paulo. Conta que costumava voltar para Campinas toda vez que
+fazia uma consulta de rotina. Porém, ao se ver grávida, precisava do
+acompanhamento de uma médica mais próxima. Pediu, então, indicação
+de amigas e achou uma. Essa primeira médica, no entanto, não poderia
+acompanhar a gestação até o final pois viajaria na época do parto. Indicou,
+então, uma colega de sua confiança. Joana diz que gostou da médica,
+mas logo no começo da gravidez a médica identificou uma pequena
+anomalia (que depois se normalizou naturalmente), e disse à Joana que
+muito provavelmente ela teria um aborto. Com um início de gestação tão
+conturbado, Joana não conseguiu “curtir” o começo da gravidez, ficava
+apreensiva com medo de não “vingar [o feto]”, e, por isso, nem contou à
+66
+
+família e aos amigos. Ela diz que chorou muito, como se, de fato, tivesse tido
+um aborto. Ela conta que pensava “Estou chorando por uma coisa que eu
+nem tenho, que é do tamanho de um gergelim”. Joana diz que a médica foi
+insensível ao dar a notícia daquela forma, como se o aborto fosse algo certo
+de que aconteceria. Não teve a empatia de ser mais delicada com o assunto,
+e isso abalou seu “relacionamento de confiança nela como profissional”. Ela
+diz “No começo, a mulher está super sensível e ela fala daquele jeito?”. No
+entanto, Joana continuou se consultando com essa médica.
+Joana contou ainda outro episódio posterior de desapontamento com a
+postura da médica. A obstetra pediu um exame, desconhecido por Joana,
+e não explicou sobre o que se tratava. Achando estranho, Joana pesquisou
+na internet sobre o que se tratava o exame. Ela não se lembra do nome do
+exame, mas descobriu que o exame apenas indicava a probabilidade de que o
+bebê nascesse com deficiências genéticas.
+
+Joana conta que não gostaria de ter tais informações, pois, mesmo sabendo
+das probabilidades, não haveria nada que pudesse ser feito para reverter o
+fato, e apenas a deixaria mais apreensiva durante toda a gestação. Ao reclamar
+com sua médica sobre sua postura, a médica se justificou dizendo que sempre
+pedia tal exame a todas as mães, e que, já que há essa tecnologia, não vê
+motivos para que não o fizesse. Joana expõe sua opinião de que saber dessas
+probabilidades ou não é uma escolha pessoal da mãe, e que a médica deveria
+tê-la consultado antes.
+A entrevistada diz que só ficou mais aliviada quando, pelo ultrassom
+morfológico no terceiro trimestre, conseguiu escutar o coração do bebê. Ela
+pensou “Agora tenho certeza de que estou grávida”. Conta que, até ali, toda vez
+que passava por um ultrassom ela ficava tensa, pensando “Vou ter uma notícia
+ruim”, e que só depois desse exame ela conseguiu “curtir mais a gravidez”.
+Nota-se que Joana esteve apreensiva durante quase toda a gestação, sentindo
+alívio e segurança apenas no terceiro trimestre. Tudo isso por conta de uma
+informação passada de uma maneira pouco sensível logo no início da gravidez.
+Sobre a escolha da via de parto, Joana sempre esteve aberta às opções. Sempre
+quis tentar entrar em trabalho de parto e tentar o parto normal, mas dizia
+“Vamos ver no que dá. Depende do momento, da hora do parto, do que eu
+estiver ‘a fim’”. Se demorasse muito ou sentisse que estava sofrendo, iria optar
+pela cesárea. Sabendo disso, a médica sugeriu fazer uma fisioterapia própria
+para fortalecer a musculatura e poder fazer “o esforço certo” no parto. A
+médica disse que, por causa da idade “avançada” de Joana, teria que fazer os
+exercícios. Joana diz que nunca sentiu-se pressionada pela médica a agendar
+uma cesariana. No entanto, seu filho nasceu com 41 semanas sem que Joana
+entrasse em trabalho de parto. Internacionalmente, o limite para o bebê nascer
+é de 42 semanas, mas que, por risco de ter a placenta envelhecida e pelo bebê
+ainda não estar encaixado, a indução do parto não adiantaria, então, a médica
+considerou que seria melhor agendar a cesariana.
+
+67
+
+68
+
+“(...) Não sei se é a tecnologia ou meu corpo”
+
+Joana aceitou a cesariana, pois, segundo relata, já estava num alto nível de
+ansiedade em que achou melhor aceitar. “Já passei por tudo, já andei até
+aqui, sei que ele [o filho] está bem. Eu ia ficar mais tensa na 42a semana. E
+sua médica falando que é mais arriscado com a placenta velha (grau 3)”. Ela
+pensava “Hoje ele mexeu pouco. Só porque eu quero um parto normal eu vou
+até as últimas consequências? Não aguento mais esperar”. Os argumentos da
+médica somaram-se à ansiedade e ao medo de Joana e a levaram a aceitar a
+cesariana.
+Hoje ela conta que ficou chateada com o desfecho, que queria saber como é
+passar pelo trabalho de parto. “Você passa pela gestação e tal e quer ver o
+final, quer entir as contrações, ele vindo. Mesmo que não desse certo, você
+quer passar por aquilo”. Contudo, diz que não se sentiu frustrada. Conta
+que, conversando com sua amiga, a amiga diz que sentiu-se “menos mulher”
+por não ter conseguido que seu parto fosse normal. Para Joana isso não faz
+sentido.
+Joana relata também o quão importante para ela foi ter seu marido ao
+lado durante a cirurgia. Ela tinha medo de passar por cirurgias e estava
+apreensiva no começo, principalmente quando preparava-se para a cirurgia,
+tendo que deitar na maca e com as “luzes passando no corredor”, mas que
+tranquilizou-se quando o anestesista, depois de ter aplicado a anestesia,
+conversou com ela e explicou como ia ser o processo. Pelo fato de o marido
+estar ao seu lado, conta que teve a sensação de “Estou entregue”, o que a
+tranquilizou também.
+Depois da retirada do bebê, ela conta que “Na hora que ela [a médica] me deu
+o bebê eu não chorei. Só pensei ‘ufa, está tudo bem’, o que me deu um alívio”.
+Conta ainda que “A emoção só veio quando ele [o marido] abriu a janelinha
+[da sala de cirurgia] e estava todo mundo lá”.
+
+69
+
+Sobre a cirurgia, Joana diz que não sentiu dor, e que a recuperação foi rápida.
+“Minha cicatriz é super pequena, não inchei... Não sei se é a tecnologia ou
+meu corpo”. Diz que após 5 dias, já estava normal. Ela relata que seu medo
+era muito maior do que o que realmente aconteceu.
+Para Joana, a pior parte foi a amamentação. Conta que doía muito e que seu
+peito chegou a “empedrar”. Quando isso aconteceu, mandou uma mensagem
+para a médica perguntando o que estava acontecendo. Uma amiga indicou
+uma enfermeira para que auxiliasse ela nesse momento. Joana conta que a
+enfermeira mostrou-se pronta para ajudar e, no dia seguinte, apareceu. “Ela
+[a enfermeira] era oriental, senti confiança no que ela falava, e, ao mesmo
+tempo, ela era muito delicada. Ela era totalmente natural”. Nota-se que Joana
+simpatizou com a enfermeira logo no início, tanto por preconceito (“ela era
+oriental”) quanto por empatia (“ela era muito delicada”).
+70
+
+Lu Fávero (Gestante)
+Lu estava na primeira gestação (37 semanas), mas parece ter pesquisado
+bastante sobre o que vem sendo discutido sobre partos atualmente. Ao
+conversar com ela, nota-se que ela conhece termos bastante usados por
+apoiadores do parto humanizado, como “protagonismo no parto”, “taxas
+de cesáreas” e o termo “violência obstétrica” ao qual deu exemplos do que
+considera como sendo de violência obstétrica (“episiotomia desnecessária”,
+“manobra pra tirar o bebê de dentro”, etc). Conta que isso a influencia bastante
+quanto à escolha de tipo de parto, local do nascimento, médicos, etc.
+Sua preferência inicial é ter seu parto humanizado, porém, conta que não
+é algo tão acessível. “Pagar equipe de parto humanizado, pagar hospital de
+parto humanizado, não é uma brincadeira que saia por menos de vinte mil
+reais”. Portanto, procurou alternativas e chegou ao Hospital das Clínicas, pelo
+SUS, embora tenha uma médica de confiança pelo convênio médico. Relata
+que o atendimento do Hospital das Clínicas é bastante atencioso, “bastante
+humano”, e que tem achado bastante satisfatório. Como critério de escolha de
+hospital, Lu procurava aqueles com baixas taxas de cesárea e que tivessem
+salas de pré-parto, mas conta que, pelo que pesquisou, a maioria não tinha.
+Chegou a visitar alguns que seu convênio cobria, e diz que “era claro que os
+médicos e enfermeiros não se preocupavam com o bem-estar emocional [da
+parturiente]”. Além disso, sua médica do convênio não atendia em nenhum
+desses, o que foi mais um motivo pra que mudasse para o Hospital das
+Clínicas.
+A entrevistada conta que acompanhou algumas amigas durante as gestações
+delas. Comparando os relatos daquelas que passaram pelo parto humanizado
+e daquelas que passaram pelo atendimento tradicional, Lu sentiu-se mais
+identificada com o parto humanizado, por cuidar também do emocional da
+paciente.
+
+71
+
+Para Lu, sua maior expectativa durante toda a gestação está sendo sobre
+como lidar com ansiedades em geral. Em relação à sua vida profissional
+e também demonstrou ansiedade sobre o bem-estar do bebê e sobre
+como o bebê seria. “Imagina, você está gerando uma pessoa que você
+não conhece, e você só vai descobrir quem ela é enquanto ela estiver se
+descobrindo também”.
+Em relação ao parto, Lu não gostaria de passar por uma cesárea, e diz
+que gostaria que fosse o menos violento possível, “Porque você escuta
+umas histórias muito aterrorizantes”. Gostaria também que o trabalho
+de parto fosse rápido, pois já soube de casos que demoraram mais de
+20 horas. Ela entende que, optando pelo Hospital das Clínicas, não
+terá um atendimento mais privativo, como gostaria inicialmente. Mas
+consola-se com a possibilidade de ter seu marido como acompanhante
+72
+
+a todo momento do trabalho de parto. Também preocupa-se com sua
+própria ansiedade, pois sabe que isso influencia se o bebê nascerá “fora
+do tempo”. Conta que, com seis meses de gestação, “o bebê quis nascer”.
+Ela mandou uma mensagem para sua médica do convênio, que a mandou
+pro hospital imadiatamente. Descobriu então que se tratava de uma
+infecção urinária avançada, e que isso induzia o parto, mesmo que
+prematuramente. Isso a deixou bastante assustada, o que a deixou com
+mais medo e cautelosa.
+Lu afirma que seu único medo em relação ao parto é sobre a violência
+obstétrica e diz que não tem medo da dor. Ela afirma que tem se
+preparado para o momento do parto fazendo exercícios e praticando
+pilates e ioga regularmente. Ela ressalta a importância que esses
+exercícios tem em sua melhora emocional. Diz que, trabalhando o corpo,
+consegue acalmar a sua mente também, e sente-se mais no controle da
+situação, o que é importante para ela.
+
+“era claro que os médicos e enfermeiros
+não se preocupavam com o bem-estar
+emocional [da parturiente]”
+
+73
+
+Daniela Andretto (doula e psicóloga)
+A entrevista com Daniela foi por telefone e, por esse motivo, não foi possível
+que se gravasse a entrevista para melhor análise posterior.
+Daniela diz que o medo da dor, normalmente, não acaba em si mesmo, mas
+está relacionado a outras questões mais profundas e é apenas uma porta de
+entrada para tais questões. Essas questões estão comumente relacionadas à
+segurança na equipe médica, ou ao apoio familiar sobre aquela gestação, ou
+até a uma desconfiança no sistema de saúde como um todo.
+Em um tratamento psicológico, segundo ela, a melhor forma de tratar o
+medo da dor é tratando as questões relacionadas primeiro. Para isso, tentase descobrir com o que a paciente envolve a dor, o que a dor representa para
+ela. Dessa forma, pode direcionar a paciente para que busque informações
+74
+
+relevantes a essas questões, procurando formas de aumentar a confiança
+dessa paciente.
+Porém, ela reconhece que essas questões podem ser difíceis de se tratar e
+não serem resolvidas até o momento do parto. Portanto, como doula, ela
+tenta explicar para a gestante que a dor vem como um fator de proteção, e
+que a mulher despõe de várias opções para lidar com a dor, como anestesia,
+massagens, exercícios, etc, e que ela tem a flexibilidade de mudar de opinião
+ou pedir qualquer desses métodos de alívio da dor a qualquer momento do
+trabalho de parto. Mas lembra que, como doula, ela não deve se “intrometer”
+nas decisões da gestante. Conta que, quando se depara com uma mulher que
+optou por um parto sem intervenções mas que na hora do trabalho de parto
+está com tanta dor que começa a pedir por intervenções ou até cesariana, o
+dever dela é lembrar essa parturiente dos motivos pelos quais ela optou por
+um parto sem intervenções.
+
+Daniela defende que o medo da dor
+também tem muita relação com a
+violência de gênero. As mulheres
+crescem em uma sociedade que acredita
+que o corpo da mulher é imperfeito,
+insuficiente. Logo, no parto, não será
+diferente. A mulher não terá confiança
+no próprio corpo. E, como a medicina
+é majoritariamente masculina, o
+profissional médico também acaba
+subestimando a mulher.
+
+75
+
+76
+
+Vê-se que talvez haja um certo caráter de modismo nesse movimento do
+parto humanizado. Mas isso não nega sua importância e seus benefícios.
+Reafirma-se também a ideia de que cada parto é um parto, e que é muito
+difícil prever como será o evento. Outra coisa que é interessante notar que
+muitas mulheres comunicavam-se com sua médica ou obstetriz através
+de mensagens pelo Whatsapp, deixando-as mais tranquilas a qualquer
+momento do dia. Nota-se também que todas buscavam ajuda em outras
+mães que já passaram por uma situação parecida, entendendo que não
+são as únicas com aqueles problemas, como a Doutora Claudia mencionou
+sobre a importância sobre as vivências dos conhecidos.
+
+77
+
+questionário online de
+caráter quantitativo
+A fim de validar a hipótese de que o medo da dor no parto é de grande
+78
+
+influência na escolha da via e parto, foi aplicado um questionário online,
+publicado em oito grupos de gestantes, tentantes e mães de bebês, que
+engloba mulheres de diversas personalidades e estilos de vida, e em oito
+grupos de parto humanizado e de empoderamento feminino, englobando
+mulheres com alguma consciência humanista e/ou feminista. Também foi
+publicado em grupo da comunidade USP e da comunidade FAUUSP, assim
+como no perfil pessoal.
+
+79
+
+Em cerca de apenas nove horas, obteve-se 756 respostas, o que demonstra
+que muitas mulheres se mobilizaram para responder esse questionário.
+Algumas até pediram pra que o questionário fosse aberto novamente
+para que pudessem responder e compartilhar seus pontos de vista.
+Outras pediram para que o resultado fosse publicado. Essas mulheres
+demonstraram grande interesse pelo assunto, o que já indica sua
+relevância para o tema.
+Das 756 respostas, 76,4% declararam que sentem ou sentiram medo
+da dor, sendo que 63% declararam que nunca passariam por um parto
+normal, 26,1% caracterizam o medo da dor como uma das principais
+preocupações e 44% declararam que sentem, mas não é uma das principais
+preocupações. Ou seja, mesmo que não seja a principal preocupação,
+76,4% das mulheres passam por esse medo, influenciando a via de parto.
+O final do questionário mostra que quase 21,8% declararam que optariam
+80
+6.3
+
+pela cesária por não conseguirem superar esse medo. Número quase igual
+
+3.1 2.8
+
+às que declararam que procurariam profissionais do parto humanizado
+(23,5%) - talvez porque o questionário tenha sido disponibilizado também
+
+7.7
+
+em uma comunidade de parto humanizado. Ainda com uma porcentagem
+10
+
+44
+
+próxima, a maioria declarou que seguiria com o parto vaginal mesmo
+com medo (26,7%). Essas últimas duas parcelas (50,2%) mostram que
+ainda assim, como apontado pela pesquisa Nascer no Brasil, a maioria das
+
+26.1
+
+p: Você tem/teve medo da dor do parto vaginal?
+r: 44% Sim, mas não é um dos meus maiores
+
+mulheres pretende ou gostaria de experienciar o parto vaginal.
+Como causas desse medo, 55,9% disseram ter medo por ser algo
+
+medos.
+
+desconhecido, 51,5% por ouvir histórias contadas por amigos e familiares
+
+26.1% Sim, é uma das minhas maiores
+
+sobre partos de outras pessoas que tiveram experiências ruins, 46,6% por
+
+preocupações.
+10% Não tenho/tive medo.
+7.7% Não, já superei.
+6.3% Sim, nunca passaria por isso.
+3.1% Não nunca passou pela minha cabeça
+2.8% Outros.
+
+ouvir relatos de amigos ou familiares sobre suas experiências pessoais,
+28,3% por ver na TV (filmes, novelas, etc), 10,5% por comentários da
+equipe de saúde, 9,6% por ter passado pela experiência pessoalmente e
+8,7% por outros motivos.
+
+por medo do desconhecido (372)
+por ter passado pela experiência pessoalmente (64)
+por ouvir relatos de amigos/familiares de suas
+experiências pessoais (310)
+por ouvir histórias contadas por amigos/familiares sobre partos
+de outras pessoas que tiveram experiências ruins (340)
+por ver na tv (filmes, novelas, etc) (188)
+por comentários da equipe médica/enfermagem (70)
+outros (58)
+
+05
+
+0
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+81
+
+Somando-se as alternativas “Por ouvir relatos de amigos/familiares de suas
+experiências pessoais”, “Por ouvir histórias contadas por amigos/familiares
+sobre partos de outras pessoas que tiveram experiências ruins” e “Por ver
+na TV (filmes, novelas, etc)”, pode-se então dizer que a maioria das causas
+está relacionada a relatos, modos como as histórias são contadas, sejam
+elas contadas por alguém que a mulher conhece e confia ou vistas na TV.
+A imagem de alguém sofrendo, gritando por causa de uma dor imensa que
+começou repentinamente, que desesperadamente entra em um hospital (pois
+seu bebê está quase nascendo), grita de dor cada vez mais, e que ao sair do
+hospital está aliviada, feliz e com seu bebê nos braços é uma imagem que
+está no imaginário feminino para o momento do parto. E essa imagem é
+amplamente disseminada pela TV, seja por filmes, novelas, propagandas, etc.
+
+Os relatos de amigos e familiares muitas vezes tem peso ainda mais forte,
+como a maioria das informações “boca-a-boca”, pois vem de alguém que a
+pessoa conhece e confia. Quando são experiências pessoais tem valor ainda
+maior, pois se configura uma realidade ainda mais próxima e aparentemente
+paupável da pessoa que está recebendo a informação. É possível e cabe dizer
+que essas experiências ruins, seja da própria pessoa, ou de algum conhecido
+dela, podem também estar relacionadas à violência obstétrica, violência
+essa muito comum no atendimento ao parto no Brasil, como explica Melania
+Amorim (médica obstetra PhD) em sua palestra no II Congresso Online
+Nascer Melhor. Segundo ela, essa violência pode estar tão enraizada na nossa
+cultura que muitas mulheres nem sabem que sofreram.
+No entanto, nota-se também que a alternativa mais escolhida foi “Por medo
+do desconhecido”, sugerindo que a falta de conhecimento e da vivência são
+importantes fatores para o medo da dor.
+82
+
+Ao serem questionadas sobre se e como conseguiram superar ou lidar
+com o medo da dor, 53,3% disseram que buscaram informações sobre
+métodos de como lidar com a dor em si, 49,9% ouvindo relatos de pessoas
+que passaram pelo mesmo processo de medo da dor e como elas lidaram
+com isso (mostrando novamente como relatos e informações pessoais
+são importantes), 34,5% contando com ajuda do(a) companheiro(a), 29%
+contando com ajuda de uma doula (o que talvez represente mais as mulheres
+dos grupos do Facebook de parto humanizado e empoderamento feminino),
+17,9% contando com ajuda da equipe médica ou enfermagem, e apenas 11,7%
+participando de aulas de yoga ou outras terapias corporais e mentais.
+
+No entanto, essa questão obteve apenas 403 respostas, o que pode sugerir
+que muitas não souberam superar ou lidar com esse medo. Porém, a próxima
+questão obteve 536 respostas, indicando que 183 mulheres não responderam
+à questão por não terem passado pela situação para que tomassem uma
+atitude no sendido de buscar ajuda, ou responderam às duas questões
+indevidamente, invalidando algumas respostas.
+A próxima pergunta questiona “Caso não tenha conseguido (superar/lidar
+com o medo da dor), qual dessas alternativas você seguiria?”. Como dito
+anteriormente, 26,7% declarou que seguiria com o parto vaginal mesmo
+com medo. 23,5% procuraria a ajuda de profissionais do parto humanizado;
+21,8% faria cesárea eletiva; 16,6% procuraria terapias/exercícios corporais
+para ajudar a minimizar as sensações de dor na hora do parto vaginal; 6,3%
+não teria filhos; e 2,8% procuraria aconselhamento profissional psicológico.
+83
+
+84
+
+A partir dos comentários livres e opcionais ao final do questionário
+notou-se também algo que já estava sendo percebido em entrevistas e
+conversas informais. As mulheres gostam, sentem prazer, em contar
+suas histórias de parto. Mesmo aquelas que tiveram experiências
+ruins. E emocionam-se ao contar. Muitas choram, dizem que é como
+se estivessem vivendo suas experiências novamente. Cento e seis
+mulheres fizeram comentários ao final, sendo que a maioria foram em
+relação às próprias experiências de parto.
+Também a partir dos comentários, muitas mulheres declararam que
+o maior medo não é da dor, mas da violência que podem sofrer. Talvez
+essas mulheres já sejam iniciadas no tema do parto humanizado, pois
+esse é um termo pouco conhecido e pouco disseminado por mulheres
+em geral, sendo mais comumente usado por profissionais, ativistas ou
+qualquer outra pessoa um pouco mais aberta a essas discussões.
+Esse questionário será usado apenas para que se tenha uma noção
+mais precisa do cenário obstétrico em relação ao medo que as
+mulheres tem. Por limitações da ferramenta utilizada (Google
+Forms) e pouco controle das respostas, alguns dados podem ter sido
+distorcidos. A exatidão dessa pesquisa não será considerada.
+
+85
+
+visita às maternidades
+Foram visitadas duas maternidades e uma casa de parto durante a pesquisa
+86
+
+de campo. As maternidades visitadas, por ordem cronológica, foram o
+Hospital e Maternidade São Luiz, unidade Itaim, e a maternidade pública
+Amparo Maternal, próximo ao metrô Santa Cruz. A casa de parto visitada foi
+a Casa Angela, no Jardim Monte Azul, próximo ao metrô Giovanni Gronchi.
+
+87
+
+Hospital e Maternidade São Luiz
+O Hospital São Luiz é um dos mais bem conceituados, famosos e tradicionais
+hospitais de São Paulo na atenção ao parto. Recentemente, começou a oferecer
+serviços de parto humanizado, e ficou famoso por ser um dos únicos hospitais
+da rede privada que oferece esse tipo de atendimento, sendo muito procurado
+por isso. Segundo o website, ele conta com duas suítes para parto natural,
+além de dez salas de parto “equipadas para transmissão de cirurgias por
+videoconferência em tempo real”. A unidade Itaim chega a fazer cerca de 9
+mil partos por ano, e oferece também uma Unidade de Medicina Fetal para
+diagnóstico de problemas intra-útero, “com o mesmo nível técnico e científico
+encontrado nos países mais avançados neste campo”. Além disso, conta
+também com “uma das melhores hotelarias hospitalares do país”, garantindo o
+conforto dos pacientes.
+88
+
+Na visita, as seguintes dependências foram visitadas: o acesso aos
+apartamentos, o berçário central, o berçário de cada andar e um apartamento
+do tipo simples. No salão do berçário central vemos também lojas de alto
+padrão, como Kopenhagen, loja de flores, loja de roupas para bebês, etc.
+Bastante ênfase foi dada ao conforto, segurança e à privacidade na questão
+das visitas, que são controladas, e foram mais abordadas questões práticas,
+como, por exemplo, tipos de apartamentos, relacionadas a comida para
+acompanhante, filmagem do parto, o que os convênios cobrem, serviços de
+cartório. Questões relacionadas ao parto humanizado foram abordadas apenas
+quando perguntado. As duas salas de parto natural são chamadas Delivery
+Room e não puderam ser visitadas por causa da baixa taxa de infecção do
+hospital. O contato pele a pele no primeiro contato com a mãe é feito após a
+identificação com pulseirinhas. A amamentação também é estimulada nesse
+momento por 5 a 10 minutos. Depois disso, o bebê vai pro berçário central
+aguardar a recuperação da mãe, ficando de 3 a 6 horas.
+
+O banho é feito depois disso e a mãe ou o pai podem participar do banho
+apenas no berçário central e se tiverem autorização do médico. Após todos
+esses procedimentos, o bebê fica no apartamento da mãe.
+Nesse apartamento pode-se ver dois ambientes. O primeiro com uma cama,
+luz focal, mesa para primeiros cuidados com o bebê, balança e outros
+equipamentos eletrônicos. Apesar de esses equipamentos estarem no quarto,
+observa-se também elementos de madeira, sofá e poltrona relativamente
+confortáveis, luz provavelmente dimerizada saindo de pequenos pontos no
+teto e bola, elementos esses que provocam uma sensação um pouco mais
+acolhedora, com a luz amena e objetos do cotidiano da mulher. O espaço
+favorece a permanência de acompanhante e equipe médica, de maneira
+confortável. Os equipamentos eletrônicos, apesar de remeterem um pouco
+mais a uma sala de cirurgia, também podem trazer sensação de segurança
+às mães que optaram por um parto humanizado mas no hospital. Essas
+mães provavelmente já estavam em busca dessa sensação de segurança caso
+aconteça alguma intercorrência.
+Na segunda imagem podemos ver uma banheira aparentemente espaçosa.
+Não podemos ver a sua profundidade , mas vemos que há pelo menos três
+níveis onde a gestante pode se acomodar. Segundo obstetrizes da Casa
+Angela, banheiras mais profundas são as ideais, pois permitem a imersão
+de toda a região lombar, promovendo o relaxamento desejado. Vemos
+novamente a bola, que juntamente com a banheira, são os objetos mais
+representativos do parto humanizado no imaginário coletivo. O gabinete da
+pia e a porta também são feitos de madeira, podendo trazer a sensação de um
+ambiente mais familiar, acolhedor. Na imagem não é possível visualizar, mas,
+segundo relatos de mães, há, na parede da banheira, um apoio de tecido que
+fica preso na parede. Esse apoio ajuda a mulher a se agarrar e se posicionar
+da melhor forma e a fazer força na fase expulsiva, durante o parto.
+
+89
+
+90
+
+Sala de parto humanizado do Hospital e Maternidade São Luiz, unidade Itaim, São Paulo. As salas contam com aromaterapia, cromoterapia, banheira, bola, luzes
+reguláveis (pontos luminosos no teto) e suporte técnico para cuidados imediatos com o bebê.
+
+Nas duas imagens, porém, vemos um piso frio e, ao lado da banheira, um
+piso aparentemente escorregadio. A sensação de conforto é comprometida.
+Pode surgir receio de andar por medo de escorregar e cair, ou pela
+temperatura fria do piso. É importante lembrar que a movimentação livre da
+mãe é importante durante o trabalho de parto, tanto para encaixe do bebê na
+bacia, quanto para alívio da dor de forma não farmacológica.
+O hospital também oferece curso preparatório para pais, no valor de 300
+reais (12 horas) ou 270 reais (8 horas). Examinando os tópicos abordados,
+nota-se que nesses cursos não há nenhum tipo de suporte psicológico para
+que os casais pudessem se preparar para o momento do parto. A participação
+dos pais é basicamente prestar atenção aos sinais de trabalho de parto para
+poderem ir ao hospital. Porém não se tem informações mais completas sobre
+o que realmente acontece durante todo o trabalho de parto, quais dúvidas
+e inseguranças são comuns de surgir e como lidar com elas. A participação
+ativa dos pais no trabalho de parto e parto, aparentemente, não são tão
+valorizadas, apesar de o hospital exaltar sua preocupação com o vínculo
+afetivo entre mãe e bebê.
+De fato, muitas maternidades e casas de parto ou de apoio ao parto oferecem
+cursos para pais. Porém, analisando o programa de alguns desses lugares,
+nenhum possui um tipo de atenção mais voltada às inseguranças pessoais
+que surgem.
+
+91
+
+Casa de Parto Casa Angela
+A casa de parto Casa Angela foi a única que abordava temas semelhantes em
+seu curso para gestantes e acompanhantes. Esse curso é oferecido apenas às
+mulheres que já fazem o acompanhamento pré-natal na casa, e conta com os
+seguintes tópicos: “Parto e nascimento: como nasce o bebê”; “Caminhando
+para o parto: Oficina de trabalho corporal”; “Nasce uma família: Uma nova
+fase - cuidados pós-parto”; “Aleitamento materno: Amamentar com paixão”;
+e “Meu bebê chegou, e agora? Oficina de cuidados com o bebê”. Desses
+tópicos, os dois primeiros foram assistidos como ouvinte. No entanto, vale
+notar que a Casa costumava abordar também os tópicos “Gravidez: Tempo
+de Mudanças!” e “Saúde e bem estar na gravidez”, mas que, por falta de
+adesão das gestantes, foram excluídos. Tais tópicos tratavam de, dentre
+outras coisas, medos, agústias e alegrias que se passavam na mente das
+participantes. A integração entre eles era bastante incentivada, convidando92
+
+os a trocar suas vivências e experiências. Também tentavam estimular a
+auto-estima delas, promovendo trabalhos corporais em grupo e entre casais.
+Porém, esses tópicos não são mais abordados. Atualmente, o único encontro
+em que trabalham um pouco do psicológico no pré-natal é no tópico “Parto
+e nascimento: como nasce o bebê”, onde explicam os tipos de parto, sinais e
+sintomas de trabalho de parto, como ocorre o parto (usando bonecos, vídeos
+e imagens projetadas), ressaltam a importância do acompanhante e exibem
+técnicas de alívio da dor usadas na Casa.
+Segundo as obstetrizes e enfermeiras obstétricas da casa, a troca de
+experiências, compartilhamento de mudanças, medos, angústias, e estímulo
+da auto-estima são especialmente importantes quando a mãe está se
+sentindo insegura quanto ao que esperar da dor que está por vir.
+
+Porém, na Casa Angela, a visita dura algumas horas, aceitando um grupo
+bem maior de mães ao que chamam de “acolhimento”. Nele, uma obstetriz
+ou enfermeira obstetra da casa leva as mães e seus acompanhantes a uma
+sala grande, onde normalmente são conduzidos os grupos de apoio. A sala
+é bem iluminada, com telhado de madeira, piso de taco e com almofadas
+espalhadas por todo o lugar, que pretende-se bem aconchegante.
+No acolhimento, a condutora tenta passar o máximo de informações
+possíveis sobre o que é o parto humanizado, os valores que a casa segue, os
+procedimentos de emergência que são adotados em caso de transferência
+pro hospital, e quaisquer outras informações que as gestantes estejam
+buscando. Muitas delas procuram a casa por já terem uma noção do que é
+parto humanizado e algumas levam suas doulas para essa primeira visita.
+Depois, a condutora leva o grupo para conhecer as outras dependências da
+casa, como os quartos onde acontecem os partos (e onde elas permanecem
+por pelo menos 48 horas após o parto), são mostrados os equipamentos que
+cada quarto possui (como cama, banheira, espaldar, “cavalo”, bola de pilates,
+etc), e, em caso de necessidade, incubadoras para os bebês.
+O tópico “Parto e nascimento: como nasce o bebê” foi assistido
+presencialmente (apenas como ouvinte). A maioria das gestantes estava
+com, em média, 30 semanas ou mais. As mulheres pareciam estar mais
+familiarizadas e à vontade com o ambiente, pois já frequentavam a
+Casa Angela desde o “acolhimento”. Havia 13 gestantes presentes, todas
+acompanhadas. A enfermeira obstetra que conduziu o encontro explicou
+a anatomia do trabalho de parto de forma calma, gentil, simpática
+(sempre sorrindo), descontraída, usando uma linguagem acessível, sempre
+convidando-os a expressarem suas dúvidas.
+
+93
+
+Para demonstrações práticas de posicionamento do bebê na bacia pélvica,
+saída do bebê do útero, posição da placenta dentro do útero e útero em
+si, usava bonecos e objetos feitos de materiais macios e almofadados,
+fazendo-os parecer mais amigáveis ao tato.
+A enfermeira explica detalhadamente como identificar os pródromos,
+que são como uma “preparação natural do corpo para o trabalho
+de parto” e como diferenciá-los do começo do trabalho de parto. Ao
+esclarecer perguntas ou convidá-las a compartilhar suas experiências e
+conhecimentos, tenta sempre desmentir alguns mitos sobre o processo,
+mas sempre de forma gentil, respeitosa e acertiva. Ressalta a importância
+de, no começo do trabalho de parto, continuar no conforto do lar, pois
+nesse primeiro momento é mais eficiente se ela relaxar e não se desgastar,
+o que pode ser difícil na casa de parto ou hospital, onde a privacidade e a
+liberdade são menores.
+94
+
+Ela explica também todos os procedimentos que deverão ser tomados
+em cada etapa e todas as fases do trabalho de parto: pródromos (pode
+demorar dias), fase latente, fase ativa, fase de transição, fase expulsiva
+seguida da saída da placenta. Dessa forma, ela situa a mulher sobre
+sua evolução no trabalho de parto e expõe várias situações que podem
+acontecer, pois, trazendo informação sobre o que, para a gestante, pode ser
+desconhecido, ela ficará menos insegura. Enfatiza também que cada parto
+é diferente um do outro, e que é impossível saber ao certo tudo o que irá
+acontecer com cada parturiente.
+
+95
+
+1. Quarto da Casa Angela. Fonte: http://assets.chrisflores.net/upload/22-03-2012-194359-ca1.jpg
+2. Sala de Acolhimento da Casa Angela. Foto autoral (2016)
+3. Frente da casa de parto Casa Angela. Fonte: http://assets.chrisflores.net/upload/22-03-2012-194359-ca3.jpg
+
+Sobre a dor, seu posicionamento é de que ela é algo subjetivo e cada pessoa
+lida de uma maneira diferente. A dor representa coisas diferentes para cada
+pessoa. Tem significados diferentes. O que pode ajudar é a aceitação mental
+da dor, deixar que ela aconteça naturalmente, sem querer controlá-la. Para
+concluir, a enfermeira associa a dor com ondas do mar, que vêm e vão de
+forma leve e devagar, e não duram por muito tempo.
+A sala de encontro de gestantes pode ser considerada aconchegante também.
+Elementos em madeira, como o teto, portas e alguns móveis, almofadas,
+enfeites e quadros pendurados, janelas amplas e com cortinas, luz amarela
+e tons cromáticos quentes trazem uma sensação de conforto considerável.
+A sala é repleta de cadeiras e mesas (empilhadas em um canto da sala na
+imagem), pois há eventos de confraternização frequentemente.
+O fato de a Casa Angela ter sido construída dentro de uma casa comum
+96
+
+dá a ela uma sensação de aconchego familiar. Porém, um problema é sua
+localização, próximo ao bairro de Santo Amaro, seu acesso é razoavelmente
+limitado. Apesar de encontrar-se a aproximadamente 300 metros do
+terminal João Dias e da estação Giovanni Gronchi do Metrô, a casa encontrase numa região com muitos morros, o que torna difícil o acesso à pé de uma
+gestante. Ainda assim, a casa está a cerca de 10 minutos do Hospital Campo
+Limpo e de 20 a 30 minutos do Hospital e Maternidade São Luiz. Ou seja,
+em caso de necessidade de tranferência, a ambulância conseguiria chegar
+rapidamente a hospitais.
+
+Amparo Maternal
+A maternidade tem estrutura para procedimentos mais complexos,
+cirúrgicos, com médicos especialistas de plantão. Criada a partir de um
+movimento filantrópico e católico, o atendimento humanizado está no cerne
+de seus valores. Passou a fazer parte do SUS algum tempo depois e, desde
+então, tem atendido mulheres dos mais variados tipos, desde usuárias
+de drogas, estrangeiras e diversas classes sociais, das mais baixas que
+dependem se serviço de saúde público, às mais altas que, mesmo tendo
+convênio, optam por terem seus filhos em uma maternidade referência em
+humanização e com toda a segurança que a tecnologia pode trazer.
+Oferecem curso para pais, que dura cerca de três horas, com intervalo para
+lanche. Os temas abordados vão de sintomas do início de trabalho de parto
+a amamentação, passando pela nutrição durante a gestação. Pouco sobre
+a dor foi abordado, destacando o papel da aceitação mental do processo
+doloroso e de confiança no próprio corpo. Grande parte das gestantes não
+aparentava estar muito instruída e a maioria estava já no terceiro trimestre
+de gestação. Por conta disso, o tom de voz, a maneira e os termos usados
+pela enfermeira obstétrica condutora do curso não eram muito técnicos,
+mas de fácil entendimento.
+Com excessão de uma, todas as gestantes estavam acompanhadas, fosse
+por seus parceiros, amigas, ou membros da famíla. Durante todo o
+curso, os palestrantes buscavam chamar a atenção dos acompanhantes,
+enfatizando sua importância no trabalho de parto e mostrando-os suas
+responsabilidades. A função do acompanhante deve ser ativa, e não passiva.
+
+97
+
+A todo momento, a enfermeira lembra os participantes do caráter natural que
+o parto tem, a fim, talvez, de acalmá-los, fazê-los sentir mais à vontade com o
+evento e sua fisiologia. O parto é um assunto sobre o qual circundam muitos
+mitos, informações distorcidas, ou mesmo a falta de informações. Durante a
+vida da maioria das mulheres, são raras as vezes em que ela tem um contato
+próximo com a gravidez e o parto. Logo, quando ela se vê grávida, tudo é
+novo, e, naturalmente, ela se assusta. A enfermeira, então, explica como
+acontecem todas as fases do trabalho de parto, as oscilações hormonais, os
+pródromos, e várias outras coisas que são possiveis de acontecer no trabalho
+e parto e parto. Ela explica também todas as situações em que se deve levar
+a gestante imediatamente ao hospital e outras em que se pode apenas ligar
+para o hospital. Sempre de forma bem calma, amigável, simpática, aberta
+a questionamentos, mas também firme em suas afirmações, passando
+segurança e conforto aos pais.
+98
+
+Em relação à dor, a enfermeira discorre bastante tempo sobre o assunto.
+Ela enfatiza que o principal “remédio” para a dor é a aceitação da dor.
+Ela lembra que a mulher deve deixar seu corpo trabalhar, e sentir o que
+está acontecendo com ela, ao invés de tentar controlar a dor. E explica a
+importância de sentir a dor, pois a dor é uma resposta para o cérebro da
+mulher de que as contrações estão acontecendo, e, portanto, o útero está
+trabalhando para que o nascimento aconteça. Ou seja, quanto mais dor, mais
+intensas as contrações, o que acelera o trabalho de parto.
+A sala em que o curso foi ministrado parece ter sido improvisada pela
+maternidade. As gestantes precisam descer várias rampas íngrimes e
+quase sempre sem apoio e calçada. Um lugar pouco seguro e adequado para
+gestantes. A sala em si era grande, talvez uns 12 metros de comprimento
+por 3 metros de largura, porém fria e escura. No entanto, vonluntárias da
+maternidade tentavam fazer do espaço um lugar um pouco mais acolhedor.
+
+Na entrada, uma mesa com lembrancinhas, bonecos de pelúcia, fitas de
+tecido, e outros enfeites infantis. Uma tela de projetor, caixas de som
+e um computador ficavam na parte da frente da sala, dando suporte à
+palestrante. O ambiente, apesar das tentativas de deixá-lo acolhedor, não
+passava essa sensação. Contudo, as atitudes dos funcionários e voluntários,
+como formas de se portar e de referirem aos participantes, deixava o
+ambiente mais leve e amigável.
+Ao final do curso, teve-se a oportunidade de uma conversa mais longa e
+informal com a coordenadora do curso. Nela, a coordenadora questionada
+sobre como a instituição e/ou seus funcionários abordam o medo da dor
+com suas pacientes. O medo da dor não é abordado pois raramente é levado
+pela paciente. No entanto, ela admite que esse medo existe, sim, e que pode
+trazer impactos negativos no trabalho de parto e parto, como torná-lo mais
+longo, tenso e doloroso. Foi perguntado também se o presente projeto seria
+interessante sob o ponto de vista de uma profissional que lida diariamente
+com isso, e a resposta foi sim.
+
+99
+
+curso de formação de
+doulas (GAMA)
+Por interesses pessoais e para entender um pouco mais sobre a visão
+profissional de alguém que trabalha com o parto humanizado, foi feito um
+curso de formação de doulas (Curso de capacitação para mulheres que
+100
+
+queiram oferecer suporte físico, emocional, psicológico e afetivo a mulheres
+durante o trabalho de parto e parto) no Grupo de Apoio à Maternidade Ativa
+(GAMA), situado em Pinheiros, na cidade de São Paulo. O curso tem 32
+horas de duração divididas em 4 dias, e oferece noções gerais de anatomia
+e fisiologia do nascimento, métodos não-farmacológicos para alívio da dor,
+situações de violência obstétrica, como lidar com situações de perda (luto),
+como ajudar no pós-parto, puerpério e amamentação e como entrar no
+mercado. As informações a seguir foram retiradas de materiais digitais e
+apresentações fornecidas no curso.
+
+101
+
+A doula tem como função também identificar distócias emocionais e
+auxiliar com medidas psico-emocionais. Deve ser sensível para identificar
+se a pessoa está com medo ou angústia extrema, se está com muita
+vergonha ou muito tensa, ou alerta, etc.
+A dor foi um tópico importante discutido no curso, merecedor de oito
+horas sobre o tema. A dor foi apresentada como parte de um processo
+fisiológico. Explicam que a dor, normalmente, é vista como algo negativo,
+a ser eliminado, relacionado a fraqueza, sofrimento, fragilidade, algo
+que não deve ser vivido. Levantam a ideia de que no sociedade de hoje,
+há uma separação entre mente e corpo, em uma relação em que a mente
+está sempre tentando controlar, mandar mensagens para o corpo, e
+“ignorando” as informações que o corpo pode lhe trazer. A dor, no parto,
+não é de sofrimento. Essa dor é informativa. Ela indica à mulher o que
+fazer. Por exemplo, posições e movimentos que podem aliviar a dor
+102
+
+são também aquelas benéficas para o trabalho de parto. A posição de
+agachamento é um exemplo. Ela facilita a dilatação da bacia, ajudando na
+passagem do bebê. Movimentos pélvicos, como rebolar e andar, ajudam na
+descida do bebê e, talvez por isso, aliviem a dor.
+Na aula, os aspectos psíquicos da dor são reforçados. A experiência do
+parto para a mulher pode ser visto como uma oportunidade de expansão
+da personalidade, onde o corpo funciona com autonomia, sem o controle
+da mente, passando por uma experiência intensa de sexualidade feminina
+e de mergulho profundo nas emoções. É um momento em que o cérebro
+mais primitivo (“complexo reptiliano”) está mais ativo que o neocortex,
+ou seja, a mulher volta a um estado mais primitivo em relação às suas
+sensações e emoções. Quando a mulher em trabalho de parto sofre
+estímulos ao neocortex, como luz intensa, conversas, intervenções,
+sensação de estar sendo observada ou julgada, pode-se inibir o cérebro
+primitivo e desconcentrar a mulher.
+
+Os hormônios liberados durante o trabalho de parto também contribuem
+para isso. Ocitocina, prostaglandina, adrenalina e endorfina são os
+mesmos hormônios liberados no ato sexual. A ocitocina, além de induzir
+as contrações e a amamentação, é também chamada de hormônio do amor,
+termo cunhado por Michel Odent, em seu livro “A Cientificação do Amor”.
+Já a adrenalina tem seu papel maior na fase de expulsão do bebê, ajudando
+a mulher a ter força para empurrar. Porém, a ocitocina e a adrenalina
+são antagônicos. Quando se tem uma alta produção de adrenalina, a
+ocitocina diminui, aumentando a tensão, a percepção da dor e a sensação
+de sofrimento. A adrenalina também age como um alerta. Na natureza,
+em casos de perigo, um mamífero em trabalho de parto pára o parto para
+poder fugir. Ou seja, a adrenalina serve também como inibidor de parto. E,
+como dito anteriormente, medo tensão e dor trabalham como uma corrente.
+Quanto maior a tensão, maior a dor e maior o medo de sentir dor, produzindo
+um ciclo. Ou seja, quanto mais trabalha-se a tensão e o medo, menos dor
+a mulher poderá sentir. Fatores externos podem ajudar a diminuir o medo
+e a tensão, como privacidade, luz amena, temperatura confortável, apoio,
+sensação de conforto e segurança (psicologica e fisiologicamente), liberdade
+de movimento e silêncio.
+A endorfina é outro hormônio liberado, que age como um analgésico natural.
+É o mesmo liberado no momento do orgasmo. Além de ter efeito analgésico,
+também traz sensação de êxtase, felicidade, alívio, e tem um importante
+papel no vínculo afetivo entre mãe e bebê. A endorfina também libera a
+produção de prolactina, facilitando o começo da amamentação.
+
+103
+
+104
+
+1. Rebozo. Fonte: http://blog.monitosyrisas.com/wp-content/uploads/2011/06/Otros-usos.jpg
+2. Massagem lombar e Bola de Pilates. Fonte: http://www.submit.10envolve.com.br/
+3. Banheira inflável. Fonte: http://vilamamifera.com/dadada/wp-content/uploads/sites/30/2014/10/Piscina-para-parto.png
+
+A palavra “doula” vem do grego antigo sendo atualmente utilizada para
+definir aquela mulher que auxilia outras mulheres. Vem sendo aplicada
+para se referir a mulher com experiência no nascimento, que oferece
+apoio físico e emocional continuado, além de informações de suporte
+para as mães antes, durante e após o nascimento. Desde a antiguidade
+elas vêm sendo usadas para dar apoio, transmitir segurança e carinho,
+preparando o ambiente e fazendo inúmeras outras atividades que se
+apresentem necessárias no momento.
+Aprende-se também que uma experiência satisfatória do parto não
+necessariamente é aquele parto sem dor, mas um parto sem sofrimento,
+em que se tenha uma sensação de acolhimento e entrega agradáveis, em
+um ambiente seguro e amoroso, com menor interefrência no sistema
+hormonal possível.
+O papel da doula, então, configura-se em um serviço que uma mulher
+presta a uma família que está nascendo. O plano de parto é um
+documento que pode ser preparado tanto pela gestante quanto pela doula
+ou obstetriz, mas sempre preenchido pela gestante. Ele serve para que a
+mulher exponha seus desejos e preferências sobre o trabalho de parto,
+parto e pós-parto, como pessoas que deseja que estejam presentes; caso
+o trabalho de parto deva ser induzido ou acelerado, quais os métodos
+de indução de sua preferência; desejos de procedimentos em caso de
+cesariana: estar consciente, estar acompanhada do(a) parceiro(a), contato
+imediato com o bebê, etc.
+É importante ressaltar que o plano de parto serve apenas para expressar
+seus desejos e preferências, mas que os profissionais da saúde estarão
+sempre monitorando mãe e bebê e avaliando se é possível atender a eles.
+
+105
+
+O plano de parto pode parecer um documento técnico e pouco sensível,
+mas a doula e a equipe de saúde usam de outros meios para atingir essa
+sensibilidade, principalmente a observação e a empatia. Ela deve tentar
+conhecer a gestante através de conversas amigáveis, fazendo-a sentirse confortável e segura. Esse documento também é útil em casos em que
+profissionais não humanizados são necessários, como em transferências
+de partos domiciliares para hospital, onde o médico plantonista pode não
+atender às vontades da mulher (negar direito a acompanhante, por exemplo).
+Lembrando que uma das funções da doula é a de trazer informações às
+gestantes (ou indicar um médico obstetra de sua confiança), o plano de parto
+será preenchido por uma gestante consciente e informada.
+O curso apresenta alguns métodos não farmacológicos de alívio da dor,
+como massagens na lombar, uso da banheira e do chuveiro, do rebozo (tecido
+utilizado para movimentar área lombar), bola de pilates, compressas quentes
+106
+
+na barriga, ritmo respiratório intuitivo, postura posicionando o tronco para
+frente, de cócoras, terapias alternativas (floral, homeopatia, acupuntura,
+cromoterapia) são métodos para serem utilizados durante o trabalho de parto.
+Durante a gestação, indica-se exercícios que estimulem a conexão entre mente
+e corpo, como ioga, danças calmas (dança do ventre, dança circular, etc) e
+visualizações mentais (do cólo do útero se abrindo, a saída do bebê, etc).
+Outras técnicas de alívio da dor mais relacionadas ao ambiente são: redução
+do excesso de estímulos, como ruídos, conversas paralelas entre membros da
+equipe, privacidade, conforto, temperatura amena, luz baixa, etc. Contudo, a
+sensação de segurança pode variar entre mulheres. Algumas podem se sentir
+mais seguras no conforto da própria casa, tendo um carro ou ambulância à
+disposição para os casos de transferência. Outras podem preferir o ambiente
+hospitalar, pois no caso de alguma intercorrência, o atendimento será
+imediato. O que realmente importa para aliviar a tensão é sentir-se segura.
+
+O serviço da doula parece ser interessante para o preparo da gestante no
+pré-natal, principalmente para lidar com os medos e angústias que estão
+surgindo nas gestantes. Contudo, aparentemente, não é comum que o medo
+da dor no parto seja um assunto muito discutido entre doula e doulanda
+(aquela que está sob os cuidados da doula) durante o pré-natal. Em uma
+entrevista por telefone, a doula e psicóloga Daniela Andretto relata que,
+quando uma gestante a procura como doula por causa do medo da dor, ela
+não procura descobrir as raízes desse medo. Segundo ela, se seguissem esse
+caminho, demorariam muito tempo para resolver, pois esse medo pode estar
+associado a problemas psicológicos mais profundos, como segurança na
+equipe, apoio familiar, experiência de partos anteriores sofridos, etc, e seria
+necessário resolver esses problemas antes. Além disso, esse não é o papel da
+doula. Como doula, ela seguiria um caminho mais afetivo, trazendo apoio
+e informação. Tentaria fazer a gestante entender que quanto mais controle
+da dor, da mente e do corpo ela anseia, mais facilmente ela entrará em
+desespero, ficará vulnerável e surgirá mais medo, entrando no ciclo de medotensão-dor. E também que, por ser um processo humanizado, respeitará as
+vontades dela, portanto, se ela sentir que precisa de anestesia ou qualquer
+outro método de alívio de dor, ela o terá. Mas enfatiza que o encorajamento
+constante, o conforto e estar sempre relembrando a parturiente dos motivos
+pessoais que a levaram a passar pelo parto normal são métodos de apoio
+poderosos. Se a parturiente se sentir segura emocionalmente, o trabalho de
+parto tende a ocorrer de forma mais natural e prazerosa.
+
+107
+
+108
+
+109
+
+110
+
+levantamento de dados
+
+111
+
+“Nascer no Brasil”
+A Pesquisa Nascer no Brasil: Inquérito Nacional sobre Parto e Nascimento
+foi uma pesquisa coordenada pela Fundação Oswaldo Cruz (Fiocruz) entre
+o início de 2011 e final de 2012 e realizada com a participação de renomados
+pesquisadores de um grande número de instituições de pesquisa do Brasil.
+O objetivo dessa pesquisa foi “conhecer os determinantes, a magnitude
+e os efeitos das intervenções obstétricas no parto, incluindo cesarianas
+desnecessárias; descrever a motivação das mulheres por cada tipo de parto;
+112
+
+as complicações médicas durante o puerpério e o período neonatal; bem
+como descrever a estrutura das intituições hospitalares quanto à qualificação
+dos recursos humanos, disponibilidade de insumos, equipamentos,
+medicamentos e unidade de terapia intensiva (UTI) para adultos e neonatos”.
+Constitui-se a primeira pesquisa acerca do panorama nacional de ateção
+ao parto e nascimento no Brasil. A pesquisa foi realizada em maternidades
+públicas, privadas e mistas (privadas mas conveniadas ao SUS) e incluiu
+266 hospitais de 191 municípios, sendo elas capitais e cidades do interior de
+todos os estados brasileiros. Ao todo, foram entrevistadas 23.894 mulheres,
+sendo 90 puérperas por hospital que deram à luz durante o dia e a noite, em
+feriados e finais de semana também.
+
+113
+
+Segundo a pesquisa, cerca de 30% das mulheres não desejavam a gestação,
+9% estavam insatisfeitas com a gravidez e 2,3% relataram ter tentado
+interromper a gestação. Essas mulheres apresentaram, então, pouca atenção
+à assistência pré-natal, totalizando quase 40% das gestações com baixa
+qualidade de assistência pré-natal. No Brasil, de um modo geral, 60%
+das gestantes começaram o pré-natal tardiamente (após a 12ª semana de
+gestação) e cerca de um quarto delas tem menos de 6 atendimentos durante
+toda a gestação, mínimo recomendado pelo Ministério da Saúde. Além
+disso, apenas 59% das mulheres foram orientadas sobre a maternidade de
+referência, o que vai de encontro à Lei n. 11.634, que determina que toda
+gestante tem o direito de se vincular à maternidade durante a gestação.
+A falta de médicos, de equipamentos e de materiais mínimos necessários
+às emergências em relação à mãe e ao bebê corresponde a um número
+significativo de hospitais públicos no Brasil. Isso gera a necessidade de
+114
+
+deslocamento, muitas vezes entre cidades, durante o trabalho de parto, o que
+pode ser perigoso em muitos casos. Nas regiões Sul e Sudeste esses números
+eram mais baixos. É nas regiões Norte, Nordeste e Centro-Oeste onde
+ocorrem maiores deficiências.
+Outro fato importante é que muitos prontuários foram preenchidos de forma
+inconsistente com as delcarações das puérperas oriundas das entrevistas.
+Segundo um relato de uma residente em um blog médico, a ginecologista de
+plantão deixou aos cuidados dela o preenchimento do prontuário. A residente
+preencheu relatando procedimentos violentos (considerados por muitos
+violência obstétrica). Ao ler, a médica reescreveu o prontuário.
+A pesquisa levantou as taxas de parto normal e cesáreas no Brasil. Em todo o
+país, um total de 52% dos partos são feitos via cesariana, sendo que no setor
+privado o número sobe para 88%. “Não há justificativas clínicas para um
+percentual tão elevado dessas cirurgias”.
+
+Segundo a pesquisa, quase um milhão de mulheres são submetidas
+a cesáreas sem indicação clínica, mesmo sendo adolescentes (42%
+das adolescentes), e perdem a oportunidade de serem protagonistas
+no nascimento dos seus filhos, além de serem expostas a maiores
+riscos de morbidade e mortalidade materna e do bebê e aumentarem
+desnecessariamente os gastos com saúde.
+Estudos recentes apontados também mostram as consequências e efeitos da
+via de nascimento em relação ao desenvolvimento intrauterino e na saúde
+futura da criança, incluindo o risco aumentado de obesidade, diabetes, asma,
+alergias, complicações respiratórias e outras doenças não transmissíveis.
+Os riscos para a mãe incluem maiores riscos de complicações em gestações
+futuras, maiores riscos de hemorragias, infecções hospitalares, riscos
+inerentes à anestesia, entre outros.
+Entre as gestantes que tiveram parto vaginal, houve uma predominância
+de medicalização do parto, ignorando evidências científicas disponíveis. “A
+maioria das mulheres foi submetida a intervenções excessivas, ficou restrita
+ao leito e sem estímulo para caminhar, sem se alimentar durante o trabalho
+de parto, usou medicamentos para acelerar as contrações (ocitocina), foi
+subemtida à episiotomia (corte entre a vagina e o ânus) e deu à luz deitada
+de costas, muitas vezes com alguém apertando suas barrigas (manobra de
+Kristeller)”. Esses procedimentos causam dor e sofrimento, quando não tem
+indicação clínica, e não são indicados pela OMS como procedimentos de
+rotina. Em contraste aos números do Reino Unido, apenas 5% das mulheres
+tiveram a chance de vivenciar seus partos sem intervenções (contra 40% no
+Reino Unido). Esse padrão foi identificado igualmente em todas as regiões do
+país, mostrando que são práticas disseminadas por todo o país.
+
+115
+
+“As mulheres que mantiveram sua
+preferência pelo parto vaginal no final
+da gestação foram as que apresentaram a
+menor proporção de cesarianas (20%). Entre
+as mulheres com cesariana anterior, apenas
+15% tiveram um parto vaginal na gestação
+atual, indicando que, no Brasil, apesar as
+116
+
+evidências científicas em contrário, ainda
+se segue o preceito de que ‘uma vez cesárea,
+sempre cesárea’. Esses achados reforçam
+a necessidade de se evitar a primeira
+cesariana, apoiando a decisão da mulher
+pelo parto vaginal”.
+(Nascer no Brasil, 2011)
+
+Embora essas práticas estejam disseminadas, cerca de 75% das parturientes
+tiveram acompanhantes ao seu lado durante todo o processo, respeitando a
+Lei 11.108, indicando uma mudança vinda de uma força de política pública
+para modificar a cultura de nascimento no país. No entanto, essa lei ainda
+não é respeitada em 100% dos hospitais. Muitos deles ainda não permitem,
+por política do próprio hospital, a presença de um acompanhante de vículo
+afetivo da mulher, sendo um privilégio de mulheres brancas, de maior renda,
+usuárias do setor privado e que tiveram cesariana.
+Segundo evidências científicas, partos com enfermeiras obstétricas e
+obstetrizes na liderança da assistência aumentam as chances de partos
+espontâneos e diminuem intervenções desnecessárias, não comprometendo
+a saúde da mulher e do bebê. Infelizmente, isso representa apenas 15% dos
+partos, com mais frequência nas regiões mais pobres, por falta de médicos.
+A Pesquisa sobre a Assistência Obstétrica na Saúde Suplementar, da
+Comissão do Parto Normal da ANS ainda aponta outras justificativas.
+Sob a visão dos médicos, condições de trabalho, qualificação profissional
+e de remuneração, e equipes formadas por profissionais da saúde
+obstétrica variados na atenção ao pré-natal, são alguns motivos. Outros
+motivos apontados foram: “Disponibilizar apoio jurídico para casos de
+questionamentos das práticas médicas; Integrar as equipes médicas
+responsáveis pelo pré-natal e parto na discussão de boas práticas médicas;
+Desenvolver grupos de gestantes para orientá-las sobre gestação saudável e
+incentivar o parto normal”.
+
+117
+
+Sobre os fatores de risco que contribuem para o aumento de cesáreas, a
+pesquisa da ANS destaca os seguintes aspectos: ausência de salas pré-parto;
+falta de leitos obstétricos hospitalares; falta de equipamento para monitoração
+do trabalho de parto; disponibilização imediata das salas de cirurgia para
+emergência; disponibilidade de anestesistas e pediatras; e disponibilidade de
+plantonistas com especialidade em obstetrícia.
+Quanto aos hábitos pessoais e cultura popular, os médicos alegaram
+insegurança quanto à disponibilidade de leito para internação, e a opção por
+cesarianas pelas próprias gestantes por medo da dor do parto normal. Resta
+questionar a esses mesmos médicos se houve a chance de clarificar os prós e
+contras da cesariana eletiva para a mulher.
+Outro ponto positivo identificado pela pesquisa Nascer no Brasil foi que
+70% das mulheres deseja ter parto vaginal no início da gravidez. Essa taxa
+118
+
+contrasta com o elevado índice de cesáreas, sendo que muitas são declaradas
+eletivas. Os motivos dessa mudança de opinião durante a gestação não foiram
+abordadas pela pesquisa, mas foi apontado que “não pode ser explicado pela
+ocorrência de problemas e complicações”, ou seja, sugere-se que a orientação
+no pré-natal pode estar induzindo a maior aceitação da cesariana.
+Um terço das mulheres que optaram por uma cesariana desde o início
+da gestação atribuiu o medo da dor do parto como a principal razão para
+a escolha desse tipo de parto. Esse é um dado relevante para o presente
+trabalho, indicando sua relevância para o assunto.
+Apesar dos avanços tecnológicos, aumento da cobertura de atendimento prénatal e parto hospitalar, transformações socio-econômicas que o país vem
+experimentando de modo geral e queda de fecundidade, a taxa de mortalidade,
+que sofreu descréscimo de 143 para 61 por 100.000 mulheres, ainda é cerca de
+3 a 4 vezes mais alta que nos países desenvolvidos.
+
+5
+
+Isso indica que, mesmo com as taxas de intervenções e de cesariana mais
+altas que nesses países, o Brasil ainda perde mais mulheres. Talvez isso seja
+
+17.7
+
+um indicador, se não uma evidência, de que intervenções do modo como
+estão sendo feitas hoje aqui podem não ajudar, mas trazer prejuízos muito
+
+43.1
+
+grandes para a população.
+Outras taxas usadas pela pesquisa são a Near Miss Materno (NMM) e a
+
+34.1
+
+Neonatal Near Miss (NNM). O NMM corresponde a “uma mulher que quase
+morreu, mas sobreviveu à complicação que ocorreu na gravidez, parto ou
+
+43.1% vaginal com intervenção
+
+até 42 horas após o fim da gestação” (definição da OMS). No Brasil, a NMM
+
+5% vaginal sem intervenção
+
+é cerca de três vezes mais alta que em países europeus, o que mostra a baixa
+
+34.1% cesariana sem trabalho de parto
+
+qualidade de experiência de parto. Essa taxa é ainda maior entre mulheres
+
+17.7% cesariana com trabalho de parto
+
+com mais de 35 anos e com cesáreas anteriores. Ou seja, o aumento do
+número de cesárias prévias pode implicar em uma maior chance de NMM.
+O NNM (Neonatal Near Miss) corresponde a “uma doença ou problema de
+saúde que o recém-nascido enfrentou e que quase provocou sua morte”. A
+taxa apresentada foi de 39,2 por 1.000 nascidos vivos, sendo mais frequente
+em capitais de estados, hospitais públicos e em cesarianas. Para nenhuma
+dessas taxas se sabe se foi considerado as gestações feitas por fertilização
+artificial. Isso pode indicar a má qualidade de assistência ao parto e aumento
+de riscos de complicações em neonatos.
+
+119
+
+120
+
+Concluindo a pesquisa, pode-se dizer que em todos os grupos sociais
+as mulheres estão sendo expostas a riscos e efeitos adversos no parto e
+nascimento sem necessidade. As mulheres com maior nível social sofrem
+com intervenções obstétricas desnecessárias e tem seus bebês com menos
+de 39 semanas (com 37 são tecnicamente considerados prematuros),
+enquanto as mais pobres sofrem com medicalização extrema, dor e
+demonstram menor satisfação com a atenção recebida, o que indica baixa
+efetividade no modelo de atenção obstétrica e neonatal.
+Essa pesquisa foi usada para dar respaldo técnico ao presente projeto.
+
+121
+
+declaração da OMS
+sobre taxas de cesárea
+122
+
+Apesar da indicação da OMS de taxa de cesarianas num país ser de 10% a
+15%, a própria organização declara: “Os esforços devem se concentrar em
+garantir que cesáreas sejam feitas nos casos em que são necessárias, em vez
+de buscar atingir uma taxa específica de cesáreas”. Contudo, as cesáreas vêm
+se tornando cada vez mais frequentes, tanto em países desenvolvidos quanto
+naqueles em desenvolvimento.
+
+123
+
+A taxa de 10-15% surgiu em uma reunião entre especialistas em 1985,
+em Fortaleza, e diz “Não existe justificativa para qualquer região do
+mundo ter uma taxa de cesárea maior do que 10-15%”. Essa afirmação foi
+embasada em dados provenientes da Europa, os quais mostravam ótimos
+resultados na saúde da mãe e do bebê em países com essa taxa. Além
+disso, não há evidências que cesarianas sem indicação médica possam
+trazer algum benefício para mãe ou bebê. Pelo contrário, segundo o
+documento da OMS, o risco de complicações imediatas e a longo prazo
+são maiores. Esses riscos são ainda maiores quando a mulher tem acesso
+limitado a cuidados obstétricos adequados.
+No entanto, sabe-se que essa definição já pode estar baseada em dados
+desatualizados. A OMS admite que está sendo feita uma nova pesquisa,
+mas que há dificuldades muito grandes a serem vencidas, como a falta de
+fonte de dados confiáveis e aceita internacionalmente sobre as cesarianas
+124
+
+de cada país.
+As conclusões retiradas de um estudo sobre as taxas de cesárea em
+populações foram as seguintes:
+
+1. A cesárea é uma intervenção efetiva para salvar a vida de mães e bebês,
+porém apenas quando indicada por motivos médicos.
+2. Ao nível populacional, taxas de cesárea maiores que 10% não estão
+associadas com redução de mortalidade materna e neonatal.
+3. A cesárea pode causar complicações significativas e às vezes
+permanentes, assim como sequelas ou morte, especialmente em locais sem
+infraestrutura e/ou a capacidade de realizar cirurgias de forma segura e de
+tratar complicações pós-operatórias. Idealmente, uma cesárea deveria ser
+realizada apenas quando ela for necessária, do ponto de vista médico.
+4. Os esforços devem se concentrar em garantir que cesáreas sejam feitas
+nos casos em que são necessárias, em vez de buscar atingir uma taxa
+específica de cesáreas.
+5. Ainda não estão claros quais são os efeitos das taxas de cesáreas sobre
+outros desfechos além da mortalidade, tais como morbidade materna e
+perinatal, desfechos pediátricos e bem-estar social ou psicológico. São
+necessários mais estudos para entender quais são os efeitos imediatos e a
+longo prazo da cesárea sobre a saúde.
+
+125
+
+É importante notar que a própria OMS alega que implicações psicossociais
+associadas ao tipo de parto, o vínculo mãe-bebê, saúde mental da mulher,
+capacidade de iniciar amamentação e outros desfechos pediátricos são
+fatores importantes a serem levados em consideração quando se estuda as
+consequências a longo prazo da via de parto. Como a organização declara,
+não se deve considerar apenas a mortalidade materna e neonatal, que hoje
+é considerada baixa especialmente em países desenvolvidos, mas sim a
+morbidade, que pode ser considerada elevada. Não se deve considerar apenas
+a sobrevivência dos envolvidos.
+Nessa declaração, a OMS também recomenda o uso da Classificação de
+Robson, que consiste na classificação das parturientes em 10 grupos
+(excludentes entre si). Essa classificação agrupa as gestantes conforme suas
+características obstétricas, permitindo assim a comparação entre taxas de
+cesáreas sem tantos fatores de confusão.
+126
+
+A OMS admite que o uso dessa classificação não é suficiente para monitorar,
+avaliar e identificar de modo totalmente satisfatório todas as razões pelas
+quais a cesariana está sendo cada vez mais usada, já que não considera
+fatores externos à saúde da mulher e do feto, como fatores econômios e
+psicológicos. Contudo, a organização espera:
+1. Otimizar o uso das cesáreas ao identificar, analisar e focalizar
+intervenções em grupos específicos que sejam particularmente
+relevantes em cada local;
+2. Avaliar a efetividade de estratégias ou intervenções criadas
+para otimizar o uso de cesáreas;
+3. Avaliar a qualidade da assistência, das práticas de cuidados
+clínicos e os desfechos por grupo;
+4. Avaliar a qualidade dos dados colhidos e chamar a atenção
+dos funcionários para a importância desses dados e do seu uso.
+
+6
+
+Nulíparas com feto único,
+cefálico, ≥ 37 semanas,
+em trabalho de parto
+espontâneo
+
+Todas nulíparas
+com feto único em
+apresentação pélvica
+
+Grupo
+
+Grupo
+
+1
+1
+
+Quadro 1: Classificação de Robson
+
+Multíparas sem cesárea
+anterior, com feto único,
+cefálico, ≥ 37 semanas,
+cujo parto é induzido
+ou que são submetidas
+à cesárea antes do início
+do trabalho de parto
+
+7
+Grupo
+
+8
+
+Todas multíparas
+com feto único em
+apresentação pélvica,
+incluindo aquelas com
+cesárea(s) anterior(es)
+
+Todas mulheres com
+gestação múltipla,
+incluindo aquelas com
+cesárea(s) anterior(es)
+
+Grupo
+
+Multíparas sem cesárea
+anterior, com feto único,
+cefálico, ≥ 37 semanas,
+em trabalho de parto
+espontâneo
+
+9
+
+Nulíparas com feto único,
+cefálico, ≥ 37 semanas,
+cujo parto é induzido
+ou que são submetidas
+à cesárea antes do início
+do trabalho de parto
+
+Grupo
+
+Grupo
+
+4
+
+Grupo
+
+3
+
+Grupo
+
+2
+
+7
+
+Todas gestantes com feto
+em situação transversa
+ou oblíqua, incluindo
+aquelas com cesárea(s)
+anterior(es)
+
+C
+Cesarea anterior
+
+10
+
+Todas multíparas
+com pelo menos uma
+cesárea anterior, com
+feto único, cefálico,
+≥ 37 semanas
+
+Grupo
+
+Grupo
+
+5
+
+GROUP
+
+Todas gestantes com
+feto único e cefálico, <
+37 semanas, incluindo
+aquelas com cesárea(s)
+anterior(es)
+
+Trabalho de parto espontâneo
+
+127
+
+legislação e práticas
+governamentais
+Em 2014, a ANS, o Hospital Israelita Albert Einstein e o Institute for
+Healthcare Improvement (IHI) começaram, com o apoio do Ministério da
+Saúde, um programa para incentivar o parto normal e diminuir o número
+128
+
+de cesáreas desnecessárias, denominado Parto Adequado. Esse programa
+tem, como uma de suas iniciativas, a Resolução Normativa n. 368, que busca
+instaurar o uso do partograma (histórico médico do processo do parto
+da gestante em questão), garantir o acesso de toda a gestante usuária do
+sistema de saúde suplementar aos percentuais de cirurgias cesarianas de
+cada médico e hospital, e a utilização do cartão gestante (histórico médico
+da gestação). Com essas medidas, busca-se “reduzir riscos desnecessários
+e melhorar a segurança do paciente e a experiência do cuidado para mães e
+bebês” (retirado da apresentação disponibilizada no site da ANS).
+
+129
+
+Um projeto-piloto está sendo conduzido em 28 hospitais, sendo 23
+privados e 5 públicos, além do próprio Hospital Albert Einstein. Esses
+hospitais foram selecionados dentre 42 inscritos (para 20 vagas), o
+que pode demonstrar grande interesse dos hospitais em melhorar o
+atendimento ao parto. Os hospitais foram selecionados de acordo com suas
+taxas de cesáreas e de nascimentos por ano.
+O IHI (Institute for Healthcare Improvement) é o responsável pela
+metodologia aplicada nos hospitais, que, pontualmente, já demonstraram
+resultados positivos, como “percentual de partos mais que dobrou; as
+admissões em UTI neonatal caíram; houve melhoria na remuneração dos
+profissionais que contribuíram para aumentar a eficiência dos serviços”.
+Ou seja, intervenções não-clínicas relacionadas à gestão do modelo de
+atenção ao parto são efetivas, como sugerido nos documentários assistidos.
+130
+
+Promove também mudanças no processo de cuidado, que constitui a
+principal inovação do programa. As mudanças envolvem: “Adequação
+de recursos humanos para a incorporação de equipe multiprofissional
+(obstetras, obstetrizes e enfermeiras obstétricas, pediatras e
+neonatologistas, anestesistas) nos hospitais e maternidades; capacitação
+profissional para ampliar a segurança na realização do parto normal;
+engajamento do corpo clínico, da equipe e das próprias gestantes; revisão
+das práticas relacionadas ao atendimento das gestantes e bebês, desde o
+pré-natal até o pós-parto”.
+O programa ainda conta com três modelos de assistência a serem testados,
+a partir da metodogolia IHI:
+
+Modelo 1: Parto realizado pelo plantonista do hospital.
+Modelo 2: Parto realizado por médico pré-natalista do corpo clínico,
+com suporte da equipe multidisciplinar de plantão, que irá fazer o
+acompanhamento inicial da parturiente até a chegada do médico.
+Modelo 3: Parto assistido por um dos membros de uma equipe de
+médicos e enfermeiras, composta por 3 ou mais médicos e enfermeiras
+obstetras; a parturiente se vinculará à equipe que terá sempre um médico
+e uma enfermeira obstetra de sobreaviso para realizar a assistência do
+trablaho de parto e parto.
+Outras ações: adequações na ambiência da maternidade; estímulo à
+participação de acompanhantes no parto; visitas guiadas à maternidade
+e cursos de gestantes durante o pré-natal; avaliação da experiência
+do cuidado no pós-parto pelas mulheres, com feedback à equipe para
+melhorar o cuidado.
+
+131
+
+Em resposta a essa resolução, a Sogesp (Associação de Obstetrícia e
+Ginecologia do Estado de São Paulo) discorda das medidas adotadas,
+argumentando que “ocultam as principais causas para o alto índice de partos
+cirúrgicos no Brasil”, como a redução progressiva de leitos obstétricos nos
+hospitais e maternidades, falta de ambiência adequada e falta de equipes de
+plantonistas especializados na área nas maternidades. Segundo a Sogesp, a
+ANS não garante o plantão 24 horas de profissionais necessários (médicos
+obstetras, anestesistas, neonatologistas e enfermeiras obstetras) à beneficiária.
+Outras política públicas estão sendo discutidas e incorporadas a cada dia. O
+Ministério da Saúde já conta com uma série de decretos, leis e portarias para
+assegurar o parto seguro e humanizado da brasileira.
+O cumprimento do critério global Cuidado Amigo da Mulher foi inserido na
+Portaria 1.153 (Ministério da Saúde, maio de 2014) garante à mulher que
+132
+
+várias práticas humanizadas sejam utilizadas em seu parto. Garante, por
+exemplo, um acompanhante de livre escolha (medida já assegurada pela Lei
+n. 11.108), oferta de líquidos e alimentos leves, incentivo para se movimentar
+durante o trabalho de parto para diminuição da dor, ambiente tranquilo e
+acolhedor, com privacidade e iluminação suave, disponibilização de métodos
+não farmacológicos para alívio da dor (tais como banheira ou chuveiro,
+massageadores ou massagens, bola de pilates, bola de trabalho de parto,
+compressas quentes e frias, técnicas que devem ser informadas à mulher
+durante o prénatal), uso reduzido de procedimentos invasivos e autorizar a
+presença de uma doula (caso seja da vontade da mulher). Todas essas práticas
+são raramente vistas em hospitais, públicos ou privados, e ainda podem sofrer
+discriminação. Ou seja, práticas previstas na legislação não estão sendo postas
+em prática, seja por motivos de infra-estrutura e condições adequadas ou por
+condutas profissionais.
+
+Pode-se considerar que o parto humanizado é agora um assunto
+em voga, que está sendo cada vez mais discutido em âmbito social e
+governamental. A experiência do parto está ganhando importância. No
+entanto, apesar de todas as medidas tomadas pelo governo, o cenário
+está mudando lentamente. É preciso talvez analisar o cenário atual por
+outras perspectivas, tentando identificar fatores que ainda não foram
+considerados como sendo causa da situação atual, fatores esses que podem
+estar relacionados a um aspecto mais antropológico e cultural do que
+médico ou de infra-estrutura.
+
+133
+
+visão antropológica
+sobre a situação atual
+da assistência ao parto
+Sob uma visão antropológica, a relação médico-paciente já vem sendo
+analisada e questionada. O tipo de comunicação entre as partes é
+influenciada por contextos internos e externos durante uma consulta. O que
+134
+
+é dito, recebido e interpretado sofre significativa influência desses contextos
+e bagagens culturais e sociais de ambas as partes e pode definir como essa
+relação médico-paciente se dá. No âmbito do contexto interno, experiências
+prévias, expectativas, presunções culturais, modelos explanatórios e
+preconceitos baseados em critérios sociais, de gênero, religiosos ou raciais
+que cada uma das partes traz à consulta. No contexto externo, o ambiente
+(consultório, hospital, clínica, etc), ideologia dominante, religião e sistema
+econômico da sociedade, divisões e desigualdades sociais baseadas em
+gênero, etnia e especialmente classe. Todos esses fatores ajudam a definir os
+poderes incumbidos a cada parte numa consulta (HELMAN, 2009).
+
+135
+
+O fato do médico ser um especialista na área também influencia nessa
+definição de poderes. Ou seja, há uma espécie de preconceito trazido à
+consulta por ambas as partes. O médico, por estar numa classe social
+e econômica mais avantajada na maioria das vezes, deve ter mais
+conhecimento sobre o assunto, pois deve ter estudado mais para chegar a
+esse nível e se tornar um especialista. A mulher pode acabar sentindo-se
+inferiorizada nessa relação e inapta a questionar, seja para saber mais sobre
+o assunto ou para discordar da opinião do especialista.
+A questão da mulher ser e sentir-se inferiorizada é histórica. No auge da era
+moderna, século XIX, o pensamento de que a natureza feminina era “algo
+a ser conquistado” pelo homem, dominador da cultura, é um pensamento
+fortemente enraizado, que não só se reflete nos dias de hoje como ainda é
+amplamente aceito, mesmo que não conscientemente. Segundo antropólogos
+feministas, “no pensamento ocidental, em particular, as mulheres e sua
+136
+
+sexualidade muitas vezes são vistas como menos ‘culturais’ do que os
+homens e equiparadas à ‘natureza’ (descontroladas, perigosas, poluidoras)
+e não à ‘cultura’ (controlada, criativa, ordenada) do mundo dos homens”
+(Helman, 2009). Como no pensamento ocidental a cultura é considerada
+superior e mais humana que a natureza, esse tipo de pensamento fornece
+uma justificativa para a superioridade dos homens, que deveriam então
+transformar essa natureza feminina em algo produtivo, mais “cultural”.
+A medicina moderna ocidental, por sua vez, destaca-se pelo papel prático
+e simbólico cada vez mais importante desempenhado pela tecnologia tanto
+no diagnóstico quanto no tratamento. No âmbito do evento da gestação e
+do parto, o “imperativo tecnológico” não se dá apenas pelo uso exagerado
+e desnecessário da cirurgia cesariana, mas também pelo excesso de
+intervenções, como anestesia, analgesia, episiotomia, etc.
+
+Técnicas que muitas vezes não são sequer comprovadas por evidências
+científicas, como a episiotomia, por exemplo (Dr. Júlio Massonetto, diretortécnico da maternidade Amparo Maternal), e que trazem riscos inerentes a
+qualquer medicalização ou cirurgia. “O parto vem sendo conduzido de uma
+forma tecnicista, com excesso de técnica e de tecnologia, não oferecendo
+o aconchego e o afeto. O médico transformou a experiência do nascer
+num ato, numa intrincada manobra cirúrgica” diz o Dr. Cláudio Basbaum,
+ginecologista obstetra, em um documentário realizado pelo COREN, em
+2009. Quando o uso da tecnologia é excessivo, o que foi feito para ajudar
+pode acabar atrapalhando. Segundo Helman, “Neste ambiente, o uso
+excessivo da tecnologia envia uma mensagem à gestante de que seu próprio
+corpo é meramente uma máquina defeituosa - que precisa ser controlada
+e dirigida pelos técnicos (médicos), e não por ela mesma. Isso, por sua vez,
+pode ter importantes consequências emocionais para ela.” (HELMAN,
+2009). Ou seja, a mensagem que a mulher recebe pode ser entendida
+como “você não é capaz”, “seu corpo não é perfeito para isso”. Esse tipo de
+mensagem acaba minando a coragem da mulher, que não se sente apta a
+dar à luz seu próprio filho.
+Para Davis-Floyd, antropóloga médica e cultural, a hora do trabalho de
+parto é um momento em que muitos dos valore mais básicos da sociedade
+são transmitidos para a mulher. De acordo com a autora, esses valores
+incluem: “sua impotência diante do patriarcado, o caráter ‘defeituoso’
+de seu corpo feminino, a necessidade que a medicina tem de controlar
+seus processos naturais, sua dependência da ciência e da tecnologia e a
+superioridade contínua das instituições e das máquinas sobre as crenças
+e os significados individuais.” Essas mensagens são mais facilmente
+transmitidas à parturiente no ambiente impessoal do hospital do que no
+doméstico, segundo a antropóloga, onde a estrutura de poder pode ser
+mantida e reforçada.
+
+137
+
+Em geral, nos hospitais, a pessoa doente é separada de sua família, de seus
+amigos e da comunidade em um momento de crise pessoal. No hospital,
+ela sofre um ritual padronizado de despersonalização. São uniformizados
+com pijamas, camisolas, e são destituídos de muitos pertences pessoais e
+privacidade. Acontece uma perda de controle sobre o próprio corpo, espaço
+e tempo. “Os pacientes são afastados do apoio emocional contínuo da
+família e da comunidade”, ficando aos cuidados de pessoas desconhecidas,
+numa relação caracterizada pela impessoalidade, distância, formalidade e
+frequente uso de jargão profissional, linguagem inacessível a grande parcela
+da população. “Os pacientes em uma enfermaria formam uma ‘comunidade
+de sofrimento’ temporária, ligada pela comiseração, fofocas de enfermaria e
+conversas sobre as condições dos outros.” (Helman, 2009). Nesse ambiente,
+o paciente sente-se mais próximo àqueles em situação parecida com a sua,
+e naturalmente reconhece a si mesmo um estado mais vulnerável e frágil,
+mesmo que, fisiologicamente, não seja real. Uma mulher que está em
+138
+
+trabalho de parto num ambiente desses também acaba se reconhecendo
+numa situação vulnerável, como a de seus “companheiros” na “comunidade
+de sofrimento” e pode acabar associando sua situação como uma situação
+patológica ao invés de apenas fisiológica.
+Segundo Helman, quando essa mulher encontra-se numa cesariana em
+um centro cirúrgico, essa associação reforça-se ainda mais. Num centro
+cirúrgico, o campo visual da mulher lhe passa uma mensagem perceptual
+arrasadora, de que a tecnologia é suprema e impera ali, e a mulher é
+totalmente dependente dela e das instituições e indivíduos que controlam e
+administram essas instituições.
+No século XVII, Descartes, Bacon e Hobbes desenvolveram um imaginário
+de um universo mecanicista, seguindo leis previsíveis, “que poderiam ser
+descobertas pela ciência e controladas pela tecnologia. Davis-Floyd associa a
+cultura tecnicista da obstetrícia moderna a esse imaginário.
+
+139
+
+1. Centro cirúrgico do Hospital Israelita Albert Einstein, unidade Morumbi, São Paulo. Fonte: https://i.ytimg.com/vi/QZZLDIvg5VM/maxresdefault.jpg
+2. Centro cirúrgico do Hospital e Maternidade São Luiz, unidade Jabaquara, São Paulo. Fonte: http://www.saoluiz.com.br/Libraries/unidade_jabaquara_fotos/Centro_
+Cir%C3%BArgico_-_Sala_inteligente.sflb.ashx
+
+“A teologia cristã sustentava que as mulheres
+eram inferiores aos homens, estando mais
+próximas da natureza. Consequentemente, os
+homens que estabeleceram a idéia do corpo
+como uma máquina também estabeleceram
+o corpo masculino como o protótipo dessa
+140
+
+máquina; assim, o corpo feminino desviavase do padrão masculino, sendo considerado,
+portanto, inerentemente anormal,
+defeituoso, perigosamente imprevisível
+e sob influência da natureza, exigindo
+manipulação constante pelos homens.”
+(Helman, 2009)
+
+O dualismo de Descartes levou à dissociação conceitual entre alma e corpo,
+metaforizando o corpo como uma máquina e o colocando exclusivamente nas
+mãos da ciência e tirando-o do escopo da religião (Helman, 2009). “A teologia
+cristã sustentava que as mulheres eram inferiores aos homens, estando mais
+próximas da natureza. Consequentemente, os homens que estabeleceram a
+idéia do corpo como uma máquina também estabeleceram o corpo masculino
+como o protótipo dessa máquina; assim, o corpo feminino desviava-se do
+padrão masculino, sendo considerado, portanto, inerentemente anormal,
+defeituoso, perigosamente imprevisível e sob influência da natureza, exigindo
+manipulação constante pelos homens.” (HELMAN, 2009)
+Nesse cenário, sociólogos médicos defendem que a medicalização como
+agente de controle social, principalmente sobre as mulheres, é algo real. A
+medicalização também torna-se mais provável se o corpo é conceitualizado
+como “máquina”, “visto apenas à parte de seu contexto social e cultural.”
+(Helman, 2009). Outras tecnicidades, como ultrassom, exames pré-natal, etc,
+“enfatizam o poder crescente da tecnologia médica sobre o corpo, pois essa
+capacidade de “ver” o seu interior transforma a mulher e seu feto em objetos
+de vigilância e controle médicos rígidos.”.
+Todos esses fatores fazem parte de um cenário onde a mulher é bombardeada
+por mensagens a todo o momento da superioridade da tecnologia e da
+ciência médica sobre o seu corpo, suas sensações, percepções e experiências,
+entendimentos e interpretações.
+Em seu livro, Helman cita o antropólogo cultural Victor W. Turner, que
+defende que “em uma situação social, os rituais expressam e renovam
+certo valores básicos da sociedade, especialmente no que se refere aos
+relacionamentos entre pessoas, entre pessoas e a natureza e entre pessoas
+e o mundo sobrenatural - relacionamentos que são integrais para o
+funcionamento de qualquer grupo humano.”.
+
+141
+
+Reforçam, por exemplo, a relação médico-paciente, entre mulher e o parto,
+entre médico e o parto, entre a família e sua religião, etc. O evento do parto,
+por envolver todas essas questões, pode, portanto, ser considerado um
+evento ritualístico.
+Os rituais usam, muitas vezes, certas ferramentas que podem ter sido criadas
+com o intuito de servirem de ferramentas de reforço desde sua concepção ou
+não. Um exemplo de símbolo ritual que o livro nos traz é o jaleco branco do
+médico. O jaleco branco pode remeter a várias associações, dependendo do
+contexto. No contexto da cura, (hospital, consultório médico, etc), além dos
+aspectos técnicos, como manter e mostrar higiene e evitar contaminação,
+também pode simbolizar “ciência” e “confiabilidade”. Outras associações
+trazidas pelo autor são: “repositório de conhecimento especializado e
+inacessível”, “poder para obter detalhes íntimos da vida dos pacientes e
+examinar os corpos deles”, “prescrever medicações ou outros tratamentos
+142
+
+e tomar decisões que envolvem vida ou morte”, “hospitalizar pacientes,
+alguns contra sua vontade”, “orientação em relação ao cuidado e ao alívio
+do sofrimento”, “confiabilidade e eficiência”, “distanciamento emocional e
+sexual”, “limpeza”, “respeitabilidade e alto status social” e “renda elevada”.
+Ou seja, como já dito anteriormente, todos esses pré conceitos, já são levados
+à consulta pela própria paciente, a partir de sua experiência na sociedade,
+onde, por exemplo, anúncios de televisão, filmes, novelas, normalmente
+trazem essa figura do médico, que está sempre de jaleco branco. Sendo o
+médico alguém de “respeitabilidade e alto status social”, “renda elevada”,
+um “repositório de conhecimento especializado e inacessível” e que
+tem experiência com “orientação em relação ao cuidado e ao alívio do
+sofrimento”, a paciente pode ficar intimidada e receosa ao questioná-lo.
+Pode, por exemplo, achar boba ou incabível a sua pergunta, como foi o caso
+de uma das entrevistadas.
+
+O médico ainda é visto como alguém com o poder de “prescrever medicações ou
+outros tratamentos e tomar decisões que envolvem vida ou morte”, pois, sendo
+um especialista na área, sabe o que é o melhor a se fazer. O que muitas vezes
+não é levado em consideração é que muito da área médica não é baseada em
+evidências. Segundo o documentário Business of Being Born, muitos bebês nas
+décadas de 1930 e 1940 nasciam com deficiências causadas por práticas médicas
+sem o respaldo de evidências científicas a longo prazo, práticas que afetaram
+as vidas de milhares de pessoas daquela época pelo resto de suas vidas. Hoje,
+muitas práticas recorrentes ainda não são baseadas em evidências. Enquanto
+isso, estudos baseados em evidência mostram que, ao contrário do que se
+imagina, a cesariana, por exemplo, está ligada a vários problemas de saúde para
+a criança, como a diabetes, problemas respiratórios, obesidade, asma, alergias e
+outras doenças não transmissíveis.
+Em culturas de parto não ocidentais o parto pode ser diferente. A OMS
+estima que, mundialmente, 60 a 80% dos partos são auxiliados por parteiras
+tradicionais, as quais são denominadas pela OMS “auxiliares tradicionais
+de parto” (ATP). Elas são encontradas em quase todas as vilas e em muitos
+subúrbios urbanos na África, na Ásia, na América Latina e no Caribe. Além de
+auxiliarem no parto, elas supervisionam cuidados do pré e pós-natal e realizam
+rituais importantes durante a gravidez e parto.
+Esses cuidados podem ter um impacto que transcende momento do parto.
+Nas áreas rurais da Jamaica, quase todo bebê nasce com o atendimento de
+uma nana (ATP). Estima-se que 25% dos partos na Jamaica seja auxiliado por
+elas. Nas vilas, elas são reconhecidas como pessoas de status elevado e grande
+autoridade na comunidade local, “uma figura-chave na coesão das mulheres nas
+comunidades rurais jamaicanas”. As nanas ajudam não só em nascimentos, mas
+também em outras questões familiares de diversas naturezas.
+
+143
+
+Ou seja, elas são vistas como grandes “mães”, que trabalham seguindo uma
+abordagem familiar e íntima. “Todas as nanas são mãe, pois ‘ser uma nana
+é, na verdade, uma extensão do papel de mãe, de modo que todas elas são
+consideradas mães bem-sucedidas em seu papel.’”(Helman, 2009). Para elas,
+o papel delas não termina no nascimento do bebê, mas sim no “renascimento
+de uma mulher como mãe.” Segundo Helman, Nota-se aí um contraste
+com a sociedade tecnológica ocidental, que considera esse tipo de atenção
+uma coisa secundária, onde a eficiência e a velocidade do parto são super
+valorizadas e e fatores emocionais são suprimidos.
+A OMS defende o maior treinamento das ATPs, integrando-as mais ao
+programas de saúde em geral enquanto assegura, mantém e respeita a
+arte tradicional e rituais particulares de cada cultura. Agências de ajuda
+internacional como a UNICEF desenvolveram programas de treinamento
+para ATPs, fornecendo kits depois da instrução.
+144
+
+Em Tamil Nabul, no sul da Índia, o ritual também é outro. As mulheres
+têm maior acesso ao hospitais públicos e fazem mais uso deles. A diferença
+em relação à cultura ocidental está em como elas encaram a dor. Lá,
+muitas mulheres insistem em ter seu parto induzido e acelerado por drogas
+como a ocitocina sintética, embora isso aumente consideravelmente o
+nível de dor. Isso ocorre porque, segundo sua cultura, essa dor, conhecida
+como vali - palavra que também significa “força” ou “poder” - aumenta
+significativamente o nível de satki da mulher, o “poder regenerativo” dela.
+O satki é “o mestre ativador da vida, o princípio da mudança sem fim que
+é tanto celebrado quanto temido”. Suportando uma dor maior a mulher
+alcançaria um satki maior. Nessa compreensão de dor vemos que ela não se
+dá de forma patológica, a dor não é vista como algo errado a ser tratado, algo
+indesejado. A dor é vista como fisiológica e é aceita como algo inerente ao
+processo de parto, e não apenas um sofrimento.
+
+“(...) a experiência sensorial da dor
+aguda é essencial para a construção
+da comunidade”
+(Helman, 2009)
+
+145
+
+Segundo Helman, a dor aguda é identificada em muitos ritos de passagem,
+ritos em que o indivíduo se transforma, transforma a sua identidade. Essa
+dor aguda pode ter a seguinte função social: “fazer com que outras pessoas
+instantaneamente estejam conscientes daquela pessoa e de seu sofrimento
+e criar uma conexão emocional entre elas”. A dor estaria, então, rompendo
+barreiras entre pessoas, pois ela tem também “um potencial eminentemente
+social de reforçar um sentido de união entre os indivíduos e produzir um
+real parentesco social. Em outras palavras, a experiência sensorial da dor
+aguda é essencial para a construção da comunidade”. No caso do parto,
+muito acreditam que a dor ajuda a construir o vínculo entre mãe e bebê. O
+sentimento de conquista e gratificação é alcançado quando se é permitido
+vivenciar a dor, passar por ela e chegar ao seu final. Para Michel Odent,
+grande ativista e um dos precursores do parto humanizado, a ocitocina
+natural (hormônio que ativa as contrações) é o “hormônio do amor”. Este é
+o mesmo hormônio, embora natural, e não sintético, usado pelas mulheres
+146
+
+de Tamil Nabul para terem mais dor. Porém, na sociedade “medicalizada”
+moderna, todos os esforços são feitos para minimizar a dor a qualquer custo,
+“quer seja em tratamentos médicos, cirurgias, partos ou doenças”.
+
+Atitudes em relação à dor são adquiridas precocemente na vida,
+como parte do crescimento em uma determinada família e
+comunidade. Segundo Helman, elas também tendem a mudar com
+o tempo, à medida que novas tecnologias e formas de alívio da dor
+são disponibilizadas, especialmente em sociedades passando por
+desenvolvimento social e econômico. A partir disso pode-se entender
+que, em sociedades em desenvolvimento (Brasil, por exemplo) e
+desenvolvidas (Estados Unidos, por exemplo), as tecnologias e
+formas para o alívio da dor podem estar distanciando a comunidade
+da experiência da dor, o que a leva também a temer mais o
+desconhecido da dor. O mesmo pode ser aplicado à dor no parto.
+
+147
+
+148
+
+149
+
+150
+
+conclusão da primeira parte
+
+151
+
+Foi identificado que um dos principais motivos para a cesariana eletiva
+é o medo da dor no parto. Dissecando essa informação, temos que, na
+sociedade moderna, há um distanciamento da experiência da dor, pois é
+bastante associada ao sofrimento. Isso reflete no evento do parto, onde a
+mulher moderna acha desnecessário passar por essa dor já que há disponível
+uma tecnologia que “evita” esse sofrimento. No entanto, ela não percebe os
+riscos e malefícios à saúde a que se submete. Ou percebe, mas, por medo do
+desconhecido, prefere arriscar. Outros fatores que intensificam esse medo da
+dor são relatos de outras pessoas, histórias de experiências não satisfatórias
+de outras mães, ou ainda o modo como o parto e trabalho de parto são
+retratados na mídia. Muitas mulheres também tem dificuldade em confiar
+na natureza do próprio corpo, o que pode ser oriundo de sua vivência na
+sociedade tecnicista.
+Um tema tão delicado e complexo desses deveria ser tratado não apenas no
+152
+
+nível intelectual mas também no emocional e sensorial. Uma exposição,
+ao mesmo tempo que sensibiliza, informa, ou ao menos pode despertar
+o interesse no assunto, levantando discussão sobre o tema. Além disso, o
+visitante tem a oportunidade de explorar o tema de maneira mais próxima, já
+que a exposição pode contar com apoio de uma equipe educativa.
+
+“O grande medo das mulheres
+no parto natural é a dor.”
+(Enfermeira Andrea Porto - Conselheira do COREN - SP)
+
+153
+
+154
+
+155
+
+156
+
+sobre projeto de exposições
+
+157
+
+“Expografia
+Contemporânea
+no Brasil”
+158
+
+Definida a mídia através da qual o tema seria tratado, surgiu a necessidade
+de se pesquisar também sobre projetos expográficos cenográficos
+e experiências imersivas. Na concepção do presente projeto foram
+considerados os princípios e conceitos estudados em duas obras principais.
+A dissertação de mestrado de Renata Figueiredo, intitulada “Expografia
+Contemporânea no Brasil - A Sedução das Exposições Cenográficas” trata de
+um estudo de caso tomando o Museu do Futebol em São Paulo como base.
+
+159
+
+Segundo Renata Figueiredo, recursos cenográficos estão sendo cada vez
+mais explorados em projetos de exposições. Eles vêm como facilitadores da
+leitura da narrativa, já que é simbolista. A autora analisa os conceitos de
+“experiência” e “sedução” com uso de recursos cenográficos, e entende que a
+cenografia é usada como “artifício para facilitar a apreensão dos conteúdos
+expostos” (FIGUEIREDO, 2011, pg 21). Além disso, interatividade e recursos
+audiovisuais também reforçam a experiência sensorial do visitante. O maior
+objetivo de uma exposição é tornar essa apreensão tangível.
+Hoje, há uma demanda (e desejo) por exibir patrimônio (material e imaterial),
+o que gera grande quantidade de projetos expográficos. Pode-se perceber isso
+tomando a Inglaterra e Estados Unidos como expoentes na área.
+“The opportunities for exhibition designers and professionals have never
+been greater. Countries around the globe are discovering that exhibition are
+160
+
+a sophisticated and significant medium of expression and, judging by the
+furious activity in the world’s most prestigious design agencies, we stand
+on the cusp of a new era. Centres in the countries that have no tradition of
+exhibiting will reach out to millions of visitors, many of whom will learn
+about themselves, their countries, their history and their traditions for the
+first time, through the medium of interpretative design.” (HUGHES, 2010,
+p.212)
+No Brasil, esse boom de exposições nas últimas décadas vem ganhando peso
+desde a exposição “Brasil + 500: Mostra do Redescobrimento” (em 2000),
+projeto de Daniela Thomas e Felipe Tassara, e é com essa exposição que o
+termo “cenografia de exposições” surge no Brasil.
+Para uma exposição imersiva é importante fazer do visitante um ator, ou
+jogador, espírito este que não é distante daquele empregados nos parques
+temáticos. Tudo isso a fim de fazer o visitante se emocionar e divertir.
+
+Figueiredo (2011) destaca ainda que “o termo ‘cenografia’ é aqui empregado
+como o conjunto de elementos utilizados para contextualizar e dar vida a um
+tema. (...) Utiliza para tal um conjunto de cores, texturas, formas, iluminação
+e sons para fazer com que o espectador mergulhe no universo desejado.”
+Para Beatriz Russo e Paul Hekkert, citados na tese de Renata, há três níveis
+de experiência que ocorrem simultaneamente:
+- Experiência estética: grau em que todos os sentidos são gratificados;
+- Experiência de significado: significado apegado aos produtos;
+- Experiência emocional: sentimentos e emoções evocados.
+Tais conceitos podem ser transpostos para as exposições, considerando a
+cenografia como criadora de significado através do conteúdo que ela mostra e
+da construção de elementos sensoriais que evocam sentimentos e emoções.
+Além disso, há também cinco princípios fundamentais que consideram
+centrais para a “experiência amorosa” entre pessoas e objetos:
+- Interação fluida: deve ser uma atividade intrinsecamente compensadora,
+em que a pessoa fique completamente imersa. Algumas atividades podem ser
+mais desafiadoras e “por ultrapassar as limitações existentes e imaginadas,
+encontram a transcendência”.
+- Lembrança de memória afetiva: seriam souvenirs. Eles contribuem para
+manter o senso de identidade. Numa exposição, o vínculo do visitante com
+o que é proposto cria uma relação de afeto através da memória. Odores,
+audição, visão, tato e paladar são gatilhos sensoriais.
+- Significado simbólico (social): pessoas são seres naturalmente sociais e
+a comunicação dessa identidade pode satisfazer prazeres sociais. Prazeres
+sociais são obtidos através da interação com outros.
+- Compartilhamento de valores morais e éticos
+- Interação física e prazerosa: relação com as propriedades táteis do produto
+ou exposição e a maneira como interage com o corpo “gratificando-lhes os
+sentidos”.
+
+161
+
+“O toque não apenas provê
+informações sobre o mundo
+a nossa volta , mas também
+nos torna conscientes quanto
+162
+
+ao nosso próprio corpo, o que
+forma a base da experiência
+do próprio ser”
+(RUSSO; HEKKERT, 2008)
+
+Hoje, o conceito de exposições colaborativas cresceu e agora a
+interatividade está também na geração de conteúdo. Dessa forma, o
+visitante não apenas se apropria do conhecimento das exposições e
+compartilha a experiência expográfica como também discute o que foi
+visto, gerando debates sobre o tema e agregando ainda outros pontos além
+daqueles apreendidos na exposição.
+Neste trabalho todos esses critérios foram considerados na criação das
+instalações e experiências.
+Figueiredo (2011) ainda nos apresenta a teoria de Jean Davallon, que
+propõe que as exposições podem não apenas exibir objetos, mas também
+transmitir conhecimentos/mensagens através desses objetos e pela forma
+como são expostos, ou seja, analisa qual é a “operatividade simbólica”
+das exposições. Essa teoria vem de encontro com o que se esperava fazer
+neste projeto de conclusão de curso: trazer não só objetos mas também
+ambientes que criassem uma atmosfera, produzindo sensações, que
+facilitassem a apreensão das questões trazidas no tema.
+O autor chama atenção para a diversidade de elementos semióticos
+envolvidos e as múltiplas linguagens que uma exposição possui.
+Davallon cita como item relevante de uma exposição o contrato
+comunicacional, que se baseia na veracidade e autenticidade do que
+é dito. O objetivo é fazer com que o visitante acredite na veracidade
+e autenticidade do que é dito e exposto. Além disso, usa-se nomes de
+renomados curadores, museus, arquitetos, instituições, etc. Uma condição
+de êxito para a exposição é que o visitante deve crer que tudo aquilo que é
+apresentado são fatos reais, ou o contrato se quebra. Para que o visitante
+parta desse pressuposto, precisa de garantias, como “signos que atestam o
+vínculo entre o objeto exposto e o mundo de sua pertinência”.
+
+163
+
+Outro modo de suspender a incredulidade do visitante é criando “ritos de
+passagem” para o visitante perceber que está entrando em outro universo.
+Nesse sentido, a cenografia serve como estratégia para transmitir essa
+veracidade ao tema e facilitar a compreensão do público sobre o assunto.
+A intenção (propósito ou proposta) também é um ponto importante no
+processo de concepção de uma exposição. Trata-se do efeito que gostaria de
+produzir no visitante. Pode ser um prazer artístico, transmitir um saber ou
+compreensão, uma identidade, apenas diversão ou até comercial. A partir daí
+revela-se a(s) classificação(ões) da exposição como estética, semiótica, social,
+política, etc.
+Diferentemente da intenção, temos a intencionalidade, que diz respeito ao
+modo como deseja-se comunicar-se com o visitante.
+164
+
+A ambientação é ponto importante também, já que a exposição é um espaço
+onde se produz linguagem. Para iniciar a construção dessa linguagem, a
+ambientação ou layout deve conduzir o visitante ao objeto. O percurso criado
+tem duas finalidades principais: produzir a compreensão do visitante e “de
+conter a exposição dentro de um contexto comunicacional”.
+Para a construção da mensagem e do significado, dois elementos são
+importantes: textos e percurso expositivo, que devem dialogar sinergicamente.
+
+O percurso (ou circuito) pode se dar pelo encadeamento de transformações
+ou de significados no decorrer da visita:
+- Encadeamento de transformações: uma aventura que muda seu modo de
+vida e seu status social. Exige mudanças constantes de espaços e o caminho
+é marcado por signos e tiso que contribuem para desenhar o mapa mental
+do caminho. Existe um “programa-tipo” de transformação em que “o
+visitante é posto em tensão com o universo real ou imaginário e o visitante
+pode agir atribuindo significado ao que é visto ou participado.” Acontece em
+quatro partes: ruptura com o mundo cotidiano; aquisição de ferramental
+para atribuição de significados à exposição; realização da ação essencial
+(encontro com a parte principal da exposição); e reconhecimento que a ação
+essencial foi realizada. A obtenção de valores se dá pela soma dos valores
+obtidos na exposição e o repertório de sua vivência no mundo, formando um
+interpretante.
+- Encadeamento de significados (produção de sentido): dada pela
+sinalização, pela linguagem gráfica dos textos explicativos e repetição de
+signos a fim de facilitar o conhecimento e memorização da leitura do espaço.
+Na tese, Renata explica ainda que, para Philip Hughes, autor do livro
+Exhibition Design (2010), há quatro segmentos de visitante modelo:
+- Especialista: aquele que já domina o assunto e busca conhecimento que
+foge do óbvio.
+- Turista habitual: familiariza-se com o assunto mas quer aprofundar seus
+conhecimentos, normalmente motivado por curiosidade.
+- Aventureiro: aquele que não conhece o assunto, mas deseja familiarizar-se
+com as principais informações, e precisa de um nível básico de informações
+bem organizado.
+- Desorientado: não conhece o assunto e procura apenas um ponto
+significativo para poder situar-se.
+Neste projeto, o segmento foco foi o turista habitual.
+
+165
+
+“Engaging Spaces”
+Kossmann.dejong é um escritório de design holandês responsável
+166
+
+por numerosas exposições imersivas marcantes ao redor do mundo.
+O Museu Marítimo Nacional, na Dinamarca, o Museu Florence
+Nightingale, em Londres, o Urbanian Pavilion, em Shanghai, o Salão do
+Livro, em Paris, a Feira Internacional do Livro, em Tóquio, por exemplo,
+são alguns de seus projetos.
+
+167
+
+Em seu livro, os autores Herman Kossmann e Mark de Jong entendem a
+exposição como um “narrative space” (“espaço narrativo”, em tradução livre),
+onde a função do designer é traduzir histórias geralmente complexas em uma
+narrativa espacial e provocadora.
+Eles defendem que, seja uma igreja medieval, um parque temático da Disney,
+uma instalação artística ou uma exposição, o que esses espaços têm em
+comum é o fato de serem mídias espaciais narrativas. Além disso, esses
+projetos não só trabalham em um nível intelectual e informativo, como
+também carregam um poder de comunicação sensorial e emocional.
+“Kossmann.dejong do not consider an exhibition to be a static
+arrangement of things but a spatial story with different layers
+and a dramatic build up.” (KOSSMAN; DEJONG, 2010)
+No livro, explicam que essa abordagem narrativa e multimídia está,
+168
+
+geralmente, mais relacionada a parques temáticos e de diversão do que a
+museus, mas quando se olha a história de espaços narrativos, vê-se que igrejas
+ou outros templos religiosos já buscavam criar ambientes que envolvessem
+os visitantes em uma experiência profunda que estimulasse tanto o intelecto
+quanto os sentidos. Na verdade, a maioria dos museus estimula apenas o
+intelecto, como as antigas “cabinets of curiosities” (“cabinete de curiosidades”,
+em tradução livre). Essa inspiração surgiu, segundo eles, nas décadas de
+1920 e 1930, quando feiras internacionais começaram a se voltar para o
+público em geral, ao invés de apenas profissionais da área. Para conseguir
+atingir um público tão diverso, as feiras se inspiraram em teatros populares
+e circos, muito populares na época, incorporando novas técnicas de som,
+filme, fotografia e iluminação, criando assim fascínio nos visitantes. O
+objetivo central para esse novo tipo de exposição era como conduzir a atenção
+do público, o que poderia ser atingido criando uma sequência contínua e
+dramática, com um começo, meio (clímax) e fim. Esse foi o conceito utilizado
+por Walt Disney na criação da Disneylândia, na década de 1940.
+
+“(...) an exhibition is in a
+unique position to inform
+and seduce, to create wonder,
+involvement and experience in
+visitors. (...) The task is always
+to immerse the visitor in an
+experience full of content and
+impact that provokes new
+ideas.”
+(Kossmann; Dejong, 2010, pg 7)
+
+169
+
+Walt Disney queria ultrapassar as barreiras bidimensionais de filmes e
+quadrinhos criando um mundo onde os visitantes poderiam fisicamente
+experienciar o mundo das famosas histórias da Disney e encontrar seus
+personagens favoritos ao vivo e a cores. Não apenas isso, Walt Disney queria
+fazer seus visitantes participarem da história, onde seus sentidos pudessem
+realçar a experiência. Assim, seus “imagineers” (combinação entre as palavras
+“imaginação” e “engenheiros” em inglês), projetavam primeiramente as
+experiências que gostariam de proporcionar como storyboards, que levavam
+os visitantes a momentos de clímax.
+O desejo de ultrapassar as barreiras do bidimensional também surgiu em
+artistas na década de 1920. Instalações artísticas podem ser consideradas
+espaços narrativos onde o “espectador” é considerado uma presença física no
+espaço e interfere nele. Assim, outros sentidos, além da visão, são explorados
+também. Porém, nessas instalações, muitas vezes exige-se mais da imaginação
+170
+
+do visitante do que a imitação da fantasia da Disney.
+“We are not just surrounded by a physical scenario but are submerges by
+the work. We dive into it and are engrossed as when we are reading a book,
+watching a film or dreaming.” (Ilya Kobakov citado em “Engagement Spaces”)
+Para Ilya Kobakov, o visitante na instalação deveria sentir-se como uma
+pessoa que acidentalmente entrou no quarto de algum estranho e não através
+de uma porta ou janela, mas tocando objetos estranhos a ele. Esse tipo de
+instalação são como cenários que sugerem uma ação ou processo dramático
+sem torná-lo visível. É função do visitante usar associações pessoais,
+memórias e desejos para interpretá-los. Dessa forma, o visitante e a instalação
+tornam-se intrinsecamente ligados, intensificando a experiência da própria
+presença no espaço.
+
+171
+
+Imagem do livro “Engaging Spaces - By Kossmann.dejong” - Editora Frame - pg 26.
+
+172
+
+173
+
+174
+
+a exposição
+
+175
+
+A concepção da exposição foi dirigida a partir das sensações desejadas.
+Primeiramente, foram trabalhadas as metáforas e simbolismos. O cerne do
+presente trabalho está na tradução de determinadas sensações vivenciadas
+pela mulher antes, durante e depois do parto em instalações sensoriais
+imersivas. Posteriormente, planejou-se uma narrativa a ser seguida pelo
+visitante, que ditaram a arquitetura interna e organização do espaço. A
+materialidade das instalações também foi um fator definidor da organização,
+que também definiu o tom da mensagem da experiência.
+
+176
+
+Estudos preliminares de sensações. O espaço
+expositivo ainda não havia sido definido.
+
+177
+
+definição da
+mensagem e discurso
+A intenção da exposição é instigar os visitantes (principalmente as visitantes)
+a questionarem o modelo obstétrico brasileiro atual. Sobre o padrão de
+178
+
+atendimento às gestantes. Será que é normal que um processo fisiológico
+natural seja tratado como uma urgência médica? Será que é normal que
+parturientes sejam forçadas a ficarem deitadas durante o trabalho de parto?
+Será que é normal que suas vaginas sejam cortadas sem seu consentimento?
+Será que é normal que precisem tomar hormônio sintético, fazendo-as
+sentir mais dor, e, consequentemente receber mais anestesia, para acelerar
+o trabalho de parto? Será que é normal que sejam tratadas sem respeitar
+suas vontades e necessidades? Será que é normal que a dor do parto seja um
+sofrimento? Será que é normal que o parto seja um sofrimento tão terrível?
+
+179
+
+Tratar de um assunto tão complexo não é simples. Os questionamentos
+surgem a partir de instalações imersivas que simbolizam de forma sintética e
+delicada cada fator gerador de medo. O medo de viver uma experiência nova,
+a punição divina como explicação para a dor, a representação de um trabalho
+de parto pela mídia de massas e as histórias reais de experiências de parto
+negativas vivenciadas por pessoas próximas reforçam ainda mais o medo da
+dor e do sofrimento. Portanto, para cada um desses fatores foi projetada uma
+instalação que fizesse o visitante entender um pouco melhor como é passar por
+essas experiências tão comuns no mundo da gestante.
+Foi escolhida uma abordagem de levantar questionamento ao invés de
+“denúncia” por se tratar de um assunto em que ainda há muita discussão e
+muita divergência de posicionamentos. A idéia é que o visitante, a partir dos
+questionamentos levantados, tenha seus próprios posicionamentos e tire suas
+próprias conclusões. Dessa forma, o ptotagonismo da mulher na escolha da
+180
+
+experiência do parto não será afetada.
+Na concepção da identidade visual da exposição, a translucidez difusa
+característica do papel vegetal foi usada para simbolizar tanto o aspecto
+místico quanto obscuro da gravidez e das informações acerca dela, e ainda dar
+uma sensação etérea e feminina ao objeto da mensagem.
+
+181
+
+definição do local e
+breve descrição
+182
+
+O local escolhido para abrigar a exposição foi o “Porão” do Centro Cultural
+São Paulo, oficialmente conhecido como Espaço Cênico Ademar Guerra. O
+espaço fica no subsolo do CCSP e, no momento, encontra-se em reforma.
+Pareceu cabível ao tema instalar a exposição num lugar não totalmente
+evidente ou exposto, assim como o tema da exposição.
+
+183
+
+Como se fosse um lugar a ser descoberto ou “desbravado”, como se o visitante
+estivesse adentrando num tema enterrado e profundo, como um tabu.
+Ademais, trata-se de um equipamento cultural público relevante e acessível
+da cidade de São Paulo – requisitos desejáveis para um projeto desta
+natureza. O Centro Cultural São Paulo é conhecido por ser frequentado por
+grupos sociais diversos e por abrigar eventos que abordam questões sociais
+contemporâneas, como o “Seminário Internacional Onde Estão as Mulheres
+Arquitetas?” (16 a 19 de maio de 2017), sobre a ocupação das mulheres
+arquitetas em posições protagonistas no seu campo de atuação.
+O acesso ao Porão é possível apenas pelos dois elevadores, posicionados cada
+um de um lado da sala. A imersão na experiência começa já na forma como
+se chega ao local.
+No centro do salão encontra-se uma grande estrutura circular, de
+184
+
+aproximadamente 4 metros de diâmetro.
+
+Elevador da “saída” da exposição
+
+Entrada do CCSP próxima ao metrô Vergueiro.
+Fonte: http://www.architravel.com/architravel_
+wp/wp-content/uploads/2016/06/Centro-
+
+185
+
+Cultural-S%C3%A3o-Paulo_1.jpg
+
+Ao fundo, área onde estará a instalação das
+
+Parede de tijolos ao fundo
+
+mídias
+
+abrigará a instalação da religião
+
+Elevador de “entrada” da exposição
+
+186
+
+Acima, parede onde será instalada a
+estação sobre religião.
+Abaixo, área onde estará a estação
+sobre mídia de massas
+
+187
+
+Área onde estarão as instalações da
+violência obstétrica
+
+definição da jornada
+188
+
+A jornada foi pensada para representar, aproximadamente, a cronologia
+dos fatores determinantes do medo da dor que afetam mais diretamente
+ou intensamente as mulheres. A ambientação é majoritariamente feita com
+baixa luminosidade e se aproveita dos aspectos estéticos originais do Porão.
+Cada área temática será tratada aqui com o termo “estação”.
+
+189
+
+estação
+“o desconhecido”
+190
+
+O medo do desconhecido pode afetar qualquer pessoa. Uma gestante de
+primeira viagem pode não conhecer todas as transformações que seu corpo
+vai enfrentar e ficar assustada. É um assunto novo repleto de informações,
+histórias e opiniões para ela, que pode se ver perdida no meio de tudo isso.
+Por conta disso, foi escolhido como ponto inicial da experiência.
+Na exposição, esse sentimento é simbolizado por tiras de papel vegetal
+penduradas no teto que caem até o chão. Colocadas logo na saída do
+elevador, funcionam também como uma transição para o assunto principal
+da exposição. Uma transição suave, que trabalha apenas com luz e tato.
+O visitante deve “mergulhar” nas tiras de papel, atravessando-as e indo
+em direção à luz que provém unicamente da parede de apresentação da
+exposição, posicionada logo à frente do elevador. Dessa forma, aplica-se o
+“rito de passagem” da teoria de Davallon.
+O visitante se sentirá perdido, com a visão limitada. Ao abrir a porta do
+
+191
+
+elevador, ele se deparará com as tiras, que já o envolvem. Incômodo e
+curiosidade também serão sensações vivenciadas nessa instalação. Além da
+baixa luminosidade, o papel vegetal trará o aspecto embaçado à visualização
+do espaço a ser desvendado.
+A parede de apresentação será feita de tecido branco, também translúcido.
+Logo atrás dessa parede de tecido estará a instalação referente à questão
+da intervenção tecnológica usada muitas vezes de forma exacerbada na
+área. Esta instalação, que será melhor detalhada adiante, é um grande e
+intenso emissor de luz. Tal luz atravessará o tecido e iluminará o texto de
+apresentação, guiando o visitante que mergulha nas tiras de papel vegetal.
+Ou seja, o visitante será “atraído pela luz da tecnologia”.
+
+Projeto de referência: COS x Snarkitecture (2015)
+Desenho de estudo
+
+192
+
+193
+
+194
+
+195
+
+estação
+“catolicismo”
+196
+
+Já inserido no assunto da exposição, o visitante se depara com um fator
+arraigado na cultura nacional: a religião católica.
+Nela, os fiéis aprendem cedo que a dor do parto vem como forma de punição,
+de castigo, por Eva ter oferecido ou até instigado Adão a comer o fruto
+proibido. Ou seja, a dor do parto vem para causar sofrimento, não só a Eva,
+mas a todas as mulheres de sua descendência.
+A instalação consiste em vitrais colocados em uma parede inclinada já
+existente no salão. Ela se aproveita da estética rústica da parede, feita
+de tijolos alaranjados e craquelados que sobem até o concreto das vigas
+superiores. Uma luz quente sai por de trás dos vitrais, delineando seus
+desenhos e ressaltando a aspereza da parede. Ao todo são cinco vitrais que
+sobem a 4,30 e 3,45 metros de altura do chão (mais alto e mais baixo) que,
+em conjunto, formam uma imagem do momento em que Eva e Adão são
+expulsos do Paraíso.
+
+197
+
+O ambiente, predominantemente escuro, com luzes focais apenas atrás dos
+vitrais, trará um clima levemente tenso, introduzindo o visitante ao âmbito
+cultural do medo produzido. Os textos explicativos estarão impressos em
+painéis colocados ao pé desses vitrais. O visitante, ao ler, terá que abaixar
+a cabeça, posicionando-se em forma de respeito, submissão e aceitação à
+imagem que lhe está sendo apresentada.
+
+Desenho de estudo
+
+198
+
+199
+
+A imagem utilizada foi a usada na igreja Otwock,
+em Varsóvia, Polônia, mas idealmente uma arte
+própria seria produzida.
+
+estação
+“mídia”
+200
+
+O segundo fator considerado como difusor do medo da dor no parto em
+massas é a mídia.
+Reproduzindo trechos de cenas de parto em seriados, novelas e filmes
+amplamente divulgados entre diversos públicos da sociedade, a instalação
+busca evidenciar como tais cenas são retratadas. Gêneros como drama,
+ação e até comédia já trataram do tema. São inúmeras as cenas de parto
+retratadas nas novelas. Em muitas delas as mulheres têm um parto
+dramático, com complicações e eventual morte da mãe. Uma delas acontece
+na minissérie Um Só Coração, em que a personagem grávida morre ao dar
+à luz. Já na novela Amor e Revolução, a gestante até releva a seu médico o
+desejo de ter um parto normal. Este, por sua vez, não a incentiva e ainda
+alerta para maiores riscos que ela correria. A série Friends, produzida pela
+Warner Bros., também é uma das que foram escolhidas na exposição. A
+cena em que a personagem Rachel da à luz é cômica. Apesar de Ross, seu
+companheiro, poder acompanhá-la durante todo o trabalho de parto, há
+
+201
+
+momentos em que são feitas piadas com a dor que Rachel está passando e
+sua condição. Nessa cena, a dor é comparada à dor física de uma pancada na
+cabeça (que Ross recebe) e ainda “insuperável”. A mensagem que fica é que
+“nada é mais doloroso que a dor do parto”.
+As cenas serão projetadas, a partir de dois projetores, em tiras de papel
+vegetal entrelaçadas nos pilares de uma área triangular e, aparentemente,
+residual do Espaço Cênico. As faixas entrelaçadas formarão painéis como
+suporte para a imagem. Os dois projetores estarão posicionados em lados
+opostos, de forma que as imagens projetadas irão interferir uma na outra,
+causando confusão no visitante. Ou seja, a imagem formada em cada
+painel será “quebrada”, não clara, assim como a mensagem que chega aos
+espectadores. Textos explicativos serão projetados nas vigas.
+Desenhos de estudo
+
+202
+
+203
+
+204
+
+205
+
+estação
+“violência obstétrica”
+206
+
+Saindo da área das mídias, o visitante se depara com um corredor de
+espelhos de entrada larga, mas que afunila no final. Ele está entrando na
+área de um dos principais fatores geradores de medo: a violência obstétrica.
+Esse corredor simboliza a violência obstétrica psicológica, que pode atingir
+as gestantes desde antes de chegarem ao trabalho de parto. Os espelhos não
+têm corte ortogonal e se juntam formando leves ângulos entre si. O efeito
+produzido é de um reflexo quebrado, com partes do corpo se desencontrando
+ou faltando. As quebras foram pensadas para acontecerem na altura
+da vagina/útero/barriga e rosto, simbolizando o corpo “quebrado” ou
+imperfeito, principalmente para o parto natural.
+Além do texto explicativo, mensagens comumente ouvidas por gestantes de
+cunho desencorajador e até desrespeitoso estarão coladas, em vinil adesivo,
+nos espelhos. Mensagens como: “Mas você é muito magra”, “Você é muito
+baixa”, “Seu bebê é muito grande! Não vai passar!”, “Você não vai aguentar
+
+207
+
+de dor”, “Você é índia pra não fazer cesárea por acaso?”, “Seu marido não
+vai mais gostar de fazer amor com você”, e até “Como você é corajosa!”. Um
+áudio com essas mesmas mensagens, ditas quase como um sussurro, será
+tocado ao longo do corredor. Tais mensagens deixam a mulher insegura
+quanto a sua capacidade e condição de parir seu filho, minando sua coragem
+e às vezes até colocando em cheque sua responsabilidade como mãe.
+
+Desenhos de estudo
+
+208
+
+209
+
+210
+
+211
+
+Ao sair do corredor, o visitante está de frente a um cálice aonde cai uma
+queda d’água intensa. Ele chega ao mais comum dos casos de violência
+obstétrica no Brasil: a aplicação do hormônio sintético ocitocina durante o
+trabalho de parto.
+Tal medicamento tem como função acelerar a dilatação. Ele causa contrações
+mais intensas, mais longas e menos espaçadas, o que acaba levando a uma
+segunda medicalização (anestesia local epidural) para aliviar as fortes dores
+causadas. Isso gera um efeito cascata, pois a anestesia faz com que o trabalho
+de parto desacelere, logo, mais hormônio será injetado.
+O cálice atingido pela queda d’água será de um material transparente e fino,
+de aspecto delicado e frágil. O símbolo do cálice para representar o útero
+já vem sendo usado há milhares de anos, e, nesse caso, trará a sensação de
+extrema fragilidade quando comparado à queda d’água e trará uma angústia,
+um medo de que seja quebrado. Essa sensação é a mesma que muitas
+
+212
+
+mulheres relataram ao contarem suas experiências com a ocitocina. É como
+se fosse se rasgar por dentro, tal a intensidade da dor.
+Atrás da queda d’água, uma imagem de cachoeira será projetada. Uma
+cachoeira forte, intensa, feroz e violenta. Ela também representa a força das
+contrações causadas pelo hormônio sintético.
+A dor que muitas mães conhecem é essa, a dor causada por um medicamento,
+um hormônio sintético, e não uma dor fisiológica natural. E é essa dor que
+mais se perpetua no imaginário coletivo.
+O questionamento será levantado pelo texto explicativo, que a instigará
+quanto à real necessidade desse procedimento, que hoje é exercido de forma
+corriqueira.
+Desenhos de estudo
+
+A partir daí, o visitante pode escolher para qual lado seguir, não importando
+a ordem da escolha.
+Saindo pela sua direita, ele encontra, à sua frente, a instalação referente à
+separação da parturiente de seu/sua companheiro/a.
+A Lei Nº 11.108, de abril de 2005, determina que a unidade de saúde permita
+a presença de um acompanhante durante todo o período do trabalho de
+parto, pós-parto e puerpério. Além dessa lei federal, na cidade de São Paulo,
+também é permitido que, além do acompanhante, a parturiente possa estar
+acompanhada de sua doula, profissional especializada em cuidados com a
+mulher em trabalho de parto. No entanto, muitos hospitais e maternidades
+ainda não permitem a presença do acompanhante. A gestante, já em
+trabalho de parto, bastante vulnerável e fragilizada, muitas vezes não se vê
+em condições de lutar por seus direitos e acaba sozinha em uma sala onde
+várias outras mulheres já estão também em trabalho de parto. A equipe
+
+213
+
+de enfermeiros muitas vezes não tem disponibilidade para dar a atenção
+necessária a todas as mulheres, que acabam por ficarem assustadas e/ou
+desconfortáveis no ambiente.
+A instalação simboliza a solidão e desamparo que essa mulher pode
+experienciar. Situação em que pode se gerar medo ou tensão, aumentando
+a sensação de dor. Consiste em uma cabine hexagonal individual. Em cada
+face interna está um espelho, que cobre toda a superfície das paredes. Uma
+única luz focal desce sobre sua cabeça. Ao fechar a porta, o efeito que se tem
+é de isolamento. Os reflexos abrem um espaço infinito ao redor do visitante,
+porém, nesse espaço há apenas ele. Para qualquer lado que olhe, a única
+imagem que verá será a própria, sendo sua única companhia.
+
+Desenhos de estudo
+
+214
+
+215
+
+216
+
+217
+
+218
+
+219
+
+220
+
+221
+
+Logo à frente, uma entrada bem reservada guarda uma sala com cabines
+onde os visitantes, principalmente mães, poderão compartilhar suas
+experiências pessoais. São quatro cabines fechadas e individuais, que
+contém computadores onde elas poderão se filmar, gravar suas vozes ou
+ainda apenas escrever textos relatando suas histórias. Posteriormente,
+essas histórias serão, sob autorização delas, exibidas na exposição. Esses
+relatos trarão credibilidade à exposição e aproximarão ainda mais os
+visitantes do tema central dela.
+As gravações em vídeo serão projetadas numa parede longa, que atravessa
+quase todo o salão, abrangendo todas as outras instalações, já que os
+relatos podem se referir a qualquer uma das violências obstétricas
+abordadas no salão.
+
+222
+
+223
+
+A estrutura circular, própria do Porão, servirá de suporte para outra
+projeção. Uma mulher grávida deitada envolverá a estrutura. Mãos serão
+postas sobre ela, como se a estivesse segurando, impedindo de se mexer.
+Essa instalação faz referência à questão da litotomia.
+Normalmente, quando pensamos numa cena de parto, logo imaginamos uma
+mulher deitada com suas pernas abertas colocadas em apoios. Essa posição
+é chamada de posição litotômica e facilita o exame da evolução da dilatação
+pela equipe médica.
+No entanto, hoje sabe-se que essa posição não favorece a saída do bebê.
+Ao contrário, dificulta, pressionando o cóccix contra o canal vaginal e
+diminuindo a passagem. Além disso, muitas vezes, a mulher sente mais dor
+ficando deitada do que em pé ou agachada. Apesar disso, em muitas unidades
+de saúde, não é permitido que elas fiquem andando, podendo apenas ficar em
+224
+
+posição litotômica. As parturientes, então, sentem-se presas e fragilizadas.
+Passam a acreditar que qualquer coisa que precisem fazer será arriscado
+e perigoso para seu bebê. O parto está dominado pela equipe médica. O
+protagonismo do parto não é mais da mulher.
+
+Próximo à estrutura circular, o visitante encontrará a instalação
+sobre episiotomia. Um tema que vem sendo amplamente discutido e
+profundamente estudado quanto à sua eficácia.
+Usado no Brasil de forma rotineira, não há evidências científicas de que
+acelere a expulsão do bebê. É um procedimento agressivo, incômodo e que
+pode causar complicações futuras às mães. Algumas relatam que sentiramse sexualmente violentadas, como se tivessem sido estupradas, tamanho o
+trauma sofrido.
+Por ser feito de forma rotineira, acredita-se, no imaginário coletivo, que seja
+um procedimento normal e necessário, uma parte natural do parto vaginal.
+Por ser feito de forma rotineira e indiscriminada, o medo de passar por um
+parto vaginal com tal intervenção aumenta. Por causa de um procedimento
+como esse, cresce o medo da dor no parto vaginal.
+225
+
+A instalação é formada apenas por um pano branco com rasgos verticais
+espalhados por ele. O visitante, ao atentar para os rasgos, verá ao fundo uma
+parede vermelha onde encontrará o texto explicativo.
+
+226
+
+227
+
+228
+
+229
+
+A última instalação dessa estação é destinada à questão do uso da tecnologia
+na área e medicalização do processo natural e fisiológico que é o parto.
+Não pretende-se, no entanto, condenar ou mesmo negar todo o avanço
+atingido na medicina graças à evolução tecnológica. O que se pretende aqui
+é questionar até onde ela é necessária ou acaba por suprimir a atuação da
+mulher no próprio parto. Ou ainda, até onde ela está tão enraizada na cultura
+brasileira (se não ocidental) e intrínseca no processo do parto que passa
+como algo normal e necessário. Questiona-se aqui até onde o uso dela ajuda
+ou atrapalha na experiência positiva e completa do parto.
+A instalação toma a forma de um cubo branco translúcido que irradia luz
+branca. Uma luz estéril e asséptica. A luz é produzida por estativas (luzes de
+salas de cirurgia) instaladas dentro do cubo. Um ar frio de ar condicionado
+também emana do cubo. Ao entrar no cubo, o visitante se vê nesse ambiente
+230
+
+frio e ofuscante. Sua sombra é projetada nas paredes do cubo, deixando-o
+exposto aos outros visitantes.
+Os textos explicativos estarão colados também com vinil adesivo nas paredes
+de acrílico branco translúcido. Eles também projetarão uma sombra vista
+por quem está de fora do cubo, causando estranhamento e curiosidade.
+Como dito anteriormente, a luz emitida a partir do cubo incidirá na parede
+de tecido da apresentação.
+
+231
+
+232
+
+233
+
+estação
+“parto como
+experiência positiva”
+234
+
+Ao final, um respiro.
+A única saída do salão da violência obstétrica está no canto, em uma das
+extremidades da longa parede de relatos. Para chegar ao final da exposição é
+necessário atravessar um corredor comprido, estreito e escuro. Suas paredes
+são cobertas com espuma, por onde sai um som abafado, como o som do
+coração palpitante de um bebê num exame de ultrassom. O som começa
+baixo e vai aumentando conforme o visitante se aprofunda no corredor
+escuro. De repente, o som pára e o visitante se vê dentro de uma sala elíptica
+de paredes brancas com um móbile no centro. De dentro do móbile, que gira
+brandamente, sai uma luz, que refrate nas peças do móbile e projeta cores na
+parede. Um breve silêncio aconchegante toma conta do lugar. Essa instalação
+simboliza o parto como uma experiência que pode ser positiva no final.
+Simboliza o sentimento de gratificação, superação e felicidade intensa que
+toma conta da mãe ao final do parto.
+235
+
+Projeto de referência: Tokujin Yoshioka - “Crystal
+Palace (2010)
+Imagem de referência: filme “Up, Altas Aventuras”
+da Disney Pixar.
+
+236
+
+237
+
+238
+
+239
+
+D
+
+C
+
+a
+n ci
+e r iê t i v a
+p
+x
+i
+e os
+p
+
+to
+r el a
+
+s
+
+ac o
+
+o ci
+
+te c
+
+no
+
+ia
+lo g
+
+l it o
+
+tom
+
+B
+
+in a
+
+ia
+
+s
+e pi
+
+240
+
+to c
+
+m
+
+do
+l ei t e
+a
+h n
+p an
+
+c ab
+io t o
+
+ine
+
+s
+
+mi a
+
+desconhecido
+
+p
+
+v.o. gica
+oló
+s ic
+
+A
+
+B
+mídia
+
+A
+
+catolicismo
+
+D
+
+C
+
+planta
+
+0
+
+1
+
+5
+
+corte A - mídia | catolicismo | desconhecido
+
+corte B - tecnologia | litotomia | ocitocina | desacompanhado
+241
+
+corte C - experiência positiva | ocitocina | violência obstétrica | mídia
+
+corte D - catolicismo | violência obstétrica | ocitocina | experiência positiva
+
+0 1
+
+5
+
+instalação litotomia
+instalação tecnologia
+
+242
+
+experiência
+positiva
+relatos
+instalação lei do
+acompanhante
+
+instalação ocitocina
+
+243
+
+instalação mídias
+
+instalação violência
+obstétrica psicológica
+cabines de
+compartilhamento
+
+244
+
+instalação catolicismo
+
+instalação desconhecido
+instalação episiotomia
+245
+
+246
+
+247
+
+248
+
+249
+
+250
+
+251
+
+252
+
+253
+
+254
+
+255
+
+256
+
+257
+
+258
+
+comunicação visual
+
+259
+
+Uma comunicação visual básica foi projetada para a exposição. Ela também
+foi planejada tendo em mente o medo, a apreensão e a falta de clareza sobre
+o assunto. Como objetos de comunicação foram feitas a marca gráfica,
+cartazes e um layout um layout de site, que seria uma fonte de informação
+complementar à exposição. Nele, o visitante teria acesso a documentos
+como as pesquisas utilizadas nesse projeto, indicação de filmes, relatos de
+mães, depoimentos de médicos e pessoas especializadas na área e uma breve
+explicação e apresentação da exposição.
+A marca gráfica consiste em uma brincadeira com as palavras “normal” e
+“anormal”, em que o “a” fica rebaixado. O questionamento e a dubiedade
+já surgem aí, onde a palavra “anormal” transforma-se em “normal” e viceversa, remetendo às questões levantadas na exposição: o medo fomentado, a
+dor intensificada, procedimentos de rotina, será que tudo isso é normal? Será
+que o anormal virou normal, e o normal virou anormal?
+260
+
+Os cartazes trarão a marca gráfica estampada sobre uma imagem fosca,
+embaçada, de uma mulher grávida aflita com sua gravidez. Como dito
+anteriormente, essa característica fosca do papel vegetal traz um aspecto
+místico, obscuro, etéreo e feminino à mensagem.
+
+261
+
+262
+
+263
+
+264
+
+265
+
+A tipografia escolhida para a marca, inicialmente, foi a Bodoni Bold,
+característica pelo seu alto contraste, interessante para um jogo de luz e
+sombra, remetendo à questão da falta de clareza e obscuridade sobre o
+assunto. Posteriormente, a Bodoni foi substituída pela Playfair Display Black,
+por possuir uma altura x maior, facilitando a leitura.
+Como tipografia auxiliar, a fonte escolhida foi a Kelson Sans, geométrica e
+racional. Na marca, ela aparece na versão light, sugerindo delicadeza.
+As cores foram baseadas nas fotografias tiradas da gestante, depois de
+tratadas. A cor principal (C35 M45 Y35 K5) foi baseada na cor do mamilo da
+modelo, e as secundárias foram tonalidades variantes dessa cor.
+
+266
+
+C7 M9 Y7 K1
+
+C14 M18 Y14 K2
+
+C21 M27 Y21 K3
+
+C28 M36 Y28 K4
+
+Kelson Sans Light
+
+C35 M45 Y35 K5
+
+C18 M23 Y18 K52
+
+C9 M11 Y9 K76
+
+18pt fonte secundária
+
+Playfair Display Black
+
+C26 M34 Y26 K29
+
+30pt fonte principal
+
+Exemplos de aplicação do cartaz
+em ponto de ônibus e metrô
+
+267
+
+1
+
+Abaixo, a home ou landing page do website, com
+background estático e scroll vertical.
+
+1
+
+a exposição
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor
+aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis pellentesque. Nulla at
+venenatis lectus. Fusce sit amet lacinia augue, non pharetra leo. Donec vel volutpat risus.
+
+o desconhecido
+
+07/fev
+27/nov
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+
+o medo da dor no parto
+
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam. Duis id laoreet nulla.
+Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id feugiat tortor. Sed et quam gravida,
+pretium velit ac, ornare sem. Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+
+2
+
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum elit ligula vel purus. Cras nec sapien
+sit amet ligula luctus feugiat ut a ex. Praesent at pharetra orci. Proin tincidunt mi urna, at molestie elit vehicula
+
+o catolicismo
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+
+sed. Mauris ultrices ligula ante, eu eleifend mauris mattis sollicitudin.
+
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+
+a mídia
+
+o medo da dor no parto
+
+268
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam. Duis id laoreet nulla.
+
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+
+Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id feugiat tortor. Sed et quam gravida,
+pretium velit ac, ornare sem. Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum elit ligula vel purus. Cras nec sapien
+
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+
+3
+
+sit amet ligula luctus feugiat ut a ex. Praesent at pharetra orci. Proin tincidunt mi urna, at molestie elit vehicula
+
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+
+sed. Mauris ultrices ligula ante, eu eleifend mauris mattis sollicitudin.
+
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+
+a violência obstétrica
+dor x sofrimento
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam. Duis id laoreet nulla.
+
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+
+Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id feugiat tortor. Sed et quam gravida,
+
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+Praesent at pharetra orci. Proin tincidunt mi urna, at molestie elit vehicula
+sed. Mauris ultrices ligula ante, eu eleifend mauris mattis sollicitudin.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+
+dor x sofrimento
+
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam. Duis id laoreet nulla.
+
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+
+Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id feugiat tortor. Sed et quam gravida,
+pretium velit ac, ornare sem. Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+
+4
+
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+Praesent at pharetra orci. Proin tincidunt mi urna, at molestie elit vehicula
+sed. Mauris ultrices ligula ante, eu eleifend mauris mattis sollicitudin.
+
+o nascimento
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+
+5
+
+2
+o medo
+
+4
+
+5
+relatos
+
+documentos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam.
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis
+lectus. Fusce sit amet lacinia augue, non pharetra leo. Donec vel volutpat risus. Ut lobortis
+
+lei do acompanhante
+
+semper feugiat. Proin id feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem.
+Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus placerat, orci
+
+lectus. Fusce sit amet lacinia augue, non pharetra leo. Donec vel volutpat risus. Ut lobortis
+semper feugiat. Proin id feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem.
+Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus placerat, orci
+in dapibus faucibus, risus tortor bibendum nisi, quis fermentum elit ligula vel purus. Cras
+
+in dapibus faucibus, risus tortor bibendum nisi, quis fermentum elit ligula vel purus. Cras
+nec sapien sit amet ligula luctus feugiat ut a ex. Praesent at pharetra orci. Proin tincidunt
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+
+mi urna, at molestie elit vehicula sed. Mauris ultrices ligula ante, eu eleifend mauris mattis
+
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+
+sollicitudin.
+
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam.
+
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis
+
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+
+lectus. Fusce sit amet lacinia augue, non pharetra leo. Donec vel volutpat risus. Ut lobortis
+
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+
+semper feugiat. Proin id feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem.
+
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+
+§
+
+Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus placerat, orci
+
+Art. 19J. - Os serviços de saúde do Sistema Único
+
+in dapibus faucibus, risus tortor bibendum nisi, quis fermentum elit ligula vel purus. Cras
+nec sapien sit amet ligula luctus feugiat ut a ex. Praesent at pharetra orci. Proin tincidunt
+
+de Saúde SUS, da rede própria ou conveniada,
+
+mi urna, at molestie elit vehicula sed. Mauris ultrices ligula ante, eu eleifend mauris mattis
+
+ficam obrigados a permitir a presença, junto à
+
+sollicitudin.
+
+parturiente, de 1 (um) acompanhante durante todo
+o período de trabalho de parto, parto e pósparto
+imediato.
+
+3
+
+Portaria No 1.153
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+
+sobre parto
+
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies tempor aliquam.
+
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci mattis pellentesque. Nulla at venenatis
+
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+
+lectus. Fusce sit amet lacinia augue, non pharetra leo. Donec vel volutpat risus. Ut lobortis
+semper feugiat. Proin id feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem.
+Aenean ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus placerat, orci
+in dapibus faucibus, risus tortor bibendum nisi, quis fermentum elit ligula vel purus. Cras
+
+§
+
+c) incentivar a mulher a andar e a se movimentar
+durante o trabalho de parto, se desejar, e a adotar
+posições de sua escolha durante o parto, a não ser
+que existam restrições médicas e isso seja
+
+parto
+normal
+
+explicado à mulher, adaptando as condições para
+
+cesariana
+
+Lorem ipsum dolor sit amet, consectetur
+
+Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Aliquam ultricies tempor aliquam.
+
+adipiscing elit. Aliquam ultricies tempor aliquam.
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci
+
+mattis pellentesque. Nulla at venenatis lectus.
+
+mattis pellentesque. Nulla at venenatis lectus.
+
+Fusce sit amet lacinia augue, non pharetra leo.
+
+Fusce sit amet lacinia augue, non pharetra leo.
+
+Donec vel volutpat risus. Ut lobortis semper
+
+Donec vel volutpat risus. Ut lobortis semper
+
+tal;
+
+Nascer no Brasil
+
+269
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies
+tempor aliquam. Duis id laoreet nulla. Etiam nec enim fringilla orci mattis
+pellentesque. Nulla at venenatis lectus. Fusce sit amet lacinia augue, non
+pharetra leo. Donec vel volutpat risus. Ut lobortis semper feugiat. Proin id
+feugiat tortor. Sed et quam gravida, pretium velit ac, ornare sem. Aenean
+ligula ante, tincidunt id metus eu, consectetur ultrices nisl. Phasellus
+placerat, orci in dapibus faucibus, risus tortor bibendum nisi, quis fermentum
+
+“
+
+elit ligula vel purus. Cras nec sapien sit amet ligula luctus feugiat ut a ex.
+- Lorem ipsum dolor sit amet, consectetur
+
+- Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Aliquam ultricies tempor aliquam.
+
+adipiscing elit. Aliquam ultricies tempor aliquam.
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci
+
+mattis pellentesque. Nulla at venenatis lectus.
+
+mattis pellentesque. Nulla at venenatis lectus.
+
+Fusce sit amet lacinia augue, non pharetra leo.
+
+Fusce sit amet lacinia augue, non pharetra leo.
+
+- Donec vel volutpat risus. Ut lobortis semper
+
+- Donec vel volutpat risus. Ut lobortis semper
+
+feugiat. Proin id feugiat tortor. Sed et quam
+
+feugiat. Proin id feugiat tortor. Sed et quam
+
+gravida, pretium velit ac, ornare sem.
+
+gravida, pretium velit ac, ornare sem.
+
+- Aenean ligula ante, tincidunt id metus eu,
+
+- Aenean ligula ante, tincidunt id metus eu,
+
+consectetur ultrices nisl. Phasellus placerat, orci
+
+consectetur ultrices nisl. Phasellus placerat, orci
+
+in dapibus faucibus, risus tortor bibendum nisi,
+
+in dapibus faucibus, risus tortor bibendum nisi,
+
+quis fermentum elit ligula vel purus.
+
+quis fermentum elit ligula vel purus.
+
+A maioria das mulheres brasileiras, quase 70%
+delas, desejava um parto vaginal no início da
+gravidez.
+
+- Cras nec sapien sit amet ligula luctus feugiat ut a
+ex. Praesent at pharetra orci.
+
+- Proin tincidunt mi urna, at molestie elit vehicula
+
+- Lorem ipsum dolor sit amet, consectetur
+
+- Lorem ipsum dolor sit amet, consectetur
+
+adipiscing elit. Aliquam ultricies tempor aliquam.
+
+adipiscing elit. Aliquam ultricies tempor aliquam.
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci
+
+Duis id laoreet nulla. Etiam nec enim fringilla orci
+
+mattis pellentesque. Nulla at venenatis lectus.
+
+mattis pellentesque. Nulla at venenatis lectus.
+
+Fusce sit amet lacinia augue, non pharetra leo.
+
+Fusce sit amet lacinia augue, non pharetra leo.
+
+- Donec vel volutpat risus. Ut lobortis semper
+
+- Donec vel volutpat risus. Ut lobortis semper
+
+feugiat. Proin id feugiat tortor. Sed et quam
+
+feugiat. Proin id feugiat tortor. Sed et quam
+
+gravida, pretium velit ac, ornare sem.
+
+gravida, pretium velit ac, ornare sem.
+
+- Aenean ligula ante, tincidunt id metus eu,
+
+- Aenean ligula ante, tincidunt id metus eu,
+
+consectetur ultrices nisl. Phasellus placerat, orci
+
+consectetur ultrices nisl. Phasellus placerat, orci
+
+in dapibus faucibus, risus tortor bibendum nisi,
+
+in dapibus faucibus, risus tortor bibendum nisi,
+
+quis fermentum elit ligula vel purus.
+
+quis fermentum elit ligula vel purus.
+
+- Cras nec sapien sit amet ligula luctus feugiat ut a
+ex. Praesent at pharetra orci.
+
+- Proin tincidunt mi urna, at molestie elit vehicula
+sed. Mauris ultrices ligula ante, eu eleifend mauris
+
+Ao lado, a parte interna do website. Seria uma
+site em single page, apenas com scroll vertical.
+A primeira imagem dá uma visão completa da
+single page, em seguida, detalhes das sessões.
+Ao selecionar cada título no header, a página
+desce no ponto de âncora referente. Os títulos
+das sessões ficam fixas num header superior.
+
+270
+
+271
+
+bibliografia
+AMPARO MATERNAL. Maternidade. Disponível em: <http://www.amparomaternal.org/>. Acesso em: 03 mai. 2016.
+AZARA, Pedro; GURI, Carles. Arquitectos a Escena. Editorial Gustavo Gili, SA, 2000.
+ANS. Estímulo ao parto normal. Disponível em: <http://www.ans.gov.br/>. Acesso em: 11 mar. 2016.
+ANS. Projeto de intervenção para melhorar a assistência obstétrica no setor suplementar de saúde e
+para o incentivo ao parto normal. Disponível em: <www.ans.gov.br>. Acesso em: 23 mar. 2016.
+BENATTI, Luciana. Parto com amor: em casa, com parteira, na água, no hospital: histórias de nove
+mulheres que vivenciaram o parto humanizado. São Paulo: Panda Books, 2011. 228 p.
+BENTIVOGLIO, Leonetta; LETTOW, Fabian; PABST, Peter; SOURD, Patrick; Wenders, Win. Peter für Pina. Verlag
+Kettler, 2010
+CARVALHO, Luciana. Eu não quero [outra] cesárea: ideologia, relações de poder e empoderamento
+272
+
+feminino nos relatos de parto após cesárea. São Paulo: Lexema, 2015. 271 p.
+CASA ANGELA. Instalações. Disponível em: <http://www.casaangela.org.br/?page_id=570>. Acesso em: 03 mai.
+2016.
+CAVALCANTI, Adriana. Nota Técnica Nº 703/2014 - Direito de Informação da Gestante e Obrigatoriedade
+do Cartão Gestante, Carta de Informação e Programa na Saúde Suplementar. Gerência Geral de
+Regulação Assistencial, [S.L], dez. 2014. Disponível em: <www.ans.gov.br>. Acesso em: 21 mar. 2016.
+COMISSÃO DO PARTO NORMAL. Pesquisa sobre a assistência obstétrica na saúde suplementar. Disponível
+em: <http://portal.cfm.org.br/>. Acesso em: 23 mar. 2016.
+COREN. Parto natural. Disponível em: <http://www.coren-sp.gov.br/>. Acesso em: 21 mar. 2016.
+DINIZ, Carmen Simone Grilo. Humanização da assistência ao parto no brasil: os muitos sentidos de um
+movimento. São Paulo: Instituto de Saúde, 2010. P. 53-71 p.
+D’AGOSTINI, Douglas. Design de Sinalização. São Paulo: Editora Blucher, 2017
+ENKIN, Murray. Guia para atenção efetiva na gravidez e no parto. 3 ed. Rio de Janeiro: Guanabara Koogan,
+2005. 279 p.
+FIGUEIREDO, Renata. Expografia Contemporânea no Brasil - A Sedução das Exposições Cenográficas.
+São Paulo, 2011.
+
+GOVERNO DO ESTADO DO PARANÁ, SECRETARIA DE SAÚDE. Conceitos e definições. Disponível em:
+<http://www.saude.pr.gov.br/modules/conteudo/conteudo.php?conteudo=668>. Acesso em: 20 mar. 2016.
+HELMAN, Cecil. Cultura, Saúde e Doença. Porto Alegre: Artmed, 2009.
+HOSPITAL E MATERNIDADE SÃO LUIZ. Maternidade. Disponível em: <http://www.saoluiz.com.br/
+maternidade/introducao.aspx>. Acesso em: 03 mai. 2016.
+LEAL, M. C.. Sumário Executivo Temático da Pesquisa. A mãe sabe parir, e o bebê sabe quando e como
+nascer, [S.L], dez. 2011.
+LEBOYER, Frédérick. Se me contassem o parto. São Paulo: Ground, 1998. 282 p.
+KLEIN, Larry. Exhibits: Planning and Design. New York: Madison Square Press, Inc., 1986.
+MALDONADO, Maria Tereza. Psicologia da gravidez: parto e puerpério. 16 ed. São Paulo: Saraiva, 2002. 229 p.
+MINISTÉRIO DA SAÚDE. Portarias. Disponível em: <http://bvsms.saude.gov.br/bvs/saudelegis/gm/2014/
+prt1153_22_05_2014.html>. Acesso em: 24 mai. 2016.
+PEREIRA, Raquel Da Rocha; FRANCO, Selma Cristina; , Nelma Baldin. A Dor e o Protagonismo da Mulher na
+Parturição. Revista Brasileira de Anestesiologia, [S.L], v. 61, n. 3, mai./jun. 2011.
+PLANALTO DO GOVERNO. Subchefia para assuntos jurídicos. Disponível em: <http://www.planalto.gov.br/
+ccivil_03/_ato2004-2006/2005/lei/l11108.htm>. Acesso em: 23 mai. 2016.
+SOGESP, . Carta da SOGESP à ANS. SOGESP, [S.L], mar. 2015.
+SZEJER, Myriam. Nove meses na vida da mulher: uma abordagem psicanalítica da gravidez e do
+nascimento.. 2 ed. São Paulo: Casa do Psicólogo, 2002. 322 p.
+VELARDE, Giles. Designing Exhibitions. The Design Council, 1988.
+VELLAY, Pierre. Parto sem dor: princípios, práticas e testemunho.. 5 ed. São Paulo: IBRASA, 1984. 272 p.
+WHO. Boas práticas de atenção ao parto e ao nascimento. Disponível em: <http://www.who.int/en/>. Acesso
+em: 11 abr. 2016.
+WORLD HEALD ORGANIZATION. Declaração da oms sobre taxas de cesáreas. Disponível em: <http://www.
+who.int/en/>. Acesso em: 20 mar. 2016.
+
+273
+
+projetos de referência
+Tokujin Yoshioka _ SPECTRUM (2017)
+Tokujin Yoshioka _ Rainbow Church (2006-14)
+Tokujin Yoshioka _ Stellar - Swarovski Crystal Palace (2010)
+Snarkitecture _ COS Installation at Millan’s Design Week (2015)
+Disney Pixar _ UP (2009)
+Caselúdico _ Experiência Alice (2016)
+Atelier Marko Brajovic _ Stanley Kubrick (2013)
+The New York Times Magazine _ edição de 27 de janeiro de 2013.
+Cosac Naify _ O Suplício do Papai Noel (Claude Levi-Strauss, 2008)
+Verlag Kettler _ Peter für Pina (2010)
+274
+
+275
+
+276
+
+277
+
+278
+
+

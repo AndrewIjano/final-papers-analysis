@@ -1,0 +1,1655 @@
+Universidade de São Paulo
+Faculdade de Saúde Pública
+
+Identificação e Avaliação de Comportamento de
+Risco para Transtornos Alimentares em Pacientes
+que Receberam Tratamento Individual para
+Transtorno de Estresse Pós-Traumático
+
+Heloísa Toledo Garcia
+
+Trabalho de Conclusão apresentado ao LXX
+Curso de Graduação em Nutrição da
+Faculdade de Saúde Pública da Universidade
+de São Paulo.
+Orientador: Prof. Dr. Francisco Lotufo Neto
+
+São Paulo
+2016
+
+Identificação e Avaliação de Comportamento de
+Risco para Transtornos Alimentares em Pacientes
+que Receberam Tratamento Individual para
+Transtorno de Estresse Pós-Traumático
+
+Heloísa Toledo Garcia
+
+Trabalho de Conclusão apresentado ao LXX
+Curso de Graduação em Nutrição da
+Faculdade de Saúde Pública da Universidade
+de São Paulo.
+Orientador: Prof. Dr. Francisco Lotufo Neto
+
+São Paulo
+2016
+
+2
+
+Dedicatória
+A Deus, por ter me dado condições de
+chegar até aqui. Aos meus pais – Luiz
+Carlos e Célia – com amor incondicional,
+por todo o apoio e suporte ao longo da
+minha
+
+trajetória
+
+e
+
+por
+
+sempre
+
+acreditarem em mim. Ao meu irmão –
+Luiz
+
+Fernando
+
+–
+
+por
+
+todo
+
+companheirismo, amizade e por ter me
+apoiado durante esses anos.
+
+3
+
+Agradecimentos
+À equipe do AMBAN-IPq-HCFMUSP por
+terem me acolhido com tanto carinho e
+atenção. Ao professor Francisco Lotufo,
+por ter aceitado me acompanhar nessa
+jornada. Em especial, a Lina Matsumoto
+pela amizade, por me proporcionar a
+oportunidade de realizar esse trabalho,
+pela dedicação ao me acompanhar
+nessa trajetória e por todo o suporte ao
+longo desse ano.
+
+4
+
+Resumo: Os Transtornos Alimentares (TA) são distúrbios psiquiátricos graves
+caracterizados por uma perturbação persistente no comportamento alimentar que
+resulta no consumo alterado de alimentos, comprometendo significativamente a
+saúde física e psicossocial do indivíduo. Muitas vezes a dificuldade em se tratar
+pacientes com TA possa estar relacionado às comorbidades psiquiátricas e estudos
+alertam a necessidade de se investigar eventos traumáticos na infância e
+adolescência, e também dos sintomas de Transtorno de Estresse Pós-Traumático
+(TEPT). O estado de estresse pós-traumático constitui uma resposta à uma situação
+ou evento estressante, de natureza catastrófica, capaz de provocar perturbação na
+maioria das pessoas e que posteriormente provocaria a revivescência do evento
+traumático através de lembranças invasivas, sonhos ou pesadelos, anedonia e
+evitação de situações que possam despertar a lembrança do traumatismo. Diversos
+estudos realizados com a população de indivíduos com TEPT tem demonstrado que
+esse grupo é bastante susceptível ao desenvolvimento de transtornos alimentares em especial o Transtorno de Compulsão Alimentar. Baseado nisso, esse trabalho
+terá como objetivo principal identificar, através da aplicação do questionário Eating
+Disorder Examination versão questionário - EDE-Q, a presença de comportamentos
+de risco para transtornos alimentares em pacientes diagnosticados e que receberam
+tratamento individual para Transtorno de Estresse Pós-Traumático.
+
+Descritores: Comportamento de risco, Transtornos Alimentares, Transtorno do
+Estresse Pós-Traumático, trauma, EDE-Q.
+
+5
+
+SUMÁRIO
+
+1. APRESENTAÇÃO
+
+8
+
+2. INTRODUÇÃO
+
+9
+
+3. OBJETIVO GERAL
+
+12
+
+3.1.
+
+OBJETIVOS ESPECÍFICOS
+
+4. MATERIAL E MÉTODO
+
+12
+12
+
+4.1.
+
+AMOSTRA
+
+13
+
+4.2.
+
+PROCEDIMENTOS
+
+14
+
+4.3.
+
+MEDIDAS
+
+15
+
+4.3.1. Instrumentos para Avaliação dos Transtornos
+
+15
+
+Alimentares
+4.3.1.1. EDE- Q (Eating Disorder Examination
+
+16
+
+Questionnaire) – Exame de Desordem Alimentar –
+versão Questionário
+4.3.2. Instrumento para Avaliação dos Sintomas de Trauma
+4.3.2.1. DTS (Davidson Trauma Scale) – Escala Davidson
+
+17
+17
+
+de Trauma
+4.3.3. Instrumento para Avaliação dos Sintomas de Ansiedade
+
+18
+
+4.3.3.1. BAI (Beck Anxiety Inventory) - Inventário Beck
+
+18
+
+para Ansiedad
+4.4.
+
+MÉTODO DE ANÁLISE DE DADOS
+
+18
+
+4.5.
+
+QUESTÕES ÉTICAS
+
+19
+
+5. RESULTADOS
+
+19
+
+6. DISCUSSÃO
+
+24
+
+7. CONCLUSÃO
+
+26
+
+8. REFERÊNCIAS BIBLIOGRÁFICAS
+
+29
+
+6
+
+ANEXOS
+ANEXO A - Formulário de Solicitação do Espaço/ LABTEL
+
+33
+
+ANEXO B – Script primeira ligação telefônica
+
+34
+
+ANEXO C – Eating Disorder Examination Questionnaire (EDE-Q)
+
+35
+
+ANEXO D – Pontuação do EDE-Q
+
+37
+
+7
+
+1. APRESENTAÇÃO
+
+A Resolução Nº5 do Conselho Nacional de Educação (CNE/CES) publicada
+em 7 de Novembro de 2001 é o documento que “Institui Diretrizes Curriculares
+Nacionais do Curso de Graduação em Nutrição” e define os princípios, fundamentos,
+condições e procedimentos da formação de nutricionistas, estabelecidas pela
+Câmara de Educação Superior do Conselho Nacional de Educação.
+
+Ainda, a
+
+mesma resolução define que o Curso de Graduação em Nutrição tem como perfil do
+formando egresso/profissional o Nutricionista (BRASIL, 2001)
+Esta resolução também estabelece que a formação do nutricionista deve
+garantir o desenvolvimento de estágios curriculares de carga horária igualmente
+distribuída em pelo menos três áreas de atuação: nutrição clínica, nutrição social e
+nutrição em unidades de alimentação e nutrição (BRASIL, 2001).
+Como parte de minha formação profissional realizei estágio em área de
+nutrição clínica no Instituto de Psiquiatria do Hospital das Clínicas da Faculdade de
+Medicina da USP (IPq - HCFMUSP). O estágio foi desenvolvido num período de
+aproximadamente dois meses e neste tempo tive a oportunidade de realizar minhas
+atividades na Enfermaria de Comportamentos Alimentares (ECAL) , local onde pude
+ter contato mais próximo com os Transtornos Alimentares - tema que sempre foi de
+grande interesse pessoal. Ao longo do meu período de experiência na ECAL, foi
+possível observar que grande parte dos pacientes internados apresentavam
+concomitantemente ao transtorno alimentar, demais transtornos psiquiátricos, sendo
+que, muitas vezes, o transtorno alimentar se apresentava como secundário à um
+outro transtorno psiquiátrico - como depressão, transtorno bipolar, transtorno de
+personalidade borderline, entre outros.
+Com base nessa experiência, despertei o interesse em buscar mais a fundo
+conhecimentos sobre essa associação entre outros transtornos psiquiátricos e
+transtornos alimentares. Buscando profissionais dentro do próprio Instituto de
+Psiquiatria e também através de contatos pessoais, me surgiu a oportunidade de
+trabalhar com a população de indivíduos diagnosticados com Transtorno de Estresse
+Pós-Traumático, que fazem acompanhamento no AMBAN-IPq-HCFMUSP.
+
+8
+
+2. INTRODUÇÃO
+
+Os Transtornos Alimentares (TA) são distúrbios psiquiátricos graves, de
+etiologia
+
+multifatorial,
+
+caracterizados
+
+por
+
+uma
+
+perturbação
+
+persistente
+
+no
+
+comportamento alimentar que resulta no consumo alterado de alimentos,
+comprometendo significativamente a saúde física e psicossocial do indivíduo;
+ocorrendo mais comumente em adolescentes e mulheres jovens e pode ser
+condição crônica ou estar associada às demais comorbidades psiquiátricas (YAGER
+e POWER, 2007; APA, 2014).
+O Manual Diagnóstico e Estatístico dos Transtornos Mentais, 5ª edição, DSM5 – descreve, em seu capítulo sobre Transtornos Alimentares, critérios diagnósticos
+para: pica, transtorno de ruminação, transtorno alimentar restritivo e/ou evitativo,
+anorexia nervosa, bulimia nervosa, transtorno alimentar não especificado e
+transtorno de compulsão alimentar (TCA) – que já havia sido apresentado como
+transtorno de compulsão alimentar periódica (TCAP) no Apêndice B da 4ª edição do
+Manual Diagnóstico e Estatístico dos Transtornos Mentais – Texto Revisado (DSMIV-TR), como uma proposta diagnóstica para estudos adicionais e que foi validado
+como diagnóstico, no DSM-5, devido a sua utilidade clínica (ARAÚJO e NETO,
+2014).
+Dentre os transtornos alimentares, a Anorexia Nervosa (AN) e a Bulimia
+Nervosa (BN) são os tipos mais pesquisados. A AN é caracterizada por uma
+restrição da ingestão calórica em relação às necessidades individuais, levando à um
+peso
+
+corporal
+
+significativamente
+
+baixo
+
+para
+
+idade,
+
+gênero
+
+e
+
+etapa
+
+do
+
+desenvolvimento, além disso, esses indivíduos apresentam medo intenso de ganhar
+peso ou engordar e perturbação no modo de ver o próprio corpo, com relação ao
+peso e a forma corporal. Já a BN é caracterizada por episódios recorrentes de
+compulsão alimentar seguido de comportamentos compensatórios inapropriados como vômito auto induzido, uso indevido de laxantes, diuréticos, excesso de
+exercício físico - práticas executadas com o intuito de evitar o ganho de peso (APA,
+2014).
+O Transtorno de Compulsão Alimentar (TCA) tem como característica
+essencial episódios recorrentes de compulsão alimentar que devem ocorrer pelo
+menos uma vez por semana durante três meses, sem associação à episódios
+9
+
+compensatórios, como ocorre na BN (APA, 2014). O comportamento alimentar
+nesse transtorno é caracterizado pela ingestão de grande quantidade de alimentos
+num período de tempo delimitado (até duas horas) acompanhado da sensação de
+perda de controle sobre o que e o quanto se come. O transtorno de compulsão
+alimentar apresenta diferenças com relação à bulimia nervosa no fato de que; em
+indivíduos com BN a compulsão alimentar é concluída pelo comportamento
+purgativo, enquanto no TCA não há uma terminação lógica; além disso, a história
+natural da BN geralmente revela a ocorrência de dietas e perda de peso –
+mostrando maiores níveis de restrição alimentar quando comparados com
+portadores de TCA (AZEVEDO et al., 2004).
+Os transtornos alimentares podem estar associados às demais comorbidades
+psiquiátricas, tais como: transtornos depressivos, transtornos de ansiedade,
+transtorno obsessivo compulsivo, transtorno bipolar, transtorno de personalidade
+borderline, entre outros (APA,2014). Muitas vezes a dificuldade em se tratar
+pacientes com TA possa estar relacionado às comorbidades psiquiátricas
+associadas e estudos alertam a necessidade de se investigar eventos traumáticos
+na infância e adolescência e também os sintomas de Transtorno de Estresse Pós
+Traumático (TEPT) (BRIERE e SCOTT, 2007).
+O TEPT foi incluído, a partir de 2013, num novo capítulo dos transtornos
+relacionados à trauma e estressores, no DSM-5 (APA,2014) que incluem situações
+nas quais a exposição ao evento traumático ou estressante está apresentada de
+forma clara como critério diagnóstico. O TEPT apresenta como características: o
+evento traumático – definido como uma situação experimentada, testemunhada ou
+confrontada pelo indivíduo, na qual houve ameaça à vida ou à sua integridade física
+ou de pessoas a ele afetivamente ligadas - e a resposta a este evento traumático,
+que se desenvolvem em três dimensões de sintomas: o reexperimentar do evento
+traumático, a evitação de estímulos a ele associados e a presença persistente de
+sintomas de hiperexcitabilidade (FIGUEIRA e MENDLOWICZ, 2003; FILHO e
+SOUGEY, 2011).
+Os eventos traumáticos podem ser vivenciados diretamente (ataque sexual,
+assalto à mão armada, sequestro, ser tomado como refém, combate militar, graves
+acidentes, receber diagnósticos que trazem risco à vida) ou apenas testemunhados
+(acidentes ou ferimentos graves, morte súbita ou inesperada de familiares ou amigos
+
+10
+
+próximos) e os estímulos associados ao trauma são persistentemente evitados
+(APA,2014).
+A totalidade dos estudos encontrados no levantamento bibliográfico,
+associando TEPT e transtornos alimentares, foram realizados por pesquisadores
+americanos, com a população americana, sendo que na sua maioria foram
+realizados com veteranos de guerra e, uma menor parte, com indivíduos que
+sofreram abuso sexual. Esses trabalhos (BRIERE e SCOTT, 2007; HOLZER et al.,
+2008; FORMAN-HOFFMAN et al., 2012; TALBOT et al., 2013; HOERSTER et al.,
+2015; KLINGAMAN et al., 2016;) têm demonstrado que esse grupo que apresentam
+sintomatologia do TEPT é bastante susceptível ao desenvolvimento de transtornos
+de compulsão alimentar.
+Na literatura brasileira não foram encontrados estudos que façam a
+associação entre TEPT e TA, ou que relacionem o TEPT ao comportamento
+alimentar de risco para transtornos alimentares. No
+
+Brasil esta relação é ainda
+
+pouco estudada, apesar do aumento da obesidade e também da violência, no
+cotidiano brasileiro acontecendo num cenário de “guerra urbana”. Os estudos sobre
+TEPT apontam que a população de grandes centros urbanos brasileiro é altamente
+exposta à eventos traumáticos sendo que a violência urbana é o mais comum e,
+para a população de mulheres, é a violência sexual e violência doméstica (RIBEIRO
+et al., 2013; LUZ et al., 2016).
+Os estudos brasileiros relatam alguma associação entre TEPT e demais
+transtornos psiquiátricos: num estudo realizado com jovens e adultos expostos à
+violência observou-se uma maior prevalência de transtornos relacionados ao álcool
+entre os jovens, uma maior prevalência de transtorno depressivo entre os adultos e a
+presença de transtornos fóbicos ou transtornos de ansiedade para ambos os grupos
+(JAEN-VARAS et al., 2016); num outro trabalho verificou-se a associação entre
+violência e dependência alcoólica em indivíduos da cidade de São Paulo e Rio de
+Janeiro e concluiu-se que, em ambas as cidades, a dependência de álcool foi
+associada ao fato de o indivíduo ter sofrido violência urbana relacionada com a
+criminalidade e violência familiar e ainda, a recorrência de eventos traumáticos
+ocorreu em mais da metade dos indivíduos dependentes de álcool (MOREIRA et al.,
+2015); num outro estudo com indivíduos expostos à eventos traumáticos, também
+observou-se que eles foram susceptíveis ao desenvolvimento de transtornos
+psiquiátricos como transtorno de ansiedade, transtorno depressivo, dependência de
+11
+
+álcool e transtorno de estresse pós traumático (RIBEIRO et al., 2013) e casos de
+TEPT são frequentemente acompanhados por diagnósticos de depressão, síndrome
+do pânico, abuso de drogas e demais distúrbios psicóticos (MARI et al., 2008).
+
+3. OBJETIVO GERAL
+
+Identificar a presença de comportamentos de risco para Transtornos
+Alimentares em pacientes que receberam tratamento individual para Transtorno de
+Estresse Pós-Traumático.
+
+3.1.
+
+OBJETIVOS ESPECÍFICOS
+
+1) Avaliar a relação entre comportamento de risco para transtornos
+alimentares e o trauma;
+2) Avaliar a relação entre comportamento de risco para transtornos
+alimentares e ansiedade.
+
+4. MATERIAL E MÉTODO
+
+O presente trabalho é um estudo observacional descritivo, no qual foi avaliado
+o comportamento alimentar de risco para transtornos alimentares em indivíduos com
+diagnóstico de TEPT e que receberam tratamento individual pelo Programa de
+Ansiedade e pelo Serviço de Psicoterapia do Instituto de Psiquiatria do Hospital das
+Clínicas da Faculdade de Medicina da Universidade de São Paulo – AMBAN-IPqHCFMUSP.
+
+12
+
+4.1.
+
+AMOSTRA
+
+Foram convidados à participar deste estudo pacientes que passaram
+primeiramente pelo AMBAN-IPq-HCFMUSP - Programa de Ansiedade e pelo Serviço
+de Psicoterapia do Instituto de Psiquiatria do Hospital das Clínicas da FMUSP com o
+diagnóstico de TEPT e que haviam participado de estudo clínico randomizado para
+tratamento de TEPT. Tais pacientes receberam tratamento psicoterápico individual,
+por treze semanas, e preencheram escalas de avaliação em três momentos:
+Avaliação 1 (antes da psicoterapia), Avaliação 2 (após o término da psicoterapia) e
+Avaliação 3 (no seguimento, 3 meses após o término da psicoterapia).
+Após admissão no Instituto de Psiquiatria, esses indivíduos foram atendidos
+por psiquiatras em entrevista clínica, para assegurar a presença do diagnóstico do
+TEPT. Ainda, para participarem do estudo primário para tratamento do TEPT, os
+pacientes deveriam preencher os critérios de inclusão e exclusão, que se referem: 1)
+Como critérios de inclusão, apresentarem entre 18 a 65 anos de idade, de ambos os
+sexos, pertencentes a qualquer grupo étnico, serem alfabetizados, capazes de ler e
+escrever, de compreender e responder as escalas de avaliação e de seguir as
+instruções do protocolo de pesquisa; 2) Os critérios de exclusão se referem aos
+pacientes que estavam em risco de suicídio iminente, com graves comportamentos
+de automutilação (cortar, queimar, machucar-se deliberadamente), quadro psicótico
+não estabilizado com medicação, risco de ainda sofrer violência, falta de memória
+em relação ao evento traumático e fazer uso de álcool ou drogas. Nestes casos, os
+pacientes foram retirados da pesquisa.
+Para participarem do presente estudo os pacientes deveriam ter finalizado o
+tratamento psicoterápico para TEPT e apresentarem dados de contato atualizados,
+sendo obrigatório a presença de pelo menos um número de telefone e opcional a
+presença de contato por e-mail. Os pacientes foram contatados por telefone e
+deveriam estar aptos e concordarem em responder, via telefone, o questionário
+sobre o comportamento alimentar (EDE-Q).
+
+13
+
+4.2.
+
+PROCEDIMENTOS
+
+Para obtenção de informações sobre comportamento de risco para TA, foi
+aplicado à essa população, após o aceite da participação, via telefone, o Eating
+Disorder Examination Questionnaire (EDE-Q). Esse questionário foi aplicado com
+uma média de tempo de um ano e meio após os pacientes passarem pela Avaliação
+3 – de seguimento após o término do tratamento psicoterápico. Após a finalização do
+questionário EDE-Q foram feitas as seguintes perguntas: 1) Você sabe me dizer sua
+altura e peso atual? 2) Você sabe me dizer o seu peso máximo e peso mínimo já
+atingidos na vida adulta?; 3) Você faz alguma relação entre a variação de peso e o
+trauma?; 4) Você costuma ingerir maior quantidade de alimento em períodos de
+ansiedade? Tais perguntas tinham por objetivo avaliar possíveis variações de peso
+ao longo da vida adulta do indivíduo e compreender como esses pacientes
+avaliavam subjetivamente a relação entre variação de peso x trauma e ingestão
+alimentar x ansiedade. As informações fornecidas sobre altura, peso atual, peso
+máximo e peso mínimo também foram utilizadas para o cálculo do Índice de Massa
+Corpórea (IMC) atual, máximo e mínimo, para posterior análise.
+A aplicação do EDE-Q foi feita por meio de ligação telefônica realizada no
+Espaço para pesquisa por Telefone do Laboratório de Estudos Populacionais
+(LabTel/LEP) da Faculdade de Saúde Pública da Universidade de São Paulo (FSPUSP) que fica sediado no segundo andar do Prédio da Biblioteca da FSP-USP.
+A solicitação do uso do Laboratório foi realizada inicialmente via contato por
+e-mail e confirmada através do preenchimento do “Formulário de Solicitação do
+Espaço” - fornecido pela equipe do LabTel/ LEP (ANEXO A). Neste formulário
+constou o projeto de pesquisa a ser realizado e as datas de agendamento para
+utilização do local.
+O primeiro contato com os pacientes foi realizado por meio da primeira
+ligação, através de uma apresentação estruturada e um roteiro (ANEXO B)
+informando o motivo da ligação, os objetivos da pesquisa, a fonte fornecedora dos
+dados dos pacientes, com uma breve apresentação do questionário a ser aplicado e
+uma estimativa do tempo médio da ligação. Após essa apresentação os pacientes
+eram convidados a responder ao questionário e consequentemente a participarem
+da pesquisa. Caso tivessem disponibilidade neste momento (primeira ligação), o
+14
+
+questionário era aplicado na sequência da apresentação ou, se houvesse
+necessidade, a ligação era retornada em outro período do dia, ou em outro dia, no
+qual o participante teria disponibilidade em responder. Após tentativas não bemsucedidas de contato por telefone em diferentes períodos do dia (manhã, tarde e
+noite), o contato com o paciente foi realizado via e-mail, com a mesma apresentação
+estruturada utilizada pelo telefone e a solicitação de um melhor período do dia para a
+realização da ligação. Após a resposta do paciente, a ligação era realizada seguindo
+a mesma metodologia da primeira ligação.
+A aplicação do questionário e coleta das informações foi realizada no período
+de agosto a setembro de 2016, de segunda à sexta-feira, num período do dia não
+definido previamente, podendo ser de manhã, à tarde ou à noite, dependendo da
+disponibilidade dos participantes em poderem responder ao questionário. Cada
+ligação durou em média de 10-12 minutos.
+Para avaliar a relação entre comportamento de risco para transtornos
+alimentares e o trauma foi utilizada a pontuação total da Escala Davidson de Trauma
+(DTS), já para relação entre comportamento de risco para transtornos alimentares e
+ansiedade foi utilizada a pontuação total do Inventário Beck de Ansiedade (BAI).
+Ambas escalas são de auto relato e foram aplicadas pela equipe do Programa de
+Ansiedade do Serviço de Psicoterapia do AMBAN-IPq–HCFMUSP, num período
+anterior a esse estudo. Foram utilizados os valores totais dessas escalas obtidos na
+Avaliação 1 do paciente – que se refere ao período de triagem, anterior ao
+tratamento, e na Avaliação 3 – que se refere ao seguimento de três meses após o
+término do tratamento psicoterápico para TEPT.
+
+4.3.
+
+MEDIDAS
+
+4.3.1. Instrumento para Avaliação dos Transtornos Alimentares:
+
+Os instrumentos para avaliação dos transtornos alimentares são ferramentas
+que surgiram com a necessidade de sistematizar estudos nessa área à partir do
+estabelecimento e aprimoramento de seus critérios diagnósticos nas várias edições
+15
+
+do Manual Diagnóstico e Estatístico dos Transtornos Mentais (DSM) e da
+Classificação Internacional de Doenças (CID). De modo geral esses instrumentos
+são agrupados em três categorias: questionário autoaplicável; entrevista clínica e
+auto monitoração (FREITAS et al., 2002).
+Os questionários de auto aplicação têm várias utilidades na abordagem de
+sintomas alimentares. Apesar desses instrumentos não substituírem uma entrevista
+clínica para se fazer o diagnóstico, eles são úteis para seleção da presença ou da
+gravidade dos sintomas alimentares (CORDÁS e NEVES, 1999).
+O uso de entrevistas estruturadas aplicadas por psiquiatra para diagnóstico
+de TA é inviável em grandes estudos, assim os instrumentos de avaliação foram
+desenvolvidos tendo a vantagem da objetividade, baixo custo e possibilidade de
+exploração estatística. Estudos epidemiológicos com TA são complexos e difíceis de
+serem realizados, portanto pesquisas sobre comportamento de risco podem dar um
+indício do problema em determinado local e população (ALVARENGA et al., 2011).
+O comportamento alimentar de risco para transtornos alimentares se manifestam de
+diversas maneiras, como vômito auto induzido, longos períodos de restrição
+alimentar, preocupação exagerada com a alimentação, uso de medicamentos para
+emagrecimento (laxantes, diuréticos e inibidores de apetite), entre outros
+(BIGHETTI, 2004).
+
+4.3.1.1. EDE- Q (Eating Disorder Examination Questionnaire) – Exame
+de Desordem Alimentar – versão Questionário
+
+O Eating Disorder Examination Questionnaire está agrupado na classe de
+instrumentos autoaplicáveis, caracterizados por serem fáceis de administrar,
+eficientes e econômicos na avaliação de grande número de indivíduos (FREITAS et
+al., 2002).
+O EDE-Q foi desenvolvido como uma versão autoaplicável, reduzida e com
+menor custo de aplicação do Eating Disorder Examination (EDE) em formato de
+entrevista. O EDE é o instrumento mais utilizado para avaliação de aspectos
+comportamentais chaves dos transtornos alimentares em adultos; seu diagnóstico é
+16
+
+baseado no DSM-IV e constitui “padrão ouro” entre anamneses diagnósticas para
+TA. Está estruturado em quatro subescalas: (1) restrição alimentar, (2) preocupação
+alimentar, (3) preocupação com a forma corporal e (4) preocupação com o peso;
+entretanto, sua aplicação exige tempo médio de 1 hora e longo treinamento de
+capacitação dos entrevistadores, fator que dificulta sua utilização como ferramenta
+para estudos em larga escala (FREITAS et al., 2002). À partir disso, FAIRBURN e
+BEGLIN, 1994 desenvolveram sua versão reduzida,
+
+o EDE-Q: estruturado nas
+
+mesmas quatro subescalas; composto por 41 itens e tempo médio de aplicação de
+15 minutos. É extremamente útil para rastreamento de transtornos alimentares e
+facilmente utilizado em estudos epidemiológicos de larga escala (ANEXO C).
+Com relação à pontuação do instrumento, o EDE-Q, assim como sua versão
+original EDE, geram dois tipos de informações: primeiramente eles fornecem dados
+de frequência sobre as características comportamentais fundamentais dos
+transtornos alimentares, em termos de números de episódios e, em certos casos, em
+números de dias no qual o comportamento ocorreu; ainda, fornecem subescalas que
+refletem a gravidade dos aspectos da psicopatologia dos transtornos alimentares.
+Para obter a pontuação de cada subescala, são somadas as pontuações de itens
+importantes para aquela subescala e a soma é dividida pelo total de itens, gerando
+um valor de escore. Para obtenção de uma escala global, as pontuações das quatro
+subescalas são somadas e divididas pelo total de subescalas. A pontuação da
+escala está apresentada no ANEXO D. Para análise, os valores dos escores das
+subescalas e da escala global são avaliados através da sua distribuição em
+percentis, sendo que quanto maior o percentil, maior a gravidade do sintoma
+(FAIRBURN e BEGLIN, 1994).
+
+4.3.2. Instrumento para Avaliação dos Sintomas de Trauma
+4.3.2.1. DTS (Davidson Trauma Scale) – Escala Davidson de Trauma
+A Escala Davidson de Trauma tem por objetivo medir a presença de sintomas
+de TEPT. É uma escala composta por 17 perguntas que correspondem aos critérios
+diagnósticos do Manual Diagnóstico e Estatístico dos Transtornos Mentais – 4ª
+versão – Texto Revisado (DSM-IV-TR). Para realização da escala é necessário que
+17
+
+o sujeito preencha o critério A do DSM-IV-TR: vivenciar ou testemunhar um
+acontecimento extremamente traumático. Cada um dos sintomas apresentado nas
+perguntas é pontuado com o valor de 1 a 4 em relação à frequência e ao grau de
+sofrimento associado (STEIN et al., 2004).
+
+4.3.3. Instrumento para Avaliação dos Sintomas de Ansiedade
+4.3.3.1. BAI (Beck Anxiety Inventory) - Inventário Beck para Ansiedade
+O Inventário de Ansiedade Beck tem por objetivo medir a intensidade de
+sintomas de ansiedade; constitui-se de 21 itens e o indivíduo deve apontar, em uma
+escala de quatro pontos, o nível de gravidade do sintoma. O escore total varia de 0
+a 63, e permite a verificação do nível de intensidade da ansiedade. A classificação
+recomenda que o nível de ansiedade seja classificado em mínimo (0-7), leve (8-15),
+moderado (16-25) ou grave (26-63) (BECK , 2001).
+
+4.4.
+
+MÉTODO DE ANÁLISE DE DADOS
+
+A tabulação e análise estatística dos dados foi conduzida através do
+software Microsoft Office Excel, versão para Windows 2016©.
+Uma análise de correlação entre as variáveis quantitativas foi realizada
+utilizando o coeficiente de correlação de Pearson, para os períodos de avaliação de
+antes do início e depois, no seguimento após o tratamento individual para TEPT.
+Foram consideradas como apresentando comportamento de risco para TA, os
+participantes cujo escore global do EDE-Q foi classificado acima de p50, sendo que
+aqueles classificados acima de p90 foram considerados com altos níveis de
+sintomatologia para comportamento de risco para Transtornos Alimentares. O
+mesmo aspecto foi considerado para avaliação das quatro subescalas do
+questionário.
+18
+
+4.5.
+
+QUESTÕES ÉTICAS
+
+Este estudo está inserido em um projeto de pesquisa em andamento no
+AMBAN-IPq-HCFMUSP e está sendo realizado com uma amostra de indivíduos
+diagnosticados com Transtorno de Estresse Pós-Traumatico. Esse projeto já foi
+aprovado pelo Comitê de Ética em Pesquisa (CEP) do Hospital das Clínicas da
+Faculdade de Medicina da USP (HCFMUSP), no dia 25 de fevereiro de 2015, tendo
+como número do parecer 1.006.220.
+
+5. RESULTADOS
+
+Após aplicados os critérios de inclusão/exclusão mencionados anteriormente,
+estavam aptos a responder ao questionário e participarem do estudo, 58 indivíduos.
+A ligação inicial foi feita para a totalidade dos participantes, sendo que, destes, não
+foi possível entrar em contato com 24 pacientes, em razão do número de telefone
+estar indisponível ou inexistente e o e-mail estar desatualizado, ou pela ausência de
+resposta ao e-mail enviado. Apenas 2 pacientes se recusaram a responder ao
+questionário e não participaram da pesquisa. Assim, responderam ao questionário e
+fizeram parte do estudo, 32 indivíduos.
+Do total de pacientes que participaram, 90,63% (n=29) eram do sexo feminino
+e 9,37% (n=3) do sexo masculino. Os dados de idade, altura, pesos atual, mínimo e
+máximo, Índice de Massa Corpórea (IMC) atual, mínimo e máximo podem ser
+observados na Tabela 1. O IMC atual foi calculado e classificado de acordo com a
+Organização Mundial da Saúde (WHO, 1998) e observou-se que 37,5% (n=12)
+estavam eutróficos, 31,25% (n=10) dos participantes apresentaram sobrepeso,
+21,88% (n=7) apresentaram Obesidade grau I e 9,37% (n=3) apresentaram
+Obesidade grau II. De modo geral, 62,5% dos participantes apresentaram valores de
+IMC acima do eutrofismo.
+
+19
+
+Sobre a avaliação dos escores apresentados após aplicação do EDE-Q e
+analisando cada subescala do questionário; para a subescala (1) restrição
+alimentar, 68,75% (n=22) dos entrevistados foram classificados acima de p50 e
+9,38% (n=3) foram classificados acima de p90. Já para a subescala (2)
+preocupação alimentar, 71,88% (n=23) foram classificados acima de p50 e 18,75%
+(n=6) foram classificados acima de p90. Para a subescala (3) preocupação com a
+forma corporal 75% (n=24) foram classificados acima de p50 e 18,75%
+
+(n=6)
+
+foram classificados acima de p90. Por fim, para a subescala (4) preocupação com
+peso, 68,75% (n=22) foram classificados acima de p50 e 18,75% (n=6) foram
+classificados acima de p90. Portanto, no escore global do EDE-Q, 75% (n=24) dos
+entrevistados foram classificados acima do percentil 50, indicando a presença de
+sintomatologias relacionadas ao
+
+comportamento de
+
+risco para transtornos
+
+alimentares e, deste total, 25% (n=6) foram classificados acima do percentil 90, o
+que indica forte presença de sintomatologia para comportamento de risco
+relacionado aos transtornos alimentares.
+Para o bloco de perguntas sobre compulsão alimentar e episódios
+excessivos de ingestão alimentar, do total de participantes, 62,5% (n=20)
+responderam que “não consumiram o que outras pessoas considerariam uma
+quantidade excessiva de alimentos nos últimos 28 dias”. Do restante dos
+participantes (n=12) que afirmaram “terem consumidos uma quantidade excessiva
+de alimentos nos últimos 28 dias” 66,67% (n=8) responderam que esses episódios
+ocorreram entre 5-10 vezes.
+Sobre situações compensatórias como forma de controle para forma ou
+peso, 96,87% (n=31) responderam não “ter provocado vômito” e 3,13% (n=1)
+20
+
+respondeu “ter provocado vômito” uma única vez; 93,75% (n=30) responderam não
+“ter feito uso de laxante” e 6,25% (n=2) responderam ter utilizado desse método de
+4-8 vezes nos últimos 28 dias e, ainda 100% (n=32) da amostra responderam não
+ter “realizado exercício de modo compulsivo”.
+Com relação as questões realizadas após a aplicação do EDE-Q e que
+portanto, não fazem parte do questionário, na pergunta sobre a relação entre o
+trauma e variação de peso, 56,25% (n=18) dos pacientes responderam que fazem
+essa relação, 40,62% (n=13) responderam que não fazem, e 3,13% (n=1) não soube
+opinar sobre essa questão. Na pergunta sobre a maior ingestão de alimentos em
+períodos de ansiedade, 62,5% (n=20) responderam que sim - ingerem maior
+quantidade de alimentos em períodos de ansiedade, 3,13% (n=1) respondeu que
+esse hábito ocorre às vezes, mas não sempre e 34,37% (n=11) responderam que
+não costumam ingerir maior quantidade de alimentos em períodos de ansiedade,
+sendo que muitas vezes perdem o apetite ou essa ingestão é menor que o habitual.
+Para relação entre comportamento de risco para transtornos alimentares e
+o trauma, o escore global do EDE-Q e a pontuação total do DTS apresentaram uma
+correlação positiva para a Avaliação 1 (r=0,5031) porém, para a Avaliação 3, essas
+variáveis apresentaram correlação inexistente ou muito baixa (r=0,1911). Já para
+relação entre comportamento de risco para transtornos alimentares e ansiedade,
+o escore global do EDE-Q e a pontuação total do BAI apresentaram correlação
+positiva fraca (r=0,3913) para a Avaliação 1 e, igualmente, essas variáveis
+apresentaram correlação inexistente ou muito baixa (r=0,073) para a Avaliação 3.
+A associação entre essas variáveis está representada graficamente através
+do diagrama de dispersão, apresentados nas Figura 1 e Figura 2 para a relação
+entre TA x Trauma (escala de trauma - DTS) e nas Figura 3 e Figura 4 para a
+relação entre TA x Ansiedade (escala de ansiedade - BAI).
+
+21
+
+22
+
+23
+
+6. DISCUSSÃO
+
+Encontrou-se na população de indivíduos que receberam tratamento
+psicoterápico e psiquiátrico para TEPT e que participaram do presente estudo, uma
+presença considerável de comportamento de risco para TA, tanto com relação ao
+escore global do EDE-Q quanto com relação as suas subescalas. Esses resultados
+encontrados se referem à um período posterior a Avaliação 3, pois o EDE-Q foi
+respondido meses após o término do tratamento para TEPT.
+Esse trabalho não permite afirmar o diagnóstico sobre quadros de TA para
+esses indivíduos, uma vez que o estudo foi realizado com um instrumento de
+avaliação, porém, é possível sugerir a presença de comportamentos de risco para
+TA. Como já citado, não foram encontrados estudos na literatura brasileira que
+abordam a relação entre Transtorno de Estresse Pós-Traumático e comportamento
+de risco para Transtornos Alimentares; sendo que grande parte dos estudos
+encontrados associando essa possível sobreposição diagnóstica são de trabalhos
+americanos, que avaliaram a população de veteranos de guerra. O que se encontrou
+de produção brasileira nessa área foram estudos que relacionam eventos
+traumáticos – principalmente abuso sexual – com o desenvolvimento de transtornos
+alimentares.
+Uma revisão bibliográfica brasileira da Universidade Federal do Rio Grande
+do Sul analisa a relação entre abuso sexual e TA e conclui que, apesar de os
+achados para esse tema serem ambíguos, parece que o abuso sexual é fator de
+risco para o desenvolvimento de TA e que essa associação deve ser compreendida
+dentro de uma perspectiva multifatorial (NARVAZ e OLIVEIRA, 2009).
+A revisão bibliográfica americana da Universidade de Oxford avaliou a
+associação entre TEPT, atividade física e comportamentos alimentares e, apesar de
+os achados também serem divergentes com relação à associação entre TEPT e
+comportamentos alimentares, boa parte dos estudos relataram altas taxas de TCA
+entre os indivíduos com TEPT (HALL et al., 2015).
+Um outro estudo americano realizado com vítimas de trauma sexual apontou
+uma associação significativa entre histórico do trauma e sintomas de TA e TEPT,
+suportando a ideia de que indivíduos que desenvolvem TA após um trauma sexual
+tenham experienciado a sintomatologia do TEPT (HOLZER et al., 2008).
+24
+
+Com relação às subescalas do EDE-Q, as pontuações foram mais elevadas
+para as subescalas de preocupação alimentar e preocupação com a forma. A
+subescala (1)preocupação alimentar indica que esses indivíduos apresentam mais
+sintomas relacionados à preocupação com a ingestão de comidas e calorias, medo
+de perder o controle sobre a alimentação, comer escondido e culpa ao comer. A
+subescala (2) preocupação com a forma indica o medo de ganhar peso, desconforto
+ao ver e expor o corpo e sensação de estar gordo ou estar acima do peso. Esses
+aspectos destas subescalas associados à ausência de métodos compensatórios
+poderiam levar, dentre os quadros de transtornos alimentares, a uma hipótese
+diagnóstica de um quadro de TCA.
+Um estudo realizado com veteranos do Iraque e Afeganistão apresentou que
+nesses indivíduos, aqueles diagnosticados com TEPT, 8,4% preencheram critérios
+para compulsão alimentar e, apesar dessa porcentagem ser pequena, é mais
+elevada que a prevalência na população americana em geral (2-5%) (HOERSTER et
+al. ,2015). Também, numa revisão americana da Universidade de Oxford – já citada
+anteriormente – apontou que estudos relatam altas taxas de TCA entre os indivíduos
+com TEPT (HALL et al., 2015).
+Sobre a relação subjetiva que os pacientes fizeram entre sua variação de
+peso e o trauma, 56,25% dos pacientes responderam afirmativamente, ao fazer essa
+associação. Observando as variações entre peso mínimo e peso máximo, e IMC
+mínimo e IMC máximo, é possível dizer que esses indivíduos apresentaram valores
+consideráveis de variação desses parâmetros durante a vida adulta, sendo que para
+o IMC mínimo, a média (21,27 kg/m²) é classificada como eutrófica, e para o IMC
+máximo (29,12 kg/m²) a média é classificada como sobrepeso, próximo ao limite da
+obesidade grau I. Com relação ao estado nutricional atual, 62,5% dos participantes
+apresentaram valores de IMC acima do eutrofismo, sendo que essa porcentagem se
+distribui entre as classificações de sobrepeso e obesidade graus I e II. Corroborando
+com esse resultado, o estudo realizado com veteranos das Forças Armadas
+Americana aponta que aqueles com diagnóstico de TEPT apresentam taxas mais
+elevadas de obesidade crônica e que esse aspecto aumenta o risco de morbidades
+para essa população e, ainda, o estudo aponta que essa população relata maiores
+dificuldades para perda de peso quando comparados com veteranos sem o
+diagnóstico (KLINGAMAN et al., 2016).
+
+25
+
+A associação entre comportamento de risco para TA e o trauma, e entre
+comportamento de risco para TA e ansiedade, mostrou que essas variáveis
+apresentaram maior correlação positiva para o primeiro período de avaliação dos
+pacientes, Avalição 1 - antes do início do tratamento; já para a terceira avaliação,
+Avalição 3 – no seguimento, após 3 meses do final do tratamento, essas escalas
+apresentaram correlação baixa ou inexistente. Esse resultado pode ser explicado
+pelo fato de o EDE-Q não ter sido aplicado à esses indivíduos juntamente com o
+DTS e o BAI, nos diferentes períodos de avaliação e é possível que, se a escala
+EDE-Q fosse aplicada juntamente às demais escalas, esses resultados seriam
+diferentes e as variáveis apresentariam maior associação. No entanto, avaliando os
+resultados encontrados neste trabalho, para a Avaliação 1, tanto a pontuação da
+escala de trauma quanto a pontuação da escala de ansiedade se apresentaram mais
+elevadas, apontando para níveis mais elevados em ambas as escalas antes do
+tratamento; já para a Avaliação 3, essas escalas apresentaram pontuações
+menores, sugerindo a diminuição de ambas as escalas, no seguimento após o final
+do tratamento, sugerindo a eficiência do tratamento individual para TEPT, do ponto
+de vista da melhora dos sintomas, através das escalas DTS e BAI que mensuram
+essas variáveis. A partir desses dados podemos inferir que essa associação será
+mais positiva quanto mais grave se apresentar o quadro de trauma ou de ansiedade.
+
+7. CONCLUSÃO
+
+Foram
+
+encontrados
+
+resultados
+
+significativos
+
+para
+
+a
+
+presença
+
+de
+
+comportamento de risco para transtornos alimentares nessa população pesquisada,
+considerando tanto o escore global do EDE-Q quanto as suas subescalas. Essas
+variáveis avaliadas em conjunto com questões sobre ingestão excessiva de
+alimentos e ausência de medidas compensatórias sugerem um quadro de
+compulsão alimentar, sugerindo a hipótese diagnóstica de TCA. Entretanto, pelo fato
+de o trabalho ser baseado em um instrumento de avaliação, não é possível afirmar a
+presença de nenhum diagnóstico de transtorno alimentar, sendo necessário
+investigações e avaliações mais profundas para afirmar a presença de algum tipo de
+TA.
+26
+
+Quando foi realizada a associação entre comportamento de risco para TA e
+variáveis como trauma e ansiedade, notou-se que elas apresentaram maior
+correlação positiva no período da Avaliação 1, sugerindo que essas variáveis são
+positivamente correlacionadas com a gravidade da sintomatologia em que se
+encontrava o indivíduo, antes do início do tratamento para TEPT. Não ter encontrado
+forte correlação no período da Avalição 3, de seguimento após o final do tratamento
+pode apontar a necessidade de se avaliar outras características relacionadas ao
+TEPT e que também podem influenciam no comportamento alimentar.
+Considerável parcela da amostra estudada apresentou classificação do
+estado nutricional acima de sobrepeso (62,5%). Estudos com populações com TEPT
+e obesidade crônica apontam que parte da mortalidade prematura desses indivíduos
+podem estar associados à comorbidades associados à quadros clínicos, e não
+psiquiátricos, tais como como Diabetes Mellitus tipo 2, doença cardiovascular,
+hipertensão arterial e dislipidemia (KLINGAMAN et al., 2016). Portanto, quadros de
+compulsão alimentar contribuem diretamente para o desenvolvimento da obesidade
+e está associado à essas comorbidades clínicas.
+O presente estudo apresentou algumas limitações importantes no que se
+refere: a) ao tamanho da amostra estudada, que não permite generalizações, por ser
+pequena e por conveniência, está portanto sujeita a não representar estatisticamente
+a população civil de brasileiros com diagnóstico de TEPT; b) a utilização de apenas
+um questionário como instrumento para avaliação de transtornos alimentares – o
+que não permite a formulação de diagnóstico de TA, e que apenas avalia a
+presença/ausência de comportamentos de risco para o desenvolvimento de TA; c) o
+fato de o questionário EDE-Q ter sido aplicado via telefone e após um período de
+tempo considerável do término do tratamento para o TEPT e d) ao fato do
+questionário EDE-Q não ter sido aplicado no período de Avaliação 1 e Avaliação 3,
+juntamente aos questionários DTS e BAI.
+Apesar de tais limitações, este trabalho apresenta achados originais para
+essa população estudada. As publicações literárias que fazem referência à
+associação entre TA e TEPT tem pouco enfoque para a população civil, sendo mais
+voltado para os veteranos de guerra. O presente trabalho apresenta resultados
+pioneiros na área, pelo fato de ter estudado indivíduos da população civil brasileira
+que tiveram o diagnóstico e receberam tratamento para o TEPT, para eventos
+traumáticos como sequestro, cativeiro, assalto, abuso sexual, estupro, morte súbita
+27
+
+(atropelamento, suicídio, assassinato, ausência de socorro médico) de entes
+queridos, e também profissionais da saúde, socorristas e policiais miliares que
+convivem no seu cotidiano presenciando múltiplos eventos traumáticos.
+Um trabalho de monografia realizado em 2013 já apontava a necessidade de
+se pesquisar a existência de protocolos de tratamento concomitante para TA e
+diagnóstico ou sintomatologia do TEPT. A ausência de publicações sobre esse tema
+demonstra o pouco avanço de estudo nessa área, confirmando que ainda não há
+protocolos de tratamento que considerem as duas patologias em conjunto (VIDEIRA,
+2013).
+Os resultados encontrados apontam para a necessidade urgente de maiores
+estudos nesta área, em especial aqueles que abordem questões sobre
+comportamentos alimentares relacionados ao evento traumático, e possam
+identificar e prevenir e tratar adequadamente quando o comportamento alimentar
+inadequado – compulsão alimentar – é utilizado como estratégia de enfrentamento
+dos sintomas que possam surgir após um evento traumático. Tal população
+apresenta alto risco para o desenvolvimento de síndromes completas ou quadros
+mais severos e complexos de TA quando associados às comorbidades do TEPT,
+podendo acarretar sérios agravos à saúde física e emocional do indivíduo.
+
+28
+
+8. REFERÊNCIAS BIBLIOGRÁFICAS
+
+Alvarenga MS, Scagliusi FB, Philippi ST.Comportamento de risco para transtorno
+alimentar em universitárias brasileiras. Rev Bras Psiquiatr Clín. 2011;38(1): 3-7.
+American Psychiatric Association. Manual diagnóstico e estatístico de transtornos
+mentais: DSM-5. 5 ed. Porto Alegre: Artmed, 2014. 948 p.
+Araújo AC, Neto FL. A nova classificação Americana para os Transtornos Mentais
+- o DSM-5. Rev Bras Ter Comport Cogn. 2014; 16(1): 67-82.
+Azevedo AP de, Santos CC dos, Fonseca DC da. Transtorno da compulsão
+alimentar periódica. Rev. Psiquiatr. Clin. 2004; 31(4): 170-2.
+Beck AT . Escalas beck: BDI, BAI, BHS, BSI. Pennsylvania: Casa do Psicólogo,
+2001. 171 p.
+Bighetti F . Tradução e validação do Eating Attitudes Test (EAT-26) em
+adolescentes do sexo feminino de Ribeirão Preto – SP [dissertação]. Ribeirão
+Preto: Escola de Enfermagem de Ribeirão Preto da USP; 2003.
+Brasil. Resolução CNE/CES Nº 5, de 7 de novembro de 2001. Institui Diretrizes
+Curriculares Nacionais do Curso de Graduação em Nutrição. Diário Oficial da
+União: Brasília; 2001.
+Briere J, Scott C. Assessment of Trauma Symptoms in Eating-Disordered
+Populations. Eat Disord. 2007; 15(4): 347-358.
+Cordás TA, Neves JEP. Escalas de avaliação de transtornos alimentares. Rev
+Bras Psiquiatr. 1999; 26(1): 41-8.
+Fairburn CG, Beglin SJ. Assessmment of Eating Disorders: interview or self-report
+questionnaire? Int J Eat Disord. 1994;16(4): 363-70.
+29
+
+Figueira I, Mendlowicz M. Diagnóstico do transtorno de estresse póstraumático. Rev Bras Psiquiatr. 2003; 25(1):12-6.
+Filho JWSC, Sougey EB. Transtorno de estresse pós-traumático: formulação
+diagnóstica e questões sobre comorbidades. Rev Bras Psiquiatr. 2011; 23(4):
+221-8.
+Forman-Hoffman VL, Mengeling M, Booth BM, Torner J, Sadle AG. Eating
+disorders, post-traumatic stress, and sexual trauma in women veterans. Mil
+Medicine. 2012; 177(10):1161-8.
+Freitas S, Gorenstein C, Appolinario JC. Instrumentos para a avaliação dos
+transtornos alimentares. Rev Bras Psiquiatr. 2002; 24(3): 34-8.
+Hall KS, Hoerster KD, Yancy WSJ. Post-Traumatic Stress Disorder, Physical
+Activity, and Eating Behaviors. Epidemiol Rev. 2015; 37(1): 103-115.
+Holzer SR, Uppala S, Wonderlich SA, Crosby RD, Simonich H. Mediational
+significance of PTSD in the relationship of sexual trauma and eating disorders.
+Child abuse negl. 2008; 32(5): 561-6.
+Hoerster KD, Jakupcak M, Hanson R, McFall M, Reiber G, Hall KS, et al. PTSD
+and depression symptoms are associated with binge eating among US Iraq and
+Afghanistan veterans. Eat Beh. 2015; 17(1):115-8.
+
+Jaen-Varas D, Mari JJ de, Coutinho E, Andreoli SB, Quintana MI, Mello MF, et al.
+A cross-sectional study to compare levels of psychiatric morbidity between young
+people and adults exposed to violence in a large urban center. BMC Psychiatry.
+2016; 16(1):134.
+
+Klingaman EA, Hoerster KD, Aakre JM, Viverito KM, Medoff DR, Goldberg RW.
+Veterans with PTSD report more weight loss barriers than Veterans with no mental
+health disorders. Gen Hosp Psych. 2016; 39(1):1-7.
+30
+
+Luz MP, Coutinho ES, Berger W, Mendlowicz MV, Vilete LM, Mello MF, et al.
+Conditional risk for posttraumatic stress disorder in an epidemiological study of a
+Brazilian urban population. J Psychiatr Res. 2016; 72(1):51-7.
+
+Mari JJ de, Mello MF de,Figueira I. The impact of urban violence on mental health.
+Rev Bras Psiquiatr. 2008; 30(3):183-4.
+Moreira FG, Quintana MI, Ribeiro W, Bressan RA, Mello FM, Mari JJ de, et al.
+Revictimization of Violence Suffered by Those Diagnosed with Alcohol
+Dependence in the General Population. Biomed Res Int. 2015: ID805424.
+
+Narvaz M, Oliveira LL. A Relação entre Abuso Sexual e Transtornos Alimentares:
+uma revisão. Interam J Psychol. 2009; 43(1): 22-9.
+
+Ribeiro WS et al. The Impact of Epidemic Violence on the Prevalence of
+Psychiatric Disorders in Sao Paulo and Rio de Janeiro, Brazil. PLoS One. 2013;
+8(5): e63545.
+
+Stein AT, Carli E de, Casanova F, Pan MS, Pellegrin LG. Transtorno de estresse
+pós-traumático em uma unidade de saúde de atenção primária. R Psiquiatr RS.
+2004; 26(2):158-166.
+Talbot LS, Maguen S, Epel ES, Metzler TJ, Neylan TC. Posttraumatic stress
+disorder is associated with emotional eating. J Traumatic Stress. 2013; 26(4): 5215.
+Matsumoto LSV. Protocolo da Terapia Cognitivo-Comportamental para o
+tratamento de pacientes com o diagnóstico de Transtorno Alimentar e Transtorno
+do Estresse Pós-Traumático [monografia]. São Paulo: Centro de Estudo em
+Terapia Cognitivo-Comportamental. 2013
+
+31
+
+World Health Organization (WHO). Obesity: preventing and managing the global
+epidemic. Report of a World Health Organization consultation on obesity. Genebra
+WHO; 1998
+Yager J, Power PS. Clinical manual of eating disorders. Washington: American
+Psychiatric Publishing. 2007. 462 p.
+
+32
+
+ANEXOS
+
+ANEXO A - Formulário de Solicitação do Espaço/ LABTEL
+
+33
+
+ANEXO B – Script primeira ligação telefônica
+
+Olá sr.(a) _________________, meu nome é Heloísa, estou falando da Faculdade
+Saúde Pública da USP. Eu estou me formando no curso de Nutrição da USP e o
+motivo desta ligação é que o(a) sr.(a) participou de uma pesquisa no AMBAN no
+Instituto de Psiquiatria do HC, para tratamento de trauma, sob a responsabilidade do
+Prof. Dr. Francisco Lotufo Neto. O Prof. Lotufo é o meu orientador no TCC e para a
+realização do meu trabalho com ele eu estou fazendo uma pesquisa sobre
+comportamento alimentar. Para essa pesquisa eu preciso aplicar um questionário
+que envolve cerca de 30 questões e leva entre 10-15 minutos de aplicação. O(a)
+sr(a) aceitaria participar? Lembrando que as informações coletadas nesta ligação
+são totalmente confidenciais e serão utilizadas somente para dados estatísticos da
+pesquisa, sendo que os dados do(a) sr.(a) não serão revelados em nenhum
+momento.
+
+34
+
+ANEXO C – Eating Disorder Examination Questionnaire (EDE-Q)
+
+EDE-Q
+Nome:
+/ /
+
+Data:
+
+As questões a seguir dizem respeito somente às últimas 4 semanas (28 dias). Por favor, leia
+atentamente e responda a todas as questões.
+Questões de 1 a 12: Por favor assinale o número que considerar mais apropriado.
+EM QUANTOS DOS ÚLTIMOS 28 DIAS...
+1. Você tentou de forma consciente restringir o que come para
+influenciar sua forma ou peso (mesmo que não tenha conseguido)?
+2. Você passou muito tempo sem comer alguma coisa (8 horas ou
+mais, estando acordado/a) para influenciar sua forma ou peso?
+3. Você tentou evitar algum tipo de alimento de que gosta para
+influenciar sua forma ou peso (mesmo que não tenha conseguido)?
+4. Você tentou seguir regras definidas em relação à sua alimentação
+(por exemplo, um limite de calorias) para influenciar sua forma ou
+peso (mesmo que não tenha conseguido)?
+5. Você teve um forte desejo de ficar com o estômago vazio para
+influenciar sua forma ou peso?
+6. Você teve um forte desejo de ter o abdome totalmente plano?
+7. Pensar sobre comida, alimentação ou calorias dificultou a
+concentração em coisas que te interessam (trabalhar, conversar,
+ler)?
+8. Pensar sobre forma ou peso dificultou a concentração em coisas
+que te interessam (por exemplo, trabalhar, conversar, ler)?
+9. Você teve um medo intenso de perder o controle sobre a
+alimentação?
+10. Você teve um medo intenso de ganhar peso?
+11. Você se sentiu gordo/a?
+12. Você teve um forte desejo de perder peso?
+
+Nenhum
+dia
+
+1 a
+5
+dias
+
+6 a
+12
+dias
+
+23 a
+27
+dias
+
+todos
+
+0
+
+1
+
+4
+
+5
+
+6
+
+0
+
+3
+
+4
+
+5
+
+6
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+0
+0
+
+1
+1
+1
+
+2
+2
+2
+
+3
+3
+3
+
+4
+4
+4
+
+5
+5
+5
+
+6
+6
+6
+
+13 a
+15
+dias
+
+16 a
+22
+dias
+
+2
+
+3
+
+1
+
+2
+
+0
+
+1
+
+0
+
+os
+dias
+
+Questões de 13-18: Por favor preencha a lacuna com o número apropriado. Lembre-se que as questões
+só se referem às últimas 4 semanas (28 dias).
+DURANTE AS ÚLTIMAS SEMANAS (28 DIAS)...
+13. Nos últimos 28 dias, quantas vezes você comeu o que as outras pessoas
+considerariam uma quantidade muito grande de comida para aquela situação)?
+14. [Se respondeu sim na pergunta 13] Em quantas dessas ocasiões você teve a
+sensação de ter perdido o controle sobre o que você estava comendo (no momento em
+que estava comendo)?
+
+15. [Se respondeu sim na pergunta 13] Nos últimos 28 dias, em quantos dias esses
+episódios de ingestão excessiva ocorreram (isto é, você comeu uma quantidade muito
+grande de comida e teve a sensação de perder o controle na mesma ocasião)?
+16. Nos últimos 28 dias, quantas vezes você provocou o vômito como meio de
+controlar sua forma ou peso?
+
+35
+
+17. Nos últimos 28 dias, quantas vezes você tomou laxante como meio de controlar
+sua forma ou peso?
+18. Nos últimos 28 dias, quantas vezes você se exercitou de modo compulsivo como
+meio de controlar seu peso, forma ou quantidade de gordura, ou para queimar calorias?
+Questões de 19 a 21: Por favor, assinale o número apropriado. Note que nestas questões o termo “ingestão
+excessiva” significa comer o que os outros considerariam uma quantidade muito grande de comida para a situação,
+acompanhada de sensação de perda de controle sobre a alimentação.
+
+19. Em quantos dos últimos 28 dias, você comeu
+escondido/a (isto é, secretamente)?
+[não conte episódios de ingestão excessiva]
+
+20. Qual foi a proporção de vezes em que você se sentiu
+culpado/a ao comer (sentiu que tinha feito algo errado)
+por causa dos efeitos disso sobre sua forma ou peso?
+[não conte episódios de ingestão excessiva]
+
+21. Nos últimos 28 dias, quão preocupado/a você ficou
+com outras pessoas vendo você comer?
+[não conte episódios de ingestão excessiva]
+
+Nenhum
+dia
+
+1a5
+dias
+
+6 a 12
+dias
+
+0
+
+1
+
+2
+
+3
+
+Nenhuma
+vez
+
+Poucas
+vezes
+
+Menos
+que a
+metade
+
+0
+
+1
+
+2
+
+Nem um
+pouco
+
+0
+
+13 a 15
+dias
+
+23 a 27 dias
+
+todos os
+dias
+
+4
+
+5
+
+6
+
+Metade das
+vezes
+
+Mais
+que a
+metade
+
+A maior parte
+das vezes
+
+Todas as
+vezes
+
+3
+
+4
+
+5
+
+6
+
+Leve
+mente
+
+1
+
+2
+
+16 a
+22
+dias
+
+Modera
+dament
+e
+
+3
+
+4
+
+Profundame
+nte
+
+5
+
+6
+
+Questões de 22 a 28: Por favor, assinale o número apropriado.Lembre-se que as questões se referem somente às últimas 4
+semanas (28 dias)
+Nos últimos 28 dias...
+
+Nem um
+pouco
+
+Leve
+mente
+
+Moder
+adam
+ente
+
+Profundam
+ente
+
+22. O seu peso influenciou a maneira como você se
+julgou (viu-se, sentiu-se, avaliou-se) como pessoa?
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+23. A sua forma influenciou a maneira como você se
+julgou (viu-se, sentiu-se, avaliou-se) como pessoa?
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+24. Quanto você teria se chateado se te pedissem para
+se pesar uma vez por semana (nem mais, nem menos)
+pelas próximas 4 semanas?
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+25. Quão insatisfeito/a você se sentiu com seu peso?
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+26. Quão insatisfeito/a você se sentiu com sua forma?
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+27. Quão desconfortável você se sentiu vendo seu corpo
+(por exemplo: observando sua forma no espelho, em
+reflexos em vitrines, ao se despir, ao tomar banho...)?
+28. Quão desconfortável você se sentiu com outras
+pessoas vendo seu corpo (por exemplo: num vestiário,
+ao nadar, ao usar roupas apertadas...)?
+
+Qual o seu peso atual? ___________ Sabe me dizer qual o peso máximo atingido? ________
+Qual sua altura? ________________
+E o peso mínimo? _________
+Faz relação com ganho de peso e o trauma? ___________________
+Costuma ingerir maior quantidade de alimento em períodos de ansiedade: _____________
+[SE MULHER] Ficou sem menstruar nos últimos 3 ou 4 meses? _____________________
+Em caso de resposta afirmativa: Por quantos meses você ficou sem menstruar? _______
+Você está tomando anticoncepcionais (pílulas)? _____________
+
+36
+
+ANEXO D – Pontuação do EDE-Q
+Para pontuação do EDE-Q
+1. Subescala de Restrição (5 itens)
+- Restrição alimentar (perg 1)
+- Evitar se alimentar (perg 2)
+- Evitar ingestão de alimentos (perg 3)
+- Regras de dieta (perg 4)
+- Estômago vazio (perg 5)
+
+...........
+...........
+...........
+...........
+...........
+
+- Total (soma dos pontos):
+- Divididos pelo número de itens avaliados:
+- Total do escore da subescala
+
+...........
+...........
+..........
+
+2. Subescala de Preocupação Alimentar (5 itens)
+- Preocupação com comida, ingestão ou calorias (perg 7)
+- Medo de perder o controle sobre a alimentação (perg 9)
+- Comer escondido (perg 19)
+- Comer socialmente (perg 21)
+- Culpa por comer (perg 20)
+
+..........
+..........
+..........
+..........
+..........
+
+- Total (soma dos pontos):
+- Divididos pelo número de itens avaliados:
+- Total do escore da subescala
+
+...........
+...........
+..........
+
+3. Subescala de Preocupação com a Forma (8 itens)
+- Abdome plano (perg 6)
+- Preocupação com forma e peso (perg 8)
+- Importância da forma (perg 23)
+- Medo de ganhar peso (perg 10)
+- Insatisfação com a forma (perg 26)
+- Desconforto ao ver o corpo (perg 27)
+- Desconforto ao expor o corpo (perg 28)
+- Sensação de estar gordo (perg 11)
+
+..........
+..........
+.........
+.........
+.........
+.........
+.........
+.........
+
+- Total (soma dos pontos):
+- Divididos pelo número de itens avaliados:
+- Total do escore da subescala
+
+...........
+...........
+..........
+
+4. Subescala de Preocupação com o Peso (5 itens)
+- Importância do peso (perg 22)
+- Reação à prescrição para se pesar (perg 24)
+- Preocupação com forma e peso (perg 8)
+- Insatisfação com o peso (perg 25)
+- Desejo de perder peso (perg 12)
+
+...........
+...........
+..........
+..........
+..........
+
+- Total (soma dos pontos):
+- Divididos pelo número de itens avaliados:
+- Total do escore da subescala
+
+...........
+...........
+..........
+
+Escore global
+- Total do escore da subescala de restrição:
+............
+- Total do escore da subescala de preocupação alimentar
+...........
+- Total do escore da subescala de preocupação com a forma ............
+- Total do escore da subescala de preocupação com o peso
+...........
+- Total (soma dos pontos):
+...........
+- Divididos pelo número de subescalas avaliadas:
+..........
+
+Total da subescala de
+restrição:
+...................
+
+Total da subescala de
+preocupação alimentar:
+.....................
+
+Total da subescala
+de preocupação
+com a forma:
+....................
+
+Total da subescala de
+preocupação com o
+peso:
+...................
+
+Total do escore global:
+..................
+
+37
+
+

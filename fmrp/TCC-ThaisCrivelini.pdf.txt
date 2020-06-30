@@ -1,0 +1,1549 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINA DE RIBEIRÃO PRETO
+CURSO DE CIÊNCIAS BIOMÉDICAS - ÊNFASE EM BIOTECNOLOGIA EM
+SAÚDE
+
+THAÍS RIBEIRO CRIVELINI
+
+INVESTIGAÇÃO DO EFEITO ANTINOCICEPTIVO DO
+PEPTÍDEO ANÁLOGO A CROTALFINA EM MODELOS
+EXPERIMENTAIS DE NOCICEPÇÃO
+
+SÃO PAULO
+2018
+
+THAÍS RIBEIRO CRIVELINI
+
+INVESTIGAÇÃO DO EFEITO ANTINOCICEPTIVO DO
+PEPTÍDEO ANÁLOGO A CROTALFINA EM MODELOS
+EXPERIMENTAIS DE NOCICEPÇÃO
+Trabalho de Conclusão de Curso submetido à
+Faculdade de Medicina de Ribeirão Preto da
+Universidade de São Paulo - USP, como
+requisito parcial para a obtenção do título de
+Bacharel em Ciências Biomédicas com Ênfase
+em Biotecnologia em Saúde.
+
+Orientadora: Yara Cury, Ph.D. – Instituto Butantan
+Co-orientadora: Gisele Picolo, Ph.D. – Instituto Butantan
+Colaboradores: Flávia Santa Celícila, Ph.D. – Instituto Butantan
+Ana Marisa Chudzinki-Tavassi, Ph.D. – Instituto Butantan
+Denis Servant, Ph.D. – DRF/IBITECS, CEA, França
+
+SÃO PAULO
+OUTUBRO - 2018
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+2
+
+Àqueles que dedicaram suas vidas de
+corpo e alma para me criar. Me
+proporcionaram apoio em todas as
+etapas, foram meu porto seguro nos
+momentos
+
+de
+
+desespero,
+
+me
+
+sustentaram mesmo nos momentos
+difíceis. Me ensinaram o amor, o
+carinho e a perseverança. Devo
+grande parte do meu sucesso à
+vocês. À minha família.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+3
+
+AGRADECIMENTOS
+
+A Dra. Yara Cury, pela oportunidade de estudar sob sua orientação, por ter me
+auxiliado a alcançar um maior crescimento pessoal, pela confiança depositada em
+mim e por ser um exemplo de calma e paciência. A Dra. Gisele Picolo, minha coorientadora, por sempre estar disposta a me ajudar, discutir e melhorar o projeto. A
+Dra. Ana Marisa Chudzinski-Tavassi pela colaboração e oportunidade de participação
+no MBA em Gestão da Inovação em Saúde.
+Agradeço a Fundação de Amparo à Pesquisa do Estado de São Paulo, pelo
+apoio financeiro e institucional, assim como agradeço o Instituto Butantan pela
+oportunidade de estágio.
+Aos criadores, coordenadores e a todos os professores que participaram
+ativamente da formulação desse curso. Sem a força de vontade de cada um de vocês,
+para fazer o curso de Ciências Biomédicas crescer cada vez mais, nada disso seria
+possível! Agradeço pela insistência de professores excelentes em dar o melhor de si
+para educar de verdade, alguns marcaram minha formação não só pelo conteúdo
+teórico, mas pelo comprometimento com a docência.
+A Flavia Santa-Cecília, primeiramente pelo acolhimento desde o primeiro dia em
+que cheguei no laboratório, com seu jeitinho mineiro de ser que me ganhou logo de
+início, pela simpatia e simplicidade. Também pela amizade e convivência que
+tornaram o meu dia-a-dia mais leve e agradável, por me auxiliar em cada passo deste
+projeto e principalmente, por estar sempre disposta a me ajudar e discutir cada
+detalhe do projeto.
+A todos que fazem parte do Laboratório Especial de Dor e Sinalização (LEDS)
+do Instituto Butantan, pela convivência agradável, pelos momentos em que precisei
+de ajuda e fui socorrida, pelas risadas e cafés fresquinhos que salvaram o meu dia.
+Agradeço principalmente aos meus pais, pelo auxílio ao longo da minha
+formação, não só financeiro, mas também por terem confiado em mim, por terem
+colocado suas expectativas esperando o melhor sempre. Nada do que eu alcancei
+até hoje seria possível sem o apoio emocional que vocês me proporcionaram, sem os
+valores incrivelmente enriquecedores que me ensinaram e sem o exemplo de
+superação e garra pra encarar o mundo que me serviu de inspiração para buscar
+meus sonhos.
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+4
+
+Ao Yves, um homem que tenho orgulho de chamar de irmão, meu espelho desde
+pequena, sempre me serviu de inspiração, esteve sempre disposto a me ajudar no
+que fosse necessário, compartilhando um pouco do seu vasto conhecimento e
+experiência de vida. Eu não seria a mesma pessoa sem a tua presença, sem a tua
+companhia e o carinho imenso que a gente compartilha desde pequenos.
+Ao meu melhor amigo e companheiro, que acompanhou minha jornada de perto,
+desde bem antes de entrar na faculdade. Agradeço muito por estar ao meu lado nos
+melhores e piores momentos, compartilhando comigo, ao longo dos anos, dessa tua
+calma e paz interior, fazendo com que a minha vida seja mais feliz e certamente me
+ajudando a me levantar após minhas derrotas. Grande parte do meu crescimento
+pessoal veio da nossa convivência juntos, hora vivendo perto, hora vivendo longe,
+mas o importante é que superamos as barreiras que apareceram e nos fortalecemos.
+Aos meus amigos/irmãos, que se tornaram minha família em Ribeirão Preto, me
+ajudaram nos momentos mais desesperadores, compartilharam não apenas suas
+vidas comigo, mas também risadas inesquecíveis e momentos incríveis em que me
+senti plenamente feliz. Posso afirmar com toda a certeza do mundo, que vocês
+fizeram toda a diferença nesses 4 anos, me ensinaram a construir um lar em uma
+cidade desconhecida, me mostraram que não precisa de mais nada quando se está
+em boa companhia e desejando o sucesso um do outro.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+5
+
+RESUMO
+
+A dor é definida pela Associação Internacional para o Estudo da Dor (IASP),
+como “uma experiência emocional e sensorial desagradável associada a uma lesão
+tecidual real ou potencial”. As dores, especialmente a dor crônica, que acomete cerca
+de 30% da população mundial adulta, representam problema crescente de saúde
+pública, por serem debilitantes, constantes e resistentes às terapias disponíveis no
+mercado. Dessa forma, existe a necessidade do desenvolvimento de estudos visando
+ampliar a caracterização dos mecanismos moleculares envolvidos na dor, bem como
+o desenvolvimento de novas terapias. Nesse contexto, A Crotalfina (CNF), um
+peptídeo inicialmente caracterizado e isolado do veneno de serpentes Crotalus
+durissus terrificus, tem apresentado atividades promissoras. Este peptídeo induz ação
+analgésica potente e de longa duração, mediada pela ativação de receptores
+periféricos canabinóides e opióides. Em estudos preliminares, visando investigar a
+relação estrutura-atividade da CNF, definir seu farmacóforo e a menor porção ativa
+deste peptídeo, foi observada, utilizando modelo experimental de hiperalgesia
+acarretada por carragenina, atividade antinociceptiva para um análogo sintético da
+crotalfina, o CNFx. Assim, o objetivo do presente trabalho foi ampliar a caracterização
+do efeito do composto CNFx e os mecanismos envolvidos nesta ação,
+comparativamente ao efeito da molécula líder (crotalfina). Os resultados mostraram
+que o análogo, na dose 25 µg/kg induz resposta antinociceptiva de mesma magnitude
+que a crotalfina na dose 54,3 µg/kg e também apresenta maior duração de ação (6
+dias), quando comparado à molécula líder em modelo de dor aguda (induzida por
+PGE2). Adicionalmente, por meio da utilização de antagonistas seletivos ou
+específicos de receptores, foi possível evidenciar que o análogo apresenta o mesmo
+mecanismo canabinóide/opióide detectado para a crotalfina, neste modelo de
+hiperalgesia. Além disso, o CNFx na dose de 75 µg/kg apresenta efeito
+antinociceptivo em modelo de dor neuropática ocasionada por constrição do nervo
+isquiático (CCI).
+Palavras-chave: crotalfina; análogo da crotalfina; efeito antinociceptivo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+6
+
+ABSTRACT
+
+Pain, as defined by the International Association for the Study of Pain (IASP) is
+"an unpleasant sensory and emotional experience associated with actual or potential
+tissue damage". Chronic pain represents a growing public health problem, since it is
+frequently debilitating, intense and constant. Furthermore, chronic pain tends to be
+very difficult to manage by current pharmacological therapies and it is estimated that
+chronic pain affects 30% of adults in the world. Therefore, it is important to understand
+the mechanisms involved in pain, as well as the development of more effective
+treatments. Crotalphine (CNF) is a novel molecule endowed with analgesic activity,
+first identified and isolated from the venom of the South America rattlesnake Crotalus
+durissus terrificus. Crotalphine induces a potent and long lasting antinociceptive
+action, mediated by activation of cannabinoid and opioid receptors. Our group, in
+collaboration with the Institute of Biology and Technology Saclay (IBITECSDRF)/Center of Atomic Energy (CEA) in France, have been carrying out studies on
+structure-activity relationship aiming at defining crotalphine’s pharmacophore and
+solve its 3D structure. In these studies, one of the analogues that was tested (CNFx)
+presented, in initial studies, a potent and long lasting antinociceptive effect when orally
+administrated in a model of hyperalgesia induced in mice, by carrageenin. Based on
+these preliminary data, the aim of this work was to further characterize the
+antinociceptive effect of compound CNFx, evaluating the time-course of the analgesic
+activity and also, the mechanisms involved in this effect (by the use of selective opioid
+and cannabinoid receptors antagonists). The lead molecule, crotalphine, was used as
+positive control. The results have shown that the CNFx, when administrated in a dose
+of 25 µg/kg, induces antinociception in the model of hyperalgesia induced by PGE2,
+similar to that induced by crotalphine (54,3 µg/kg) and presents a longer effect (6 days)
+as compared to the lead molecule (5 days). Studies on the mechanisms involved in
+the antinociceptive effect of the analogue have indicated the involvement of
+cannabinoid and opioid receptors. Furthermore, the CNFx (75 µg/kg) showed
+antinociceptive effect when evaluated in an experimental model of neuroptic pain
+induced by chronic constriction of rat sciatic nerve.
+Keywords: crotalphine; crotalphine analogue; antinociceptive effect.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+7
+
+LISTA DE ILUSTRAÇÕES
+
+Figura 1: Sequência de Aminoácidos da CNF;
+Figura 2: Padronização da dose de crotalfina (CNF);
+Figura 3: Análise dose-resposta antinociceptiva do CNFx em modelo de dor
+inflamatória;
+Figura 4: Efeito do CNFx na presença ou ausência da PGE2;
+Figura 5: Comparação do efeito antinociceptivo da crotalfina e seu análogo, para as
+diferentes doses testadas;
+Figura 6: Análise da duração do efeito do CNFx;
+Figura 7: Envolvimento de receptores canabinóides no efeito antinociceptivo do CNFx;
+Figura 8: Envolvimento de receptores opióides no efeito antinociceptivo do CNFx;
+Figura 9: Envolvimento da dinorfina A no efeito antinociceptivo do CNFx;
+Figura 10: Análise do quadro de neuropatia;
+Figura 11: Avaliação do efeito da crotalfina e seu análogo em modelo de dor
+neuropática.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+8
+
+LISTA DE ABREVIATURAS E SIGLAS
+IASP - Associação Internacional para o Estudo da Dor
+SNC - Sistema Nervoso Central
+DRG - gânglio da raiz dorsal da medula espinal
+GABA - ácido gama-aminobutírico
+PGE2 - prostaglandina E2
+AMPc - adenosina monofosfato cíclico
+k, δ - receptores opióides do tipo kappa (k) e delta (δ)
+CNF - crotalfina
+kDa - kilodalton
+CB2 - receptores canabinóides
+ºC – graus Celcius
+CEUAIB - Comissão de Ética no Uso de Animais do Instituto Butantan
+ng - nanogramas
+μl - microlitros
+µg - microgramas
+ml - mililitros
+CCI - constrição crônica do nervo isquiático
+cm - centímetros
+g/s – gramas por segundo
+μg/kg – microgramas por quilogramas de peso
+DMSO - dimetilsulfóxido
+via i.pl. – via intraplantar
+v.o – via oral
+Nor – BNI - Norbinaltorfimina
+AM630 - antagonista seletivo de receptores canabinóides CB2
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+9
+
+SUMÁRIO
+
+1.
+
+2.
+
+3.
+
+INTRODUÇÃO __________________________________________________ 12
+1.1
+
+Dor - Considerações Gerais ____________________________________ 12
+
+1.2
+
+Agentes indutores de hipernocicepção ___________________________ 17
+
+1.3
+
+Crotalfina __________________________________________________ 18
+
+OBJETIVOS ____________________________________________________ 23
+2.1
+
+Objetivo geral _______________________________________________ 23
+
+2.2
+
+Objetivos específicos _________________________________________ 23
+
+MATERIAIS E MÉTODOS_________________________________________ 24
+3.1
+
+Animais ____________________________________________________ 24
+
+3.2
+
+Modelo experimental de hiperalgesia inflamatória___________________ 24
+
+3.3
+
+Modelo experimental de dor neuropática __________________________ 25
+
+3.4
+
+Avaliação da hiperalgesia em ratos ______________________________ 25
+
+3.5
+
+Tratamentos Farmacológicos ___________________________________ 26
+
+3.5.1 Crotalfina (CNF) (Proteimax Biotecnologia Ltda, Brasil) ____________ 26
+3.5.2 Análogo da crotalfina CNFx __________________________________ 26
+3.5.3 Antagonistas e Anticorpos ___________________________________ 27
+3.6
+
+Delineamento Experimental in vivo ______________________________ 28
+I.
+
+Padronização da dose de Crotalfina (CNF) ___________________ 28
+
+II.
+
+Análise dose-resposta antinociceptiva do CNFx em modelo de dor
+
+inflamatória _________________________________________________ 28
+III.
+
+Efeito antinociceptivo do CNFx na presença ou ausência da PGE2_ 29
+
+IV.
+
+Comparação do efeito antinociceptivo da crotalfina e seu análogo, para
+
+as diferentes doses testadas ___________________________________ 29
+V.
+
+Análise da duração do efeito do CNFx _______________________ 29
+
+VI.
+
+Análise do mecanismo de ação do CNFx _____________________ 30
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+10
+
+VII.
+
+Análise do efeito antinociceptivo do CNFx em modelo de dor crônica
+31
+
+3.7
+4.
+
+Análise Estatística ___________________________________________ 32
+
+RESULTADOS _________________________________________________ 33
+I.
+
+Padronização da Dose de Crotalfina (CNF) _________________ 33
+
+II.
+
+Análise dose-resposta antinociceptiva do CNFx em modelo de dor
+
+inflamatória _______________________________________________ 34
+III.
+
+Efeito antinociceptivo do CNFx na presença ou ausência da PGE2
+35
+
+IV.
+
+Comparação do efeito antinociceptivo da crotalfina e seu análogo,
+
+para as diferentes doses testadas _____________________________ 36
+V.
+
+Análise da duração do efeito do CNFx _____________________ 37
+
+VI.
+
+Análise do mecanismo de ação do CNFx ___________________ 39
+
+VII.
+
+Análise do efeito antinociceptivo do CNFx em modelo de dor
+
+neuropática _______________________________________________ 42
+5.
+
+DISCUSSÃO ___________________________________________________ 45
+5.1
+
+Padronização da dose da crotalfina ______________________________ 45
+
+5.2
+
+Desenvolvimento do CNFx_____________________________________ 45
+
+5.3
+
+Efeito Antinociceptivo do CNFx _________________________________ 46
+
+5.4
+
+Comparação do análogo com a crotalfina _________________________ 47
+
+5.5
+
+Mecanismos e tempo de ação envolvidos no efeito antinociceptivo do
+
+análogo _________________________________________________________ 48
+5.6
+6.
+
+Modelo de dor crônica neuropática ______________________________ 49
+
+CONCLUSÕES _________________________________________________ 50
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+11
+
+1. INTRODUÇÃO
+
+1.1 Dor - Considerações Gerais
+A Associação Internacional para o Estudo da Dor (IASP), define essa sensação
+de dor como “uma experiência emocional e sensorial desagradável associada com
+uma lesão tecidual real ou potencial”. Assim, pode-se dizer que a dor é a “percepção
+desagradável de uma sensação nociceptiva” (noci: nocivo; cepção: recepção); já a
+nocicepção é a definição do mecanismo pelo qual os estímulos periféricos nocivos ou
+de dano são transmitidos ao Sistema Nervoso Central (SNC). Dessa forma, a dor
+inclui não apenas a percepção consciente de um evento sensorial, mas também a
+interpretação cognitiva e resposta emocional associada à experiência da dor (Julius
+& Basbaum, 2001; Sandkuhler, 2009). Dessa forma, a caracterização da dor deve
+levar em consideração seus diferentes aspectos e a forma como é processada,
+levando em conta a natureza da dor – fisiológica ou patológica.
+A dor é uma experiência humana universal que a curto prazo serve como um
+sinal de alerta para a proteção contra uma lesão específica, ou pode ocorrer após
+ferimento ou injúria (Deuis Jennifer R. et al., 2017). A função da dor nestes casos é
+interromper de forma imediata qualquer estímulo de injúria ao local anteriormente
+lesionado, para evitar maiores danos durante o processo de cicatrização ou
+recuperação (Deuis Jennifer R. et al., 2017). A relevância desta resposta protetora é
+mais evidente nos indivíduos que sofrem de uma condição genética rara que resulta
+na ausência de dor ou incapacidade de experimentar a percepção desagradável de
+um estímulo nocivo. A falta da resposta de dor pode levar a frequentes ferimentos
+nestes indivíduos, que consequentemente se expõem a situações de alto risco e
+frequentemente vem a óbito muito cedo (Deuis Jennifer R. et al., 2017).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+12
+
+Estímulos nocivos de diversas modalidades são transmitidos por um conjunto
+de fibras especializadas que possuem terminações sensoriais livres, os chamados
+nociceptores, presentes nos tecidos periféricos e que tem a função de codificar os
+estímulos nocivos para que essa informação chegue até o SNC. Os neurônios que
+compõem esse primeiro sinal são pseudounipolares, possuem um axônio que se
+dirige a região periférica, um corpo celular localizado no gânglio da raiz dorsal da
+medula espinal (DRG) e outro axônio que se dirige ao SNC. Os neurônios aferentes
+primários são os responsáveis pela detecção do estímulo nociceptivo, condução do
+impulso da periferia até corno dorsal da medula onde fazem a primeira sinapse do
+sistema de transmissão da dor e levam a informação para neurônios secundários
+(transmissão sináptica) (Schaible, HG. & Richter, 2004). Na medula espinal, onde
+ocorre a primeira sinapse, o estímulo é conduzido até o tronco cerebral, tálamo e
+córtex cerebral para serem interpretados como uma informação dolorosa (Schaible,
+HG. & Richter, 2004).
+Existem diferentes tipos de fibras, dentre elas, se destacam as fibras
+desprovidas de mielina ou de baixa velocidade de condução (tipo C), também
+caracterizadas como nociceptores polimodais, uma vez que respondem a estímulos
+mecânicos, térmicos e químicos; e as fibras mielinizadas denominadas Aδ, que
+conduzem mais rapidamente os impulsos elétricos e são subdivididas em duas
+classes: tipo I (nociceptores mecânicos de alto limiar), que respondem bem a
+estímulos mecânicos e químicos, mas que respondem a temperaturas relativamente
+altas (>50ºC) e tipo II, que possuem menor limiar de ativação pelo calor, mas
+apresentam limiar alto para estímulos mecânicos (Basbaum et al, 2009). As
+propriedades físico-químicas dos diversos estímulos nocivos tais como calor, frio
+extremo, pressão e estímulos nocivos químicos, são convertidas em atividade elétrica
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+13
+
+por meio de sensores específicos. Essa atividade elétrica é amplificada pelos canais
+de sódio dependentes de voltagem, para gerar potenciais de ação (Basbaum et al,
+2009). As fibras aferentes nociceptivas transmitem os estímulos nocivos até o corno
+dorsal da medula espinal, onde ocorre a sinapse com os neurônios de segunda
+ordem, e antes que essa informação chegue até o cérebro, ocorre uma modulação
+(inibitória e/ou excitatória) até que ela seja interpretada como um estímulo doloroso
+(Rohini Kuner, 2010).
+Pode-se denominar dor aguda como como um evento de início rápido, bem
+definido e de rápida duração e está associada a lesões teciduais em resposta a um
+estímulo nocivo, que pode ter sido induzido por traumas, inflamação, infecções, entre
+outras causas e desaparece com a resolução do processo (Chen Z., et al., 2017; Xiao
+X & Zhang YQ, 2018). Tradicionalmente define-se um quadro de dor crônica, quando
+um processo doloroso ainda persevera mesmo após a resolução de sua causa, ou
+seja, dor sem valor biológico aparente que persiste além do período comum esperado
+para o processo de cicatrização (3 meses). Porém, as definições convencionais não
+levam em consideração o complexo conjunto de mecanismos e suas distinções nos
+processos de dor fisiológica (aguda) e patológica (crônica) assim como a transição de
+uma para a outra (Morlion B, et al., 2018).
+A dor crônica possui um enorme impacto negativo na qualidade de vida,
+disposição, produtividade e força de trabalho, além de gerar um grande gasto em
+saúde (Morlion B, et al., 2018). Este quadro está associado à lesão prolongada,
+processos patológicos crônicos ou injúria do SNC e pode resultar da alteração das
+vias nociceptivas, incluindo mudanças na expressão de receptores, transmissores e
+canais iônicos. A dor crônica representa crescente problema de saúde pública, é
+frequentemente debilitante, intensa, constante e muitas vezes, resistente às terapias
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+14
+
+disponíveis (Cohen & Mao, 2014). Além disso, estima-se que a dor crônica afete cerca
+de 30% dos adultos em todo o mundo, fazendo-se necessária a busca pelo
+desenvolvimento de novos medicamentos que não causem resistência, como as
+disponíveis atualmente no mercado (Johannes et al., 2010, Ji et al., 2014).
+A dor crônica compreende vários tipos de dor, incluindo dor inflamatória
+crônica, dor do câncer e dor neuropática (Dworkin et al., 2010; Kalso et al., 2005),
+caracterizando-se pela presença de hiperalgesia (resposta aumentada a um estímulo
+previamente doloroso), dor espontânea (resposta dolorosa mesmo na ausência de
+um estímulo) e alodinia (dor em resposta a estímulos normalmente não dolorosos,
+como o toque) (Woolf & Mannion, 1999; Austin & Moalem Taylor, 2010).
+Do ponto de vista fisiológico, existe uma diferença clara entre processo
+nociceptivo de dor – que se origina no tecido em resposta ao estímulo de um
+nociceptor – e o processo de dor neuropática – que tem origem tanto no sistema
+periférico quanto no SNC como resultado de um dano na fibra nervosa ou inflamação.
+Em ambos os casos, os estímulos nociceptivos são gerados via neurônios e enviados
+para a medula espinal por meio de neurotransmissores excitatórios – aumentam a dor
+(glutamato) e/ou inibitórios – reduzem a dor (ácido gama-aminobutírico [GABA]). A
+sensibilização periférica ou central pode resultar no aumento dos estímulos
+nociceptivos que serão interpretados e podem modificar a percepção da dor (Morlion
+B, et al., 2018).
+Como resultado de uma inflamação ou lesão, ocorrem alterações no sistema
+nociceptivo – nociceptores – com a consequente sensibilização de seus terminais.
+Este processo é caracterizado pela hipersensibilidade e aumento da resposta a
+estímulos químicos, térmicos ou mecânicos e atividade espontânea do neurônio
+(geração de potenciais de ação espontâneos, alterações na expressão e tráfego de
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+15
+
+proteínas nos corpos celulares) que resulta na alteração da organização estrutural
+das sinapses na medula espinal (Morlion B, et al., 2018).
+
+Alterações similares
+
+também ocorrem a nível da medula espinal e cérebro, envolvendo neurônios centrais
+e também células da glia, de forma que tais alterações promovam a facilitação de
+respostas a estímulos periféricos. Neste caso, o limiar basal capaz de gerar dor sofre
+uma redução na sua amplitude e duração o que resulta na maior percepção da dor.
+Clinicamente, quando estímulos táteis que não causavam dor anteriormente se
+tornam dolorosos, diz-se que o paciente possui quadro de alodinia ou então quando
+o paciente experimenta dor mais intensa do que geralmente esperada para
+determinado estímulo, caracteriza-se o processo de hiperalgesia (Morlion B, et al.,
+2018).
+Estes dados em conjunto, apontam para a importância da realização de
+estudos experimentais, in vitro e in vivo, que possibilitem a ampliação do
+conhecimento dos mecanismos moleculares e celulares envolvidos nos processos
+nociceptivos, bem como para o desenvolvimento de novos fármacos analgésicos,
+com maior eficácia e menor intensidade de efeitos adversos. Os estudos de dor em
+humanos são de difícil performance, extremamente subjetivos e limitados por
+questões éticas, levando ao inevitável uso de animais, que apesar de não
+apresentarem a capacidade de comunicar verbalmente a ocorrência de dor, quando
+submetidos a um estímulo reconhecidamente nociceptivo, exibem respostas
+comportamentais, motoras e fisiológicas semelhantes às observadas em seres
+humanos (Sandkuhler, 2009).
+Modelos experimentais comportamentais de avaliação de dor em animais, tem
+sido amplamente utilizados para o estudo dos mecanismos envolvidos na nocicepção
+e seu controle. A partir da avaliação de parâmetros já bastante definidos e aceitos
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+16
+
+para estes modelos, é possível inferir que um animal está experimentando uma
+resposta
+
+nociceptiva.
+
+Portanto,
+
+o
+
+termo
+
+nocicepção
+
+engloba
+
+respostas
+
+comportamentais e neurofisiológicas da dor, dissociado do caráter cognitivo-afetivo
+da resposta (Wieseler-Frank et al., 2004).
+
+1.2 Agentes indutores de hipernocicepção
+Existem diferentes métodos para a indução da hipernocicepção utilizados
+experimentalmente, sendo um deles realizado por meio de agentes que aumentam a
+sensibilidade à dor, ou seja, agentes indutores de hipernocicepção. A escolha deste
+agente deve levar em consideração o modelo experimental de hiperalgesia a ser
+utilizado, o método de avaliação de hipernocicepção e também o modelo animal
+escolhido.
+A carragenina e a prostaglandina E2 (PGE2) têm sido utilizados como agentes
+indutores de hipernocicepção pois atuam na via inflamatória, sendo um agente
+inflamatório e um mediador inflamatório, respectivamente. A carragenina induz uma
+sensibilização de nociceptores, ou seja, atua como um componente periférico e
+também possui componente central com a participação de circuitos centrais de dor.
+A prostaglandina atua também na sensibilização de nociceptores de forma a reduzir
+o limiar de dor e aumentar a excitabilidade da membrana neuronal. Esta
+sensibilização ocorre por meio da ativação de mensageiros secundários da
+inflamação, tais como adenosina monofosfato cíclico (AMPc) e proteínas quinases
+(PKA e PKC). A fosforilação subsequente de canais dependentes de sódio e inibição
+de canais dependentes de potássio são responsáveis pela alteração do potencial de
+repouso que leva à redução do limiar nociceptivo e aumento de excitabilidade da
+membrana (Verri-Jr et al., 2006).
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+17
+
+A hipernocicepção pode ser classificada de acordo com a sua duração
+(imediata, tardia, intermitente ou persistente), esta classificação está relacionada à
+intensidade e tipo de estímulo. Em modelos experimentais que utilizam o método de
+pressão de pata conforme descrito por Randall e Selitto (1957), a aplicação de um
+estímulo mecânico evoca um comportamento nociceptivo de retirada de pata que
+pode ser detectado minutos ou horas após a administração do agente indutor de
+hiperalgesia. Quando utilizada a PGE 2 via intradérmica o tempo de sensibilização é
+de 15 minutos após a administração, enquanto que a via subcutânea causa um efeito
+mais tardio de hipernocicepção, sendo seu pico de ação detectado após 3h de
+administração (Verri-Jr et al., 2006).
+
+1.3 Crotalfina
+Os estudos que levaram à descoberta da crotalfina tiveram sua origem no início
+do século passado, com a observação de que o veneno de determinadas espécies
+de cobras era capaz de induzir um efeito analgésico em seres humanos assim como
+em modelos experimentais de dor aguda. Dentre eles, o veneno da serpente Crotalus
+durissus terrificus, popularmente conhecida como cascavel, se destacou como
+potencial objeto de estudo para análise de suas propriedades (Brasil, 1934; 1950).
+Como resultado destes estudos, mostrou-se que a administração oral do
+veneno em camundongos ou ratos (200 – 1600 µg/kg) induz efeito antinociceptivo
+mediado pela ativação de receptores opióides do tipo kappa (k) e/ou delta (δ) (Giorgi
+et al., 1993; Picolo et al., 1998; Picolo; Giorgi; Cury, 2000; Picolo et. al., 2003; Picolo
+& Cury, 2004). A ativação destes receptores juntamente com a ativação periférica da
+via L-arginina/óxido nítrico/GMPc/PKG e abertura de canais de potássio dependentes
+de ATP, caracterizam mecanismo molecular importante para o efeito antinociceptivo
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+18
+
+periférico do veneno (Giorgi; Cury, 2000; Picolo et. al., 2003; Picolo & Cury, 2004).
+Além disso, apesar do envolvimento de receptores opióides, o efeito antinociceptivo
+do veneno em modelo de hipernocicepção induzida por carragenina não apresentou
+relação com sintomas caracterizados por síndrome de abstinência (Brigatte et.al.,
+2001).
+Uma vez que resultados promissores indicando potente efeito antinociceptivo
+e de longa duração do veneno crotálico, quando avaliado em modelo de
+hipernocicepção inflamatória induzida por carragenina ou prostaglandina E2 (Giorgi;
+Cury, 2000; Brigatte et.al., 2001; Picolo et. al., 2003; Picolo & Cury, 2004), foi realizado
+o processo de purificação e caracterização do composto responsável por tal efeito.
+Os estudos de purificação levaram à identificação da crotalfina (CNF), um peptídeo
+de 14 aminoácidos, contendo uma ponte dissulfídica e um ácido piroglutâmico (<E F
+S P E N C Q G E S Q P C>), com aproximadamente 1,5 kDa. A CNF foi isolada e
+quimicamente caracterizada do veneno crotálico da cascavel, dando origem à
+sequência mostrada na Figura 1. A sequência é idêntica à cadeia γ da crotapotina, a
+subunidade não tóxica, não enzimática e acídica da crotoxina, principal neurotoxina
+presente no veneno crotálico (Aird et al., 1990; Bon et al., 1989).
+
+Figura 1 – Sequência de Aminoácidos da CNF – Fonte: Velhote FB, PhD Thesis, 2013.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+19
+
+A CNF, administrada em baixas doses por via oral, intravenosa ou intraplantar,
+exibe potente efeito antinociceptivo em modelos experimentais de dor aguda e
+crônica. Esse efeito é de longa duração, sendo observado por 2-3 dias após a
+administração de uma única dose, em modelo experimental de câncer ósseo ou de
+dor neuropática induzida por constrição crônica do nervo isquiático, respectivamente,
+(Gutierrez VP, PhD Thesis, 2013; Gutierrez et al, 2008), e de até 5 dias quando
+utilizada em modelo de hiperalgesia induzida por carragenina ou prostaglandina E2
+(Konno et al., 2008).
+Embora a estrutura química não se assemelhe a nenhum peptídeo opióide
+conhecido, os estudos revelam que o efeito antinociceptivo da CNF é mediado pela
+ativação de receptores opióides periféricos do tipo kappa e/ou delta (Konno et al,
+2008; Gutierrez et al., 2008). Ademais, estudos realizados utilizando modelo
+inflamatório agudo induzido por carragenina, demonstraram a participação, no efeito
+analgésico da CNF, de receptores canabinóides CB2 e subsequente liberação de
+dinorfina A, um agonista endógeno de receptores κ-opióides. Estes dados em
+conjunto, demonstram interação entre os sistemas opióide e canabinóide no
+mecanismo de ação deste peptídeo (Machado et al, 2014).
+Quando administrada perifericamente, no modelo de sensibilização por
+prostaglandina E2 (PGE2) ou constrição do nervo isquiático de ratos, a CNF, da
+mesma forma que os agonistas opióides, altera a conformação tridimensional dos
+receptores opióides presentes no gânglio da raiz dorsal (DRG) e no nervo safeno
+isolado da pata de ratos, indicando a ativação desses receptores pelo peptídeo
+(Zambelli et al. 2014). Adicionalmente, a CNF destaca-se pela ausência do
+aparecimento de tolerância ao seu efeito antinociceptivo e por não induzir o
+desenvolvimento de hiperalgesia tardia (Pereira LM & Cury Y), após o uso prolongado
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+20
+
+(Gutierrez et al., 2008), e também pela ausência de alterações na motilidade
+gastrointestinal (dados não publicados), diferentemente do que acontece com
+fármacos opióides como a morfina (Angst MS, Clark JD 2006).
+Em estudo envolvendo concentrações nanomolares de CNF, demonstrou-se a
+ativação e dessensibilização de canais TRPA1, sendo esse mecanismo essencial
+para o efeito antinociceptivo demonstrado em modelos in vivo. Os dados deste estudo
+suportam a hipótese de que os mecanismos relacionados ao efeito antinociceptivo da
+CNF estão atrelados à ativação de canais TRPA1 que possivelmente levam ao
+aumento de cálcio que consequentemente serve de gatilho para a translocação de
+receptores opióides até a membrana da célula nervosa. Dessa forma, o aumento da
+expressão destes receptores opióides levam ao aumento da capacidade de ligação
+de opióides endógenos, contribuindo para o efeito antinociceptivo da CNF (Bressan
+et. al., 2016).
+Tendo em vista os diversos estudos realizados com a CNF e a dificuldade em
+definir os mecanismos diretos de seu efeito, a busca pela determinação de seu
+farmacóforo e relação estrutura-atividade se fez necessária. Para atingir tais objetivos
+e determinar a menor sequência ativa da crotalfina, vêm sendo realizada uma
+colaboração entre o Laboratório Especial de Dor e Sinalização em e o DRF/ Centro
+de Energia Atômica (CEA) da França. Com base no exposto, diferentes tipos de
+peptídeos análogos da CNF foram sintetizados e testados em modelo de
+hipernocicepção induzida pela injeção intraplantar de carragenina em camundongos
+(dados não publicados). Foram sintetizados 8 análogos que correspondem tanto à
+uma porção da molécula líder (crotalfina), como também compostos que sofreram
+modificação pontual de apenas um aminoácido – substituição por alanina (repetindo
+este processo para outros aminoácidos da cadeia da CNF).
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+21
+
+Inicialmente, avaliou-se o efeito da CNF sintetizada pelo CEA, administrada
+por via oral, comparando com o efeito da CNF sintetizada pela empresa American
+Peptide Company Inc, EUA. Os resultados mostraram que ambas as moléculas
+inibem a hiperalgesia induzida em camundongos, pela carragenina, por todo o
+período de observação (3 e 72 h), confirmando a longa duração da ação
+antinociceptiva do peptídeo. O estudo com os análogos mostrou que os aminoácidos
+F, N, P e Z (Fenilalanina, Asparagina, Prolina e Glutamina) são fundamentais para o
+efeito antinociceptivo do peptídeo (dados não publicados). Ainda, dados preliminares
+utilizando um peptídeo análogo denominado CNFx (uma vez que esse análogo é
+objeto de deposito de patente, a sua sequência não está sendo informada neste
+documento), mostraram que este análogo apresenta potente efeito antinociceptivo e
+de longa duração. Dessa forma, tornou-se importante ampliar a avaliação do efeito
+antinociceptivo do composto CNFx em outros modelos experimentais de dor e
+confirmar o mecanismo canabinóide/opióide já conhecido para a molécula mãe
+(crotalfina).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+22
+
+2. OBJETIVOS
+
+2.1 Objetivo geral
+O objetivo do presente trabalho foi avaliar o efeito antinociceptivo do análogo
+da crotalfina CNFx em modelo de dor inflamatória aguda (hiperalgesia induzida por
+prostaglandina E2), determinando a curva dose-resposta, duração de ação e os
+mecanismos farmacológicos envolvidos nesta ação, com o intuito de comparar a
+atividade do análogo à da molécula líder crotalfina. Além disso, visando avaliar o
+potencial terapêutico, comparativamente à crotalfina, foi investigado o efeito
+antinociceptivo do análogo CNFx em modelo experimental de dor crônica neuropática
+(constrição do nervo isquiático de ratos).
+
+2.2 Objetivos específicos
+a) Avaliar o efeito antinociceptivo do peptídeo sintético CNFx, administrado via
+oral, por meio de estudos dose-resposta e a duração deste efeito, em modelo
+de hiperalgesia inflamatória acarretada em ratos por prostaglandina E2;
+b) Avaliar o envolvimento dos sistemas canabinóide e opióide no efeito
+antinociceptivo do CNFx, por meio do uso de antagonistas seletivos e
+específicos destes receptores e de anticorpos anti-peptídeos opióides
+endógenos;
+c) Avaliar o efeito analgésico do peptídeo CNFx utilizando modelo de dor crônica
+neuropática acarretada pela constrição do nervo isquiático de ratos.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+23
+
+3. MATERIAIS E MÉTODOS
+
+3.1 Animais
+Para os estudos envolvendo modelo comportamental de avaliação de dor,
+foram utilizados ratos Wistar, machos, com peso entre 180-200 g, fornecidos pelo
+Biotério Central do Instituto Butantan. Os ensaios experimentais foram realizados
+entre as 9:00 e 16:00 h. Estes animais foram mantidos com água e ração ad libitum
+em sala apropriada, com isolamento acústico, temperatura controlada (22ºC±1) e
+ciclo claro-escuro (12/12h). Todos os procedimentos estão de acordo com as
+orientações da Associação Internacional para o Estudo da Dor (IASP), além disso,
+foram feitos os devidos esforços para reduzir o número de animais a serem utilizados.
+Os experimentos foram aprovados pela Comissão de Ética no Uso de Animais do
+Instituto Butantan (CEUAIB), sob protocolo de número 5000011217.
+
+3.2 Modelo experimental de hiperalgesia inflamatória
+A hiperalgesia foi induzida nos animais, por meio da injeção intraplantar de
+prostaglandina PGE2 (100 ng/ 50μl) na pata posterior direita. O limiar de dor dos
+animais foi avaliado antes e 3 h após a injeção do estímulo, utilizando-se o teste de
+pressão da pata de ratos conforme descrito por Randall e Selito (1957).
+Inicialmente, uma solução estoque de PGE2 foi preparada, dissolvendo-se 500
+µg de prostaglandina E2 em 1 ml de etanol. No momento do uso, essa solução
+estoque foi novamente diluída em salina estéril, para a obtenção da dose de 100
+ng/pata de PGE2.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+24
+
+3.3 Modelo experimental de dor neuropática
+O modelo experimental de dor neuropática utilizado neste estudo - constrição
+crônica do nervo isquiático (CCI) - foi descrito em ratos (Bennett GJ and Xie YK, 1988)
+e também em camundongos (Benbouzid M et al., 2008). Os animais foram
+primeiramente submetidos à anestesia inalatória (isoflurano a 2%). O pelo da região
+da coxa traseira foi retirado, realizou-se a assepsia da pele da superfície da coxa
+traseira dos animais; em seguida foi realizada incisão de 0,5 cm paralela ao fêmur e
+1,5 cm anterior ao fêmur, e o músculo femoral divulsionado, expondo o ramo principal
+do nervo isquiático. Em seguida, foram realizadas quatro amarraduras de fio de sutura
+(Catgut Cromado) ao redor do ramo principal do nervo isquiático, de forma a
+comprimir levemente o nervo. As ramificações tibial, sural e peroneal comum do nervo
+isquiático permaneceram intactas e preservadas. Em seguida, o músculo e a pele
+foram suturados com fio de sutura adequado. Os grupos experimentais controle foram
+compostos por animais falsamente operados (Sham), ou seja, foi realizada incisão na
+pele, divulsionamento do músculo femoral e exposição do nervo isquiático de modo
+similar ao grupo CCI, porém sem qualquer realização de amarradura desse nervo,
+apenas a manipulação do nervo. A seguir, o músculo e a pele foram suturados.
+
+3.4 Avaliação da hiperalgesia em ratos
+A avaliação da hiperalgesia em ratos foi realizada utilizando o modelo de
+pressão da pata de ratos conforme descrito por Randall e Selito (1957). Neste teste,
+uma força em gramas (g), de magnitude crescente (16 g/s), é continuamente aplicada
+sobre o dorso das patas posteriores do rato e interrompida quando o animal apresenta
+a reação de “retirada” do membro. Neste modelo, o limiar nociceptivo é representado
+como a força (g) necessária para a indução da reação. Este teste foi aplicado antes
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+25
+
+(medida basal) e 3 h após a administração de prostaglandina em modelo de
+hiperalgesia inflamatória; ou antes e 3, 7,14 e 15 dias após a constrição do nervo
+isquiático (modelo de dor crônica neuropática). Os resultados foram analisados por
+meio da comparação das medidas iniciais e finais ou, quando determinado, através
+da comparação das médias obtidas nos diferentes grupos experimentais.
+
+3.5 Tratamentos Farmacológicos
+
+3.5.1 Crotalfina (CNF) (Proteimax Biotecnologia Ltda, Brasil)
+O peptídeo foi obtido por síntese em fase sólida, utilizando estratégia Fmoc
+(Proteimax Biotecnologia Ltda, Brasil), pureza 98%. A CNF foi mantida a -20ºC e
+diluída em salina estéril para a administração por via oral (nas doses de 25; 50; 54,3
+e 75 μg/kg) no momento do uso. Para a determinação da dose de CNF a ser utilizada,
+foi realizada uma padronização, a partir de dados anteriores obtidos pelo nosso grupo,
+mostrando a efetividade deste peptídeo em modelos experimentais de nocicepção
+(Zambelli et al. 2014).
+
+3.5.2 Análogo da crotalfina CNFx
+Molécula análoga à crotalfina, cuja sequência de aminoácidos corresponde
+apenas a uma porção da molécula líder, foi sintetizada e fornecida pelo Centro de
+Energia Atômica – CEA, França. O CNFx foi administrado sempre por via oral. Uma
+vez que este análogo é objeto de depósito de patente, a sua sequência não está
+sendo informada no presente documento. O análogo foi mantido a -20ºC e diluído
+em salina estéril para a administração no momento do uso. Neste estudo, foi realizada
+curva dose (2,5; 5 e 25 μg/kg) - e tempo-resposta em modelo de hiperalgesia
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+26
+
+inflamatória. Além disso, utilizou-se o análogo nas concentrações 50, 75 e 100 μg/kg
+em modelo de dor crônica neuropática.
+
+3.5.3 Antagonistas e Anticorpos
+Neste estudo, foi avaliado, para o análogo CNFx, o envolvimento dos sistemas
+canabinóide e opióide no efeito antinociceptivo, uma vez que estes sistemas estão
+envolvidos no efeito da Crotalfina. Para tanto, foi investigado o envolvimento, por meio
+do uso de antagonistas seletivos e específicos, de receptores canabinóides CB2,
+opióides do tipo κ e, por meio da utilização de anticorpo, o envolvimento da dinorfina
+A endógena. Os antagonistas e anticorpo estão descritos abaixo:
+
+
+AM630, antagonista seletivo de receptores canabinóides CB2 (SigmaAldrich, USA), reconstituído em DMSO e posteriormente diluído em
+água destilada, e administrado por via i.pl. (50 µg por pata, em 50 µl Machado et al, 2014), 30 minutos antes do análogo da crotalfina (CNFx).
+
+
+
+Norbinaltorfimina (Nor – BNI), antagonista específico de receptor
+opióide do tipo κ (Sigma-Aldrich, USA), reconstituído em DMSO e
+posteriormente diluído em salina e administrado por via i.pl. (50 µg/50
+µl), administrado imediatamente antes do análogo da crotalfina (CNFx);
+(Zambelli et al, 2014).
+
+
+
+Anticorpo anti-dinorfina A (Sigma-Aldrich, USA), foi utilizado para
+analisar a participação do peptídeo endógeno dinorfina. O anticorpo foi
+diluído em salina e administrado por via i.pl. (1 µg/50µl por pata)
+(Machado et al, 2013), 15 minutos antes do análogo da crotalfina
+(CNFx). Estudos anteriores mostraram que a dinorfina A é a molécula
+fundamental para o efeito antinociceptivo da CNF (Machado et al, 2014).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+27
+
+3.6 Delineamento Experimental in vivo
+
+I.
+
+Padronização da dose de Crotalfina (CNF)
+
+Estudos prévios foram realizados para o delineamento das doses de crotalfina
+(CNF) a serem utilizadas neste trabalho. Esta etapa foi necessária, uma vez que as
+doses de crotalfina utilizadas atualmente pelo grupo, nos diferentes ensaios
+experimentais de dor, tiveram que ser aumentadas, em relação às doses inicialmente
+padronizadas. As razões para essa alteração ainda não são totalmente conhecidas,
+mas houve mudança da empresa que sintetiza a CNF, o que pode ter contribuído,
+pelo menos em parte, para esta alteração. Dessa forma, foram realizados
+experimentos, testando-se as doses de 25 e 50 µg/Kg do peptídeo. Neste
+experimento, a PGE2 foi administrada por via intraplantar, em ratos, e a CNF por via
+oral, 2 h após a PGE2. Animais tratados com salina por via oral, nas mesmas
+condições experimentais, foram utilizados como controle.
+
+II.
+
+Análise dose-resposta antinociceptiva do CNFx em modelo de
+dor inflamatória
+
+Neste estudo, foram avaliadas três doses do análogo. Para tanto, 40 animais
+foram sensibilizados por injeção intraplantar de prostaglandina E2 e divididos em 4
+grupos, que foram então tratados, por via oral com: salina (grupo controle); CNFx dose 2,5 µg/Kg; CNFx - dose 5 µg/Kg e CNFx - dose 25 µg/Kg. A hiperalgesia foi
+determinada 3 h após a injeção do eicosanoide.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+28
+
+III.
+
+Efeito antinociceptivo do CNFx na presença ou ausência da
+PGE2
+
+Baseado em dados anteriores, mostrando que o efeito antinociceptivo da
+crotalfina só é detectado na presença de um estimulo lesivo (Zambelli et al., 2014),
+foi presentemente realizado um estudo adicional para avaliar o efeito do análogo
+sobre o limiar nociceptivo dos animais, na presença ou ausência da injeção
+intraplantar de PGE2. A PGE2 ou salina foram administradas por via intraplantar, e o
+análogo, por via oral, 2 h após a PGE2 ou salina. O limiar nociceptivo foi determinado
+antes e 3 h após a injeção do eicosanoide ou salina.
+
+IV.
+
+Comparação do efeito antinociceptivo da crotalfina e seu
+análogo, para as diferentes doses testadas
+
+Para este estudo, foi determinada a concentração molar dos peptídeos,
+baseado nos efeitos encontrados nos estudos citados acima. Da mesma maneira
+como descrito nos experimentos anteriores, a PGE2 foi administrada por via
+intraplantar, enquanto o análogo e a crotalfina, por via oral, 2 h após a PGE2. A
+hiperalgesia foi determinada antes e 3 h após a injeção do eicosanoide.
+
+V.
+
+Análise da duração do efeito do CNFx
+
+De acordo com dados obtidos anteriormente pelo grupo, mostrando que a
+crotalfina apresenta efeito antinociceptivo de longa duração (até 5 dias) (Konno et al.,
+2008), avaliamos presentemente, a duração da ação antinociceptiva do análogo.
+Neste estudo, todos os animais foram tratados com o CNFx, por via oral, na dose de
+25 µg/Kg e divididos em 04 grupos (grupos 24, 72, 120 e 144 h após a administração
+do análogo – 05 animais por grupo), para posterior avaliação da hiperalgesia. Para
+cada tempo analisado, um grupo adicional de 5 animais tratados com salina (grupo
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+29
+
+controle), nas mesmas condições experimentais, foi também utilizado. Três horas
+antes de cada tempo (ou seja, 21, 69, 117 e 141 h após a administração do análogo),
+a prostaglandina E2 foi administrada por via intraplantar e a hiperalgesia determinada
+na terceira hora após a injeção do eicosanoide. Este protocolo está baseado no
+protocolo utilizado para a crotalfina, de acordo com Konno et al. (2008).
+A partir dos resultados nessa primeira série de experimentos, fez-se necessária
+a realização de uma segunda etapa de ensaios para a análise do efeito do CNFx em
+120, 144 e 168 h após os tratamentos. Essa segunda etapa foi realizada da mesma
+maneira que a primeira, sendo que o total de animais tratados inicialmente com o
+análogo foi de 20 animais e mais 20 tratados com salina (controles). Três horas antes
+de cada tempo (ou seja, 117, 141 e 165 h), prostaglandina foi administrada por via
+intraplantar e a hiperalgesia determinada na terceira hora após a injeção do
+eicosanoide.
+
+VI.
+
+Análise do mecanismo de ação do CNFx
+
+Baseado em dados anteriores mostrando que o efeito da crotalfina, no modelo
+de hiperalgesia inflamatória é mediado por receptores canabinóide do tipo CB2,
+liberação de dinorfina A e ativação de receptores κ-opioides (Machado et al, 2014),
+avaliamos presentemente o envolvimento dos sistemas canabinóide e opioide da
+ação do análogo. Para a análise do mecanismo de ação do CNFx, o experimento foi
+dividido em 3 etapas, cada uma utilizando um antagonista/anticorpo diferente. Cada
+experimento foi constituído por 4 grupos experimentais, a saber: grupo salina; grupo
+tratado com CNFx; grupo tratado com CNFx + antagonista de receptor opióide do tipo
+κ ou canabinóide do tipo CB2, ou anticorpo anti-dinorfina A; grupo salina + antagonista
+de receptor opióide do tipo κ ou canabinóide do tipo CB2, ou anticorpo anti-dinorfina
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+30
+
+A. Neste experimento, a PGE2 foi administrada por via intraplantar e o CNFx, por via
+oral, 2 h após a PGE2. Os antagonistas foram administrados por via intraplantar sendo o antagonista do receptor κ (Nor-BNI) ou o antagonista do receptor CB2
+(AM630), injetados, respectivamente, imediatamente antes ou 30 minutos antes do
+análogo. Nos experimentos utilizando o anticorpo anti-dinorfina A, este foi
+administrado 15 minutos antes do análogo. A hiperalgesia foi determinada 3 h após a
+injeção do eicosanoide.
+
+VII.
+
+Análise do efeito antinociceptivo do CNFx em modelo de dor
+crônica
+
+Neste experimento foram utilizados 25 animais, em que 20 animais foram
+submetidos a cirurgia de constrição do nervo isquiático (CCI) e divididos em 4 grupos
+experimentais, a saber: grupo tratado com salina, grupo tratado crotalfina (dose 75
+µg/Kg; grupo tratado com CNFx (dose 75 µg/Kg); grupo tratado com CNFx (dose 100
+µg/Kg). Os 5 animais restantes correspondem aos animais ‘falsamente operados’
+(Sham). Estes animais foram classificados em um 5° grupo de animais ‘sham’, que
+receberam salina, por via oral, como tratamento. Os tratamentos foram realizados no
+14° dia pós cirurgia. A hiperalgesia foi determinada antes da cirurgia (limiar basal) e
+no 3°, 7°, 14º dias após cirurgia. No 14º dia, a hiperalgesia foi avaliada antes e 1 h
+após os tratamentos. Para avaliar a duração do efeito antinociceptivo do CNFx, a
+presença de hiperalgesia foi determinada também no 15º dia do pós-operatório,
+correspondendo ao período de 24 h após o tratamento com o análogo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+31
+
+3.7 Análise Estatística
+Os resultados foram expressos como a média + erro padrão da média (E.P.M)
+por grupo de cinco animais. A análise estatística dos resultados foi realizada por meio
+de análise de variância (ANOVA), associada ao teste de Tukey. Quando comparados
+dois grupos de variáveis não-pareadas, utilizou-se o teste t student. Valores de p<0,05
+foram considerados estatisticamente significativos. Tais análises estatísticas assim
+como a construção dos gráficos foram realizadas utilizando-se o programa GraphPad
+Prism6 (GraphPad Software Inc., EUA).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+32
+
+4. RESULTADOS
+I.
+
+Padronização da Dose de Crotalfina (CNF)
+
+Conforme descrito anteriormente no protocolo experimental, foram testadas as
+doses de 25 e 50 µg/kg da crotalfina. É possível observar no gráfico abaixo (Figura
+2), que a administração intraplantar de PGE2 e tratamento com salina acarretou
+diminuição significativa do limiar nociceptivo, quando comparado à medida inicial,
+caracterizando o fenômeno de hiperalgesia. Por outro lado, o tratamento dos animais
+com a crotalfina (CNF), em ambas as doses testadas, acarretou reversão da
+hiperalgesia induzida pela PGE2. Não foi detectada diferença significativa no efeito
+antinociceptivo de ambas as doses do peptídeo.
+
+Figura 2 - Padronização da dose de crotalfina (CNF). Ratos foram submetidos à administração i.pl.
+de PGE2 (100 ng/pata) na pata posterior direita. Duas horas após a injeção, os animais foram
+submetidos aos tratamentos: salina (v.o.;controle); CNF (25 µg/kg, v.o.) e CNF (50 µg/kg, v.o.). O limiar
+nociceptivo foi avaliado pelo modelo de pressão da pata conforme descrito por Randall e Selito (1957)
+antes e 3 h após a injeção da PGE2. Os dados foram expressos como média ± E.P.M. de 5 animais
+por grupo. * p<0.05; quando comparado ao seu basal e # p< 0.05; quando comparado ao grupo salina
+pós-PGE2.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+33
+
+II.
+
+Análise dose-resposta antinociceptiva do CNFx em modelo de dor
+inflamatória
+
+O protocolo experimental foi realizado como descrito anteriormente e todos os
+animais foram injetados com PGE2. Como apresentado na Figura 3, o tratamento dos
+animais com salina, por via oral (grupo controle), não interferiu com a hiperalgesia
+acarretada pela prostaglandina E2. Por outro lado, o tratamento com o análogo da
+crotalfina, em todas as doses testadas, reverteu a hiperalgesia causada pelo
+eicosanoide. Os resultados mostram ainda que, para a dose de 25 µg/kg, o CNFx,
+além de reverter a hiperalgesia, acarretou aumento significativo do limiar nociceptivo
+dos animais, em comparação com a medida basal.
+
+Figura 3 - Análise dose-resposta antinociceptiva do CNFx em modelo de dor inflamatória. Ratos
+foram submetidos à administração i.pl. de PGE2 (100 ng/pata) na pata posterior direita. Duas horas
+após a injeção, os animais foram submetidos aos tratamentos com salina (v.o.; controle); CNFx
+(2.5µg/kg, v.o.); Nter (5µg/kg, v.o.) e Nter (25µg/kg, v.o.). O limiar nociceptivo foi avaliado pelo modelo
+de pressão da pata conforme descrito por Randall e Selito (1957) antes e 3 h após a injeção da PGE 2.
+Os dados foram expressos como média ± E.P.M de 5 animais por grupo. *p< 0.05; quando comparado
+ao seu basal e #p< 0.05; quando comparado ao grupo salina pós-PGE2.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+34
+
+III.
+
+Efeito antinociceptivo do CNFx na presença ou ausência da PGE2
+
+Os resultados apresentados na figura 4 mostram que a administração
+intraplantar de salina não interfere com limiar nociceptivo dos animais, quando
+comparado ao valor basal. Por outro lado, a injeção de prostaglandina acarreta
+diminuição significativa deste limiar, caracterizando o fenômeno de hiperalgesia. A
+administração oral do peptídeo CNFx (25 µg/kg) reverteu a hiperalgesia causada pelo
+eicosanoide, mas não foi capaz de alterar o limiar nociceptivo dos animais, no grupo
+tratado com salina, por via i.pl.
+
+Figura 4 – Efeito antinociceptivo do CNFx na presença ou ausência da PGE2. Ratos foram
+submetidos a administração intraplantar (i.pl; pata posterior direita) de salina ou PGE2 (100 ng/pata).
+Duas horas após esta injeção, os animais foram submetidos aos seguintes tratamentos: salina (v.o.;
+controle); CNFx (25 µg/kg, v.o.). A hiperalgesia foi avaliada pelo modelo de pressão da pata de ratos,
+conforme descrito por Randall e Selito (1957), aplicado antes e 3 h após a injeção da PGE2. Os dados
+estão expressos como média ± E.P.M de 5 animais por grupo. *p< 0.05; quando comparado ao seu
+basal; #p< 0.05; quando comparado ao grupo salina pós-PGE2 e +p< 0.05 quando comparado ao grupo
+CNFx pós-PGE2.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+35
+
+IV.
+
+Comparação do efeito antinociceptivo da crotalfina e seu análogo,
+para as diferentes doses testadas
+
+Inicialmente avaliamos o efeito antinociceptivo da dose de 25 µg/Kg de crotalfina e do
+análogo. Como apresentado na Figura 5A, ambos os peptídeos, nesta dose
+reverteram a hiperalgesia acarretada pela PGE2. Adicionalmente foi observada
+diferença significativa entre o efeito da crotalfina e do análogo. Assim realizamos um
+experimento adicional, avaliando o efeito de ambas as moléculas administradas na
+mesma concentração molar (análogo: 25ug/Kg; crotalfina: 54,3 µg/Kg - Figura 5B).
+Para estas doses, ambos os peptídeos reverteram a hiperalgesia acarretada pela
+PGE2 e induziram também, aumento do limiar nociceptivo dos animais, em
+comparação com a medida basal.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+36
+
+Figura 5 – Comparação do efeito antinociceptivo da crotalfina e seu análogo (CNFx), para as
+diferentes doses testadas. Ratos foram submetidos a administração intraplantar (i.pl; pata posterior
+direita) de PGE2 (100 ng/pata). Duas horas após esta injeção, os animais foram submetidos aos
+seguintes tratamentos: salina (v.o.; controle); CNFx (25 µg/kg, v.o.) e CNF (25 µg/kg, v.o.) (Painel A)
+ou salina (v.o.; controle); CNFx (25 µg/kg, v.o.) e CNF 54,3 µg/kg, v.o.) (Painel B). A hiperalgesia foi
+avaliada pelo modelo de pressão da pata de ratos, conforme descrito por Randall e Selito (1957),
+aplicado antes e 3 h após a injeção da PGE2. Os dados estão expressos como média ± E.P.M de 8
+animais por grupo, *p< 0.05; quando comparado ao seu basal e #p< 0.05; quando comparado ao grupo
+salina pós-PGE2 e +p< 0.05 quando comparado ao grupo CNFx pós-PGE2.
+
+V.
+
+Análise da duração do efeito do CNFx
+
+Para este estudo, o efeito antinociceptivo do CNFx foi avaliado nos tempos de
+1, 24, 72, 120, 144 e 168 h após o tratamento com o análogo. Estes períodos foram
+escolhidos baseado nos dados anteriores obtidos com a crotalfina, neste modelo
+(Konno et al., 2008; Zambelli et al., 2014). Os resultados mostram que este efeito é
+detectado até 144 h após a administração do análogo (Figura 6 - Painéis A, B, C, D e
+E). Até o período de 72 h (Figura 6 – Painéis A, B, C), foi possível observar que o
+análogo reverteu totalmente a hiperalgesia causada pela PGE2. A partir das 120 h
+detectou-se reversão significativa, porem parcial do efeito hiperalgésico do
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+37
+
+eicosanoide (Figura 6 – Painéis D e E). O Painel F corresponde ao efeito do análogo
+após 168 h de sua administração, neste período não foi mais detectado efeito
+antinociceptivo para o análogo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+38
+
+Figura 6 – Análise da duração do efeito do CNFx. Ratos foram submetidos a administração i.pl. de
+PGE2 (100 ng/pata) na pata posterior direita. A hiperalgesia foi avaliada pelo modelo de pressão da
+pata conforme descrito por Randall e Selito (1957). O teste foi aplicado antes e 3 h após a injeção da
+PGE2. Para avaliação do efeito antinociceptivo, à exceção do período de 1 h (Painel A), o análogo foi
+administrado a animais naive (sem nenhum tratamento). Para cada tempo avaliado (24 a 168 h;
+Painéis B, C, D, E, F), grupos distintos de animais tratados com o análogo, foram injetados com PGE2,
+por via i.pl, 3 h antes de cada avaliação da hiperalgesia. Para o período de 1 h, (Painel A), o análogo
+foi administrado 2 h após a prostaglandina. Os dados estão expressos como média ± E.P.M de 5
+animais por grupo, *p< 0.05; quando comparado ao seu basal e #p< 0.05; quando comparado ao grupo
+salina.
+
+VI.
+
+Análise do mecanismo de ação do CNFx
+
+Os dados apresentados na Figura 7, mostram, novamente, que a
+administração intraplantar de PGE2 acarretou o desenvolvimento de hiperalgesia, a
+qual foi revertida pelo tratamento com o CNFx. O tratamento com o antagonista de
+receptores canabinóides do tipo CB2 (AM630) aboliu o efeito antinociceptivo do
+análogo, indicando o envolvimento destes receptores na ação do peptídeo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+39
+
+Figura 7 – Envolvimento de receptores canabinóides no efeito antinociceptivo do CNFx. Ratos
+foram submetidos à administração intraplantar de PGE2 (100 ng/pata) na pata posterior direita. Duas
+horas após a injeção, os animais foram submetidos aos tratamentos com: salina (v.o., grupo controle);
+CNFx (25µg/kg, v.o.) e AM630 (50 µg/pata, i.pl.). O antagonista do receptor CB2 foi injetado 30 minutos
+antes do análogo. A hiperalgesia foi determinada 3h após a injeção do eicosanoide. Os dados estão
+expressos como média ± E.P.M de 5 animais por grupo, *p< 0.05; quando comparado ao seu basal;
+#p< 0.05; quando comparado ao grupo salina e +p< 0.05 quando comparado ao grupo CNFx.
+
+Os dados apresentados na Figura 8, mostram, novamente, que a
+administração intraplantar de PGE2 acarretou o desenvolvimento de hiperalgesia, a
+qual foi revertida pelo tratamento com o peptídeo análogo da crotalfina. Já o
+tratamento dos animais com o antagonista de receptores κ-opióides (Nor-BNI), inibiu
+o efeito antinociceptivo do análogo, sugerindo o envolvimento destes receptores
+opióides na antinocicepção acarretada pelo peptídeo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+40
+
+Figura 8 – Envolvimento de receptores opióides no efeito antinociceptivo do CNFx. Ratos foram
+submetidos à administração intraplantar de PGE2 (100 ng/pata) na pata posterior direita. Duas horas
+após a injeção, os animais foram submetidos aos tratamentos com: salina (v.o., grupo controle); CNFx
+(25µg/kg, v.o.) e Nor-BNI (50 µg/pata, i.pl.). O antagonista do receptor opióide do tipo κ foi injetado
+imediatamente antes do análogo. A hiperalgesia foi determinada 3h após a injeção do eicosanoide. Os
+dados estão expressos como média ± E.P.M de 5 animais por grupo, *p< 0.05; quando comparado ao
+seu basal; #p< 0.05; quando comparado ao grupo salina e +p< 0.05 quando comparado ao grupo
+CNFx.
+
+Os dados apresentados na Figura 9, mostram, novamente, que a
+administração intraplantar de PGE2 acarretou o desenvolvimento de hiperalgesia, a
+qual foi revertida pelo tratamento com o peptídeo análogo da crotalfina. O tratamento,
+por via i.pl., com o anticorpo anti-dinorfina A, reverteu a antinocicepção acarretada
+pelo análogo da crotalfina, sugerindo que a liberação endógena desta dinorfina é
+importante para expressão desta ação antinociceptiva.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+41
+
+Figura 9 – Envolvimento da dinorfina A no efeito antinociceptivo do CNFx. Ratos foram
+submetidos à administração i.pl. de PGE2 (100 ng/pata) na pata posterior direita. Duas horas após a
+injeção, os animais foram submetidos aos tratamentos com: salina (v.o., grupo controle); CNFx
+(25µg/kg, v.o.) e anti-dinorfina A (1µg/pata, i.pl.). O anticorpo foi injetado 15 minutos antes do análogo.
+A hiperalgesia foi determinada 3h após a injeção do eicosanoide. Os dados estão expressos como
+média ± E.P.M de 5 animais por grupo, *p< 0.05; quando comparado ao seu basal; #p< 0.05; quando
+comparado ao grupo salina e +p< 0.05 quando comparado ao grupo CNFx.
+
+Nos grupos controles adicionais, constituídos por animais tratados com PGE 2
+e o antagonista de receptor ou anticorpo, foi observado que nenhum destes
+tratamentos interferiu, per se, com a hiperalgesia acarretada pelo eicosanoide
+(Figuras 7, 8 e 9).
+
+VII.
+
+Análise do efeito antinociceptivo do CNFx em modelo de dor
+neuropática
+
+Os dados apresentados na figura 10 demonstram a evolução
+
+da
+
+hipernocicepção (caracterizada pela redução do limiar nociceptivo), avaliada a partir
+do 3º dia após cirurgia, e que persistiu pelo menos até o 14º dia. Animais falsoBACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+42
+
+operados (SHAM, utilizados como controle), não apresentaram alteração significativa
+do limiar nociceptivo, em relação a medida basal, durante todo o período de
+observação.
+
+Figura 10 – Análise do quadro de neuropatia. Ratos foram submetidos à cirurgia de constrição do
+nervo isquiático (CCI). A hiperalgesia foi avaliada pelo modelo de pressão da pata conforme descrito
+por Randall e Selito (1957) antes da cirurgia (medida basal) e também após 3, 7 e 14 dias da cirurgia
+(CCI). Animais falso-operados (SHAM) foram utilizados como controles. Os dados estão expressos
+como média ± E.P.M de 5 animais por grupo, *p< 0.05; quando comparado ao seu basal.
+
+Os resultados demonstrados na Figura 11 correspondem ao efeito dos
+tratamentos após 14 dias da cirurgia de constrição do nervo isquiático. A
+administração de salina (controle), por via oral, aos animais falso-operados (sham)
+não interferiu com o limiar nociceptivo. A administração de salina, por via oral, aos
+animais submetidos a CCI, não interferiu com a hipernocicepção causada pela
+cirurgia. Por outro lado, dados ainda iniciais, mostraram que a administração de
+crotalfina a esses animais (CNF 75 µg/Kg), reverteu a hipernocicepção causada pela
+ligadura do nervo isquiático. Em relação ao peptídeo CNFx, foram avaliadas 2 doses
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+43
+
+- 75 e 100 ug/Kg. Os resultados mostraram que apenas a dose de 75 µg/Kg foi capaz
+de causar efeito antinociceptivo.
+
+Figura 11 – Avaliação do efeito da crotalfina e seu análogo em modelo de dor neuropática. Ratos
+foram submetidos à cirurgia de constrição do nervo isquiático (CCI). A hiperalgesia foi avaliada no 14º
+dia pelo modelo de pressão da pata conforme descrito por Randall e Selito (1957) antes e após os
+tratamentos. Os animais foram submetidos aos tratamentos com: salina (v.o., grupo controle); CNFx
+(75 e 100 µg/kg, v.o.) e crotalfina (75 µg/kg, v.o.). Os dados estão expressos como média ± E.P.M de
+5 animais por grupo, *p< 0.05; quando comparado ao antes do tratamento dentro do mesmo grupo;
+#p< 0.05; quando comparado ao grupo Sham+Salina pós-tratamento e &p< 0.05 quando comparado
+ao grupo CCI+Salina pós-tratamento.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+44
+
+5. DISCUSSÃO
+
+5.1 Padronização da dose da crotalfina
+O presente trabalho teve como um de seus objetivos analisar o efeito
+antinociceptivo do peptídeo sintético CNFx e para tal, comparar este efeito com o da
+molécula líder (Crotalfina). Para que este objetivo fosse atendido, primeiramente fezse necessário mostrar o efeito da molécula líder – CNF.
+Com base no exposto, realizou-se uma padronização da dose de CNF. Ao
+início do estudo foi realizada uma análise tanto da literatura, das doses que já tinham
+sido utilizadas, como também uma pesquisa com outros pesquisadores do nosso
+grupo que utilizam a CNF, para estabelecer as melhores doses a serem utilizadas nos
+protocolos experimentais. Essa etapa foi necessária, uma vez que as doses de
+crotalfina utilizadas atualmente pelo grupo, nos diferentes ensaios experimentais de
+dor, tiveram que ser aumentadas, em relação às doses inicialmente padronizadas. As
+razões para essa alteração ainda não são totalmente conhecidas, mas houve
+mudança da empresa que sintetiza a CNF, o que pode ter contribuído, pelo menos
+em parte, para esta alteração.
+Dessa forma, como demonstrado na Figura 2, as doses de 25 e 50 µg/Kg da
+CNF foram testadas e ambas acarretaram reversão da hiperalgesia induzida pela
+PGE2. Não foi detectada diferença significativa no efeito antinociceptivo de ambas as
+doses do peptídeo.
+
+5.2 Desenvolvimento do CNFx
+Conforme já citado anteriormente, o composto análogo utilizado derivou-se de
+um estudo preliminar realizado em colaboração com o Centro de Energia Atômica
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+45
+
+(CEA) da França. A busca por um composto sintético e análogo da crotalfina se
+justifica pela possibilidade de obtenção de um peptídeo de tamanho menor –
+conferindo efetividade de seu efeito pela menor porção ativa – assim como redução
+dos custos para a síntese deste novo peptídeo. O composto análogo mostrou-se
+eficaz nos estudos preliminares e também nos experimentos aqui descritos, além
+disso, é alvo de depósito de patente e portanto, sua sequência e método de síntese
+não foram informados no presente documento.
+O protocolo experimental inicial utilizando o CNFx envolveu a padronização da
+dose capaz de acarretar efeitos antinociceptivos já conhecidos para a crotalfina. Para
+tanto, foram testadas três doses diferentes do análogo (2,5; 5 e 25 µg/kg), e em todas
+as doses testadas, houve a reversão da hiperalgesia causada pelo eicosanoide. Os
+resultados mostraram ainda que, para a dose de 25 µg/kg, o CNFx, além de reverter
+a hiperalgesia, acarretou aumento significativo do limiar nociceptivo dos animais, em
+comparação com a medida basal (Figura 3) e por este motivo essa dose foi a
+escolhida para prosseguir nos demais experimentos.
+
+5.3 Efeito Antinociceptivo do CNFx
+Após demonstrar que o CNFx possui potente efeito antinociceptivo e
+baseando-se em dados anteriores, mostrando que o efeito antinociceptivo da
+crotalfina só é detectado na presença de um estímulo inflamatório (Zambelli et al.,
+2014), nosso próximo passo foi avaliar o efeito do análogo sobre o limiar nociceptivo
+dos animais, na presença ou ausência da injeção intraplantar de PGE2.
+Os resultados mostraram que a administração oral do peptídeo CNFx (25 µg/kg)
+reverteu a hiperalgesia causada pelo eicosanoide, mas não foi capaz de alterar o
+limiar nociceptivo dos animais, no grupo tratado com salina, por via i.pl. (Figura 4), ou
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+46
+
+seja, da mesma maneira que observada pela molécula líder (crotalfina), o efeito do
+análogo só é detectado na presença de um estímulo lesivo (hiperalgesia induzida pela
+injeção de PGE2).
+
+5.4 Comparação do análogo com a crotalfina
+Inicialmente foi utilizada a mesma dose (25 µg/kg) do análogo e da crotalfina
+para que fosse avaliado o efeito antinociceptivo destes peptídeos. Como demonstrado
+na Figura 5A, foi observada diferença significativa entre o efeito da crotalfina e do
+análogo para uma mesma dose. Assim, realizamos um experimento adicional,
+avaliando o efeito de ambas as moléculas administradas na mesma concentração
+molar.
+Dessa forma, primeiramente calculou-se a concentração molar (CCNFx) do
+análogo, partindo-se da concentração que promoveu o seu melhor efeito (25 µg/kg) e
+utilizando-se as informações de massa (mCNFx), peso molecular (PMCNFx), e volume
+da solução utilizada para administração (VSolução). Uma vez calculada a concentração
+molar do análogo, utilizou-se este valor para calcular a massa de crotalfina a ser
+utilizada no protocolo experimental (mCNF) e assim obter o valor da dose utilizada (54,3
+µg/kg - Figura 5B). Para estas doses (25 e 54,3 µg/kg para o análogo e crotalfina,
+respectivamente), ambos os peptídeos reverteram a hiperalgesia acarretada pela
+PGE2 e induziram também, aumento do limiar nociceptivo dos animais, em
+comparação com a medida basal (Figura 5B). Para estas doses, não houve diferença
+significativa entre o efeito do análogo e da crotalfina.
+𝐶𝑚𝑜𝑙𝑎𝑟 =
+
+𝑚 (𝑔 )
+𝑃𝑀 𝑥 𝑉 (𝑙 )
+
+Modelo da fórmula utilizada para cálculo da dose de CNF partindo-se da concentração molar
+do composto análogo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+47
+
+5.5 Mecanismos e tempo de ação envolvidos no efeito antinociceptivo do
+análogo
+Dados da literatura tem mostrado que a crotalfina apresenta efeito de longa
+duração, sendo observado por 2-3 dias após a administração de uma única dose, em
+modelo experimental de câncer ósseo ou de dor neuropática induzida por constrição
+crônica do nervo isquiático, respectivamente, (Gutierrez VP, PhD Thesis, 2013;
+Gutierrez et al, 2008), e de até 5 dias quando utilizada em modelo de hiperalgesia
+induzida por carragenina ou prostaglandina E2 (Konno et al., 2008).
+Os nossos resultados mostraram que o análogo CNFx induz também efeito
+antinociceptivo de longa duração (até 6 dias), em modelo de hiperalgesia induzida por
+PGE2. Até o período de 72 h (Figura 6 – Painéis A, B, C), foi possível observar que o
+análogo reverteu totalmente a hiperalgesia causada pela PGE 2. A partir das 120 h (5
+dias) detectou-se reversão significativa, porem parcial do efeito hiperalgésico do
+eicosanoide (Figura 6 – Painéis D e E).
+Baseado em dados anteriores mostrando que o efeito da crotalfina, no modelo
+de hiperalgesia inflamatória é mediado por receptores canabinóide do tipo CB2,
+liberação de dinorfina A e ativação de receptores κ-opioides (Machado et al, 2014),
+avaliamos presentemente o envolvimento dos sistemas canabinóide e opioide da
+ação do análogo, por meio do uso de antagonistas seletivos do receptor κ (Nor-BNI)
+ou do receptor CB2 (AM630) e anticorpo anti-dinorfina A. Os resultados desta análise
+do mecanismo de ação do CNFx mostraram que seu efeito envolve tanto receptores
+κ-opióides, como receptores canabinoides CB2 e também depende da liberação
+endógena de dinorfina A. Os dados em conjunto, demonstraram mais uma vez que o
+efeito do análogo é similar ao da crotalfina.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+48
+
+5.6 Modelo de dor crônica neuropática
+Uma vez confirmados os efeitos e mecanismo de ação do análogo em modelo
+de hiperalgesia inflamatória acarretada por injeção intraplantar de PGE2, utilizou-se
+outro modelo de dor para dar continuidade aos estudos do efeito dessa molécula.
+Para o modelo de dor neuropática, utilizou-se do protocolo de constrição do nervo
+isquiático (CCI) e análise do limiar nociceptivo até o 14º dia após a cirurgia. Conforme
+apresentado na Figura 10, a hipernocicepção foi caracterizado pela redução do limiar
+nociceptivo observada a partir do 3º dia após cirurgia, que persistiu pelo menos até o
+14º dia.
+Os resultados ainda iniciais, apresentados na Figura 11, correspondem ao
+efeito dos tratamentos após 14 dias da cirurgia de constrição do nervo isquiático. As
+doses utilizadas em dados prévios do nosso grupo mostrando que em modelo
+experimental de dor neuropática, doses maiores da crotalfina são necessárias para a
+reversão da hipernocicepção. A dose de 75 µg/Kg, tanto da crotalfina como de seu
+análogo, apresentaram efeito antinociceptivo neste modelo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+49
+
+6. CONCLUSÕES
+
+A partir dos resultados apresentados e da discussão realizada, foi possível
+estabelecer algumas considerações finais para o presente trabalho. Tendo em vista
+que a dor, especialmente a crônica, acomete um grande número de indivíduos da
+população mundial e possui um enorme impacto negativo na qualidade de vida,
+disposição, produtividade e força de trabalho, além de gerar um grande gasto em
+saúde, é de extrema relevância e importância a busca por novas moléculas capazes
+de minimizar este problema. Além disso, o desenvolvimento de terapias que se
+mostrem eficazes e com menor índice de resistência e baixos sintomas relacionados
+a dependência pode trazer benefícios significativos para a porção da população que
+sofre de dor crônica. Apesar de ainda iniciais, os estudos envolvendo o composto
+análogo da crotalfina se mostraram promissores, uma vez que esta molécula
+demonstrou um potente efeito antinociceptivo tanto em modelo de dor aguda como
+em modelo de dor crônica.
+Contudo, é importante destacar que os estudos com este composto análogo
+CNFx, no modelo de dor crônica, são ainda preliminares – há a necessidade de se
+avaliar a duração de ação e também confirmar os mecanismos envolvidos nesta ação,
+uma vez que dados anteriores de nosso grupo em mostrado que, em modelo de dor
+crônica, o efeito antinociceptivo da molécula líder - crotalfina é mediado pela ativação
+de receptores kappa e delta opioides.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+50
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+Julius D, Basbaum AI. Molecular mechanisms of nociception. Nature. 2001
+Sandkühler J. Models and mechanisms of hyperalgesia and allodynia. Physiol Rev.
+2009
+Deuis JR, Dvorakova LS, Vetter I. Methods Used to Evaluate Pain Behaviors in
+Rodents. Frontiers in Molecular Neuroscience. 2017
+Basbaum AI, Bautista DM, Scherrer G, Julius D. Cellular and molecular mechanisms
+of pain. Cell. 2009
+Sandkuhler J. Models and mechanisms of hyperalgesia and allodynia. Physiol Rev.
+2009 Kuner R. Central mechanisms of pathological pain. Nat Med. 2010
+Cohen SP, Mao J. Neuropathic pain: mechanisms and their clinical implications. BMJ.
+2014
+Schaible, HG. & Richter, F. Langenbecks Arch Surg. 2004
+Johannes CB, Le TK, Zhou X, Johnston JA, Dworkin RH. The prevalence of chronic
+pain in United States adults: results of an Internet-based survey. J Pain. 2010
+Ji R-R, Xu Z-Z, Gao Y-J. Emerging targets in neuroinflammation-driven chronic
+pain. Nature reviews Drug discovery. 2014
+Chen Z, Zhang Q, Tong APS, Manders TR, Wang J. Deciphering neuronal population
+codes for acute thermal pain. J Neural Eng. 2017
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+51
+
+Xiao X, Zhang YQ. A new perspective on the anterior cingulate cortex and affective
+pain. Neurosci Biobehav Rev. 2018
+Morlion B, Coluzzi F, Aldington D, Kocot-Kepska M, Pergolizzi J, Mangas AC, Ahlbeck
+K, Kalso E. Pain chronification: what should a non-pain medicine specialist know? Curr
+Med Res Opin. 2018
+Verri WA Jr, Cunha TM, Parada CA, Poole S, Cunha FQ, Ferreira SH.
+Hypernociceptive role of cytokines and chemokines: targets for analgesic drug
+development? Pharmacol Ther. 2006
+Johnston IN, Milligan ED, Wieseler-Frank J, Frank MG, Zapata V, Campisi J, Langer
+S, Martin D, Green P, Fleshner M, Leinwand L, Maier SF, Watkins LR. A role for
+proinflammatory cytokines and fractalkine in analgesia, tolerance, and subsequent
+pain facilitation induced by chronic intrathecal morphine. J Neurosci. 2004
+Dworkin RH, O’Connor AB, Audette J, et al. Recommendations for the
+Pharmacological Management of Neuropathic Pain: An Overview and Literature
+Update. Mayo Clinic Proceedings. 2010
+Kalso E. Opioids for persistent non-cancer pain: A team approach and individualization
+of treatment are needed. BMJ : British Medical Journal. 2005
+Woolf CJ, Mannion RJ. Neuropathic pain: aetiology, symptoms, mechanisms, and
+management. Lancet. 1999
+Austin PJ, Moalem-Taylor G. The neuro-immune balance in neuropathic pain:
+involvement of inflammatory immune cells, immune-like glial cells and cytokines. J
+Neuroimmunol. 2010
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+52
+
+Giorgi R, Bernardi MM, Cury Y. Analgesic effect evoked by low molecular weight
+substances extracted from Crotalus durissus terrificus venom. Toxicon. 1993
+Picolo G, Giorgi R, Bernardi MM, Cury Y. The antinociceptive effect of Crotalus
+durissus terrificus snake venom is mainly due to a supraspinally integrated response.
+Toxicon. 1998
+Picolo G, Giorgi R, Cury Y. delta-opioid receptors and nitric oxide mediate the
+analgesic effect of Crotalus durissus terrificus snake venom. Eur J Pharmacol. 2000
+Picolo G, Cassola AC, Cury Y. Activation of peripheral ATP-sensitive K+ channels
+mediates the antinociceptive effect of Crotalus durissus terrificus snake venom. Eur J
+Pharmacol. 2003
+Picolo G, Cury Y. Peripheral neuronal nitric oxide synthase activity mediates the
+antinociceptive effect of Crotalus durissus terrificus snake venom, a delta-and kappaopioid receptor agonist. Life Sci. 2004
+Konno K, Picolo G, Gutierrez VP, Brigatte P, Zambelli VO, Camargo AC, Cury Y.
+Crotalphine, a novel potent analgesic peptide from the venom of the South American
+rattlesnake Crotalus durissus terrificus. Peptides. 2008
+Gutierrez VP, Konno K, Chacur M, Sampaio SC, Picolo G, Brigatte P, Zambelli VO,
+Cury Y. Crotalphine induces potent antinociception in neuropathic pain by acting at
+peripheral opioid receptors. Eur J Pharmacol. 2008
+Gutierrez VP, Zambelli VO, Picolo G, Chacur M, Sampaio SC, Brigatte P, Konno K,
+Cury Y. The peripheral L-arginine-nitric oxide-cyclic GMP pathway and ATP-sensitive
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+53
+
+K⁺ channels are involved in the antinociceptive effect of crotalphine on neuropathic
+pain in rats. Behav Pharmacol. 2012
+Brigatte P, Konno K, Gutierrez VP, Sampaio SC, Zambelli VO, Picolo G, Curi R, Cury
+Y. Peripheral kappa and delta opioid receptors are involved in the antinociceptive
+effect of crotalphine in a rat model of cancer pain. Pharmacol Biochem Behav. 2013
+Machado FC, Zambelli VO, Fernandes AC, Heimann AS, Cury Y, Picolo G. Peripheral
+interactions between cannabinoid and opioid systems contribute to the antinociceptive
+effect of crotalphine. Br J Pharmacol. 2014
+Bressan E, Touska F, Vetter I, Kistner K, Kichko TI, Teixeira NB, Picolo G, Cury Y,
+Lewis RJ, Fischer MJ, Zimmermann K, Reeh PW. Crotalphine desensitizes TRPA1
+ion channels to alleviate inflammatory hyperalgesia. Pain. 2016
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+54
+
+

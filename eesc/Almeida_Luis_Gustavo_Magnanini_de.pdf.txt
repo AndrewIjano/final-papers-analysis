@@ -1,0 +1,3146 @@
+UNIVERSIDADE DE SÃO PAULO
+ESCOLA DE ENGENHARIA DE SÃO PAULO
+DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+Sistema de coordenação de ordens de produção
+Period Batch Control com interface com o sistema
+MRP – Materials Requirements Planning e o
+sistema kanban
+
+TRABALHO DE CONCLUSÃO DE CURSO
+
+Luís Gustavo Magnanini de Almeida
+Orientado por: Prof. Dr. Walther Azzolini Junior
+
+São Carlos, 2013
+
+LUÍS GUSTAVO MAGNANINI DE ALMEIDA
+
+Sistema de coordenação de ordens de produção Period
+Batch Control com interface com o sistema MRP –
+Materials Requirements Planning e o sistema kanban
+
+Trabalho de conclusão de curso apresentado
+à Escola de Engenharia de São Carlos da
+Universidade de São Paulo, como parte dos
+requisitos para obtenção de título de
+Graduação em Engenharia de Produção
+Mecânica.
+Área de concentração: PCP
+Orientador: Prof. Dr. Walther Azzolini Junior
+
+São Carlos
+2013
+
+Lista de Figuras
+
+Figura 1: Layout da Fábrica................................................................................................................... 50
+Figura 2: Layout da Estamparia............................................................................................................ 53
+Figura 3: Layout da Usinagem.............................................................................................................. 57
+Figura 4: Layout da Caldeiraria............................................................................................................. 59
+Figura 5: Gráfico de Gantt do plano de produção a partir do sistema PBC.......................................... 62
+Figura 6: “SP 9”..................................................................................................................................... 65
+Figura 7: “SP 5”..................................................................................................................................... 65
+Figura 8: Desenho explodido do SP...................................................................................................... 67
+Figura 9: Fluxo da Estamparia.............................................................................................................. 77
+Figura 10: Fluxo da Usinagem............................................................................................................... 80
+Figura 11: Fluxo da Caldeiraria............................................................................................................. 83
+Figura 12: Fluxo da Fábrica................................................................................................................... 87
+Figura 13: Cronograma SP 5 – 0 a 63.................................................................................................. 111
+Figura 14: Cronograma SP 5 - 64 a 118............................................................................................... 112
+Figura 15: Cronograma SP 5 – 119 a 166............................................................................................ 113
+Figura 16: Cronograma SP 5 – 167 a 214............................................................................................ 114
+Figura 17: Cronograma SP 5 – 215 a 262............................................................................................ 115
+Figura 18: Cronograma SP 5 – 263 a 310............................................................................................ 116
+Figura 19: Cronograma SP 5 – 311 a 358............................................................................................ 117
+Figura 20: Cronograma SP 5 – 359 a 406............................................................................................ 118
+Figura 21: Cronograma SP 5 – 407 a 454............................................................................................ 119
+Figura 22: Cronograma SP 5 – 455 a 480............................................................................................ 120
+
+Lista de quadros
+
+Quadro 1: Condições desfavoráveis à utilização do sistema kanban e seus motivos.......................... 17
+Quadro 2: Descrição dos processos por setor...................................................................................... 48
+Quadro 3: Geração de Ordens de Produção........................................................................................ 61
+Quadro 4: Lista de peças SP................................................................................................................. 66
+Quadro 5: Etapa 1 do processo de fabricação...................................................................................... 68
+Quadro 6: Etapa 2 do processo de fabricação...................................................................................... 69
+Quadro 7: Etapa 3 do processo de fabricação...................................................................................... 70
+Quadro 8: Etapa 4 do processo de fabricação...................................................................................... 71
+Quadro 9: Etapa 5 do processo de fabricação...................................................................................... 72
+Quadro 10: Etapa 6 do processo de fabricação.................................................................................... 72
+Quadro 11: Etapa 7 do processo de fabricação.................................................................................... 73
+Quadro 12: Etapa 8 do processo de fabricação.................................................................................... 73
+Quadro 13: Etapa 9 do processo de fabricação.................................................................................... 73
+Quadro 14: Etapa 10 do processo de fabricação.................................................................................. 73
+Quadro 15: Tempo médio de máquina trabalhada.............................................................................. 75
+Quadro 16: Tempo de Transporte........................................................................................................ 86
+Quadro 17: Cálculo do cronograma do Plasma.................................................................................... 91
+Quadro 18: Cálculo do cronograma da Prensa de Corte...................................................................... 91
+Quadro 19: Cálculo do cronograma da Prensa Excêntrica – 1............................................................. 92
+Quadro 20: Cálculo do cronograma da Prensa Hidráulica – 1.............................................................. 93
+Quadro 21: Cálculo do cronograma da Prensa Excêntrica – 2............................................................. 94
+Quadro 22: Cálculo do cronograma da Prensa Hidráulica – 2.............................................................. 94
+Quadro 23: Cálculo do cronograma da Serra....................................................................................... 96
+Quadro 24: Cálculo do cronograma do Torno CNC.............................................................................. 96
+Quadro 25: Cálculo do cronograma do Centro de Usinagem............................................................... 97
+
+Quadro 26: Cálculo do cronograma da Furadeira................................................................................ 97
+Quadro 27: Cálculo do cronograma do Maçarico................................................................................. 99
+Quadro 28: Cálculo do cronograma da Montagem 1 – 1..................................................................... 99
+Quadro 29: Cálculo do cronograma da Solda 1 – 1............................................................................ 100
+Quadro 30: Cálculo do cronograma da Montagem 1 – 2................................................................... 100
+Quadro 31: Cálculo do cronograma da Solda 1 – 2............................................................................ 101
+Quadro 32: Cálculo do cronograma da Solda 2 -1.............................................................................. 101
+Quadro 33: Cálculo do cronograma da Montagem 1 – 3................................................................... 101
+Quadro 34: Cálculo do cronograma da Solda 2 – 2............................................................................ 102
+Quadro 35: Cálculo do cronograma da Montagem 2 – 1................................................................... 104
+Quadro 36: Cálculo do cronograma da Montagem 2 – 2................................................................... 104
+Quadro 37: Cálculo do cronograma da Montagem 2 – 3................................................................... 105
+Quadro 38: Cálculo do cronograma da Montagem 2 – 5................................................................... 105
+Quadro 39: Cálculo do cronograma da Montagem 2 – 4................................................................... 106
+Quadro 40: Cálculo do cronograma da Raspagem............................................................................. 107
+Quadro 41: Cálculo do cronograma da Pintura – 1............................................................................ 108
+Quadro 42: Cálculo do cronograma da Secagem – 1.......................................................................... 108
+Quadro 43: Cálculo do cronograma da Pintura – 2............................................................................ 108
+Quadro 44: Cálculo do cronograma da Secagem – 2.......................................................................... 108
+Quadro A1: Família de Produtos........................................................................................................ 131
+
+Resumo
+Este trabalho visa à realização de um estudo de caso e aplicação de
+conceitos do sistema kanban, do sistema Materials Requirements Planning
+(MRP) e do sistema Period Batch Control (PBC) em uma situação real. Há
+a apresentação do estudo de 35 sistemas de coordenação de ordens de
+produção kanban, o sistema PBC e o sistema MRP nesse trabalho. É
+apresentado de uma forma resumida cada um desses tipos de sistema,
+buscando a compilação do conteúdo encontrado na literatura por diversos
+autores
+e
+pesquisadores
+em
+relação
+ao
+desenvolvimento
+e
+aperfeiçoamento desses, visando à adequação às novas e diferentes
+necessidades dos sistemas produtivos. É apresentado um estudo de caso
+numa empresa produtora de máquinas agrícolas localizada na região de
+São Carlos com a aplicação de variações desses sistemas de coordenação
+de ordens de produção.
+Palavras-chave: Sistema kanban. Adaptações de sistemas. Sistema PBC.
+Sistema MRP.
+
+Abstract
+This paper aims the realization of a case study and application of concepts
+of kanban system, Materials Requirements Planning system (MRP) and
+Period Batch Control system (PBC) in a real situation. There is the
+presentation of a study of 35 systems for coordinating orders kanban
+production, the PBC system and MRP system in this work. It is presented
+in summary form each of these types of system, seeking the compilation
+of the content found in the literature by many authors and researchers in
+relation to the development and improvement of these, aiming at adapting
+to new and changing needs of production systems. A case study in a
+agricultural machinery company located in the São Carlos with the
+application of these variations for coordinating orders production systems
+is presented.
+Keywords: kanban system. Adaptations systems. PBC system. MRP
+system.
+
+Sumário
+
+Lista de Figuras....................................................................................................................................... 3
+Lista de Quadros..................................................................................................................................... 4
+Resumo................................................................................................................................................... 6
+Abstract.................................................................................................................................................. 7
+1. Introdução........................................................................................................................................ 13
+1.1 Contextualização do tema................................................................................................. 13
+1.2 Delimitação do tema de pesquisa...................................................................................... 13
+1.3 Formulação do problema de pesquisa............................................................................... 14
+1.4 Declarações........................................................................................................................ 14
+2. Revisão Teórica................................................................................................................................. 15
+2.1 Sistemas kanban................................................................................................................ 15
+2.2 Características originais do sistema kanban...................................................................... 16
+2.3 Cálculo do número de kanbans.......................................................................................... 18
+2.4 Tipos de sistema kanban.................................................................................................... 20
+2.4.1 Sistema kanban CNE........................................................................................... 20
+2.4.2 Sistema kanban H............................................................................................... 22
+2.4.3 Sistema e-kanban............................................................................................... 23
+2.4.4 Simultaneous kanban control system (SKCS) e Independent kanban control
+system......................................................................................................................... 23
+2.4.5 Periodic pull system (PPS)................................................................................... 24
+2.4.6 Dynamically adjusting kanban........................................................................... 25
+2.4.7 Regenerative control system (RPCS)................................................................... 25
+2.4.8 Job-shop kanban................................................................................................ 26
+2.4.9 Minimal blocking................................................................................................ 26
+2.4.10 Generalized kanban control system (GKCS)..................................................... 27
+2.4.11 Modified kanban system (MKS)........................................................................ 27
+
+2.4.12 Auto-adaptive kanban...................................................................................... 28
+2.4.13 Concurrent ordering system............................................................................. 28
+2.4.14 Modified concurrent ordering system.............................................................. 29
+2.4.15 Generic kanban system (GKS)........................................................................... 29
+2.4.16 Flexible kanban system (FKS)........................................................................... 30
+2.4.17 Push-pull approach (PPA)................................................................................. 30
+2.4.18 Decentralized reactive kanban (DRK)............................................................... 31
+2.4.19 Extended Kanban control system (EKCS).......................................................... 31
+2.4.20 Simultaneous extended kanban control system (SEKCS) e Independent
+extended kanban control system (IEKCS).................................................................... 31
+2.4.21 Adaptive kanban.............................................................................................. 32
+2.4.22 Reconfigurable kanban.................................................................................... 32
+2.4.23 Inventory based system.................................................................................... 32
+2.4.24 Fake pull control system (FPCS)........................................................................ 33
+2.4.25 Bar-coding kanban........................................................................................... 33
+2.4.26 CPM kanban system......................................................................................... 34
+2.4.27 MRP/shop floor extension (MRP/sfx)............................................................... 34
+2.2.28 Virtual kanban (VK).......................................................................................... 34
+2.2.29 Sistema customized type 5 e sistema customized type 10............................... 35
+2.5 Sistema PBC....................................................................................................................... 36
+2.6 Sistema MRP...................................................................................................................... 38
+3. Métodos de pesquisa........................................................................................................................ 42
+3.1 Caracterização da pesquisa................................................................................... 42
+3.2 Técnicas de coleta e análise de dados................................................................... 42
+4. Estudo de Caso................................................................................................................................. 44
+4.1 Caracterização da Empresa................................................................................................ 44
+4.2 Famílias de produtos.......................................................................................................... 45
+4.3 Layout da Fábrica............................................................................................................... 46
+
+4.4 Descrição dos processos de fabricação.............................................................................. 48
+4.5 Layouts dos setores produtivos......................................................................................... 52
+4.6 Sistema de Coordenação de Ordens.................................................................................. 61
+4.7 Restrições de processos..................................................................................................... 62
+5. Estudo de tempos e processos......................................................................................................... 64
+5.1 Produto escolhido.............................................................................................................. 64
+5.2 Lista de peças..................................................................................................................... 66
+5.3 Sequência de procedimentos............................................................................................. 67
+5.4 Tempo médio de máquina trabalhada............................................................................... 75
+5.5 Fluxo de materiais.............................................................................................................. 76
+6. Cálculo do cronograma de produção................................................................................................ 90
+6.1 Etapas da Estamparia......................................................................................................... 90
+6.2 Etapas da Usinagem........................................................................................................... 95
+6.3 Etapas da Caldeiraria......................................................................................................... 98
+6.4 Etapas da Montagem....................................................................................................... 103
+6.5 Etapas da Raspagem........................................................................................................ 107
+6.6 Etapas da Pintura............................................................................................................. 107
+7. Cronograma da produção............................................................................................................... 110
+8. Sugestões de melhorias.................................................................................................................. 122
+9. Considerações finais....................................................................................................................... 125
+10. Bibliografia.................................................................................................................................... 126
+Apêndice A.......................................................................................................................................... 130
+
+13
+
+1. Introdução
+1.1 Contextualização do tema
+Na literatura são encontrados inúmeros métodos de Planejamento e
+Controle da Produção (PCP), cada um com suas particularidades,
+qualidades e defeitos. Mas a decisão de qual método se utilizar nas
+diversas particularidades apresentada em cada empresa e em cada
+necessidade produtiva sempre foi uma dúvida pertinente. Existem várias
+variáveis que afetam na escolha de um Sistema de Planejamento e
+Controle da Produção complicando ainda mais essa escolha. Uma lista com
+os principais fatores que devem ser levados em consideração para a
+escolha de um PCP poderia incluir os itens: tamanho da organização,
+tempo de resposta, nível de repetição, nível de automação, estrutura do
+produto, nível de customização, número de produtos, tipos de layout,
+tipos de estoques de segurança, tipos de fluxo, tipos de montagem e tipos
+de organização de trabalho.
+Segundo MacCarthy e Fernandes (2000), cada sistema de produção na
+sua totalidade ou em cada unidade produtiva apresentam características
+mais adequadas à implantação de um ou mais Sistemas de Planejamento
+e Controle de Produção. Com isso, vemos a importância de conhecimento
+tanto dos Sistemas de PCP já existentes, quanto das características da
+própria organização para uma escolha com maior consciência e de menor
+risco.
+
+1.2 Delimitação do tema de pesquisa
+Para esse estudo, a escolha dos três sistemas de coordenação de ordens
+de produção, MRP, PBC e kanban, foi feito devido a serem os sistemas
+mais presentes e utilizados atualmente nas empresas. Essa escolha
+também tem como intuito limitar o estudo, já que apenas considerando
+esses Sistemas de Planejamento e Controle da Produção é possível
+abranger grande parte dos principais fatores que influenciam na sua
+escolha.
+A
+característica
+de
+esses
+sistemas
+não
+precisarem
+necessariamente ser fixos, apresentando alto grau de adaptabilidade,
+
+14
+
+podendo ser adaptados para as diversas situações
+atualmente, também os tornam bons objetos de estudos.
+
+encontradas
+
+1.3 Formulação do problema de pesquisa
+Essa pesquisa tem o intuito de dar uma ferramenta para a resolução e
+melhoria de problemas encontrados na empresa em estudo, visando
+otimizar a produção levando em conta as diversas limitações encontradas
+por essa. Esse trabalho representa um estudo focado em apenas um
+produto da empresa, para simplificação, porém faz indicações de métodos
+visando uma abordagem mais abrangente para um estudo mais completo.
+
+1.4 Declarações
+Nesse trabalho, será feito estudos práticos sobre a aplicação do sistema
+kanban, do sistema Materials Requirements Planning (MRP) e do sistema
+Period Batch Control (PBC). Primeiramente, será feita uma introdução
+teórica sobre esses modelos de acordo com o encontrado na literatura e
+posteriormente, um estudo de caso onde há a presença de cada um
+desses três sistemas. Esse trabalho tem o intuito de verificar a melhor
+aplicabilidade de cada sistema e auxiliar na decisão da escolha, ou
+adaptação desses, levando em conta as características encontradas ou
+desejadas por cada instituição ou empresa. Dando ênfase à flexibilidade
+de adaptação de cada sistema.
+
+15
+
+2. Revisão Teórica
+Nesse tópico será feita uma introdução teórica sobre o funcionamento e os
+tipos de sistema kanban e o sistema Period Batch Control (PBC) e o
+sistema Materials Requirements Planning (MRP), bem como suas
+principais características. Primeiramente será feita a análise dos Sistemas
+kanban.
+
+2.1 Sistemas kanban
+O kanban é um subsistema do sistema Toyota de produção (STP) usado
+para controlar os estoques em processo, a produção e o suprimento de
+componentes e, em determinados casos, de matérias-primas.
+Definido como um sistema de coordenação de ordens de produção e
+compra (SCO) por Fernandes e Godinho Filho (2007), o sistema
+kanban controla a produção dos produtos necessários, na quantidade e no
+momento necessário.
+Na literatura costuma-se a representar kanban com o significado de
+“cartão”, porém sua tradução literal da palavra é ”anotação visível”, ou
+“sinal”. Isso ocorre, pois o sistema kanban é conhecido por empregar
+determinados cartões para informar a necessidade de entregar e/ou
+produzir certa quantidade de peças ou matérias-primas. Porém a
+representação do kanban pode assumir várias formas (etiqueta, placa,
+anel, etc.).
+Para a utilização do kanban é necessário que haja uma quantidade
+determinada de peças nos armazéns (estoques) entre as estações de
+trabalho. Ou seja, deve ser assegurada a disponibilidade de peças
+suficientes para a fabricação dos produtos num dado período de trabalho.
+No kanban há a definição “cliente” e “fornecedor”, sendo que o “cliente” é
+o processo posterior, que deve ir ao processo diretamente anterior,
+chamado de "fornecedor", para adquirir as peças necessárias já prontas.
+Esse processo, por sua vez, produz a exata quantidade retirada,
+reabastecendo o armazém, entendido como um "supermercado". Existe
+um considerável número de possibilidades no uso deste esquema, visto
+que se podem combinar diferentes tipos e quantidades de sinalizadores,
+formas de retirada, pontos de programação, tipos de armazéns ou
+estoques, etc.
+
+16
+
+Para um funcionamento adequado, o sistema kanban devem seguir
+algumas regras básicas mostrados em autores como Monden (1984) e
+Vollman et al. (1997):
+a) O processo subsequente deve retirar do processo precedente
+somente os produtos necessários nas quantidades necessárias e no
+tempo devido;
+b) O processo precedente deve produzir seus produtos nas quantidades
+requisitadas pelo processo subsequente;
+c) Produtos com defeitos não devem ser enviados para o processo
+subsequente;
+d) O número de kanbans deve ser mantido o menor possível e reduzido
+por meio de melhorias no processo;
+e) Cada contendedor deve ser anexado um kanban e somente deve
+conter quantidades padronizadas de peças e não peças a mais.
+Hoje em dia, há inúmeras vertentes de sistemas kanban, isso devido às
+dificuldades e situações diversas encontradas pelas empresas no passar
+dos anos. Cada um dos sistemas adaptados de kanban foi criado para se
+adaptar a algumas características e para resolver determinados problemas
+específicos encontrados por diferentes organizações. Primeiramente, será
+esclarecido as características do primeiro kanban desenvolvido pela
+Toyota e seus tipos e num tópico posterior será feita uma breve descrição
+dos demais kanbans.
+
+2.2 Características originais do sistema kanban
+
+O sistema kanban originalmente concebido pela Toyota e descrito por
+Muris Junior e Godinho Filho (2010) possui as seguintes características:
+I) Utilização de dois sinalizadores:
+- sinalizador de ordem de produção (kanban P).
+Autoriza a produção para repor as peças requisitadas para uso em
+estações subsequentes, sendo usado apenas no centro de processamento
+que produz a peça, ou seja, é um mecanismo de controle dentro do
+processo.
+- sinalizador de requisição (kanban R).
+
+17
+
+Mecanismo de controle entre os processos, ou seja, autoriza o movimento
+de peças das estações de alimentação às estações de uso, funcionando
+como uma espécie de passaporte, informando o que deve ser reposto;
+II) A produção é puxada por meio do controle do nível dos estoques finais
+(sistema kanban CNE de duplo cartão) ou pela programação do último
+estágio produtivo (sistema kanban H de duplo cartão). Fernandes e
+Godinho Filho (2007);
+III) A rotina de funcionamento é assegurada de forma descentralizada,
+por meio do controle visual realizado pelos próprios operários do processo
+em cada etapa produtiva;
+IV) Os estoques são limitados em cada estação de trabalho, ou seja,
+possuem capacidade finita, determinada pelo número de sinalizadores.
+O quadro 1 faz a representação das condições desfavoráveis encontradas
+na utilização do sistema kanban original, bem como os seus motivos
+(VOLLMANN et al., 1997; FUJIMOTO, 1999; WHITE; PRYBUTOK, 2001):
+
+Quadro 1 - Condições desfavoráveis à utilização do sistema kanban e seus motivos.
+
+Fonte: Moden (1984)
+
+18
+
+2.3 Cálculo do número de kanbans
+
+Será mostrado a seguir, na figura 1, a representação do cálculo do
+número de sistemas kanbans, para os casos de kanbans de duplo cartão.
+Esse método de cálculo é o originalmente utilizado pela Toyota e
+apresentado em Moden (1984), o número de kanbans R e P é dado por:
+
+, com
+
+.
+
+Onde:
+D = demanda por período (normalmente um dia).
+L = lead time médio do kanban (em fração decimal do dia).
+tp = tempo de processamento médio por contendedor (em fração
+decimal do dia).
+tr = tempo de requisição (tempo médio de espera somado ao tempo
+de transporte por contendedor (em fração decimal do dia).
+C = capacidade do contendedor em unidades do produto (não mais
+do que 10% da demanda diária).
+α = coeficiente de segurança ( não mais do que 10 % após se obter
+a estabilização das condições operacionais do sistemas produtivo).
+
+O número de kanbans R é dado por:
+
+O número de kanbans P é dado por:
+
+19
+
+Arredondamentos podem ser feitos tanto para cima quanto para baixo.
+O estoque em processo é no máximo igual a nC. A prática da Toyota é
+deixar n relativamente fixo mesmo com alguma alteração em D. Dessa
+forma estimula-se a redução de lead time.
+Para uma melhor compreensão da aplicação desse cálculo será
+apresentado a seguir quatro casos para o cálculo do número de kanbans
+apresentado por Fernandes e Godinho Filho (2010). Cada caso
+dependendo da variedade de itens da unidade produtiva/sistema de
+produção controlada por kanban.
+- Caso 1: Sistema de produção com um único item.
+Nesse caso com a simples utilização das fórmulas acima
+conseguimos encontrar os valores de n, nr e np. Lembrando
+também que o máximo estoque em processo é dado por nC,
+percebemos que uma diminuição de lead time leva à uma
+diminuição do número de cartões, que por sua vez, acarreta numa
+diminuição
+do
+estoque
+em
+processo.
+- Caso 2: Sistema de produção com alguns itens bastante
+semelhantes.
+Nesse caso, como os itens são semelhantes, entende-se que os
+tempos de processamento e requisição de cada um dos itens (tp e
+tr) são bastante parecidos, com desvio-padrão tendendo a zero.
+Nesse caso, os tempos tp e tr inseridos nas fórmulas vistas acima
+podem ser os tempos médios dos itens. Da mesma forma, a
+demanda (D) é a somatória das demandas dos itens individuais. O
+número de kanbans calculados, portanto representa a quantidade
+total de todos os itens do sistema produtivo. Para se saber quantos
+kanbans são relativos a cada item, basta verificar a demanda de
+cada item com relação à demanda total. Esse percentual representa
+o percentual do número de kanbans total que caberá àquele item,
+isso devido a semelhança encontrada entre os tempos tp e tr.
+- Caso 3: Sistemas de produção com alguns itens diferentes.
+Nesse caso, teremos que os tempos de processamento e requisição
+de cada um dos itens (tp e tr) serão bastante, com desvios-padrões
+significativos. Por essa razão, não podemos estimar tp e tr como no
+Caso 2. Para essa situação, tp representa na realidade o lead time
+de produção, ou seja, o tempo que um cartão de produção leva para
+completar o ciclo no centro produtor. Esse lead time inclui o tempo
+
+20
+
+de processamento. Já tr representa o lead time de requisição, ou
+seja, o tempo que um cartão de requisição leva para completar o
+ciclo entre o centro produtivo e o centro consumidor. Esse lead time
+inclui o tempo de transporte. Dessa forma, para esse caso, não
+podemos
+simplesmente
+utilizar
+as
+fórmulas
+mostradas
+anteriormente, pela incapacidade de se calcular tp e tr. Nessa
+situação, devemos primeiramente realizar uma simulação para
+calcular tp, tr e o número de kanbans.
+- Caso 4: Sistema de produção com muitos itens diferentes.
+Nesse caso, acredita-se que a simulação se tornaria complicada
+demais e a utilização do kanban se torna inviável.
+
+2.4 Tipos de sistema kanban
+
+Nesse tópico são listados os tipos de sistemas kanban encontrados na
+literatura. Tanto os representados nas características do original
+concebido pela Toyota (kanban CNE e kanban H de duplo cartão) quanto
+uma gama de variações desse.
+
+2.4.1 Sistema kanban CNE
+Proposto por Fernandes e Godinho Filho (2010). Baseia-se suas decisão no
+nível de estoque, puxando assim a produção.
+Varia em kanban CNE de duplo cartão (características do kanban original)
+e kanban CNE somente com cartão de ordem de produção.
+- Kanban CNE de duplo cartão.
+Segue as características originais do sistema kanban citado no tópico
+anterior. Trabalhando com dois tipos de cartões:
+- Kanbans R de requisição - Circulam entre dois setores produtivos
+consecutivos e têm por finalidade autorizar a movimentação do
+material de uma estação de trabalho para outra.
+- Kanbans P de ordem de produção - Circulam dentro de um único
+setor produtivo e têm por finalidade autorizar a produção de um
+determinado item.
+
+21
+
+No estoque de entrada de cada centro produtivo há contendores
+que levam o material a ser utilizado no centro e com cartão R
+afixado. No estoque de saída de cada centro, têm-se contendores
+com o material já processado no centro e com cartão P.
+O “cliente” requisita o produto do estoque de saída. Lembrando-se
+que o “cliente” é considerado sempre o processo diretamente
+posterior, no caso de um produto acabado, o “cliente” é o próprio
+comprador que adquire o produto. Nessa etapa, o material vai para
+ele e o cartão P vai para o Painel KP em que cada item ocupa uma
+coluna do Painel dividida em três faixas (vermelha, amarela e
+verde), sendo que o grau de prioridade aumenta da faixa verde para
+a vermelha.
+Na sequência o operador da primeira estação de um estágio ao ficar
+desocupado, pega um cartão P do item com mais cartões na faixa
+vermelha (desempate, mais cartões na faixa amarela). Verificando o
+cartão pega o material de entrada, colocando os cartões R (até
+então atrelados a esse material) no porta-cartões R e em sequência
+o material processado é colocado no estoque de saída do centro
+juntamente com o respectivo cartão P. De tempos em tempos, o
+abastecedor do centro produtivo pega os primeiros cartões R do
+porta-cartões e vai aos estoques de saída dos centros que fornecem
+tais materiais. Nesse local, o cartão R assume o lugar do cartão P, o
+qual vai para o Painel KP, e o contendedor, o material e o cartão R
+são transportados para o estoque de entrada do centro que vai
+consumir tal material.
+- Kanban CNE somente com cartão de ordem de produção.
+Nesse sistema, o operador inicia a produção a partir de uma
+prioridade estabelecida por um painel com faixas de diferentes cores
+(usualmente vermelha, amarela e verde). O operador vai até a
+estação de trabalho anterior, seguindo essa prioridade e pega o
+material necessário à produção do item, colocando no painel dessa
+operação anterior o cartão P.
+A vantagem deste sinalizador com relação aos sistemas de duplo
+cartão é a simplicidade, isso devido a ausência dos sinalizadores de
+requisição e também, por haver apenas uma área de estocagem
+entre dois centros de trabalho consecutivos. Geralmente é
+empregado em empresas cujas estações de trabalho são próximas
+e/ou que possuem um transporte facilitado de peças, sendo feitas
+
+22
+
+manualmente pelos operadores. Nenhuma estação de trabalho é
+programada e a produção é puxada e iniciada pelo consumo de
+produtos finais.
+
+2.4.2 Sistema kanban H
+Apresenta características híbridas. Ou seja, apresenta o último estágio
+programado via um MPS desenvolvido por um PCP central, apesar de
+puxar a produção, como descrito por Fernandes e Godinho Filho (2010).
+
+Existem três tipos de sistema kanban H:
+I)
+II)
+III)
+
+kanban H de duplo cartão (características do kanban original);
+kanban H somente com cartão de ordem de produção;
+kanban H somente com cartão de ordem de requisição.
+
+Tanto (I) e (II) possuem funcionamento semelhante aos kanbans CNE
+vistos anteriormente, sendo que a única diferença é que o último estágio é
+programado.
+No caso de só cartão de ordem de produção, o próprio contendedor pode
+funcionar como um cartão de ordem de produção. Isso é feito retornandose o contendedor ao ficar vazio para o estágio anterior, tendo esse a
+função de sinalizar que o item deve ser produzido.
+O sistema kanban com apenas o cartão de requisição possui a seguinte
+lógica: quando um centro de trabalho requer mais componentes para
+serem processados, ele coleta um contendedor cheio direto da
+armazenagem do estágio anterior. Após a produção o contendor vazio é
+enviado ao estágio de produção anterior e o cartão de requisição vai para
+uma caixa de espera. A saída desse cartão da caixa de espera de volta ao
+ponto de estocagem representa a autorização para a movimentação de
+mais um contendedor cheio. Nessa variante do sistema kanban todos os
+estágios são programados, possui controle centralizado e não limita o
+nível máximo dos estoques.
+Portanto, para o sistema ser considerado híbrido há a necessidade de o
+último estágio ser programado ou todos os estágios serem programados,
+
+23
+
+caso isso não ocorra, o sistema passa a ser do tipo controlado pelo nível
+de estoque (CNE).
+
+2.4.3 Sistema e-kanban
+Também chamado de kanban eletrônico, esse sistema visa a utilização do
+kanban original, apenas substituindo os sinalizadores físicos por
+sinalizadores eletrônicos descrito por vários autores como Ansari e
+Modarress (1995), Vernyi e Vinas (2005), Argenta e Oliveira (2001).
+Portanto visa trocar o uso manual proposto no sistema original pelo uso
+virtual de sinais que representam tanto ordens de produção quanto
+autorização para a transferência de materiais.
+Como qualquer outro sistema, esse possui
+desvantagens. As principais vantagens são:
+
+algumas
+
+vantagens
+
+e
+
+- Permitir melhorias nos relacionamentos com fornecedores, para o caso
+de os sistemas serem utilizados externamente à empresa;
+- Avaliar o desempenho dos fornecedores de forma instantânea;
+- Garantir precisão nas quantidades requeridas e transmitidas;
+- Poder ser usado em quaisquer que sejam as distâncias físicas entre as
+operações produtivas;
+- Diminuir a quantidade de papéis manejados na fábrica.
+
+2.4.4 Simultaneous kanban control system (SKCS) e Independent
+kanban control system (IKCS)
+São variações do uso do sistema kanban original para sistemas produtivos
+com operações de montagem, descrito por Matta et al. (2005). Os
+sinalizadores são liberados para os estágios precedentes de forma que
+apenas dependam da regra estabelecida.
+- Simultaneous kanban control system (SKCS)
+A liberação dos sinalizadores é permitida apenas quando a operação
+de montagem realmente possa ser iniciada. É feita a transmissão de
+informação da demanda de uma forma simultânea para todas as
+estações imediatamente anteriores à de montagem, ou seja, a
+necessidade é simultaneamente sinalizada. Porém, como os
+
+24
+
+sinalizadores são liberados simultaneamente, pode haver atrasos
+nas transmissões das demandas.
+- Independent kanban control system (IKCS)
+A transferência dos sinalizadores para os processos precedentes é
+feita de forma independente. Ocorrendo imediatamente após o
+transporte das peças para o processo de montagem, independendo
+se os demais componentes necessários à montagem estejam ou não
+disponíveis. Portanto, não ocorre nenhum atraso na transmissão das
+demandas como no caso do SKCS.
+O IKCS é considerado relativamente mais reativo à demanda do que o
+SKCS, devido a uma transferência mais rápida no SKCS. Entretanto, há a
+uma presença maior de estoque em processo no IKCS, devido à presença,
+muitas vezes, de componentes produzidos que ainda não possam ser
+utilizados na montagem.
+
+2.4.5 Periodic pull system (PPS)
+Se difere ao kanban original devido à transferência de informações, tendo
+como proposta a de se utilizar um sistema computadorizado, empregando
+equações matemáticas para reduzir o tempo de processamento das
+informações, descrito por Kim (1985). Sendo isso é feito por meio do
+gerenciamento do status do fluxo dos materiais, periodicamente, em
+todos os processos. Resultando que, somente a quantidade exata de
+material que tenha sido consumido por uma dada estação de trabalho seja
+produzida pelo processo correspondente.
+O sequenciamento das famílias de produtos e a alocação da mão-de-obra
+podem ser feitos antecipadamente para o período posterior, devido ao
+conhecimento prévio de todas as requisições acumuladas. De acordo com
+estas propriedades, os potenciais picos e vales das atividades produtivas
+durante o período podem ser nivelados (Kim, 1985). Há a limitação dos
+estoques como apresentado no sistema original, entretanto, possui a
+diferença de que, para que não ocorra faltas, a cada período pode haver
+mudanças nos valores máximos, de acordo com a demanda. Portanto,
+deve-se determinar a quantidade a ser produzida e transportada, visando
+para que não exceda os níveis máximos.
+Algumas das vantagens do PPS, de acordo com Kim (1985) são:
+- Flexibilidade da escolha do tamanho dos períodos (semanal, diário,
+etc.);
+
+25
+
+- Menor lead time de transferência de informações;
+- Independência da distancia geográfica entre os processos;
+- Flutuações da demanda são transferidas, porém não são propagadas
+para os processos à montante;
+- Possibilidade de aumento dos níveis de estoque para evitar faltas.
+
+2.4.6 Dynamically adjusting kanban
+Apresenta como diferencial básico, em relação ao sistema kanban original,
+o ajuste dinâmico do número de sinalizadores (consequentemente dos
+níveis de estoque), descrito por Rees, Philipoom, Taylor e Huang (1987).
+A sua criação veio como uma proposta de adequação às necessidades das
+empresas que enfrentam condições instáveis de demanda. Equações
+necessárias para o cumprimento dos cálculos relativos à alteração no
+número de sinalizadores são encontradas em Rees et al. (1987). No
+Brasil, Danni e Tubino (1997) e Tubino e Lemos (1999) utilizam modelos
+de simulação baseados na proposta de Rees et al. (1987) para ajustar os
+parâmetros principais do sistema kanban.
+
+2.4.7 Regenerative pull control system (RPCS)
+É
+uma
+adaptação
+da
+lógica
+de
+funcionamento
+original
+do
+sistema kanban para um sistema produtivo automatizado com máquinas
+executando processos em paralelo, descrito por Seidmann (1988). A
+necessidade de atenuar os efeitos da variabilidade dos tempos de
+processamento nas células produtivas foi o principal motivo de sua
+criação. É um sistema automatizado com estoques controlados cuja
+principal variável de decisão é a alocação de diferentes tipos de produtos
+às células robotizadas em paralelo. Essas células, por sua vez, servem um
+conjunto de estações de trabalho subsequentes que puxam essa
+produção.
+Seidmann (1988) entra em detalhes com relação às equações
+matemáticas envolvidas nos algoritmos computacionais utilizados no RPCS
+e demonstra por meio de exemplos numéricos seu funcionamento. É
+indicado para sistemas produtivos com alta variabilidade de itens e
+tempos de processamento. Este sistema tem como principais
+características:
+- Puxar a produção;
+
+26
+
+- Limitar o nível máximo de estoque;
+- Utilizar sinalizações eletrônicas para tomar decisões relativas à produção
+e transferência de materiais.
+
+2.4.8 Job-shop kanban
+Primeiramente implementada por Gravel e Price (1988), o job-shop
+kanban tem como proposta adequar o sistema kanban para sistemas
+produtivos do tipo job-shop. Portanto visa atender casos onde existe uma
+alta variedade de itens e pequeno volume de produção.
+Nesse sistema, os quadros sinalizadores kanban e os próprios
+sinalizadores divergem do original, sendo que os sinalizadores não mais
+são associados a produtos e sim a operações. Essa podendo ser realizada
+por mais de uma máquina e utilizando mais de uma peça. As
+características de principais desse sistemas são.
+Esse sistema, além de manter características originais do kanban, como
+produção puxada, controle descentralizado e limitação do nível máximo de
+estoque, também possui uma maior efetividade se tratando de casos com
+tais características:
+- Grande variedade de itens;
+- Fluxo de materiais complexo;
+- Alta variação entre os tempos de processamento.
+
+2.4.9 Minimal blocking
+Possui como objetivo compensar as variações dos tempos de
+processamento, as quebras de equipamentos e as flutuações da demanda.
+Sendo isso feito com a determinação estimativa da quantidade máxima de
+estoques de segurança no processo, descrito por So e Pinault (1988). Há
+uma série de equações matemáticas para a determinação dos níveis de
+estoque, visando com isso gerar um determinado nível de serviço ao
+consumidor. Possui as seguintes características:
+- Controle descentralizado da produção;
+- Limita o nível máximo de estoque;
+
+27
+
+- Sinalizadores são usados como ordem de produção e autorização para
+transferência de materiais.
+
+2.4.10 Generalized kanban control system (GKCS)
+É uma combinação do sistema de estoque base e o sistema kanban,
+descrito por Buzacott (1989) e Zipkin (1989). Isso é alcançado por meio
+de duas principais ações:
+Manutenção
+de
+estoques
+instantaneamente à demanda;
+
+de
+
+segurança,
+
+visando
+
+atender
+
+- Utilização de sinalizadores, para a autorização da produção e para limitar
+os níveis de estoque.
+A necessidade da definição e gerenciamento de dois parâmetros de
+controle por estágio, o estoque de segurança e o número de sinalizadores
+de ordem de produção é um fator limitante que torna mais complexo a
+utilização desse método. No GKCS as demandas se movem
+separadamente dos sinalizadores diferentemente do kanban tradicional.
+Isto é, mesmo se não houver peças prontas nos estoques de saída das
+estações de trabalho, a ordem representada pelos sinalizadores é
+transferida para o estágio precedente, desde que haja sinalizadores
+disponíveis. Diversos estudos indicam que as principais vantagens do
+GKCS são sua flexibilidade e aderência às flutuações da demanda.
+
+2.4.11 Modified kanban system (MKS)
+Criado e implementado em 1989 por Steve Otenti e sua equipe, e descrito
+em 1991. Trata-se de uma modificação do sistema kanban para ser
+utilizado em uma fábrica de semicondutores, cujas características
+impediam a implantação do sistema original puro (OTENTI, 1991).
+Esse sistema foi criado devido as irregularidade e dificuldades residuais
+dos carregamentos nas linhas de produção, causada por problemas
+operacionais. Podendo esses problemas gerar dificuldades no processo
+produtivo durante um determinado tempo mesmo após sua resolução.
+No MKS, há a divisão das operações em grupos ou centros de controle de
+estoque. Sendo que dentro de cada grupo, é criada uma limitação dos
+estoques, por meio de sinalizadores.
+A grande movimentação de funcionários dentro e entre as operações é
+uma desvantagem dos procedimentos operacionais do MKS. Porém, esse
+
+28
+
+sistema possui vantagens como ser auto gerenciável e eliminar a
+necessidade do monitoramento dos níveis de estoque durante cada
+período. É um sistema simples, facilmente implementável e de baixo custo
+(Otenti, 1991). Algumas características do MKS são:
+- Não puxa a produção;
+- Controle descentralizado;
+- Limitação do nível máximo de estoque e uso de sinalizadores;
+- Melhores resultados em condições de tempo de processamento muito
+diferentes e variáveis.
+
+2.4.12 Auto-adaptive kanban
+Sua estrutura de controle é similar ao sistema kanban, tendo como
+característica, ser auto adaptável às condições produtivas e de demanda,
+descrito por Chaudhury e Whinston (1990).
+Basicamente, é um sistema de controle descentralizado de processos
+automatizados de forma on-line. É muito mais flexível e versátil que o
+sistema kanban original, principalmente em relação à variedade de
+produtos e da demanda no curto prazo (Chaudhury e Whinston, 1990).
+Baseia-se nas tecnologias computacionais existentes na manufatura como
+CAM (computer aided manufacturing) e CIM (computer integrated
+manufacturing), bem como na simplicidade e necessidade de poucos
+dados do sistema kanban. Esse sistema apresenta, em relação ao original,
+um melhor balanceamento da distribuição das cargas de trabalho.
+
+2.4.13 Concurrent ordering system
+Criado e desenvolvido por Izumi e Takahashi (1993), possui como
+principal característica a emissão simultânea das ordens de produção e de
+transporte de materiais para todos os processos produtivos, com base na
+demanda real no último estágio.
+A liberação dessas ordens é feitas do seguinte modo:
+- Os sinalizadores de transporte e produção de todos os estágios ficam
+afixados nos produtos finais;
+- Os pedidos que chegam são satisfeitos pelo estoque de produtos finais;
+
+29
+
+- Os sinalizadores que estavam junto a esses produtos acabados são
+removidos,
+separados
+e
+transferidos
+a
+todos
+os
+processos
+correspondentes.
+Isso faz com que seja evitada a interrupção da transmissão das ordens
+em casos de falta de estoque em algum ponto.
+O fato da transmissão das ordens ocorrerem de forma imediata,
+simultânea e em todos os processos, também leva a uma redução de seu
+atraso. Esse sistema possui vantagens em condições instáveis de
+demanda e tempo de processamento.
+
+2.4.14 Modified concurrent ordering system
+Publicada por Takahashi (1996), é uma modificação do concurrent
+ordering system, visando melhorar seu funcionamento. Esse sistema se
+difere do concurrent ordering system, pelo fato de os sinalizadores serem
+imediatamente enviados no momento de chegada de uma nova demanda,
+e não quando os produtos forem consumidos do estoque, como ocorre no
+sistema anterior.
+Eliminando também a necessidade de estoque de produtos finais, como
+ocorria no concurrent ordering system, evitando assim possíveis atrasos
+caso esses estoques fossem inexistentes. Nesse sistema os tempos de
+espera são menores quando comparados com o anterior e com o
+sistema kanban original, porém, em média, os níveis de estoque são
+maiores. Como no concurrent ordering system, esse sistema possui
+melhores condições de desempenho a demandas e tempos de
+processamento instáveis.
+
+2.4.15 Generic kanban system (GKS)
+Criado por Chang e Yih (1994b), devido a necessidade de um sistema do
+tipo just in time para ambientes produtivos não repetitivos, foi o principal
+fator que levou à sua criação.
+Como seu nome mesmo diz, possui sinalizadores "genéricos", não
+pertencendo a uma determinada peça. Portanto, esses sinalizadores
+podem ser atribuídos a qualquer item dentro de cada estação de trabalho.
+Esse sistema apresenta um tempo de espera devido ao fato de não serem
+mantidos estoques de produtos intermediários, sendo mantido apenas
+sinalizadores.
+
+30
+
+Esses, ao serem retirados, aguardam por uma nova requisição, não
+disparando automaticamente a produção de novas peças. Apresenta um
+melhor desempenho frente às condições instáveis de demanda quando
+comparado ao kanban original.
+
+2.4.16 Flexible kanban system (FKS)
+Criado por Gupta e Al-Turk (1997), o FKS manipula dinamicamente e
+sistematicamente o número de sinalizadores, com apoio de um algoritmo,
+tendo como finalidade evitar os bloqueios e os desabastecimentos
+causados pelas incertezas (principalmente com relação aos tempos de
+processamento e à demanda) durante o ciclo produtivo.
+A única diferença entre esse sistema e o original, está no número de
+sinalizadores, variável durante o período produtivo, sendo esse número
+calculado pelo algoritmo desenvolvido pelos criadores desse sistema.
+Para estoques em processo, tempos para completar ordens e número de
+pedidos atrasados, em condições de demanda instável e alta variabilidade
+dos tempos de processamento nas estações de trabalho, esse sistema
+possui melhor desempenho que o sistema kanban original.
+
+2.4.17 Push-pull approach (PPA)
+Criado pelos pesquisadores Huang e Kusiak (1998), tendo como objetivo a
+adaptação do sistema kanban em uma abordagem geral para os diversos
+sistemas produtivos. Visa o aprimoramento da utilização do
+sistema kanban levando em conta as diferenças internas existentes entre
+os processos produtivos de uma mesma produção e duas abordagens
+diferentes de produção: empurrada e puxada.
+A configuração do PPA, portanto, é variável e depende das características
+do sistema produtivo em que está sendo implementado.
+Ele pode também ter características desde sistemas totalmente puxados
+(kanban original), até totalmente empurrados. Porém, desde que se
+esteja considerando uma situação, na qual teoricamente possa ser
+instalado um sistema kanban, pelo menos em alguma parte do processo.
+Esse sistema controla a produção de forma descentralizada, limita do nível
+máximo de estoque e utiliza sinalizadores como ordem de produção e
+como autorização de transferência de materiais.
+
+31
+
+É efetivo para sistemas produtivos complexos e com variabilidade entre os
+tempos de processamento.
+
+2.4.18 Decentralized reactive kanban (DRK)
+Criado por Takahashi e Nakamura (1999), o DRK tem como objetivo
+garantir um bom desempenho de sistemas produtivos de múltiplos
+estágios e mudanças instáveis na demanda por produtos.
+Tem como proposta controlar independentemente os estoques de cada
+etapa do processo produtivo, visando com isso, não só responder
+efetivamente à demanda, mas também manter reduzir os níveis médios
+de estoque em processo e a média do tempo de espera no atendimento
+aos pedidos.
+Em comparação ao sistema original, possui maior reação às mudanças da
+demanda diminuindo, ao mesmo tempo, os tempos de espera e mantendo
+os estoques em níveis apropriados.
+
+2.4.19 Extended kanban control system (EKCS)
+Visa alcançar constantemente um bom balanceamento entre os custos dos
+estoques e o nível de serviço ao consumidor, sendo uma alternativa aos
+sistemas kanban e estoque base que não possuem tal propriedade,
+descrito por Dallery e Liberopoulos (2000). Nesse sistema, há a
+decomposição da demanda por produtos acabados para cada etapa
+produtiva e a transferência imediata para os respectivos processos.
+A demanda comanda a produção em cada etapa, porém essa produção é
+limitada pelos sinalizadores, que funcionam também como autorização
+para transferência de peças para os estágios seguintes. Esse sistema
+apesar de empurrar a produção entre as estações intermediárias, puxa a
+produção de um forma global. Apresenta também um controle
+descentralizado e limitação do nível máximo de estoque. De uma forma
+comparativa, esse sistema é mais flexível às flutuações da demanda e à
+variabilidade dos tempos de processamento em detrimento ao original.
+
+2.4.20 Simultaneous extended kanban control system (SEKCS)
+e Independent extended kanban control system (IEKCS)
+Assim como no caso do SKCS e do IKCS citados anteriormente, esse
+sistema consiste em generalizações do EKCS para sistemas produtivos
+
+32
+
+com operações de montagem, descrito por Chaouiya et al. (2000). A
+diferença essencial entre o IEKCS e o SEKCS é que no IEKCS a
+transferência das peças para a montagem é feita de forma independente,
+ou seja, assim que cada sinalizador estiver disponível. Já no caso do
+SEKCS, a transferência das peças para a montagem ocorre de forma
+dependente, ou seja, somente quando a operação de montagem possa
+realmente ser iniciada.
+
+2.4.21 Adaptive kanban
+Foi criado como uma alternativa de mecanismo de controle do fluxo de
+materiais em ambientes com demanda instável, descrito por Tardif e
+Maaseidvaag (2001). Esse sistema consiste na determinação de quando e
+quantos sinalizadores devem ser liberados para os processos em função
+dos níveis de estoque, dos pedidos e da demanda por produtos. O
+adaptive kanban além de ser tão simples quanto o kanban original,
+apresentando
+características
+de
+produção
+puxada,
+controle
+descentralizado e limitação do nível máximo de estoque, também possui
+atrasos menores nas entregas quando se comparado a esse.
+
+2.4.22 Reconfigurable kanban system (RKS)
+Esse sistema tem como objetivo ser mais responsivo, e ao mesmo tempo,
+apresentar maior efetividade em termos de custos com estoques, descrito
+por Mohanty et al. (2003). A principal característica do RKS está na sua
+“reconfiguralidade” de sinalizadores, sendo que o controle do número de
+sinalizadores adicionais é feito por meio do exame da diferença entre a
+demanda e a produção do produto correspondente. Em comparação com o
+modelo original, o RKS apresenta melhores valores nos tempos para
+completar as ordens, no nível médio de estoques em processo e também
+com relação ao número médio de ordens acumuladas no período.
+
+2.4.23 Inventory based system
+Foi criado para atender dificuldades devido a altas variações na demanda
+em ambientes competitivos, descrito por Takahashi (2003). Há um
+monitoramento dos níveis de estoque dos produtos visando a detecção de
+variações de consumo inconstantes. O número de sinalizadores em uma
+unidade é aumentado ou diminuído a cada detecção de instabilidade,
+diferentemente de outros sistemas nos quais o número adicional de
+sinalizadores é previamente definido. Esse sistema tem a capacidade de
+
+33
+
+manter baixos os níveis de estoque ao mesmo tempo em que também
+garante um tempo médio relativamente baixo de espera pelo
+cumprimento das ordens, tendo assim um bom desempenho em relação
+às mudanças na demanda.
+
+2.4.24 Fake pull control system (FPCS)
+Esse sistema é uma adaptação prática do sistema kanban para uma
+determinada fábrica de pequeno volume e alto valor de produção, descrito
+por Hendrick (1988). Visa operacionalizar o sistema kanban para que
+quando houverem condições impróprias para o funcionamento do
+sistema kanban original, permita que o sistema produtivo seja capaz de
+empurrar os materiais. Isso devido ao fato que nessas condições, os
+estoques não são limitados, a produção é empurrada, o controle é
+centralizado e os papéis originais dos sinalizadores, em parte, ficam
+comprometidos. Esse sistema é interessante, por exemplo, em casos em
+que há parada, presente ou frequente, de produção por outro motivo que
+não seja problema de qualidade e/ou estoque de entrada cheio. Portanto,
+nesses casos, o uso do FPCS ajuda a evitar o comprometimento do
+desempenho produtivo.
+
+2.4.25 Bar-coding kanban
+A necessidade de melhorar a coordenação do fluxo de materiais
+comprados numa empresa canadense, foi o que levou a criação desse
+sistema, descrito por Landry et al. (1997). Essa empresa apresentava um
+sistema produtivo semi-repetitivo e que sofria grande influência das
+flutuações da demanda. O bar-coding kanban utiliza basicamente um
+sistema de planejamento de necessidade de materiais (MRP) e
+sinalizadores com código de barras. Os principais benefícios associados ao
+uso deste sistema são:
+- Redução do nível total de estoque;
+- Aumento da flexibilidade no suprimento;
+- Aumento da velocidade de resposta às flutuações da demanda.
+O bar-coding kanban visa atender sistemas produtivos que apresentam
+alta variabilidade de demanda e de itens.
+
+34
+
+2.4.26 CPM kanban system (CPM-KS)
+Sua criação se teve como um método de gerenciamento de projetos que
+visava implantar a produção just in time (JIT) em uma organização
+produtiva de pequeno porte, descrito por Abdul-Nour et al. (1998). A sigla
+CPM vem do conhecido método do caminho crítico (critical path method).
+O sistema kanban é utilizado entre os departamentos produtivos, onde a
+produção é empurrada, e a montagem do produto final. Esse sistema
+utiliza-se de um sistema CAD (computer aided design) para projetar os
+produtos finais e de uma abordagem CPM para representar as tarefas a
+serem executadas pelos departamentos produtivos, bem como a
+identificação das atividades críticas. O CPM-KS visa garantir um melhor
+desempenho frente a condições de demanda altamente variável como nos
+sistemas de programação por contrato.
+
+2.4.27 MRP/shop floor extension (MRP/sfx)
+É uma forma genérica da aplicação conjunta do MRP e do sistema kanban,
+descrito por Nagendra e Das (1999). Visa a criação de dispositivos de
+aderência entre as atividades de planejamento do MRP e as atividades de
+execução no chão de fábrica do sistema kanban. O MRP/sfx possui a
+vantagem de poder ser utilizado em sistemas produtivos complexos com
+demanda e tempos de processamento variáveis.
+
+2.4.28 Virtual kanban (VK)
+Visa a sua aplicação em sistemas produtivos de múltiplos estágios e
+produtos altamente customizados, descrito por Takeda et al. (2000).
+Possui como principal característica de funcionamento a transferência dos
+sinalizadores aos processos anteriores, que corresponde ao desempenho
+do processo gargalo, portanto, quando uma máquina quebra ou falta
+alguma matéria-prima nenhum sinalizador é transferido às estações
+precedentes. O VK é apropriado para situações de altíssima variedade de
+itens e demanda, e pra fluxos produtivos complexos, apresentando as
+seguintes vantagens:
+- Diminuição dos níveis de estoque;
+- Redução do lead time;
+- Aumento da confiabilidade nas datas de entrega.
+
+35
+
+2.4.29 Sistema customized type 5 e Sistema customized type 10
+Criado por Gaury et al. (2001), consiste basicamente em três passos:
+- Utilizar um modelo genérico que possui integradamente todos os tipos
+possíveis de controle puxado;
+- Simular a utilização deste modelo usando as características do sistema
+produtivo no qual se pretende implementar um SCO puxado customizado;
+- Obter os valores desejados para os parâmetros com base nos resultados
+da simulação.
+Esses sistemas se tratam de uma adaptação da lógica de funcionamento
+do sistema kanban apesar de apresentarem soluções muito particulares.
+O customized type 5 apresenta um desempenho efetivo frente a certo
+grau de variabilidade dos tempos de processamento e confiabilidade das
+máquinas.
+Já o customized type 10 apresenta um desempenho efetivo frente à
+variabilidade dos tempos de processamento, da confiabilidade das
+máquinas e a presença de um gargalo produtivo.
+
+36
+
+2.5 Sistema PBC
+
+Agora, será feita uma introdução teórica sobre sistema PBC, bem como
+suas principais características. O sistema PBC (Period Batch Control) foi
+criado pelo consultor inglês R. J. Gigli, aproximadamente em 1926,
+fazendo a adaptação de sistemas existentes na produção em massa pra a
+manufatura repetitiva. Mas ele também pode ser usado para a manufatura
+semi-repetitiva. Como definição, é um sistema cíclico, que opera com
+ciclos ou períodos fixos em que cada parte produzida é necessária para
+um período subsequente do próximo estágio de produção (Benders and
+Riezebos, 2002). Ou seja, todos os componentes necessários para a
+produção de um certo produto são planejados para serem fabricados em
+uma etapa anterior de produção.
+De acordo com MacCarthy e Fernandes (2000), o PBC é apropriado para
+sistemas de produção repetitíveis e semi-repetitíveis, para sua
+implantação, algumas condições são necessárias (Burbidge, 1994):
+- O tempo de processamento do produto deve ser menor que um período;
+- Os tempos de set-up devem ser pequenos, uma vez que é necessário
+trabalhar com pequenos tamanhos de lote;
+- O lead time de compra deve ser pequeno.
+Já, de acordo com Silva e Fernandes (2008), os principais motivos para a
+escolha do PBC por empresas são:
+- facilidade dos funcionários entenderem seu funcionamento;
+- esse sistema não exige grande investimento;
+- o PBC facilita e viabiliza a implantação de regras de programação de
+operações.
+O PBC possuem as seguintes etapas de funcionamento:
+Etapa 0: Primeiramente, recebe-se o Plano Mestre de produção (MPS)
+definido para vários ciclos de igual tamanho;
+Etapa 1: É definida a quantidade que deve ser feita de cada item para o
+ciclo em questão, com a “explosão” do MPS (Master Production Schedule).
+Etapa 2: Atribuição de tempos para:
+
+37
+
+a) A emissão das ordens mais a produção ou entrega de matériasprimas usadas no processamento;
+b) O processamento ou recebimento de componentes;
+c) A montagem;
+d) A distribuição das vendas.
+É importante lembrar que quanto menores forem os períodos,
+consequentemente, menores serão os ciclos. Portanto, o tempo de
+resposta (TR) do sistema produtivo será menor com a redução dos
+períodos. Porém, deve-se levar em conta algumas limitações (Fernandes;
+Godinho Filho, 2007):
+I)
+
+II)
+
+III)
+
+O período não deve ser menor que o lead time de produção de
+qualquer dos componentes. Itens com lead time de produção
+muito longo que não pode ser reduzido devem ser controlados
+por outro sistema que não o PBC;
+Diminuir o tamanho do período implica em aumentar a proporção
+do tempo de preparação. Se isso provocar uma diminuição da
+capacidade produtiva a um nível inferior à requerida para se
+atender à demanda, alguma providência deve ser tomada (por
+exemplo: controlar os itens de pouco valor pelo sistema de
+revisão contínua, ou se aumenta a capacidade) ou o tamanho do
+período deverá ser aumentado;
+A duração do lead time de suprimento deve ser levada em conta
+no estabelecimento da duração do período e, portanto, do
+tamanho do ciclo. Eventualmente, por problemas de lead time de
+suprimento longo demais, certo itens poderiam ser controlados
+por outro sistema que não o PPBC.
+
+O fator (I) é muito mais limitante quando se trabalha num sistema de
+manufatura com layout funcional do que com o layout celular,
+(Burbidge, 1975). Pois permite várias formas de redução do lead time
+de produção, pelo menos para os itens críticos. Um exemplo, é utilizarse da sobreposição de operações, ou seja, pode-se fazer o
+processamento de itens de um mesmo lote simultaneamente em
+estações de estágios produtivos diferentes.
+A Tecnologia de Grupo também fornece meios para a atenuação da
+segunda limitação, pois como a emissão de ordens é feita em conjunto
+para todos os itens, podem-se tirar vantagens de um planejamento
+conveniente da sequência da carga de trabalho.
+
+38
+
+2.6 Sistema MRP
+
+Manufacturing Resource Planning (MRP), ou Planejamento das
+Necessidades de Materiais, tem vindo a ser usado para dar significado a
+MRP e a MRP II (Manufacturing Resource Planning). Introduzido
+inicialmente, o MRP foi sendo desenvolvido até se tornar MRP II que já
+tem em conta aspectos relacionado com finanças, compras e marketing.
+Este sistema, nomeadamente o MRP, tornou-se um conceito popular nos
+anos de 1960 e 1970.
+O MRP é um sistema computadorizado de controle de inventário e
+produção que assiste a optimização da gestão de forma a minimizar os
+custos, mas mantendo os níveis de material adequados e necessários para
+os processos produtivos da empresa.
+Este sistema possibilita às empresas calcularem os materiais dos diversos
+tipos que são necessários e em que momento, assegurando os mesmo
+que sejam providenciados no tempo certo, de modo a que se possa
+executar os processos de produção. O MRP utiliza como informação de
+input os pedidos em carteira, assim como a previsão das vendas que da
+área comercial da empresa.
+Componentes de um sistema MRP (Carravilla, 1997):
+- Sistema computadorizado;
+- Sistema informativo de produção;
+- Inventário de produção;
+- Calendário de produção;
+- Sistema de gestão de inputs (entrada) para produção;
+- Sistema de previsão de falhas produtivas.
+Parâmetros fundamentais:
+Os parâmetros fundamentais em que um sistema MRP são políticas e
+dimensão do lote (lotes mínimos e máximos), política de períodos firmes,
+stock de Segurança, lead time e unidade de medida, (Carravilla, 1997).
+
+39
+
+Os dados utilizados num sistema MRP provêm do plano diretor de
+produção PDP, do inventário geral e da estrutura dentada dos produtos
+(Carravilla, 1997).
+O plano diretor de produção permite-nos saber o que e quando produzir, o
+plano de produção alcançado através de previsões de vendas e
+encomendas firmes e a dimensão suficiente do horizonte temporal de
+planejamento de modo a englobar os leads time de todos os componentes
+integrantes nos produtos finais (Carravilla, 1997).
+O inventário geral contém informação sobre as existências disponíveis em
+armazém, as necessidades brutas, as recepções programadas, o início das
+encomendas /ordens de fabricação dos produtos, o tamanho dos lotes, os
+lead times, os níveis de estoques de segurança, os níveis limite de
+produtos defeituosos e as alterações diárias (Carravilla, 1997).
+Todos os produtos da linha de produção devem ser "expandidos" ao nível
+dos seus componentes, subcomponentes e peças (Conceitos básicos de
+MRP, MRPII e ERP). A estrutura dentada dos produtos possui (Carravilla,
+1997):
+- Dados sobre cada componente ou grupo necessário para a produção de
+produtos finais, discriminando: referência, descrição e quantidades.
+- Definir a partir da necessidade do produto, as necessidades dos
+componentes.
+Os dados que um sistema MRP tem como output (Carravilla, 1997):
+- Para o planeamento (Plano Diretor da Produção): conclusões da
+simulação de um Plano Diretor da Produção e informação da ordem de
+encomendas por satisfazer.
+- Para a gestão, índices de desempenho.
+- Para o CRP, dados sobre novas de ordens de fabricação.
+- Para compras e a produção, confirmação das ordens de fabricação.
+Os sistemas MRP são usualmente implementados quando uma ou mais
+condições das seguintes se verificam (Carravilla, 1997):
+- Quando a utilização (procura) de material é descontinua ou altamente
+instável durante o ciclo normal de operação de uma empresa. Esta
+situação é tipicamente classificada como produção intermitente ou
+
+40
+
+operação job shop, ao contrário de um processo contínuo de produção ou
+mesmo produção em série;
+- Quando a procura de material depende diretamente da produção de
+produtos acabados ou de outro inventário específico. O MRP I pode ser
+visto como componente primário do planeamento da produção onde, a
+procura pelos componentes ou materiais depende da procura do produto
+final;
+- Quando o departamento de compras e os seus fornecedores, bem como
+as próprias unidades de produção da empresa possuem a flexibilidade
+para satisfazer encomendas e entregas semanalmente.
+Algumas das vantagens de um sistema MRP, (Laurindo e Mesquita, 2000):
+diminuição dos estoques, controle melhor da produção e das encomendas,
+processo hierárquico, integração das várias áreas funcionais (ERP),
+estrutura formal de dados e procedimentos, simulações e integração
+JIT/MRP.
+O MRP I tem alguns contratempos e desvantagens (Laurindo, Mesquita,
+2000) que devem ser examinados minuciosamente por qualquer empresa
+que considere adoptar o sistema em questão. O MRP I não tem tendência
+a otimizar os custos de aquisição dos materiais. Como os níveis de stock
+são estabelecidos ao mínimo possível, os materiais têm que ser
+comprados em quantidades pequenas e de uma forma mais frequente, o
+que resulta num incremento dos custos de aquisição (ou também
+conhecidos como custos de aprovisionamento). Maiores custos de
+transporte são causa efeito visto que, a empresa está menos apta a
+descontos de encomendas de grandes quantidades. A empresa tem que
+comparar antecipadamente a redução nos seus custos de posse de
+material em stock face aos aumentos nos custos associados a
+encomendas frequentes e de pequenas quantidades.
+Outra desvantagem do MRP I (Laurindo, Mesquita, 2000) é o potencial
+perigo duma redução ou mesmo paragem da produção que pode vir de
+fatores como problemas de entrega não previstos e escassez de material.
+A existência de um stock de segurança fornece à produção alguma
+proteção contra imprevistos. Como os stocks de segurança são reduzidos,
+este nível de proteção é perdido. A desvantagem final do MRP I é devido à
+utilização de pacotes de software padronizados que, podem ser difíceis de
+adaptar a situações específicas de produção de uma determinada
+empresa. O software tem então que ser adaptado e modificado pela
+
+41
+
+empresa de forma a que consiga satisfazer as necessidades únicas de
+determinada situação.
+Estas desvantagens podem ser facilmente eliminadas (Laurindo, Mesquita,
+2000) através de uma parametrização do software utilizado. Nele podem
+ser definidos estoques de segurança e lotes mínimos de compra, que
+reduziriam dramaticamente os efeitos citados acima.
+
+42
+
+3. Métodos de pesquisa
+
+Para a realização desse trabalho será empregado um estudo de caso
+específico para a otimização da fabricação de um item de uma
+determinada empresa. Sendo assim feito, para a elaboração do trabalho,
+uma pesquisa descritiva, qualitativa e exploratória a partir da pesquisa de
+campo in loco na empresa estudada foi realizado com o propósito da
+descrição do processo de fabricação e do sistema de coordenação de
+ordens de produção adotado pela empresa.
+
+3.1 Caracterização da pesquisa
+
+A necessidade dessa pesquisa, se deve ao fato da necessidade de
+melhorias de processos e de redução de tempos produtivos na empresa
+em que se realizou o estudo. Tendo como principal objetivo a coleta de
+dados, a análise desses e por fim propor e aplicar propostas de melhorias.
+
+3.2 Técnicas de coleta e análise de dados
+
+Todos os dados que serão apresentados adiante para o estudo, foram
+coletados por entrevistas com cada um dos líderes de cada setor da
+empresa relevantes para o processo produtivo do produto em estudo e
+para o método utilizado que será mais bem explicado nos capítulos
+posteriores. Devido ao autor desse trabalho ter estagiado na empresa,
+teve-se um maior acesso também aos dados já existentes e fornecidos
+pela empresa.
+Foi realizada uma análise crítica dos dados, visando otimizar as
+informações adquiridas por eles, também utilizando procedimentos
+representados nos tópicos posteriores. Essa análise visando sempre
+retornar em melhorias e propostas de melhorias para a empresa.
+
+43
+
+44
+
+4. Estudo de Caso
+A empresa objeto do estudo do presente trabalho de conclusão de curso é
+uma empresa metalúrgica fabricante de máquinas agrícolas situada na
+cidade de São Carlos – SP. O estudo desenvolvido visa o mapeamento dos
+processos de fabricação na manufatura, principalmente os processos
+relacionados do setor de caldeiraria. Esse mapeamento visando relacionar
+os sistemas de coordenação de ordens em estudo e fazer análises de
+melhoria, no caso específico de um produto fabricado pela empresa em
+questão. Foi realizado o levantamento das particularidades do fluxo de
+produção com ênfase as possibilidades de eventuais mudanças ou
+propostas de projetos de melhoria a fim de identificar as restrições
+existentes à implantação de um sistema de coordenação de ordens de
+produção.
+
+4.1 Caracterização da empresa
+
+O Fundador da empresa migrou da Itália e se dedicou inicialmente a
+lavoura na metade do século passado. Identificando a necessidade da
+aplicação de recursos mecanizados na lavoura, os quais na época estavam
+fora das suas possibilidades financeiras de aquisição, teve a iniciativa de
+desenvolver e produzir seus próprios implementos agrícolas. Usando as
+poucas ferramentas de que dispunha, mas valendo-se de sua força de
+vontade, experiência e inventividade, decidiu montar uma pequena
+oficina, dentro de sua propriedade, para fabricar os equipamentos que
+precisava.
+A primeira criação foi uma “grade de discos”, então acionada por tração
+animal, produzida com o auxílio de seus filhos na concepção e produção.
+A partir desta primeira grade, outros implementos começaram a ser
+produzidos, ainda que de forma artesanal. A qualidade com que eram
+produzidos e sua grande utilidade na lavoura fez com que os agricultores
+vizinhos passassem a pedir para que a família produzisse em quantidades
+suficientes, a fim de que eles também pudessem ser beneficiados com o
+uso dos implementos.
+
+45
+
+Assim, em novembro de 1963, na região rural em torno da cidade de São
+Carlos, surge a empresa. Além de atender aos proprietários rurais da
+região, a empresa produzia um lote grande de grades, colocavam-nas em
+um caminhão e saíam afora para vendê-las.
+Atualmente a empresa continua
+familiar classificada em função do
+como empresa de médio porte,
+durante os cinquenta anos de
+nacional e internacional.
+
+operando com estrutura de empresa
+número de funcionários e faturamento,
+a qual sofreu um rápido crescimento
+sua existência, atuando no mercado
+
+4.2 Famílias de produtos
+
+Os produtos fabricados pela Piccin estão divididos em treze famílias de
+produtos. Essas famílias são:
+1) Adubadores;
+2) Cultivadores;
+3) Distribuidores;
+4) Grades Aradoras de Controle Remoto;
+5) Grades Aradoras de Arrasto (Com Pneus);
+6) Grades Aradoras de Pesada;
+7) Grades Capinadeiras;
+8) Grades Niveladoras Fixas;
+9) Grades Niveladoras Flutuantes (Com Pneus);
+10) Guinchos, Roçadeiras;
+11) Subsoladores e Diversos.
+Os produtos em cada família foram divididos levando em conta as
+similaridades funcionais e de processos.
+O Quadro A1 do apêndice A identifica as famílias de produtos e os
+respectivos itens componentes de cada família.
+A família de produtos definida como “Diversos” representa apenas os
+produtos em que a maioria de seus processos são terceirizados e aqueles
+produtos em que não possuem muitas similaridades funcionais entre si,
+portanto não são considerados uma família de produtos e sim separados
+dessa forma devido suas particularidades e divergências.
+
+46
+
+As famílias de Distribuidores, Grades Aradoras de Controle Remoto,
+Grades Aradoras de Arrasto (Com Pneus), Grades Aradoras de Pesada,
+Grades Niveladoras Fixas e Grades Niveladoras Flutuantes são famílias em
+que seus produtos têm maior potencial de demanda e que apresentam os
+maiores índices de faturamento.
+As famílias de produtos com os respectivos itens são fabricados no layout
+descrito no tópico 4.3.
+
+4.3 Layout da Fábrica
+
+Nesse tópico, é indicada a localização de cada setor ou processo da
+empresa Piccin – Máquinas Agrícolas, fazendo uma breve descrição de
+cada um de acordo com o layout da fábrica representado na Figura 1, na
+página 51.
+Para um maior entendimento de como é a sua organização na fábrica e as
+particularidades de cada etapa do fluxo de produção as Figuras 2, 3 e 4,
+representadas em tópicos mais adiante, descrevem as particularidades do
+layout de cada processo específico descrito na Figura 1.
+A empresa é dividida nos setores:
+- Abastecimento – Responsável pelo abastecimento de material de toda
+a fábrica, tanto o produzido internamente, quanto o que é recebido por
+fornecedores.
+- Almoxarifado – Responsável pelo recebimento, controle, separação e
+organização de todo o material enviado por fornecedores, bem como pela
+finalização das caixas (caixas com material e ferramentas para a
+montagem dos equipamentos pelo cliente), tanto com peças produzidas
+internamente quanto externamente, e pela montagem de eixos.
+- Assistência e Garantia – Responsável por toda a assistência técnica
+dada ao consumidor após a saída do produto da empresa.
+- Borracharia – Responsável pela montagem das rodas com os pneus de
+todos os equipamentos fabricados na empresa.
+
+47
+
+- Caldeiraria – Responsável por todos os processos que envolvem solda
+e algumas montagens, geralmente atua nos processos finais de
+fabricação, recebendo peças tanto da usinagem quanto da estamparia.
+- Comercial – Responsável pelo tratamento, alocação de pedidos e venda
+de todos os produtos da empresa. Portanto é responsável pelo contato
+com os clientes.
+- Compras – Responsável por todas as compras externas realizadas pela
+empresa. Bem como responsável por entrar em contato com os
+fornecedores devido a não conformidades das peças enviadas ou pela falta
+ou atraso no envio de peças.
+- Engenharia – Responsável pelos desenhos, modificação e
+desenvolvimento de projetos de melhoria de peças e equipamentos.
+Também é responsável pela setagem de todos os produtos fabricados na
+empresa.
+- Estamparia – Responsável, geralmente, pelos processos iniciais de
+fabricação. Na estamparia também está situado a máquina do processo de
+plasma.
+- Expedição – Responsável pelo transporte dos equipamentos finalizados
+para o pátio e sua alocação nas áreas devidas para depois fazer o
+carregamento de todo os equipamentos e máquinas produzidas.
+- Financeiro – Responsável pelo o controle e apontamento financeiro de
+toda a parte de finanças da empresa.
+- Informática e TI – Responsável pela manutenção de todos os
+equipamentos eletrônicos, que não afetam diretamente a produção, bem
+como pela programação e desenvolvimento de softwares.
+- Manutenção – Responsável pela orçamentação e manutenção de todas
+as máquinas utilizadas para a produção, bem como toda a infraestrutura
+das instalações da empresa.
+- Marcenaria – Responsável pela montagem das caixas que serão
+utilizadas posteriormente no Almoxarifado. Essas caixas são enviadas ao
+cliente com equipamentos, materiais e manual, para a montagem da
+máquina adquirida em campo, devido a alguns produtos serem muito
+grandes para serem enviados montados nos caminhões.
+- Montagem – Responsável por toda a montagem final e montagem
+mecânica das máquinas produzidas na empresa.
+
+48
+
+- PCP – Responsável pela programação da produção e pela geração de
+suas ordens. Bem como todas as alterações e cancelamentos de pedidos.
+- Pintura – Responsável pela pintura de todos os equipamentos e
+acessórios. É dividido em dois setores por tipo de pinturas diferentes, as
+pinturas coloridas e as pinturas azul noite e preta.
+- Raspagem – Responsável pela raspagem de irregularidades de soldas,
+rebarbas, dentre outros, e pelo acabamento final. Também responsável
+pela preparação devida das peças para o envio ao processo de pintura.
+- Recursos Humanos – Responsável pelo gerenciamento, contato,
+contratação e demissão de funcionários, bem como todos os documentos
+relacionados a esses procedimentos.
+- Usinagem – Responsável tanto por alguns dos processos primários
+quanto pelos processos intermediários de fabricação, geralmente entre
+Estamparia e Caldeiraria.
+O Tópico 4.4 apresenta a descrição dos processos de fabricação e o Tópico
+4.5 os layouts específicos de cada processo de fabricação, saindo do geral
+apresentado na Figura 1 para o específico por setor.
+
+4.4 Descrição dos processos de fabricação
+
+Dos setores citados, apenas seis representam diretamente os processos
+de fabricação, sendo esses o Almoxarifado, a Estamparia, a Usinagem, a
+Caldeiraria, a Raspagem, a Montagem e a Pintura.
+A Quadro 2 contém a representação dos processos referentes a cada um
+desses setores.
+Quadro 2 – Descrição dos processos por setor.
+
+Setores
+Almoxarifado
+Estamparia
+
+Processos
+1) Separação
+2) Montagem (Eixo)
+1) Corte (Prensa e Plasma)
+2) Dobra
+3) Estampo
+
+49
+
+Setores
+
+Usinagem
+
+Caldeiraria
+
+Raspagem
+Montagem
+Pintura
+
+Processos
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+
+Furação
+Serra
+CNC
+Centro de Usinagem
+Torno Convencional
+Fresa
+Roscamento
+Chaveteira
+
+1)
+2)
+3)
+4)
+
+Furação (Radial)
+Corte (Maçarico)
+Solda
+Montagem
+
+1) Raspagem
+2) Lixamento
+1) Montagem
+1) Pintura
+Fonte: Próprio autor.
+
+Deve ser levado em consideração que a montagem dos eixos no
+Almoxarifado (setor que geralmente não apresenta processos produtivos),
+ocorre apenas devido à simplicidade e facilidades encontradas em montar
+esses equipamentos nesse setor. Portanto, essa montagem poderia
+ocorrer em qualquer outra área da empresa devido a atender alguma
+necessidade. É importante ressaltar também que os processos Raspagem,
+Pintura e Montagem encontram-se separados da classificação indicada
+pelo fato de que todos esses processos são de responsabilidade de apenas
+um líder na empresa.
+
+50
+
+Figura 1 – Layout da Fábrica com os respectivos setores identificados de acordo com a legenda.
+
+Fonte: Próprio autor.
+
+51
+
+“Legenda do Layout – Figura 1.”
+
+52
+
+4.5 Layouts dos setores produtivos
+
+Nesse tópico, será apresentado o layout de todos os setores produtivos da
+empresa, excluindo apenas o Almoxarifado que além da distribuição e
+armazenamento de materiais, apresenta apenas um processo produtivo
+(montagem de eixos) não importante para o estudo em questão.
+Serão apresentados os layouts dos seguintes setores:
+1)
+2)
+3)
+4)
+5)
+6)
+
+Estamparia;
+Usinagem;
+Caldeiraria;
+Raspagem;
+Pintura; e
+Montagem.
+
+Como a Caldeiraria, a Raspagem, a Montagem e a Pintura se situam no
+mesmo prédio, é representado em um mesmo layout específico,
+englobando todos esses setores.
+Em cada layout será representado cada célula dos setores citados, bem
+como os processos ou máquinas presentes em cada uma delas.
+A apresentação desses layouts é de extrema importância para no texto
+identificar o fluxo de produção de um produto específico fabricado na
+empresa.
+Nesse estudo, é definido o fluxo que todos os materiais, necessários na
+produção desse determinado produto, percorrem em cada um desses
+setores apresentados.
+Primeiramente, será representado o layout da Estamparia, já que a
+maioria dos processos produtivos iniciais ocorre nesse setor.
+A Figura 2 representa o layout do setor de estamparia da fábrica com a
+indicação das áreas na legenda.
+
+53
+
+Figura 2 – Layout da Estamparia.
+
+Fonte: Próprio autor.
+
+54
+
+“Legenda do layout – Figura 2”
+
+55
+
+Pode ser observado que no setor da estamparia estão presentes os
+seguintes maquinários utilizados em seu processo produtivo, e suas
+quantidades:
+- Cinco prensas excêntricas;
+- Três prensas hidráulicas;
+- Uma prensa de corte;
+- Uma prensa de fricção;
+- Um forno;
+- Uma máquina de corte a plasma.
+Pode ser observado que no setor da Usinagem estão presentes os
+equipamentos descritos na legenda do layout da Figura 3. Na Figura 3
+está a representação do layout da Usinagem.
+Na Figura 4 consta a representação do prédio da Caldeiraria. Como já
+citado anteriormente esse prédio contém os setores da Caldeiraria,
+Raspagem, Pintura e Montagem.
+De acordo com a Figura 1 todos os setores representados no layout em
+conjunto com as células que cada um deles representa são identificados
+pelos números indicados.
+- Caldeiraria – Células 1 a 36;
+- Raspagem – Células 37 a 39;
+- Montagem – Células 40 a 44, 49 e 50;
+- Pintura – Células 45 a 48.
+As células 51 a 55 foram apresentadas como integrantes do processo de
+fabricação da empresa, embora não influenciam diretamente no processo
+de fabricação do produto definido como objeto do estudo do presente
+trabalho.
+No presente trabalho apenas será feito o estudo do layout da Caldeiraria,
+envolvendo as células de número 1 a 36.
+A seleção de processos de fabricação a serem estudados é em função de
+serem os processos pelos quais os componentes do produto estudado são
+processados.
+
+56
+
+Em função do elevado número de produtos por família e dos processos
+utilizados é inviável abordar no presente trabalhos todos de acordo com o
+volume de dados e de informações identificados da manufatura.
+Os maquinários utilizados em seu processo produtivo, e suas quantidades.
+- Duas serras de fita de corte reto;
+- Uma serra de fita oblíqua, que permite tanto o corte reto quanto em
+ângulo;
+- Dois tornos CNC;
+- Um centro de usinagem vertical;
+- Um centro de usinagem;
+- Dois tornos convencionais;
+- Uma rosqueadora;
+- Uma chaveteira;
+- Cinco furadeiras.
+
+57
+
+Figura 3 – Layout da Usinagem.
+
+Fonte: Próprio autor.
+
+58
+
+“Legenda da Usinagem – Figura 3”
+
+59
+
+Figura 4 – Layout da Caldeiraria.
+
+Fonte: Próprio autor.
+
+60
+
+“Legenda do Layout – Figura 4”
+
+61
+
+5.6 Sistema de Coordenação de Ordens
+
+A empresa utiliza um Sistema de Coordenação de ordens de produção que
+é uma adaptação do sistema MRP (Materials Requirements Planning) para
+se adequar a suas necessidades de abastecimento de materiais, e também
+possui algumas características do sistema Period Batch Control no
+acompanhamento das ordens de produção.
+A geração de ordens dos processos iniciais:
+1) Estamparia (Plasma);
+2) Usinagem é feita uma semana antes da dos processos de Caldeiraria
+e processos posteriores como montagem final.
+Portanto, a geração de ordens é realizada em dois períodos, tendo cada
+período a duração de uma semana, onde os processos iniciais até a
+Usinagem é programada para uma semana, enquanto os processos a
+partir da Caldeiraria até a finalização são gerados uma semana após.
+Portanto, o ciclo programado é de 15 dias.
+No caso todo o processo compreende, de acordo com o sistema PBC, dois
+estágios consecutivos de execução de acordo com o Quadro 3.
+
+Quadro 3 – Geração de Ordens de Produção.
+Processos
+Início do
+processo até
+Usinagem
+Caldeiraria até
+finalização
+
+Semana
+1
+
+Semana
+2
+
+Semana
+3
+
+Semana
+4
+
+Semana
+5
+
+Semana
+n
+
+P1.1
+
+P2.1
+
+P3.1
+
+P4.1
+
+P5.1
+
+Pn.1
+
+-------
+
+P1.2
+
+P2.2
+
+P3.2
+
+P4.2
+
+P(n-1).2
+
+Fonte: Próprio autor.
+
+Portanto, podemos verificar com a tabela acima, que toda programação
+demora duas semanas (15 dias) para finalização de seu ciclo, sendo que
+as ordens geradas para cada programação ocorrem semanalmente.
+A Quadro 3 e a Figura 5 representam a divisão da programação de
+produção e da geração de ordens semanalmente.
+
+62
+Figura 5 – Gráfico de Gantt do plano de produção a partir do sistema PBC descrito no
+Quadro 3.
+
+Fonte: Próprio Autor.
+
+A Quadro 3 possui algumas condições de funcionamento, sendo elas:
+- Dentro de cada célula é representado um código Pi.j;
+- i é um número inteiro positivo;
+- i se refere à programação semanal de um equipamento;
+- j é igual a 1 ou igual a 2;
+- j se refere à geração de ordem semanal para cada setor. Tem o valor 1
+para “Início do processo até Usinagem” e o valor 2 para “Caldeiraria até
+finalização”;
+
+5.7 Restrições de processos
+
+Durante toda a jornada de crescimento da Piccin, como em qualquer outra
+empresa, vários problemas e restrições limitam seu crescimento. Alguns
+problemas são simples de se resolver, outros bastante desafiadores, e
+qualquer solução tem que levar em conta as várias restrições que podem
+estar presentes.
+
+63
+
+As principais restrições que a Piccin enfrenta na manufatura são:
+- Baixo nível de instrução dos funcionários. Mão-de-obra desqualificada;
+- Espaço físico limitado;
+- Fluxos cruzados de processos de fabricação;
+- Não possui as máquinas Dobradeira e Guilhotina. Dependência de
+produtos fornecidos externamente;
+-
+
+Falta de automatização. Processo
+rotatividade de mão de obra;
+
+manual
+
+- Absenteísmo de pessoas;
+- Crescimento muito rápido sem planejamento;
+
+e
+
+desgastante.
+
+Alta
+
+64
+
+5. Estudo de tempos e processos
+Com o propósito de dar início a ajustes e melhorias do fluxo de produção,
+em decorrência das restrições relacionadas, o estudo desenvolvido no
+presente trabalho selecionou um dos produtos produzidos pela empresa e
+mediu os tempos de processamento e caracterizou as etapas de
+fabricação. Nesse estudo foi determinado o tempo de processamento de
+cada material de cada componente, integrante do produto final
+selecionado, nas variadas máquinas e processos em que percorrem.
+Também foi feito o fluxo de produção para mostrar por onde percorrem as
+peças em cada setor.
+
+5.1 Produto escolhido
+
+O produto escolhido para o estudo é o Subsolador Piccin, ou
+abreviadamente, SP. Entre os SP’s escolhemos o “SP 5”, sendo que o
+número cinco representa a quantidade de hastes encontradas nesse
+produto, podendo variar entre 3, 5, 9 e 11 hastes. A escolha desse
+produto foi devido a sua relativa simplicidade em comparação aos outros
+equipamentos produzidos internamente na empresa. O que pode facilitar a
+compreensão dos processos.
+O SP 5 é utilizado para escariação e subsolagem a uma profundidade
+máxima de 400 mm, possui estrutura reforçada, dotada de rodas para a
+regulagem de profundidade e fusíveis de segurança nas hastes. A Figura 6
+representa o produto SP 9 e a Figura 7 o produto SP 5.
+Pode ser notado pela esquema do produto, que a diferença entre os dois
+modelos SP’s se dá apenas em relação ao tamanho do quadro e a
+quantidade de hastes que cada SP possui.
+
+65
+
+Figura 6 – “SP 9”.
+
+Fonte: <http://www.piccin.com.br>
+
+Figura 8 – “SP 5”.
+
+Fonte: Catálogo de peças Subsolador Piccin.
+
+66
+
+5.2 Lista de peças
+
+Nesse tópico é apresentada uma lista de peças, mostrando todas as peças
+usadas para a confecção do SP, bem como suas quantidades.
+Será apresentado também, um desenho explodido, separando as
+montagens principais do SP relacionado com o Quadro 4, onde cada item
+presente na lista é montado.
+O Quadro 4 representa a lista de peças do produto SP, mostrando o
+código, descrição e quantidades de cada item utilizado na montagem do
+SP, na direita estão representadas as quantidades necessárias de cada
+item por SP, sendo que 3L representa o SP 3, 5L, o SP 5, e assim por
+diante. A numeração apresentada na primeira coluna dessa Figura faz
+referência à numeração apresentada no desenho explodido do SP de
+acordo com a Figura 8.
+Quadro 4 – Lista de peças SP.
+
+Fonte: Catálogo de peças Subsolador Piccin.
+
+67
+Figura 8 – Desenho explodido do SP.
+
+Fonte: Catálogo de peças Subsolador Piccin.
+
+Deve-se levar em conta que na lista acima consta apenas os materiais
+prontos para montagem, portanto não há indicação das matérias-primas
+necessárias para a produção.
+
+5.3
+
+Sequência de procedimentos
+
+Nesse tópico será apresentado a sequência de procedimentos e o número
+de etapas necessárias para a confecção do SP 5. Para isso, foi feita uma
+árvore de todos os materiais e matérias-primas necessárias na confecção
+do produto, foram coletados os tempos unitários de cada processo e as
+quantidades necessárias de cada material. Também foi determinado o
+número de processos que cada peça passa até chegar ao próximo estágio,
+representando o setor responsável e as máquinas ou procedimentos
+necessários. Todos esses dados foram condensados nos Quadros 5 a 14.
+
+68
+
+Quadro 5 – Etapa 1 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+69
+
+Quadro 6 – Etapa 2 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+70
+
+Quadro 7 – Etapa 3 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+71
+
+Quadro 8 – Etapa 4 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+72
+
+Quadro 9 – Etapa 5 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+Quadro 10 – Etapa 6 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+73
+
+Quadro 11 – Etapa 7 do processo de fabricação.
+
+Quadro 12 – Etapa 8 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+Quadro 13 – Etapa 9 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+Quadro 14 – Etapa 10 do processo de fabricação.
+
+Fonte: Próprio autor.
+
+Fonte:
+
+Próprio
+
+autor.
+
+74
+
+Essas nove etapas de processos mostram toda a confecção do SP5, desde
+toda a matéria-prima e componentes que entram na empresa, até o
+produto final.
+Estas Figuras já estão separadas por ordem cronológica, portanto o
+processo 1 sempre ocorre antes do 2 e assim por diante. O mesmo serve
+para as etapas de cada equipamento, cada uma ocorre apenas se seus
+predecessores houverem finalizado.
+Porém há casos em que um material nas etapas iniciais, pode ser
+montada em etapas posteriores devido ao seu uso tardio na montagem.
+Por exemplo, os “pinos de 1.1/8" X 115MM completo” e os “pinos de 1" X
+105 MM completo” que tem suas montagens representadas na Etapa 2 e
+só serão usadas na Etapa 5. Outro exemplo disso é o processo de
+produção da “haste do SP completa”, que se inicia na Etapa 1 e é
+finalizada na Etapa 5. Portanto, poderia ter seu início na Etapa 5 e
+finalização na Etapa 9 conforme for a necessidade produtiva.
+As quantidades representadas nas tabelas se referem para a produção de
+apenas um SP 5 e os tempos também são referentes ao processamento
+unitário das peças. Levando-se em consideração que tanto o tempo
+unitário T(un) e o tempo total (Tt) são representados em minutos. O Tt é
+dado pela multiplicação do número de peças pelos tempos unitários.
+Pode ser notado a separação das soldagens e montagens, em 1 e 2. Essa
+separação é devido ao processamento diferente em cada um desses tipos.
+A “Solda 1” representa todas as soldas manuais que ocorrem na
+Caldeiraria, que podem ocorrer em duas células diferentes, como veremos
+adiante, já a “Solda 2” representa a soldagem automática, e essa, ocorre
+apenas em uma célula específica.
+No caso das montagens, a “Montagem 1” se refere à todas as montagens
+que ocorrem no setor da Caldeiraria, já a “Montagem 2” ocorre no setor
+de Montagem.
+Pode-se perceber também que há alguns casos em que há fluxo de ida e
+volta de certos materiais entre as mesmas células, o que faz que seja
+possível a fabricação de outros componentes enquanto se espera o
+retorno da peça enviado.
+Um exemplo disso são as “rodas do SP” que na Etapa 3 são montadas e
+soldadas na Caldeiraria, depois são levadas para o setor de Montagem na
+Etapa 4 e, junto com outras peças, são montadas e formam os “conjunto
+da roda esquerda do RP” e “conjunto da roda direita do RP”. Após isso,
+
+75
+
+esses conjuntos, retornam à Caldeiraria para montagem e soldagem na
+Etapa 5 para formar o “Quadro do SP 5 completo”.
+
+5.4
+
+Tempo médio de máquina trabalhada
+
+Nesse tópico, iremos calcular o tempo médio de máquina trabalhas, ou
+seja, a média do tempo prevista que cada uma das máquinas e células
+que funcionar desde o início até a finalização do SP5. Para isso
+utilizaremos as tabelas do tópico anterior para conseguir os tempos totais
+em que cada máquina ou célula é necessitada.
+Nesse caso, os layouts apresentados anteriormente permitiram calcular o
+número de máquinas e células a serem utilizadas em cada setor para a
+produção. Esse cálculo é basicamente somar o número de máquinas. Mas
+é necessário tomar cuidado no caso da Caldeiraria, em que todas as
+montagens ocorrem apenas em uma célula específica, e apenas duas
+células são disponibilizadas para soldagens manuais.
+Quadro – Tempo médio de máquina trabalhada.
+
+Fonte: Próprio autor.
+
+Na Quadro 15 também estão representados os tempos de setup de cada
+máquina, bem como o número de setup que foi calculado a partir do
+número de vezes em que cada máquina é necessitada para o processo.
+
+76
+
+A multiplicação desses tempos de setup com suas quantidades, somada
+com o tempo total de cada máquina adquirido com os dados da tabela
+anterior, resulta no tempo total por máquina. Utilizando-se das
+quantidades de cada máquina e célula, e fazendo a divisão do tempo total
+por esse valor, chegamos no tempo médio em que cada máquina ou célula
+trabalha.
+No caso da “montagem 2” foi considerado o valor 5 na quantidade de
+máquinas, pois existem cinco operados que trabalham paralelamente
+nessa célula.
+Já no caso da “secagem” foi considerado o valor 6 na quantidade de
+máquinas, porque ao todo são 6 peças que passam por esse processo, e
+como não há limitação de quantidades para serem postas para secar
+simultaneamente, então esse foi o valor considerado mais aproximado
+para o cálculo.
+
+5.5
+
+Fluxo de materiais
+
+Utilizando as informações do tópico 5.3, e os layouts do tópico 4.5 foi
+possível traçar o fluxo dos materiais em cada um dos setores.
+Esse fluxo tem o intuito de apenas de dar uma ideia mais visual das
+entradas e saídas de cada máquina e cada setor da empresa. Portando
+não haverá o aprofundamento no caminho percorrido por cada material,
+pois isso tornaria excessivamente extenso o estudo devido à quantidade
+demasiada de materiais utilizados no processo. A Figura 9 mostra o
+fluxograma da Estamparia.
+
+No fluxo interno do Setor, todas as máquinas semelhantes podem enviar
+seus produtos para todas as máquinas para processamento posterior,
+sendo que essas sejam semelhantes também.
+Ou seja, todas as cinco prensas excêntricas podem enviar seus produtos
+finalizados, para qualquer uma das três prensas hidráulicas. Não foi feito a
+representação de todas as linhas do fluxo nesses casos para evitar deixar
+o desenho muito carregado.
+
+77
+
+Figura 9 – Fluxo da Estamparia.
+
+Fonte: Próprio autor.
+
+78
+
+“Legenda fluxo – Figura 9”
+
+79
+
+Deve-se levar em conta que, para a produção do SP 5, todo material que
+entra na Estamparia é matéria-prima.
+As únicas exceções são no caso da confecção da “chapa lateral do SP 5”,
+em que a matéria-prima é cortada no Maçarico da Caldeiraria e enviada
+para a Estamparia para realizar os processos posteriores e no caso da
+“chapa de engate interna para SP 5” em que é enviado pela Usinagem.
+Pode-se notar que, em todos os casos, existem peças em que há o
+processamento em apenas uma máquina na Estamparia e depois são
+enviadas para outros setores.
+Porém isso ocorre sempre nos casos da prensa de corte, do plasma e da
+prensa hidráulica. Mas diferente das duas primeiras a prensa hidráulica
+também pode receber peças previamente processadas pela prensa
+excêntrica.
+Em todos os casos, para a produção do SP 5, as saídas de todos os
+produtos processados na Estamparia são levados para o estoque da
+Caldeiraria, onde há a espera pelo processamento.
+A Figura 23 mostra o fluxograma da Usinagem.
+De acordo com o fluxograma da Figura 10 o próximo passo é o
+dimensionamento das ordens de produção quanto a quantidade e tempo
+de processamento por estágio, com base na Figura 5, a fim de
+dimensionar o fluxo de produção de acordo com as ordens de produção a
+serem designadas por setor respeitando o plano de produção definido a
+partir do PBC.
+A proposta inicial, como resultado do presente trabalho, é investir na
+qualificação da mão de obra da empresa e adequar a configuração do
+layout a partir dos fluxos definidos nas Figuras 9, 10 e 11 de modo a
+adequar a programação da produção de acordo com o sistema de
+coordenação de ordens de produção PBC.
+
+80
+
+Figura 10 – Fluxo da Usinagem.
+
+Fonte: Próprio autor.
+
+81
+
+“Legenda do fluxo – Figura 10”
+
+82
+
+Como explicado no caso anterior e pelos mesmos motivos, todas as
+máquinas semelhantes podem enviar seus produtos para todas as
+máquinas para processamento posterior, sendo que essas sejam
+semelhantes também.
+Todas as máquinas recebem apenas diretamente matéria-prima ou itens
+sem processamento interno.
+Exceto no caso da “chapa de engate interna para SP 5” em que à o
+processamento no maçarico da Caldeiraria e depois enviada para o torno
+CNC da Usinagem.
+Após seu processamento essa chapa é enviada para a Estamparia.
+Com exceção da “chapa de engate interna para SP 5”, no caso da
+produção do SP 5, todos os materiais processados na Usinagem são
+levados, ao seu término, para o estoque da Caldeiraria.
+O mesmo ocorre a exemplo da Estamparia e Usinagem em relação a células
+com funções semelhantes poderem enviar pra quaisquer outras células
+posteriores semelhantes também.
+No maçarico é onde ocorre a única entrada de matéria-prima da
+Caldeiraria, e no caso do SP 5, essas matérias são cortadas e enviadas
+para os setores de Estamparia e de Usinagem conforme já explicado.
+Os produtos enviados pela Estamparia e pela Usinagem tem entrada tanto
+na Caldeiraria quanto na Montagem, sendo a grande maioria na
+Caldeiraria.
+Há entrada de produtos prontos de origem externa à empresa em ambos
+esses setores.
+A Figura 24 mostra o fluxograma da Caldeiraria.
+Não foi possível desenvolver no decorrer do tempo de elaboração do
+presente trabalho de conclusão de curso o delineamento do fluxo
+adequado da produção.
+Essa etapa deve ser desenvolvida posteriormente de modo a contribuir
+com o aprimoramento do sistema de coordenação de ordens de produção
+PBC com interface com o sistema MRP, a fim de melhorar o planejamento,
+programação e controle da produção da empresa.
+
+83
+
+Figura 11 – Fluxo da Caldeiraria.
+
+Fonte: Próprio autor.
+
+84
+
+“Legenda do fluxo – Figura 11”
+
+85
+
+É importante ressaltar que o estudo realizado até o momento permite ter
+uma visão da complexidade do sistema e da necessidade do mapeamento
+de todos os produtos acabados com os seus respectivos processos de
+fabricação a fim de visualizar os diferentes roteiros de fabricação dos
+componentes e o impacto no fluxo de produção em função da disposição
+do layout atual.
+Para uma maior compreensão do fluxo de materiais em geral, será
+mostrado o fluxograma interligando a fábrica inteira. Esse fluxograma é
+representado pela Figura 12.
+Pode ser observado, que em toda fábrica, há fluxos cruzados de materiais,
+tendo casos em que a peça vai e volta para os mesmos setores. Essa
+situação pode ser percebida principalmente no caso da Caldeiraria e da
+Montagem.
+Apesar do fluxo de materiais não saírem diretamente do Almoxarifado, no
+caso da Usinagem e Estamparia, ele é o responsável por todo o
+abastecimento desses setores também. Já a Caldeiraria e a Montagem
+Final são abastecidas diretamente pelo Almoxarifado, como podemos
+observar no fluxo.
+O Almoxarifado também é responsável pelo abastecimento da Pintura e
+Raspagem, mas não das peças dos produtos, mas sim de consumíveis
+para a produção, como tinta e buchas. Esse fluxo não é apresentado na
+figura acima, pois esse tipo de abastecimento não se enquadra no objetivo
+desse estudo.
+Complementando esses fluxos, foram coletados os tempos de transporte
+do material, tanto transporte interno do setor, quanto transporte entre
+setores. A Quadro 16 representa os tempos de tempos de transporte.
+
+86
+
+Cada um dos tempos apresentados é igual tanto na ida quanto na volta,
+entre setores. Portanto, no caso do tempo de 5 minutos entre a
+Caldeiraria e a Montagem, significa que demora 5 minutos, tanto para o
+envio de peças da Caldeiraria para a Montagem quanto para o seu
+retorno.
+
+Quadro 16 – Tempo de Transporte.
+
+Fonte: Próprio autor.
+
+87
+
+Figura 12 – Fluxo da Fábrica.
+
+Fonte: Próprio autor.
+
+88
+
+“Legenda do fluxo – Figura 12”
+
+89
+
+90
+
+6. Cálculo do cronograma de produção
+Utilizando os dados dos tópicos anteriores, será feito o cálculo do
+cronograma de cada máquina e processo do início até o fim da produção.
+Para isso, será feito a separação dos processos de fabricação por setor,
+máquina ou procedimento, e por etapa de fabricação.
+Para esse cálculo serão utilizados os tempos de setup, de transporte e o
+tempo total de utilização da máquina por cada material. Sendo na tabela
+esses tempos representados por Tset, Ttrans e Tt, respectivamente, e
+todos eles são dados em minutos.
+As etapas de produção serão representadas por Ei, sendo i um número
+inteiro positivo, variando de 1 a 9, que são o número de etapas já vista
+para a finalização da produção. O cálculo será feito por uma sequência
+cronológica de fabricação, sendo os primeiros processos começando em 0.
+Cada processo seguinte se iniciará com o maior tempo de finalização de
+todos os itens que compõe esse.
+
+6.1 Etapas da Estamparia
+
+Nesse setor, quase todos os seus processos são iniciais, independendo dos
+tempos de outros setores, havendo apenas dois casos de exceção. No caso da
+“Chapa Lateral do SP5” em que a peça vem cortada do maçarico, na
+Caldeiraria, e no caso da “Chapa Lateral do SP5 – Completa”, em que há o
+processamento da “Chapa de Engate Interna para SP3 e SP5” tanto no
+maçarico da Caldeiraria, quanto na Usinagem.
+Os quadros 17 a 22 mostram o cálculo do cronograma para a Estamparia.
+
+91
+
+Quadro 17 – Cálculo do cronograma do Plasma.
+
+Fonte: Próprio autor.
+
+Quadro 18 – Cálculo do cronograma da Prensa de Corte.
+
+Fonte: Próprio autor.
+
+92
+
+Quadro 19 – Cálculo do cronograma da Prensa Excêntrica – 1.
+
+Fonte: Próprio autor.
+
+93
+
+Quadro 20 – Cálculo do cronograma da Prensa Hidráulica – 1.
+
+Fonte: Próprio autor.
+
+94
+
+Quadro 21 – Cálculo do cronograma da Prensa Excêntrica – 2.
+
+Fonte: Próprio autor.
+
+Quadro 22 – Cálculo do cronograma da Prensa Hidráulica – 2.
+
+Fonte: Próprio autor.
+
+95
+
+7.2 Etapas da Usinagem
+
+No caso da Usinagem, quase todo o material usado é proveniente de seu
+estoque, controlado pelo Almoxarifado. Apenas no caso da peça “Chapa de
+Engate Interna para SP3 e SP5”, em que há um processamento prévio no
+maçarico da Caldeiraria antes do envio à Usinagem. Essa mesma peça é
+enviada após seu processamento para a Estamparia.
+As Quadros 23 a 26 mostram o cálculo do cronograma da Usinagem.
+
+96
+
+Quadro 23 - Cálculo do cronograma da Serra.
+
+Quadro 24 – Cálculo do cronograma do Torno CNC.
+
+Fonte: Próprio autor.
+
+Fonte: Próprio autor.
+
+97
+
+Quadro 25 – Cálculo do cronograma do Centro de Usinagem.
+
+Fonte: Próprio autor.
+
+Quadro 26 - Cálculo do cronograma da Furadeira.
+
+Fonte: Próprio autor.
+
+98
+
+7.3 Etapas da Caldeiraria
+
+A Caldeiraria é abastecida pela Usinagem, Estamparia, Almoxarifado e
+Montagem. No caso da Montagem, esse abastecimento é feito, na maior
+parte das vezes, pelo retorno de peças previamente processadas pela
+Caldeiraria. Os únicos casos em que há processamento de matéria-prima
+na Caldeiraria são nos casos dos cortes utilizando o maçarico, como
+previamente citados.
+As figuras 27 a 34 representam o cálculo do cronograma da Caldeiraria.
+
+99
+
+Quadro 27 – Cálculo do cronograma do Maçarico.
+
+Quadro 28 – Cálculo do cronograma da Montagem 1 – 1.
+
+Fonte: Próprio autor.
+
+Fonte:
+
+Próprio
+
+autor.
+
+100
+
+Quadro 29 - Cálculo do cronograma da Solda 1 – 1.
+
+Fonte: Próprio autor.
+Quadro 30 – Cálculo do cronograma da Montagem 1 – 2.
+
+Fonte: Próprio autor.
+
+101
+
+Quadro 31 - Cálculo do cronograma da Solda 1 – 2.
+
+Quadro 32 - Cálculo do cronograma da Solda 2 -1.
+
+Quadro 33 - Cálculo do cronograma da Montagem 1 – 3.
+
+Fonte: Próprio autor.
+
+Fonte: Próprio autor.
+
+Fonte: Próprio autor.
+
+102
+
+Quadro 34 - Cálculo do cronograma da Solda 2 – 2.
+
+Fonte: Próprio autor.
+
+103
+
+7.4 Etapas da Montagem
+
+Todos os setores citados acima, bem como o setor de Pintura, são
+responsáveis por abastecer a Montagem. Porém, a Montagem só faz envio
+de peças à Caldeiraria.
+Esse setor conta com cinco funcionários responsáveis pelos seus
+processos, sendo isso considerado no cálculo dos tempos. Cada
+funcionário é responsável por uma montagem, sendo o tempo total
+considerado, o tempo necessário para esse funcionário realizar o processo
+completo. Apesar de esses funcionários trabalharem em paralelo, o
+processo não permite que dois ou mais deles trabalhem na mesma
+montagem. Portanto, mesmo havendo ociosidade de algum funcionário,
+esse não pode ir à outra célula ajudar na montagem e reduzir o tempo do
+processo.
+As Figuras 35 a 39 mostram o cálculo do cronograma da Montagem.
+
+104
+
+Quadro 35 – Cálculo do cronograma da Montagem 2 – 1.
+
+Quadro 36 – Cálculo do cronograma da Montagem 2 – 2.
+
+Fonte: Próprio autor.
+
+Fonte: Próprio autor.
+
+105
+
+Quadro 37 – Cálculo do cronograma da Montagem 2 – 3.
+
+Fonte: Próprio autor.
+
+Quadro 38 - Cálculo do cronograma da Montagem 2 – 5.
+
+Fonte: Próprio autor.
+
+106
+
+Quadro 39 – Cálculo do cronograma da Montagem 2 – 4.
+
+Fonte:
+
+Próprio
+
+autor.
+
+107
+
+7.5 Etapas da Raspagem
+
+A Raspagem é dividida em apenas uma etapa, sendo que todas as peças
+provenientes dessa etapa são fornecidas pela Caldeiraria. Todo o seu
+envio de peças se destina à Pintura. Apesar de serem três células de
+raspagem, porém apenas uma será necessária, não se pode dividir o
+trabalho dessa célula pelas três, portanto, cada célula é responsável pelo
+processo completo de raspagem.
+A figura 40 mostra o cálculo o cronograma da Raspagem.
+
+Figura 40 – Cálculo do cronograma da Raspagem.
+
+Fonte: Próprio autor.
+
+7.6 Etapas da Pintura
+
+Os processos no setor de Pintura são divididos em, “pintura” e “secagem”,
+sendo que o primeiro processo ocorre nas células e o segundo no pátio
+externo. A Pintura recebe peças tanto da Raspagem quanto da Montagem,
+e depois de processadas, faz o se envio para a Montagem.
+As figuras 41 a 44 representam o cálculo do cronograma da pintura.
+
+108
+
+Figura 41 – Cálculo do cronograma da Pintura – 1.
+
+Figura 42 – Cálculo do cronograma da Secagem – 1.
+
+Fonte: Próprio autor.
+
+Figura 43 – Cálculo do cronograma da Pintura – 2.
+
+Fonte: Próprio autor.
+
+Figura 44 – Cálculo do cronograma da Secagem – 2.
+
+Fonte: Próprio autor.
+
+Fonte:
+
+Próprio
+
+autor.
+
+109
+
+O cálculo do cronograma feito nesse tópico foi feito seguindo a
+seguinte ordem de prioridades:
+1) Quanto antes for a etapa em que o produto final de um processo
+será utilizado, maior será sua prioridade;
+2) É dado prioridade a produtos em que há mais de um
+processamento para sua confecção, quanto maior o número de
+processamentos, maior a prioridade;
+3) Outros produtos serão encaixados de acordo de deixar o mais
+nivelado possível os tempos de cada máquina.
+4) Não é necessário o uso de todas as máquinas ou células
+disponíveis, portanto caso uma célula possa produzir todos os
+equipamentos sem ocasionar nenhum tipo de atraso, isso é
+preferível do que dividir esses procedimentos em várias células.
+5) Procedimentos poderão ser alocados antes de qualquer uma
+dessas prioridades, caso haja tempo livre do cronograma dessa
+máquina, em que não ocasione nem um tipo de atraso dos
+processos com as prioridades acima.
+
+110
+
+7. Cronograma da produção
+
+Nesse tópico, será apresentado o cronograma da produção, calculado no
+anteriormente, e feito as devidas observações considerando os dados
+apresentados. O cronograma foi feito por tempo de máquina ou processo,
+sendo que os números inteiros crescentes no topo representam o tempo
+em minutos. A figuras 13 a 22 representam o cronograma completo da
+fabricação do SP 5.
+Cada cor que é representada no cronograma se refere ao setor aonde será
+enviada a peça. Portanto, se estiver representado por uma cor verde o
+procedimento do Plasma, então, após o procedimento no plasma, a peça
+será enviada para a Caldeiraria.
+Nesse cronograma podemos perceber que o produto final será terminado
+no período 476. Portanto levará no total 476 minutos para a fabricação
+desse produto inteiramente, ou seja, aproximadamente 8 horas. Portanto
+em turno de produção é possível a confecção de uma máquina SP 5.
+Pode ser notado também, que muitas máquinas não têm necessidade de
+uso, sendo possível a fabricação sem utilização delas, levando a nenhuma
+perda de tempo de fabricação.
+Outra informação importante que pode ser notada é que a célula de
+montagem da Caldeiraria é o gargalo da produção, sendo que os maiores
+atrasos vêm dessa. A montagem automática também apresenta muito
+tempo de processamento, porém não é o gargalo sendo que esse tempo é
+inerente ao processo e não à quantidade de máquinas disponíveis.
+
+111
+
+Figura 13 - Cronograma SP 5 – 0 a 63.
+
+Fonte: Próprio autor.
+
+112
+
+Figura 14 - Cronograma SP 5 - 64 a 118.
+
+Fonte: Próprio autor.
+
+113
+
+Figura 15 - Cronograma SP 5 – 119 a 166.
+
+Fonte: Próprio autor.
+
+114
+
+Figura 16 - Cronograma SP 5 – 167 a 214.
+
+Fonte: Próprio autor.
+
+115
+
+Figura 17 - Cronograma SP 5 – 215 a 262.
+
+Fonte: Próprio autor.
+
+116
+
+Figura 18 - Cronograma SP 5 – 263 a 310.
+
+Fonte: Próprio autor.
+
+117
+
+Figura 19 - Cronograma SP 5 – 311 a 358.
+
+Fonte: Próprio autor.
+
+118
+
+Figura 20 - Cronograma SP 5 – 359 a 406.
+
+Fonte: Próprio autor.
+
+119
+
+Figura 21 - Cronograma SP 5 – 407 a 454.
+
+Fonte: Próprio autor.
+
+120
+
+Figura 22 - Cronograma SP 5 – 455 a 480.
+
+Fonte:
+
+Próprio
+
+autor.
+
+121
+
+“Legenda do Cronograma – Figuras 55 a 64”
+
+122
+
+8. Sugestões de melhorias
+
+Com as informações juntadas em todo esse trabalho, pode ser
+apresentadas algumas sugestões de melhorias no processo de fabricação
+do SP 5. Cada uma das sugestões partindo das seguintes condições:
+1) Se não for de interesse da empresa fazer nenhuma mudança no
+layout e nem nas quantidades de máquinas e células de
+manufatura.
+2) Se houver interesse da empresa em mudar apenas o layout.
+3) Se houver interesse da empresa em mudar o número de células.
+4) Se a empresa for aberta a todas as mudanças citadas.
+No primeiro caso, a principal mudança seria na retirada de máquinas e
+células de trabalho, em que seu uso, não está trazendo uma melhoria e
+redução do tempo dos processos de fabricação do SP 5. Pela análise feita
+do cronograma, poderiam ser eliminados os seguintes equipamentos:
+- Uma célula de solda manual da Caldeiraria;
+- Uma célula de solda automática da Caldeiraria;
+- Três funcionários do setor de Montagem;
+- Duas células de Raspagem;
+- Duas células de Pintura.
+Essa redução de máquinas e funcionários, ou a relocação dessas máquinas
+extras, desvinculando elas do uso para a produção do SP 5, traria redução
+de custos, e melhorias de processos de outros produtos.
+Poderia também ser feito um estudo de melhoria de processo do
+procedimento de solda automática, visando a redução de seu tempo,
+sendo que esse é um dos processos mais longos apresentados na
+empresa.
+No segundo caso, em que a empresa tem interesse em um de layout,
+poderia ser sugerida, em primeiro lugar, a mudança da localização do
+maçarico, localizando-o, no setor de Usinagem ou de Estamparia. Isso
+reduzira os tempos de movimentação para ambos os setores.
+Outra mudança que poderia ser feita, era localizar, a célula de montagem
+da Caldeiraria, e as células de soldagem, próximas à montagem. Isso teria
+
+123
+
+um efeito benéfico, principalmente na redução do tempo de processo da
+montagem da Caldeiraria, pois há o transito de “ida e volta” de várias
+peças entre essa célula e o setor de Montagem.
+Essas mudanças iriam diminuir tanto o tempo de transporte, quanto os
+custos desse, trazendo grande redução de desperdícios na empresa.
+Todas as mudanças citadas na condição 1 também poderiam ser aplicadas
+nesse caso, sem nenhum tipo de prejuízo.
+No terceiro caso, em que a empresa tem interesse na mudança do
+número de células, poderia ser sugerida, a ampliação de pelo menos mais
+duas células de montagem na Caldeiraria. Isso faria com que fosse
+necessário o uso da outra célula de solda manual, porém o tempo de
+processamento iria reduzir-se bastante.
+Junto com essas mudanças, poderiam ser aplicadas todas aquelas citadas
+no primeiro caso, apenas excluindo o caso de redução de uma célula de
+solda manual.
+No quarto caso, em que não há restrição da empresa sobre alterações,
+poderiam ser aplicadas todas as mudanças já citadas nos tópicos
+anteriores, levando em consideração a restrição apresentada sobre a
+redução da célula de solda manual feita na condição 3.
+Uma outra solução que poderia ser implantada seria o estudo de
+implementação de um controle kanban do estoque da Caldeiraria. Esse
+processo já está em estudo pra ser implantado na empresa, e se baseia
+nas seguintes etapas:
+- Organização e codificação das caixas em que as peças são estocadas;
+- Separação dessas caixas de acordo com a família de produto que
+pertence e verificando o seu giro de peças, alocando as famílias com pelas
+de maiores giro mais próximas das células em que serão utilizadas;
+- Cálculo do lote mínimo, levando em consideração a demanda de peças,
+o lote e o lead time de entrega.
+- A partir do cálculo do lote mínimo, apresentar indicadores kanban, de
+fácil entendimento (devido à mão-de-obra pouco qualificada), para o
+controle do estoque.
+Nesse último caso, foi pensada a utilização de chapas coloridas (verde,
+amarelo e vermelho), que seriam colocadas dentro da caixa quando
+
+124
+
+enviadas ao estoque. Ao abrir a caixa o operador retiraria o chapa verde e
+colocaria num suporte do lado da caixa.
+De acordo com a utilização, o operador pegaria todas as peças chegando
+na chapa amarela. Ao chegar nessa chapa, o operador faz o mesmo
+procedimento colocando-a no mesmo suporte que o anterior. A chapa
+amarela ficaria de fácil visualização a todos, indicando que se deve atentar
+à produção dessa peça.
+Com a utilização de mais peças, o operador chegaria a um ponto em que
+não há mais peças acima da chapa vermelha. Sendo assim, ele retira a
+chapa vermelha e coloca no suporte, como feito nos outros casos. Todas
+as peças abaixo da chapa vermelha indicaria o estoque mínimo calculado
+na etapa anterior.
+Portanto, quando a chapa vermelha estiver à mostra, indica que a
+produção daquele item está atrasada, e que se deve dar prioridade em
+sua confecção para que não haja falta de material.
+Esses procedimentos fariam trariam uma maior confiabilidade no estoque
+da Caldeiraria e diminuiria em muito o tempo de produção de todos os
+produtos, principalmente do SP 5, unidas com todas as sugestões de
+mudança citados acima.
+
+9. Considerações finais
+
+O sistema de coordenação de ordens de produção atual da empresa é
+adequado ao tipo de sistema de produção e mix de produtos fabricados.
+O problema central do processo de coordenação de ordens de produção é
+o delineamento dos diferentes roteiros de fabricação dos componentes dos
+produtos acabados das diferentes famílias de produção, devendo ser
+estendido para os demais produtos o mapeamento realizado nesse
+trabalho para apenas um item, o que deve permitir avaliar com maior
+precisão as restrições na manufatura de modo sistêmico a partir do
+envolvimento na análise de todas as famílias de produtos possíveis de
+serem fabricadas.
+Apesar de ter sido feito apenas uma vez o procedimento do trabalho, seria
+mais proveitoso uma aplicação cíclica desses procedimentos. Isso poderia
+ser feito seguindo as seguintes etapas:
+
+125
+
+1) Recolhimento dos dados necessários para o estudo;
+2) Seguir os procedimentos indicados utilizando os dados da primeira
+etapa;
+3) Analisar os resultados do trabalho;
+4) Propor melhorias de acordo com o interesse de cada empresa;
+5) Escolher e aplicar as melhorias propostas;
+6) Retornar para a primeira etapa.
+Aplicando essa metodologia em ciclo, seria sempre possível verificar os
+resultados das melhorias propostas, benéficas ou não, e continuar sempre
+a melhoria dos processos, um pouco a cada ciclo.
+A partir desse estudo será possível identificar pontualmente os setores em
+que o layout pode ser ajustado e consequentemente o fluxo de produção.
+O ajuste do layout e consequentemente do fluxo de produção permite
+parametrizar com maior precisão os sistemas de coordenação de ordens
+de produção MRP e PBC, sendo possível em alguns casos específicos de
+componentes o uso do sistema de coordenação de ordens de produção
+kanban, como citados na proposta de melhoria, a fim de diminuir o
+estoque em processo e a possibilidade de inferências no processo de
+atendimento à demanda quanto aos prazos e quantidades de produtos
+acabados a serem fornecidos pela empresa.
+Dentre os itens relacionados que devem ser reavaliados e adequados na
+manufatura da empresa estudada o maior problema é a adequação da
+qualificação da mão de obra. Esse processo representa o maior desafio em
+função da necessidade de se avaliar a condição da qualificação da mão de
+obra de modo a diagnosticar os casos em que cabe investimento em
+treinamento e consequentemente qualificação e os casos que requerem
+substituição em função de não atender a necessidade do processo de
+fabricação.
+Finalizando, pode ser concluído, que não é necessária a aplicação de um
+sistema “puro”, para melhorar a produção. Pois, na maioria das vezes, a
+realidade de cada empresa se difere daquela em que os sistemas foram
+criados, sendo mais proveitoso para ela, utilizar-se de alguns aspectos
+positivos de cada sistema e fazer alterações e melhorias considerando as
+suas necessidades.
+
+126
+
+10.
+
+Bibliografia
+
+ABDUL-NOUR, G.; LAMBERT, S.; DROLET, J. Adaptation of JIT Philosophy and
+Kanban Technique to a Small-Sized Manufacturing Firm; A Project Management
+Approach. Computers & Industrial Engineering, v. 35, n. 3-4, p. 419-422,
+1998.
+ANSARI, A.; MODARRESS, B. Wireless Kanban. Production and Inventory
+Management Journal, v 36, n 1, p 60-64, 1995.
+ARGENTA, C. B.; OLIVEIRA, L. R. Análise do Sistema Kanban para Gerencia
+da Produção com Auxílio de Elementos de Tecnologia de Informação. In:
+XXI ENEGEP, Encontro Nacional de Engenharia de Produção, Salvador:
+2001.
+BENDERS,
+J.;
+RIEZEBOS,
+J.
+Period
+batch
+control:
+outdated. Production Planning & Control, v. 13, n. 6,
+2002.
+BURBIDGE, J. L.
+Heinemann, 1975.
+
+The
+
+Introduction
+
+of
+
+Group
+
+classic,
+no
+p. 497-506,
+
+Technology.
+
+London:
+
+BURBIDGE, J. L. The use of Period Batch Control (PBC) in the implosive
+industries. Production Planning and Control, v. 5, n. 1, p. 97-102, 1994.
+BUZACOTT, J. A. Queuing Models of Kanban and MRP Controlled Production
+Systems. Engineering Cost and Production Economics, v.17, p. 3-20,
+1989.
+CHANG, T. M.; YIH, Y. Determining the Number of Kanbans and Lot Sizes in a
+Generic Kanban System: A Simulated Annealing Approach. International
+Journal of Production Research, v. 32, n. 8, p. 1991-2004, 1994b.
+CHAOUIYA, C.; LIBEROPOULOS, G.; DALLERY, Y. Extended Kanban Control
+System for Production Coordination of Assembly Manufacturing Systems. IIE
+Transactions, v. 32, n. 10, p. 999-1012, 2000.
+CHAUDHURY, A.; WHINSTON, A. B. Towards An Adaptive Kanban System.
+International Journal of Production Research, v. 28, n. 3, p. 437- 458,
+1990.
+DALLERY, Y.; LIBEROPOULOS, G. Extended Kanban Control System: Combining
+Kanban and Base Stock. IIE Transactions, v. 32, n. 4, p. 369-386, 2000.
+FERNANDES, F. C. F; GODINHO FILHO, M. Sistemas de coordenação de ordens:
+revisão, classificação, funcionamento e aplicabilidade. Revista Gestão &
+Produção, São Carlos, v.14, n.2, 2007.
+
+127
+FERNANDES, F. C. F.; Godinho FILHO, M. Planejamento e Controle da
+Produção. São Paulo: Editora Atlas S.A., 2010.
+FUJIMOTO, T. The Evolution of a Manufacturing System at Tayota. New
+York: Oxford University Press, 1999.
+GAURY, E. G. A.; KLEIJNEN, J. P. C.; PIERREVAL, H. A Methodology to Customize
+Pull Control Systems. Journal of the Operational Research Society, v 52, n
+7, p 789-799, 2001.
+GRAVEL, M.; PRICE, W. L. Using The Kanban. In: a Job Shop
+Environment. International Journal of Production Research, v 26, n 6, p
+1105-1118, 1988.
+GUPTA, S. M.; AL-TURKI, Y. A. Y. An Algorithm to Dynamically Adjust the
+Number of Kanbans. In: Stochastic Processing Times and Variable Demand
+Environment. Production Planning and Control, v. 8, n. 2, p 133-141,
+1997.
+HENDRICK, T. E. 'Fake Pull' in a Kanban Environment: Acceptable Trade-Off Or
+Violation Of Principle? Production and Inventory Management Journal, v.
+29, n. 2, p. 6-9, 1988.
+HUANG, C. C.; KUSIAK, A. Manufacturing Control With a Push-Pull
+Approach. International Journal of Production Research, v. 36, n. 1, p. 251275, 1998.
+IZUMI, M.; TAKAHASHI, K. Concurrent Ordering in JIT Production System. In:
+PROCEEDINGS OF THE 2 AND CHINA-JAPAN INTERNATIONAL
+SYMPOSIUM ON INDUSTRIAL MANAGEMENT, 1993, Beijing. p. 51-56.
+KIM,
+T.
+M.
+Just-in-Time
+Manufacturing
+System:
+A
+Periodic
+Pull
+System. International Journal of Production Research, v.23, n. 3, p. 553562, 1985.
+LAGE JUNIOR, M. ; GODINHO FILHO, M. . Variations of kanban system: literature
+review and classification. International Journal of Production Economics, v.
+125, p. 13-21, 2010.
+LANDRY, S.; DUGUAY, C. R.; CHAUSSÉ, S.; THEMENS, J. Integrating MRP,
+Kanban, and Bar-Coding Systems to Achieve JIT Procurement. Production and
+Inventory Management Journal, v. 38, n. 1, p. 8-12, 1997.
+MACCARTHY, B. L.; FERNANDES, F. C. F. A multi-dimensional classification of
+production systems for the design and selection of production planning and
+control systems. Production Planning & Control, v. 11, n. 5, p.481-496,
+2000.
+MATTA, A.; DALLERY, Y.; DI MASCOLO, M. Analysis of Assembly Systems
+Controlled With Kanbans. European Journal of Operational Research,
+Amsterdam, v. 166, n. 2, 2005.
+
+128
+MOHANTY, R. P.; KUMAR, S.; TIWARI, M.K. Expert Enhanced Coloured Fuzzy
+Petri Net models of Traditional, Flexible and Reconfigurable Kanban
+Systems. Production Planning and Control, v. 14, n. 5, p. 459-477,
+2003.
+MONDEN, Y. Sistema Toyota de produção. São Paulo: IMAM, 1984.
+NAGENDRA, P. B.; DAS, S. K. MRP/sfx: A Kanban-Oriented Shop Floor Extension
+to MRP. Production Planning and Control, v 10, n 3, p 207-218, 1999.
+OTENTI, S. A Modified Kanban System
+Environment. IEEE/SEMI
+Advanced
+Conference. 1991.
+
+in a Semicondutor Manufacturing
+Semicondutor
+Manufacturing
+
+REES, L. P.; PHILIPOOM, P. R.; TAYLOR III, B. W.; HUANG, P. Y. Dynamically
+Adjusting The Number of Kanbans in a Just-in-Time Production System Using
+Estimated Values of Lead time. IIE Transactions, v. 19, n.2, 1987.
+SEIDMANN, A. Regenerative Pull (Kanban) Production Control Policies. European
+Journal of Operational Research, v. 35, n. 3, p. 401-413, 1988.
+Silva, F. M. da; Fernandes, F. C. F. Proposta de um sistema de controle da
+produção para fabricantes de calçados que operam sob encomenda. Gestão &
+Produção, v. 15, n. 3, p. 523-538, 2008.
+SO, K. C.; PINAULT, S. C. Allocating Buffer Storages in a Pull
+System. International Journal of Production Research, v.26, n. 12, p 19591980, 1988.
+TAKAHASHI, K.; NAKAMURA, N.; OHASHI, K. Order Release in JIT Production
+Systems: A Simulation Study.Simulation, v. 66, n. 2, p 75-87, 1996.
+TAKAHASHI, K.; NAKAMURA, N. Reacting JIT Ordering Systems to the Unstable
+Changes in Demand.International Journal of Production Research, v. 37, n.
+10, p. 2293-2313, 1999.
+TAKAHASHI, K. Comparing Reactive Kanban Systems. International Journal of
+Production Research, v. 41, n. 18, p. 4317-4337, 2003.
+TAKEDA, K.; TSUGE, Y.; MATSUYAMA, H. Decentralized Scheduling Algorithm to
+Improve the Rate of Production Without Increase of Stocks of
+Intermediates. Computers and Chemical Engineering, v. 24, p. 1619-1624,
+2000.
+TARDIF, V.; MAASEIDVAAG, L. An Adaptive Approach to Controlling Kanban
+Systems. European Journal of Operational Research, v. 132, n. 2, p. 411424, 2001.
+TUBINO, D. F.; DANNI, T. S. Ajuste dinâmico do número de kanbans de um
+sistema produtivo Just-in-Time através da simulação. In: ENCONTRO NACIONAL
+
+129
+DE ENGENHARIA DE PRODUÇÃO, 17 ENEGEP, 1997, Gramado, RS. Anais...
+Gramado, RS, 1997.
+TUBINO, D. F.; LEMOS, A. C. D. Aplicação de uma metodologia de ajuste do
+sistema kanban em um caso real utilizando a simulação computacional. In:
+ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO, 19 ENEGEP, 1999, Rio
+de Janeiro. Anais... Rio de Janeiro, 1999.
+VERNYI, B.; VINAS, T. Easing Into E-Kanban. Industry Week, v. 254, n. 12, p.
+32, dec. 2005.
+VOLLMAN, T. E.; BERRY, W. L.; WHYBARK, D.C. Manufacturing Planning &
+Control Systems. New York: McGraw-Hill, 1997.
+WHITE, R. E.; PRYBUTOK, V. The Relationship Between JIT practices and Type of
+Production System. Omega, The International Journal of Management
+Science, v. 29, n. 2, p. 113-124, 2001.
+ZIPKIN, P. A. Kanban-Like Production Control System: Analysis of Simple
+Models. Technical Report, Research Working Paper n. 89-1, Graduate
+School of Business, Columbia University, New York, 1989.
+BARBASTEFANO, Rafael Garcia Barbastefano - Fatores
+Implementação de Sistemas MRP IIs. Rio de Janeiro, 1996.
+
+Críticos
+
+na
+
+CARRAVILLA, Maria Antónia - MRP & CRP. In PCP 1999/2000. Porto: Faculdade
+de Engenharia da Universidade do Porto, 1997.
+MESQUITA, Marco Aurélio de Mesquita - Enterprise Resources Planning –
+ERP, 2000.
+LOCKE, Dick - Global Supply Management: A Guide to International
+Purchasing. Chicago, IL: Irwin, 1996.
+
+130
+
+APÊNDICE A
+
+131
+Quadro A1 – Família de Produtos.
+Família
+Adubadores
+
+Cultivadores
+
+Distribuidores
+
+Grades Aradoras
+Controle Remoto
+
+Grades Aradoras
+de Arrasto (Com
+Pneus)
+
+Grades Aradoras
+de Pesada
+
+Produtos
+Adubador Cultivador para Plantio Direto
+(ACPD)
+Cultivador Adubador com Cobertura
+(CAC)
+Cultivador de Enxadas Piccin
+(CEP)
+Distribuidor de Calcário e Adubo Orgânico
+MASTER D 5500/7500/12000
+MASTER L 2500/5500
+MASTER DH 5500/7500/12000
+MASTER LH1 2500/5500
+MASTER DH1 5500/7500/12000
+MASTER L ARROZEIRA 2500/5500
+MASTER D ARROZEIRA 5500/7500
+MASTER LH1 ARROZEIRA 2500/5500
+MASTER DH1 ARROZEIRA 5500/7500
+MASTE L CAFEEIRA 2500
+MASTER ARROZEIRA 2500/5500/7500
+MASTER 2500/5500/7500
+MASTER H1 ARROZEIRA 2500/5500/7500
+MASTER H1 2500/5500/7500
+MASTER CAFEEIRA 2500
+Grade Aradora Controle Remoto
+GACR 230 de 12 a 44 DISCOS
+GACR – L 230 de 10 a 36 DISCOS
+Grade Aradora Piccin Controle Remoto
+GAPCR 250 de 12 a 44 DISCOS
+Grade Aradora Intermediária Controle Remoto
+GAICR 270 de 12 a 44 DISCOS
+GAPICR 290 de 12 a 40 DISCOS
+GAICR-L 270 de 16 a 24 DISCOS
+Grade Aradora Intermediária Controle Remoto Especial
+GAICRE 270 de 36 a 44 DISCOS
+Grade com Controle Remoto Pesada
+GCRP 340 de 10 a 24 DISCOS
+Grade com Controle Remoto Pesada Especial
+GCRPE 340 de 24 a 34 DISCOS
+Grade Super Pesada Controle Remoto
+GSPCR 400 de 10 a 18 DISCOS
+GSPCR 440 de 10 a 18 DISCOS
+GSPCR 400 de 20 a 30 DISCOS
+GSPCR 440 de 20 a 28 DISCOS
+Grade Aradora Piccin
+GAP 230 de 10 a 16 DISCOS
+GAP 250 de 10 a 16 DISCOS
+GAP 230 de 18 a 44 DISCOS
+GAP 250 de 18 a 40 DISCOS
+GAPR 230 de 10 a 16 DISCOS
+GAPR 250 de 10 a 16 DISCOS
+GAPR 230 de 18 a 44 DISCOS
+GAPR 250 de 18 a 40 DISCOS
+GAPP 230 de 10 a 14 DISCOS
+GAPP 230 de 16 a 44 DISCOS
+GAPPR 230 de 10 a 14 DISCOS
+GAPPR 230 de 16 a 44 DISCOS
+GAPP 250 de 10 a 14 DISCOS
+GAPP 250 de 16 a 40 DISCOS
+GAPPR 250 de 10 a 14 DISCOS
+GAPPR 250 de 16 a 40 DISCOS
+GAPI 270 de 10 a 14 DISCOS ANTIGA
+GAPI 270 de 16 a 28 DISCOS ANTIGA
+GAPI 270 de 30 a 40 DISCOS ANTIGA
+GAPIR 270 de 10 a 14 DISCOS ANTIGA
+GAPIR 270 de 16 a 28 DISCOS ANTIGA
+GAPIR 270 de 30 a 40 DISCOS ANTIGA
+GAPI 270 de 10 a 14 DISCOS NOVO
+GAPI 270 de 16 a 40 DISCOS NOVO
+GAPIR 270 de 10 a 14 DISCOS NOVO
+GAPIR 270 de 16 a 40 DISCOS NOVO
+GAPI 290 de 10 a 14 DISCOS
+GAPI 290 de 16 a 26 DISCOS
+
+GPA 340 de 10 a 24 DISCOS
+
+GAPI 290 de 28 a 40 DISCOS
+GAPIR 290 de 10 a 14 DISCOS
+GAPIR 290 de 16 a 26 DISCOS
+GAPIR 290 de 28 a 40 DISCOS
+GAPIP 270 de 10 a 14 DISCOS ANTIGA
+GAPIP 270 de 16 a 28 DISCOS ANTIGA
+GAPIP 270 de 30 a 40 DISCOS ANTIGA
+GAPIPR 270 de 10 a 14 DISCOS ANTIGA
+GAPIPR 270 de 16 a 28 DISCOS ANTIGA
+GAPIPR 270 de 30 a 40 DISCOS ANTIGA
+GAPIP 270 de 10 a 14 DISCOS NOVO
+GAPIP 270 de 16 a 40 DISCOS NOVO
+GAPIPR 270 de 10 a 14 DISCOS NOVO
+GAPIPR 270 de 16 a 40 DISCOS NOVO
+GAPIP 290 de 10 a 14 DISCOS
+GAPIP 290 de 16 a 26 DISCOS
+GAPIP 290 de 28 a 40 DISCOS
+GAPIPR 290 de 10 a 14 DISCOS
+GAPIPR 290 de 16 a 26 DISCOS
+GAPIPR 290 de 28 a 40 DISCOS
+
+Grade Pesada de Arrasto
+GPAR 340 de 10 a 24 DISCOS
+
+132
+
+Família
+
+Grades
+Capinadeiras
+
+Grades
+Niveladoras Fixas
+
+Grades
+Niveladoras
+Flutuantes (Com
+Pneus)
+
+Guinchos
+
+Roçadeiras
+
+Subsoladores
+
+Diversos
+
+Produtos
+Arado Capinado Controle Remoto
+(ACCR 18 a 36 DISCOS MODELO ANTIGO)
+Grade Hidráulica P/ Café (Agrale)
+GAHC de 14 a 16 Discos
+GAHC de 16 a 26 Discos
+GAHCA de 14 a 16 Discos
+Grade Hidráulica P/ Pomar
+(GAHP de 16 a 24 Discos)
+Grade para Pomar Controle Remoto
+(GPCR de 25 a 37 Discos)
+Grade Hidráulica
+GH de 16 a 32 DISCOS
+Grade Niveladora e Destorroadora
+GND 20 a 28 DISCOS
+GND 32 a 60 DISCOS
+Grade Niveladora e Destorroadora Leve
+GNDL de 20 a 32 DISCOS 185MM
+GNDL de 20 a 32 DISCOS 175MM
+GNDL de 36 a 44 DISCOS 185MM
+GNDL de 36 a 44 DISCOS 175MM
+Grade Niveladora e Destorroadora
+GNDM de 32 a 60 DISCOS
+Grade Niveladora Piccin Controle
+Remoto
+GNPCR de 28 a 56 DISCOS 185MM
+GNPCR de 28 a 64 DISCOS 195MM
+Grade Niveladora Piccin Controle Remoto Especial
+GNPCRE de 36 a 52 DISCOS 210MM
+GNPCRE de 56 a 60 DISCOS 210MM
+Grade Niveladora Flutuante
+GANFD de 28 a 40 DISCOS
+GANFRD de 36 a 80 DISCOS
+GANFD de 36 a 80 DISCOS
+GANFPD de 36 a 80 DISCOS
+GANFPRD de 36 a 80 DISCOS
+GANFPRE de 36 a 80 DISCOS
+GANFE de 28 a 40 DISCOS
+GANFRD de 88 a 120 DISCOS
+GANFE de 36 a 80 DISCOS
+GANFPRD de 88 a 120 DISCOS
+GANFRE de 36 a 80 DISCOS
+GANFRE de 88 a 120 DISCOS
+GANFPE de 36 a 80 DISCOS
+GANFPRE de 88 a 120 DISCOS
+Guincho Agrícola
+(GAHG)
+GAHG-RO BR 1200/2000
+GAHG-RO 1200/2000
+Guincho Traseira
+(GT-800)
+Roçadeira Piccin
+RP 1300/1500/1700
+RPCO 1300/1500/1700.
+Subsolador Piccin SP
+Subsolador Piccin Controle Remoto
+SPCR ANTIGO
+SPCR NOVO
+SPCR-500 ANTIGO
+SPCR-500 NOVO
+Subsolador Piccin com Desarme Automático
+SPDA ANTIGO
+SPDA NOVO
+Arrumador e esparramador de café
+(AEC)
+Arrancador de Grama
+(AG)
+Caçamba Carregadeira
+(CC220 e CCD220)
+Plaina Traseira Piccin
+(PTP e PTPL)
+Batedor de Covas
+(ROTOMIX)
+Sulcador Médio de 1 Linha
+(SM 1)
+Sulcador Médio de 2 Linhas
+(SM 2)
+
+Fonte: Empresa Objeto do Estudo.
+
+

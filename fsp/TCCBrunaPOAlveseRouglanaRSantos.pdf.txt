@@ -1,0 +1,1929 @@
+Universidade de São Paulo
+Faculdade de Saúde Pública
+
+Sistema de Vigilância Alimentar e Nutricional
+(SISVAN) nos municípios do estado de São Paulo entre 2008
+e 2012
+
+Bruna Piera Oliveira Alves, Rouglana Ribeiro dos Santos
+
+Trabalho de Conclusão apresentado ao septuagésimo
+Curso de Graduação em Nutrição da Faculdade de Saúde
+Pública da Universidade de São Paulo.
+
+Orientador: Prof.ª. Dra. Patricia Constante Jaime
+
+São Paulo
+2016
+
+Sistema de Vigilância Alimentar e Nutricional
+(SISVAN) nos municípios do estado de São Paulo entre 2008
+e 2012
+
+Bruna Piera Oliveira Alves, Rouglana Ribeiro dos Santos
+
+Trabalho de Conclusão apresentado ao septuagésimo
+Curso de Graduação em Nutrição da Faculdade de Saúde
+Pública da Universidade de São Paulo.
+
+Orientador: Prof.ª. Dra. Patricia Constante Jaime
+
+São Paulo
+2016
+
+AGRADECIMENTOS
+À Patrícia Jaime, por nos orientar durante essa caminhada, por contribuir significativamente com
+a nossa formação enquanto nutricionistas, além de nos inspirar por meio da sua inabalável
+determinação e do compromisso com a profissão.
+
+À Fabiana Nascimento, nutricionista, e nossa co-orientadora, pelos ensinamentos, por estar sempre
+disposta a auxiliar, pela generosidade, dedicação de tempo e atenção.
+
+À Coordenação Geral de Alimentação e Nutrição do Ministério da Saúde (CGAN/MS), em
+particular ao Robson Salaberry do Núcleo de Tecnologia da Informação, pelo suporte prestado.
+
+À Equipe da Ouvidoria da Agência Nacional de Saúde Suplementar, pelos imprescindíveis
+esclarecimentos.
+
+À Faculdade de Saúde Pública-USP, por ter nos proporcionado uma formação ampla e uma visão
+crítica do papel do nutricionista na sociedade.
+
+Às nossas famílias, amigos e companheiros, por nos apoiar e compreender durante toda essa
+trajetória.
+
+Nossos mais sinceros agradecimentos!
+
+RESUMO
+Alves BPO, Santos RR. Sistema de Vigilância Alimentar e Nutricional (SISVAN) nos municípios
+do estado de São Paulo entre 2008 e 2012. [Trabalho de Conclusão de Curso – Curso de Graduação
+em Nutrição]. São Paulo: Faculdade de Saúde Pública da USP; 2016.
+
+A Vigilância Alimentar e Nutricional (VAN) tem como objetivo a descrição e predição contínua
+das tendências de alimentação e nutrição da população. No âmbito do Sistema Único de Saúde
+(SUS), surge o Sistema de Vigilância Alimentar e Nutricional (SISVAN) com intuito de apoiar as
+ações de VAN, atualmente estando disponível para o cadastro das informações a versão
+informatizada do sistema, denominada SISVAN Web. No estado de São Paulo este ganhou força
+em 1998 quando sua implementação pelos municípios passou a ser pré-requisito para o repasse de
+recursos financeiros federais relacionados a programas de transferência de renda. O presente estudo
+propõe-se a descrever a cobertura do SISVAN, bem como o percentual de baixa estatura para a
+idade de crianças menores de 5 anos nos municípios do estado de São Paulo, entre 2008 e 2012.
+Trata-se de um estudo de delineamento ecológico, que foi realizado com os 645 municípios do
+estado de São Paulo, e descreveu a utilização e cobertura do SISVAN, assim como o percentual de
+baixa estatura para a idade de crianças menores de 5 anos inseridos no SISVAN Web, entre os anos
+2008 a 2012, estando vinculado ao projeto de mestrado “Sistema nacional de vigilância alimentar
+e nutricional: histórico e análise de desempenho na atenção básica em saúde”. Observou-se que
+praticamente 100% dos municípios cadastraram crianças menores de 5 anos no SISVAN Web e
+que ao longo dos anos estudados, o percentual de cobertura do Estado Nutricional desta população
+não ultrapassou 38,18% nos DRS, no entanto, averiguou-se melhora neste valor ao longo dos anos
+estuados. Ao comparado com outros estudos o percentual de utilização obtido foi maior, e também
+observou-se uma progressão da cobertura do sistema em relação à descrita pela literatura. As
+informações apresentadas podem contribui para a avaliação do SISVAN e auxiliar no
+desenvolvimento de estudos sobre VAN, sendo que a desnutrição infantil parece permanecer sendo
+um problema de saúde publica nos estado de São Paulo, predominantemente entre as populações
+mais vulneráveis.
+
+Palavras-chave: Vigilância Alimentar e Nutricional, SISVAN e Cobertura SISVAN.
+
+SUMÁRIO
+
+INTRODUÇÃO ............................................................................................................................. 5
+METODOLOGIA.......................................................................................................................... 8
+RESULTADOS ............................................................................................................................ 11
+DISCUSSÃO ................................................................................................................................ 19
+CONCLUSÃO.............................................................................................................................. 24
+REFERÊNCIAS .......................................................................................................................... 25
+ANEXO ......................................................................................................................................... 29
+
+INTRODUÇÃO
+
+A Vigilância Alimentar e Nutricional (VAN) tem como objetivo a descrição e predição
+contínua das tendências de alimentação e nutrição da população, bem como os seus fatores
+determinantes (MINISTÉRIO DA SAÚDE, 2015). Nesse sentido, a VAN pode apoiar gestores e
+profissionais da Atenção Básica na organização e avaliação da atenção nutricional, observando as
+prioridades dos indivíduos assistidos (JAIME e col., 2015), com a finalidade de elaborar estratégias
+e ações visando a promoção da saúde, a prevenção e tratamento de agravos e a segurança alimentar
+e nutricional, objetivando o cuidado integral à saúde (MINISTÉRIO DA SAÚDE, 2015).
+No âmbito do Sistema Único de Saúde (SUS), a VAN faz parte da vigilância em saúde, e
+foi instituída pela lei de nº 8.080, de 19 de setembro de 1990. Ainda na década de 90, foi criado o
+Sistema de Vigilância Alimentar e Nutricional (SISVAN) no Ministério da Saúde, também com
+objetivo de apoiar as ações de VAN. Inicialmente, a implantação do SISVAN constituiu-se prérequisito para a adesão a determinados programas assistenciais para grupos específicos, o que
+contribuiu para a sua expansão. (MINISTÉRIO DA SAÚDE, 2015; DAMÉ e col., 2011).
+A Política Nacional de Alimentação e Nutrição (PNAN), também contribuiu para o
+aperfeiçoamento e ampliação do SISVAN (MINISTÉRIO DA SAÚDE, 2015). Instituída em 1999
+e atualizada em 2011, a PNAN, tem como propósito melhorar as condições de alimentação,
+nutrição e saúde da população brasileira (MINISTÉRIO DA SAÚDE, 2012a), e em sua terceira
+diretriz, prevê o monitoramento da situação alimentar e nutricional da população, sendo o SISVAN
+uma ferramenta viabilizadora deste objetivo (COUTINHO e col., 2009).
+Ao longo da história o SISVAN foi sendo aprimorado. Em 2004 passou a ser alimentado
+com dados dos beneficiários do Programa Bolsa Família (PBF), tornando-se o principal provedor
+de informações sobre a saúde das famílias beneficiadas (ENES e col., 2014). Até dezembro de
+2007 era utilizada uma versão conhecida como “módulo municipal” que deu lugar à plataforma
+SISVAN Web, sendo disponibilizado o acesso a todos os municípios brasileiros no ano de 2008.
+Atualmente, além da inclusão diretamente no SISVAN Web, as Secretarias de Saúde têm as
+seguintes ferramentas para inclusão das informações sobre VAN: o Sistema de Gestão do Programa
+Bolsa Família (SIPBF), sendo que os dados migram semestralmente para o SISVAN Web; os
+5
+
+sistemas próprios (iniciativas municipais e/ou estaduais); e o Sistema de Informação da Atenção
+Básica (Siab), que será gradativamente substituído pelo Sistema de Informação em Saúde para a
+Atenção Básica (Sisab), cuja operacionalização se dará por meio da estratégia do Ministério da
+Saúde denominada e-SUS Atenção Básica. A proposta é de que haja integração entre o Sisab e os
+diversos sistemas do Ministério da Saúde, inclusive com o SISVAN (MINISTÉRIO DA SAÚDE,
+2015; COUTINHO e col., 2009; ENES e col., 2014).
+No estado de São Paulo o SISVAN ganhou força em 1998 quando sua implementação pelos
+municípios passou a ser pré-requisito para o repasse de recursos financeiros federais por meio de
+programas de transferência de renda. Essa obrigatoriedade fez com que aumentasse a demanda dos
+municípios por ferramentas facilitadoras da implementação do SISVAN, o que levou a criação de
+um grupo com este intuito, formado por representantes das Coordenadorias de Planejamento em
+Saúde, do Interior e da Região Metropolitana da Grande São Paulo, do Conselho de Secretários
+Municipais de Saúde de São Paulo (COSEMS) e do Instituto de Saúde (órgão de pesquisa da
+Secretaria de Estado da Saúde de São Paulo - SES/SP). Este grupo realizou seminários e discussão
+sobre a PNAN e importância do SISVAN, com base nessa sensibilização foi possível identificar as
+demandas e houve a criação do primeiro aplicativo informatizado do país, denominado SISVANSP, destinado à coleta e análise dos dados nutricionais de crianças menores de 5 anos de idades
+(Lei e col., 2002; VENANCIO e col., 2007).
+O SISVAN seguiu sendo implementado no estado de São Paulo de forma gradual,
+respeitando-se as especificidades do sistema local e regional de saúde (LEI e col., 2002). Apesar
+dos avanços, mesmo entre os municípios que aderiram ao sistema houve descontinuidade e
+inconsistências no encaminhamento dos bancos de dados, isto pode estar relacionada com as
+dificuldades logísticas vivenciados nas Unidades Básicas de Saúde (UBS) que interferem na coleta
+e no registro sistemático das informações, na falta de capacitação dos profissionais e também no
+desinteresse de algumas gestões municipais na implementação do sistema (VENANCIO e col.,
+2007).
+Atualmente existe a possibilidade de introdução, no SISVAN Web, de dados cadastrais
+individuais, acompanhamento nutricional, mapa de acompanhamento, marcadores de consumo
+alimentar para menores de 5 anos, marcadores de consumo alimentar para indivíduos com idade
+superior a 5 anos e acompanhamento de crianças com baixo peso e muito baixo peso residentes em
+municípios da Agenda de Intensificação da Atenção Nutricional à Desnutrição Infantil (ANDI).
+6
+
+No que diz respeito ao acompanhamento nutricional, a inserção dos dados referentes a peso e
+altura/comprimento dos indivíduos acompanhados é obrigatória (MINISTÉRIO DA SAÚDE, SD).
+A partir desses dados é possível a obtenção de indicadores do estado nutricional, entre eles a
+estatura para a idade, o qual é utilizado para identificação de desnutrição crônica (JAIME e col.,
+2014). Sabe-se que o déficit de crescimento na infância está relacionado à maior mortalidade, além
+de associar-se à maior suscetibilidade a doenças infecciosas, prejuízo no desenvolvimento
+psicomotor, menor aproveitamento escolar, entre outros impactos (CHAGAS e col., 2013). Tal
+desvio nutricional ainda está presente em populações tradicionais do Brasil, como os quilombolas
+e indígenas (CARVALHO e col., 2014), além de ser prevalente de forma considerável entre as
+crianças beneficiárias do PBF (MONTEIRO e col., 2014). A prevalência nacional de déficit
+estatural apontada na Pesquisa Nacional de Demografia e Saúde (PNDS, 2006) foi de 7%, enquanto
+que para o Sudeste foi de 5,7%.
+Diante do exposto, o presente estudo propõe-se a descrever a cobertura do SISVAN, bem
+como o percentual de baixa estatura para a idade de crianças menores de 5 anos nos municípios do
+estado de São Paulo, entre 2008 e 2012.
+
+7
+
+METODOLOGIA
+
+Este estudo, de delineamento ecológico, foi realizado com os 645 municípios do estado de
+São Paulo, e descreveu a utilização e cobertura do SISVAN, assim como o percentual de baixa
+estatura para a idade de crianças menores de 5 anos inseridos no SISVAN Web, entre os anos 2008
+a 2012. Para a descrição das variáveis e indicadores, os municípios foram agrupados de acordo
+com os 17 Departamentos Regionais de Saúde (DRS) do Estado de São Paulo.
+Os dados referentes à quantidade de indivíduos cadastrados, quantidade de cadastros
+provenientes do Programa Bolsa Família (PBF) e registros de acompanhamento do estado
+nutricional das crianças menores de 5 anos para cada ano estudado, foram obtidos por meio de
+banco de dados secundário, do Sistema de Vigilância Alimentar e Nutricional – Web (SISVAN
+Web) do Departamento de Atenção Básica do Ministério da Saúde (DAB/MS) - Departamento de
+Informática do SUS (DATASUS).
+Quanto à classificação do estado nutricional, foi obtida através dos relatórios públicos
+disponíveis no site do SISVAN, sendo gerados três relatórios para cada ano (“Todos”, “SISVAN
+Web” e “SIGPBF”), tendo como referência o índice “altura x idade”. Estes relatórios apresentavam
+a classificação do estado nutricional em três categorias: “altura muito baixa para idade”, “altura
+baixa para idade” e “altura adequada”. No presente estudo as categorias “altura muito baixa para
+idade” e altura “baixa para idade” foram agrupadas em “altura baixa para idade”, resultando em
+duas classificações: “altura baixa para idade” e “altura adequada para idade”.
+O Índice de Desenvolvimento Humano Municipal (IDHM) foi obtido através da plataforma
+online Atlas do Desenvolvimento Humano no Brasil, as demais informações sociodemográficas
+(área total e densidade demográfica), foram extraídas dos registros disponíveis no site do Instituto
+Brasileiro de Geografia e Estatística (IBGE) para o ano de 2010. Já a população residente de cada
+município foi obtida no TABNET - DATASUS, sendo utilizado o Censo para o ano de 2010, e as
+projeções para os demais anos. Quanto às informações referentes à saúde, foram coletadas as
+estimativas da população coberta pelas equipes de Saúde da Família (eSF) e Agentes Comunitários
+de Saúde (ACS), disponíveis no Portal do DAB/MS. Sendo que, para a descrição das variáveis
+densidade demográfica e IDHM, foram utilizadas as médias de cada DRS, para as demais (área
+8
+
+territorial, população com idade inferior a 5 anos, eSF e ACS) foram utilizados os valores
+absolutos.
+Utilizando estas variáveis foram elaborados indicadores para melhor descrição dos dados.
+O indicador percentual de cadastramento trata-se da quantidade de municípios que inseriram dados
+no SISVAN e, para sua composição, foram considerados todos os municípios que cadastraram pelo
+menos um usuário em cada ano estudado. Para esta estimativa, dividiu-se o número de municípios
+que incluíram indivíduos no SISVAN Web, pelo número total de municípios do estado de São
+Paulo, multiplicado por 100. Da mesma forma, foi estimado o percentual de acompanhamento, que
+se refere à quantidade de municípios que inseriram ao menos um registro de estado nutricional no
+SISVAN.
+Para composição dos indicadores de cobertura, preferiu-se utilizar a população usuária do
+SUS como denominador, uma vez que poderia haver subestimação dos dados, caso fosse utilizada
+a população total. Para obtenção da população usuária do SUS, subtraiu-se a quantidade de
+indivíduos cobertos por planos de saúde (disponibilizada pela Agência Nacional de Saúde
+Suplementar), dos valores de população residente em cada município. Durante a criação desta
+variável foram encontrados 48 municípios que apresentaram valores aberrantes e optou-se por
+excluí-los dos indicadores relacionados à cobertura, sendo estes municípios: Nipoã, Santa Clara
+d'Oeste, Alumínio, Buritizal, Cruzeiro, Indiaporã, Lins, Lourdes, Mira Estrela, Monções,
+Pedranópolis, Regente Feijó, União Paulista, Cedral, Divinolândia, Duartina, Gabriel Monteiro,
+Guarani d'Oeste, Indiana, Ipuã, Marapoama, Murutinga do Sul, Nuporanga, Orindiúva, Paraibuna,
+Piracicaba, Santa Rita d'Oeste, Santo Anastácio, São José do Rio Preto, Turmalina, Urupês, Itapura,
+Junqueirópolis, Osvaldo Cruz, Suzanápolis, Alfredo Marcondes, Martinópolis, Pontes Gestal,
+Santa Mercedes, Sud Mennucci, São Roque, Novo Horizonte, Sebastianópolis do Sul, São Caetano
+do Sul, São Pedro do Turvo, Piacatu e Turiúba. Estes municípios foram mantidos no banco para
+serem avaliados nas demais variáveis que não se relacionam com estimativa de cobertura.
+Desta forma, foi possível estimar a cobertura do estado nutricional (EN), dividindo o
+número de indivíduos com registros de EN (de cada município, em cada ano), pela população SUS,
+multiplicado por 100. Este indicador foi apresentado por DRS, sendo ilustrado por meio de mapas
+do estado de São Paulo, elaborados utilizando o programa Tabwin versão 3.6 do DATASUS.
+Inicialmente, o banco de dados foi montado no programa Excel, 2010, posteriormente, a
+análise estatística foi realizada no software Stata, versão 11. Por meio de análise de histogramas e
+9
+
+diferença entre médias e medianas, foi possível observar que as variáveis estudadas não
+apresentavam distribuição normal, por isso, foi utilizada a Correlação de Spearman para verificar
+a existência de correlação entre a cobertura do SISVAN Web e dados sociodemográficos e de
+saúde. Foi considerado estatisticamente significante, valor de p<0,05.
+Este estudo está vinculado ao projeto de mestrado “Sistema nacional de vigilância alimentar
+e nutricional: histórico e análise de desempenho na atenção básica em saúde”. O uso da base de
+dados secundárias do SISVAN Web passou pela aprovação do Comitê de Ética em Pesquisa
+(COEP) da Faculdade de Saúde Pública da Universidade de São Paulo (CAAE:
+43033415.7.0000.5421), e foi solicitado formalmente a Secretaria de Atenção à Saúde do
+Ministério da Saúde (SAS/MS).
+
+10
+
+RESULTADOS
+
+No presente estudo, observou-se que praticamente 100% dos municípios cadastraram
+crianças menores de 5 anos no SISVAN Web ao longo dos anos estudados. Comportamento
+semelhante foi observado no que se refere à inclusão de acompanhamento nutricional, sendo de
+98,6% em 2008 e 99,53% em 2012.
+A caracterização sociodemográfica e de saúde dos Departamentos Regionais de Saúde do
+estado de São Paulo está descrita na tabela 1. Ressalta-se a grande variação da quantidade de
+municípios contidos em cada um deles, sendo XV - São José do Rio Preto (102) e IV- Baixada
+Santista (4) os DRS com mais e menos municípios, respectivamente. Foi observada também uma
+grande variação na população residente e na média de densidade demográfica em cada DRS,
+variando de 28,93 habitantes por km² em XII- Registro a 3.215,83 habitantes por km2 em I- Grande
+São Paulo. A média de IDHM entre os DRS não apresentou variação tão significativa, sendo que
+todos eles ficaram com a classificação entre 0,700 e 0,799 (alta) (IPEA., [s.d]). Com relação à
+quantidade de indivíduos acompanhados pela eSF, destacou-se o DRS I - Grande São Paulo com
+4.674.750 pessoas cobertas por estas equipes, é importante ressaltar que este foi o Departamento
+Regional de Saúde com maior população com idade inferior a 5 anos, e também com maior
+população usuária do SUS nesta mesma faixa etária. Já o DRS com menor cobertura de eSF foi o
+V - Barretos com 172.033 indivíduos acompanhados. Quanto à ACS, também observou-se maior
+quantidade de acompanhamentos no DRS I (6.081.391) e menor no V - Barretos (194.194).
+
+11
+
+Tabela 1 - Caracterização dos DRS no ano de 2010
+Densidade demográfica
+(habitantes/m2)
+
+IDHM
+
+0,760
+
+0,703 - 0,862
+
+eSF (todas as
+faixas
+etárias)**
+4.674.750
+
+5,83 - 204,79
+
+0,740
+
+0,697 - 0,812
+
+460.361
+
+500.177
+
+18,13 - 281,99
+
+0,743
+
+0,681 - 0,815
+
+246.303
+
+267.841
+
+0,759
+
+0,730 - 0,840
+
+455.400
+
+534.750
+
+0,742
+
+0,687 - 0,789
+
+172.033
+
+194.194
+
+6,59 - 515,12
+
+0,731
+
+0,668 - 0,801
+
+460.205
+
+631.455
+
+521,86
+
+31,37 - 3.082,92
+
+0,757
+
+0,677 - 0,822
+
+917.221
+
+815.063
+
+27.421
+
+61,15
+
+15,21 - 526,09
+
+0,737
+
+0,693 - 0,780
+
+201.480
+
+195.782
+
+50.094
+
+44,16
+
+5,71 - 347,78
+
+0,736
+
+0,680 - 0,805
+
+524.634
+
+677.962
+
+88.762
+
+38.209
+
+144,27
+
+13,16 - 504,1
+
+0,756
+
+0,686 - 0,854
+
+403.650
+
+439.321
+
+22.349,0
+
+43.316
+
+27.700
+
+34,00
+
+5,24 - 368,89
+
+0,736
+
+0,677 - 0,806
+
+452.164
+
+483.455
+
+15
+
+13.284,3
+
+20.606
+
+18.407
+
+28,93
+
+3,73 - 75,11
+
+0,703
+
+0,641 - 0,754
+
+188.767
+
+196.374
+
+26
+
+10.851,2
+
+83.911
+
+49.291
+
+118,51
+
+13,19 - 928,46
+
+0,743
+
+0,686 - 0,800
+
+205.770
+
+433.470
+
+20
+
+8.104,9
+
+46.032
+
+28.511
+
+91,31
+
+32,76 - 173,78
+
+0,747
+
+0,701 - 0,797
+
+182.040
+
+340.165
+
+102
+
+26.761,6
+
+83.485
+
+35.576
+
+48,60
+
+7,32 - 946,53
+
+0,743
+
+0,700 - 0,797
+
+535.840
+
+667.755
+
+XVI - Sorocaba
+
+48
+
+25.225,8
+
+150.144
+
+95.936
+
+127,35
+
+9,55 - 1.306,55
+
+0,717
+
+0,639 - 0,798
+
+521.966
+
+578.177
+
+XVII - Taubaté
+
+39
+
+16.181,3
+
+151.269
+
+85.277
+
+128,03
+
+7,14 - 572,77
+
+0,735
+
+0,655 - 0,807
+
+762.808
+
+844.848
+
+estado de São Paulo
+
+645
+
+248.196,0
+
+2.675.372
+
+1.393.137
+
+166,25
+
+11.365.392
+
+13.882.180
+
+DRS – Sede
+
+N° de
+Área total
+municípios (Km2)
+
+População
+total < 5 anos
+
+População
+SUS < 5 anos
+
+Média*
+
+Valor mínimo e
+máximo
+
+I - Grande São Paulo
+
+39
+
+7.947,3
+
+1.307.653
+
+605.972
+
+3.215,83 36,79 - 12.519,1
+
+II – Araçatuba
+
+40
+
+17.711,1
+
+42.650
+
+29.431
+
+33,33
+
+III – Araraquara
+
+24
+
+10.168,5
+
+56.315
+
+34.023
+
+78,66
+
+IV - Baixada Santista
+
+9
+
+2.405,9
+
+111.498
+
+62.380
+
+V – Barretos
+
+18
+
+8.098,7
+
+25.261
+
+16.203
+
+52,74
+
+8,22 - 110,38
+
+VI – Bauru
+
+68
+
+31.150,1
+
+103.250
+
+71.173
+
+51,02
+
+VII - Campinas
+
+42
+
+9.036,2
+
+253.109
+
+117.533
+
+VIII - Franca
+
+22
+
+9.480,5
+
+43.355
+
+IX - Marília
+
+62
+
+20.899,3
+
+64.756
+
+X - Piracicaba
+
+26
+
+8.540,3
+
+XI - Presidente Prudente
+
+45
+
+XII - Registro
+XIII - Ribeirão Preto
+XIV - São João da Boa
+Vista
+XV - São José do Rio
+Preto
+
+1.014,38 97,23 - 2.232,28
+
+Média Valor mínimo
+*
+e máximo
+
+0,783
+
+ACS (todas as
+faixas
+etárias)**
+6.081.391
+
+*A média para densidade demográfica e IDHM por DRS foi calculada usando o software Stata, versão 11, já para a media do Estado de São Paulo foi utilizada a
+disponibilizada pelo IBGE.
+**A cobertura da eSF e ACS por faixa etária não estava disponível.
+
+12
+
+A cobertura do SISVAN Web de acordo com os DRS ao longo dos anos está descrita na
+figura 1. O percentual de cobertura não ultrapassou 38,18% nos DRS, no entanto, de forma geral,
+observou-se progressiva melhora em todo o estado até 2010, sendo o ano com maior cobertura.
+Posteriormente houve significativa diminuição, porém mantendo-se superior aos dois primeiros
+anos estudados. Embora o percentual de cobertura no DRS I - Grande São Paulo tenha dobrado
+entre 2008 e 2012, foi possível notar um aumento pouco expressivo em comparação aos demais.
+Em contrapartida, o DRS XIV - São João da Boa Vista foi o que apresentou maior aumento e
+sustentação da cobertura, passando de 17,25% em 2008 para 33,82% em 2012. Com relação ao
+estado de São Paulo, a cobertura média nos anos estudados foi de: 19,57% (2008), 22,66% (2009),
+29,04% (2010), 25,83% (2011) e 22,28% (2012).
+A correlação entre a cobertura do SISVAN Web e as variáveis sociodemográficas e de
+saúde, de acordo com os DRS, está detalhada na tabela 2. Não foi encontrada correlação
+estatisticamente significativa, com exceção do X - Piracicaba, cuja cobertura mostrou estar
+inversamente correlacionada com o IDHM, sugerindo maior cobertura do SISVAN Web nos
+municípios com menores valores de IDHM.
+
+13
+
+Figura 1 – cobertura do SISVAN de acordo com os DRS, nos anos de 2008 a 2012
+
+14
+
+Tabela 2 - Correlação entre cobertura do estado nutricional no ano de 2010 com variáveis sociodemográficas e de saúde por DRS
+IDHM
+DRS
+I - Grande São Paulo
+II – Araçatuba
+III – Araraquara
+IV - Baixada Santista
+V – Barretos
+VI – Bauru
+VII – Campinas
+VIII – Franca
+IX – Marília
+X – Piracicaba
+XI - Presidente Prudente
+XII – Registro
+XIII - Ribeirão Preto
+XIV - São João da Boa Vista
+XV - São José do Rio Preto
+XVI – Sorocaba
+XVII – Taubaté
+
+Dens. Demográfica
+
+Coeficiente de
+correlação
+
+p
+
+Coeficiente de
+correlação
+
+p
+
+0,0282
+-0,2685
+-0,2353
+0,2343
+-0,1250
+-0,0243
+-0,1132
+-0,3117
+-0,1466
+-0,5139
+0,0090
+-0,1643
+-0,1522
+0,4232
+-0,0480
+-0,1193
+-0,1546
+
+0,866
+0,137
+0,268
+0,544
+0,621
+0,847
+0,475
+0,194
+0,264
+0,009
+0,958
+0,559
+0,458
+0,071
+0,664
+0,430
+0,361
+
+-0,1069
+-0,2185
+-0,3009
+0,1500
+-0,2157
+-0,0867
+-0,1741
+-0,0947
+0,1497
+0,1908
+-0,1029
+0,0393
+0,0509
+0,2158
+-0,0500
+-0,2565
+-0,2530
+
+0,523
+0,230
+0,153
+0,700
+0,390
+0,489
+0,270
+0,700
+0,254
+0,361
+0,545
+0,889
+0,805
+0,375
+0,652
+0,085
+0,131
+
+ACS
+Coeficiente de
+correlação
+-0,1234
+0,0008
+0,1162
+0,2427
+0,3710
+-0,0250
+-0,0505
+-0,3019
+-0,0701
+0,3034
+0,0465
+-0,3526
+0,0254
+-0,1916
+-0,0495
+0,2875
+0,1236
+
+eSF
+P
+
+Coeficiente de
+correlação
+
+p
+
+0,460
+0,997
+0,589
+0,529
+0,130
+0,842
+0,751
+0,209
+0,595
+0,140
+0,785
+0,197
+0,902
+0,432
+0,655
+0,053
+0,466
+
+0,0112
+-0,0197
+0,0361
+0,2333
+0,1167
+-0,0459
+-0,1005
+-0,1898
+-0,0950
+0,3101
+0,0269
+-0,3427
+-0,1330
+-0,0594
+-0,1210
+0,2069
+0,1116
+
+0,947
+0,915
+0,867
+0,546
+0,645
+0,715
+0,527
+0,437
+0,470
+0,131
+0,874
+0,211
+0,517
+0,809
+0,273
+0,168
+0,511
+
+15
+
+A tabela 3 mostra a frequência de registros de EN de indivíduos na faixa etária estudada,
+inseridos no SISVAN Web, distinguindo-os entre provenientes ou não do Programa Bolsa Família.
+Foi possível observar que os dados do SIGPBF têm grande representatividade dentre o total de
+informações inseridas no SISVAN Web, sendo que a maior porcentagem observada foi no ano de
+2010 quando estes representaram 68% do total de dados nutricionais de crianças de 0 a 5 anos
+inseridas no sistema. Entretanto as informações independentes do sistema do PBF corresponderam,
+em todos os anos, a pelo menos 30% do total de dados inseridos no SISVAN Web, sendo que este
+valor foi ainda mais expressivo nos anos de 2008 e 2012.
+O percentual de crianças com estatura baixa nos 17 DRS de acordo com o ano está descrito
+na tabela 4. O DRS IV- Baixada Santista apresentou maior percentual em todos os anos estudados,
+no entanto, foi o que demostrou redução mais acentuada, passando de 15,67% em 2008, para
+9,28%, em 2012. Os demais oscilaram pouco ao longo dos anos, com exceção dos DRS V –
+Barretos e IX – Marília, onde a prevalência de baixa estatura observado no último ano estudado foi
+superior à observada em 2008. Em relação à média do estado de São Paulo, está se manteve a baixo
+de 10% entre todos os anos, destacando-se 2010 como o que apresentou a maior prevalência de
+baixa estatura para idade.
+
+16
+
+Tabela 3 - Frequência de registros de estado nutricional de crianças de 0 a 5 anos inseridos no
+SISVAN Web, provenientes ou não do Programa Bolsa Família, entre 2008 e 2012
+Ano
+
+Registros
+de EN (n)
+
+%
+
+Registros de EN
+provenientes do
+PBF (n)
+
+%
+
+Registros de EN
+independentes do
+PBF (n)
+
+%
+
+2008
+
+234.947
+
+100
+
+127.896
+
+54
+
+107.052
+
+46
+
+2009
+
+262.553
+
+100
+
+168.737
+
+64
+
+93.816
+
+36
+
+2010
+
+311.990
+
+100
+
+213.058
+
+68
+
+98.932
+
+32
+
+2011
+
+299.677
+
+100
+
+188.900
+
+63
+
+110.777
+
+37
+
+2012
+
+276.929
+
+1000
+
+164.048
+
+59
+
+112.881
+
+41
+
+17
+
+Tabela 4 - Percentual de baixa estatura para a idade por DRS, 2008 a 2012
+% Baixa estatura
+DRS
+I - Grande São Paulo
+
+2008
+10,87
+
+2009
+10,06
+
+2010
+12,27
+
+2011
+9,89
+
+2012
+9,84
+
+II – Araçatuba
+
+8,65
+
+5,89
+
+7,87
+
+7,04
+
+6,02
+
+III – Araraquara
+
+9,39
+
+10,43
+
+11,22
+
+9,16
+
+8,82
+
+IV - Baixada Santista
+
+15,67
+
+11,62
+
+10,50
+
+9,57
+
+9,28
+
+V – Barretos
+
+10,61
+
+9,65
+
+9,65
+
+11,24
+
+11,94
+
+VI – Bauru
+
+8,89
+
+9,05
+
+8,81
+
+8,39
+
+8,79
+
+VII – Campinas
+
+8,14
+
+8,76
+
+8,74
+
+9,64
+
+8,71
+
+VIII – Franca
+
+6,96
+
+7,35
+
+7,31
+
+6,47
+
+6,16
+
+IX – Marília
+
+7,41
+
+8,85
+
+8,58
+
+7,92
+
+8,33
+
+X – Piracicaba
+
+8,97
+
+7,54
+
+7,67
+
+6,66
+
+6,78
+
+XI - Presidente Prudente
+
+7,20
+
+6,77
+
+7,95
+
+7,31
+
+5,88
+
+XII – Registro
+
+8,74
+
+9,53
+
+8,67
+
+8,44
+
+8,73
+
+XIII - Ribeirão Preto
+
+8,53
+
+9,02
+
+8,61
+
+8,46
+
+7,83
+
+XIV - São João da Boa Vista
+
+7,95
+
+7,81
+
+7,41
+
+7,16
+
+7,29
+
+XV - São José do Rio Preto
+
+6,27
+
+6,94
+
+6,82
+
+6,52
+
+6,11
+
+XVI – Sorocaba
+
+9,73
+
+8,16
+
+8,63
+
+7,65
+
+6,52
+
+XVII – Taubaté
+Total SP
+
+10,41
+
+9,35
+
+9,75
+
+9,20
+
+8,67
+
+9,23
+
+8,75
+
+9,40
+
+8,53
+
+8,20
+
+18
+
+DISCUSSÃO
+
+Observou-se um aumento gradual no percentual de municípios que cadastraram indivíduos
+no SISVAN Web na faixa etária estudada, estando acima de 99% em todos os anos, sugerindo uma
+evolução na apropriação do sistema por parte dos municípios. Em estudo sobre a implementação
+do aplicativo SISVAN-SP e avaliação do estado nutricional de crianças, VENÂNCIO e col. (2007)
+observaram percentual de utilização de 58% em 2001 e 74,7% em 2003. Outros estudos realizados
+com a população do Rio Grande do Sul verificaram percentuais de utilização de 65,3% (JUNG e
+col., 2013) e 61,3% (DAMÉ e col., 2006). Embora os percentuais observados no presente trabalho
+sejam expressivos se comparados aos estudos citados, é importante considerar uma limitação na
+composição desse dado, uma vez que foram contabilizados todos os municípios que incluíram pelo
+menos um indivíduo no sistema por ano, desta forma, deve-se ter cautela ao analisar os percentuais,
+pois não estão relacionados com a quantidade de indivíduos cadastrados nem com a cobertura do
+SISVAN Web. As mesmas observações se aplicam aos dados de percentual de acompanhamento,
+os quais se mantiveram acima dos 98% em todos os anos estudados.
+Com relação à cobertura do estado nutricional, também foi possível observar melhoras nos
+percentuais, porém com variações entre os DRS. O ano de 2008 foi o que apresentou menor
+cobertura em todo o estado, tal resultado pode ser explicado por este ter sido o ano de lançamento
+do SISVAN Web, estando assim em fase de implementação em todo o país. Em contrapartida, o
+ano de 2010 destacou-se com o maior número de DRS que apresentaram cobertura superior a 30%.
+Tais observações aplicam-se à cobertura média do estado, tendo seu menor percentual em 2008
+(19,57%) e maior em 2010 (29,04%).
+No ano de 2002, foi publicado no Boletim do Instituto de Saúde de São Paulo um trabalho
+sobre o SISVAN, no qual os autores apresentaram dados da cobertura do aplicativo SISVAN-SP
+no ano de 2001, de acordo com as Diretorias Regionais de Saúde (DIR), atualmente chamadas de
+DRS, e foi registrada a cobertura de 14,5% entre crianças menores de 5 anos (LEI e col., 2002).
+Na época, apenas 4 DIR foram considerados para esta estimativa, pois eram os únicos com mais
+de 90% dos municípios com o aplicativo implantado (LEI e col., 2002). Já em estudo realizado
+com 65 municípios do estado de São Paulo e publicado em 2014, ENES e col. (2014), encontraram
+valores de cobertura inferiores a 10% para a maioria das regiões pesquisadas, analisando o ano de
+19
+
+2010. JUNG e col. (2014) também observaram cobertura pouco expressiva no Rio Grande do Sul
+para o ano de 2010 (10,5%), tendo como público alvo crianças na mesma faixa etária estudada no
+presente trabalho. Anteriormente, para este mesmo estado, em estudo que verificou a cobertura do
+SISVAN em crianças de 0 a 10 foi observado o valor de 10,5% (DAMÉ e col., 2011).
+Chama a atenção a pouca expressividade da cobertura no DRS I - Grande São Paulo que
+não ultrapassou os 11,54%. O fato de a cidade de São Paulo contar apenas com os dados migrados
+do SIGPBF, não tendo registros incluídos diretamente no SISVAN Web no período estudado, pode
+ter contribuído para a baixa cobertura, visto que trata-se da cidade com maior população residente.
+Por outro lado, o DRS XIV - São João da Boa Vista se destacou quanto ao aumento e sustentação
+da cobertura ao longo dos anos estudados, e ao analisar o percentual de registros de estado
+nutricional não provenientes do PBF (anexo) deste DRS no ano de 2010, observa-se que é muito
+próximo da metade (47,30%), sendo o que apresenta maior equilíbrio entre os percentuais de
+registros de acordo com a fonte de inclusão, tendo isso em vista, especula-se que isso pode ter
+impactado positivamente no crescimento progressivo da cobertura.
+São vários os fatores que podem influenciar na cobertura do estado nutricional, dentre eles,
+a estrutura física e a disponibilidade de equipamentos básicos para a coleta dos dados nas unidades
+de saúde. O Programa Nacional de Melhoria do Acesso e da Qualidade da Atenção Básica (PMAQAB) “tem como objetivo incentivar os gestores e as equipes a melhorar a qualidade dos serviços
+de saúde oferecidos aos cidadãos do território” por meio de “um conjunto de estratégias de
+qualificação, acompanhamento e avaliação do trabalho das equipes de saúde e elevando o repasse
+de recursos do incentivo federal para os municípios participantes que atingirem melhora no padrão
+de qualidade no atendimento”. Os dados da avaliação externa do PMAQ-AB mostraram que 86%
+das UBSs avaliadas no estado de São Paulo no 1º ciclo e 95% no 2º ciclo possuíam equipamentos
+antropométricos disponíveis, no entanto, 36% no 1º ciclo e 55% no 2º ciclo possuíam estrutura e
+ambiência adequados para a realização de ações de VAN. Isso mostra que apenas a disponibilidade
+de equipamentos não é suficiente para que as ações de VAN sejam realizadas (MINISTÉRIO DA
+SAÚDE, 2012b e 2014).
+Quanto à correlação entre a cobertura do estado nutricional e as variáveis
+sociodemográficas e de saúde, não foram encontrados resultados estatisticamente significativos,
+exceto para o DRS X – Piracicaba, cuja cobertura mostrou estar inversamente correlacionada com
+o IDHM. Comparando com o estudo de JUNG e col. (2014)., que analisaram a existência de
+20
+
+correlação das variáveis sociodemográficas e de saúde tanto com o percentual de utilização quanto
+com a cobertura total do SISVAN Web no ano de 2010, as autoras também não observaram
+diferenças estatisticamente significativas para quase todas as análises, com exceção da correlação
+entre a cobertura total do SISVAN Web e a densidade demográfica (análise que não foi feita no
+presente trabalho), e entre o percentual de utilização e a cobertura das eSF, na qual houve
+correlação inversa, diferentemente do que se esperava. Vale ressaltar que, embora não tenha sido
+estatisticamente significante, no presente estudo também foi verificado tal resultado quando
+analisada a correlação entre a cobertura do estado nutricional e a cobertura das eSF. No trabalho
+citado, as autoras classificaram esse resultado como falácia ecológica decorrente de viés
+metodológico, em virtude do delineamento do estudo (JUNG e col., 2014).
+Para se discutir o impacto do PBF nos dados de estado nutricional referentes às crianças de
+0 a 5 anos, que residem no estado de São Paulo, inseridos no SISVAN Web entre 2008 e 2012 é
+necessário elucidar sobre o PBF, que trata-se de um programa de transferência direta de renda,
+direcionado a famílias em situação de pobreza e extrema pobreza, que tem por finalidade promover
+o acesso aos direitos sociais básicos e romper com o ciclo intergeracional da pobreza. A disposição
+do benefício está vinculada ao cumprimento de compromissos na saúde, educação e assistência
+social (condicionalidades). O objetivo das condicionalidades do Programa é garantir a oferta de
+ações básicas, contribuindo para melhora da qualidade de vida das famílias e inclusão social.
+(MINISTÉRIO DA SAÚDE, 2009). No que se refere aos compromissos relacionados à saúde, o
+preconizado para a população beneficiada de 0 a 7 anos é que esta seja acompanhada em relação
+ao correto cumprimento do calendário de vacinação e que haja o acompanhamento do crescimento
+e desenvolvimento dos indivíduos (MINISTÉRIO DO DESENVOLVIMENTO SOCIAL, 2016).
+No processo da gestão das condicionalidades uma importante etapa é o registro das informações
+nas plataformas disponíveis, sendo que as informações referentes à saúde devem ser inseridas no
+SIGPBF e transpostas uma vez por semestre para o SISVAN Web (MINISTÉRIO DA SAÚDE,
+2009).
+Visando um aumento da cobertura das condicionalidades o Ministério do Desenvolvimento
+Social criou, entre outras ações, o Índice de Gestão Descentralizada do Programa Bolsa Família
+para municípios (IGD-M/PBF), que representa uma estratégia de apoio técnico e financeiro a estes
+na gestão do programa. Para receber este incentivo o município precisa atingir a cobertura mínima
+de 20% no acompanhamento das condicionalidades de saúde. (MINISTÉRIO DO
+21
+
+DESENVOLVIMENTO SOCIAL E COMBATE À FOME, 2016). Devido ao interesse destes por
+repasses de recursos federais, criou-se com essa ação uma oportunidade para a ampliação da
+cobertura e do acompanhamento nutricional das crianças beneficiárias (BRAGANÇA, 2011). Uma
+vez que a implementação de sistemas de informações em saúde universais, como o SISVAN, é
+uma tarefa complexa, é interessante que os municípios priorizem o acompanhamento da população
+inserida em programas de suplementação alimentar, transferência de renda, ou grupos
+populacionais residentes em áreas de grande iniquidade social, pelo fato de que estas parcelas da
+população são mais vulneráveis e também para atender a demanda do Ministério da Saúde em
+relação aos programas (ENES e col., 2014). Estes fatores associados contribuíram para que neste
+estudo a presença de registros referentes ao estado nutricional das crianças avaliadas fossem em
+sua maioria provenientes do PBF, em todos os anos estudados. O acompanhamento expressivo das
+condicionalidades em saúde indicam a atenção e cuidado das equipes de saúde para a agenda de
+condicionalidades, reforçam a contribuição do SUS para a eliminação da pobreza no país e
+demonstram a prática da intersetorialidade em políticas públicas, assim como o discutido por LIMA
+e col. (2014). Informação semelhante sobre o impacto do PBF na VAN foi apresentada por
+COUTINHO e col. (2009), que observou que em 2008 apenas metade dos municípios brasileiros
+enviaram dados antropométricos para o SISVAN Web, enquanto 95% enviaram estes dados pelo
+sistema informatizado do Bolsa Família.
+Segundo o estudo de ESTRELLA e col. (2008), os municípios que têm IDHM mais baixos
+apresentam melhores resultados para o IGD-M, ou seja, são aqueles em que o acompanhamento
+das condicionalidades relacionadas ao PBF se desenvolveu de melhor forma e foi mais registrado.
+Uma vez que a média do IDHM dos DRS do estado de São Paulo ficou classificada como alta, esta
+é uma possível justificativa para que os dados de EN inseridos diretamente no SISVAN Web
+tenham representando parte significativa dos apresentados neste estudo. Entretanto, ao olhar a
+tabela de Frequência de registros de estado nutricional de crianças de 0 a 5 anos inseridos no
+SISVAN Web, provenientes ou não do Programa Bolsa Família por DRS no ano de 2010 (anexo),
+é possível observar que no DRS Barretos os registros encaminhados através do PBF representaram
+93% dos inseridos no sistema, e em outros DRS como Baixada Santista, Bauru, Campinas, Marília
+e Ribeirão Preto a presença destes foi superior a 80%. Segundo LINDERT e col. (2007) o maior
+impacto do acompanhamento dos beneficiários do Bolsa Família no SISVAN Web pode estar
+relacionado com o tamanho dos municípios, uma vez que municípios maiores tendem a apresentar
+22
+
+sistemas de informações próprios e baixa adesão ao SISVAN. Também pode se relacionar com o
+número de beneficiários do PBF presente em cada DRS.
+No presente estudo a média para o estado de São Paulo de estatura baixa para idade
+encontrada na população avaliada variou ao longo dos anos estudados, sendo maior em 2010
+(9,40%) e menor em 2012 (8,20%). Apesar da variação, esta média se manteve maior do que a
+obtida pela PNDS (2006), que ao analisar os dados referentes às crianças de 0 a 5 anos contidas em
+sua amostra observou uma presença média de 5,7% das crianças com estatura baixa para idade nos
+estados do sudeste, contudo ao olhar exclusivamente os dados de crianças da classe econômica
+mais baixa (classe E) apresentados pela PNDS (2006) a média de altura baixa para idade passa a
+ser de 10,9%. Uma vez que os dados contidos no SISVAN Web dizem respeito em sua maioria,
+como já discutido acima, a crianças beneficiárias do PBF, que são aquelas inseridas nos menores
+estratos de renda e que se encontram em maior risco nutricional, esta pode ser uma explicação para
+a presença de baixa estatura para idade verificada pelo estudo. Resultado semelhante foi obtido por
+JAIME e col. (2013), que avaliou o déficit de estatura para idade em crianças de até 59 meses
+beneficiárias do Programa Bolsa Família acompanhadas nas condicionalidades de saúde por
+macrorregião entre os anos de 2008 e 2012, e observou este déficit em 9,5% (ano de 2008) e 9,1%
+(ano de 2012) das crianças de 0 a 5 anos residentes na região sudeste.
+A prevalência de estatura baixa para a idade apresentada por DRS neste estudo (tabela 5)
+foi variável, chegando a atingir até 15,67 % das crianças (DRS Baixada Santista, 2008), enquanto
+a menor presença observada foi em 5,88% dos indivíduos (DRS Presidente Prudente, 2012). Essa
+alternância pode estar relacionada com a cobertura do SISVAN em cada DRS, possibilitando assim
+uma maior identificação dos agravos nutricionais. Além disso, outras características dos
+municípios que integram os DRS podem também influenciar na prevalência de déficit estatural,
+sendo que segundo a PNDS (2006) o retardo no crescimento foi ligeiramente mais frequente no
+meio rural, associando-se de maneira inversamente proporcional à escolaridade materna e a classe
+econômica da família. Os déficits antropométricos e a desnutrição em crianças menores de cinco
+anos no Brasil vêm sendo reduzidos gradualmente ao longo das últimas três décadas, muito devido
+às políticas sociais, como o PBF (JAIME e col., 2013), entretanto a desnutrição infantil permanece
+sendo um problema de Saúde Pública no Brasil, sendo que o risco de desnutrição infantil na
+população é virtualmente nulo quando déficits de altura x idade, de peso x idade e de peso x altura
+
+23
+
+estão presentes com frequência semelhante à encontrada na distribuição de referência (2,3% das
+crianças). (WHO, 1995).
+Uma das limitações do presente estudo é decorrente da impossibilidade de verificar relação
+de causa e efeito, devido ao delineamento do mesmo. Também deve-se considerar que o uso de
+dados secundários pode interferir nos resultados, devido à confiabilidade das informações, aos
+dados possivelmente sub-registrados, aos erros de coleta e digitação, entre outros. Além disso,
+conforme já citado, há limitações na composição dos indicadores de percentual de cadastramento
+e acompanhamento, pois foram considerados todos os municípios que incluíram pelo menos um
+registro durante cada ano estudado. Por fim, há a possibilidade de duplicação de registros de
+indivíduos cobertos pela saúde suplementar, pois existem beneficiários com mais de um plano de
+saúde, e o cadastro da ANS contabiliza o total de vínculos, desta forma, um beneficiário constará
+no cadastro tantas vezes quantos forem os vínculos que possuir com os planos de saúde (ANS,
+[s.d.]). Tal limitação pode ter contribuído para a subestimação da população usuária do SUS
+utilizada neste trabalho para composição do indicador de cobertura.
+
+CONCLUSÃO
+24
+
+O presente trabalho contribui para a avaliação do SISVAN, por meio da descrição dos dados
+nele registrados, fornecendo informações que podem auxiliar na realização de outros estudos que
+tenham por finalidade uma maior compreensão das necessidades em VAN.
+Os resultados obtidos demonstram que o SISVAN Web é utilizado em todos os municípios
+do estado de São Paulo e que houve progressão ao longo dos anos em sua cobertura com relação
+ao EN da população usuária do SUS, sendo esta expressiva em comparação a apresentada em outros
+estudos. Os avanços observados estão possivelmente vinculados à sensibilização sobre o sistema e
+suas funções que ocorreu concomitantemente a criação do SISVAN-SP. Além disso, a ausência de
+resultados estatisticamente significativos leva a inferir que a cobertura do estado nutricional está
+relacionada a outras variáveis diferentes das sociodemográficas e de saúde. E, por meio dos
+resultados verificados de estatura baixa para idade, foi possível observar que a desnutrição crônica
+segue presente nos municípios de São Paulo.
+Por fim, tendo em vista o atual cenário epidemiológico brasileiro, o qual apresenta a
+coexistência de sobrepeso e obesidade, desnutrição e carências de micronutrientes, a organização
+da VAN nos serviços de saúde dos territórios é uma demanda crescente e importante para o
+monitoramento e a avaliação desses agravos e seus determinantes (MINISTÉRIO DA SAÚDE,
+2015). Desta forma, é necessário não apenas que as ferramentas para a realização da VAN estejam
+disponíveis, mas que sigam sendo criadas condições que potencializem a sua utilização.
+
+REFERÊNCIAS
+
+25
+
+ANS - Agência Nacional de Saúde Suplementar (BR). Nota Técnica - Beneficiários [internet].
+[acesso em 07 jun 2016]. Disponível em: http://www.ans.gov.br/anstabnet/notas_beneficiario.htm
+Bragança DKCL; Acompanhamento Nutricional das Crianças do Sistema Bolsa Família na Saúde
+[dissertação]. Brasília: Faculdade de Ciências da Saúde da UnB; 2011.
+Carvalho AT, Almeida ER, Nilson EAF, Ubarana JA, Coutinho JG, Vianna RPT, Lima FEL.
+Situação nutricional de crianças menores de cinco anos em municípios do Nordeste brasileiro.
+Journal of Human Growth and Development. 2014; 24(2): 221-227 [acesso em 20 set 2016].
+Disponível em: http://pepsic.bvsalud.org/pdf/rbcdh/v24n2/pt_16.pdf
+Chagas DC, Silva AAM, Batista RFL, Simões VMF, Lamy ZC, Coimbra LC, Alves MTSSB.
+Prevalência e fatores associados à desnutrição e ao excesso de peso em menores de cinco anos nos
+seis maiores municípios do Maranhão [internet]. Rev. bras. Epidemiol. 2013; 16(1): 146-56 [acesso
+em 23 set 2016]. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415790X2013000100146
+Coutinho, JG, Cardoso AJC, Toral N, Silva ACF, Ubarana JA, Aquino KKNCA, Nilson EAF,
+Fagundes A, Vasconcellos AB. A organização da Vigilância Alimentar e Nutricional no Sistema
+Único de Saúde: histórico e desafios atuais [internet]. Rev. bras. Epidemiol. 2009; v. 12, n. 4, p.
+688-699
+[acesso
+em
+10
+jul
+2016].
+Disponível
+em:
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-790X2009000400018
+Damé PKV, Pedroso MRO, Marinho CL, Gonçalves VM, Duncan BB, Fisher PD, et al. Sistema
+de Vigilância Alimentar e Nutricional (SISVAN) em crianças do Rio Grande do Sul, Brasil:
+cobertura, estado nutricional e confiabilidade dos dados [internet]. Cad Saúde Pública.
+2011;27(11):2155-2165
+[acesso
+em
+10
+jul
+2016].
+Disponível
+em:
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2011001100009
+DATASUS - Departamento de informação do SUS (BR). Informações em Saúde [internet].[acesso
+em 07 jun 2016]. Disponível em: http://datasus.saude.gov.br/informacoes-de-saude/tabnet
+Enes CC, Loiola H, Oliveira, MRM. Cobertura populacional do Sistema de Vigilância Alimentar
+e Nutricional no Estado de São Paulo, Brasil [internet]. Ciên Saúde Colet. 2014 [acesso em 10 jul
+2016].
+Disponível
+em:
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S141381232014000501543
+Estrella J, Ribeiro LM. Qualidade da gestão das condicionalidades do Programa Bolsa Família:
+uma discussão sobre o índice de gestão descentralizada [internet]. Rev de Administração Pública.
+2008;42
+(3):
+625-641
+[acesso
+em
+20
+set
+2016].
+Disponível
+em:
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-76122008000300009
+IBGE - Instituído Brasileiro de Geografia e Estatística. Censo Demográfico 2010. [Internet].
+[acesso
+em
+05
+Jul
+2016].
+Disponível
+em:
+http://www.ibge.gov.br/home/estatistica/populacao/censo2010/default.shtm.
+26
+
+IPEA - Instituto de Pesquisa e Economia Aplicada, Programa das Nações Unidas Para o
+Desenvolvimento, Fundação João Pinheiro. Atlas do Desenvolvimento Humano no Brasil
+[internet].
+[acesso
+em
+05
+Jul
+2016].
+Disponível
+em:
+http://www.atlasbrasil.org.br/2013/pt/o_atlas/o_atlas_
+Jaime PC, Vaz ACN, Nilson EAF, Fonseca JSC, Guadagnin SC, Silva SA, Souza MF, Santos LMP.
+Desnutrição Em Crianças De Até Cinco Anos Beneficiárias Do Programa Bolsa Família: Análise
+Transversal E Painel Longitudinal De 2008 A 2012. Cadernos de Estudos - Desenvolvimento
+Social em Debate. Brasília (DF), 2013.
+Jaime PC, Santos LMP. Transição nutricional e a organização do cuidado em alimentação e
+nutrição na Atenção Básica em saúde [internet]. Rev Divulgação em Saúde para Debate. 2014 (51):
+72-85 [acesso em 10 jul 2016]. Disponível em: http://cebes.org.br/site/wpcontent/uploads/2014/12/Divulgacao-51.pdf
+Jung NM, Bairros FS, Neutzling MB. Utilização e cobertura do Sistema de Vigilância Alimentar e
+Nutricional no Estado do Rio Grande do Sul, Brasil [internet]. Ciên Saúde Colet. 2014;19(5):13791388
+[acesso
+em
+01
+set
+2016].
+Disponível
+em:
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-81232014000501379
+Lei DLM, Chaves SP, Saldiva SRDM, Stefanini MLR. O Sistema de Vigilância Alimentar e
+Nutricional. Boletim do Instituto de Saúde. 2002; 26:4-8.
+Lima AMC, Maia MQ, Santin RC, Campos MPFF, Jaime PC, França KM, Arsky DS, Oliveira
+MEPM, Pinheiro CMFL. O Desempenho do Setor Saúde No Acompanhamento das
+Condicionalidades do Programa Bolsa Família. Cadernos de Estudos - Desenvolvimento Social em
+Debate. Brasília (DF), 2014.
+Lindert K. Linder A, Hobbs J, Brière B. The Nuts and Bolts of Brazil’s Bolsa Família Program:
+Implementing Conditional Cash Transfers in a Decentralized Context [internet]. SP Discussion
+Paper.
+2007;709
+[acesso
+em
+20
+set
+2016].
+Disponível
+em:
+http://siteresources.worldbank.org/INTLACREGTOPLABSOCPRO/Resources/BRBolsaFamilia
+DiscussionPaper.pdf
+Ministério da Saúde (BR), Secretaria de Ciência, Tecnologia e Insumos Estratégicos,
+Departamento de Ciência e Tecnologia. Pesquisa Nacional de Demografia e Saúde da Criança e
+Da Mulher [internet]. Brasília (DF); 2008 [acesso em 22 set 2016]. Disponível em:
+http://bvsms.saude.gov.br/bvs/pnds/img/relatorio_final_PNDS2006_04julho2008.pdf
+Ministério da Saúde (BR), Secretaria de Atenção à Saúde, Departamento de Atenção Básica.
+Manual de orientações sobre o Bolsa-Família na Saúde [internet]. Brasília (DF); 2009 [acesso em
+20
+set
+2016].
+Disponível
+em:
+http://bvsms.saude.gov.br/bvs/publicacoes/manual_orientacao_sobre_bolsa_familia.PDF
+Ministério da Saúde (BR), Secretaria de Atenção à Saúde, Departamento de Atenção Básica.
+Política Nacional de Alimentação e Nutrição [internet]. Brasília (DF); 2012a [acesso em 05 jul
+27
+
+2016].
+Disponível
+http://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_alimentacao_nutricao.pdf
+
+em:
+
+Ministério da Saúde (BR), Departamento de Atenção Básica. Programa de Melhoria do Acesso e
+da Qualidade da Atenção Básica (PMAQ-AB) [internet]. Brasília (DF); 2012b [acesso em 23 set
+2016]. Disponível em: http://dab.saude.gov.br/portaldab/ape_pmaq.php?conteudo=1_ciclo
+Ministério da Saúde (BR), Departamento de Atenção Básica. Programa de Melhoria do Acesso e
+da Qualidade da Atenção Básica (PMAQ-AB) [internet]. Brasília (DF); 2014 [acesso em 23 set
+2016]. Disponível em: http://dab.saude.gov.br/portaldab/ape_pmaq.php?conteudo=1_ciclo
+Ministério da Saúde (BR), Secretaria de Atenção à Saúde, Departamento de Atenção Básica. Marco
+de Referência da Vigilância Alimentar e Nutricional na Atenção Básica [internet]. Brasília (DF);
+2015
+[acesso
+em
+05
+jul
+2016].
+Disponível
+em:
+http://bvsms.saude.gov.br/bvs/publicacoes/marco_referencia_vigilancia_alimentar.pdf
+Ministério da Saúde (BR), Departamento de Atenção Básica. Programa Bolsa Família [internet].
+Brasília
+(DF);
+[s.d]
+[acesso
+em
+20
+set
+2016].
+Disponível
+em:
+http://dab.saude.gov.br/portaldab/ape_bfa.php
+Ministério da Saúde (BR), Departamento de Atenção Básica. Sistema de Vigilância Alimentar e
+Nutricional [internet]. Brasília (DF); [s.d] [acesso em 20 set 2016]. Disponível em:
+http://dabsistemas.saude.gov.br/sistemas/sisvan/relatorios_publicos/relatorios.php
+Ministério do Desenvolvimento Social e Combate à Fome (BR), Secretaria Nacional de Renda e
+Cidadania, Departamento de Operações, Coordenação-geral de apoio à Gestão Descentralizada.
+Manual do Índice de Gestão Descentralizada Municipal do Programa Bolsa Família e do Cadastro
+Único [internet].
+Brasília (DF); 2016 [acesso em 20 set 2016]. Disponível em:
+http://www.mds.gov.br/webarquivos/publicacao/bolsa_familia/Guias_Manuais/ManualIGD.pdf
+Monteiro F, Schimidt ST, Costa IB, Almeida CCB, Matuda NS. Bolsa Família: insegurança
+alimentar e nutricional de crianças menores de cinco anos. Rev. Ciência e Saúde Coletiva 2014;
+19(5):1347-1357
+[acesso
+em
+05
+out
+2016].
+Disponível
+em:
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-81232014000501347
+
+Venâncio SI, Levy RB, Saldiva SRDM, Mondini L, Stefanini MLR. Sistema de Vigilância
+Alimentar e Nutricional no Estado de São Paulo, Brasil: experiência na implementação e avaliação
+do estado nutricional de crianças [internet]. Rev Bras Saúde Matern Infant. 2007;7:213-20 [acesso
+em 07 Jul 2016]. Disponivel em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S151938292007000200012
+WHO - World Health Organization. Physical status: the use and interpretation of anthropometry
+[internet].
+WHO.
+1995
+[acesso
+em
+20
+set
+2016].
+Disponível
+em:
+http://www.who.int/childgrowth/publications/physical_status/en/
+28
+
+ANEXO
+
+Tabela 5 - Frequência de registros de estado nutricional de crianças de 0 a 5 anos inseridos no SISVAN
+Web, provenientes ou não do Programa Bolsa Família por DRS no ano de 2010
+
+29
+
+%
+
+Média de
+registros
+provenientes
+PBF (n)
+
+%
+
+Média de registros
+de EN independentes
+do PBF (n)
+
+%
+
+1.822
+
+100
+
+1.439
+
+78,98
+
+383
+
+21,02
+
+II - Araçatuba
+
+273
+
+100
+
+171
+
+62,67
+
+102
+
+37,33
+
+III - Araraquara
+
+307
+
+100
+
+227
+
+73,94
+
+80
+
+26,06
+
+1.671
+
+100
+
+1.384
+
+82,84
+
+287
+
+17,16
+
+V - Barretos
+
+238
+
+100
+
+222
+
+93,28
+
+16
+
+6,72
+
+VI - Bauru
+
+280
+
+100
+
+228
+
+81,43
+
+52
+
+18,57
+
+VII - Campinas
+
+558
+
+100
+
+495
+
+88,71
+
+63
+
+11,29
+
+VIII - Franca
+
+442
+
+100
+
+341
+
+77,15
+
+101
+
+22,85
+
+IX - Marília
+
+222
+
+100
+
+178
+
+80,08
+
+44
+
+19,92
+
+X - Piracicaba
+
+778
+
+100
+
+345
+
+44,36
+
+433
+
+55,64
+
+XI - Presidente Prudente
+
+272
+
+100
+
+159
+
+58,47
+
+113
+
+41,53
+
+XII - Registro
+
+420
+
+100
+
+282
+
+67,09
+
+138
+
+32,91
+
+XIII - Ribeirão Preto
+XIV - São João da Boa
+Vista
+
+421
+
+100
+
+358
+
+85,14
+
+63
+
+14,86
+
+301
+
+52,70
+
+270
+
+XV - São José do Rio Preto
+
+206
+
+100
+
+94
+
+45,71
+
+112
+
+54,29
+
+XVI - Sorocaba
+
+611
+
+100
+
+404
+
+66,10
+
+207
+
+33,90
+
+672
+
+100
+
+489
+
+72,73
+
+183
+
+27,27
+
+DRS
+
+I - Grande São Paulo
+
+IV - Baixada Santista
+
+XVII - Taubaté
+
+Média de
+registros
+de EN (n)
+
+571
+
+100
+
+47,30
+
+30
+
+

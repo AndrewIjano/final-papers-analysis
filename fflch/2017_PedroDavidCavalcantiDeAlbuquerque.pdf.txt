@@ -1,0 +1,3384 @@
+i
+
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE GEOGRAFIA
+
+PEDRO DAVID CAVALCANTI DE ALBUQUERQUE
+
+ANÁLISE DA DISTRIBUIÇÃO DE FARMÁCIAS CADASTRADAS NO
+PROGRAMA FARMÁCIA POPULAR E O ÍNDICE PAULISTA DE
+VULNERABILIDADE SOCIAL NOS DISTRITOS DO MUNICÍPIO DE
+SÃO PAULO
+
+São Paulo
+2017
+
+ii
+
+PEDRO DAVID CAVALCANTI DE ALBUQUERQUE
+
+ANÁLISE DA DISTRIBUIÇÃO DE FARMÁCIAS CADASTRADAS NO
+PROGRAMA FARMÁCIA POPULAR E O ÍNDICE PAULISTA DE
+VULNERABILIDADE SOCIAL NOS DISTRITOS DO MUNICÍPIO DE
+SÃO PAULO
+
+Trabalho de Graduação Individual
+apresentado ao Departamento de Geografia
+da Faculdade de Filosofia Letras e Ciências
+Humana da Universidade de São Paulo para
+obtenção do título de bacharel em Geografia.
+
+Orientadora Prof ª Dr ª Ligia Vizeu Barrozo
+
+São Paulo
+2017
+
+iii
+
+Autorizo a reprodução e divulgação total ou parcial deste trabalho, por qualquer meio
+convencional ou eletrônico, para fins de estudo e pesquisa, desde que citada a
+fonte.
+
+Catalogação na Publicação
+Serviço de Biblioteca e Documentação
+Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo
+Albuquerque, Pedro David Cavalcanti
+Análise da Distribuição de Farmácias Cadastradas no Programa Farmácia
+Popular e o Índice Paulista de Vulnerabilidade Social nos Distritos de São
+Paulo / Pedro David Cavalcanti de Albuquerque; orientadora Ligia Vizeu
+Barrozo. – São Paulo 2017.
+84 f
+TGI (Trabalho de Graduação Individual) – Faculdade de Filosofia, Letras e
+Ciências Humanas da Universidade de São Paulo. Departamento de
+Geografia. Área de Concentração: Geografia Cartográfica.
+1. PROGRAMA FARMÁCIA POPULAR. 2.ÍNDICE PAULISTA DE
+VULNERABILIDADE SOCIAL (IPVS). 3.GEOGRAFIA CARTOGRÁFICA. 4. MAPAS.
+I. Barrozo, Ligia Vizeu, oriente. II
+
+iv
+
+Nome: ALBUQUERQUE, Pedro David Cavalcanti
+Título: Análise da Distribuição de Farmácias Cadastradas no Programa
+Farmácia Popular e o Índice Paulista de Vulnerabilidade Social nos Distritos
+do Município de São Paulo
+
+Trabalho
+de
+Graduação
+Individual
+apresentado
+ao
+Departamento de Geografia da
+Faculdade de Filosofia Letras e
+Ciências Humana da Universidade de
+São Paulo para obtenção do título de
+bacharel em Geografia.
+
+Aprovado em:
+Banca Examinadora
+
+Prof.Dr.: ________________________________Instituição: _______________
+Julgamento: ______________________________Assinatura: _____________
+Prof.Dr.: ________________________________Instituição: _______________
+Julgamento: ______________________________Assinatura: _____________
+Prof.Dr.: ________________________________Instituição: _______________
+Julgamento: ______________________________Assinatura: _____________
+
+v
+
+AGRADECIMENTOS
+A minha noiva, e futura esposa, Camila Guedis Farah por todo companheirismo,
+amizade, dedicação, ensinamentos, amor, com a qual ficarei sempre junto.
+A minha mãe, Sonia Regina Suarez David, que me criou com todo amor e carinho,
+sem medir esforços para que eu pudesse me tornar a pessoa que sou.
+A minha irmã que sempre me apoiou em todos os momentos da minha vida.
+A minha vó Lola e vô Tenório, pôr todos os ensinamentos de vida e proporcionar
+incríveis férias na sua casa.
+A minha avó Lolita, por sempre me receber e ter uma palavra de bondade.
+Aos meus sobrinhos, por através da inocência de crianças me proporcionarem uma
+visão mais leve da vida.
+Por fim agradecimento especial a Prof ª Dr ª Ligia Vizeu Barrozo, por todo apoio e
+generosidade em suas orientações, que fez toda a diferença na idealização e
+execução deste TGI.
+
+vi
+
+RESUMO
+
+ALBUQUERQUE, Pedro David Cavalcanti. Correlação entre volume de farmácias
+cadastradas no
+
+Programa Farmácia Popular e o Índice Paulista de Vulnerabilidade
+
+Social nos distritos do Município de São Paulo. 2017. 84f. Trabalho de Graduação
+Individual – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São
+Paulo, São Paulo, 2017.
+
+Este trabalho tem por objetivo a análise da eficiência do Programa Farmácia
+Popular com relação a sua abrangência no município de São Paulo. Considerando a
+incidência de farmácias cadastradas nos distritos de acordo com a vulnerabilidade
+social, medida pelo Índice Paulista de Vulnerabilidade Social (IPVS).
+Ou seja, verificar a área de captação do programa perante a população
+residente e o perfil socioeconômico.
+Os resultados deste estudo evidenciam a importância de se incluir um estudo
+territorial na implantação de políticas públicas para melhor eficiência, visando a
+equidade de acesso da população aos investimentos. Contribuindo para melhor
+análise dos locais mais necessitados de novos pontos de venda cadastrados no
+Programa Farmácia Popular.
+
+Palavras-chave: Programa Farmácia Popular. Índice Paulista de Vulnerabilidade
+Social. Distritos de São Paulo.
+
+vii
+
+ABSTRACT
+
+ALBUQUERQUE, Pedro David Cavalcanti. Correlation between the volume of
+pharmacies registered in the Popular Pharmacy Program and the São Paulo Social
+Vulnerability Index in the districts of the Municipality of São Paulo. 2017. 84f. Trabalho
+de Graduação Individual – Faculdade de Filosofia, Letras e Ciências Humanas,
+Universidade de São Paulo, São Paulo, 2017.
+
+This work aims to analyze the efficiency of the Popular Pharmacy Program in
+relation to its coverage in the county of São Paulo. Considering the incidence of
+registered pharmacies in districts according to social vulnerability, as measured by the
+Paulista Social Vulnerability Index (IPVS).
+That is, to verify the catchment area of the program in front of the resident population
+and the socioeconomic profile.
+The results of this study highlight the importance of including a territorial study in the
+implementation of public policies for better efficiency, aiming at the equity of the
+population 's access to investments. Contributing to a better analysis of the most needy
+locations of new points of sale registered in the Popular Pharmacy Program.
+Keywords: Popular Pharmacy Program. Paulista Index of Social Vulnerability. Districts
+of São Paulo.
+
+viii
+
+LISTA DE MAPAS
+
+Mapa 1 – Número de Farmácia Popular por Distrito Zona Sul – SP.............................20
+Mapa 2 – Farmácia Popular por Habitante Distrito Zona Sul – SP...............................21
+Mapa 3 – Índice Paulista de Vulnerabilidade Social Zona Sul – SP.............................22
+Mapa 4 – Número de Farmácia Popular por Distrito Zona Leste – SP.........................31
+Mapa 5 – Farmácia Popular por Habitante Distrito Zona Leste – SP...........................32
+Mapa 6 – Índice Paulista de Vulnerabilidade Social Zona Leste – SP.........................33
+Mapa 7 – Número de Farmácia Popular por Distrito Zona Norte – SP.........................43
+Mapa 8 – Farmácia Popular por Habitante Distrito Zona Norte – SP...........................44
+Mapa 9 – Índice Paulista de Vulnerabilidade Social Zona Norte – SP.........................45
+Mapa 10 – Número de Farmácia Popular por Distrito Zona Oeste – SP......................52
+Mapa 11 – Farmácia Popular por Habitante Distrito Zona Oeste – SP........................53
+Mapa 12 – Índice Paulista de Vulnerabilidade Social Zona Oeste – SP.......................54
+Mapa 13 – Número de Farmácia Popular por Distrito Zona Centro – SP.....................60
+Mapa 14 – Farmácia Popular por Habitante Distrito Zona Centro – SP.......................61
+Mapa 15 – Índice Paulista de Vulnerabilidade Social Zona Centro – SP.....................62
+
+ix
+
+LISTA DE QUADROS
+
+Quadro 1 – Faixas de Classificação Índice Paulista de Vulnerabilidade Social (IPVS
+– 2010) ......................................................................................................................14
+Quadro 2 – Dados Programa Farmácia Popular, Índice Paulista de Vulnerabilidade
+Social e dados sócio demográficos Zona Sul – SP....................................................23
+Quadro 3 – Distribuição dos setores censitários da Zona Sul de acordo com a
+classificação no Índice Paulista de Vulnerabilidade Social – SP...............................24
+Quadro 4 – Dados Programa Farmácia Popular, Índice Paulista de Vulnerabilidade
+Social e dados sócio demográficos Zona Leste – SP................................................34
+Quadro 5 – Distribuição dos setores censitários da Zona Leste de acordo com a
+classificação no Índice Paulista de Vulnerabilidade Social – SP...............................35
+Quadro 6 – Dados Programa Farmácia Popular, Índice Paulista de Vulnerabilidade
+Social e dados sócio demográficos Zona Norte – SP................................................46
+Quadro 7 – Distribuição dos setores censitários da Zona Norte de acordo com a
+classificação no Índice Paulista de Vulnerabilidade Social – SP...............................47
+Quadro 8 – Dados Programa Farmácia Popular, Índice Paulista de Vulnerabilidade
+Social e dados sócio demográficos Zona Oeste – SP...............................................55
+Quadro 9 – Distribuição dos setores censitários da Zona Oeste de acordo com a
+classificação no Índice Paulista de Vulnerabilidade Social – SP...............................56
+Quadro 10 – Dados Programa Farmácia Popular, Índice Paulista de Vulnerabilidade
+Social e dados sócio demográficos Zona Centro – SP..............................................63
+Quadro 11 – Distribuição dos setores censitários da Zona Centro de acordo com a
+classificação no Índice Paulista de Vulnerabilidade Social – SP...............................64
+Quadro 12 – Soma de Índice de Farmácias cadastradas no Programa Farmácia
+Popular dividido pelo total de distritos da região........................................................67
+
+x
+
+LISTA DE SIGLAS
+
+Organização Mundial da Saúde..............................................................................OMS
+Programa Farmácia Popular....................................................................................PFP
+Instituto Brasileiro de Geografia e Estatística.........................................................IBGE
+Índice Paulista de Vulnerabilidade Social...............................................................IPVS
+Fundação Sistema Estadual de Análise de Dados..............................................SEADE
+Índice farmácias cadastradas Programa Farmácia Popular dividido pela população,
+vezes 10.000....................................................................................................PFP/Hab
+
+xi
+
+SUMÁRIO
+
+1.INTRODUÇÃO........................................................................................................01
+1.1 Embasamento Teórico...............................................................................08
+1.2 Programa Farmácia Popular......................................................................08
+1.3 Índice Paulista de Vulnerabilidade Social...................................................11
+2. PROCEDIMENTOS METODOLÓGICOS E DESENVOLVIMENTO.......................15
+2.1 Zona Sul ....................................................................................................19
+2.2 Zona Leste.................................................................................................30
+2.3 Zona Norte.................................................................................................42
+2.4 Zona Oeste.................................................................................................51
+2.5 Centro........................................................................................................59
+3.CONSIDERAÇÕES FINAIS....................................................................................67
+REFERÊNCIAS.......................................................................................................70
+
+1
+
+1.Introdução
+Em 1978, ocorreu a assinatura da Declaração de Alma-Ata, a primeira
+declaração internacional que despertou e destacou a seriedade da atenção primária
+em saúde, que desde então vem sendo defendida por órgãos como a OMS
+mundialmente (OMS, 2010).
+A promoção e proteção da saúde são aspectos essenciais para o bem-estar do
+homem e para o desenvolvimento econômico e social sustentável, contribuindo não
+só para melhor qualidade de vida como também para outros fatores indiretos dentro
+de uma sociedade (OMS, 1978). Não é de se estranhar, que as pessoas na maioria
+dos países classifiquem a saúde como uma das suas maiores prioridades, sendo
+ultrapassada apenas pelas preocupações econômicas, tais como desemprego, baixos
+salários, inflação, ou alto custo de vida (KFF, 2007).
+Conforme a OMS a Resolução 58.33 da Assembleia Mundial da Saúde de 2005
+diz que todos devem ter acesso a serviços de saúde sem necessidade de sacrifícios
+financeiros (OMS, 2010, p.12).
+E que os governos devem assegurar a disponibilidade de um leque de serviços
+de prevenção e promoção de base populacional, garantindo que todos tenham acesso
+a estes serviços, sem que exista um risco financeiro associado ao seu uso.
+A importância do financiamento suficiente fica clara quando nos deparamos
+com pacientes que são obrigados a escolher entre pagar por serviços de saúde e
+outras necessidades básicas, como a alimentação ou a educação dos filhos (OMS,
+2010, p.16). Obrigar as pessoas a pagar no momento e local da prestação de serviços
+desencoraja-as de utilizar os mesmos, particularmente aqueles de prevenção da
+doença e promoção da saúde, e encoraja-os a adiar a realização de exames e
+consultas periódicos (PREKER,2004). Agregando assim o número de pessoas que
+buscam o auto tratamento e automedicação e por vezes impossibilitando a
+constatação de doenças em suas fases iniciais, o que gera um risco eminente à saúde
+do paciente. Significa dizer que os mesmos não recebem tratamento nas etapas mais
+precoces das doenças, quando as probabilidades de cura são maiores.
+
+2
+
+Assim é quase impossível aproximarmo-nos da cobertura universal se o acesso
+aos serviços no momento de a doença exigir sacrifícios financeiros ou for dificultado
+pelo custo dos serviços e tratamentos (OMS, 2010, p.16).
+Os governos têm a responsabilidade de assegurar que todos os prestadores,
+públicos e privados, operam de modo apropriado e atendem às necessidades dos
+pacientes do modo mais eficaz e eficiente.
+Porém quase todos os países impõem alguma forma de pagamento direto ao
+paciente, por vezes chamados também de copagamento, gerando por vezes,
+situações em que apenas os mais ricos têm acesso a um nível adequado de serviços,
+enquanto em outros apenas os mais pobres são excluídos, ou alguns grupos de
+pessoas são ignorados pelas falhas na maioria dos sistemas, e os padrões de
+exclusão dos serviços não são homogêneos, sendo necessário um estudo detalhado
+da abrangência de cada sistema (OMS, 2010).
+Atualmente, há milhões de pessoas que não podem usar serviços de saúde
+porque precisam pagar para ter acesso a eles. Muitos ainda os utilizam com grande
+sacrifício financeiro, ou ficam mesmo abaixo do nível da pobreza quando têm de os
+pagar. Foi estimado que uma elevada proporção dos 1,3 bilhões de pobres do mundo
+não tem acesso a serviços de saúde simplesmente porque não se podem permitir
+pagar no momento em que necessitam dos serviços (PREKER,2004).
+Existem estimativas que demonstram que a proporção de pessoas que gastam
+diretamente mais de 40% do seu rendimento em saúde anualmente (depois de deduzir
+as despesas em alimentação), pode ser superior a 11% por ano, ao nível nacional e,
+tipicamente, mais de 2% nos países de rendimento baixo (OMS, 2010, p.44).
+Os pagamentos diretos não são apenas um obstáculo ao uso de serviços de
+saúde e uma causa de stress financeiro, mas conduzem também a uma utilização
+ineficiente e desigual dos recursos. Encorajando o abuso por aqueles que podem
+pagar e a subutilização por aqueles que não podem, agregando ainda mais o quadro
+de
+
+desigualdade
+
+social facilmente visto em países menos desenvolvidos
+
+(CARRIN,2005).
+Daqui resulta que a saúde se transforma frequentemente num tema político, à
+medida que os governos tentam responder às expectativas da população.
+
+3
+
+A prioridade que os governos dão à saúde nos seus orçamentos, geralmente
+reflete o grau de preocupação com a saúde do seu povo. Tratar da cobertura universal
+de saúde também significa tratar dos pobres e marginalizados, pessoas que
+frequentemente são politicamente excluídas e sem representação (OMS,2010, p.25).
+No Brasil, somente em 1988 perante a constituição houve uma inovação com
+relação ao conceito de seguridade social, onde dentre outros elementos ficou
+determinado como direito social de todos os cidadãos brasileiros a saúde, sendo que
+o mesmo documento declarou que seria dever do Estado garantir o acesso universal
+e igualitário à mesma, conforme destacado abaixo:
+“Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante
+políticas sociais e econômicas que visem à redução do risco de doença e de
+outros agravos e ao acesso universal e igualitário às ações e serviços para sua
+promoção, proteção e recuperação.”
+“Art. 198. As ações e serviços públicos de saúde integram uma rede
+regionalizada e hierarquizada e constituem um sistema único, organizado de
+acordo com as seguintes diretrizes:
+I - descentralização, com direção única em cada esfera de governo;
+II - atendimento integral, com prioridade para as atividades preventivas, sem
+prejuízo dos serviços assistenciais;
+III - participação da comunidade.” (BRASIL. Constituição, 1988)
+
+Diante das mudanças indicadas, ficou imposta uma transformação radical no
+sistema de saúde brasileiro, que buscou se enquadrar nas novas diretrizes e princípios
+de organização instituídos pela Constituição.
+Foi neste cenário que em 1990 ocorreu a regulamentação do SUS – Sistema
+Único de Saúde do Brasil, uma política do Estado que amplia os direitos sociais e
+busca assegurar a cidadania, compreendendo a saúde não mais apenas como a
+ausência de doenças e sim como qualidade de vida (MINISTÉRIO DA SAÚDE, 2009).
+Assim o sistema público de saúde que antes atendia apenas quem contribuía
+para a previdência social passou a atender a todos sem discriminação, onde a
+responsabilidade deixou de ser centralizada na esfera Federal e começou a vigorar
+de forma regionalizada, em cada Município (FINKELMAN, 2002).
+
+4
+
+Apesar da criação do SUS, o espaço para outras modalidades de organização
+dos serviços foi mantido. Criou-se um sistema de acesso universal, baseado no
+financiamento público, mas foi mantida a liberdade de organização da iniciativa
+privada e não foram desativados os serviços para servidores públicos, do executivo,
+legislativo e judiciário, que são custeados, em boa parte, com recursos públicos.
+Porém nas últimas décadas, o Brasil, assim como outros países em
+desenvolvimento, vem sofrendo grandes alterações na composição etária de sua
+população. Isso somado aos avanços da medicina e novos tratamentos
+farmacêuticos, vem transformando o perfil epidemiológico da população, e
+consequente alteração do quadro de morbimortalidade. Em menos de 50 anos,
+passamos de um perfil de doenças infectocontagiosas, característico de uma
+população jovem, para um cenário de doenças crônicas, complexas e onerosas,
+típicas de faixas etárias mais avançadas. Verificamos assim o aumento de casos de
+hipertensão arterial sistêmica, diabetes, dislipidemia, mal de Parkinson e osteoporose
+(IBGE,2014).
+Atrelado a isto temos que os medicamentos representam de 20 a 30% das
+despesas globais em saúde, isto é devido por diversos fatores, conforme
+exemplificado no Relatório Mundial da Saúde publicado pela OMS em 2010 que
+abaixo demonstramos (OMS,2010, p.67):
+
+
+A subutilização de genéricos;
+
+
+
+Preços de medicamentos mais caros que o necessário, causado por médicos
+com vício de prescrição em medicamentos específicos;
+
+
+
+Medicamentos contrafeitos ou de qualidade inferior, derivados da estrutura
+ineficaz de regulação farmacêutica;
+
+
+
+E por último, mas não menos importante, intervenções estratégicas
+inapropriadas e ineficientes com elevado custo e baixos resultados.
+Diante dos fatores expostos acima, e com o aumento de demanda da procura
+
+por medicamentos destinados a suprir estas doenças que afetam principalmente as
+pessoas de maior idade, o Governo Federal do Brasil em busca de suprir este gargalo,
+lança em 2004 o programa Farmácia Popular.
+
+5
+
+Este programa foi criado com o objetivo de que os usuários dos medicamentos
+tenham o acesso facilitado, com menor custo, reduzindo assim o impacto no
+orçamento familiar causado pela compra de remédio, ampliando a promoção dos
+tratamentos e diminuindo os gastos do SUS com as internações que são provocadas
+pelo abandono da medicação (MINISTÉRIO DA SAÚDE, 2015).
+Porém estas não são as únicas maneiras de promover e manter a saúde,
+algumas inclusive ficam aquém dos limites do setor da saúde.
+A remoção das barreiras financeiras com a criação do SUS, ou a facilidade e o
+custeio de medicamentos realizado pelo programa farmácia popular têm ajudado as
+pessoas mais carentes financeiramente a obter cuidados, mas não o garantem.
+Estudos recentes sobre o tratamento de doenças crônicas, demonstram que as
+pessoas não completam o tratamento, pois os custos de transportes, acomodação e
+o rendimento perdido podem ser ainda mais proibitivos que as taxas cobradas pelo
+serviço (OMS, 2010, p19).
+A disponibilização de cuidados de saúde gratuitos nas instalações
+governamentais corresponde apenas a parte do caminho para reduzir as barreiras ao
+acesso à saúde. Em alguns países, é mesmo uma parte bastante reduzida.
+Mesmo que seja relativamente baixa, qualquer tipo de taxa de utilização
+imposta diretamente às famílias pode desencorajar a utilização dos serviços de saúde
+ou impulsionar as pessoas para o endividamento (COHEN, 2010). Mais ainda, se os
+serviços não estiverem disponíveis, ou pelo menos a distância aceitável, as pessoas
+não os podem usar, mesmo que sejam gratuitos.
+Além disto é possível identificar a relutância dos mais pobres em procurarem a
+isenção ou o subsídio devido ao medo de serem estigmatizados ou a forma como os
+profissionais da saúde, por vezes, tratam os beneficiados destes programas (OMS,
+2010, p.47).
+Uma das opções mais óbvias é investir nos cuidados primários, assegurando
+que todos tenham um acesso físico fácil e sem encargos aos serviços de saúde. Isto
+significa correr o risco de ter custos potencialmente mais elevados e maior ineficiência,
+por exemplo se forem atribuídos benefícios aos não-pobres, que, devido a sua
+educação ou contatos, são mais capazes de aceder a esses benefícios.
+
+6
+
+Contudo, em áreas onde as barreiras ao acesso são substanciais, por exemplo,
+áreas rurais isoladas e pobres – os vouchers, ou até mesmo uma política de
+reembolso podem ser a única forma de assegurar, no curto prazo, o acesso no tempo
+adequado aos cuidados de saúde (OMS,2010, p.56).
+As circunstâncias em que as pessoas crescem, vivem, trabalham e envelhecem
+influenciam fortemente como as pessoas vivem e morrem, a educação, habitação,
+alimentação e emprego influenciam a saúde (OMS, 2008). Reduzir as desigualdades
+nestes fatores pode reduzir as desigualdades no acesso aos serviços saúde.
+Assim não é possível certificar o direito de saúde de todos os cidadãos, de uma
+maneira uniforme, sem um sistema de financiamento de saúde bem articulado, que
+permita às pessoas usar os serviços de saúde quando deles precisam. Contudo, o
+restabelecimento da igualdade requer mais do que bons sistemas de financiamento
+da saúde. E necessário um conjunto mais abrangente de iniciativas, paralelas ao setor
+da saúde, relacionadas principalmente com os determinantes socioeconômicos.
+O progresso no direito geral de saúde da população e na cobertura das
+intervenções, necessita ser avaliado em relação às desigualdades verificadas em
+cada área, estabelecendo ações adaptadas à realidade de seus usuários.
+Dito isto, não é difícil concluir, que nenhum sistema de saúde pode assegurar
+uma cobertura equitativa sem mecanismos de estudo socioeconômico de sua
+abrangência.
+Assim iremos aqui tratar de uma pequena parte deste sistema, o programa
+farmácia popular e sua abrangência no território do município de São Paulo e sua
+correlação com o Índice Paulista de Vulnerabilidade Social, estudo encomendado pelo
+governo estadual de São Paulo lançado em 2012, que visa analisar a vulnerabilidade
+socioeconômica da sua população (SEADE, IPVS, 2010).
+O município de São Paulo foi escolhido, pois dentro do seu território temos as
+mais abrangentes realidades socioeconômicas, desde áreas com alta renda, baixa
+densidade demográfica até uma realidade extremamente oposta (baixa renda e
+altíssima densidade demográfica). Além do mais, o acesso à informação e
+fornecimento de dados sobre este município encontra-se mais robusto em
+comparação a outros.
+
+7
+
+Já a utilização do IPVS como parâmetro de vulnerabilidade foi escolhida pois
+trata-se de um índice oficial, que abrange um número maior de aspectos para
+determinação de suas análises, extrapolando as dimensões socioeconômicas, como
+análise da renda para outros aspectos demográficos, como por exemplo a estrutura
+familiar (SEADE, IPVS, 2010).
+Demonstrando assim resultados mais condizentes com os aspectos de
+qualidade de vida instituídos neste trabalho, possibilitando uma visão mais adequada
+do grau de vulnerabilidade das áreas a serem estudas.
+
+8
+
+1.1 - Embasamento Teórico
+Tendo em vista o objetivo deste trabalho, será analisado aqui a relação
+entre a distribuição das farmácias populares e a vulnerabilidade social segundo o
+Índice Paulista de Vulnerabilidade Social – IPVS.
+A escolha destes dois pilares para embasamento deste trabalho foi
+determinada de modo que seja permitida a visualização no resultado final do alcance
+da medida pública analisada em relação às áreas mais necessitadas segundo dados
+oficiais.
+Sendo assim, primeiramente trataremos das competências das duas vertentes
+definidas acima que serviram de estrutura para nossas análises.
+
+1.2 - O programa farmácia popular
+Com o intuito de assegurar medicamentos básicos e essenciais à população,
+além de implementar ações que promovam a universalização do alcance aos
+medicamentos para as doenças com maior incidência entre os cidadãos do país, o
+Governo Federal criou o Programa Farmácia Popular do Brasil (MINISTÉRIO DA
+SAÚDE, 2016).
+O programa foi implantado por meio de lei (BRASIL. Lei nº 10.858, de 13 de
+abril de 2004.)que autoriza a Fundação Oswaldo Cruz (FIOCRUZ) disponibilizar
+medicamentos mediante ressarcimento, e promulgado por Decreto Presidencial
+(BRASIL. Decreto nº 5.090, de 20 de maio de 2004.).
+O programa nasceu para garantir que os usuários dos medicamentos tenham
+o acesso facilitado, com menor custo, reduzindo assim o impacto no orçamento
+familiar causado pela compra de remédio, ampliando a promoção dos tratamentos e
+diminuindo os gastos do SUS com as internações que são provocadas pelo abandono
+da medicação (MINISTÉRIO DA SAÚDE, 2016).
+Contudo, é importante ressaltar aqui, que a implantação do mesmo não visa,
+de forma alguma, substituir a distribuição gratuita de medicamentos na rede pública
+de saúde.
+Os medicamentos elencados no Programa Farmácia Popular foram definidos
+mediante critérios epidemiológicos, considerando as principais doenças que atingem
+
+9
+
+a população brasileira e cujos tratamentos geram maior impacto no orçamento
+familiar. Assim, foram eleitos os medicamentos mais eficazes e seguros indicados
+para tratar tais doenças, ou seja, aqueles que apresentam o melhor resultado e o
+menor risco para os pacientes.
+Sendo assim, foram considerados os seguintes aspectos na determinação dos
+medicamentos alcançados pelo programa (MINISTÉRIO DA SAÚDE, 2015):
+• Principais doenças que atingem a população;
+• Medicamentos de maior impacto no orçamento familiar;
+• Relação Nacional de Medicamentos Essenciais e sua cobertura;
+• Programas Assistenciais do MS;
+• Produção dos Laboratórios Oficiais;
+• Medicamentos Genéricos Registrados.
+O Programa atua sobre dois eixos de ação, as unidades próprias e sistema de
+copagamento:
+As unidades próprias, em funcionamento desde junho de 2004, são compostas
+por farmácias estatais, gerenciadas pela Fundação Osvaldo Cruz (FIOCRUZ), em
+parcerias com gestores estaduais e municipais de saúde. Estão disponíveis nessas
+unidades 107 medicamentos e, também, preservativos masculinos (MINISTÉRIO DA
+SAÚDE, 2015).
+Hipertensão, diabetes, úlcera gástrica, depressão, asma, infecções e
+verminoses são exemplos de doenças para as quais são encontrados medicamentos.
+Além dessas, estão disponíveis produtos com indicação nos quadros de cólicas,
+enxaqueca, queimadura, inflamações e alcoolismo, além dos anticoncepcionais.
+Já o sistema de copagamento, lançado em março de 2006, por meio de Portaria
+(BRASIL, Portaria n°491 de 9 de março de 2006), onde o governo Federal desenvolve
+uma parceria com setor privado varejista farmacêutico e laboratórios da Indústria
+Farmacêutica cadastrados, aproveitando a rede já instalada do comércio varejista de
+produtos farmacêuticos, bem como a cadeia do medicamento, expandindo assim o
+Programa Farmácia Popular do Brasil (MINISTÉRIO DA SAÚDE, 2015).
+
+10
+
+Esta ampliação foi denominada “Aqui Tem Farmácia Popular” e foi realizada
+com o intuito de levar o benefício do programa a mais lugares e mais pacientes,
+aproveitando a dinâmica da cadeia farmacêutica (produção x distribuição x varejo).
+Adotando essa nova sistemática, ficou determinado que o usuário paga em
+média 10% do valor de referência do estabelecido pelo Ministério da Saúde para cada
+um dos princípios ativos estabelecidos na gama de doenças tratadas e a diferença é
+subsidiada pelo Governo Federal (MINISTÉRIO DA SAÚDE, 2015). O programa
+atinge, assim, aquela parcela da população que não busca assistência no SUS, mas
+tem dificuldade para manter tratamento medicamentoso devido ao seu alto custo.
+Em junho de 2007, o elenco de medicamentos do “Aqui Tem Farmácia Popular”
+foi ampliado, sendo incluídos os contraceptivos, já no ano de 2010, um conjunto de
+medidas de combate à Gripe A (H1N1) foi adotado pelo Ministério da Saúde, houve a
+inclusão da Insulina Regular, ampliando o elenco de medicamentos indicados para o
+diabetes, bem como o atendimento da dislipidemia. O Programa ampliou também o
+elenco de medicamentos indicados para o tratamento da hipertensão e passou a
+atender novas doenças, tendo sido incluídos medicamentos para o tratamento da
+osteoporose, rinite, asma, Parkinson e glaucoma. Já a incontinência urinária para
+idosos passou a ser atendida com a inclusão das fraldas geriátricas (MINISTÉRIO DA
+SAÚDE, 2015).
+Em 2011, através de Portaria (BRASIL, Portaria n°184 de 3 de fevereiro de
+2011) o Programa passou a disponibilizar os medicamentos indicados para o
+tratamento da hipertensão e do diabetes sem custos para os usuários. Esta campanha
+foi denominada “Saúde Não Tem Preço” (SNTP). A partir de 04 de junho o Ministério
+da Saúde também passou a disponibilizar para a população, por meio do SNTP, três
+medicamentos para o tratamento da asma, disponíveis em oito apresentações de
+forma totalmente gratuita.
+Não é necessário fazer cadastro para se ter acesso aos medicamentos do
+Programa Farmácia Popular.
+No momento da compra basta o paciente apresentar um documento de
+identidade com foto e CPF, com a receita do médico ou dentista, sendo que somente
+na rede própria da Farmácia Popular é que se aceitam receitas de odontologistas.
+
+11
+
+A receita independente da origem seja do SUS ou da rede privada, deve conter
+o carimbo, a assinatura do médico, o endereço da clínica ou estabelecimento médico,
+a data de prescrição, o nome e endereço do paciente, além de apresentarem dentro
+da validade (180 dias para medicamentos e fraldas geriátricas ou 1 ano para
+anticoncepcionais).
+A farmácia irá checar os dados do paciente assim como os da receita, acessar
+o sistema de vendas do Programa Farmácia Popular para processar a venda e assim
+efetuar a comercialização (MINISTÉRIO DA SAÚDE, 2015).
+
+1.3 - O IPVS- Índice Paulista de Vulnerabilidade Social
+O Estado de São Paulo, assim como outros grandes centros urbanos,
+apresenta enormes desigualdades sociais, com áreas de elevado padrão de qualidade
+de vida e outras de extrema pobreza (SEADE, IPVS, 2010).
+Neste tipo de crescimento econômico desordenado, não é possível verificar a
+extensão dos seus benefícios igualitariamente, e geralmente o que verificamos é que
+grande parcela da população fica à margem dos mesmos.
+Examinar as condições de vida da população exige ter informação não apenas
+sobre a renda, mas também sobre a escolaridade, a saúde, as condições de inserção
+no mercado de trabalho, o acesso aos serviços prestados pelo Estado e as
+oportunidades de mobilidade social.
+Enfim, torna-se necessária a análise da qualidade de vida dos indivíduos, o que
+exige o estudo de um fenômeno com diversas determinações, as quais devem ser
+levadas em conta para construir políticas públicas visando uma vida mais digna para
+todos (SEADE, IPVS, 2010).
+Porém, para estruturar estas políticas públicas de forma sólida e eficiente, que
+contribuam para o desenvolvimento mais justo, é necessário que o poder público
+tenha em mãos dados precisos e confiáveis, que permitam desenvolver programas
+específicos para as comunidades mais vulneráveis, exercendo assim ações mais
+assertivas para a população.
+É neste contexto que verificamos a criação do Índice Paulista de
+Responsabilidade Social (IPRS), que fornece dados sobre o desempenho econômico
+
+12
+
+e social dos municípios, porém não contempla integralmente a questão da
+desigualdade dentro deles e a situação das suas áreas de concentração de pobreza.
+Assim com intenção de suprir essas lacunas de informação, foi criado pela
+Fundação Seade, em parceria com a Assembleia legislativa do Estado de São Paulo
+o Índice Paulista de Vulnerabilidade Social (IPVS).
+Trata- se de um indicador que permitiu uma visão mais detalhada das
+condições de vida nos municípios do Estado, com a identificação e localização
+espacial dos setores censitários de acordo com a vulnerabilidade de suas populações
+à pobreza, levando em conta um número maior de variáveis que ajudam a destrinchar
+a complexidade do fenômeno qualidade de vida.
+As informações utilizadas para a criação deste índice são provenientes do
+Censo Demográfico - Universal, pois é a única fonte de dados existente em escala
+intraurbana para todo o Estado de São Paulo, os dados sobre populações residentes
+em cada município foram decompostos por setores censitários, sendo definidos como
+um agrupamento contíguo de aproximadamente 300 domicílios, independentemente
+do porte populacional do município em que se localizem (SEADE, IPVS, 2010).
+O estudo se apoia no pressuposto de que inúmeras dimensões de pobreza
+precisam ser consideradas, caracterizando o conceito social sob a ótica similar àquela
+definida como a capacidade de uma pessoa aproveitar oportunidades propiciadas pelo
+Estado, mercado e sociedade (KATZMAN, 1999).
+Sendo assim, ampliou-se a quantidade de variáveis, dividindo as em
+socioeconômicas e demográfica, não se limitando a uma análise da renda, mas da
+estrutura familiar, condições de saúde e acesso médico, assim como a educação e de
+trabalho com salários adequados, estruturando as da seguinte forma (SEADE, IPVS,
+2010):
+Dimensão socioeconômica:
+
+
+Renda domiciliar per capita;
+
+
+
+Rendimento médio da mulher responsável pelo domicilio;
+
+
+
+% de domicílios com renda domiciliar per capita até 1/2 SM;
+
+
+
+% de domicílios com renda domiciliar per capita até 1/4 SM;
+
+
+
+% de pessoas responsáveis pelo domicílio alfabetizadas;
+
+13
+
+Dimensão demográfica:
+
+
+% de pessoas responsáveis pelo domicílio com 10 a 29 anos;
+
+
+
+% de mulheres responsáveis pelo domicílio com 10 a 29 anos;
+
+
+
+Idade média das pessoas responsáveis pelo domicílio;
+
+
+
+% de crianças de 0 a 5 anos;
+
+Ainda derivado da análise destes dados são definidos sete grupos em que são
+classificados os setores censitários, levando em conta as diferentes condições de
+exposição da população residente à vulnerabilidade social, conforme demonstrado na
+imagem abaixo (SEADE, IPVS, 2010, p.16):
+
+14
+
+Quadro 1 – Faixas de Classificação Índice Paulista de Vulnerabilidade Social (IPVS
+– 2010)
+
+Assim com os dados gerados pelo IPVS, os gestores públicos e outros
+interessados têm acesso a informações que poderão ser utilizadas como uma forma
+de melhor diagnosticar as comunidades mais vulneráveis das suas cidades, além de
+auxiliar como uma ferramenta para planejar suas ações.
+É certo que a atuação do poder público nesses territórios vulneráveis é
+fundamental tanto para a distribuição mais equitativa de bens e serviços públicos
+quanto para o desenvolvimento de ações que contribuam para romper o ciclo da
+pobreza.
+
+15
+
+2.Procedimentos Metodológicos e Desenvolvimento
+Diante do objetivo do trabalho apresentado anteriormente, para a visualização
+do alcance das farmácias populares com relação às áreas de maior vulnerabilidade
+no município de São Paulo, será necessária a realização de algumas etapas conforme
+é discorrida a seguir.
+Primeiramente, para quantificação do número de farmácias cadastradas no
+Programa Farmácia Popular foi utilizada a base de farmácias, cuja fonte foi a empresa
+IMS HEALTH.
+O principal motivo da escolha desta base é o fato de que o processo de
+atualização das bases do IMS é realizado com maior frequência, se comparado à base
+fornecida pelo Governo Federal no site do programa, permitindo assim uma visão mais
+fiel do número de farmácias cadastradas no programa atualmente.
+A IMS HEALTH é uma companhia especializada no levantamento de dados
+oriundos do mercado de saúde com destinação principalmente para as instituições
+privadas da indústria farmacêutica.
+Neste modelo de negócio é firmado um acordo entre o canal farmácia e a IMS,
+onde o primeiro se compromete a enviar mensalmente alguns dados como:
+
+
+Razão social;
+
+
+
+CNPJ;
+
+
+
+Endereço (CEP, município, estado)
+
+
+
+Cadastro no Programa Farmácia Popular
+
+Estes dados são fornecidos tanto por farmácias que pertencem a uma rede, ou
+seja, a mesma raiz de CNPJ está presente em um mínimo de 8 lojas, quanto em
+farmácias independentes cuja raiz do CNPJ é única, ou igual a no máximo mais 6
+lojas.
+Além dos itens acima citados, diariamente são levantadas informações de
+abertura ou fechamento de novas lojas e dados relativo à venda de medicamentos e
+produtos de saúde, aspectos estes que não serão abordados no estudo.
+
+16
+
+Assim, para análise contemplada neste trabalho utilizamos as informações das
+farmácias cadastradas no programa, da base do IMS HEALTH, considerado o período
+referente ao mês de junho de 2017.
+Após determinada a fonte dos dados de farmácias cadastradas no programa
+Farmácia Popular, foi feito o mapeamento através do Google Maps de cada registro
+discriminado na base, utilizando como escala de contabilização os Distritos do
+município de São Paulo.
+Uma vez mapeado, foi realizada a contagem de farmácia por distrito, chegando
+ao dado de número de farmácias cadastradas no Programa Farmácia Popular por
+distrito.
+Em seguida, foi apresentado tal distribuição no município de São Paulo
+segundo as 5 regiões oficiais de acordo com a prefeitura do município, sendo elas:
+
+
+Zona sul;
+
+
+
+Zona leste;
+
+
+
+Zona norte;
+
+
+
+Zona oeste;
+
+
+
+Centro.
+
+O objetivo de os dados serem apresentados nesta escala é propiciar uma maior
+clareza e compreensão na leitura e análise dos dados.
+Assim é possível visualizar a contagem por distrito via mapas temáticos
+desenvolvidos pelo autor do estudo, utilizando o software MapInfo V15.0. Tais mapas
+são de figuras geométricas proporcionais (círculos), e o volume de farmácias
+cadastradas no Programa Farmácia Popular estará representado de acordo com o
+tamanho do círculo, a divisão do volume será apresentada por 3 faixas, a máxima
+apresentada, a média total e um quinto da média.
+Os mapas ainda contemplaram os eixos do Município de São Paulo e de seus
+municípios circunjacente, cuja fonte foi a base cartográfica do IBGE e o mapa de
+Distritos de São Paulo vetorizado pelo autor do texto, utilizando como parâmetro o site
+da Prefeitura de São Paulo.
+
+17
+
+Correlacionando as farmácias do PFP e a população dos distritos foram feitos
+mapas na mesma escala que os demais, apresentando o índice de farmácias
+cadastradas no PFP dividido pelos habitantes do distrito, vezes dez mil (PFP/10 mil
+hab.). Os resultados foram divididos por quintis do total do município.
+Concluindo estas duas etapas do estudo, foi necessário fazer a relação dos
+resultados obtidos com o outro parâmetro indicado no objetivo do trabalho, a divisão
+da área do município de São Paulo, de acordo com o seu grau de vulnerabilidade.
+Para tanto utilizei o índice IPVS (Índice Paulista de Vulnerabilidade Social), que
+qualifica o grau de vulnerabilidade da população quanto ao acesso a serviços básicos
+entre outros aspectos.
+Este índice utiliza-se das métricas do CENSO 2010 para compor seus dados e
+análises, e encontra-se disponível no portal do SEADE.
+Para demonstração destes dados, foram efetuados mapas temáticos das cinco
+regiões do município de São Paulo indicadas anteriormente utilizando o software
+MapInfo V15.0. Tais mapas indicaram o grau de vulnerabilidade por setor censitário,
+além de delimitar os limites dos distritos.
+Os mapas foram elaborados seguindo a representação cartográfica coroplética
+ordinal seguindo a representação de cores original demonstrada pelo estudo do IPVS,
+para determinação do grau de vulnerabilidade de cada região.
+É importante ressaltar aqui, que com o objetivo de obter um estudo mais
+detalhado, menos genérico e consequentemente uma representação mais leal da
+divisão de áreas por nível de vulnerabilidade, os mapas foram elaborados de acordo
+com os setores censitários, e apenas foram demonstrados os limites dos distritos.
+Além da confecção de todos os mapas indicados acima, para embasamento
+das análises de forma quantitativa ainda foi realizada uma tabela por região, contendo
+as seguintes informações por distrito:
+1. Número de setores censitários segregados por faixa do IPVS;
+2. Total de população;
+3. Número de domicílios particulares permanentes;
+4. Renda nominal familiar mensal;
+
+18
+
+5. Renda média familiar mensal;
+6. Número de farmácias cadastradas no programa Farmácia Popular.
+Para preenchimento desta tabela, os 4 primeiros campos foram obtidos através
+dos dados informados no Censo 2010, retirados do portal do IBGE. O campo 5 foi
+calculado através da divisão do valor da renda nominal familiar mensal (4) pelo
+número de domicílios particulares permanentes (3). Por fim, o campo 6 foi alimentado
+com os dados obtidos através do relatório do IMS HEALTH.
+Feito isso, foi iniciado o processo de análise dos dados. Nesta etapa foram
+cruzadas as áreas conforme o grau de vulnerabilidade e o volume de farmácias
+cadastradas no programa Farmácia Popular.
+Para tanto foram aproveitados todos os resultados obtidos diante da realização
+das etapas anteriores e todos os dados acumulados.
+As análises seguiram o mesmo padrão das etapas anteriores, assim foram
+segregadas por região (zona norte, zona leste, zona oeste, zona sul e centro),
+permitindo uma visão mais aprofundada e íntegra de cada uma delas e apresentado
+em ordem decrescente do volume de farmácias do PFP.
+Por fim, foi alcançada a parte de conclusão do trabalho, onde foram expostos
+os resultados das comparações e análises, indicando as percepções atingidas com a
+realização do estudo.
+Esta reflexão foi o fecho do trabalho e demonstrará o entendimento do autor de
+forma sucinta das considerações a respeito do referencial teórico e dos resultados
+obtidos através da exploração do tema.
+
+19
+
+2.1 - Zona Sul
+A região da Zona Sul tem 740 km² de extensão, composta por 22 distritos. São
+3.583.127 habitantes; assim, ao dividirmos o número de habitantes pela extensão
+territorial, verifica-se uma densidade demográfica de 4.840 hab/km². São 1.134.020
+domicílios que movimentam mais de 4 milhões de reais por mês, gerando uma renda
+média mensal familiar de R$3.683,00.
+Seguindo a mesma lógica apresentada na metodologia de divisão dos distritos
+de acordo com o volume de farmácias cadastradas no PFP, temos as faixas (quintis)
+com os seguintes distritos:
+
+
+Mais de 20 farmácias cadastradas no PFP, encontram–se 3 distritos:
+Santo Amaro, Moema e Vila Mariana
+
+
+
+De 13 a 20 unidades cadastradas no PFP, somente o distrito da Saúde
+
+
+
+De 9 a 12 pontos de vendas cadastrados no PFP, verifica-se 5 distritos:
+Jabaquara, Sacomã, Campo Belo, Ipiranga e Cidade Ademar
+
+
+
+De 6 a 8 estabelecimentos cadastrados no PFP, são 6 distritos com esta
+característica: Campo Grande; Cursino; Vila Andrade; Campo Limpo e
+Cidade Dutra.
+
+
+
+Até 5 farmácias cadastradas no PFP, esta faixa apresenta o maior
+número de distritos, são 7, sendo eles: Grajau; Socorro; Capão
+Redondo; Jardim Ângela; Parelheiros; Marsilac e Pedreira.
+
+A seguir será demonstrado primeiramente o mapa de número de farmácias
+cadastradas no PFP por distrito, em seguida o mapa de vulnerabilidade
+construído através do IPVS e alguns dados da região da Zona Sul organizados
+em tabela.
+
+20
+
+Mapa 1 – Número de Farmácia Popular por Distrito Zona Sul – SP.
+
+21
+
+Mapa 2 – Farmácia Popular por Habitante Distrito Zona Sul – SP
+
+22
+
+Mapa 3 – Índice Paulista de Vulnerabilidade Social Zona Sul – SP
+
+SANTO AMARO
+MOEMA
+VILA MARIANA
+SAÚDE
+JABAQUARA
+SACOMÃ
+CAMPO BELO
+IPIRANGA
+CIDADE ADEMAR
+CAMPO GRANDE
+CURSINO
+VILA ANDRADE
+CAMPO LIMPO
+CIDADE DUTRA
+JARDIM SÃO LUÍS
+GRAJAU
+SOCORRO
+CAPÃO REDONDO
+JARDIM ÂNGELA
+PARELHEIROS
+MARSILAC
+PEDREIRA
+
+Distrito
+
+1
+
+11
+
+86
+175
+204
+134
+62
+16
+101
+31
+7
+54
+29
+140
+13
+2
+2
+4
+72
+79
+4
+14
+89
+19
+13
+26
+110
+37
+133
+137
+1
+141
+115
+39
+67
+
+48
+2
+26
+80
+185
+202
+44
+107
+123
+97
+122
+19
+103
+108
+107
+59
+40
+96
+32
+16
+49
+
+1
+32
+21
+5
+1
+67
+5
+8
+1
+43
+77
+67
+216
+5
+66
+63
+93
+33
+75
+45
+111
+104
+39
+14
+
+21
+7
+24
+257
+
+2
+5
+1
+4
+29
+3
+
+48
+
+70
+97
+17
+
+1
+1
+40
+33
+19
+7
+63
+8
+8
+35
+48
+22
+44
+91
+
+Baixissíma
+Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade
+vulnerabilidade
+muito baixa
+Baixa
+média
+alta
+muito alta
+
+Número de Setores Censitários por Grupos Índice de Vulnerabilidade Social Paulista
+
+134
+177
+231
+220
+393
+356
+174
+164
+378
+186
+180
+221
+338
+253
+377
+760
+57
+418
+418
+270
+72
+253
+
+Total
+26
+24
+21
+13
+12
+12
+11
+11
+9
+8
+8
+7
+6
+6
+6
+5
+5
+4
+2
+1
+0
+0
+
+71.526
+83.368
+130.319
+128.606
+217.497
+248.574
+74.746
+105.456
+264.735
+104.586
+108.324
+126.243
+214.512
+196.421
+261.499
+379.603
+38.628
+267.973
+299.511
+113.613
+7.433
+139.954
+
+PFP População
+
+Farmácia
+Domicílios
+PFP / Hab Particulares
+(x 10.000) Permanente
+3,64
+25.374
+2,88
+34.821
+1,61
+51.822
+1,01
+48.572
+0,55
+71.342
+0,48
+79.726
+1,47
+26.728
+1,04
+36.170
+0,34
+80.289
+0,76
+34.712
+0,74
+35.290
+0,55
+40.609
+0,28
+64.786
+0,31
+57.536
+0,23
+80.707
+0,13
+108.505
+1,29
+12.706
+0,15
+80.803
+0,07
+88.157
+0,09
+32.364
+2.149
+40.852
+
+Renda
+Nominal
+Familiar
+216.690.291
+413.996.641
+488.266.973
+331.281.246
+272.573.869
+226.866.122
+220.026.066
+162.076.758
+172.045.131
+179.853.649
+161.523.402
+248.036.399
+154.177.768
+130.733.660
+157.685.699
+173.177.323
+71.403.727
+144.788.078
+128.509.523
+47.491.295
+2.502.958
+73.019.480
+
+Renda Média
+Familiar
+(R$/MÊS)
+8.540
+11.889
+9.422
+6.820
+3.821
+2.846
+8.232
+4.481
+2.143
+5.181
+4.577
+6.108
+2.380
+2.272
+1.954
+1.596
+5.620
+1.792
+1.458
+1.467
+1.165
+1.787
+
+23
+
+Dados por Distrito Zona Sul (Quadro 2)
+
+24
+
+Segue a distribuição dos setores censitários da Zona Sul de acordo com o grau
+de vulnerabilidade do IPVS:
+
+(Quadro 3)
+Ao analisar a região da zona sul, verifica-se que se trata de uma região
+heterogênea sobre a perspectiva da vulnerabilidade social, onde o maior volume de
+setores censitários (6.030 setores censitários), representa apenas 28% do total, e
+encontra-se classificado com o índice de vulnerabilidade muito baixa.
+Devido a esta característica de classificação díspar na área, é possível
+identificar outras faixas de vulnerabilidade com representatividade e percentuais
+similares, demonstrando que ao mesmo tempo 22% do total dos setores censitários
+da região estão classificados com vulnerabilidade de alta e muito alta.
+Apesar desta diversidade da Zona como um todo, ainda é possível averiguar
+que as melhores classificações no índice de vulnerabilidade estão em sua grande
+maioria localizadas nas regiões mais próximas ao centro do município de São Paulo,
+enquanto as piores geralmente estão na parte norte da Zona Sul, havendo uma divisão
+bem delimitada entre áreas com melhor qualidade de vida e as demais.
+São 197 farmácias cadastradas no PFP na região, de 760 no município, ou seja
+26% do total de farmácias cadastradas no município de São Paulo estão na Zona Sul,
+assim a seguir estudaremos a sua distribuição na área por distritos.
+
+25
+
+O distrito com maior número de unidades cadastradas no PFP da zona sul é o
+de Santo Amaro, com 26 pontos de venda. Em seguida com 24 e 21 farmácias
+cadastradas temos respectivamente os distritos Moema e Vila Mariana. Estes são os
+distritos classificados no 1 quintil quanto ao volume de farmácias cadastradas no PFP,
+em seus territórios, sendo que os 3 distritos têm em comum o fato de não terem
+nenhum setor censitário classificado como vulnerabilidade baixa ou pior.
+São 285.213 pessoas no total, residindo em 112.017 lares, com uma renda
+média mensal familiar de R$9.950,00 e com a possibilidade de medicamentos
+gratuitos próximos a sua moradia, vivendo em boas condições de acesso a serviços
+de educação, saúde, empregos e serviços públicos. Quando se analisa de forma
+segregada o índice que calcula farmácias cadastradas no PFP por habitante vezes
+10.000 se apresenta a seguinte realidade: Santo Amaro tem 3,64, Moema 2,88 e Vila
+Mariana 1,61.
+O distrito da Saúde é o único representante da segunda faixa de análise do
+número de farmácias cadastradas, são 13 no total, com a relação PFP/Hab de 1,01 e
+a área contém somente 2 setores censitários classificados com vulnerabilidade média
+ou muito alta. Atrelado a isto, ainda temos que são 48.572 domicílios, com uma renda
+média mensal familiar de R$6.820,00 reforçando comportamento de distribuição
+similar ao grupo do primeiro quintil.
+Considerando o próximo quintil de volume de farmácias cadastradas no PFP,
+identificamos dois distritos que abrangem em seus territórios todas as classificações
+de vulnerabilidade indicadas no IPVS, e do mesmo modo, ambos apresentam 12
+pontos de venda ligadas ao PFP.
+Os distritos discriminados anteriormente são o do Jabaquara e Sacomã, e que
+apesar de apresentarem as semelhanças acima mencionadas, diferem quanto a
+população e domicílio, onde o Jabaquara com pouco mais de 217 mil pessoas residem
+em 71.342 domicílios, já no Sacomã são 79.726 domicílios para uma população de
+248.574 pessoas, analisando somente estes indicadores presume-se que o distrito do
+Sacomã necessitaria de um número maior de farmácias do PFP item reforçado
+quando comparamos PFP/Hab, respectivamente, 0,55 e 0,48.
+
+26
+
+Outro representante do 3 quintil é o distrito de Campo Belo, com 11 pontos de
+vendas cadastrado no PFP, e PFP/Hab de 1,47. Possuindo mais de 80% dos seus
+setores censitários classificados como muito baixa ou baixíssima vulnerabilidade
+social segundo o IPVS e com uma renda média familiar de R$8.232,00 mês.
+Com o mesmo número de farmácias cadastradas no PFP, encontra-se o distrito
+do Ipiranga, que é similar também quanto às classificações dos setores do IPVS,
+podendo se valer das observações feitas ao distrito anterior, diferindo apenas quanto
+à renda média familiar, já que a calculada para o distrito do Ipiranga é de R$4.481,00
+e o PFP/Hab que é de 1,04.
+Ainda no 3 quintil temos o distrito da Cidade Ademar, que em seus 12 km² de
+extensão vivem 264.735 pessoas agrupadas em pouco mais de 80 mil domicílios e
+com cobertura de 9 farmácias cadastradas no PFP em seu território o que gera um
+PFP/Hab de apenas 0,34, quando se examina a classificação dos setores de acordo
+com o IPVS, identifica-se que assim como outros distritos já mencionados, este
+também abrange em seu território todas as faixas de vulnerabilidade classificadas pelo
+IPVS, ou seja é um distrito com a vulnerabilidade heterogênea, logo não
+necessariamente as unidades do PFP estão atendendo os maiores necessitados da
+região, podendo estar concentradas em áreas cuja vulnerabilidade seja baixa, muito
+baixa ou até mesmo baixíssima.
+Chegando ao penúltimo quintil, temos o distrito de Campo Grande com renda
+média familiar mensal de R$5.181,00 e com 151 dos seus setores censitários
+cadastrado como muito baixo e baixíssimo de acordo com o IPVS, de um total de 186,
+ou seja 81% de seu território apresenta estas duas classificações, logo os 104.586
+habitantes têm uma boa qualidade de vida, no entanto as 8 farmácias do PFP quando
+dividida pela população vezes 10.000 geram um PFP/Hab de 0,76.
+A realidade descrita acima, para Campo Grande, repete-se para o distrito do
+Cursino. São 108.324 moradores que vivem em 35.290 domicílios com o mesmo perfil
+de classificação dos setores no IPVS e mesmo número de farmácias participantes do
+PFP e PFP/Hab de 0,74.
+Já o distrito de Vila Andrade tem 7 farmácias no PFP para atender uma
+população 126.243 pessoas, divergindo dos outros dois distritos deste quintil o
+
+27
+
+PFP/Hab é de 0,55, além de apresentar um percentual 16% dos seus setores
+censitários classificados como vulnerabilidade muito baixa, a pior das faixas. Assim,
+estas áreas mais carentes não necessariamente possuem acesso aos pontos de
+venda do território, seria necessária uma análise minuciosa da distribuição das
+farmácias dentro do distrito para qualificar a amplitude do PFP.
+O próximo distrito seguindo a ordem de volume de farmácias cadastradas no
+PFP, é o distrito do Campo Limpo, com uma população de 214.512 pessoas vivendo
+em 64.786 domicílios, cuja renda média mensal familiar é de R$2.380,00, e apenas 6
+pontos de venda participantes do PFP acarretando em um PFP/Hab de apenas 0,28.
+Examinando os setores censitários deste distrito, verifica-se que estão
+presentes todas as classificações do IPVS, sendo que o maior percentual se concentra
+nas faixas de baixa, muito baixa e baixíssima vulnerabilidade, totalizando 66% dos
+seus setores censitários.
+Assim como o distrito anterior Cidade Dutra tem 6 farmácias no PFP, no entanto
+a população e o número de domicílios são menores, respectivamente, 196.421 e
+57.536, o que gera um PFP/Hab 0,31. As classificações dos setores censitários
+diferem também, a maior faixa compreendendo 88% dos seus setores censitários está
+classificada entre média e muito baixa vulnerabilidade, constatando uma maior
+parcela da população com menos qualidade de vida se comparada ao distrito do
+Campo Limpo.
+O último distrito com 6 unidades cadastrada no FPF na Zona Sul, é o distrito do
+Jardim São Luís, onde 64% dos seus setores censitários classificados nos 3 melhores
+graus de vulnerabilidade, no entanto são 261.499 habitantes e um PFP/Hab de 0,23
+a população reside em 80.707 domicílios, com uma renda média familiar mensal
+menor que os outros dois distritos referenciados, ambos os citados extrapolam a casa
+de R$2.200,00, já a realidade vista no Jardim São Luís é de uma renda média familiar
+de R$1.954,00.
+Logo, comparando os distritos com 6 unidades de farmácias cadastradas no
+PFP, este é o que se encontra em pior situação de acesso, tendo em vista os dados
+analisados, necessitando assim de maior atenção quanto à abrangência do PFP em
+seu território.
+
+28
+
+Considerando agora os distritos com 5 pontos de vendas cadastrados no PFP,
+temos o distrito do Grajaú, que apresenta a maior população da Zona Sul, são 379.603
+habitantes, residentes em 108.505 domicílios, com uma renda média mensal familiar
+de R$1.596,00, e 74% dos seus setores censitários estão classificados entre as faixas
+de média vulnerabilidade social e muito baixa vulnerabilidade social segundo o IPVS,
+o volume de FPF dividido pela população é de 0,13.
+Portanto, trata-se de um distrito muito volumoso com uma população
+necessitada, que demonstra ter uma necessidade de auxilio de programas do governo
+para enfrentar certas barreiras, e que, contudo, apresenta somente 5 unidades
+cadastradas no PFP para dar assistência a todo seu território.
+O distrito de Socorro assim como Grajaú contém 5 farmácias do PFP, no
+entanto sua população correspondente a quase 10% do outro, são 38.628 habitantes
+o que eleva o PFP/Hab a 1,29, além do mais 91% dos setores censitários deste distrito
+estão
+
+classificados
+
+pelo
+
+IPVS
+
+entre
+
+baixíssima
+
+vulnerabilidade
+
+e
+
+baixa
+
+vulnerabilidade, fato que corrobora para a maior necessidade do distrito do Grajaú
+perante a Socorro.
+O único distrito com apenas 4 unidades de farmácias cadastradas no PFP, é o
+Capão Redondo, detentor da terceira maior população da Zona Sul com 267.973
+habitantes, PFP/Hab de 0,15 e uma renda média mensal familiar de R$1.792,00, esta
+simples caracterização já reforça a necessidade de cadastramento por parte do PFP
+de farmácias na região. Somado a isto, para agravar a situação, verifica-se ainda que
+43% dos seus setores censitários estão classificados de média vulnerabilidade até
+muito alta vulnerabilidade.
+O distrito do Jardim Ângela é o detentor do segundo lugar quanto a número de
+habitantes por distrito, são 299.511 habitantes que tem renda média mensal familiar
+de R$1.458,00 e 50% dos seus setores censitários estão determinados pelo IPVS
+como alta vulnerabilidade ou muito alta. E para atender a toda esta população, verificase apenas 2 farmácias cadastradas no PFP o que gera o pior PFP/Hab dos distritos
+da zona sul com farmácias cadastradas, apenas 0,07.
+Considerando agora o único distrito com apenas 1 farmácia cadastrada no PFP,
+temos o distrito de Parelheiros que compreende uma região onde 79% dos seus
+
+29
+
+setores censitários são classificados entre vulnerabilidade média e muito alta pelo
+IPVS, e são mais 113.00 pessoas com uma única opção de local de aquisição de
+medicamentos de forma gratuita ou com desconto e PFP/Hab de 0,09.
+Em situações ainda piores do que as citadas acima, temos dois distritos da
+Zona Sul não têm nenhuma farmácia cadastrada no PFP, no entanto eles têm perfil
+distintos entre eles, um deles é o distrito de Pedreira, onde moram 139.954 pessoas
+e 54% dos seus setores censitários estão classificados de média vulnerabilidade até
+muito alta vulnerabilidade.
+E o outro distrito sem nenhuma opção de farmácia cadastrada no PFP é o
+distrito de Marsilac, onde vivem apenas 7.433 habitantes em áreas consideradas
+como média ou alta vulnerabilidade social pelo IPVS.
+Independente da classificação, o simples fato de terem moradores deveria ser
+suficiente para existir a opção de acesso a remédios pelo ao PFP no território dos
+distritos.
+
+30
+
+2.2 - Zona Leste
+A área denominada como Zona Leste do município de São Paulo, é composta
+por 33 distritos que ocupam uma área de 330,17 km², onde vivem 3.998.671
+habitantes em 1.214.275 domicílios com renda média mensal familiar de R$2.406,00.
+Conforme a divisão por quintil das faixas que correspondem ao volume de
+farmácias cadastradas no PFP, verificamos a seguinte distribuição por distritos:
+
+
+Mais de 20, nenhum distrito da Zona Leste está nesta faixa.
+
+
+
+De 13 a 20 farmácias, 5 distritos: Penha; Tatuapé; Móoca; São Mateus e
+Sapopemba.
+
+
+
+De 9 a 12 farmácias, 3 distritos: Vila Formosa; Água Rasa; Vila Prudente.
+
+
+
+De 6 a 8 farmácias, são 9 distritos: Carrão; Itaim Paulista; São Miguel;
+Aricanduva; Artur Alvim; Itaquera; São Lucas; Ermelino Matarazzo e Iguatemi.
+
+
+
+Até 5 farmácias, são 16 distritos: Belém; Lajeado; Vila Matilde; Brás; José
+Bonifácio; São Rafael; Cangaíba; Cidade Tiradentes; Guaianases; Vila Curuçá;
+Cidade Líder; Ponte Rasa; Vila Jacuí; Jardim Helena; Parque do Carmo e Pari.
+
+A seguir, apresenta-se o mapa de número de farmácias cadastradas no PFP por
+distrito, o mapa de classificação dos distritos pelo IPVS e uma tabela com outros
+dados utilizados para auxiliar o entendimento da dinâmica de distribuição por
+distrito.
+
+31
+
+Mapa 4 – Número de Farmácia Popular por Distrito Zona Leste – SP
+
+32
+
+Mapa 5 – Farmácia Popular por Habitante Distrito Zona Leste – SP
+
+33
+
+Mapa 6 – Índice Paulista de Vulnerabilidade Social Zona Leste – SP
+
+PENHA
+TATUAPE
+MÓOCA
+SÃO MATEUS
+SAPOPEMBA
+VILA FORMOSA
+ÁGUA RASA
+VILA PRUDENTE
+CARRÃO
+ITAIM PAULISTA
+SÃO MIGUEL
+ARICANDUVA
+ARTUR ALVIM
+ITAQUERA
+SÃO LUCAS
+ERMELINO MATARAZZO
+IGUATEMI
+BELÉM
+LAJEADO
+VILA MATILDE
+BRÁS
+JOSÉ BONIFÁCIO
+SÃO RAFAEL
+CANGAÍBA
+CIDADE TIRADENTES
+GUAIANASES
+VILA CURUÇÁ
+CIDADE LÍDER
+PONTE RASA
+VILA JACUÍ
+JARDIM HELENA
+PARQUE DO CARMO
+PARI
+
+Distrito
+
+1
+1
+
+1
+3
+2
+
+3
+6
+
+11
+
+2
+
+1
+
+13
+10
+20
+3
+3
+
+3
+64
+31
+
+180
+110
+90
+98
+158
+99
+118
+117
+111
+42
+53
+88
+120
+108
+149
+72
+28
+52
+18
+125
+29
+92
+59
+119
+28
+30
+54
+94
+113
+77
+20
+36
+18
+
+11
+3
+8
+43
+55
+4
+2
+15
+4
+43
+16
+11
+14
+69
+20
+34
+56
+12
+50
+13
+25
+40
+25
+33
+61
+38
+35
+37
+17
+28
+35
+29
+6
+31
+13
+2
+6
+12
+6
+9
+15
+2
+15
+1
+6
+21
+8
+13
+6
+17
+10
+5
+37
+39
+12
+1
+
+106
+5
+6
+2
+21
+3
+19
+110
+
+43
+57
+13
+85
+32
+31
+4
+
+146
+56
+18
+9
+74
+9
+37
+83
+1
+82
+5
+1
+50
+43
+43
+62
+66
+81
+19
+23
+73
+83
+22
+2
+18
+50
+2
+1
+
+69
+
+6
+
+10
+21
+1
+
+50
+112
+14
+
+4
+1
+1
+15
+40
+
+5
+
+1
+
+7
+
+Baixissíma
+Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade
+vulnerabilidade
+muito baixa
+Baixa
+média
+alta
+muito alta
+
+Número de Setores Censitários por Grupos Índice de Vulnerabilidade Social Paulista
+
+206
+178
+130
+216
+386
+131
+130
+163
+118
+371
+143
+126
+151
+284
+189
+171
+292
+78
+234
+147
+61
+231
+205
+216
+249
+172
+219
+167
+160
+233
+227
+102
+29
+
+Total
+15
+15
+14
+14
+14
+10
+9
+9
+8
+8
+8
+7
+7
+7
+7
+6
+6
+5
+5
+5
+4
+4
+4
+3
+3
+3
+3
+2
+2
+2
+1
+1
+0
+
+127.254
+91.672
+71.431
+145.616
+288.387
+93.146
+84.963
+104.467
+84.934
+236.516
+88.092
+89.622
+106.054
+204.084
+141.839
+108.189
+170.025
+44.480
+153.301
+104.947
+34.700
+132.285
+143.573
+142.502
+157.695
+106.885
+151.378
+127.085
+92.902
+142.452
+137.797
+72.522
+17.876
+
+PFP População
+
+Farmácia
+Domicílios
+PFP / Hab Particulares
+(x 10.000) Permanente
+1,18
+41.677
+1,64
+32.734
+1,96
+25.180
+0,96
+43.696
+0,49
+85.837
+1,07
+29.888
+1,06
+28.652
+0,86
+34.779
+0,94
+27.639
+0,34
+67.651
+0,91
+26.698
+0,78
+27.661
+0,66
+33.964
+0,34
+59.928
+0,49
+45.632
+0,55
+32.311
+0,35
+48.853
+1,12
+14.130
+0,33
+43.587
+0,48
+33.491
+1,15
+11.716
+0,30
+40.277
+0,28
+40.631
+0,21
+43.141
+0,19
+44.867
+0,28
+31.231
+0,20
+44.229
+0,16
+37.725
+0,22
+28.393
+0,14
+41.709
+0,07
+39.050
+0,14
+21.582
+5.736
+
+Renda
+Nominal
+Familiar
+130.978.752
+197.785.898
+137.092.851
+86.967.180
+157.217.063
+118.052.585
+115.009.298
+123.523.357
+104.236.446
+101.363.387
+53.271.109
+71.220.761
+78.456.233
+126.455.569
+124.930.791
+67.615.618
+73.370.445
+58.150.619
+64.069.765
+103.392.511
+34.876.471
+74.174.304
+67.111.142
+99.240.069
+62.836.722
+54.154.184
+76.557.128
+87.825.198
+71.858.932
+76.733.569
+57.660.732
+48.236.854
+17.316.964
+
+Renda Média
+Familiar
+(R$/MÊS)
+3.143
+6.042
+5.445
+1.990
+1.832
+3.950
+4.014
+3.552
+3.771
+1.498
+1.995
+2.575
+2.310
+2.110
+2.738
+2.093
+1.502
+4.115
+1.470
+3.087
+2.977
+1.842
+1.652
+2.300
+1.401
+1.734
+1.731
+2.328
+2.531
+1.840
+1.477
+2.235
+3.019
+
+34
+
+Dados Zona Leste (Quadro 4)
+
+35
+
+Ao analisar a distribuição dos setores censitários da região verifica-se a
+seguinte realidade:
+(Quadro 5)
+
+São 6.115 setores censitários que compõem a zona leste, analisando o gráfico
+vemos que diferentemente de outras regiões a distribuição é mais equilibrada, onde a
+maior faixa é de muito baixa vulnerabilidade social com 44%. Ao analisar o mapa de
+classificação dos distritos conforme IPVS constata-se que os setores censitários
+classificados como vulnerabilidade alta e muito alta estão principalmente na periferia
+do extremo leste, e norte da região.
+São 211 farmácias cadastradas no PFP no território total da Zona Leste, e
+somente um distrito não tem nenhuma cadastrada, é o distrito do Pari. Assim como
+em outras regiões serão analisados os distritos em ordem decrescente de farmácias
+cadastradas no PFP.
+Assim, inicia-se as análises com um dos distritos da Zona Leste com o maior
+número de unidades cadastradas, é o distrito da Penha, que possui 15 pontos de
+vendas participantes do PFP no total da região, que atendem uma população de
+127.254 pessoas, gerando um PFP/Hab de1,18, residentes em 41.677 domicílios com
+a renda média mensal familiar de R$3.143,00 e da mesma forma como a distribuição
+dos setores censitários da Zona Leste, o maior percentual de setores censitários deste
+distrito também está classificado com vulnerabilidade muito baixa com 87%.
+
+36
+
+De modo igual ao distrito anterior, o distrito do Tatuapé tem 15 farmácias do
+PFP, mas se compararmos o número de habitantes verificamos que este é menor, são
+91.672 residentes acarretando em um PFP/Hab de1,64, e a renda média mensal
+familiar é de R$6.042,00 maior do que a verificada no distrito anterior. Já na análise
+da classificação dos setores censitários de acordo com IPVS, 97% dos setores deste
+está concentrada nas faixas vulnerabilidade baixíssima e muito baixa.
+Prosseguindo nossos entendimentos, temos o distrito da Móoca, com a
+segunda maior renda média mensal familiar no montante de R$5.445,00 ao total são
+25.180 domicílios, e o distrito é local de residência 71.431 pessoas que são atendidos
+por 14 farmácias cadastradas no PFP com o maior PFP/Hab da zona leste1,96 e 93%
+dos seus setores censitários estão classificados na pior das hipóteses como
+vulnerabilidade muito baixa.
+Com o mesmo número de farmácias cadastradas no PFP que o distrito da
+Móoca está São Mateus, mas com 145.616 habitantes o PFP/Hab é de 0,96. A
+população reside em 43.696 domicílios com renda média familiar de R$1.990,00 mês.
+A classificação dos setores censitários do distrito é muito parecida com o da região, a
+classificação com o maior percentual é da vulnerabilidade muito baixa com 45%.
+Ainda com 14 unidades cadastradas no PFP temos o distrito do Sapopemba,
+farmácias essas que devem atender a uma população de 157.217.063 pessoas,
+residentes em 85.837 domicílios, com renda média mensal familiar de R$1.832,00 e
+é o primeiro distrito analisado da Zona Leste que não tem nenhum setor classificado
+como vulnerabilidade baixíssima e o PFP/Hab é de 0,49.
+Concluindo as análises dos distritos com 14 farmácias cadastradas no PFP,
+percebemos a discrepância no volume de pessoas que os mesmos números de
+farmácias devem atender por distrito, este cenário só piora quando se analisa a renda
+média familiar, o PFP/Hab dos distritos ou em suas classificações de vulnerabilidade
+pelo IPVS.
+De 14 unidades cadastradas passamos para o próximo distrito analisado, que
+é suportado por 10 farmácias cadastradas no PFP, este é o distrito da Vila Formosa,
+área de residência de 93.146 pessoas e PFP/Hab de 1,07, sendo que 86% dos seus
+
+37
+
+setores censitários estão classificados como vulnerabilidade muito baixa ou
+baixíssima.
+Seguindo, encontra-se o distrito da Água Rasa tem 9 lojas no PFP, seus 84.963
+habitantes, PFP/Hab de 1,06, vivem em áreas classificados em 98% das vezes como
+vulnerabilidade muito baixa ou baixíssima.
+E o distrito da Vila Prudente, que também conta com 9 unidades do PFP, e
+verifica-se em sua extensão territorial 104.467 pessoas, PFP/Hab de 0,86, residentes
+em 34.779 domicílios com renda média mensal familiar de R$3.552, quando
+visualizada a distribuição dos setores censitários de acordo com grau de
+vulnerabilidade, verifica-se que 84% estão classificados com baixíssima ou muito
+baixa vulnerabilidade.
+Iniciando o próximo quintil, na faixa com 8 farmácias cadastradas no PFP
+identifica-se 3 distritos: Carrão, Itaim Paulista e São Miguel. O número de habitantes
+é similar entre o primeiro e terceiro distritos citados, em torno de 80.000 habitantes
+assim como o PFP/Hab, respectivamente, 0,94 e 0,91, já o distrito do Itaim Paulista
+tem 236.516 habitantes e PFP/Hab de 0,34. No entanto, não obstante a estas
+diferenças, verifica-se ainda que entre os setores censitários o percentual de
+classificação nas faixas do IPVS também está em desnível.
+Enquanto no Carrão não existe nenhum setor classificado pelo IPVS como
+vulnerabilidade média ou pior, no distrito de São Miguel 52% dos seus setores
+censitários estão classificados nas faixas entre média a muito alta vulnerabilidade e
+no Itaim Paulista essas faixas representam 76% do total, logo nos faz crer que este
+último distrito com maior número de pessoas, com uma vulnerabilidade social mais
+alta, não é tão bem suprido pelas 8 unidades presentes em seu território, se
+comparado aos outros dois distritos.
+Aricanduva, Artur Alvin, Itaquera e São Lucas são distritos atendidos por 7
+farmácias cadastradas no PFP, quando se analisa a renda média mensal familiar
+destas localidades não encontramos muita variação, estando contidas no intervalo de
+R$2.738,00 a R$2.110,00 logo uma variação de pouco mais de R$600,00. Ao
+considerarmos a população dos distritos, identificamos que o distrito de Itaquera é o
+único dos 4 que passa de 200 mil habitantes, já quando se analisa a distribuição dos
+
+38
+
+setores censitários pelo IPVS, temos que os distritos do Aricanduva, Arthur Alvin e
+São Lucas tem no mínimo 70% dos seus setores censitários classificados como
+vulnerabilidade muito baixa ou baixíssima, em Itaquera porém este percentual é de
+38%, e ao examinar o percentual dos setores classificados entre as faixas de média a
+muito alta vulnerabilidade do distrito de Itaquera, encontramos os mesmo de 38%.
+Logo comparando os distritos com 7 pontos de vendas cadastrados, devido a
+uma população maior e maior vulnerabilidade na classificação de acordo com o IPVS,
+chega-se à conclusão da maior necessidade de aumento de farmácias cadastradas
+no PFP no distrito de Itaquera análise esta reforçada quando se verifica o PFP/Hab
+de Itaquera 0,34, São Lucas 0,49, Artur Alvim 0,66 e Aricanduva 0,78.
+A seguir, observamos o distrito de Ermelino Matarazzo, que é habitado por
+108.189 pessoas, vivendo em 32.311 domicílios com uma renda média mensal família
+R$2.093,00 à disposição em seu território estão 6 farmácias cadastradas no PFP, o
+que gera um PFP/Hab de 0,55 e verificando os seus setores censitários temos que
+62% estão classificados como vulnerabilidade baixa e muito baixa.
+Outro distrito da zona leste com 6 farmácias cadastradas no PFP é o do
+Iguatemi, mas quando comparamos com o anterior constata-se uma população maior,
+170.025 pessoas, logo PFP/Hab menor 0,35, e com poder aquisitivo menor, renda
+média mensal familiar de R$1.502,00. A classificação dos setores censitários de
+acordo com o IPVS, nos demonstra que 43% dos seus setores estão classificados
+como muito alta ou alta vulnerabilidade social. Logo entre os dois distritos com 6
+unidades cadastradas no PFP, considerando as variáveis analisadas, a maior
+necessidade de novos pontos de venda está no distrito do Iguatemi.
+O distrito do Belém abarca em seu território 5 farmácias do PFP, para atender
+uma população de 44.480 habitantes acarretando em um PFP/Hab bom para a região
+de 1,12, com uma renda média mensal familiar de R$4.115,00, sendo que 96% dos
+seus setores censitários estão classificados como vulnerabilidade entre baixa e
+baixíssima.
+Assim como o Belém, o distrito da Vila Matilde tem 5 farmácias cadastradas no
+PFP, outra semelhança é a classificação dos setores censitários, são os mesmos 96%
+com vulnerabilidade social entre baixa e baixíssima.
+
+39
+
+O último distrito da zona leste com 5 farmácias do PFP é o do Lajeado, com
+uma população de 153.301 residentes em 43.587 domicílios, e com renda média
+mensal familiar R$1.470,00 quando se pondera a classificação dos setores censitários
+no IPVS a mesma faixa citada nos dois últimos registros representa apenas 29% do
+distrito do Lajeado, logo dentre os três, refletindo os aspectos mencionados, seria
+evidente a maior necessidade deste distrito perante aos outros de novos pontos de
+venda participantes conclusão reforçada pelo PFP/Hab de 0,33.
+São 3 os distritos com 4 farmácias cadastras no PFP, Brás, José Bonifácio e
+São Rafael. No distrito do Brás são 34.700 habitantes, PFP/Hab de 1,15 e os seus
+setores censitários estão classificados em 98% como vulnerabilidade baixa, muito
+baixa e baixíssima. A realidade vista no distrito de José Bonifácio é de 132.285
+pessoas, PFP/Hab de 0,30, vivendo com uma renda média mensal familiar de
+R$1.842,00 e os setores censitários das faixas citadas para o distrito do Brás
+representam 57% da área do distrito de José Bonifácio.
+Finalizando a faixa de distritos com 4 farmácias cadastradas no PFP temos o
+distrito de São Rafael, verifica-se 143.573 pessoas e nesta faixa o menor PFP/Hab
+0,28, moradores de 40.631 domicílios e uma renda média mensal familiar de
+R$1.652,00. Os setores censitários classificados entre média vulnerabilidade e muito
+alta vulnerabilidade pelo IPVS representam 59%, logo com uma maior população,
+menor renda média e pior classificação do IPVS perante aos outros dois distritos, São
+Rafael seria o local mais aconselhado para uma nova unidade de ponto de venda
+cadastrado no PFP, se comparado ao Brás e José Bonifácio.
+O distrito da Cangaíba tem 3 farmácias do PFP para atender uma população
+de 142.502 pessoas, um PFP/Hab de 0,21 e 43.141 domicílios com renda média
+mensal familiar de R$2.300,00 e somente 10% dos seus setores censitários estão
+classificados pelo IPVS como vulnerabilidade alta ou muito alta.
+Enquanto o distrito de Guaianases possui o mesmo número de farmácias
+cadastradas no PFP que o acima citado, mas com uma população menor, são 106.885
+o que acarreta em um PFP/Hab maior de 0,28, e tem a renda média mensal familiar
+de R$1.740,00 com 22% dos seus setores censitários estão na faixa de
+vulnerabilidade alta ou muito alta segundo o IPVS.
+
+40
+
+Vila Curuçá e Cidades Tiradentes, completam os distritos com 3 farmácias
+cadastradas, respectivamente, com 151.378 e 157.695 habitantes e PFP/Hab 0,20 e
+0,19. Os dois distritos têm pouco mais de 44.000 domicílios cada, mas ao comparar a
+renda média familiar, temos o distrito da Cidade Tiradentes com um montante de
+R$1.401,00 e o distrito da Vila Curuçá com R$1.731,00. Outra diferença é relativa à
+classificação dos seus setores censitários pelo IPVS nas faixas de alta e muito alta
+vulnerabilidade, Vila Curuçá tem 22% e Cidade Tiradentes 39%, o que nos leva a
+refletir mais uma vez sobre a ponderação, por parte do Governo, de um número maior
+de variáveis para uma efetiva distribuição destes pontos de acesso a medicamentos
+de forma gratuita ou beneficiada.
+O distrito da Ponte Rasa tem 92.902 habitantes, 28.393 domicílios e uma renda
+média mensal familiar de R$2.531,00, população está que deve ser atendida por 2
+farmácias do PFP no território de seu distrito um PFP/Hab de 0,22. Ao observar as
+faixas de alta vulnerabilidade e muito alta vulnerabilidade o distrito em questão
+apresenta somente 3% dos seus setores censitários classificados nestas faixas pelo
+IPVS.
+Cidade Líder é o segundo distrito com 2 farmácias do PFP da Zona Leste, com
+127.085 habitantes, PFP/Hab de 0,16, 37.725 domicílios e uma renda média familiar
+mensal de R$2.328,00, pelo IPVS 8% dos setores censitários estão determinados nas
+faixas de vulnerabilidade alta ou muito alta.
+O distrito de Vila Jacuí também tem 2 farmácias no PFP, mas comparado aos
+outros dois distritos com a mesma quantidade de farmácias da PFP da Zona Leste
+têm uma população maior com 142.452 habitantes, PFP/Hab de 0,14, renda média
+mensal familiar de R$1.840,00 e de acordo com a classificação do IPVS 24% dos
+setores censitários estão classificados como vulnerabilidade alta ou muito alta.
+O distrito do Parque do Carmo, é o primeiro representante da Zona Leste com
+somente 1 farmácia participante do PFP, que deve atender seus 72.522 moradores,
+PFP/Hab de 0,14, residentes em 21.582 domicílios, contudo observando a
+classificação do IPVS dos seus setores censitários, temos que 65% estão
+classificados entre as faixas de vulnerabilidade baixa e baixíssima.
+
+41
+
+Outro distrito da zona leste com 1 farmácia do PFP é o de Jardim Helena, são
+39.050 domicílios com 137.797 moradores e PFP/Hab 0,07, renda média familiar
+mensal de R$1.477,00, no entanto considerando as faixas do IPVS abordada para o
+Parque do Carmo o distrito de Jardim Helena contém apenas 24% dos setores
+censitários entre as faixas de vulnerabilidade baixíssima e baixa.
+Além dos distritos acima citados, observa-se um único distrito da zona leste que
+não contém nenhuma farmácia cadastrada no PFP. É o distrito do Pari, que
+coincidentemente ou não, também é o de menor área territorial com 2,83 km², que
+acomodam 17.876 moradores, que residem em 5.736 domicílios. Na análise da
+classificação dos setores censitários pelo IPVS deste distrito, 86% dos seus estão
+entre as faixas de baixa vulnerabilidade ou muito baixa ou baixíssima vulnerabilidade.
+Desta maneira, conclui-se a análise de distribuição de pontos de vendas
+participantes da ação do governo realizada pelo PFP na Zona Leste, e novamente
+verifica-se a necessidade da ponderação de novas medidas para que o alcance deste
+projeto ocorra de forma mais efetiva para os mais necessitados.
+
+42
+
+2.3 - Zona Norte
+A região da Zona Norte é composta por 18 distritos, um total de 2.268.864
+habitantes que residem em 699.668 residências distribuídos em 312 km², gerando
+uma densidade demográfica de 7.259 hab/km². A renda nominal mensal total da área
+é de R$2.131.925.073, ao dividirmos pelos domicílios chegamos a renda média
+familiar de: R$3.047,00 de acordo com os dados do Censo 2010.
+Abaixo seguem os mapas de número de farmácias cadastradas no PFP por
+distrito e o do Índice Paulista de Vulnerabilidade Social da Zona Norte.
+.
+
+43
+
+Mapa 7 – Número de Farmácia Popular por Distrito Zona Norte – SP
+
+44
+
+Mapa 8 – Farmácia Popular por Habitante Distrito Zona Norte – SP
+
+45
+
+Mapa 9 – Índice Paulista de Vulnerabilidade Social Zona Norte – SP
+
+Dados por Distritos Zona Norte (Quadro 6)
+
+SANTANA
+TUCURUVI
+TREMEMBÉ
+FREGUESIA DO Ó
+MANDAQUI
+VILA MARIA
+VILA MEDEIROS
+CASA VERDE
+JAÇANÃ
+PIRITUBA
+BRASILÂNDIA
+CACHOEIRINHA
+JARAGUÁ
+LIMÃO
+VILA GUILHERME
+SÃO DOMINGOS
+ANHANGUERA
+PERUS
+
+Distrito
+
+3
+8
+5
+4
+3
+
+16
+1
+12
+
+68
+12
+3
+9
+18
+5
+
+157
+156
+137
+177
+141
+89
+151
+89
+81
+173
+93
+108
+106
+93
+65
+75
+17
+24
+
+6
+9
+71
+37
+15
+51
+37
+19
+14
+32
+92
+33
+55
+13
+9
+16
+32
+24
+40
+1
+3
+18
+2
+
+46
+20
+9
+4
+25
+9
+20
+39
+74
+32
+46
+11
+1
+12
+20
+59
+13
+12
+75
+24
+31
+3
+1
+7
+53
+28
+
+1
+
+1
+
+8
+12
+46
+29
+14
+2
+2
+9
+7
+21
+
+40
+1
+1
+12
+6
+
+Baixissíma
+Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade
+vulnerabilidade
+muito baixa
+Baixa
+média
+alta
+muito alta
+
+Número de Setores Censitários por Grupos Índice de Vulnerabilidade Social Paulista
+
+233
+177
+337
+245
+187
+179
+221
+133
+137
+280
+380
+229
+260
+127
+82
+122
+129
+156
+
+Total
+23
+14
+12
+8
+8
+6
+6
+5
+5
+5
+4
+4
+4
+4
+4
+2
+1
+1
+
+117.835
+99.546
+206.668
+146.961
+110.456
+113.391
+129.721
+85.593
+83.413
+172.053
+264.231
+142.250
+171.843
+79.377
+54.331
+82.185
+68.410
+83.751
+
+PFP População
+
+Farmácia
+Domicílios
+PFP / Hab Particulares
+(x 10.000) Permanente
+1,95
+41.327
+1,41
+32.951
+0,58
+59.862
+0,54
+46.515
+0,72
+36.268
+0,53
+35.242
+0,46
+39.820
+0,58
+27.003
+0,60
+24.566
+0,29
+54.493
+0,15
+76.834
+0,28
+42.277
+0,23
+49.554
+0,50
+24.608
+0,74
+17.750
+0,24
+25.801
+0,15
+20.204
+0,12
+23.811
+
+Renda
+Nominal
+Familiar
+241.449.920
+127.022.280
+145.116.054
+141.409.002
+137.844.175
+92.886.324
+93.161.236
+96.275.829
+62.404.791
+166.420.401
+132.351.768
+97.772.251
+96.512.741
+76.102.539
+65.791.451
+75.938.861
+36.134.706
+39.264.639
+
+Renda Média
+Familiar
+(R$/MÊS)
+5.842
+3.855
+2.424
+3.040
+3.801
+2.636
+2.340
+3.565
+2.540
+3.054
+1.723
+2.313
+1.948
+3.093
+3.707
+2.943
+1.788
+1.649
+
+46
+
+47
+
+Quando se analisa a distribuição dos setores censitários da região visualiza-se
+a seguinte realidade:
+(Quadro 7)
+
+De um total de 3.614 setores censitários, mais de 70%, sendo mais preciso
+73%, o que representa 2.664 setores censitários são classificados como baixa, muito
+baixa ou baixíssima vulnerabilidade. Isso demonstra que boa parte da área está bem
+classificada perante a metodologia do IPVS.
+Estas áreas como é possível observamos no mapa estão em sua maioria mais
+próximas da fronteira sul da região, representada pela Marginal Tietê. No entanto
+quando se observa áreas mais ao norte, constata-se uma área com maior
+vulnerabilidade social.
+Nesta região identificamos 116 farmácias cadastradas no PFP, de um total de
+760 no município.
+Estas farmácias estão distribuídas nos distritos da região, e para melhor
+visualização desta dinâmica, as mesmas foram segregadas em 5 faixas de acordo
+com o número de farmácias cadastradas no PFP encontradas assim temos:
+
+
+Mais de 20 farmácias cadastradas no PFP, somente o distrito de Santana.
+
+
+
+De 13 a 20 farmácias, somente o distrito de Tucuruvi.
+
+
+
+De 9 a 12 farmácias, somente o distrito do Tremembé
+
+48
+
+
+
+De 6 a 8 farmácias, 4 distritos possuem essa característica, são eles:
+Mandaqui, Freguesia do Ó, Vila Medeiros e Vila Maria.
+
+
+
+Até 5 farmácias, é o maior grupo com 11 distritos: Anhanguera, Perus, Jaraguá,
+São Domingos, Pirituba, Brasilândia, Cachoeirinha, Limão, Casa Verde, Vila
+Guilherme e Jaçanã.
+
+Analisando a organização desta zona, destaca-se o distrito de Santana com 23
+farmácias participantes do programa, uma população de 117.836, PFP/Hab 1,95 e
+com o IPVS quase que por completo classificado com vulnerabilidade baixa ou melhor,
+logo a população do distrito tem uma boa qualidade de vida no local, observação
+reforçada pela maior renda média familiar mês dos distritos da zona com R$5.842,00,
+e ao mesmo tempo dispõem do maior volume de farmácia cadastradas na região.
+Seguindo a divisão de grupos mostradas anteriormente da região, será
+abordado o próximo distrito com maior número de farmácias participantes do PFP, no
+caso o distrito do Tucuruvi, com 14 pontos de vendas cadastrados. Neste não existe
+nenhum setor censitário classificado como média vulnerabilidade ou pior, logo os
+pouco mais de 32.000 domicílios fixados para 99.546 pessoas, o que gera um
+PFP/Hab de 1,41 além de terem opções de farmácias do PFP tem um bom acesso a
+serviços prestados pelo Estado, inserção de mercado no trabalho e educação.
+Assim como nas duas faixas já citadas o Tremembé é o único dos distritos na
+faixa de 9 a 12 farmácias do PFP, com 12. Neste distrito vemos duas realidades
+distintas quanto ao IPVS, temos uma área de vulnerabilidade alta e muito alta próximo
+ao município de Guarulhos e mais ao extremo da região e outra na divisa com o
+Tucuruvi de perfil oposto. O distrito como um todo é bem atendido no PFP, se
+comparado a outros da Zona Norte, no entanto vale destacar que não
+necessariamente as farmácias participantes estão distribuídas de forma equilibrada
+no território.
+Passando para próxima faixa de volume de farmácias cadastradas na iniciativa
+do governo, temos 4 distritos: Freguesia do Ó, Mandaqui, Vila Medeiros e Vila Maria,
+respectivamente eles possuem, 8; 8; 6 e 6 farmácias inscritas no PFP. Estamos
+falando de pouco mais de 500 mil habitantes que tem a sua disposição acesso a
+medicamentos de forma gratuita ou com desconto. Quando se analisa o IPVS destas
+áreas constata-se uma predominância de setores censitários classificados de baixa
+
+49
+
+vulnerabilidade para cima, ou seja, a população tende a ter uma boa qualidade de
+vida.
+Por fim, abordando o último quintil da divisão do volume de farmácias do PFP,
+será analisado individualmente os distritos pertencentes a esta faixa, de acordo com
+o volume decrescente de farmácias cadastradas no programa.
+Assim, identificamos o distrito de Pirituba com 54.493 domicílios sendo
+atendidos por 5 farmácias, para 172.053 habitantes e um PFP/Hab de 0,29. Com 20%
+dos seus setores censitários classificados como média vulnerabilidade ou pior. No
+entanto a renda média familiar mensal de R$3.054,00, atrelada ao fato de que os
+outros 80% dos seus setores censitários estarem classificados como baixa
+vulnerabilidade, ou melhor no IPVS, faz crer que o programa possivelmente atende à
+demanda. Porém quando se vê o PFP/Hab constata-se a necessidade de mais
+farmácias do programa no distrito.
+Já os distritos da Casa Verde e Jaçanã são muito parecidos estaticamente em
+algumas variáveis, conforme segue respectivamente: total de 133 e 137 setores
+censitários, número de domicílios 85.593 e 83.413 e farmácias cadastradas no PFP 5
+e PFP/Hab 0,60 e 0,58. Contudo, quando se estuda as distribuições dos setores de
+acordo com o grau de vulnerabilidade, temos que 30% dos setores do distrito do
+Jaçanã são classificadas com médio ou pior, enquanto na Casa Verde somente 7%
+apresentam esta classificação. Logo a necessidade de acesso a medicamento a baixo
+custo é maior para o distrito do Jaçanã, conclusão reforçada pela renda média familiar
+de R$2.540,00 comparada a R$3.565,00 da Casa Verde, e, no entanto, ambos
+possuem o mesmo volume de farmácias cadastradas no PFP.
+Analisando o distrito da Vila Guilherme, que possui 54.331 pessoas vivendo em
+uma área com 95% dos seus setores censitários classificados como vulnerabilidade
+baixa ou níveis melhores, verificamos que sua população tem a possibilidade de ser
+atendida por 4 unidades da PFP e o distrito um PFP/Hab de 0,74. Considerando que
+estamos falando de uma área de 6,6 km², podemos dizer que é uma área atendida de
+forma satisfatória tanto na quantidade de farmácias cadastradas quanto no acesso à
+educação, emprego e transporte.
+
+50
+
+Ainda considerando os distritos com 4 unidades de farmácias cadastradas no
+PFP, temos o distrito do Limão com 87% dos seus setores censitários enquadrados
+como baixa vulnerabilidade, ou melhor perante ao IPVS. São 79.377 pessoas que tem
+acesso a 4 lojas cadastradas no PFP e um PFP/Hab de 0,50, quando comparado com
+o distrito da Vila Guilherme analisado acima, verificamos que o mesmo número de
+farmácias é utilizado para atender uma população com uma diferença de mais de
+25.000 pessoas.
+Mais dois distritos com 4 lojas do PFP são Cachoeirinha e Jaraguá, separados
+territorialmente por Brasilândia, ambos têm estrutura muito similar na distribuição pelo
+IPVS, onde estão caracterizados com 37% e 35% de suas áreas classificadas como
+média, alta ou muito alta vulnerabilidade social, ou seja, são distritos com estruturas
+mais fragilizadas que os anteriores citados e no entanto possuem o mesmo número
+de farmácias.
+O último distrito aqui analisado com 4 pontos de venda cadastrados no PFP é
+o de Brasilândia, possui a maior população residente da Zona Norte, são 264.231
+pessoas um PFP/Hab de 0,15 e 76.834 domicílios. Este simples dado já seria
+suficiente para pleitear mais farmácias cadastradas no PFP, aliando- se ainda ao fato
+de que 51% dos seus setores censitários estão classificados com vulnerabilidade de
+média a muito alta, fica evidenciado que estamos falando de um elevado número de
+população que carece de melhores estruturas e não tem acesso na mesma qualidade
+ao PFP comparado a outros distritos.
+Ao analisar o distrito de São Domingos verifica-se que os cerca de 82.000
+habitantes têm acesso a somente 2 pontos de vendas cadastrados um PFP/Hab de
+0,24, o IPVS da área está com bons índices, 77% é considerado como vulnerabilidade
+de baixa para baixíssima, no entanto distritos com características semelhantes têm
+mais opções de acesso ao PFP, nos levando a crer na necessidade me mais
+farmácias cadastradas.
+Anhanguera e Perus são dois distritos no noroeste do município de São Paulo,
+em áreas periféricas de extrema carência, vide a renda média familiar mensal de
+R$1.788,00 e R$1.649,00, respectivamente, ambos com até 62% dos setores
+censitários classificados com vulnerabilidade média, baixa ou muito baixa, e que têm
+cadastrada somente 1 farmácia do PFP, por distrito, isso para atender uma população
+
+51
+
+de no mínimo 68.410 habitantes, ou seja, estamos falando de pessoas que
+comparadas a de outros distritos necessitam em maior intensidade ter acesso a
+medicamento de forma mais barata e são limitadas a comprar em um único local o
+que é reforçado por um PFP/Hab de 0,15 para Anhanguera e 0,12 para Perus. Nesta
+situação fica clara a discrepância no processo de cadastramento dos pontos de venda
+no PFP se alinhados à necessidade da população.
+
+2.4 - Zona Oeste
+A região da Zona Oeste é a segunda menor do município de São Paulo, em
+extensão territorial e número de distritos, são 128 km² distribuídos em 15 distritos. São
+368.673 domicílios que acomodam 1.023.751 residentes, nos 15 distritos que
+compõem a região. A densidade demográfica é de 7.938 hab/km² e a renda média
+mensal familiar de R$7.361,00.
+Em ordem alfabética os distritos que formam a região são: Alto de Pinheiros;
+Barra Funda; Butantã; Itaim Bibi; Jaguará; Jaguaré; Jardim Paulista; Lapa; Morumbi;
+Perdizes; Pinheiros; Raposo Tavares; Rio Pequeno; Vila Leopoldina e Vila Sônia.
+A seguir, será apresentado o mapa de número de farmácias cadastradas no
+PFP por distrito, o mapa do IPVS da região e alguns dados por distrito da região da
+Zona Oeste em formato de tabela.
+
+52
+
+Mapa 10 – Número de Farmácia Popular por Distrito Zona Oeste – SP
+
+53
+
+Mapa 11 – Farmácia Popular por Habitante Distrito Zona Oeste – SP
+
+54
+
+Mapa 12 – Índice Paulista de Vulnerabilidade Social Zona Oeste – SP
+
+ITAIM BIBI
+JARDIM PAULISTA
+PINHEIROS
+LAPA
+PERDIZES
+BUTANTÃ
+ALTO DE PINHEIROS
+MORUMBI
+VILA LEOPOLDINA
+VILA SÔNIA
+JAGUARÉ
+RIO PEQUENO
+BARRA FUNDA
+RAPOSO TAVARES
+JAGUARA
+
+Distrito
+
+184
+210
+146
+69
+189
+72
+64
+113
+43
+93
+27
+59
+23
+9
+
+20
+5
+28
+70
+23
+71
+14
+6
+25
+119
+38
+127
+12
+99
+32
+64
+1
+
+26
+13
+26
+
+5
+
+2
+3
+10
+4
+19
+1
+20
+15
+2
+
+1
+4
+9
+
+8
+3
+20
+21
+19
+1
+16
+
+2
+
+1
+1
+5
+12
+1
+
+1
+
+3
+
+Baixissíma
+Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade
+vulnerabilidade
+muito baixa
+Baixa
+média
+alta
+muito alta
+
+Número de Setores Censitários por Grupos Índice de Vulnerabilidade Social Paulista
+
+208
+215
+175
+141
+217
+157
+78
+134
+74
+269
+107
+259
+37
+223
+35
+
+Total
+32
+20
+20
+17
+17
+15
+11
+9
+5
+5
+4
+4
+3
+2
+1
+
+92.533
+88.607
+65.489
+66.014
+110.886
+63.036
+42.526
+47.457
+39.710
+108.117
+50.143
+109.118
+14.323
+100.897
+24.895
+
+PFP População
+
+Farmácia
+Domicílios
+PFP / Hab Particulares
+(x 10.000) Permanente
+3,46
+39.230
+2,26
+39.658
+3,05
+27.157
+2,58
+24.190
+1,53
+43.530
+2,38
+21.147
+2,59
+15.159
+1,90
+15.666
+1,26
+13.649
+0,46
+34.541
+0,80
+16.499
+0,37
+34.605
+2,09
+5.623
+0,20
+30.084
+0,40
+7.935
+
+Renda
+Nominal
+Familiar
+380.131.546
+416.575.032
+242.498.752
+162.034.011
+365.614.545
+118.790.990
+169.399.570
+194.808.993
+116.209.422
+189.563.011
+61.298.182
+154.239.204
+38.666.535
+79.783.895
+24.369.869
+
+Renda Média
+Familiar
+(R$/MÊS)
+9.690
+10.504
+8.930
+6.698
+8.399
+5.617
+11.175
+12.435
+8.514
+5.488
+3.715
+4.457
+6.876
+2.652
+3.071
+
+55
+
+Dados por Distritos Zona Oeste (Quadro 8)
+
+56
+
+Segue a distribuição dos setores censitários da Zona Oeste de acordo com o
+grau de vulnerabilidade do IPVS:
+(Quadro 9)
+
+Formando a região são 2.329 setores censitários. Analisando o gráfico verificase que 86% destes sãos classificados como vulnerabilidade muito baixa ou
+baixíssima. Onde dos 15 distritos 10 não têm nenhum setor classificado com
+vulnerabilidade média ou pior. Relativo a PFP são 165 farmácias, é a região com maior
+número de distritos localizados no primeiro quintil, são 3 no total.
+Serão iniciadas as análises dos distritos da região pelo distrito com maior
+número de farmácias cadastradas no PFP, o distrito do Itaim Bibi, no total são 32
+pontos de venda, para atender uma população de pouco mais de 92.000 habitantes o
+que acarreta em PFP/Hab de 3,46. São 39.230 domicílios com uma renda média
+mensal familiar de R$9.690,00, sendo que 88% dos setores censitários que compõem
+a área são classificados como baixíssima vulnerabilidade. É um distrito com uma
+relação morador e farmácia do PFP supersaturado se comparado aos outros distritos
+analisados neste trabalho.
+
+57
+
+Outro distrito muito bem atendido pelo programa é o do Jardim Paulista, são 20
+unidades que atendem uma população de 88.607 pessoas o PFP/Hab de 2,26, cuja
+as famílias têm uma renda média mensal familiar acima de R$10.000,00. Para reforçar
+a discrepância do perfil do PFP e o perfil sócio econômico do distrito, 98% dos setores
+são classificados como baixíssima vulnerabilidade social, melhor percentual de
+classificação de um distrito dentro do município de São Paulo.
+Assim como o distrito anterior Pinheiros tem 20 lojas cadastradas no PFP,
+atendendo uma população de 65.489, PFP/Hab de 3,05 e os setores censitários estão
+classificados em 99% dos casos nas faixas de baixíssima e muito baixa
+vulnerabilidade social.
+Progredindo com os estudos, verifica-se dois distritos que têm 17 lojas do PFP,
+a Lapa com 66.014 habitantes, PFP/Hab de 2,58 residindo em 24.190 domicílios e
+Perdizes com 110.886 residentes, PFP/Hab de 1,53 em 43.530 domicílios. Logo,
+examinando somente estes dados, constatamos que por mais que os dois distritos
+sejam bem atendidos pelo programa, a área da Lapa promove um melhor acesso a
+seus moradores.
+O distrito do Butantã conta com 15 farmácias cadastradas no PFP para atender
+seus 63.063 moradores um PFP/Hab de 2,38 que vivem em setores censitários
+classificados pelo IPVS em 91% dos casos como baixíssima ou muito baixa
+vulnerabilidade social.
+São 11 pontos de venda do PFP no distrito de Alto de Pinheiros, onde 100%
+dos seus setores censitários estão classificados como muito baixa ou baixíssima
+vulnerabilidade social, e com uma população de 42.526 pessoas vivendo neste
+contexto, tais dados geram um PFP/Hab de 2,59.
+O próximo distrito tratado aqui tem a maior renda média mensal familiar do
+município de São Paulo, são R$12.435,00, este é o distrito do Morumbi, que é local
+de moradia para 47.547 pessoas com acesso a 9 farmácias cadastradas no PFP,
+gerando um PFP/Hab de 1,90. No entanto, vale ressaltar que 6% dos seus setores
+censitários estão classificados como muito alta vulnerabilidade, característica que
+diverge dos outros distritos da zona oeste estudados até o momento.
+
+58
+
+De um volume de 9 farmácias cadastradas no PFP, pulamos para o número de
+5 pontos de vendas cadastrados no distrito da Vila Leopoldina, quantidade que deve
+atender 13.649 domicílios com uma renda média familiar mensal de R$8.514,00, o
+distrito tem um PFP/Hab de 1,26 a área é caracterizada por 92% dos seus setores
+censitários classificados como vulnerabilidade baixíssima ou muito baixa.
+Outro distrito com 5 farmácias cadastradas no PFP é o da Vila Sônia, no entanto
+o número de domicílios é de 34.541, ou seja, o mesmo número de pontos de venda
+para atender muito mais pessoas, acarretando um PFP/Hab de 0,46 quando
+consideramos a classificação da região no IPVS temos um percentual de 79% dos
+setores censitários nas 2 melhores faixas do índice.
+Jaguaré é o único dos distritos da zona oeste em que o percentual de setores
+censitários classificado como vulnerabilidade social muito alta passa dos dois dígitos,
+são 20% do total. Contudo, sua população composta por 50.143 pessoas vivendo em
+16.499 domicílios, somente contam com 4 farmácias do PFP na região, gerando
+PFP/Hab de 0,80.
+O distrito do Rio Pequeno também usufrui de 4 farmácias cadastradas no PFP,
+quantidade esta que deve atender uma população de 109.118 pessoas residentes em
+34.605 domicílios, e quando se analisa a distribuição dos setores censitários de
+acordo com o IPVS deste distrito destaca-se o fato de que 11% dos seus setores
+censitários estão classificados como vulnerabilidade alta ou muito alta, em
+compensação devido a maior população seu PFP/Hab é menor, 0,37, que o do
+Jaguaré, mostrando que se fosse para abrir mais uma unidade do PFP seria
+necessário aprofundar os estudos para definir qual local mais necessitado dos dois.
+Com 3 pontos de vendas cadastrados no PFP, temos o distrito da Barra Funda,
+que é o distrito com a menor população se comparado aos outros da zona oeste, são
+apenas 14.323 pessoas, o que faz com que o PFP/Hab seja elevado 2,09, os setores
+censitários são classificados em 95% das vezes como vulnerabilidade baixa ou muito
+baixa.
+O penúltimo distrito analisado da zona oeste é o de Raposo Tavares, são pouco
+mais de 30.000 domicílios que têm acesso ao PFP através de 2 farmácias com um
+
+59
+
+PFP/Hab de 0,20, existem setores censitários presentes em todas as classificações
+do IPVS, no entanto o maior percentual está na faixa de muito baixa com 44%.
+Por fim, temos o distrito do Jaguara que constitui a menor área territorial da
+zona oeste, e que ao se analisar a classificação dos setores censitários desta área,
+observa-se que 91% deles são considerados com vulnerabilidade muito baixa pelo
+IPVS. Entretanto, sua população de 24.895 pessoas, que é maior que o número de
+habitantes do distrito da Barra Funda, só pode contar com 1 farmácia cadastrada no
+PFP, mas o volume menor de população gera um PFP/Hab de 0,40, demonstrando
+mais uma vez, a necessidade de um estudo mais criterioso para que as medidas do
+governo se tornem mais efetivas quanto ao alcance da população.
+2.5 - Centro
+As análises serão iniciadas com base nos dados da região denominada como
+Centro. Esta região é composta pelos distritos: Bom Retiro, Santa Cecília, República,
+Consolação, Sé, Bela Vista, Liberdade e Cambuci.
+Tal área tem 26 km² de extensão, uma população residente de 430.964
+pessoas, distribuídas em 178.278 domicílios, com soma de renda nominal familiar de
+R$924.841.736,00 mês o que gera uma renda média familiar mensal de R$5.188,00
+e uma densidade demográfica de 16.372 habitantes por quilômetro quadrado.
+A seguir será visualizado o mapa com a representação por distrito do número
+de farmácias cadastradas no PFP, o mapa de vulnerabilidade da região e uma tabela
+com os dados abertos por distrito, para embasamento e ponderação mais minuciosa
+da região.
+
+60
+
+Mapa 13 – Número de Farmácia Popular por Distrito Zona Centro – SP
+
+61
+
+Mapa 14 – Farmácia Popular por Habitante Distrito Zona Centro – SP
+
+62
+
+Mapa 15 – Índice Paulista de Vulnerabilidade Social Zona Centro – SP
+
+SÉ
+CONSOLAÇÃO
+REPÚBLICA
+BELA VISTA
+LIBERDADE
+SANTA CECÍLIA
+CAMBUCI
+BOM RETIRO
+
+Distrito
+
+3
+138
+45
+96
+63
+85
+11
+5
+
+12
+2
+45
+20
+19
+51
+31
+23
+
+29
+7
+50
+27
+36
+28
+12
+19
+1
+
+1
+
+1
+
+2
+
+2
+
+Baixissíma
+Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade Vulnerabilidade
+vulnerabilidade
+muito baixa
+Baixa
+média
+alta
+muito alta
+
+Número de Setores Censitários por Grupos Índice de Vulnerabilidade Social Paulista
+
+47
+147
+140
+143
+118
+164
+55
+50
+
+Total
+13
+12
+12
+10
+9
+7
+4
+1
+
+23.509
+57.365
+56.981
+69.460
+69.427
+83.540
+36.613
+34.069
+
+PFP População
+
+Farmácia
+Domicílios
+PFP / Hab Particulares
+(x 10.000) Permanente
+5,53
+9.098
+2,09
+26.339
+2,11
+26.344
+1,44
+29.967
+1,30
+27.404
+0,84
+35.782
+1,09
+12.555
+0,29
+10.789
+
+Renda
+Nominal
+Familiar
+21.510.148
+217.018.947
+86.866.219
+175.069.175
+144.823.114
+185.330.942
+62.445.414
+31.777.777
+
+Renda Média
+Familiar
+(R$/MÊS)
+2.364
+8.239
+3.297
+5.842
+5.285
+5.179
+4.974
+2.945
+
+63
+
+Dados por Distritos Centro (Quadro 10)
+
+64
+
+Ao analisar a distribuição dos setores censitários de acordo com o grau de
+vulnerabilidade da região Central se chega a seguinte distribuição:
+(Quadro 11)
+
+É possível constatar que se trata de uma região cujo volume de setores
+censitários definidos com a vulnerabilidade de média ou pior é ínfima; tal fato está
+muito atrelado a ocupação da cidade de São Paulo, que sempre concentrou em
+algumas áreas desta região pessoas com o nível financeiro elevado.
+Em tais áreas geralmente, é possível identificar a facilidade de acesso aos
+serviços de transporte, trabalho, educação e saúde apresentando correlações com a
+ocupação e desenvolvimento municipal.
+Quanto ao volume de farmácias, nota-se que são 68 farmácias cadastradas no
+PFP contidas na região do Centro de um total de 760 no município
+Esta região, porém, não apresenta nenhum distrito no primeiro quintil em
+volume de farmácias cadastradas no PFP, ou seja, nenhum dos 8 distritos possui mais
+de 20 farmácias cadastradas.
+Sendo que o distrito da Sé é o que abriga o maior número de farmácias
+cadastradas, caracterizando-se como o único dos distritos da região central localizado
+no segundo quintil, contabilizando 13 unidades inscritas no PFP, ao apresentar o
+
+65
+
+menor número de domicílios e população da região tem o maior PFP/Hab da região e
+do município com 5,53.
+Em seguida identificam-se dois distritos que aparecem empatados no volume
+de farmácias cadastradas no PFP, são os distritos da Consolação e República, cada
+um deles com 12 farmácias.
+Destaca-se que o distrito da Consolação é composto quase que na sua
+totalidade por setores censitários definidos como baixíssima vulnerabilidade, melhor
+das faixas possíveis de classificação, logo seus poucos mais de 55 mil habitantes têm
+melhores condições de vida, na perspectiva do IPVS, e acesso a descontos e
+gratuidades nos medicamentos através do PFP, para corroborar com as conclusões
+o distrito apresenta um PFP/Hab de 2,09.
+Já no distrito da República temos uma divisão territorial clara dos setores
+censitários de acordo com o grupo do IPVS, as regiões com as melhores
+classificações no índice estão lindeiras aos distritos da Consolação e Bela Vista, no
+entanto quanto maior a proximidade do distrito da Sé a área passa a ser caracterizada
+como um índice de vulnerabilidade média, 12 farmácias cadastradas no PFP, para
+uma população residente de 56.981, o que gera um PFP/Hab de 2,11.
+Os distritos da Bela Vista e Liberdade têm, respectivamente, 10 e 9 pontos de
+venda cadastrados, um PFP/Hab de 1,44 e 1,30. Nos dois distritos temos um total de
+pouco mais de 138.000 habitantes que estão classificados, na pior das hipóteses, com
+um índice de vulnerabilidade média.
+Outro distrito com essa característica na classificação de vulnerabilidade é o da
+Santa Cecília, mas comparando a quantidade de farmácias cadastradas no PFP com
+um total de 7 farmácias, o que chama atenção, já que é o distrito com a maior
+população residente da região, 85.540 pessoas distribuídas em 35.782 domicílios,
+gerando o PFP/Hab de 0,84.
+Observamos dois distritos com até 5 farmácias participantes do PFP, são eles
+o distrito do Cambuci, com 4 farmácias e o distrito do Bom Retiro com apenas 1
+farmácia.
+No total são 70.682 habitantes, com acesso a apenas 5 farmácias cadastradas
+no programa, um número muito baixo de estabelecimentos para o volume de pessoas.
+
+66
+
+As duas regiões em sua maior parte territorial estão classificadas pelo IPVS
+com o índice de vulnerabilidade muito baixa ou baixa, porém o distrito do Cambuci
+que tem uma renda média familiar de R$4.974,00 apresenta 4 pontos de venda
+cadastrados, enquanto que no Bom Retiro, distrito com renda média familiar de
+R$2.945,00 se observa apenas 1 farmácia participante da iniciativa do governo.
+A região central como um todo é muito bem atendida pelo PFP, são 68 unidades
+para um total de 430.964 habitantes, uma média de 1 farmácia cadastrada para cada
+6.338 pessoas.
+Apesar das discrepâncias apontadas acima, quando observados os distritos, a
+região como um todo a julgar pela sua rotulação no IPVS (52% da composição de
+seus setores censitários estão classificados como baixíssima vulnerabilidade), não se
+enquadra em uma região muito necessitada economicamente, demonstrando um
+perfil menos carente, conforme relatado no início destas análises.
+
+67
+
+3.Considerações Finais
+Tendo em vista tudo que foi apresentado neste estudo, percebe-se que
+a iniciativa do Governo para fornecer remédios a baixo custo para a população, no
+município de São Paulo, não acontece de forma equitativa quando considerada a
+distribuição dos pontos de vendas cadastrados e variáveis como renda, população e
+vulnerabilidade social.
+Ao se analisar a distribuição das farmácias cadastradas no PFP nos 96 distritos
+de São Paulo, somente observando o índice PFP/Hab apresentado neste trabalho, é
+possível facilmente perceber que se trata de uma distribuição heterogênea, com
+distritos com um índice de 5,53 PFP/Hab enquanto outros apresentam um índice de 0
+PFP/Hab.
+Constata-se, todavia, que essa dissonância pode ser vista até mesmo em uma
+visão mais macro, comparando as 5 zonas que abrangem o território do município de
+São Paulo, percebe-se que a zona norte seguida da zona leste, estão em pior
+classificação considerando a média da soma do índice criado PFP/Hab por número
+de distritos, conforme apresentamos abaixo:
+(Quadro 12)
+
+ZONA
+CENTRO
+ZONA OESTE
+ZONA SUL
+ZONA LESTE
+ZONA NORTE
+
+SOMA DO
+ÍNDICE PFP/HAB
+(X10.000) DOS
+DISTRITOS
+14,69
+25,32
+17,63
+19,85
+10,09
+
+NÚMERO DE
+DISTRITOS
+8
+15
+22
+33
+18
+
+MÉDIA DE
+PFP/HAB POR
+DISTRITO
+1,84
+1,69
+0,80
+0,60
+0,56
+
+Sendo possível visualizar tal fato também na classificação dos distritos por
+PFP/Hab, considerando os dez primeiros distritos em ordem decrescente, temos que
+2 distritos são do centro, 2 distritos da zona sul e 6 da zona oeste, logo nenhum distrito
+da zona leste e da zona norte.
+Contudo, ao explanarmos um pouco mais as variáveis, na visão micro por
+distrito, pode–se identificar outros fatores que evidenciam esta discrepância. Um
+exemplo gritante deste desnível de disposição de pontos cadastrados é perceptível
+
+68
+
+quando verifica-se os dados do distrito do Itaim Bibi, que apresenta 32 farmácias
+participantes do PFP para atender um pouco mais de 92.000 habitantes, que residem
+em uma área que em sua grande maioria é classificada pelo IPVS como baixíssima
+vulnerabilidade, e possui uma renda média mensal familiar de R$9.690,00, e o dados
+do distrito de Pedreira, onde moram 139.954 pessoas com uma renda média mensal
+familiar de R$1.787,00, sendo que 54% dos seus setores censitários estão
+classificados de média vulnerabilidade até muito alta vulnerabilidade, e que não possui
+nenhum ponto de venda cadastrado no PFP em seu território.
+O que evidencia a existência de áreas com setores censitários classificados
+pelo IPVS com os menores índices de vulnerabilidade social, menor população e,
+contudo, com mais farmácias cadastradas no PFP em seu território, logo a população
+residente por mais que esteja classificada conforme o estudo com uma qualidade de
+vida melhor, tem maior facilidade na aquisição de medicamentos.
+Assim, para evitar desarmonias como as citadas acima e durante o processo
+de desenvolvimento dos estudos, fica a sugestão para que no processo de
+cadastramento de novos pontos de venda do programa sejam analisados dados que
+contemplem de forma mais assertiva a população necessitada, ou seja, aquela que
+tem menos acesso às unidades do PFP, uma renda média familiar menor e vivam em
+locais cuja classificação dos setores censitários indiquem um índice de vulnerabilidade
+mais alto.
+Apesar deste trabalho não ter sido estruturado para uma visão mais micro
+dentro dos distritos, pode-se dizer também que quanto mais detalhada a análise e
+investigação das variáveis em níveis de regiões cada vez menores, os resultados
+tendem a ser mais eficientes.
+A elaboração dos mapas e tabelas alinhadas a uma análise quantitativa e
+qualitativa objetivaram uma melhor compreensão da realidade do PFP no município
+de São Paulo e ao correlacionar com dados do IPVS, foi possível avaliar pontos de
+melhoria no programa.
+No entanto, é necessário se atentar ao fato de que, por não ser o objetivo, em
+nenhum momento deste trabalho foram analisados dados relativos à movimentação
+da população no seu dia a dia, ou seja, muitas vezes distritos podem não ter um
+
+69
+
+número muito elevado de farmácias do PFP, mas a população residente devido ao
+deslocamento para o trabalho, faculdade tem a possibilidade de acesso a outros
+pontos de venda fora do seu distrito. Para tal análise seria necessário o acréscimo de
+mais variáveis de análise.
+Assim como, fica a sugestão para próximos trabalhos que se verifique a
+distribuição de outros serviços de saúde, tais como presença de consultórios médicos
+e hospitais, com a proximidade aos pontos de venda cadastrados no PFP.
+Desta forma, considero que o trabalho de graduação individual desenvolvido
+retratou a situação atual do PFP, demonstrou sua abrangência dentro do município
+de São Paulo, fez críticas quanto a distribuição dos pontos de venda no território
+paulistano, considerando as variáveis indicadas e ainda levanta sugestões e questões
+a serem discutidas em futuros projetos.
+
+70
+
+Referências
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil.
+Brasília, DF: Senado Federal, 1988.
+BRASIL. Lei nº 10.858, de 13 de abril de 2004. Autoriza a Fundação Oswaldo Cruz Fiocruz a disponibilizar medicamentos, mediante ressarcimento, e dá outras
+providências. Diário Oficial da União, Brasília, DF, 14 abr. 2004. Seção 1, p. 1.
+BRASIL. Decreto nº 5.090, de 20 de maio de 2004. Regulamenta a Lei no 10.858, de
+13 de abril de 2004, e institui o programa "Farmácia Popular do Brasil", e dá outras
+providências. Diário Oficial da União, Brasília, DF, 21 mai. 2004. Seção 1, p. 6.
+BRASIL. Portaria n°491 de 9 de março de 2006. Dispõe sobre a expansão do
+Programa “Farmácia Popular do Brasil”, e dá outras providências. Diário Oficial da
+União, Brasília, DF, 10 mar. 2006. Seção 1, p. 59.
+BRASIL. Ministério da Saúde. SUS 20 anos: a saúde do Brasil. Brasília, DF,2009.
+Disponível em:
+<http://www.ccms.saude.gov.br/sus20anos/mostra2009/realizacao.html>. Acesso
+em: 18 Abr. 2017.
+BRASIL. Ministério da Saúde. Programa farmácia popular do Brasil,2015
+Disponível em: < http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leiamais-o-ministerio/346-sctie-raiz/daf-raiz/farmacia-popular/l1-farmacia-popular/18008programa-farmacia-popular-do-brasil>. Acesso em: 18 Abr. 2017.
+BRASIL. Ministério da Saúde. Programa farmácia popular do Brasil,2016
+Disponível em: < http://www.conass.org.br/wp-content/uploads/2017/01/2-b.pdf>.
+Acesso em: 18 Abr. 2017.
+CARRIN, Guy et al. Achieving universal health coverage: developing the health
+financing system. Geneva, World Health Organization, 2005. Disponível em: <
+http://www.who.int/health_financing/documents/pb_e_05_1universal_cov.pdf?ua=1>. Acesso em: 17 Abr. 2017.
+COHEN Jessica, DUPAS Pascaline. Free distribution or cost-sharing? Evidence
+from a randomized malaria prevention experiment. The Quarterly Journal of
+Economics, v.125 (1), p.1-45, 2010. Disponível em: <
+http://www.nber.org/papers/w14406.pdf>. Acesso em: 27 Abr. 2017.
+FINKELMAN, Jacobo (Org.). Caminhos da saúde pública no Brasil. Rio de
+Janeiro, Fiocruz, 2002. Disponível em:
+<http://static.scielo.org/scielobooks/sd/pdf/finkelman-9788575412848.pdf>. Acesso
+em: 18 Abr. 2017.
+FUNDAÇÃO SISTEMA ESTADUAL DE ANÁLISE DE DADOS – SEADE. Índice
+paulista de vulnerabilidade social – IPVS. São Paulo, 2013. Disponível em: <
+http://indices-ilp.al.sp.gov.br/view/pdf/ipvs/metodologia.pdf>. Acesso em: 28 Abr.
+2017.
+IMS HEALTH. Base de farmácias cadastradas no programa farmácia popular:
+junho 2017. São Paulo,2017.
+
+71
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Censo demográfico
+2010, 2012. Disponível em:
+<http://downloads.ibge.gov.br/downloads_estatisticas.htm#>. Acesso em: 27 Abr.
+2017.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Pesquisa Nacional
+de Saúde 2013: percepção do estado de saúde, estilos de vida e doenças
+crônicas, 2014. Disponível em: <ftp://ftp.ibge.gov.br/PNS/2013/pns2013.pdf>.
+Acesso em: 27 Abr. 2017.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE –OMS, FUNDO DAS NAÇÕES UNIDAS
+PARA A INFÂNCIA – UNICEF. Relatório da conferência internacional sobre
+cuidados Primários de Saúde: Alma-Ata. URSS,1978. Disponível em:
+<http://apps.who.int/iris/bitstream/10665/39228/5/9241800011_por.pdf/>. Acesso em:
+12 Mai. 2017.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE –OMS. Closing the gap in a generation:
+health equity through action on the social determinants of health. Geneva, 2008.
+Disponível em: <
+http://apps.who.int/iris/bitstream/10665/69832/1/WHO_IER_CSDH_08.1_eng.pdf >.
+Acesso em: 28 Abr. 2017.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE –OMS. Relatório Mundial da Saúde 2010:
+Financiamento dos sistemas de saúde, 2010. Disponível em:
+<http://www.who.int/eportuguese/publications/pt/>. Acesso em: 16 Abr. 2017.
+PREKER, Alexander et al. Rich-poor differences in health care financing: Health
+financing for poor people- resource mobilization and risk-sharing. Washington, The
+World Bank, 2004. Disponível em: <https://www.microinsuranceacademy.org/wpcontent/files_mf/13848185732004_RichPoorDifferencesinHealthCareFinancing.pdf>.
+Acesso em: 17 Abr. 2017.
+THE HENRY J KAISER FAMILY FOUNDATION. A global look at public
+perceptions of health problems, priorities, and donors: the Kaiser/Pew global
+health survey, 2007. Disponível em:
+<https://kaiserfamilyfoundation.files.wordpress.com/2013/01/7716.pdf>. Acesso em:
+17 Abr. 2017.
+
+

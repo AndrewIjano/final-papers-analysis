@@ -1,0 +1,1580 @@
+0
+
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE DIREITO DE SÃO PAULO
+
+Juliana Alexandre
+
+A relação entre o método dialético e deliberativo em Aristóteles
+
+Ribeirão Preto
+Setembro - 2013
+
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE DIREITO DE SÃO PAULO
+
+Juliana Alexandre
+
+A relação entre o método dialético e deliberativo em Aristóteles
+
+Trabalho de Conclusão de Curso apresentado para o
+Curso de Graduação em Direito na Faculdade de Direito
+de Ribeirão Preto na Universidade de São Paulo
+
+Orientador: Prof. Ass. Nuno Manuel Morgadinho
+dos Santos Coelho
+
+Ribeirão Preto
+Setembro - 2013
+
+RESUMO
+
+A dissertação examina a relação entre o processo de deliberação e do método dialético, a
+partir do estudo das obras aristotélicas, com especial ênfase para “Ética a Nicomaco”. Para
+tanto a análise se centralizou na seguinte pergunta: a dialética está inserida dentro do
+processo de deliberação? Se sim, de que maneira? O estudo foi realizado mediante o
+uso de bibliografia base e complementar a partir das quais se propõe compor as principais
+características da dialética, bem como da deliberação. Como resultado da investigação,
+temos que, apesar de orientados para distintas finalidades, os dois métodos se interligam em
+determinados aspectos. Observou-se que no âmbito da percepção, ambos partem da
+elucidação da realidade e dos problemas particulares a serem investigados de modo a
+garantir resultados objetivos. Foi reconhecido que método dialético seria usado na reflexão
+acerca dos fins últimos. Nesse ponto a divergência se deu no tocante à: a) se constituem
+enquanto objetos da deliberação os fins últimos ou somente os meios pelos quais os
+alcançamos; b) considerando a perspectiva da deliberação acerca dos meios, no que
+consiste os fins últimos? A dissertação, desse modo, pretende elucidar o modo pelo qual o
+método dialético e deliberativo foram estruturados, ressaltando seus traços primordiais,
+além de tratar de um ponto bastante controverso, a saber: como a razão teórica pode
+integrar o procedimento de racionalidade prática e de que maneira isso se torna relevante
+para a compreensão das questões referentes à voluntariedade da ação.
+
+Palavras-chave: Dialética; Deliberação; Metodologia; Ética; Aristóteles
+
+ABSTRACT
+
+This thesis investigates the relation between deliberation and dialectic, located at some of
+Aristotle’s works, with an especial regard for “Nicomachean Ethics”. But to do so, we
+centered the quest at the following question: is the dialectical method contained in
+deliberation process? If so, how and in what way? The dissertation was structured on a
+basic and secondary basis of references to establish the main characteristics of dialectics,
+and as well of deliberation. As a result of this investigation it was concluded that, despite
+the orientation towards distinguished ends, the two methods are connected on some point. It
+was observed that in the ambit of perception, both of them part of clarifying the particular
+object of investigation and aspects of reality in a way that enables to access more objective
+results. It was noticed that the dialectical method can be used to reflect of ends. The
+divergence was observed in what concerns: the object of deliberation is only the means
+calculated do accomplish the ends and goods, or can be also the ends? And if we consider
+the means perspective, how can we define the ends? The dissertation, thus, aims to clarify
+the dialectical and deliberative main structures, emphasizing their most important
+characteristics, and also intends to shed light on a very controversial point: how theoretic
+reason can integrate the process of practical reasoning and in what way this can be a
+influence to the comprehension of questions related to intentionality of action.
+
+Key-words: Dialectics; Deliberation; Method; Ethics; Aristotle.
+
+JULIANA ALEXANDRE
+
+Trabalho de Conclusão de Curso apresentado para o
+Curso de Graduação em Direito na Faculdade de Direito
+de Ribeirão Preto na Universidade de São Paulo
+Orientador: Prof. Ass. Nuno Manuel Morgadinho dos
+Santos Coelho
+
+Aprovado em ___________ de _________________________ de ________________
+
+BANCA EXAMINADORA
+
+_______________________________________________________
+Prof. Ass. Nuno Manuel Morgadinho dos Santos Coelho
+
+_______________________________________________________
+Prof.
+
+_______________________________________________________
+Prof.
+
+SUMÁRIO
+
+1. INTRODUÇÃO ................................................................................................................ 6
+2. ESTRUTURAS BÁSICAS DO MÉTODO DIALÉTICO ............................................. 9
+2.1 – Objetivos e funções da dialética .............................................................................. 11
+2.2 – Fases e estruturação do método ............................................................................... 16
+2.2.1 – Levantamento de Hipóteses .............................................................................. 16
+2.2.2 – Instrumentos argumentativos............................................................................ 21
+3. A DIALÉTICA NO PROCESSO DELIBERATIVO .................................................. 25
+3.1- A deliberação e suas estruturas particulares .............................................................. 26
+3.2 – “Uma decisão implica um sentido orientador e um processo de pensamento” ....... 34
+4. CONSIDERAÇÕES FINAIS ......................................................................................... 41
+5. REFERÊNCIAS BIBLIOGRÁFICAS ......................................................................... 44
+6. BILIOGRAFIA CONSULTADA .................................................................................. 47
+
+6
+
+1. INTRODUÇÃO
+Este trabalho tem como pretensão abordar dois métodos distintos presentes nas
+obras aristotélicas, um referente ao âmbito da atividade do pensamento e de cunho
+argumentativo, investigativo e científico, nomeadamente, a dialética; o outro, associado
+à racionalidade prática e à teoria da ação, a deliberação. Assim, a pergunta central que
+nos acompanha é: se há e qual é a interligação entre esses dois procedimentos díspares?
+Para compreender a questão partimos inicialmente do estudo acerca do método
+aristotélico, considerado como traço não somente essencial, mas distintivo do filósofo e
+de sua obra1. No entanto, devido à extensão da matéria, propusemo-nos uma
+aproximação aos traços essenciais que compõem a dialética, dentre dos quais estão:
+seus objetivos, suas funções e sua estruturação geral.
+Em poucas palavras, a dialética é um instrumento para, basicamente, três
+utilidades: a) o exercício intelectual; b) os encontros casuais e c) as ciências filosóficas
+(Tóp., I, 100a25-35). Assim, entre suas finalidades estão acopladas desde a
+compreensão da verdade ou falsidade das proposições (em uma visão científica da
+matéria, com a tentativa de chegada aos princípios fundamentais), ao mero e
+despretensioso raciocínio acerca de qualquer tema proposto em uma discussão qualquer.
+De fato, a formação dialógica difere de qualquer um dos outros instrumentos
+previstos nas obras aristotélicas, como a apodíctica, no qual é característico o monólogo,
+e não o embate apropriado entre duas diferentes definições2. A dialética é um método
+cujo início se dá com a formação de problemas essenciais, como, por exemplo, os
+próprios questionamentos presentes na ciência ética: a ação injusta é a transgressão à lei
+ou não? A injustiça é ter mais do que devido ou não? (EN, I, 1129a30). Tais
+proposições não são aleatoriamente escolhidas, mas representam as endoxa, ou seja, as
+opiniões reputadas, sejam pela maioria, pelos especialistas ou por todos (Tóp., I, 104
+a10-15). Este é um segundo diferencial deste método de investigação, que parte
+especificamente do que é dado como senso comum para alcançar os princípios
+
+1
+2
+
+VAZ. Lima. Escritos de Filosofia IV. Edições Loyola, São Paulo, 1999, p. 114.
+BERTI. Enrico. As razões de Aristóteles. Trad. Dion David Macedo. São Paulo: Edições Loyola, 1998, p. 20.
+
+7
+fundamentais. Portanto, trata-se de método dialógico que visa a confrontar opiniões de
+maneira a afastar as verdades meramente aparentes daquilo que é mais primordial.
+Ora, como foi dito, também na ciência ética a proposta versa sobre a
+transparência e a essencialidade (EN, I,1094a25), desde que dado no rigor proporcional
+adequado a seu objeto de estudo (EN, I, 1094b19). No entanto, assim como afirma o
+próprio filósofo, cada investigação tem uma natureza de acordo com a sua base de
+entendimento, resta-nos a dúvida de: como se dá, diferentemente da ciência ética, que
+se pretende enquanto ciência investigativa da verdade, o campo da racionalidade prática?
+Além disso, há a distinção entre a ciência ética e a racionalidade prática?
+Para Salmieri ( 2009, p. 311-316), a própria investigação elaborada em Ética a
+Nicomaco e elevada ao nível de “ciência” não deve ser considerada como dialética. Isso
+se dá na medida em que: a) seus pontos de partida não representam endoxa; b) uma
+argumentação dialética difere do método dialético; c) a particularidade ética da proposta
+distingue-se da pretensão de estudo (theoria), principalmente no que tange à
+problemática dos princípios fundamentais.
+Independentemente de se analisar se são verdadeiras ou não as proposições do
+comentador para a ciência ética, são igualmente cabíveis seus questionamentos para a
+filosofia prática, a qual deve apresentar determinados requisitos para ser considerada
+verdadeiramente enquanto possuidora do método dialético em seu procedimento. Assim,
+durante esse trabalho as perguntas referentes a caracterização das endoxa, a
+diferenciação entre a argumentação dialética e o método em si e a pretensão da
+deliberação, serão recorrentes.
+Tendo esse contexto em vista, a elaboração desse trabalho comporta dois
+capítulos: o primeiro visando a estruturar sinteticamente os principais pontos do método
+dialético; e o segundo, à compreensão do procedimento de deliberação e de sua possível
+aplicação enquanto possuidor também do método teorético. Esforçamo-nos por
+construir interpretações a partir dos textos aristotélicos, além da utilização do recurso
+dos intérpretes autorizados, acerca das temáticas abordadas.
+Este trabalho concebe-se como mera porta de entrada a temas ainda de rica
+importância seja para as teorias da argumentação ou para as deliberações jurídicas
+diárias próprias das profissões jurídicas.
+
+8
+Ainda assim, qualquer estudo acerca das temáticas aristotélicas se mostra
+sempre muito profícuo, independentemente se ainda como simples exercício inicial do
+raciocínio acerca da temática. Afinal, nas palavras de Heiner Müller: “é preciso aceitar
+a presença dos mortos como parceiros de diálogo ou como destruidores – somente o
+diálogo com os mortos engendra o futuro”3.
+
+3
+
+MÜLLER. Heiner apud KOUDELA. Ingrid. Os Fantasmas. São Paulo: Revista USP, 1997, p. 184.
+
+9
+
+2. ESTRUTURAS BÁSICAS DO MÉTODO DIALÉTICO
+Qualquer pesquisa acerca do método aristotélico pode ter como ponto de partida
+o estudo dos Tópicos, cuja premissa fundamental é criar método que:
+(...) nos capacite a raciocinar, a partir de opiniões de aceitação geral, acerca de
+qualquer problema que se apresente diante de nós e nos habilite, na sustentação
+de um argumento, a nos esquivar da enunciação de qualquer coisa que o contrarie
+(100a18) 4
+
+A dialética é um método pensado para o embate, a partir do qual se parte de
+opiniões gerais, cujas premissas são as opiniões geralmente aceitas (Top, I, 100b18).
+Conforme Enrico Berti (1998, p. 20-21), suas características diferem da apodíctica na
+medida em que visa propriamente à discussão por meio da formulação de problemas
+essenciais.
+A proposição dos problemas não se dá casuisticamente, mas segue uma escolha
+do investigador perante o objeto de estudo. Isso significa que este poderá ser analisado
+a depender do foco – ou percepção - dado à categoria escolhida na proposição proposta,
+ou seja, se em grau de: essência, quantidade, qualidade, relação, espaço, tempo, posição,
+estado, ação e paixão (Top, I, 103b20-25). Em Ética a Nicómaco, o procedimento
+descrito é evidente no que tange, no Livro I, ao problema do bem, sendo trazido no
+sentido de diversas categorias (EN, I, 1096a20-35), tendo em vista sempre como alvo
+último o bem em si mesmo – ou, em outras palavras, o bem verdadeiro. A interpretação
+dada a esta passagem é fundamental, pois se refere ao caminho pelo qual se chega à
+essência das coisas, isto é, através de suas diversas acepções semânticas.
+Tal finalidade presente no livro I da Ética a Nicómaco é de suma importância e
+nos serve como primeira pista para compreender a possível interligação entre a
+racionalidade prática e o método dialético. Isso se dá na medida em que a dialética tem
+como preocupação encontrar os princípios fundamentais, isto é, a primeira base da qual
+alguma coisa é conhecida (Met, 1013a14-15), para isso o método parte daquilo que não
+4
+
+Admitimos a tese de que a dialética, que tem nos Tópicos sua principal fonte, é um método geral utilizado
+para construir (e portanto para compreender) os trabalhos de Aristóteles. A posição, no entanto, é muito
+controversa. Sobre o debate, e assumindo posição contrária, vide o artigo de Dorothea Frede. FREDE.
+Dorothea. The Endoxon Mystique:What Endoxa Are and What They are Not. Oxford Studies in Ancient
+Philosophy, Vol. 43, 2009.
+
+10
+é acurado, porém nos é conhecido – segue-se do conhecimento particular, as opiniões,
+para o conhecimento universal.
+A problemática da estruturação da dialética e da sua relação com a racionalidade
+prática é que o seu resultado, tal qual foi estruturado nas obras aristotélicas, é de
+maneira imediata a epistéme. Portanto, a uma primeira vista um método elaborado para
+as ciências teóricas de obtenção do conhecimento em nada teria relação com a
+racionalidade prática. No entanto, afirma MacIntyre (2010, p. 105) que a inteligência
+prática está conectada de duas formas com o conhecimento teórico, a primeira e
+principal se dá no seu viés de negação ou, melhor dizendo, na inabilidade de realização
+prática.
+A partir de tal premissa, o autor seleciona duas vertentes pelas quais podemos
+compreender a sua assertiva: a) na incapacidade de selecionar características de um
+particular ou; b) seja na falta de experiência com o problema particular ou por não
+conseguirmos absorver do universal como esse particular surge enquanto problema.
+Além disso acrescenta:
+(...) Entretanto, se alguém está julgando corretamente, apesar de estar baseado
+apenas na experiência, os princípios da ação correta estão implícitos no que ele
+faz. Esses princípios fornecerão premissas principais desarticuladas que,
+juntamente com o seu julgamento quanto a aspectos particulares de diferentes
+situações, levam necessariamente à ação que é a conclusão correta da
+argumentação prática sólida. (MACINTYRE, 2010, p. 105)
+
+Tais problemas da racionalidade prática se referem de maneira clara a uma
+questão metodológica. Enquanto dificuldade de selecionar características de um
+particular, pode-se aferir a própria condição primeira do método dialético em trabalhar
+com as categorias como já foi dito anteriormente, ou com uma amostra suficiente de
+opiniões gerais. Por outro lado, a falta de habilidade de se ligar o universal com o
+particular envolve, como foi dito depois pelo autor, a possibilidade da presença dos
+princípios dentro das deliberações que são tomadas corretamente.
+Assim, estas são as primeiras pistas que surgem para encararmos a categoria
+analítica em questão. Para iniciar o estudo da dialética partiremos de seus objetivos:
+
+11
+com especial atenção à obtenção dos princípios; posteriormente, trataremos do
+levantamento de hipóteses, e seu método próprio.
+
+2.1 – Objetivos e funções da dialética
+A dialética é um método elaborado para as seguintes funções: a) os encontros
+casuais; b) o exercício intelectual; c) as ciências filosóficas (Top, I, 100a25-30). Ainda,
+trata-se de método que visa alcançar aos princípios fundamentais, isto é, aqueles que
+são primários em relação a tudo, fundantes de cada ciência particular (Top, I,100a35).
+Dessa forma, para que seja possível alcançar os princípios da ciência, o método
+dialético foi estruturado a partir do discernimento da falsidade da e da verdade das
+proposições em contraste, como a auxiliar o investigador-desbravador que “franqueia o
+caminho” rumo aos princípios (citação de Aristóteles, referência ->) (Top, I, 101b1).
+Diante disso é fundamental ressaltar a importância que assume a linguagem e o
+procedimento de depuração do sentido das palavras5 na dialética, que se mostra inicial e
+essencial para a efetivação do silogismo dialético partindo das premissas particulares
+rumo aos princípios fundamentais.
+Outro ponto relevante,ainda no campo da linguagem,quanto aos princípios
+fundamentais, dá-se no fato de que se baseiam em uma visão de realidade objetiva. Nas
+5
+
+Jorge Larrosa trata sensivelmente sobre a questão: “E pensar não é somente “raciocinar” ou “calcular” ou
+“argumentar”, como nos tem sido ensinado algumas vezes, mas é sobretudo dar sentido ao que somos e ao
+que nos acontece. E isto, o sentido ou o sem-sentido, é algo que tem a ver com as palavras. E, portanto,
+também tem a ver com as palavras o modo como nos colocamos diante de nós mesmos, diante dos outros e
+diante do mundo em que vivemos. E o modo como agimos em relação a tudo isso. Todo mundo sabe que
+Aristóteles definiu o homem como zôon lógon échon. A tradução desta expressão, porém, é muito mais
+“vivente dotado de palavra” do que “animal dotado de razão” ou “animal racional”. Se há uma tradução
+que realmente trai, no pior sentido da palavra, é justamente essa de traduzir logos por ratio. E a
+transformação de zôon, vivente, em animal. O homem é um vivente com palavra. E isto não significa que o
+homem tenha a palavra ou a linguagem como uma coisa, ou uma faculdade, ou uma ferramenta, mas que o
+homem é palavra, que o homem é enquanto palavra, que todo humano tem a ver com a palavra, se dá em
+palavra, está tecido de palavras, que o modo de viver próprio desse vivente, que é o homem, se dá na palavra
+e como palavra. (...) Quando fazemos coisas com as palavras, do que se trata é de como damos sentido ao
+que somos e ao que nos acontece, de como correlacionamos as palavras e as coisas, de como nomeamos o
+que vemos ou o que sentimos e de como vemos ou sentimos o que nomeamos. (...) As palavras com que
+nomeamos o que somos, o que fazemos, o que pensamos, o que percebemos ou o que sentimos são mais do
+que simplesmente palavras. E, por isso, as lutas pelas palavras, pelo significado e pelo controle das palavras,
+pela imposição de certas palavras e pelo silenciamento ou desativação de outras palavras são lutas em que
+se joga algo mais do que simplesmente palavras, algo mais que somente palavras.” (LARROSA, Notas sobre
+a Experiência, Campinas, 2001, p. 21)
+
+12
+palavras de Terence Irwin: “But in fact it rests on Aristotle’s more general conviction
+that the facts about the world determine the truth of statements, but the converse is not
+true” (IRWIN, 1988, p. 5). Ou seja, as proposições contêm a verdade ou falsidade em si
+mesmas (Da Interp., II, 16b1-5) que são obtidas quando comparadas aos fatos da
+realidade.
+Dessa forma, o caminho da dialética, além de determinar a veracidade e
+falsidade das hipóteses elencadas pelo investigador, também foi constituída enquanto
+caminho de acesso entre o mundo da linguagem e da cognição e o que de fato há no real.
+E, realmente, não se trata de um caminho casualmente escolhido, mas se constitui
+enquanto o meio próprio para a chegada ao conhecimento verdadeiro6.
+No que respeita ao estudo acerca da deliberação, a problemática dos princípios
+fundamentais não pode ser descartada. Primeiramente porque na teoria da ação
+elaborada pelo filósofo, há um sentido orientador, formado por meio de princípios
+motivadores (EN, III, 1110a15) que nos levam a agir voluntariamente, e a partir do qual
+tomamos boas ou más decisões. Em verdade, por mais que o formato do processo
+deliberativo seja distinto do estudo teórico, não há que se negar que nele também está
+incluso um processo de pensamento e um sentido orientador (EN, III, 1112a15), traços
+essencialmente dialéticos, tipicamente contemplativo, e intuitivos, voltado ao acesso
+aos princípios. Este viés racional, tomado por dois procedimentos distintos da
+deliberação são responsáveis pelo impacto em toda a dimensão da prática, inclusive
+poderiam se constituir enquanto determinantes para o caráter voluntário da ação – a
+pergunta a ser feita seria: de que maneira se constitui a voluntariedade, será que a sua
+existência não constitui um sintoma de um procedimento deliberativo acompanhado da
+razão teórica?
+
+6
+
+A busca pela verdade é uma pretensão inegavelmente presente nas obras aristotélicas e representam uma
+importante finalidade a ser alcançada quando se trata da possibilidade de uma teoria do conhecimento
+confiável, seja em nível teórico, ou no nível das decisões práticas. Entretanto, a sua conceituação e seu
+método de obtenção não são simples, e dependem de inúmeros fatores contextuais como afirma Modrak: “To
+generalize: truth is a function of the correspondence between thoughts or the words that Express them and
+things, and the objects to which expressions refer exist independetly of the way in which humans
+conceptualize and describe them. Truth as the coherence of ideas yields a very different picture of
+signification and reference. On a coherence theory, truth is determined in relation to a particular linguistic
+framework. Meanings, instead of presupposing reference to external objects, would be likeness of concepts;
+that is, the pragmata at issue would be propositions. “(MODRAK, Debora. Theory of Language and Meaning,
+p. 56).
+
+13
+Outro ponto a ser considerado é se esse trajeto seguido pelo procedimento
+prático é também semelhante ao da dialética, seguindo o fluxo que vai do particular
+para o universal (epagogé). Para Owen (1961, p. 114-115), esse procedimento compõe
+a dialética e tem como objetivo determinar os princípios da ciência a partir dos dados da
+percepção. Assim define MacIntyre:
+
+Epagogé envolve inferência, mas é mais do que inferência; é o método científico
+através do qual as exemplificações particulares, impuras ou distorcidas de uma
+única forma , podem ser compreendidas em termos daquela forma – assim como
+exemplos particulares impuros de carbono podem ser compreendidos
+exemplificando a estrutura atômica singular que torna cada um deles um exemplo
+de carbono -, de modo que o conceito daquela estrutura ofereça – dentro da teoria
+atômica e molecular – a arché tanto para sua classificação como para sua
+explicação. Aristóteles chama de nôus o modo de apreensão no qual a mente
+capta tal arché. (MACINTYRE, 2010, p. 101)
+
+Outro ponto fundamental trazido pelo filósofo é, nas palavras de Roger Crisp, a
+capacidade dos primeiros princípios serem conhecidos por meio da intuição (nôus)
+(CRISP, p. 524). Para isso é importante retomar o último livro dos Analíticos
+Posteriores, em que se discutem as faculdades intelectivas inatas que possibilitam a
+apreensão do conhecimento, a iniciar pela percepção.
+A percepção sensorial (An. Post., XIX, 100a1) é aquela que retém impressões
+sensoriais na alma e que dá início à memória. A memória, pela repetição de ocasiões,
+possibilita o surgimento da experiência7, que é definida por Aristóteles enquanto “o
+
+7
+
+A discussão acerca da memória e da experiência não é casual na obtenção do conhecimento, nem muito
+menos esquecida no cenário contemporâneo. Jorge Larrosa conceitua a experiência como “aquilo que nos
+passa” e não “aquilo que se passa”. E de fato, em seu texto Notas sobre a experiência, o autor distingue o
+conhecimento derivado da experiência do da sabedoria da informação ou da ciência tecnicista. Para ele a
+sabedoria pela experiência é o lugar onde o homem é o ponto de acontecimentos e isso se dá pela
+possibilidade da linguagem e da atitude do ator frente ao mundo: “A experiência, a possibilidade de que algo
+nos aconteça ou nos toque, requer um gesto de interrupção, um gesto que é quase impossível nos tempos que
+correm: requer parar para pensar, parar para olhar, parar para escutar, pensar mais devagar, olhar mais
+devagar, e escutar mais devagar; parar para sentir, sentir mais devagar, demorar-se nos detalhes, suspender
+a opinião, suspender o juízo, suspender a vontade, suspender o automatismo da ação, cultivar a atenção e a
+delicadeza, abrir os olhos e os ouvidos, aprender a lentidão, escutar aos outros, cultivar a arte do encontro,
+calar muito, ter paciência e dar-se tempo ao tempo” (BONDÍA, 2009, p. 24). Platão também trata dos
+requisitos necessários ao ser filósofo: “Is there any objection you can find, then, to pursuit that no one can
+adequately follow unless he’s by nature good at remembering, quick to learn, high-minded, graceful, and a
+
+14
+universal quando estabelecido como um todo na alma” (An. Post., XIX, 100a5-10).
+Assim, é desde o conhecimento particular que se alcançam idéias universais, como uma
+espécie particular de animal pode nos levar ao gênero animal, e somente desta
+apreensão do universal (que advém da percepção, e resta na alma) o conhecimento pode
+verdadeiramente surgir. Dessa forma funciona a intuição, pela qual se tem acesso aos
+princípios fundamentais (An. Post., XIX, 100b5).
+Importante ressaltar o fato de que se trata do mesmo livro no qual Aristóteles
+atenta para os métodos de obtenção do conhecimento verdadeiro que advém das
+faculdades intelectuais do conhecimento científico e a intuição, em contraposição a
+outros que não compreendem fontes seguras como o cálculo e opinião. Apesar de que a
+intuição dessa maneira é a forma mais aguçada de obtenção do conhecimento, pois por
+ela temos acesso aos princípios e deles tudo podemos deduzir com exatidão (An.
+Posteriores, XIX, 100b10-15).
+Entretanto, a interpretação acerca do nôus não é pacífica. Entender a sua
+manifestação implica tratar do funcionamento da psychê e de uma parte que os antigos
+consideravam como a mais divina do ser humano (EN, X, 1177a12-20). David Corey
+argumenta que o funcionamento do nous tem início com um estado próprio da alma que
+poderia ser descrito como uma espécie de inquietude diferente da absoluta ignorância.
+friend and relative of truth, justive, courage, and moderation?” (PLATÃO, 1997, p. 1110, 487a). Para ambos,
+o sujeito investigador, não casuisticamente, é dotado de delicadeza, paciência, moderação e memória,
+condições esta até mesmo necessárias para o surgimento da experiência. Há que se considerar também que a
+noção da experiência é determinante para a formação de um conhecimento específico alcançado nas
+investigações das quais tratamos, os quais distintos da noção de mera obtenção de informação externa a nós
+acerca de um objeto de estudo. Também Walter Benjamin trata da problemática da experiência em
+“Experiência e Pobreza”: “Barbárie? Sim. Respondemos afirmativamente para introduzir um conceito novo e
+positivo de barbárie. Pois o que resulta para o bárbaro dessa pobreza de experiência? Ela o impele a partir
+para a frente, a começar de novo, a contentar-se com pouco, a construir com pouco, sem olhar nem para a
+direita nem para a esquerda. Entre os grandes criadores sempre existiram homens implacáveis que operaram
+a partir de uma tábula rasa. Queriam uma prancheta: foram construtores. A essa estirpe de construtores
+pertenceu Descartes, que baseou sua filosofia numa única certeza — penso, logo existo — e dela partiu.
+Também Einstein foi um construtor assim, que subitamente perdeu o interesse por todo o universo da física,
+exceto por um único problema — uma pequena discrepância entre as equações de Newton e as observações
+astronômicas. Os artistas tinham em mente essa mesma preocupação de começar do principio quando se
+inspiravam na matemática e reconstruíam o mundo, como os cubistas, a partir de formas estereométricas, ou
+quando, como Klee, se inspiravam nos engenheiros. Pois as figuras de Klee são por assim dizer desenhadas
+na prancheta, e, assim como num bom automóvel a própria carroceria obedece à necessidade interna do
+motor, a expressão fisionômica dessas figuras obedece ao que está dentro. Ao que está dentro, e não à
+interioridade: é por isso que elas são bárbaras.”(BENJAMIN, p. 1-2). A experiência também em Benjamin
+se refere ao que se passa na interioridade do homem ou, em outras palavras, na possibilidade daquilo que o
+forma ou modifica na alma. Essa experiência em Aristóteles representa uma via de acesso ao caminho dos
+princípios fundamentais.
+
+15
+Para ele, o homem tem em si o potencial de algo que nem ele mesmo sabe ao certo o
+que é, em outras palavras, o homem se encontra na ignorância, mas a sua alma está
+sempre desejando conhecer algo que não se sabe ao certo o que é. 8
+O processo de intuição não envolve somente aquilo que foi dito nos Analíticos
+Posteriores. Há importantes referências em outras obras aristotélicas, como Metafísica
+ou mesmo Ética a Nicómaco. A partir dela, podemos traçar outras características de
+processo, como a tomada de consciência de um problema enquanto tal, assim como
+analisa Corey:
+It becomes possible in the light of noetic experience to speak of the things we
+perceive in the world as "things," as differentiated from the noetic objects that are
+not really things at all; it becomes possible to speak of transcendent and
+immanent, of the open soul and the closed soul, and of human nature as
+essentially a noetic quest for the divine ground. In other words, one discovers in
+the midst of noetic experience that one has a new perspective on the order of
+reality as a whole that one lacked before. (COREY, 2002, p. 62)
+
+De fato, é também em Ética a Nicómaco (EN, X, 1177a20) que se coloca a
+questão da ascensão aos princípios fundamentais enquanto atividade mais excelente do
+Humano, e que o traduz na sua maior excelência e beleza – assim como o logos define o
+ser humano enquanto humano, é nous que o determina enquanto divino9.
+Para se compreender melhor como se dá o trajeto que nos leva aos princípios
+fundamentais – e que talvez nos auxilie na demanda por compreender de que maneira
+eles influenciam as decisões – se faz necessário partir para outro nível de análise,
+localizado na assunção das premissas e estabelecimento de hipóteses.
+8
+
+Outra questão importante seria: de que maneira esse processo se torna consciente? (COREY, 2002, p. 61).
+A ascensão ao transcedente por uma jornada rumo à iluminação teve início já com Platão em A República,
+Livro VII, em que trata da sua alegoria da caverna. Associo o movimento descrito por Aristóteles à libertação
+do prisioneiro platônico: “(...) Consider, then, what being released from their bonds and cured of their
+ignorance would naturally be like, if something like it came to pass. When one of them was freed and
+suddenly compelled to stand up, turn his head, walk, and look up toward the light, he’d be pained and dazzled
+and unable to see the things whose shadows he’d seen before” (PLATÃO, 1997, p. 1133, 515d). Apesar de
+não expresso no texto, o primeiro questionamento acerca da alegoria seria: o que faz um homem que teve a
+mesma criação desde criança que os outros poder libertar-se enquanto os outros não? Afinal, na alegoria nem
+ao menos a cabeça poderia ser movida pelos prisioneiros, o que indicaria nenhuma influência de
+externalidades que pudessem contribuir para o feito. Portanto, qual é o caminho da consciência que nos leva
+rumo à verdade?
+9
+
+16
+
+2.2 – Fases e estruturação do método
+A dialética, assim como todos os métodos estabelecidos nas obras aristotélicas,
+segue uma ordem determinada. Dessa forma, durante seu estudo é possível elencar
+diversas fases como: levantamento de hipóteses; seleção das opiniões; inquirição
+argumentativa – ou seja, a tentativa de evitar a contradição; inclusive a conclusão, esta
+que pode ou não virar outro processo investigativo da mesma natureza, caso necessário.
+Entretanto, cada um deses níveis correspondem a uma matéria de grande
+extensão e complexidade. Optamos por tratar de algumas de suas mais importantes
+características, a começar pela preparação do método com o levantamento de premissas.
+De fato, compreender como se dá esse procedimento nos permite distinguir os estudos
+teóricos da racionalidade prática – que parte de premissas de distinto caráter - e talvez,
+em que ponto podem se interconectar.
+
+2.2.1 – Levantamento de Hipóteses
+O primeiro passo em qualquer estudo investigativo é esclarecer qual o limite do
+objeto de investigação. No caso dos estudos éticos, tomados como exemplo o Livro I de
+Ética a Nicómaco, isso se deu com o bem, enquanto no Livro V com a justiça. Trata-se
+da necessidade da seleção de qual categoria analítica se está analisando no presente
+processo de investigação. Assim:
+O bem diz-se na categoria da substância [no que é que é], da qualidade [no como
+é que é] e da relação [relativamente a que é que é]: o bem em si, contudo, e a
+substância são anteriores, pela sua própria natureza intrínseca, ao bem relativo
+(este assemelha-se, na verdade, a um rebento ou a um acidente do ente) (EN, I,
+1096a20-25)
+
+17
+A importância desse primeiro encadeamento se dá na própria tentativa de
+compreender de qual face do bem – ou qualquer categoria pretendida se está escolhendo
+– uma vez que o bem como idéia única e universal não existe (EN, I, 1096a25-30 e
+1096b25-30), ou em outras palavras, qualquer conceituação ou definição linguística é
+em si mesma reducionista. No exemplo, o bem assume diversos sentidos e para cada um
+há uma atividade prática e uma perícia própria (EN, I,1097a15), se falamos da medicina,
+associamos à saúde; se da estratégia militar, a vitória; se na construção civil, a casa, e
+assim por diante. Os bens em si são relativos, e a busca da dialética no estudo ético é
+compreender por meio da depuração semântica das palavras, qual seria o bem que se
+mostra enquanto bem em si mesmo, ou seja, auto-suficiente e completo.
+Dessa maneira, para se alcançar sua essência, é importante que se entenda de
+qual lugar se parte a proposição estabelecida, uma vez que a partir dessa consciência
+poderá se começar a determinar por meio da argumentação certeira a verdade ou a
+falsidade de uma proposição.
+Entretanto, para alguns autores, como Gregory Salmieri, este traço inicial do
+método dialético compreenderia o objetivo de definição das substâncias – da virtude, do
+bem, do justo, por exemplo. Em verdade, para o autor, as respostas de tais investigações
+éticas correspondem apenas a definições generalistas das quais o entendimento das
+respostas prescinde de uma compreensão e aceitação prévia da audiência em relação ao
+desenvolvimento da argumentação e das premissas ( SALMIERI, p. 321-322). Além
+disso, também argumenta contra o estabelecimento das próprias proposições, que
+corresponderiam somente às premissas já aceitas pela audiência.
+Apesar de em certo grau realista, o tom crítico assumido por Salmieri não pode
+ser adotado. Isso se dá por duas razões principais: a) de fato a dialética trabalha com a
+noção de definição, que é, em Tópicos, uma frase que revela a essência de alguma coisa
+(Tóp, I, 102a1), logo o conceito de definição de um termo isoladamente de sua
+proposição, ou como fator único e geral, não compreende a finalidade das obras
+aristotélicas; afinal, foi dito que a compreensão dos termos, como o bem, transcendem a
+mera verbalização generalista e universal. A finalidade é a compreensão do bem em si,
+isto é, sua essência, algo distinto de uma suposta única proposição verdadeira; b) quanto
+a assunção das proposições como já aceitas, isso não pode ser observado fielmente nos
+
+18
+textos nos quais há a assunção e afastamento de diversas hipóteses previamente
+elencadas. Dessa forma afirma Hamlyn:
+
+(...) But that because they are starting-points for such a demonstration. But that
+means that they are not first in some absolute sense, but first relative to the task in
+question. They are the truths which can be accepted as so without further
+demonstration. That they can be so accepted does nor entail, however, that they
+are necessarily so accepted. Those with whom we are arguing may have to be got
+to accept these truths as the premises for subsequent demonstration. So, we may
+appeal to various considerations – the evidence of our senses, what we ordinarily
+believe, what the wise or other authorities believe, and so on – in a word endoxa.
+(HAMLYN, p. 474-475)
+
+Em outras palavras, o procedimento frente às endoxas é considerá-las como
+possíveis evidências para a verdade. Dessa maneira se mostra como requisito para a
+dialética, assim demonstra o filósofo ao estabelecer a diferença entre o silogismo
+dialético e o silogismo polêmico, este pautado em opiniões que embora pareçam de
+aceitação geral, não o são, correspondendo a falsas acepções que não geram
+procedimentos dedutivos (Tóp, I, 100b25). Logo, como não partimos de uma
+investigação determinando já os culpados de um crime, também na dialética parte-se
+com a presunção de veracidade – e, portanto, sua temporária aceitação pela audiência –
+para que se possa desenvolver a argumentação na qual haverá ou não a preservação das
+primeiras hipóteses.
+Essa dinâmica pode ser observada no Livro V de Ética a Nicómaco no qual
+todas as premissas, com exceção da primeira, que se configura como um princípio
+fundamental ou um phainomena ("o que todos visam é" 1129a7; "é evidente" 1133b30),
+podem ser consideradas endoxas na medida em que ou são baseadas na opinião geral
+("parece que para alguns" 1132b21; "porque todos concordam" 1131a26); em opiniões
+de autoridades, como a tradição filosófica pitagórica e mítica com Radamanto (1132b26)
+e poética com Eurípedes (1136a12); além de passíveis de contradição e não
+confirmação (1132b24). Considerando que a assunção de premissas não significa a
+aceitação da verdade pela audiência, mas a presunção de sua possibilidade por meio da
+investigação de referidas opiniões que induzem à argumentação.
+
+19
+Observando o trecho (1131a28) de E.N., a respeito do direito comutativo, é
+possível perceber que o filósofo enumera algumas hipóteses de compreensão acerca do
+princípio da distribuição por mérito - para os democratas, a liberdade; para os oligarcas,
+a riqueza ou o berço - que não são confirmadas a partir da argumentação em que se
+chega à conclusão da justiça simplesmente como relativamente proporcional. O trecho
+(1132b21) cita a justiça por retaliação preconizada pelos pitagóricos (endoxa), que não
+é confirmada, sendo concluído pela superioridade da justiça retributiva. Também, de
+certa forma, a assertiva de que a justiça é o respeito a lei é contestada em (1129b24).
+Ora, portanto, não se pode aferir que de nenhuma forma existe a pretensão de
+confirmação da aparência pré-selecionada nos textos éticos aristotélicos.
+Como já foi esclarecido compõe essa fase inicial a seleção das opiniões gerais,
+dados observados e afins. No entanto, antes de se compreender como se desenvolve
+propriamente tal nível dentro da lógica da investigação dialética é fundamental
+compreender o que são essas opiniões citadas nos Tópicos.
+Martha Nussbaum responde essa questão estabelecendo como ponto de partida a
+compreensão das phainomenas, que compreendem tudo o que é passível de ser
+verificado pela percepção e pela experiência humana: sejam dados observados; o que é
+dito pela maioria (ta legomena); ou opiniões compartilhadas (endoxa) (NUSSBAUM, p.
+243-244). Não se trata de um pensamento relativista ou subjetivista, na medida em que
+parte de um contexto comum de uma determinada comunidade e de certas habilidades
+compartilhadas pelo ser humano enquanto tal10, isto é, a seleção de quais premissas
+podem compor determinada investigação dialética dependerá do contexto históricolinguístico no qual está inserido e determina a razoabilidade das opiniões emitidas,
+10
+
+The phainomena are drawn from Aristotle's own linguistic community and from several other civilized
+communities known to him to have recognizably similar general conditions of life, though with different particular
+institutions. (In other scientific cases, data will be drawn from aspects of the natural world observed or experienced
+by people from such communities. (...) The human being he says (in a passage that we shall also study in Chapter 11)
+is the only living creature who has experience of the good and bad, the just and unjust, and the other ethical
+concepts with which this study deals; in consequence only the human being has the capacity to express these
+conceptions in speech.16 This unique experience seems to be connected with the fact that humans alone among
+creatures are both reasonable - capable of association in the institutions that take their form from these articulated
+conceptions - and lacking in individual self-sufficiency It seems to follow, if we generalize this principle, that data
+for an inquiry into our conception of F can come only from peoples whose ways of life are similar to ours with
+respect to those conditions that gave rise to our use of the term *F Other groups and species not so related to us
+could not have 'F' (or a term closely enough related to our 'F') in their language, and we do not, therefore, need to
+ask them what they think about it. (NUSSBAUM, p. 254-246).
+
+20
+afinal a importância das opiniões resta justamente na sua presunção de veracidade. A
+partir delas, estruturam-se argumentos opositores e dilemas que estimulam a
+confirmação ou não das phainomenas.
+Uma das questões levantadas por Nussbaum em relação ao método diz respeito
+a primeiramente objetivo que é revelar a verdade escondida dentro da natureza e da
+linguagem, ou seja, naquilo e a partir daquilo que pensamos e falamos (NUSSBAUM, p.
+241-243). De fato, ao contemplarmos a tese de que a linguagem se dá pela convenção
+(Da Int., II, 16a20-25), nada mais natural que seja a dialética, um método que se parte
+daquilo que nos é mais próximo e se usa da depuração da linguagem, aquele
+responsável pelo aparecimento do sentido escuso das coisas.
+Ainda no tema das premissas, se faz necessário compreender o papel assumido
+pelos topos dentro do método. Dentro de Tópicos, os topos são definidos enquanto os
+fundamentos de raciocínio dos quais partirão a investigação dialética (Tópicos, VIII,
+153b5). Trata-se, portanto, do estabelecimento das premissas – que terão diversos tipos
+a depender do caráter do debate - por meio das quais o silogismo se fundará para se
+desenvolver (Tópicos, VIII, 163b20-25).
+As premissas deverão ser definidas de acordo com qual finalidade é pretendida,
+a) se para garantir a premissa fundamental; b) para dar peso ao argumento; c) para
+ocultar a conclusão; ou d) para esclarecimento (Tópicos, VIII, 153b20-25). Assim, se
+poderá usar de premissas: 1) a partir dos contrários – como é o caso do Livro V de Ética
+a Nicómaco, por exemplo, em que a investigação se parte do injusto e não do justo; 2) a
+partir de inflexões – como em Ética a Nicómaco em que se diz: “(...)A lei obriga,
+portanto, os homens a viver de acordo com cada excelência em particular e proíbe agir
+segundo cada forma particular de perversão. Quer dizer, os dispositivos legais
+profutores de excelência universal foram legislados com vista a uma educação que
+possibilite a vida em sociedade.” (ARISTÓTELES, p. 110, 1130b25); sempre a
+depender do caráter do debate e de sua finalidade imediata enquanto premissa.
+A identificação dos tópicos em uma dada investigação nos auxilia a
+compreender qual o tipo de silogismo está sendo abordado e se estamos diante de uma
+investigação dialética. Partindo-se disso, é importante caminhar para o último tema
+
+21
+desse primeiro capítulo no qual consiste na distinção entre o silogismo dialético e o
+silogismo prático – se assim houver.
+
+2.2.2 – Instrumentos argumentativos
+A metodologia dialética é estruturada em fases, sendo a primeira, como já antes
+abordado, a relativa ao levantamento de hipóteses e premissas para o posterior
+desenvolvimento argumentativo. Assim, após analisar os instrumentos próprios dessa
+partida, cabe tratar de outras ferramentas do método, relativas ao à argumentação
+propriamente dita.
+De fato, entre todas a mais relevante de ser estudada é sem dúvida o silogismo.
+Entretanto, nas obras aristotélicas, tal termo assume inúmeras conotações em diversos
+procedimentos investigativos distintos. Dessa forma, elencou-se o estudo pelo
+silogismo dialético e o silogismo prático, suas semelhanças e distinções para que,
+resumidamente, pudéssemos esclarecer em que ponto a racionalidade prática pode
+encontrar a racionalidade teorética.
+
+a) O silogismo dialético e o silogismo prático
+
+O silogismo dialético é definido enquanto aquele que parte das opiniões enquanto
+premissas (Tópicos, I, 100b15-20). No entanto, para analisar de fato em como se constitui
+esse instrumento e sua possibilidade de utilização em outras espécies de racionalidades, é
+imprescindível estabelecer qual a qualidade das premissas iniciais a serem estruturadas e
+seu posterior desenvolvimento.
+O silogismo tal qual foi estruturado nos Analíticos Anteriores, corresponde à
+inferência lógica de uma afirmação final vinda de duas anteriores, as quais afirmam ou
+negam alguma acerca de um sujeito (Ana. Anteriores,I, 24a10 e 25a1), com a implicação
+característica de que o silogismo dialético advém de premissas contraditórias. Dessa forma,
+um exemplo de que se pode tratar seria: todo Q é N, assim se algum N não pertence a
+algum S e N pertence a todo Q, então Q não pertence a algum S. Conforme demonstra a
+
+22
+Figura 1:
+Q∈N
+
+N
+
+S
+
+S
+
+Figura 1 – Procedimento silogístico
+
+Do procedimento silogístico podemos aferir: é composto normalmente por três
+proposições, e dois termos dos quais um é dito “pertencer à” ou derivar de outro. Há quatro
+tipos de proposições: o universal afirmativo, o universal negativo, o particular afirmativo e
+o particular negativo. O objetivo é o levantamento do maior número de termos e sujeitos –
+afinal o objetivo do método é demonstrar que determinados atributos pertencem a
+determinados sujeitos (Ana. Anteriores, I, 43b10) e para isso torna-se fundamental o
+domínio das categorias com a possível exclusão das terminologias que são predicadas por
+acidente (Tópicos, I, 102b5), por exemplo - com o efetivo teste das premissas por meio da
+refutação, consistindo um especial traço do método dialético o trabalho com premissas
+plausíveis. Dessa forma, pode-se ter a confirmação ou não das hipóteses em cada caso.
+Tais premissas são limitadas em si mesmas. Da mesma maneira que se parte,
+definitiva e restritamente, de uma determinada letra do alfabeto em um exemplo silogístico,
+tal qual observado anteriormente - também as proposições devem se esgotar para uma dada
+investigação (no exemplo do Livro V de Ética a Nicómaco, a justiça é a igualdade, e assim
+por diante).
+De igual forma ao silogismo dialético, o silogismo prático 11 também parte de
+premissas universais e particulares (EN, Livro VII, 1147a1-10), considerando que a
+
+11
+
+Muito embora os intérpretes não cheguem a um acordo em relação a que, de fato se refira o silogismo
+prático: se ao método realizado em Ética a Nicómaco, ou seja, ao estabelecimento de uma ciência ética – e
+portanto, nada mais natural que a utilização de um método dialético com as distinções necessárias e próprias
+de obra ética (tal como acredita Enrico Berti); ou se o silogismo prático se refere a outras práticas, quais
+
+23
+dificuldade nesse tipo de raciocínio se dá justamente no confronto entre as duas
+proposições enquanto pertencentes ou derivadas. Assim, no exemplo concedido na obra
+aristotélica, se conhece-se que determinado grão faz mal a saúde, porém o agente não
+consegue ter a percepção de que está diante deste gênero de grão, não agirá corretamente.
+De qualquer forma é inegável a necessidade de correlação verdadeira dos termos no
+silogismo prático assim como no silogismo dialético e sua preocupação lingüística, até
+mesmo para a resolução da problemática das predicações e das premissas enquanto
+universais ou particulares.
+Um dos pontos a serem trazidos a partir da comparação entre esses dois
+instrumentos se encontra: em seus objetivos e na sua origem. Schiller argumenta que o
+silogismo prático pode partir de diversas partes da alma, como a intelectiva, a razão ou do
+apetite – o que ocorre de maneira distinta ao silogismo dialético que parte somente da parte
+racional.
+Assim, suas premissas podem ter qualidades diferentes ou podem surgir
+inversamente do particular para o universal (SCHILLER, 1917, p.5–7)12. A sua conclusão
+imediata é: a) o silogismo prático não necessariamente leva à ação, mas toda ação advém de
+um processo silogístico, isto é, seja pela parte racional (determinado grão faz bem à saúde,
+logo se determina no reconhecimento do grão por suas propriedades) ou pela parte apetitiva
+(assim como também estabelece em outro exemplo na Ética a Nicómaco, tenho sede, isso é
+líquido, logo bebo), o fato é de que ambas as racionalidades do homem se partem desta
+ótica perante o mundo; b) o método silogístico não aplicado restritivamente às boas ações; c)
+não há ainda argumentos suficientes que demonstrem a completa desconexão entre o
+silogismo prático e o teorético; c) não é possível dissociar completamente esse
+procedimento ou da lógica ou dos fenômenos psíquicos.
+Dessa forma, se pode concluir de maneira imediata a impossibilidade de se dissociar
+completamente o procedimento utilizado da razão prática da razão teorética, muito menos
+
+sejam as decisórias presentes na racionalidade prática e desvinculada de um pensamento científico (assim
+como argui Schiller).
+12
+Embora seja possível admitir que, apesar de se pautarem em objetos distintos como definições e imagens,
+ambos partam das mesmas premissas potenciais (Ana. Anteriores, II, 50a15-20), ou seja, por mais que a
+dialética do conhecimento parta da premissa do “possivelmente verdadeiro”, o silogismo prático parte
+também do “possivelmente de acontecer”, ambos são apenas assumidos em ex hypothesi e não determinam o
+resultado da investigação.
+
+24
+estabelecer que ela só se dá no âmbito da intelectualidade ou do apetite. De igual maneira
+se pode apreender de Aristóteles:
+Há três operações que determinam de modo predominante a açção e o
+descobrimento da verdade, sc. a percepção, o poder de compreensão e a intenção.
+Destas três, a percepção nunca é origem de nenhuma ação, o que é evidente pelo
+facto de os animais, embora tenham percepção, não tomarem parte na ação. O
+que, por um lado, no pensamento puro é a afirmação e negação, é, por outro, no
+horizonte da intenção, perseguição e fuga. Assim, uma vez que a excelência do
+carácter é uma disposição que decide e a decisão é uma intenção deliberada,
+segue-se que, no caso de se tratar de uma decisão séria, o princípio de decisão
+terá de ser verdadeiro e a intenção correcta. (…) O pensamento teórico, que não
+visa a acção nem a produção, é executado de uma forma correcta ou de uma
+forma incorrecta, respectivamente, conforme detecta a verdade ou se envolve em
+falsidade. Porque esta é, em geral, a função de todo pensamento. Contudo a
+função do pensamento prático é mais propriamente a de obter a verdade que
+corresponde a intenção correta. O princípio da acção é a decisão (isto é, enquanto
+origem da motivação, não enquanto fim em vista); por outro lado, o princípio da
+decisão é a intenção e um cálculo dirigido para um objectivo final. Por esta razão,
+não há decisão sem o poder de compreensão, nem sem o processo compreensivo,
+nem, finalmente, sem a disposição do carácter. Na verdade, agir bem e o seu
+contrário não existem na acção sem o pensamento teórico nem sem a disposição
+ética. (…) A desocultação da verdade é, pois, a função de ambas as partes da
+dimensão da alma humana capaz de razão. (ARISTÓTELES, 2006, p. 134-135,
+1139a20-1139b10).
+
+Ambos os procedimentos silogísticos, apesar de se referirem a distintas finalidades
+– assim como a dialética teorética e a deliberação – e tratarem muitas vezes de premissas
+com diferente caráter (opiniões plausíveis e projeções), ainda dialogam profundamente no
+âmbito do poder de compreensão e sua influência na tomada de decisões sérias e corretas,
+em algum nível no que se pode chamar na dimensão da voluntariedade.
+Partindo dessa ótica, a influência de certos caracteres na dimensão prática, inclusive
+da dialética e suas respectivas ferramentas como o silogismo, é inegável. Ainda que
+limitadas pela própria finalidade ética, mas igualmente confluentes no âmbito racional e de
+descobrimento da verdade.
+
+25
+
+3. A DIALÉTICA NO PROCESSO DELIBERATIVO
+A dialética e a deliberação são procedimentos que buscam formas distintas de
+sabedoria. Assim, ao tratar da interligação entre eles, se faz necessário previamente
+esclarecer a sua origem, seja na alma humana, ou termos estruturais, para posteriormente
+compreender qual a sua efetiva relação – se há alguma.
+De acordo com Giovanni Reale, tanto a razão teorética quanto a razão prática
+compõem o cenário das virtudes dianoéticas, ou seja, as virtudes ligadas à razão. Consistem
+os fins de cada uma, respectivamente, a sabedoria (phrónesis) e a sapiência (sophia)
+(REALE, 1994, p. 417-418), que pressupõe o verdadeiro conhecimento, no entanto em
+esferas diferentes. Ainda assim, afirma que ambas são dependentes uma da outra, não sendo
+possível conceber a sabedoria sem a virtude ética, e vice-versa.
+Entretanto, o tema não é pacífico entre os intérpretes, principalmente ao considerar
+a obscuridade presente nos textos aristotélicos ao tratar da relação do procedimento de
+deliberação e do pensamento teórico. De início, se esclarece que apesar de ser inequívoca a
+tese aristotélica de que toda decisão envolve reflexão e raciocínio, em realidade é difícil
+afirmar com segurança de que se trata da mesma razão usada no pensamento em prol do
+conhecimento, em outras palavras, há certamente presente nos textos referências à
+deliberação enquanto um procedimento calculista, entretanto a utilização de elementos
+racionais não prova certeiramente o uso da dialética na racionalidade prática.
+No entanto, um importante ponto de conexão se dá justamente na medida em que se
+estuda a consistência do processo de deliberação: se os fins se relacionam com o que nos
+faz verdadeiramente bons, como se dá o seu aparecimento reflexivo na deliberação? Ou
+seja, decidimos afinal pelos meios, mas isso pressupõe o conhecimento exato do fim?
+Reale também sugere no que se refere à reflexão da vontade pelos fins, que o
+homem deseja: a) aquilo que é verdadeiramente bem; ou b) aquilo que nos parece o bem.
+Sendo este último não sendo querido por natureza, o que representa um esclarecimento no
+sentido da busca pela objetividade em Aristóteles e a rejeição das ações e afirmações do
+que somente “parece ser bem”. Ainda assim, Reale também assevera que o filósofo não
+teve sucesso na sua explicação da vontade e do livre-arbítrio, caindo diversas vezes em
+premissas socráticas que levam a crer que o agir moral prescinde do conhecimento do fim.
+
+26
+
+3.1- A deliberação e suas estruturas particulares
+Tratar do tema de racionalidade prática envolve abordar de que maneira se dá a
+voluntariedade das ações, isto é, de que maneira o homem se move e se nesse âmbito há o
+envolvimento do procedimento dialético ou não. No entanto, a disciplina desse tema em
+Aristóteles é de difícil e envolve inúmeras discordâncias entre os intérpretes no que tange
+as sutilezas presentes no texto.
+Primeiramente é possível apontar a questão da voluntariedade como sendo
+puramente dirigida pelo desejo, o qual envolve a percepção-sensação ou a imaginação
+como molas propulsoras, tal qual descrito em De Motum Animalium (MA, 731a30-35). Por
+outro lado, assim como já foi demonstrado nesse trabalho, a voluntariedade não está só
+ligada ao desejo, mas, também às boas escolhas intencionalmente dirigidas, ou seja, que
+envolvem um processo deliberativo próprio com uso de certa habilidade do campo teorético
+do pensamento.
+Reale aponta (REALE, 1992, p.431) a falta de clareza aristotélica diante desse tema,
+argüindo que em muito se consubstanciaria em uma leitura socrática a partir da qual o
+conhecimento prévio do bem é indispensável para a boa ação. Assim, é possível interpretar
+as obras aristotélicas de modo sistematizar um pensamento que abarque todas as
+possibilidades previstas nos textos originais?
+
+a) A finalidade do método da racionalidade prática
+
+O primeiro tópico a ser tratado no que se refere ao estudo da racionalidade prática
+envolve esclarecer o seu objetivo mediato. Em realidade, afirma Enrico Berti que o fato da
+filosofia prática estabelecer a verdade como meio necessário do seu fim, mas não como o
+fim em si mesmo da investigação, é crucial na determinação de suas aproximações e
+distinções posteriores (BERTI, 1998, p.118-120). O autor define o grau interligação entre
+os métodos a partir: a) do diferente grau de exigibilidade da matéria prática, que atinge
+apenas níveis de “tipo” e não tem rigor de detalhamento, tal qual as ciências teóricas; b) da
+necessidade para o saber prático da experiência; c) ambos partem do que nos é mais
+
+27
+próximo, mas em cada metodologia isso assume um diferente caráter, sendo para a filosofia
+prática as normas do que é bom ou não, e para a filosofia teórica o dado-fato; d) no método
+diaporético, se parte de algumas das opiniões mais difundidas, enquanto no método
+científico o fundamento inicial de análise advém de todas as opiniões a respeito do
+problema; e) a partir da endoxa se parte daquilo que parece ser aos homens, e usa-se de
+opiniões contrárias para se manter ou refutar as hipóteses. Por conta dessa descrição,
+conclui:
+Nem se deve acreditar que o método aqui exposto contraste com o proposto para
+a física ou para a metafísica, no qual se recomendava apresentar “todas” as
+opiniões relativas a certo problema: o importante, com efeito, não é acumular
+quantitativamente o maior número de opiniões, pois isso não tem nenhuma
+influência sobre a validez do exame, mas envolve todas as soluções possíveis de
+um problema a fim de especificar a justa por meio de uma eliminação progressiva
+de todas as outras. Ora, para apresentar todas as soluções é necessário criar
+algumas alternativas entre proposições reciprocamente contraditórias, nas quais
+possam entrar todas as opiniões possíveis, sem que seja necessário examiná-las
+uma a uma. Para não dizer, posteriormente, que na filosofia prática a completude
+do exame é menos necessária que na física e na metafísica, dada a aproximação
+tipológica que contradistingue a primeira, isto é, sua intenção fundamentalmente
+prática. Em substância, portanto, Aristóteles vem a propor também para a
+filosofia prática o mesmo método dialético que já propusera para a física e para a
+metafísica. (BERTI, 1998, p. 130)
+
+Apesar de definida como parte da dialética, o autor também distingue a filosofia
+prática da deliberação, na medida em que essa, por mais que componha em certo grau uma
+racionalidade calculadora presente da razão, não comporta o estudo dialético. Isso se dá
+porque a phronesis parte: a) de objetos constantemente mutáveis; b) envolve o domínio das
+paixões; c) ela é um método ou uma virtude (prudência)? c) a deliberação envolve o
+silogismo prático, no qual a premissa maior envolve o conhecimento de um bem.
+A partir da seleção dessas hipóteses iniciais é possível já delinear certas questões a
+serem estabelecidas diante dos textos que abordam a questão da decisão prática. Assim, se
+faz necessário, após investigar de maneira sucinta suas finalidades, depreender com maior
+detalhamento qual o caráter e como se forma o seu objeto de estudo.
+
+28
+b) o objeto próprio da investigação deliberativa
+
+De maneira distinta ao que se dá na investigação dialética, da qual se inicia a partir
+das proposições dadas pelo senso comum (as ditas opiniões) com aparência de verdade, o
+procedimento deliberativo começa a sua empreitada de eventos potenciais e futuros (Da
+Interpretação, I, 19a5-15). Uma das problemáticas a serem abordadas e diferenciadas dos
+métodos de conhecimento teorético se dá já na seleção prévia das premissas que comporão
+a hipótese.
+A admissão do objeto próprio da deliberação sendo dado a partir de eventos futuros
+constitui um desafio na utilização de instrumentos semelhantes ao da dialética, uma vez que
+implica a impossibilidade de assunção das proposições enquanto verdadeiras ou falsas
+afinal, não se pode atestar que determinado evento se realizará ou não no futuro. Além do
+mais, a partir da concepção realista aristotélica – em que se corresponde a verdade aos fatos
+– duas proposições contraditórias encontram o mesmo espaço de validade (Da
+Interpretação, I, 19a30-35). A discussão se restringe, portanto, ao que seria mais provável
+ou não de acontecer.
+Ainda o objeto decisório envolve apenas situações: a) que podem vir a acontecer; b)
+que nos dizem respeito, ou seja, sobre nós mesmos; c) nas quais geramos efeitos e
+modificações (EN, III, 1111b25). Por fim, pela sua própria natureza ética, o domínio do
+procedimento deliberativo não envolve o estabelecimento de proposições verdadeiras ou
+falsas, mas sim a definição de ações boas ou más – e nesse quesito mais uma vez tangenciase a questão da voluntariedade13.
+Um ponto a ser enfatizado ao se tratar do objeto de estudo da boulesis é a sua viés
+ponderativa entre alternativas distintas, sendo dado preferencialmente peso para uma em
+relação às outras, de maneira consciente ou inconsciente, conforme afirma Karen Nielsen
+(NIELSEN, 2011, p. 387). A autora também nos propõe o seguinte questionamento: será
+que a deliberação se propõe a balancear alternativas dentre as quais correspondem às
+opções que resolvemos de fato fazer contra as que poderíamos fazer caso nosso bem fosse
+
+13
+
+Aristóteles diferencia a decisão voluntária e a ação voluntária (EN, III, 1111b4). A decisão envolve um
+processo de cálculo e pensamento acerca dos caracteres humanos, sendo considerada em si mesma uma
+excelência; enquanto a ação voluntária envolve uma temática mais ampla que não necessariamente passou por
+um método investigativo anterior.
+
+29
+outro, ou seria apenas a escolha da melhor alternativa relativamente ao mesmo bem? Outro
+decorrência dessa pergunta seria: ao deliberamos consideramos todas as alternativas
+racionalmente selecionadas ou podemos deliberar sobre alternativas que nem ao menos de
+fato percebemos enquanto tal? Ainda, se é possível dizer que a escolha preferencial pode se
+dar de maneira inconsciente,seria acurado assumir a existência do método dialético na
+deliberação?
+Considerando tais questionamentos emergidos se faz fundamental a análise em
+Aristóteles de como se dá os fenômenos da percepção, da seleção de alternativas futuras e,
+por fim, a imaginação.
+
+b.1) Da percepção e da imaginação
+
+No Livro II de De Anima, Aristóteles estrutura as características básicas da
+percepção que se podem apreender de duas maneiras fundamentais. A primeira e mais
+óbvia se dá por meio da percepção sensível em si, ou seja aquela a qual se dá por meio da
+sensação (aesthesis) e do seu respectivo conhecimento com a realidade dos objetos. Nesse
+contato que temos com aquilo que é mais passível e próximo de ser conhecido (haplôs) (De
+Anima, II, 413 a10-15) usamos das nossas capacidades físicas tais quais a audição, o olfato,
+o tato e a visão.
+Entretanto ao se tratar dos métodos de investigação científica ou mesmo da
+deliberação não é possível se aplicar a esse tipo de objeto o mesmo cunho dado pelos
+sentidos, sendo mais apropriado tratá-los em níveis próprios da intelectualidade, o que
+significa assumir sua devida apreensão por outras faculdades da alma 14 . No entanto, a
+discriminação de qual é esta faculdade e seu funcionamento singular é de difícil
+conhecimento, uma vez que cada faculdade se dá de maneira distinta, seja no sentir, na
+14
+
+Thomas Mann em “A Montanha Mágica” aborda a questão da percepção acerca do tempo em contraposição
+às sensações de maneira singular: “Cale a boca, que estou pensando com grande sutileza. Que é o tempo
+afinal? – perguntou Hans Castorp, comprimindo o nariz com tamanha violência, que a ponta se tornou
+branca e exangue – Quer me dizer isto? Percebemos o espaço com os nosso sentidos, por meio da vista e do
+tato. Muito bem! Mas que órgão possuímos para perceber o tempo? Pode me responder a essa pergunta?
+Bem vê que não pode. Como é possível medir uma coisa da qual, no fundo, não sabemos nada, nada, nem
+sequer uma única das suas características? Dizemos que o tempo passa. Está bem, deixe-o passar! Para que
+o tempo fosse mensurável, seria preciso que decorresse de um modo uniforme; e quem lhe garante que é
+mesmo assim? Para a nossa consciência, não é. Somente o supomos, para a boa ordem das coisas, e as
+nossas medidas, permita-me esta observação, não passam de convenções...” (MANN, 2012, p. 104).
+
+30
+faculdade de opinar ou mesmo na associação das duas (De Anima, II, 413b30), isto é são
+habilidades autônomas que marcam nossa diferenciação com os animais – cada um com
+suas características peculiares – e traçam o caminho para a percepção15.
+Ainda na classificação dos objetos da percepção, afirma Sílvia Faustino de Assis
+Saes:
+No livro II da obra Tratado da alma (De anima), Aristóteles opera uma
+classificação dos sensíveis em dois grandes gêneros: os sensíveis percebidos “por
+si mesmos”, e os sensíveis percebidos apenas “por acidente”. Os sensíveis
+próprios e os sensíveis comuns dos quais acabamos de falar pertencem ao gênero
+dos que são percebidos “por si mesmos”. Mas também percebemos certas coisas
+“por acidente”, por acaso. Isso ocorre quando, por exemplo, reconhecemos
+alguém pela percepção da cor de uma vestimenta. Nesse caso, a pessoa
+reconhecida é o “sensível por acidente”, pois foi reconhecida de maneira
+meramente acidental, casual. Contudo, apenas os sensíveis que são percebidos
+“por si mesmos” (e não de modo casual) são considerados, por Aristóteles, os
+genuínos objetos de percepção (...) A percepção sensível não é, pois, somente
+mera passividade; ela atua como capacidade articulada e capaz de fazer
+discriminações sem que para isso tenha de recorrer a operações do pensamento ou
+da reflexão. Pela ação articulada, os sentidos podem, inclusive, perceber que
+percebem. Portanto, é pelos sentidos que alguém percebe que vê, que ouve, etc.
+Não seria possível encontrar, nos escritos aristotélicos, nenhum traço
+característico da noção moderna de “consciência” ou “autoconsciência”. (SAES,
+2010, p. 12-15).
+
+Apesar da diferenciação entre a percepção sensível e intelectual, não há que se negar
+que a faculdade intelectual, da qual a racionalidade prática é fundada, tem em si mesma
+traços semelhantes ao da sensibilidade dada pelo sentido – seja, no exemplo dado por
+Thomas Mann na associação da passagem do tempo (objeto não perceptível pelas sensações)
+
+15
+
+Ainda no tema, Mann ao desenvolver a temática da percepção do tempo a trata, em certo grau, sendo
+apreendida por dimensões das sensações, diz: “Pode ser que a vacuidade e a monotonia alarguem e tornem
+“tediosos” o momento e a hora; porém, as grandes quantidades de tempo são por ela abreviadas ou
+aceleradas, a ponto de se tornarem um quase nada. Um conteúdo rico e interessante é, por outro lado, capaz
+de abreviar a hora e até mesmo o dia; mas, considerado sob o ponto de vista do conjunto, confere amplitude,
+peso e solidez ao curso do tempo de maneira que os anos ricos em acontecimentos passam muito mais
+devagar do que aqueles outros, pobres, vazios, leves, que são varridos pelo vento e se vão voando. (...)”
+(MANN, 2012, p. 157).
+
+31
+por meio de sensações, ou pela significação de um determinado objeto sensível a um
+significado, como possivelmente se poderia associar o fogo à vinda de um inimigo.
+Também se pode argumentar a partir do texto de Saes que há uma diferenciação
+entre a percepção obtida por acidente e àquela realmente almejada. Assim como na
+dialética as categorias e termos devem ser corretamente associadas para um processo
+silogístico coerente e objetivo, também na deliberação poderia se pensar que o investigador
+não
+
+partiria
+
+de
+
+percepções
+
+acidentais,
+
+em
+
+outras
+
+palavras,
+
+respondendo
+
+aos
+
+questionamentos de Nielsen, o procedimento deliberativo para ser bem estruturado deve se
+dar em relação a alternativas previamente escolhidas, sendo improvável a assunção para
+Aristóteles de alternativas escolhidas inconscientemente.
+A faculdade intelectiva é complexa e determinante para o movimento – afinal, o
+princípio do ação não se encontra somente na mecânica e nos caracteres sensíveis, mas
+também na razão. Entretanto, o aspecto racional que envolve essa faculdade diferencia-se
+da função contemplativa (theôrêtikos) ou mesmo da ciência (epistêmonikon), e envolve a
+capacidade de discriminação e imaginação (De Anima, III, 427a25-28).
+A imaginação (phantasia) é definida nas obras aristotélicas enquanto algo distinto
+da sensações e dos pensamentos – sendo que estes também constituem matéria essencial no
+processo de deliberação (De Anima, III, 427b15-20). Trata-se de uma virtude por meio da
+qual surge uma imagem, e das quais se distinguem sentido, opinião, intelecto e ciência (De
+Anima, III, 428a).
+Assim, partem do desejo, da razão ou de ambos, qual o seu papel no procedimento
+da racionalidade prática? Será que dentre inúmeras imagens poderíamos escolher
+aleatoriamente a que nos inspira?
+Já como foi estabelecido anteriormente, isso não seria possível em Aristóteles, uma
+vez que as escolhas não são dadas de maneira acidental (De Anima, III, 428b), mas isso
+pressupõe a existência de um processo dialético? Para compreender melhor o tema é
+fundamental esclarecer qual o caráter do intelecto e sua relação com a imaginação.
+As faculdades intelectivas não integram completamente nem a parte racional, nem a
+parte sensitiva da alma, embora seu procedimento envolva um caráter semelhante às
+sensações (De Anima, III, 429a10-15). Apesar disso, as imagens tem em si natureza própria:
+
+32
+(...) quiero decir, la imaginación viene a ser la opinión de que es blanco unida a la
+sensación de lo blanco. Imaginar viene a ser, pues, opinar acerca del objeto
+sensible percebido no accidentalmente (...) La imaginación, por tanto, ni se
+identifica con ninguno de los tipos de conocimiento señalados ni es tampoco
+resultante de su combinación. (...) En primer lugar, la percepción de los sensibles
+proprios es verdadera o, al menos, encierra un mínimo de falsedad. En segundo
+lugar, está la percepción del sujeto de que tales cualidades son accidentes; em
+esto cabe ya equivocarse: em efecto, no se equivocará em si es blanco, pero si
+puede equivocarse en si lo blanco es tal cosa o tal otra. Por último y em tercer
+lugar, está la percepción de los sensibles por accidente y em los cuales se dan los
+sensibles proprios. (...) Por su parte, el movimiento producido por la sensación
+actual diferirá de la sensación misma em cada uno de estos três tipos de
+percepción. (...) Y como la vista es el sentido por excelencia, la palabra
+“imaginación” (phantasía) deriva da palavra luz (pháos), puesto que no es posible
+ver sin luz (Aristóteles, De Anima, III, 428b10-429a).
+
+Imaginação, portanto, é um estado da mente que se diferencia de todos os outros:
+opinião, pensamento ou percepção. No entanto, assim como os outros estados, a sua
+existência e funcionamento não está completamente desvinculada dos outros, sendo a
+conjuntura de todos eles necessária para inocorrência de erro.
+De fato ao tratarmos do processo deliberativo é imprescindível que se aborde todos
+esses fenômenos, sendo um traço da metodologia aristotélica investigativa empregada nos
+textos, tal referência associada a busca pela objetividade, verdade e certidão. Assim,
+argumenta Victor Caston que alguns dos dilemas enfrentados por Aristóteles se encontra
+justamente na diferenciação entre pensamento e percepção, cujo conceito equivalente foi
+trazido pela tradição pré-socrática (CASTON, 1995, p. 29). Tal temática é de profunda
+relevância para o método investigativo que, ordinariamente, se baseia na premissa da
+comparação entre igualdades das substâncias a partir do momento em que somos afetados
+por elas – sendo importante enfatizar a crença aristotélica de que ao desejarmos X, ou ao
+pensarmos X, estamos diante de trecos trazidos por X ele mesmo. Dessa forma, se
+considerarmos que os estados da mente não podem divergir da realidade, também é
+impossível incorrer em erro.
+Além disso, é fundamental o estabelecimento deste tema a partir do momento em
+que Aristóteles afirma que todas essas faculdades intelectivas recaem sobre objetos que não
+
+33
+podem haver erro (De Anima, III, 430a25-30), integrando também o passado e futuro (De
+Anima, III,430b). Assim, as ações se pautam a partir das sensações trazidas desses objetos,
+entre os quais as imagens (De Anima, III, 431b15).
+Os movimentos são pautados a partir das sensações surgidas a partir das imagens,
+isso se dá na impressão de um inimigo a partir da sensação do fogo, por exemplo (De
+Anima, III, 431b15). Dessas formas, constituem as faculdades intelectivas, na teoria da ação,
+aquelas que dão o substrato para o processo de deliberação, cujo resultado virá a ser o
+objeto do desejo causador do movimento. Pressupõe-se, portanto, que as imagens não são o
+desejo em si, mas fundamentam e estimulam sua existência.
+A atividade de discernir não é única do pensamento, mas também da sensação; a
+atividade do movimento, de fato corresponde a tanto sensação como intelecto (De Anima,
+III, 432a15-20). Entretanto, em relação às faculdades e suas relações com as partes da alma,
+Aristóteles estipula sua distinção em essência das demais (De Anima, III, 432b), ou seja,
+impossível de plenamente defini-la em nutritiva, racional ou irracional.
+Tendo sido esse cenário esclarecido, o ponto central é retomado de novo a cerca da
+problemática da vontade que envolve aspectos racionais e irracionais, além das faculdades
+intelectivas. Assim foi possível resumidamente esquematizar:
+PROCEDIMENTO COGNITIVO DO INTELECTO/INTECTO-IMAGINAÇÃO
+(surgimento da situação como situação; comparação entre tempos: passado, presente,
+futuro; discernimento das percepções. No instante da distinção entre objetos, aparências e
+verdade, o uso da intuição ou da dialética)
+
+PROCEDIMENTO COGNITIVO DA DELIBERAÇÃO (método cujo objeto são as
+imagens, opiniões e apetites. Ainda na tomada de decisão está envolvido o pensamento e
+↓
+não somente o desejo)
+
+PRINCÍPIO DO MOVIMENTO (criação do desejo, o uso de projeções, ou seja de
+imagens futuras usadas a partir de sua aversão ou receptividade por meio de um processo
+de pensamento. Envolvimento da vontade.)
+
+34
+
+A partir disso como poderíamos descrever o processo de arrazoar? Considera-se
+próprio de sua natureza a atividade de discernimento racional e do pensamento entre
+inúmeras alternativas elencadas. Seria usado procedimento dialético?
+
+3.2 – “Uma decisão implica um sentido orientador e um processo de
+pensamento”
+No último parágrafo do capítulo II, do Livro III, de Ética a Nicómaco,
+Aristóteles pontua a seguinte máxima: “uma decisão implica um sentido orientador e um
+processo de pensamento”. De fato, ao se tratar de decisões e do processo deliberativo não
+há como negar que envolvemos duas faculdades da alma: a intelectiva e racional (do
+pensamento em busca do conhecimento acerca do que há).
+De maneira explícita o uso do pensamento racional e deste tipo específico de
+cognição é apontado nesse trecho de Ética a Nicómaco. Assim, unindo-se a regra geral do
+método: “Não alcançaremos mais facilmente o que é devido se, tal como os arqueiros,
+tivermos um alvo a apontar?” (EN, I, 1094a25), não seria diferente para a racionalidade
+prática a investigação do alvo.
+No entanto, a grande discórdia dos intérpretes se encontra na natureza deste se alvo,
+se pelos meios a que se alcança o fim (a eudaimonia e demais virtudes) ou, se por meios e
+também pelos fins.
+
+a) Deliberação sobre meios ou fins?
+
+A primeira questão a ser tratada nesse tema se refere a assertiva feita por Aristóteles
+de que: “anseia-se pelos fins, e decidem-se pelos meios” (EN, III, 1111b25-30) e também
+por “Deliberamos, assim, não sobre fins mas sobre meios” (EN, III, 1112b10-15), sendo
+também importante frise: “O objecto passível de deliberação e o objecto passível de
+decisão são o mesmo, com a diferença de que o objecto passível de decisão está já
+delimitado de antemão” (EN, III, 1113a5); sendo a definição de anseio posteriormente
+encontrada em EN, III, 1113a15, em que se explicita a problemática de se ansiar pelo bem
+
+35
+aparente (escolhido de maneira incorreta) ou pelo verdadeiro bem (escolhido de acordo
+com a verdade). Sendo o bom deliberador aquele que sabe discernir entre esses dois.
+Apesar da falta de esclarecimento sobre de que forma o anseio age na alma humana,
+é possível depreender que seus efeitos se assemelham como a estimulador do desejo que
+propiciará o movimento em prol das ações. Entretanto, é fundamental estabelecer que
+ambos, anseio e decisão, presumem em si a concepção de que já se conhece o fim último a
+que se alcança com clareza, sendo aquele que anseia pelo bem aparente provavelmente
+feitor de más ações.
+Assim se pode perguntar: aquele que age bem seria então aquele anseia pelo correto
+bem ou o que sabe realizar boas escolhas? Ou seja, aquele que age bem é o que detém
+pleno conhecimento do objetivo último ou o que detém a habilidade de selecionar os meios
+de alcançá-los? Em Aristóteles, é fundamental estar bem dotado dos dois. Dessa forma,
+afirma Coelho:
+A melhor interpretação afirma ser a sensatez a excelência não apenas na gestão
+dos meios, mas também na percepção do fim capaz de tornar a ação boa (e sério,
+o homem). Isto é corroborado pelas diversas passagens em que Aristóteles invoca
+o sentido orientador como reta razão, ortho logos, implicado em todo agir. Para
+Aristóteles a decisão do humano não tem apenas natureza racional, mas envolve a
+inteireza de sua alma (como salientamos ao longo deste texto). A descrição do
+decidir envolve muito especialmente o desejo, atividade da parte superior da alma
+irracional, e o pensamento prático, atividade da parte racional da alma que tem
+por objeto as coisas humanamente contingentes, e os conjuga num diálogo do
+qual finalmente surge a decisão deliberada, que é a um tempo um desejo
+deliberado e uma deliberação desejada. Trata-se de um amálgama em que já não é
+possível dissociar o desejar do pensar, no lugar do encontro entre as duas
+dimensões da alma (que constituem o ser humano como um ser composto) em
+que se dá a passagem a interação entre o animal e o deus que o homem sempre é
+ao mesmo tempo. Ambos contribuem decisivamente em toda a decisão ética,
+concorrendo para definir a ação do animal racional. (COELHO, 2012, p. 133)
+
+Não há dúvidas de que o esclarecimento do fim é essencial para a interligação
+harmoniosa entre o desejo que impulsionará o homem e os meios a dessa forma se realize,
+ou seja, a interligação entre o desejo e a deliberação pressupõe o conhecimento do fim.
+Assim como foi dito por Aristóteles no Livro III de Ética a Nicómaco, temos o processo de
+
+36
+deliberação para cujo resultado é a decisão (delimitação dos meios); por outro lado, temos o
+processo de conhecimento dos bens, que nos leva ao anseio, ou seja ao desejo princípio
+motor da alma.
+Também é imperioso enfatizar o fato de que, como já anteriormente dito, o
+procedimento metodológico próprio do conhecimento pode se dar de inúmeras maneiras,
+mas que especialmente em Ética a Nicómaco, em que se pretende uma ciência ética, não há
+que se negar a prevalência do método dialético (apesar dos recursos particulares, tal qual o
+silogismo prático, e a ressalva aristotélica para a impossibilidade própria das generalizações
+pretendidas pela ciência e irrealizáveis na ética, devido ao seu caráter particular).
+
+Portanto, há o uso do método dialético dentro da racionalidade prática, na medida
+em que se admite a interpretação de que dentro dela se questiona acerca dos bens. No
+entanto, como fica evidente nos textos Aristotélicos, por mais que ocorra essa confluência
+não há como se afirmar que a própria deliberação é em si dialética na medida em que
+anseio pelos fins e deliberação pelos meios, por mais que profundamente conectados
+correspondem a coisas distintas.
+Também Median Stawell trata da questão da dicotomia entre meios e fins
+exemplificando com a problemática da coragem. Assim, o verdadeiro corajoso é aquele que
+é o que sabe, no momento certo, agir, de certa forma que não pareça excessivamente bravo
+ou covarde. Porém, para o autor o grande questionamento da deliberação seria: o que seria
+o momento certo? 16 A conexão das duas razões é inerente ao grande processo de
+16
+
+We find then, first (c.I), the distinction, all important for our purpose, between the Theoretic (Speculative
+and Contemplative) and the Practical Intelligence, or, as Aristotle says here, between the Knowing and the
+Planning powers of the mind. Every “plan” has to do with what can be different in the sense (explained
+before, and emphasised in the next chapter), of voluntary actions in the future. The essential difference
+between the two powers lies exactly here, viz., in their relation to action, - and we can, perhaps, best see this
+by comparing Aristotle’s account of desire in the “De Anima” (Bk. III c. I0 init), where he speaks of the
+“Practical Reason” as “that which makes a plan for the sake of something” and which differs from the
+Contemplative in having an aim, “distinguished from the speculative by its end” (Wallace) In how subtle a
+way this vital distinction is conceived by Aristotle may be seen from Bk. III c.9 of the “De Anima” (fin.). The
+theoretic Reason can contemplate good and bad, knows, e.g., what is terrible and what is sweet, but does not
+take the all-decisive step of saying this is to be done. When it does this it becomes planning, the purposive,
+Reason. Thus we can understand now Aristotle can say as he does there (“De Anima, 432b), and, indeed,
+again here, nothing practical, nothing that has got to be done, and at another time, that contemplative
+wisdom (which is theoretic intelligence at its best) knows why each thing ought to be done (Met. Ic. 2, 982b).
+The intimate nature of the union between the two Reasons must be stressed, for it is only in its light that we
+can understand how the “plan” of the practical Reason has a claim to be called “true” (Bk. VI c.2); and in
+virtue of it, we must remember, where one Reason goes the other follow at its side. (STAWELL, 1904, p. 476)
+
+37
+racionalidade prática, no entanto o questionamento acerca da reflexão de fins e meios, no
+modelo em que foi estruturada, não nos esclarece suficientemente se a deliberação em si
+mesma tem elementos da dialética própria da racionalidade teorética ou não.
+Dessa forma para se tratar dessa questão há que se recorrer a outra maneira diante
+da problemática. David Wiggins sugere que uma outra visão em relação a isso seria tomar
+em conta enquanto objeto de estudo não aquilo que efetivamente é passível de deliberação,
+mas o que seria impossível de ser deliberado. O autor parte do trecho de Ética a Nicómaco
+em que se diz: “(...) nem o médico delibera sobre se quer curar, nem orador sobre se quer
+persuadir, nem o político sobre se quer fazer uma boa legislação” (EN, III, 1112a15), o que
+dentro da comparação para ele representaria: oras, todos esses sujeitos não deliberam se vão
+ou não curar um paciente, fazer uma boa legislação ou se tentarão persuadir, pois isso é
+intrínseco à natureza de suas profissões, mas de nenhuma forma se questiona se um homem
+pode ou não deliberar se quer ser ou não médico, ou político ou orador. Em outras palavras,
+e adentrando a temática das virtudes e bens, resta claro que o homem não deliberará se quer
+perquirir ou não a felicidade, pois isso é de sua natureza, mas de nenhuma forma se nega a
+possibilidade de deliberar acerca: do que é felicidade para mim? O que é saúde neste caso?
+E assim por diante (WIGGINS, 1976, p. 36).
+Um segundo ponto trazido pelo autor se refere ao correto entendimento do que
+significa estar voltado para os meios. Talvez a palavra “meios” tenha sido mal
+compreendida pelos intérpretes que a consideram apenas o caminho para que se alcance os
+já delimitados, mas para Aristóteles a grande diferença é que esse percurso não pode
+constituir um qualquer, mas parte de uma rígida seleção pelo melhor caminho – com suas
+devidas particularidades17.
+
+17
+
+(...) But the Standard problem in a nontechinical deliberation is quite different. In the non-technical case I
+shall characteristically have an extremely vague description of something I want – a good life, a satisfying
+profession, an interesting holiday, an amusing evening – and the problem is not to see what will be casually
+efficacious in bringing this about, but to see what really qualifies as an adequate and practically realizable
+specification of what would satisfy this want. Deliberation is still zetesis, a search, but it is not primarily a
+search for means. It is a search for the best specification. Till the specification is available there is no room
+for means. When this specification is reached, means-end deliberation can start, but difficulties which turn up
+in this means-end deliberation may send me back a finite number of times of the end. And the whole interest
+and difficulty of the matter is in the search for adequate specifications, not in the technical means-end sequel
+or sequels. It is here that the analogy with the geometer’s search or the search of the inadequately clothed
+man, goes lame. (WIGGINS, 1976, p. 37-38)
+
+38
+b) Possibilidades ou hipóteses do uso da dialética na deliberação
+
+Após o estudo de como se dá o processo de deliberação e o método dialética dentro
+das obras Aristotélicas é possível elencar, de maneira sucinta e despretensiosa, algumas
+hipóteses de como a primeira pode influenciar no decorrer da segunda. De maneira sucinta
+cabe se fazer uma última ressalva no que tange o uso da dialética: suas implicações, assim
+como na teoria do conhecimento científico ou no uso da racionalidade prática, são sempre
+subsidiárias ao procedimento intuitivo que nos leva a princípios fundamentais – este que, de
+tão obscuro e inconstante, nos pede uma outra alternativa para o conhecimento das coisas
+mundanas: a dialética.
+
+b.1) Na fase de sedimentação das percepções
+
+A primeira possibilidade de uso da dialética dentro do processo deliberativo poderia
+se encontrar no exame das evidências em prol de uma percepção de acordo com a verdade
+ou na correição da percepção errônea. Como já foi anteriormente dito, o fenômeno da
+percepção é visto como o primeiro passo em relação às investigações posteriormente
+realizadas, seja na dialética ou na deliberação.
+Na primeira, constitui-se enquanto fase primordial o levantamento de hipóteses,
+cujos objetos são, de maneira resumida, àquele mais próximo a nós, como as endoxa e os
+phainomenas, que são levadas para a investigação como possíveis evidências da verdade.
+Na deliberação, fase equivalente se poderia dizer sendo aquela em que há a percepção do
+problema (“O que eu devo fazer?”) e seu levantamento de alternativas – estas que
+compreendem o uso da imaginação e influenciarão o desejo.
+Independentemente do debate entre objetivistas e perscpectivas acerca da posição
+do agente perante as evidências e o objeto de investigação 18 , considero que a posição
+aristotélica mais plausível seria a de acordo com os objetivistas no qual as corretas ou
+incorretas decisões da deliberação são pautadas de acordo com as evidências. Ainda assim,
+seja considerando as evidências elas mesmas ou a perspectiva tirada pelo agente a partir
+
+18
+
+KIESEWETTER. Benjamin. “Ought” and the perspective of the agent. Journal of Ethics & Social Philophy.
+Vol. 5, nº 3. 2011, disponível em: www.jesp.org. Acessado em 29/08/2013. pág. 6-10
+
+39
+delas, o fato é que é na fase da percepção do que há o sujeito deliberante se utiliza da
+discriminação e discernimento próprio da dialética: a depuração.
+A busca na percepção é estabelecer as evidências que mais se aproximam da
+verdade, e a forma de acesso a tal resultado só pode ser obtido pela análise e uso da
+linguagem. Há que se enfatizar aqui: não se trata da reflexão em relação aos fins, ainda,
+mas da própria maneira em que se acessa aos fatos. Trata-se da busca pelo descobrimento
+da visão do mundo das aparências errôneas que podem fazer com que a sua percepção do
+problema seja equivocada.
+
+b.2) Na distinção entre o bem aparente e o bem verdadeiro (ou a reflexão
+acerca dos fins)
+
+Assim como foi anteriormente dito, a compreensão do que virá a ser o correto fim
+compreende parte do procedimento da racionalidade prática e no que tange o anseio – que
+virá a influenciar o desejo e princípio da ação. Também, é passível de ser dito que a
+reflexão acerca dos fins no caso concreto e dos fins eles mesmos também podem ser
+objetos de deliberação levando em consideração o próprio sentido de “meios”, uma vez que
+compreendem a distinção e discriminação do melhor caminho e especificações do problema
+diante de um fim – sendo que o objeto “busca do fim” não pode ser alvo de deliberação.
+Ainda é importante esclarecer que na distinção entre o bem aparente e o bem
+verdadeiro está implícito a idéia ética de que as decisões para o homem virtuosos
+perpassam a razão e não podem ser completamente pautadas no apetite, configurando
+aquilo que nos parece agradável mas que não é o bem em si mesmo - embora essa
+compreensão não seja pacífica, considerando alguns intérpretes, como Terence Irwin19 que
+o bem aparente pode concluir não somente o alvo de objeto do desejo, mas o que
+aparentemente parece bom, ou seja, não necessariamente o bem aparente seria diferente do
+bem em si mesmo, mas que pode indicar em sua aparência traços que nos remetem ao bem
+original.
+
+19
+
+IRWIN apud MOSS. Jéssica. Aristotle on the Apparent Good: Perception, Phantasia, Thought and Desire. :
+Oxford Scholarship Online. Disponível em: http://www.oxfordscholarship.com. Acessado em: 02/09/2013 às
+11:00
+
+40
+De qualquer forma, mais uma vez qualquer método que vise a distinção,
+descriminação ou definição de uma categoria (“o que é o bem?”a título de exemplo) se
+refere a um processo de cognição racional que envolve a contraposição entre diversas
+hipóteses levantadas, tal qual prediz o método dialético.
+Assim, ambos se utilizam em algum nível do silogismo dialético, seja na aplicação
+de uma ciência ética propriamente dita tal qual observa-se em Ética a Nicómaco, cujas
+perguntas se dão para o conhecimento das virtudes, quanto no procedimento prático em que
+se pode deliberar acerca de se, por exemplo, o fim almejado no caso prático é
+correspondente ao fim real (bem aparente e bem em si), o que pressupõe o mesmo
+procedimento usado no método científico em que se busca a verdade e o esclarecimento por
+meio daquilo que nos parece mais próximo, no caso, as imagens e percepções –
+configuradas em alternativas.
+Em decorrência desse pensamento, logicamente pode-se dizer também ser passível o
+uso da dialética no instante em que se visa estabelecer as alternativas dadas para o seu
+problema prático. Conseqüentemente, no momento em que se busca a resposta para a
+pergunta “O que eu devo fazer?” há a proposição de diversas alternativas possíveis, sendo
+próprio o seu confronto pela escolha da melhor.
+Tanto o processo deliberativo quanto a dialética presumem o conhecimento
+verdadeiro, e por mais que se estabeleçam diferentes fins para cada um, ou distintas
+faculdades intelectuais que os regem, ainda assim intercalam-se no decorrer do uso da
+racionalidade prática e na busca pelo melhor agir.
+
+41
+
+4. CONSIDERAÇÕES FINAIS
+O método dialético tal qual previsto no Tópicos corresponde a um procedimento
+racional volta a diversas finalidades: os encontros casuais; o exercício intelectual; as
+ciências filosóficas. Assim, seu objetivo primordial é capacitar o investigador a resolver
+qualquer problema a ele proposto mediante o uso da argumentação.
+A característica singular da investigação dialética se dá com o estabelecimento de
+premissas mais próximas do investigador, as ditas endoxas, que em si mesmas remontam
+alguma espécie de verdade - que em um entendimento sumarizado poderiam ser ditas como
+sendo compostas pelas legomena, tai legomena e phainomena, o que é dito pela maioria, o
+que é dito pelos especialistas e o as opiniões sensatas. Mesmo nessa primeira fase em que
+se propõe o estabelecimento das proposições a serem confrontadas, o sujeito é dependente
+de sua própria percepção acerca do problema e das suas próprias premissas.
+Na dialética se mostra um fato essencial o bom estabelecimento de premissas –
+compreendendo a que categorias analíticas se referem e se são adequadas para a temática
+proposta. De igual maneira essa boa percepção inicial é essencial para a racionalidade
+prática, no que tange a deliberação, seja pela percepção do problema em si – que na
+dialética poderia se dar na proposição da pergunta essencial a ser respondida, então “Será
+que justiça é a obediência a lei?” equivaleria à ““Devo obedecer a lei para ser justo nesse
+caso concreto?”, o bom estabelecimento da pergunta demanda a percepção do problema e
+das evidências diante de nós, seja em um método ou em outro.
+Portanto, a primeira união entre as duas razões, teórica e prática, se dá no ponto do
+esclarecimento das percepções, que em uma metáfora poderíamos dizer no desanuviar a
+vista perante os fatos. Para a dialética o procedimento usado nessa fase inicial seria de fato
+a compreensão das categorias a qual a investigação está fundada – o que é, em relação a
+que é, como é, e assim por diante. Igualmente se dá para a deliberação na medida em que
+ao estabelecermos o problema diante do qual será usado seu método é imprescindível o
+conhecimento também das categorias a qual se refere, caso isso não seja feito é possível
+que o sujeito que delibera incorra em erro. A busca então em ambas é a correição da
+percepção e o bom estabelecimento da pergunta que possibilita, na dialética, o levatamento
+de opiniões e na deliberação, as distintas alternativas.
+
+42
+De fato, uma distinção que é possível de ser feita entre os dois métodos se dá na sua
+finalidade basilar que na dialética se verifica enquanto o encontro dos princípios
+fundamentais, e na deliberação a realização do melhor caminho em direção a um fim.
+Entretanto, é inegável que ambas as razões partem da premissa que o conhecimento dos
+princípios fundamentais é a mais divina e perfeita sabedoria. Dessa forma, em um processo
+decisório se o sujeito que delibera tem em si mesmo o entendimento dos princípios, saberá
+traçar naturalmente o melhor caminho para os fins – afinal ele tem conhecimento pleno de
+quais são os fins e capacidade distintiva que pode nos levar até eles. A dialética, a partir da
+epagogé, correspondem ao método fundamental proposto e teorizado por Aristóteles que
+pode nos permitir à chegada a esses princípios caso não sejamos deles dotados por nascença
+ou educação.
+Assim, é de se pressupor que em um processo de deliberação que trate mesmo da
+apreensão do caso concreto e sua possibilidade de resolução prescinde do conhecimento
+principiológico o qual, caso não seja trazido já no sujeito pela intuição, deve ser alcançado
+por outro método: a dialética. Da mesma forma que dado no exemplo anteriormente citado:
+“Devo ou não obedecer a lei nesse caso concreto para ser justo?”, para a seleção dos
+melhores meios de solução desse problema é necessário a compreensão do termo “nesse
+caso concreto” e de “justo”, individualmente caso primeiro termo; e ainda se é possível a
+junção dos dois no caso particular – que se dará pela percepção ou correição da percepção –
+assim como do que significa o termo “justo” – e aí se parte do estudo teorético próprio
+usado já no Livro V de Ética a Nicómaco. O processo deliberativo próprio se refere aos
+termos “devo ou não”.
+A partir do momento em que tudo tal como descrito foi de fato compreendido,
+parte-se para a resposta da pergunta “devo ou não” e com isso há uma segunda fase de
+levantamento de alternativas, que constituem imagens, opiniões e pensamentos. As
+faculdades intelectivas que regem as phantasias funcionam sob a ótica da razão, mas tem
+origem semelhante às da sensação irracional. Assim, por mais que se diga que na dialética
+se parte daquilo que é mais conhecido a nós, no processo deliberativo os objetos também
+não se distanciam em algum nível dessa ideia, a partir do momento em que as suas imagens
+partem de sensações já conhecidas a nós – por exemplo, a associação do fogo ao inimigo e
+sua atribuição de significado pela associação do já conhecido.
+
+43
+As alternativas são construídas em cima dessas premissas e são elas que
+possibilitam a estimulação posterior do desejo. Dessa forma se tais imagens forem
+incorretamente colocadas – enquanto bens aparentes e não verdadeiros – o anseio pelo fim
+pode ser erroneamente realizado, passando o sujeito a ansiar por um fim distinto da
+realidade ou em desacordo com a sua essência.
+Dessa forma, é de se pensar que as alternativas não podem ser propostas
+indistintamente e, no que tange a teoria da ação e da voluntariedade, não devem ser
+escolhidas inconscientemente – sendo que, como já anteriormente dito, muitos intérpretes
+rejeitam até mesmo a possibilidade de relação desses termos “consciente” e “inconsciente”
+às obras aristotélicas. Portanto, um dos métodos que se pode usar para discriminar entre as
+diferentes alternativas é a dialética, cuja natureza singular é de discernimento, depuração e
+esclarecimento.
+Entretanto é fundamental se dizer: em nenhum momento este trabalho pretende
+estabelecer dialética e deliberação enquanto métodos idênticos, mas é natural se pensar que
+assim como as diferentes partes e faculdades da alma se comunicam e se interligam, há que
+se ter o diálogo entre os diferentes métodos que as compõem.
+
+44
+
+5. REFERÊNCIAS BIBLIOGRÁFICAS
+ACKRILL. John L. Aristotle on Action. Mind, New Series, Vol. 87, nº 348, p. 595,
+1978. Disponível em: www.jstor.com. Acessado em: 02/09/2013 às 11:00.
+ARISTÓTELES. Ética a Nicómaco. Trad. Antonio de Castro Caeiro. 2ª edição.
+Lisboa: Quetzal Editores, 2006. 280p.
+ARISTÓTELES. Órganon. Trad. Edson Bini. 2ª edição. São Paulo: Edipro, 2010.
+606p.
+ARISTÓTELES. Acerca del Alma. Trad. Tomás Calvo Martinez. Madrid: Editorial
+Gredos, 2000. p 168.
+ARISTÓTELES. De Motum Animale. Trad. Martha Craven Nussbaum. Princeton:
+Princeton University Press, 1978. 430p.
+ARISTÓTELES. Metafísica. São Paulo: Edições Loyola, 2006. 695p.
+BERTI. Enrico. As razões de Aristóteles. Trad. Dion David Macedo. São Paulo:
+Edições Loyola, 1998.
+BONDÍA. Jorge Larrosa. Notas sobre a experiência e o saber da experiência. Trad.
+João Wanderley Geraldi. Publicado e Disponível em: http://www.anped.org.br. Acessado
+em: 02/09/2013 às 11:00
+BENJAMIN. Walter. A Experiência e a Pobreza. Publicado e Disponível em:
+http://bibliotecasocialvirtual.wordpress.com. Acessado em: 02/09/2013 às 11:00.
+CASTON. Victor. Aristotle and the Problem of Intentionality. Philosophy and
+Phenomenological Research, Vol. 58, nº 2, p. 249, 1998. Disponível em: www.jstor.com.
+Acessado em: 02/09/2013 às 11:00.
+COELHO. Nuno M.M.S. Sensatez como modelo e desafio no pensamento jurídico
+em Aristóteles. São Paulo: Editora Rideel, 2012.
+COREY. David D. Voeglin and Aristotle on Nous: What is noetic political science?.
+The Review of Politics, Vol. 64, nº 1, p. 57, 2002. Disponível em: www.jstor.com.
+Acessado em: 02/09/2013 às 11:00.
+CRISP. Roger. Aristotle on Dialectic. Philosophy, Vol. 66, p. 522, 1991. Disponível
+em: www.jstor.com. Acessado em: 02/09/2013 às 11:00.
+
+45
+FREDE. Dorothea. The Endoxon Mystique:What Endoxa Are and What They are
+Not. Oxford Studies in Ancient Philosophy, Vol. 43, 2009. Disponível em:
+http://www.oxfordscholarship.com. Acessado em: 02/09/2013 às 11:00.
+HAMLYN. D.W. Aristotle on Dialectic. Philosophy, Vol. 65, nº 254, p.46, 1990.
+Disponível em: www.jstor.com. Acessado em: 02/09/2013 às 11:00.
+IRWIN. Terence. Aristotle’s First Principles. New York: Oxford University Press,
+1988.
+KIESEWETTER. Benjamin. “Ought” and the perspective of the agent. Journal of
+Ethics & Social Philophy. Vol. 5, nº 3. 2011, disponível em: www.jesp.org. Acessado em
+29/08/2013 às 12:00.
+KOUDELA. Ingrid. Os Fantasmas. São Paulo: Revista USP, 1997
+MACINTYRE. Alasdair. Justiça de Quem? Qual a racionalidade?. Trad: Marcelo
+Pimenta Marques. São Paulo: Edições Loyola, 1977.
+MANN. Thomas. A Montanha Mágica. Trad. Hebert Caro. Rio de Janeiro: Editora
+Saraiva de Bolso, 2011.
+MODRAK, Debora. Theory of Language and Meaning. Cambridge: Cambridge
+University Press, 2001.
+MOSS. Jéssica. Aristotle on the Apparent Good: Perception, Phantasia, Thought and
+Desire.
+
+Oxford:
+
+Oxford
+
+Scholarship
+
+Online.
+
+Disponível
+
+em:
+
+http://www.oxfordscholarship.com. Acessado em: 02/09/2013 às 11:00.
+NIELSEN. Karen Margrethe. Deliberation as Inquiry: Aristotle’s Alternative to the
+Presumption of Open Alternatives. Philosophical Review, Vol. 120, nº 3, p. 383, 2011.
+Disponível em: www.jstor.com. Acessado em: 02/09/2013 às 11:00.
+NUSSBAUM, Martha Craven. The Fragility of Goodness: Luck and Ethics in Greek
+Tragedy and Philosophy. Cambridge: Cambridge University Press, 1986.
+OWEN. G.E.L. Tithenai ta Phainomena. 1961. Publicado e Disponível em:
+http://pt.scribd.com/doc/46765083/Owen-G-E-L-Tithenai-ta-phainomena.
+
+Acessado
+
+em
+
+02/09/2013 às 15:00.
+PAKALUK. Michael; PEARSON. Giles. Moral Psychology and Human Action in
+Aristotle.
+
+Oxford:
+
+Oxford
+
+Scholarship
+
+Online.
+
+http://www.oxfordscholarship.com. Acessado em: 02/09/2013 às 11:00
+
+Disponível
+
+em:
+
+46
+PLATÃO. XXX
+REALE. Giovanni. Historia da Filosofia Antiga. Vol. II. São Paulo: Edições Loyola,
+1999.
+SAES. Sílvia Faustino de Assis. Percepção e Imaginação. São Paulo: Martins
+Fontes, 2012.
+SALMIERI.
+
+Gregory.
+
+Aristotle’s
+
+Non-‘Dialectical’
+
+Methodology
+
+in
+
+the
+
+Nicomachean Ethics. Ancient Philosophy, Vol. 29, p.311, 2009. Disponível em:
+www.jstor.com. Acessado em: 02/09/2013 às 11:00.
+SCHILLER. F.C.S. Aristotle and the Practical Syllogism. The Journal of
+Philosophy, Psychology and Scientific Methods, Vol. 14, nº 24, p. 645, 1917. Disponível
+em: www.jstor.com. Acessado em: 02/09/2013 às 11:00.
+STAWELL. F. Melian. The Practical Reason in Aristotle. International Journal of
+Ethics, Vol 14, nº 4, p. 460, 1904. Disponível em: www.jstor.com. Acessado em:
+02/09/2013 às 11:00.
+VAZ. Henrique C. de Lima. Escritos de Filosofia IV: Introdução à Ética Filosófica.
+São Paulo: Edições Loyola, 1999.
+WIGGINS. David. Deliberation and Practical Reason. Proceedings of the
+Aristotelian Society, Vol. 76, p. 29, 1976. Disponível em: www.jstor.com. Acessado em:
+02/09/2013 às 11:00.
+
+47
+
+6. BILIOGRAFIA CONSULTADA
+ARISTÓTELES. Política. São Paulo: Editora Nova Cultural, 1999. (Edição da
+Coleção Os Pensadores).
+BACON. Francis. The New Organon. Cambridge: Cambridge University Press,
+2002 (Edição realizada por Lisa Jardine e Michael Silverthorne).
+REEVE. C.D.C. Practices of Reason. Oxford: Oxford University Press, 2002.
+
+

@@ -1,0 +1,2846 @@
+UNIVERSIDADE DE SÃO PAULO
+FACULDADE DE MEDICINA DE RIBEIRÃO PRETO
+
+GABRIELA SIMÕES PAZELLI
+
+EFEITO DOS PEPTÍDEOS DERIVADOS DA PROTEÍNA
+rLOPAP EM CONDRÓCITOS HUMANOS NO MODELO
+INFLAMATÓRIO COM INTERLEUCINA-1β
+
+SÃO PAULO
+OUTUBRO - 2018
+
+GABRIELA SIMÕES PAZELLI
+
+EFEITO DOS PEPTÍDEOS DERIVADOS DA PROTEÍNA
+rLOPAP EM CONDRÓCITOS HUMANOS NO MODELO
+
+INFLAMATÓRIO COM INTERLEUCINA-1β
+
+Trabalho apresentado como requisito parcial para a
+conclusão do curso de Bacharelado em Ciências
+Biomédicas – Ênfase em Biotecnologia em Saúde
+ministrado pela Faculdade de Medicina de Ribeirão Preto
+da Universidade de São Paulo.
+
+Orientadora: Ana Marisa Chudzinski-Tavassi, Ph.D.
+Co-orientadora: Miryam Paola Alvarez-Flores, Ph.D.
+
+SÃO PAULO
+OUTUBRO - 2018
+
+A Paola,
+que com a maior paciência e dedicação,
+me ensinou o que é fazer ciência,
+de verdade.
+
+AGRADECIMENTOS
+
+Agradeço aos meus pais, Renata e José Carlos Pazelli, e minhas
+irmãs, Laura e Helena Pazelli, por todo suporte, paciência, por sempre se
+preocuparem comigo à distância por 24 horas, por aguentarem cada
+reclamação, lágrima, crise e desespero! Por me apoiarem em cada
+decisão, mesmo as erradas para que eu amadureça do meu jeito.
+Agradeço por cada visita que me fizeram e pelas noites com vinho. Posso
+não falar com muita frequência, mas sei que se não fosse por todo suporte
+que tenho de vocês, eu não estaria onde cheguei, não estaria nem perto
+daqui.
+Agradeço a USP, que não apenas foi essencial para minha formação,
+foi o lugar que me fez crescer muito. O crescimento pessoal que eu tive
+aqui não teria acontecido em nenhum outro lugar, eu aprendi muito sobre
+ciência, relacionamentos, caráter, moral, ética. Aprendi a lutar pelos meus
+direitos e defender meus ideais. Aprendi que viver não cabe no Lattes e
+que ser professor é um dom e não um diploma, e ser pesquisador é ter
+paixão e não um laboratório.
+A minha orientadora Ana Marisa Chudzinski-Tavassi, por ter me
+recebido tão bem no laboratório e ter me proporcionado essa experiência
+tão incrível que me fez crescer muito profissionalmente; além de ter me
+apresentado a melhor orientadora que eu poderia ter, a quem eu dedico
+este trabalho, Miryam Paola Alvarez-Flores. Logo, obrigada Paola!
+Obrigada por ter me recebido tão bem quanto a Ana, por ter me ensinado
+tudo que eu aprendi no laboratório com a maior paciência, carinho e
+
+compreensão do mundo, inclusive este trabalho não existiria se não fosse
+por você! Obrigada por ter me orientado não apenas dentro do laboratório,
+por ser um exemplo para mim, por ser essa mulher incrível com um humor
+contagiante e coração bondoso. A experiência de ser sua aluna foi
+incrível, seu lugar no meu coraçãozinho estará guardado para sempre e
+espero um dia poder ser uma Paola na vida de alguém.
+Um agradecimento especial ao Dr. Carlos de Ocesano Pereira que
+ajudou (e muito) na realização deste trabalho, e também me ensinou
+muito durante esse período com muita paciência e disposição. Além dos
+outros colegas que tornaram a rotina do laboratório mais divertida, Helena
+Francelin, Jaqueline Mayara de Araújo, Douglas Oliveira, Ana Paula de
+Rocha e Joseph Cutteridge.
+Agradeço também a FAPESP e a GSK pelo apoio financeiro a este
+trabalho.
+Aos amigos que mostraram que a distância não existe quando
+estamos com saudades: Karen Cintra, Robson Quero, Larissa Finazzi,
+Matheus Nagalli e Renan Augusto Grillo. Desejo muito sucesso na vida
+de vocês, muitas chamadas de vídeo para melhorar os nossos dias e
+vários encontros para matar a saudade!
+À minha amiga de todo dia desde o primeiro dia na graduação,
+Isadora Cortez! Obrigada pela companhia em cada refeição do bandejão
+e cada real emprestado para comer no bandejão, pelos cafés nas
+cantinas, pelas noite estudando juntas e tardes na biblioteca, e por ter
+sido muito mais professora que alguns professores. Obrigada também por
+cada vinho compartilhado, as noites de pizza e lanche. Obrigada por todo
+apoio emocional e psicológico ao longo desses 4 intermináveis anos, por
+
+cada lágrima e sorriso compartilhado. Do fundo do meu coração, eu
+espero que você seja muito feliz nas suas escolhas e que tenha muito
+sucesso no seu caminho porque você merece, e muito!
+E claro, a quem esteve do meu lado tanto quando minha família ao
+longo desses anos, Thiago Chuba. Eu não tenho palavras para descrever
+o quanto você significa para mim, não apenas nesse período da
+graduação. Pela toda boa vontade de me ajudar desde quando saiu meu
+nome na lista de chamada, pelos dias estudando, pelo intensivão de
+biomecânica, pelos resumos, pela companhia nas festas. Por permitir a
+minha entrada na sua vida, compartilha-la comigo e me mostrar o que é
+ser parceiro de verdade. Eu não consigo imaginar como esses anos
+teriam sido sem você e nem gostaria que fosse diferente, obrigada por
+dar sentido para todo esse caminho!
+
+RESUMO
+A osteoartrite é uma doença degenerativa das articulações caracterizada pela
+degradação da matriz extracelular (MEC) e condrócitos presentes na cartilagem. Nos
+pacientes há o aumento de mediadores inflamatórios no fluido sinovial, como
+interleucinas e óxido nítrico, os quais induzem a apoptose condrócitos. Os tratamentos
+existentes são paliativos e não revertem o estado da doença. Logo, estudos sobre
+novos alvos moleculares são necessários para tratar a doença. Estudos utilizando o
+extrato bruto das cerdas da lagarta Lonomia obliqua (conhecida por causar síndrome
+hemorrágica) permitiram a identificação de proteínas pró-coagulantes como o Lopap
+– um agente direto nas células endoteliais e remodelamento tecidual. Estudos
+estruturais determinaram os principais motivos estruturais do Lopap, permitindo a
+síntese de peptídeos derivados dessa proteína com atividade similar através do
+remodelamento residual, tornando-os candidatos ao estudo de novos tratamentos,
+mais específicos e eficientes para a OA. O objetivo deste estudo é avaliar o efeito antiinflamatório e citoprotetor dos peptídeos derivados de Lopap em um modelo de
+inflamação induzida por IL-1β em condrócitos humanos através da análise de citocinas
+e expressão de proteínas presentes na inflamação. Para isso, utilizaram-se células
+primárias de condrócitos humanos (Lonza). O modelo de inflamação foi induzido por
+tratamento com IL-1β. Nestas condições, os peptídeos foram adicionados e o efeito
+citoprotetor foi avaliado pelos métodos de MTT e liberação de LDH. A expressão de
+metaloprotease-1 (MMP-1) e translocação de NF-κB foi analisada por High-Content
+Screening (HCS). As citocinas presentes nos sobrenadantes foram analisadas por
+Multiplex. Várias concentrações de 4 peptídeos foram avaliadas para determinar as
+melhores concentrações que induzem aumento de viabilidade na presença ou
+ausência de IL-1β. Nestes estudos observou-se que os peptídeos são capazes de
+aumentar a viabilidade celular e a translocação NF-κB. Além disso, reduzem a
+expressão de TNF-α e outras citocinas, demonstrando que os peptídeos são capazes
+de reduzir a liberação dessas citocinas, reduzindo assim o efeito inflamatório.
+Palavras-chave
+Condrócitos; Inflamação; Osteoartrite; Lonomia obliqua; Lopap; Peptídeos
+derivados.
+
+ABSTRACT
+Osteoarthritis (OA) is a degenerative joint disease characterized by the
+degradation of the extracellular matrix (ECM) and chondrocytes present in the
+cartilage. In these patients, there is an increase in inflammatory mediators in the
+synovial fluid, such as interleukins and nitric oxide, which induce chondrocyte
+apoptosis. The existing treatments are palliative, and do not reverse the disease state.
+Thus, further studies on new molecular targets are still needed to treat the disease.
+Studies using the raw bristle extract of the Lonomia obliqua caterpillar (known to cause
+the hemorrhagic syndrome) allowed for the identification of constituent pro-coagulant
+proteins, such as Lopap – a direct agent in endothelial cells and tissue remodeling.
+Structural studies determined the main structural motifs of Lopap, allowing the
+synthesis of peptides derived from this protein with similar activity through residual
+remodeling, making them candidates for the study of new, more specific and efficient
+treatments for OA. The purpose of this study is to evaluate the anti-inflammatory and
+cytoprotective effect of peptides derived from Lopap in a model of inflammation
+induced by IL-1β in human chondrocytes through cytokine analysis and protein
+expression of inflammatory markers. Therefore, primary human chondrocyte cells
+(Lonza) were used. The inflammation model was induced by treatment with IL-1β.
+Under these conditions, the peptides were added and the cytoprotective effect
+assessed by the MTT and LDH release methods. Expression of metalloprotease-1
+(MMP-1) and NF-κB translocation were analyzed by the High-Content Screening
+(HCS). Cytokines present in the supernatants were assayed using Multiplex. Several
+concentrations of 4 peptides were evaluated to determine the best concentrations that
+induced increased viability in the presence or absence of IL-1β. In this study was
+observed that peptides can increase the cell viability and the NF-κB translocation. In
+addition, reduces the expression of TNF- α and other cytokines, demonstrating that
+these peptides can reduce the release of these cytokines hence decrease the global
+inflammatory effect.
+Keywords
+Chondrocytes; Inflammation; Osteoarthritis; Lonomia obliqua; Lopap; Derived
+peptides.
+
+LISTA DE FIGURAS
+
+Figura 1 - Viabilidade celular dos condrócitos no tratamento com peptídeos em
+diferentes concentrações.....................................................................................33
+Figura 2. Viabilidade celular dos condrócitos no tratamento com peptídeos em
+diferentes concentrações na presença de IL-1β (10 ng/mL) ................................34
+Figura 3. Viabilidade celular dos condrócitos no tratamento com peptídeos nas
+concentrações mais eficientes ...........................................................................35
+Figura 4. Viabilidade celular dos condrócitos no tratamento com peptídeos nas
+concentrações mais eficientes na presença de IL-1β (1 ng/mL) .........................36
+Figura 5. Viabilidade celular dos condrócitos no tratamento com rLopap....................37
+Figura 6. Liberação de LDH dos condrócitos no tratamento com peptídeos em
+diferentes concentrações...................................................................................38
+Figura 7. Liberação de LDH dos condrócitos no tratamento com IL-1β (10 ng/mL) e
+peptídeos em diferentes concentrações.............................................................38
+Figura 8. Média do número de células no tratamento com diferentes concentrações de
+SFB e IL-1β........................................................................................................39
+Figura 9. Translocação nuclear de NF-κB (p65) no tratamento com diferentes
+concentrações de SFB e IL-1β por 30 min..........................................................41
+Figura 10. Translocação nuclear de NF-κB (p65) no tratamento com diferentes
+concentrações de SFB e IL-1β por 2.5 horas......................................................41
+Figura 11. Translocação de NF-κB em condrócitos tratados com 1 ng/mL de IL-1β por
+30 minutos na presença de 1% SFB...................................................................42
+Figura 12. Média do número de células por sítio com o tratamento com os peptídeos
+e IL-1β (1 ng/mL) nos diferentes tempos............................................................43
+Figura 13. Translocação nuclear do fator de transcrição fosforilado NF-κB (p65) no
+tratamento em diferentes tempos com os peptídeos..........................................44
+
+Figura 14. Translocação de NF- κB (p65) em diferentes concentrações de SFB na
+presença e ausência de IL-1β.............................................................................45
+Figura 15. Translocação de NF-κB (p65) após o tratamento com os peptídeos e IL-1β
+no tempo 0 hora..................................................................................................46
+Figura 16. Translocação de NF-κB (p65) após o tratamento com os peptídeos e IL-1β
+no tempo 2 horas................................................................................................47
+Figura 17. Translocação de NF-κB (p65) após o tratamento com os peptídeos e IL-1β
+no tempo 6 horas................................................................................................48
+Figura 18. Expressão de metaloprotease-1 no tratamento em 24 horas com os
+peptídeos.............................................................................................................49
+Figura 19. Expressão de metaloprotease-1 no tratamento em 24 horas com os
+peptídeos na presença de IL-1β (1 ng/mL) ........................................................50
+Figura 20. Média do número de células por sítio no tratamento com peptídeos na
+presença e ausência de IL-1β.............................................................................51
+Figura 21. Expressão de MMP-1 em diferentes concentrações de SFB na presença e
+ausência de IL-1β...............................................................................................52
+Figura 22. Figura 22. Expressão de MMP-1 sob o tratamento com P4 e P4cTer na
+presença de IL-1β..............................................................................................53
+Figura 23. Expressão de MMP-1 sob o tratamento com E8 e E8cTer na presença de
+IL-1β...................................................................................................................54
+Figura 24. Expressão de MMP-1 sob o tratamento com ácido hialurônico e cTer na
+presença de IL-1β..............................................................................................55
+Figura 25. Efeito do Lopap em diferentes concentrações sem IL-1β em 24 horas.......56
+Figura 26. Expressão de MMP-1 em diferentes concentrações de suplementação com
+SFB e Lopap...............................................................................................................57
+
+LISTA DE QUADROS
+
+Quadro 1 - Moléculas estudadas............................................................................... 20
+Quadro 2 - Moléculas utilizadas no tratamento para estudo de viabilidade.................24
+Quadro 3 - Peptídeos utilizados no tratamento dos condrócitos..................................27
+Quadro 4 - Analitos avaliados pela tecnologia de multiplex.........................................58
+Quadro 5 - Valores obtidos de cada analito em pg/mL a partir do tratamento com os
+peptídeos na presença de IL-1β (1 ng/mL) .......................................................59
+
+LISTA DE ABREVIATURAS E SIGLAS
+ºC - graus Celsius
+µL - microlitros
+AR - artrite reumatoide
+cDNA – DNA complementar
+CO2 – dióxido de carbono
+DMEM - Dulbecco’s Modified Eagle Medium
+DMSO - dimetilsulfóxido
+GAG – glicosaminoglicano
+G-CSF - fator estimulador de colônias de granulócitos
+GM-CSF - fator estimulador de colônias de granulócitos e macrófagos
+HA - ácido hialurônico
+HCS - High-Content Screening
+ICAM-1 - molécula de adesão intercelular-1
+IL-1β - interleucina-1β
+iNOS - indutor de óxido nítrico sintase
+IP-10 - proteína induzível por IFN -γ
+Lopap - Lonomia obliqua Prothrombin Activator Protease
+MCP-3 - proteína quimiotática de monócitos 3
+MEC - matriz extracelular
+ml – mililitros
+MIP-1α - proteína inflamatória de macrófagos 1α
+MMP - metaloprotease
+ng - nanogramas
+NO - óxido nítrico
+
+OA - osteoartrite
+PBS - tampão fosfato salino
+PFA - paraformaldeído
+PGE2 – prostaglandina E2
+rpm - rotações por minuto
+SFB - soro fetal bovino
+TNF - Fator de Necrose Tumoral
+
+SUMÁRIO
+DEDICATÓRIA
+AGRADECIMENTOS
+RESUMO
+ABSTRACT
+LISTA DE FIGURAS
+LISTA DE QUADROS
+LISTA DE ABREVIATURAS E SIGLAS
+SUMÁRIO
+1
+
+INTRODUÇÃO
+16
+1.1 OSTEOARTRITE
+16
+1.2 LONOMIA OBLIQUA
+17
+1.2.1 LONOMIA OBLIQUA PROTHROMBIN ACTIVATOR PROTEIN (LOPAP)
+18
+1.2.2 PEPTÍDEOS DERIVADOS
+19
+1.3 HIPÓTESE
+20
+1.4 OBJETIVOS
+20
+2 MATERIAIS E MÉTODOS
+22
+2.1 CULTURA CELULAR DE CONDRÓCITOS
+22
+2.2 PLAQUEAMENTO DE CONDRÓCITOS
+22
+2.3 ENSAIO DE VIABILIDADE CELULAR - MTT
+23
+2.4 ENSAIO DE VIABILIDADE CELULAR - LDH
+25
+2.5 ENSAIO DE IMUNOFLUORESCÊNCIA POR HIGH-CONTENT SCREENING
+25
+2.5.1 PADRONIZAÇÃO
+DO
+MODELO
+PRÓ-INFLAMATÓRIO
+DE
+CONDRÓCITOS
+26
+2.5.2 TRATAMENTO DOS CONDRÓCITOS COM AS MOLÉCULAS
+26
+2.5.3 PREPARAÇÃO DAS PLACAS PARA O HCS E ANÁLISE DOS DADOS
+28
+2.6 IMUNOENSAIO POR TECNOLOGIA MULTIPLEX
+30
+2.6.1 Tratamentos das células e obtenção de amostra
+30
+2.6.2 Preparo dos reagentes
+31
+2.6.3 Imunoensaio
+32
+2.7 ANÁLISE ESTATÍSTICA
+32
+3 RESULTADOS
+33
+
+3.1 VIABILIDADE CELULAR
+33
+3.1.1 EFEITO DOS TRATAMENTOS NA VIABILIDADE CELULAR POR
+ENSAIO DE MTT
+33
+3.1.2 EFEITO DOS TRATAMENTOS NA VIABILIDADE CELULAR POR
+ENSAIO DE LDH
+37
+3.2 MODIFICAÇÕES CELULARES ASSOCIADAS AOS TRATAMENTOS
+39
+3.2.1 PADRONIZAÇÃO DAS CONDIÇÕES IDEAIS PARA O TRATAMENTO
+PARA O ENSAIO DE IMUNOFLUORESCÊNCIA PARA HIGH-CONTENT
+SCREENING
+39
+3.2.2 EFEITO
+DO
+TRATAMENTO
+COM
+OS
+PEPTÍDEOS
+NA
+TRANSLOCAÇÃO NUCLEAR DO NF-κB
+42
+3.2.3 EFEITO DO TRATAMENTO COM OS PEPTÍDEOS NA EXPRESSÃO DE
+MMP-1
+49
+3.3 EFEITO DOS PEPTÍDEOS NA PRESENÇA DE CITOCINAS AVALIADO POR
+IMUNOENSAIO UTILIZANDO A TECNOLOGIA MULTIPLEX
+58
+4 DISCUSSÃO
+60
+4.1 EFEITO DOS PEPTÍDEOS E DO LOPAP NA VIABILIDADE CELULAR DE
+CONDRÓCITOS
+60
+4.2 CONDIÇÕES IDEAIS PARA O TRATAMENTO PARA O ENSAIO DE
+IMUNOFLUORESCÊNCIA PARA HIGH-CONTENT SCREENING
+61
+4.3 EFEITO DOS PEPTÍDEOS NA TRANSLOCAÇÃO NUCLEAR DO NF-κB E
+EXPRESSÃO DE MMP-1
+62
+4.4 EFEITO DOS PEPTÍDEOS NA PRESENÇA DE CITOCINAS
+63
+5 CONCLUSÕES
+66
+5.1 SUGESTÕES PARA TRABALHOS FUTUROS
+67
+6 ANEXOS
+68
+6.1 ANEXO 1 – Tampões e Soluções para o HCS
+68
+REFERÊNCIAS
+69
+
+Introdução
+
+16
+
+1 INTRODUÇÃO
+OSTEOARTRITE
+
+A osteoartrite (OA) é uma doença degenerativa das articulações relacionada ao
+processo de envelhecimento, cujo estado tardio se caracteriza por uma extensa
+degradação da matriz extracelular (MEC) da cartilagem e consequente perda de
+condrócitos. A interação entre a MEC e os condrócitos exerce uma função reguladora
+que garante a sobrevivência celular, essa interação quando desregulada é capaz de
+causar dor nos pacientes. De acordo com as pesquisas de Pang-Hu Zhou e
+colaboradores em 2008, a evolução da OA resulta no desenvolvimento de fibrilação,
+fissuras, ulcerações da matriz da cartilagem e, portanto, perda da espessura total da
+articulação (ZHOU et al., 2008). Já é conhecido que a perda da MEC ao longo da
+progressão da OA leva ao aumento da síntese de metaloproteases (MMPs),
+agrecanases, e a redução da síntese de glicosaminoglicanos (GAGs).
+Em pacientes com OA, há um aumento da presença de mediadores no fluido
+sinovial, como interleucinas, óxido nítrico (NO), o domínio G1 do agrecan e o Fas
+ligante (FasL), os quais induzem a apoptose dos condrócitos (ZHOU et al., 2008;
+KAPOOR et al., 2011; AKKIRAJU & NOHE 2015). A interleucina-1β (IL-1β) e o Fator
+de Necrose Tumoral (TNF) são responsáveis pelo controle da degeneração da matriz
+de cartilagem, pois reduzem a síntese dos principais componentes da MEC, como
+colágeno do tipo II, além de estimularem a liberação de enzimas proteolíticas pelos
+condrócitos, como MMPs, responsáveis pela destruição da cartilagem (KAPOOR et
+al., 2011). O aumento dos níveis IL-1β ou dos receptores de IL-1β nos condrócitos
+pode ser a causa do processo de apoptose dos condrócitos; ademais, a degradação
+do agrecan ligado ao ácido hialurônico (HA) leva ao acúmulo local do seu domínio G1
+no fluido sinovial e na cartilagem, o resultado dessa interação também é capaz de
+induzir a apoptose dos condrócitos (ZHOU et al., 2008).
+A presença de citocinas pró-inflamatórias, como a IL-1β, eleva a produção de
+NO por meio do aumento da expressão do gene indutor de óxido nítrico sintase (iNOS)
+(AKHTAR et al., 2011) e também estimula a liberação de prostaglandina E2 (PGE2),
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Introdução
+
+17
+
+esses levam a produção e ativação de MMPs (KAPOOR et al., 2011), impulsionando
+a degradação da cartilagem.
+Medicamentos biológicos como infliximab, etanercept e adalimumab inibem a
+ação do TNF, portanto demonstram excelente eficácia na prevenção do dano
+estrutural associado à artrite reumatoide (AR), porém ainda existem poucos estudos
+sobre o efeito desses medicamentos na OA (KAPOOR et al., 2011). O ácido
+hialurônico é um componente natural da MEC e reduz os efeitos causados pela IL-1β,
+por isso é amplamente utilizado no tratamento da OA, por meio de injeção intraarticular (ZHOU et al., 2008). No entanto, os pacientes experimentam alívio
+temporário, sua curta duração e sua a eficácia é discutível (AKKIRAJU & NOHE 2015).
+Assim, ainda são necessários mais estudos sobre novos alvos-moleculares para o
+tratamento da doença.
+
+LONOMIA OBLIQUA
+
+O contato humano com as lagartas do gênero Lonomia obliqua, encontradas
+majoritariamente no sul do Brasil, podem levar a acidentes como o erucismo, cujos
+sintomas incluem síndrome hemorrágica causada por uma intensa atividade
+fibrinolítica e quantidade anormal de plaquetas (KELLEN et at., 1995; CHUDZINSKITAVASSI & ALVAREZ-FLORES, 2005; ALVAREZ FLORES et al., 2010). Alguns
+casos fatais também apresentam complicações renais e hemorragia cerebral
+(DONATO et al., 1998). Desde o início do acidente há reação inflamatória somada a
+coagulação intravascular disseminada e fibrinólise secundária, o que pode levar as
+manifestações hemorrágicas. O plasma dos pacientes envenenados tem a via de
+coagulação e componentes fibrinolíticos alterados, entre esses, a depleção de
+fibrinogênio e diminuição do plasminogênio (ZANNIN et al., 2003).
+Estudos realizados in vitro, utilizando o extrato bruto das cerdas da lagarta L.
+obliqua, provou que há indução da formação de coágulos desencadeado pela cascata
+de coagulação pela ativação da protrombina e do fator X (FRITZEN et al., 2005). A
+partir dessa comprovação, identificou-se proteínas pró-coagulantes nas cerdas da L.
+obliqua responsáveis por essa ação, entre elas, a Lonomia obliqua Prothrombin
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Introdução
+
+18
+
+Activator Protease (Lopap), uma lipocalina atuante diretamente nas células
+endoteliais, sendo sua função o aumento da liberação de moléculas responsáveis pela
+remodelagem tecidual (REIS et al., 2001). O Lopap foi produzido na forma
+recombinante (rLopap) em sistema bacteriano (REIS et al., 2001).
+Estudos realizados in vivo com camundongos evidenciaram uma resposta
+inflamatória induzida por meio do contato com o extrato bruto da L. obliqua, os
+camundongos que tiveram contato com o extrato apresentaram um aumento do influxo
+de leucócitos na cavidade subcutânea (RAMOS et al., 2004). As vias de sinalização
+relacionadas à inflamação interagem com a cascata de coagulação por meio de
+moléculas como trombina, fator Xa e interação de uroquinase com receptores
+específicos que levam a respostas inflamatórias caracterizadas pela migração de
+leucócitos e quimiotaxia, assim como adesão ao endotélio (FRITZEN et al., 2005).
+Portanto, os estudos sobre os mecanismos de sinalização e ação dessas proteínas
+presentes na L. obliqua tornam-se interessantes como ferramentas para o estudo de
+doenças que envolvam processos inflamatórios como a OA (ALTMAN et al., 2015;
+DASA et al., 2016).
+
+1.2.1 LONOMIA OBLIQUA PROTHROMBIN ACTIVATOR PROTEIN (LOPAP)
+
+O Lopap é uma proteína tetramérica cuja massa molecular é de 69 kDa e sua
+ação consiste na ativação da protrombina, independente de cofatores do complexo
+protrombinase, cuja atividade é aumentada na presença de cálcio (REIS et al., 2001).
+É a primeira lipocalina descrita que possui atividade proteolítica (REIS et al., 2006).
+Estudos em células endoteliais vasculares umbilicais humanas (HUVECs)
+demonstraram que essa proteína promove a sobrevivência celular por meio do
+aumento de secreção de NO e prostaciclina (PGI2), os quais induzem a vasodilatação
+e inibição da ativação de plaquetas e expressão de moléculas de adesão ICAM-1 e Eselectina, porém não altera a secreção de citocinas pró-inflamatórias IL-6 e TNF-α.
+Outra ação interessante da proteína em HUVECs é o aumento significante da
+viabilidade celular e inibição da apoptose (FRITZEN et al., 2005; CHUDZINSKITAVASSI & ALVAREZ-FLORES, 2005; CHUDZINSKI-TAVASSI, et al., 2013).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Introdução
+
+19
+
+Para produção da sua forma recombinante, rLopap, estudos envolvendo
+análise de sequência, clonagem, expressão em E. coli e estudo estrutural da proteína
+foram realizados. Estudos sobre sua forma recombinante demonstraram que possui
+características similares a forma nativa, incluindo a atividade de ativação da
+protrombina, e um tamanho de 21 kDa (REIS et al., 2006). Características dos
+domínios conservados das lipocalina são mantidas na sequência completa do rLopap,
+confirmando sua homologia com as proteínas da família das lipocalinas (REIS et al.,
+2006; CHUDZINSKI-TAVASSI, et al., 2013).
+
+1.2.2 PEPTÍDEOS DERIVADOS
+
+Tem sido proposto que os motivos conservados de lipocalinas são responsáveis
+pela estrutura da proteína e as propriedades funcionais do Lopap (CARRIJOCARVALHO et al., 2012). A partir de estudos de estrutura tridimensional, modelagem
+molecular e química, métodos de química computacional e quimiometria definiu-se os
+principais motivos estruturais da proteína Lopap possibilitando a síntese dos
+peptídeos derivados dessa proteína (CHUDZINSKI-TAVASSI et al., 2010). O estudo
+mais detalhado da ação da proteína em processos inflamatórios como a OA, assim
+como seus peptídeos recombinantes, possibilitará o desenvolvimento de novos
+tratamentos mais específicos e eficientes através do descobrimento de novos alvos
+moleculares para a OA.
+Considerando estudos do Centro de Excelência para Descoberta de Novos Alvos
+Moleculares (CENTD) ainda não publicados, a síntese dos peptídeos foi direcionada
+para as entidades químicas mais promissoras. Esses peptídeos são passíveis de
+proteção de propriedade intelectual, logo, suas sequências não serão detalhadas
+neste trabalho.
+A sequência peptídica denominada " cTer " corresponde a um peptídeo derivado
+da molécula Amblyomin-X (BATISTA et al., 2010) com características de CPP (Cell
+Penetrationg Peptides), conhecidos na literatura como moléculas que transportam
+uma ampla variedade de conjugados biologicamente ativos ("cargo") para dentro das
+células (GUIDOTTI et al., 2017). Dessa forma, os CPPs são uma forma inovadora de
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Introdução
+
+20
+
+uma droga atingir alvos intracelulares, reduzindo as concentrações utilizadas que
+poderiam ser tóxicas em maiores quantidades. A patente desta sequência e o seu uso
+como CPP está sendo elaborada, e não será descrita no presente trabalho.
+O presente trabalho estuda os efeitos de 4 peptídeos derivados do Lopap, sendo
+2 peptídeos conjugados com a sequência “cTer”, e sua proteína recombinante
+(Quadro 1) em modelo inflamatório de condrócitos humanos utilizando IL-1β,
+possibilitando o desenvolvimento de novos tratamentos. Entre os peptídeos testados
+neste trabalho está o peptídeo P4, o qual já foi patenteado nos Estados Unidos
+(VENTURA et al., 2014).
+
+Nome/código
+
+Massa (kDa)
+
+Nº de aminoácidos
+
+rLopap
+E8
+P4
+E8cTer
+P4cTer
+
+21
+824,98
+1326
+6875.54
+7361.03
+
+10
+8
+10
+62
+65
+
+Quadro 1. Moléculas estudadas. Foram selecionadas 5 moléculas a serem estudadas no presente
+trabalho, a tabela apresenta seus códigos e respectivas massas e número de aminoácidos.
+
+HIPÓTESE
+
+Baseado em estudos sobre a proteína Lopap, espera-se verificar que essa
+molécula ou seus peptídeos derivados possuam efeito anti-inflamatório e citoprotetor
+em modelo celular inflamatório.
+
+OBJETIVOS
+
+O objetivo do presente trabalho consiste na avaliação do efeito anti-inflamatório
+e citoprotetor dos peptídeos derivados da proteína rLopap em um modelo inflamatório
+de condrócitos humanos utilizando IL-1β.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Introdução
+
+21
+
+Os objetivos específicos são:
+
+● Avaliar o efeito dos peptídeos sobre a viabilidade celular em modelo
+inflamatório de condrócitos humanos por meio da atividade da enzima
+succinato-desidrogenase mitocondrial;
+● Avaliar o efeito dos peptídeos sobre a viabilidade celular em modelo
+inflamatório de condrócitos humanos baseado na liberação da lactato
+desidrogenase;
+● Identificar possíveis as vias de atuação dos peptídeos nos condrócitos;
+por meio da dosagem de citocinas em sobrenadantes tratados com os
+peptídeos, e pelo padrão de expressão (MMP-1) ou de translocação
+(NF-κB) de marcadores de OA.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+2
+
+22
+
+MATERIAIS E MÉTODOS
+CULTURA CELULAR DE CONDRÓCITOS
+
+Os condrócitos primários humanos utilizados neste estúdio foram adquiridos da
+empresa Lonza: Normal Human Articular Primary chondrocytes (NHAC-Kn, #CC2550, Lote 8F3336). A cultura celular dos condrócitos foi realizada em garrafas
+(Sarstedt T175 e T75). As células foram cultivadas em meio de cultura DMEM (Sigma)
+suplementado com 10% de soro bovino fetal (SFB) (Sigma), incubadas em estufa a
+37°C e 5% de CO2, e utilizadas culturas na 6ª passagem. O meio de cultura foi trocado
+a cada dois dias até a cultura ter atingido 80% de confluência.
+
+PLAQUEAMENTO DE CONDRÓCITOS
+
+Para os ensaios de MTT, LDH e HCS foi necessário realizar o plaqueamento das
+células para tratá-las. Após atingir a confluência desejada, a garrafa contendo as
+células aderentes teve o meio retirado, e foi lavada 2 vezes com 10 mL de PBS. Em
+seguida adicionou-se 2 mL de uma solução de tripsina/EDTA (0,05%, Gibco, #25300054), deixando-a na estufa de 3 a 5 min a 37°C e 5% de CO2, até as células estarem
+completamente descoladas da garrafa. Em seguida adicionou-se 2 mL de SFB (Sigma)
+para neutralizar a ação da tripsina e todo o conteúdo da garrafa foi coletado em um
+tubo falcon, repetindo-se a lavagem com PBS para coletar as possíveis células que
+ainda ficaram soltas na garrafa. Com todo o conteúdo coletado, o mesmo foi
+centrifugado a 1000 rpm, a 15ºC por 10 minutos. O sobrenadante foi então retirado e
+foram adicionados 5 mL de meio DMEM suplementado com 10% de SFB para
+ressuspender as células.
+A contagem celular foi realizada em câmara de Neubauer. O azul de tripan foi
+utilizado para corar as células para a contagem (10 µL de células, 10 µL de corante e
+80 µL de PBS). Após a contagem, as células foram plaqueadas em placa de 96 poços.
+Para o HCS foram utilizadas as placas da marca Greiner (Microplate Advanced TC) e
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+23
+
+para os ensaios de MTT e LDH foram utilizadas as placas da marca Thermo Scientific
+(Nunclon Delta MicroWell) contendo 200 µl de meio DMEM suplementado com 10%
+de SFB em quantidade de 8 x 103 células por poço.
+
+ENSAIO DE VIABILIDADE CELULAR - MTT
+
+A viabilidade celular foi avaliada pelo ensaio colorimétrico rápido baseado no sal
+de tetrazólio (MTT) (Sigma, #M2128). O MTT avalia por meio da atividade da
+enzima succinato-desidrogenase mitocondrial a viabilidade celular, através da
+capacidade de metabolizar o reagente amarelo - MTT (3-(4,5-dimetiltiazol-2-yl)-2,5brometo de difenil-tetrazólio) em cristais de formazan de cor violeta (MOSMANN,
+1983).
+O ensaio foi realizado em placas estéreis de 96 poços, seguindo a cultura e o
+plaqueamento de células conforme descrito anteriormente, com amostras em
+triplicatas. Após o plaqueamento, as células foram incubadas em estufa a 37°C e 5%
+de CO2 overnight. As demais etapas estão posteriormente descritas. Os tratamentos
+realizados foram de 24 horas com as células incubadas na estufa a 37°C e 5% de
+CO2, seguindo 3 diferentes modelos descritos:
+
+Peptídeos: padronização inicial
+Após o processo de plaqueamento das células nas condições descritas acima,
+foram preparados os meios DMEM suplementado com 10% de SFB e meios DMEM
+com e sem IL-1β (10 ng/mL). Na presença ou ausência de IL-1β, os peptídeos
+testados foram P4, P4cTer, E8, E8cTer nas concentrações 100, 200, 500, 1000 e 2000
+nM, e ácido hialurônico nas concentrações 10, 20 e 40 ng/mL. Tanto os peptídeos
+quanto o ácido hialurônico estão diluídos em H2O. Assim, foram preparados os
+veículos correspondentes. O volume correspondente à concentração de 500 nM dos
+peptídeos corresponde a 5% do volume total da solução do tratamento, logo, foi
+preparado um veículo contendo meio DMEM na ausência de SFB, na presença ou
+ausência de IL-1β (10 ng/mL) e H2O com volume correspondente a 5% do volume.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+24
+
+Peptídeos na presença de 1% SFB
+Após o estabelecimento do modelo de condrócitos, os peptídeos derivados
+foram avaliados nas seguintes condições: meio DMEM com 1% de SFB, na presença
+ou ausência de IL-1β (1 ng/mL) ou dos peptídeos conforme descrito no quadro 2. O
+ácido hialurônico foi utilizado na concentração de 40 µg/mL em ambas as condições.
+
+Código/Nome
+Concentração sem IL-1β (nM)
+Concentração com IL-1β (nM)
+
+P4 e P4cTer
+200 e 500
+1000 e 2000
+
+E8 e E8cTer
+100 e 500
+500 e 1000
+
+cTer
+2000
+2000
+
+Quadro 2. Moléculas utilizadas no tratamento para estudo de viabilidade. Foram selecionadas 5
+moléculas para o tratamento a fim de analisar seu efeito na viabilidade celular, a tabela apresenta as
+concentrações utilizadas de cada uma.
+
+Lopap
+Equitativamente conforme descrito no tratamento anterior, foram preparados os
+meios DMEM sem e com IL-1β (10 ng/mL), ambas as condições também contendo
+rLopap nas concentrações 10, 50, 150 e 250 nM.
+Após o tempo de tratamento com os peptídeos ou com o Lopap, o sobrenadante
+foi coletado em outra placa de 96 poços da marca Thermo Scientific (Nunclon Delta
+MicroWell) e centrifugado a 1000 rpm, 15ºC por 10 minutos para posterior análise de
+citocinas ou ensaio de LDH. Enquanto, as células aderidas foram incubadas com 100
+μL de reagente MTT Ultrapure (USB), a 0,5 mg/mL em PBS 1x, por 3 horas na estufa
+a 37oC e 5% de CO2. Finalizado o tempo de 3 horas, o reagente foi removido e 100 μL
+de DMSO foram adicionados para dissolver os cristais de formazan. A leitura foi
+realizada utilizando o espectrofotômetro SpectraMax M5e Multi-Mode Microplate
+Reader da Molecular Devices em comprimento de onda de 540 nm, sendo utilizado
+para análise o software SoftMax Pro 6.4 - Microplate Data Acquisition and Analysis
+Software. Os resultados estão apresentados como porcentagem da viabilidade (média
+± erro padrão da média (EPM), em relação ao controle suplementado com 10% de
+SFB.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+25
+
+ENSAIO DE VIABILIDADE CELULAR - LDH
+
+A viabilidade celular também foi avaliada pelo ensaio de liberação de lactato
+desidrogenase (LDH, Kit Cytotox 96 Non-Radioactive Cytotoxicity assay, Promega,
+#G1780) utilizando os sobrenadantes coletados e de acordo com as especificações
+do fabricante. Para dosagem de LDH total, alguns poços (contendo sobrenadante e
+célula) foram escolhidos para adição de 10 µL de Lysis Solution por 30 min a 37ºC e
+posteriormente coletado. Seguindo o protocolo do fabricante, após a centrifugação,
+50 µL dos sobrenadantes foram coletados em uma placa de 96 poços e adicionou-se
+50 µL do Substrato Mix (reagente CytoTox) em todos os poços; a placa foi coberta
+com papel alumínio para protege-la da luz e foi incubada durante 30 minutos à
+temperatura ambiente. Então, foram adicionados 50 μL da Stop Solution em cada
+poço da placa e, depois realizada a leitura a 492 nm no espectrofotômetro SpectraMax
+M5e Multi-Mode Microplate Reader da Molecular Devices. O software SoftMax Pro 6.4
+- Microplate Data Acquisition and Analysis Software foi utilizado para análise. Os
+resultados estão apresentados como porcentagem da viabilidade (média ± erro
+padrão da média (EPM), em relação ao controle contendo a liberação total do LDH.
+
+ENSAIO DE IMUNOFLUORESCÊNCIA POR HIGH-CONTENT SCREENING
+
+O High Content Screening (HCS) é uma tecnologia inovadora baseada em
+microscopia de fluorescência, o qual resolução é possível quantificar multiparâmetros
+celulares simultaneamente por meio de imagens em alta (BUCHSER et al., 2014).
+Além de parâmetros morfológicos, através desta estratégia também é possível
+analisar a expressão intracelular e a sub-localização celular de proteínas de interesse.
+Todo este processo ocorre de forma automatizada em uma plataforma de aquisição e
+análise de dados em larga escala, utilizando placas de múltiplos poços (96, 384 ou
+1536 poços). Portanto, para identificar possíveis modificações celulares associadas
+aos tratamentos realizados no presente projeto, utilizou-se a tecnologia de HCS.
+Resumidamente, este ensaio segue as seguintes etapas: cultura celular,
+plaqueamento e tratamento das células, fixação e permeabilização, bloqueio,
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+26
+
+marcação com os anticorpos, aquisição e análise. Todas estas etapas foram
+previamente padronizadas no laboratório CENTD.
+O cultivo das células foi realizado seguindo o tópico 2.1 – Cultura Celular de
+Condrócitos e o plaqueamento seguindo o tópico 2.2 – Plaqueamento de Condrócitos.
+Após o plaqueamento, as células foram incubadas na estufa a 37 oC e 5% de CO2
+overnight. As demais etapas estão descritas abaixo.
+As imagens em alta resolução foram obtidas no equipamento “The ImageXpress
+Micro Confocal High-Content Imaging System” (Molecular Devices, USA), utilizando o
+software MetaXpress 6 High Content Image Acquisition and Analysis Software
+(Molecular Devices, USA).
+
+2.5.1 PADRONIZAÇÃO DO MODELO PRÓ-INFLAMATÓRIO DE CONDRÓCITOS
+
+Para realizar a análise das proteínas de interesse, tanto as secretáveis quanto
+intra-celulares, foi necessário realizar uma padronização prévia do modelo próinflamatório de condrócitos. Inicialmente foi realizado um experimento com diferentes
+concentrações de SFB e de IL-1β para estabelecer qual a melhor condição para
+realizar os experimentos. A padronização foi feita através da análise de translocação
+do fator de transcrição fosforilado NF-κB (p65) após a sua ativação com IL-1β.
+Após 24 horas do plaqueamento das células, foram preparados meios de cultura
+DMEM com 0, 1, 2,5 e 5% de SFB, contendo ou não várias concentrações de IL-1β:
+0, 0.1, 0.5 e 1 ng/mL. Outros controles foram preparados com meio DMEM contendo
+10% de SFB na presença ou ausência de IL-1β. Foi realizada uma pré-incubação por
+30 e 150 min. Em seguida, o sobrenadante foi removido e a placa fixada e
+permeabilizada seguindo os protocolos descritos posteriormente.
+
+2.5.2 TRATAMENTO DOS CONDRÓCITOS COM AS MOLÉCULAS
+Análise da translocação do fator de transcrição NF-κB (p65)
+Após o processo de plaqueamento das células nas condições descritas acima,
+foram preparados os meios DMEM suplementado com 1% de SFB contendo os
+peptídeos P4 e P4cTer na concentração de 2 µM, E8 e E8cTer na concentração de 1
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+27
+
+µM e ácido hialurônico na concentração de 40 µg/mL. O tratamento foi realizado em
+2, 6 e 24 horas antes da adição de IL-1β e simultaneamente a adição, sendo esse o
+tempo 0. No tempo 0, foi adicionado aos poços controles IL-1β (1 ng/mL) por 30 min.
+Em seguida, a placa foi centrifugada a 1000 rpm, a 15ºC por 10 minutos e o
+sobrenadante foi coletado e armazenado a -80 ºC. Após a coleta as células foram
+fixadas e permeabilizadas conforme descrito subsequentemente.
+Análise de expressão da Metaloprotease-1 (MMP-1)
+Similarmente ao que foi descrito anteriormente para a translocação do NF-κB, as
+células receberam os mesmos tratamentos (Quadro 3), porém por 24 h. Em seguida,
+elas foram marcadas com um anticorpo contra MMP-1 e analisadas conforme descrito
+posteriormente.
+
+Peptídeo
+Concentração sem IL-1β (nM)
+Concentração com IL-1β (nM)
+
+P4 e P4cTer
+200 e 500
+1000 e 2000
+
+E8 e E8cTer
+100 e 500
+500 e 1000
+
+cTer
+2000
+2000
+
+Quadro 3. Peptídeos utilizados no tratamento dos condrócitos. Foram selecionadas 5 moléculas
+para o tratamento das células a fim de analisar seu efeito frente a expressão das MMP-1 (após 24 h).
+
+Em paralelo, uma outra placa foi preparada para testar o efeito citoprotetor do
+rLopap. Para isso, foram preparadas as soluções de meio DMEM suplementado com
+1% de SFB contendo rLopap nas concentrações de 10, 50, 100, 200 e 1000 nM, na
+ausência de IL-1β, além dos controles: meio DMEM suplementado com 10 e 1% de
+SFB na presença de IL-1β.
+Para ambas as placas, previamente aos tratamentos de 24 h, o meio de cultivo
+contendo 10% SFB foi removido e substituído por meio contendo 1% SFB nas
+condições de tratamentos descritas anteriormente. Após 24 horas, a placa foi
+centrifugada a 1000 rpm, a 15ºC por 10 min e o sobrenadante foi coletado e
+armazenado a -80ºC. Posteriormente, as células das placas foram marcadas
+conforme descrito nas etapas abaixo.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+28
+
+2.5.3 PREPARAÇÃO DAS PLACAS PARA O HCS E ANÁLISE DOS DADOS
+
+Os procedimentos relacionados a preparação das placas para marcação estão
+descritos nas etapas abaixo, assim como as estratégias adotadas para análise dos
+dados obtidos.
+
+Fixação
+Após a coleta do sobrenadante, as células foram fixadas com 100 µL de Fixation
+Buffer por poço (FB) (ANEXO 1) durante 1h a temperatura ambiente sob agitação
+branda.
+
+Permeabilizacão
+Após a etapa de fixação, o FB foi cuidadosamente removido e adicionado 100
+µL por poço do Permeabilization Buffer (PB) (ANEXO 1), por 5 min sob leve agitação
+a temperatura ambiente. A placa foi lavada 3 vezes por 5 minutos com 200 µL por
+poço da solução WB2 (PHEM-GLYCINE) (ANEXO 1) a temperatura ambiente sob
+agitação branda.
+
+Bloqueio
+Após as lavagens, adicionou-se 100 µL por poço do tampão de bloqueio (BSA
+1% (ANEXO 1) por 30 min a 4ºC.
+
+Marcação
+Após a etapa de bloqueio, a solução foi removida e substituída pela solução
+contendo os anticorpos primários:
+- Phospho-NF-κB-p65 (SER536) (93h1) Rabbit MAB, Cell Signaling Technology
+#3033S, diluição 1:500.
+- MMP-1 (SB12E), Mouse IgG2B, Santa Cruz #58377), diluição 1:500.
+Esta etapa foi realizada overnight a temperatura de 4ºC. Em seguida, a solução
+contendo os anticorpos primários foi removida, lavada 3 vezes por 5 minutos com 200
+µL por poço com o tampão WB1, e substituída pela solução contendo os anticorpos
+secundários acoplados aos fluoróforos específicos. Simultaneamente a marcação
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+29
+
+com os anticorpos secundários, o DNA nuclear foi corado com Hoechst 33342 (5 µM
+– Life Technologies, Thermo Fisher Scientific) por 1 h a temperatura ambiente.
+Anticorpos secundários:
+-
+
+Goat anti-Rabbit IgG (H+L) Cross-Adsorbed Secondary Antibody, Alexa Fluor
+647, ThermoFisher #A21244, diluição 1:1000.
+
+-
+
+Goat anti-Mouse IgG (H+L) Highly Cross-Adsorbed Secondary Antibody,
+Alexa Fluor 647, ThermoFisher #A21236, diluição 1:1000.
+
+Depois disso, a placa foi lavada 3 vezes com o tampão WB1 por 5 min a
+temperatura ambiente, e mantidas com 200 µL de PBS. Posteriormente, as imagens
+foram adquiridas e analisadas no MetaXpress High-Content Image Acquisition &
+Analysis Software (Molecular Devices). Em alguns casos, o citoesqueleto das células
+também foi corado com Alexa Fluor 488® Phalloidin (F-actin), Molecular Probes
+#A12379, diluição 1:500. A aquisição das imagens e quantificação da intensidade de
+fluorescência foram conduzidas automaticamente através do software MetaXpress,
+usando a objetiva de 20X. Para cada condição de tratamento e filtro do equipamento,
+foram adquiridas 16 imagens por poço em triplicata. Em todos os casos, também foi
+realizada a contagem do número de células por poço.
+Estratégia de análise da translocação do NF-κB (p65)
+A análise foi realizada através da customização do módulo “Translocation
+Enhanced” no software MetaXpress (Molecular Devices). Foi quantificada a
+intensidade fluorescência na área nuclear e na área citoplasmática (Inner/Outer
+Intensity Ratio). O percentual de translocação (%), que representa os valores plotados
+nos gráficos, foi calculado através da razão entre a média da intensidade de
+fluorescência da região nuclear pela intensidade de fluorescência da região
+citoplasmática (Nuc/Cyt Ratio) (coeficiente de relação ≥ 0.6).
+
+Estratégia de análise da expressão da Metaloprotease-1 (MMP-1)
+A expressão de MMP-1 foi determinada e quantificada através de mudanças da
+intensidade do sinal de fluorescência (MFI – Median Fluorescent Intensity) usando o
+módulo “Multi Wavelenght Cell Scoring”. Os valores plotados nos gráficos
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+30
+
+correspondem a média da intensidade de fluorescência obtida a partir da média dos
+16 sítios analisados por poço, cuja mediana foi normalizada pelo número de células
+adquiridas.
+
+IMUNOENSAIO POR TECNOLOGIA MULTIPLEX
+
+A tecnologia multiplex permite o estudo quantitativo de várias citocinas
+simultaneamente utilizando pequeno volume de amostra e em um único poço.
+Luminex xMAP é uma tecnologia multiplex, rápida, baseada em conjunto de
+microesferas, também conhecidas como beads, de poliestireno ou paramagnéticas
+codificadas com 500 diferentes intensidades de vermelho, permitindo a realização de
+até 500 bioensaios, e revestidos com um anticorpo específico para identificar o
+analitos de interesse (CHOWDHURY et al., 2009). Dentro do equipamento de análise,
+as microesferas são excitadas por uma fonte de luz, os quais identificam as
+propriedades espectrais das mesmas por meio de óptica e processamento digital de
+sinais, e assim reconhece o analito associado.
+O ensaio foi realizado seguindo o protocolo do fabricante e o kit utilizado para
+este ensaio foi o Milliplex Map Human Cytokine/Chemokine Magnetic Bead Panel
+(#HCYTOMAG-60K, lote 2852810, Millipore). Cada microesfera é identificada e o
+resultado quantificado com base no sinal obtido da fluorescência. O software utilizado
+para aquisição foi o Luminex xPONENT e para análise o MILLIPLEX Analyst 5.1.
+A realização do ensaio é dividida nas etapas: obtenção de amostra; preparação
+dos reagentes para o ensaio e imunoensaio.
+
+2.6.1 Tratamentos das células e obtenção de amostra
+
+Para obtenção das amostras foi realizado o tratamento dos condrócitos em
+placas estéreis de 96 poços conforme descrito no o tópico 2.2. Foram preparados e
+adicionados os meios DMEM contendo os peptídeos P4 e P4cTer na concentração de
+2 µM, E8 e E8cTer na concentração de 1 µM e ácido hialurônico na concentração de
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+31
+
+40 µg/mL, todos incluindo IL-1β (1 ng/mL); além dos controles contendo apenas
+DMEM e DMEM com IL-1β (1 ng/mL). O tratamento nessas condições foi de 24 horas
+com as células incubadas na estufa a 37°C e 5% de CO2. Após o tempo de tratamento,
+a placa foi centrifugada a 1000 rpm, a 15ºC por 10 minutos, o sobrenadante foi
+coletado em outra placa de 96 poços. Essa placa contendo o sobrenadante, foi
+centrifugada novamente nas mesmas condições e 20 µL desse sobrenadante foi
+coletado em outra placa.
+
+2.6.2 Preparo dos reagentes
+
+Preparo das beads
+As garrafas contendo as beads foram sonicadas por 30 segundos e vortexadas
+por 1 minuto. Foram adicionados 60 µL de cada solução contendo as beads na “Mixing
+Bottle” e completado com o “Bead Diluent” até o volume final de 3 mL, sendo esse
+também vortexado.
+Os analitos avaliados neste ensaio foram: EGF, FGF-2, TGF-α, G-CSF, GMCSF, IFN-α2, IFN-γ IL-10, MCP-3, IL-12P70, CD40L, IL-17A, IL-1α, IL-1β, IL-2, IL-4,
+IL-6, IL-8, IP-10, MCP-1, MIP-1α, MIP-1β, TNF-α e TNF-β.
+Preparo dos controles de qualidade
+Os controles de qualidade 1 e 2 foram reconstituídos com 250 µL de água
+deionizada e então, vortexados.
+Preparo do tampão de lavagem
+O “10X Wash Buffer” foi vortexado e 60 mL do mesmo foi diluído em 540 mL de
+água deionizada.
+Preparo padrão de citocinas humanas
+A padronização das citocinas foi realizada a partir da reconstituição do “Human
+Cytokine Standard” em 250 µL de água deionizada e vortexado por 10 segundos. Em
+seguida, 200 µL do “Assay Buffer” foi adicionado em cada tubo de padronização
+denominados 2.000, 400, 80, 16 e 3,2 pg/mL. Uma diluição seriada foi feita a partir da
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Materiais e Métodos
+
+32
+
+adição de 50 µL do tubo 10.000 pg/mL no tubo 2.000, o qual foi vortexado e adicionado
+50 µL do mesmo no tubo 400 pg/mL, assim por diante em ordem decrescente dos
+tubos. O padrão 0 pg/mL é o “Assay Buffer”.
+
+2.6.3 Imunoensaio
+
+Foram adicionados 25 µL de cada padrão de citocinas e controles nos poços
+selecionados e 25 µL do “Assay Buffer” nos poços contendo as amostras. O “Mixing
+Bottle” contendo as beads foi vortexado novamente e adicionados 25 µL em cada
+poço. A placa foi selada e deixada protegida da luz sob agitação branda overnight.
+A seguinte etapa consiste em 2 lavagens, e para tanto utilizou-se uma placa
+magnética (EMD Millipore, 40-285). Cada lavagem consistiu em encaixar a placa
+contendo as amostras na placa magnética por 1 min para decantação completa das
+beads, e então a remoção do sobrenadante; a placa contendo as amostras foi
+removida da placa magnética, adicionados 200 µL do tampão de lavagem em cada
+poço e agitada por 30 segundos. Após esse processo a placa foi novamente
+encaixada na placa magnética para decantação das beads.
+Finalizado o processo de lavagem, a placa contendo as amostras foi inserida no
+equipamento para a leitura. A configuração do software foi realizada seguindo o
+protocolo do fabricante.
+
+ANÁLISE ESTATÍSTICA
+
+Os resultados foram expressos como a média + erro padrão da média (EPM). A
+análise estatística foi realizada por meio de análise de variância (ANOVA) seguido de
+comparações múltiplas de Tukey e/ou test t de Student no programa GraphPad Prism
+6 (GraphPad Software Inc., Estados Unidos). Valores de p menores que 0,05 foram
+considerados estatisticamente significativos.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+33
+
+3 RESULTADOS
+VIABILIDADE CELULAR
+
+3.1.1 EFEITO DOS TRATAMENTOS NA VIABILIDADE CELULAR PELO ENSAIO
+DE MTT
+
+No primeiro teste de viabilidade celular por MTT, no qual a concentração de IL1β foi de 10 ng/mL e o meio de cultura não possuía suplementação de SFB, os
+peptídeos demonstraram efeito no aumento da viabilidade em comparação aos seus
+controles, tanto na ausência (Figura 1) ou na presença de IL-1β (Figura 2). A
+viabilidade celular obtida no veículo se manteve muito próxima ao respectivo controle,
+indicando que a solução em que os peptídeos estão diluídos, no caso, H2O, não causa
+nenhuma alteração nas células.
+Ainda, no tratamento sem interleucina, o efeito citoprotetor de algumas
+concentrações dos peptídeos P4, P4cTer e E8 foi estatisticamente significativo
+comparado ao ácido hialurônico, que é um composto atualmente utilizado no
+tratamento de osteoartrite, e que não teve efeito avaliado pelo ensaio de MTT,
+indicando assim o efeito citoprotetor esperado para os peptídeos derivados do Lopap
+(Figura 1).
+
+Figura 1. Viabilidade celular dos condrócitos no tratamento com peptídeos em diferentes
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+34
+
+concentrações. Os peptídeos e suas respectivas concentrações estão indicadas na figura. Os dados
+estão apresentados como a média ± EPM (* p<0.05 e ** p<0.01 quando comparados ao controle,
+linha vermelha pontilhada, teste t, n=9).
+
+Figura 2. Viabilidade celular dos condrócitos no tratamento com peptídeos em diferentes
+concentrações na presença de IL-1β (10 ng/mL). Os peptídeos e suas respectivas concentrações
+estão indicadas na figura. Os dados estão apresentados como a média ± EPM (* p<0.05, ** p<0.01 e
+*** p<0.001 quando comparados ao controle com IL-1β, linha vermelha pontilhada, test t, n=9).
+
+Este primeiro ensaio permitiu definir as melhores concentrações dos peptídeos
+em induzir o efeito citoprotetor. Essas concentrações foram testadas novamente em
+condições diferentes, após a padronização do modelo pró-inflamatório de condrócitos,
+utilizando a concentração de 1 ng/mL de IL-1β e meio DMEM suplementado com 1%
+de SFB. Além disso, também foi testado um peptídeo com a sequência “cTer” como
+um controle, para verificar se esta sequência possui ou não efeito sobre a viabilidade
+dos condrócitos.
+Nestas novas condições, no tratamento na ausência de 1 ng/mL de IL-1β, foi
+novamente observado um aumento estatisticamente significativo na viabilidade celular
+induzida pelos peptídeos, especialmente pelos peptídeos P4, P4cTer e E8 (Figura 3).
+Por outro lado, o ácido hialurônico continuou não tendo efeito na viabilidade celular.
+Também foi observado que a sequência cTer não possui efeito sobre a viabilidade
+celular quando comparado ao controle (Figura 3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+35
+
+Figura 3. Viabilidade celular dos condrócitos no tratamento com peptídeos nas concentrações
+mais eficientes. Os peptídeos e suas respectivas concentrações estão indicadas na figura, o meio
+DMEM de todas as condições possui suplementação de 1% de SFB. Os dados estão apresentados
+como a média ± EPM (* p<0.05 e ** p<0.01 quando comparados ao controle 1%, linha vermelha
+pontilhada, test t, n=3).
+
+Já no tratamento na presença de IL-1β (1ng/mL), o aumento da viabilidade
+celular foi observado apenas com os peptídeos P4 (1 e 2 µM), E8 (1 µM). Nestas
+condições, o ácido hialurônico continua não tendo efeito na viabilidade celular.
+Entretanto, o tratamento com E8cTer (500 nM e 1 µM) levou a redução da viabilidade
+celular comparada ao controle com IL-1β. Além disso, a sequência cTer (2 µM),
+contrariamente ao tratamento sem IL-1β, demonstrou efeito sobre a viabilidade,
+aumentando significativamente quando comparado ao controle (Figura 4).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+36
+
+Figura 4. Viabilidade celular dos condrócitos no tratamento com peptídeos nas concentrações
+mais eficientes na presença de IL-1β (1 ng/mL). Os peptídeos e suas respectivas concentrações
+estão indicadas na figura, o meio DMEM de todas as condições possui suplementação de 1% de
+SFB. Os dados estão apresentados como a média ± EPM (* p<0.05, ** p<0.01 e *** p<0,001 quando
+comparados ao controle com IL-β, linha vermelha pontilhada, test t, n=3).
+
+Em relação a proteína rLopap, foi observado um aumento estatisticamente
+significativo da viabilidade celular dos condrócitos tratados na ausência de IL-1β,
+apenas na concentração 50 nM. Por outro lado, o tratamento de condrócitos com o
+rLopap na presencia de IL-1β (10 ng/mL) induziu um aumento na viabilidade celular
+apenas na concentração de 10 nM, em comparação ao controle com IL-1β, porém a
+diferença não é estatisticamente significativa (Figura 5).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+37
+
+Figura 5. Viabilidade celular dos condrócitos no tratamento com rLopap. a) efeito do rLopap em
+4 diferentes concentrações na viabilidade celular na ausência de IL-1β. b) efeito do rLopap em 4
+diferentes concentrações na viabilidade celular na presença de IL-1β (10 ng/mL). Os peptídeos e
+suas respectivas concentrações estão indicadas na figura. Os dados estão apresentados como a
+média ± EPM (* p<0.05 quando comparados ao controle, linha vermelha pontilhada, test t, n=3).
+
+3.1.2 EFEITO DOS TRATAMENTOS NA VIABILIDADE CELULAR PELO ENSAIO
+DE LDH
+
+O ensaio de liberação de LDH demonstrou que os tratamentos com os peptídeos
+reduzem a libração de LDH quando comparados ao controle, contudo, essa redução
+não é estatisticamente significativa para todos os peptídeos e o ácido hialurônico,
+tanto para as condições na ausência ou presença de 10 ng/mL IL-1β (Figura 6 e 7).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+38
+
+Figura 6. Liberação de LDH dos condrócitos no tratamento com peptídeos em diferentes
+concentrações. Os peptídeos e suas respectivas concentrações estão indicadas na figura. Os dados
+estão apresentados como a média ± EPM (os valores obtidos não possuem valores estatisticamente
+significativos quando comparados ao controle (linha vermelha pontilhada), test t, n=9).
+
+Figura 7. Liberação de LDH dos condrócitos no tratamento com IL-1β (10 ng/mL) e peptídeos
+em diferentes concentrações. Os peptídeos e suas respectivas concentrações estão indicadas na
+figura. Os dados estão apresentados como a média ± EPM (os valores obtidos não possuem valores
+estatisticamente significativos quando comparados ao controle com IL-β (linha vermelha pontilhada),
+test t, n=9).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+39
+
+MODIFICAÇÕES CELULARES ASSOCIADAS AOS TRATAMENTOS
+
+3.2.1 PADRONIZAÇÃO DAS CONDIÇÕES IDEAIS PARA O TRATAMENTO PARA
+O
+
+ENSAIO
+
+DE
+
+IMUNOFLUORESCÊNCIA
+
+PARA
+
+HIGH-CONTENT
+
+SCREENING
+
+A padronização das condições ideais foi determinada a partir da análise de
+translocação nuclear do fator de transcrição fosforilado NF-κB (p65), indicando qual a
+concentração ideal de SFB para os tratamentos, assim como a concentração ideal de
+IL-1β.
+A partir do resultado obtido da contagem celular, foi possível determinar que a
+suplementação de SFB ideal é 1%, bem como 1 ng/mL é a concentração ideal para a
+indução de inflamação por IL-1β para o modelo celular utilizado (Figura 8).
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+*
+
+*
+
+**
+
+**
+
+**
+
+0
+
+0 .1
+
+0 .5
+
+1
+
+100
+
+( 1 6 s í tio s / p o ç o )
+
+M é d ia d o n º d e c é lu la s p o r s ítio
+
+C o n ta g e m n u c le a r
+
+50
+
+0
+10%
+
+0
+
+0 .1
+
+0 .5
+
+0% FBS
+
+1
+
+0
+
+0 .1
+
+0 .5
+
+1% FBS
+
+1
+
+0
+
+0 .1
+
+0 .5
+
+1
+
+2 .5 % F B S
+
+5% FBS
+
+I L - 1  (n g /m l)
+
+Figura 8. Média do número de células no tratamento com diferentes concentrações de SFB e
+IL-1β. As concentrações de SFB e IL-1β estão indicadas na figura. Os dados estão apresentados
+como a média ± EPM (* p<0.05 e ** p<0.01 quando comparados ao tratamento sem IL-1β e sem
+suplementação de soro, test t, n=3). A linha vermelha pontilhada representa o número mínimo de
+células por sitio requeridas para uma ótima análise.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+40
+
+Foram avaliados dois tempos de tratamento para determinar qual o tempo ideal
+para translocação de NF-κB após a adição de IL-1β. Essa padronização do tempo é
+importante para que a avaliação dos efeitos do tratamento com os peptídeos em
+relação à translocação seja mais precisa. As células foram previamente incubadas por
+2h na concentração de SFB indicado nas Figuras 9 e 10, na presença ou ausência de
+diversas concentrações de IL-1β. As células que ficaram por duas horas na ausência
+de SFB, foram tratadas com diversas concentrações de IL-1β durante 30 minutos.
+Assim, algumas células ficaram em contato durante 2,5 h ou 30 min com a IL-1β.
+Os resultados mostraram que a translocação nuclear de NF-κB foi melhor
+quando a IL-1 β está em contato com os condrócitos durante 30 min em comparação
+com o tratamento das células que ficaram no contato da IL-1β durante 2,5 horas
+(Figura 9 e 10). Na Figura 9, pode se observar que após 30 minutos de tratamento
+com 1 ng/mL de IL-1β na ausência de SFB a translocação de NF-κB foi de
+aproximadamente 60%, no entanto a morfologia e o número das células foi afetada
+pela ausência de soro (Figura 8). Já na presença de 1% de SFB e 1 ng/mL de IL-1β
+houve uma translocação de aproximadamente 40%, sendo que nessas condições as
+células mostraram-se menos estressadas (Figura 11) e com o número de células sem
+modificação (Figura 8).
+Portanto, as melhores condições para o estudo de translocação de NF-κB em
+condrócitos foi determinado por ser na presença de 1% de SFB e 30 min de incubação
+com 1 ng/mL de IL-1β (Figura 11).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+41
+
+3 0 m in
+
+v s 0 (A N O V A )
+
+n u c le a r d e N F - B ( % )
+
+C é lu la s p o s itiv a s p a ra tr a n s lo c a ç ã o
+
+80
+
+***
+60
+
+***
+v s 0 (A N O V A )
+
+v s 0 (A N O V A )
+
+**
+
+v s 0 (A N O V A )
+
+***
+
+40
+
+**
+
+***
+
+***
+
+*
+
+**
+**
+
+**
+20
+
+0
+10%
+
+0
+
+0 .1
+
+0 .5
+
+1
+
+0
+
+0% FBS
+
+0 .1
+
+0 .5
+
+1
+
+0
+
+1% FBS
+
+0 .1
+
+0 .5
+
+1
+
+0
+
+2 .5 % F B S
+
+0 .1
+
+0 .5
+
+1
+
+5% FBS
+
+I L - 1  (n g /m l)
+
+Figura 9. Translocação nuclear de NF-κB (p65) no tratamento com diferentes concentrações de
+SFB e IL-1β por 30 min. As concentrações de SFB e IL-1β estão indicadas na figura. Os dados estão
+apresentados como a média ± EPM (* p<0.05, ** p<0.01 e *** p<0.001, ANOVA, n=3).
+
+2 .5 h
+v s 0 (A N O V A )
+
+***
+n u c le a r d e N F - B ( % )
+
+C é lu la s p o s itiv a s p a ra tr a n s lo c a ç ã o
+
+40
+
+30
+
+*
+
+20
+
+v s 0 (A N O V A )
+
+***
+10
+
+0
+10%
+
+0
+
+0 .1
+
+0 .5
+
+0% FBS
+
+1
+
+0
+
+0 .1
+
+0 .5
+
+1% FBS
+
+1
+
+0
+
+0 .1
+
+0 .5
+
+2 .5 % F B S
+
+1
+
+0
+
+0 .1
+
+0 .5
+
+1
+
+5% FBS
+
+I L - 1  (n g /m l)
+
+Figura 10. Translocação nuclear de NF-κB (p65) no tratamento com diferentes concentrações
+de SFB e IL-1β por 2.5 horas. As concentrações de SFB e IL-1β estão indicadas na figura. Os dados
+estão apresentados como a média ± EPM (* p<0.05, ** p<0.01 e *** p<0.001, ANOVA, n=3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+42
+
+Figura 11. Translocação de NF-κB em condrócitos tratados com 1 ng/mL de IL-1β por 30
+minutos na presença de 1% SFB. Na esquerda, células não estimuladas mostrando o citoplasma
+contendo o NF-κB. Na direita, células estimuladas com IL-1β durante 30 min na presença de 1% SFB
+mostram a translocação do NF-κB do citoplasma ao núcleo. Aumento de 20X.
+
+3.2.2 EFEITO DO TRATAMENTO COM OS PEPTÍDEOS NA TRANSLOCAÇÃO
+NUCLEAR DO NF-κB
+
+Definidas as condições do tratamento de condrócitos com IL-1β para avaliação
+de translocação do NF-κB (p65), o ensaio com as moléculas de interesse foi realizado.
+Foram obtidos dois resultados, a contagem celular e a porcentagem de células
+classificadas como positivas para translocação nuclear do NF-κB.
+Em relação a contagem nuclear, é possível observar que os valores são
+mantidos, tanto nos controles quantos nos tratamentos com as moléculas (Figura 12),
+mostrando que o número de células não é alterado pela presença da IL-1β ou dos
+peptídeos.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+43
+
+( 1 6 s ítio s /p o ç o )
+
+M é d ia d o n º d e c é lu la r p o r s ítio
+
+C o n ta g e m n u c le a r
+
+200
+
+100
+
+0
+
+C
+
+o
+
+n
+
+tr
+
+o
+
+le
+C
+
+1
+
+o
+
+0
+
+n
+
+%
+
+tr
+
+o
+
+le
+
+1
+
+%
+
+IL
+
+
+-1
+
+0
+
+h
+2
+
+4
+
+h
+
+6
+
+h
+
+2
+
+h
+
+P 4 (2  M )
+
+0
+
+h
+2
+
+4
+
+h
+
+6
+
+h
+
+2
+
+h
+
+0
+
+h
+
+P 4 c T e r (2  M )
+
+2
+
+4
+
+h
+
+6
+
+h
+
+2
+
+h
+
+E 8 (1  M )
+
+0
+
+h
+2
+
+4
+
+h
+
+6
+
+h
+
+2
+
+h
+
+0
+
+h
+
+E 8 c T e r (1  M )
+
+2
+
+4
+
+h
+
+6
+
+h
+
+2
+
+h
+
+0
+
+h
+
+H A (4 0  g /m L )
+
+Figura 12. Média do número de células por sítio com o tratamento com os peptídeos e IL-1β (1
+ng/mL) nos diferentes tempos. Os peptídeos e suas respectivas concentrações estão indicadas na
+figura. Os dados estão apresentados como a média ± EPM (os valores obtidos não possuem valores
+estatisticamente significativos quando comparados ao controle 1%, linha vermelha pontilhada, test t,
+n=3).
+
+O resultado do ensaio mostra que para todos os peptídeos a porcentagem de
+células consideradas positivas para translocação nuclear do NF-κB em comparação
+ao controle com IL-1β ou se mantém ou aumenta, com exceção do E8cTer que reduziu
+a translocação de NF-κB após 6 horas de pré-incubação (Figura 13).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+44
+
+Figura 13. Translocação nuclear do fator de transcrição fosforilado NF-κB (p65) no tratamento
+em diferentes tempos com os peptídeos. Os peptídeos e suas respectivas concentrações estão
+indicadas na figura. Os dados estão apresentados como a média ± EPM (* p < 0,05; ** p < 0,001, ***
+p < 0,001 e **** p < 0,0001 quando comparados ao controle com IL-1β, linha vermelha pontilhada,
+test t, n=3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+45
+
+Figura 14. Translocação de NF-κB (p65) em diferentes concentrações de SFB na presença e
+ausência de IL-1β. Imagens dos tratamentos com suplementação de 1 e 10% de SFB em meio
+DMEM durante o período de 24 horas e IL-1β (1 ng/mL) por 30 minutos sobre a translocação nuclear
+do fator de transcrição NF-κB (p65). Aumento 20X. Barra de calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+46
+
+Figura 15. Translocação de NF-κB (p65) após o tratamento com os peptídeos e IL-1β no tempo
+0 hora. Imagens dos tratamentos com os peptídeos e IL-1β (1 ng/mL) por 30 minutos e o efeito sobre
+a translocação nuclear do fator de transcrição NF-κB (p65). Aumento 20X. Barra de calibração: 100
+µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+47
+
+Figura 16. Translocação de NF-κB (p65) após o tratamento com os peptídeos e IL-1β no tempo
+2 horas. Imagens dos pré-tratamentos com os peptídeos no tempo 2 horas antes da aplicação de IL1β (1 ng/mL) por 30 minutos e análise da translocação nuclear do fator de transcrição NF-κB (p65).
+Aumento 20X. Barra de calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+48
+
+Figura 17. Translocação de NF-κB (p65) após o tratamento com os peptídeos e IL-1β no tempo
+6 horas. Imagens dos pré-tratamentos com os peptídeos no tempo 6 horas antes da aplicação e IL1β (1 ng/mL) por 30 minutos e análise da translocação nuclear do fator de transcrição NF-κB (p65).
+Aumento 20X. Barra de calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+49
+
+3.2.3 EFEITO DO TRATAMENTO COM OS PEPTÍDEOS NA EXPRESSÃO DE MMP-1
+
+A expressão de MMP-1 foi avaliada após 24h de incubação com os peptídeos,
+através do nível da intensidade média de fluorescência por célula, assim como
+também foi obtida a contagem nuclear. Esses parâmetros foram avaliados tanto para
+os peptídeos quanto para a proteína rLopap. A expressão de MMP-1 por células não
+foi alterada pelos tratamentos com os peptídeos no período de 24 horas, tanto na
+ausência quanto na presença de IL-1β (1 ng/mL) (Figura 14 e 15). No entanto, e
+possível observar nas imagens de fluorescência que o padrão de marcação das
+células não estimuladas com IL-1β apresentam-se mais na região perinuclear. No
+entanto, na presença de 1ng/mL de IL-1β, a marcação das células é mais espalhada,
+sugerindo que a análise quantitativa deve ser revista para considerar este efeito e não
+somente a intensidade de fluorescência.
+
+Figura 18. Expressão de metaloprotease-1 no tratamento em 24 horas com os peptídeos. Os
+peptídeos e suas respectivas concentrações estão indicadas na figura. Os dados estão apresentados
+como a média ± EPM (os valores obtidos não possuem valores estatisticamente significativos quando
+comparados ao controle, linha vermelha pontilhada, test t, n=3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+50
+
+Figura 19. Expressão de metaloprotease-1 no tratamento em 24 horas com os peptídeos na
+presença de IL-1β (1 ng/mL). Os peptídeos e suas respectivas concentrações estão indicadas na
+figura. Os dados estão apresentados como a média ± EPM comparados ao controle (linha vermelha
+pontilhada) (** p < 0,001, test t, n=3).
+
+A contagem nuclear mostra que o número de células também não foi alterado
+pelos tratamentos nas duas diferentes condições dentro do período de 24 horas
+(Figura 16).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+51
+
+a
+N º d e c é lu la s p o r s ítio
+
+C o n ta g e m n u c le a r s e m IL -1 
+
+( 1 6 s ítio s /p o ç o )
+
+80
+
+**
+
+60
+
+40
+
+20
+
+L
+
+µ
+
+g
+0
+4
+
+T
+A
+
+c
+E8
+
+E 8cT er
+
+C
+
+C
+
+o
+
+o
+
+n
+
+n
+
+H
+
+P 4cT er
+
+/m
+
+M
+
+M
+2
+r
+e
+
+5
+
+1
+
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+n
+
+n
+
+n
+
+M
+
+M
+
+M
+0
+
+0
+0
+1
+
+5
+
+2
+
+0
+
+0
+
+0
+
+0
+
+n
+
+n
+
+M
+
+M
+n
+
+n
+0
+0
+5
+
+tr
+
+o
+tr
+
+M
+
+M
+n
+0
+0
+
+2
+
+P4
+
+o
+
+le
+
+le
+
+1
+
+1
+
+0
+
+%
+
+%
+
+S
+
+S
+
+F
+
+F
+
+B
+
+B
+
+0
+
+b
+
+C o n ta g e m n u c le a r c o m IL -1  (1 n g /m L )
+
+( 1 6 s ítio s /p o ç o )
+
+N º d e c é lu la s p o r s ítio
+
+60
+
+***
+
+40
+
+20
+
+0
+
+S
+
+C
+
+o
+
+n
+
+t
+
+ro
+
+le
+
+1
+
+C
+
+0
+
+o
+
+F
+
+%
+
+n
+
+o
+tr
+C
+
+le
+
+o
+
+n
+
+B
+S
+1
+tr
+
+F
+
+B
+
+%
+
+o
+
+le
+
++
+1
+
+%
+
+IL
+
+-1
+
+
+1
+
+µ
+
+M
+2
+
+µ
+
+M
+1
+
+µ
+
+M
+2
+
+µ
+
+M
+5
+
+P4
+
+P 4cT er
+
+0
+
+0
+
+n
+
+M
+1
+
+µ
+
+M
+5
+
+0
+
+0
+
+n
+
+M
+1
+
+µ
+c
+
+E8
+
+M
+T
+
+e
+
+E 8cT er
+
+r
+
+2
+
+µ
+
+M
+
+4
+H
+
+0
+
+
+
+g
+
+/m
+
+L
+
+A
+
+Figura 20. Média do número de células por sítio no tratamento com peptídeos na presença e
+ausência de IL-1β. a) número de células por sítio após 24 horas do tratamento com os peptídeos na
+ausência de IL-1β. b) número de células por sítio após 24 horas do tratamento com os peptídeos na
+presença de IL-β (1 ng/mL). Os peptídeos e suas respectivas concentrações estão indicadas na
+figura. Os dados estão apresentados como a média ± EPM comparados ao respectivo controle (linha
+vermelha pontilhada) (*** p < 0,001, test t, n=3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+52
+
+Figura 21. Expressão de MMP-1 em diferentes concentrações de SFB na presença e ausência
+de IL-1β. Imagens representativas da expressão de MMP-1 a partir dos tratamentos com
+suplementação de 1 e 10% de SFB e IL-1β (1 ng/mL) em meio DMEM durante o período de 24 horas.
+Aumento 20X. Barra de calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+53
+
+Figura 22. Expressão de MMP-1 sob o tratamento com P4 e P4cTer na presença de IL-1β.
+Imagens representativas da expressão de MMP-1 a partir dos tratamentos com os peptídeos P4 e
+P4cTer e IL-1β (1 ng/mL) em meio DMEM durante o período de 24 horas. Aumento 20X. Barra de
+calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+54
+
+Figura 23. Expressão de MMP-1 sob o tratamento com E8 e E8cTer na presença de IL-1β.
+Imagens representativas da expressão de MMP-1 a partir dos tratamentos com os peptídeos E8 e
+E8cTer e IL-1β (1 ng/mL) em meio DMEM durante o período de 24 horas. Aumento 20X. Barra de
+calibração: 100 µm.
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+55
+
+Figura 24. Expressão de MMP-1 sob o tratamento com ácido hialurônico e cTer na presença de
+IL-1β. Imagens representativas da expressão de MMP-1 a partir dos tratamentos com ácido
+hialurônico e cTerr e IL-1β (1 ng/mL) em meio DMEM durante o período de 24 horas. Aumento 20X.
+Barra de calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+56
+
+O Lopap mostrou efeito na expressão de MMP-1 apenas na concentração de
+1000 nM, aumentando-a significativamente no tratamento sem IL-1β durante 24 horas.
+A contagem nuclear também se manteve em todas as concentrações em comparação
+ao controle (Figura 17).
+
+Figura 25. Efeito do Lopap em diferentes concentrações sem IL-1β em 24 horas. a) efeito do
+rLopap em 5 diferentes concentrações sobre a expressão de MMP-1 dentro do período de 24 horas.
+b) número de células por sítio após 24 horas do tratamento com rLopap em 5 diferentes
+concentrações. Os peptídeos e suas respectivas concentrações estão indicadas na figura. Os dados
+estão apresentados como a média ± EPM comparados ao respectivo controle (linha vermelha
+pontilhada) (* p<0.05, test t, n=3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+57
+
+Figura 26. Expressão de MMP-1 em diferentes concentrações de suplementação com SFB e
+Lopap. Imagens representativas da expressão de MMP-1 a partir dos tratamentos com
+suplementação de 1 e 10% de SFB em meio DMEM e rLopap por 24 horas. Aumento 20X. Barra de
+calibração: 100 µm.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+58
+
+EFEITO DOS PEPTÍDEOS NA PRESENÇA DE CITOCINAS AVALIADO POR
+IMUNOENSAIO UTILIZANDO A TECNOLOGIA MULTIPLEX
+
+A identificação e análise quantitativa das citocinas presentes no sobrenadante
+do tratamento com peptídeos foi realizada utilizando a tecnologia Luminex xMAP. O
+resultado obtido do controle de qualidade está dentro dos valores estabelecidos pelo
+protocolo do fabricante. Foram avaliados 24 analitos, dos quais apenas 10
+demonstraram alteração na presença de 1ng/mL de IL-1β (Quadro 4).
+Controle de qualidade
+Analito
+(pg/mL)
+Controle 1 Controle 2
+1 EGF
+2 FGF-2
+3 TGF-α
+4 G-CSF
+5 GM-CSF
+6 IFN-α2
+7 IFN-Gama
+8 IL-10
+9 MCP-3
+10 IL-12P70
+11 CD40L
+12 IL-17A
+13 IL-1α
+14 IL-1β
+15 IL-2
+16 IL-4
+17 IL-6
+18 IL-8
+19 IP-10
+20 MCP-1
+21 MIP-1α
+22 MIP-1β
+23 TNF-α
+24 TNF-β
+
+161,18
+
+851,32
+
+128,92
+
+621,87
+
+137,96
+
+835,44
+
+150,98
+159,72
+
+719,21
+755,29
+
+138,79
+
+737,95
+
+155,33
+
+677,19
+
+182,78
+
+762,51
+
+153,21
+
+682,49
+
+146,66
+
+692,71
+
+126,73
+
+729,56
+
+145,31
+
+732,29
+
+157,69
+
+761,65
+
+160,14
+
+844,52
+
+146,5
+
+747,49
+
+134,05
+
+706,23
+
+134,83
+
+676,07
+
+165,62
+
+753,13
+
+153,02
+
+604,14
+
+199,27
+
+749,08
+
+174,91
+
+1275
+
+161,34
+
+744,21
+
+142,66
+
+678,43
+
+132,55
+
+738,75
+
+IL-1β
+(1ng/mL)
++
++
++
++
++
++
++
++
++
++
+-
+
+Quadro 4. Analitos avaliados pela tecnologia de multiplex. Valores obtidos em pg/mL pelos
+controles de qualidade de cada analito, marcado com (-) estão os analitos que não apresentaram
+diferença entre os controles dos tratamentos sem e com IL-1β e com (+) os positivos.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Resultados
+
+59
+
+Dos analitos que demonstraram alteração na presença de citocina, alguns
+merecem destaque uma vez que também têm sua presença alterada a partir do
+tratamento com os peptídeos: G-CSF, GM-CSF, INF-γ, MCP-3, IL-1β, IP-10, MIP-1α
+e TNF-α (Quadro 5).
+
+Quadro 5. Valores obtidos de cada analito em pg/mL a partir do tratamento com os peptídeos
+na presença de IL-1β (1 ng/mL). Os dados estão apresentados como a média ± EPM (* p<0.05
+quando comparado ao controle com IL-1β, test t, n=3).
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Discussão
+
+60
+
+4 DISCUSSÃO
+EFEITO DOS PEPTÍDEOS E DO LOPAP NA VIABILIDADE CELULAR DE
+CONDRÓCITOS
+
+O presente estudo mostrou, por meio do ensaio de viabilidade por MTT, que os
+peptídeos P4, P4cTer, E8 e E8cTer possuem efeito citoprotetor sobre os condrócitos
+humanos, inclusive na condição de inflamação induzida pela IL-1β nas concentrações
+de 1 e 10 ng/mL, aumentando a viabilidade celular. Os peptídeos estudados estão
+diluídos em H2O, esta representando até 5% do volume do meio utilizado no
+tratamento. O ensaio de viabilidade celular também avaliou o efeito da H2O e o
+resultado comprovou que a concentração de máxima de H2O presente nos
+tratamentos não é capaz de induzir alterações no modelo inflamatório de condrócitos
+humanos utilizando IL-1β.
+Estudos prévios demonstraram que o Lopap purificado da L. obliqua, bem como
+a proteína recombinante (rLopap), promovem citoproteção além de aumentar a
+expressão de moléculas de adesão envolvidas no processo inflamatório (FRITZEN et
+al., 2005, WAISMAN et al., 2009). Em concordância com a literatura, neste trabalho a
+proteína rLopap apresentou efeito citoprotetor, promovendo o aumento da viabilidade
+celular apenas com a concentração de 50 nM na condição sem IL-1β. Uma
+observação interessante foi que os controles tradados na ausência ou na presença de
+IL-1β não apresentaram diferença estatisticamente significante quando avaliado pelo
+método do MTT (Figura 2). Diferente do observado por outros métodos, onde a
+presença de 1 ng/mL de IL-1β induz a translocação de NF-B (Figura 14) e a liberação
+significativa de citocinas pró-inflamatórias tais como a IL-6 e IL-8 (Quadro 5). O
+resultado dos controles obtido pelo método de MTT pode ser explicado, uma vez que
+o ensaio mede a viabilidade por meio da avaliação da atividade da enzima succinatodesidrogenase mitocondrial. Assim, pode não ser um método apropriado para o
+estudo do modelo inflamatório de condrócitos.
+Outro método de avaliar a viabilidade celular é por meio da verificação da
+liberação de LDH. Os valores obtidos no presente trabalho evidenciaram que os
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Discussão
+
+61
+
+peptídeos são capazes de reduzir a liberação de LDH. No entanto, esses valores não
+possuem significância estatística, assim sendo, não é possível afirmar que existe um
+efeito dos peptídeos sobre o tratamento. Assim, com base nos resultados obtidos
+pelos ensaios de MTT, é sugerido que o ensaio de viabilidade celular por LDH também
+não é um método adequado para avaliação neste modelo.
+
+CONDIÇÕES IDEAIS PARA O TRATAMENTO PARA O ENSAIO DE
+IMUNOFLUORESCÊNCIA PARA HIGH-CONTENT SCREENING
+
+As condições ideais para o tratamento para o ensaio de imunofluorescência para
+HCS foram determinadas por meio da análise de translocação nuclear do fator de
+transcrição fosforilado NF-κB (p65).
+O NF-κB é considerado uma via de sinalização pró-inflamatória e sua ativação
+é dada por citocinas pró-inflamatórias como a interleucina 1 (IL-1) e o fator de necrose
+tumoral α (TNF-α), além de uma via alternativa, a CD40L (LAWRENCE, 2009). A IL-1
+se liga ao seu receptor, levando à ativação da quinase indutora de NF-κB (NIK), a qual
+ativa o complexo inibidor de quinase KB (IKK), o que leva a degradação de inibidores
+celulares. Essa degradação permite o NF-κB se translocar para o núcleo e transativar
+os promotores de MMPs (VINCENTI et al., 2001).
+Para tanto, foram testadas quatro diferentes concentrações para IL-1β e SFB.
+No grupo cultivado na ausência de SFB a contagem celular demonstrou uma redução
+no número de células em comparação ao controle de meio DMEM suplementado com
+10% de SFB. Por outro lado, os grupos cultivados com meio suplementado com 1, 2,5
+e 5% de SFB, não apresentaram variação no número de células, sendo similar ao
+controle 10% SFB, independente da concentração de IL-1β (Figura 8).
+Além da contagem nuclear, foi determinada a concentração ideal de IL-1β para
+indução da translocação de NF-κB, avaliando-se também dois tempos de incubação:
+30 minutos e 2,5 horas. Na ausência de SFB a translocação aumenta
+significativamente nos dois tempos (Figura 8 e 9), porém, como indicado no parágrafo
+anterior, esta condição de ausência de soro reduz o número de células. Por outro lado,
+nas condições de cultivo com suplementação de 1, 2,5, e 5% de SFB a translocação
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Discussão
+
+62
+
+nuclear do NF-κB é similar e estatisticamente significativa apenas no tempo de 30 min
+(Figura 8). O tempo ideal para a indução da translocação de NF-κB foi determinado
+em 30 minutos.
+Finalmente, a condição ideal para o tratamento de condrócitos no modelo
+inflamatório foi determinada em 1% de SFB e 1 ng/mL para IL-1β para aplicação no
+ensaio de imunofluorescência para High Content Screening. A padronização do
+modelo celular utilizado para análise da translocação de NF-κB é essencial para
+possibilitar a realização de screening de diversas moléculas simultaneamente pelo
+HCS, obtendo resultados mais precisos por utilizar o mesmo modelo celular.
+
+EFEITO DOS PEPTÍDEOS NA TRANSLOCAÇÃO NUCLEAR DO NF-κB E
+EXPRESSÃO DE MMP-1
+
+As metaloproteases (MMPs) são enzimas responsáveis pela degradação da
+MEC, sendo que a MMP-1 é ativada pela MMP-3 e é responsável por clivar uma ampla
+gama de proteínas da matriz, principalmente os colágenos intersticiais dos tipos I, II e
+III. Uma importante via de sinalização para ativação de MMPs envolve a translocação
+de NF-κB do citoplasma para o núcleo (VINCENTI et al., 2001).
+O presente estudo mostra que pela análise da intensidade de fluorescência, os
+quatro peptídeos avaliados não possuem efeito sobre expressão de MMP-1 nos
+condrócitos no período de 24 horas tanto na ausência quanto presença de IL-1β (1
+ng/mL), enquanto o Lopap aumenta a expressão apenas na concentração de 1000
+nM, isto sem o efeito da IL-1β. No entanto, pode se observar que o padrão de
+marcação de MMP-1 em células não estimuladas com IL-1β mostram um padrão
+perinuclear, enquanto que as células estimuladas com IL-1β tem um padrão mais
+espraiado, sugerindo que há uma modulação na localização da MMP-1 mais do que
+a intensidade de fluorescência. Considerando a localização subcelular e as mudanças
+de expressão de MMP1 frente aos tratamentos dos condrócitos no tempo de 24h, uma
+nova estratégia de análise será utilizada para quantificar esta molécula. Esta nova
+abordagem de análise será direcionada à quantificação de MMP1 no contexto da sua
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Discussão
+
+63
+
+expressão perinuclar, através do delineamento de parâmetros de análise que
+privilegiem as mudanças da expressão e localização intra-celular da proteína.
+Complementando, o trabalho também mostrou o efeito dos peptídeos e do
+Lopap sobre a translocação nuclear do fator de transcrição fosforilado NF-κB (p65).
+Foi observado que os peptídeos P4 e P4cTer aumentam a translocação em todos os
+períodos de pré incubação estudados, enquanto E8 reduz apenas no tratamento de
+pré incubação do peptídeo por 24 horas e E8cTer reduz a translocação quando é pré
+incubado e aumenta a translocação quando adicionado simultaneamente a IL-1β.
+Uma vez que os peptídeos são capazes de alterar a translocação nuclear do
+fator de transcrição fosforilado NF-κB (p65), é esperado observar uma alteração na
+expressão de metaloprotease-1, o que não foi obtido a partir dos ensaios realizados.
+Portanto, são necessários estudos posteriores sobre a expressão de MMP-1 para
+observar o efeito dos peptídeos e do Lopap, assim como o estudo sobre a
+translocação do NF-κB, ambos com tempos de pré incubação dos peptídeos mais
+longos, como de 2 a 7 dias. Além do efeito do Lopap na translocação nuclear do fator
+de transcrição fosforilado NF-κB (p65), o qual não foi avaliado.
+
+EFEITO DOS PEPTÍDEOS NA PRESENÇA DE CITOCINAS
+
+Conforme mostrado no Quadro 4, dos 24 analitos avaliados, apenas 10
+demonstraram alteração na presença de 1 ng/mL de IL-1β, um deles é o fator
+estimulador de colônias de granulócitos e macrófagos (GM-CSF) também pertence à
+família de citocinas de fatores de crescimento, além de estimular a proliferação,
+sobrevivência e maturação de granulócitos, e é atuante igualmente em macrófagos.
+Seu efeito envolvendo o processo de inflamação tem sido explorado há anos. Estudos
+indicam que o GM-CSF pode induzir a secreção de citocinas pró inflamatórias, como
+IL-1 e TNF-α, enquanto outros mostram que essa indução não leva a secreção de
+quantidades significativas (HAMILTON, 2002).
+Alguns analitos foram modulados pelo tratamento com os peptídeos. Um deles
+é o fator estimulador de colônias de granulócitos, G-CSF, o qual pertence à família de
+citocinas de fatores de crescimento. Sua função é estimular a proliferação,
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Discussão
+
+64
+
+sobrevivência e maturação de células comprometidas com a linhagem de granulócitos
+por meio da ligação ao seu receptor (G-CSFR). Além disso, já é conhecido que em
+modelos de infecções periféricas o G-CSF tem efeitos anti-inflamatórios significativos;
+a sinalização JAK-STAT induzida pelo G-CSF leva a redução de TNF-α, IL-1β, IL-2,
+IL-6 e IL-8. O G-CSF é capaz de diminuir a liberação do TNF-α em modelos in vitro
+(SCHÄBITZ et at., 2003).
+No presente trabalho foi observado que os peptídeos E8 e E8cTer são capazes
+de aumentar a expressão de G-CSF, assim como reduzem de IL-1β. Porém apenas o
+E8 é capaz de reduzir a expressão de TNF-α. Conjuntamente, o E8 é capaz de reduzir
+a expressão de GM-CSF. As alterações apresentadas indicam uma possível via de
+atuação de ambos no efeito citoprotetor no modelo celular estudado.
+A redução da proteína quimiotática de monócitos 3 (MCP-3) também foi
+observada como efeito do tratamento de 24 horas com os peptídeos E8 e E8cTer. A
+proteína MCP-3 é membro da família das quimiocinas cisteína-cisteína (CCs), também
+conhecida por CCL7, e atua como mediador chave das vias pró-inflamatórias, uma
+vez que leva a ativação de leucócitos por meio de ligação a vários receptores de
+quimiocinas. Logo, sua expressão é aumentada em condições de inflamação. Sua
+produção é estimulada por meio da presença de IL-1β e TNF-α (THOMPSON et al.,
+2009). Assim, o efeito dos peptídeos E8 e E8cTer na redução da proteína MCP-3
+sugere um efeito anti-inflamatório dos peptídeos
+A proteína induzível por IFN-γ (IP-10 ou CXCL10) é ativada pelo INF-γ, em
+doenças inflamatórias seus níveis são aumentados, possuindo um papel importante
+no recrutamento de células T (DUFOUR et al., 2002). De acordo com os presentes
+resultados, a expressão e ambos é reduzida pelo peptídeo E8, sugerindo outra via de
+atuação do peptídeo, corroborando seu efeito citoprotetor.
+A quimiocina, proteína inflamatória de macrófagos 1α, MIP-1α, foi identificada
+originalmente como um gene expresso em células T ativadas, porém estudos
+posteriores demonstraram que uma ampla gama de células é capaz de produzi-la.
+Seu papel na inflamação tem sido comprovado por sua neutralização aliviar alterações
+patológicas em vários modelos inflamatórios, incluindo infecção viral (SU et al., 1997).
+Os níveis de MIP-1α são elevados nos fluidos sinoviais de pacientes com artrite
+reumatoide (FULLER et al., 1995). Foi observado que o peptídeo P4cTer é capaz de
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Discussão
+
+65
+
+reduzir os níveis de MIP-1α no modelo inflamatório de condrócitos utilizado no estudo,
+indicando uma possível via de atuação do peptídeo que leva ao seu efeito citoprotetor.
+Sendo assim, uma análise de mais citocinas é necessária para compreender melhor
+sua atuação.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Conclusões
+
+66
+
+5 CONCLUSÕES
+O Lopap é uma proteína presente no veneno da Lonomia obliqua e o extrato
+bruto desse veneno evidenciou por meio de estudos in vivo uma resposta inflamatória.
+O CENTD vem estudando os mecanismos de sinalização e ação dessa proteína e de
+seus peptídeos derivados, os quais são interessantes para o desenvolvimento de
+novos tratamentos, potencialmente mais eficientes, de doenças que envolvam
+processos inflamatórios, como a osteoartrite. O presente trabalho traz o estudo do
+rLopap e de seus peptídeos derivados codificados como P4, P4cTer, E8 e E8cter, em
+relação aos seus efeitos citoprotetor e anti-inflamatório em um modelo inflamatório de
+condrócitos humanos utilizando IL-1β.
+A partir dos resultados obtidos e a discussão realizada foi possível concluir que
+os peptídeos possuem um efeito anti-inflamatório e citoprotetor no modelo inflamatório
+de condrócitos humanos utilizando IL-1β, uma vez que o efeito sobre o aumento da
+viabilidade celular foi comprovado; já o rLopap necessita de mais estudos sobre seu
+efeito na viabilidade celular para chegar a uma conclusão concreta. Ainda em relação
+a viabilidade celular, conclui-se que o ensaio a partir da liberação de LDH não é um
+método adequado para avaliação neste modelo.
+Para o estudo sobre a translocação nuclear do fator de transcrição fosforilado
+NF-κB (p65) por meio do ensaio de imunofluorescência para High-Content Screening,
+foi possível concluir que as condições ideais de tratamento para o modelo utilizado
+neste trabalho são: meio DMEM suplementado com 1% de SFB, com concentração
+de IL-1β a 1 ng/mL, e o tempo de ação da IL-1β até a fixação das células de 30
+minutos. Também mostrou que apesar do efeito dos peptídeos no aumento da
+translocação nuclear do NF-κB, os mesmos não levam à alteração na expressão de
+MMP-1, sendo necessários mais estudos sobre os efeitos gerados a partir do aumento
+da translocação nuclear do NF-κB.
+O presente trabalho também indica possíveis vias de atuação dos peptídeos P4,
+P4cTer, E8 e E8cter, sendo necessário ainda explorar mais as proteínas afetadas por
+essas vias para, então, identificar os mecanismos de ação desses peptídeos.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Conclusões
+
+67
+
+SUGESTÕES PARA TRABALHOS FUTUROS
+
+Considerando os resultados obtidos, torna-se necessária a realização de mais
+ensaios para o estudo do rLopap em condrócitos para avaliar seus efeitos no modelo
+inflamatório, começando pelo estudo da viabilidade celular por MTT utilizando
+concentrações mais baixas que as utilizadas neste trabalho.
+Em relação aos efeitos dos peptídeos, é sugerida outra análise sobre a
+expressão de MMP-1 por meio do ensaio de imunofluorescência para High-Content
+Screening com tempo maior de atuação dos peptídeos neste modelo, assim como
+uma investigação mais profunda sobre o padrão de marcação perinuclear em células
+não estimuladas com a IL-1β. Assim como a identificação dos níveis de outras
+proteínas ainda não avaliadas relacionadas as possíveis vias de atuação dos
+peptídeos.
+Além disso, também é sugerida a realização da PCR quantitativo em tempo real
+para quantificação da expressão gênica alterada a partir do tratamento dos
+condrócitos com o Lopap e seus peptídeos no modelo inflamatório de condrócitos
+humanos utilizando IL-1β.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Anexos
+
+68
+
+6 ANEXOS
+ANEXO 1 – Tampões e Soluções para o HCS
+
+Wash Buffer 1 (WB1) - PHEM
+O tampão foi preparado para um volume final de 500 mL. A diluição foi feita na
+seguinte ordem:
+- 2 mM HEPES (0,26 g)
+- 10 mM EGTA (1,5 g)
+- Adicionar 3 pellets de NaOH
+- 2 mM MgCl2 (0,2 g)
+- 60 mM PIPES (9 g)
+A solução foi ajustada para o pH 6,9 e posteriormente filtrada.
+
+Wash Buffer 2 (WB2): PHEM-GLYCINE
+O tampão foi preparado a partir da dissolução de 1,875 g de glicina em 250 mL de
+PHEM.
+
+Fixation e Permeabilization Buffers (FB e PB)
+Para o Fixation Buffer (FB) foi diluído 2 g de PFA em 40 mL de PHEM, aquecido a
+70ºC e adicionado 0,1 M de NaOH até a solução ficar translúcida. O pH foi ajustado
+para 6,9, o volume para 50 mL e então filtrado. Após a filtração foi adicionado 2,5 g
+de sacarose.
+A solução foi dividida em 2 frascos com mesmo volume em cada. Um deles para o FB
+e no outro adicionou-se 125 µL de Triton X-100 para o PB.
+
+Blocking Buffer
+BSA 1% (w/v)
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Referências
+
+69
+
+REFERÊNCIAS
+AKHTAR, N.; MILLER, M. J.; HAGGI, T. M. Effect of a Herbal-Leucine mix on the IL1β-induced cartilage degradation and inflammatory gene expression in human
+chondrocytes. BMC Complement Altern Med. Aug 19. 11 (1): 66, 2011.
+
+AKKIRAJU, H. & NOHE, A. Role of Chondrocytes in Cartilage Formation, Progression
+of Osteoarthritis and Cartilage Regeneration. Journal of developmental biology.
+2015; 3: 177-192.
+
+ALTMAN, R. D.; MANJOO, A.; FIERLINGER, A.; NIAZI, F.; NICHOLLS, M. The
+mechanism of action for hyaluronic acid treatment in the osteoarthritic knee: a
+systematic review. BMC Musculoskeletal Disorders. Oct 26. 16(1): 321, 2015.
+
+ALVAREZ FLORES, M. P.; FURLIN, D.; RAMOS, O. H. P.; BALAN, A.; KONNO, K.;
+CHUDZINSKI-TAVASSI, A. M. Losac, the first hemolin that exhibits procoagulant
+activity through selective Fator X proteolytic activation. Journal Biol. Chem., v. 286,
+n. 9, p. 6918-6928, 2011.
+
+ALVAREZ FLORES, M. P.; ZANNIN M.; CHUDZINSKI-TAVASSI, A. M. New Insight
+into the Mechanism of Lonomia obliqua Envenoming: Toxin Involvement and Molecular
+Approach. Pathophysiology of Haemostasis and Thrombosis. v. 37, n. 1, p. 1-16,
+2010.
+
+BUCHSER, W., COLLINS, M., GARYANTES, T., GUHA, R., HANEY, S., LEMMON,
+V., LI, Z., & TRASK, O.J. Assay Development Guidelines for Image-Based High
+Content Screening, High Content Analysis and High Content Imaging. 2012 Oct 1
+[Updated 2014 Sep 22]. In: Sittampalam GS, Coussens NP, Brimacombe K, et al.,
+editors. Assay Guidance Manual [Internet]. Bethesda (MD): Eli Lilly & Company and
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Referências
+
+70
+
+the National Center for Advancing Translational Sciences; 2004-. Available from:
+https://www.ncbi.nlm.nih.gov/books/NBK100913/.
+
+CARRIJO-CARVALHO, L. C.; MARIA, D. A.; VENTURA, J. S.; MORAIS, K. L.; MELO,
+R. L.; RODRIGUES, C. J. & CHUDZINSKI-TAVASSI, A. M. A lipocalin-derived Peptide
+modulating fibroblasts and extracellular matrix proteins. Journal of toxicology. v.
+2012, 2012.
+
+CHOWDHURY, F.; WILLIAMS, A.; JOHNSON, Peter. Validation and comparison of
+two multiplex technologies, Luminex® and Mesoscale Discovery, for human cytokine
+profiling. Journal of immunological methods, v. 340, n. 1, p. 55-64, 2009.
+
+CHUDZINSKI-TAVASSI, A. M.; CARRIJO-CARVALHO, L. C.; WAISMAM, K.;
+FARSKY, S. H.; RAMOS, O. H. & REIS, C. V. A lipocalin sequence signature
+modulates cell survival. FEBS letters. v. 584, n. 13, p. 2896-2900, 2010.
+
+CHUDZINSKI-TAVASSI, A. M., ALVAREZ-FLORES, M. P., CARRIJO-CARVALHO, L.
+C. & RICCI-SILVA, M. E. Toxins from Lonomia obliqua - Recombinant Production and
+Molecular Approach. In: Gandhi Rádis Baptista. (Editor). An Integrated View of the
+Molecular Recognition and Toxinology - From Analytical Procedures to Biomedical
+Applications. 1ed. Rijeka: InTech, p.1-32, 2013.
+
+CHUDZINSKI-TAVASSI, A. M. & ALVAREZ-FLORES, M. P. Exploring New Molecules
+and Activities from Lonomia obliqua Caterpillars. Pathophysiology of Haemostasis
+and Thrombosis. v. 34, n. 4-5, p. 228-233, 2005.
+
+DASA, V.; DEKOVEN, M.; SUN, K.; SCOTT, A.; LIM, S. Clinical and cost outcomes
+from different hyaluronic acid treatments in patients with knee osteoarthritis: evidence
+from a US health plan claims database. Drugs in context. Jun 23. 5: 1-12, 2016.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Referências
+
+71
+
+DONATO, J. L.; MORENO, R. A.; HUSLOP, S.; DUARTE, A.; ANTUNES, E.; LE
+BONNIEC, B. F.; et al. Lonomia obliqua caterpillar spicules trigger human blood
+coagulation via activation of factor X and prothrombin. Thrombosis and
+Haemostasis. Mar. 80 (03): 539-542, 1998.
+
+DUFOUR, J. H.; DZIEJMAN, M.; LIU, M. T.; LEUNG, J. H.; LANE, T. E., & LUSTER,
+A. D. IFN-γ-inducible protein 10 (IP-10; CXCL10)-deficient mice reveal a role for IP-10
+in effector T cell generation and trafficking. The Journal of Immunology, v. 168, n. 7,
+p. 3195-3204, 2002.
+
+FRITZEN, M.; ALVAREZ FLORES, M. P.; REIS, C.V.; CHUDZINSKI-TAVASSI, A. M.
+A prothrombin activator (Lopap) modulating inflammation, coagulation and cell survival
+mechanisms. Biochemical and biophysical research communications. Jul 29. 333
+(2): 517-523, 2005.
+
+FULLER, K.; OWENS, J. M. & CHAMBERS, T. J. Macrophage inflammatory protein-1
+alpha and IL-8 stimulate the motility but suppress the resorption of isolated rat
+osteoclasts. The Journal of Immunology, v. 154, n. 11, p. 6065-6072, 1995.
+
+GUIDOTTI, G.; BRAMBILLA, L.; ROSSI, D. Cell-penetrating peptides: from basic
+research to clinics. Trends in pharmacological sciences. v. 38, n. 4, p. 406-424,
+2017.
+
+HAMILTON, J. A. GM-CSF in inflammation and autoimmunity. Trends in
+immunology, v. 23, n. 8, p. 403-408, 2002.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Referências
+
+72
+
+KAPOOR, M.; MARTEL-PELLETIER, J.; LAJEUNESSE, D.; PELLETIER, J. P.;
+FAHMI, H. Role of proinflammatory cytokines in the pathophysiology of osteoarthritis.
+Nature Reviews Rheumatology. Jan. 7 (1): 33, 2011.
+
+KELLEN, E. M. A.; PICARELLI, Z. P.; DUARTE, A. C. Hemorrhagic syndrome induced
+by contact with caterpillars of the genus Lonomia (Saturniidae, Hemileucinae). Journal
+of Toxicology: Toxin Reviews. 14 (3): 283-308, 1995.
+
+LAWRENCE, T. The nuclear factor NF-κB pathway in inflammation. Cold Spring
+Harbor perspectives in biology, p. a001651, 2009.
+
+MOSMANN T. Rapid colorimetric assay for cellular growth and survival: application to
+proliferation and cytotoxicity assays. Journal of Immunological Methods; v. 65, n 12, p. 55–63, 1983.
+
+RAMOS, A. T.; GONÇALVES, L. R. C.; RIBEIRO, O. G.; CAMPOS, A. R.;
+SANT'ANNA, O. A. Effects of Lonomia obliqua (lepidoptera, saturniidae) toxin on
+clotting, inflammatory and antibody responsiveness in genetically selected lines of
+mice. Toxicon. Jun. 43 (7), 761-768, 2004.
+
+REIS, C.V.; ANDRADE, S.A.; RAMOS, O.H.; RAMOS, C.R.; HO, P.L.; BATISTA, I.F.;
+CHUDZINSKI-TAVASSI, A.M. Lopap, a prothrombin activator from Lonomia obliqua
+belonging to the lipocalin family: recombinant production, biochemical characterization
+and structure-function insights. Biochem J. 398(2):295-302, 2006.
+
+SCHABITZ,
+
+W.-R.;
+
+KOLLMAR,
+
+R.;
+
+SCHWANINGER,
+
+M.;
+
+JUETTLER,
+
+E.;
+
+BARDUTZKY, J.; SCHÖLZKE, M. N.; SOMMER, C. & SCHWAB, S. Neuroprotective
+effect of granulocyte colony–stimulating factor after focal cerebral Ischemia. Stroke, v.
+34, n. 3, p. 745-751, 2003.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Referências
+
+73
+
+REIS, C. V.; PORTARO, F. C.; ANDRADE, S. A.; FRITZEN, M.; FERNANDES, B. L.;
+SAMPAIO, C. A.; et al. A prothrombin activator serine protease from the Lonomia
+obliqua caterpillar venom (Lopap): biochemical characterization. Thrombosis
+research. Jun 1. 102 (5): 427-436, 2001.
+
+REIS, C. V.; ANDRADE, S. A.; RAMOS, O. H. P.; RAMOS, C. R. R.; HO, P. L.;
+BATISTA, I. D. F. C. & CHUDZINSKI-TAVASSI, A. M. Lopap, a prothrombin activator
+from Lonomia obliqua belonging to the lipocalin family: recombinant production,
+biochemical characterization and structure–function insights. Biochemical Journal. v.
+398, n. 2, p. 295-302, 2006.
+
+SU, S.; MUKAIDA, N.; WANG, J. B.; ZHANG, Y.; TAKAMI, A.; NAKAO, S. &
+MATSUSHIMA, K. Inhibition of immature erythroid progenitor cell proliferation by
+macrophage inflammatory protein-1α by interacting mainly with a CC chemokine
+receptor, CCR1. Blood, v. 90, n. 2, p. 605-611, 1997.
+
+THOMPSON, W. L. & VAN ELDIK, L. J. Inflammatory cytokines stimulate the
+chemokines CCL2/MCP-1 and CCL7/MCP-7 through NFκB and MAPK dependent
+pathways in rat astrocytes. Brain research, v. 1287, p. 47-57, 2009.
+
+VENTURA, J. S.; CARVALHO, L. C. C.; CHUDZINSKI-TAVASSI, A. M. Peptides,
+compositions, and uses thereof. U.S. Patent n. 8,883,740, 11 nov. 2014.
+
+VINCENTI, M. P. & BRINCKERHOFF, C. E. Transcriptional regulation of collagenase
+(MMP-1, MMP-13) genes in arthritis: integration of complex signaling pathways for the
+recruitment of gene-specific transcription factors. Arthritis research & therapy. v. 4,
+n. 3, p. 157, 2002.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+Referências
+
+WAISMAN,
+
+74
+
+K.;
+
+CHUDZINSKI-TAVASSI,
+
+A.M.;
+
+CARRIJO-CARVALHO,
+
+L.C.;
+
+FERNANDES PACHECO, M.T.; FARSKY, S.H.P. Lopap: A non-inflammatory and
+cytoprotective molecule in neutrophils and endothelial cells. Toxicon. 53:652-659,
+2009.
+
+ZANNIN, M., LOURENÇO, D.M., MOTTA, G., DALLA COSTA, L.R, GRANDO, M.,
+GAMBORGI, G.P., NOGUTI, M.A., CHUDZINSKI-TAVASSI, A.M. Blood coagulation
+and fibrinolytic factors in 105 patients with hemorrhagic syndrome caused by
+accidental contact with Lonomia obliqua caterpillar in Santa Catarina, southern Brazil.
+Thromb Haemost 89: 355-364, 2003.
+
+ZHOU, P. H.; LIU, S. Q.; PENG, H. The effect of hyaluronic acid on IL‐1β‐induced
+chondrocyte apoptosis in a rat model of osteoarthritis. Journal of Orthopaedic
+Research. Jun 3; 26 (12): 1643-1648, 2008.
+
+BACHARELADO EM CIÊNCIAS BIOMÉDICAS – ÊNFASE EM BIOTECNOLOGIA EM SAÚDE - 2018
+
+

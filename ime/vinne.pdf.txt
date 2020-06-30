@@ -1,0 +1,2796 @@
+Universidade de São Paulo
+Instituto de Matemática e Estatística
+Bacharelado em Ciência da Computação
+
+O Problema do Ancestral de Nível:
+Uma comparação entre implementações
+
+Vinicius Perche de Toledo Agostini
+
+Monografia Final
+mac 0499 — Trabalho de
+Formatura Supervisionado
+
+Supervisor: Prof. Dr. Carlos Eduardo Ferreira
+
+São Paulo
+5 de dezembro de 2019
+
+Resumo
+Vinicius Perche de Toledo Agostini. O Problema do Ancestral de Nível: Uma comparação
+entre implementações. Monografia (Bacharelado). Instituto de Matemática e Estatística,
+Universidade de São Paulo, São Paulo, 2019.
+
+O problema do Ancestral de Nível consiste em preprocessar uma árvore enraizada 𝑇 para então
+responder consultas AN(𝑢, 𝑑), que pedem o ancestral do nó 𝑢 com profundidade 𝑑. Vários
+algoritmos com diferentes complexidades já foram propostos, porém existem poucos estudos
+comparativos e implementações disponíveis, principalmente em português. Neste trabalho,
+foram implementados e comparados quatro algoritmos, levando em consideração árvores com
+diferentes formatos para analisar na prática o comportamento de cada um conforme o fator de
+ramificação varia, indo além da análise tradicional de complexidade de tempo e espaço no pior
+caso. Os resultados obtidos estão de acordo com o que era esperado pela análise teórica. Além
+disso, foi possível observar que algoritmos simples podem ser implementados de maneiras que,
+dependendo das características da árvore de entrada, pode-se obter performances suficientes,
+o que leva a reforçar o quão importante é conhecer a aplicação em questão para poder tomar
+a melhor decisão quanto a qual algoritmo implementar, balanceando questões como uso de
+memória, dificuldade de implementação e manutenção do código e eficiência.
+Palavras-chave: Ancestral de Nível. Árvores. Implementação.
+
+Abstract
+Vinicius Perche de Toledo Agostini. The Level Ancestor Problem: A comparison
+between implementations. Undergraduate Thesis (Bachelor). Institute of Mathematics
+and Statistics, University of São Paulo, São Paulo, 2019.
+
+The Level Ancestor problem consists of preprocessing a rooted tree 𝑇 to answer queries
+AN(𝑢, 𝑑) which request the ancestor of node 𝑢 with depth 𝑑. There have been several algorithms with different complexities proposed, however, there are few comparative studies
+and implementations available, especially in portuguese. In this study, four algorithms were
+implemented and tested with trees of varied shape to analyse, in practice, each algorithm’s
+behaviour as the branching factor changes, going beyond the traditional worst-case time and
+space complexity analysis. The obtained results were consistent with what was expected from
+theoretical analysis, but it allowed to observe that simple algorithms can be implemented in
+such ways that, depending on the characteristics of the input tree, it can achieve sufficient
+performance, reinforcing how important it is to know the actual application so that an
+informed decision is made about which algorithm to implement, balancing questions such as
+memory use, difficulty of code implementation and maintainability and its efficiency.
+
+Keywords:
+
+Level Ancestor. Trees. Implementation.
+
+v
+
+Lista de Figuras
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+
+A cidade de Königsberg e suas sete pontes . . . . . . . . .
+Exemplos de grafos. . . . . . . . . . . . . . . . . . . . . . .
+Exemplo de árvore. . . . . . . . . . . . . . . . . . . . . . .
+Exemplos de árvores com fatores de ramificação diferentes.
+Exemplos de árvores completas ou não. . . . . . . . . . . .
+Ordem de visita aos nós da árvore durante as travessias. . .
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+1
+2
+3
+4
+4
+5
+
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+
+Exemplo de consulta de Ancestral de Nível . . . . . . . . . . . .
+Exemplo de consulta de Ancestral de Nível . . . . . . . . . . . .
+Exemplo de consulta do Algoritmo Trivial. . . . . . . . . . . . .
+Exemplo de consulta do Algoritmo Trivial. . . . . . . . . . . . .
+Árvore exemplo. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Exemplo de consulta do Algoritmo dos Ponteiros. . . . . . . . .
+Exemplo de consulta do Algoritmo dos Ponteiros. . . . . . . . .
+Associação entre os índices originais e os índices da pré-ordem.
+Exemplo de consulta do Algoritmo da Pré-ordem. . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+7
+7
+9
+9
+10
+12
+12
+13
+14
+
+3.1
+
+Resultados para o preprocessamento de árvores lineares com uma versão
+reduzida dos testes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Resultados para o preprocessamento de árvores lineares com os testes padrão.
+Resultados para o preprocessamento de árvores binárias. . . . . . . . . .
+Resultados para o preprocessamento de árvores quaternárias. . . . . . . .
+Resultados para o teste reduzido de consultas em árvores lineares. . . . .
+Resultados para as consultas em árvores binárias. . . . . . . . . . . . . .
+Resultados para as consultas em árvores quaternárias. . . . . . . . . . . .
+
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+18
+19
+20
+21
+22
+23
+24
+
+vi
+
+Lista de Tabelas
+2.1
+2.2
+2.3
+2.4
+
+Tabela de resultados das consultas da árvore da figura 2.5.
+Vetores contendo os nós processados em cada nível. . . . .
+Comparação da complexidade de tempo dos algoritmos. . .
+Comparação da complexidade de espaço dos algoritmos. .
+
+3.1
+
+Uso de memória
+lineares. . . . .
+Uso de memória
+binárias. . . . .
+Uso de memória
+quaternárias. . .
+
+3.2
+3.3
+
+(em GB) de
+. . . . . . .
+(em GB) de
+. . . . . . .
+(em GB) de
+. . . . . . .
+
+cada
+. . .
+cada
+. . .
+cada
+. . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+algoritmo para preprocessar
+. . . . . . . . . . . . . . . . .
+algoritmo para preprocessar
+. . . . . . . . . . . . . . . . .
+algoritmo para preprocessar
+. . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+árvores
+. . . . .
+árvores
+. . . . .
+árvores
+. . . . .
+
+10
+14
+15
+15
+
+25
+25
+26
+
+Lista de Programas
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+A.1
+
+Criação da árvore. . . . . . . . . . . . . . . . .
+Consulta do Algoritmo Trivial. . . . . . . . . .
+Preprocessamento do Algoritmo da Tabela. . .
+Consulta do Algoritmo da Tabela. . . . . . . .
+Preprocessamento do Algoritmo dos Ponteiros.
+Consulta do Algoritmo dos Ponteiros. . . . . .
+Preprocessamento do Algoritmo da Pré-ordem.
+Consulta do Algoritmo da Pré-ordem. . . . . .
+Parte dos testes para o Algoritmo da Tabela. .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+8
+10
+10
+11
+11
+12
+13
+14
+30
+
+vii
+
+Sumário
+
+1 Uma introdução à Teoria dos Grafos
+1.1 As Pontes de Königsberg . . . . . . . . . . . .
+1.2 Grafos . . . . . . . . . . . . . . . . . . . . . .
+1.3 Árvores . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 Fator de ramificação e árvores k-árias
+1.3.2 Árvores completas . . . . . . . . . . .
+1.3.3 Busca em profundidade e travessias . .
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+2 O Problema do Ancestral de Nível e Implementações
+2.1 Definição do problema . . . . . . . . . . . . . . . . .
+2.2 Implementações . . . . . . . . . . . . . . . . . . . . .
+2.2.1 Algoritmo Trivial . . . . . . . . . . . . . . . .
+2.2.2 Algoritmo da Tabela . . . . . . . . . . . . . .
+2.2.3 Algoritmo dos Ponteiros . . . . . . . . . . . .
+2.2.4 Algoritmo da Pré-ordem . . . . . . . . . . . .
+2.3 Resumo das implementações . . . . . . . . . . . . . .
+3 Benchmarks
+3.1 Metodologia . . . . . . . . .
+3.2 Análise dos resultados . . . .
+3.2.1 Preprocessamento .
+3.2.2 Consultas . . . . . .
+3.3 Uso de memória . . . . . . .
+3.3.1 Árvores lineares . .
+3.3.2 Árvores binárias . .
+3.3.3 Árvores quaternárias
+3.4 Conclusões e trabalho futuro
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+1
+1
+2
+3
+3
+4
+4
+
+.
+.
+.
+.
+.
+.
+.
+
+7
+7
+8
+9
+10
+11
+13
+14
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+17
+17
+18
+18
+21
+24
+24
+25
+26
+26
+
+viii
+
+Apêndices
+A Testes de unidade com a biblioteca Catch2
+
+29
+
+Referências
+
+31
+
+1
+
+Capítulo 1
+Uma introdução à Teoria dos
+Grafos
+
+1.1
+
+As Pontes de Königsberg
+
+No século XVIII, a cidade de Königsberg, na Prússia (hoje Kaliningrado, na atual Rússia)
+era um importante centro comercial devido à sua localização próxima ao rio, que dividia a
+cidade em quatro regiões, interligadas por sete pontes.
+
+Fonte: MacTutor History of Mathematics archive
+Figura 1.1: A cidade de Königsberg e suas sete pontes
+
+Segundo histórias, um passatempo de domingo dos cidadãos de Königsberg consistia
+em passear por sua cidade, até que um dia surgiu um desafio: encontrar uma forma de
+andar por todas as regiões passando por cada ponte apenas uma vez.
+Nenhum habitante de Königsberg conseguiu encontrar a solução para este problema,
+porém, o desafio chegou até um homem chamado Leonhard Euler, que apesar de julgar o
+
+2
+1 | UMA INTRODUÇÃO À TEORIA DOS GRAFOS
+
+problema trivial, ficou intrigado, como citado em Hopkins e Wilson (2004):
+“This question is so banal, but seemed to me worthy of attention in that
+[neither] geometry, nor algebra, nor even the art of counting was sufficient to
+solve it.”
+Euler provou que não era possível passar por toda a cidade de Königsberg sem passar
+duas vezes pela mesma ponte, mas também resolveu o caso geral em Euler (1741), para
+qualquer número de regiões e qualquer número de pontes, dando assim origem a um ramo
+da matemática que hoje chamamos de Teoria dos Grafos.
+
+1.2
+
+Grafos
+
+Podemos definir um Grafo informalmente como um conjunto de entidades conectadas
+entre si. Mais formalmente, podemos definir um grafo 𝐺 como um par (𝑉 , 𝐸) onde 𝑉 é um
+conjunto de vértices e 𝐸 um conjunto de arestas entre os vértices tal que 𝐸 ⊆ {(𝑢, 𝑣) ∣
+𝑢, 𝑣 ∈ 𝑉 }.
+As arestas de um grafo podem ter propriedades como direção e/ou algum valor associado dependendo do contexto em que está sendo utilizado, frequentemente possibilitando
+soluções elegantes e eficientes para os mais diversos problemas.
+0
+
+1
+
+0
+
+1
+
+3
+
+2
+
+3
+
+2
+
+(a) Um grafo não dirigido.
+
+0
+
+2
+
+(b) Um grafo dirigido.
+
+0
+
+1
+
+3
+10
+
+5
+
+1
+
+3
+
+7
+
+3
+
+2
+
+2
+
+(c) Um grafo com valores nas arestas.
+
+7
+
+10
+
+3
+
+5
+
+2
+
+(d) Um grafo dirigido com valores nas
+arestas.
+
+Figura 1.2: Exemplos de grafos.
+
+3
+1.3 | ÁRVORES
+
+1.3
+
+Árvores
+
+Árvores são um subconjunto dos grafos de incrível importância para a Ciência da
+Computação, sendo usadas nas mais diversas aplicações, desde a estrutura de pastas de
+um sistema operacional até bancos de dados e processamento de linguagem natural.
+Diferente de outras estruturas como vetores, as árvores se organizam de forma não
+linear, hierárquica. Os elementos de uma árvore são chamados de nós e comumente um
+nó específico é elegido para ser a sua raiz. Cada nó pode ter ligações com outros nós
+denominados filhos, que por sua vez podem ter seus próprios filhos e assim sucessivamente
+até chegar em nós que não possuem ligação com nenhum outro elemento. Chamamos
+estes nós de folhas.
+Também é definida a profundidade de um nó como a quantidade de arestas no caminho
+da raiz até ele, ou seja, a raiz tem profundidade zero, seus filhos profundidade um e assim
+sucessivamente. Cada nível da árvore corresponde a uma “fatia horizontal” que contém
+os nós de uma certa profundidade; por definição, o nível de um nó 𝑢 é profundidade(u) +
+1.
+
+0
+1
+3
+
+2
+4
+
+5
+
+6
+
+Figura 1.3: Exemplo de árvore. O nó 0 é a raiz e tem como filhos os nós 1 e 2, cujos filhos são
+as folhas 3, 4 e 5, 6, respectivamente. O primeiro nível contém o nó 0 e tem profundidade zero, o
+segundo os nós 1 e 2 com profundidade um e o terceiro os nós 3, 4, 5 e 6 com profundidade dois.
+
+1.3.1
+
+Fator de ramificação e árvores k-árias
+
+O fator de ramificação de uma árvore é definido como a quantidade média de filhos
+que cada um de seus nós tem e pode ser obtido ao dividir o número de arestas pelo número
+de nós com pelo menos um filho. Uma árvore cujos nós têm não mais que 𝑘 filhos é
+chamada de árvore k-ária; em particular, quando 𝑘 = 2 estas árvores são apelidadas de
+árvores binárias e quando 𝑘 = 4, árvores quaternárias. Outro caso especial é quando
+𝑘 = 1, criando uma árvore linear, essencialmente uma lista ligada de seus nós.
+
+4
+1 | UMA INTRODUÇÃO À TEORIA DOS GRAFOS
+
+0
+0
+
+1
+2
+
+1
+
+3
+
+3
+
+(a) Árvore linear.
+
+0
+
+2
+4
+
+5
+
+3
+
+2
+
+(b) Árvore binária.
+
+4
+
+5
+
+(c) Árvore quaternária.
+
+Figura 1.4: Exemplos de árvores com fatores de ramificação diferentes.
+
+1.3.2
+
+Árvores completas
+
+É dito que um nível 𝑖 de uma árvore k-ária é completo se este possui todos os nós
+possíveis, isto é, 𝑘 𝑖−1 . Uma árvore k-ária completa é uma em que todos os níveis exceto
+possivelmente o último são completos e caso este não seja, seus nós devem estar o mais à
+esquerda possível.
+0
+0
+
+1
+
+1
+
+2
+
+3
+
+2
+3
+
+6
+
+4
+
+(a) Nós 3 e 4 não estão o mais à
+esquerda possível.
+
+7
+
+(b) O terceiro nível não está completo (o
+nó 1 tem apenas um filho).
+
+0
+
+0
+
+1
+3
+
+2
+4
+
+5
+
+4
+
+5
+
+1
+6
+
+(c) Árvore binária completa.
+
+3
+
+2
+4
+
+(d) Árvore binária completa.
+
+Figura 1.5: Exemplos de árvores completas ou não.
+
+1.3.3
+
+Busca em profundidade e travessias
+
+Árvores podem ser percorridas de diferentes maneiras partindo de sua raiz, podendo
+“conhecer” seus nós em ordens diferentes a depender de algum critério definido para
+
+5
+1.3 | ÁRVORES
+
+escolher o próximo nó a ser examinado. Em particular duas maneiras bastante conhecidas
+para realizar a travessia de uma árvore são a busca em profundidade e a busca em
+largura, onde a primeira tenta se aprofundar na árvore o máximo possível antes de
+explorar outros caminhos e a segunda explora a árvore nível a nível, conhecendo todos os
+nós de determinada profundidade antes de conhecer nós mais profundos.
+Uma busca em profundidade também pode ser realizada de múltiplos jeitos, variando a
+ordem em que o nó e seus filhos são processados. Uma travessia em pré-ordem significa
+que o nó será processado primeiro e então seus filhos serão colocados numa pilha de
+execução da esquerda para a direita, enquanto numa travessia em pós-ordem empilha
+os filhos do nó antes de processá-lo, como ilustrado na Figura 1.6.
+6
+
+0
+5
+
+2
+0
+
+1
+
+3
+
+0
+
+1
+4
+
+(a) Busca em profundidade
+em pós-ordem.
+
+2
+
+4
+3
+
+5
+
+1
+6
+
+(b) Busca em profundidade
+em pré-ordem.
+
+3
+
+2
+4
+
+5
+
+6
+
+(c) Busca em largura.
+
+Figura 1.6: Ordem de visita aos nós da árvore durante as travessias. O número do nó
+representa a ordem em que ele foi processado.
+
+Para o escopo desta monografia é particularmente interessante a travessia em préordem, que traz consigo algumas propriedades úteis a serem exploradas mais a frente no
+texto, quando a implementação dos algoritmos for discutida.
+
+7
+
+Capítulo 2
+O Problema do Ancestral de Nível
+e Implementações
+
+2.1
+
+Definição do problema
+
+O problema do Ancestral de Nível é um problema fundamental de árvores que pode
+ser definido da seguinte forma: Dada uma árvore enraizada 𝑇 com 𝑛 nós, para consultas
+AN(𝑢, 𝑑) onde 𝑢 é um nó de 𝑇 e 𝑑 um número inteiro, encontre o ancestral de profundidade 𝑑 de 𝑢 otimizando tanto o tempo de preprocessamento quanto o de resposta às
+consultas.
+0
+1
+
+2
+
+3
+7
+
+5
+
+4
+8
+
+9
+
+AN(13, 1) = 2
+
+10
+
+11
+
+6
+12
+
+14
+
+13
+
+Figura 2.1: Exemplo de consulta de Ancestral de Nível.
+
+0
+1
+
+2
+
+3
+7
+
+5
+
+4
+8
+
+9
+
+AN(9, 2) = 4
+
+10
+
+11
+
+6
+12
+
+13
+
+14
+
+Figura 2.2: Exemplo de consulta de Ancestral de Nível.
+
+8
+2 | O PROBLEMA DO ANCESTRAL DE NÍVEL E IMPLEMENTAÇÕES
+
+Existem diversas soluções para tal problema, de diferentes níveis de complexidade e com
+performances teoricamente diferentes. Em particular, por exemplo, é possível realizar as
+consultas de forma trivial sem qualquer tipo de preprocessamento ou também preprocessar
+todas as possíveis consultas para que possam então ser respondidas rapidamente.
+Em Bender e Farach-Colton (2002), Papamichail et al. (2014) e Menghani e Matani
+(2019) são discutidas algumas soluções, incluindo as que serão implementadas e testadas
+neste trabalho. Em particular, serão testadas soluções razoavelmente simples de serem
+implementadas, até mesmo para mostrar que estas muitas vezes podem ter performance
+melhor do que imagina-se se formos além de uma simples análise de pior caso.
+Como motivação para o estudo deste problema, vale lembrar que o Ancestral de Nível
+aparece como parte de problemas mais complexos como árvores ordinais espaço-eficientes
+como descrito em Geary et al. (2006) que podem ser usadas na representação de documentos
+XML que suportam consultas XPath. Além disso, são usadas em Sadakane e Grossi (2006)
+para implementar estruturas de dados comprimidas e também em Yuan e Atallah (2009)
+para consultas agregadas em árvores. Por último, vemos aplicações até mesmo no campo
+de hashing em strings, como dito em Farach e Muthukrishnan (1996).
+
+2.2
+
+Implementações
+
+Todas as implementações assumem a mesma implementação de árvore onde é guardada
+apenas sua raiz e cada nó contém um vetor de ponteiros para seus filhos. Para facilitar as
+implementações, ao construir a árvore é feita uma busca em profundidade para preencher
+vetores que servirão como funções globais pai() e profundidade(); nos códigos abaixo, N
+é o tamanho da árvore.
+Programa 2.1 Criação da árvore.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+funcao cria_arvore(N, nó)
+raiz ← nó
+pai ← vetor de tamanho N
+profundidade ← vetor de tamanho N
+travessia(raiz, 0)
+fim
+rotina travessia(nó, prof)
+profundidade[nó] = prof
+para filho em nó.filhos() faca
+pai[filho] = nó
+travessia(filho, prof+1)
+fim
+fim
+
+Será analisado, para cada algoritmo, tanto sua complexidade de tempo de execução
+quanto a de espaço adicional, também levando em consideração quão simples é sua im-
+
+9
+2.2 | IMPLEMENTAÇÕES
+
+plementação. Para tornar a discussão da complexidade de tempo mais clara, será dito
+que um algoritmo tem complexidade de tempo ⟨𝑓 (𝑥), 𝑔(𝑥)⟩ se a complexidade de seu
+preprocessamento é 𝑓 (𝑥) e a de suas consultas é 𝑔(𝑥).
+
+2.2.1
+
+Algoritmo Trivial
+
+O primeiro algoritmo a ser estudado é um em que simplesmente não há nenhum preprocessamento e, para cada consulta, apenas subimos pelos pais a partir do nó em questão
+até encontrarmos seu ancestral com profundidade igual à profundidade requisitada.
+Para esta implementação, o tempo de execução de seu preprocessamento não depende
+do tamanho da árvore e também não utiliza nenhuma memória adicional, portanto o
+preprocessamento do Algoritmo Trivial tem complexidade O(1) tanto para tempo quanto
+espaço.
+
+0
+1
+
+2
+
+3
+7
+
+5
+
+4
+8
+
+9
+
+AN(7, 0) = 0
+
+10
+
+11
+
+6
+12
+
+13
+
+14
+
+Figura 2.3: Exemplo de consulta do Algoritmo Trivial.
+
+AN(7, 0) = 0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Figura 2.4: Exemplo de consulta do Algoritmo Trivial.
+
+No que diz respeito a cada consulta, precisamos chamar a função 𝑝𝑎𝑖() partindo do nó
+inicial até chegar no nó com a profundidade desejada. Essa quantidade é exatamente a
+diferença entre esta profundidade e a profundidade do nó inicial.
+A consulta mais lenta para uma árvore qualquer é uma que parte do nó mais profundo
+e precisa subir até a raiz, levando tempo O(𝑑), onde 𝑑 é a profundidade da árvore. No pior
+caso isso é equivalente a O(𝑛) onde 𝑛 é a quantidade de nós e para uma árvore balanceada
+cujos nós têm 𝑘 filhos, é equivalente a O(log𝑘 𝑛), fazendo com que a performance da
+consulta seja muito dependente da forma da árvore.
+Após essa análise, podemos concluir que o Algoritmo Trivial tem complexidade de
+tempo ⟨O(1), O(𝑑)⟩ e O(1) de espaço adicional, sendo particularmente eficiente para árvores
+balanceadas e com fator de ramificação maior.
+
+10
+2 | O PROBLEMA DO ANCESTRAL DE NÍVEL E IMPLEMENTAÇÕES
+
+Programa 2.2 Consulta do Algoritmo Trivial.
+1
+2
+3
+4
+5
+6
+7
+
+funcao consulta(nó, prof)
+x ← nó
+enquanto profundidade(x) ≠ prof
+x ← pai(x)
+fim
+devolva x
+fim
+
+2.2.2
+
+Algoritmo da Tabela
+
+Ao contrário do algoritmo trivial, a ideia é precalcular o resultado de todas as consultas
+possíveis durante a fase de preprocessamento para otimizar o desempenho da fase de
+consultas.
+Cada nó 𝑢 tem associado a si profundidade(u) + 1 possíveis consultas. Assim, para
+uma árvore com 𝑛 nós, existem 𝑛 + ∑𝑛−1
+𝑖=0 profundidade(i) = O(𝑛𝑑) consultas, onde 𝑑 é a
+profundidade da árvore. O preprocessamento se dá de maneira simples, preenchendo uma
+tabela de tamanho O(𝑛𝑑) com dois laços encadeados, utilizando a função 𝑝𝑎𝑖() para subir
+a partir de cada nó até a raiz e salvar a resposta para cada profundidade.
+Programa 2.3 Preprocessamento do Algoritmo da Tabela.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+rotina preprocessa(árvore)
+para u de 0 ate N−1 faca
+v ←u
+tabela[u][profundidade(u)] = u
+para w de profundidade(u)−1 ate 0 faca
+tabela[u][w] = pai(v)
+v = pai(v)
+fim
+fim
+fim
+
+0
+1
+3
+
+2
+4
+
+5
+
+6
+
+Figura 2.5: Árvore exemplo.
+
+0:
+1:
+2:
+3:
+4:
+5:
+6:
+
+p=0
+0
+0
+0
+0
+0
+0
+0
+
+p=1
+
+p=2
+
+1
+2
+1
+1
+2
+2
+
+3
+4
+5
+6
+
+(𝑖, 𝑗) = AN(𝑖, 𝑗)
+
+Tabela 2.1: Tabela de resultados das consultas
+da árvore da figura 2.5.
+
+Com a tabela devidamente preenchida, as consultas se tornam tão simples quanto
+
+11
+2.2 | IMPLEMENTAÇÕES
+
+acessar a sua entrada correspondente, ou seja, a resposta da consulta que pede pelo
+ancestral do nó 𝑢 com profundidade 𝑝 é dada por 𝑡𝑎𝑏𝑒𝑙𝑎[𝑢][𝑝].
+Programa 2.4 Consulta do Algoritmo da Tabela.
+1
+2
+3
+
+funcao consulta(nó, prof)
+devolva tabela[nó][prof]
+fim
+
+A complexidade de espaço e de tempo do preprocessamento dependem fortemente da
+forma da árvore, podendo ser O(𝑛2 ) no caso de uma árvore linear e para o caso de uma
+árvore 𝑘-ária balanceada é O(𝑛 log𝑘 𝑛), muito mais eficiente. Já a consulta é feita em tempo
+O(1), usando apenas a tabela previamente calculada. Assim, o Algoritmo da Tabela tem
+complexidade de tempo ⟨O(𝑛𝑑), O(1)⟩ e O(𝑛𝑑) de espaço, sendo uma boa opção para casos
+de árvores balanceadas em que o preprocessamento se torna barato frente à quantidade de
+consultas que serão feitas e o espaço utilizado não é uma restrição.
+
+2.2.3
+
+Algoritmo dos Ponteiros
+
+Aqui a ideia é subir do nó inicial até a resposta em cada consulta de forma mais
+inteligente; para isso, a cada nó 𝑢 da árvore é associado um vetor com ponteiros onde o
+elemento na posição 𝑗 aponta para o 2𝑗 -ésimo ancestral de 𝑢. Para preencher estes vetores,
+note que o 20 -ésimo ancestral de um nó é seu pai e que 2𝑗−1 + 2𝑗−1 = 2𝑗 , ou seja, o 2𝑗−1 -ésimo
+ancestral do 2𝑗−1 -ésimo ancestral de um nó é seu 2𝑗 -ésimo ancestral:
+Programa 2.5 Preprocessamento do Algoritmo dos Ponteiros.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+rotina preprocessa(árvore)
+M ← ⌈log2 𝑑 ⌉ ⊳ d é a profundidade da árvore
+ponteiros ← matriz N x (M+1)
+para i de 0 ate N−1 faca
+ponteiros[i][0] ← pai(i)
+fim
+para j de 1 ate M faca
+para i de 0 ate N−1 faca
+x ← ponteiros[i][j−1]
+ponteiros[i][j] ← ponteiros[x][j−1]
+fim
+fim
+fim
+
+Uma vez que a tabela de ponteiros está preenchida a consulta se dá, de forma bastante
+elegante, através da representação binária dos números. Para um número de 𝑚 bits 𝑋 , este
+𝑖
+número pode ser escrito como uma sequência 𝑠𝑚−1 𝑠𝑚−2 … 𝑠1 𝑠0 e ∑𝑚−1
+𝑖=0 𝑠𝑖 ⋅ 2 = 𝑋 . Seja 𝑋 a
+diferença entre a profundidade do nó inicial da consulta e a profundidade da resposta, os
+pulos necessários são dados exatamente pelos bits ligados em 𝑋 .
+
+12
+2 | O PROBLEMA DO ANCESTRAL DE NÍVEL E IMPLEMENTAÇÕES
+
+Exemplo: seja 𝑋 = 85 = 010101012 a distância do nó inicial para a resposta, pode-se
+pular 26 = 64 nós, depois 24 = 16, 22 = 4 e finalmente apenas 20 = 1 para terminar a
+consulta.
+20 -ésimo ancestral
+
+0
+
+1
+
+2 -ésimo ancestral
+
+2
+
+AN(7, 0) = 0
+
+1
+
+3
+7
+
+5
+
+4
+8
+
+9
+
+10
+
+11
+
+6
+12
+
+13
+
+14
+
+Figura 2.6: Exemplo de consulta do Algoritmo dos Ponteiros. A diferença de profundidade é 3
+= 0112 = 21 + 20 .
+
+22 -ésimo ancestral
+
+AN(7, 0) = 0
+
+2 -ésimo ancestral
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+21 -ésimo ancestral
+Figura 2.7: Exemplo de consulta do Algoritmo dos Ponteiros. A diferença de profundidade é 7
+= 01112 = 22 + 21 + 20 .
+
+Programa 2.6 Consulta do Algoritmo dos Ponteiros.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+funcao consulta(nó, prof)
+x ← nó
+enquanto profundidade(x) ≠ prof faca
+d = profundidade(x) − prof
+pulo ← ⌊log2 𝑑 ⌋ ⊳ seleciona o bit mais significante
+x ← ponteiros[x][pulo]
+fim
+devolva x
+fim
+
+Como a quantidade de passos da consulta é exatamente o número de bits ligados em 𝑋 ,
+são necessários O(log 𝑑) passos, onde 𝑑 é a profundidade da árvore. Portanto, a complexidade do Algoritmo dos Ponteiros é ⟨O(𝑛 log 𝑑), O(log 𝑑)⟩ de tempo e O(𝑛 log 𝑑) de espaço,
+que no caso de uma árvore 𝑘-ária balanceada se tornam ⟨O(𝑛 log𝑘 (log𝑘 𝑛)), O(log𝑘 (log𝑘 𝑛))⟩
+e O(𝑛 log𝑘 (log𝑘 𝑛)), respectivamente.
+
+13
+2.2 | IMPLEMENTAÇÕES
+
+2.2.4
+
+Algoritmo da Pré-ordem
+
+O último algoritmo considerado neste texto faz uso das propriedades da pré-ordem de
+uma árvore para trazer um preprocessamento mais eficiente. Enquanto é feita a travessia
+da árvore, cada nó é associado ao seu índice na pré-ordem, que é inserido numa lista de
+nós de sua respectiva profundidade.
+
+Figura 2.8: Associação entre os índices originais e os índices da pré-ordem.
+
+Para tal, a ideia é guardar a ordem em que os nós de cada nível foram visitados durante
+a travessia em pré-ordem em vetores e então uma consulta se resume a procurar o ancestral
+do nó inicial que está no vetor correspondente à profundidade buscada, tendo performance
+proporcional à quantidade de elementos por nível da árvore.
+Programa 2.7 Preprocessamento do Algoritmo da Pré-ordem.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+global id = 0
+rotina preprocessa(árvore)
+dfs(árvore.raiz, prof = 0)
+fim
+rotina dfs(nó, prof)
+preordem[nó] = id
+nome[id] = nó
+travessia[prof].insere(id)
+id ← id + 1
+para u em nó.filhos() faca
+dfs(u, prof + 1)
+fim
+fim
+
+Para entendermos o funcionamento do algoritmo para as consultas, primeiro precisamos nos convencer de que, se um nó 𝑣 é ancestral de 𝑢, então preordem(v) ≤ preordem(u),
+onde preordem(x) é o índice associado à posição de 𝑥 na travessia em pré-ordem. Isso é
+verdade já que sempre descobrimos os filhos de um nó depois dele próprio, fazendo com
+que um nó com índice maior que outro não possa ser seu ancestral. Além disso, no caso em
+que existam vários nós em determinada profundidade, o ancestral que buscamos é aquele
+cujo índice na pré-ordem é o mais próximo do índice do nó inicial, porém ainda menor
+
+14
+2 | O PROBLEMA DO ANCESTRAL DE NÍVEL E IMPLEMENTAÇÕES
+
+profundidade 0:
+
+0
+
+profundidade 1:
+
+1
+
+4
+
+profundidade 2:
+
+2
+
+3
+
+5
+
+6
+
+Tabela 2.2: Vetores contendo os nós processados em cada nível. Os índices guardados nos
+vetores são referentes à pré-ordem e não os da árvore original.
+
+que tal. Para realizar esta consulta de forma eficiente e obter complexidade logarítmica,
+pode-se usar a técnica de busca binária para encontrar o último elemento de um vetor
+menor ou igual ao parâmetro passado em O(log 𝑚) passos, onde 𝑚 é o tamanho desse
+vetor, lembrando que a busca deve ser feita com base nos índices da pré-ordem e depois
+esse índice deve ser convertido para a resposta.
+Programa 2.8 Consulta do Algoritmo da Pré-ordem.
+1
+2
+3
+4
+
+funcao consulta(nó, prof)
+idx ← travessia[prof].busca_binaria(preordem[nó])
+devolva nome[idx]
+fim
+
+profundidade 1:
+
+1
+
+4
+
+Figura 2.9: Exemplo de consulta do Algoritmo da Pré-ordem. Para uma consulta AN(5, 1) na
+árvore da figura 2.8, a resposta seria o nó com índice de pré-ordem igual a 4, ou seja, o nó 2.
+
+Finalmente, podemos então concluir que a complexidade de tempo do Algoritmo da
+Pré-ordem é ⟨O(𝑛), O(log 𝑘 𝑑 )⟩ já que a quantidade de nós por nível de uma árvore 𝑘-ária é
+O(𝑘 𝑑 ) e a de espaço é O(𝑛).
+
+2.3
+
+Resumo das implementações
+
+No próximo capítulo estaremos interessados em avaliar a performance de cada algoritmo para alguns casos de teste, levando em consideração o preprocessamento necessário,
+a realização de consultas e a quantidade de memória utilizada.
+Entretanto, analisando as tabelas 2.3, 2.4 pode-se perceber de imediato que restringir
+a entrada para árvores balanceadas permite até mesmo que os algoritmos mais simples
+apresentem complexidades boas, o que espera-se que seja refletido nos resultados dos
+testes. Vale lembrar que dizer que um algoritmo tem complexidade de tempo ⟨𝑓 (𝑥), 𝑔(𝑥)⟩
+quer dizer que a complexidade de seu preprocessamento é 𝑓 (𝑥) e a de suas consultas é
+𝑔(𝑥).
+
+15
+2.3 | RESUMO DAS IMPLEMENTAÇÕES
+
+Trivial
+Tabela
+Ponteiros
+Pré-ordem
+
+Linear
+⟨O(1), O(𝑛)⟩
+⟨O(𝑛2 ), O(1)⟩
+⟨O(𝑛 log2 𝑛), O(log2 𝑛)⟩
+⟨O(𝑛), O(1)⟩
+
+k-ária
+⟨O(1), O(log𝑘 𝑛)⟩
+⟨O(𝑛 log𝑘 𝑛), O(1)⟩
+⟨O(𝑛 log𝑘 (log𝑘 𝑛)), O(log𝑘 (log𝑘 𝑛))⟩
+⟨O(𝑛), O(log𝑘 𝑛)⟩
+
+Tabela 2.3: Comparação da complexidade de tempo dos algoritmos.
+
+Trivial
+Tabela
+Ponteiros
+Pré-ordem
+
+Linear
+O(1)
+O(𝑛2 )
+O(𝑛 log2 𝑛)
+O(𝑛)
+
+k-ária
+O(1)
+O(𝑛 log𝑘 𝑛)
+O(𝑛 log𝑘 (log𝑘 𝑛))
+O(𝑛)
+
+Tabela 2.4: Comparação da complexidade de espaço dos algoritmos.
+
+17
+
+Capítulo 3
+Benchmarks
+
+3.1
+
+Metodologia
+
+Os algoritmos foram implementados na linguagem C++ usando apenas as bibliotecas
+padrão e a STL. Todos os programas foram compilados com a versão 7.4.0 do compilador
+g++, num computador que possui um processador Intel Core i5-8250U com clock base de
+1.60GHz e turbo boost até 3.40GHz em uma única thread. As medições de tempo foram feitas
+com o steady_clock da biblioteca <chrono>, utilizando uma precisão de nanosegundos,
+tomando o devido cuidado de cronometrar apenas as partes relevantes do código. Todos
+os programas foram compilados com a flag -O2 para permitir otimizações por parte do
+compilador.
+Para cada algoritmo apresentado neste trabalho, foram medidos os tempos de execução
+tanto da parte de preprocessamento quanto da parte de consultas, separadamente. Cada
+teste também foi realizado com árvores lineares, binárias e quaternárias para evidenciar
+possíveis diferenças de performance de acordo com o formato da árvore.
+O número de nós das árvores testadas variou entre 150K e 21.6M e as árvores binárias
+e quaternárias geradas para fins destes testes são completas (portanto balanceadas). Tanto
+os testes de preprocessamento quanto os de consultas foram executados dez vezes com
+cada tamanho de árvore para tomar então suas médias como resultado.
+Os testes de preprocessamento consistem em um programa que cria uma árvore completa com a quantidade de nós e o fator de ramificação desejados e então cria um objeto
+da classe associada ao algoritmo a ser testado, o que equivale à fase de preprocessar a
+árvore de entrada. Já os testes de consultas consistem em um programa que cria também
+uma árvore completa com os mesmos parâmetros e então executam um conjunto de 10M
+de consultas gerado previamente. Estes arquivos foram gerados aleatoriamente de forma
+que toda consulta seja composta por um nó válido (entre 0 e 𝑁 − 1) onde 𝑁 é o tamanho
+do experimento e uma profundidade válida (entre 0 e profundidade(u), onde 𝑢 é o nó da
+consulta.
+
+18
+3 | BENCHMARKS
+
+3.2
+
+Análise dos resultados
+
+As árvores que surgiriam em aplicações reais possivelmente não seriam exatamente
+como as árvores aqui testadas, que são todas completas, porém ainda podemos ter uma
+boa noção de como as diferentes implementações se comportam no pior caso possível e
+em casos mais favoráveis.
+
+3.2.1
+
+Preprocessamento
+
+Árvores lineares
+A primeira coisa a ser notada é que, para árvores lineares, o Algoritmo da Tabela mal
+pode ser comparado com os outros, já que para este caso sua complexidade de espaço de
+preprocessamento é O(𝑛2 ), se tornando impossível manter o programa na memória até
+mesmo para o menor tamanho de árvore dos testes padrão, 150K. Apesar disso, o tamanho
+das árvores foi mantido para que os testes não se tornassem facilmente influenciáveis por
+fatores do sistema como trocas de contexto, por exemplo. Como evidenciado na figura 3.1,
+o Algoritmo da Tabela tem desempenho muito pior do que todos os outros até mesmo
+para os testes reduzidos, o que nos dá segurança para afirmar, juntamente com sua análise
+de complexidade, que ele também levaria muito mais tempo para completar os testes
+padrão.
+
+Trivial
+Preordem
+Tabela
+Ponteiros
+
+tempo de execução (segundos)
+
+7
+6
+5
+4
+3
+2
+1
+0
+0
+
+10000
+
+20000
+30000
+quantidade de nós
+
+40000
+
+50000
+
+Figura 3.1: Resultados para o preprocessamento de árvores lineares com uma versão reduzida dos
+testes.
+
+Seguindo para a bateria normal de testes, o Algoritmo Trivial, como esperado, é definitivamente o mais rápido, se mantendo essencialmente constante a menos de pequenas
+
+19
+3.2 | ANÁLISE DOS RESULTADOS
+
+variações, seguido pelo Algoritmo da Pré-ordem que leva uma vantagem grande sobre Algoritmo dos Ponteiros já que este é O(𝑛 log 𝑛) enquanto o primeiro é O(𝑛).
+
+tempo de execução (segundos)
+
+10
+
+Trivial
+Preordem
+Ponteiros
+
+8
+6
+4
+2
+0
+0.0
+
+0.5
+
+1.0
+1.5
+quantidade de nós
+
+2.0
+
+1e7
+
+Figura 3.2: Resultados para o preprocessamento de árvores lineares com os testes padrão.
+
+20
+3 | BENCHMARKS
+
+Árvores binárias
+
+Para estes testes estamos considerando árvores binárias completas com profundidade
+esperada log2 𝑛 onde 𝑛 é o tamanho do teste, o que torna possível por exemplo rodar
+o Algoritmo da Tabela para todos os tamanhos já que sua complexidade de espaço se torna
+O(𝑛 log 𝑛), sendo comparável com o Algoritmo dos Ponteiros, que ainda se mostra mais
+eficiente pela constante menor. O Algoritmo da Pré-ordem se tornou ainda mais rápido
+se comparado aos testes com árvores lineares apesar de sua complexidade não depender
+da profundidade da árvore, provavelmente por serem necessárias menos alocações de
+memória.
+
+Trivial
+Preordem
+Tabela
+Ponteiros
+
+tempo de execução (segundos)
+
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+0.0
+
+0.5
+
+1.0
+1.5
+quantidade de nós
+
+2.0
+
+1e7
+
+Figura 3.3: Resultados para o preprocessamento de árvores binárias.
+
+Árvores quaternárias
+
+Para estas árvores é interessante notar que o desempenho do Algoritmo da Tabela e
+do Algoritmo dos Ponteiros foram melhores do que para árvores binárias e isso se deve à
+relação entre suas complexidades de tempo e o fator de ramificação da árvore. O Algoritmo
+dos Ponteiros se manteve estável já que sua complexidade não depende da forma da árvore,
+o que o torna pouco adaptável ao formato da entrada.
+
+21
+3.2 | ANÁLISE DOS RESULTADOS
+
+Trivial
+Preordem
+Tabela
+Ponteiros
+
+tempo de execução (segundos)
+
+2.0
+1.5
+1.0
+0.5
+0.0
+0.0
+
+0.5
+
+1.0
+1.5
+quantidade de nós
+
+2.0
+
+1e7
+
+Figura 3.4: Resultados para o preprocessamento de árvores quaternárias.
+
+3.2.2
+
+Consultas
+
+Árvores lineares
+
+Aqui, assim como no caso dos testes de preprocessamento, não são todos os algoritmos
+que conseguiram passar pela bateria de testes padrão. O Algoritmo da Tabela segue com sua
+limitação de memória, porém agora o Algoritmo Trivial fica bastante lento, chegando perto
+dos 20 segundos para 1K consultas no maior tamanho de árvore e a metodologia escolhida
+para os testes de consulta fez com que o Algoritmo dos Ponteiros também não conseguisse
+ter memória suficiente já que o arquivo de teste era carregado simultaneamente na memória
+do computador. Todavia, como espera-se que o tempo necessário para responder uma
+quantidade 𝑚 de consultas seja uma função linear em 𝑚, é possível obter resultados ainda
+significativos a partir do teste reduzido.
+
+22
+3 | BENCHMARKS
+
+Preordem
+Tabela
+Ponteiros
+
+tempo de execução (segundos)
+
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+
+10000
+
+20000
+30000
+quantidade de nós
+
+40000
+
+50000
+
+Figura 3.5: Resultados para o teste reduzido de consultas em árvores lineares. Para efeito
+de comparação, o tempo esperado para o Algoritmo Trivial executar 10M consultas para o maior
+tamanho de árvore deste teste é de aproximadamente 7 minutos e por isso nem está no gráfico.
+
+Árvores binárias
+
+Os testes de consultas em árvores binárias evidenciaram a grande melhora que o
+Algoritmo Trivial consegue obter, já que, ao limitar a profundidade das árvores testadas
+em O(log2 𝑛), cada uma de suas consultas também é realizada em tempo logarítmico. Já
+o Algoritmo da Pré-ordem e o Algoritmo dos Ponteiros têm performances semelhantes,
+porém, o segundo leva a melhor. O Algoritmo da Tabela, como esperado, se mantém
+constante e extremamente rápido.
+
+Vale lembrar também que esses resultados correspondem à realização de 10 milhões de
+consultas, ou seja, até mesmo o Algoritmo Trivial é capaz de realizar uma única consulta
+em tempos quase insignificantes (na ordem de 9.25e−07 segundos).
+
+23
+3.2 | ANÁLISE DOS RESULTADOS
+
+Trivial
+Preordem
+Tabela
+Ponteiros
+
+tempo de execução (segundos)
+
+8
+6
+4
+2
+0
+0.0
+
+0.5
+
+1.0
+1.5
+quantidade de nós
+
+2.0
+
+1e7
+
+Figura 3.6: Resultados para as consultas em árvores binárias.
+
+Árvores quaternárias
+
+Aqui, o Algoritmo Trivial se torna ainda mais eficiente devido à limitação da profundidade das árvores em O(log4 𝑛), ficando muito mais próximo dos seus concorrentes e
+ficando abaixo de de 5 segundos para 10 milhões de consultas no maior tamanho de árvore
+testado. Tanto o Algoritmo da Pré-ordem e o Algoritmo dos Ponteiros se mantiveram
+praticamente iguais ao teste anterior, provavelmente devido às suas constantes já serem
+suficientemente pequenas para árvores binárias.
+
+24
+
+tempo de execução (segundos)
+
+3 | BENCHMARKS
+
+Trivial
+Preordem
+Tabela
+Ponteiros
+
+4
+3
+2
+1
+0.0
+
+0.5
+
+1.0
+1.5
+quantidade de nós
+
+2.0
+
+1e7
+
+Figura 3.7: Resultados para as consultas em árvores quaternárias.
+
+3.3
+
+Uso de memória
+
+Uma parte muito importante da comparação dos algoritmos implementados é analisar
+seu consumo de memória, já que além de ser um fator proibitivo para muitos computadores
+pessoais também pode influenciar a performance de um algoritmo caso fique no limite
+da memória disponível. Os valores presentes nas tabelas abaixo foram obtidos através
+do programa /usr/bin/time -v do Linux, exceto para o Algoritmo da Tabela no caso das
+árvores lineares.
+
+3.3.1
+
+Árvores lineares
+
+Observando a quantidade necessária de memória para preprocessar árvores lineares
+com cada um dos algoritmos pode-se ver porque o Algoritmo da Tabela é inviável para
+este caso do problema, já que atingiria quantidades absurdas devido à sua complexidade
+quadrática. O Algoritmo dos Ponteiros apresenta uma quantidade de memória utilizada
+maior que o Algoritmo da Pré-ordem, como esperado, já que o primeiro tem uma constante
+que multiplica sua complexidade.
+
+25
+3.3 | USO DE MEMÓRIA
+
+Nós
+150K
+300K
+600K
+1.2M
+2.4M
+4.8M
+7.2M
+9.6M
+10.8M
+14.4M
+19.2M
+21.6M
+
+Trivial
+0.017
+0.031
+0.059
+0.11
+0.22
+0.45
+0.67
+0.90
+1.01
+1.35
+1.80
+2.02
+
+Tabela *
+44
+176
+704
+2816
+11264
+45056
+101376
+228096
+513216
+1154736
+2598156
+3259126
+
+Ponteiros
+0.034
+0.066
+0.129
+0.256
+0.546
+1.09
+1.63
+2.17
+2.44
+3.26
+4.35
+4.89
+
+Pré-ordem
+0.028
+0.053
+0.104
+0.206
+0.410
+0.818
+1.12
+1.63
+1.75
+2.25
+3.26
+3.50
+
+Tabela 3.1: Uso de memória (em GB) de cada algoritmo para preprocessar árvores lineares.
+Os valores do Algoritmo da Tabela foram estimados, já que não é possível rodá-lo para estes
+tamanhos. Além disso, é importante notar que está incluso nestes valores a árvore em si, já que
+mesmo o Algoritmo Trivial, que não realiza preprocessamento nenhum, ainda precisa acessar a
+estrutura da árvore.
+
+3.3.2
+
+Árvores binárias
+
+Com os testes restringidos a árvores binárias, o Algoritmo da Tabela consegue realizar
+o preprocessamento sem estourar a memória da máquina utilizada, mas ainda apresenta
+uma quantidade significativamente maior que os outros algoritmos, o que pode se tornar
+um problema eventualmente para casos extremos. Além disso, todos os outros algoritmos
+também apresentaram um uso reduzido de memória, como esperado.
+Nós
+150K
+300K
+600K
+1.2M
+2.4M
+4.8M
+7.2M
+9.6M
+10.8M
+14.4M
+19.2M
+21.6M
+
+Trivial
+0.014
+0.026
+0.050
+0.096
+0.190
+0.377
+0.565
+0.753
+0.846
+1.12
+1.50
+1.69
+
+Tabela
+0.029
+0.057
+0.115
+0.232
+0.467
+0.945
+1.45
+1.95
+2.21
+2.97
+3.98
+4.48
+
+Ponteiros
+0.029
+0.042
+0.082
+0.162
+0.322
+0.640
+0.959
+1.27
+1.43
+1.91
+2.55
+2.87
+
+Pré-ordem
+0.016
+0.030
+0.057
+0.112
+0.221
+0.439
+0.670
+0.877
+0.989
+1.33
+1.75
+1.97
+
+Tabela 3.2: Uso de memória (em GB) de cada algoritmo para preprocessar árvores binárias. Note que está incluso nestes valores a árvore em si, já que mesmo o Algoritmo Trivial, que não
+realiza preprocessamento nenhum, ainda precisa acessar a estrutura da árvore.
+
+26
+3 | BENCHMARKS
+
+3.3.3
+
+Árvores quaternárias
+
+Nestes testes, é possível observar uma pequena redução da memória utilizada pelo Algoritmo Trivial e pelo Algoritmo da Pré-ordem, apesar de seu preprocessamento não depender
+do fator de ramificação da árvore e o Algoritmo dos Ponteiros viu um ganho também
+pequeno, já que a mudança de 𝑛 log2 (log2 𝑛) para 𝑛 log4 (log4 𝑛) não é tão expressiva. Isto
+indica que, para fatores de ramificação maiores ainda, a quantidade de memória utilizada
+pelos algoritmos deve se estabilizar não muito longe dos valores desta tabela.
+Nós
+150K
+300K
+600K
+1.2M
+2.4M
+4.8M
+7.2M
+9.6M
+10.8M
+14.4M
+19.2M
+21.6M
+
+Trivial
+0.014
+0.025
+0.047
+0.092
+0.181
+0.354
+0.537
+0.715
+0.804
+1.07
+1.42
+1.60
+
+Tabela
+0.024
+0.046
+0.093
+0.189
+0.381
+0.766
+1.15
+1.53
+1.72
+2.30
+3.07
+3.45
+
+Ponteiros
+0.022
+0.041
+0.080
+0.157
+0.312
+0.622
+0.931
+1.24
+1.39
+1.85
+2.47
+2.78
+
+Pré-ordem
+0.016
+0.029
+0.055
+0.109
+0.214
+0.429
+0.632
+0.847
+0.966
+1.31
+1.69
+1.87
+
+Tabela 3.3: Uso de memória (em GB) de cada algoritmo para preprocessar árvores quaternárias. Note que está incluso nestes valores a árvore em si, já que mesmo o Algoritmo Trivial, que
+não realiza preprocessamento nenhum, ainda precisa acessar a estrutura da árvore.
+
+3.4
+
+Conclusões e trabalho futuro
+
+Analisando os resultados fica evidente o quão importante é conhecer tanto a aplicação
+em questão quanto os recursos disponíveis, já que cada algoritmo tem méritos e defeitos
+que dependem do formato das árvores. O Algoritmo da Tabela é uma ótima escolha para
+aplicações em que a quantidade de consultas pesa muito mais do que o tempo de preprocessamento, já que este abre mão de performance a priori para responder as consultas o mais
+rápido possível; entretanto, também possui um custo proibitivo de memória conforme o
+fator de ramificação diminui, que pode torná-lo inviável até mesmo para workstations com
+grandes quantidades de memória. O Algoritmo Trivial se torna mais viável conforme o
+fator de ramificação aumenta e tem custo zero de memória e tempo de preprocessamento,
+porém não lida muito bem com seu pior caso de árvores lineares, levando tempos que
+tornariam qualquer aplicação ineficaz conforme o tamanho das árvores aumentam. Tanto
+o Algoritmo dos Ponteiros quanto o Algoritmo da Pré-ordem trazem soluções elegantes
+com boas complexidades tanto para o preprocessamento quanto para as consultas, porém
+de mais difícil compreensão; o primeiro leva a melhor nas consultas (exceto no caso de
+árvores lineares) ao passo que o segundo conta com o melhor preprocessamento de todos
+(a menos do Trivial, que não faz nada).
+
+27
+3.4 | CONCLUSÕES E TRABALHO FUTURO
+
+Numa continuação deste trabalho, seria interessante expandir o estudo para o caso
+do Problema do Ancestral de Nível dinâmico, no qual a árvore do problema pode ser
+modificada em tempo de execução. Logo de cara é fácil perceber que o Algoritmo Trivial
+funcionaria sem nenhuma adaptação, enquanto os outros teriam que gastar algum tempo
+reprocessando a árvore, o que leva a mais discussões interessantes. Além disso, seria
+bom testar os algoritmos com árvores não completas, talvez obtendo comparações mais
+condizentes com casos reais das aplicações do problema.
+
+29
+
+Apêndice A
+
+Testes de unidade com a biblioteca
+Catch2
+
+Para garantir a corretude dos algoritmos implementados neste trabalho, já estava
+decidido desde o início a utilizar alguma ferramenta para realizar testes que pudessem
+facilmente identificar erros nas implementações ao longo do ano. Depois de pesquisar
+bastante a biblioteca escolhida foi a Catch2 por ser header-only e facilitar o processo de
+rodar em outras máquinas sem precisar instalar nada. A sintaxe do framework fornecido
+pela biblioteca é bem organizada e foi de fácil utilização. No programa A.1 consta uma
+parte do código real dos testes do Algoritmo da Tabela, exemplificando quão simples é
+escrever testes de unidade bem separados por classe e tipo de teste, podendo criar diversos
+casos de teste, cada um com um setup diferente de variáveis e objetos.
+
+Para este estudo, cada algoritmo teve seus testes encapsulados dentro de casos de teste
+(TEST_CASE) enquanto cada tipo de teste dentro de cada algoritmo (árvores lineares, binárias
+e quaternárias) foram colocados dentro de suas próprias seções (SECTION). As asserções,
+que fazem o papel de garantir que algo realmente vale é feito através das macros REQUIRE,
+que checa igualdade entre dois valores e REQUIRE_THROW_AS, que verifica se uma função
+levantou a exceção que era esperada.
+
+30
+APÊNDICE A
+
+Programa A.1 Parte dos testes para o Algoritmo da Tabela.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+#include "../include/catch.hpp"
+#include "../../generators/generators.hpp"
+#include "../include/TestUtils.hpp"
+#include "../../code/include/TableAlgorithm.hpp"
+TEST_CASE ("Table algorithm", "[table]") {
+SECTION ("Binary Tree") {
+int n = 2178;
+vector<Node∗> nodes;
+build_balanced_kary_tree(n, 2, nodes);
+Tree ∗tree = new Tree(nodes.size(), nodes[0]);
+TableAlgorithm ∗table = new TableAlgorithm(tree);
+SECTION ("Has a query function") {
+for (int node = 0; node < n; node++) {
+for (int depth = 0; depth <= tree−>depth(node); depth++) {
+REQUIRE(table−>query(node, depth) == naive_check(tree, node, depth
+));
+}
+}
+SECTION ("Query function returns −1 if there is no answer") {
+REQUIRE(table−>query(1, tree−>size()) == −1);
+REQUIRE(table−>query(1, tree−>size()) == −1);
+}
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+
+SECTION ("Query function throws if negative depth") {
+REQUIRE_THROWS_AS(table−>query(1, −1), std::invalid_argument);
+}
+
+}
+
+}
+
+}
+
+SECTION ("Query function throws if invalid node") {
+REQUIRE_THROWS_AS(table−>query(−1, 0), std::invalid_argument);
+REQUIRE_THROWS_AS(table−>query(tree−>size(), 0), std::invalid_argument)
+;
+}
+
+31
+
+Referências
+[Catch2 s.d.] Catch2. url: https://github.com/catchorg/Catch2.
+[Bender e Farach-Colton 2002] Michael A. Bender e Martin Farach-Colton. “The
+level ancestor problem simplified”. Em: LATIN. 2002 (citado na pg. 8).
+[Euler 1741] Leonhard Euler. “Solutio problematis ad geometriam situs pertinentis”. Em: Commentarii Academiae Scientiarum Imperialis Petropolitanae 8 (1741),
+pgs. 128–140 (citado na pg. 2).
+[Farach e Muthukrishnan 1996] Martin Farach e S. Muthukrishnan. “Perfect
+hashing for strings: formalization and algorithms”. Em: Combinatorial Pattern
+Matching. Ed. por Dan Hirschberg e Gene Myers. Berlin, Heidelberg: Springer
+Berlin Heidelberg, 1996, pgs. 130–140. isbn: 978-3-540-68390-2 (citado na pg. 8).
+[Geary et al. 2006] Richard F. Geary, Rajeev Raman e Venkatesh Raman. “Succinct
+ordinal trees with level-ancestor queries”. Em: ACM Trans. Algorithms 2.4 (out. de
+2006), pgs. 510–534. issn: 1549-6325. doi: 10.1145/1198513.1198516. url: http:
+//doi.acm.org/10.1145/1198513.1198516 (citado na pg. 8).
+[Hopkins e Wilson 2004] Brian Hopkins e Robin J. Wilson. “The truth about königsberg”. Em: The College Mathematics Journal 35.3 (2004), pgs. 198–207. doi: 10.1080/
+07468342.2004.11922073. eprint: https://doi.org/10.1080/07468342.2004.11922073.
+url: https://doi.org/10.1080/07468342.2004.11922073 (citado na pg. 2).
+[Menghani e Matani 2019] Gaurav Menghani e Dhruv Matani. A Simple Solution to
+the Level-Ancestor Problem. 2019. arXiv: 1903.01387 [cs.DS] (citado na pg. 8).
+[Papamichail et al. 2014] Dimitris Papamichail, Thomas Caputi e Georgios Papamichail. “The level ancestor problem in practice”. Em: (fev. de 2014) (citado na
+pg. 8).
+[Sadakane e Grossi 2006] Kunihiko Sadakane e Roberto Grossi. “Squeezing succinct
+data structures into entropy bounds”. Em: Proceedings of the Seventeenth Annual
+ACM-SIAM Symposium on Discrete Algorithm. SODA ’06. Miami, Florida: Society
+for Industrial e Applied Mathematics, 2006, pgs. 1230–1239. isbn: 0-89871-605-5.
+url: http://dl.acm.org/citation.cfm?id=1109557.1109693 (citado na pg. 8).
+
+32
+REFERÊNCIAS
+
+[Yuan e Atallah 2009] Hao Yuan e Mikhail J. Atallah. “Efficient data structures
+for range-aggregate queries on trees”. Em: Proceedings of the 12th International
+Conference on Database Theory. ICDT ’09. St. Petersburg, Russia: ACM, 2009,
+pgs. 111–120. isbn: 978-1-60558-423-2. doi: 10.1145/1514894.1514908. url: http:
+//doi.acm.org/10.1145/1514894.1514908 (citado na pg. 8).
+
+

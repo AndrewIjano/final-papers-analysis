@@ -1,0 +1,2296 @@
+UNIVERSIDADE DE SÃO PAULO
+INSTITUTO DE QUÍMICA DE SÃO CARLOS
+
+CATALISADORES DE Ni SUPORTADOS EM Y2O3-SiO2 APLICADOS NA REAÇÃO
+DE REFORMA A VAPOR DE GLICEROL: ESTUDO DO EFEITO DO TEOR DE Y2O3
+NO SUPORTE
+
+ALINE PEREIRA ROQUE
+
+SÃO CARLOS - SP
+2016
+
+ALINE PEREIRA ROQUE
+
+CATALISADORES DE NI SUPORTADOS EM Y2O3-SIO2 APLICADOS NA REAÇÃO
+DE REFORMA A VAPOR DE GLICEROL: ESTUDO DO EFEITO DO TEOR DE Y2O3
+NO SUPORTE
+
+Monografia apresentada ao Instituto
+de Química de São Carlos da
+Universidade de São Paulo, para a
+obtenção do título de Bacharel em Química
+
+Orientação: Prof.ª Dr.ª Elisabete Moreira Assaf
+
+SÃO CARLOS – SP
+2016
+
+Dedicatória
+
+“Dedico este trabalho aos meus pais, Carlos e Inês, minha irmã, Camila, e ao meu
+noivo, Guilherme, que sempre estiveram ao meu lado, me apoiando em todas as
+decisões e acreditando sempre na minha vitória.”
+
+AGRADECIMENTOS
+
+ Primeiramente gostaria de agradecer aos meus queridos pais, Carlos e Inês, e
+minha irmã, Camila, pela base e suporte que me deram durante toda a minha vida,
+sempre me incentivando a dar o melhor de mim, ir atrás dos meus sonhos e sempre
+acompanhando minhas lutas;
+ Ao meu noivo Guilherme, que mesmo estando distante, me dá forças, incentivo e
+tem muitaaa paciência;
+ Ao Instituto de Química de São Carlos da Universidade de São Paulo pela
+infraestrutura oferecida para a realização do trabalho;
+ A professora Elisabete Moreira Assaf pela orientação, apoio e oportunidade de
+aprendizado no Laboratório de Catálise Heterogênea;
+ A Vivian Vazquez Thyssen pelo seu apoio, ajuda e paciência;
+ Ao pessoal do laboratório: Ana Maria, Débora, Fernando, Francielle, Gabriela,
+Kariny, Luciano e, novamente, Vivian;
+ Aos meus queridos amigos do ―Pelotão‖: Gizele, Regiane, Javier, Andrea,
+Guilherme, Raphael, Adilson, Regina, Denyze e Flávio, que sempre estiveram me
+dando força e dispostos a me ajudar;
+ A Gizele Martins e Regiane Kindler pela amizade e companheirismo na etapa final
+da minha graduação.
+
+RESUMO
+
+O uso de matéria prima renovável para produção de energia limpa vem sendo
+explorado como fonte alternativa para o suprimento da demanda energética mundial.
+A produção de biodiesel gera um volume considerável de glicerol como subproduto,
+sendo seu aproveitamento em diversas áreas, dentre elas a produção de H2 por
+meio de processos catalíticos, como por exemplo, pela reforma a vapor de glicerol
+(RVG). No presente trabalho, catalisadores de Ni suportados em SiO 2, Y2O3 e SiO2Y2O3 (com proporções mássicas de 10%, 30% e 50% de Y2O3 em SiO2) foram
+avaliados na reação de reforma a vapor de glicerol, com o intuito de verificar o efeito
+da carga de ítria no suporte sobre o desempenho catalítico. Os catalisadores foram
+preparados pelo método de impregnação aquosa utilizando teor mássico de 10% de
+Ni(II) e caracterizados pelas técnicas de energia dispersiva de raios X (EDX),
+fisissorção de nitrogênio (método B.E.T), difração de raios X (DRX) pelo método do
+pó e redução à temperatura programada com H2 (RTP-H2). Os catalisadores foram
+testados na reação de reforma a vapor de glicerol por um período de 5h em um
+reator de leito fixo tubular de quartzo a 600ºC em pressão atmosférica com vazão de
+entrada de 2,5mL/h, e razão molar da solução água/glicerol de 12:1, utilizando N 2
+como gás de arraste. Investigou-se a atividade, estabilidade e seletividade dos
+catalisadores na reforma a vapor de glicerol, buscando correlacioná-las com as
+propriedades físico-químicas dos catalisadores, exploradas nas análises de
+caracterização. Após as reações, os catalisadores foram submetidos à análise
+termogravimétrica para avaliação do carbono formado. O catalisador Ni/SiO 2
+apresentou 100% de conversão de glicerol e alto rendimento em H 2, porém, teve
+grande deposição de carbono durante a reação. O catalisador com teor mássico de
+30% Y2O3 em SiO2, mostrou o conjunto de resultados mais satisfatórios com 100%
+de conversão de glicerol, alta seletividade em H2 e menor produção de carbono
+(90% menos carbono que o obtido pelo catalisador Ni/SiO 2). Tal catalisador foi,
+então, testado por um período de 12h para que sua estabilidade fosse avaliada,
+mantivendo-se estável durante este intervalo.
+
+Lista de Figuras
+
+Figura 1 - Reação de transesterificação para obtenção do biodiesel......................12
+Figura 2 - Evolução anual da produção de biodiesel, da demanda compulsória e da
+capacidade nominal autorizada pela ANP no país.....................................................13
+Figura 3 - Principais setores que utilizam glicerol como matéria-prima em processos
+de fabricação de produtos..........................................................................................14
+Figura 4 - Esquematização de funcionamento de uma célula a combustível........ 15
+Figura 5 - Representação esquemática do perfil de uma reação com percurso
+catalítico e não catalítico............................................................................................16
+Figura 6 - Rendimentos em H2 obtidos em diferentes sistemas catalíticos em função
+da temperatura de reação..........................................................................................24
+Figura 7 - Esquematização de raios incidentes em um cristal com ocorrência de
+fenômenos de espalhamento e interferência.............................................................29
+Figura 8 - Padrão de Ag2O utilizado no tratamento de dados das análises de
+RTP............................................................................................................................33
+Figura 9 - Linha de reação utilizada para os testes catalíticos................................34
+Figura 10 - Difratogramas dos suportes...................................................................38
+Figura 11 - Difratogramas dos catalisadores............................................................39
+Figura 12 - Difratograma do suporte Y e catalisador NY.........................................40
+Figura 13- Perfis de RTP dos suportes com diferentes teores mássicos de
+Y2O3............................................................................................................................42
+Figura 14 - Perfis de RTP dos catalisadores com diferentes teores mássicos de
+Y2O3............................................................................................................................43
+Figura 15 - Rendimento em produtos gasosos obtidos para os catalisadores
+submetidos RVG.......................................................................................................47
+Figura 16 - Distribuição dos produtos gasosos obtidos ao longo do ensaio catalítico
+do catalisador N30YS por 12h a 600ºC.....................................................................49
+
+Lista de Tabelas
+Tabela 1 – Composição química dos suportes mistos e catalisadores.....................37
+Tabela 2 – Área específica dos suportes e dos catalisadores .................................41
+Tabela
+
+3
+
+–
+
+Consumo
+
+de
+
+H2
+
+nas
+
+análises
+
+de
+
+RTP
+
+dos
+
+suportes
+
+e
+
+catalisadores..............................................................................................................44
+Tabela 4 – Tabela 4. Rendimento médio em produtos gasosos, razão H 2/CO2, razão
+CO2/CO, conversão total do glicerol, conversão do glicerol em produtos gasosos,
+conversão do glicerol em produtos líquidos e carbono formado ao longo de 5h de
+reação.........................................................................................................................45
+Tabela 5 – Tabela 4. Rendimento médio em produtos gasosos, razão H 2/CO2, razão
+CO2/CO, conversão total do glicerol, conversão do glicerol em produtos gasosos,
+conversão do glicerol em produtos líquidos e carbono formado ao longo de 12h de
+reação.........................................................................................................................49
+
+Lista de Reações Apresentadas
+Reação 1 – C3H8O3(g) + 3H2O(g)  3CO2(g) + 7H2(g) .................................................18
+Reação 2 – C3H8O3(g)  3CO + 4H2(g) ......................................................................19
+Reação 3 – CO(g) + H2O(g)  CO2(g) + H2(g)...............................................................19
+Reação 4 – C3H8O3(g) + 5H2(g)  3CH4(g) + 3H2O(g) ..................................................19
+Reação 5 – C3H8O3(g) + 2H2(g)  2CH4 + CO + 2H2O................................................19
+Reação 6 – CO(g) + 3H2(g)  CH4(g) + H2O(g) .............................................................19
+Reação 7 – CO2(g) + 4H2(g)  CH4(g) + 2H2O(g) .........................................................19
+Reação 8 – CO2(g) + CH4(g)  2CO(g) + 2H2(g) ...........................................................19
+Reação 9 – CH4(g)  2H2(g) + C(s) ..............................................................................19
+Reação 10 – CO(g) + H2(g)  C(s) + H2O(g) .................................................................19
+Reação 11 – 2CO(g)  C(s) + CO2(g) .........................................................................19
+Reação 12 – Ag2O + H2  2 Ag0 + H2O....................................................................32
+
+Sumário
+Agradecimentos
+Resumo
+Lista de Figuras
+Lista de Tabelas
+Lista de Reações
+1 Introdução………………………………………………………………………………..11
+2 Revisão Bibliográfica…………………...……………………………………………...16
+2.1 Catálise Heterogênea…………………………………………………….…....16
+2.2 Reforma a vapor de glicerol (RVG) ……………………………………….…18
+2.3 Aspectos termodinâmicos da RVG…………………………………….….…20
+2.4 Catalisadores a base de Ni e formação de carbono………………….…....21
+2.5 Catalisadores suportados em SiO2………………………………….……….22
+2.6 Catalisadores promovidos em Y2O3………………………………….……...22
+3 Objetivos...............................................................................................................25
+4 Procedimento Experimental................................................................................26
+4.1 Preparação dos suportes e catalisadores………………………………......26
+4.2 Caracterização dos materiais……………………………………………....…26
+4.2.1 Energia dispersiva de raios x (EDX) …………………….….…..…27
+4.2.2 Difração de raios x (DRX) ………………………………………..…28
+4.2.3 Fisissorção de nitrogênio (B.E.T.)……………………………….….30
+4.2.4 Redução à temperatura programada com H2 (RTP-H2). …….…31
+4.3 Ensaios Catalíticos…………………………………………..……………...…34
+4.4 Caracterização dos catalisadores pós-reação……….....………..……...…36
+4.4.1 Análise termogravimétrica (ATG) …………………………….....…36
+5 Resultados e Discussão......................................................................................37
+5.1 Caracterização dos materiais…………………………….…………….…..…37
+5.1.1 Energia dispersiva de raios x (EDX) …………………………..…..37
+5.1.2 Difração de raios x (DRX)………………………………………......38
+5.1.3 Fisissorção de nitrogênio (B.E.T.) ………………………………....41
+5.1.4 Redução à temperatura programada com H2 (RTP- H2)………..42
+5.2 Ensaios catalíticos……………………………………………...……………...45
+6 Conclusão.............................................................................................................51
+7 Referências Bibliográficas..................................................................................52
+
+11
+
+1 INTRODUÇÃO
+
+Nas últimas décadas intensificou-se a preocupação a respeito das
+consequências da emissão de gases poluentes na atmosfera, principalmente óxidos
+de enxofre, carbono e nitrogênio, que são liberados durante a queima de
+combustíveis fósseis. Esses gases, quando presentes na atmosfera, causam o
+chamado efeito estufa (cujo maior responsável é o CO2) e a chuva ácida (causada
+pelos óxidos de enxofre e nitrogênio), que ocasiona o aumento da acidez das águas
+superficiais do oceano. (RHEIN et al., 2013).
+Ainda, fatores como a diminuição das reservas de combustíveis fósseis,
+reservas com localização geográfica limitada e instabilidades políticas e econômicas
+em seus países produtores, têm nos levado a buscar soluções diversificadas
+baseadas em fontes renováveis de energia visando a geração de combustíveis que
+não produzam poluentes atmosféricos ou que a mesma seja minimizada, bem como
+a diminuição da dependência econômica de fontes de energia a partir de
+combustíveis fósseis (IRIONDO et al., 2011; MAIA, 2012).
+O uso de biomassa vegetal para produção de biodiesel e álcool se destaca
+dentre as possibilidades para obtenção de energia. Estes compostos podem ser
+usados diretamente em motores à combustão e também podem ser utilizados como
+fontes de hidrogênio (H2) para aplicação em células a combustível – uma das formas
+de conversão de energia química em energia elétrica para produzir a chamada
+energia ―limpa‖ (HIRAI et al., 2005). Essas fontes alternativas de energia são mais
+vantajosas em relação às tradicionais por trazerem baixo risco ao meio ambiente
+promovendo uma neutralização na emissão do principal gás do efeito estufa, o CO2
+(SOBRINO; MONROY; PÉREZ, 2011).
+Cerca de 45% da energia e 18% dos combustíveis consumidos no Brasil já
+são provindos de fontes renováveis enquanto que no resto do mundo, apenas 14%
+da energia provem de fontes renováveis . O Brasil apresenta-se como pioneiro
+mundial no uso de biocombustíveis, alcançando uma posição almejada por muitos
+países que buscam fontes renováveis de energia como alternativas estratégicas ao
+petróleo. (Acesso à informação Agência Nacional do Petróleo, Gás Natural e
+Biocombustíveis. Disponível em https:anp.gpv.br. Acessado em 05 de maio de
+2016).
+
+12
+
+Os dois principais biocombustíveis utilizados no Brasil são o etanol, produzido
+a partir da cana-de-açúcar e, em escala crescente, o biodiesel, derivado de óleos
+vegetais ou de gorduras animais e utilizado em motores a diesel em qualquer
+concentração de mistura com o diesel mineral. (Acesso à informação Agência
+Nacional
+
+do
+
+Petróleo,
+
+Gás
+
+Natural
+
+e
+
+Biocombustíveis.
+
+Disponível
+
+em
+
+https://anp.gov.br. Acessado em 06 de maio de 2016).
+Uma das principais formas de obtenção do biodiesel no Brasil é a partir da
+reação de transesterificação, Figura 1. A cada 90m 3 de biodiesel produzido por
+transesterificação são gerados, aproximadamente, 10m3 de glicerol bruto como
+subproduto. Este valor pode variar de acordo com as condições de reação
+empregadas, bem como a espécie de planta a partir da qual o óleo é extraído.
+Desse modo, o grande excedente de glicerol, originário
+
+da reação de
+
+transesterificação, tem se tornado um problema para a produção do biodiesel,
+devido a altos custos relacionado à estocagem e manuseio do glicerol, Diante deste
+cenário, torna-se necessária a busca por novas aplicações para o seu
+aproveitamento com obtenção de produtos químicos de valor agregado (TAN; AZIZ;
+AROUA, 2013; IRIONDO et al., 2011).
+Figura 1. Reação de transesterificação para obtenção do biodiesel
+
+FONTE: SILVA, J. M; SORIA, M. A.; MADEIRA, L. M. Challenges and strategies for optimization of
+glycerol steam reforming process. Renewable and Sustainable Energy Reviews, v. 42, p. 11871213, 2015b.
+
+Em 2004 a implementação do programa ProBiodiesel, que visa a gradual
+substituição do diesel proveniente do petróleo pelo biodiesel, aumentou a
+quantidade de glicerol excedente no mercado. Em 2008, todo o diesel vendido teve
+
+13
+
+em sua composição 3% de biodiesel, passando para 4% em 2009, 5% em 2010,
+totalizando 325mil toneladas de glicerol produzido neste ano, estando em 7%
+atualmente. Com o gradual aumento da produção do biodiesel, como mostrado na
+Figura 2, também houve um aumento no excedente de glicerol (QUISPE;
+CORONADO; CARVALHO Jr., 2013).
+Figura 2. Evolução anual da produção de biodiesel, da demanda compulsória e da capacidade
+nominal autorizada pela ANP no país
+
+FONTE: AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS. Boletim
+mensal do biodiesel abril 2016. Disponível em: < http://www.anp.gov.br/>. Acesso em: 06 mai. 2016
+
+O glicerol é utilizado como matéria-prima para produção de uma grande
+variedade de produtos químicos (a maior parte associada à cosméticos e fármacos),
+Figura 3, e combustíveis. Porém, com a crescente demanda de biodiesel no
+mercado energético têm-se paralelamente maiores excedentes de glicerol que não
+são totalmente utilizados. Portanto, faz-se necessária a busca por novas aplicações
+que sejam de baixo custo para utilização desta matéria-prima (QUISPE;
+CORONADO; CARVALHO JR., 2013).
+
+14
+
+Figura 3. Principais setores que utilizam glicerol como matéria-prima em processos de
+fabricação de produtos.
+Cosmetícos/Sab
+oaria/Fármacos
+28%
+Resinas
+Alquídicas
+6%
+
+Revenda
+14%
+
+Outros
+10%
+Papel
+1%
+Ésteres
+13%
+
+Poliglicerina
+12%
+Alimentos/Bebi
+Filmes de
+das
+Celulose Tabaco
+8%
+3%
+5%
+FONTE: Adaptado de MOTA, C. J. A.; DA SILVA, C. X. A.; GONÇALVES, V. L. C. Gliceroquímica:
+novos produtos e processos a partir da glicerina de produção de biodiesel. Química Nova, v.32, n.3,
+p. 639-648, 2009.
+
+Uma possibilidade de aplicação do crescente excedente de glicerol é utilizá-lo
+como fonte de H2 a partir de reforma a vapor. A aplicação do glicerol no processo de
+produção de H2, com possível posterior aplicação em células a combustível, é uma
+promissora alternativa para utilização do subproduto gerado pela reação de
+transesterificação. Características como baixa volatilidade à temperatura ambiente e
+baixa toxicidade favorecem a utilização do glicerol como forte candidato a geração
+de H2 para aplicação em células a combustível.
+A vantagem da utilização do H2 como fonte de energia é datado de 1800,
+sendo a primeira célula à combustível desenvolvida em meados de 1839, com
+intensificação no interesse por volta de 1970 e 1980 com a crise energética e com
+os avanços tecnológicos, respectivamente (NIAZ; MANZOOR; PANDITH, 2015).
+Comparado a qualquer outro combustível, o H2 apresenta a mais alta energia
+por unidade de massa, sendo o seu poder energético correspondente a 2,5 vezes
+maior se comparado à energia liberada por um hidrocarboneto (gasolina, gasóleo,
+metano, etc) em uma combustão, sendo sua capacidade energética de
+34.500kcal.kg-1. Sendo assim, para satisfazer um consumo energético, a massa de
+H2 necessária é aproximadamente um terço da massa necessária de um
+hidrocarboneto (SANTOS; SANTOS, 2005; ABREU, 2011).
+
+15
+
+Figura 4. Esquematização de funcionamento de uma célula a combustível
+
+FONTE: ALDABO, R. Célula combustível a hidrogênio: fonte de energia da nova era. São Paulo:
+Artliber, 2004, 180p.
+
+Uma célula a combustível é composta pelos compartimentos anódico e
+catódico, separados por um eletrólito. Em contato com o eletrólito, em cada
+compartimento, há catalisadores específicos para quebras de ligações químicas. O
+combustível, no caso o H2, é oxidado no ânodo enquanto que o oxigênio é reduzido
+no cátodo. A reação completa-se com a circulação dos elétrons no circuito externo,
+que realiza o trabalho elétrico. O único combustível que oferece densidades de
+corrente satisfatórias para tal aplicação é o H2 (TICIANELLI; GONZALEZ, 2005).
+Este dispositivo destaca-se dentre as diferentes tecnologias para a geração de
+energia sustentável por produzir energia elétrica a partir de fontes renováveis com
+emissões de poluentes praticamente nulas. (FIERRO et al., 2005).
+Embora as vantagens da aplicação de H2 sejam vastas, ela também possui
+seus desafios. Dentre eles pode-se ressaltar o problema relacionado ao seu
+armazenamento e transporte, pois por se tratar de um gás de difícil liquefação,
+grandes tanques pressurizados são necessários para armazenar quantidades
+apreciáveis de combustível, tornando seu transporte perigoso, caro e com possíveis
+vazamentos (BOCKRIS, 2013).
+A reação de reforma a vapor de glicerol é apresentada como uma alternativa
+energética viável e sustentável, uma vez que utilização do glicerol excedente da
+reação de transesterificação diminuirá os impactos ambientais.
+
+16
+
+2 REVISÃO BIBLIOGRÁFICA
+
+2 1 Catálise heterogênea
+Segundo a IUPAC (iupac.org) catálise se define como sendo ―o fenômeno em
+que uma quantidade relativamente pequena de um material estranho à
+estequiometria – o catalisador – aumenta a velocidade de uma reação química sem
+ser consumido no processo‖.
+O catalisador tem como característica aumentar a velocidade dos processos
+introduzindo caminhos novos com energias de ativação de Gibbs menores, Δ‡G, não
+afetando a energia de Gibbs da reação global, ΔrG0, por tratar-se de uma função de
+estado (SHRIVER et al., 2008). Ele atua nas etapas intermediárias da reação
+catalítica, oferecendo um caminho mais fácil e energeticamente favorável para que a
+reação ocorra. Na Figura 5, compara-se a reação catalítica com a reação na
+ausência de catalisador, uma vez que o estado inicial e o final são iguais nos dois
+processos. Na reação catalisada, o catalisador pode favorecer uma entre várias
+reações possíveis, propriedade essa designada de seletividade que depende do
+catalisador utilizado (FIGUEIREDO E RIBEIRO, 1987).
+Figura 5. Representação esquemática do perfil de uma reação com percurso catalítico e não
+catalítico.
+
+FONTE: Adaptado: HOUSECROFT, C. E.; SHARPE, A. G. Homogeneous and heterogeneous
+catalysis. In: Inorganic Chemistry. England: Pearson Education Limited, 2005 p. 786-812.
+
+17
+
+No geral, partindo-se dos mesmos reagentes haverá diversas reações
+termodinamicamente possíveis, sendo que diferentes catalisadores podem favorecer
+a geração de produtos diferentes. Para cada caso, o catalisador favorece uma entre
+várias reações termodinamicamente possíveis, promovendo ou não o processo
+desejado. Um bom catalisador, para ser industrialmente aplicado, deve reunir três
+principais propriedades: atividade (aumento da velocidade da reação, por exemplo),
+seletividade (habilidade de formar um produto em particular) e estabilidade (estável
+a altas temperaturas, por exemplo) (DROGUETT, 1983; CAMPBELL,1988).
+A catálise heterogênea diferencia-se da catálise homogênea pela fase em que
+o catalisador e reagente se encontram. Quando os reagentes estão dispersos na
+mesma fase, diz-se que é uma catálise homogênea, enquanto que se os reagentes
+constituem uma fase separada do catalisador a catálise é heterogênea. Neste caso,
+a reação química ocorre na interface entre as fases sendo esta interface um
+importante fator para o processo (AVERY, 1982).
+Na superfície do catalisador, a maioria das interações químicas entre uma
+molécula adsorvida e o adsorvente ocorre em uma pequena fração do sólido. Sendo
+assim, as reações químicas dependem fortemente das estruturas e arranjo espacial
+do sólido, e a sua velocidade será, em princípio, proporcional a área da superfície (a
+velocidade depende da concentração dos reagentes em contato com a superfície)
+(CALLISTER, 2007).
+A preparação e caracterização de novos catalisadores heterogêneos são de
+grande interesse para o desenvolvimento de novos processos para a indústria
+química. A maioria dos catalisadores industriais é constituído por um sólido de alta
+área superficial em que um componente ativo, o metal, é distribuído na forma de
+partículas nanométricas, sendo seu desempenho uma função direta de sua natureza
+química e/ou de sua estrutura (KIRUMAKKI et al., 2006). O catalisador heterogêneo
+pode conter aditivos dispersos em sua superfície de forma a assistir sua atuação
+catalítica por aumentar sua estabilidade. Tais aditivos, chamados de promotores
+catalíticos, auxiliam no desempenho da atividade catalítica (comparativamente à
+reação realizada sem ele) melhorando sua atividade, estabilidade ou seletividade
+para reação desejada (CIOLA, 1981).
+
+18
+
+2.2 Reforma a vapor de glicerol (RVG)
+
+A reação de reforma a vapor de glicerol ainda é pouco estudada, se
+comparada a reações de reforma de etanol, metano e metanol, porém se apresenta
+como alternativa energética promissora visto que a utilização do glicerol como
+matéria-prima para produção de H2 se mostra vantajosa uma vez que diminuiria a
+sua eliminação e os custos associados ao seu tratamento, valorizando, assim, o
+biodiesel (SILVA et al., 2016).
+A reação do glicerol com vapor d´água gera H2 e CO2, como principais
+produtos, Reação 1. O principal objetivo desse processo é a produção máxima de H 2
+e CO2 em relação à quantidade de glicerol alimentado.
+C3H8O3(g) + 3H2O(g)  3CO2(g) + 7H2(g)
+
+ΔHr298K = 128kJ.mol-1
+
+(Reação 1)
+
+A reação global de produção de H2 a partir da reforma a vapor de glicerol
+produz até 7mols de H2 para cada 1mol de glicerol consumido. Observa-se que a
+reação de reforma do glicerol é altamente endotérmica, portanto altas temperaturas
+de reação favorecem a sua conversão (ADHIKARI et al., 2007). A RVG se destaca,
+quando comparada a reações de reforma de outros compostos, por fornecer uma
+maior quantidade de H2 gerado por mol de glicerol consumido.
+De acordo com as condições reacionais – temperatura, pressão, razão
+água/glicerol e tipo do catalisador - outros subprodutos podem ser produzidos
+durante a reação: monóxido de carbono (CO), metano (CH 4), acetaldeído
+(CH3CHO), eteno (C2H4), entre outros (FARRAUTO et al., 2003). Entretanto, o CO
+mesmo que presente em baixa concentração pode bloquear a superfície do
+eletrocatalisador presente na célula a combustível, fazendo com que haja a perda da
+atividade eletrocatalítica e a diminuição do desempenho e vida útil da célula (SCOTT
+et al., 1999).
+A Reação 1 pode ser interpretada como a combinação da decomposição
+direta do glicerol, Reação 2, com a reação deslocamento gás-água (reação ―shift‖),
+Reação 3 (SILVA; SORIA; MADEIRA, 2015b):
+C3H8O3(g)  3CO + 4H2(g)
+
+ΔHr0 = 251kJ.mol-1
+
+(Reação 2)
+
+CO + H2O  CO2 + H2
+
+ΔHr0 = -41kJ.mol-1
+
+(Reação 3)
+
+19
+
+Em princípio ocorre à decomposição do glicerol em 3mols de CO e 4mols de
+H2 e, posteriormente, esses 3mols de CO gerado podem ser aproveitados para
+obtenção de mais 3mols de H2. Desse modo, além dos 4mols gerados pela
+decomposição do glicerol, a reação ―shift‖ é responsável pelos 7mols de H 2 finais
+possíveis de serem obtidos na reforma.
+A decomposição do glicerol possui um complicado processo em série, sendo
+acompanhada por uma série de reações que ocorrem em paralelo, envolvendo
+diversas etapas de desidrogenação/hidrogenação, isomerização, polimerização de
+reações intermediárias, quebra de ligação C-C e C-O (KOUSI et al., 2016). Desse
+modo, as Reações 2 e 3 podem ser acompanhadas por outras reações (4-12), tais
+como:
+C3H8O3(g) + 5H2(g)  3CH4(g) + 3H2O(g) (metanação via glicerol)
+
+(Reação 4)
+
+C3H8O3(g) + 2H2(g)  2CH4 + CO + 2H2O (hidrogenólise do glicerol)
+
+(Reação 5)
+
+CO(g) + 3H2(g)  CH4(g) + H2O(g) (metanação via óxido de carbono)
+
+(Reação 6)
+
+CO2(g) + 4H2(g)  CH4(g) + 2H2O(g) (metanação via dióxido de carbono)
+
+(Reação 7)
+
+CO2(g) + CH4(g)  2CO(g) + 2H2(g) (reação de decomposição do metano)
+
+(Reação 8)
+
+CH4(g)  2H2(g) + C(s) (reação de decomposição do metano)
+
+(Reação 9)
+
+CO(g) + H2(g)  C(s) + H2O(g) (deposição de coque)
+
+(Reação 10)
+
+2CO(g)  C(s) + CO2(g) (reação de Bouduard)
+
+(Reação 11)
+
+Teoricamente, como já mencionado, a partir de 1mol de glicerol podem ser
+obtidos 7mols de H2, porém estudos mostram que os valores obtidos estão abaixo
+desse limite, consequência da presença de CO e CH4 no meio reacional que conduz
+às reações paralelas de formação de metano por meio de hidrogenólise do glicerol
+(Reação 5), via monóxido de carbono (Reação 6) e também via dióxido de carbono
+(Reação 7) (SILVA; SORIA; MADEIRA, 2015b; IRIONDO et al., 2009; THYSSEN;
+ASSAF, 2014; THYSSEN; MAIA; ASSAF, 2013; THYSSEN; MAIA; ASSAF, 2015).
+
+2.3 Aspectos termodinâmicos da RVG
+A RVG é um processo altamente endotérmico (ΔH0 > 0), portanto é
+necessário que uma alta energia seja fornecida ao sistema, desse modo o processo
+é favorecido a altas temperaturas. Silva, Soria e Madeira (2015b) defendem que
+
+20
+
+quanto maior a temperatura de reação, maior é a produção de H2, sendo que os
+produtos CH4, CO e CO2 também são afetados por essa variação. Em temperaturas
+baixas é observada a produção de H2, CO2 e CH4 como produtos majoritários, fato
+que pode estar relacionado à reação de deslocamento gás-água e a reação de
+metanação, ambas exotérmicas (-44kJmol-1 e -165kJmol-1, respectivamente), e
+favorecidas em meios reacionais de menor temperatura.
+Estudos sobre a RVG realizados por Dou et al. (2009), num intervalo de
+temperatura de 400 a 700ºC, mostraram que a produção de H 2 é maior conforme a
+temperatura do meio racional aumenta, enquanto que a formação de CH 4 torna-se
+insignificante acima de 500ºC. Os autores propõem que as reações de reforma a
+vapor de glicerol sejam realizadas em torno da temperatura de 500ºC.
+Thyssen, Maia e Assaf (2015) avaliaram os efeitos de diferentes temperaturas
+na reação de reforma a vapor de glicerol em catalisadores de Cu-Ni suportados em
+-Al2O3 e SiO2. O sistema foi submetido a temperaturas de 500ºC, 600ºC e 700ºC e
+foi observado o favorecimento a decomposição térmica do glicerol (Reação 2) para
+maiores valores de temperatura, havendo uma maior formação de CO e H 2 a 700ºC
+do que a 500ºC e 600ºC.
+A razão molar dos reagentes (água/glicerol) também possui grande influência
+na produção de H2, tanto em rendimento, quanto na seletividade. Espera-se, pelo
+princípio de Le-Chatelier, que quanto maior a razão água/glicerol, maior será o
+deslocamento do equilíbrio na reação de RVG (Reação 1) com consumo do excesso
+de água para formação de H2. Foi observado que o rendimento em H2 aumenta para
+razões de água/glicerol de 4 a 15, independente da temperatura utilizada (SILVA;
+SORIA; MADEIRA, 2015b).
+Para prevenir a formação de carbono (Reações 9, 10, 11 e 12) na superfície
+do catalisador Adhikari et al. (2007) e Authayanun et al. (2011) defendem que altas
+razões água/glicerol e temperaturas devem ser utilizadas. Ainda, estudos mostram
+que para razões água/glicerol acima de 5 a formação de carbono é inibida no
+intervalo de temperatura entre 550-1000ºC.
+Silva, Soria e Madeira (2015a), avaliaram o efeito que pressões de 1-5atm
+têm sob o rendimento de H2 e CH4 na RVG. Eles observaram que o rendimento de
+H2 em condições de alta pressão diminui devido à influência desta variável nas
+reações de metanação (Reação 6 e 7), deslocando- as para direita e favorecendo a
+produção de CH4 e o consumo H2, com consequente diminuição do rendimento do
+
+21
+
+mesmo. O uso de pressões menores do que a atmosférica seria desejável,
+entretanto, são mais difíceis de atingir e, consequentemente, dispendiosos para
+aplicações em escala industrial. Uma alternativa para se alcançar pressões baixas é
+o uso de gás de arraste para a mistura reacional, diluindo os reagentes e, desse
+modo, diminuindo suas pressões parciais.
+
+2.4 Catalisadores a base de Ni e formação de carbono
+
+Catalisadores baseados em Ni são extensamente utilizados nos processos de
+reforma a vapor devido, principalmente, ao seu baixo custo, se comparados aos
+metais nobres (Ru, Rh, Pd e Pt), e à sua eficiência em reações de reforma por ser
+seletivo a clivagem de ligações C-C.
+Apesar de seu baixo custo e alta atividade um dos maiores desafios de se
+utilizar catalisadores de Ni em reações de reforma está relacionado à sua rápida
+desativação pela deposição de carbono em sua superfície e sinterização da fase
+ativa, devido às altas temperaturas de reação utilizadas (FIERRO et al., 2005)
+Para os catalisadores baseados em Ni é esperada a formação de C
+filamentoso ao longo do tempo de reação. Este C é depositado na interface
+suporte/fase ativa formando um filamento separando Ni metálico e o suporte. Essa
+formação e acúmulo de carbono pode ocorrer até a desativação do catalisador por
+perda da fase ativa (TRIMM, 1999).
+A formação de C pode ocorrer pela decomposição do CO levando a CO 2 e C,
+chamada reação de Boudouard (Reação 9), também pela reação de deposição de
+carbono (Reação 10), ou ainda, pela reação de decomposição do CH 4 (Reação 11).
+Uma possível solução para minimizar a formação de carbono, é a utilização
+de relações não estequiométricas de água/glicerol (3:1) (Reação 1), pois quanto
+maior a relação água/glicerol, menor é a deposição de carbono (ADHIKARI et al.,
+2007).
+Segundo Trimm (1999) a gaseificação do carbono pode ser acelerada pelo
+uso de metal alcalino ou suporte contendo metal alcalino, pois a presença destes
+aditivos básicos nos catalisadores facilita a interação do oxigênio com espécies de
+carbono adsorvidas na superfície, acelerando a oxidação do carbono a CO e/ou
+CO2.
+
+22
+
+2.5 Catalisadores suportados em SiO2
+Os suportes catalíticos constituem a maior parte do catalisador e são
+materiais que sustentam a fase ativa, possuindo, no geral, alta área superficial
+específica. Do ponto de vista catalítico, o suporte pode apresentar pequena ou
+nenhuma atividade em relação à reação considerada (FIGUEIREDO E RIBEIRO,
+1987).
+Os suportes catalíticos, com elevada área superficial específica, proporcionam
+uma distribuição mais uniforme das espécies ativas; auxiliam na estabilidade do
+catalisador, evitando a sinterização (aglomeração de partículas) da fase ativa por
+efeito da temperatura, podendo ainda melhorar a atividade ou seletividade, bem
+como a resistência a formação de coque (SZABÓ E KALLÓ, 1976).
+Dentre os suportes utilizados em reações de reforma a vapor pode-se
+destacar a SiO2 sintética amorfa por ser inerte em reações catalíticas. Um dos
+motivos pelos quais a sílica é bastante utilizada é por sua elevada área específica
+que proporciona uma maior área de contato no meio reacional e possivelmente
+maior disponibilidade no número de sítios ativos para que ocorram as reações
+desejadas. Entretanto, foi observado em muitos estudos, que a SiO 2 não apresenta
+uma boa interação com a fase ativa do catalisador, o que poderia favorecer a
+sinterização do metal, bem como a deposição de carbono durante a reação; sendo,
+talvez, relevante uma modificação no material com a adição de algum promotor que
+melhore essa propriedade do suporte. (THYSSEN, 2016; THYSSEN; MAIA; ASSAF,
+2015)
+
+2.6 Catalisadores promovidos em Y2O3
+Os promotores catalíticos são aditivos adicionados ao catalisador de modo a
+melhorar seu desempenho catalítico. Os promotores podem auxiliar na não
+aglomeração de partículas e crescimento de cristais metálicos facilitando a
+dispersão da fase ativa sobre o suporte, bem como na interação entre eles. A adição
+de promotores básicos ao catalisador auxilia na dissociação da H 2O e CO2 com
+mudança na cinética da reação, retardando a deposição de carbono na superfície do
+catalisador que pode minimizar a desativação.
+
+23
+
+Já em alguns casos, a interação entre o promotor e a fase ativa pode resultar
+em formação de solução sólida que é caracterizada pela adição de impurezas
+atômicas à estrutura do metal resultando em uma nova fase, porém mantendo-se a
+estrutura do cristal. A solução sólida é formada apenas se os dois componentes
+tiverem algumas propriedades semelhantes entre si como tamanho atômico,
+estrutura cristalina, eletronegatividade e suas valências (CALLISTER, 2007).
+O Y2O3, importante metal óxido de caráter básico, tem sido bastante utilizado
+em diversas áreas por apresentar estabilidades térmicas e químicas (LIU e HE,
+2011). Estudos indicam que a adição de Y2O3 no catalisador em reações de reforma,
+pode estar diretamente relacionada com a mobilidade do oxigênio no catalisador,
+melhorando a atividade catalítica pelo aumento da redutibilidade do catalisador
+(RAMÍREZ-HERNANDEZ et al., 2016).
+Bellido (2008) estudou a reação de reforma seca de metano em sistemas de
+Ni suportados em ZrO2 e em Y2O3. O estudo mostrou que as conversões de CH4 e
+CO2 aumentaram com teor mássico de Y2O3 no suporte até um valor de 8%,
+sofrendo decréscimo na produção quando o teor de Y2O3 é aumentado a 12%.
+Houve também evidências de formação de solução sólida NiO-Y2O3, sendo também
+reportado no trabalho de Asencios (2013).
+Hirai et al. (2005) estudaram a viabilidade da reação de reforma a vapor de
+glicerol utilizando catalisadores de Ru, Rh, Ni, Ir, Co, Pt, Pd e Fe suportados em
+Y2O3, ZrO2, CeO2, La2O3, SiO2, MgO e Al2O3, Figura 6. A conversão catalítica do
+glicerol em H2 no catalisador de Ru/Y2O3 apresentou seletividade de 90% para
+produção de H2 e conversão de 100% do glicerol utilizado e melhor desempenho e
+atividade durante um maior período de tempo. De acordo com o mesmo estudo, a
+ordem decrescente de atividade dos catalisadores suportados em Y 2O3 segue a
+seguinte sequência: Ru
+
+Rh > Ni > Ir > Co > Pt > Pd. Neste mesmo estudo, o
+
+catalisador Ru/Y2O3 submetido a reação de reforma a 600ºC obteve alto rendimento
+d H2, fato que pode estar relacionado a alta razão suporte/catalisador utilizada e o
+uso do promotor básico Y2O3, que possivelmente promoveu a reação de
+deslocamento gás-água.
+
+24
+
+Figura 6. Rendimentos em H2 obtidos em diferentes sistemas catalíticos em função da
+temperatura de reação.
+
+FONTE: SUBRAMANI, V.; BASILE, A.; VEZIROGLU, T. N. Compendium of hydrogen energy.
+Cambridge: Woodhead Publishing, v.1, 2015, 550p.
+
+25
+
+3. OBJETIVOS
+
+Diante do exposto e motivado pelas limitações e consequências envolvidas na
+utilização dos combustíveis fósseis, este trabalho teve como objetivo a preparação e
+caracterização de catalisadores de Ni suportados em SiO2, promovidos com
+diferentes teores de Y2O3, com intuito de avaliar a atividade e seletividade para
+produção de H2 e estabilidade do catalisador frente a reação de reforma a vapor de
+glicerol.
+
+26
+
+4 PROCEDIMENTO EXPERIMENTAL
+
+4.1 Preparação dos suportes e catalisadores
+
+Foram preparados suportes mistos Y2O3-SiO2 com teores mássicos de 10%,
+30% e 50% de Y2O3 em SiO2. Esses materiais foram obtidos a partir da impregnação
+aquosa de Y(NO3)2.6H2O em SiO2 comercial (Aerosil 200) previamente tratada a
+600°C por 2h sob fluxo de ar sintético. O Y(NO3)2.6H2O foi dissolvido em água com
+posterior adição da SiO2. O excesso de água foi removido por rota-evaporação a
+80°C, para realização da impregnação aquosa, com posterior secagem em estufa
+por 12h a 80°C. Os suportes mistos foram, então, obtidos pelo tratamento térmico a
+600°C por 2h com rampa de aquecimento de 10°Cmin -1, sob fluxo de ar sintético e
+pressão atmosférica. Os suportes foram então nomeados como 10YS, 30YS e
+50YS.
+Para fins comparativos, SiO2 comercial e Y2O3, previamente tratados a 600°C
+por 2h sob fluxo de ar sintético, foram utilizados como suportes puros e nomeados S
+e Y, respectivamente.
+Os catalisadores, com 10% em massa de Ni, foram obtidos pelo método de
+impregnação aquosa de Ni(NO3)23.H2O sobre os suportes preparados, seguindo os
+mesmos passos descritos acima. O tratamento térmico dos catalisadores foi feito a
+600°C, com rampa de aquecimento de 10°Cmin-1, por 3h, sob fluxo de ar sintético e
+pressão atmosférica. Os catalisadores foram então nomeados como NS, N10YS,
+N30YS, N50YS e NY, para 10%Ni/SiO2.
+.
+4.2 Caracterização dos materiais
+
+Os materiais obtidos após a síntese foram caracterizados pelas técnicas de
+fisissorção de nitrogênio (BET), energia dispersiva de raios x (EDX), difração de
+raios X (DRX), redução a temperatura programada (RTP). Por meio das
+caracterizações desses materiais é possível identificar estruturas e morfologias
+presentes, podendo-se assim adquirir informações relevantes que possam ajudar na
+compreensão do fenômeno catalítico.
+
+27
+
+4.2.1 Energia dispersiva de raios X (EDX)
+
+Através da técnica de espectroscopia por energia dispersiva de raios X podese obter a composição média dos elementos presentes no catalisador. Neste
+trabalho a técnica de EDX foi aplicada para obtenção da quantidade mássica de Ni e
+Y2O3 nos materiais preparados.
+A técnica de EDX é uma das variantes da espectroscopia por fluorescência de
+raios X e se baseia na análise dos raios X secundários emitidos pela amostra após a
+interação da mesma com elétrons de alta energia. Os átomos da amostra são
+irradiados com fótons primários de raios X de alta energia e, como resposta, os
+elétrons são ejetados na forma de fotoelétrons, criando lacunas nos orbitais destes
+átomos, tornando-os íons instáveis. Para retornar à sua estabilidade, elétrons de
+orbitais mais externos preenchem as lacunas deixada pelos elétrons ejetados,
+transição esta acompanhada por emissão de energia na forma de fóton de raios X
+secundário (resultante da interação dos fótons primários com a amostra), fenômeno
+conhecido por fluorescência. Cada orbital participante da transição corresponde a
+um nível de energia diferente, que está relacionado a uma energia específica. Desse
+modo, a energia (E) do fóton emitido é determinada pela diferença de energia entre
+os orbitais inicial (Einicial) e final (Efinal)p da transição, seguindo a relação abaixo:
+
+(Equação 1)
+
+onde h é a constante de Planck, c a velocidade da luz e λ o comprimento de onda
+característico de cada elemento, que é inversamente proporcional a energia. Desse
+modo, estes raios X gerados são selecionados por energia e passam por um
+detector para serem separados nos diferentes elementos presentes, sendo que cada
+elemento possui uma estrutura única, portanto os raios X emitidos são
+característicos a cada espécie. Além disso, a intensidade de emissão é proporcional
+a concentração do elemento na amostra sendo, então, possível a análise semiquantitativa dos elementos. O espectro obtido consiste numa série de picos
+representativos do tipo e da quantidade relativa de cada elemento na amostra
+(WACHS,1992).
+
+28
+
+As amostras dos suportes e catalisadores foram analisadas em um
+equipamento EDX LINK ANALYTICAL (Isis System Series 300), com detector de SiLi
+Pentafet, janela ultrafina ATW II (Atmosphere Thin Window), de resolução de 133eV
+à 5,9keV e área de 10mm2, acoplado a um microscópio eletrônico ZEISS LEO 440
+(Cambridge, England). Utilizou-se padrão de Co para calibração, feixe de elétrons de
+20kV, distância focal de 25mm, dead time de 30%, corrente de 2,82A e I probe de
+2,5nA. A área da amostra analisada foi de 110x110mm.
+
+4.2.2 Difração de raios X pelo método do pó (DRX)
+
+Além dos processos de absorção e emissão de raios X, processos não
+destrutivos como a difração de ondas também pode ser utilizado para obter
+informação a respeito da estrutura dos materiais. Cada material cristalino difrata os
+raios X em diferentes direções e intensidades, o que torna possível a identificação
+de sua estrutura cristalina (CIENFUEGOS; VAITSMAN, 2000).
+Raios X apresentam-se na forma de radiação eletromagnética que possui
+altas energias e pequenos comprimentos de onda (na ordem de angstroms).
+Quando um feixe de raios X atinge a superfície de um cristal em um ângulo θ, uma
+parte é espalhada pela camada dos átomos na superfície e a outra parte nãoespalhada penetra na segunda camada de átomos, onde novamente uma fração é
+espalhada, e o restante passa para a terceira camada sofrendo interferências
+sucessivas, como ilustrado na Figura 7. Dessa forma, as distâncias das ligações
+químicas atuam como ―fendas‖ para que este feixe de raios X possa sofrer
+interferência e carregar a informação cristalográfica da amostra. O efeito cumulativo
+do espalhamento pelos centros regularmente espaçados no cristal é a difração do
+feixe.
+
+29
+
+Figura 7. Esquematização de raios incidentes em um cristal com ocorrência de fenômenos de
+espalhamento e interferência.
+
+FONTE: CALLISTER, W. L. J. Materials Science and Engeneering: an Introduction. New York: John
+Wiley, 2007, ed. 7, p. 68.
+
+A Lei de Bragg, mostrada na Equação 2, relaciona o comprimento de onda do
+feixe de raios X e a distância inter-reticular com o ângulo de difração θ:
+
+(Equação 2)
+onde, θ é o ângulo de incidência do feixe, λ o comprimento de onda da radiação, n é
+a ordem de refração e d a distância entre os planos inter-reticulares.
+As condições necessárias para a difração de raios X são: (1) o espaçamento
+entre as camadas de átomos deve ser aproximadamente o mesmo que o
+comprimento de onda da radiação e (2) os centros espalhadores devem estar
+espacialmente distribuídos em um arranjo altamente regular (SKOOG; HOLLER;
+NIEMAN, 2006).
+A radiação refletida passa por um detector que transfere a informação em
+forma de difratogramas, cuja aparência se apresenta em um gráfico de intensidade
+de reflexão versus ângulo de Bragg (2θ) apresentando uma série de picos
+característicos a cada cristal.
+A técnica foi utilizada para identificação das fases cristalinas presentes nas
+amostras preparadas. As análises foram realizadas em um difratômetro Rigaku
+Multiflex a uma velocidade de varredura de 2ºmin -1, entre 2θ de 10º a 80º. A
+
+30
+
+radiação incidente foi a banda KαCu, com comprimento de onda médio igual a
+1,5418Å e potência de 40kV/40mA.
+Os difratogramas das amostras dos suportes e catalisadores foram
+comparados com padrões do software Crystallographica Search-Match (Oxford
+Cryosystems, 1996-2004) e com a literatura.
+
+4.2.3 Fisissorção de nitrogênio (método B.E.T.)
+
+As técnicas de adsorção gasosa envolvem, basicamente, a determinação da
+quantidade de gás necessária para que se forme uma monocamada adsorvida na
+superfície analisada. A área superficial específica pode influenciar na disponibilidade
+de sítios ativos em catalisadores suportados; paralelamente têm-se os fenômenos
+de adsorção dos reagentes e dessorção dos produtos que estão diretamente
+relacionados ao formato e dimensão dos poros, fenômenos tais que podem interferir
+em variáveis como seletividade em uma reação catalítica.
+A fisissorção de nitrogênio é a técnica mais utilizada para análise dessas
+características das áreas superficiais de sólidos particulados. Basicamente, a técnica
+determina a quantidade de nitrogênio adsorvido que é necessária para formar a
+monocamada sobre a superfície do material sólido, estimando-se a área superficial
+total a partir desta quantidade (GROEN, 2007). A quantidade de nitrogênio adsorvido
+é determinada a partir do volume do mesmo para diversas pressões relativas p/p o,
+na temperatura do nitrogênio líquido. Para os valores de p/p 0 têm-se os volumes de
+nitrogênio adsorvidos V, e pela equação B.E.T. elaborada por Braunauer Emmet e
+Teller, Equação 3 (CARDOSO, 1987), determina-se o volume de N2, adsorvido para
+formar a monocamada:
+
+(Equação 3)
+
+onde p0 é a pressão de saturação do N2 líquido, V é o volume de N2 adsorvido à
+pressão p/p0, Vm é o volume de N2 para cobrir a monocamada do adsorbato e C é a
+constante do sistema gás-sólido.
+A curva de
+
+versus (p/p0) é chamada isoterma de adsorção, onde os
+
+coeficientes linear e angular podem ser encontrados obtendo-se os valores de C e
+
+31
+
+Vm, respectivamente. Utilizando o Vm (cm3) obtido, determina-se a área superficial
+específica (S) do catalisador pela Equação 4 :
+
+(Equação 4)
+onde N é o número de Avogadro (6,023x10 23moléculas.cm-3), σ é a área de
+cobertura de uma molécula de N2 adsorvido e VM é o volume molar de N2
+(CARDOSO, 1987). A expressão
+
+corresponde à capacidade da monocamada
+
+(quantidade de absorbato para cobrir uma monocamada, mol.g-1).
+Assim, a área superficial S do sólido pode ser calculada desde a área
+superficial total ST e o peso da amostra w, conforme a Equação 5
+
+(Equação 5)
+
+As medidas foram realizadas na temperatura do N2 líquido (-196°C) com o
+equipamento Quantachrome NOVA 1000e. A amostra é colocada em um portaamostra onde é tratada a vácuo a temperatura de 190°C por 2h para
+desgaseificação. Então, é transferida para a unidade de adsorção, onde o nitrogênio
+líquido entra em contato com o porta-amostra e a análise se inicia com a passagem
+do gás adsorbato N2 na amostra. As pressões são variadas e o fenômeno de
+adsorção ocorre.
+
+4.2.4 Redução à temperatura programada com H2 (RTP-H2).
+
+A técnica de redução à temperatura programada com H2 (RTP-H2) foi utilizada
+para determinar as fases redutíveis presentes nas amostras e também o grau de
+interação do suporte com a fase ativa. A técnica utiliza a passagem de uma mistura
+gasosa (H2 como agente redutor diluído em um gás inerte) sobre a amostra, quando
+esta é submetida a um regime de aquecimento em condições de temperatura
+programada provocando a redução das espécies de compostos óxidos, o que
+permite a medida do consumo de H2, mediante um detector de condutividade
+
+32
+
+térmica. O funcionamento do detector de condutividade térmica (DCT) baseia-se no
+princípio de que um corpo aquecido perde calor numa velocidade que depende da
+composição do gás em seu redor. Portanto, usa-se a velocidade de perda de calor
+na medida da composição de um gás. Nesses detectores, o corpo quente é um
+filamento de um metal (Pt, W, Ni etc), encerrado dentro de um bloco metálico,
+aquecido por corrente constante. Com a passagem do gás de arraste sobre o
+filamento, o calor é dissipado com velocidade constante. Quando o gás de arraste
+muda de composição, ao longo da análise, a velocidade de perda de calor se altera,
+mudando assim a resistência do filamento. A velocidade das moléculas que batem
+no filamento é função da massa molecular e, como resultado, quanto menor a
+molécula, maior a sua velocidade e mais alta será sua condutividade térmica. A
+variação da resistência é facilmente medida por uma ponte de Wheatstone obtendose um sinal que é enviado ao registrador. O DCT é chamado de detector universal já
+que tem resposta para praticamente todas as substâncias com exceção do gás de
+arraste que neste detector deve ter condutividade térmica elevada, isto é, pequena
+massa molecular como o He e H2. (CIENFUEGOS; VAITSMAN, 2000; SKOOG;
+HOLLER; NIEMAN, 2006; COLLINS; BRAGA; BONATO, 2007).
+O perfil de RTP consiste de um ou uma série de picos obtidos pelo registro da
+variação da concentração do gás redutor na mistura de gases em função da
+temperatura do sistema. Cada pico representa um processo de redução, envolvendo
+um composto particular presente no sólido, caracterizado por uma temperatura de
+máximo consumo de H2. A área sob o pico será proporcional à quantidade total de
+H2 consumida na redução da espécie em questão. (CARDOSO; JORDÃO;
+MACHADO, 2001).
+Utilizou-se um padrão de redução de Ag2O, Figura 8, para calcular a
+quantidade molar de H2 consumido no processo de redução das amostras. Pela
+estequiometria da Reação 12, nota-se que 1mol de H2 é necessário para a redução
+de 1mol de Ag2O.
+Ag2O + H2  2 Ag0 + H2O
+
+(Reação 12)
+
+33
+
+Figura 8. Padrão de Ag2O utilizado no tratamento de dados das análises de RTP
+
+Sendo a área (A) sob o pico proporcional à quantidade total de H 2 consumida
+na redução da espécie, foi possível calcular o consumo de H 2, nH2, para cada
+espécie reduzida e a redutibilidade das amostras utilizando-se a redução do padrão
+de Ag2O.
+Considerando que a área sob o pico é de 25,16 e corresponde ao consumo
+de 1,3x10-4mol de H2, calculou-se a quantidade de H2 consumida na redução dos
+catalisadores (NH2) pela Equação 6:
+
+
+(Equação 6)
+
+em que Ac corresponde a área abaixo do pico de redução dos compostos óxidos do
+catalisador; n é o número de mols de H2 consumido na redução do padrão Ag2O; Ap
+é a área sob o pico de redução do padrão de Ag2O.
+Com a análise de RTP, além de identificar os óxidos presentes para
+complementar a caracterização dos catalisadores, pode-se observar o grau de
+interação suporte/fase ativa.
+Para realização das análises utilizou-se um equipamento Micromeritics
+Chemisorb 2750 com um detector de condutividade térmica. Em um reator de
+quartzo com formato de ―U‖ foi colocado 100mg de amostra e introduzido em um
+
+34
+
+forno com programação de temperatura. O aquecimento foi feito a uma taxa de
+10oCmin-1 sob fluxo de 25mLmin-1 de H2/Ar (10%v/v) até a temperatura máxima de
+1000oC.
+
+4.3
+
+Ensaios catalíticos
+
+Após a caracterização dos catalisadores, estes foram avaliados na reforma a
+vapor de glicerol em uma linha de reação mostrada na Figura 9, acoplada a um
+cromatógrafo a gás para identificação e quantificação, em linha, dos produtos
+gasosos formados durante as reações.
+Na montagem experimental, Figura 9, o reator encontra-se localizado
+verticalmente no interior de um forno tubular elétrico, equipado com controlador de
+temperatura
+
+e
+
+programador
+
+de
+
+velocidade
+
+de
+
+aquecimento
+
+e
+
+pode
+
+ser
+
+continuamente alimentado com os reagentes pré-aquecidos. Uma bomba de pistão
+foi utilizada para se obter um fluxo constante. A temperatura da reação é monitorada
+por termopares inseridos no leito catalítico.
+Figura 9. Linha de reação utilizada para os testes catalíticos
+
+FONTE: THYSSEN, V. V. Catalisadores Ni/MgO-SiO2 aplicados na reação de reforma a vapor de
+glicerol. 2016. 137f. Tese (Doutorado em Físico-Química) – Instituto de Química de São Carlos,
+Universidade de São Paulo, São Carlos, 2016.
+
+35
+
+Inicialmente, os catalisadores foram ativados a 600 oC por 30min, para
+obtenção do Ni0, que é a fase ativa do material, com uma corrente de H 2 ultra-puro.
+Após a ativação, o sistema foi limpo com fluxo de gás N2 ultra-puro por 30min. Os
+ensaios foram realizados em um reator tubular de quartzo numa razão molar
+água:glicerol de 12:1, com uma vazão de 2,5mLh -1 obtida a partir de uma bomba
+dosadora de alta precisão, e N2 foi utilizado como gás de arraste a 30mLmin-1. Para
+cada reação foi utilizada uma massa de 150mg de catalisador e os testes realizados
+a 600oC por 5h. O catalisador que apresentou melhor desempenho na RVG foi
+submetido a outro ensaio catalítico por um período de 12h sob as mesmas
+condições para avaliação de sua estabilidade.
+A fase gasosa foi analisada em linha em um cromatógrafo a gás VARIAN
+CHROMPACK modelo GC-3800, que possui dois canais (ambos com detector de
+condutividade térmica DCT): o primeiro canal possui duas colunas empacotadas em
+série, Porapak-N e Peneira Molecular 13X utilizando He como gás de arraste; o
+segundo canal, utiliza apenas uma Peneira Molecular 13X e N 2 como gás de arraste.
+O cromatógrafo é acoplado por uma interface ao computador, o qual por meio de um
+software adequado realiza, automaticamente, a injeção da amostra a ser analisada.
+Para análise dos produtos gasosos curvas analíticas foram feitas utilizando padrões
+de H2, CO, CO2 e CH4.
+O rendimento em H2 foi calculado baseando-se na Equação 7
+Equação 7
+onde ntotal é o número de mol de glicerol na alimentação da reação.
+Os rendimentos nos demais produtos gasosos pela Equação 8.
+Equação 8
+onde ni molproduzido é o número de mol do gás i formado e n total é o número de mol de
+glicerol na alimentação da reação.
+Os efluentes líquidos, contendo reagentes não convertidos e produtos
+obtidos, foram condensados e analisados em um cromatógrafo a gás (Shimadzu)
+com H2 como gás de arraste e coluna capilar FFAP, entre 60 oC e 220oC para a
+obtenção da conversão do glicerol.
+Baseando-se em curvas analíticas, a concentração do glicerol não reagido foi
+determinada em mol.L-1, multiplicando essa concentração pelo volume de efluente
+
+36
+
+coletado ao final da reação, determinou-se o número de mol de glicerol não reagido
+(nresidual) e a conversão total do glicerol (%XT) pela Equação 9.
+
+]x100
+
+Equação 9
+
+onde ntotal é o número de mol de glicerol na alimentação da reação.
+Desse modo, conversão do glicerol para produtos gasosos foi calculada pela
+Equação 10.
+(
+
+)
+
+Equação 10
+
+onde 3 é a relação estequiométrica da reação de RVG (Reação 1), onde 1 mol de
+glicerol origina 3 mols de gás C1.
+Então, conversão do glicerol para produtos líquidos foi calculada pela
+Equação 11.
+Equação 11
+
+4.4
+
+Caracterização dos catalisadores pós-reação
+
+4.4.1 Análise termogravimétrica (ATG)
+
+A análise termogravimétrica foi realizada com a finalidade de se quantificar a
+formação do carbono durante a reação de reforma de glicerol. Esta técnica
+acompanha a variação (perda ou ganho) de massa da amostra, em função da
+programação da temperatura. Os resultados são apresentados na forma de uma
+curva termogravimétrica (TG), em que se registra a variação de massa em função da
+temperatura, ou na forma da curva termogravimétrica derivada (DTG), em que se
+registra a primeira derivada da TG contra a variação da temperatura. (SKOOG et al.,
+2002)
+O aparelho utilizado foi METTLER TOLEDO, modelo TGA/DSC1, com o
+software STARe System e utilizou-se atmosfera de ar sintético sob faixa de
+temperatura de 50ºC a 1100ºC
+
+37
+
+5. RESULTADOS E DISCUSSÃO
+
+5.1. Caracterização dos materiais
+
+5.1.1. Energia dispersiva de raios X (EDX)
+
+Por meio da análise de EDX foi possível obter as porcentagens mássicas de
+Ni e Y2O3 presentes no suporte e nos catalisadores preparados com diferentes
+teores de Y2O3. A Tabela 1 apresenta os percentuais médios dos teores de Y2O3 e
+Ni, selecionando-se 3 pontos distintos das amostras
+Tabela 1. Composição química dos suportes mistos e catalisadores
+
+Quantidade (% mássica)
+Amostra
+
+Suporte misto (Y2O3)
+
+Catalisador (Ni)
+
+Valor nominal
+
+Valor real
+
+Valor nominal
+
+Valor real
+
+NY
+
+-
+
+-
+
+10
+
+11 ± 2
+
+N50YS
+
+50
+
+51 ± 1
+
+10
+
+12 ± 1
+
+N30YS
+
+30
+
+32 ± 3
+
+10
+
+13 ± 2
+
+N10YS
+
+10
+
+8±2
+
+10
+
+11 ± 2
+
+NS
+
+-
+
+-
+
+10
+
+11 ± 1
+
+Os resultados apresentados indicam que as composições reais de Y2O3 e Ni
+são próximas dos valores nominais 10, 30 e 50% para Y2O3 e 10% para Ni, para
+todas as amostras analisadas, evidenciando que a metodologia empregada para o
+preparo das amostras foi adequado. As amostras apresentaram pequenas
+diferenças, comparativamente aos valores teóricos, que são decorrentes do
+manuseio, pureza dos reagentes utilizados e manipulação dos reagentes durante a
+impregnação úmida.
+
+38
+
+5.1.2 Difração de raios X pelo método do pó (DRX)
+
+A partir da técnica de DRX foi possível identificar as fases cristalinas
+presentes nos suportes e catalisadores. As fases cristalinas dos suportes foram
+identificadas com padrões da base de dados do software Crystallographica SearchMatch (OXFORD, 1994-2004). A Figura 10 apresenta os difratogramas dos suportes.
+Figura 10. Difratogramas dos suportes
+
+y
+
+s = SiO2; y = Y2O3
+y
+
+Intensidade (cps)
+
+y
+y
+
+y
+
+y y y
+
+y
+
+y
+
+y
+
+y y
+
+y
+s
+
+Y
+50YS
+
+y
+
+30YS
+
+s
+
+10YS
+
+s
+
+S
+20
+
+40
+
+60
+
+80
+
+Ângulo de Bragg - 2
+
+Materiais amorfos são caracterizados pela ausência de ordenamento regular
+a longa distância em sua estrutura. No difratograma de um material amorfo a
+presença de picos alargados e pouco definidos é esperada, como é ilustrado no
+suporte utilizado SiO2 (s- PDF- 27-605), com um único pico largo e pouco definido
+em aproximadamente 21,5° (GAO et al., 2008; THYSSEN; MAIA; ASSAF, 2013).
+No difratograma do suporte puro Y2O3, observa-se a presença de picos bem
+definidos, referentes à espécie Y2O3, em aproximadamente 20,5°; 29°; 33,7°; 35,9°;
+39,8°; 43,4°; 48,5°; 53°; 57,6°; 60,5°; 71°; 78,4° e 81° (y – PDF 43-1036).
+Com a adição de Y2O3 na sílica, o pico referente à fase SiO2 some
+gradativamente ao aumento da quantidade de Y2O3 no suporte, sendo os picos
+referentes a fase Y2O3 praticamente imperceptíveis nos difratogramas dos suportes
+
+39
+
+mistos. A ausência de picos bem definidos da espécie Y2O3 nos suportes mistos
+sugere que houve uma boa dispersão dessa fase sobre a sílica e/ou baixa
+cristalinidade da espécie (GAO et al., 2008; THYSSEN; MAIA; ASSAF, 2013).
+A Figura 11 apresenta os difratogramas dos catalisadores.
+Figura 11. Difratogramas dos catalisadores.
+
+ny
+
+s = SiO2; n = NiO; ny = NiO-Y2O3
+
+ny
+
+Intensidade (cps)
+
+ny
+
+ny
+ny ny ny
+
+ny
+
+ny
+
+ny
+
+ny
+
+ny
+NY
+
+y
+y
+
+s
+
+N50YS
+
+n
+s
+
+N30YS
+
+n
+
+n
+
+n
+
+n
+
+n
+n
+
+s
+
+N10YS
+
+n
+
+n
+
+n
+NS
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Ângulo de Bragg - 2
+
+Além dos picos referentes à espécie SiO2 do suporte, foram identificados os
+picos da fase NiO na amostra NS (n - PDF 47-1049), em, aproximadamente, 37º,
+43º, 63º, 75º e 80º .
+Nota-se no difratograma do catalisador NY apenas picos correspondentes ao
+óxido Y2O3, que se encontram deslocados para maiores ângulos de Bragg,
+comparativamente ao suporte puro Y, em 2θ ~ 21º; 29,5º; 34,5º; 36,3º; 40,3º; 44º,
+49º; 54º; 58º; 61º; 71,5º e 79º, como mostrado na Figura 12.
+
+40
+
+Intensidade (cps)
+
+Figura 12. Difratograma do suporte Y e catalisador NY
+
+Y
+NY
+20
+
+40
+
+60
+
+80
+
+Ângulo de Bragg - 2
+
+Tais deslocamentos indicam a possível formação de solução sólida (ny) NiOY2O3 (WANG et al., 2008; XU; LIU; XU, 2016; RIBEIRO et al., 2011). Neste caso, a
+formação da solução sólida é possível, pois ambos os óxidos possuem a mesma
+estrutura cristalina cúbica de face centrada (FCC) e raios atômicos com diferenças
+entre eles próxima a 15% (CALLISTER, 2007; ASENCIOS, 2013).
+Com o auxílio
+
+dos
+
+softwares
+
+Crytallographica Search
+
+Match-Oxford
+
+Cryosystems e Checkcell, calculou-se o parâmetro de rede para o catalisador NY,
+com intuito de se investigar a formação de solução sólida. O valor teórico do
+parâmetro de rede do Y2O3 é de 10,604A contra o valor de 10,547A calculado para a
+amostra NY (LACROIX, 2006). Essa diminuição de 0,53%, mostra a contração do
+parâmetro de rede da estrutura do Y2O3 e evidência a difusão dos íons Ni(II), que
+possui menor raio atômico (0,78Å) na rede cristalina do Y2O3 (Y3+ raio atômico
+0,89Å) com formação de solução sólida.
+Observa-se nos catalisadores N10YS, N30YS e N50YS que a intensidade do
+pico correspondente ao NiO decresce conforme há aumento no teor de Y 2O3 sobre o
+suporte, o que pode ser atribuído a atuação da ítria na dispersão do NiO no suporte
+misto, e também ao Ni bastante difundido na matriz Y2O3 por formação da solução
+sólida (WANG et al., 2014; MA et al., 2012).
+
+41
+
+5.1.3 Fisissorção de nitrogênio (método B.E.T.)
+A Tabela 2 apresenta a área superficial dos suportes e dos seus respectivos
+catalisadores.
+Tabela 2. Área específica dos suportes e dos catalisadores
+
+Área Específica (m2g-1)
+Amostra
+Suporte
+
+Catalisador
+
+NS
+
+324
+
+212
+
+N10YS
+
+173
+
+154
+
+N30YS
+
+76
+
+113
+
+N50YS
+
+25
+
+85
+
+NY
+
+6
+
+16
+
+Observa-se que a adição de Y2O3 em SiO2 causa a diminuição da área
+superficial, fato possivelmente ligado a aglomeração de partículas na superfície, e
+obstrução parcial dos poros, possivelmente proveniente do método de impregnação
+(XU; LIU; XU, 2016).
+No catalisador NS pode-se observar uma redução no valor da área específica
+ao se impregnar o suporte S com Ni, de 324 para 212m 2g-1, fato que pode ser,
+novamente, atribuído à aglomeração de partículas durante o processo de
+impregnação.
+Com relação aos catalisadores N30YS, N50YS observa-se um aumento no
+valor da área específica com a impregnação do Ni nos suportes mistos, aumento de
+67% e 29%, respectivamente, comparativamente aos seus suportes. Este fato pode
+estar relacionado ao relatado por Wang et al. (2014), em que expõem que a melhor
+dispersão do Ni no suporte se dá pelo auxílio da espécie óxida Y2O3. Ainda que o
+catalisador N10YS também possua Y2O3 em sua composição, observou-se uma
+pequena diminuição na sua área específica com a impregnação do Ni, de 173 para
+154m2g-1, possivelmente devido à aglomeração de partículas. Este fato pode ser
+explicado, provavelmente, em virtude do menor teor mássico do promotor Y2O3, que
+mesmo auxiliando na dispersão do Ni nos outros catalisadores, neste caso é um teor
+insuficiente para que haja aumento da área específica pela dispersão do Ni.
+
+42
+
+O catalisador NY apresentou aumento na sua área específica em 37%,
+comparativamente ao seu suporte. Neste caso, a adição de Ni sobre o suporte Y2O3
+contribuiu para o aumento da área específica, de apenas 6m2g-1.
+
+5.1.4 Redução à temperatura programada com H2 (RTP-H2)
+O perfil de RTP do suporte Y, ilustrado na Figura 13, apresenta picos em
+466°C e em 513°C. De acordo com a literatura, espécies de óxidos de ítrio presentes
+na amostra sofrem redução parcial dentro da faixa de temperatura de 500-800°C
+(WANG et al., 2014). Segundo Sun et. al. (2008), as espécies sofrem essa redução
+parcial devido à presença de oxigênio localizado na superfície do suporte, ou seja,
+as moléculas de H2 consomem apenas os oxigênios disponíveis na superfície do
+material. Resultados similares foram encontrados por Passos et al. (2006).
+
+A
+
+amostra 50YS apresenta um pequeno pico de redução em 598°C correspondendo,
+também, à redução parcial da espécie Y2O3 (LIU; HE, 2011).
+Figura 13. Perfis de RTP dos suportes com diferentes teores mássicos de Y 2O3
+
+Intensidade / u.a.
+
+Y
+
+50YS
+
+30YS
+
+10YS
+S
+200
+
+400
+
+600
+
+800
+o
+
+Temperatura / C
+
+Já nos perfis RTP dos catalisadores, ilustrado na Figura 14, o pico presente
+entre 300ºC e 600ºC, em todos os catalisadores, pode ser atribuído a redução de
+espécies Ni(II) com fraca interação com o suporte, Ni(II)  Ni0, em que o Ni(II) se
+encontra possivelmente, na fase NiO. Esse tipo de NiO é conhecido como NiO
+―microcristalito‖ e tem sido relatado como free state da fase ativa de Ni devido sua
+
+43
+
+alta mobilidade. A presença de NiO free state no catalisador é uma das principais
+razões pelas quais a desativação de catalisadores baseados em Ni ocorre
+rapidamente, pois essas espécies possuem grande mobilidade e facilmente se
+agregam, migram, ocasionando o crescimento de partículas em altas temperaturas
+com diminuição da dispersão da fase ativa. (THYSSEN, 2016).
+Os picos que aparecem acima de 600ºC para os catalisadores N10YS,
+N30YS e N50YS, referem-se ao Ni(II) com uma interação moderada/forte com o
+suporte. Percebe-se que, à medida que se aumenta o teor de Y2O3 no suporte os
+picos referentes à redução dessa espécie, da amostra N10YS até a N50YS,
+permanecem bem próximos - de 676oC para o N10YS até 660ºC e 652oC para o
+N30YS e N50YS, respectivamente. Esta fase de Ni é descrita na literatura como
+bound state devido a sua forte interação com o suporte de SiO2 modificado com
+Y2O3, o que dificulta a agregação e a migração das partículas de Ni reduzidas e
+facilita a maior dispersão destas. (THYSSEN; MAIA; ASSAF, 2013; THYSSEN,
+2016).
+Figura 14. Perfis de RTP dos catalisadores com diferentes teores mássicos de Y 2O3
+
+Intensidade / u.a.
+
+NY
+
+N50YS
+N30YS
+N10YS
+
+NS
+200
+
+400
+
+600
+
+800
+O
+
+Temperatura / C
+
+O consumo total de H2 obtido para os suportes Y e 50YS e todos os
+catalisadores foi calculado com base no padrão de redução do Ag2O, utilizando-se
+as áreas dos picos de redução obtidos para cada amostra. O grau de redução foi
+
+44
+
+calculado considerando a temperatura de 600ºC, mesma temperatura em que as
+amostras foram ativadas e submetidas à reação catalítica, como mostra a Tabela 3.
+Observa-se uma diminuição do grau de redução a 600ºC nos catalisadores
+mistos com a adição e de Y2O3 no suporte, possivelmente devido presença de
+espécies da solução sólida NiO-Y2O3, que aumentam a interação Ni(II) com o
+suporte, e assim os picos de redução apareceram a temperaturas mais elevadas.
+Esperava-se que o catalisador NY tivesse um menor consumo de H 2 a 600ºC, já que
+em sua composição estão presentes apenas as espécies químicas que formam a
+solução sólida NiO-Y2O3, entretanto, observa-se que praticamente toda a redução
+ocorre antes de 600ºC. O maior grau de redução observado para o catalisador NY e
+menor grau para os restantes, sugere que, possivelmente, a SiO 2 (ausente no
+catalisador NY) auxilia na melhor interação do suporte misto com a fase ativa, tendo
+influência
+
+entre
+
+os
+
+componentes
+
+constituintes
+
+da
+
+solução
+
+sólida
+
+consequentemente, suas temperaturas de redução são mais altas.
+Tabela 3. Consumo de H2 nas análises de RTP dos suportes e catalisadores
+
+Consumo Real de H2
+(x10-5mol)
+Ni(II)
+
+Y2O3
+
+Consumo
+Teórico de H2
+(x10-5mol)
+
+NY
+
+13,4
+
+----
+
+13,4
+
+100%
+
+N50YS
+
+7,3
+
+----
+
+13,4
+
+54%
+
+N30YS
+
+8,4
+
+----
+
+13,4
+
+63%
+
+N10YS
+
+10,2
+
+----
+
+13,4
+
+76%
+
+NS
+
+13,4
+
+----
+
+13,4
+
+100%
+
+Y
+
+---
+
+3,12
+
+45
+
+7%
+
+50YS
+
+---
+
+1,96
+
+22,5
+
+9%
+
+Amostra
+
+Grau de
+redução à
+600ºC
+
+e,
+
+45
+
+5.2 Ensaios catalícos
+
+Os ensaios catalíticos frente à reação de reforma a vapor de glicerol foram
+realizados a fim de avaliar a produção de H2 bem como a distribuição dos produtos
+gasosos para cada catalisador.
+Os valores médios dos rendimentos em produtos gasosos obtidos na reação
+bem como a formação de carbono estão apresentados na Tabela 4 e o rendimento
+ao longo da reação ilustrado na Figura 15.
+Para comparação, foi realizado um teste catalítico sem catalisador. Neste
+teste, obteve-se alta conversão total do glicerol, 86%, sendo que deste total apenas
+13% foram convertidos em produtos gasosos e os restantes 73% em produtos
+líquidos, evidenciando que a RVG na ausência de catalisador apresenta baixo
+rendimento em produtos gasosos. Neste caso, só foi observada uma pequena
+produção de H2 e CO indicando que sem o catalisador a reação se dá por
+decomposição térmica do glicerol (Reação 2) (THYSSEN; ASSAF, 2014).
+Tabela 4. Rendimento médio em produtos gasosos, razão H2/CO2, razão CO2/CO, conversão
+total do glicerol, conversão do glicerol em produtos gasosos, conversão do glicerol em
+produtos líquidos e carbono formado ao longo de 5h de reação
+
+Catalisador
+
+H2
+
+CH4
+
+CO
+
+CO2
+
+H2/CO2
+
+CO2/CO
+
+XT
+
+XG
+
+XL
+
+C
+
+NY
+
+2,2
+
+0,1
+
+0,6
+
+0,6
+
+3,7
+
+1,0
+
+95
+
+43
+
+52
+
+0,12
+
+N50YS
+
+2,5
+
+0,1
+
+0,5
+
+0,7
+
+3,6
+
+1,4
+
+94
+
+43
+
+51
+
+0,26
+
+N30YS
+
+4,7
+
+0,1
+
+1,0
+
+1,4
+
+3,4
+
+1,4
+
+100
+
+83
+
+17
+
+0,19
+
+N10YS
+
+4,3
+
+0,1
+
+0,5
+
+1,5
+
+2,9
+
+3,0
+
+100
+
+70
+
+30
+
+0,34
+
+NS
+
+5,9
+
+0,1
+
+0,6
+
+2,0
+
+3,0
+
+3,3
+
+100
+
+90
+
+10
+
+1,35
+
+Sem catalisador
+
+0,4
+
+0,1
+
+0,3
+
+0
+
+---
+
+0
+
+86
+
+13
+
+73
+
+-
+
+-1
+
+Rendimento médio em produtos gasosos (mol prod./mol glicerol alim.), razão H 2/CO2 (molmol ), razão CO2/CO
+-1
+
+(molmol ), conversão total do glicerol (XT - %), conversão do glicerol em produtos gasosos (XG - %), conversão
+do glicerol em produtos líquidos (XL - %), carbono formado (mmol/h)
+
+Dos catalisadores testados ao longo de 5h de reação, o N10YS, N30YS e NS
+apresentaram os maiores rendimentos em H2 e, também, os maiores valores de
+formação de CO2, comparativamente aos catalisadores NY e N50YS. Isto pode ser
+
+46
+
+explicado pela conversão do CO e H2O em CO2 e H2 pela reação de deslocamento
+gás-água (Reação3). Em relação a razão CO2/CO, esperava-se obter um valor igual
+a 1, pois de acordo com a reação deslocamento gás-água (Reação 3) o equilíbrio
+levaria a um valor teórico igual a 1 (molmol-1), onde a cada mol de CO formado na
+reação de decomposição direta do glicerol (Reação 2) se reagido com H 2O, gera-se
+CO2 e H2. Todos os catalisadores apresentaram razão CO2/CO igual ou maior ao
+valor esperado se mostrando efetivos para tal conversão o que indica que o CO
+produzido na decomposição direta do glicerol (Reação 2) está sendo convertido a
+CO2 e H2 pela reação deslocamento gás-água (Reação 3).
+
+47
+
+Figura 15. Rendimento dos produtos gasosos obtidos para os catalisadores submetido à RVG
+
+48
+
+Pela reação de reforma a vapor de glicerol (Reação 1), tem-se que a razão
+teórica H2/CO2 seria de, aproximadamente, 2,3 (molmol-1). Entretanto, observa-se na
+Tabela 4 que todas as razões calculadas excedem o valor previsto em no mínimo
+21% do que seria obtido pela razão estequiométrica no equilíbrio, revelando maior
+produção de H2 em relação à produção de CO2. Isto indica que o excesso de H2O
+utilizado no meio reacional favorece a RVG e, consequentemente, a produção de H2.
+Um pequeno rendimento em CH4 (0,1mol prod/mol glicerol alim) foi observado
+para todos os catalisadores e pode ser explicado baseando-se nas reações de
+metanação (Reações 6 e 7), em que CO e CO2 seriam consumidos formando CH4.
+Entretanto, nas condições de excesso de água, as reações de metanação são
+deslocadas para a esquerda, com o CH4 sendo consumido para produzir CO e CO2.
+O baixo rendimento em CH4 também pode ser explicado pela sua reação de
+decomposição (Reação 9), formando H2 e C, sendo favorecida a 600ºC, temperatura
+na qual foram realizadas as reações.
+Pela Tabela 4 observa-se que todos os catalisadores tiveram alta conversão
+do glicerol, entretanto, somente com os catalisadores NS e N30YS o glicerol foi
+convertido a maiores porcentagens de produtos gasosos. Os catalisadores NY,
+N50YS
+
+e
+
+N10YS
+
+tiveram
+
+as
+
+maiores
+
+conversões
+
+a
+
+produtos
+
+líquidos,
+
+comparativamente ao NS e N30YS. Dentre os produtos líquidos possíveis de serem
+formados
+
+pode-se
+
+destacar
+
+a
+
+acetona,
+
+ácido
+
+propanóico,
+
+2-propanona,
+
+ciclopropanol, 2-haxanona, etanol, (MAIA, 2012; THYSSEN, 2016).
+O catalisador NY apresentou a menor formação de carbono, entretanto
+também apresentou baixo rendimento em H2; já para o catalisador NS observou-se a
+maior produção em H2, porém a maior formação de carbono. O catalisador que
+apresentou o melhor balanceamento entre rendimento em H2 e formação de carbono
+foi o N30YS.
+Estudos mostram que a adição de Y2O3 em uma quantidade ótima minimiza a
+deposição de carbono na superfície do catalisador, devido ao favorecimento à
+adsorção de H2O, CO2 e fragmentos de -OH (efeito ―spillover‖) na superfície do Ni.
+Desse modo, esses fragmentos de -OH , bem como a dissociação de H2O na
+superfície do Ni, que formam espécies reativas O* e OH*, interagem com o carbono
+depositado sobre a superfície catalítica liberando-o na forma de CO e CO2, evitando
+a deposição de carbono e possível desativação do catalisador (NOGUEIRA, 2014;
+LIU; WU; HE, 2014; BELLIDO, 2008).
+
+49
+
+Os catalisadores que apresentaram melhor atividade e rendimento em H2,
+aplicados à RVG, foram o NS e N30YS, porém apenas o último apresentou baixa
+formação de carbono, com 0,19mmol/h, contra 1,35mmol/h do NS. Assim sendo, o
+catalisador N30YS foi submetido à reação de reforma por um período de 12h para
+avaliação de sua estabilidade, sob as mesmas condições reacionais da reação
+catalítica de 5h.
+
+Teste de estabilidade com o catalisador N30YS
+Tabela 5. Rendimento médio em produtos gasosos, razão H2/CO2, razão CO2/CO, conversão
+total do glicerol, conversão do glicerol em produtos gasosos, conversão do glicerol em
+produtos líquidos e carbono formado ao longo de 12h de reação
+
+Catalisador
+
+H2
+
+CH4
+
+CO
+
+CO2
+
+H2/CO2
+
+CO2/CO
+
+XT
+
+XG
+
+XL
+
+C
+
+N30YS – 12h
+
+4,2
+
+0,1
+
+1,1
+
+1,2
+
+3,5
+
+1,1
+
+99
+
+83
+
+16
+
+0,15
+
+N30YS – 5h
+
+4,7
+
+0,1
+
+1,0
+
+1,4
+
+3,4
+
+1,4
+
+100
+
+83
+
+17
+
+0,19
+
+-1
+
+Rendimento médio em produtos gasosos (mol prod./mol glicerol alim.), razão H 2/CO2 (molmol ), razão CO2/CO
+-1
+
+(molmol ), conversão total do glicerol (XT - %), conversão do glicerol em produtos gasosos (XG - %), conversão
+do glicerol em produtos líquidos (XL - %), carbono formado (mmol/h)
+
+Figura 16. Distribuição dos produtos gasosos obtidos ao longo do ensaio catalítico do
+catalisador N30YS por 12h a 600ºC
+
+7
+H2
+
+Catalisador N30YS - 12h
+
+CO2
+
+CO
+
+CH4
+
+mol prod./mol de glicerol alim.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+2
+
+4
+
+6
+
+8
+
+Tempo de reação / h
+
+10
+
+12
+
+50
+
+Este catalisador manteve-se estável durante as 12h de reação. A razão
+H2/CO2 apresentou valor experimental de 3,5 (molmol-1) contra 2,3 (molmol-1)
+teórico, revelando maior produção de H2 do que CO2, fato diretamente relacionado
+ao excesso de H2O utilizado no meio reacional. A razão CO2/CO apresentou valor
+maior que 1molmol-1, o que indica que o CO produzido na reação de decomposição
+direta do glicerol (Reação 2) está sendo convertido em CO 2 e H2 na reação de
+deslocamento gás-água (Reação 3)
+Este catalisador levou a 99% de conversão do glicerol, dos quais a maior
+parcela foi em produtos gasosos e apenas 16% em produtos líquidos.
+Observou-se semelhança no rendimento médio em produtos gasosos
+comparativamente à reação realizada durante 5h, indicando que o catalisador se
+manteve igualmente ativo por 12h na conversão do glicerol. A formação de carbono
+também foi equivalente ao tempo de reação, com um pequeno decréscimo no valor
+de 0,19mmol/h da reação de 5h para 0,15mmol/h para a reação de 12h.
+
+51
+
+6. CONCLUSÃO
+
+Pelas análises de EDX pode-se evidenciar a eficácia do método de
+preparação dos suportes e catalisadores, apresentando pequenas diferenças entre
+os valores teóricos e experimentais.
+As análises de fisissorção de N2 mostraram uma diminuição da área
+específica do catalisador conforme aumentou o teor mássico de Y 2O3 no suporte.
+Porém, após a adição de Ni aos suportes, este contribui com o aumento da área.
+Nos difratogramas dos catalisadores, pode-se identificar a presença de
+solução sólida NiO-Y2O3 para as amostras NY, N50YS, N30YS e N10YS, bem como
+a atuação da Y2O3 como promotor catalítico de forma a favorecer a dispersão do Ni
+no suporte.
+As análises de RTP evidenciaram a existência de forte interação da fase ativa
+com o suporte nos catalisadores N10YS, N30YS e N50YS pela presença de picos
+de redução acima de 600ºC, enquanto que os catalisadores NS e NY apresentaram
+redução total até 600ºC, mesmo com a existência de solução sólida no catalisador
+NY, revelado nas análises de DRX. Isso indica que o catalisador que possui apenas
+Y2O3 ou SiO2 como suporte em sua composição não exibe uma interação tão forte
+com a fase ativa quanto os catalisadores que possuem ambos como aditivos.
+Observou-se que a adição Y2O3-SiO2 levou a maior interação do suporte com
+a fase ativa do catalisador, formando solução sólida NiO-Y2O3. Este fato pode ser
+observado nas análises de DRX e RTP através da ausência de picos de difração
+correspondentes a espécie NiO e pelas altas temperaturas de redução observadas
+para os catalisadores com suportes mistos, respectivamente.
+O catalisador que apresentou melhor desempenho na reação de reforma a
+vapor de glicerol foi N30YS, que demonstrou equilíbrio entre uma menor deposição
+de carbono e um bom rendimento em H2.
+
+52
+
+7 REFERÊNCIAS BIBLIOGRÁFICAS
+
+ABREU, A. J. Efeito da adição de CeO2 no catalisador Ni/Al2O3 aplicado as
+reações de reforma a vapor e com dióxido de carbono do metano. 2007.
+Dissertação (Mestrado) - Instituto de Química de São Carlos, Universidade de São
+Paulo, São Carlos, 2011.
+ADHIKARI, S.; FERNANDO, S.; HARYANTO, A.; Production of hydrogen by steam
+reforming of glycerin over alumina-supported metal catalysts. Catalysis Today, v.
+129, p.355-364, 2007.
+AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS.
+Boletim mensal do biodiesel abril 2016. Disponível em: < http://www.anp.gov.br/>.
+Acesso em: 06 mai. 2016.
+ALDABO, R. Célula combustível a hidrogênio: fonte de energia da nova era. São
+Paulo: Artliber, 2004, 180p.
+ASENCIOS, Y. J. O. Reações de reforma de biogás sobre catalisadores de NiOMgO-ZrO2 e NiO-Y2O3-ZrO2. 2013. 122f. Tese (Doutorado em Fisico-Química) –
+Instituto de Química de São Carlos, Universidade de São Paulo, São Carlos, 2013.
+AUTHAYANUN, A.; ARPORNWICHANOP, A.; PATCHARAVORACHOT, Y.;
+WIYARATN, W.; ASSABUMRUNGRAT, S. Hydrogen production from glycerol steam
+reforming for low- and high-temperature PEMFCs. International Journal of
+Hydrogen Energy, v.36, p. 267-275, 2011.
+AVERY, H. E. Cinética química básica y mecanismos de reacción. Barcelona:
+Reverte. 1982. 190 p.
+BELLIDO, J. D. A. Estudo de catalisadores de Ni suportados em ZrO2
+modificados aplicados em reações de reforma. 2008. 203f. Tese (Doutorado em
+Físico-Química) – Instituto de Química de São Carlos, Universidade de São Paulo,
+São Carlos, 2008
+BOCKRIS, J. O´M. The hydrogen economy: its history. International Journal of
+Hydrogen Energy, v.39, p. 2579-2588, 2013.
+CALLISTER, W. D. Materials Science and Engineering: an introduction. New
+York:John Wiley & Sons, 2007. 911p.
+CAMPBELL, I. M. Catalysis at surfaces. Londres: Chapman and Hall LTD, 1988,
+250p.
+CARDOSO, D. Introdução a catálise heterogênea. São Carlos: Editora da
+Universidade Federal de São Carlos, 1987. p.22.
+
+53
+
+CARDOSO, D.; JORDÃO, M. H.; MACHADO, F. J. In: 2º CURSO
+BEROAMERICANO SOBRE CARACTERIZAÇÃO DE CATALISADORES E
+ADSORVENTES. São Carlos, SP, Brasil, 2001.
+CIENFUEGOS, F.; VAITSMAN, D. Análise Instrumental. Rio de Janeiro:
+Interciência, 2000. 606 p.
+CIOLA, R. Fundamentos da catálise. São Paulo: Ed. Moderna Ltda, 1981, p.377.
+DOU, B.; DUPONT, V.; RICKETT, G.; BLAKEMAN, N.; WILLIAMS, P. T.; CHEN, H.;
+DING, Y.; GHADIRI, M. Hydrogen production by sorption-enhanced steam reforming
+of glycerol. Bioresource Technology, v. 100, p. 3540-3547, 2009.
+DROGUETT, S. E. Elementos de catálisis heterogênea. Washington, D.C.:
+Secretaría General de la Organización de los Estados Americanos, Programa
+Regional de Desarrollo Científico y Tecnológico, 1983. 116 p.
+FARRAUTO, R.; HWANG, S.; SHORE, L.; RUETTINGER, W.; LAMPERT, J.;
+GIROUX, T.; LIU, Y.; ILINICH, O. New material needs for hydrocarbon fuel
+processing: Generating hydrogen for the PEM fuel cell. Annual Review of Materials
+Research, v. 33, p. 1-27, 2003
+FIERRO, V.; AKDIM, O.; PROVENDIER, H.; MIRODATOS, C. Ethanol oxidative
+steam reforming over Ni-based catalysts. Journal of Power Sources, v. 145, p. 659666, 2005.
+FIGUEIREDO, J. L.; RIBEIRO, F. R.; Catálise heterogênea. Lisboa: Fundação
+Calouste Gulbenkian. 1989. p. 352.
+GAO, J.; HOU, Z.; GUO,J.; ZHU, Y.; ZHENG, X. . Catalytic conversion of methane
+and CO2 to synthesis gas over a La2O3-modified SiO2 supported Ni catalyst in
+fluidized-bed reactor. Catalysis Today, v. 131, n. 1-4, p. 278–284, fev. 2008.
+GROEN, J. C.; Mesoporous Zeolites Obtained by Desilication, Ph D Thesis, Delf
+University of Technology of Netherlands, 225f., 2007.
+HIRAI, T.; IKENAGA, NO.; MIYAKE, T.; SUZUKI,T. Production of hydrogen by steam
+reforming of glycerin on ruthenium catalyst. Energy & Fuels, v.19, p. 1761–1762,
+2005.
+HOUSECROFT, C. E.; SHARPE, A. G. Homogeneous and heterogeneous catalysis.
+In: Inorganic Chemistry. England: Pearson Education Limited, 2005 p. 786-812.
+IRIONDO, A.; CAMBRA, J. F. BARRIO, V. L. GUEMEZ, M. B.; ARIAS, P. L.;
+SANCHEZ-SANCHEZ, M. C.; NAVARRO, R. M.; FIERRO, J.L.G. Glycerol liquid
+phase conversion over monometallic and bimetallic catalysts: Effect of metal, support
+type and reaction temperatures. Applied Catalysis B: Environmental, v. 106, p. 8393, 2011.
+
+54
+
+KIRUMAKKI, S. R.; SHPEIZER, B. G.; SAGAR, G. V.; CHARY, K. V. R.;
+CLEARFIELD, A. Hydrogenation of Naphthalene over NiO/SiO2–Al2O3 catalysts:
+Structure–activity correlation. Journal of Catalysis, v. 242, p. 319-331, 2006.
+KOUSI, K.; CHOURDAKIS, N.; MATRALIS, H.; KONTARIDES, D.;
+PAPADOPOULOU, C.; VERYKIOS, X. Glycerol steam reforming over modified Nibased catalysts. Applyed Catalysis A: General, v. 518, p. 129-141, 2016.
+LACROIX, B. Influence des défauts cristallins sur les changements de phase
+induits par faisceaux d’ions dans les films minces d’oxyde d’yttrium Y2O3.
+2006. 264f. Thesé (Doctorale sciences et ingénierie en matériaux) - Faculté des
+Sciences Fondamentales et appliquées, Poitiers, 2006
+LIU, H.; HE,D. Properties of Ni/Y2O3 and its catalytic performance in methane
+conversion to syngas. International Journal of Hydrogen Energy, v. 36, p. 1444714454, 2011.
+LIU, H.; WU, H.; HE, D. Methane conversion to syngas over Ni/Y2O3 catalysts —
+Effects of calcination temperatures of Y2O3 on physicochemical properties and
+catalytic performance. Fuel Processing Technology, v. 119, p. 81-86, 2014.
+MA, H.; ZHANG, R.; HUANG, S.; CHEN, W.; SHI, Q. Ni/Y2O3-Al2O3 catalysts for
+hydrogen production from steam reforming of ethanol at low temperature. Journal of
+Rare Earths, v. 30, p.683-690, 2012.
+MAIA, T. A. Desenvolvimento de catalisadores de Ni/CeO2-ZrO2 com adição de
+promotores para a produção de hidrogênio e/ou gás de síntese a partir da
+reação de reforma a vapor de álcoois. 2012. 273f. Tese (Doutorado em FísicoQuímica) – Instituto de Química de São Carlos, Universidade de São Paulo, São
+Carlos, 2012
+MOTA, C. J. A.; DA SILVA, C. X. A.; GONÇALVES, V. L. C. Gliceroquímica: novos
+produtos e processos a partir da glicerina de produção de biodiesel. Química Nova,
+v.32, n.3, p. 639-648, 2009.
+NIAZ,A.; MANZOOR, T.; PANDITH, A. H. Hydrogen storage: Materials, methods and
+perspectives. Renewable and Sustainable Energy Reviews, v. 50, p.457-469,
+2015.
+NOGUEIRA, F. G. E. Catalisadores de Ni promovidos com Mg e Nb para reforma
+a vapor do ácido acético como molécula modelo de bio-óleo. 2014. 107f. Tese
+(Doutorado em Físico-Química) – Instituto de Química de São Carlos, Universidade
+de São Paulo, São Carlos, 2014.
+OXFORD, C. Crystallographica Search-Match, Version 2, 1, 1, 1: Power Diffraction
+File (PDF): 27-605, File (PDF): 43-1036, File (PDF): 71-1179. Oxford Cryosystems,
+1996-2004.
+
+55
+
+PASSOS, F. B.; OLIVEIRA, E. R.; MATTOS, L. V.; NORONHA, F. B. Effect of the
+support on the mechanism of partial oxidation of methane on platinum catalysts.
+Catalysis Letters, v. 110, p. 261-267, 2006.
+QUISPE, C. A. G.; CORONADO, C. J. R.; CARVALHO JR., J. A. Glycerol:
+Production, consumption, prices, characterization and new trends in combustion.
+Renewable and Sustainable Energy Reviews, v. 27, p. 475–493, 2013.
+RAMÍREZ-HERNANDEZ, G. Y.; VIVEROS-GARCÍA, T.; FUENTES-RAMÍREZ, R.;
+GALINDO-ESQUIVEL, I. R. romoting behavior of yttrium over nickel supported on
+alumina-yttria catalysts in the ethanol steam reforming reaction. International
+Journal of Hydrogen Energy, v.30, p, 1-12, 2016.
+RIBEIRO, V. M.; RABELO NETO, R. C.; PASSOS, F. B.; NORONHA, F. B.
+Catalisadores de Ni suportados para produção de H2 a partir da reforma do ácido
+acético. In: Congresso Brasileiro de Catálise, 16, 2011, Campos do Jordão.
+Anais...São Paulo, 2011, p. 1733-1738.
+RHEIN, M.; RINTOUL, S. R.; , AOKI, S.; CAMPOS, E.; CHAMBERS, D.; FEELY, R.
+A.; GULEV, S.; JOHNSON, G. C.; JOSEY, S. A.; KOSTIANOY, A.; MAURITZEN,
+C.; ROEMMICH, D.; TALLEY. L. D.; WANG, F. Climate Change 2013: The Physical
+Science Basis. Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change. Cambridge: United Kingdom: New York, 2013, p. 291-294.
+SANTOS, F. M. S. M.; SANTOS, F. A. C. M. O Combustível ―Hidrogénio‖.
+Millenium– Revista do ISPV, n. 31, p. 252-270, 2005.
+SCOTT, K.; TAAMA, W. M. ; ARGYROPOULOS, P. Engineering aspects of the direct
+methanol fuel cell system. Journal of Power Sources, v. 79, p. 43-59, 1999.
+SHRIVER, D. F.; ATKINS, P. W.; OVERTON, T. L. ROURKE, J. P.; WELLER, M. T.;
+ARMSTRONG, F. A. Química inorgânica. Tradução de Roberto de Barros Faria e
+Cristina Maria Pereira dos Santos. 4.ed. Porto Alegre: Bookman, 2008. 848p.
+SILVA, J. M.; SORIA, M. A.; MADEIRA, L. M. Thermodynamic analysis of Glycerol
+Steam Reforming for hydrogen production with in situ hydrogen and carbon dioxide
+separation. Journal of Power Sources, v. 273, p. 423–430, 2015a.
+SILVA, J. M.; SORIA, M. A.; MADEIRA, L. M. Challenges and strategies for
+optimization of glycerol steam reforming process. Renewable and Sustainable
+Energy Reviews, v. 42, p. 1187–1213, 2015b.
+SILVA, J. M.; SORIA, M. A.; MADEIRA, L. M. Steam reforming of glycerol for
+hydrogen production: Modeling study. International Journal of Hydrogen Energy,
+v. 41, p. 1408-1418, 2016.
+SKOOG, D. A.; HOLLER, F. J.; NIEMAN, T. A. Princípios de Análise Instrumental.
+Porto Alegre: Bookman, 2002. 836 p.
+
+56
+
+SOBRINO, F. H.; MONROY, C. R.; PÉREZ, J. L. H. Biofuels and fossil fuels: Life
+Cycle Analysis (LCA) optimisation through productive resources maximisation.
+Renewable and Susteinable Energy Reviews, v. 15, p. 2621-2628, 2011.
+SUN, G. B.; HIDAJAT, K.; WU, X. S.; KAWI, S. A crucial role of surface oxygen
+mobility on nanocrystalline Y2O3 support for oxidative steam reforming of ethanol to
+hydrogen over Ni/Y2O3 catalysts. Applied Catalysis, v. 81, p. 303-312, 2008.
+SZABÓ, Z.; KALLÓ, D. Contact catalysis. New York: Elsevier Scientific Publishing,
+1976.
+TAN, H. W.; AZIZ, A. R. A.; AROUA, M. K. Glycerol production and its applications as
+a raw material: a review. Renewable and Sustainable Energy Reviews, v. 27, p.
+118-127, 2013.
+THYSSEN, V. V; ASSAF, E. M. Ni/La2O3-SiO2 catalysts applied in glycerol steam
+reforming reaction: effect of the preparation method and reaction temperature.
+Journal of Brazilian Chemistry Society, v. 25, n. 12, p. 2455–2465, 2014.
+THYSSEN, V. V.; MAIA, T. A.; ASSAF, E. M. Ni supported on La 2O3–SiO2 used to
+catalyze glycerol steam reforming. Fuel, v. 105, p. 358–363, 2013.
+THYSSEN, V. V.; MAIA, T. A.; ASSAF, E. M. Cu and Ni Catalysts supported on Al2O3
+and SiO2 assessed in glycerol steam reforming reaction. Journal of Brazilian
+Chemistry Society, v. 26, n. 1, p. 22–31, 2015.
+THYSSEN, V. V. Catalisadores Ni/MgO-SiO2 aplicados na reação de reforma a
+vapor de glicerol. 2016. 137f. Tese (Doutorado em Físico-Química) – Instituto de
+Química de São Carlos, Universidade de São Paulo, São Carlos, 2016
+TICIANELLI, E. A.; GONZALEZ, E. R. Eletroquímica: princípios e aplicações 2.ed.
+São Paulo: Editora da Universidade de São Paulo, 2005.
+TRIMM, D. L. Catalysis for the control of coking during steam reforming. Catalysis
+Today, v. 49, p. 3-10, 1999.
+WACHS, I. E.; FITZPATRICK, L. E. Characterization of catalytic materials.
+Greenwich: Butterworth- Heinemann, 1992. 202 p.
+WANG, Y.; WANG, L.; GAN, N.; LIM, Z.; WU, C.; PENG, J.; WANG, W. G.
+Evaluation of Ni/Y2O3/Al2O3 catalysis for hydrogen production by autothermal
+reforming of methane. Hydrogen Energy, v. 39, p. 10971-10979, 2014.
+
+

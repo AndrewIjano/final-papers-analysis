@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: no
+agradecim: no 
+resumo_ab: yes
+kw: no 
+l_figuras: no
+l_tabelas: no
+l_abr_sig: yes
+l_quadros: no
+n_sub_sec: 19
+n_ssb_sec: 20
+n_sss_sec: 17
+tem_anexo: no
+ini: INTRODUÇÃO
+secoes:
+ - A OMC E SEU ÓRGÃO DE SOLUÇÃO DE CONTROVERSIAS
+ - O TRATAMENTO ESPECIAL E DIFERENCIADO AOS PAISES EM DESENVOLVIMENTO
+ - OS BRICS E O SISTEMA MULTILATERAL DO COMERCIO
+ - O TRIPS E OS PAISES EM DESENVOLVIMENTO
+ - PROPOSTAS PARA A MITIGACAO DAS EXTERNALIDADES NEGATIVAS RELATIVAS AO TRATAMENTO DIFERENCIADO 
+end: CONCLUSÃO 
+ref: REFERÊNCIAS

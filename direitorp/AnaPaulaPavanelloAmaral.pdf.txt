@@ -1,0 +1,2505 @@
+Ana Paula Pavanello do Amaral
+
+REGULAÇÃO E CONCORRÊNCIA: PANORAMA SOBRE O SETOR DE
+ENERGIA ELÉTRICA BRASILEIRO
+
+Monografia apresentada à Faculdade de Direito de
+Ribeirão Preto da Universidade de São Paulo como
+requisito parcial da obtenção do título de Bacharel em
+Direito.
+
+Orientador: Professora Doutora Juliana Oliveira
+
+Domingues.
+
+Ribeirão Preto
+2014
+
+Amaral, Ana Paula Pavanello do
+
+Regulação e concorrência: breve panorama sobre o setor de energia
+elétrica brasileiro. 2014.
+“X”p. ; “Y” cm
+Trabalho de Conclusão de Curso, apresentado à Faculdade de Direito de
+Ribeirão Preto/USP.
+Orientador: Prof. Dr. Juliana Oliveira Domingues
+Introdução. 1. Concorrência e regulação no atual cenário. 2. Mercados de
+energia elétrica. 3. Brasil: um setor em transição. 4. Da defesa da concorrência e
+da regulação em serviços públicos 5. ANEEL e sua formação de atuação. 7.
+Conclusão8. Referências bibliográficas
+
+Banca examinadora:
+
+Orientador: __________________________________________
+Prof.ª Dr.ª Juliana Oliveira Domingues
+
+__________________________________________
+
+__________________________________________
+
+À minha família, por sua capacidade de acreditar em
+mіm е investir em mim. Mãe, seu cuidado е dedicação
+foi que deram, em alguns momentos, а esperança para
+seguir. Pai, sua presença significou segurança е certeza
+de que não estou sozinho nessa caminhada.
+
+AGRADECIMENTOS
+
+Primeiramente а Deus que permitiu que tudo isso acontecesse, ao longo de minha vida, е não
+somente nestes anos como universitária, mas que em todos os momentos é o maior mestre que
+alguém pode conhecer.
+
+A esta universidade, seu corpo docente, direção е administração que oportunizaram а janela que
+hoje vislumbro um horizonte superior, eivado pela acendrada confiança no mérito е ética aqui
+presentes.
+
+À professora e orientadora Juliana Oliveira Domingues, pela orientação, apoio e confiança.
+
+À minha família, pelo amor, incentivo е apoio incondicional.
+
+A todos que direta ou indiretamente fizeram parte da minha formação, о meu muito obrigado.
+
+RESUMO
+
+AMARAL, Ana Paula Pavanello do. Regulação e concorrência: breve panorama sobre o setor
+de energia elétrica brasileiro. 2014. 80 f. Trabalho de Conclusão de Curso – Faculdade de
+Direito, Universidade de São Paulo, Ribeirão Preto, 2014.
+
+A proposta do presente trabalho consiste em fazer uma breve análise sobre a interação dos
+sistemas regulatórios e de defesa da concorrência sobre o sistema de energia elétrica brasileiro.
+São analisados especialmente os panoramas fornecidos pela prática brasileira da década de 1990
+até o início dos anos 2000, a fim de ser o mais próximo possível da atualidade.
+Primeiramente, abordaremos a interação entre os institutos da Concorrência e da Regulação no
+contexto brasileiro e suas bases constitucionais.
+Após, será feita a análise mais específica do setor aqui estudado: energia elétrica. Sem a
+pretensão de exaurir qualquer assunto tratado, estudamos o mercado de energia elétrica no Brasil
+e analisamos as mudanças provocadas pela transição entre os modelos do governo FHC e Lula.
+Por fim, tratamos da própria agência reguladora do setor, a ANEEL – Agência Nacional de
+Energia Elétrica, e sua forma de atuação. É dada especial atenção aos pontos de contato entre o
+Sistema Brasileiro de Defesa da Concorrência e a ANEEL e a possível sobreposição de suas
+competências.
+
+PALAVRAS-CHAVE: sistemas regulatórios, defesa da concorrência, sistema de energia elétrica
+brasileiro.
+
+ABSTRACT
+
+AMARAL, Ana Paula Pavanello do. Regulação e concorrência: breve panorama sobre o setor
+de energia elétrica brasileiro. 2014. 80 f. Trabalho de Conclusão de Curso – Faculdade de
+Direito, Universidade de São Paulo, Ribeirão Preto, 2014.
+
+The purpose of this paper is to make a brief analysis of the interaction of regulatory systems and
+defense of competition on the Brazilian electric power system. Are especially analyzed
+panoramas provided by Brazilian practice of the 1990s until the early 2000s, in order to beas
+close as possible to today’s situation?
+First, we discuss briefly the situation of interaction between the institutes of Competition and
+Regulation in the Brazilian context and its constitutional foundations. We then proceed to more
+specific analysis of the industry studied here: electricity. Without pretending to exhaust any
+subject matter, we study the electric power market in Brazil and analyze the changes caused by
+the transition between models of FHC and Lula governments.
+Finally, we treat the self-regulatory agency, ANEEL - Nacional Energy Agency, and its modus
+operandi. Special attention is given to the points of contact between the Brazilian System of
+Competition Defense and ANEEL and the possible overlap of its competencies.
+
+KEY-WORDS: regulatory systems, defense of competition, Brazilian electric power system.
+
+JUSTIFICATIVA
+
+Esta pesquisa tem por objetivo básico discutir as relações entre o setor regulado de
+energia elétrica e defesa da concorrência no Brasil atualmente com base na relação entre o CADE
+(Conselho Administrativo de Defesa Econômica) e a ANEEL (Agência Nacional de Energia
+Elétrica), inclusive analisando alguns casos de condutas anticoncorrenciais condenadas pelo
+CADE nos últimos 15 anos, que envolveram solicitação da ANEEL para acompanhamento e
+articulação interinstitucional. Apresentaremos também um quadro conceitual geral buscando
+relacionar os correspondentes requisitos econômicos e institucionais com aqueles presentes na
+regulação da concorrência em sentido genérico, realizada pelo SBDC.
+É evidente a imperiosa necessidade de delinear soluções para a realidade econômica
+brasileira, visto que as intervenções na economia ou a falta das mesmas geram consequências
+diretas ao bem-estar social. Assim, faz-se mister o estudo sobre a relação entre concorrência e
+eficiência econômica para apresentação de um esquema ideal, através da caracterização de
+padrões de concorrência que destacam os problemas de regulação oriundos de mercados
+regulados por dinâmicas específicas.
+Além disso, é preciso avaliar os métodos e estratégias para assegurar imparcialidade e
+neutralidade no exercício dos poderes regulatórios, afim de que as inciativas sejam refletidas de
+forma positiva na sociedade.
+Ainda há que se observar a questão do aprimoramento dos mecanismos de prestação
+de contas e controle social das agências, visto que sua credibilidade perante os atores particulares
+é essencial para seu efetivo sucesso.
+Passando para um contexto mais amplo, observando o Brasil como ator na economia
+global, com base nos resultados de alguns casos analisados em conjunto pelo CADE e que
+também foram analisados pela ANEEL nos últimos anos, é necessário apontar se há efetivamente
+respeito às decisões emitidas. Assim, entende-se que se ficar comprovado que há efetividade no
+controle das condutas por meio da concorrência e da regulação, pode-se dizer que as políticas
+públicas atendem aos objetivos sociais tais como: desenvolvimento econômico, melhores preços,
+melhores serviços, aumento da renda, etc.
+
+SUMÁRIO
+
+INTRODUÇÃO ..................................................................................................................................... 17
+1. CONCORRÊNCIA E REGULAÇÃO ................................................................................................ 23
+1.1 O caso brasileiro: as bases constitucionais e a concorrência-instrumento ....................................... 30
+2DAS TEORIAS CONCILIADORAS ENTRE A SUPREMACIA DO DIREITO REGULATÓRIO E O
+DIREITO ANTITRUSTE ...................................................................................................................... 33
+3. MERCADOS DE ENERGIA ELÉTRICA .......................................................................................... 37
+3.1 Mercados competitivos de energia elétrica .................................................................................... 41
+3.1.1 Ponto de vista da regulação .................................................................................................... 41
+3.1.2 Ponto de vista da concorrência: .............................................................................................. 44
+4. BRASIL: UM SETOR EM TRANSIÇÃO .......................................................................................... 49
+4.1 O modelo FHC ............................................................................................................................. 52
+4.2 O modelo Lula ............................................................................................................................. 55
+5. CONCORRÊNCIA E REGULAÇÃO A PARTIR DA LEI 9427/96 ................................................... 59
+5.1 Repartição de competências entre o SBDC e a ANEEL ................................................................ 62
+5.2 Competências da ANEEL em matéria concorrencial ..................................................................... 63
+5.3 Competências sobrepostas? .......................................................................................................... 66
+5.4 Articulação e repartição de concorrência ...................................................................................... 67
+CONCLUSÃO....................................................................................................................................... 71
+BIBLIOGRAFIA ................................................................................................................................... 75
+
+17
+
+INTRODUÇÃO
+
+A Constituição de 1988, ao mesmo tempo em que antecede o redirecionamento da
+intervenção do Estado na economia com o crescimento do seu caráter normativo e regulador, de
+certa forma, num movimento de contrapeso, inova ao evidenciar os direitos sociais, pautada nos
+princípios e objetivos fundamentais do país: a construção de uma sociedade livre, justa e
+solidária, a garantia do desenvolvimento nacional, a erradicação da pobreza e a marginalização e
+redução das desigualdades sociais e regionais e a promoção do bem de todos, sem preconceitos
+de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+Ainda, o art. 175 da Constituição Federal, ao dispor sobre a forma de prestação de
+serviços públicos diretamente pelo poder público ou sob o regime de concessão ou permissão,
+sempre através de licitação e, entre eles o serviço de energia elétrica, exige a obrigatoriedade de
+manutenção do serviço adequado, o que foi regulamentado pela Lei n° 8.987/1995 da seguinte
+forma:
+Art. 6o Toda concessão ou permissão pressupõe a prestação de serviço adequado ao
+pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas
+pertinentes e no respectivo contrato.
+§ 1o Serviço adequado é o que satisfaz as condições de regularidade, continuidade,
+eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade
+das tarifas.
+§ 2o A atualidade compreende a modernidade das técnicas, do equipamento e das
+instalações e a sua conservação, bem como a melhoria e expansão do serviço.
+
+De forma relacionada, observa-se que a Emenda Constitucional n° 26, de 14 de
+fevereiro de 2000, inclui o direito à moradia no artigo 6° da Constituição Federal, colocando-o na
+condição de direito social e, segundo parâmetros internacionais acerca do direito à moradia,
+compreenderia, entre outros critérios, a infraestrutura e serviços disponíveis como acesso à água
+
+18
+
+potável, energia elétrica e ao saneamento básico.1
+Assim, embora o acesso aos serviços de energia elétrica não esteja previsto de modo
+expresso como direito fundamental, evoca-se aqui o conteúdo do §2° do art. 5°, segundo o qual
+os direitos e garantias da Constituição não excluem outros decorrentes do regime e dos princípios
+por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja
+parte.
+Assim, se por um lado é possível construir com base na Constituição o direito à
+energia, é certo que sua materialização como realidade depende da implementação de políticas
+socioeconômicas pelo Estado. O gráfico a seguir apresenta a evolução do índice percentual dos
+domicílios com energia elétrica, ilustrando o grande avanço realizado no setor:
+
+Na política de universalização desenvolvida pelo governo federal, o serviço de
+energia elétrica é considerado como vetor de desenvolvimento social e econômico, objetivando a
+redução da pobreza e o aumento da renda familiar e facilitando a integração de outros programas
+1
+
+CSISZER, Juliana Vieira. Direitos Sociais na Constituição brasileira de 1988. Diritti & Diritti – il Portale Giuridico
+italiano. Disponível em: <www.diritto.it/art.php?file=/26847.html>. Acesso em: 22/08/2014.
+
+19
+
+sociais, além do acesso a serviços de saúde, educação, abastecimento de água e saneamento. Tal
+situação evidencia-se na comparação do percentual dos diversos serviços públicos apresentadas
+no próximo gráfico:
+
+Ainda, a política de universalização dos serviços públicos de energia elétrica, para ser
+eficiente e eficaz, deve ser sustentável também do ponto de vista de quem é atendido,
+observando-se as duas dimensões fundamentais: acesso físico ao serviço e capacidade de
+pagamento, consolidadas com propriedade através do Decreto n° 4.541/2002.
+Rolim2, ao avaliara finalidade da política pública, argumenta que a política
+legitimamente implantada pelo Estado tem sua finalidade atrelada aos anseios de determinada
+sociedade em dado momento histórico, tendo como finalidade “mínima” o bem comum e a noção
+de justiça social, mas deve ser planejada e implementada considerando o princípio da
+economicidade, avaliando objetivos e meios, ou seja, no processo decisório devem ser pesadas
+2
+
+ROLIM, Maria João C. Preira. Direito econômico da energia elétrica, 1 ed., Rio de Janeiro: Forense, 2002. pp. 2425
+
+20
+
+vantagens pretendidas e custos envolvidos, procurando-se obter uma relação favorável.3
+Isto também é contemplado pelo princípio da proporcionalidade ou razoabilidade,
+explicitado na doutrina brasileira por Barroso4, através de três requisitos: o da adequação – as
+medidas devem ser aptas a atingir os objetivos que se busca; o da necessidade ou exigibilidade –
+o meio utilizado para atingir o fim deve ser o menos gravoso possível, proibindo-se o excesso e,
+por fim, o requisito da proporcionalidade em sentido estrito, isto é, a existência de equilíbrio
+entre os danos e os resultados obtidos, é o chamado custo-benefício da medida.
+Constata-se então que, em se tratando do tema universalização, torna-se matéria das
+mais complexas, pois tendo caráter de política pública com forte função social, apresenta elevado
+impacto econômico e de difícil compatibilidade com a questão da modicidade tarifária, devendo
+ser avaliada não só do ponto de vista de sua implementação5. O fornecimento exige altos
+investimentos para expansão da infraestrutura para conexão de novos consumidores, como
+também da sua própria sustentabilidade, pois a receita proveniente das populações beneficiadas,
+geralmente em regiões mais dispersas e de menor poder aquisitivo, não é suficiente para
+remunerar os altos investimentos realizados e o incremento significativo nos custos de operação e
+manutenção das concessionárias.
+Para o longo prazo, o crescimento econômico depende, a partir de então, do
+desempenho dos diferentes setores da economia. O país tem um dos parques industriais mais
+variados e ricos da América Latina e também do hemisfério sul e, portanto, tem um grande
+potencial de crescimento quando se considera a experiência, a cultura da empresa e do tamanho
+do mercado.
+A questão mais importante a longo prazo refere-se aos resultados esperados do novo
+modelo de crescimento global. A aplicação no Brasil daqueles resultados observados na
+economia mundial desde o início dos anos 80 indica que o novo modelo gera economias com
+baixa taxa de inflação por um lado, mas, por outro lado, com baixas taxas de crescimento e altas
+taxas de desemprego.6
+Para países como o Brasil que, de partida, tem elevado nível de desemprego
+3
+
+Direito econômico da energia elétrica, op. cit. p. 92.
+BARROSO, Luis Roberto. Interpretação e aplicação da Constituição. 22 ed. São Paulo: Saraiva, 1999. p. 223.
+5
+FUCHS, Célia Inês. Impactos causados pela Universalização do acesso e uso da energia elétrica, Brasília, 2007.
+Dissertação de Mestrado. PPGENE. DM – 32107, UNB, p. 75.
+6
+LEITÃO, Miriam, A Saga Brasileira A Longa Luta de um povo por sua moeda. 2. ed. Rio de Janeiro: Record,
+2011. p. 402.
+4
+
+21
+
+estrutural, distribuição de renda concentrada, baixo nível de escolaridade e baixa renda média, a
+repetição deste padrão de desempenho (inflação baixa e desemprego elevado) representa uma
+séria ameaça. Mais do que isso, não é uma alternativa viável, economicamente ou politicamente.
+Este é o verdadeiro desafio no Brasil - e se agrava quando lembramos que o país é
+inserido com força nos mercados financeiros internacionais. Não há alternativas políticas
+miraculosas disponíveis, a menos que grandes investimentos em melhoramentos sociais e
+públicos, em infraestrutura e tecnologia.7
+Dessa forma, pretende-se no presente trabalho discutir o atual cenário de interação
+entre o Sistema Brasileiro de Defesa da Concorrência (SBDC) e um dos setores mais estratégicos
+para um país que necessita tanto de infraestrutura básica: o setor de energia elétrica.
+Para falar de regulação e concorrência, deve-se falar primeiramente sobre o
+tratamento que o ordenamento jurídico dá à ordem econômica. Assim, o professor Calixto
+Salomão Filho8 define Constituição econômica como conjunto de regras mínimas para um
+agrupamento social que decidi viver em uma economia de mercado, para garantir seu
+funcionamento e um nível mínimo de controle das relações econômicas. Ainda que pareça um
+conceito relativamente lógico, várias escolas e tradições acabaram por definir rumos diversos às
+mais variadas Constituições e ordenamentos, influenciando Estados a definir seus ordenamentos
+econômicos de formas bastante variadas.
+A começar pela tradição Smithiana, define normas de Direito Concorrencial,
+culminando no exemplo positivo mais bem acabado da mesma: o Tratado de Constituição da
+Comunidade Econômica Europeia. Ali são garantidas liberdades fundamentais de circulação sob
+o argumento de que liberdades naturais do homem são também pressupostos funcionais para a
+concorrência. A Comunidade Econômica Europeia é um exemplo típico de sistema que prescinde
+de Estado organizado e onde a força político-institucional é bastante reduzida. Para que o
+desenvolvimento fosse garantido, as regras de concorrência são o elemento impulsionador da
+organização e da integração econômica.9
+A presença do Estado introduz uma forma de organização das relações econômicas
+que não se rege pela lógica concorrencial pura. Ela gera uma divisão de esferas entre o Estado
+
+7
+
+LEITÃO, Miriam. A Saga Brasileira A Longa Luta de um povo por sua moeda. op. cit. p. 378.
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). São Paulo:
+Malheiros, 2001. pp. 15 – 23.
+9
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). op. cit. p. 25.
+8
+
+22
+
+regulador e o intervencionista e o que se limita a organizar as forças de mercado, criando um
+ordenamento econômico existente ou Constituição econômica, ou seja, define o regime de
+exercício de cada atividade econômica – concorrencial, público ou misto.
+Sob o ponto de vista do Direito Concorrencial, a análise de um sistema econômico deve ser
+dúplice. Primeiramente devem-se avaliar as regras aplicáveis a particulares ou ao Estado
+enquanto exercem atividade econômica. Em seguida, a relação entre os poderes estatais típicos
+(regulamentar e fiscalizatório) e o sistema concorrencial. No caso de setores auto
+regulamentados, Estado deve apenas assegurar o correto funcionamento do sistema e impedir
+abusos.
+Desta forma, no presente trabalho abordaremos a questão da Concorrência e
+Regulação, suas bases constitucionais e sua função de instrumento para atingir o bem-estar social
+e equilíbrio econômico. A seguir, serão analisadas teorias conciliadoras do Direito Antitruste e
+Regulatório, ponto sensível onde tentaremos chegar à conclusão sobre o nível atual de equilíbrio
+no sistema.
+Como não poderia deixar de ser, faremos uma breve análise dos mercados de energia
+elétrica, setor escolhido para o presente trabalho. Serão abordados temas como o da competição
+dentro do mercado e de suas especificidades, além dos pontos de vista fornecidos pela regulação
+e pela concorrência.
+Para melhor compreender o atual estágio do setor de energia elétrica brasileiro, é
+necessário analisar seu histórico recente. Por isso, dedicamos parte do estudo aos modelos
+adotados nas épocas de governo de Fernando Henrique Cardoso e Lula, governos que
+modificaram bastante o sistema de concorrência dentro do setor.
+Por fim, trataremos de uma parte mais delicada do trabalho, onde é analisada a
+Agência reguladora setorial (ANEEL) e sua forma de atuação. O objetivo é estudar como são
+repartidas as competências entre concorrência e regulação perante a Agência, quais seriam suas
+competências em matéria concorrencial e como estas são articuladas e repartidas com o Sistema
+Brasileiro de Defesa da Concorrência. Provavelmente, o ponto mais sensível a ser estudado aqui
+seja o questionamento sobre a sobreposição de competências concorrenciais.
+Portanto, pretendemos chegar à conclusão de como é, de fato, a interação desses dois
+importantes agentes governamentais na economia e no setor escolhido para o presente trabalho.
+
+23
+
+1. CONCORRÊNCIA E REGULAÇÃO
+
+O Brasil vive uma economia de mercado baseada principalmente na interação de
+agentes privados. Consequência imediata e lógica é a busca de interesses individuais, movida
+pela busca da maximização do lucro e melhoria de sua própria posição perante o mercado. Dentre
+as estratégias encontram-se atitudes como a concentração de mercado e eliminação de
+concorrentes e até de potenciais novos atores econômicos. Se esse sistema de interação
+econômica fosse completamente anárquico, veríamos uma violenta supressão dos interesses da
+sociedade, como complexo de atividades econômicas e sociais de âmbitos individuais e coletivos
+que é, em razão da soberania da força que possuem alguns atores específicos.
+É nesse ponto exato que entra o papel do Estado, para garantir equilíbrio e mesmo
+continuidade ao sistema, sem deixar de lado as preponderâncias sociais e ao mesmo tempo
+combinando-as com os interesses econômicos das empresas. Exatamente por se tratar de relação
+de equilíbrio é que as ações interventivas do Estado devem ser medidas e responsáveis, na
+proporção em que o sistema é complexo e pode ruir ao mínimo erro do interventor.10
+Assim, o Direito Antitruste surge com base nos princípios constitucionais da livre
+iniciativa e livre concorrência,11 ou seja, em uma interação entre princípios econômicos e
+jurídicos, de altíssima complexidade, ao mesmo tempo que passa a analisar casos de condutas
+anticoncorrencias que envolvem os mercados regulados. Dessa maneira, baseado nos princípios
+constitucionais e, ao mesmo tempo, considerando os novos marcos regulatórios, observados, no
+10
+
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica: princípios e fundamentos jurídicos. op. cit. p.
+140.
+11
+A livre iniciativa é afirmada prescritivamente, na Constituição Federal, como base da Ordem Econômica (art. 170).
+Afirmá-la é acreditar na liberdade humana na conformação da atividade econômica, é aceitar sua intrínseca
+contingência e fragilidade, preferindo uma ordem aberta ao fracasso (risco) contra uma estabilidade imposta e
+regulada. Significa que a estrutura da Ordem Econômica está centrada na atividade das pessoas e não na atividade do
+Estado. Isto não significa a eliminação deste, mas sublinha que o exercício da atividade econômica, na produção, na
+gestão, na direção, na definição da política econômica da empresa está regulado pelo princípio da exclusão: o que
+não está juridicamente proibido está juridicamente permitido. Esta observação não quer significar uma afirmação do
+laissez faire, pois o artigo 170 da Constituição assevera, igualmente, a valorização do trabalho humano como
+fundamento da Ordem. A liberdade está em ambas. Na livre iniciativa, em termos de liberdade negativa, na ausência
+de impedimentos para a expansão da própria criatividade; na valorização do trabalho, em termos de liberdade
+positiva, de participação sem alienação na construção da riqueza econômica. Portanto, não há nenhum sentido
+ilimitado e absoluto na livre iniciativa. A ilimitação está no principiar da atividade, mas não nos desempenhos e nas
+consequências. Livre iniciativa, assim, não exclui a atividade fiscalizadora, estimuladora, arbitral e até
+suplementarmente empresarial do próprio Estado. Fonte: http://www.terciosampaioferrazjr.com.br/?q=/publicacoescientíficas/103. Acesso em 03/09/2014.
+
+24
+
+Brasil, a partir da década 90, o Estado tenta criar, aplicar e agir estrategicamente para que não
+somente a concorrência seja protegida.
+Nesse sentido, define o Professor Tércio Sampaio Ferraz12 o intervencionismo como:
+O exercício por parte da autoridade política, de uma ação sistemática sobre a economia,
+estabelecendo-se estreita correlação entre o subsistema político e econômico, na medida
+em que se exige da economia uma otimização de resultados e do Estado a realização da
+ordem jurídica como ordem do bem estar social.
+
+Já Maria Sylvia Z. Di Pietro13 define apropriadamente a regulação econômica como
+“o conjunto de regras de conduta e de controle da atividade privada pelo Estado, com a finalidade
+de estabelecer o funcionamento equilibrado do mercado”.
+Assim, definimos brevemente o termo regulação como a intromissão coordenada por
+parte do Estado no status quo do mercado, visando o bem estar coletivo. A regulação econômica
+pode facilitar limitar e intensificar os fluxos e trocas de mercado de várias formas. A regulação
+também procura promover concorrência em alguns setores que antes eram monopolizados pelo
+Estado, melhorando o livre funcionamento dos mercados em ambientes saudavelmente
+competitivos14.
+Em uma economia saudável e eficiente, o Estado busca garantir aos cidadãos o bem
+estar econômico para dispor de maior variedade de produtos com melhores condições de preços.
+A competição é, portanto, considerada imprescindível para o desenvolvimento social, o que
+também é defendido pelos teóricos que estudam o desenvolvimento econômico15. Há que se falar
+ainda na promoção da sustentabilidade econômica do país vista de um ângulo macro: é através de
+estímulos e equilíbrio que se obtém a continuidade das empresas, aumento sua produtividade e
+inclusive posicionamento do país no contexto econômico global.
+
+12
+
+FERRAZ JÚNIOR, Tércio Sampaio. Teoria da Norma Jurídica: Ensaio da Programática da Comunicação
+Normativa. Rio de Janeiro: Ed. Forense, 1999, p. 57.
+13
+DI PIETRO, Maria Sylvia Zanella. Regulação e legalidade. In: DI PIETRO, Maria Sylvia Zanella (org.). Direito
+regulatório – Temas polêmicos. Belo Horizonte: Fórum, 2009, p. 23.
+14
+DEMSETZ, Harold (1968); Why Regulate Utilities? Journal of Law and Economics, 11, 55-65, reimpresso em
+Stigler, George J. (ed.) (1988): Chicago Studies in Political Economy. Chicago: University of Chicago Press. p. 276.
+15
+AGUILLAR, Fernando Herren. Direito econômico: do direito nacional ao direito supranacional. São Paulo: Atlas,
+2009. p. 226. e COUTINHO, Diogo Rosenthal. A universalização do serviço público para o desenvolvimento como
+uma tarefa da regulação. In: SALOMÃO FILHO, Calixto (coord.). Regulação e desenvolvimento. São Paulo:
+Malheiros, 2002, p. 85 e 86.
+
+25
+
+Em linhas gerais, os principais objetivos (finalidades) da regulação econômica são: a)
+corrigir deficiências de mercado, que podem ocorrer por meio da implementação de normas para
+a atividade econômica ou pela instituição de autoridades de fiscalização – verificadas pelo
+controle da atividade privada do Estado por meio da polícia administrativa16; b) manutenção ou
+reestabelecimento do funcionamento equilibrado do sistema econômico conforme determinados
+objetivos públicos17.
+Segundo Gaetani e Albuquerque18, a regulação não produz benefícios ao interesse
+público per se, uma vez que a obtenção de bons resultados depende de seu manejo, podendo a
+regulação se transformar em obstáculo para que sejam atingidos os objetivos de bem-estar social
+e econômico para os quais ela foi desenhada, quando realizada de forma inadequada. Nesse
+último caso, terão as medidas regulatórias impactos negativos quando empregadas de modo
+excessivo, bem como se impedir a inovação ou criar barreiras desnecessárias ao comércio, à
+concorrência, ao investimento e à eficiência econômica.
+O aprimoramento do sistema regulatório brasileiro já faz parte da estratégia para a
+aceleração do crescimento do país. Com esse fim, inclusive, o Projeto de Lei no 3.337/2004, que
+dispõe sobre a gestão, a organização e o controle social das agências reguladoras, foi incluído no
+Programa de Aceleração do Crescimento − PAC, lançado pelo governo no início de 2007.
+Também em 2007 foi instituído, pelo Decreto no 6.062, o Programa de Fortalecimento da
+Capacidade Institucional para Gestão em Regulação − PROREG, que tem a finalidade de
+contribuir para a melhoria do sistema regulatório, da coordenação entre as instituições que
+participam do processo regulatório, dos mecanismos de prestação de contas e de participação e
+monitoramento por parte da sociedade civil e da qualidade da regulação de mercados.19
+
+16
+
+DI PIETRO, Maria Sylvia Zanella. Regulação e legalidade. op. cit. p. 19 a 91.
+CANOTILHO, J. J. Gomes; MOREIRA Vital. Tomemos a sério os direitos econômicos, sociais e culturais.
+Boletim da Faculdade de Direito da Universidade de Coimbra, Coimbra, v.38, p. 26-27.
+18
+GAETANI, Francisco; ALBUQUERQUE, Kélvia. Análise de impacto regulatório e melhoria regulatória. In:
+Regulação e Agências Reguladoras: governança e análise de impacto regulatório. Pedro Ivo Sebba Ramalho (Org.).
+Brasília: Anvisa, 2009. p. 194.
+19
+GAETANI, Francisco; ALBUQUERQUE, Kélvia. Análise de impacto regulatório e melhoria regulatória. op. cit. p.
+194.
+17
+
+26
+
+Dessa forma, é essencial que o governo adote abordagens relacionadas à provisão dos
+serviços públicos que favoreçam a via regulatória, sendo elas continuamente problematizadas
+com vistas a sua progressiva melhoria.20
+O diálogo em torno da melhoria das práticas regulatórias situa-se no contexto do
+esforço de governos assegurarem fóruns, instâncias e mecanismos que possibilitem o contínuo
+aprimoramento das instituições públicas encarregadas desta tarefa. O aprendizado em políticas
+públicas pode ocorrer de várias formas. Uma diferenciação comum é em primeira mão e em
+segunda mão. No primeiro caso, o aprendizado se dá pelos próprios envolvidos, diretamente. No
+segundo caso, o aprendizado se dá por meio de lições tiradas das experiências de outros. O
+aprofundamento do diálogo em torno de boas práticas regulatórias visa a minimizar os custos do
+aprendizado direto por meio da incorporação de elementos extraídos do aprendizado indireto.21
+A eficiência econômica (termo da economia utilizado com frequência nos estudos de
+direito econômico) é outro objetivo da regulação dos mercados e da aplicação do direito
+antitruste. Na Economia são utilizados vários conceitos de eficiência, e aqui destacaremos três
+deles. A eficiência produtiva, pouco controvertida, consiste em utilizar a planta produtiva
+instalada e sua tecnologia com máximo rendimento e mínimo custo. Já a eficiência distributiva é
+a capacidade de eliminação de rendas monopolísticas e outros ganhos temporários dos agentes
+individuais por meio da concorrência, por exemplo. Por último, a eficiência alocativa é a mais
+controvertida e a que mais se adequa a caso em questão. 22
+Na Microeconomia, considera-se alcançada a eficiência alocativa quando todos os
+recursos são distribuídos de modo a maximizar o resultado líquido alcançado através da sua
+utilização. É assim que, idealmente, alcança-se o chamado Ótimo de Pareto e atinge-se o maior
+grau possível de bem-estar social. Este último conceito social é máximo quando o custo marginal
+da última unidade produzida for igual a sua utilidade para a sociedade.23
+
+20
+
+BARROSO, Luís Roberto. Agências reguladoras, Constituição, transformações do Estado e legitimidade
+democrática. In: MOREIRA NETO, Diogo de Figueiredo. Uma avaliação das tendências contemporâneas do Direito
+Administrativo. Rio de Janeiro: Renovar, 2003. p. 160.
+21
+GAETANI, Francisco; ALBUQUERQUE, Kélvia. Análise de impacto regulatório e melhoria regulatória. op. cit. p.
+192.
+22
+MANKIW, N. Gregory. Introdução à Economia. São Paulo: Pioneira Thomson Learning, 2005. p. 135.
+23
+MANKIW, N. Gregory. Introdução à Economia. op. cit. p. 129.
+
+27
+
+Nesse sentido, vale observar evidências sobre o quão importante é a concorrência
+para a população em geral, por meio de exemplos extraídos de estudos regulatórios feitos pela
+ANAC – Agência Nacional de Aviação Civil24:
+(i) Wallsten (2001) mostra que, nas privatizações de telecomunicações na América
+Latina, o aumento da eficiência, aumento da quantidade ofertada e a queda de preços são
+explicados pela ocorrência de competição nos mercados (medida pelo número de
+operadoras não-incumbentes), enquanto a privatização sozinha era associada com
+poucos benefícios, e negativamente correlacionada com capacidade de interconexão. O
+autor também resenha trabalhos que meramente comparavam a performance das
+empresas privatizadas antes e depois.
+(ii) Zhang, Parker e Kirkpatrick (2008) examinaram a privatização da geração elétrica
+em 36 países entre 1985 e 2003, e constataram que, sozinhas, privatização e regulação
+não conduzem a ganhos óbvios em desempenho econômico, embora haja alguns efeitos
+de interações positivos. Em contraste, a introdução da concorrência aparece ter sido
+efetiva em estimular melhorias de desempenho. Em outro artigo, os mesmos autores
+notam que a sequência das reformas importa muito: usando um modelo de efeitos fixos
+em dados de painel de 25 países no período 1985-2001, eles constataram que o
+estabelecimento de uma autoridade reguladora independente e a introdução da
+competição antes da privatização estava correlacionado com maior geraçãode
+eletricidade, maior capacidade de geração e, no caso de sequênciade concorrência antes
+da privatização, melhoria da utilização de capital.
+
+Visando assegurar o princípio da livre iniciativa, a Constituição atribuiu ao Estado
+competência para exercer o papel de agente regulador da economia. Importa destacar, que para
+alguns doutrinadores, as exceções ao princípio da livre iniciativa devem constar expressamente
+do texto constitucional. É o caso de Diogo de Figueiredo Moreira Neto25, que discorrendo sobre a
+política de fixação de preços utilizada antes da CF/1988 explica:
+É o caso de tocarmos num exemplo de grande importância, do controle estatal de preços.
+Essa prática, largamente utilizada no autoritarismo econômico, durante várias décadas
+neste País, mas tão prejudicial à competição, tão incompatível com uma política de
+desenvolvimento (hoje, princípio constitucional – art. 3º, II), tão perigosa pelas
+distorções que gera (como no caso dos planos ‘Cruzado’ e ‘Verão’), teve seu fim, com
+muito atraso, na Constituição Federal de 1988. Não será mais possível à burocracia
+incompetente fazer demagogia com preços.
+
+24
+
+FIUZA, Eduardo P. S.; PIONER, Heleno P. Estudo Econômico Sobre Regulação e Concorrência no Setor de
+Aeroportos Rio de Janeiro, maio de 2009. Disponível em:
+<http://www2.anac.gov.br/arquivos/pdf/estudosregulatorios.pdf> Acesso em: 27 ago. 2014.
+25
+MOREIRA NETO, Diogo de Figueiredo. Curso de Direito Administrativo. 10ª ed., rev., refund. e atual. pela
+Constituição de 1988, Rio de Janeiro: Forense, 1994. p. 98.
+
+28
+
+Contudo, não se pode acatar a priori tal interpretação. Nas palavras do Prof. Luis
+Roberto Barroso26, em alguns momentos excepcionais, em casos em que tal medida for
+necessária para a reorganização de mercado deteriorado, na qual os princípios da livre iniciativa e
+livre concorrência não estejam sendo respeitados, o controle prévio de preços poderá ser
+justificado com base exatamente nestes princípios, hipótese em que o controle de preço será
+considerado legítimo e legal, desde que obedeçam a certos pressupostos. Contudo, este não é o
+enfoque do presente estudo.
+No Brasil, a legislação sobre a matéria de promoção e defesa da concorrência
+remonta aos anos 60, mas é somente na década de 1990 que assume caráter prioritário dentre as
+políticas públicas. As primeiras preocupações com a matéria aparecem na Constituição de 1934,
+garantindo a liberdade econômica e existência digna através da organização da própria ordem
+econômica, ainda que sem lei específica para regular a competição no mercado. Só em 1945 é
+que surge a primeira lei brasileira de orientação antitruste, que criava a Comissão de Defesa
+Econômica e autorizava a expropriação de qualquer organização que lesasse o interesse
+nacional27. Até então, a economia brasileira era marcada pela forte presença do Estado, alto nível
+de proteção à indústria nacional, controle de preços e problemas com a inflação. Tais
+características são reflexos da conjuntura política da época, o que incompatibilizava o contexto
+brasileiro com qualquer política eficaz de defesa da concorrência, fato superado na década de
+1990, época marcada pelas privatizações e concessão de “monopólios naturais” à iniciativa
+privada.
+Superados os problemas políticos, a nova realidade econômica possibilitou a atuação
+efetiva do Sistema Brasileiro de Defesa da Concorrência (com base na Lei Antitruste Brasileira,
+LAB - lei 8.884/94), que era formado por três órgãos, quais sejam: Secretaria de
+Acompanhamento Econômico do Ministério da Fazenda – SEAE/MF, Secretaria de Direito
+Econômico do Ministério da Justiça – SDE/MJ e Conselho Administrativo de Defesa Econômica
+– CADE. Este último uma autarquia vinculada ao Ministério da Justiça, sendo a instância
+judicante do sistema, uma espécie de tribunal administrativo, cujas decisões só podem ser revistas
+pelo Poder Judiciário.
+
+26
+
+BARROSO, Luís Roberto. Interpretação e Aplicação da Constituição. op. cit. p. 137.
+DOMINGUES, Juliana Oliveira; Gaban, Eduardo Molan. Direito Antitruste. 3. ed. São Paulo: Saraiva, 2012. pp.
+74-75.
+27
+
+29
+
+O objetivo do sistema é promover uma economia competitiva por meio da prevenção
+e da repressão de ações que possam limitar ou prejudicar a concorrência. Assim, a atividade de
+combate às condutas e estruturas anticoncorrenciais está aliada à atividade de divulgação e
+promoção da cultura da concorrência, visto o reforço que dá à eficácia social da defesa da
+concorrência. Devemos lembrar ainda do duplo enfoque das sanções aplicadas, quais sejam o de
+punir as práticas ilegais e de educar os agentes econômicos para que não incorram mais em
+condutas indesejadas.28
+Em maio de 2012 entrou em vigor a Nova Lei antitruste Brasileira (NLAB - Lei n.º
+12.529/2011), que ao tentar imprimir maior efetividade ao controle antitruste, modificou a
+estrutura do sistema, formando o novo CADE cuja estrutura passou a ser composta pelos
+seguintes órgãos: Tribunal Administrativo de Defesa Econômica, Superintendência-Geral
+e Departamento de Estudos Econômicos. Assim, a SDE/MJ deixou de existir dentro do SBDC, e
+as funções preponderantes da SEAE/MF foram modificadas para que o órgão seja primariamente
+de Advocacia da Concorrência, promovendo a cultura da concorrência na sociedade e em órgãos
+do governo.29
+A Superintendência-Geral abarcou funções da SDE/MJ e da SEAE/MF, sendo agora
+responsável pela investigação e instrução de processos de repressão ao abuso do poder
+econômico e de análise de atos de concentração. O Departamento de Estudos Econômicos (DEE),
+por sua vez, é responsável por elaborar estudos e pareceres econômicos a fim de aprimorar e
+fornecer mais segurança às decisões do CADE no mercado30.
+A atuação do CADE tem como focos principais o controle de concentrações nas
+diferentes estruturas de mercado, desde que atingidos alguns critérios de faturamento dos grupos
+econômico envolvidos, via apreciação operações como, por exemplo, de fusões, aquisições e
+incorporações de empresas e a repressão a condutas anticoncorrenciais, tais como abuso de
+posição dominante por empresas que tenham poder de mercado, assim como cartéis de fixação de
+preço, divisão de mercado, fraude às licitações e outras práticas abusivas à ordem econômica.
+Portanto, a presente pesquisa pretende dar enfoque à interação entre o CADE e a
+ANEEL, sem que haja conflito de competências.
+28
+
+DOMINGUES, Juliana Oliveira; GABAN, Eduardo Molan. Direito Antitruste. op. cit. p. 77.
+DOMINGUES, Juliana Oliveira; GABAN, Eduardo Molan. Direito Antitruste. op. cit. p. 78.
+30
+SILVINO, A. A nova dinâmica de processamento dos atos de concentração no Conselho Administrativo de Defesa
+Econômica e a reforma no Sistema Brasileiro de Defesa da Concorrência. Revista de Filosofia do Direito, do Estado
+e da Sociedade. Fides, Natal, v.4, n. 1, jan/jun. 2013. p. 65.
+29
+
+30
+
+Para que o sistema funcione adequadamente é essencial conceder-lhe independência,
+ou seja, reduzir o risco de captura dos agentes reguladores pelos interesses dos atores
+particulares. Essa influência negativa sobre o processo regulatório impede sua efetividade,
+imparcialidade e neutralidade.
+Outro ponto importante a ser destacado na questão da independência é a
+especificidade técnica requerida pela função regulatória. Apesar da previsão legal e de ajustes
+recentes em algumas legislações que cuidam de setores regulados, observa-se que no Brasil nem
+legisladores nem mesmo tribunais detém conhecimento técnico suficiente para levar a cabo
+discussões complexas que tocam o tema. Essa especialização, que aos poucos foi adquirida no
+Brasil, exige maior grau de autonomia frente ao poder político. Dessa forma, busca-se
+constantemente afastar da função regulatória pressão política, administrativa e do governo além
+dos próprios regulados.
+Assim, a presente pesquisa parte do questionamento de qual é a medida certa entre
+competição e regulação para o contexto atual brasileiro, principalmente no que diz respeito à
+realidade social da população, diretamente atingida por todo o sistema brevemente apresentado
+acima e suas decisões de intervir ou não na economia.
+
+1.1 O caso brasileiro: as bases constitucionais e a concorrência-instrumento
+
+A Constituição de 1988 deixa bastante claro em seu texto que a concorrência é um
+meio, um instrumento para o alcance de outro bem maior, qual seja, “assegurar a todos existência
+digna, conforme os ditames da justiça social”. A proteção da concorrência surge, no Brasil, em
+um contexto de proteção da economia popular, fato responsável por atribuir-lhe um caráter
+instrumental, ainda que vinculado à economia popular e ao consumidor (Decreto-lei 869, de
+1938, e Decreto-lei 7.666, de 1945).
+Na atual Constituição, esse caráter instrumental foi sim mantido. Alguns exemplos
+são o art. 173, §4°, que manda reprimir o abuso do poder econômico que vise à dominação dos
+mercados e à eliminação da concorrência; o art. 170, IV, em atenção ao princípio da livre
+concorrência e o art. 173, §4°, que manda reprimir o aumento arbitrário de lucros. Toda essa
+proteção é, ao fim, abrangida pelo art. 170, caput, e pelo art. 3°.
+
+31
+
+Os princípios contidos no art. 170 da Constituição e todas as regras que a partir dele
+se desdobram estão, portanto, à disposição dos fins enunciados pelo art. 3° da própria
+Constituição. Dessa forma, não podem ser lidos ou tomados apartadamente do sistema ao qual
+pertencem.
+Visto que, no Brasil, a tutela da concorrência não é um fim em si mesma, somado ao
+seu aspecto instrumental, parece clara sua aptidão para servir à implementação de políticas
+públicas. Assim, o antitruste deixou para trás a ideia de que sua única função seria a eliminação
+de efeitos autodestrutíveis do mercado e passa a ser considerado instrumento, meio para conduzir
+o sistema.
+Ainda que a primeira impressão seja a de atuação desse instrumento antitruste na
+implementação de políticas públicas do ponto de vista macro, não falamos aqui exclusivamente
+da atuação no campo da superestrutura. Trata-se, na verdade, de instrumento para o nível
+funcional de todo o social.
+Como ensinado pela autora Paula A. Forgioni31, a política antitruste poderá ser atuada
+tanto: a) por aplicação da Lei Antitruste, ainda que por via de concessão de autorização ou
+isenção, ou b) pela não aplicação da Lei Antitruste a práticas restritivas.
+
+Assim, o Estado, com o escopo de formatar o funcionamento do mercado, fica livre
+para afastar a aplicação da Lei Antitruste (desde que com base na lei), eliminando ou
+amenizando, por exemplo, a vigilância ou controle sobre o processo de concentração nos casos
+previstos. Portanto, a não implementação de uma política de concorrência vigorosa pode
+expressar, precisamente, a implementação de uma determinada política. São decisões de política
+econômica, obviamente não puras tecnicamente, mas que requerem uma tomada de posição em
+face da economia para poder estruturá-la.
+Ao tomar decisões que moldam a economia dessa forma, os institutos de regulação e
+do antitruste deixam de ser entrave para o desenvolvimento e passam ao papel de incentivadores.
+Trata-se, portanto, de um instrumento de reequilíbrio das relações econômicas32.
+
+31
+
+FORGIONI, Paula A. “Os Fundamentos do Antitruste”. 8. ed. v. 1 São Paulo: Revista dos Tribunais, 2014. p. 37 –
+48.
+32
+MARQUES NETO, Floriano de Azevedo, Agências reguladoras: instrumentos de fortalecimento do Estado. São
+Paulo: ABAR. p. 15.
+
+32
+
+Importante instrumento de política econômica e de equilíbrio nas relações
+econômicas é a expansão e a difusão de serviços, além da garantia institucional da concorrência.
+O acesso aos serviços é também elemento conformador, necessário para o funcionamento do
+sistema e, portanto, fundamental para qualquer ordem econômica que preze pelo equilíbrio.
+A chamada universalização desses serviços é frequentemente tratada como objetivo
+de política econômica, sendo considerada pelo professor Calixto Salomão Filho33 uma garantia
+sistêmica ou institucional. Como não pode ser protegida por uma simples regulação
+concorrencial, constitui-se em uma garantia institucional autônoma.
+Essa garantia deve ser considerada em seu plano material, não apenas formal.
+Primeiramente, é importante falar na garantia de acesso dos consumidores, derivada das garantias
+constitucionais da concorrência e da defesa do consumidor (art. 170, IV e V). Ao interpretar
+ambas, concluímos que significam a não exclusão de qualquer consumidor.
+No entanto, por se tratar de país tão desigual como o Brasil, o simples provimento
+formal dos serviços, sem que muitos tenham condições materiais, não é suficiente. Isso significa
+que tanto a regulação como o antitruste não podem ser instrumentos de criação de desigualdades
+sociais e de exclusão.34
+Por outro lado, a proteção dessa garantia institucional pode levar à criação de
+condições de concorrência. Assim, garantias institucionais de concorrência – amplo acesso e
+justiça social -, exatamente por serem fundamentais e formadoras do sistema, entrelaçam-se e
+protegem-se entre si. Entre elas, como entre os princípios constitucionais, não há conflito, mas
+complementariedade.
+
+33
+
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). op. cit. p.
+56
+34
+SZTAJN, R. Law and Economics. In: Decio Zylbersztajn; Rachel Sztajn. (Org.). Direito & Economia. 01 ed. v.1
+Rio de Janeiro: Elsevier, 2005. p. 74-83; PEREIRA NETO, Caio Mário da Silva. Análise de concentração econômica
+no setor de Comunicação: defesa da concorrência, democracia e diversidade na esfera pública. Revista de Direito da
+Concorrência. 2003. pp. 56-87.
+
+33
+
+2. DAS TEORIAS CONCILIADORAS ENTRE A SUPREMACIA DO
+DIREITO REGULATÓRIO E O DIREITO ANTITRUSTE
+
+Segundo Carlton e Picker35, é possível questionar: as leis antitruste não seriam
+suficientes para regular todas as indústrias? De um ponto de vista geral, apesar da teoria antitruste
+ter sido elaborada de modo a promover a eficiência, protegendo o processo concorrencial para o
+benefício da sociedade, o antitruste e a regulação possuem diferentes vantagens comparativas.
+Como se pode verificar nas seções anteriores, tanto a defesa da concorrência quanto à regulação.
+Seria um misto de Direito, Economia e Política, mas o antitruste estaria mais organizado em
+torno do pensamento econômico e, de outro lado, a regulação seria mais frequentemente moldada
+pelo processo político.
+Ademais, os tribunais antitruste são o locus para a aplicação da lei, ou seja, a eles
+restaria a responsabilidade de implementar as regras gerais de concorrência, não sendo os mais
+adequados para fazer avaliações sobre o preço correto ou a qualidade de qualquer bem ou
+serviço. Tal tarefa recairia sobre as agências reguladoras por seu caráter mais especialista.
+Na mesma direção, Posner36 entende que as agências seriam mais especializadas, o
+que facilitaria o desenvolvimento de competências em matérias técnicas. Essas agências
+geralmente possuem grandes equipes e poderes para realizar tanto uma regulação ex ante quanto
+ex post. No entanto, devido à maior influência política que as agências sofrem, elas estariam
+sujeitas a pressões de certos grupos. Os interesses específicos desses grupos poderiam levar
+aposições anticompetitivas, como, por exemplo, o bloqueio à entrada de novos agentes em
+determinado setor devido à influência dos agentes já estabelecidos.
+Outro ponto destacado por Posner,37 seriam as dificuldades encontradas na aplicação
+das políticas de regulação quanto à dependência em relação às informações fornecidas pelas
+empresas, que muitas vezes podem ser insuficientes. O autor ainda destaca que uma política de
+
+35
+
+CARLTON, D. W.; PICKER, R. C. Antitrust and regulation. National Bureau of Economic Research Working
+Paper Series, Cambridge, n. 12902, fev. 2007. pp. 13-14.
+36
+POSNER, R. Regulation (agencies) versus litigation (courts): an analytical framework. National Bureau of
+Economic Research, revisado em Jan. 2010. pp. 12-13.
+37
+POSNER, R. Regulation (agencies) versus litigation (courts): an analytical framework. op. cit. p. 13.
+
+34
+
+regulação pode sofrer com a necessidade de passar por um duplo processo na sua implementação,
+pois as decisões das agências são recorríveis ao judiciário.
+Valério,38 por sua vez, considera que nas atividades reguladas existe a possibilidade
+da solução para certas práticas anticompetitivas se mostrarem mais eficazes quando aplicadas
+pela agência reguladora, pois poderia ocorrer deforma mais célere do que feita pela autoridade
+antitruste, devido ao caráter preventivo de certas ações do agente regulador. Nesse sentido,
+Mello39complementa:
+[...] o exercício desse papel preventivo da autoridade reguladora poderia independer de
+autorização legal expressa, visto que estaria agindo em consonância com um princípio
+constitucional de observância obrigatória independentemente de previsão em lei
+específica. Contudo, duas ressalvas devem ser feitas: algumas regras podem implicar
+restrição à liberdade dos agentes regulados (a obrigação de permitir o livre acesso, e.g.)
+o que requer fundamento legal. Em segundo lugar, a adoção de medidas de natureza
+preventiva pela agência reguladora não afasta a competência da autoridade antitruste
+para apreciar condutas ou atos de concentração, salvo disposição expressa de lei que a
+atribua à agência reguladora.
+
+De acordo com Carlton e Picker,40ao longo da história verificou-se que o antitruste e
+a regulação têm, algumas vezes, competido e, em outras, colaborado no processo de controle da
+concorrência. O resultado dessa interação, pelo menos nos Estados Unidos onde ela já ocorre há
+mais de um século, foi que apolítica antitruste se mostrou mais duradoura. Isto pode ser
+justificado, principalmente, pelo fato da fundamentação econômica ter melhora do
+significativamente a eficácia da legislação antitruste e a sua aplicação, através deum sistema
+judiciário independente, ter apresentado uma menor promoção de interesses particulares e
+menores custos para a sociedade.
+No entanto, não significa que toda a regulação deva desaparecer. Em especial, nas
+indústrias com características de monopólio natural é fundamental que a regulação procure
+permitir maior concorrência possível, limitada apenas pela legislação antitruste. Nas atividades
+que permanecerem parcialmente reguladas, as políticas antitruste e de regulação podem ser
+usadas conjuntamente de forma a se complementarem no controle da concorrência. Para Posner,41
+um sistema misto (antitruste e regulação atuando conjuntamente) é menos suscetível à influência
+38
+
+VALÉRIO, M. A. G. Antitruste em setores regulados. São Paulo: Lemos e Cruz, 2006. p. 242.
+MELLO, M. T. Regulação e defesa da concorrência: interação conflitos e critérios de solução. Rio de Janeiro:
+ANPEC, dez. 2003. p. 7.
+40
+CARLTON, D. W; PICKER, R. C. Antitrust and regulation. National Bureau of Economic Research Working
+Paper Series, Cambridge, n. 12902, fev. 2007. pp. 2-4.
+41
+POSNER, R. Regulation (agencies) versus litigation (courts): an analytical framework. op. cit. p. 13.
+39
+
+35
+
+de interesses de grupos específicos, pois seria necessário influenciar tanto a agência quanto o
+tribunal. Por outro lado, no sistema misto as decisões seriam mais demoradas e os resultados
+relativamente incertos, além de uma duplicação de custos tanto para o setor público quanto para
+os entes privados.
+Um ponto importante que merece ressalva é o de que regulação e antitruste não são
+alternativas excludentes. A ideia de que a redução da regulação em determinado mercado
+necessariamente está relacionada a um aumento da competição nesse mercado é equivocada. A
+desregulação não enseja automaticamente o aumento da concorrência. Na verdade, segundo
+Sullivan e Harrison42, as políticas de regulação e antitruste são aliadas na obtenção deum mesmo
+fim, ou seja, ambas buscam a eficiência nos mercados, mesmo que por caminhos distintos; a
+regulação, por meio do controle de preços, quantidades, condições de entrada e outros; e a
+política antitruste por meio da promoção e preservação do processo natural de concorrência.
+Ademais, seria possível perceber que a regulação não retira as preocupações com a
+defesa da concorrência, pois, nas situações de regulação parcial, observa-se que, mesmo com as
+autoridades controlando as decisões dos agentes, ainda existem lacunas nas quais esses agentes
+podem livremente formular estratégias para a utilização abusiva do poder de mercado. Enfim,
+mesmo nos mercados regulados existe o potencial para a adoção de condutas anticompetitivas.
+Desse modo, verifica-se a necessidade do controle do abuso do poder de mercado
+43
+
+por parte das autoridades antitruste em qualquer mercado que exista a mínima possibilidade de
+
+uma conduta anticoncorrencial.
+A relação entre autoridades antitruste e agências reguladoras enseja duas situações
+que interagem constantemente. De um lado, a busca pela aplicação sistemática da política
+antitruste e, de outro lado, a tentativa de se atribuir a um determinado ente a capacidade de
+resolver problemas de significativa especificidade e tecnicidade. Desse modo, é possível verificar
+o surgimento de conflitos de competência tanto positivos quanto negativos. Podem ocorrer
+situações em que ambas as autoridades, autoridade antitruste e agência reguladora, entendem que
+42
+
+SULLIVAN, E. T.; HARRISON, J. L. Understanding antitrust and its economics implications. 5 ed. New York:
+Lexis Publishing/Matthew Bender, 2009. p. 9.
+43
+Existem duas categorias principais de abuso. Os abusos por exploração (em que a empresa em posição dominante
+explora o domínio que exerce no mercado em detrimento dos demais agentes económicos), que englobam, por
+exemplo, preços excessivos, condições contratuais não equitativas ou discriminação e os abusos por exclusão
+(orientados para o afastamento de concorrentes do mercado), que englobam, por exemplo, a recusa de fornecimento,
+a prática de preços predatórios ou de esmagamento de margem. Schuartz, L. F. “Poder econômico e abuso do poder
+econômico no direito da concorrência brasileiro”. In: Revista de Direito Mercantil Industrial, Econômico e
+Financeiro, ano 23, n 094, abril/junho 1994, p. 14.
+
+36
+
+é de sua competência influir sobre determinado assunto. Pode acontecer, ainda, de ambas
+concluírem que a responsabilidade de atuar sobre aquele assunto é da outra.
+Conforme Salomão Filho,44 o direito norte-americano discutiu bastante a relação
+entre o poder regulatório e o antitruste. Como resultado, surgiram duas teorias para tentar
+amenizar os conflitos existentes entre esses dois direitos. A primeira foi a Teoria da Ação Política
+(State action Douctrine) que acabou por defender que, para existir de fato imunidade do Direito
+Antitruste, é preciso que uma clara política faça a lei definir expressamente que afasta os
+princípios concorrenciais, com a intenção de substituir o Antitruste e que haja supervisão ativa e
+constante do cumprimento das obrigações impostas.
+A segunda teoria, por sua vez, é chamada de Teoria do Poder Amplo (Pervasice
+Power Doctrine), e verifica se a competência de uma agência, ao receber suas atribuições por lei,
+
+foi dotada de poderes suficientemente extensos e profundos para afastar o Direito Antitruste.
+De acordo com Marçal Justen Neto45:
+
+Embora se verifique em certa medida a influência de tais teorias no Brasil, o fato é que
+elas não são integralmente compatíveis com o nosso sistema jurídico. Por isso, não há o
+afastamento integral da disciplina concorrencial nos setores regulados.
+
+A relação entre antitruste e regulação sempre foi conturbada, mas verificamos que o
+resultado da sua interação pode ser bastante positivo para as agências envolvidas e para os
+agentes envolvidos, ainda que seja bastante complicado atingir tal otimização. Tratadas as
+questões de regulação e concorrência, passamos a estudar o setor específico escolhido para este
+trabalho: energia elétrica no Brasil.
+
+44
+
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). op. cit. pp.
+27-35.
+45
+JUSTEN NETO, M. Defesa da Concorrência no setor de energia elétrica – o termo de compromisso de cooperação
+institucional entre ANEEEL, CADE, SDE e SEAE. Informativo Justen, Pereira, Oliveira e Talamini, Curitiba, n.º 42,
+agosto 2010.
+
+37
+
+3. MERCADOS DE ENERGIA ELÉTRICA
+
+O setor de energia elétrica tem sido submetido, no Brasil, a um significativo processo
+de transformação em suas estruturas: qualificado como monopólio natural, esse setor hoje se vê
+mais aberto ao mercado e, por isso, sujeitando-se às normas de defesa da concorrência, aplicadas
+pelo CADE em coordenação com os Ministérios da Fazenda e da Justiça, e à regulação pública
+setorial, exercida pela Agência Nacional de Energia Elétrica (ANEEL). O mercado de energia
+elétrica é, por essência, qualificado como de competitividade restrita e imperfeita.46 Conta ainda
+com particularidades como a baixa elasticidade de demanda em relação ao preço no curto prazo,
+a incapacidade de armazenar-se eletricidade economicamente e os altos custos de entrada, que
+dificultam o desenvolvimento de mercados competitivos, haja vista que a substituição no uso
+desses, quando factível, se dá no longo prazo, dada a necessidade de alteração do parque
+técnico.47
+Energia elétrica é um bem não estocável, pois, depois de produzido, não pode ser
+armazenado nas quantidades necessárias de modo econômico: a oferta e a demanda devem
+ocorrer simultaneamente. Também se caracteriza por ser um bem intrinsecamente homogêneo,
+isto é, por não ser possível distinguir elétrons, não se pode precisar qual a fonte de geração da
+energia transportada nas redes de transmissão e distribuição. Por fim, não é um bem dirigível, na
+medida em que o fluxo de energia elétrica pelos condutores segue o caminho da menor
+resistência, segundo a Lei de Ohms. Assim, não é viável traçar-se um caminho predefinido para a
+transmissão de energia de um ponto para o outro.48
+Nas operações do setor de energia, porém, a definição do mercado ainda é objeto de
+divergência por parte das autoridades. Até 2007, o mercado de geração de energia era visto pelas
+autoridades de defesa da concorrência como sendo único e de âmbito nacional, englobando as
+diferentes matrizes energéticas − hídrica, térmica, eólica e nuclear. No entanto, a partir desse ano,
+a Secretaria de Acompanhamento Econômico (Seae) do Ministério da Fazenda passou a adotar
+46
+
+GIRARDI, Claudio. Regulação da energia elétrica: uma visão prática. In: ANDRADE, Rogério Emilio de
+(Coord.). Regulação pública da economia no Brasil. Campinas: Edicamp, 2003. p. 211.
+47
+Fonte: http://www.ppe.ufrj.br/ppe/production/tesis/mapdelgado.pdf acesso em 03/09/2014 p. 121.
+48
+GONÇALVES, Pedro, Regulação, Electricidade e Telecomunicações: Estudos de Direito Administrativo da
+Regulação. Editora: Coimbra Editora. 2008. p. 78.
+
+38
+
+definição mais restritiva, segregando diferentes mercados em função das diferentes matrizes. Esse
+entendimento baseia-se na percepção de que variam os volumes de investimentos e prazos para
+entrada em operação de cada tipo de unidade geradora.
+O critério adotado, contudo, não reflete de maneira adequada a realidade do novo
+modelo do setor elétrico, instituído pelas Leis nº 10.847 e nº 10.848, de 2004, e pensado para
+viabilizar a diversificação da matriz energética brasileira, até então excessivamente dependente
+da energia hidrelétrica. A política de diversificação possibilitou a integração das fontes hídricas e
+térmicas em estrutura única de geração de energia, apesar das diferenças de custos e processos
+produtivos. O objetivo era garantir a possibilidade de substituição entre as matrizes energéticas,
+assegurando a confiabilidade do suprimento em todas as regiões.
+A existência de um único mercado relevante também decorre do Ambiente de
+Contratação Regulada, no qual a comercialização da energia é feita por meio de leilões
+promovidos pela Câmara de Comercialização de Energia Elétrica. Os leilões limitam o poder de
+decisão dos agentes sobre condições de oferta e restringem a possibilidade de escolha de
+distribuidoras e consumidores finais, na medida em que todos os geradores vendem energia para
+todas as distribuidoras, independentemente da matriz elétrica.
+Por fim, a unicidade do mercado é ainda garantida pela centralização das decisões
+relativas à geração de energia no Operador Nacional do Sistema Elétrico (ONS), que busca obter
+o melhor aproveitamento dos recursos existentes. Com base em informações sobre os níveis dos
+reservatórios, as tendências hidrológicas e os custos de geração e de comercialização das
+termelétricas, o ONS define quais usinas atenderão a demanda em dado momento.
+Como se vê, as autoridades regulatórias tiveram cuidado especial com o planejamento e
+implantação do novo modelo do setor elétrico, cujos objetivos incluem a integração de todo o
+sistema de geração de energia brasileiro, não obstante as diferenças em custos e processos
+produtivos. Justamente por isso, a opção de segregar mercados relevantes em função do tipo de
+unidade geradora não tem sido adotada em todos os casos julgados pelo Conselho Administrativo
+de Defesa Econômica.49
+Sobre a avaliação do mercado relevante na sua dimensão geográfica, cabe destacar os
+argumentos trazidos pelo voto do Conselheiro-Relator Paulo Furquim de Azevedo, no Caso
+
+49
+
+Fonte: http://www.levysalomao.com.br/files/publicacao/anexo/20110525165033_dezembro---o-cade-e-o-mercadode-energia-eletrica.pdf Acesso em 19/08/2014
+
+39
+
+Petrobrás – Usina Termoelétrica Petrolina, AC 08012.007852/2007-85, de 23/07/2008, pois
+reforçam a fragilidade dos argumentos para uma segmentação geográfica do mercado relevante,
+ou seja, de que restrições de transmissão implicariam diferenciação de preços entre os diferentes
+submercados que justificariam uma segmentação geográfica.
+Conforme argumenta o Conselheiro-Relator, tendo em vista os dados extraídos dos
+Contratos de Compra e Venda de Energia Elétrica no Ambiente Regulado (CCEAR) no ano de
+2007 encaminhados pela Câmara de Comercialização de Energia Elétrica – CCEE:
+“não faz sentido segmentar geograficamente o mercado de geração em
+subsistemas (ou sub-mercados), posto que o fluxo de energia elétrica entre os diversos
+subsistemas é consideravelmente alto, sendo que em alguns casos quase 90% da energia
+comprada dentro de um subsistema provém de subsistemas diversos. Tais informações
+revelam um elevado grau de integração entre os subsistemas, de tal modo que a análise
+das condições de concorrência no fornecimento de energia elétrica deve contemplar os
+participantes em conjunto de subsistemas.”
+
+Essas características acabam não só por distinguir o setor de energia elétrica dos
+demais como também impõem a necessidade de se definir em quais segmentos existem condições
+de ser implementada a defesa da concorrência. Em um setor tão delicado, faz-se necessária a
+presença de uma regulação pública, eficiente, responsável, transparente e consensual. Assim
+podem-se imaginar condições à manutenção de um ambiente propício à prestação universal do
+serviço público e ao aporte de investimentos intensivos em capital, especialmente nos segmentos
+de geração, transmissão e distribuição, que possuem grande prazo para retorno de investimentos.
+Assim, cabe ao regulador editar normas voltadas a evitar condutas anticompetitivas, criar
+igualdade na condição de acesso às redes de transmissão, formação de preços e qualidade de
+serviços.
+A indústria de energia elétrica pode ser divida em cinco atividades principais50:
+geração, transmissão, operação do sistema, distribuição e fornecimento. A geração consiste na
+produção de energia elétrica para venda às distribuidoras e fornecedores. A transmissão envolve
+o transporte dessa energia em linhas de alta tensão, como forma de minimizar as perdas, até os
+centros de distribuição. A operação de sistemas visa a coordenar a produção de energia em tempo
+real para que este atenda à demanda de forma contínua, levando em consideração todas as
+50
+
+PIMENTA, André Patrus Ayres. Serviços de Energia Elétrica explorados em regime de Direito Privado. Curso de
+Especialização em Direito Regulatório da Energia Elétrica – 15 de janeiro de 2009. p. 4
+http://www.aneel.gov.br/biblioteca/trabalhos/trabalhos/Patrus_Andre_Servicos.pdf Acesso em: 20/08/2014
+
+40
+
+restrições do processo de produção e do sistema de transmissão para o funcionamento eficiente
+do sistema.
+Já a função da distribuição consiste na transformação da energia em alta voltagem,
+recebida do sistema de transmissão, para a de baixa voltagem, utilizada pelos consumidores
+finais, incluindo a medição e a cobrança pelo consumo desses últimos. A função de fornecimento
+consiste na compra de energia no atacado para a venda no varejo, diferenciando-se da anterior
+pela ausência de uma rede de distribuição, e seu foco são os consumidores de eletricidade que
+podem escolher seu fornecedor. O Brasil atualmente permite essa escolha somente para
+consumidores com demanda de 10.000 kW, enquanto que em países como o Reino Unido e a
+Noruega, todos os consumidores tem esse direito.51
+Em seu trabalho sobre a introdução da concorrência em mercados de eletricidade,
+Sally Hunt52define quatro tipos de modelos que diferem quanto ao nível de desregulamentação. O
+primeiro modelo é o tradicional monopólio verticalmente integrado que abrange toda a cadeia
+produtiva, sendo as únicas exceções às empresas independentes que realizavam a distribuição,
+enquanto as outras áreas permaneciam integradas.
+No segundo modelo, existem geradores independentes que vendem sua energia ao
+monopólio integrado por meio de contratos de longo prazo, que geralmente abrangem toda a
+produção da usina geradora em questão durante sua vida útil.
+Esse modelo geralmente é utilizado em países em desenvolvimento para atrair
+investimento externo, com contratos realizados em dólares para garantir o retorno do
+investimento. A competição começa no terceiro modelo, no qual não há mais regulação da
+geração, e os grandes consumidores e distribuidoras podem contratar livremente seu consumo de
+energia elétrica. No entanto, as distribuidoras ainda detêm o monopólio do fornecimento aos
+pequenos consumidores finais e é essa a diferença entre o terceiro e o quarto modelos, que
+permite que todos os consumidores escolham seus fornecedores.
+No Brasil, a operação e o planejamento do sistema eram fruto da cooperação técnica
+de empresas estatais federais de transmissão e geração e estatais estaduais de distribuição.
+Segundo Bandeira53, em estudo das alterações propostas para o modelo do setor elétrico
+
+51
+
+GONÇALVES, Pedro, Regulação, Electricidade e Telecomunicações: Estudos de Direito Administrativo da
+Regulação. Editora: Coimbra Editora. 2008 cap. 4.3 - Infraestruturas em rede. P. 97
+52
+HUNT, Sally. Making competition work in electricity. John Wiley& Sons, 2002. pp. 78-85.
+53
+BANDEIRA, Fausto de Paula M. Análise das alterações propostas para o modelo do setor elétrico brasileiro.
+
+41
+
+brasileiro, não havia incentivos à eficiência, e critérios políticos regiam os investimentos na
+expansão do sistema. Essas estatais sujeitavam-se a frequentes cortes em seus orçamentos e à
+utilização de congelamento de suas tarifas como forma de atingir metas macroeconômicas
+desejadas pelo governo - controle da inflação, por exemplo. Os investimentos das estatais viamse frequentemente sujeitos a atrasos em seus cronogramas, em um quadro que evoluiu até o
+esgotamento da capacidade de financiamento estatal.
+
+3.1 Mercados competitivos de energia elétrica
+
+3.1.1 Ponto de vista da regulação
+
+Mercados de energia elétrica possuem particularidades que os tornam inerentemente
+imperfeitos, como dito anteriormente, e seu desenvolvimento requer que se atente às restrições de
+natureza tanto física quanto econômica existentes. Joskow e Schmalensee,54 em seu trabalho
+pioneiro, apontam para o problema importante na falta de resposta da demanda a variações no
+preço spot no curto prazo, ou seja, o preço à vista de uma determinada mercadoria no momento
+da transação.
+De maneira geral, portanto, o consumidor de energia sempre foi cobrado de acordo
+com uma tarifa regulada, que consistia em uma média dos preços spot que seriam verificados no
+período em questão, caso esse mercado de preços spot existisse. Isso isenta os consumidores da
+exposição às flutuações do preço que ocorrem no curso de um dia, de modo que sua demanda é
+inelástica a essas variações no preço. Desse modo, é necessária a existência da capacidade
+geradora adicional apenas para suprir a demanda superior dos horários de pico, uma vez que os
+preços mais altos verificados nesses períodos não reduzem o consumo para equilibrar o mercado.
+O sistema de transmissão é outro ponto delicado. Ao contrário de outros sistemas de
+transporte, em que se pode distinguir com clareza o percurso realizado do vendedor ao
+comprador, a energia flui em corrente alternada livremente por todo o sistema de transmissão.
+Câmara Legislativa, Estudo, ago. 2003. p. 46.
+54
+JOSKOW, Paul L; SCHMALENSEE, Richard. Markets for power: analysis of electric utility deregulation. MIT
+Press, 1983. p.43.
+
+42
+
+Seu deslocamento se dá de acordo com as Leis de Kirchhoff, com a energia fluindo por todos os
+caminhos possíveis entre um ponto de injeção e um de extração na proporção inversa à
+impedância. Em uma analogia bastante simplificada, podemos comparar o sistema de transmissão
+a um reservatório de água, com os geradores colocando água e os consumidores retirando-a, mas
+sem que se possa saber quem consumiu a água produzida por determinado gerador.55
+A complexidade do sistema de transmissão decorre de sua fragilidade em relação a
+excesso de cargas e de sua natureza interligada. Um excesso de carga que provoque a falha de
+uma linha de transmissão pode rapidamente se espalhar por todo o sistema, com a eletricidade
+sempre seguindo o caminho de menor resistência: em caso de falha em uma linha de transmissão,
+o fluxo que ali se encontrava busca instantaneamente o caminho de menor resistência,
+espalhando-se pela rede de transmissão e, possivelmente, sobrecarregando outras linhas.56
+É aí que surge a figura do operador do sistema (OS). Sua função consiste basicamente
+no despacho sincronizado dos geradores, com o intuito de manter a carga sempre dentro dos
+limites do sistema de transmissão e garantir equilíbrio instantâneo entre a oferta e a demanda.
+Para isso, a coordenação do sistema deve ser feita em tempo real. Além das capacidades de cada
+gerador, ele deve levar em consideração seu tempo de resposta, o que pode variar
+consideravelmente.57
+Essa sincronização, assim como a manutenção da voltagem dentro do sistema de
+transmissão, exige reservas de capacidade geradora que possam ser prontamente coordenadas
+pelo operador do sistema, podendo ser tanto de geradores com resposta rápida como de grandes
+consumidores que podem reduzir seu consumo em curtos períodos de tempo. Essa eletricidade
+muitas vezes é comercializada em mercados separados como reserva ou serviços auxiliares. Esses
+serviços diferem entre si pela função e velocidade com que podem estar disponíveis; são
+fundamentais para o bom funcionamento do sistema e um desenho de mercado eficiente deve
+remunerar de maneira adequada essa capacidade adicional necessária.
+As redes de transmissão e distribuição são monopólios naturais. Os ganhos de escala
+e a inviabilidade de existirem várias redes de eletricidade competindo por uma mesma áreas
+inibem qualquer possibilidade de competição nessas áreas. Desse modo, garantir livre acesso à
+distribuição e à transmissão é uma prerrogativa básica de um modelo que busque introduzir a
+55
+
+HUNT, Sally. Making competition work in eletricity. John Wiley& Sons, 2002. pp. 78-85.
+http://www.aneel.gov.br/biblioteca/trabalhos/trabalhos/Patrus_Andre_Servicos.pdf Acesso em: 20/08/2014
+57
+http://www.aneel.gov.br/biblioteca/trabalhos/trabalhos/Patrus_Andre_Servicos.pdf Acesso em: 20/08/2014
+56
+
+43
+
+concorrência na geração. Caso o proprietário do sistema de transmissão possa restringir o acesso
+ou cobrar taxas excessivas a qualquer gerador do sistema, este verá sua capacidade de competir
+seriamente prejudicada. O mesmo ocorre com a rede de distribuição: restrições ao uso por parte
+de fornecedores independentes impedem o desenvolvimento de concorrência efetiva entre os
+participantes.
+O OS entra, então, como peça fundamental para viabilizar a existência de mercado
+competitivo, devendo haver separação total entre a operação do sistema e qualquer agente que
+participe de atividades competitivas, de modo que ele seja guiado apenas por considerações sobre
+a eficiência e a estabilidade do sistema58.
+O grau de controle do OS varia de acordo cm o desenho do mercado do qual ele faz
+parte. Adotando as definições dadas por Wilson59, de um lado existem os modelos
+“centralizados” (ou integrados), que buscam imitar o funcionamento de um sistema verticalmente
+integrado para se apropriar dos ganhos de eficiência que derivam da maior coordenação entre os
+agentes; e, do outro, existem os modelos “desagregados” (unbundled), que se apoiam em
+múltiplos mercados para o fornecimento eficiente de energia e dos serviços necessários ao
+funcionamento eficiente do sistema.
+Mercados integrados baseiam-se em uma série de contratos, assinados por todos os
+participantes, que passam o controle de todos os mercados multilaterais - futuros, spot,
+transmissão, serviços auxiliares, etc. - para o OS. Cada gerador participante d mercado é obrigado
+a fornecer a esse operador dados que, dependendo do modelo, podem ser tanto de natureza
+técnica quanto de preços e quantidades que ele esteja interessado em vender ou ambos. De posse
+dos dados, o operador do sistema simula o funcionamento de um mercado por meio de programas
+de otimização para assegurar que a oferta se iguale à demanda em tempo real da maneira mais
+eficiente possível, tendo em vista todas as restrições impostas pelo sistema de transmissão.
+Sistemas “desagregados” partem da premissa de que a participação nos mercados é
+voluntária e sem nenhuma obrigação de longo prazo, com exceção de uma tarifa geral aprovada
+pelo regulador. A existência de mercados de futuros é encorajada; da interação entre eles é que
+surgem preços competitivos. O OS restringe-se ao papel de administrar as operações em tempo
+real, garantido a estabilidade do sistema. Contratos de longo prazo têm amplas possibilidades de
+58
+
+LEAUTIER, Thomas-Oliveier. Transmission constraints and imperfect markets for power. Journal of Regulatory
+Economics, v. 19, Issue, 1, p. 27, Norwell, Jan. 2001. p. 64.
+59
+WILSON, Robert. Architecture of power markets. Econometrica, July 2002. pp. 4, 42, 70.
+
+44
+
+ser negociados em mercados subsequentes, de modo que se possam contornar restrições de
+natureza física ao cumprimento dos contratos. Essa restrição à atuação do operador do sistema
+pode ser uma fonte de ineficiência caso os mercados se mostrem mal coordenados ou distorcidos
+por uma regulação mal elaborada. De modo geral, modelos “desagregados” são mais flexíveis e
+permitem que os preços sejam contestados por outros participantes, estimulando a concorrência,
+o que pode não ocorrer em sistemas centralizados.
+Podemos falar ainda dos modelos híbridos. Pode existir um pool para obtenção de
+preços spot sem que isso impeça os agentes de contratar livremente entre si por meio de contratos
+bilaterais, com o controle do sistema permanecendo na mão do OS para que este despache da
+maneira mais eficiente possível. Os contratos firmados entre os agentes são repassados ao
+operador do sistema, que organiza o sistema a fim de minimizar os custos de operação.
+
+3.1.2 Ponto de vista da concorrência:
+
+Salomão Filho60 diz que o estágio de interação entre o sistema concorrencial e o
+sistema regulatório elétrico é híbrido, oscilando entre a introdução gradual de livre concorrência e
+o controle pela regulação. Esclarece, ainda, que, quanto uma possível interpretação de imunidade
+antitruste da legislação, a Aneel não a exerce de forma profunda, e que para o atual quadro
+institucional deve-se reconhecer que ainda não estão claros os limites da aplicação da lei
+concorrencial ao setor elétrico, e que para que esses limites sejam determinados com clareza é
+fundamental a boa interação entre o sistema regulamentar e o sistema concorrencial. Por fim,
+Salomão Filho61, entende que as tentativas de interação entre os sistemas que vem sendo feitas
+são ainda insatisfatórias, e com base em convênios “a ANEEL emite pareceres sobre atos de
+concentração submetidos ao CADE, sem prejuízo de que SEAE/MF e SDE/MJ façam o mesmo.
+Trata-se de um típico de duplicação de trabalho e má utilização dos recursos públicos, causadas
+pela indefinição no relacionamento entre o sistema regulamentar e concorrencial.”
+
+60
+
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). op. cit. p.
+250.
+61
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). op. cit. pp.
+252-253.
+
+45
+
+Contudo a opinião de Salomão Filho baseia-se na realidade da lei 8884/94, que foi
+substituída pela Lei 12.529/11, e que justamente procurou racionalizar a atuação do SBDC com a
+mudança estrutural promovida. A reformulação do Sistema eliminou a sobreposição de atividades
+e propiciou redução significativa na duração média da análise de atos de concentração62. Foi
+justamente essa transparência e enfoque mais técnico proporcionados pela nova lei que resultou
+em maior proximidade entre o SBDC e os órgãos dos setores regulados, incluindo a ANEEL,
+compartilhando assim, a expertise antitruste para análise de atos de concentração nos respectivos
+setores.63
+O jurista Marçal Justen Neto, em seu artigo64 Defesa da Concorrência no Setor de
+Energia Elétrica, esclarece que a ANEEL que tem competência para adotar medidas preventivas e
+repressivas tanto no controle de condutas quanto no controle de estruturas. Esclarece ainda que,
+“além disso, a redação do art. 3°, inc. IX é suficientemente ampla a ponto de comportar a
+interpretação de que caberia à ANEEL a aplicação da Lei de Concorrência no setor de energia
+elétrica”.
+
+Ainda segundo Marçal Justen Neto, no tocante a isenção antitruste, nos ensina que
+“parece evidente que a lei não pretendeu afastar a competência dos órgãos do Sistema Brasileiro
+de Defesa da Concorrência no setor. Continuando, afirma que “(...) ao contrário, determinou a
+articulação entre o regulador setorial e os órgãos de defesa da concorrência - algo que, em certa
+medida, já constava do art. 36 da Lei n. 8.884. Há um dever de harmonização de atuações...”
+
+Neste mesmo artigo finaliza afirmando que:
+
+a atuação da ANEEL em matéria de defesa da concorrência se limita a fornecer
+subsídios técnicos para fundamentar a elaboração dos pareceres econômicos pelas
+secretarias. As manifestações da agência reguladora não têm caráter vinculativo... O
+parecer da SDE deve apreciar expressamente os subsídios fornecidos pela agência
+reguladora e só poderá afastá-los motivada e fundamentadamente.
+
+Já Luciano Sotero Santiago65, esclarece que o CADE entende que foram conferidos à
+Aneel somente poderes para zelar pela defesa da concorrência, conforme se segue. A respeito da
+62
+
+DOMINGUES, Juliana Oliveira; GABAN, Eduardo Molan. Direito Antitruste. op. cit. p. 112.
+DOMINGUES, Juliana Oliveira; GABAN, Eduardo Molan. Direito Antitruste. op. cit. p. 113.
+64
+JUSTEN NETO, M. Defesa da Concorrência no setor de energia elétrica – o termo de compromisso de cooperação
+institucional entre ANEEEL, CADE, SDE e SEAE. Informativo Justen, Pereira, Oliveira e Talamini, Curitiba, n.º 42,
+agosto 2010. Disponível em: <http://:www.justen.com.br//informativo.php?informativo=42&artigo=459>. Acesso
+em 22/08/2014.
+65
+SANTIAGO, L. S. Direito Da Concorrência, Salvador: Podivm, 2008. Cap. 10. p. 391-392.
+63
+
+46
+
+relação do Sistema Brasileiro de Defesa da Concorrência com a ANEEL, o CADE já decidiu o
+seguinte:
+Cabe à ANEEL tão-somente a função de zelar pela lei de defesa da concorrência,
+devendo monitorar e acompanhar as práticas de mercado dos agentes do setor de energia
+elétrica, podendo, inclusive, se conveniente for, estabelecer restrições, limites e
+condições apenas quanto à obtenção de transferência de concessões, permissões e
+autorizações, à concentração societária e à realização de negócios entre si, não
+mencionando a lei instituidora da ANEEL qualquer poder à mesma (sic) no intuito de
+promover a prevenção e repressão às infrações contra a ordem econômica, ou mesmo
+excluindo o CADE de promovê-la. (...) O artigo 54 da Lei n. 8.884/94 deixa claro que
+não existem exceções nem casos específicos que retirem do CADE a competência para
+conhecer dos atos de concentração, mesmo quando seus efeitos são confirmados no
+âmbito de setores regulados, como é o caso do setor elétrico.
+
+Como visto acima, a doutrina ainda não chegou a um consenso sobre os limites da
+aplicação da lei concorrencial junto ao setor elétrico e cuja divisão de competência entre Aneel e
+SBDC ainda está a duplicar esforços e causa indefinição quando ao papel do CADE. A
+indefinição dos limites de atuação quanto à competência entre a ANEEL e o Cade quando a
+defesa da concorrência chegou ao conhecimento do Tribunal Regional Federal (TRT) da lª
+Região, que apreciando Agravo de Instrumento n. 2002.01.00.011049-9IDF, tendo como
+Relatora a Desembargadora Federal Selene Maria de Almeida, 5ª Turma, DJ 13.09.2002, p. 205,
+entendeu que:
+“Está errada a tese das agravadas de que cabe somente a ANEEL a
+competência para definir o mercado relevante do setor de distribuição de energia
+elétrica, nos termos da Lei 9.247/96.”. Continuando o TRT 1ª Região esclarece que “as
+alterações introduzidas pela Lei n. 9.648/98, atribuem à ANEEL, devidamente articulada
+com a Secretaria de Direito Econômico do MJ, o estabelecimento de limites, restrições
+ou condições que propiciem a concorrência e impeçam efeitos danosos da concentração
+econômica no setor elétrico, zelando pelo cumprimento da legislação de defesa da
+concorrência”.
+
+E, por fim, entendeu o Egrégio Tribunal, interpretando a Lei 9.427/96que a mesma:
+“não dá competência à ANEEL para aplicar as sanções da Lei 8.884/94 e se há abuso de poder
+econômico. Não existe exceção que retire do CADE a competência para apreciar os atos de
+concentração, mesmo nos casos de setores econômicos que têm regulamentação específica.”,
+conforme Santiago66: Numa rápida interpretação dos incisos VIII e XIII do art. 3º da Lei n.
+9.427/96, inferimos que parecem afirmar que ANEEL tem poderes, independentemente do
+
+66
+
+SANTIAGO, L. S. Direito Da Concorrência, Salvador: Podivm, 2008. Cap. 10. p. 386.
+
+47
+
+CADE, para, visando à concorrência efetiva, impor restrições às empresas vinculadas ao setor
+elétrico, pois não dispõe que estes atos devem ser submetidos ao Cade, apesar do parágrafo único
+da referida lei timidamente determinar articulação com SDE/MJ.
+Apesar das divergências de opiniões sobre o papel da ANEEL na defesa da ordem
+econômica, concluímos que algumas competências do SBDC foram transferidos para a Aneel,
+contudo não de forma clara e profunda o suficiente para que exista uma isenção quanto à
+aplicação da lei antitruste brasileira, no setor elétrico, entretanto houve unanimidade entre os
+autores retro mencionados no tocante a necessidade de harmonização de atuações ente o SBDC e
+a ANEEL.
+
+48
+
+49
+
+4. BRASIL: UM SETOR EM TRANSIÇÃO
+
+É de conhecimento comum e geral a forte dependência do Brasil da geração de
+energia elétrica por meio das usinas hidroelétricas. Alguns países, como a Noruega e a Nova
+Zelândia, tem também forte dependência de fontes hidroelétricas. Mas é somente no Brasil que se
+encontram diversas hidroelétricas que compartilham os mesmos recursos hídricos, ou seja, uma
+mesma bacia hídrica. A complexidade desse tipo de sistema está no fato de que as bacias hídricas
+estão sujeitas a diferentes riscos hidrológicos, como regimes de chuva e seca, tornando o nosso
+sistema bastante sensível.67
+A reestruturação do sistema elétrico brasileiro começou com a Constituição de
+68
+
+1988 , onde o art. 175 dispôs que “incumbe ao poder público, na forma da lei, diretamente ou
+sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços
+públicos”.
+Contudo, a chamada Lei das Concessões só veio a ser promulgada no governo de
+Fernando Henrique Cardoso, em 1995, criando as figuras do produtor independente e dos
+consumidores livres e instituindo o livre acesso desses agentes ao sistema de transmissão
+existente.69
+Por sua vez, a promulgação da Lei de Concessões permitiu a criação do Projeto de
+Reestruturação do Setor Elétrico Brasileiro (Reseb). Esse projeto tinha como objetivos assegurar
+o fornecimento, atrair investimentos privados, aprimorar a eficiência no emprego de recursos no
+setor e permitir a redução das despesas e da dívida pública com a entrada de recursos gerados
+pela privatização dos ativos estatais. Tal Projeto Reseb gerou considerável documentação sobre o
+estado do setor elétrico brasileiro entre 1996 e 1998, formulando recomendações que permitissem
+a introdução de um modelo baseado na concorrência para o setor. O ano de 1998 é considerado
+data de entrada em vigor de um novo modelo do setor elétrico. Entretanto, antes que todas as
+recomendações fossem adotadas para a implementação do modelo, veio a crise de abastecimento
+
+67
+
+BYE, Torstein. A Nordic energy market under stress. Economic Surveys, 4, p. 26-37. Statistics Norway, 2003 In:
+MME. Modelo institucional do setor elétrico. p. 30, Brasília, 17 dez. 2003.
+68
+ALMEIDA, L. H. B., Análise da implantação de leilões de energia elétrica no processo de reestruturação do setor
+elétrico brasileiro. Dissertação de Mestrado. Universidade de Brasília, 2005. p. 57.
+69
+CALDAS, Geraldo Pereira. Concessões de Serviços Públicos de Energia Elétrica face à Constituição Federal de
+1988 e o Interesse Público. Curitiba: Ed. Juruá, 2001. p. 87.
+
+50
+
+de 2001, que paralisou processo.70
+Nas eleições de 2002, o modelo para setor sofreu forte crítica dos grupos que
+formavam a oposição, gerando propostas de campanha de um novo modelo para o setor no qual
+se reduzia consideravelmente o âmbito da concorrência. Com a eleição de Lula em 2003, o
+Ministério de Minas e Energia do novo governo publicou uma proposta71 para uma nova
+regulamentação, cujos três objetivos eram: “garantir a segurança de suprimento de energia
+elétrica, promover a modicidade tarifária, por meio da contratação eficiente de energia para os
+consumidores regulados e promover a inserção social no Setor Elétrico, em particular pelos
+programas de universalização de atendimento”. No entanto, o modelo realmente apresentado
+guarda pouca semelhança com as propostas de campanha, diferindo também do modelo FHC em
+seu caráter centralizador no que se refere ao planejamento e à compra de energia. O desenho
+original do mercado foi conservado, com exceção de pequenas mudanças.
+Tendo em vista as diversas alterações que o Sistema Elétrico Brasileiro sofreu até o
+modelo vigente, a seguir é apresentada uma tabela com um resumo das principais mudanças entre
+os modelos anteriores e o modelo atual.
+
+Modelo antigo (até 1995)
+
+Modelo de Livre Mercado (1995
+a 2003)
+
+Financiamento através de
+
+Financiamento através de
+
+recursos públicos
+
+recursos públicos e privados
+
+Novo modelo (2004)
+
+Financiamento através de
+recursos
+públicos e privados
+Empresas divididas por
+
+Empresas verticalizadas
+
+Empresas divididas por
+
+atividade:
+
+atividade: geração,
+
+geração, transmissão,
+
+transmissão, distribuição e
+
+distribuição,
+
+comercialização
+
+comercialização, importação e
+exportação.
+
+70
+
+É o que explica Bandeira em sua obra. BANDEIRA, Fausto de Paula M. Análise das alterações propostas para o
+modelo do setor elétrico brasileiro. Câmara Legislativa, Estudo, ago. 2003.
+71
+BRASIL. Ministério das Minas e Energia. Proposta de Modelo Institucional do Setor Elétrico. [Brasília]:[s.n.],
+julho, 2003.
+
+51
+
+Empresas
+predominantemente
+Estatais
+
+Abertura e ênfase na
+privatização das Empresas
+
+Convivência entre Empresas
+Estatais
+e Privadas
+
+Monopólios - Competição
+
+Competição na geração e
+
+Competição na geração e
+
+Inexistente
+
+Comercialização
+
+comercialização
+
+Consumidores Cativos
+
+Consumidores Livres e
+Cativos
+
+Consumidores Livres e Cativos
+No ambiente livre: Preços
+livremente
+
+Tarifas reguladas em todos
+
+Preços livremente
+
+negociados na geração e
+
+os
+
+negociados na geração e
+
+comercialização. No ambiente
+
+Segmentos
+
+comercialização
+
+regulado: leilão e licitação pela
+menor
+tarifa
+Convivência entre Mercados
+
+Mercado Regulado
+
+Mercado Livre
+
+Livre e
+Regulado
+
+Planejamento
+Determinativo Grupo Coordenador do
+Planejamento dos
+Sistemas
+
+Planejamento Indicativo pelo
+Conselho Nacional de
+Política Energética (CNPE)
+
+Planejamento pela Empresa de
+Pesquisa Energética (EPE)
+
+Elétricos (GCPS)
+Contratação : 85% do
+Contratação: 100% do
+
+mercado (até agosto/2003) e
+
+Mercado
+
+95% mercado (até
+dez./2004)
+
+Sobras/déficits do balanço
+
+Sobras/déficits do balanço
+
+energético rateados entre
+
+energético liquidados no
+
+compradores
+
+MAE
+
+Contratação: 100% do mercado
++
+Reserva
+Sobras/déficits do balanço
+energético liquidados na
+CCEE.
+Mecanismo de Compensação
+
+52
+
+de
+Sobras e Déficits (MCSD) para
+as
+Distribuidoras.
+
+Fonte: CCEE
+
+4.1 O modelo FHC
+
+Com o intuito de liberalizar o mercado de energia elétrica e iniciar o processo de
+privatização dos ativos federais no setor elétrico, o governo contratou um consórcio encabeçado
+pela firma de consultoria britânica Coopers&Lybrand para a elaboração de um novo modelo
+institucional. O modelo proposto, fortemente inspirado no modelo inglês, previa a criação de um
+ambiente competitivo nas áreas de geração e distribuição, com a transmissão permanecendo
+como um monopólio regulado.72
+O MAE (Mercado Atacadista de Energia Elétrica) tinha como objetivos o
+estabelecimento de um preço que refletisse, a cada período de tempo, o custo marginal da energia
+no sistema, de modo que este respondesse a alterações de oferta e demanda e sinalizasse a
+necessidade de novos investimentos. Esse preço serviria como base para contratos bilaterais de
+longo prazo destinados a reduzir a volatilidade dos preços. No MAE, geradores e
+comercializadores negociariam sua energia não contratada, criando um ambiente multilateral em
+que os comercializadores pudessem comprar de quaisquer geradores estes pudessem vender a
+quaisquer comercializadores, possibilitando um ambiente concorrencial ao mesmo tempo em que
+se permitia que quaisquer dicotomias entre os contratos efetuados anteriormente e o consumo ou
+produção verificados pudessem ser resolvidas sem maiores riscos à estabilidade do sistema.73
+O funcionamento do MAE seria de maneira centralizada74, nas mãos do operador
+nacional do sistema (ONS), que operaria o mercado em nome dos seus membros. O ONS
+72
+
+BANDEIRA, Fausto de Paula M. Análise das alterações propostas para o modelo do setor elétrico brasileiro.
+Câmara Legislativa, Estudo, ago. 2003. p. 32.
+73
+BANDEIRA, Fausto de Paula M. Análise das alterações propostas para o modelo do setor elétrico brasileiro. op.
+cit. p. 33.
+74
+VILLELA SOUTO, Marcos Juruena. Breve apresentação do Novo Marco Regulatório do setor elétrico brasileiro.
+In: LANDAU, Helena. Regulação Jurídica do setor Elétrico. Lume n Juris, Rio de Janeiro, 2006. pp. 237-239.
+
+53
+
+aperfeiçoaria o sistema de posse de dados técnicos dos geradores, criando um programa de
+geração no qual seriam identificadas as usinas a serem despachadas para proporcionar a operação
+do sistema ao menor custo. Nesse processo, o ONS levaria em consideração todo o fluxo de
+energia, tanto a contratada previamente quanto a liquidada em tempo real por meio do MAE.
+Contudo, apenas a energia não contratada previamente seria contabilizada por meio do preço do
+MAE. Os encargos relativos ao uso do sistema de transmissão e serviços auxiliares seriam
+calculados ex-post e atribuídos aos agentes de acordo com sua participação.
+Todos os geradores cuja capacidade instalada fosse superior a 50 MW e todos os
+comercializadores com carga superior a 100 GWh anuais teriam participação obrigatória no
+MAE. Consumidores com carga acima de 10 MW também poderiam participar do mercado,
+podendo contratar livremente sua energia. Todos os participantes do MAE deveriam estar
+representados em seu conselho executivo, responsável por sua administração rotineira e por
+eventuais alterações dos arranjos necessários ao funcionamento do mercado.75
+Simulações realizadas juntamente com a Eletrobrás mostraram que, devido a
+variações hidrológicas, os geradores hidroelétricos poderiam encontrar-se incapazes de atender a
+seus contratos, podendo ir à falência. Para administrar esse risco, foi criado o mecanismo de
+realocação de energia (MRE), que distribuiria esse risco entre todos os geradores hidrelétricos,
+mitigando assim seu efeito sobre o setor.76
+A partir disso, o MRE funcionaria com a determinação da energia firme total do
+sistema hidrelétrico, que corresponde à geração total do sistema, dadas as restrições hidrológicas
+e técnicas. A cada gerador hidroelétrico é atribuída uma porcentagem dessa energia firme de
+acordo com sua capacidade. Geradores cuja produção fosse superior à sua energia firme teriam
+sua produção realocada para atender os geradores cuja produção tivesse sido inferior. Cada
+produtor era remunerado de acordo com sua energia firme. Se a produção total de energia
+hidrelétrica excedesse a energia firme total, metade da venda dessa energia adicional seria
+distribuída entre todos os geradores e metade entre os responsáveis pela geração adicional77,
+sempre de maneira proporcional. Se os geradores hidroelétricos não conseguissem gerar a energia
+necessária para atingir o nível de energia firme, eles teriam de recorrer aos geradores
+75
+
+Fonte: www.abradee.org.br/legislacao_mae.asp acessado em 17/08/2014
+OLIVEIRA, André Rossi; MUELLER, Bernardo; COUTINHO, Paulo César. O mercado atacadista de energia
+brasileiro (MAE). In: Regulação da infraestrutura no Brasil: casos didáticos. Francisco Anuatti Neto e Marina
+Figueira de Mello (organizadores). São Paulo: Singular, 2008. p. 67
+77
+LEITE, Antonio Dias. A energia do Brasil, 2. ed. Rev. Atual. Rio de Janeiro: Elsevier, 2007. p. 49.
+76
+
+54
+
+termoelétricos, pagando o preço MAE por essa energia, também de maneira proporcional e
+dividindo-se o risco entre todos os geradores hidroelétricos.
+Para a criação de um mercado competitivo, foi recomendada a separação vertical das
+empresas do setor de transmissão, com a criação de duas a quatro empresas de transmissão
+federais (como Furnas, Eletrosul, Chesf e Eletronorte)78. Cada uma dessas empresas seria
+responsável por uma região específica em oposição a uma só, que poderia contestar autoridade do
+ONS, impedindo, assim, a possibilidade de concorrência por comparação. As empresas estatais
+seria dada a opção de transferir seus ativos para a empresa federal correspondente ou integrar-se
+com a empresa de distribuição/comercialização que servisse à região em questão.
+Na geração, foram propostas separações vertical e horizontal. Seriam impostos
+limites à participação cruzada entre empresas de distribuição/comercialização, e empresas de
+geração federais seriam divididas. Isso deveria garantir que uma parcela suficiente do mercado
+pudesse ser contestada por todos os geradores, limitando o poder de mercado desses agentes e
+criando condições mais atraentes a novos geradores.79
+Para manter o funcionamento estável do mercado durante o período de transição, foi
+sugerido um sistema de iniciais com 15 anos de duração. Esses contratos regulariam toda a
+comercialização de energia durante os seis primeiros anos de operação do novo modelo, com esse
+volume diminuindo em 10% do total a cada ano a partir do sétimo. Esses contratos deveriam
+assegurar o funcionamento estável do setor até que a implementação de um mercado competitivo
+estivesse efetivada, diminuindo o risco de uma exposição dos consumidores a mercados
+essencialmente incompletos durante os primeiros anos de funcionamento.80
+Em seu estudo sobre o processo de abertura à concorrência no setor elétrico
+brasileiro, Ferraz81 aponta dois erros cometidos na implementação do modelo que contribuíram
+para a crise de 2001.
+O primeiro seria a falta de representatividade dos grandes consumidores no Conselho
+Executivo do MAE: eles foram agrupados juntamente às empresas de distribuição e isso se
+78
+
+LOUREIRO, Luis Gustavo Kaercher. A indústria elétrica e o Código de Águas: o regime jurídico das empresas de
+energia entre a concession de service public e a regulation of public utilities. Porto Alegre: Sergio Antonio Fabris
+Ed., 2008. p. 35.
+79
+LOUREIRO, Luis Gustavo Kaercher. A indústria elétrica e o Código de Águas: o regime jurídico das empresas de
+energia entre a concession de service public e a regulation of public utilities. op. cit. p. 39.
+80
+PAIXÃO, L.E. Memórias do Projeto Re-SEB. Massao Ohno Editor, São Paulo, 2000. p. 57.
+81
+FERRAZ, Clarice C. de M. Le marché de l'électricité au Brésil: ouverture a la concurrence e régulation. Memoire
+de Diplome. DEAMAP. Faculté des Sciences Éconoomique set Sociales. Université de Genève, 2004. p. 39 -45.
+
+55
+
+mostrou problemático, uma vez que os consumidores livres são clientes em potencial das
+distribuidoras e que os dois grupos podem ter interesses divergentes. Outro fator foi a
+superestimação das energias firmes do sistema hidrelétrico, o que resultou em preços spot muito
+baixos e, consequentemente, poucos investimentos na geração. Como as energias firmes só eram
+revistas a cada cinco anos, os reservatórios baixaram sem que isso fosse refletido nos preços. As
+empresas de distribuição, que tinham seus ganhos garantidos pelos contratos iniciais, não
+buscaram fontes de eletricidade mais baratas. Isso tudo, associado a uma situação hidrológica
+desfavorável nos anos de 2000 e 2001, acabou por gerar uma crise de abastecimento que
+praticamente paralisou a implantação do modelo.
+Desse modo, o processo de reformulação do setor foi iniciado, mas não concluído.
+Cerca de 80% da distribuição passou das mãos dos governos estaduais para empresas privadas,
+mas 75% da geração permaneceu nas mãos de empresas estatais que também não foram divididas
+devido a uma forte pressão política82. A transmissão continuou fragmentada na mão de diversas
+empresas e é até hoje um dos fatores responsáveis pelas altas de preços verificadas pelos
+consumidores finais.
+
+4.2 O modelo Lula
+
+Em julho de 2003, o Conselho Nacional de Política Energética (CNPE) divulgou uma
+nova proposta para a regulamentação do setor elétrico, apresentando como motivação o fato de o
+modelo então vigente não ter tido resultados favoráveis, principalmente no que se refere a:
+a) modicidade tarifária;
+b) continuidade e qualidade dos serviços, considerando em especial a crise de 2001;
+c) incentivos à expansão do serviço, demonstrando incapacidade na geração de preços
+eficientes para a promoção dos investimentos.
+Uma rápida análise dessas motivações já revela que foco do novo modelo não se dá
+sobre as causas efetivas dos problemas encontrados e sim sobre seus efeitos. Uma das principais
+causas da crise que atingiu o setor foi justamente o nível de preços excessivamente baixo,
+
+82
+
+ABBUD, O. A.; TANCREDI, M., Transformações recentes da matriz brasileira de geração de energia elétrica –
+causas e impactos principais. Textos para discussão n. 69, Brasília, 2010. p. 82.
+
+56
+
+resultante da superestimação da energia firme do sistema hidroelétrico.
+Além disso, o primeiro e o terceiro podem ser contraditórios, uma vez que preços
+altos atraem investimentos, pois em um mercado competitivo o preço é o principal incentivo à
+expansão do serviço. A falta de planejamento que afetava o setor não era resultado de falhas no
+desenho do modelo institucional, mas sim fruto da falta de recursos que assolava o setor público
+brasileiro na época.83
+A comercialização da energia no novo modelo ocorre em dois ambientes distintos: o
+ambiente da contratação regulada (ACR) e o ambiente de contratação livre (ACL), conforme
+explicado pela publicação “O novo Modelo do Setor Elétrico”84, do Ministério de Minas e
+Energia. Todos os geradores podem comercializar nos dois ambientes, e as regras de liquidação e
+contabilização permanecem essencialmente as mesmas. O despacho permanece centralizado nas
+mãos do ONS, que otimizará o funcionamento do setor com o objetivo de obter o menor custo
+operacional dadas as restrições do sistema.
+O ACR é apresentado como uma cooperativa que agrega a demanda de vários
+distribuidores, com as diferenças entre os valores contratados e consumidos contabilizadas com
+base em um preço que reflita o custo marginal de operação, com um valor de teto. Nesse
+ambiente será comercializada a energia destinada a consumidores regulados (distribuidoras). No
+novo modelo as distribuidoras são obrigadas a contratar 100% da eletricidade necessária a
+atender a demanda de seus clientes.85
+O ACL é destinado a atender a aquisição de energia para os consumidores livres,
+sendo realizada por meio de contratos bilaterais livremente negociados, compreendendo também
+os contratos realizados anteriormente à implantação do modelo.86
+É no processo de contratação de energia e no planejamento que ocorrem as maiores
+mudanças. No novo modelo, o planejamento do setor deixa de ser indicativo para ser
+determinante: o governo passa a ser responsável pela escolha dos projetos que, uma vez
+selecionados, são licitados pelo critério de menor tarifa. Os projetos oferecidos já possuem
+83
+
+BANDEIRA, Fausto de Paula M. Avaliação das alterações introduzidas no modelo do setor elétrico brasileiro pelas
+Leis n° 10.847 e 10.848. Câmara Legislativa, Estudo, abr. 2004.
+84
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF
+85
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF p. 8
+86
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF p. 12
+
+57
+
+licença ambiental prévia para eliminar o risco associado às incertezas envolvidas na obtenção da
+mesma. A licitação dá-se em duas partes: a inicial, realizada com cinco anos de antecedência com
+o objetivo de atender a uma dada previsão de crescimento da demanda, e a complementar, a ser
+realizada dois anos após a inicial, com o objetivo de atender a eventuais acréscimos na demanda
+inicialmente projetada.
+Em 2004 foi criada a Empresa de Planejamento Energético (EPE)87, responsável pela
+elaboração de estudos que possam guiar o planejamento do setor e obter previamente as licenças
+ambientais para os projetos a serem licitados. A EPE elabora uma lista de projetos organizados
+por ordem crescente de mérito econômico, calculado de acordo com uma estimativa dos preços
+da energia assegurada de cada projeto, de modo que a energia assegurada total exceda a expansão
+de consumo. Vence a licitação aquele que oferecer o menor preço à energia assegurada ofertada
+ao ACR.
+Os novos empreendimentos de geração são postos à disposição do ACR obedecendo
+ao despacho do ONS. A contratação pode ser realizada por meio de dois tipos de contratos88, a
+escolha cabendo MME: contratos de quantidade de energia, em que os geradores se dispõem a
+fornecer uma quantidade de energia fixa e assumem os riscos decorrentes de variações nos
+preços; e contratos de disponibilidade de energia, nos quais os riscos são alocados ao pool e
+repassados aos consumidores regulados. Todavia, se um gerador novo deseja reservar uma fração
+de sua produção para a venda no ACL, ou para consumo próprio, ele deverá pagar uma tarifa
+regulada e declarar qual proporção de energia gerada será destinada à comercialização livre no
+ato da licitação.
+A energia velha89, ou seja, proveniente de geradores já existentes será comercializada
+por meio de leilões. A contratação será realizada por meio de contratos de quantidade de energia
+com duração de no mínimo 3 e no máximo 15 anos, com os preços obtidos nos leilões sendo
+inteiramente repassados às tarifas.
+Em substituição ao antigo MAE, foi criada a Câmara de Comercialização de Energia
+
+87
+
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF p. 14.
+88
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF p. 11.
+89
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF p. 11
+
+58
+
+Elétrica (CCEE)90. A CCEE possui basicamente a mesma estrutura do MAE e é responsável pela
+realização dos leilões para compra de energia. Para mitigação dos riscos sistêmicos associados à
+geração hidroelétrica, é mantido o MRE.
+O modelo Lula não altera de forma significativa o desenho do sistema já existente. As
+mudanças feitas não se endereçaram à correção das causas estruturais os problemas existentes.
+Além disso, as dificuldades encontradas na sua implementação aumentaram consideravelmente as
+incertezas relacionadas à participação no setor, como ressaltaram várias entidades que
+representam investidores privados do setor (CBIEE, Apine, Abradee, Abraceel, ABCE)91. Os
+problemas existentes em relação à falta de recursos para o aparelhamento da máquina estatal
+responsável por garantir o planejamento do setor foram exacerbados devidos a gastos
+desnecessários com a criação de novas instituições para substituir as antigas que não
+funcionavam entre outras razões, por falta de recursos.
+
+90
+
+Ministério de Minas e Energia - MME, O Novo Modelo do Setor Elétrico. Brasília, 2003. Disponível em:
+http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF p. 16.
+91
+SIMABUKU, R. T., A estrutura de regulamentação e de regulação do setor elétrico brasileiro: é possível
+melhorar?. Revista de Políticas Públicas e Gestão Governamental – Vol. 7, n. 2, Brasília, 2008. p. 72
+
+59
+
+5. CONCORRÊNCIA E REGULAÇÃO A PARTIR DA LEI 9427/96
+
+A lei de criação da Agência reguladora do setor de energia elétrica do Brasil diz, no
+seu art. 3°, que a competência especial da ANEEL compreende:92
+
+- implementar as políticas e diretrizes do governo federal para a exploração da
+energia elétrica e o aproveitamento dos potenciais hidráulicos, expedindo os atos regulamentares
+necessários ao cumprimento das normas estabelecidas pela Lei no 9.074, de 7 de julho de 1995;
+- promover, mediante delegação, com base no plano de outorgas e diretrizes
+aprovadas pelo Poder Concedente, os procedimentos licitatórios para a contratação de
+concessionárias e permissionárias de serviço público para produção, transmissão e distribuição de
+energia elétrica e para a outorga de concessão para aproveitamento de potenciais hidráulicos;
+- gerir os contratos de concessão ou de permissão de serviços públicos de energia
+elétrica, de concessão de uso de bem público, bem como fiscalizar, diretamente ou mediante
+convênios com órgãos estaduais, as concessões, as permissões e a prestação dos serviços de
+energia elétrica;
+- dirimir, no âmbito administrativo, as divergências entre concessionárias,
+permissionárias, autorizadas, produtores independentes e autoprodutores, bem como entre esses
+agentes e seus consumidores;
+- fixar os critérios para cálculo do preço de transporte de que trata o § 6o do art. 15 da
+Lei no 9.074, de 7 de julho de 1995, e arbitrar seus valores nos casos de negociação frustrada
+entre os agentes envolvidos;
+- articular com o órgão regulador do setor de combustíveis fósseis e gás natural os
+critérios para fixação dos preços de transporte desses combustíveis, quando destinados à geração
+de energia elétrica, e para arbitramento de seus valores, nos casos de negociação frustrada entre
+os agentes envolvidos;
+- estabelecer, com vistas a propiciar concorrência efetiva entre os agentes e a impedir
+a concentração econômica nos serviços e atividades de energia elétrica, restrições, limites ou
+condições para empresas, grupos empresariais e acionistas, quanto à obtenção e transferência de
+
+92
+
+Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9427compilada.htm. Acesso em: 20/07/2014.
+
+60
+
+concessões, permissões e autorizações, à concentração societária e à realização de negócios entre
+si;
+- zelar pelo cumprimento da legislação de defesa da concorrência, monitorando e
+acompanhando as práticas de mercado dos agentes do setor de energia elétrica;
+- fixar as multas administrativas a serem impostas aos concessionários,
+permissionários e autorizados de instalações e serviços de energia elétrica, observado o limite,
+por infração, de 2% (dois por cento) do faturamento, ou do valor estimado da energia produzida
+nos casos de autoprodução e produção independente, correspondente aos últimos doze meses
+anteriores à lavratura do auto de infração ou estimados para um período de doze meses caso o
+infrator não esteja em operação ou esteja operando por um período inferior a doze meses.
+
+Essas são as atribuições exigidas pelo poder concedente à ANEEL na sua função de
+instituição reguladora do setor de energia. Segundo Salomão Filho93, o estágio de interação entre
+o sistema concorrencial e o sistema regulatório elétrico é híbrido, oscilando entre a introdução
+gradual de livre concorrência e o controle pela regulação. Deve-se reconhecer que ainda não
+estão claros os limites da aplicação da lei concorrencial ao setor elétrico, e que para que esses
+limites sejam determinados com clareza é fundamental a boa interação entre o sistema
+regulamentar e o sistema concorrencial.
+A abordagem do Brasil de regulação por contrato é tanto semelhante e diferente de
+outros países latino-americanos.94 É semelhante no sentido em que, como no resto da América
+Latina, usa contratos de concessão. É diferente em que os contratos de concessão para
+distribuição de energia são essencialmente "Stand-alone" contratos de regulação, entre a
+concessão governo federal ou estadual e a empresa privada que se torna a concessionária. Em
+contraste, os elementos-chave das concessões de distribuição de outros países da América Latina
+são normalmente vinculados a fixação de tarifas bastante detalhadas, especificadas em lei
+abrangente de reforma do setor elétrico.
+Embora um sistema de fixação de tarifas semelhante foi recomendado para o Brasil
+pela privatização e reestruturação do governo por consultores, o país passou à frente com a
+93
+
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos jurídicos). op. cit. p.
+250.
+94
+BAKOVIC, Tonci; TENENBAUM, Bernard e WOOLF, Fiona (2003). Regulation by Contract: a new way to
+privatize electricity distribution? Washington, DC: The World Bank (World Bank Working Paper, n. 14 - Energy and
+Mining Sector Board Discussion). pp. 19 – 25.
+
+61
+
+privatização e reestruturação sem o benefício de um setor de energia em geral, sem uma lei de
+reforma. Como resultado, o governo brasileiro foi forçado a comprar e processar grandes
+reformas, dependendo de uma "colcha de retalhos" de acordos de cessão e regulamentos que
+enfatizam política ao invés de detalhes.
+Inicialmente,95como apontou Ferraz, em seu estudo sobre a concorrência e regulação
+do mercado de energia elétrica brasileiro, a abordagem brasileira de regulação através de “standalone” contratos de concessão que dão ao regulador considerável discricionariedade na aplicação
+
+de uma tarifa geral parecia produzir resultados notáveis, ao menos nos pontos de vista dos
+investidores. Quando a ANEEL foi criada em 1997, foram vendidos por meio de contratos de
+concessão para dez empresas de distribuição um total de US $ 12 bilhões de dólares e o preço
+médio de US $ 1.400 por cliente obtido nessas privatizações de distribuição do Brasil, bateram
+todos os recordes mundiais anteriores.96
+A AES, por exemplo, pagou 93% de um prêmio para adquirir a CEEE em outubro de
+1997 e a Enron adquiriu a Elektro por um prêmio de 99% em julho de 1998. Em menos de cinco
+anos, os investidores privados investiram mais de US $ 27 bilhões no setor elétrico brasileiro.97
+Estes resultados impressionantes podem refletir o fato de que a privatização brasileira foi, na
+maioria dos casos, liderado pelo BNDES, o banco de privatizações, que pode ter sido mais
+interessado em maximizar as receitas de privatização do que em criá-las efetivamente.
+Agora, com a vantagem da retrospectiva, algumas das fraquezas no modelo
+regulatório brasileiro têm vindo à tona, visto que o sistema de concessão autônomo tem sido
+submetido a grandes choques macroeconômicos e naturais. Em 1999, o país teve de enfrentar
+uma desvalorização de 56% de sua moeda. Em 2000, o MAE não foi capaz de entrar em operação
+por causa de problemas jurídicos e técnicos gerais.98
+Já em 2001, uma grave seca obrigou o governo a impor no país um programa de
+racionamento de energia elétrica de larga escala. Estes grandes choques produziram disputas e
+mais interpretação de vários contratos, regulamentos e leis. Até o final de 2001, o que parecia ser
+uma teia muito bem sucedida ad hoc do regulamento de contratos parecia desmoronar. Em 2002,
+95
+
+FERRAZ, Clarice C. de M. Le marché de l'électricité au Brésil: ouverture a la concurrence e régulation. op. cit. p.
+39-45.
+96
+BRASIL, Ministério de Minas e Energia. Coopers & Lybrand. Relatório Consolidada Etapa VII – I, 1997. v. 1. p.
+246.
+97
+BRASIL, Ministério de Minas e Energia. op. cit. pp. 247-248.
+98
+GRAU, E. G. La doppia destrutturazione del diritto: una teoria brasiliana sull’interpretazione. Milão: Unicopli. p.
+11-53.
+
+62
+
+o governo propôs uma série de grandes iniciativas políticas caracterizada como correções de
+médio prazo, as quais ainda estão em curso, tornando impossível avaliá-las.
+
+5.1 Repartição de competências entre o SBDC e a ANEEL
+
+À vista da estrutura implementada no Brasil, conforme explicado anteriormente,
+convém delimitar a competência exercida por cada ente no modelo, bem como a forma como se
+articulam na defesa da concorrência.
+Os sistemas de repartição de competências entre agência setorial e autoridade da
+concorrência podem ser classificados de diferentes modos e sob vários critérios. Uma das formas
+mais bem sucedidas de classificação leva em conta a distinção entre as funções de regulação e a
+aplicação da lei da concorrência (em caráter transversal)99. A esse critério pode somar-se outro: o
+do momento e que exercida a intervenção, ex ante ou ex post.
+Deveras, tendo-se em consideração esse critério, estipulam-se diferentes modelos de
+repartição de competências entre agências reguladoras e autoridade antitruste: inicialmente,
+existiria a opção em concentrarem-se todas as atribuições, reguladoras e de aplicação da lei da
+concorrência, em alguma dessas agências, seja setorial, seja de defesa da concorrência; ou em
+adotar-se um sistema de compartilhamento de competências, de forma sobreposta (concorrentes)
+ou não sobreposta (complementares), obedecido um critério de racionalidade a cada função e da
+entidade por ela responsável.100 Ainda assim, dever-se-ia perquirir sobre a aplicação da norma em
+cada caso, isto é, se a norma geral de defesa da concorrência seria aplicável também ao setor, ou
+se haveria para este um regime normativo próprio, prevalecendo sobre o geral. Por fim, admitemse modelos sem a presença de um regulador setorial (desregulamentação).
+Inúmeros são os fatores que deverão ser levados em consideração quando da adoção
+de um ou outro modelo. Dificilmente se encontrará um modelo perfeito sob os mais variáveis
+matizes101: pode-se adotar um modelo racionalmente adequado pelas funções a serem exercidas
+
+99
+
+OLIVEIRA, G. Concorrência: panorama no Brasil e no mundo. São Paulo: Saraiva, 2001. pp. 65-67.
+MARQUES, M. M. L.; ALMEIDA, J. P. S.; FORTE A. M. Regulação setorial e concorrência. Revista de Direito
+Público da Economia – RDPE, ano 3. jan./mar. 2005, p. 192-196.
+101
+SALOMÃO FILHO, Calixto. Regulação e desenvolvimento. op. cit. p. 131.
+100
+
+63
+
+por cada agência, porém faltar, na prática, um aparato técnico para o exercício adequado pelas
+funções; ou, então, um modelo centralizado e burocraticamente eficiente (“one stop shop”), mas
+propenso à captura pelos agentes regulados.
+Pode-se consignar, portanto, a inexistência de um modelo universalmente ideal,
+infenso a falhas ou ineficiências. Há certo consenso de que sua escolha deverá observar o Estado
+em que será implementado, o momento histórico, a estrutura de suas instituições e as
+peculiaridades de cada setor.102 Essa constatação explica, em grande parte, a multiplicidade de
+arranjos institucionais em diferentes países. Tomando-se em conta apenas o setor elétrico
+brasileiro, cujo panorama geral fora apresentado, pode-se dimensionar o grau de complexidade
+em se buscar a melhor alternativa possível em cada caso.
+
+5.2 Competências da ANEEL em matéria concorrencial
+
+No desenho institucional implantado no Brasil, o CADE passou a ser, por excelência,
+o ente instituído, por lei, para a aplicação da legislação de defesa da concorrência, proferindo
+decisões, com efeito, inter partes, atendidos os requisitos para a análise de atos ou condutas. Vale
+dizer: não há, no seu rol de competências, previsão para o exercício de típica função reguladora,
+setorial ou transversal, ao menos nos limites em que aqui empregado o vocábulo “regulação”.103
+Como principal autoridade da concorrência, cabem ao CADE a proteção do ambiente
+concorrencial e repressão de condutas anticoncorrenciais. Em última análise, o seu papel
+institucional está diretamente relacionado à proteção da concorrência, na sua acepção de direito
+difuso, não abarcando a repressão à práticas de concorrentes individualmente considerados, cujos
+efeitos não afetem o ambiente concorrencial (coletividade), objeto de tratamento específico no
+campo da concorrência desleal.
+Procurando-se trazer uma visão geral sobre a função de proteção à concorrência
+exercida pelo SBDC no sistema jurídico brasileiro, pode-se constatar incialmente, que ao CADE
+foi outorgada, com destaque, a atribuição legal para a aplicação, no âmbito administrativo, do
+102
+
+LEVY, B. E SPILLER, P. Regulations, Institutions and Commitment: Comparative Studies of
+telecommunications. Cambridge University Press. 1996. p. 101.
+103
+MARQUES NETO, F. A. A articulação entre regulação setorial e regulação antitruste. Regulação Brasil –
+Associação Brasileira das Agências de Regulação – ABAR, Porto Alegre, v. 1, 2005, p. 67.
+
+64
+
+conjunto de normas que versam sobre a concorrência. Essas normas, por seu turno, têm por
+principais destinatários as empresas e demais agentes que atuam na atividade econômica e visam
+estabelecer um quadro regulatório adequado para o funcionamento do mercado, atuando
+preventiva e repressivamente, contra ações empreendidas por agentes que procuram influenciar
+diretamente as estruturas do mercado. Vê-se, assim, que a política de concorrência é uma forma
+de atuação do Estado para corrigir eventuais “falhas no mercado”, tutelando o processo de
+concorrência e objetivando, assim, o aumento da eficiência econômica que, em conjunto com
+outros valores, contribui para o desenvolvimento do bem-estar social em seu conjunto.104
+O CADE intervém, portanto, diante de um fato passado ou presente, que se sabe
+poder existir e se pretende por isso controlar, seja para prevenir a consumação de um efeito lesivo
+à concorrência, seja para reprimir se consumado o ilícito.
+A ANEEL, dispõe a lei que a instituiu, é autarquia sob regime especial, vinculada ao
+Ministério de Minas e Energia, com finalidade de regular e fiscalizar a produção, transmissão,
+distribuição e comercialização de energia elétrica, em conformidade com as políticas e diretrizes
+do Governo Federal. Em outras palavras, é a agência reguladora criada para o fim específico de
+regular o setor de eletricidade.105
+Essa agência exerce regulação técnica quando estabelece normas, padrões e metas de
+natureza técnica aos agentes que atuam em seu setor, como por exemplo, ao aprovar
+metodologias e procedimentos para otimização da operação dos sistemas interligados e isolados,
+para acesso aos sistemas de transmissão e distribuição e para comercialização de energia elétrica
+(art. 4°, VII, do Anexo I do Decreto n° 2.335/1997).
+A regulação econômica é exercida pela ANEEL ao estabelecer instrumentos que
+visem assegurar o retorno do capital investido, expansão de redes, controle de preços e fixação de
+tarifas e outras variáveis de ordem econômica. Como exemplo, pode-se mencionar a competência
+de definir as tarifas de uso dos sistemas de transmissão e distribuição de energia elétrica (art. 3°,
+XVIII, da Lei n° 9.427/1996, incluído pela Lei n° 10.848/2004).
+Em razão das diversas matérias de ordem econômica que podem ser objeto desse tipo
+de regulação, faz-se necessária uma breve digressão: é possível que, em cumprimento a essa
+
+104
+
+FAGUNDES, Jorge. Fundamentos econômicos das políticas de defesa da concorrência: eficiência econômica e
+distribuição de renda em análises antitruste. Singular, 2003. p. 214.
+105
+CUÉLLAR, L. Poder normativo das agências reguladoras. In: Estudos de regulação pública. Coimbra: Coimbra
+Ed., 2004. pp. 591-592.
+
+65
+
+função, a agência imponha uma medida que cause impactos, ainda que reflexos, nas condições de
+determinado mercado de eletricidade, prejudicando o processo concorrencial. Assim, ilustrando,
+poderíamos supor a seguinte situação: ao exercer a competência para fixar critérios para o cálculo
+de preço de acesso aos sistemas de transmissão e distribuição e arbitrar seus valores, nos casos de
+negociação frustrada entre os agentes envolvidos, a ANEEL pode atribuir um mesmo critérios
+para duas empresas em situação desigual, gerando efeitos anticoncorrênciais. Por outro lado, na
+hipótese de a regulação não repercutir na esfera da competitividade dos setores, como quando a
+ANEEL homologa as receitas dos agentes de geração na contratação regulada e as tarifas a serem
+pagas pelas concessionárias, permissionárias ou autorizadas de distribuição de energia elétrica,
+observados os resultados dos processos licitatórios realizados, diz-se haver regulação econômica
+de variável não concorrencial.106
+Vale destacar que, nas situações anteriormente descritas, estar-se-á diante de legítima
+regulação econômica, não havendo de se falar em regulação concorrencial propriamente dita.107
+Essa última será exercida sempre que for deferida à agência competência para a promoção ou
+defesa da concorrência. A diferença, portanto, entre esses dois tipos de regulação é que, na
+econômica com variável concorrencial, a atuação da agência implica efeitos mediatos e indiretos
+no processo concorrencial, ao passo que na regulação para a concorrência os efeitos produzidos
+são imediatos e diretos.
+Nesse contexto, à ANEEL, até a edição da MP n° 1.531 (convertida na Lei n°
+9.648/1998), não eram atribuídas competências regulatórias com função pró-competitividade.
+Embora já existissem previsões no decreto que regulamentou sua estrutura, a Lei n° 9.247/1996
+nada previu inicialmente. Incorporadas as novas competências, devem-se destacar, como de
+natureza concorrencial, as previsões contidas no art. 3°, incisos VIII, IX, XIII, parágrafo único,
+bem como os artigos 3°, II e III, e 4°, II, XI e XII do Anexo I do Decreto n° 2.335/1997.
+A competência da ANEEL em controle de condutas, por meio de uma atuação ex
+ante, vem disposta no art. 3°, VIII, da Lei n° 9.427/1996, c/c art. 4° e art. 12, IV do Anexo I do
+
+Decreto n° 2.335/1998 e está ligada fundamentalmente à edição de atos normativos e fiscalização
+do setor, com fins a propiciar a concorrência efetiva entre os agentes, impedir a concentração
+econômica dos serviços e atividades de energia elétrica, incentivar a competição, supervisionar e
+106
+
+CUÉLLAR, L. Poder normativo das agências reguladoras. op. cit. pp. 591-592.
+ROCHA. B. M. Regulação de infraestrutura e defesa da concorrência: proposta de articulação. Revista de Direito
+Mercantil, n. 112, p. 85.
+107
+
+66
+
+manter as condições de mercado adequadas para a concorrência. Esse controle de condutas podese efetivar também ex post, no exercício do poder fiscalizatório atribuído à agência, na gestão de
+contratos e solução de divergências entre particulares.
+A competência da ANEEL em controle de estruturas, por seu turno, será exercida, no
+exercício de sua função reguladora, ex ante ou ex post, segundo o disposto no art. 2 da Lei n°
+8.987/1995, art. 3°, VIII e XIII, da Lei n° 9.427/1996, art. 4°, XI e XII do Anexo I do Decreto n°
+2.335/1998 e Resoluções n° 94/1998 e n° 278/2000, editadas para o fim de estabelecer limites e
+condições para participação dos agentes econômico nas atividades do setor de energia elétrica.
+
+5.3 Competências sobrepostas?
+
+Vê-se, assim, pelo quadro até então esboçado, que coexistem competências, ex ante e
+ex post, tanto no SBDC quanto à ANEEL, para a proteção da concorrência no setor, aí incluídas
+
+as variáveis de controle sobre condutas anticompetitivas e estruturas (atos de concentração e/ou
+outros atos ou contratos que possam causar danos à concorrência). Deve-se destacar, entretanto,
+que ao CADE é outorgada, por excelência, a competência para aplicação do Direito Antitruste e à
+agência, a competência para regulação setorial.
+Vislumbram-se, contudo, no feixe de atribuições que lhes foi conferido, possíveis
+intersecções. Assim, provisoriamente, poder-se-ia consignar que o modelo de repartição de
+competências implementado no Brasil é de competências compartilhadas e sobrepostas entre
+agência setorial e autoridade antitruste em relação à defesa da concorrência no setor elétrico.
+Toda sobreposição de competências entre diferentes entidades, no entanto, tende a
+gerar conflitos, positivos ou negativos, de competências.108 Essa situação, como já enfatizado,
+contribui para ineficiência econômica e insegurança jurídica. Uma análise detida sobre o
+arcabouço legal que fundamenta a atuação da agência setorial de eletricidade e da autoridade
+antitruste, ainda que se sustente tratar de controles diversos para uma mesma finalidade, aponta
+para possibilidades de haver conflitos de atribuições.109
+E as leis que versam sobre o tema não previram ou regularam os possíveis conflitos
+108
+
+ROCHA. B. M. Regulação de infraestrutura e defesa da concorrência: proposta de articulação. Revista de Direito
+Mercantil, n. 112, p. 89.
+109
+MELLO, M. T. L. Defesa da concorrência no setor elétrico. In: Workshop – Defesa Da Concorrência No Setor
+Elétrico, 1. ANEEL, 1999. p. 29.
+
+67
+
+que podem surgir. Em verdade, ao contrário do regime instituído às telecomunicações110, não
+houve um tratamento legal claro de repartição de competências para o setor elétrico em matéria
+de proteção à concorrência. A Lei n° 9.427/1996, com a alteração que lhe foi dada pela Lei n°
+9.648/1998, limitou-se a afirmar que a ANEEL, no exercício da competência prevista nos incisos
+VIII e IX deverá articular-se com a Secretaria de Direito Econômico do Ministério da Justiça. Ou
+seja: a própria lei parece ter admitido que o sistema de repartição de competências (até então
+compartilhadas e sobrepostas) deve ser mais bem definido quando da articulação entre a agência
+reguladora e os entes do SBDC, mediante acordos institucionais. Desse modo, repartição de
+competências e articulação interinstitucional se consubstanciaram num só ato, de forma a ordenar
+os diversos feixes de atribuições outorgados por diferentes diplomas legais a entidades diversas.
+
+5.4 Articulação e repartição de concorrência
+
+Os entes que compunham o SBDC até a entrada em vigor da NLAB – CADE,
+SEAE/MF e SDE/MJ – firmaram com a ANEEL três termos de compromisso de cooperação
+institucional, assim identificados:111
+
+- ANEEL e SDE: termo de compromisso visando à atuação conjunta com vistas à
+prevenção e à repressão de infrações à ordem econômica no setor elétrico brasileiro. Data: 02 de
+dezembro de 1998;
+- ANEEL e SEAE: termo de compromisso para a cooperação técnica visando à
+resolução de questões referentes à concorrência no setor de energia elétrica brasileiro. Data: 08 de
+fevereiro de 2000;
+- ANEEL e CADE: termo de compromisso para a cooperação institucional em ações
+conjuntas na defesa da concorrência no setor elétrico brasileiro. Data: 08 de fevereiro de 2000.
+
+A partir do exame dos aludidos acordos de cooperação institucional, pôde-se ordenar
+
+110
+
+Lei n° 9.472, de 16 de julho de 1997.
+JUSTEN NETO, Marçal. Defesa da concorrência no setor de energia elétrica - o termo de compromisso de
+cooperação institucional entre ANEEL, CADE, SDE e SEAE., Curitiba, nº 42, agosto 2010, p. 54.
+111
+
+68
+
+o quadro de repartição de competências compartilhadas e sobrepostas instituído em nível legal,
+com uma definição mais clara dos papéis desempenhados por cada ente com vistas à proteção à
+concorrência no setor elétrico. A descrição desse arranjo de competências, bem como dos
+procedimentos administrativos a serem adotados, novamente, deve partir da distinção entre
+análise de condutas e de estruturas.
+No tocante à repartição de competências para análise de condutas no setor elétrico –
+infrações à ordem econômica – os termos de cooperação vigentes atribuem à ANEEL o exercício
+de uma função consultiva de natureza jurídico-econômica setorial, com emissão de parecer
+técnico não vinculativo na fase inicial do procedimento e possibilidade de acompanhamento do
+processo no CADE, por meio de um representante, que auxiliará o Conselheiro-Relator no
+CADE. A SDE reservava-se a competência de instruir o processo administrativo, emitindo, ao
+final, relatório conclusivo ao CADE.
+Destaque-se, pelos acordos institucionais firmados, que a função desempenhada pela
+ANEEL substitui a que era exercida normalmente pela SEAE em processos de infração à ordem
+econômica em setores não regulados antes da entrada em vigor da NLAB,112 além de, a critério
+do Conselheiro-Relator, poder indicar um representante consultivo para auxiliá-lo na fase de
+julgamento.
+No que concerne à análise de estruturas, a competência da ANEEL também é
+opinativa, com emissão de parecer técnico, tal como nos processos para prevenção ou repressão
+de infrações à ordem econômica. Aqui, contudo, o exercício dessa função pela ANEEL não
+excluía a competência da SEAE, que deveria, na NLAB, emitir parecer técnico. Nem é prevista,
+formalmente, a possibilidade de indicação de um representante da ANEEL para acompanhamento
+dos processos do CADE. Em síntese, ao processo de articulação interinstitucional113, a ANEEL,
+caso entenda necessário, poderia solicitar formalmente reunião conjunta visando discutir com o
+CADE e a SEAE/MF as questões pertinentes à operação a ser analisada.
+Vale dizer que o CADE firmou precedente, em processos114 para análise de atos de
+concentração no setor elétrico, no sentido de que o parecer a ser emitido pela ANEEL não é
+imprescindível ao julgamento do processo, o que reforça, ainda mais, a posição secundária dessa
+agência setorial no modelo institucional adotado para a proteção da concorrência no setor
+112
+
+Lei n° 12.529/2011
+Vide Ato de Concentração n° 08012.000089/2006-81 e Ato de Concentração n° 08012.008477/2006-18 – CADE.
+114
+Vide Ato de concentração n° 08012.010874/1999-05
+113
+
+69
+
+elétrico. Segue trecho de decisão exemplificativa, Ato de concentração n° 08012.010874/199905:
+Cumpre frisar que a Resolução ANEEL n° 94 de 30/03/98 não retirou a competência do
+CADE para analisar as operações relativas ao setor elétrico. A própria leitura do art. 54
+da Lei 8884/94 nos leva a concluir que não existem exceções nem casos específicos nos
+quais o CADE não tenha competência para conhecer dos atos de fusão, ainda que do
+setor elétrico. Assim sendo, o CADE não pode se eximir de uma de suas principais
+funções e tampouco pode permitir que seja esvaziada sua competência legal pela edição
+de uma Resolução que visa, entre outros objetivos, harmonizar as ações conjuntas dos
+órgãos públicos envolvidos.
+
+Assim, uma vez que uma operação afeta mercados regulados, o Órgão responsável
+participa, em certo ponto, da análise antitruste do ato de concentração, geralmente emitindo um
+parecer técnico, porém, não vinculante que será considerado pelo CADE no exame antitruste
+detalhado do caso. Dessa forma, vemos, mais uma vez, a oportunidade de cooperação entre
+SBDC e setor regulado, mas ainda correndo o risco de este último ter seu parecer ignorado por
+não ser obrigatório ou vinculante, reforçando os argumentos de que a ANEEL teria sua
+competência diminuída diante do SBDC.
+
+70
+
+71
+
+CONCLUSÃO
+A regulação não produz benefícios ao interesse público per se, uma vez que a
+obtenção de bons resultados depende de seu manejo, podendo a regulação se transformar em
+obstáculo para que sejam atingidos os objetivos de bem-estar social e econômico para os quais
+ela foi desenhada, quando realizada de forma inadequada.
+O objetivo do sistema é promover uma economia competitiva por meio da prevenção
+e da repressão de ações que possam limitar ou prejudicar a concorrência. Assim, a atividade de
+combate às condutas e estruturas anticoncorrenciais está aliada à atividade de divulgação e
+promoção da cultura da concorrência. Devemos lembrar ainda do duplo enfoque das sanções
+aplicadas, quais sejam o de punir as práticas ilegais e de educar os agentes econômicos para que
+não incorram mais em condutas indesejadas.
+Outro ponto importante a ser destacado é a especificidade técnica requerida pela
+função regulatória. Apesar da previsão legal e de ajustes recentes em algumas legislações que
+cuidam de setores regulados, observa-se que no Brasil nem legisladores nem mesmo tribunais
+detém conhecimento técnico suficiente para levar a cabo discussões complexas que tocam o
+tema. Essa especialização, que aos poucos foi adquirida no Brasil, exige maior grau de autonomia
+frente ao poder político. Dessa forma, deve-se buscar constantemente afastar da função
+regulatória a pressão política, administrativa e do governo além dos próprios regulados.
+A Constituição de 1988 deixa bastante claro em seu texto que a concorrência é um
+meio, um instrumento para o alcance de outro bem maior, qual seja, “assegurar a todos existência
+digna, conforme os ditames da justiça social”. Na atual Constituição, esse caráter instrumental foi
+sim mantido. Alguns exemplos são o art. 173, §4°, que manda reprimir o abuso do poder
+econômico que vise à dominação dos mercados e à eliminação da concorrência; o art. 170, IV,
+em atenção ao princípio da livre concorrência e o art. 173, §4°, que manda reprimir o aumento
+arbitrário de lucros. Toda essa proteção é, ao fim, abrangida pelo art. 170, caput, e pelo art. 3°.
+Visto que, no Brasil, a tutela da concorrência não é um fim em si mesma, somado ao
+seu aspecto instrumental, parece clara sua aptidão para servir à implementação de políticas
+públicas. Assim, o antitruste deixou para trás a ideia de que sua única função seria a eliminação
+de efeitos autodestrutíveis do mercado e passa a ser considerado instrumento, meio para conduzir
+o sistema.
+
+72
+
+Portanto, garantias institucionais de concorrência – amplo acesso e justiça social -,
+exatamente por serem fundamentais e formadoras do sistema, entrelaçam-se e protegem-se entre
+si. Entre elas, como entre os princípios constitucionais, não há conflito, mas complementariedade.
+Além disso, verificou-se que o antitruste e a regulação têm, algumas vezes, competido e, em
+outras, colaborado no processo de controle da concorrência. Um ponto importante que merece
+ressalva é o de que regulação e antitruste não são alternativas excludentes. A ideia de que a
+redução da regulação em determinado mercado necessariamente está relacionada a um aumento
+da competição nesse mercado é equivocada. A desregulação não enseja automaticamente o
+aumento da concorrência.
+Ademais, é possível perceber que a regulação não retira as preocupações com a
+defesa da concorrência, pois, nas situações de regulação parcial, observa-se que, mesmo com as
+autoridades controlando as decisões dos agentes, ainda existem lacunas nas quais esses agentes
+podem livremente formular estratégias para a utilização abusiva do poder de mercado. Enfim,
+mesmo nos mercados regulados existe o potencial para a adoção de condutas anticompetitivas.
+Passando para o ponto mais específico, o setor de energia elétrica tem sido
+submetido, no Brasil, a um significativo processo de transformação em suas estruturas:
+qualificado como monopólio natural, esse setor hoje se vê mais aberto ao mercado e, por isso,
+sujeitando-se às normas de defesa da concorrência, aplicadas pelo CADE em coordenação com
+os Ministérios da Fazenda e da Justiça, e à regulação pública setorial, exercida pela Agência
+Nacional de Energia Elétrica (ANEEL).
+Nas operações do setor de energia, porém, a definição do mercado ainda é objeto de
+divergência por parte das autoridades. Vimos que até 2007, o mercado de geração de energia era
+visto pelas autoridades de defesa da concorrência como sendo único e de âmbito nacional,
+englobando as diferentes matrizes energéticas − hídrica, térmica, eólica e nuclear. No entanto, a
+partir desse ano, a Secretaria de Acompanhamento Econômico (Seae) do Ministério da Fazenda
+passou a adotar definição mais restritiva, segregando diferentes mercados em função das
+diferentes matrizes. Esse entendimento baseia-se na percepção de que variam os volumes de
+investimentos e prazos para entrada em operação de cada tipo de unidade geradora.
+Em um setor tão delicado, faz-se necessária a presença de uma regulação pública,
+eficiente, responsável, transparente e consensual. Assim podem-se imaginar condições à
+manutenção de um ambiente propício à prestação universal do serviço público e ao aporte de
+
+73
+
+investimentos intensivos em capital, especialmente nos segmentos de geração, transmissão e
+distribuição, que possuem grande prazo para retorno de investimentos. Cabe ao regulador editar
+normas voltadas a evitar condutas anticompetitivas, criar igualdade na condição de acesso às
+redes de transmissão, formação de preços e qualidade de serviços.
+Chegamos também à conclusão de que a doutrina ainda não chegou a um consenso sobre os
+limites da aplicação da lei concorrencial junto ao setor elétrico e cuja divisão de competência
+entre Aneel e SBDC ainda está a duplicar esforços e causa indefinição quando ao papel do
+CADE.
+Apesar das divergências de opiniões sobre o papel da ANEEL na defesa da ordem
+econômica, concluímos que algumas competências do SBDC foram transferidos para a Aneel,
+contudo não de forma clara e profunda o suficiente para que exista uma isenção quanto à
+aplicação da lei antitruste brasileira, no setor elétrico, entretanto houve unanimidade entre os
+autores retro mencionados no tocante a necessidade de harmonização de atuações ente o SBDC e
+a ANEEL.
+Na parte histórica, o Projeto Reseb gerou considerável documentação sobre o estado
+do setor elétrico brasileiro entre 1996 e 1998, formulando recomendações que permitissem a
+introdução de um modelo baseado na concorrência para o setor. O ano de 1998 é considerado
+data de entrada em vigor de um novo modelo do setor elétrico. Entretanto, antes que todas as
+recomendações fossem adotadas para a implementação do modelo, veio à crise de abastecimento
+de 2001, que paralisou processo.
+Nas eleições de 2002, o modelo para setor sofreu forte crítica dos grupos que
+formavam a oposição, gerando propostas de campanha de um novo modelo para o setor no qual
+se reduzia consideravelmente o âmbito da concorrência. Com a eleição de Lula em 2003, o
+Ministério de Minas e Energia do novo governo publicou uma proposta para uma nova
+regulamentação, modificando bastante o sistema.
+Mesmo após as alterações do governo Lula, deve-se reconhecer que ainda não estão
+claros os limites da aplicação da lei concorrencial ao setor elétrico, e que para que esses limites
+sejam determinados com clareza é fundamental a boa interação entre o sistema regulamentar e o
+sistema concorrencial.
+Pode-se consignar, portanto, a inexistência de um modelo universalmente ideal,
+infenso a falhas ou ineficiências. Há certo consenso de que sua escolha deverá observar o Estado
+
+74
+
+em que será implementado, o momento histórico, a estrutura de suas instituições e as
+peculiaridades de cada setor. Essa constatação explica, em grande parte, a multiplicidade de
+arranjos institucionais em diferentes países. Tomando-se em conta apenas o setor elétrico
+brasileiro, cujo panorama geral fora apresentado, pode-se dimensionar o grau de complexidade
+em se buscar a melhor alternativa possível em cada caso.
+Vê-se, assim, pelo quadro até então esboçado, que coexistem competências, ex ante e
+ex post, tanto no SBDC quanto à ANEEL, para a proteção da concorrência no setor, aí incluídas
+
+as variáveis de controle sobre condutas anticompetitivas e estruturas (atos de concentração e/ou
+outros atos ou contratos que possam causar danos à concorrência). Deve-se destacar, entretanto,
+que ao CADE é outorgada, por excelência, a competência para aplicação do Direito Antitruste e à
+agência, a competência para regulação setorial.
+Vislumbram-se, contudo, no feixe de atribuições que lhes foi conferido, possíveis
+intersecções. Assim, provisoriamente, poder-se-ia consignar que o modelo de repartição de
+competências implementado no Brasil é de competências compartilhadas e sobrepostas entre
+agência setorial e autoridade antitruste em relação à defesa da concorrência no setor elétrico.
+
+75
+
+BIBLIOGRAFIA
+
+ABBUD, O. A.; TANCREDI, M. Transformações recentes da matriz brasileira de geração de
+energia elétrica – causas e impactos principais. Textos para discussão n. 69, Brasília, 2010.
+
+AGUILLAR,
+
+Fernando
+
+Herren. Direito
+
+econômico:
+
+do
+
+direito
+
+nacional
+
+ao
+
+direito
+
+supranacional. São Paulo: Atlas, 2009.
+
+ALMEIDA, L. H. B. Análise da implantação de leilões de energia elétrica no processo de
+reestruturação do setor elétrico brasileiro. Dissertação de Mestrado. Universidade de Brasília,
+
+2005.
+BAKOVIC, Tonci; TENENBAUM, Bernard e WOOLF, Fiona (2003). Regulation by Contract: a
+new way to privatize electricity distribution? Washington, DC: The World Bank (World Bank
+
+Working Paper, n. 14 - Energy and Mining Sector Board Discussion).
+BANDEIRA, Fausto de Paula M. Análise das alterações propostas para o modelo do setor
+elétrico brasileiro. Câmara Legislativa, Estudo, ago. 2003.
+
+BANDEIRA, Fausto de Paula M. Avaliação das alterações introduzidas no modelo do setor
+elétrico brasileiro pelas Leis n° 10.847 e 10.848. Câmara Legislativa, Estudo, abr. 2004.
+
+BARROSO, Luís Roberto. Agências reguladoras, Constituição, transformações do Estado e
+legitimidade democrática. In: MOREIRA NETO, Diogo de Figueiredo. Uma avaliação das
+
+tendências contemporâneas do Direito Administrativo. Rio de Janeiro: Renovar, 2003.
+BARROSO, Luis Roberto. Interpretação e aplicação da Constituição. 22 ed. São Paulo: Saraiva,
+1999.
+BARROSO, Luís Roberto. Interpretação e Aplicação da Constituição. 4 ed. rev. e atual. São
+Paulo: Saraiva, 2001.
+BRASIL, Lei n° 12.529 de 2011.
+
+76
+
+BRASIL, Lei n° 9.472, de 16 de julho de 1997.
+BRASIL, Ministério de Minas e Energia. Coopers & Lybrand. Relatório Consolidada Etapa VII
+– I. v.1. 1997.
+
+BRASIL. Ministério das Minas e Energia. Proposta de Modelo Institucional do Setor Elétrico.
+[Brasília]: [s.n.], julho, 2003.
+BYE, Torstein. A Nordic energy market under stress. Economic Surveys, 4, p. 26-37. Statistics
+Norway, 2003 In: MME. Modelo institucional do setor elétrico. Brasília, 17 dez. 2003.
+CALDAS, Geraldo Pereira. Concessões de Serviços Públicos de Energia Elétrica face à
+Constituição Federal de 1988 e o Interesse Público. Curitiba: Ed. Juruá, 2001.
+
+CANOTILHO, J. J. Gomes; MOREIRA Vital. Tomemos a sério os direitos econômicos, sociais e
+culturais. Boletim da Faculdade de Direito da Universidade de Coimbra, Coimbra, v.38.
+
+CARLTON, D. W.; PICKER, R. C. Antitrust and regulation. National Bureau of Economic
+Research Working Paper Series, Cambridge, n. 12902, fev. 2007.
+COUTINHO, Diogo Rosenthal. A universalização do serviço público para o desenvolvimento
+como uma tarefa da regulação. In: SALOMÃO FILHO, Calixto (coord.). Regulação e
+
+desenvolvimento. São Paulo: Malheiros, 2002.
+CSISZER, Juliana Vieira. Direitos Sociais na Constituição brasileira de 1988. Diritti & Diritti –
+il Portale Giuridico italiano. Disponível em: www.diritto.it/art.php?file=/26847.html Acesso em
+22/08/2014
+CUÉLLAR, L. Poder normativo das agências reguladoras. In: Estudos de regulação pública.
+Coimbra: Coimbra Ed., 2004.
+DI PIETRO, Maria Sylvia Zanella. Regulação e legalidade. In: DI PIETRO, Maria Sylvia
+Zanella (org.). Direito regulatório – Temas polêmicos. Belo Horizonte: Fórum, 2009. Disponível
+em: http://www.planalto.gov.br/ccivil_03/leis/L9427compilada.htm. Acesso em: 20/07/2014.
+
+77
+
+DOMINGUES, Juliana Oliveira; Gaban, Eduardo Molan . Direito Antitruste. 3. ed. São Paulo:
+Saraiva, 2012.
+FAGUNDES, Jorge. Fundamentos econômicos das políticas de defesa da concorrência:
+eficiência econômica e distribuição de renda em análises antitruste. Singular, 2003.
+
+FERRAZ JÚNIOR, Tércio Sampaio. Teoria da Norma Jurídica: Ensaio da Programática da
+Comunicação Normativa. Rio de Janeiro: Ed. Forense, 1999.
+
+FERRAZ, Clarice C. de M. Le marché de l'électricité au Brésil: ouverture a la concurrence e
+régulation. Memoire de Diplome. DEAMAP. Faculté des Sciences Éconoomique set Sociales.
+
+Université de Genève, 2004.
+FORGIONI, Paula A. Os Fundamentos do Antitruste. 8. ed. v. 1 São Paulo: Revista dos
+Tribunais, 2014. p. 37 – 48.
+FUCHS, Célia Inês. Impactos causados pela Universalização do acesso e uso da energia
+elétrica. Brasília, 2007. Dissertação de Mestrado. PPGENE. DM – 32107, UNB.
+
+GAETANI, Francisco; ALBUQUERQUE, Kélvia. Análise de impacto regulatório e melhoria
+regulatória. In: Regulação e Agências Reguladoras: governança e análise de impacto regulatório.
+
+Pedro Ivo Sebba Ramalho (Org.). Brasília: Anvisa, 2009.
+GIRARDI, Claudio. Regulação da energia elétrica: uma visão prática. In: ANDRADE, Rogério
+Emilio de (Coord.). Regulação pública da economia no Brasil. Campinas: Edicamp, 2003.
+GONÇALVES, Pedro. Regulação, Electricidade e Telecomunicações: Estudos de Direito
+Administrativo da Regulação. Coimbra: Coimbra Editora. 2008.
+
+GRAU, E. G. La doppia destrutturazione del diritto: una teoria brasiliana sull’interpretazione.
+Milão: Unicopli.
+HUNT, Sally. Making competition work in eletricity. John Wiley& Sons, 2002.
+JOSKOW, Paul L.; SCHMALENSEE, Richard. Markets for power: analysis of electricutility
+
+78
+
+deregulation. MIT Press, 1983.
+
+JUSTEN NETO, M. Defesa da Concorrência no setor de energia elétrica – o termo de
+compromisso de cooperação institucional entre ANEEEL, CADE, SDE e SEAE. Informativo
+
+Justen, Pereira, Oliveira e Talamini, Curitiba, n.º 42, agosto 2010. Disponível em:
+http://:www.justen.com.br//informativo.php?informativo=42&artigo=459. Acesso em 22/08/2014
+LEAUTIER, Thomas-Olivier. Transmission constraints and imperfect markets for power. Journal
+of Regulatory Economics, v. 19, Issue, 1, p. 27, Norwell, Jan. 2001.
+LEITE, Antonio Dias. A energia do Brasil. 2. ed. Rev. Atual. Rio de Janeiro: Elsevier, 2007.
+LEVY, B. E SPILLER, P. Regulations, Institutions and Commitment: Comparative Studies of
+telecommunications. Cambridge University Press, 1996.
+
+LOUREIRO, Luis Gustavo Kaercher. A indústria elétrica e o Código de Águas: o regime
+jurídico das empresas de energia entre a concession de service public e a regulation of public
+utilities. Porto Alegre: Sergio Antonio Fabris Ed., 2008.
+
+MANKIW, N. Gregory. Introdução à Economia. São Paulo: Pioneira Thomson Learning, 2005.
+MARQUES NETO, F. A. A articulação entre regulação setorial e regulação antitruste.
+Regulação Brasil – Associação Brasileira das Agências de Regulação – ABAR, Porto Alegre, v.
+1, 2005.
+MARQUES, M. M. L.; ALMEIDA, J. P. S.; FORTE A. M. Regulação setorial e concorrência.
+In: Revista de Direito Público da Economia – RDPE, ano 3, jan./mar. 2005.
+MELLO, M. T. L. Defesa da concorrência no setor elétrico. In: Workshop – Defesa Da
+Concorrência No Setor Elétrico, 1. ANEEL, 1999.
+MELLO, M. T. Regulação e defesa da concorrência: interação conflitos e critérios de solução.
+Rio de Janeiro: ANPEC, dez. 2003.
+
+79
+
+Ministério de Minas e Energia – MME. O Novo Modelo do Setor Elétrico. Brasília. 2003.
+Disponível em: http://portal2.tcu.gov.br/portal/pls/portal/docs/2063034.PDF
+MOREIRA NETO, Diogo de Figueiredo. Curso de Direito Administrativo. 10 ed., rev., refund. e
+atual. pela Constituição de 1988. Rio de Janeiro: Forense, 1994.
+OLIVEIRA, André Rossi; MUELLER, Bernardo; COUTINHO, Paulo César. O mercado
+atacadista de energia brasileiro (MAE). In: Regulação da infraestrutura no Brasil: casos
+
+didáticos. Francisco Anuatti Neto e Marina Figueira de Mello (organizadores). São Paulo:
+Singular, 2008.
+OLIVEIRA, G. Concorrência: panorama no Brasil e no mundo. São Paulo: Saraiva, 2001.
+PAIXÃO, L.E. Memórias do Projeto Re-SEB. São Paulo: Massao Ohno Editor, 2000.
+PEREIRA NETO, Caio Mário da Silva. Análise de concentração econômica no setor de
+Comunicação: defesa da concorrência, democracia e diversidade na esfera pública. Revista de
+
+Direito da Concorrência. 2003.
+POSNER, R. Regulation (agencies) versus litigation (courts): an analytical framework. National
+Bureau of Economic Research, revisado em jan. 2010.
+ROCHA. B. M. Regulação de infraestrutura e defesa da concorrência: proposta de articulação.
+Revista de Direito Mercantil, n. 112.
+ROLIM, Maria João C. Preira. Direito econômico da energia elétrica. 1 ed., Rio de Janeiro:
+Forense, 2002.
+SALOMÃO FILHO, Calixto. Regulação da atividade econômica (princípios e fundamentos
+jurídicos). São Paulo: Malheiros, 2001.
+
+SALOMÃO FILHO, Calixto. Regulação e desenvolvimento. São Paulo, Malheiros, 2003.
+SANTIAGO, L. S. Direito Da Concorrência. Salvador: Podivm, 2008.
+
+80
+
+SILVINO, A. A nova dinâmica de processamento dos atos de concentração no Conselho
+Administrativo de Defesa Econômica e a reforma no Sistema Brasileiro de Defesa da
+Concorrência. In: Revista de Filosofia do Direito, do Estado e da Sociedade. Fides, Natal, v.4, n.
+
+1, jan/jun. 2013.
+SIMABUKU, R. T. A estrutura de regulamentação e de regulação do setor elétrico brasileiro: é
+possível melhorar?. In: Revista de Políticas Públicas e Gestão Governamental – Vol. 7, n. 2,
+
+Brasília, 2008.
+SULLIVAN, E. T.; HARRISON, J. L. Understanding antitrust and its economics implications.
+5.ed. New York: Lexis Publishing/Matthew Bender, 2009.
+SZTAJN, R. Law and Economics. In: Decio Zylbersztajn; Rachel Sztajn. (Org.). Direito &
+Economia. 01 ed. v.1 Rio de Janeiro: Elsevier, 2005.
+VALÉRIO, M. A. G. Antitruste em setores regulados. São Paulo: Lemos e Cruz, 2006.
+VILLELA SOUTO, Marcos Juruena. Breve apresentação do Novo Marco Regulatório do setor
+elétrico brasileiro. In: LANDAU, Helena. Regulação Jurídica do setor Elétrico. Lume n Juris,
+
+Rio de Janeiro, 2006.
+WILSON, Robert. Architecture of power markets. In: Econometrica, July 2002.
+
+SITES
+
+http://www.aneel.gov.br/biblioteca/trabalhos/trabalhos/Patrus_Andre_Servicos.pdf Acesso em:
+20/08/2014
+http://www2.anac.gov.br/arquivos/pdf/estudosregulatorios.pdf Acesso em: 27 de agosto de 2014
+http://www.abradee.org.br/legislacao_mae.asp Acesso em: 17/08/2014.
+
+

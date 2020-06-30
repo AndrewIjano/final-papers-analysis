@@ -1,0 +1,3212 @@
+UNIVERSIDADE DE SÃO PAULO
+ESCOLA DE ENGENHARIA DE SÃO CARLOS
+DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+Risco e Gestão de Riscos na Engenharia de Produção: uma Proposta para o
+Curso de Engenharia de Produção Mecânica da EESC-USP
+
+FELIPE KRUGMANN ABDALA
+Orientadora: Profa. Dra. Daisy Aparecida do Nascimento Rebelatto
+
+São Carlos
+2012
+
+Felipe Krugmann Abdala
+
+Risco e Gestão de Riscos na Engenharia de Produção: uma Proposta para o
+Curso de Engenharia de Produção Mecânica da EESC-USP
+
+Trabalho de Conclusão de Curso
+apresentado à Escola de Engenharia
+de São Carlos da Universidade de
+São Paulo para obtenção do título de
+Engenheiro de Produção.
+
+Orientadora: Profa. Dra. Daisy Aparecida do Nascimento Rebelatto
+
+São Carlos
+Novembro 2012
+
+AUTORIZO A REPRODUÇÃO TOTAL OU PARCIAL DESTE TRABALHO, POR
+QUALQUER MEIO CONVENCIONAL, OU ELETRÔNICO, PARA FINS DE ESTUDO
+E PESQUISA DESDE QUE CITADA A FONTE
+
+A135r
+
+Abdala, Felipe Krugmann
+Risco e Gestão de Riscos na Engenharia de Produção:
+uma Proposta para o Curso de Engenharia de Produção
+Mecânica da EESC-USP / Felipe Krugmann Abdala;
+orientadora Daisy Aparecida do Nascimento Rebelatto.
+São Carlos, 2012.
+
+Monografia (Graduação em Engenharia de Produção
+Mecânica) -- Escola de Engenharia de São Carlos da
+Universidade de São Paulo, 2012.
+
+1. Risco. 2. Gestão de Risco. 3. Risco
+Operacional.4. Gestão de Risco Operacional. 5.
+Engenharia de Produção. I. Título.
+
+Resumo
+Este trabalho pretende demonstrar como os conceitos de risco e gestão de risco
+podem ser úteis à formação e atuação do engenheiro de produção. Para tanto,
+através de uma revisão bibliográfica, estuda e elucida tais conceitos e também
+demonstra a similaridade da gestão de um tipo de risco, o risco operacional, à várias
+atividades relacionadas à engenharia de produção. Adicionalmente, analisa a matriz
+curricular do curso de engenharia de produção mecânica da EESC/USP, um dos
+cursos pioneiros e referência em engenharia de produção no Brasil, em busca do
+ensino do conceito de risco e em sua ausência propõem uma solução.
+
+Palavras-chave: risco; gestão de risco; risco operacional; gestão de risco
+operacional; Engenharia de Produção
+
+Abstract
+This work aims to demonstrate how the concept of risk and risk management can be
+useful for training and performance of the production engineer. Thus, through a
+bibliographic review, studies and enlightens those concepts and also demonstrates
+the similarity of managing of a kind of a risk, operational risk, to the various activities
+related to production engineering. Additionally, it analyzes the curriculum of the
+course of production engineering mechanics EESC / USP, one of the pioneers and
+reference in engineering courses production in Brazil, in search of education and the
+concept of risk in their absence propose a solution.
+
+Keywords: risk; risk management, operational risk; operational risk management;
+Production Engineering
+
+SUMÁRIO
+
+1.
+
+2.
+
+3.
+
+4.
+
+INTRODUÇÃO ................................................................................................ 7
+1.1
+
+CONTEXTUALIZAÇÃO ........................................................................................................................ 7
+
+1.2
+
+OBJETIVO ...................................................................................................................................... 8
+
+1.3
+
+MÉTODO ....................................................................................................................................... 9
+
+1.4
+
+ESTRUTURA DO TRABALHO................................................................................................................ 9
+
+RISCO .......................................................................................................... 11
+2.1
+
+TIPOS DE RISCOS ........................................................................................................................... 13
+
+2.2
+
+RISCO OPERACIONAL ..................................................................................................................... 17
+
+2.3
+
+GESTÃO DE RISCO ......................................................................................................................... 20
+
+2.4
+
+GESTÃO DE RISCO OPERACIONAL ..................................................................................................... 26
+
+ENGENHARIA DE PRODUÇÃO ....................................................................... 32
+3.1
+
+CAMPO DE ATUAÇÃO DO ENGENHEIRO DE PRODUÇÃO ......................................................................... 33
+
+3.2
+
+GESTÃO DE RISCOS NA ENGENHARIA DE PRODUÇÃO ............................................................................ 35
+
+3.3
+
+O CURSO DE ENGENHARIA DE PRODUÇÃO MECÂNICA NA EESC/USP ..................................................... 36
+
+DISCUSSÃO .................................................................................................. 39
+4.1
+
+DELIMITAÇÃO DA ANÁLISE .............................................................................................................. 39
+
+4.2
+
+ANÁLISE DA MATRIZ CURRICULAR DO CURSO DE ENGENHARIA DE PRODUÇÃO MECÂNICA DA EESC/USP ...... 39
+
+4.3
+
+PROBLEMÁTICA ............................................................................................................................ 41
+
+4.4
+
+METODOLOGIA PARA SOLUÇÃO DA PROBLEMÁTICA ............................................................................. 41
+
+4.5
+
+SOLUÇÃO PROPOSTA ..................................................................................................................... 42
+
+5.
+
+CONSIDERAÇÕES FINAIS ............................................................................... 48
+
+6.
+
+BIBLIOGRAFIA .............................................................................................. 50
+
+7.
+
+APÊNDICE I .................................................................................................. 53
+
+7
+
+1.
+
+INTRODUÇÃO
+
+1.1 Contextualização
+Risco é um conceito bastante comum e conhecido de todos. Saber como
+melhor precisar a ponderação que se faz entre o risco que se corre e o benefício
+associado a ele é atividade cotidiana que usamos em nossas tomadas de decisões.
+Isto também vale para as empresas, que também lidam diariamente com risco em
+suas atividades. De fato, a maior parte das decisões tomadas nas empresas
+envolve risco, como por exemplo, a entrada em novos mercados, o lançamento de
+um novo produto, em qual departamento realizar cortes de custos ou qual será o
+fornecedor contratado para prestar serviços.
+No entanto, embora comum a todos, elaborar uma definição precisa do que é
+risco é bastante complexo, uma vez que ele pode confundir-se com o conceito de
+incerteza. Knight (1921), ciente de tal desafio, propõe a separação do conceito de
+risco do de incerteza, afirmando que risco seria toda incerteza mensurável, e que
+incerteza refere-se a situações em que as possibilidades em si não são bem
+conhecidas.
+As instituições financeiras, em especial, estudam e trabalham com o conceito
+de risco diariamente, uma vez que seu resultado depende diretamente da correta
+mensuração e avaliação do risco potencial em concessões de crédito, compra de
+ativos financeiros, precificação de seguros, etc. É por esta razão que estas
+organizações são as mais avançadas no estudo e na gestão do risco.
+No entanto, como afirma Marshall (2002), isso não as impediu de perder um
+montante que pode chegar a 200 bilhões de dólares de 1980 à 2000 em decorrência
+de desastres operacionais. Prossegue o autor dizendo que virtualmente toda a crise
+dos últimos 30 anos, incluindo a crise financeira de 2008, tem um componente de
+risco operacional. Este risco, pouco estudado e conhecido até recentemente, vem a
+ser definido como o risco de falha ou inadequação em processos, pessoas,
+sistemas ou de que eventos externos ocorram. A gestão deste risco é muito focada
+nos processos internos da instituição e por isso ela possui uma grande similaridade
+com os conceitos da engenharia de produção. Como sugere Marshall (2002),
+
+8
+técnicas como a Gestão da Qualidade Total pode ajudar na melhora da eficiência
+das operações internas de um banco, como transações financeiras e as atividades
+de back-office.
+Por outro lado, a engenharia de produção também pode se beneficiar da
+gestão de riscos. A norma ABNT NBR ISO 31000:2009 estabelece um processo
+claro de identificação, análise, avaliação, tratamento e monitoramento de risco que
+pode ser aplicado a qualquer empresa, tendo o contexto sido estabelecido para
+tanto. Neste sentido, a gestão de riscos pode auxiliar na tomada de decisão, no
+controle de eventos externos e no melhor mapeamento dos processos internos.
+A hipótese deste trabalho é que, apesar de sua importância e aplicabilidade,
+os conceitos de risco e gestão de risco vêm sendo tratados superficialmente nos
+cursos de engenharia de produção oferecidos no Brasil.
+Para responder a hipótese exposta, este trabalho faz a análise da matriz
+curricular do curso de engenharia de produção mecânica da EESC/USP, um dos
+pioneiros nesta modalidade e referência nacional em qualidade de ensino.
+Adicionalmente, revelando que esta hipótese é verdadeira, propõe uma
+possível solução, que contemple várias disciplinas do curso, de modo a obter um
+resultado coerente e abrangente.
+
+1.2 Objetivo
+Este trabalho pretende explorar os conceitos de risco e gestão de risco nas
+instituições financeiras e suas possíveis aplicações à engenharia de produção,
+ressaltando a possível conexão de um tipo de risco, o risco operacional, e
+ferramentas conhecidas da engenharia de produção.
+Destacada a importância destes conceitos, faz-se uma breve análise da
+matriz curricular do curso de engenharia de produção mecânica da EESC/USP
+visando responder se eles estão ou não contemplados durante o curso. Não
+estando contemplados, elabora uma proposta para a inclusão da gestão de riscos
+na grade curricular do curso.
+
+9
+Assim, o objetivo deste estudo é responder as seguintes perguntas:
+•
+
+O que é risco?
+
+•
+
+Quais são as ferramentas para o controle do risco?
+
+•
+
+Qual a conexão entre risco e engenharia de produção?
+
+•
+
+Estes conceitos são contemplados no curso de engenharia de
+produção mecânica da EESC/USP?
+
+•
+
+Se não, como contemplá-los?
+
+1.3 Método
+Para atingir o objetivo estabelecido na seção anterior lançou-se mão das
+seguintes ferramentas:
+•
+
+Revisão Bibliográfica para os conceitos de risco, risco operacional,
+gestão de risco e gestão de risco operacional, visando aprofundar os
+conhecimentos na literatura destes temas, bem como esclarecê-los
+para o leitor.
+
+•
+
+Revisão Bibliográfica para a Engenharia de Produção, visando
+aprofundar o conhecimento dos fundamentos do curso, seus objetivos,
+suas disciplinas e o campo de atuação do profissional formado.
+
+•
+
+Estudo da matriz curricular do curso de Bacharelado em Engenharia
+de Produção Mecânica da EESC/USP, visando responder se os
+conceitos tema do presente trabalho são abordados no decorrer do
+curso.
+
+•
+
+Proposição de uma solução, de modo a elaborar uma proposta de
+como tais conceitos poderiam ser abordados durante o curso de
+graduação.
+
+1.4 Estrutura do Trabalho
+O trabalho está organizado em 5 capítulos, sendo, respectivamente:
+Introdução, Risco, Engenharia de Produção, Discussão, Considerações Finais.
+
+10
+O primeiro capítulo contém uma contextualização, objetivos do trabalho e a
+estrutura do trabalho.
+No segundo capítulo são expostos os conceitos de risco, tipos de risco, risco
+operacional, gestão de risco e gestão de risco operacional. Durante a exposição
+destes conceitos também são explicitados seus possíveis usos na engenharia de
+produção.
+O terceiro capítulo traz um breve histórico da engenharia de produção, os
+campos de atuação do profissional, como a gestão de riscos está inserida neste
+contexto e uma descrição do curso de engenharia de produção mecânica oferecido
+na EESC/USP.
+O quarto capítulo, subsidiado pelos capítulos precedentes, trás uma análise
+da matriz curricular do curso de engenharia de produção mecânica da EESC/USP
+buscando responder se os conceitos de risco e gestão do risco são tratados dentro
+do curso. Após isso, é explicitada a problemática proposta, a metodologia para sua
+solução e a solução proposta.
+O quinto capítulo sumariza os temas tratados nos capítulos anteriores e
+explicita a relevância do estudo.
+
+11
+
+2.
+
+RISCO
+Esta seção tem por objetivo conceituar risco de forma abrangente, de modo a
+
+esclarecê-lo para o leitor e fazer com que este tenha uma concepção mais prática
+do mesmo. Para tanto, inicialmente será abordado o conceito de risco da maneira
+abrangente e depois de uma maneira mais pragmática, explicitando seu uso em
+meios conhecidos da Engenharia de Produção.
+Como explicita Knight (1921) o termo ‘risco’, como usado comumente no
+cotidiano e nas discussões econômicas, na verdade cobre duas coisas que são, ao
+menos funcionalmente, categoricamente diferentes.
+Essa ambiguidade conceitual é a causa de grande parte da confusão que se
+faz com o conceito e que é necessário que se esclareça para que se compreenda o
+conceito de risco.
+No cotidiano o termo ‘risco’ é utilizado em um contexto qualitativo, isto é,
+como um adjetivo para esclarecer a comunicação pretendida. Assim, nesse contexto
+alguém poderia dizer, por exemplo, “Estou exposto ao risco de fraude”. A partir
+deste comentário, entende-se que o termo risco descreve um tipo desagradável de
+evento, incidente ou condição, neste caso, uma fraude.
+Contudo, esse comentário na verdade é uma forma abreviada da expressão:
+“Estou exposto ao risco de perdas por eventos de fraude”. Assim, originalmente, no
+contexto não abreviado, risco não é um tipo de evento. Do contrário, como diz
+Towers Perrin & OpRisk Advisory (2010) risco é uma métrica que descreve o nível
+de exposição a uma consequência adversa, por exemplo, o nível de exposição à
+perda por um evento de fraude.
+Na indústria financeira o conceito de risco é amplamente estudado e
+aplicado, e nesse contexto, como afirma Jorion (2006), risco pode ser definido como
+a volatilidade de resultados inesperados, normalmente relacionada ao valor de
+ativos ou passivos de interesse. Também, para Gitman (1997, p. 202), risco é “a
+possibilidade de prejuízo financeiro [...] ou, mais formalmente, o termo risco é usado
+alternativamente como incerteza, ao referir-se à variabilidade de retornos associada
+a um dado ativo”. Esclarece, também, que “[...] os ativos que possuem grandes
+
+12
+possibilidades de prejuízo são vistos como mais arriscados que aqueles com menos
+possibilidades de prejuízo”. Nesta definição, o risco está associado ao conceito de
+retorno, o que é comum na indústria financeira. Corroborando a afirmação, Ross et
+al (1995) elucidam que o real risco em qualquer investimento é representado pela
+parcela inesperada do retorno resultante de surpresas. Para Marshall (2001), risco
+pode ser definido, de forma abrangente, como sendo o potencial de eventos ou
+tendências continuadas causarem perdas ou flutuações em receitas futuras.
+Outros autores preferem adotar uma definição mais ampla e cuja abordagem
+esta ligada a conceitos estatísticos, como pode ser visto no artigo Towers Perrin &
+Oprisk Advisory (2010), risco é uma medida de desvio diferente do esperado,
+expresso a um nível de incerteza (probabilidade).
+Por outro lado, diversos autores expõem que o risco não está limitado a
+administração financeira. Gitman (2002), diz que os administradores de empresas
+devem compreender a importância do risco e do retorno em suas atividades para
+responder à questões como qual o nível de risco relativo a decisão a ser tomada, se
+as alternativas possuem risco igual ou diferente e qual é a compensação ao
+escolher a alternativa de maior risco. Afirma ainda que, é necessário que o
+administrador defina, identifique, analise e meça o risco e decida qual deve ser o
+retorno para torná-lo rentável.
+Aprofundando a discussão, Raff (2001), acrescenta que decisões rotineiras
+no mundo dos negócios, como a entrada em novos mercados, a aquisição de
+concorrentes e o lançamento de novos produtos, que são de natureza estratégica
+envolvem riscos que normalmente não são considerados.
+Seguindo o observado por estes autores, diversas publicações conhecidas da
+Engenharia de Produção tratam especificamente de risco em seu escopo e o
+entendem como fundamental para o melhor alcance dos objetivos estabelecidos.
+A norma ABNT NBR ISO 31000:2009, de Gestão de Riscos, define risco
+como sendo: “efeito da incerteza nos objetivos”, esclarecendo que “Um efeito é um
+desvio em relação ao esperado – positivo e/ou negativo” e que “Os objetivos podem
+ter diferentes aspectos (tais como metas financeiras, de saúde e segurança e
+
+13
+ambientais) e podem aplicar-se em diferentes níveis (tais como estratégico, em toda
+organização, de projeto, de produto e de processo)”.
+Segundo a norma, “O risco é muitas vezes caracterizado pela referência aos
+eventos potenciais e às consequências, ou uma combinação destes” e ainda, “O
+risco é muitas vezes expresso em termos de uma combinação de consequências de
+um evento (incluindo mudanças nas circunstâncias) e a probabilidade de ocorrência
+associada”.
+Já o PMBOK (2008), diz que “as organizações entendem o risco como o
+efeito da incerteza nos objetivos organizacionais e de seus projetos”. Também diz
+que “As organizações estão dispostas a aceitar níveis variados de risco, sendo esta
+tolerância chamada tolerância ao risco” e esclarece que “riscos que são ameaças ao
+projeto podem ser aceitos se os potenciais ganhos estão dentro da tolerância da
+organização e se os benefícios excedem os potencias custos associados”.
+Dado o exposto acima, a definição adotada para risco neste trabalho será a
+seguinte:
+“Risco pode ser entendido como o potencial que a realização de objetivos
+estratégicos, táticos ou operacionais seja negativamente influenciada devido a
+eventos futuros e incertos”.
+
+2.1 Tipos de riscos
+Nesta seção pretende-se mostrar as divisões existentes dentro do conceito
+de risco, primeiro lidando com aquelas propostas dentro do contexto financeiro e
+depois com aquelas propostas em um contexto mais amplo, que envolva diferentes
+tipos de negócios.
+Na literatura, várias são as tipologias para os riscos, sendo que essa
+segregação por classes leva em consideração as diferenças existentes tanto na
+causa das perdas como nos seus efeitos para a instituição. Além disso, é comum
+utilizar-se de sub-classificações dentro de cada classe, o que auxilia no
+gerenciamento do risco.
+
+14
+Para Jorion (2006), as empresas estão expostas a vários tipos de riscos, que
+podem ser amplamente classificados como riscos de negócios e outros riscos.
+Riscos de negócios são geralmente definidos como aqueles que a companhia
+conscientemente assume para criar vantagem competitiva e criar valor para seus
+acionistas. Esse risco envolve o mercado do produto em que a empresa atua e
+inclui o projeto do produto e sua venda. O mercado do produto implicitamente cria
+exposição aos riscos macroeconômicos, que resultam de ciclos econômicos ou
+flutuações em receitas e políticas monetárias, e o risco de inovações tecnológicas.
+O risco empresarial é simétrico no que concerne a ganho e perdas. Por vezes as
+empresas são “pagas” para correr risco estratégico.
+Os riscos sobre as quais a empresa não possui controle podem ser
+agrupados em outros riscos. Nele estão incluídos os riscos financeiros e os riscos
+de eventos.
+Riscos financeiros geralmente estão associados ao efeito de variáveis
+financeiras. São classificados como riscos financeiros o risco de crédito, o risco de
+mercado e o risco de liquidez. Estes também são simétricos no sentido de que a
+empresa é “paga” para gerir os riscos financeiros. O risco operacional também é
+classificado como um risco financeiro.
+Os riscos de eventos podem ser atribuídos a outros acontecimentos
+negativos fora do controle da instituição. Esses riscos só resultam em perdas,
+algumas delas podendo ser cobertas por seguros tradicionais. As instituições pagam
+para atenuar estes riscos.
+A Figura 1 mostra a classificação proposta por Jorion (2006), em mais
+detalhes.
+
+15
+
+Risco no nível da empresa
+
+Risco de Negócios
+
+Risco de produto
+Risco macroeconômico
+Risco tecnológico
+
+Outros riscos
+
+Risco de evento
+
+Risco financeiro
+
+Risco legal
+
+Risco de mercado
+
+Risco de reputação
+
+Risco de crédito
+
+Risco de desastre
+
+Risco de liquidez
+
+Risco político e de
+regulamentação
+
+Risco operacional
+
+Figura 1–Tipos de Riscos (Traduzido de Jorion, 2006, p. 468.)
+
+Já para Santomero (1997), os riscos aos quais as instituições financeiras
+estão expostas podem ser agrupados, sob perspectiva gerencial, em três classes:
+•
+
+Riscos que podem ser eliminados ou evitados com o emprego de
+práticas de negócios;
+
+•
+
+Riscos que podem ser transferidos;
+
+•
+
+Riscos que devem ser gerenciados de forma ativa.
+
+Como estabelece Coimbra (2006), esta abordagem pode ser estendida para
+empresas não-financeiras, uma vez que a implementação de um novo processo de
+produção pode reduzir a quantidade de peças defeituosas produzidas aos níveis
+desejados; também, se uma empresa contrata um seguro contra incêndios, há a
+transferência do risco de que este evento ocorra; e quando um fabricante de
+alimentos utiliza instrumentos de mercados futuros para se precaver de oscilações
+nos preços das matérias-primas. O autor estabelece ainda que “a classificação dos
+riscos nas três categorias citadas fornecem um bom ponto de partida para a gestão
+dos riscos incorridos na empresa”.
+
+16
+Por outro lado, para a Casualty Actuarial Society (2003), os riscos podem ser
+categorizados em quatro tipos:
+•
+
+Riscos de evento: É o risco da perda associada a ocorrências
+fortuitas e não apresenta chance de ganho, apenas perdas. Inclui
+riscos de: incêndio e outros danos a propriedades; furto, roubo e
+outros delitos; interrupção de negócios; doença.
+
+•
+
+Ricos Financeiros: Incerteza se um evento pode produzir lucro ou
+perda, como um novo negócio. Inclui riscos de: mercado, liquidez,
+crédito.
+
+•
+
+Riscos Operacionais: O risco de perda de tudo que não seja risco de
+crédito, mercado e liquidez. É o risco de falha humana, em processos,
+em sistemas ou tecnológica, assim como riscos de evento.Inclui riscos
+de: operação de negócios, tecnologia de informação, pessoas.
+
+•
+
+Riscos Estratégicos: Exposição a incerteza proveniente de decisões
+de longo-prazo. Inclui riscos de: dano a reputação, competição, desejo
+dos consumidores, inovação tecnológica.
+
+A Casualty Actuarial Society (2003), vai além e afirma que a precisa
+categorização e definição dos riscos citados acima é menos importante que o
+reconhecimento de que a gestão de riscos deve cobrir todas as categorias e todos
+os riscos materiais que podem influenciar o valor da organização para seus
+stakeholders.
+Deste modo, é fácil que existe uma substancial variedade nas classificações
+de risco propostas na literatura, no entanto, é importante que se ressalte que a
+definição da classificação utilizada para segregar os riscos deve estar alinhada aos
+propósitos da organização, em especial no que tange a gestão do risco. Este tópico
+será abordado mais precisamente no próximo tópico.
+
+17
+2.2 Risco Operacional
+Dos riscos citados anteriormente, aquele que têm maior tangibilização para o
+contexto da Engenharia de Produção é o risco operacional. Assim, para melhor
+situar o leitor na discussão, optou-se por trabalhar a fundo este tópico.
+Risco operacional, amplamente falando, é o risco de perda resultante de falha
+operacional. Ele abrange uma vasta variedade de eventos e ações, assim como,
+inações e inclui, por exemplo, erros inadvertidos de execução, falhas de sistemas,
+atos da natureza violações conscientes de políticas, leis e regulamentações, e atos
+diretos e indiretos de exposição excessiva ao risco.
+Sua origem está ligada às primeiras grandes perdas atribuídas a falhas
+operacionais. “No setor financeiro, o termo risco operacional foi provavelmente
+usado pela primeira vez em 1995, como tentativa de explicar a inesperada e quase
+inacreditável falência do Banco Barings” (CRUZ, 2003, p. 490).
+Para King (2001, p.7), risco operacional é definido “como uma medida do
+relacionamento entre as atividades de negócio de uma empresa e a variação em
+seus resultados”. Também, para Laycock (1998), risco operacional é o potencial de
+flutuações adversas nos resultados ou no fluxo de caixa de uma empresa, causadas
+por efeitos atribuídos a clientes, controles inadequados, falhas de sistemas e
+eventos não gerenciáveis.
+Já Culp (2001), entende que risco operacional é o risco que falhas em
+sistemas computacionais, supervisão interna e controle, ou eventos como desastres
+naturais irão impor perdas inesperadas à empresa. Complementa que no caso do
+risco operacional, os problemas tendem a surgir em função da inadequada atenção
+destinada a um processo ou sistema, ou porque as pessoas ou falham no
+cumprimento de suas funções ou possuem responsabilidades mal especificadas.
+Na visão de Jorion (2006), risco operacional é o risco de perda resultante de
+falhas ou inadequação em processos internos, pessoas ou sistemas ou de eventos
+externos.
+
+18
+Por outro lado, Marshall (2002), esclarece que risco operacional não é
+somente risco de operações, uma vez que este é o risco de falha dentro dos vários
+processos operacionais internos. Essas falhas podem ocorrer em qualquer estágio
+do processo de agregação de valor através de erros de marketing, vendas e
+escrituração das transações.
+A definição de risco operacional mais conhecida, sendo amplamente adotada
+pela indústria financeira, é a proposta pelo Comitê de Supervisão Bancária da
+Basileia (BIS, 2005, p. 140), “Risco operacional é definido como o risco de perda
+resultante de práticas inadequadas ou falhas de processos internos, pessoas e
+sistemas ou de eventos externos. Essa definição inclui o risco legal, mas exclui o
+risco estratégico e o risco reputacional”.
+Hoffman (1998), enfatiza que o risco operacional é mais amplo do que os
+riscos normalmente cobertos por seguros e que falhas de controle. Para o autor, o
+risco operacional transcende todas as linhas de negócios.
+Os exemplos da Tabela 1 explicitam a importância e a magnitude do risco
+operacional:
+
+Instituição
+
+Atividade
+
+Ano
+
+Perda em US$
+milhões*
+
+Daiwa Bank, Nova York
+
+Negociação não-autorizada de
+bônus devido a maus controles
+gerenciais
+
+1984-95
+
+1.100
+
+Sumitomo Corp., Londres
+
+Negociação não-autorizada de
+cobre, fraude e falsificação
+
+1986-96
+
+1.700
+
+Setor de Seguros de vida
+do Reino Unido
+
+Má venda de pensões e não
+cumprimento
+
+1988-94
+
+18.000
+
+Standard Chartered, Índia
+
+Irregularidades na Bolsa de Valores
+de Bombaim
+
+1992
+
+400
+
+Crédit Lyonnais
+
+Mau controle de empréstimos
+
+Anos 80 e 90
+
+29.000
+
+Bancos, varejistas e
+corporações dos EUA
+
+Fraude de cheques
+
+1993
+
+12.000
+
+19
+
+Bolsa de Valores de
+Londres e membros
+
+Cancelamento do sistema
+TAURUS
+
+1993
+
+700
+
+Kidder Peabody
+
+Negociação de bônus, falta de
+controles internos
+
+1994
+
+200
+
+Procter & Gamble
+
+Falta de compreensão da gerência
+
+1994
+
+157
+
+Morgan Grenfell
+
+Falsidade ideológica
+
+Década de
+90
+
+640
+
+Condado de Orange
+
+Negociação de bônus, falta de
+supervisão gerencial
+
+1994
+
+1.700
+
+Barings, Cingapura
+
+Controle inadequado de
+negociações de futuros –
+especialmente má segregação de
+tarefas
+
+1995
+
+1.600
+
+Deutsche Bank (Morgan
+Grenfell), Londres
+
+Investimento fora de alçada
+
+1996
+
+5.000
+
+eBay
+
+Falha de tecnologia
+
+1999
+
+5.000 apagados
+no valor de
+mercado
+
+*Custo aproximado em US$, como citado em pelo menos uma ocasião na imprensa
+
+Tabela 1 – Perdas associadas à risco operacional. (Marshall 2002, pag. 21).
+
+Como pode ser observado na Tabela 1, o risco operacional não é exclusivo
+às instituições financeiras. Do contrário, grandes empresas manufatureiras, como
+Procter & Gamble, e até mesmo instituições governamentais, como o Condado de
+Orange, incorreram em grandes perdas provocadas primariamente por exposição
+excessiva ao risco operacional.
+Assim, faz-se clara sua importância a indústria manufatureira, habitualmente
+associada à engenharia de produção. Como há ausência de consenso na literatura
+sobre definição única, opta-se pela elaboração de uma definição própria, porém
+alinhada à estabelecida pelo Acordo da Basileia. Assim, risco operacional é definido
+como:
+
+20
+“O potencial latente de que a realização dos objetivos estratégicos, táticos ou
+operacionais seja negativamente influenciada devido a eventos incertos causados
+por pessoas, sistemas,processos internos inadequados ou falhos, ou de eventos”.
+
+2.3 Gestão de Risco
+Esta seção tem por objetivo descrever a gestão de riscos e explicitar o seu
+uso no cotidiano das empresas.
+Para Casualty Actuarial Society (2003), as organizações já há muito tempo
+têm praticado variadas partes do que vem a ser denominada gestão de riscos.
+Identificar e priorizar riscos, seja através da previsão ou após um desastre, há muito
+é uma atividade padrão em administração. O que mudou, começando no final do
+último século é o tratamento dos riscos de uma maneira holística e a elevação da
+gestão do risco a uma função de responsabilidade administração executiva.
+De modo a responder a essa percepção a norma AS/NZS 4360:2004 foi
+desenvolvida de forma a fornecer uma assistência prática na aplicação da gestão de
+riscos no setor público e nas organizações privadas. Deste então, ela se tornou uma
+das mais populares normas publicadas, tendo sido adotada pelo Governo
+Australiano, por várias grandes companhias públicas, assim como pelo Serviço
+Nacional de Saúde do Reino Unido.
+Para melhor compreender o proposto por esta norma a Figura 2 detalha o
+processo de gestão de riscos, como definido pela norma AS/NZS 4360.
+
+21
+
+Figura 2–Estrutura
+Estrutura de gestão de riscos da AS/NZS 4360. (Traduzido
+(Traduzido de
+AS/NZS 4360:2004, p. 1)
+
+O
+
+processo
+
+proposto
+
+não
+
+difere
+
+muito
+
+dos
+
+processos
+
+propostos
+
+posteriormente.
+A Casualty Actuarial Society (2003),
+(2003) propõe uma nova disciplina para gestão
+de riscos, a qual denomina Enterprise Risk Management, e a define como a
+disciplina pela qual uma
+a organização em qualquer indústria avalia, controla, explora,
+financia e monitora riscos de todas as fontes com o propósito de aumentar o valor
+da organização para seus stakeholders no curto e no longo prazo.
+Para Casualty Actuarial Society (2003),
+(2003) muitos periódicos introduziram ou
+discutiram conceitos como “gestão do risco estratégico”, “gestão integrada do risco”
+e “gestão holística do risco”. Esses conceitos são similares ao
+ao que ele propõe como
+Enterprise Risk Management (ERM) em que todos eles enfatizam uma visão
+abrangente do risco e da gestão do risco, um movimento contra a abordagem em
+“silos” para gerir separadamente e distintamente diferentes riscos dentro de uma
+organização, e a visão de que a gestão de risco pode ser criadora
+cr
+de valor,
+adicionalmente ao processo de mitigação de riscos.
+
+22
+Também, define como passos do processo de gestão de risco aqueles
+exibidos na Figura 3, que são baseados nos originalmente detalhados na Norma
+Australiana/Neozelandesa de Gestão de Riscos (AS/NZS 4360).
+
+Estabelecer
+Contexto
+
+Identificar
+Riscos
+
+Analisar/
+Quantificar
+Riscos
+
+Integrar
+Riscos
+
+Avaliar/
+Priorizar
+Riscos
+
+Tratar/
+Explorar
+Riscos
+
+Monitorar e controlar
+
+Figura 3 -Estrutura de gestão de riscos proposta pelaCausalty Actuarial
+Society (Traduzido de Causalty Actuarial Society, 2010, p.11).
+
+Seguindo a linha delineada por estas publicações, a Norma ISO 31000:2009
+foi criada.
+Para a Norma ISO 31000:2009, todas as atividades de uma organização
+envolvem risco. As organizações gerenciam o risco, identificando-o, analisando-o e,
+em seguida, avaliando se o risco deve ser modificado pelo tratamento do risco a fim
+de atender a seus critérios de risco.
+A gestão de riscos pode ser aplicada a toda organização, em suas várias
+áreas e níveis, a qualquer momento, bem como a funções, atividades e projetos
+específicos.
+Cada setor específico ou aplicação da gestão de riscos traz consigo
+necessidades particulares, vários públicos, percepções e critérios. Portanto, uma
+característica-chave desta Norma é a inclusão do estabelecimento do contexto
+captura os objetivos da organização, o ambiente em que ela persegue esses
+objetivos, suas partes interessadas e a diversidade de critérios de risco – o que
+auxiliará a revelar e avaliar a natureza e a complexidade de seus riscos.
+Segundo a Norma ISO 31000:2009, a gestão dos riscos possibilita a uma
+organização, por exemplo:
+
+23
+•
+
+Aumentar a probabilidade de atingir os objetivos;
+
+•
+
+Estar atento para a necessidade de identificar e tratar os riscos através
+de toda uma organização;
+
+•
+
+Melhorar a identificação de oportunidades e ameaças;
+
+•
+
+Estabelecer uma base confiável para a tomada de decisão e o
+planejamento;
+
+•
+
+Melhorar os controles;
+
+•
+
+Alocar e utilizar eficazmente os recursos para o tratamento de riscos;
+
+•
+
+Melhorar a eficácia e a eficiência operacional;
+
+•
+
+Melhorar a prevenção de perdas e a gestão de incidentes;
+
+•
+
+Minimizar perdas;
+
+Estabelece também que convém que o processo de gestão de riscos seja:
+•
+
+Parte integrante da gestão;
+
+•
+
+Incorporado na cultura e nas práticas, e
+
+•
+
+Adaptado aos processos de negócios da organização.
+
+Ela compreende as atividades descritas à seguir. O processo de gestão pode
+ser visto na Figura 4.
+Comunicação e consulta
+Convém que a comunicação e a consulta às partes interessadas internas e
+externas aconteçam durante todas as fases do processo de gestão de riscos.
+A comunicação e consulta às partes interessadas são importantes na medida
+em que elas fazem julgamentos sobre riscos com base em suas percepções. Essas
+percepções podem variar devido à diferenças de valores, necessidades,
+suposições, conceitos e preocupações das partes interessadas. Como os seus
+pontos de vista podem ter um impacto significativo sobre as decisões tomadas,
+convém que as percepções das partes interessadas sejam identificadas, registradas
+e levadas em consideração no processo de tomada de decisão.
+
+24
+
+Estabelecimento do contexto
+Processo de Avaliação de Riscos
+Identificação de riscos
+
+Comunicação e
+consulta
+
+Análise dos riscos
+
+Monitoramento e
+análise crítica
+
+Avaliação dos riscos
+
+Tratamento dos riscos
+
+Figura 4– Estrutura de Gestão de Risco proposta pela ISO 31000:2009
+(ABNT NBR ISO 31000:2009, p. 14).
+
+Estabelecimento do contexto
+Ao estabelecer o contexto, a organização articula seus objetivos, define os
+parâmetros externos e internos a serem levados em consideração ao gerenciar
+riscos, e estabelece o escopo e os critérios de risco para o restante do processo.
+Mesmo que muitos destes parâmetros sejam similares àqueles considerados na
+concepção da estrutura da gestão de riscos, ao se estabelecer o contexto para o
+processo de gestão de riscos, eles precisam ser considerados com mais detalhe.
+Em particular, como eles se relacionam com o escopo do respectivo processo de
+gestão de riscos.
+Processo de avaliação de riscos
+O processo de avaliação de riscos é o processo global de identificação de
+riscos, análise de riscos e avaliação de riscos.
+Identificação de riscos
+
+25
+Convém que a organização identifique as fontes de risco, áreas de impactos,
+eventos (incluindo mudanças nas circunstâncias) e suas causas e consequências
+potenciais. A finalidade desta etapa é gerar uma lista abrangente de riscos baseada
+nestes eventos que possam criar, aumentar, evitar, reduzir, acelerar ou atrasar a
+realização dos objetivos. É importante identificar os riscos associados com não
+perseguir uma oportunidade. A identificação abrangente é crítica, pois um risco que
+não é identificado nesta fase não será incluído em análises posteriores.
+Análise de riscos
+A análise de riscos envolve desenvolver a compreensão dos riscos. A análise
+de riscos fornece uma entrada para a avaliação de riscos e para as decisões sobre
+a necessidade dos riscos serem tratados, e sobre as estratégias e métodos mais
+adequados para o tratamento de riscos. A análise de riscos pode fornecer uma
+entrada para a tomada de decisões em que escolhas precisam ser feitas e as
+opções envolvem diferentes tipos e níveis de risco.
+Avaliação de riscos
+A finalidade da avaliação de riscos é auxiliar na tomada de decisões com
+base nos resultados da análise de riscos, sobre quais riscos necessitam tratamento
+e a prioridade para a implementação do tratamento.
+A avaliação de riscos envolve comparar o nível de risco encontrado durante o
+processo de análise com os critérios de risco estabelecidos quando o contexto foi
+considerado. Com base nesta comparação, a necessidade do tratamento pode ser
+considerada.
+Tratamento de riscos
+O tratamento de riscos envolve a seleção de uma ou mais opções para
+modificar os riscos e a implementação dessas opções. Uma vez implementado, o
+tratamento fornece novos controles ou modifica os existentes.
+Tratar riscos envolve um processo cíclico composto por:
+•
+
+Avaliação do tratamento de riscos realizado;
+
+26
+•
+
+Decisão se os níveis de risco residual são toleráveis;
+
+•
+
+Se não forem toleráveis, a definição e a implementação de um novo
+tratamento para os riscos; e
+
+•
+
+Avaliação da eficácia deste tratamento.
+
+Monitoramento e análise crítica
+Convém que o monitoramento e a análise crítica sejam planejados como
+parte do processo de gestão de riscos e envolvam a checagem ou vigilância
+regulares. Podem ser periódicos ou acontecer em resposta a um fato específico.
+Convém que os processos de monitoramento e a análise crítica da
+organização abranjam todos os aspectos do processo da gestão de riscos com a
+finalidade de:
+•
+
+Garantir que os controles sejam eficazes e eficientes no projeto e na
+operação;
+
+•
+
+Obter informações adicionais para melhorar o processo de avaliação
+dos riscos;
+
+•
+
+Analisar os eventos (incluindo os “quase incidentes”), mudanças,
+tendências, sucessos e fracassos e aprender com eles;
+
+•
+
+Detectar mudanças no contexto externo e interno, incluindo alterações
+nos critérios de risco e no próprio risco, as quais podem requere
+revisão dos tratamentos dos riscos e suas prioridades; e
+
+•
+
+Identificar os riscos emergentes.
+
+2.4 Gestão de Risco Operacional
+Como pôde ser visto na seção anterior a gestão de riscos é um processo
+contínuo que deve ser estabelecido dentro das empresas. A gestão do risco
+operacional, por lidar com o risco mais tangível para as empresas manufatureiras, é
+aquela que escolheu-se detalhar de modo a destacar sua similaridade com
+ferramentas já conhecidas da engenharia de produção.
+
+27
+Para Marshall (2002) a gestão de riscos sempre envolve o processo
+sistêmico e contínuo de identificação de exposição, medição, análise, controle,
+prevenção, redução e avaliação e financiamento de riscos. A gestão de risco
+operacional não é exceção. Corroborando esta afirmação, a ISDA (2000) estabelece
+que um framework para gestão do risco operacional é um framework construído
+envolta de um ciclo iterativo de gestão de risco com três componentes:
+•
+
+Estrutura organizacional (incluindo papéis e responsabilidades da
+cúpula executiva, procedimentos de governança corporativa e uma
+função de risco operacional);
+
+•
+
+Estratégia e políticas (estratégia de gestão de risco operacional,
+políticas e procedimentos);
+
+•
+
+Processo de gestão de risco operacional (processo para identificação,
+avaliação/quantificação, mitigação, monitoramento e reporte de riscos
+operacionais).
+
+Ainda acrescenta que os conceitos em que se baseiam a gestão de riscos se
+aplicam a todos os tipos de riscos.
+Para Jorion (2006) a melhor proteção contra os riscos operacionais consiste
+de redundância em sistemas, clara separação de responsabilidades com um forte
+sistema de controles internos e o constante planejamento de contingências.
+Marshall (2002) vai além e afirma que a gestão do risco operacional envolve
+um grande número de atividades:
+•
+
+Identificação do risco;
+
+•
+
+Medição do risco;
+
+•
+
+Prevenção de perdas operacionais;
+
+•
+
+Mitigação do impacto da perda após sua ocorrência;
+
+•
+
+Prevenção de perdas operacionais;
+
+•
+
+Transferência do risco a terceiros;
+
+•
+
+Mudança da forma do risco para outro tipo de risco;
+
+•
+
+Alocação de capital para cobrir riscos operacionais.
+
+28
+Expõem ainda que muitas dessas atividades são comuns a uma ampla gama
+de funções administrativas em uma variedade de setores diferentes e que cada
+disciplina da gestão de risco operacional as imbui de um conjunto singular de
+técnicas e conceitos.
+Marshall (2002) propõem as disciplinas a seguir como as mais importantes
+componentes da gestão eficaz de risco operacional. Estas disciplinas e suas interrelações podem ser observadas na Figura 5.
+
+Gestão da
+Qualidade Total
+
+Controle
+Estatístico
+de Processos
+
+Seguros
+
+Modelos
+de Perdas
+Atuariais
+
+Gestão de
+Instalações
+
+Planejamento de
+Contingências
+
+Gestão de
+Risco Operacional
+
+Engenharia da
+Confiabilidade
+
+Gestão de
+Operações
+
+Processos
+de Risco e
+Organizações
+
+Gestão de
+Riscos
+Financeiros
+
+Controle
+Interno
+
+Auditoria
+
+Figura 5–Disciplinas da Gestão de Risco Operacional (Marshall, 2002, p. 24).
+
+Gestão de Risco Financeiro e Processos de Risco e Organizações:
+Gerentes de risco financeiro desenvolveram processos de risco e estruturas
+organizacionais bem definidos para medir, analisar, e gerenciar riscos financeiros
+nas empresas. O impulso em direção à quantificação dos riscos de mercado e de
+
+29
+crédito tem levado naturalmente a um interesse na aplicação de técnicas similares à
+gerência de riscos operacionais. Algumas técnicas específicas como stress testing
+(testes com valores extremados) e o valor em risco (VaR) têm encontrado
+aplicações na gestão de risco operacionais. Mas a mais importante têm sido a
+adoção de um conjunto integrado de processos de risco e de uma estrutura
+organizacional para lidar com riscos operacionais (MARSHALL, 2002, p. 23).
+Gestão da Qualidade Total e Controle Estatístico da Qualidade: A gestão
+da qualidade envolve mudança do perfil de risco de processos e recursos por meio
+da melhoria da disponibilidade de suas entradas e saídas, de sua qualidade,
+relevância e atratividade, de modo a embutir qualidade nos processos operacionais
+através de melhores projetos. O controle estatístico da qualidade avalia saídas de
+processos utilizando técnicas estatísticas de amostragem (MARSHALL, 2002, p.
+23).
+Seguros e Modelos de Perdas Atuariais: O seguro pode ser utilizado para
+transferir parte (mas não todo) o risco operacional do segurado (a empresa que
+contrata o seguro) para o segurador. Por exemplo um seguro contra incêndios
+transfere o risco de um incêndio ocorrer na empresa para a empresa seguradora.
+Um seguro típico requer que o segurador forneça recursos financeiros para
+indenizar perdas especificadas em troca de um prêmio pago pelo adquirinte do
+seguro quando de seu início de vigência. As seguradoras então reduzem seu risco
+através da diversificação, utilizando um pool de exposições não correlacionadas. No
+entanto, o seguro não cobre todas as formas de perdas operacionais. O seguro é
+utilizado quando se quer transferir o risco de um determinado evento potencial. Os
+modelos de perdas atuariais visam desenvolver modelos que possam prever com
+maior previsão as perdas relacionadas, neste caso, ao risco operacional
+(MARSHALL, 2002, p. 24).
+Auditoria e Controle Interno: Auditorias internas e externas focalizam a
+confirmação da existência dos ativos e obrigações pelos quais a empresa é
+responsável (e responsabilizável). Sistemas de controle contábil são projetados para
+assegurar que as operações da empresa estejam em conformidade com os planos e
+políticas estratégicos desenvolvidos pela alta gerência. Controles diagnósticos e
+uma série de limites são utilizados para assegurar que as operações sejam
+
+30
+mantidas sobre controle. O gerenciamento de risco operacional utiliza técnicas
+qualitativas semelhantes, mas vai além delas para quantificação e a alocação
+contínua de recursos com base nas estimativas de risco resultantes (MARSHALL,
+2002, p. 25).
+Gestão de Operações e Engenharia de Confiabilidade: A engenharia da
+confiabilidade é um conjunto de técnicas estatísticas e analíticas voltadas para a
+operação confiável, segura e eficiente de sistemas de engenharia. O foco da
+engenharia da confiabilidade é na manutenção da função sistêmica e na redução de
+incertezas operacionais, assegurando que especificações operacionais realistas
+sejam determinadas para saídas de processo e então assegurando que aquelas
+especificações sejam atendidas. Ferramentas de gerência de risco operacional
+derivadas da engenharia da confiabilidade têm sido utilizadas em uma variedade de
+áreas preocupadas com segurança, como a segurança de usinas nucleares,
+manutenção de aeronaves e informática da medicina.
+No entanto, a mesma disciplina de sistematicamente coletar, categorizar,
+analisar e priorizar dados como a utilizada em disciplinas de engenharia, pode
+ajudar a desenvolver metodologias rigorosas de gerência de risco operacional.
+Técnicas como a redundância, manutenção preventiva e substituição, análise de
+Pareto, Análise de Modos de Falha e Efeitos (FMEA), análise de perigos, cadeias de
+Markov, árvores de falhas e árvores de eventos tem revolucionado o projeto de
+sistemas tolerantes a falhas (MARSHALL, 2002, p. 25).
+Gerenciamento de Instalações e Recursos Operacionais e Plano de
+Continuidade de Negócios: Alguns riscos jamais podem ser totalmente removidos.
+Planejadores de contingência buscam antecipar cenários de pesadelo oferecendo
+grandes ameaças aos ativos fixos e operações contínuas da empresa. O cerne do
+planejamento de contingência tem dois elementos – fornecer recursos de back-up
+(pessoas, instalações e capital) e aplicá-los rapidamente para trazer as operações
+de negócios on-line novamente. Por exemplo, como resultado de um plano de
+contingência bem elaborado, o escritório da Fuji Capital Markets foi capaz de se
+recuperar dois dias após o atentado a bomba do World Trade Center (em Nova
+York), onde estava localizado. Estreitamente relacionadas ao planejamento de
+contingência são a análise de cenários e, em especial, a gerência da reputação, que
+
+31
+descrevem respostas gerenciais apropriadas após o início de uma crise. Todas
+essas técnicas somente são relevantes a eventos muito raros e de grande impacto,
+em contraste com a gerência de riscos operacionais, que geralmente focaliza
+eventos mais frequentes e de menor impacto (MARSHALL, 2002, p. 26).
+
+32
+
+3.
+
+ENGENHARIA DE PRODUÇÃO
+A engenharia de produção tem suas raízes na revolução industrial ocorrida
+
+na Inglaterra no século XVIII, com o início do uso intensivo de máquinas nos
+sistemas produtivos. Com a gradual evolução destes sistemas, sua complexidade
+também aumentou, gerando maior necessidade por um profissional especializado
+em otimizá-los tanto do ponto de vista da produtividade, quanto do ponto de vista de
+custo. Como estabelece Leme (1983), o surgimento do curso de engenharia de
+produção propriamente dito ocorre no período de 1882 a 1912, com o surgimento e
+desenvolvimento do que ficou conhecido como scientific management e sua
+aplicação em empresas por profissionais intitulados industrial engineers. Segundo o
+autor, naquele momento começam a ser criados os primeiros cursos de Industrial
+Engineering, nome utilizado nos Estados Unidos para o que denominamos
+engenharia de produção.
+No Brasil, assim como nos países desenvolvidos, a criação dos cursos de
+engenharia
+
+de
+
+produção
+
+foi
+
+impulsionada
+
+pela
+
+instalação
+
+de
+
+indústrias
+
+manufatureiras, que provocaram grandes mudanças no mercado de trabalho. Como
+afirmam Faé e Ribeiro (2005), estas empresas eram multinacionais que começaram
+a se instalar no país por volta da década de 50 e trouxeram através de seus
+organogramas posições ocupadas por industrial engineers, que eram responsáveis,
+por exemplo, pelos departamentos de tempos e métodos, de planejamento e
+controle de produção, de controle de qualidade, entre outros.
+Seguindo as necessidades do mercado, como descreve Leme (1983,) a
+engenharia de produção surge quando a Escola Politécnica aprova os cursos de
+Engenharia de Produção e Complemento de Organização Industrial como
+disciplinas do curso de doutoramento (o Doutor em Engenharia existente na
+época)”. Complementa, dizendo que “o sucesso dos cursos, frequentado por várias
+dezenas de engenheiros, convence a Congregação que a nova área estava sendo
+bastante solicitada no mercado de trabalho, fazendo com que em Maio de 1958 esta
+aprovasse a instalação, em nível de graduação, do curso de Engenharia de
+Produção como opção da Engenharia Mecânica”.
+
+33
+No entanto, segundo Oliveira (2005, p. 3) “do que se pode apurar, até o início
+da década de 70 não existiam cursos de graduação em Engenharia de Produção
+como modalidade. Os cursos criados até então eram de pós-graduação e os de
+graduação tinham a Produção como habilitação ou ênfase de outra modalidade de
+Engenharia, principalmente da Engenharia Mecânica. Os dois primeiros cursos de
+Engenharia de Produção surgiram no início da década de 70 (entre 1970 e 1972) na
+UFRJ e na USP de São Carlos/SP”.Ainda segundo o autor “No final da década de
+70 começaram a surgir outros cursos de Engenharia de Produção. Em 1980 já
+existiam 18 cursos e até 1997 criava-se aproximadamente dois cursos a cada três
+anos no país. A partir deste ano houve um crescimento vertiginoso do número de
+cursos, saltando dos 37 em funcionamento em 1997 para aproximadamente 200
+cursos em 2005, registrando-se a criação em torno de quase 20 cursos por ano”
+(OLIVEIRA, 2005, p. 3).
+
+3.1 Campo de Atuação do Engenheiro de Produção
+Como estabelece Cunha (2002, p. 3) “A engenharia de produção
+desenvolveu-se, ao longo do século XX, em resposta às necessidades de
+desenvolvimento de métodos e técnicas de gestão dos meios produtivos
+demandada pela evolução tecnológica e mercadológica caracterizada acima.
+Enquanto que os ramos tradicionais da Engenharia, cronologicamente seus
+precedentes, evoluíram na linha do desenvolvimento da concepção, fabricação e
+manutenção de sistemas técnicos, a Engenharia de Produção veio a concentrar-se
+no desenvolvimento de métodos e técnicas que permitissem otimizar a utilização de
+todos os recursos produtivos”. Ainda segundo o autor “diferentemente das ciências
+da administração de empresas, que centra-se mais na questão da gestão dos
+processos administrativos, processos de negócio e na organização estrutural da
+empresa, a engenharia de produção centra-se na gestão dos processos produtivos”
+(CUNHA, 2002, p. 3).
+Segundo Santos (2001), “O campo de atuação profissional do Engenheiro de
+Produção está voltado para a organização e operação dos sistemas de produção de
+
+34
+bens e serviços, de forma a atingir eficaz e eficientemente os objetivos sociais e
+econômicos desejados” (SANTOS, 2001, p. 6).
+Com o aumento da competitividade no mercado, as novas demandas do
+consumidor e a crescente evolução tecnológica, os sistemas produtivos tornam-se
+cada vez mais complexos tecnicamente e para que a empresa sobreviva é
+necessário que estes sistemas tenham sua interface com o mercado facilitada, isto
+é, o que diferencia a empresa é a qualidade dos serviços agregados ao produto que
+oferece, como é o caso da Caterpillar, conhecida pela qualidade e agilidade de sua
+assistência técnica. Como afirma Santos (2001), “o trabalho do Engenheiro de
+Produção envolve o estudo e o projeto de sistemas produtivos, tecnológicos e
+informacionais, assim como o projeto da organização do trabalho humano, sempre
+com a perspectiva de integração. Além disso, a visão do Engenheiro de Produção
+deve se estender ao ambiente externo e competitivo das empresas para que este
+possa projetar sistemas produtivos com base em considerações sociais,
+econômicas, tecnológicas e políticas” (SANTOS, 2001, p. 6).
+Também, como estabelece a Associação Brasileira de Engenheira de
+Produção – ABEPRO:
+“Compete à Engenharia de Produção o projeto, a implantação, a operação, a
+melhoria e a manutenção de sistemas produtivos integrados de bens e serviços,
+envolvendo homens, materiais, tecnologia, informação e energia. Compete ainda
+especificar, prever e avaliar os resultados obtidos destes sistemas para a sociedade
+e o meio ambiente, recorrendo a conhecimentos especializados da matemática,
+física, ciências humanas e sociais, conjuntamente com os princípios e métodos de
+análise e projeto da engenharia”.
+Santos (2001), vai além e afirma que “o novo cenário profissional deve
+contemplar aqueles que possam exibir em seu perfil além dos aspectos como
+iniciativa, criatividade e capacidade de liderança, também adaptabilidade e forte
+embasamento conceitual. Conhecimentos adequados sobre relações humanas,
+impactos tecnológicos sobre o meio ambiente, mercado e finanças são hoje exigidos
+dos profissionais egressos de um curso de Engenharia de Produção. Outro aspecto
+
+35
+a ser destacado neste novo perfil profissional é a capacidade de adaptação rápida
+em diferentes funções, praticadas em ambientes altamente competitivos”.
+Ainda segundo Santos (2001) “o perfil do Engenheiro de Produção Mecânica,
+portanto, deve compreender uma sólida formação tecnológica, científica e
+profissional geral que o capacite a absorver e desenvolver novas tecnologias, mas
+principalmente estimulando a sua atuação crítica e criativa na identificação e
+resolução de problemas, considerando seus aspectos políticos, econômicos,
+sociais, ambientais e culturais, com visão ética e humanística em atendimento às
+demandas da sociedade” (SANTOS, 2001, p. 7).
+
+3.2 Gestão de Riscos na Engenharia de Produção
+Como estabelece Oliveira (2005) “de uma maneira geral a Engenharia de
+Produção vem evoluindo em acordo com as tendências verificadas nas
+Organizações Industriais e Empresariais. Num passado recente considerava-se que
+dentre os principais sustentáculos destas organizações encontravam-se as
+instalações e a capacidade de produção em escala e, atualmente, estes pilares
+encontram-se mais relacionados ao conhecimento (tecnológico e sistêmico) e a
+capacidade destas organizações em conseguir melhoria constante dos seus
+produtos e processos de produção, que se traduzem nos seus principais diferenciais
+em termos de qualidade e produtividade”.
+Assim, para melhor demonstrar como se encaixa a gestão de riscos na
+engenharia de produção, propõe-se estudar a definição proposta pela ABEPRO da
+ótica estabelecida pela gestão de riscos.
+A gestão de riscos auxilia no projeto, na implantação, na melhoria e na
+manutenção de sistemas produtivos integrados, envolvendo homens, materiais e
+equipamentos, através do processo de gestão de risco, seja ele o da norma AS/NZS
+4360 ou o da ISO 31000, descritos na seção 2.4. Com eles é possível agregar a
+estes sistemas a visão de risco em seus processos, sejam eles externos ou internos
+ao sistema, bem como eventuais oportunidades que venham a surgir.
+
+36
+Também, através da gestão de riscos e do processo de gestão de riscos é
+possível especificar, prever e avaliar os resultados obtidos deste sistemas. E como
+pode ser visto na seção 2.5, a gestão do risco operacional recorre a conhecimentos
+especializados da matemática, física, ciências sociais, conjuntamente com os
+princípios de análise e projeto da engenharia, através do uso de ferramentas como
+o Controle Estatístico da Qualidade, da Gestão de Operações e da Engenharia de
+Confiabilidade.
+
+3.3 O Curso de Engenharia de Produção Mecânica na EESC/USP
+A presente seção é baseada no documento Renovação do Reconhecimento
+do Curso de Graduação em Engenharia de Produção Mecânica da Escola de
+Engenharia de São Carlos – USP elaborado por Santos (2001).
+O elemento de estudo do Engenheiro de Produção Mecânica concentra-se no
+processo de produção, que devido às evoluções tecnológicas, à globalização dos
+mercados, à evolução do consumidor, entre outras, faz com que este profissional
+tenha uma visão mais ampla do que apenas a produção em si. É necessário que o
+Engenheiro de Produção Mecânica consiga lidar com aspectos dos processos de
+fabricação
+
+mecânica,
+
+com
+
+as
+
+interferências
+
+humanas,com
+
+as
+
+alterações
+
+econômicas e financeiras dos recursos de produção, enfim deverá ser capaz de
+atuar no processo de produção de forma sistêmica.
+Esta visão ampla representa um desafio que torna a Engenharia de Produção
+Mecânica, em suas diversas linhas de atuação, uma das mais importantes áreas
+para que a indústria instalada no Brasil seja capaz de responder às novas
+exigências de competitividade.
+O Engenheiro de Produção Mecânica é preparado para atuar no
+gerenciamento de sistemas de produção em empresas pertencentes aos setores:
+primário (mineração, agroindústria, usinas de álcool), secundário (indústrias, em
+particular do ramo metal mecânico) e terciário (serviços, centros de informática,
+consultorias empresariais). É formado para atuar em todas as atividades da
+gerência voltadas para: a engenharia de produto, o projeto da fábrica, o
+
+37
+planejamento e controle da produção, o planejamento, a otimização e modelagem
+matemática de serviços, a logística, a engenharia da qualidade e a engenharia
+econômica.
+Com dez semestres, sendo os quatro primeiros básicos, o curso de
+Engenharia de Produção Mecânica é dividido, a partir daí, em três etapas. A
+primeira é voltada à formação básica e geral e contém disciplinas Economia,
+Administração, Matemática e Física. A segunda etapa, direcionada à formação em
+Engenharia Mecânica, coloca ênfase nas disciplinas de Mecânica Aplicada, Projeto
+Mecânico, Termodinâmica e Sistemas Térmicos, Processos de Fabricação e
+Materiais de Construção Mecânica. A última etapa do curso é voltada à formação
+propriamente dita do engenheiro de Produção Mecânica e é composta por
+disciplinas que preparam o Engenheiro de Produção a desenvolver as atividades, já
+comentadas, voltadas ao gerenciamento de sistemas de produção.
+Com base neste perfil profissional apresentado anteriormente, o curso de
+graduação em Engenharia de Produção Mecânica da EESC-USP busca
+proporcionar aos egressos sólida formação:
+•
+
+tanto na área de conhecimento de Engenharia de Produção como na de
+Engenharia Mecânica;
+
+•
+
+nas disciplinas básicas dos cursos de Engenharia, entre elas, Física,
+Matemática, Química, Mecânica dos Sólidos, Fenômenos de Transporte,
+Computação e Desenho;
+
+•
+
+na área de computação, tendo o computador como instrumento de
+trabalho;
+
+•
+
+para aplicar seus conhecimentos de forma inovadora, acompanhando a
+contínua evolução dos conhecimentos em Engenharia de Produção e
+contribuindo na busca de soluções nas diferentes áreas de aplicação da
+Engenharia de Produção.
+
+Como classes de problemas que o curso de graduação em Engenharia de
+Produção Mecânica da EESC-USP visa capacitar os egressos para resolver, têm-se
+os concebidos pela Associação Brasileira de Engenharia de Produção - ABEPRO:
+
+38
+•
+
+dimensionar e integrar recursos físicos, humanos e financeiros a fim de
+produzir, com eficiência e ao menor custo, considerando a possibilidade
+de melhorias contínuas;
+
+•
+
+utilizar ferramental matemático e estatístico para modelar sistemas de
+produção e auxiliar na tomada de decisões;
+
+•
+
+projetar, implementar e aperfeiçoar sistemas, produtos e processos,
+levando em consideração os limites e as características das comunidades
+envolvidas;
+
+•
+
+prever e analisar demandas, selecionar tecnologias e know-how,
+projetando produtos ou melhorando suas características e funcionalidade;
+
+•
+
+incorporar conceitos e técnicas da qualidade em todo o sistema
+produtivo, tanto nos seus aspectos tecnológicos quanto organizacionais,
+aprimorando
+
+produtos
+
+e
+
+processos,
+
+e
+
+produzindo
+
+normas
+
+e
+
+procedimentos de controle e auditoria;
+•
+
+prever a evolução dos cenários produtivos, percebendo a interação entre
+as organizações e os seus impactos sobre a competitividade;
+
+•
+
+acompanhar os avanços tecnológicos, organizando-os e colocando-os a
+serviço da demanda das empresas e da sociedade;
+
+•
+
+compreender a inter-relação dos sistemas de produção com o meio
+ambiente, tanto no que se refere a utilização de recursos escassos
+quanto à disposição final de resíduos e rejeitos, atentando para a
+exigência de sustentabilidade;
+
+•
+
+utilizar indicadores de desempenho, sistemas de custeio, bem como
+avaliar a viabilidade econômica e financeira de projetos;
+
+•
+
+gerenciar e otimizar o fluxo de informação nas empresas utilizando
+tecnologias adequadas.
+
+39
+
+4.
+
+DISCUSSÃO
+
+4.1 Delimitação da Análise
+O curso de graduação em Engenharia de Produção Mecânica da Escola de
+Engenharia de São Carlos da Universidade de São Paulo foi escolhido para ser
+analisado neste trabalho por possuir as seguintes características:
+1. Ter sido um dos cursos de graduação em Engenharia de Produção
+pioneiros no país;
+2. Ser muito bem avaliado segundo diversas pesquisas de qualidade de
+ensino;
+3. Ser um dos cursos de engenharia oferecidos pela Escola de
+Engenharia de São Carlos, Escola esta que possui renome
+internacional no ensino de engenharia; e
+4. Fazer parte da Universidade de São Paulo, considerada por diversos
+institutos de pesquisa como a melhor instituição de ensino superior do
+Brasil;
+
+4.2 Análise da Matriz Curricular do Curso de Engenharia de Produção
+Mecânica da EESC/USP
+Destacada a importância do conceito de risco e da gestão de riscos para o
+engenheiro de produção, passa-se agora ao estudo da matriz curricular da
+Engenharia de Produção Mecânica na EESC/USP.
+O objetivo deste estudo é verificar se está ou não contemplada a gestão de
+riscos dentro da matriz curricular do curso.
+Inicialmente faz-se o estudo de toda a matriz curricular em busca das
+disciplinas que possam estar associadas ao conceito de risco e/ou gestão de risco.
+A matriz curricular completa do curso de engenharia de Produção da EESC/USP
+pode ser vista no Apêndice I.
+Após fazer este estudo, as disciplinas encontradas são:
+
+40
+•
+
+SEP0568 – Economia da Produção
+
+•
+
+SEP0567 – Projetos de Investimento
+
+•
+
+SEP0565 – Finanças
+
+•
+
+SEP0561 – Custos Industriais e Orçamento
+
+•
+
+SEP0356 – Gestão da Qualidade II
+
+A partir destas, procede-se a análise da ementa das mesmas em busca do
+conceito de risco. A disciplina e seu respectivo programa resumido podem ser vistos
+na Tabela 2.
+Disciplina
+
+Programa Resumido
+Elaboração de Projetos de Investimento: estudo de
+mercado, tamanho e localização, engenharia do projeto,
+custos
+e
+receitas
+e
+responsabilidade
+SEP0567 – Projetos de
+socioambiental.Engenharia
+Econômica:
+conceitos
+Investimento
+básicos de matemática financeira, custo de oportunidade
+de capital, horizonte de planejamento e introdução ao
+risco.Avaliação de Projetos de Investimento: avaliação
+de retorno econômico e avaliação de retorno social.
+Microeconomia: Teoria do consumidor e da demanda,
+Teoria da Firma e da Oferta, Custos e formação de
+SEP0568 – Economia preços, Estruturas de Mercado.Macroeconomia: Produto
+da Produção
+Nacional, Equilíbrios clássico e keynesiano, Política
+Fiscal, Política Monetária, Economia Mundial e Comércio
+Internacional.
+Aspectos econômicos de finanças. O cálculo financeiro
+fundamental. Alavancagem operacional e financeira:
+administração do capital de giro; administração do ativo e
+SEP0565 – Finanças
+passivo não circulante, administração do ativo
+permanente; fontes de financiamentos; mercado de
+capitais; estrutura e dividendos do capital; expansão e
+falências.
+Contabilidade básica. Análise de demonstrações.
+SEP0561 – Custos
+Industriais e Orçamento Modelos de custos e orçamento. Efeitos da inflação na
+análise contábil. Controladoria.
+1) Evolução da Gestão da Qualidade para a Gestão da
+Melhoria e Mudança das Operações de Produção; 2)
+Métodos de Gerenciamento da Melhoria e Mudança:
+melhoria contínua versus melhoria radical; 3) Ciclo PDCA
+e ferramentas básicas para o gerenciamento da melhoria
+SEP0356 – Gestão da
+contínua (Kaizen); 4; Visão geral dos métodos e técnicas
+Qualidade II
+de gestão da qualidade no ciclo de vida do produto; 5)
+Desdobramento da Função Qualidade - QFD; 6) FMEA Análise do Método e do Efeito da Falha; 7. 5S; 8) Seis
+Sigma; 9) Sistema de Medição de Desempenho - BSC;
+10) Benchmarking; 11) Outras escolas de gestão de
+
+41
+melhoria: Reengenharia: conceito e técnicas.
+Tabela 2 – Disciplinas pesquisadas e respectiva ementa resumida.
+
+Como pode ser vista na Tabela 2, as disciplinas que abordam o conceito de
+risco no curso de engenharia de produção são: a disciplina Projetos de
+Investimentos, no tópico “Introdução ao risco”; e, a disciplina Gestão da Qualidade
+II, no tópico “6) FMEA - Análise do Método e do Efeito da Falha” que envolve o risco
+de que se ocorra uma falha. No entanto, nos programas das disciplinas não é feita
+nenhuma explicação de como serão abordados os conteúdo ou o que será
+apresentado.
+Deste modo, é possível observar que o conceito de risco está contemplado
+superficialmente e que a gestão de risco não está contemplada no ensino de
+Engenharia de Produção Mecânica da EESC/USP. Assim, faz-se necessário uma
+maior abordagem sobre o tópico.
+
+4.3 Problemática
+Partindo do exposto anteriormente, identificou-se o seguinte problema:
+“Como melhor abordar o conceito de risco e gestão do risco no curso de
+Engenharia de Produção da EESC/USP?”
+
+4.4 Metodologia para Solução da Problemática
+Como destacado anteriormente, a engenharia de produção possui um amplo
+campo de atuação profissional. A ABEPRO destaca isso ao afirmar que o
+engenheiro de produção é o único profissional do mercado que consegue enxergar
+os problemas de forma global, não fragmentada.
+A gestão de riscos é, por si só, uma área de conhecimento grande e bastante
+complexa, sendo o interesse maior desse estudo identificar áreas de conhecimento
+
+42
+correlatas à engenharia de produção e à gestão de riscos e propor uma solução
+para que o conceito de gestão de riscos seja tratado dentro do curso.
+Deste modo, para a solução da problemática, proposta faz-se necessário que
+o conceito de risco e a gestão de riscos sejam incluídos no curso de engenharia de
+produção dentro das várias disciplinas correlatas à esta área de conhecimento.
+A Figura 6 ilustra áreas do conhecimento que possuem vínculo com a gestão
+de riscos e são essenciais a formação do engenheiro de produção.
+
+Figura 6– Áreas de Conhecimento da Engenharia de Produção com Vínculo
+com a Gestão de Riscos.
+
+No tópico 4.5 Solução Proposta, essas áreas de conhecimento serão
+desenvolvidas, sendo cada uma delas brevemente detalhada.
+Ademais, para completar a solução proposta para o problema identificado é
+também necessário a criação de uma nova disciplina optativa denominada Gestão
+de Risco.
+
+4.5 Solução Proposta
+4.5.1 Áreas de conhecimento da engenharia de produção
+Os conceitos de risco e gestão de risco devem ser fortalecidos nas seguintes
+áreas:
+
+43
+Engenharia de Operações e Processos de Produção
+Dentro da engenharia de operações e processos de produção a gestão do
+risco poderia oferecer grande suporte através da gestão da continuidade de
+negócios, que como define a norma BS 25999-1:2006 é a capacidade estratégica e
+tática de a organização planejar para responder à incidentes e interrupções de
+negócio de modo a continuar suas operações a um nível pré-estabelecido.
+A gestão de riscos também poderia ser aplicada na engenharia de operações
+e processos de produção através da gestão de ativos que, como define PAS 551:2008 são as atividades e práticas sistemáticas e coordenadas pela qual uma
+organização otimiza e administra sustentavelmente seus ativos e sistemas de
+ativos, sua performance, riscos e custos associados dentro de seu ciclo de vida com
+o propósito de atingir o plano estratégico da organização.
+Deste modo, a interface dos conceitos de risco e de gestão de riscos com a
+engenharia de operações e processos de produção poderia ser feita através das
+ferramentas citadas acima. Assim, propõem-se a abordagem das mesmas nas
+disciplinas SEP0251 – Projeto e Operação de Sistemas de Produção e SEP0302 –
+Planejamento e Controle da Produção.
+Logística
+Em logística e na gestão da cadeia de suprimentos o conceito de risco e a
+gestão de risco têm sido aplicados através do Supply Chain Risk (risco na cadeia de
+suprimentos) e do Supply Chain Risk Management (gestão do risco na cadeia de
+suprimentos).
+Como afirma Culp (2001), várias empresas não financeiras enfrentam riscos
+provenientes de eventos adversos que podem ocorrer em qualquer ponto de uma
+cadeia de suprimentos, ou na cadeia que liga as entradas dos processos produtivos
+da empresa às suas saídas.
+Isto posto, para melhor tratar o conceito de risco e a gestão de risco durante
+o curso, é necessário que seja incluído na disciplina SEP0303 – Logística Integrada
+o ensino do conceito e da aplicação do Supply Chain Risk Management.
+
+44
+Engenharia da Qualidade
+O estudo da qualidade também pode se beneficiar dos conceitos de risco e
+gestão de risco. Como estabelece Marshall (2002, p. 427)“o reprojeto dos processos
+e a aplicação de técnicas de gestão da qualidade para todos os recursos utilizados
+nos processos das operações devem ser a prioridade da gestão para prevenção de
+riscos de operações”.
+Segundo Marshall (2002, p. 427), “risco de operações é o risco de falha
+dentro dos vários processos organizacionais internos. Essas falhas podem ocorrer
+em qualquer estágio do processo de agregação de valor através de erros de
+marketing, vendas, escrituração das transações e nas operações de back-office”.
+Assim, ao associar a engenharia da qualidade ao risco de operações, as
+empresas podem ser beneficiadas através de processos internos que estarão
+menos sujeitos a falhas. Nesse caso as técnicas propostas na Norma ISO
+31000:2009 podem ser aplicadas aos processos internos da empresa para
+identificação, avaliação, tratamento e monitoramento de riscos de potenciais falhas.
+Portanto propõem-se que sejam expostos nas disciplinas que abordam a qualidade,
+a saber SEP0354 – Controle Estatístico da Qualidade, SEP0355 – Gestão da
+Qualidade I e SEP0356 – Gestão da Qualidade II, os conceitos de risco e de gestão
+de risco.
+Engenharia do Produto
+Como estabelece Marshall (2002, p. 407)“o risco de novos produtos é o risco
+de lançamento de um novo produto para o qual a empresa não tem os sistemas ou
+a especialização para gerir adequadamente”. Segundo o autor, “os erros tendem a
+ser mais altos nos estágios iniciais de desenvolvimento de um novo produto, mas,
+ironicamente, algumas das piores perdas ocorrem quando um novo produto é
+espetacularmente mais popular do que o previsto, resultando em gigantescas
+perdas em potencial de reputação e custos de oportunidade. Por exemplo, no final
+dos anos 90,a Tesco, o primeiro supermercado do Reino Unido a oferecer
+cadernetas de poupança, foi tomada de surpresa pela demanda inicial
+extraordinariamente alta. O volume de processamento esperado era de 2000 por
+dia, mas se transformou em 15000. O resultado foi de atrasos enormes e frustração
+
+45
+dos clientes enquanto a escala de operações era alterada para atender a demanda”
+(MARSHALL, 2002, p. 407).
+Marshall (2002, p. 407) também diz que o risco de novos mercados “é o risco
+de entrada em um novo mercado sem experiência, conhecimento ou especialização
+prévios. A maior parte das perdas decorrentes de riscos operacionais tende a
+resultar de uma grande alteração nos negócios, porque os controles e
+procedimentos existentes não evoluem automaticamente”.
+Assim, destacada a importância da análise de riscos na engenharia do
+produto, em especial no que concerne os fatores externos, isto é, o mercado,
+propõem-se a que seja incluído na disciplina SEP0151 – Processo de
+Desenvolvimento do Produto um tópico de risco, abordando o risco de novos
+produtos e o risco de novos mercados.
+Gestão Ambiental
+O conceito de risco e a gestão de riscos também podem ser aplicadas na
+gestão ambiental. Como estabelecem Dagnino e Junior (2007), “sob o ponto de
+vista pedagógico, o mapeamento de riscos ambientais tem fortalecido seu potencial
+de se configurar, seja como estratégia de ensino formal, no âmbito escolar, seja
+como atividade de educação não formal, fora do âmbito escolar” (DAGNINO;
+JUNIOR, 2007, p. 51).
+Assim, considerando que os riscos ambientais também podem ser tratados
+segundo a ótica proposta em normas como a ISO 31000:2009, propõem-se que os
+conceitos de risco e de gestão de riscos sejam expostos naquelas disciplinas que
+tratam de gestão ambiental, como SHS0415 – Gestão Ambiental na Empresa.
+Engenharia Econômica
+Na engenharia econômica a gestão de riscos pode ser especialmente
+importante através da gestão do risco financeiro nas empresas. Exemplo de gestão
+de riscos financeiros em empresas é a proteção contra flutuação de preços de
+matérias-primas, como commmodities, através do hedging utilizando derivativos.
+
+46
+Os riscos financeiros incorridos pelas empresas em seus negócios
+normalmente podem ser classificados em risco de mercado, risco de crédito e risco
+de liquidez. Um melhor conhecimento deste tipo de exposição por parte da empresa
+pode
+
+auxiliar
+
+grandemente
+
+na
+
+gestão econômica
+
+dos
+
+ativos
+
+financeiros,
+
+especialmente naquelas empresas voltadas ao mercado externo, onde flutuações
+no câmbio podem produzir resultados negativos no balanço, ou empresas intensivas
+em concessão de crédito para consumo, como grandes redes varejistas de móveis.
+Deste modo, propõem-se uma melhor abordagem destes conceitos nas
+disciplinas relacionadas à engenharia econômica, como SEP0565 – Finanças.
+Estatística
+Em estatística, é necessário que seja fornecido o ferramental necessário para
+a análise e o tratamento do risco durante o curso de Engenharia de Produção. Para
+tanto sugere-se o ensino dos modelos básicos para tratamento de risco utilizados na
+gestão de risco e que são fartos na literatura utilizada pela indústria financeira.
+Neste sentido, o curso de Bacharelado em Ciências Atuariais, recentemente
+criado na FEA/USP, pode ser de grande ajuda no estabelecimento do que seria
+desejável ensinar aos alunos de engenharia de produção, uma vez que lida
+basicamente com o estudo do risco do ponto de vista financeiro.
+
+4.5.2 Disciplina optativa
+Já disciplina optativa proposta segue os princípios da disciplina RAD2304 –
+Gestão de Risco, do Curso de Administração da Faculdade de Economia,
+Administração e Contabilidade de Ribeirão Preto da USP, com algumas mudanças.
+O resumo da ementa da disciplina RAD2304 – Gestão de risco pode ser visto
+abaixo:
+Objetivos
+Apresentar os fundamentos de gestão de risco e sua importância no contexto
+da administração de empresas.
+
+47
+Programa Resumido
+Apresentar aos alunos a importância da gestão de riscos em uma empresa,
+bem como os tipos de riscos existentes e os modelos de gestão de risco.
+Programa
+•
+
+Conceito de risco
+
+•
+
+Tipos de risco
+
+•
+
+Modelos de gestão de riscos
+
+•
+
+Estudos de casos
+
+A partir do resumo da ementa da disciplina acima e pensando nos conceitos
+de gestão de risco que deveriam ser aplicados aos alunos de Engenharia de
+Produção, propõe-se os seguintes tópicos que devem ser abordados na disciplina
+proposta.
+Objetivo
+Apresentar os fundamentos de gestão de risco e sua importância no contexto
+da engenharia de produção.
+Programa resumido
+Apresentar aos alunos a importância da gestão de riscos em uma empresa,
+seja ela manufatureira ou não, bem como os tipos de riscos existentes e suas
+classificações, em especial o risco operacional. Demonstrar a utilização deste
+conceitos através dos modelos de gestão de risco existentes.
+Programa
+•
+
+Conceito de risco
+
+•
+
+Tipos de risco
+
+•
+
+Risco na indústria financeira e suas aplicações
+
+•
+
+Risco operacional: sua aplicação na engenharia de produção
+
+•
+
+Gestão de Risco
+
+•
+
+Gestão do Risco Operacional
+
+48
+
+5.
+
+CONSIDERAÇÕES FINAIS
+Risco sempre esteve associado ao desenvolvimento das atividades de uma
+
+empresa, sejam elas a contratação de um novo funcionário, o desenvolvimento de
+um novo produto, a construção de uma nova planta ou a entrada em um novo
+mercado. Aquelas empresas que souberam melhor avaliar o risco e tomar decisões
+baseadas no retorno esperado foram as que sobreviveram ao longo dos anos. Isso
+não mudou desde então.
+Do contrário, em um mundo cada vez mais globalizado, onde a competição
+se torna cada vez mais acirrada e as disputas por novos mercados acentuam-se, a
+melhor gestão de riscos pode ser fator crucial na sobrevivência de uma empresa,
+como mostra a indústria financeira, onde gigantescas perdas financeiras ocorreram
+devido a exposições mal calculadas a riscos, em especial ao risco operacional.
+Assim, a engenharia de produção, voltada a otimização de sistemas
+produtivos, poderia se beneficiar muito desta ferramenta. Para tanto, é crucial
+destacar que atualmente os sistemas produtivos possuem cada vez mais
+componentes de serviços. De fato, na indústria manufatureira o fator de
+diferenciação tem sido a qualidade dos serviços oferecidos aliados ao produto, e
+com isso, a engenharia de produção tem se tornado cada vez mais abrangente e
+têm se distanciado do conhecimento técnico específico das outras engenharias.
+Este trabalho pretendeu demonstrar isso através do estudo do risco e da
+gestão de riscos. Adicionalmente, pretendeu mostrar também que estes conceitos
+atualmente estão superficialmente contemplados no curso de uma das escolas
+pioneiras na engenharia de produção, o curso de engenharia de produção mecânica
+da EESC/USP.
+Ademais, detectada essa problemática, propôs também uma solução. Esta
+solução é abrangente como os próprios conceitos e busca demonstrar como eles
+estão inter-relacionados a várias disciplinas afetas à engenharia de produção, como
+logística e engenharia econômica.
+É evidente que este trabalho não pretende ser a palavra final nesta temática.
+Estudos mais aprofundados e melhor fundamentados podem estabelecer uma
+
+49
+solução mais avançada e factível ao contexto atual do curso. No entanto, pretendeu
+lançar luz a um tópico ainda muito pouco tratado dentro da engenharia de produção
+e mostrar como ele pode ser útil ao profissional formado, especialmente quando se
+leva em conta que o engenheiro de produção têm em uma de suas maiores
+qualidades a visão holística e a abrangência de sua atuação.
+
+50
+
+6.
+
+BIBLIOGRAFIA
+
+ABNT- Associação Brasileira de Normas Técnicas. NBR ISO 31000/2009 - Gestão
+de Riscos: Princípios e Diretrizes. Rio de Janeiro, ABNT, 2009.
+AS/NZS 4360:2004 - Tutorial Notes: The Australian and New Zealand Standard on
+Risk Management. Pymble, Broadleaf Capital International, 2004.
+BIS. BANK FOR INTERNATIONAL SETTLEMENTS. Basel II: International
+Convergence of Capital Measurement and Capital Standards - A revised framework.
+Basel Comitee on Banking Supervision. November 2005.
+BSI. PAS 55-1/2008. Asset Management Part 1: Specification for the Optimized
+Management of Physical Assets. London, 2008.
+BSI. BS 25999-1/2006 Business Continuity Management: Code of Practice. London,
+2006.
+CAS.
+
+CASUALTY
+
+ACTUARIAL
+
+SOCIETY.
+
+Overview
+
+of
+
+Enterprise
+
+Risk
+
+Management, 2003.
+CHORAFAS, D. N. Operational Risk Control With Basel II: Basic Principles and
+Capital Requirements, Elsevier Butterworth-Heinemann, 2004.
+COIMBRA, F. C. Estrutura de Governança Corporativa e Gestão de Riscos: um
+Estudo de Caso no Setor Financeiro. São Paulo, 2011. Dissertação (Doutorado em
+Administração) - Programa de Pós-Graduação em Administração, Departamento de
+Administração, Faculdade de Economia, Administração, Contabilidade e Atuária,
+Universidade de São Paulo.
+COIMBRA, F. C. Estruturação de Unidade de Gestão de Riscos Operacionais em
+Bancos: um Estudo de Caso. São Paulo, 2006. Dissertação (Mestrado em
+Administração) - Programa de Pós-Graduação em Administração, Departamento de
+Administração, Faculdade de Economia, Administração, Contabilidade e Atuária,
+Universidade de São Paulo.
+CRUZ, M. Modelagem quantitativa de risco operacional. In: DUARTE, A. M.;
+VARGA, G. Gestão de riscos no Brasil. Rio de Janeiro: Financial Consultoria, 2003.
+
+51
+CULP, C. L. The Risk Management Process: Business Strategy and Tactics, Wiley,
+2001.
+CUNHA, G. D. Um Panorama Atual da Engenharia de Produção no Brasil. Porto
+Alegre: [s.n.], 2002.
+DAGNINO, R. S.; JUNIOR, S. C. Risco Ambiental: Conceitos e Aplicações.
+Climatologia e Estudos da Paisagem, Rio Claro, v. 2, n. 2, p. 50-87, jul/dez 2007.
+FAÉ, C. S.; RIBEIRO, J. L. D. Um Retrato da Engenharia de Produção no Brasil.
+Revista Gestão Industrial, v. 01, n. 03, p. 315-324, 2005.
+GITMAN, L. J. Princípios de Administração Financeira. São Paulo: Harbra, 1997.
+GITMAN, L. J. Princípios de Administração Financeira. São Paulo: Harbra, 2002.
+HAUBENSTOCK, M. The Evolving Operational Risk Management Framework. The
+RMA Journal. Vol 84, Num 4, pag 26, Dec 2001 / Jan 2002
+HOFFMAN, D. Managing Operational Risk: 20 Firmwide Best Practice Strategies. 1a
+ed., Wiley, 2002.
+ISDA. Operational Risk Regulatory Approach Discussion Paper, 2000.
+JORION, P. Value at Risk: The New Benchmark for Managing Financial Risk. 3rd ed,
+McGraw-Hill, 2006.
+KING, J. L. Operational Risk: measurement modeling. Chichester: John Wiley &
+Sons, 2001.
+KNIGHT, F.H. Risk, Uncertainty, and Profit. Boston, MA: Hart, Schaffner & Marx;
+Houghton Mifflin Company, 1921.
+LAYCOCK, M. Analisys of Mishandling Losses and Processing Errors. In:
+Operational Risk and Financial Institutions. London: Risk Books, 1998.
+LEME, R. A. S. A História da Engenharia de Produção no Brasil. In: Encontro
+Nacional de Engenharia de Produção, 3., São Paulo. Anais... São Paulo, 1983.
+
+52
+MARSHALL, C. L. Medindo e Gerenciando Riscos Operacionais em Instituições
+Financeiras. Rio de Janeiro: Qualitymark, 2002.
+PMI. A Guide to the Project Management Body of Knowledge. PMBOK. 4 ed.
+Newton Square: PMI, 2008.
+OLIVEIRA, V. F. A Avaliação dos Cursos de Engenharia de Produção.Revista
+Gestão Industrial, v. 01, n. 03, p. 1-12, 2005.
+RAFF, D. M. G.; Risk Management in an Age of Change. Philadelphia: Wharton
+School, University of Pennsylvania, 2001.
+ROSS, S. A. et al. Administração financeira. São Paulo: Atlas, 1995.
+SANTOMERO, A. M.; Commercial Bank Risk Management: an Analysis of the
+Process. Philadelphia: Wharton School, University of Pennsylvania, 1997.
+SANTOS, F. C. A. Renovação do Reconhecimento do Curso de Graduação em
+Engenharia de Produção Mecânica da Escola de Engenharia de São Carlos - USP.
+São Carlos, [s.n.], 2001.
+TOWERS PERRIN & OPRISK ADVISORY. A New Approach for Managing
+Operational Risk: Addressing the Issues Underlying the 2008 Global Financial Crisis.
+Society of Actuaries, 2010.
+TRAPP, A. C. G. Estudo de avaliação e gerenciamento do risco operacional de
+instituições financeiras no Brasil: análise de caso de uma instituição financeira de
+grande porte. São Paulo, 2004. Dissertação (Mestrado em Controladoria e
+Contabilidade)
+
+-
+
+Programa
+
+de
+
+Pós-Graduação
+
+em
+
+Ciências
+
+Contábeis,
+
+Departamento de Contabilidade e Atuária, Faculdade de Economia, Administração e
+Contabilidade da Universidade de São Paulo.
+
+53
+
+7.
+
+APÊNDICE I
+Matriz curricular do curso de engenharia de produção mecânica da
+
+EESC/USP.
+Disponível em:
+<https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=18&codcur=18083
+&codhab=0&tipo=N>
+
+Escola de Engenharia de São Carlos
+Curso: Engenharia de Produção Mecânica
+Informações Básicas do Currículo
+Data de Início:
+
+01/01/2012
+
+Duração
+
+Trabalho
+
+Ideal
+
+10 semestres
+
+Mínima
+
+8 semestres
+
+Máxima
+
+18 semestres
+
+Carga Horária
+
+Aula
+
+Subtotal
+
+Obrigatória
+
+3180
+
+1170
+
+4350
+
+Optativa Livre
+
+120
+
+0
+
+120
+
+Optativa Eletiva
+
+0
+
+0
+
+0
+
+Total
+
+3300
+
+1170
+
+4470
+
+(Estágio: 210)
+
+Grade Curricular
+Legenda: CH=Carga horária Total; CE=Carga horária de Estágio; CP=Carga horária de Práticas como
+Componentes Curriculares;
+AACA=Carga horária em Atividades Acadêmicos-Científico-Culturais
+Disciplinas Obrigatórias
+1º Período Ideal
+FCM0101
+FFI0180
+SCC0120
+SEP0100
+SMA0300
+
+Física I
+Laboratório de Física Geral I
+Introdução à Ciência da Computação
+Introdução à Engenharia de Produção
+Geometria Analítica
+
+Créd.
+Aula
+
+Créd.
+Trab.
+6
+2
+2
+2
+4
+
+CH
+0
+0
+2
+0
+0
+
+CE
+90
+30
+90
+30
+60
+
+CP
+
+AACA
+
+54
+SMA0301
+SQM0113
+
+Cálculo I
+Quimica Geral e Tecnologica I
+Subtotal:
+
+2º Período Ideal
+Física II
+Laboratório de Física Geral II
+Abordagens para a Identificação e Solução de
+SEP0101
+Problemas de Engenharia de Produção
+SMA0304
+Álgebra Linear
+SMA0332
+Cálculo II
+SQM0107
+Laboratório de Química Geral e Tecnólogica
+SQM0114
+Quimica Geral e Tecnologica II
+SSC0300
+Linguagens de Programação e Aplicações
+SCC0120 - Introdução à Ciência da Computação
+Subtotal:
+
+6
+3
+25
+Créd.
+Aula
+
+FCM0102
+FFI0181
+
+3º Período Ideal
+SEM0388
+Princípios de Metrologia Industrial
+SEM0502
+Desenho Técnico Mecânico I
+SEP0501
+Formação do Pensamento Administrativo
+SET0183
+Mecânica dos Sólidos I
+FCM0101 - Física I
+SMA0301 - Cálculo I
+SMA0333
+Cálculo III
+SME0301
+Métodos Numéricos para Engenharia I
+SCC0120 - Introdução à Ciência da Computação
+SMA0304 - Álgebra Linear
+ou
+SMA0304 - Álgebra Linear
+SSC0300 - Linguagens de Programação e Aplicações
+SME0320
+Estatística I
+SCC0120 - Introdução à Ciência da Computação
+SMA0301 - Cálculo I
+SMA0332 - Cálculo II
+ou
+SMA0301 - Cálculo I
+SMA0332 - Cálculo II
+SSC0300 - Linguagens de Programação e Aplicações
+SMM0193
+Engenharia e Ciência dos Materiais I
+Subtotal:
+
+4º Período Ideal
+IAU0126
+SEL0403
+
+Humanidades e Ciências Sociais
+Eletricidade I
+
+0
+0
+2
+Créd.
+Trab.
+
+90
+45
+435
+
+CH
+
+6
+2
+
+0
+0
+
+90
+30
+
+4
+
+0
+
+60
+
+4
+6
+3
+3
+2
+
+0
+0
+0
+0
+0
+
+30
+
+0
+
+Créd.
+Aula
+
+Créd.
+Trab.
+1
+0
+1
+0
+
+4
+3
+
+0
+0
+
+4
+
+0
+
+4
+29
+Créd.
+Aula
+
+0
+2
+Créd.
+Trab.
+
+2
+4
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+90
+60
+60
+60
+Requisito
+Requisito
+60
+45
+Requisito
+Requisito
+Requisito
+Requisito
+60
+Requisito
+Requisito
+Requisito
+Requisito
+Requisito
+Requisito
+60
+495
+
+CH
+0
+0
+
+CP
+
+60
+90
+45
+45
+30
+Requisito
+450
+
+CH
+
+4
+4
+2
+4
+
+CE
+
+30
+60
+
+55
+FCM0102 - Física II
+SEM0500
+Estática Aplicada às Máquinas
+SEM0503
+Desenho Técnico Mecânico II
+SEM0502 - Desenho Técnico Mecânico I
+SEP0504
+Sistemas de Informação
+SET0184
+Mecânica dos Sólidos II
+SET0183 - Mecânica dos Sólidos I
+SME0302
+Métodos Numéricos para Engenharia II
+SCC0120 - Introdução à Ciência da Computação
+SMA0301 - Cálculo I
+SMA0304 - Álgebra Linear
+ou
+SMA0301 - Cálculo I
+SMA0304 - Álgebra Linear
+SSC0300 - Linguagens de Programação e Aplicações
+SMM0194
+Engenharia e Ciência dos Materiais II
+Subtotal:
+
+5º Período Ideal
+SEM0501
+Dinâmica Aplicada às Máquinas
+SEM0500 - Estática Aplicada às Máquinas
+SEP0252
+Engenharia de Fabricação Mecânica
+SEM0388 - Princípios de Metrologia Industrial
+SEP0275
+Práticas em Processos de Fabricação Mecânica
+SEP0252 - Engenharia de Fabricação Mecânica
+Administração de Recursos Humanos Aplicada
+SEP0502
+à Engenharia de Produção
+SEP0568
+Economia da Produção
+SME0340
+Equações Diferenciais Ordinárias
+SMM0176
+Engenharia de Fabricação Metalúrgica
+SMM0193 - Engenharia e Ciência dos Materiais I
+Subtotal:
+
+6º Período Ideal
+SEM0104
+Mecanismos
+SEM0500 - Estática Aplicada às Máquinas
+SEM0241
+Elementos de Máquinas I
+SEM0503 - Desenho Técnico Mecânico II
+SET0184 - Mecânica dos Sólidos II
+SEM0360
+Fundamentos Termodinâmicos
+SEP0354
+Controle Estatístico da Qualidade
+SEM0388 - Princípios de Metrologia Industrial
+SME0320 - Estatística I
+SEP0401
+Pesquisa Operacional I
+SEP0567
+Projetos de Investimento
+SEP0568 - Economia da Produção
+
+4
+4
+
+0
+0
+
+2
+4
+
+1
+0
+
+3
+
+0
+
+4
+27
+Créd.
+Aula
+
+0
+1
+Créd.
+Trab.
+
+4
+
+Requisito
+Requisito
+Requisito
+60
+435
+
+CH
+
+CE
+
+CP
+
+AACA
+
+0
+
+60
+Requisito
+0
+60
+Requisito
+1
+60
+Indicação de Conjunto
+
+4
+2
+
+2
+
+1
+
+4
+4
+4
+
+2
+0
+0
+
+24
+
+4
+
+Créd.
+Aula
+
+Requisito
+60
+60
+Requisito
+60
+60
+Requisito
+45
+Requisito
+Requisito
+Requisito
+
+Créd.
+Trab.
+
+60
+120
+60
+60
+Requisito
+480
+
+CH
+
+4
+
+0
+
+4
+
+1
+
+4
+5
+
+0
+1
+
+4
+4
+
+0
+2
+
+60
+Requisito
+90
+Requisito
+Requisito
+60
+105
+Requisito
+Requisito
+60
+120
+Requisito
+
+CE
+
+CP
+
+AACA
+
+56
+Fenômenos de Transporte para Engenharia de
+Produção
+SEM0500 - Estática Aplicada às Máquinas
+Subtotal:
+
+SHS0179
+
+4
+29
+Créd.
+Aula
+
+7º Período Ideal
+
+0
+4
+Créd.
+Trab.
+
+SEM0326
+Elementos de Máquinas II
+2
+SEM0241 - Elementos de Máquinas I
+SEP0251
+Projeto e Operação de Sistemas de Produção
+4
+SEP0401 - Pesquisa Operacional I
+SEP0355
+Gestão da Qualidade I
+2
+SEP0402
+Pesquisa Operacional II
+4
+SEP0451
+Projeto do Trabalho e Ergonomia
+4
+SEP0501 - Formação do Pensamento Administrativo
+SHS0180
+Sistemas de Transporte de Fluidos
+2
+SHS0179 - Fenômenos de Transporte para Engenharia de Produção
+SHS0415
+Gestão Ambiental na Empresa
+2
+SHS0179 - Fenômenos de Transporte para Engenharia de Produção
+Subtotal:
+20
+Créd.
+Aula
+
+8º Período Ideal
+SEP0151
+Processo de Desenvolvimento do Produto
+SEP0252 - Engenharia de Fabricação Mecânica
+SEP0201
+Projeto da Fábrica
+SEP0302
+Planejamento e Controle da Produção
+SEP0251 - Projeto e Operação de Sistemas de Produção
+SEP0505
+Sistemas de Apoio à Decisão
+SEP0561
+Custos Industriais e Orçamento
+Subtotal:
+
+1800080
+SEP0303
+SEP0622
+
+1800081
+SEP0356
+
+0
+2
+0
+2
+0
+0
+5
+
+3
+4
+
+1
+0
+
+2
+4
+17
+
+2
+0
+5
+Créd.
+Trab.
+
+2
+3
+2
+7
+Créd.
+Aula
+
+Trabalho de Conclusão de Curso II
+Gestão da Qualidade II
+
+Créd.
+Trab.
+2
+2
+4
+
+Subtotal:
+
+150
+45
+210
+405
+
+CH
+4
+2
+6
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+120
+Requisito
+75
+60
+Requisito
+90
+60
+405
+
+CH
+
+4
+0
+6
+10
+
+CE
+
+60
+Requisito
+60
+Requisito
+90
+60
+120
+Requisito
+30
+Requisito
+30
+Requisito
+450
+
+CH
+2
+
+Subtotal:
+
+10º Período Ideal
+
+1
+
+4
+
+Trabalho de Conclusão de Curso I
+Logística Integrada
+Estágio Supervisionado
+
+Requisito
+555
+
+CH
+
+Créd.
+Trab.
+
+Créd.
+Aula
+
+9º Período Ideal
+
+60
+
+210
+210
+
+150
+90
+240
+
+Disciplinas Optativas Livres
+2º Período Ideal
+
+Créd.
+Aula
+
+Créd.
+Trab.
+
+CE
+
+57
+SMM0339
+
+Introdução à Mecânica Automobilística
+
+3º Período Ideal
+SEP0139
+SMM0340
+
+Créd.
+Aula
+
+Projeto de Extensão Universitária
+Introdução ao Design Automotivo
+
+4º Período Ideal
+SMM0343
+
+4
+
+Créd.
+Aula
+
+Metodologia de Pesquisa em Engenharia de
+Produção
+SEP0133
+Visitas Técnicas em Engenharia de Produção I
+SEP0135
+Seminários em Engenharia de Produção I
+SEP0548
+Aplicações do Pensamento Administrativo
+SEP0501 - Formação do Pensamento Administrativo
+SEP0603
+Organização da Manufatura e Competitividade
+SMM0341
+Tecnologia Aplicada na Competição Automotiva
+SMM0194 - Engenharia e Ciência dos Materiais II
+
+2
+
+2
+2
+2
+
+1
+1
+1
+
+2
+2
+2
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+90
+
+CE
+60
+60
+60
+Requisito
+1
+60
+0
+45
+Requisito
+Requisito
+0
+45
+
+3
+Créd.
+Trab.
+
+CE
+
+3
+
+1
+
+75
+
+4
+
+0
+
+60
+
+2
+
+1
+
+60
+Requisito
+2
+90
+0
+30
+1
+75
+
+2
+2
+3
+Créd.
+
+CE
+
+1
+1
+1
+
+2
+3
+
+Gestão da Mudança, Cultura Organizacional e
+Liderança
+Ergonomia Aplicada ao Projeto de Produtos
+SEP0492
+Industriais
+SEP0545
+Gestão de Pequenas Empresas
+SEP0501 - Formação do Pensamento Administrativo
+SEP0549
+Gestão da Tecnologia da Informação
+SEP0602
+Engenharia do Ciclo de Vida
+SMM0171
+Mecânica de Autoveículos II
+
+AACA
+
+60
+60
+60
+Requisito
+1
+60
+0
+60
+Requisito
+Créd.
+Trab.
+
+Créd.
+Aula
+
+CP
+
+120
+
+CE
+
+2
+
+Créd.
+Aula
+
+SEP0140
+
+8º Período Ideal
+
+Créd.
+Trab.
+
+CE
+
+60
+120
+
+CE
+2
+
+2
+4
+
+SEP0134
+Visitas Técnicas em Engenharia de Produção II
+SEP0136
+Seminários em Engenharia de Produção II
+SEP0546
+Processo Estratégico
+SEP0501 - Formação do Pensamento Administrativo
+SEP0604
+Automação nos Sistemas de Manufatura
+SHS0170
+Tratamento de Resíduos Sólidos Urbanos
+SQM0113 - Quimica Geral e Tecnologica I
+SQM0114 - Quimica Geral e Tecnologica II
+SMM0157
+Mecânica de Autoveículos I
+
+7º Período Ideal
+
+Créd.
+Trab.
+
+Créd.
+Aula
+
+60
+
+CE
+1
+2
+
+4
+
+SEP0132
+
+6º Período Ideal
+
+Créd.
+Trab.
+2
+4
+
+Introdução ao Rendering Automotivo
+
+5º Período Ideal
+
+0
+
+Créd.
+
+CE
+
+58
+Aula
+SEM0327
+Elementos de Máquinas III
+SEM0241 - Elementos de Máquinas I
+Certificações, Práticas e Jogos em Gestão da
+SEP0348
+Cadeia de Valor
+SEP0441
+Pesquisa Operacional III
+SEP0402 - Pesquisa Operacional II
+SMM0204
+Suspensões Veiculares
+SMM0171 - Mecânica de Autoveículos II
+SMM0314
+Processamento de Materiais V I I I: Soldagem
+SMM0194 - Engenharia e Ciência dos Materiais II
+
+9º Período Ideal
+
+1
+
+75
+Requisito
+
+2
+
+2
+
+90
+
+4
+
+0
+
+60
+Requisito
+1
+75
+Requisito
+0
+45
+Requisito
+
+3
+
+Créd.
+Aula
+
+Projeto e Gestão Logística da Cadeia de
+Suprimentos
+SEP0346
+Gestão da Armazenagem
+SEP0565
+Finanças
+SEP0568 - Economia da Produção
+SMM0202
+Corrosão Metálica
+SQM0113 - Quimica Geral e Tecnologica I
+
+SEM0303
+Projeto Assistido por Computador
+SEM0503 - Desenho Técnico Mecânico II
+
+3
+
+3
+
+SEP0304
+
+10º Período Ideal
+
+Trab.
+
+Créd.
+Trab.
+
+CE
+
+2
+
+1
+
+2
+4
+
+1
+0
+
+Créd.
+Trab.
+3
+
+CP
+
+AACA
+
+CE
+
+CP
+
+AACA
+
+60
+
+60
+60
+Requisito
+0
+60
+Requisito
+
+4
+
+Créd.
+Aula
+
+CE
+
+CE
+0
+
+45
+Requisito
+
+

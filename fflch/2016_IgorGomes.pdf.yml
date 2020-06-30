@@ -1,0 +1,23 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no 
+dedictria: no
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec:
+n_ssb_sec:
+n_sss_sec:
+tem_anexo: yes
+ini: Introdução
+secoes:
+ - Breve Panorama da Educação Brasileira
+ - Período Atual da Educação Implicações e Problematizações
+ - Contribuição da Geografia para o Ensino Básico
+end: Considerações Finais
+ref: Referências Bibliográficas

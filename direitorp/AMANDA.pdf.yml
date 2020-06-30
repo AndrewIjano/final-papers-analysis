@@ -1,0 +1,25 @@
+# Final project info
+
+contra_cp: yes
+c_citacao: no
+dedictria: no
+agradecim: no
+resumo_ab: esp
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec: 20
+n_ssb_sec: 17
+n_sss_sec: 3
+n_ssss_ec: 3
+tem_anexo: no
+ini: INTRODUÇÃO
+secoes:
+  - A SOCIEDADE GLOBAL DE RISCO
+  - CRIMES DE PERIGO ABSTRATO
+  - CRIMES DE PERIGO ABSTRATO NA SOCIEDADE GLOBAL DE RISCO
+  - ANÁLISE DE JULGADO
+end: CONCLUSÃO
+ref: REFERÊNCIAS

@@ -1,0 +1,3314 @@
+UNIVERSID ADE DE S ÃO P AULO
+Escola de Engenharia de São Carlos
+
+PROJETO DE FONTES DE REFERÊNCIA DE TENSÃO
+EM TECNOLOGIA CMOS
+Raquel de Mendonça Engelbrecht
+
+São Carlos – SP
+
+Raquel de Mendonça Engelbrecht
+
+PROJETO DE FONTES DE REFERÊNCIA DE
+TENSÃO EM TECNOLOGIA CMOS
+
+Tragalho de Conclusão de Curso apresentado à
+Escola de Engenharia de São Carlos, da
+Universidade de São Paulo
+Curso de Engenharia de Computação com
+ênfase em Sistemas Embarcados
+ORIENTADOR: Prof. Dr. João Navarro Soares Jr.
+
+São Carlos
+2007
+
+Índice
+ÍNDICE DE FIGURAS ....................................................................................................... II
+ÍNDICE DE TABELAS .....................................................................................................III
+ÍNDICE DE TABELAS .....................................................................................................III
+RESUMO ........................................................................................................................... IV
+ABSTRACT ........................................................................................................................ V
+1. INTRODUÇÃO................................................................................................................ 1
+1.1 CONTEXTUALIZAÇÃO, MOTIVAÇÃO E DOMÍNIO DA APLICAÇÃO ...................................... 1
+1.2 OBJETIVO DO TRABALHO ............................................................................................... 1
+1.3 ORGANIZAÇÃO DA MONOGRAFIA ................................................................................... 2
+2. FERRAMENTAS E MÉTODOS..................................................................................... 3
+2.1 FERRAMENTAS MENTOR-GRAPHICS® ............................................................................ 3
+2.1.1 Design Architect IC................................................................................................. 3
+2.1.2 IC Station SDL........................................................................................................ 4
+2.1.3 ELDO ..................................................................................................................... 4
+2.1.4 Calibre DRC e LVS................................................................................................. 5
+2.2 TECNOLOGIA CMOS...................................................................................................... 5
+2.3 FONTES DE REFERÊNCIA................................................................................................. 8
+2.3.1 Fontes de Corrente ................................................................................................. 9
+2.3.2 Fontes de Tensão .................................................................................................. 13
+Referência Zener ..................................................................................................................14
+Referência Bandgap .............................................................................................................14
+
+3. MÉTODOS E IMPLEMENTAÇÕES ........................................................................... 15
+3.1 MÉTODO...................................................................................................................... 15
+3.1.1 Configurações Iniciais .......................................................................................... 15
+3.1.2 Funcionamento do Circuito................................................................................... 16
+3.2 IMPLEMENTAÇÕES ....................................................................................................... 19
+3.2.1 Projeto.................................................................................................................. 19
+3.2.2 Layout................................................................................................................... 23
+4. RESULTADOS OBTIDOS............................................................................................ 27
+5. CONCLUSÕES .............................................................................................................. 35
+ANEXO A........................................................................................................................... 36
+ANEXO B........................................................................................................................... 39
+REFERÊNCIAS................................................................................................................. 53
+
+i
+
+Índice de Figuras
+FIGURA 1: TELA DE EXEMPLO DA FERRAMENTA DESIGN ARCHITECT-IC. ........................... 1
+FIGURA 2: SÍMBOLOS CMOS. .......................................................................................... 6
+FIGURA 3: VISTA LATERAL DE UM TRANSISTOR CMOS ..................................................... 1
+FIGURA 4: VISÕES DO DISPOSITIVO CMOS. ...................................................................... 7
+FIGURA 5: FONTE DE CORRENTE. .....................................................................................10
+FIGURA 6: FONTE DE CORRENTE COM ESPELHO DE WILSON. .............................................12
+FIGURA 7: ESQUEMÁTICO DO CIRCUITO BANDGAP............................................................16
+FIGURA 8: CORRENTE DA FONTE DE CORRENTE (FIGURA 5) POR TENSÃO DE ALIMENTAÇÃO.21
+FIGURA 9: CORRENTE DA FONTE DE CORRENTE WILSON (FIGURA 6) POR TENSÃO DE
+ALIMENTAÇÃO..........................................................................................................22
+FIGURA 10: LAYOUT DO CIRCUITO BANDGAP. ................................................................... 1
+FIGURA 11: TENSÃO DE SAÍDA POR TEMPERATURA EM FUNÇÃO DA TEMPERATURA, PARA
+MODELO TÍPICO. .......................................................................................................28
+FIGURA 12: TENSÃO DE SAÍDA POR TEMPERATURA EM FUNÇÃO DA TEMPERATURA, PARA
+MODELO WORSE SPEED. ...........................................................................................29
+FIGURA 13: TENSÃO DE SAÍDA POR TEMPERATURA EM FUNÇÃO DA TEMPERATURA, PARA
+MODELO WORSE POWER. ..........................................................................................30
+FIGURA 14: TENSÃO DE SAÍDA POR TEMPERATURA EM FUNÇÃO DA TEMPERATURA, PARA
+MODELO TÍPICO. .......................................................................................................31
+FIGURA 15: TENSÃO DE SAÍDA POR TEMPERATURA EM FUNÇÃO DA TEMPERATURA, PARA
+MODELO WORSE SPEED. ...........................................................................................32
+FIGURA 16: TENSÃO DE SAÍDA POR TEMPERATURA EM FUNÇÃO DA TEMPERATURA, PARA
+MODELO WORSE POWER. ..........................................................................................33
+
+ii
+
+Índice de Tabelas
+TABELA 1. COMPARAÇÃO ENTRE REFERÊNCIAS ZENER E REFERÊNCIAS BANDGAP.............14
+TABELA 2. CONFIGURAÇÕES INICIAIS DE PROJETO............................................................15
+TABELA 3. DIMENSÕES DOS COMPONENTES. ....................................................................21
+TABELA 4. VALORES PARA R2 OBTIDOS NA SIMULAÇÃO. .................................................23
+TABELA 5. DIMENSÕES RESULTANTES DE CÁLCULOS E SIMULAÇÕES.................................23
+TABELA 6. VALORES MÁXIMOS E MÍNIMOS DE VOUT PARA OS DIFERENTES MODELOS DE
+SIMULAÇÃO NA FAIXA DE -30 A 120 °C. ....................................................................34
+
+iii
+
+Resumo do Projeto de Formatura apresentado à EESC-USP como parte dos requisitos necessários para
+a obtenção da conclusão do curso de Engenharia de Computação.
+
+PROJETO DE FONTES DE REFERÊNCIA DE TENSÃO EM
+TECNOLOGIA CMOS
+
+Raquel de Mendonça Engelbrecht
+12 / 2007
+
+Orientador: Prof. Dr. João Navarro Soares Jr.
+Área de Concentração: Microeletrônica
+Palavras-chave: Circuitos integrados MOS, referência bandgap, fonte de referência de tensão.
+
+RESUMO
+Fontes de tensão de referência são blocos fundamentais para muitos circuitos analógicos. A
+função deles é fornecer uma tensão que não varia nem com a temperatura nem com a tensão
+de alimentação. A forma simples e imediata de gerar tal tensão é por meio de diodos zener.
+Estes dispositivos, no entanto, não são encontrados na maior parte das tecnologias de circuitos
+integrados o que exige o uso de outras técnicas. Este trabalho abrange o projeto de uma fonte
+de referência de tensão em tecnologia CMOS. O projeto envolve a definição das
+especificações, dimensionamento dos transistores, simulações e desenho do layout de um
+protótipo de um circuito para fabricação. A fonte a ser projetada é do tipo bandgap e será
+desenvolvida para a tecnologia CMOS 0,35 µm da AMS (AustriaMicroSystem) com quatro
+níveis de metal e dois de polisilicio.
+
+iv
+
+Abstract of Graduation Project presented to EESC-USP as a partial fulfillment of the requirements to
+conclude the Computer Engineering course.
+
+DESIGN OF A VOLTAGE REFERENCES SOURCE USING CMOS
+TECHNOLOGY
+Raquel de Mendonça Engelbrecht
+12 / 2007
+
+Advisor: Prof. Dr. João Navarro Soares Jr.
+Concentration Area: Microelectronics
+Keywords: MOS integrated circuits, bandgap reference, voltage reference.
+
+ABSTRACT
+
+Voltage references sources are essential for most analog circuits. Their main purpose is to
+provide temperature and power supply invariant voltage. The simplest and most immediate
+way to generate such voltage is through the use of zener diodes. These devices, however,
+cannot be found in the most common integrated circuit technologies, which demand other
+techniques. This project comprehends the design a voltage reference source using CMOS
+(Complementary Metal Oxide Silicon) technology. This development involves defining the
+circuit’s specifications, dimensioning the transistors, simulating and lay outing a prototype of
+the circuit. The voltage reference to be designed is a bandgap circuit and will be developed for
+the CMOS 0,35 µm from AMS (AustriaMicroSystem) with four metal levels and two
+polisilicon levels.
+
+v
+
+1. Introdução
+1.1 Contextualização, Motivação e Domínio da Aplicação
+O projeto de circuitos integrados (CIs) é uma atividade importante dentro da engenharia
+eletrônica moderna. Em geral CIs incrementam a confiabilidade e melhoram o desempenho
+dos sistemas, permitem agregar funções adicionais criando novas possibilidades, além de
+simplificarem a manutenção dos equipamentos aos quais se integram.
+Todos os circuitos digitais e analógicos precisam de uma referência, seja esta de tensão,
+corrente ou tempo. A referência estabelece um ponto estável usado por outros subcircuitos de
+forma a gerar resultados previsíveis e que possam ser repetidos. Este ponto de referência não
+deve ter flutuação significativa sob quaisquer situações variantes, como mudanças na fonte de
+tensão de alimentação, variações de temperatura. Circuitos conversores digital-analógico,
+analógico-digital, DC-DC e AC-DC; amplificadores operacionais; e reguladores lineares, são
+exemplos de circuitos que requerem, de forma necessária, de fontes de referência. Esses
+subsistemas, por sua vez, são elementos fundamentais que compõem telefones celulares,
+pagers, laptops, entre outros produtos eletrônicos.
+De forma geral, fontes de referência são partes essenciais da maioria dos sistemas elétricos, se
+não de todos. Apesar de se desejar referências muito precisas, nem sempre são necessárias.
+Este trabalho se propõe a desenvolver uma fonte de referência de tensão que seja
+independente da temperatura. Para tanto, tomou-se como base o trabalho desenvolvido por
+Cristian Otsuka Hamanaka em (1). Desse modo, este projeto segue uma sugestão de trabalho
+futuro proposta pelo autor, dando continuidade ao trabalho.
+1.2 Objetivo do Trabalho
+Neste trabalho se deseja projetar uma fonte de tensão de referência na tecnologia CMOS
+(Complementary Metal Oxide Silicon). A fonte a ser projetada é do tipo bandgap e será
+desenvolvida para a tecnologia CMOS 0,35 µm da AMS (AustriaMicroSystem) (2). O projeto
+envolve a definição das especificações, o dimensionamento dos transistores, as simulações e o
+desenho do layout de um protótipo do circuito para fabricação. Este protótipo deverá ser
+fabricado em 2008.
+1
+
+1.3 Organização da Monografia
+
+O restante desta monografia está organizado da seguinte forma: na seção 2 são apresentados
+os recursos tecnológicos envolvidos no trabalho; na seção 3 encontra-se a descrição do
+trabalho realizado; na seção 4 são analisados os resultados obtidos; por fim, na seção 5, a
+conclusão é apresentada.
+
+2
+
+2. Ferramentas e Métodos
+2.1 Ferramentas Mentor-Graphics®
+2.1.1 Design Architect IC
+O Design Architect-IC é uma ferramenta de captura e descrição de ligações, instâncias e
+atributos – Netlist – em projetos eletrônicos dentro de um fluxo de projeto de circuitos
+integrados do tipo full custom. O Design Architect-IC trabalha junto com as ferramentas de
+projeto Mentor Graphics IC Station, de forma a conceituar, desenvolver, verificar e simular
+complexos projetos analógicos e de sinais mistos de C.I.s de forma correta e rápida.
+A ferramenta proporciona uma visão consistente ao projetista, independente se está criando
+esquemáticos, diagramas de bloco, símbolos ou representações em linguagem descritiva de
+hardware, HDL, (do inglês, hardware description language). Modela blocos digitais,
+analógicos e de sinais mistos num ambiente comum, usando representações esquemáticas em
+C, VHDL, Verilog, SPICE, VHDL-AMS ou Verilog-AMS, e permite a simulação de todo o
+projeto hierárquico.
+O Design Architect-IC diminui os ciclos de projeto por meio da criação de um ambiente de
+alta produtividade para captura de esquemático e configuração para simulações e análises
+A/MS (do inglês, Analog/Mixed-Signals). A habilidade de simular componentes analógicos de
+forma rápida e precisa é alcançada por meio de uma interface com a ferramenta Mentor
+Graphics Eldo, criando um laço estreito para captura, simulação e análise de projetos (3). Na
+figura 1, é apresentada uma tela de exemplo da ferramenta.
+
+3
+
+Figura 1: Tela de exemplo da ferramenta Design Architect-IC.
+
+2.1.2 IC Station SDL
+
+A ferramenta IC Station SDL (do inglês, schematic driven layout) permite a elaboração de
+layouts a partir de uma fonte lógica, o esquemático. Com isso se mantém um relacionamento
+entre layout e esquemático, diminuindo os ciclos de projeto e garantindo a correção do layout.
+Os dispositivos podem ser adicionados ou modificados manualmente pelo uso de formas e por
+comandos de edição interativos. IC Station SDL acelera a criação de circuitos parametrizados
+em conjunto com as regras de projeto fornecidas por um fabricante, resultando num layout
+que obedece tais regras de projeto (4).
+2.1.3 ELDO
+ELDO é uma ferramenta de simulação que oferece diversos modos de análise, entre ele DC,
+AC, transiente, ruído transiente, tanto para MOS quanto para bipolar. É rápido e preciso
+devido a seu algoritmo de particionamento (5).
+O simulador analógico ELDO é componente central de um conjunto de ferramentas de
+simulação para circuitos analógicos e de sinais mistos. Ele suporta desde sistemas simples de
+4
+
+células únicas, até projetos contendo 300 mil transistores, tanto no domínio do tempo quanto
+no da freqüência (6).
+
+2.1.4 Calibre DRC e LVS
+
+O Calibre é um conjunto de ferramentas de verificação física do layout. Dentre elas,
+encontram-se o Calibre DRC (do inglês, desing rule check) e o Calibre LVS (do inglês, layout
+versus schematic). Essas podem atuar de forma complementar (7; 8).
+
+2.2 Tecnologia CMOS
+
+As tecnologias de circuitos integrados mais usadas são bipolar e MOS. CMOS significa
+semicondutor
+
+metal-óxido
+
+complementar
+
+(do
+
+inglês,
+
+complementary
+
+metal
+
+oxide
+
+semiconductor) por ser composto pelos transistores MOS canal P e canal N, complementares
+entre si (9).
+Por muito tempo, a tecnologia bipolar ocupou uma posição dominante nos circuitos de silício,
+comprovada pela família TTL (do inglês, Transistor-Transistor Logic) e pelos amplificadores
+operacionais monolíticos. No final dos anos 70, a tecnologia MOS se mostrou viável nas áreas
+de memórias de acesso dinâmico aleatório (do inglês, DRAM – Dynamic Random Access
+Memory), de microprocessadores e da família lógica da série 4000. Assim, guiados pela
+necessidade de densidade, MOS se mostrou como o caminho a ser seguido na área de
+integração em larga escala (do inglês, VLSI – Very-Large-Scale Integration). Desta forma,
+várias organizações passaram a utilizar a tecnologia MOS, inicialmente NMOS, não só para
+projetos de circuitos analógicos, como também de digitais. Neste contexto, desde os anos 80,
+até os dias de hoje, a tecnologia CMOS com gate de silício predomina no projeto de circuitos
+VLSI analógico e de sinais mistos (10). Nos últimos anos, 75% dos circuitos semicondutores
+(tanto em quantidade como em valor) foi produzido em CMOS, fato que adiciona outra
+vantagem à tecnologia: redução de custos devido à escala de produção. Este quadro não se
+deve alterar nos próximos anos. Em vista disso o circuito desenvolvido será feito em CMOS
+com transistores bipolares parasitas.
+5
+
+Na figura 2, são mostradas as diversas representações dos transistores do tipo-p e do tipo-n.
+Na figura, podem ser notados quatro terminais: gate (G), source (S), dreno (D) e bulk (B). Os
+terminais S e D são permutáveis, uma vez que os transistores são normalmente simétricos
+(11).
+
+Figura 2: Símbolos CMOS.
+
+Figura 3: Vista lateral de um transistor CMOS
+
+Na figura 3 é apresentado um corte lateral de um transistor MOS. A dimensão do terminal
+gate no caminho source-dreno é chamada de comprimento, L (do inglês, length), enquanto
+que a dimensão perpendicular a ela é denominada largura, W (do inglês, width). Na figura 4,
+as dimensões L e W estão explicitadas (11).
+
+6
+
+Figura 4: Visões do dispositivo CMOS.
+
+Algumas das principais características da tecnologia CMOS incluem sua alta densidade, o que
+permite um grande número de funções lógicas dentro do CI; sua capacidade de produzir um
+menor produto potência-atraso; e seu baixo consumo de potência estática, de forma a não
+produzir tanto calor quanto a tecnologia TTL ou ECL (do inglês, emitter coulpled logic).
+Em (1), a operação do transistor MOS é separada em três regiões, de acordo com a densidade
+de portadores presentes no canal formado sob o terminal de porta. São elas:
+• Região de Inversão Forte – ocorre quando a tensão porta-dreno, VGS, é suficiente para
+formar um canal com concentração de portadores maior ou igual à concentração
+inicial de portadores do substrato;
+• Região de Inversão Fraca – o transistor é polarizado no limiar da condução (VGS ≈ VT).
+Nesta situação o canal tem concentração de portadores inferior à concentração de
+portadores inicial do substrato. A condução de corrente no canal se dá prioritariamente
+por meio de difusão e não de deriva;
+• Região de Inversão Moderada - é uma região de transição entre a inversão forte e a
+inversão fraca. Esta região é mal definida e por isso de difícil modelamento.
+Para determinar qual a região de operação do transistor é utilizada a relação [1] abaixo (12):
+
+7
+
+0,125 >
+
+ID
+β 2n(UT )2
+
+Inversão fraca
+
+> 10
+[1]
+Inversão forte
+
+em que β = W µCOX é o fator de ganho do transistor MOS, µ é a mobilidade dos portadores no
+L
+
+canal, COX é a capacitância por área na estrutura porta-óxido-substrato, W e L são a largura e o
+comprimento do canal do transistor, n é o fator slope característico da tecnologia e UT é tensão
+térmica. A tensão térmica é dada por
+
+em que K é a constante de Boltzmann, T é a
+
+temperatura em Kelvin e q é a carga elétrica do elétron.
+Esta relação nos mostra que a região de operação depende dos valores da corrente de dreno,
+dos parâmetros geométricos (W/L), da mobilidade, etc. Apenas corrente e os parâmetros
+geométricos do transistor podem ser modificados pelo projetista, mas são suficientes para
+controlar o seu estado (12). Os outros parâmetros são dependentes do processo e fixos.
+2.3 Fontes de Referência
+
+De modo geral, fontes de referência são componentes essenciais da maior parte dos sistemas
+elétricos. Apesar de que uma grande precisão é sempre bem vinda, em muita aplicações não é
+necessária. Fontes de referências rudimentares muitas vezes são suficientes para satisfazerem
+a demanda de precisão. Assim, a complexidade do circuito da fonte varia muito de projeto
+para projeto. Uma referência simples, por exemplo, pode ser uma tensão natural já existente,
+num circuito composto de diodos de junção p-n, que não varia significativamente com
+condições operacionais. Por outro lado, referências mais precisas são obtidas com o
+cancelamento das componentes lineares e não-lineares da variação das tensões geradas.
+Circuitos integrados, de forma geral, são fabricados em diversas tecnologias de processo,
+desde bipolar padrão e processos CMOS, até tecnologias estado da arte como SOI (do inglês,
+silicon-on-insulator) e biCMOS (do inglês, Bipolar-CMOS). Assim, referências podem
+assumir inúmeras formas dependendo do processo para que foram projetadas. Com o aumento
+da necessidade de precisão a complexidade do circuito tende a aumentar de forma a
+compensar efeitos de primeira, segunda, ou até mesmo terceira ordem. De modo semelhante,
+referências que exigem baixa corrente e/ou baixa tensão de alimentação para operar, também
+8
+
+apresentam complexidade maior se comparadas às que não possuem tais restrições.
+Independente do nível de complexidade, as fontes de referência possuem os mesmos
+princípios e componentes básicos. De fato, a maior parte delas utiliza diodos de junção p-n,
+base para referências de precisão. As técnicas de projeto podem se diferenciar um pouco umas
+das outras no sentido prático, porém, os conceitos não se alteram. Por exemplo, uma
+referência bipolar pode usar o diodo de junção base-emissor de um transistor NPN, enquanto
+um projeto CMOS provavelmente usará um diodo de junção source-bulk de um transistor
+PMOS como unidade básica de construção. Ambos não passam de diodos de junção p-n.
+Elementos básicos, como os diodos de junção e espelhos de corrente, são utilizados em
+diversas combinações de forma a produzir tensões e correntes independentes da temperatura,
+que são elementos chave no projeto de circuitos de referência precisos (11).
+2.3.1 Fontes de Corrente
+A maior parte das fontes de tensão além de ser derivada das fontes de corrente, também é
+dependente delas. Isso influi de forma decisiva a precisão do sistema. As fontes de correntes
+não precisam ser independentes da temperatura, porém sua flutuação deve ser bem
+caracterizada e controlada. Há dois tipos principais: PTAT (do inglês, Proportional-ToAbsolute) e CTAT (do inglês, Complementary-To-Absolute).
+A corrente PTAT, uma corrente linearmente proporcional à temperatura, é a corrente de
+referência mais utilizada. Sua popularidade vem do fato de suas relações serem práticas,
+previsíveis e lineares.
+Uma fonte de corrente considerada básica e utilizada largamente em amplificadores MOS é a
+indicada na figura 5. Essa configuração permite que uma corrente PTAT seja gerada e, em
+seguida, replicada em diversas posições do circuito integrado a fim de promover correntes de
+polarização para estágios amplificadores. Na figura 5, segue equacionamento proposto por
+(1):
+
+9
+
+Figura 5: Fonte de corrente.
+
+Nessa fonte de referência as correntes em M1 e M2 devem operar em fraca inversão e suas
+correntes, neste caso, são dadas por:
+I D = SI DO eVG / nU T ( e −VS / U T − e −VD / U T )
+
+[2]
+
+em que ID é a corrente de dreno, IDO é uma corrente característica da tecnologia; n é o fator
+slope; S é a relação entre a largura e o comprimento do canal do transistor (W/L); VG, VD, VS e
+UT são respectivamente as tensões de porta-substrato, dreno-substrato, fonte-substrato e
+térmica.
+Essa relação descreve a curva I-V de um transistor canal N em fraca inversão.
+Para se calcular as correntes ID1, ID2, ID3 e ID4, correntes de dreno dos transistores M1, M2, M3
+e M4 respectivamente, deve-se conhecer a tensão no resistor R1. Partindo da relação [1],
+obtém-se:
+ VG 1 
+
+I D3 = I D1
+
+I D4 = I D2
+
+ VG 1 
+
+
+
+ W   nU 
+nU 
+= I DO  1 e  T  = I DO S 1 e  T 
+ L1 
+
+W
+= I DO  2
+ L2
+
+ VG 2
+
+VS 2 
+
+[3]
+
+ VG 2
+
+VS 2 
+
+
+
+
+−
+  nU T − U T 
+nU
+U
+ e
+= I DO S 2 e  T T
+
+
+[4]
+
+em que VG1 e VG2 são as tensões de porta dos transistores M1 e M2, VS2 é a tensão fontesubstrato do transistor M2 e S1 e S2 é a relação (W/L) dos transistores M1 e M2.
+10
+
+Pela figura 5 verifica-se que as tensões de porta dos transistores M1 e M2 são iguais, ou seja,
+VG1 = VG2, e que a tensão fonte-substrato do transistor M2 é igual à queda de tensão sobre o
+resistor R1: VS2 = VR1. Assim, calcula-se:
+ VG 1
+
+ nU
+ T
+
+
+
+
+
+
+ VG1
+
+VG 2
+
+VR 
+
+ VR 
+
+I D3 I D1
+SI e
+S  nU − nU + U  S  U 
+=
+= 1 DO V V  = 1 e  T T T  = 1 e  T 
+G2
+R
+I D4 I D2
+S2
+S2
+ nU − U 
+T 
+ T
+S 2 I DO e
+
+[5]
+
+ VR 
+
+I D 3 S 1  U T 
+=
+e
+I D4 S 2
+
+[6]
+
+  I S 
+VR = U T ln D1 2 
+  I D 2 S1  
+
+[7]
+
+em que VR é a queda de tensão no resistor R1 e é dado por:
+
+VR = I D2 × R1
+
+[8]
+
+Substituindo a relação acima na relação [7], obtém-se:
+I D2 =
+
+UT
+R1
+
+  I D1 S 2  
+ 
+ln
+  I D 2 S1  
+
+[9]
+
+Passa-se, agora, a determinar a relação entre ID3 e ID4. Os transistores M3 e M4 podem
+trabalhar neste circuito tanto em forte quanto em fraca inversão. Para obter melhores
+características de casamento entre eles, o melhor é que estejam em forte inversão. Neste caso
+a corrente que passa por eles é dada pela expressão:
+I D = kn
+
+W
+L
+
+(VGS − VT ) 2
+
+[10]
+
+em que kn é um parâmetro de transcondutância que é proporcional a mobilidade e a
+capacitância de porta do transistor, W é a largura do canal do transistor, L é o comprimento
+do canal do transistor, VGS a tensão porta-fonte e VT a tensão de limiar do transistor.
+Dada a configuração do espelho de corrente temos que VGS1=VGS2 e, se VT1 = VT2:
+
+11
+
+I D2 =
+
+(W / L) 2
+I D1
+(W / L)1
+
+[11]
+
+E, portanto:
+
+I D1 S3
+=
+I D2 S4
+
+[12]
+
+Desta forma, obtém-se a seguinte relação:
+ID2 =
+
+UT
+R1
+
+  S 3 S 2 
+ 
+ln 
+  S 4 S1  
+
+[13]
+
+A fonte de corrente apresentada na figura 5 apresenta uma séria limitação: a modulação de
+canal dos transistores faz com que a corrente tenha uma dependência grande de VDD. Uma
+segunda configuração de fonte de corrente, com um espelho de corrente Wilson de
+transistores NMOS como indicado na figura 6, foi utilizada neste trabalho.
+
+Figura 6: Fonte de corrente com espelho de Wilson.
+
+A substituição do espelho de corrente simples pelo espelho de corrente de Wilson tem a
+finalidade de reduzir o efeito da modulação de canal nos transistores, produzindo uma
+corrente de saída menos dependente de VDD. O equacionamento para o projeto, no entanto,
+permanece o mesmo.
+
+12
+
+2.3.2 Fontes de Tensão
+Tensões de referência que dependem pouco da temperatura são essenciais em muitos circuitos
+analógicos. É importante notar que como a maior parte dos parâmetros do processo varia com
+a temperatura, se uma fonte de referência é independente da temperatura, então possivelmente
+ela também é independente de processo (10).
+Fontes de tensão de referência se dividem em três categorias, em relação à dependência da
+temperatura: ordem zero, primeira ordem e correção de curvatura. Quando uma tensão
+existente é utilizada sem a preocupação de anular a dependência com a temperatura, essa é
+denominada compensação de ordem-zero. Quando o termo de primeira ordem é anulado, com
+respeito à temperatura, a referência é classificada como primeira ordem. Por fim, a correção
+dos termos de segunda ou mais ordens define uma fonte de correção de curvatura (13).
+Os circuitos de tensão de referência utilizados largamente pela indústria são os circuitos com
+diodos zener discretos e os circuitos bandgap.
+Uma vez que as características elétricas dos diodos de junção p-n são repetíveis, previsíveis e
+bem caracterizadas, diodos são comumente utilizados como unidade básica da maioria de
+fontes dereferências de primeira, ou mais, ordens. Pela sua dependência inerente destas
+características da energia de gap do silício, ou banda proibida (do inglês, bandgap), esses
+circuitos são chamados de fonte de referência bandgap (13).
+O princípio de funcionamento da fonte de referência bandgap é compensar o coeficiente de
+temperatura negativo da tensão de uma junção p-n com o coeficiente positivo da tensão
+térmica (10).
+No caso de um circuito com transistor bipolar, o coeficiente negativo aparece na tensão baseemissor (VBE) e seu valor é -2 mV/°C. O coeficiente positivo, gerado a partir da tensão
+térmica, é extraída, por exemplo, utilizando a diferença na tensão de junção de dois diodos.
+Multiplicando-se UT por uma constante Y ajustada para que o produto UTY tenha um
+coeficiente de temperatura de aproximadamente +2 mV/ºC, e somando-se as tensões VBE e
+UTY, é possível produzir uma tensão de referência (VREF) com um coeficiente de temperatura
+próximo a 0 mV/ºC (14; 15).
+
+13
+
+Outra forma de se projetar fontes de tensão de referência é utilizando diodos zener. Essas
+fontes possuem baixa sensibilidade ao ruído (< 10 µVpp em 0,1 a 10 Hz) e um bom
+desempenho em relação à temperatura (1 a 10 ppm/ºC). Por outro lado, necessita de uma
+tensão de alimentação com valor alto (16).
+Diodos zener são raramente disponibilizados em processos CMOS. Em contrapartida, para
+circuitos de referência externos, não integrados, os diodos zener estão disponíveis, formando
+fontes ideais para aplicações que precisam de alta resolução como, por exemplo, aplicações
+com conversores de 14 ou 16 bits (1).
+Na tabela 1 são indicadas vantagens e desvantagens das duas tecnologias (1).
+Tabela 1. Comparação entre referências Zener e referências Bandgap.
+Referência Zener
+Vantagens
+Baixo ruído
+Desvio de temperatura pequeno
+Excelente estabilidade a longo prazo
+
+Desvantagens
+Necessita de tensões de alimentação acima de 5 V
+Consumo de potência alto
+Projeto caro pois utiliza, normalmente, um
+componente discreto
+
+Alta Precisão
+
+Referência Bandgap
+Baixo consumo de potência
+Boa precisão, que pode ser aumentada por ajuste
+Opera com tensões de alimentação abaixo de 1 V
+
+Ruído Moderado
+Desvio de temperatura limitado
+
+A decisão de qual tecnologia utilizar é tomada levando-se em conta a natureza do projeto.
+Quando trata-se de um circuito analógico, que opera em tensões menores que 5V, o uso de
+configurações com diodo zener não é indicado. Além disso, modelos de diodo zener não
+costumam ser disponibilizados por tecnologias de circuitos integrados.
+Convém mencionar que o uso da referência bandgap permite integração com as tecnologias
+Bipolares, BiCMOS ou mesmo CMOS típico sem a necessidade da utilização de componentes
+externos. Em tempo, coeficientes de temperatura entre 25 - 50 ppm/ºC são obtidos com
+bandgaps sem dificuldades (1).
+
+14
+
+3. Métodos e Implementações
+O trabalho envolve o projeto de uma fonte de tensão de referência em tecnologia CMOS
+desde a definição das especificações, dimensionamento dos transistores e simulações até o
+desenho do layout de um protótipo do circuito para fabricação. Essa fonte deve apresentar
+coeficiente de temperatura de aproximadamente de 30 ppm/°C, com uma tensão típica de
+alimentação de 3V.
+3.1 Método
+
+3.1.1 Configurações Iniciais
+
+Analisando-se o que foi apresentado anteriormente, decidiu-se pela implementação de um
+circuito de tensão bandgap, visto que necessita de baixa tensão de alimentação e que torna
+possível o desenvolvimento de um circuito totalmente integrado. São seguidos os métodos
+propostos por (1).
+As configurações inicias do projeto encontram-se na tabela 2. Essas foram definidas tomando
+como base o que a literatura apresenta como características típicas desses circuitos e no
+objetivo do trabalho.
+Tabela 2. Configurações iniciais de projeto.
+Mín.
+Tensão de saída (TR= 27°C)
+Coeficiente de Temperatura Máximo
+Tensão de alimentação
+Faixa de temperatura de Operação
+
+-30
+
+Típ.
+1,25
+30
+3,3
+27
+
+Máx.
+120
+
+Unidades
+V
+ppm/°C
+V
+°C
+
+A faixa de temperatura utilizada em circuitos de referências varia muito de acordo com a
+aplicação, sendo, por exemplo, de 0°C a 70°C para circuitos comerciais e de -55°C a 125°C
+para aplicações militares (2). A escolha da faixa deveu-se ao fato dos dispositivos fabricados
+pela AMS poderem trabalhar na faixa -40°C a 125°C.
+
+15
+
+3.1.2 Funcionamento do Circuito
+A topologia escolhida é simples, consistindo de uma fonte de corrente configurada com um
+espelho de corrente Wilson, figura 6, e de um transistor bipolar. Essa configuração não utiliza
+amplificadores operacionais e trabalha com baixas correntes.
+Na figura 7 é mostrado o circuito esquemático da fonte projetada. Este circuito é formado por
+seis transistores MOS, dois resistores e um transistor bipolar. Os cinco transistores M1, M2,
+M3, M4 e M6 e o resistor R1 formam o circuito de referência de corrente, como visto
+anteriormente. O circuito de referência de corrente é realimentado e se estabiliza para um
+valor de corrente que dependerá da relação geométrica dos transistores e do valor da
+resistência de R1.
+
+Figura 7: Esquemático do circuito bandgap.
+
+A corrente que passa por R1, que é proporcional a temperatura, é espelhada pelo par de
+transistores M4-M5 e, como resultado, obtém-se no resistor R2 uma tensão também
+proporcional a temperatura. Por fim, a tensão sobre R2 é somada à tensão VBE do transistor
+bipolar Q1 (inversamente proporcional a temperatura) produzindo uma tensão de referência
+
+16
+
+com um baixo coeficiente de temperatura, considerando-se que o circuito foi devidamente
+projetado.
+Como já visto, no circuito os transistores M1, M2 e M6, que formam o espelho NMOS, devem
+operar na inversão fraca. Os transistores M3, M4 e M5, que formam os espelhos PMOS, podem
+operar em qualquer região, mas, para melhorar a associação entre eles, optou-se por polarizálos na forte inversão. Uma conseqüência dessa opção é que a tensão mínima de alimentação
+do circuito deve aumentar (17).
+A partir da relação [13], que continua válida para o circuito, a corrente em R1 é expressa por:
+I R1 =
+
+U T   S 3 S 2 
+
+ ln 
+R1   S 4 S1  
+
+Como dito anteriormente esta corrente é espelhada pelo transistor M5 e é usada para obter a
+tensão sobre R2, que resulta:
+VR 2 = U T
+
+R2
+R1
+
+ S5
+
+ S4
+
+[14]
+
+   S 3 S 2 
+  ln
+ 
+   S 4 S 1 
+
+em que S5 é a relação (W/L) no transistor M5.
+Na relação [18] é mostrada que a tensão VR2 depende da tensão térmica e, portanto, é
+diretamente proporcional a temperatura T. Esta tensão VR2 é somada a VBE do transistor
+bipolar para produzir a tensão de referência VREF:
+[15]
+
+V REF = V R 2 + V BE
+
+Substituindo VR2 e VBE1 por suas respectivas expressões, pode-se escrever, então, que a tensão
+na saída do circuito na temperatura T é
+   S 3 S 2 
+T
+  ln 
+  + V GO (T ) − 
+   S 4 S 1 
+ Tr
+ I C (T )  
+ kT  
+T 
+
+ c ln  R  − ln 
++ 
+ I C (T )  
+T 
+ q  
+R
+
+
+
+V REF (T ) = U T
+
+1
+
+R2
+R1
+
+ S5
+
+ S1
+
+
+T
+V GO (TR ) + 
+
+ TR
+
+
+V BE (TR )
+
+
+[16]
+
+A definição de VBE pode-se encontrada no Anexo A.
+
+17
+
+em que VGO(T) é a tensão de bandgap do silício na temperatura T, VBE(TR) é a tensão baseemissor do transistor na temperatura de referência TR, e c é uma constante que depende do
+processo de fabricação do transistor.
+Lembrando que a corrente IC, igual à corrente dada pela expressão [13], é diretamente
+proporcional à temperatura. Chega-se a expressão final do VREF:
+ S5
+
+ S1
+
+V REF (T ) = U T
+
+R2
+R1
+
+ kT
+− (c − 1)
+ q
+
+ T
+ ln 
+  TR
+
+   S 3 S 2 
+T
+  ln 
+  + V GO (T ) − 
+   S 4 S 1 
+ Tr
+
+
+T
+V GO (TR ) + 
+
+ TR
+
+
+V BE (TR )
+
+
+
+
+
+
+[17]
+
+O objetivo principal do circuito é gerar uma tensão com um baixo coeficiente de temperatura.
+Para alcançá-lo, o circuito é projetado de forma que a derivada da expressão [17], em relação
+à temperatura, seja nula na temperatura de referência TR. A expressão para esta derivada é
+
+∂V REF
+∂T
+
+=
+T =TR
+
+k  R2
+
+q  R1
+
+ S 5
+
+ S1
+
+   S 3 S 2   VGO(TR ) V BE (TR ) (c − 1)k
+ ln
+  −
++
+−
+=0
+TR
+TR
+q
+   S 4 S1  
+
+[18]
+
+A condição para anulá-la é
+ R2
+
+ R1
+
+ S 5
+
+ S1
+
+   S 3 S 2   q
+ = 
+ ln
+S
+S
+4
+1
+  kTR
+ 
+
+
+ VGO (T ) − VBE (T ) + (c − 1)
+R
+R
+
+
+(
+
+)
+
+[19]
+
+Analisando essa expressão, observa-se que a condição desejada pode ser obtida pela escolha
+conveniente das dimensões dos transistores e dos valores dos resistores. Além disso, pode-se
+notar que foi negligenciada a variação do valor dos resistores com a temperatura. Como VREF
+depende apenas da relação (R1/R2) e o valor desta relação permanece constante com a
+temperatura se os dois resistores são implementados com o mesmo material, o que é
+desejável, tal negligencia não causa erros.
+Substituindo a equação [19] em [18] obtém-se a expressão para a tensão de referência, quando
+o projeto está ajustado para ter mínima variação de VREF com a temperatura:
+V REF (T ) = VGO +
+
+(c − 1)kT 1 + ln  T R  
+q
+
+
+
+
+   
+  T  
+
+[20]
+
+No caso de T=TR a equação fica reduzida a:
+18
+
+VREF(TR) = VGO +
+
+(c − 1)kTR
+
+[21]
+
+q
+
+Desta forma, é possível ajustar o circuito de tensão de referência para operar com um
+coeficiente de temperatura próximo à zero, ao menos para uma temperatura de referência.
+Neste caso, a tensão de saída é igual a 1,205 V somado a constante (c + 1) , multiplicado pela
+
+tensão térmica UT na temperatura TR.
+Para implementar o transistor bipolar foi utilizada uma célula da AMS com um transistor
+bipolar vertical parasita conforme apresentado no item 3.2.2.
+
+3.2 Implementações
+3.2.1 Projeto
+
+Para o dimensionamento de cada transistor, é necessário escolher a corrente de dreno do
+transistor M4 (ID4), figura 7. Essa corrente deve assumir um valor baixo o suficiente para que
+o circuito tenha dimensões reais e grande o suficiente para que relação entre os transistores,
+ou seus valores, não seja muito grande, conforme indicado na relação [14]. Desta forma, o
+valor da corrente ID4 foi escolhido como 1µA.
+
+ S 2 S3 
+
+ , deve ser maior do que um para que a
+A relação geométrica entre os transistores, 
+ S1 S 4 
+tensão no resistor R1 seja maior do que zero, como indicado na relação [13]. A razão entre os
+
+ S 2 S3
+
+= 2  .
+ S1 S 4
+
+
+transistores estabelecida foi: 
+
+Uma vez definidas a corrente em M4 e as relações geométricas entre os transistores, pode-se
+calcular o valor de R1 por meio da relação [14]. O valor encontrado para R1 foi de 17,81 KΩ.
+A partir da corrente e da relação estabelecida entre os transistores, calculam-se os valores de S
+por meio da equação [1]. Lembrando que os transistores M1 e M2 devem estar em fraca
+inversão e M3 e M4 em forte inversão. Esses valores de S determinam os valores mínimos da
+relação entre W/L dos canais dos transistores tanto para que os transistores N fiquem em fraca
+inversão, quanto para que os P’s se fiquem em forte inversão.
+19
+
+Considerando-se a relação estabelecida entre os transistores e lembrando-se que tanto os
+transistores M1 e M2, quanto os transistores M3 e M4, figura 3, formam espelhos de corrente,
+calcula-se que a corrente em M3 é 3 µA. Desse modo, para que M1 se mantenha em fraca
+inversão, considerando n = 1, obtém-se que S1 deve ser maior do que 35. Analogamente, para
+que M4 se mantenha em forte inversão, obtém-se S4 < 0,172. Os valores adotados no projeto
+encontram-se abaixo:
+• S1 = S2 = 80;
+• S4 = 0,15 e S3 = 0,3.
+Os transistores M3 e M5 formam um espelho de corrente influenciando no valor do resistor R2.
+O transistor M5 foi dimensionado para ter uma corrente cinco vezes maior que a corrente em
+M3. Com isto, calcula-se o valor do resistor R2 por meio da relação [19]. Utilizando c = 5,53,
+VBE = 0,680 V (valor típico fornecidos pela foundry), VGO(TR) =1,111 V, e TR = 27 ºC
+obtivemos R2 = 115 KΩ. O valor de VGO(TR) é obtido utilizando-se a relação abaixo que
+fornece como a tensão de bandgap do silício varia com a temperatura:
+ TR 2
+
+
+VGO(TR ) = VG − 7,02 * 10 −4 
+
+T
++
+1108
+ R
+
+
+[25]
+
+em que VG = 1,1557V.
+Na tabela 3, são mostradas as dimensões dos componentes obtidas por cálculo. O transistor
+M6 tem dimensões iguais aos transistores M1 e M2.
+
+20
+
+Tabela 3. Dimensões dos componentes.
+Componente
+M1
+M2
+M3
+M4
+M5
+M6
+R1
+R2
+
+Calculado(W/L)
+80/1
+80/1
+6/20
+3/20
+15/20
+80/1
+17,81
+115
+
+Unidade
+µm/µm
+µm/µm
+µm/µm
+µm/µm
+µm/µm
+µm/µm
+KΩ
+KΩ
+
+A partir das dimensões apresentadas na tabela 3, são feitas simulações para validação dos
+cálculos.
+Primeiro foi simulada a fonte de corrente mostrada na figura 5. Nessa configuração, há a
+necessidade de se ajustar o valor de R1 para 22,75 KΩ, de forma a garantir uma corrente de 1
+µA nesse resistor. Na figura 8, são mostrados gráficos das correntes nos transistores M1 e M2
+(mesma corrente que passa por R1) em função da tensão de alimentação (VDD).
+
+Figura 8: Corrente da fonte de corrente (figura 5) por tensão de alimentação.
+
+21
+
+Em seguida, foi feita uma simulação análoga para a configuração com espelhos Wilson,
+mostrada na figura 7. Novamente o valor de R1 é ajustado, desta vez para 19,25 KΩ. As
+curvas de corrente para os transistores M1 e M2 são mostradas na figura 9.
+
+Figura 9: Corrente da fonte de corrente Wilson (figura 6) por tensão de alimentação.
+
+Nessas duas simulações utilizou-se apenas o modelo típico. Pela análise dos gráficos,
+percebe-se que a fonte de corrente projetada com o espelho de corrente Wilson é mais estável
+que a anterior. Em outras palavras, o efeito da modulação de canal do transistor foi reduzido
+nessa configuração. Por essa razão, decidiu-se por usar no desenho do layout esta topologia.
+Por fim, foram feitas três simulações, com a temperatura, para a fonte de tensão, figura 7 com
+modelos típico, Worse Speed e Worse Power2. Estas simulações objetivam ajustar o valor do
+resistor R2 para que a condição de derivada nula na temperatura de referência se mantenha
+verdadeira. Os valores obtidos pela simulação estão na tabela 4:
+2
+
+Os arquivos de simulação podem ser encontrados no Anexo B.
+
+22
+
+Tabela 4. Valores para R2 obtidos na simulação.
+Modelo de Simulação
+Típico
+Worse Speed
+Worse Power
+
+Unidade
+KΩ
+KΩ
+KΩ
+
+R2
+124
+123,5
+119
+
+Após os diversos cálculos e simulações, as dimensões utilizadas para o desenho do layout são
+as mostradas na tabela 5. O valor de R2 foi escolhido baseando-se no valor encontrado para o
+modelo típico.
+Tabela 5. Dimensões resultantes de cálculos e simulações.
+Componente
+M1
+M2
+M3
+M4
+M5
+M6
+R1
+R2
+
+Calculado (W/L)
+80/1
+80/1
+6/20
+3/20
+15/20
+80/1
+17,81
+115
+
+Simulado (W/L)
+80/1
+80/1
+6/20
+3/20
+15/20
+80/1
+19~23
+119~124
+
+Utilizado (W/L)
+80/1
+80/1
+6/20
+3/20
+15/20
+80/1
+19
+123
+
+Unidade
+µm/µm
+µm/µm
+µm/µm
+µm/µm
+µm/µm
+µm/µm
+KΩ
+KΩ
+
+3.2.2 Layout
+
+Para realizar o layout de um circuito analógico são necessários diversos cuidados. Isto torna o
+projeto mais complexo quando comparado ao de um circuito digital, pois o layout, neste
+segundo caso, é composto por blocos simples e a maior dificuldade está na distribuição,
+placement, e interconexão, routing, das células. Em geral, em um circuito digital, as restrições
+primárias são minimizar área e atrasos dos sinais, e uma maior atenção é voltada aos blocos
+lógicos como um todo e não aos transistores individualmente (6).
+O desenho de um transistor MOS é determinado por propriedades elétricas exigidas pelo
+dispositivo do circuito e pelas “regras de projeto”, impostas pela tecnologia. Por exemplo, a
+relação
+
+é escolhida de forma conveniente definindo parâmetros do circuito, como a
+
+transcondutância; e o valor mínimo da dimensão L é ditado pelo processo (8).
+Outro cuidado tomado foi a utilização de estrutura de “dedos” na implementação de alguns
+transistores. Como descrito anteriormente os transistores M1 e M2 foram polarizados para
+23
+
+operar na região de inversão fraca, o que resulta em um W grande, como mostra a Tabela 5.
+Devido ao seu tamanho, esses transistores, se desenhados sem atenção, ocupariam uma região
+desproporcional a aquela ocupada pelos outros componentes do circuito. Para reduzir esta
+desproporcionalidade, estes transistores foram divididos em transistores menores colocados
+em paralelo, utilizando a estrutura de layout conhecida como estrutura de “dedos”. Este tipo
+de estrutura paralela não modifica o desempenho elétrico do transistor, pois a soma da largura
+de canal dos transistores em paralelo é igual à largura de canal de transistor original (1).
+Para melhorar a associação entre os transistores M1 e M2, ambos foram formados a partir de
+transistores com largura de canal de 10 µm colocados muito próximos. Os transistores M1, M2
+e M6 são formados com 10 desses transistores em paralelo. O valor de 10 µm foi escolhido
+para se ter números inteiros de transistores para os três dispositivos.
+Os resistores R1 e R2, Tabela 4, têm valores altos e por isso precisam de materiais com alta
+resistência de folha na sua construção. A AMS disponibiliza informações de resistividades e
+de coeficientes de temperatura das camadas para implementar resistores. São elas: camada de
+silício policristalino de alta resistividade, RPOLYH, de silício policristalino de porta,
+RPOLY, de silício policristalino usado para capacitores, RPOLY2, de difusão P, RDIFFP, de
+difusão N, RDIFFN, e do poço tipo N, RNWELL.
+Na tecnologia utilizada, apenas as camadas RNWELL e RPOLYH têm alta resistência de
+folha. Os resistores do circuito deste trabalho foram implementados com o silício
+policristalino RPOLYH, pois esta camada tem, além da alta resistência de folha, o coeficiente
+de temperatura baixo. Adicionalmente, resistores desenvolvidos no silício policristalino não
+sofrem o efeito de regiões de depleção como acontece no poço (1).
+Para o desenho do transistor bipolar, foi necessário decidir entre duas possibilidades de
+construção: transistores bipolares laterais e transistores bipolares verticais parasitas.
+O transistor bipolar lateral parasita é um dispositivo de cinco terminais (emissor, base,
+coletor, porta e substrato). Polarizando-se corretamente o substrato e a porta, os demais
+terminais atuam como os terminais de um transistor bipolar normal. Os transistores laterais
+possuem um fator de ganho de corrente entre 30 a 380, dependendo da polarização da porta.
+Geralmente este fator de ganho é pequeno devido à largura da base grande e a perda de
+correntes para o substrato. Este é o dispositivo necessário para circuitos em que o transistor
+bipolar tem o terminal de coletor conectado a tensões diferentes de zero (VSS). A AMS
+24
+
+disponibiliza transistores bipolares laterais como células de sua biblioteca junto com modelos
+para sua simulação.
+O transistor bipolar vertical é um dispositivo de três terminais. Nele, a difusão de fonte-dreno
+p+ serve como emissor, o n-well como base e o substrato como coletor, formando um
+transistor PNP. O transistor vertical só pode ser aplicado em configurações onde o coletor está
+ligado à tensão do substrato, ou seja, a VSS. A fonte de tensão proposta pode ser construída
+com tal dispositivo já que o transistor é ligado como diodo com um dos lados ligado ao VSS. A
+AMS disponibiliza transistores verticais como células de biblioteca junto com modelos para
+sua simulação. Foi escolhido este tipo de transistor para este circuito. Como este transistor
+bipolar é um dispositivo fornecido pelo fabricante não deve ser modificado e, deste modo, o
+projeto fica com sua flexibilidade reduzida. Por outro lado, ele já foi devidamente
+caracterizado, o que facilita sua aplicação e reduz riscos (1).
+O circuito projetado final é mostrado na figura 10. Esse possui as seguintes dimensões: 191
+µm x 53 µm.
+
+25
+
+Figura 10: Layout do circuito bandgap.
+
+26
+
+4. Resultados Obtidos
+4.1 Simulações
+A finalidade de simular um circuito é verificar se o mesmo funciona da maneira desejada,
+utilizando modelos extraídos pela foundry. Para as simulações do projeto foi utilizada como
+ferramenta o software ELDO da Mentor Graphics (5).
+Como o comportamento do circuito com a temperatura depende essencialmente do
+comportamento do transistor bipolar, procurou-se verificar como este dispositivo é modelado
+no simulador para os parâmetros fornecidos pela AMS e, assim, saber se pode-se ou não
+esperar resultados experimentais próximos dos simulados. Observou-se que no modelo usado
+do transistor, o valor da tensão de banda proibida (VG0(T)) é considerado constante e igual a
+1,15 V (Anexo A). Em modelos mais sofisticados VG0(T) é dependente também da
+temperatura.
+O circuito proposto foi projetado para fornecer uma tensão de referência VREF de,
+aproximadamente, 1,25V, na temperatura de referência de 27 °C.
+Foram feitas duas etapas de simulações para a fonte de tensão de referência. A primeira
+envolveu as simulações do circuito com as dimensões calculadas. Foram feitas análises DC
+para determinar a variação da tensão de saída com relação à tensão de alimentação e à
+temperatura. Para todas as simulações de temperatura foi utilizada a faixa de -30°C a 120°C.
+Os gráficos obtidos estão a seguir nas figuras 11, 12 e 13. Esses gráficos representam,
+respectivamente, as simulações para os modelos típico, Worse Speed e Worse Power. Eles
+mostram a variação da tensão de saída de acordo com a temperatura para as tensões de 2; 2,5;
+3 e 3,5 V.
+
+27
+
+Figura 11: Tensão de saída por temperatura em função da temperatura, para modelo típico.
+
+28
+
+Figura 12: Tensão de saída por temperatura em função da temperatura, para modelo Worse
+Speed.
+
+29
+
+Figura 13: Tensão de saída por temperatura em função da temperatura, para modelo Worse
+Power.
+
+Na segunda etapa de simulações, foram utilizados arquivos gerados automaticamente pela
+ferramenta IC Station da Mentor Graphics (3), tendo como base o layout desenhado.
+Novamente foram feitas três simulações, referentes aos três modelos. Idealmente, o ponto em
+que a derivada se anula deveria estar na temperatura de referência, 27 °C. Como as primeiras
+simulações apontaram um resultado fora do esperado, houve um novo ajuste do valor do
+resistor R2 para 109 KΩ. Assim, foram feitas novas simulações.
+Os gráficos obtidos agora são mostrados, a seguir, nas figuras 14, 15 e 16. Pode-se notar uma
+diferença do ponto em que a derivada é nula nos diferentes modelos. Essas diferenças são
+devido a variações nas correntes encontradas no circuito para as simulações com cada
+modelo.
+
+30
+
+Figura 14: Tensão de saída por temperatura em função da temperatura, para modelo típico.
+
+31
+
+Figura 15: Tensão de saída por temperatura em função da temperatura, para modelo Worse
+Speed.
+
+32
+
+Figura 16: Tensão de saída por temperatura em função da temperatura, para modelo Worse
+Power.
+
+Na tabela 6 estão condensadas as informações dos três gráficos anteriores. Nela também
+constam as variações do coeficiente de temperatura, em ppm/°C, para cada modelo na tensão
+de 3 V. Para o cálculo dos coeficientes de temperatura do circuito é utilizada a seguinte
+relação:
+ct =
+
+VOUT ( máx ) − VOUT (min)
+VOUT ( no min al ) (T(max) − T(min) )
+
+106
+
+[26]
+
+em que VOUT(max) e VOUT(min) são a máxima e mínima tensões da saída na faixa de
+temperatura considerada, T(max) e T(min) são a máxima e a mínima temperaturas
+consideradas em ºC, VOUT(nominal) é a tensão esperada na saída e o resultado é dado em
+ppm/ºC (1).
+
+33
+
+Tabela 6. Valores máximos e mínimos de VOUT para os diferentes modelos de simulação na faixa de 30 a 120 °C.
+
+VOUT(TM)
+VOUT(WP)
+VOUT(WS)
+
+Vmin
+(V)
+1,1952
+1,1785
+1,1837
+
+Vmáx
+(V)
+1,1992
+1,181
+1,186
+
+Coeficiente de temperatura
+zerado (ºC)
+24
+28
+24
+
+Coeficiente de
+temperatura (ppm/ºC)
+21,3
+13,3
+12,3
+
+A potência consumida pelo circuito é de 24 µW.
+
+34
+
+5. Conclusões
+O projeto envolveu a definição das especificações, escolha de topologia, dimensionamento
+dos transistores, simulações e desenho do layout de um protótipo de um circuito de fonte de
+referência de tensão para fabricação em uma tecnologia CMOS de 0,35 µm.
+Para o desenvolvimento deste projeto, foram necessários diversos conceitos, alguns deles
+novos. A noção das diferentes tensões de referência demandou estudo, o que resultou em
+agregação de conhecimento. O dimensionamento dos parâmetros, as simulações, bem como o
+desenho do layout do circuito, são conceitos que, apesar de terem sido vistos durante a
+graduação, tiveram que ser aprofundados.
+Quanto aos resultados do projeto, houve a necessidade de ajustar alguns parâmetros de acordo
+com as simulações de layout. Ajustes desse tipo são naturais no projeto de circuitos
+analógicos. Uma vez ajustados os valores, os resultados obtidos pela simulação do circuito
+bandgap em relação à alimentação e à temperatura se mostraram dentro do planejado.
+Do mesmo modo, o valor da tensão de saída está próximo de 1,2, que, apesar de estar abaixo
+do valor desejado, também se encontra dentro do esperado. Convém ainda mencionar que a
+temperatura em que o coeficiente de temperatura é igual a zero não varia muito com os
+modelos usados na simulação, nem se distancia muito da temperatura de 27 °C adotada como
+referência.
+Além disso, a potência utilizada pelo circuito é baixa.
+Futuramente, este projeto poderá ser enviado à fabricação. Com o circuito físico, testes
+poderão ser feitos de forma a confrontar os resultados obtidos por meio de simulações.
+
+35
+
+Anexo A
+
+Cálculos da Tensão Base-Emissor do Transistor Bipolar em Função da
+Temperatura (1)
+
+Os circuitos bandgap normalmente utilizam transistores bipolares, portanto, é importante
+conhecer como a tensão base emissor, VBE, varia com a temperatura. A seguir serão descritas
+as relações para determinar a tensão VBE do transistor bipolar e sua dependência com relação à
+temperatura. Também serão mostradas as relações utilizadas no simulador.
+
+Método de Cálculo de VBE Desenvolvido por Tsividis (17)
+
+Esta análise descreve o meio para o cálculo da tensão base-emissor que foi adotado no projeto
+apresentado neste trabalho. Ele é mais preciso do que outras análises.
+A corrente de coletor, em função da temperatura, é dada pela relação [a1]. Nela, considera-se
+que o transistor opera na região ativa e despreza-se o efeito Early.
+I C (T ) = I S (T ) e
+
+qVBE
+
+[a1]
+
+kT
+
+em que IC é a corrente de coletor, IS é a corrente de saturação, T é a temperatura absoluta, q é
+a carga do elétron e k é a constante de Boltzmann.
+Para calcular VBE em função da temperatura, considera-se a relação entre as correntes de
+coletor do transistor operando em temperaturas diferentes, obtendo:
+qVBE ( T )
+
+I C (T )
+I C (TR )
+
+=
+
+I S (T ) e
+
+kT
+qVBE ( TR )
+
+I S (TR ) e
+
+[a2]
+
+kTR
+
+em que TR é uma temperatura de referência.
+Da expressão [a2] isola-se VBE na temperatura T:
+36
+
+VBE (T ) k  I C (T ) I S (T )
+R
+R
+VBE (T ) = T 
++ ln
+
+T
+q
+I
+I
+ R
+ C (TR ) S (T )
+
+
+
+
+
+
+[a3]
+
+A corrente IS na equação [a3] pode ser escrita em função de parâmetros do transistor,
+conforme mostra a relação abaixo:
+I S (T ) =
+
+qAni
+
+2
+
+(T )
+
+D (T )
+
+[a4]
+
+NB
+
+em que A é a área da junção base-emissor, ni(T) é a concentração intrínseca de portadores (seu
+valor depende da temperatura), D (T ) é a constante de difusão efetiva dos portadores
+minoritários na base (seu valor depende da temperatura) e NB é o número Gummel ou o
+número total de impurezas por unidade de área na base.
+Substituindo [a4] em [a3] obtém-se:
+
+V BE (T )
+
+
+
+qAni 2 (TR ) D (TR )
+
+
+V BE (TR ) k  I C (T )
+NB
+=T
++ ln 
+2
+ TR
+q
+I
+ C (TR ) qAni (T ) D (T )
+
+
+NB
+
+
+
+
+
+
+
+
+
+
+
+[a5]
+
+Para detalhar mais a expressão, utilizou-se a seguinte relação para a concentração de
+portadores intrínsecos :
+
+ni
+
+2
+
+(T )
+
+3
+
+= ET e
+
+ qVGO ( T ) 
+−
+
+kT 
+
+
+[a6]
+
+em que VGO(T) é a tensão de bandgap a uma temperatura T e E é uma constante.
+Substituindo obtém-se a expressão:
+
+VBE (T )
+
+ qVGO ( T R ) 
+
+
+−
+
+kTR 
+3
+
+
+
+qAET
+e
+D (TR )
+R
+
+
+V
+NB
+k  I C (T )
+BE ( TR )
+=T
++ ln
+ qVGO ( T ) 
+ T
+q  I C (TR )
+−
+
+kT 
+3 
+ R
+qAET
+e
+D (T )
+
+
+
+NB
+
+
+
+
+
+
+
+
+
+
+
+
+
+[a7]
+
+a qual, simplificada, resulta em:
+37
+
+VBE (T )
+
+V
+V
+V
+3  − GO ( T R ) + GO ( T )   
+I
+
+k
+q
+D
+( TR ) TR
+BE
+T
+(
+)
+T
+T   
+C
+T
+(
+)
+
+R
+R
+
+e
+=T
++ ln
+ 
+ TR
+q  I C (TR ) q D (T ) T 3
+
+
+
+
+[a8]
+
+Assumindo que a mobilidade efetiva dos portadores minoritários na base pode ser obtida pela
+relação de Einstein:
+µ (T ) =
+
+q D (T )
+kT
+
+[a9]
+
+Pode-se reescrever a equação [a8] como:
+
+VBE (T )
+
+VBE (T ) VGO (T ) VGO (T ) k  I C (T ) µ (T ) kTR T 3 
+R
+R
+R
+R 
+= T
+−
++
++ ln
+
+
+TR
+T
+q  I C (TR ) µ (T ) kT T 3 
+ TR
+
+[a10]
+
+em que não mais aparece D (T ) . Para concluir e obter uma relação para a tensão VBE que
+mostre sua dependência com a temperatura foi aplicada a expressão abaixo que indica a
+dependência da mobilidade com a temperatura.
+
+µ(T ) = CT −η
+
+[a11]
+
+em que C e η são constantes.
+A expressão final para VBE será:
+
+VBE (T )
+
+VBE (T ) VGO (T ) VGO (T ) k  I C (T ) CT −η  T  4 
+R
+R
+R
+=T
+−
++
++ ln
+ R  
+−η
+
+TR
+T
+q  I C (TR ) CT  T  
+ TR
+
+
+[a12]
+
+ou
+VBE (TR ) VGO (TR ) VGO (T )  kT  TR 
+−
++
+ln 
+V BE (T ) = T 
++
+T
+T
+T
+q
+T 
+R
+ R
+
+
+4 −η
+
++
+
+kT  I C (T )
+ln
+q  I C (TR )
+
+
+
+
+
+
+[a13]
+
+38
+
+Anexo B
+Arquivos de simulação para a fonte de tensão de referência, elaborados a partir dos cálculos
+para os modelos típico, WorseSpeed e Worse Power.
+* Fonte de Tensão: Modelo Típico
+.param w1=80u w2=80u w3=6u w4=3u
+.param ln=1u lp=20u
+* [nome] [dreno] [gate] [source] [bulk] [modelo] [length] [width]
+mM1 1 3 GND GND MODN L='ln' W='w1'
+mM2 3 3 4 GND MODN L='ln' W='w2'
+mM6 2 1 3 GND MODN L='ln' W='w2'
+mM3a 1 2 VDD VDD MODP L='lp' W='w4'
+mM3b 1 2 VDD VDD MODP L='lp' W='w4'
+mM4 2 2 VDD VDD MODP L='lp' W='w4'
+mM51 5 2 VDD VDD MODP L='lp' W='w4'
+mM52 5 2 VDD VDD MODP L='lp' W='w4'
+mM53 5 2 VDD VDD MODP L='lp' W='w4'
+mM54 5 2 VDD VDD MODP L='lp' W='w4'
+mM55 5 2 VDD VDD MODP L='lp' W='w4'
+
+r1 4 GND 19k
+r2 5 6 124k
+Q1 6 GND GND VERT10
+.option precise
+.DC temp -30 120 10 sweep Vfonte 2 3.5 0.5
+*.DC temp -20 120 10
+*.DC Vfonte 0 3. 0.01
+.probe DC Id(mM1) Id(mM3) Id(mM2) Id(mM4) Id(mM51) V(1) V(2) V(5) V(6)
+Vfonte VDD 0 3
+Vterra GND 0 0
+*
+.MODEL MODN NMOS LEVEL=53 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: MOS BSIM3v3
+* process
+: C35
+* revision : 2;
+* extracted : B10866 ; 2002-12; ese(487)
+* doc#
+: ENG-182 REV_2
+* --------------------------------------------------------------------*
+TYPICAL MEAN CONDITION
+39
+
+* --------------------------------------------------------------------*
++THMLEV =0
+*
+*** Flags ***
++MOBMOD =1.000e+00 CAPMOD =2.000e+00 NQSMOD =0.000e+00
++NOIMOD =3.000e+00 DERIV =1
+*
+*** Threshold voltage related model parameters ***
++K1
+=5.0296e-01
++K2
+=3.3985e-02 K3
+=-1.136e+00 K3B
+=-4.399e-01
++NPEAK =2.611e+17 VTH0
+=4.979e-01
++VOFF
+=-8.925e-02 DVT0
+=5.000e+01 DVT1
+=1.039e+00
++DVT2
+=-8.375e-03 KETA
+=2.032e-02
++PSCBE1 =3.518e+08 PSCBE2 =7.491e-05
++DVT0W =1.089e-01 DVT1W =6.671e+04 DVT2W =-1.352e-02
+*
+*** Mobility related model parameters ***
++UA
+=4.705e-12 UB
+=2.137e-18 UC
+=1.000e-20
++U0
+=4.758e+02
+*
+*** Subthreshold related parameters ***
++DSUB
+=5.000e-01 ETA0
+=1.415e-02 ETAB
+=-1.221e-01
++NFACTOR=4.136e-01
+*
+*** Saturation related parameters ***
++EM
+=4.100e+07 PCLM
+=6.948e-01
++PDIBLC1=3.571e-01 PDIBLC2=2.065e-03 DROUT =5.000e-01
++A0
+=2.541e+00 A1
+=0.000e+00 A2
+=1.000e+00
++PVAG
+=0.000e+00 VSAT
+=1.338e+05 AGS
+=2.408e-01
++B0
+=4.301e-09 B1
+=0.000e+00 DELTA =1.442e-02
++PDIBLCB=3.222e-01
+*
+*** Geometry modulation related parameters ***
++W0
+=2.673e-07 DLC
+=3.0000e-08
++DWC
+=9.403e-08 DWB
+=0.000e+00 DWG
+=0.000e+00
++LL
+=0.000e+00 LW
+=0.000e+00 LWL
+=0.000e+00
++LLN
+=1.000e+00 LWN
+=1.000e+00 WL
+=0.000e+00
++WW
+=-1.297e-14 WWL
+=-9.411e-21 WLN
+=1.000e+00
++WWN
+=1.000e+00
+*
+*** Temperature effect parameters ***
++AT
+=3.300e+04 UTE
+=-1.800e+00
++KT1
+=-3.302e-01 KT2
+=2.200e-02 KT1L
+=0.000e+00
++UA1
+=0.000e+00 UB1
+=0.000e+00 UC1
+=0.000e+00
++PRT
+=0.000e+00
+*
+*** Overlap capacitance related and dynamic model parameters
+***
++CGDO
+=1.300e-10 CGSO
+=1.200e-10 CGBO
+=1.100e-10
++CGDL
+=1.310e-10 CGSL
+=1.310e-10 CKAPPA =6.000e-01
++CF
+=0.000e+00 ELM
+=5.000e+00
++XPART =1.000e+00 CLC
+=1.000e-15 CLE
+=6.000e-01
+*
+*** Parasitic resistance and capacitance related model
+parameters ***
++RDSW
+=3.449e+02
++CDSC
+=0.000e+00 CDSCB =1.500e-03 CDSCD =1.000e-03
++PRWB
+=-2.416e-01 PRWG
+=0.000e+00 CIT
+=4.441e-04
+*
+*** Process and parameters extraction related model parameters
+***
++TOX
+=7.575e-09 NGATE =0.000e+00
++NLX
+=1.888e-07
++XL
+=0.000e+00 XW
+=0.000e+00
+*
+*** Substrate current related model parameters ***
++ALPHA0 =0.000e+00 BETA0 =3.000e+01
+*
+*** Noise effect related model parameters ***
++AF
+=1.3600e+00 KF
+=5.1e-27 EF
+=1.000e+00
++NOIA
+=1.73e+19 NOIB
+=7.000e+04 NOIC
+=-5.64e-13
+40
+
+*
+*** Common extrinsic model parameters ***
++ALEV
+=2
+RLEV
+=2
++RD
+=0.000e+00 RS
+=0.000e+00 RSH
+=7.000e+01
++RDC
+=0.000e+00 RSC
+=0.000e+00 LD
+=-5.005e-08
++WD
+=9.403e-08
++LDIF
+=0.000e+00 HDIF
+=8.000e-07 WMLT
+=1.000e+00
++LMLT
+=1.000e+00 DEL
+=0.000e+00 XJ
+=3.000e-07
++DIOLEV =4
+JS
+=1.000e-05 JSW
+=0.000e+00
++IS
+=0.000e+00 N
+=1.000e+00
++DCAPLEV=2
+CBD
+=0.000e+00 CBS
+=0.000e+00
++CJ
+=9.400e-04 CJSW
+=2.500e-10 FC
+=0.000e+00
++MJ
+=3.400e-01 MJSW
+=2.300e-01 TT
+=0.000e+00
++PB
+=6.900e-01 PBSW
+=6.900e-01
+*
+* eldo include file.
+*
+*
+.MODEL MODP PMOS LEVEL=53 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: MOS BSIM3v3
+* process
+: C35
+* revision : 2;
+* extracted : C64685 ; 2002-12; ese(487)
+* doc#
+: ENG-182 REV_2
+* --------------------------------------------------------------------*
+TYPICAL MEAN CONDITION
+* --------------------------------------------------------------------*
++THMLEV =0
+*
+*** Flags ***
++MOBMOD =1.000e+00 CAPMOD =2.000e+00 NQSMOD =0.000e+00
++NOIMOD =3.000e+00 DERIV =1
+*
+*** Threshold voltage related model parameters ***
++K1
+=5.9959e-01
++K2
+=-6.038e-02 K3
+=1.103e+01 K3B
+=-7.580e-01
++NPEAK =9.240e+16 VTH0
+=-6.915e-01
++VOFF
+=-1.170e-01 DVT0
+=1.650e+00 DVT1
+=3.868e-01
++DVT2
+=1.659e-02 KETA
+=-1.440e-02
++PSCBE1 =5.000e+09 PSCBE2 =1.000e-04
++DVT0W =1.879e-01 DVT1W =7.335e+04 DVT2W =-6.312e-03
+*
+*** Mobility related model parameters ***
++UA
+=5.394e-10 UB
+=1.053e-18 UC
+=1.000e-20
++U0
+=1.482e+02
+*
+*** Subthreshold related parameters ***
++DSUB
+=5.000e-01 ETA0
+=2.480e-01 ETAB
+=-3.917e-03
++NFACTOR=1.214e+00
+*
+*** Saturation related parameters ***
++EM
+=4.100e+07 PCLM
+=3.184e+00
++PDIBLC1=1.000e-04 PDIBLC2=1.000e-20 DROUT =5.000e-01
++A0
+=5.850e-01 A1
+=0.000e+00 A2
+=1.000e+00
++PVAG
+=0.000e+00 VSAT
+=1.158e+05 AGS
+=2.468e-01
++B0
+=8.832e-08 B1
+=0.000e+00 DELTA =1.000e-02
+41
+
++PDIBLCB=1.000e+00
+*
+*** Geometry modulation related parameters ***
++W0
+=1.000e-10 DLC
+=2.4500e-08
++DWC
+=3.449e-08 DWB
+=0.000e+00 DWG
+=0.000e+00
++LL
+=0.000e+00 LW
+=0.000e+00 LWL
+=0.000e+00
++LLN
+=1.000e+00 LWN
+=1.000e+00 WL
+=0.000e+00
++WW
+=1.894e-16 WWL
+=-1.981e-21 WLN
+=1.000e+00
++WWN
+=1.040e+00
+*
+*** Temperature effect parameters ***
++AT
+=3.300e+04 UTE
+=-1.300e+00
++KT1
+=-5.403e-01 KT2
+=2.200e-02 KT1L
+=0.000e+00
++UA1
+=0.000e+00 UB1
+=0.000e+00 UC1
+=0.000e+00
++PRT
+=0.000e+00
+*
+*** Overlap capacitance related and dynamic model parameters
+***
++CGDO
+=8.600e-11 CGSO
+=8.600e-11 CGBO
+=1.100e-10
++CGDL
+=1.080e-10 CGSL
+=1.080e-10 CKAPPA =6.000e-01
++CF
+=0.000e+00 ELM
+=5.000e+00
++XPART =1.000e+00 CLC
+=1.000e-15 CLE
+=6.000e-01
+*
+*** Parasitic resistance and capacitance related model
+parameters ***
++RDSW
+=1.033e+03
++CDSC
+=2.589e-03 CDSCB =2.943e-04 CDSCD =4.370e-04
++PRWB
+=-9.731e-02 PRWG
+=1.477e-01 CIT
+=0.000e+00
+*
+*** Process and parameters extraction related model parameters
+***
++TOX
+=7.754e-09 NGATE =0.000e+00
++NLX
+=1.770e-07
++XL
+=0.000e+00 XW
+=0.000e+00
+*
+*** Substrate current related model parameters ***
++ALPHA0 =0.000e+00 BETA0 =3.000e+01
+*
+*** Noise effect related model parameters ***
++AF
+=1.48e+00 KF
+=8.5e-27 EF
+=1.000e+00
++NOIA
+=1.52e+18 NOIB
+=7.75e+03 NOIC
+=5.0e-13
+*
+*** Common extrinsic model parameters ***
++ALEV
+=2
+RLEV
+=2
++RD
+=0.000e+00 RS
+=0.000e+00 RSH
+=1.290e+02
++RDC
+=0.000e+00 RSC
+=0.000e+00 LD
+=-7.130e-08
++WD
+=3.449e-08
++LDIF
+=0.000e+00 HDIF
+=8.000e-07 WMLT
+=1.000e+00
++LMLT
+=1.000e+00 DEL
+=0.000e+00 XJ
+=3.000e-07
++DIOLEV =4
+JS
+=9.000e-05 JSW
+=0.000e+00
++IS
+=0.000e+00 N
+=1.000e+00
++DCAPLEV=2
+CBD
+=0.000e+00 CBS
+=0.000e+00
++CJ
+=1.360e-03 CJSW
+=3.200e-10 FC
+=0.000e+00
++MJ
+=5.600e-01 MJSW
+=4.300e-01 TT
+=0.000e+00
++PB
+=1.020e+00 PBSW
+=1.020e+00
+*
+* --------------------------------------------------------------------.MODEL VERT10 PNP MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: BJT
+* process
+: C35[A-B][3-4][A-C][1-3]
+42
+
+* revision : 2.1;
+* extracted : C35[A-B][3-4][A-C][1-3] B11264.L2; 2002-11, B20560 H35W7
+D00 02-June-05 (200C tempcos); hhl (5481)
+* doc#
+: Eng-182
+* --------------------------------------------------------------------*
+TYPICAL MEAN CONDITION
+* --------------------------------------------------------------------*
++IS
+=2.3330e-17
++IRB
+=4.3770e-06
++IKF
+=1.3760e-03 BF
+=5.9810e+00
++NF
+=9.9250e-01
++ISE
+=6.5290e-16 NE
+=1.7760e+00 VAF
+=1.9420e+02
++IKR
+=1.9410e-04 BR
+=9.8740e-02 NR
+=9.9470e-01
++ISC
+=2.8430e-14 NC
+=1.1490e+00 VAR
+=1.0320e+01
++RBM
+=1.0000e+00
++RB
+=2.1380e+02
++RE
+=9.7360e+00
++RC
+=4.5400e+01
++TF
+=6.4800e-10
++
++EG
+=1.2050e+00 XTI
+=1.4490e+00 XTB
+=1.0820e+00
++CJE
+=1.4880e-13 VJE
+=1.0200e+00 MJE
+=5.4882e-01
++CJC
+=4.3387e-14 VJC
+=5.3000e-01 MJC
+=3.1214e-01
++
+* --------------------------------------------------------------------* --------------------------------------------------------------------* Owner: austriamicrosystems
+* HIT-Kit: Digital
+.end
+
+* Fonte de Tensão: Modelo Worse Speed
+.param w1=80u w2=80u w3=6u w4=3u
+.param ln=1u lp=20u
+* [nome] [dreno] [gate] [source] [bulk] [modelo] [length] [width]
+mM1 1 3 GND GND MODN L='ln' W='w1'
+mM2 3 3 4 GND MODN L='ln' W='w2'
+mM6 2 1 3 GND MODN L='ln' W='w2'
+mM3a 1 2 VDD VDD MODP L='lp' W='w4'
+mM3b 1 2 VDD VDD MODP L='lp' W='w4'
+mM4 2 2 VDD VDD MODP L='lp' W='w4'
+mM51 5 2 VDD VDD MODP L='lp' W='w4'
+mM52 5 2 VDD VDD MODP L='lp' W='w4'
+mM53 5 2 VDD VDD MODP L='lp' W='w4'
+mM54 5 2 VDD VDD MODP L='lp' W='w4'
+mM55 5 2 VDD VDD MODP L='lp' W='w4'
+
+r1 4 GND RPOLYH 19k
+r2 5 6 RPOLYH 123.5k
+43
+
+Q1 6 GND GND VERT10
+.option precise
+.DC temp -30 120 10 sweep Vfonte 2 3.5 0.5
+*.DC temp -20 120 10
+*.DC Vfonte 0 3. 0.01
+.probe DC Id(mM1) Id(mM3) Id(mM2) Id(mM4) Id(mM51) V(1) V(2) V(5) V(6)
+Vfonte VDD 0 3
+Vterra GND 0 0
+.MODEL MODP PMOS LEVEL=53 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: MOS BSIM3v3
+* process
+: C35
+* revision : 2;
+* extracted : C64685 ; 2002-12; ese(487)
+* doc#
+: ENG-182 REV_2
+* --------------------------------------------------------------------*
+WORST CASE SPEED CONDITION
+* --------------------------------------------------------------------*
++THMLEV =0
+**** Flags ***
++MOBMOD =1.000e+00 CAPMOD =2.000e+00 NQSMOD =0.000e+00
++NOIMOD =3.000e+00 DERIV =1
+**** Threshold voltage related model parameters ***
++K1
+=6.2895e-01
++K2
+=-4.725e-02 K3
+=1.103e+01 K3B
+=-7.580e-01
++NPEAK =1.146e+17 VTH0
+=-7.715e-01
++VOFF
+=-1.170e-01 DVT0
+=1.650e+00 DVT1
+=3.868e-01
++DVT2
+=1.659e-02 KETA
+=-1.440e-02
++PSCBE1 =5.000e+09 PSCBE2 =1.000e-04
++DVT0W =1.879e-01 DVT1W =7.335e+04 DVT2W =-6.312e-03
+**** Mobility related model parameters ***
++UA
+=5.394e-10 UB
+=1.053e-18 UC
+=1.000e-20
++U0
+=1.314e+02
+**** Subthreshold related parameters ***
++DSUB
+=5.000e-01 ETA0
+=2.480e-01 ETAB
+=-3.917e-03
++NFACTOR=1.214e+00
+**** Saturation related parameters ***
++EM
+=4.100e+07 PCLM
+=3.184e+00
++PDIBLC1=1.000e-04 PDIBLC2=1.000e-20 DROUT =5.000e-01
++A0
+=5.850e-01 A1
+=0.000e+00 A2
+=1.000e+00
++PVAG
+=0.000e+00 VSAT
+=1.158e+05 AGS
+=2.468e-01
++B0
+=8.832e-08 B1
+=0.000e+00 DELTA =1.000e-02
++PDIBLCB=1.000e+00
+**** Geometry modulation related parameters ***
++W0
+=1.000e-10 DLC
+=2.4500e-08
++DWC
+=3.449e-08 DWB
+=0.000e+00 DWG
+=0.000e+00
++LL
+=0.000e+00 LW
+=0.000e+00 LWL
+=0.000e+00
++LLN
+=1.000e+00 LWN
+=1.000e+00 WL
+=0.000e+00
+44
+
++WW
+=1.894e-16 WWL
+=-1.981e-21 WLN
+=1.000e+00
++WWN
+=1.040e+00
+**** Temperature effect parameters ***
++AT
+=3.300e+04 UTE
+=-1.300e+00
++KT1
+=-5.403e-01 KT2
+=2.200e-02 KT1L
+=0.000e+00
++UA1
+=0.000e+00 UB1
+=0.000e+00 UC1
+=0.000e+00
++PRT
+=0.000e+00
+**** Overlap capacitance related and dynamic model parameters
+***
++CGDO
+=8.600e-11 CGSO
+=8.600e-11 CGBO
+=1.200e-10
++CGDL
+=1.21e-10 CGSL
+=1.21e-10 CKAPPA =6.000e-01
++CF
+=0.000e+00 ELM
+=5.000e+00
++XPART =1.000e+00 CLC
+=1.000e-15 CLE
+=6.000e-01
+**** Parasitic resistance and capacitance related model parameters ***
++RDSW
+=1.033e+03
++CDSC
+=2.589e-03 CDSCB =2.943e-04 CDSCD =4.370e-04
++PRWB
+=-9.731e-02 PRWG
+=1.477e-01 CIT
+=0.000e+00
+**** Process and parameters extraction related model parameters ***
++TOX
+=8.100e-09 NGATE =0.000e+00
++NLX
+=1.770e-07
++XL
+=4.000e-08 XW
+=-0.700e-07
+**** Substrate current related model parameters ***
++ALPHA0 =0.000e+00 BETA0 =3.000e+01
+**** Noise effect related model parameters ***
++AF
+=1.48e+00 KF
+=8.5e-27 EF
+=1.000e+00
++NOIA
+=1.52e+18 NOIB
+=7.75e+03 NOIC
+=5.0e-13
+**** Common extrinsic model parameters ***
++ALEV
+=2
+RLEV
+=2
++RD
+=0.000e+00 RS
+=0.000e+00 RSH
+=1.600e+02
++RDC
+=0.000e+00 RSC
+=0.000e+00 LD
+=-7.130e-08
++WD
+=3.449e-08
++LDIF
+=0.000e+00 HDIF
+=8.000e-07 WMLT
+=1.000e+00
++LMLT
+=1.000e+00 DEL
+=0.000e+00 XJ
+=3.000e-07
++DIOLEV =4
+JS
+=9.000e-05 JSW
+=0.000e+00
++IS
+=0.000e+00 N
+=1.000e+00
++DCAPLEV=2
+CBD
+=0.000e+00 CBS
+=0.000e+00
++CJ
+=1.523e-03 CJSW
+=3.580e-10 FC
+=0.000e+00
++MJ
+=5.600e-01 MJSW
+=4.300e-01 TT
+=0.000e+00
++PB
+=1.020e+00 PBSW
+=1.020e+00
+* --------------------------------------------------------------------*Parâmetros Worst Speed: Modelo para Transistor Tipo N
+.MODEL MODN NMOS LEVEL=53 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: MOS BSIM3v3
+* process
+: C35
+* revision : 2;
+* extracted : B10866 ; 2002-12; ese(487)
+* doc#
+: ENG-182 REV_2
+* --------------------------------------------------------------------*
+WORST CASE SPEED CONDITION
+* --------------------------------------------------------------------*
+45
+
++THMLEV =0
+**** Flags ***
++MOBMOD =1.000e+00 CAPMOD =2.000e+00 NQSMOD =0.000e+00
++NOIMOD =3.000e+00 DERIV =1
+**** Threshold voltage related model parameters ***
++K1
+=6.6008e-01
++K2
+=2.1313e-02 K3
+=-1.136e+00 K3B
+=-4.399e-01
++NPEAK =3.094e+17 VTH0
+=5.579e-01
++VOFF
+=-8.925e-02 DVT0
+=5.000e+01 DVT1
+=1.039e+00
++DVT2
+=-8.375e-03 KETA
+=2.032e-02
++PSCBE1 =3.518e+08 PSCBE2 =7.491e-05
++DVT0W =1.089e-01 DVT1W =6.671e+04 DVT2W =-1.352e-02
+**** Mobility related model parameters ***
++UA
+=4.705e-12 UB
+=2.137e-18 UC
+=1.000e-20
++U0
+=4.671e+02
+**** Subthreshold related parameters ***
++DSUB
+=5.000e-01 ETA0
+=1.415e-02 ETAB
+=-1.221e-01
++NFACTOR=4.136e-01
+**** Saturation related parameters ***
++EM
+=4.100e+07 PCLM
+=6.948e-01
++PDIBLC1=3.571e-01 PDIBLC2=2.065e-03 DROUT =5.000e-01
++A0
+=2.541e+00 A1
+=0.000e+00 A2
+=1.000e+00
++PVAG
+=0.000e+00 VSAT
+=1.338e+05 AGS
+=2.408e-01
++B0
+=4.301e-09 B1
+=0.000e+00 DELTA =1.442e-02
++PDIBLCB=3.222e-01
+**** Geometry modulation related parameters ***
++W0
+=2.673e-07 DLC
+=3.0000e-08
++DWC
+=9.403e-08 DWB
+=0.000e+00 DWG
+=0.000e+00
++LL
+=0.000e+00 LW
+=0.000e+00 LWL
+=0.000e+00
++LLN
+=1.000e+00 LWN
+=1.000e+00 WL
+=0.000e+00
++WW
+=-1.297e-14 WWL
+=-9.411e-21 WLN
+=1.000e+00
++WWN
+=1.000e+00
+**** Temperature effect parameters ***
++AT
+=3.300e+04 UTE
+=-1.800e+00
++KT1
+=-3.302e-01 KT2
+=2.200e-02 KT1L
+=0.000e+00
++UA1
+=0.000e+00 UB1
+=0.000e+00 UC1
+=0.000e+00
++PRT
+=0.000e+00
+**** Overlap capacitance related and dynamic model parameters
+***
++CGDO
+=1.300e-10 CGSO
+=1.200e-10 CGBO
+=1.200e-10
++CGDL
+=1.47e-10 CGSL
+=1.47e-10 CKAPPA =6.000e-01
++CF
+=0.000e+00 ELM
+=5.000e+00
++XPART =1.000e+00 CLC
+=1.000e-15 CLE
+=6.000e-01
+**** Parasitic resistance and capacitance related model parameters ***
++RDSW
+=3.449e+02
++CDSC
+=0.000e+00 CDSCB =1.500e-03 CDSCD =1.000e-03
++PRWB
+=-2.416e-01 PRWG
+=0.000e+00 CIT
+=4.441e-04
+**** Process and parameters extraction related model parameters ***
++TOX
+=8.100e-09 NGATE =0.000e+00
++NLX
+=1.888e-07
++XL
+=5.000e-08 XW
+=-1.000e-07
+**** Substrate current related model parameters ***
++ALPHA0 =0.000e+00 BETA0 =3.000e+01
+**** Noise effect related model parameters ***
++AF
+=1.3600e+00 KF
+=5.1e-27 EF
+=1.000e+00
++NOIA
+=1.73e+19 NOIB
+=7.000e+04 NOIC
+=-5.64e-13
+**** Common extrinsic model parameters ***
++ALEV
+=2
+RLEV
+=2
++RD
+=0.000e+00 RS
+=0.000e+00 RSH
+=8.500e+01
++RDC
+=0.000e+00 RSC
+=0.000e+00 LD
+=-5.005e-08
++WD
+=9.403e-08
++LDIF
+=0.000e+00 HDIF
+=8.000e-07 WMLT
+=1.000e+00
+46
+
++LMLT
+=1.000e+00 DEL
+=0.000e+00 XJ
+=3.000e-07
++DIOLEV =4
+JS
+=1.000e-05 JSW
+=0.000e+00
++IS
+=0.000e+00 N
+=1.000e+00
++DCAPLEV=2
+CBD
+=0.000e+00 CBS
+=0.000e+00
++CJ
+=1.052e-03 CJSW
+=2.800e-10 FC
+=0.000e+00
++MJ
+=3.400e-01 MJSW
+=2.300e-01 TT
+=0.000e+00
++PB
+=6.900e-01 PBSW
+=6.900e-01
+* --------------------------------------------------------------------*Parâmetros Worst Speed: Modelo para Transistor Bipolar PNP Vertical
+.MODEL VERT10 PNP MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: BJT
+* process
+: C35[A-B][3-4][A-C][1-3]
+* revision : 2.0;
+* extracted : C35[A-B][3-4][A-C][1-3] B11264.L2; 2002-11; hhl (5481)
+* doc#
+: Eng-182
+* --------------------------------------------------------------------*
+LOW SPEED HIGH BETA CONDITION
+* --------------------------------------------------------------------*
++IS
+=2.3330e-17 IRB
+=4.3770e-06
++IKF
+=1.3760e-03 BF
+=9.5696e+00 NF
+=9.9250e-01
++ISE
+=6.5290e-16 NE
+=1.7760e+00 VAF
+=1.1652e+02
++IKR
+=1.9410e-04 BR
+=9.8740e-02 NR
+=9.9470e-01
++ISC
+=2.8430e-14 NC
+=1.1490e+00 VAR
+=1.0320e+01
++RBM
+=2.0000e+00
++RB
+=4.2760e+02
++RE
+=1.3387e+01
++RC
+=6.2425e+01
++TF
+=6.4800e-10
++
++EG
+=1.1150e+00 XTI
+=5.5300e+00 XTB
+=2.2500e+00
++CJE
+=1.7856e-13 VJE
+=1.0200e+00 MJE
+=5.4882e-01
++CJC
+=5.2065e-14 VJC
+=5.3000e-01 MJC
+=3.1214e-01
++
+* --------------------------------------------------------------------*Parâmetros Worst Speed: Modelo para o resistor de alta resistividade
+.MODEL RPOLYH RES TC1=-0.400e-03 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: RESISTOR
+* process
+: C35[A-B][3-4][A-C][2-3]
+* revision : 2.0;
+* extracted : C35[A-B][3-4][A-C][2-3] B11004.L2; 2002-11; hhl (5481)
+* doc#
+: ENG-182
+47
+
+* --------------------------------------------------------------------*
+WORST CASE SPEED CONDITION
+* --------------------------------------------------------------------* VARIABLES: W,L = device width and length [m]
+*
+.SUBCKT RPOLYH N1 N2 PARAM: W=1 L=1
+R1 N1 N2 RPOLYH {1.500e+03*(L-(0))/(W-(3.500e-07))}
+.ENDS RPOLYH
+
+* Fonte de Tensão: Modelo Worse Power
+.param w1=80u w2=80u w3=6u w4=3u
+.param ln=1u lp=20u
+* [nome] [dreno] [gate] [source] [bulk] [modelo] [length] [width]
+mM1 1 3 GND GND MODN L='ln' W='w1'
+mM2 3 3 4 GND MODN L='ln' W='w2'
+mM6 2 1 3 GND MODN L='ln' W='w2'
+mM3a 1 2 VDD VDD MODP L='lp' W='w4'
+mM3b 1 2 VDD VDD MODP L='lp' W='w4'
+mM4 2 2 VDD VDD MODP L='lp' W='w4'
+mM51 5 2 VDD VDD MODP L='lp' W='w4'
+mM52 5 2 VDD VDD MODP L='lp' W='w4'
+mM53 5 2 VDD VDD MODP L='lp' W='w4'
+mM54 5 2 VDD VDD MODP L='lp' W='w4'
+mM55 5 2 VDD VDD MODP L='lp' W='w4'
+
+r1 4 GND RPOLYH 19k
+r2 5 6 RPOLYH 119k
+Q1 6 GND GND VERT10
+.option precise
+.DC temp -30 120 10 sweep Vfonte 2 3.5 0.5
+*.DC temp -20 120 10
+*.DC Vfonte 0 3. 0.01
+.probe DC Id(mM1) Id(mM3) Id(mM2) Id(mM4) Id(mM51) V(1) V(2) V(5) V(6)
+Vfonte VDD 0 3
+Vterra GND 0 0
+*Parâmetros Worst Power: Modelo para Transistor Tipo P
+.MODEL MODP PMOS LEVEL=53 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: MOS BSIM3v3
+* process
+: C35
+* revision : 2;
+48
+
+* extracted : C64685 ; 2002-12; ese(487)
+* doc#
+: ENG-182 REV_2
+* --------------------------------------------------------------------*
+WORST CASE POWER CONDITION
+* --------------------------------------------------------------------*
++THMLEV =0
+**** Flags ***
++MOBMOD =1.000e+00 CAPMOD =2.000e+00 NQSMOD =0.000e+00
++NOIMOD =3.000e+00 DERIV =1
+**** Threshold voltage related model parameters ***
++K1
+=4.5027e-01
++K2
+=-4.451e-02 K3
+=1.103e+01 K3B
+=-7.580e-01
++NPEAK =7.022e+16 VTH0
+=-5.715e-01
++VOFF
+=-1.170e-01 DVT0
+=1.650e+00 DVT1
+=3.868e-01
++DVT2
+=1.659e-02 KETA
+=-1.440e-02
++PSCBE1 =5.000e+09 PSCBE2 =1.000e-04
++DVT0W =1.879e-01 DVT1W =7.335e+04 DVT2W =-6.312e-03
+**** Mobility related model parameters ***
++UA
+=5.394e-10 UB
+=1.053e-18 UC
+=1.000e-20
++U0
+=1.581e+02
+**** Subthreshold related parameters ***
++DSUB
+=5.000e-01 ETA0
+=2.480e-01 ETAB
+=-3.917e-03
++NFACTOR=1.214e+00
+**** Saturation related parameters ***
++EM
+=4.100e+07 PCLM
+=3.184e+00
++PDIBLC1=1.000e-04 PDIBLC2=1.000e-20 DROUT =5.000e-01
++A0
+=5.850e-01 A1
+=0.000e+00 A2
+=1.000e+00
++PVAG
+=0.000e+00 VSAT
+=1.158e+05 AGS
+=2.468e-01
++B0
+=8.832e-08 B1
+=0.000e+00 DELTA =1.000e-02
++PDIBLCB=1.000e+00
+**** Geometry modulation related parameters ***
++W0
+=1.000e-10 DLC
+=2.4500e-08
++DWC
+=3.449e-08 DWB
+=0.000e+00 DWG
+=0.000e+00
++LL
+=0.000e+00 LW
+=0.000e+00 LWL
+=0.000e+00
++LLN
+=1.000e+00 LWN
+=1.000e+00 WL
+=0.000e+00
++WW
+=1.894e-16 WWL
+=-1.981e-21 WLN
+=1.000e+00
++WWN
+=1.040e+00
+**** Temperature effect parameters ***
++AT
+=3.300e+04 UTE
+=-1.300e+00
++KT1
+=-5.403e-01 KT2
+=2.200e-02 KT1L
+=0.000e+00
++UA1
+=0.000e+00 UB1
+=0.000e+00 UC1
+=0.000e+00
++PRT
+=0.000e+00
+**** Overlap capacitance related and dynamic model parameters
+***
++CGDO
+=8.600e-11 CGSO
+=8.600e-11 CGBO
+=1.000e-10
++CGDL
+=0.95e-10 CGSL
+=0.95e-10 CKAPPA =6.000e-01
++CF
+=0.000e+00 ELM
+=5.000e+00
++XPART =1.000e+00 CLC
+=1.000e-15 CLE
+=6.000e-01
+**** Parasitic resistance and capacitance related model parameters ***
++RDSW
+=1.033e+03
++CDSC
+=2.589e-03 CDSCB =2.943e-04 CDSCD =4.370e-04
++PRWB
+=-9.731e-02 PRWG
+=1.477e-01 CIT
+=0.000e+00
+**** Process and parameters extraction related model parameters ***
++TOX
+=7.100e-09 NGATE =0.000e+00
++NLX
+=1.770e-07
++XL
+=-6.000e-08 XW
+=0.800e-07
+**** Substrate current related model parameters ***
++ALPHA0 =0.000e+00 BETA0 =3.000e+01
+**** Noise effect related model parameters ***
+49
+
++AF
+=1.48e+00 KF
+=8.5e-27 EF
+=1.000e+00
++NOIA
+=1.52e+18 NOIB
+=7.75e+03 NOIC
+=5.0e-13
+**** Common extrinsic model parameters ***
++ALEV
+=2
+RLEV
+=2
++RD
+=0.000e+00 RS
+=0.000e+00 RSH
+=1.000e+02
++RDC
+=0.000e+00 RSC
+=0.000e+00 LD
+=-7.130e-08
++WD
+=3.449e-08
++LDIF
+=0.000e+00 HDIF
+=8.000e-07 WMLT
+=1.000e+00
++LMLT
+=1.000e+00 DEL
+=0.000e+00 XJ
+=3.000e-07
++DIOLEV =4
+JS
+=9.000e-05 JSW
+=0.000e+00
++IS
+=0.000e+00 N
+=1.000e+00
++DCAPLEV=2
+CBD
+=0.000e+00 CBS
+=0.000e+00
++CJ
+=1.197e-03 CJSW
+=2.810e-10 FC
+=0.000e+00
++MJ
+=5.600e-01 MJSW
+=4.300e-01 TT
+=0.000e+00
++PB
+=1.020e+00 PBSW
+=1.020e+00
+* --------------------------------------------------------------------*Parâmetros Worst Power: Modelo para Transistor Tipo N
+.MODEL MODN NMOS LEVEL=53 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: MOS BSIM3v3
+* process
+: C35
+* revision : 2;
+* extracted : B10866 ; 2002-12; ese(487)
+* doc#
+: ENG-182 REV_2
+* --------------------------------------------------------------------*
+WORST CASE POWER CONDITION
+* --------------------------------------------------------------------*
++THMLEV =0
+**** Flags ***
++MOBMOD =1.000e+00 CAPMOD =2.000e+00 NQSMOD =0.000e+00
++NOIMOD =3.000e+00 DERIV =1
+**** Threshold voltage related model parameters ***
++K1
+=3.5516e-01
++K2
+=4.6758e-02 K3
+=-1.136e+00 K3B
+=-4.399e-01
++NPEAK =2.128e+17 VTH0
+=3.579e-01
++VOFF
+=-8.925e-02 DVT0
+=5.000e+01 DVT1
+=1.039e+00
++DVT2
+=-8.375e-03 KETA
+=2.032e-02
++PSCBE1 =3.518e+08 PSCBE2 =7.491e-05
++DVT0W =1.089e-01 DVT1W =6.671e+04 DVT2W =-1.352e-02
+**** Mobility related model parameters ***
++UA
+=4.705e-12 UB
+=2.137e-18 UC
+=1.000e-20
++U0
+=5.002e+02
+**** Subthreshold related parameters ***
++DSUB
+=5.000e-01 ETA0
+=1.415e-02 ETAB
+=-1.221e-01
++NFACTOR=4.136e-01
+**** Saturation related parameters ***
++EM
+=4.100e+07 PCLM
+=6.948e-01
++PDIBLC1=3.571e-01 PDIBLC2=2.065e-03 DROUT =5.000e-01
++A0
+=2.541e+00 A1
+=0.000e+00 A2
+=1.000e+00
++PVAG
+=0.000e+00 VSAT
+=1.338e+05 AGS
+=2.408e-01
+50
+
++B0
+=4.301e-09 B1
+=0.000e+00 DELTA =1.442e-02
++PDIBLCB=3.222e-01
+**** Geometry modulation related parameters ***
++W0
+=2.673e-07 DLC
+=3.0000e-08
++DWC
+=9.403e-08 DWB
+=0.000e+00 DWG
+=0.000e+00
++LL
+=0.000e+00 LW
+=0.000e+00 LWL
+=0.000e+00
++LLN
+=1.000e+00 LWN
+=1.000e+00 WL
+=0.000e+00
++WW
+=-1.297e-14 WWL
+=-9.411e-21 WLN
+=1.000e+00
++WWN
+=1.000e+00
+**** Temperature effect parameters ***
++AT
+=3.300e+04 UTE
+=-1.800e+00
++KT1
+=-3.302e-01 KT2
+=2.200e-02 KT1L
+=0.000e+00
++UA1
+=0.000e+00 UB1
+=0.000e+00 UC1
+=0.000e+00
++PRT
+=0.000e+00
+**** Overlap capacitance related and dynamic model parameters
+***
++CGDO
+=1.300e-10 CGSO
+=1.200e-10 CGBO
+=1.000e-10
++CGDL
+=1.15e-10 CGSL
+=1.15e-10 CKAPPA =6.000e-01
++CF
+=0.000e+00 ELM
+=5.000e+00
++XPART =1.000e+00 CLC
+=1.000e-15 CLE
+=6.000e-01
+**** Parasitic resistance and capacitance related model parameters ***
++RDSW
+=3.449e+02
++CDSC
+=0.000e+00 CDSCB =1.500e-03 CDSCD =1.000e-03
++PRWB
+=-2.416e-01 PRWG
+=0.000e+00 CIT
+=4.441e-04
+**** Process and parameters extraction related model parameters ***
++TOX
+=7.100e-09 NGATE =0.000e+00
++NLX
+=1.888e-07
++XL
+=-5.000e-08 XW
+=0.500e-07
+**** Substrate current related model parameters ***
++ALPHA0 =0.000e+00 BETA0 =3.000e+01
+**** Noise effect related model parameters ***
++AF
+=1.3600e+00 KF
+=5.1e-27 EF
+=1.000e+00
++NOIA
+=1.73e+19 NOIB
+=7.000e+04 NOIC
+=-5.64e-13
+**** Common extrinsic model parameters ***
++ALEV
+=2
+RLEV
+=2
++RD
+=0.000e+00 RS
+=0.000e+00 RSH
+=5.500e+01
++RDC
+=0.000e+00 RSC
+=0.000e+00 LD
+=-5.005e-08
++WD
+=9.403e-08
++LDIF
+=0.000e+00 HDIF
+=8.000e-07 WMLT
+=1.000e+00
++LMLT
+=1.000e+00 DEL
+=0.000e+00 XJ
+=3.000e-07
++DIOLEV =4
+JS
+=1.000e-05 JSW
+=0.000e+00
++IS
+=0.000e+00 N
+=1.000e+00
++DCAPLEV=2
+CBD
+=0.000e+00 CBS
+=0.000e+00
++CJ
+=8.270e-04 CJSW
+=2.200e-10 FC
+=0.000e+00
++MJ
+=3.400e-01 MJSW
+=2.300e-01 TT
+=0.000e+00
++PB
+=6.900e-01 PBSW
+=6.900e-01
+* --------------------------------------------------------------------*Parâmetros Worst Power: Modelo para Transistor Bipolar PNP Vertical
+.MODEL VERT10 PNP MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: BJT
+* process
+: C35[A-B][3-4][A-C][1-3]
+* revision : 2.0;
+* extracted : C35[A-B][3-4][A-C][1-3] B11264.L2; 2002-11; hhl (5481)
+51
+
+* doc#
+: Eng-182
+* --------------------------------------------------------------------*
+HIGH SPEED HIGH BETA CONDITION
+* --------------------------------------------------------------------*
++IS
+=3.6161e-17 IRB
+=4.3770e-06
++IKF
+=2.7520e-03 BF
+=9.5696e+00 NF
+=9.9250e-01
++ISE
+=6.5290e-16 NE
+=1.7760e+00 VAF
+=3.2771e+02
++IKR
+=1.9410e-04 BR
+=9.8740e-02 NR
+=9.9470e-01
++ISC
+=2.8430e-14 NC
+=1.1490e+00 VAR
+=1.0320e+01
++RBM
+=5.0000e-01
++RB
+=1.0690e+02
++RE
+=6.0850e+00
++RC
+=2.8375e+01
++TF
+=3.2400e-10
++
++EG
+=1.1150e+00 XTI
+=5.5300e+00 XTB
+=2.2500e+00
++CJE
+=1.1904e-13 VJE
+=1.0200e+00 MJE
+=5.4882e-01
++CJC
+=3.4710e-14 VJC
+=5.3000e-01 MJC
+=3.1214e-01
++
+* --------------------------------------------------------------------*Parâmetros Worst Power: Modelo para o resistor de alta resistividade
+.MODEL RPOLYH RES TC1=-0.400e-03 MODTYPE=ELDO
+* --------------------------------------------------------------------************************* SIMULATION PARAMETERS
+************************
+* --------------------------------------------------------------------* format
+: ELDO, AccusimII, Continuum
+* model
+: RESISTOR
+* process
+: C35[A-B][3-4][A-C][2-3]
+* revision : 2.0;
+* extracted : C35[A-B][3-4][A-C][2-3] B11004.L2; 2002-11; hhl (5481)
+* doc#
+: ENG-182
+* --------------------------------------------------------------------*
+WORST CASE POWER CONDITION
+* --------------------------------------------------------------------* VARIABLES: W,L = device width and length [m]
+*
+.SUBCKT RPOLYH N1 N2 PARAM: W=1 L=1
+R1 N1 N2 RPOLYH {9.000e+02*(L-(0))/(W-(0.500e-07))}
+.ENDS RPOLYH
+
+52
+
+Referências
+1. Hamanaka, Cristian Otsuka. Projeto de circuitos para geração de tensão de referência
+em sistemas receptores/transmissores RF. São Paulo : Dissertação de Mestrado Departamento de Sistemas Eletrônicos, Escola Politécnica da USP, 2007.
+2. Austriamicrosystems. 0,35 µm CMOS process technology. Austriamicrosystems Web Site.
+[Online]
+
+June
+
+de
+
+2003.
+
+[Citado
+
+em:
+
+15
+
+de
+
+09
+
+de
+
+2007.]
+
+http://www.austriamicrosystems.com/05foundry/indexc35.htm.
+3. Mentor-Graphics. Design Architect IC Data Sheet. Mentor-Graphics Web Site. [Online]
+[Citado em: 17 de 10 de 2007.]
+4. —. IC Station SDL Data Sheet. Mentor-Graphics Web Site. [Online] [Citado em: 17 de 10
+de 2007.]
+5. —. ELDO Data Sheet. Mentor-Graphics Web Site. [Online] [Citado em: 17 de 10 de 2007.]
+6. Mentor-Graphics. Manual de Utilização do ELDO.
+7. Mentor-Graphics. Design Calibre LVS Data Sheet. Mentor-Graphics Web Site. [Online]
+[Citado em: 17 de 10 de 2007.]
+8. —. Design Calibre nmDRC Data Sheet. Mentor-Graphics Web Site. [Online] [Citado em:
+17 de 10 de 2007.]
+9. Clein, Dan. CMOS IC Layout: Concepts, Methodologies and Tools. s.l. : Newnws Press,
+2000. ISBN 0-7506-7194-7.
+10. Razavi, Behzad. Design of Analog CMOS Integrated Circuits. s.l. : McGraw-Hill Science
+Engineering, 2000. ISBN 9780072380323.
+11. Allen, Phillip E. e Holberg, Douglas R. CMOS Analog Circuit Design. s.l. : Oxford
+University Press, 2002. ISBN 0-19-511644-5.
+
+53
+
+12. Vittoz, E. e Fellrath, J. CMOS analog integrated circuits based on weak inversion
+operation. IEEE J. Solid-State Circuits. Junho de 1977, Vols. Sc-12, pp. 224-231. Apud
+Hamanaka, C.O. Projeto de circuitos para geração de tensão de referência em sistemas
+receptores/transmissores RF. São Paulo : Dissertação de Mestrado - Departamento de
+Sistemas Eletrônicos, Escola Politécnica da USP, 2007.
+13. Rincon-Moura, Gabriel Afonso. Voltage References: From Diodes to Precision HighOrder Bandgap Circuits. s.l. : Wiley-IEEE Press, 2001.
+14. Widlar, R. J. New developments in IC voltage references. IEEE Solid-State. Fevereiro de
+1971, Vols. Sc-6, pp. 2-7. Apud Hamanaka, C. O. Projeto de circuitos para geração de tensão
+de referência em sistemas receptores/transmissores RF. São Paulo : Dissertação de Mestrado Departamento de Sistemas Eletrônicos, Escola Politécnica da USP, 2007.
+15. Mehrmanesh, S., et al. A 1-Volt, high PSRR, CMOS bandgap voltage reference. IEEE J.
+Solid-State Circuit. Fevereiro de 2003, Vols. Sc-6, pp. 381-384. Apud Hamanaka, C. O.
+Projeto de circuitos para geração de tensão de referência em sistemas receptores/transmissores
+RF. São Paulo : Dissertação de Mestrado - Departamento de Sistemas Eletrônicos, Escola
+Politécnica da USP, 2007.
+16. Muller, R. S. e Kamins, T. I. Device Eletronics for Integrated Circuits. 2ª Edição. New
+York : John Wiley & Sons, 1986. Apud Hamanaka, C. O. Projeto de circuitos para geração de
+tensão de referência em sistemas receptores/transmissores RF. São Paulo : Dissertação de
+Mestrado - Departamento de Sistemas Eletrônicos, Escola Politécnica da USP, 2007. ISBN13: 978-0471593980.
+17. Tzanateas, G., Salama, C. A. T. e Tsividis, Y. P. A CMOS bandgap voltage reference.
+IEEE J. Solid-State Circuit. 1979, Vols. Sc-14, pp. 655-657. Apud Hamanaka, C. O. Projeto
+de circuitos para geração de tensão de referência em sistemas receptores/transmissores RF.
+São Paulo : Dissertação de Mestrado - Departamento de Sistemas Eletrônicos, Escola
+Politécnica da USP, 2007.
+
+54
+
+

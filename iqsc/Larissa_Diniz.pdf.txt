@@ -1,0 +1,1425 @@
+Universidade de São Paulo
+Instituto de Química de São Carlos
+
+Larissa Regina Diniz
+
+Síntese de Inibidores Covalentes Reversíveis da Enzima Cruzaína a
+Partir de Aminoácidos Contendo um Núcleo Indólico
+
+São Carlos
+2017
+
+Larissa Regina Diniz
+
+Síntese de Inibidores Covalentes Reversíveis da Enzima Cruzaína a
+Partir de Aminoácidos Contendo um Núcleo Indólico
+
+Monografia
+
+apresentada
+
+ao
+
+Instituto
+
+de
+
+Química de São Carlos da Universidade de
+São Paulo como requisito para conclusão da
+disciplina 7500006 – Monografia.
+Área de Concentração: Química Orgânica e
+Biológica
+Orientador: Prof. Dr. Antonio C. B. Burtoloso
+
+São Carlos
+2017
+
+Agradecimentos
+Agradeço a Deus por sua presença renovadora, a qual se apresentou como um
+verdadeiro lugar de descanso durante todos os meus dias.
+À minha família, minha mãe Ivone e minha irmã Cynthia, que estiveram
+presentes a cada etapa do meu crescimento profissional e pessoal durante os quatro
+anos e meio de graduação. Dedico um agradecimento especial à memória de meu
+pai, Carlos, que não mediu esforços para que eu tivesse todo o apoio necessário para
+realizar minhas aspirações.
+Ao Professor Antonio, que me apresentou ao trabalho científico da forma mais
+completa possível. O meu aprendizado a cada reação ou roda de conversa começa
+no ato de me colocar diante da bancada e termina no desejo de falar com todo o seu
+entusiasmo sobre o trabalho que escolheu fazer.
+Aos colegas do laboratório: Alexander, João Vítor, Edson, Patrícia, Camila,
+Anees, Lucas, Rafael Gallo, Rafael Mafra, Gustavo, Nikolas, Bruna, Graziele, Meire e
+Bárbara. Além dos técnicos João Pedro e Marília. O Campus 2 se tornou um lugar
+muito menos longe de se chegar graças a presença de vocês. Agradeço pelos
+conselhos, discussões e histórias de vida compartilhadas.
+Aos meus colegas de graduação cujos nomes e agradecimentos juntos seriam
+capazes de preencher uma segunda monografia, sou grata o companheirismo, a
+amizade, o apoio e a confiança em mim que, por vezes, era maior do que a minha
+própria.
+Aos professores que participaram da minha formação acadêmica. Suas aulas
+abriram espaço para que eu enxergasse o conhecimento com muito carinho e me
+inspirou ainda mais a querer transmití-lo.
+À Central de Análises Químicas e Instrumentais (CAQI) do IQSC.
+Ao Instituto de Química de São Carlos da Universidade de São Paulo.
+À Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) pelo
+suporte financeiro durante a realização do projeto.
+
+Resumo
+
+A Cruzaína é a principal cisteíno protease expressa pelo protozoário
+Trypanossoma cruzi, agente etiológico da Doença de Chagas, e por isso tem sido
+largamente utilizada como alvo de inibidores enzimáticos de interesse farmacológico.
+Os mais potentes inibidores dos quais se tem conhecimento agem sobre a Cruzaína
+de maneira irreversível ao ligar-se covalentemente ao sítio ativo da proteína.
+Trabalhos recentes têm reportado a utilidade de compostos que se ligam
+reversivelmente à enzima como possíveis inibidores. Neste trabalho será apresentada
+a metodologia utilizada para a produção de duas dipeptidil-nitrilas na intenção de que
+sejam encaminhadas para ensaios bioquímicos para avaliar sua efetividade como
+inibidores reversíveis de cisteíno protease. A síntese das dipeptidil-nitrilas escolhidas
+baseia-se na construção das moléculas de interesse a partir de aminoácidos
+comerciais, o D-triptofano e a L-serina. A obtenção do composto iniciando pelo Dtriptofano segue uma rota de 4 etapas anteriormente descrita para compostos
+análogos em estudo de inibição da enzima Catepsina K. A síntese da dipeptidil-nitrila
+produzida a partir da L-serina foi realizada em 7 etapas, incluindo um acoplamento
+cruzado de Negishi entre o derivado do aminoácido inicial e uma molécula de 5bromoindol, etapa chave do processo.
+
+Lista de Figuras
+
+Figura 1 - Distribuição geográfica das zonas endêmicas da doença de Chagas…...................9
+Figura 2 - Distribuição dos vetores da doença de Chagas nas Américas Central e do
+Sul...........................................................................................................................................11
+Figura 3 - Trypanossoma cruzi, causador da doença de Chagas............................................12
+Figura 4 - Processo de invasão do T. cruzi em células hospedeiras.......................................14
+Figura 5 - Estrutura dos fármacos utilizados no tratamento da doença de Chagas.................16
+Figura 6 - Estrutura da Cruzaína com ligante nitrila................................................................18
+Figura 7 - Inibidores irreversíveis da enzima Cruzaína...........................................................20
+Figura 8 - Inibidor reversível da enzima Cruzaína.................................................................21
+Figura 9 - Estrutura das dipeptidil-nitrilas alvos de síntese.....................................................22
+Figura 10 - Rota geral de prepraro de dipeptidil-nitrilas a partir de aminoácidos.....................22
+Figura 11 - Rota sintética para preparação do aminoácido derivado da L-serina....................23
+Figura 12 - Rota sintética empregada para preparação da dipeptidil-nitrila 1..........................24
+Figura 13 - Mecanismo de formação do aminoéster...............................................................25
+
+Figura 14. Esquema da formação da imina em condições básicas como descrito por
+Hughes.......................................................................................................................25
+Figura 15 - Redução estereosseletiva por boroidreto de sódio...............................................27
+Figura 16 - Mecanismo da reação de acoplamento peptídico usando HATU..........................28
+Figura 17 - Primeira parte da síntese da dipeptidil-nitrila 2......................................................29
+Figura 18 - Mecanismo de proteção com Cbz.........................................................................29
+Figura 19 - Mecanismo da reação de iodação com trifenilfosfina e imidazol...........................31
+Figura 20 - Ciclo catalítico para acoplamento de Negishi........................................................32
+Figura 21 - Mecanismo simplificado da reação de desproteção por hidrogenação.................32
+Figura 22 - Segunda parte da síntese da dipeptidil-nitrila 2.....................................................33
+
+Lista de Abreviaturas, Siglas e Símbolos
+
+α - alfa
+
+Hz – Hertz
+
+β - beta
+
+J – constante de acoplamento
+
+δ - deslocamento químico
+
+m – multipleto
+
+AcOEt – acetato de etila
+
+MHz – Megahertz
+
+Cbz – carbobenziloxi
+
+ppm – parte por milhão
+
+d – dubleto
+
+RMN
+
+dd – duplo dubleto
+
+nuclear de carbono 13
+
+DIPEA – diisopropiletilamina
+
+RMN
+
+13C
+
+1H
+
+– ressonância magnética
+
+- ressonância magnética
+
+nuclear de hidrogênio
+DMF – N,N-dimetilformamida
+eq – equivalentes
+HATU - hexafluorofosfato de 2-(1-H-7azabenzotriazol-1-il)1,1,3,3-
+
+s – singleto
+t – tripleto
+TBME – éter metil-terc-butílico
+
+tetrametilurônio
+
+THF – tetraidrofurano
+
+Hex - hexano
+
+TMS - tetrametilsilano
+
+Sumário
+
+1. INTRODUÇÃO......................................................................................................................8
+1.1 A Doença de Chagas...............................................................................................8
+1.1.1 Histórico e Distribuição da Endemia..........................................................8
+1.1.2 Transmissão e Controle..........................................................................10
+1.1.3 Agente Etiológico....................................................................................12
+1.1.4 Efeitos da Doença...................................................................................14
+1.1.5 Tratamento Medicinal..............................................................................15
+1.1.6 Mecanismo de Ação dos Medicamentos.................................................17
+1.2 Estratégia de Busca por Possíveis Drogas: Inibição Enzimática............................17
+1.2.1 A Enzima Cruzaína.................................................................................17
+1.2.2 Inibidores Enzimáticos............................................................................19
+1.2.3 Inibidores Irreversíveis............................................................................20
+1.2.4 Inibidores Reversíveis.............................................................................21
+2. OBJETIVOS........................................................................................................................22
+3. RESULTADOS E DISCUSSÃO...........................................................................................24
+3.1 Preparação de Dipeptidil-nitrila a Partir do D-triptofano.........................................24
+3.2 Preparação de Dipeptidil-nitrila a Partir da L-serina...............................................28
+4. CONCLUSÃO.....................................................................................................................35
+5. PARTE EXPERIMENTAL....................................................................................................36
+5.1 Procedimentos para o preparo das moléculas da rota do D-Triptofano..................36
+5.2 Procedimentos para o preparo das moléculas da rota da L-Serina........................39
+5.3 Procedimentos para o preparo do catalisador Pd2(dba)3........................................44
+6. REFERÊNCIAS...................................................................................................................46
+APÊNDICE..............................................................................................................................50
+
+1. INTRODUÇÃO
+
+1.1 A Doença de Chagas
+
+1.1.1 Histórico e Distribuição da Endemia
+
+A Doença de Chagas, também chamada Tripanossomíase Americana, é uma
+doença
+
+parasitária
+
+do
+
+sistema
+
+cardiovascular
+
+causada
+
+pelo
+
+protozoário
+
+Trypanossoma cruzi1. Este parasita é capaz de penetrar nas células do hospedeiro
+causando irritações e inflamações. Após vários ciclos reprodutivos a célula é
+rompida e novos parasitas são liberados na corrente sanguínea, a partir de onde
+poderão invadir novas células nas quais o ciclo se repete2. A transmissão acontece
+principalmente por insetos triatomíneos existentes no ambiente domiciliar 3, dentre
+eles o mais conhecido é o inseto vulgarmente chamado de “barbeiro”.
+Os indivíduos mais afetados pela doença são as populações de baixa renda,
+mais efetivamente aquelas que vivem em habitações rudimentares. Os efeitos
+causados pela doença sobre os indivíduos infectados costumam ser relacionados a
+danos cardíacos que geram uma enorme redução de sua capacidade laboral e
+expectativa de vida4.
+A infecção foi observada pela primeira vez em 1909 pelo médico e biólogo
+Carlos Chagas, durante a investigação de um surto de malária que afetava operários
+de uma estrada de ferro na cidade de Lassance, no interior de Minas Gerais.
+Enquanto examinava trabalhadores e habitantes do município detectou os flagelos
+do T. cruzi na circulação de uma criança. Pouco tempo após a descoberta do
+parasita o pesquisador descreveu, sozinho e de maneira detalhada, o parasito, o
+vetor, os efeitos e o reservatório animal da doença que posteriormente foi batizada
+com seu nome3.
+No Brasil, logo quando lançada a nota com os detalhes sobre nova
+parasitíase, suas descobertas foram contestadas, tendo sido reconhecidas somente
+
+8
+
+quando o médico Salvador Mazza relatou haver observado na Argentina exatamente
+o mesmo microrganismo flagelado anteriormente descrito por Chagas 3.
+A doença, que foi primariamente diagnosticada em países americanos do
+hemisfério sul, é geograficamente distribuída desde o sul dos Estados Unidos,
+cobrindo todos os países da América Central, até o sul da Argentina e do Chile.
+Alguns casos já foram inclusive registrados em regiões metropolitanas dos EUA por
+conta do fluxo de imigrantes vindo de países latinos5,6.
+No ano de 1990 a tripanossomíase americana foi considerada pelo Banco
+Mundial como a doença parasítica mais séria dentro da América Latina, onde
+estima-se que 12 milhões de pessoas estejam infectadas com o protozoário e que
+75 milhões estejam expostas à infecção (dados de 2011)2,7. Nestas localidades, a
+infecção gera um impacto socioeconômico maior do que os efeitos combinados de
+todas as outras doenças parasíticas de igual ocorrência8.
+
+Figura 1. Distribuição geográfica das zonas endêmicas da Doença de Chagas
+
+Fonte: COURA, J. R.; DIAS, J. C. P.; 2009, p. 33
+
+Neste ponto, vale mencionar que a doença de Chagas não se trata de uma
+patologia nova. Análises realizadas em múmias datadas de 9 mil anos de idade já
+detectaram o parasita como responsável por uma doença enzoótica repassada a
+9
+
+humanos como uma antropozoonose no momento em que este adentrou nos
+ecótopos naturais. Seu estabelecimento como endemia aconteceu apenas durante
+os últimos dois ou três séculos, quando a ação humana causou a eliminação do
+habitat natural de triatomas com o objetivo de abrir espaços para atividades como
+agricultura e pecuária. Estes triatomas, por sua vez, foram capazes de adaptar-se ao
+ambiente doméstico, aumentando sua proximidade com o homem9,10.
+Até 1975, ano em que os esforços para o controle da infecção tiveram início,
+a área de risco compreendia 36% do território brasileiro, contendo triatomas
+domiciliares em 2.493 municípios distribuídos em 18 estados 11. Atualmente os
+principais focos endêmicos se encontram na Bolívia e em Gran Chaco, na Argentina,
+onde há alto nível de infecção em algumas comunidades2.
+
+1.1.2 Transmissão e Controle
+
+A tripanossomíase americana é transmitida majoritariamente por triatomíneos,
+insetos hematófagos obrigatórios e de hábitos noturnos. Existem descritas mais de
+100 espécies desta classe, a maioria presentes no continente americano, sendo 52
+deles descritos no Brasil3,5. Destas espécies, 3 são de especial interesse como
+transmissores brasileiros: o Triatoma brasiliensis, o Tritoma sordida e o
+Panstrongylos megistus. Em países ao sul da América Latina como Uruguai, Chile e
+Argentina, o principal vetor é o Triatoma infestans, o inseto “barbeiro”, que leva este
+nome porque geralmente pica perto dos lábios do indivíduo1,12. O T. infestans é um
+vetor tão conhecido que sua presença passou a ser uma indicação praticamente
+segura da existência de infecção humana3. A distribuição geográfica de alguns dos
+mais importantes vetores é apresentada na Figura 2.
+
+10
+
+Figura 2. Distribuição dos vetores da Doença de Chagas nas Américas Central e do Sul
+
+Fonte: ROBERTS, L. S.; JANOVY, J.; 1937, p. 75
+
+Além da transmissão pela picada do vetor outras formas de infecção
+passíveis de comentário são: transfusão de sangue, órgão ou tecidos; transmissão
+congênita, na qual a mãe passa a doença para o filho geralmente no momento do
+parto, quando o sangue materno entra em contato com as mucosas do recémnascido (cerca de 10% dos casos); ou acidentes laboratoriais3.
+De grande importância para a transmissão e resiliência de uma doença é a
+existência de reservatórios, ou seja, animais que albergam o agente etiológico sem
+sofrer prejuízo. No caso da doença de Chagas um grande número de animais pode
+servir como reservatório, hanvendo mais de 100 reservatórios selvagens já
+registrados incluindo morcegos, marsupiais, carnívoros, lagomorfos, roedores e
+primatas1,5. Animais como cães e gatos também podem realizar o papel de
+reservatórios, sendo estes especialmente importantes para a transmissão direta ao
+homem, uma vez que estão presentes no ambiente doméstico12.
+O controle da endemia tem sido realizado no Brasil desde pouco depois da
+descoberta de Carlos Chagas através de borrifações com hexaclorociclohexano
+6,5% nas áreas de infecção para combater o vetor11. As medidas adotadas
+provaram-se tão efetivas que incentivaram outros países do Cone Sul a realizarem
+as mesmas ações em 1991, com o objetivo de eliminar o T. infestas12. A iniciativa
+
+11
+
+teve ótimos resultados, sendo o T. infestas hoje raro e a doença reduzida a casos
+esporádicos em território brasileiro3.
+Para impedir a transmissão por transfusões sanguínea e teciduais é feita a
+triagem sorológica dos doadores, de modo a identificar o parasita caso presente. No
+Brasil, por ordem ministerial, qualquer amostra de sangue provindo de doação deve
+ser submetida a dois testes sorológicos para excluir a possibilidade de infeção por T.
+cruzi3.
+
+1.1.3 Agente Etiológico
+
+O Trypanossoma cruzi, agente etiológico da Doença de Chagas, é um
+protozoário unicelular da classe Mastigophora, pertencente à ordem Kinetoplastida,
+e tem como característica a estrutura flagelada além de um único núcleo. Possui
+DNA separado do compartimento nuclear, localizado no interior de uma grande
+mitocôndria4.
+Figura 3. Trypanossoma cruzi (em azul), causador da doença de Chagas
+
+Fonte: TORTORA, G. J.; FUNKE, B. R.; CASE, C. L.; 2012, p. 661
+
+O T. cruzi apresenta três estágios de desenvolvimento: epimastigota,
+tripomastigota e amastigota, presentes em diferentes fases da infecção 4.
+O ciclo evolutivo começa na forma epimastigota, encontrada exclusivamente
+no intestino do vetor. Esta forma se desenvolve à temperatura ambiente e antes de
+ser eliminada nas fezes do inseto transforma-se para a forma tripomastigota,
+12
+
+flagelada e extremamente móvel. O tripomastigota penetra então pelas mucosas ou
+lesões na pele (podem ter sido provocadas pela própria picada) do hospedeiro
+dentro do qual se locomove pela corrente sanguínea até penetrar o citoplasma de
+uma célula. No ambiente intracelular o parasita muda para a forma amastigota,
+arredondada e reprodutivamente capaz através de divisão binária.
+A multiplicação do amastigota é extremamente rápida. Em seis dias um único
+parasito é capaz de dar origem a cerca de 512 novos protozoários, formando
+verdadeiras colônias intracelulares. A enorme quantidade de microrganismos dentro
+da célula torna-se insustentável e acarreta o rompimento da membrana celular,
+causando a disseminação dos parasitos no espaço extracelular. De volta a corrente
+sanguínea, muda novamente para a forma circulante tripomastigota e se propagam
+ao invadir novas células, onde o ciclo se repete3.
+A forma tripomastigota, além de ser a responsável pela infecção é também
+aquela ingerida pelo inseto, tornando-o vetor da doença13. Sabendo de sua
+capacidade infecciosa, cabe comentar a maneira com que o tripomastigota penetra a
+célula do hospedeiro.
+Logo ao anexar-se aos receptores de superfície de uma célula, o parasita
+provoca a indução de uma elevada concentração de íons Ca 2+ no sítio de interação
+pelo lado do citosol. O sinal de iônico recruta lisossomos, que se fundem à
+membrana celular dando origem a um compartimento quase completamente
+constituído da membrana lisossomal. O parasita utiliza este novo compartimento
+como porta de entrada para o meio intracelular. Dentro do compartimento no qual se
+encontra, o parasita libera uma enzima cuja função é remover o ácido siálico, uma
+hexose, presente nas glicoproteínas do lisossomo, transferindo-as para sua própria
+superfície. Dessa forma, o parasita termina revestido com moléculas de açúcar do
+hospedeiro. Em seguida, secreta uma toxina formadora de poros que resulta na lise
+da membrana do compartimento do lisossomo, libertando o parasita no citoplasma
+da célula hospedeira, onde começa o ciclo reprodutivo7.
+
+13
+
+Figura 4. Processo de invasão do T. cruzi em células hospedeiras
+
+Fonte: ALBERTS, B., 2008, p. 1510
+
+1.1.4 Efeitos da Doença
+
+A patologia é dividida, clinicamente, em duas fases caracterizadas pela
+gravidade de seus efeitos e cada qual contendo suas próprias classificações: a fase
+aguda e a fase crônica.
+O primeiro caso classificado como agudo é a forma assintomática,
+diagnosticada em mais da metade dos pacientes. Sendo a doença assintomática,
+ela permanecerá neste estágio durante toda a vida do indivíduo infectado3. A
+segunda forma aguda é a sintomática, marcada por febre e inchaço de glândulas
+com duração de algumas semanas. As formas da fase aguda são mais
+frequentemente observadas em crianças, sendo que 20 a 30% dos pacientes neste
+estágio irão progredir para a fase crônica1,14.
+A fase crônica da doença é dividida em: indeterminada, que é a forma
+evoluída da fase aguda. Está presente em 60% dos indivíduos diagnosticados e
+gera alterações patológicas pouco significativas14. A forma cardíaca é caracterizada
+por comprometer progressivamente o tecido do miocárdio, levando à insuficiência
+cardíaca. É a forma mais grave da doença e é causa da maioria das mortes1. A
+forma digestiva afeta o tubo digestivo do indivíduo, causando megaesôfago e
+megacólon. A última forma crônica existente é a nervosa, na qual o indivíduo
+apresenta alterações no sistema nervoso central e periférico3.
+14
+
+Todos os sintomas crônicos são consequência direta da desnervação do
+sistema parassimpático autônomo do indivíduo infectado2.
+
+1.1.5 Tratamento Medicinal
+
+Por definição da Organização Mundial da Saúde, a droga ideal para o
+tratamento da doença de Chagas deve cumprir os seguintes requisitos: (I) levar à
+cura tanto dos casos agudos quanto crônicos; (II) ser efetiva em uma única ou
+apenas algumas doses; (III) ser vendida a baixo custo, de modo que seja acessível a
+todos os pacientes; (IV) não gerar efeitos colaterais ou teratogênicos; (V) não induzir
+resistência. Desafortunadamente, uma droga que cumpra todos os requisitos acima
+apresentados ainda não foi obtida13.
+Desde 1912, diversas drogas foram testadas em ensaios clínicos, mas
+apenas anos depois, em 1952, Packachanian demonstrou que nitrofuranos eram
+moléculas promissoras ao estudar a nitrofurasona. Este composto foi testado em
+experimentos realizados por Brener em 1962, no qual a nitrofurasona foi
+administrada via oral em ratos durante 53 dias consecutivos. O resultado do
+experimento foi a cura de 95,4% dos animais. A partir destes trabalhos as pesquisas
+para o tratamento da doença de Chagas começaram com maior eficiência 2,13.
+Apesar do sucesso do tratamento em ratos, a administração da nitrofurasona
+em humanos realizado por Coura e colaboradores entre 1961 e 1962 não foi bemsucedida. A maioria dos pacientes submetidos a diferentes doses do composto
+tiveram que interromper o tratamento por conta dos severos efeitos colaterais
+gerados pelo uso da droga. Seis pacientes haviam sido inicialmente escolhidos para
+serem submetidos a um tratamento de longo prazo. Destes, apenas dois foram
+considerados curados após comprovação de testes sorológicos13.
+Para tratamento prático dos infectados as medidas inicialmente aplicadas
+seguem as diretrizes definidas em 1997 por um conselho de especialistas em
+conjunto com o Ministro da Saúde. Estas medidas foram posteriormente reavaliadas
+pela Organização Pan-Americana de Saúde em 1978 e são as vigentes até hoje2.
+De acordo com a decisão do órgão apenas duas drogas são legalmente aceitas para
+15
+
+o tratamento da doença: o nifutimox, patenteada pela empresa Bayer, e o
+benzonidazol, cuja patente pertence a ao laboratório Hoffman-La Roche, cedida ao
+governo brasileiro para produção pela LAFEPE17. No Brasil estes compostos foram
+comercializados com os nomes Lampit e Rochagan, respectivamente. Entretanto,
+devido ao baixo interesse das empresas farmacêuticas quanto a doenças tropicais,
+uma vez que a produção de medicamentos destinados ao seu tratamento não é
+lucrativa, a produção e venda do nifurtimox no Brasil foi encerrada13.
+
+Figura 5. Estrutura dos fármacos utilizados no tratamento da doença de Chagas
+
+Fonte: Adaptado de GONZÁLEZ, M.; et all.; 2012.
+
+As duas drogas citadas apresentam atividade contra as formas tripomastigota
+e amastigota, aquelas encontradas dentro do organismo do hospedeiro, e devem ser
+aplicadas por cerca de 60 dias. Resultados em indivíduos infectados mostram que o
+uso do benzonidazol leva a cura de 80% dos pacientes em fase aguda e 20% dos
+que se encontram na fase crônica, sendo este mais efetivo do que o nifurtimox para
+o segundo caso3,15. Infelizmente o uso de ambos os medicamentes causa graves
+efeitos colaterais como anorexia, perda de peso, hiperexcitabilidade, depressão
+medular, vertigens, cefaleia e dores abdominais1,6.
+Algumas outras drogas demonstraram efeito in vitro, como o allopurinol e
+certos inibidores de ergosterol, como o cetoconazol e itraconazol. Ensaios utilizando
+estas moléculas levaram invariavelmente à cura das células infectadas, no entanto
+apenas o itraconazol se mostrou efetivo in vivo, ainda que levando a baixa
+porcentagem de cura2,16.
+
+16
+
+1.1.6 Mecanismo de Ação dos Medicamentos
+
+A ação do nifurtimox começa com a formação do nitro ânion radical por
+nitroredutases. A reação metabólica gera, na presença de oxigênio, intermediário
+radicalares muito reativos, como por exemplo o radical hidroxila (OH•). Uma vez que
+o T. cruzi é deficiente em mecanismos de desintoxicação de radicais, o parasita se
+torna suscetível a estes intermediários que se ligam a peptídeos, proteínas e ao
+próprio DNA do parasita13,14,16.
+O mecanismo de ação do benzonidazol se dá por um caminho diferente
+daquele do nirfutimox. A presença deste composto causa alterações na síntese de
+macromoléculas ao formar ligações covalentes ou outras interações entre os
+intermediários de nitroredução e compostos celulares. Também afeta a manutenção
+metabólica do protozoário pela ligação direta com o DNA, lipídeos e proteínas do
+parasita13.
+
+1.2 Estratégia de Brusca por Possíveis Drogas: Inibição Enzimática
+
+1.2.1 A Enzima Cruzaína
+
+A Cruzaína, ou Cruzipaína, ou ainda GP57/51, é membro da família papaína
+C1 de cisteíno proteases, uma família de enzimas proteolíticas com diversas
+funções e amplamente distribuídas na natureza13,17. Trata-se de uma glicoproteína
+de massa entre 52 e 58 kDa18 cuja estrutura é constituída de uma única cadeia
+polipeptídica de 215 resíduos de aminoácidos que se dividem em dois domínios: L e
+D. O primeiro é formado basicamente de α-hélices e fazem parte dele os resíduos 12
+a 112 e 208 a 212. O segundo é constituído de uma extensa interação de folhas β
+antiparalelas, como tipicamente encontrado em outros membros da família das
+papaínas. Estão incluídos neste domínio os resíduos 1 a 11 e 113 a 20719.
+
+17
+
+Igualmente característica de proteínas semelhantes à papaína é a tríade
+catalítica Cys25, His159 e Asn175 encontrada no sítio ativo da enzima. No caso
+específico da Cruzaína, além da tríade encontra-se também o resíduo Gln19.
+A figura abaixo mostra a estrutura cristalina da Cruzaína ligada a um inibidor
+com nitrilo warhead (N-(2-aminoetil)-N-alfa-benzoil-L-fenilalaninamida). A imagem
+mostra a enzima colorida de acordo com o tipo de estrutura secundária.
+
+Figura 6. Estrutura da Cruzaína com ligante nitrila
+
+Fonte: Protein Data Bank PDB:4QH6
+
+A sequência gênica exata da Cruzaína foi reportada por completo por Eakin
+no ano de 1992, mostrando que sua estrutura possui 53% de equivalência em
+relação à cisteíno protease encontrada no Trypanossoma brucei, agente etiológico
+da doença no sono, ou tripanossomíase africana19.
+A Cruzaína encontra foco nas pesquisas relacionadas a doença de Chagas
+por ser o principal antígeno observado em todas as fazes do ciclo evolutivo do
+Trypanossoma cruzi, tornando-a um excelente alvo para possíveis inibidores. A
+enzima pode ser encontrada principalmente na superfície do parasito quando na
+18
+
+forma amastigota (intracelular reprodutiva), em contato direto com o citoplasma do
+hospedeiro17.
+
+1.2.2 Inibidores Enzimáticos
+
+Inibidores enzimáticos são moléculas que anulam ou reduzem a atividade de
+determinada enzima ou grupo de enzimas por meio de interação reversível ou
+irreversível em pontos específicos na estrutura da proteína. A inibição ocorre porque
+o reconhecimento do ligante pela enzima causa uma série de modificações
+conformacionais e interações intermoleculares específicas que resultam no bloqueio
+da entrada do substrato no sítio ativo da enzima, impossibilitando que esta realize
+sua reação correspondente17.
+Moléculas inibidoras de proteínas são usualmente vistas como compostos de
+interesse farmacêutico pela sua capacidade de impedir o funcionamento de enzimas
+importantes para a manutenção do microrganismo patológico.
+Para serem consideradas drogas efetivas, os inibidores de proteínas devem
+apresentar: (I) caráter peptídico; (II) alta estabilidade a degradação proteolítica não
+seletiva; (III) boa permeabilidade em membranas; (IV) vida útil longa na corrente
+sanguínea e dentro das células; (V) baixa suscetibilidade à eliminação; (VI) alta
+seletividade e; (VII) boa biodisponibilidade. Usualmente os inibidores tem massa
+molecular menor do que 1000 Da20.
+É importante ressaltar que identificar um novo composto para o tratamento de
+uma doença é um processo demorado, caro e imprevisível, com risco de fracasso na
+ordem de 80%. O tempo entre o descobrimento da droga certa até a prateleira da
+farmácia pode levar entre 8 e 14 anos, dependendo da complexidade dos testes
+clínicos, do foco e interesses da empresa patrocinadora21.
+
+19
+
+1.2.3 Inibidores Irreversíveis
+
+A característica principal destes compostos é sua capacidade de interagir
+fortemente através da formação de ligações covalentes com o sítio ativo da enzima.
+A existência da ligação formada leva a enzima sua extinção via endocitose ou
+destruição química21.
+Até recentemente os mais fortes inibidores de cisteíno proteases, como a
+Cruzaína, eram do tipo irreversíveis no qual um “warhead” eletrofílico alquila a
+enzima através de substituição nucleofílica ou adição conjugada22. Na Figura 7 são
+apresentadas as estruturas de dois potentes inibidores irreversíveis inibidores de
+Cruzaína.
+
+Figura 7. Inibidores irreversíveis da enzima Cruzaína
+
+Fontes: Adaptado de YAO, S. Q.; HE, C. Y.; 2012.
+
+Tanto o composto K11777 quanto o WRR483 apresentam um bom perfil
+farmacêutico, possuindo adequada solubilidade em água, disponibilidade oral,
+ausência de efeitos tóxicos ou mutagênicos, além de produzirem efeito aditivo ao
+serem combinados com benzonidazol. Ambos possuem o grupo vinisulfona em sua
+estrutura, função responsável pela interação irreversível com o resíduo Cys 25 do sítio
+ativo da Cruzaína por reação de adição de Michael, gerando uma ligação covalente
+carbono-enxofre. Atualmente os dois inibidores estão sendo utilizados em teste préclínicos avançados17,23,24.
+20
+
+1.2.4 Inibidores Reversíveis
+
+Geralmente inibidores reversíveis agem por interação não covalente entre
+enzima e inibidor, embora existam casos nos quais a ligação covalente é de fato
+formada. Para estes a ligação que se dá é altamente sensível a hidrólise, tornando
+possível a separação do complexo enzima-inibidor. Exemplos deste tipo de
+compostos são dipeptidil aldeídos ou nitrilas, sendo a última a classe contendo os
+inibidores de cisteíno preteases mais potentes dentre os inibidores reversíveis25,26.
+Os inibidores contendo grupo nitrila foram reportados primeiramente por
+Hanzlik, no qual foram utilizadas como inibidoras da papaína protease 27. Um
+segundo trabalho realizado por Gütschow e colaboradores26 em 2005 reporta
+diversos azapeptídes nitrilas proteoliticamente estáveis como uma classe de
+inibidores que eficientemente formam adutos reversíveis no sítio ativo da cisteína.
+Para estes estudos a enzima modelo utilizada foi a catepsina K, uma serino
+protease.
+Ainda mais recentemente o Odanacatib, inibidor reversível contendo nitrilo
+warhead entrou em fase de estudos clínicos avançados para tratamento da doença
+de Chagas e está também sendo usado em estudos para o desenvolvimento do
+tratamento de osteoporose pós-menopáusica28,29.
+
+Figura 8. Inibidor Reversível da enzima Cruzaína
+
+Fonte: Adaptado de BEAULIEU, C; et all.; 2010.
+
+21
+
+2. OBJETIVOS
+
+Em vista da importância dos compostos contendo grupo nitrila como possíveis
+fármacos para o tratamento da doença de Chagas, este trabalho tem por objetivo a
+síntese das seguintes dipeptidil-nitrilas que serão usadas em posteriores ensaios
+bioquímicos com intenção de avaliar sua efetividade como inibidores reversíveis da
+enzima Cruzaína.
+
+Figura 9. Estrutura das dipeptidil-nitrilas alvos de síntese
+
+A
+
+metodologia
+
+geral
+
+empregada
+
+para
+
+obtenção
+
+destes
+
+compostos,
+
+apresentada na Figura 10, segue a estratégia reportada em patente por Chen e
+colaboradores30 em 2006. Utilizando esta rota deve-se iniciar a síntese com o
+aminoácido comercial que mais facilmente leve à molécula alvo, passando por
+reação de esterificação e inserção de moléculas como trifluoroacetofenona e a
+ciclopropilaminonitrila, nesta sequência.
+
+Figura 10. Rota geral de prepraro de dipeptidil-nitrilas a partir de aminoácidos
+
+22
+
+O composto 1 pode ser facilmente preparado pela a rota apresentada tendo o
+D-triptofano como molécula inicial. O aminoácido necessário para a síntese da
+dipeptidil-nitrila 2, no entanto, é comercialmente disponível apenas contendo o grupo
+amina protegido por Fmoc. Uma vez que a desproteção deste aminoácido, testada
+anteriormente por outro aluno do grupo, não foi eficiente, optou-se pela síntese
+completa da molécula a partir de um precursor mais distante, a L-serina.
+Sendo assim, a rota escolhida para o preparo do composto 2 passa pela
+preparação do aminoácido de interesse a partir da L-serina e o 5-bromoindol, do
+qual provém o núcleo indólico da molécula e apenas depois segue pela rota
+proposta na Figura 10. O esquema sintético geral utilizado neste caso foi
+previamente descrito por Mcminn e colaboradores31 e é apresentado na Figura 11.
+
+Figura 11. Rota sintética para preparação do aminoácido derivado da L-serina
+
+23
+
+3. RESULTADOS E DISCUSSÃO
+
+3.1 Preparação de Dipeptidil-nitrila a Partir do D-triptofano
+
+A estratégia empregada na produção do composto 1 envolveu a realização de
+4 etapas consecutivas, da maneira disposta na Figura 12. Na primeira etapa o
+isômero D do triptofano sofre esterificação por um método clássico, utilizando cloreto
+de tionila em metanol. O aminoéster é facilmente obtido em alto rendimento.
+
+Figura 12. Rota sintética empregada para preparação da dipeptidil-nitrila 1
+
+O mecanismo desta reação tem início quando a hidroxila do grupo ácido do
+triptofano realiza um ataque nucleofílico sobre o átomo de enxofre do cloreto de
+tionila, liberando ácido clorídrico. O íon cloreto vindo da ionização do ácido realiza
+então um segundo ataque nucleofílico, desta vez sobre a carboxila, liberando dióxido
+de enxofre e ácido clorídrico. Um terceiro ataque acontece pela hidroxila do metanol
+sobre a carbonila do cloreto de ácido recém formado, levando ao aminoéster
+simultaneamente com a expulsão de um íon cloreto.
+24
+
+Figura 13. Mecanismo de formação do aminoéster
+
+O aminoéster foi caracterizado por RMN de 1H e
+
+13C,
+
+através dos quais a
+
+obtenção do produto pôde ser confirmada pela presença de um singleto em 3,80
+ppm referente aos três hidrogênios da metila do éster, e o sinal em 170,8 ppm
+correspondente ao carbono da carbonila.
+Dando seguimento a rota sintética, a segunda e terceira etapas juntas levam
+à aminação redutiva do aminoéster pela condensação com 2,2,2-trifenilacetofenona
+seguido de redução por boroidreto de sódio. Na primeira reação, representada na
+Figura 14, a condensação ocorre pelo ataque nucleofílico do par de elétrons livre da
+amina do aminoéster à carbonila do reagente a ser incorporado, passando por
+transferência de próton no intermediário tetraédrico. A presença de K2CO3 a elevada
+temperatura (50ºC) conduz a um intermediário cíclico antes da formação do sal de
+potássio, como representado na Figura 14.
+.
+Figura 14. Esquema da formação da imina em condições básicas como descrito por Hughes
+
+Fonte: Adaptado de HUGHES, G.; DEVINE, P. N.; NABER, J. R.; et all.; 2007
+
+25
+
+Usualmente são encontrados na literatura exemplos nos quais, em uma única
+etapa, a imina é gerada e pela adição direta do agente redutor é levada a amina sem
+necessidade de workup entre as duas reações. Por outro lado, esta reação foi
+também descrita por Hughes e colaboradores num estudo de aminação redutiva
+diastereoseletiva32 no qual apresentam uma metodologia utilizando base de força
+moderada como K2CO3, através da qual é possível isolar a imina na forma de
+carboxilato de potássio, que é retirado do meio reacional por precipitação em éter
+metil-terc-butílico.
+Após isolar a imina usando o método citado acima a reação de redução era
+realizada o mais rápido possível devido à instabilidade do composto formado,
+preferencialmente no mesmo dia em que o carboxilato de potássio era produzido.
+Para a completa redução do composto utilizou-se 3 equivalentes de boroidreto de
+sódio.
+Nota-se que na etapa de redução foi obtido um rendimento extremamente
+baixo. Isso se deve não a má qualidade da metodologia utilizada, mas sim por
+perdas de massa durante workup e purificação. A redução por NaBH4 foi realizada
+uma única vez para este composto em específico, dado que a massa final requerida
+para os testes biológicos é da ordem de poucos miligramas e a quantidade de
+produto obtido nesta etapa foi suficiente para prosseguir para a última reação.
+Ainda neste assunto, cabe fazer uma importante observação: o aminoácido
+inicial possui um estereocentro de configuração R que permanece inalterado durante
+todo o procedimento de preparação da dipeptidil-nitrila. Apenas durante a etapa de
+redução da imina ocorre o surgimento de um segundo estereocentro na molécula,
+sendo que sua configuração preferencial (R ou S) pode ser direcionada pela escolha
+do agente redutor correto. Na abordagem já mencionada optou-se pelo boroidreto de
+sódio, um agente redutor que induz a formação do isômero anti (S,R) (5), ou seja,
+que induz a configuração S no novo carbono quiral.32
+Isto ocorre pois, em solução, a conformação de menor energia da molécula é
+aquela na qual o hidrogênio ligado ao carbono quiral é coplanar a ligação C=N da
+imina. Dessa forma o núcleo indólico se encontra posicionado em direção à face si
+da molécula, impedindo-a estericamente. Como a função carboxilato é menor do que
+
+26
+
+o substituinte indol o resultado é o ataque preferencial do hidreto pela face re, que
+leva ao isômero anti, como representado na Figura 15.
+
+Figura 15. Redução estereoseletiva por boroidreto de sódio
+
+A análise do composto por cromatografia de alta eficiência (HPLC) para
+comprovar a seletividade enantiomérca da reação não foi realizada, porém, estudos
+anteriores32 confirmam que a redução por borohidreto de sódio leva também neste
+caso a formação preferencial do isômero anti sobre o syn em uma proporção ≥ 95%.
+Para caracterização da molécula foi efetuado RMN de 1H, no qual se percebe
+a ausência do singleto em 3,80 ppm correspondente aos hidrogênios da metila do
+aminoéster, e o aparecimento de sinais na região dos aromáticos referentes aos
+cinco hidrogênios fenílicos, além do quarteto em 4,03 ppm que corresponde ao
+hidrogênio do carbono vizinho ao grupo trifluorometil. Este mesmo carbono é
+perceptível no espectro de RMN de 13C em 63,5 ppm.
+Por fim, a síntese é completada na quarta etapa com a formação da ligação
+peptídica ao incorporar a ciclopropilaminonitrila em uma reação de 24h em meio
+básico na presença do agente de acoplamento HATU, ou hexafluorofosfato de 2-(1H-7-azabenzotriazol-1-il)1,1,3,3-tetrametilurônio, formando o composto 1.
+O mecanismo desta reação é apresentado na Figura 16. Nela o ânion
+carboxilato reage com o HATU para formar um sal isourônio e o ânion OAt, ou Oacil(tetrametil)isourônio. Logo que formado o ânion OAt ataca a carbonila dando
+origem a forma ativa do éster. A reação termina com o ataque nucleofílico da amina
+presente na ciclopropilamina, passando por um intermediário estável formado pela
+27
+
+interação do par de elétrons não-ligantes do nitrogênio do anel piridínico e o
+hidrogênio da ciclopropilamina.
+
+Figura 16. Mecanismo da reação de acoplamento peptídico usando HATU
+
+A estrutura da dipeptidil-nitrila foi comprovada através de análise dos
+espectros de RMN de 1H, no qual se percebe a presença dos hidrogênios do
+ciclopropil em 1,57, 1,22 e 1,15 ppm, assim como os hidrogênios geminados da
+molécula de triptofano aparecendo como duplos dubletos em 3,26 e 2,93 ppm. Os
+picos referentes aos hidrogênios do indol e do anel aromático vindos da
+trifluoroacetofenona também são perceptíveis no espectro entre 7,36 e 6,74 ppm. A
+presença do carbono da função amida também pode ser percebida pelo pico
+característico em 174,5 ppm no espectro de RMN de
+
+13C.
+
+3.2 Preparação de Dipeptidil-nitrila a Partir da L-serina
+
+No caso da dipeptidil-nitrila 2, a abordagem utilizada começa pela produção
+do aminoácido contendo o núcleo indólico na posição desejada. Para sua obtenção
+foi seguida a metodologia apresentada por Mcminn 31, cuja descrição metodológica
+tem início pela síntese do composto 8. Por conta disso, as moléculas 6 e 7 foram
+28
+
+produzidas utilizando procedimentos anteriormente adotados no grupo a partir da Lserina.
+
+Figura 17. Primeira parte da síntese da dipeptidil-nitrila 2
+
+Nestas reações iniciais ocorre primeiramente a proteção da função amina do
+aminoácido com cloroformato de benzila (Cbz) em solução aquosa de NaHCO 3.
+Mecanisticamente, ocorre o ataque nucleofílico da amina do aminoácido inicial sobre
+a carbonila da molécula de Cbz, levando à expulsão de um íon cloreto na forma de
+ácido clorídrico, dando origem ao aminoácido protegido. Em solução, o ácido
+clorídrico formado reage com o bicarbonato de sódio formando cloreto de sódio, gás
+carbônico e água.
+
+Figura 18. Mecanismo de proteção com Cbz
+
+29
+
+A caracterização do composto foi realizada por RMN de 1H e de
+
+13C.
+
+No
+
+primeiro a entrada do grupo de proteção é evidenciada pela presença de um
+multipleto em 7,28 – 7,38 ppm correspondentes aos cinco hidrogênios aromáticos e
+um singleto em 5,11 ppm, referentes aos dois hidrogênios benzílicos do grupo Cbz.
+Enquanto isso, no espectro de RMN de
+
+13C
+
+é possível perceber o sinal referente à
+
+carbonila do grupo protetor em 158,5 ppm e os sinais correspondentes aos carbonos
+do anel aromático em 138,1, 129,4, 129,0 e 128,8 ppm.
+A segunda etapa foi a esterificação da carboxila utilizando cloreto de tionila
+em metanol, reação cujo mecanismo foi apresentado na Figura 13, de forma a obter
+o aminoéster de serina. Tanto a primeira quanto a segunda etapa da rota em
+questão foram eficientes, resultando em elevados rendimentos.
+O aminoéster de serina foi analisado por RMN de 1H, no qual a formação do
+éster é verificada pela presença de um singleto em 3,73 ppm referente aos três
+hidrogênios metílicos. Da mesma forma o carbono da metila foi observado como um
+sinal em 52,8 ppm no espectro de RMN de 13C.
+A rota sintética segue com a reação de iodoação do aminoéster, realizada na
+presença de trifenilfosfina e imidazol em diclorometano. O procedimento utilizado
+nesta etapa foi ligeiramente diferente daquele descrito por Mcminn no que se refere
+à temperatura de adição do iodeto e do composto 7 ao meio reacional, assim como
+a maneira como é feito o workup. As alterações realizadas aumentaram a velocidade
+de montagem do sistema reacional e elevaram o rendimento conseguido para a
+reação se comparado a quando foi utilizado o procedimento encontrado na patente.
+A reação de iodação iniciou-se pela formação do iodeto de trifenilfosfina
+gerado pelo ataque nucleofílico da trifenilfosfina a molécula de I2. A hidroxila
+presente no aminoéster então realiza uma reação do tipo SN 2 sobre o iodeto de
+trifenilfosfina que origina um ânion iodo, capturado pelo imidazol presente no meio
+reacional, e o intermediário ligado a trifenilfosfina. Uma segunda substituição
+nucleofílica ocorre quando o iodeto ataca o carbono diretamente ligado ao oxigênio,
+liberando óxido de trifenilfosfina como grupo abandonador.
+
+30
+
+Figura 19. Mecanismo da reação de iodação com trifenilfosfina e imidazol
+
+Os espectros de RMN de 1H tanto para o material de partida (7) quando o
+produto são, como esperado, bastante semelhantes, uma vez que sua estrutura
+muda apenas pela troca de um grupo funcional. A formação do iodeto, entretanto, foi
+percebida pelo deslocamento dos duplos dubletos referentes aos hidrogênios do
+carbono diretamente ligado à hidroxila no composto inicial. No composto 7 o
+deslocamento para os hidrogênios geminais encontra-se em 3,86 e 3,80 ppm, o que
+os posiciona como átomos moderadamente desblindados por conta do grupo
+retirador de elétrons (átomo de oxigênio) no carbono vizinho. Enquanto isso para o
+composto 8 este deslocamento passou para uma região ligeiramente mais blindada,
+em 3,59 e 3,47 ppm, sugerindo a mudança do grupo funcional vizinho para um grupo
+menos retirador de elétrons do que a hidroxila, como é o caso do iodo.
+Na sequência realizou-se a etapa chave para formação do aminoácido
+contendo o núcleo indólico como almejado: a reação de acoplamento cruzado de
+Negishi, responsável pela formação da ligação carbono-carbono entre o aminoéster
+e o 5-bromoindol.
+Seguindo o clássico ciclo catalítico para esta reação (Figura 20), o catalisador
+de paládio inicialmente na forma de Pd(0) sofre uma adição oxidativa ao interagir
+com o haleto orgânico para formar o complexo de Pd(II). Durante a transmetalação o
+grupo R do composto organozinco gerado in situ toma o lugar do ânion haleto no
+complexo de paládio formando ZnBrI (M-X). Na fase final do ciclo o catalisador de
+Pd(0) é regenerado e o produto de acoplamento é liberado do complexo.
+
+31
+
+Figura 20. Ciclo catalítico para acoplamento de Negishi
+
+Fonte: Adaptado de VELOSO, D. P.; TEIXEIRA, R. R.; BARBOSA, L. C. A.; 2007
+
+No procedimento adotado o catalisador de paládio utilizado foi o Pd2(dba)3
+produzido no próprio laboratório. A reação foi realizada em condições anidras a 50ºC
+overnight, na presença de S-Phos, resultando em um rendimento de 47%.
+A última etapa da primeira parte da abordagem apresentada é a desproteção
+do grupo amino por hidrogenação catalítica com Pd(OH)2/C 20%, cujo mecanismo é
+apresentado de maneira simplificada na Figura 21. No espectro de RMN de 1H do
+produto reacional percebeu-se a ausência dos sinais pertencentes ao grupo Cbz em
+aproximadamente 5,10 ppm e na região de hidrogênios aromáticos (7,40-7,20 ppm).
+A falta do sinal em 155,9 ppm referente ao carbono benzílico do Cbz no espectro de
+RMN de
+
+13C
+
+também é facilmente identificável e igualmente comprovou a retirada do
+
+grupo protetor.
+
+Figura 21. Mecanismo simplificado da reação de desproteção por hidrogenação
+
+32
+
+Vale comentar que a etapa de desproteção também foi realizada diferente do
+prescrito na patente de Mcminn, na qual se utiliza Pd/C como catalisador da
+hidrogenação. É inclusive importante ressaltar que os melhores resultados tanto
+para reação de acoplamento quanto para a desproteção só foram obtidos ao
+reproduzir o procedimento com mais de 50 mg de material de partida.
+A segunda parte da rota sintética envolve as mesmas reações apresentadas
+no item anterior (rota do D-triptofano), como representado na Figura 22, contendo
+pequenas alterações na etapa de aminação redutiva.
+
+Figura 22. Segunda parte da síntese da dipeptidil-nitrila 2
+
+Diferente do observado na rota com o triptofano, ao reagir com a 2,2,2trifluoroacetofenona não foi possível separar a imina formada do meio reacional. De
+modo que neste caso as etapas de geração e redução da imina foram realizadas
+one-pot, levando a um rendimento de 47%. É importante ressaltar que da mesma
+forma que na rota anterior, o uso de boroidreto de sódio como agente redutor leva
+somente ao isômero anti, ou R,S.
+O produto reduzido foi caracterizado por RMN de 1H e de
+
+13C.
+
+Nestes a
+
+presença do anel aromático proveniente da trifluoroacetofenona foi perceptível pelos
+sinais entre 7,29 e 7,22 ppm no espectro de RMN 1H e entre 135,2 e 128,0 ppm no
+espectro de RMN de
+
+13C.
+
+Assim como explicado na rota anterior, a proporção
+
+enantiomérica obtida na reação de redução por análise de cromatografia líquida de
+alta eficiência (HPLC) não foi realizada, mas trabalhos anteriores contataram para
+essa reação uma razão anti:syn de 95:5.
+Por fim, a formação da ligação peptídica para inclusão do grupo nitrila
+presente na ciclopropilaminonitrila encerrou a síntese da dipeptidil-nitrila 2. Sua
+33
+
+estrutura final foi comprovada por análise dos espectros de RMN de 1H, no qual se
+observam, à semelhança do composto 2, os picos referentes aos hidrogênios do
+ciclo de três membros em 1,17 e 1,62-1,51 ppm e os hidrogênio geminados do
+carbono adjacente ao núcleo indólico em 6,71 e 6,80 ppm. Os hidrogênios
+aromáticos dos compostos apareceram na região entre 6,45 e 7,72 ppm, sendo o
+hidrogênio em 6,45 ppm um indício marcante da presença do indol. No espectro de
+RMN de
+
+13C
+
+o carbono referente à amida apareceu como um sinal em 174,2 ppm,
+
+enquanto os sinais em 20,1, 17,0 e 16,4 ppm representaram os carbonos do ciclo de
+três membros.
+
+34
+
+4. CONCLUSÃO
+
+O presente trabalho permitiu descrever a síntese completa de duas dipeptidilnitrilas contendo núcleo indólico a partir de aminoácidos essenciais de fácil acesso
+comercial. A abordagem iniciada pelo D-triptofano levou ao produto de interesse em
+4 etapas nas quais foram obtidos rendimentos entre 96% e 4%. Já a rota a partir da
+L-serina levou à dipeptidil-nitrila desejada em 7 etapas, das quais duas haviam sido
+testadas na rota anterior. Nas reações empregadas na segunda rota obteve-se
+sempre rendimentos bons (entre 100 e 84%) ou aceitáveis (na faixa de 47%).
+Apesar de escassamente relatadas na literatura em comparação aos
+compostos inibidores irreversíveis, percebeu-se que a preparação de possíveis
+inibidores reversíveis de caráter peptídico contendo nitrilo warhead, como são os
+compostos neste trabalho descritos, são possíveis de serem produzidos por meio de
+reações simples, sem grande complexidade. Este fato torna as dipeptidil-nitrilas
+práticas moléculas sobre as quais testes biológicos podem ser realizados.
+Como expansão do trabalho realizado para a obtenção da dipeptidil-nitrila 2
+(isômero anti), foi produzido em um trabalho pertencente ao mesmo projeto o
+isômero syn, ou S,S, empregando boroidreto de zinco durante a redução da imina
+formada a partir do composto 10.
+
+35
+
+5. PARTE EXPERIMENTAL
+
+5.1 Procedimentos para o preparo das moléculas da rota do D-Triptofano
+
+(R)-2-amino-3-(1H-indol-3-il)propanoato de metila 3
+
+Em um balão de 25 mL acoplado a um condensador de refluxo sob atmosfera
+inerte adicionou-se 2 g (9,79 mmol) de D-triptofano e MeOH seco suficiente para
+dissolver o sólido. O balão foi posto em banho de gelo e adicionou-se lentamente 2 g
+(1,25 mL, 17 mmol, 1,7 eq) de cloreto de tionila destilado. A reação foi deixada em
+agitação a temperatura ambiente por 2 h e 30 min, seguidos de 30 min em refluxo. A
+solução foi deixada overnight. O solvente foi então evaporado e o sólido lavado com
+éter etílico. Obteve-se 2,39 g (96%) do produto na forma de um sólido branco.
+RMN 1H (500 MHz, CD3OD) δ (ppm) = 7,55 (d, J = 8 Hz, 1H); 7,40 (d, J = 8 Hz, 1H);
+7,21 (d, J = 8 Hz, 1H); 7,15 (t, J = 8Hz, 1H); 7,07 (t, J = 8 Hz, 1H); 4,33 (m, 1H); 3,80
+(s, 3H); 3,47 (dd, J = 15 e 6 Hz, 1H); 3,37 (dd, J = 15 e 7 Hz, 1H).
+RMN
+
+13C
+
+(125 MHz, CD3OD) δ (ppm) = 170,8; 138,3; 128,2; 125,6; 122,9; 120,3;
+
+118,8; 112,7; 107,5; 54,6; 53,6; 27,6.
+
+(R,Z)-3-(1H-indol-3-il)-2-(2,2,2-trifluoro-1-feniletilideno)amino)propanoato de potássio
+4
+
+36
+
+Em um balão de 25 mL ligado a um condensador de refluxo dissolveu-se 1,5
+g (6,87 mmol) do composto 3 em 10 mL de MeOH e acrescentou-se 2,18 g (15,81
+mmol, 2,3 eq) de K2CO3 e 1,20 g (6,87 mmol, 1 eq) de 2,2,2-trifluoroacetofenona. O
+sistema foi fechado sob atmosfera de argônio e deixado em refluxo 18 h a 50 °C.
+Após o tempo de reação filtrou-se em papel de filtro e evaporou-se o solvente em
+rotaevaporador. O sólido elástico resultante é então lavado com 25 mL de TBME e
+seco a pressão reduzida. Obteve-se 0,325 g (24,5%) do produto na forma de um
+sólido branco.
+Análises – Não foram realizadas análises devido à instabilidade dos carboxilatos de
+potássio.
+
+Ácido (R)-3-((1H-indol-3-il)-2(((S)-2,2,2-trifluoro-1-feniletil)amino)propanoico 5
+
+Em um balão de 10 mL adicionou-se 660 mg (1,656 mmol) do composto 4 em
+7 mL de solução THF/H2O 4%. Em seguida adicionou-se lentamente 188 mg (4,97
+mmol, 3 eq) de NaBH4 e deixou-se a reação em agitação sob atmosfera de argônio a
+temperatura ambiente por 6 h. O solvente foi então retirado em rotaevaporador e
+adicionou-se 25 mL de água destilada. Ajustou-se o pH da solução para 10 e
+extraiu-se com AcOEt (3x30 mL). A fase aquosa foi acidificada até pH 2 com solução
+de HCl e realizou-se uma segunda extração com AcOEt (5x30 mL). O produto foi
+seco e purificado em coluna tipo flash utilizando gradiente do eluente AcOEt:Hex, de
+30% a 50%. O rendimento da reação foi de 4%.
+RMN 1H (500 MHz, CDCl3) δ (ppm) = 8,09 (d, J = 21 Hz, 1H); 7,39–7,35 (m, 3H);
+7,20 (dd, J = 15 e 8 Hz, 3H); 7,16–7,11 (m, 1H); 7,07 (t, J = 8 Hz, 2H); 7,01 (t, J = 8
+Hz, 1H); 6,97 (s, 1H); 6,85 (d, J = 8 Hz, 2H); 4,02 (q, J = 7 Hz, 2H); 3,49 (dd, J = 9 e
+5 Hz, 1H); 3,04 (dd, J = 15 e 9 Hz, 1H).
+
+37
+
+RMN
+
+13C
+
+(125 MHz, CDCl3) δ (ppm) = 136,5; 129,6, 129,4; 129,0; 128,7; 128,2;
+
+123,3; 122,7; 122,6; 120,1; 120,0; 118,8; 118,6; 111,5; 111,4; 110,0; 63,5; 59,1;
+29,8.
+
+(R)-N-(1-cianociclopropil)-3-(1H-indol-3-il)-2(((S)-2,2,2-trifluoro-1feniletil)amino)propanamida 1
+
+Em um balão de 25 mL foram dissolvidos 50 mg (0,138 mmol) do composto 5
+em 2 mL de DMF seco. A seguir adicionou-se 18 mg (0,152 mmol, 1,1 eq) de
+ciclopropilaminonitrila, 78,7 mg (0,207 mmol, 1,5 eq) de HATU e 26,7 mg (36 mL,
+0,207 mmol, 1,5 eq) de DIPEA. A solução foi deixada em agitação e sob atmosfera
+inerte por 24 h a temperatura ambiente. Dado o tempo da reação adicionou-se 15
+mL de solução saturada de NaCl e extraiu-se com AcOEt (10 x 15 mL). A fase
+orgânica foi seca com Na2SO4 e o solvente retirado em rotaevaporador. O produto
+foi purificado em coluna do tipo flash utilizando gradiente do eluente AcOEt:Hex, de
+40% a 60%. O rendimento da reação foi de 89%.
+RMN 1H (500 MHz, CDCl3) δ (ppm) = 8,19 (s, 1H); 7,69 (s, 1H); 7,34 (dd, J = 17 e 8
+Hz, 2H); 7,18 (t, J = 7 Hz, 2H); 7,03 (t, J = 8 Hz, 1H); 6,99 (t, J = 8Hz, 1H); 6, 90 (s,
+1H); 6,75 (d, J = 8Hz, 2H); 3,37 (dd, J = 9 e 4 Hz, 1H); 3,26 (dd, J = 14 e 4 Hz, 1H);
+2,93 (dd, J = 14 e 9 Hz, 1H); 1,57 (m, 2H); 1,22 (m, 1H); 1,15 (m, 1H).
+RMN
+
+13C
+
+(125 MHz, CDCl3) δ (ppm) = 174,5; 136,5; 132,5; 129,2; 128,6; 127,8;
+
+127,1; 123,3; 122,7; 120,1; 119,9; 118,5; 111,4; 110,0; 61,0; 60,5; 29,3; 21,2; 20,2;
+17,1; 16,5; 14,3.
+
+38
+
+5.2 Procedimentos para o preparo das moléculas da rota da L-Serina
+
+Ácido (S)-2-((benziloxi)carbonilamino)-3-hidroxipropanoico 6
+
+Em um balão de 250 mL, 4 g (38 mmol) de L-serina foram dissolvidos em 152
+mL de NaHCO3. Lentamente e sob atmosfera inerte adicionou-se 9,56 g de
+cloroformiato de benzila (8 mL, 56 mmol, 1,5 eq). A reação foi deixada em constante
+agitação a temperatura ambiente e após 5 h foi extraída com dietil éter (6x30 mL). A
+fase aquosa foi então acidificada com 20 mL de HCl concentrado até pH 1, momento
+em que se observa a formação de um precipitado branco. Adicionou-se 150 mL de
+água destilada e extraiu-se com AcOEt (8x45 mL). A fase orgânica foi seca com
+Na2SO4 e o solvente evaporado à vácuo. Obteve-se 8,44 g de produto (93%), sendo
+este um sólido branco.
+RMN 1H (400 MHz, CD3OD) δ (ppm) = 7,43-7,22 (m, 5H); 5,11 (s, 2H); 4,28 (t, J = 4
+Hz, 1H); 3,86 (qd, J = 11 e 4 Hz, 2H).
+RMN 13C (100 MHz, CD3OD) δ (ppm) = 173,7; 158,8; 138,1; 129,4; 128,8; 67,7; 63,1;
+57,7.
+
+2-((benziloxi)carbonilamino)-3-hidroxipropanoato de (S)-metila 7
+
+Em um balão de 500 mL sob atmosfera de argônio 8 g (33,4 mmol) do
+composto 7 foram solubilizados em 68 mL de MeOH seco e agitada a 0 °C.
+Adicionou-se lentamente 4 g (2,45 mL, 33,4 mmol, 1eq) de cloreto de tionila
+destilado e deixou-se a reação em agitação durante 1 h a 0 °C. Permitiu-se que a
+39
+
+mistura retornasse a temperatura ambiente e a reação seguiu-se por mais 14 h,
+seguindo-se a evaporação do solvente. O resíduo no balão foi solubilizado em
+MeOH, evaporado na sequência em rotaevaporador. Este procedimento de lavagem
+e evaporação foi realizado 5 vezes utilizando 8 mL de MeOH. O produto é um óleo
+transparente de clara tonalidade salmão. O rendimento foi quantitativo.
+RMN 1H (500 MHz, CD3OD) δ (ppm) = 7,37-7,28 (m, 5H); 5,10 (s, 2H); 4,32 (t, 1H);
+3,86 (dd, J = 12 e 7 Hz, 1H); 3,80 (dd, J = 11 e 4 Hz, 1H); 3,73 (s, 3H); 3,35 (s, 1H).
+RMN
+
+13C
+
+(100 MHz, CD3OD) δ (ppm) = 172,3; 157,9; 137,3; 129,1; 128,7; 128,5;
+
+78,9; 78,6; 78,2; 67,6; 62,8; 57,3; 52,8.
+
+2-((benziloxi)carbonilamino)-3-iodopropanoato de (R)-metila 8
+
+Em um balão de 25 mL adicionou-se 1,55 g (5,93 mmol, 1,5 eq) de
+trifenilfosfina e 400 mg (5,93 mmol, 1,5 eq) de imidazol, que foram dissolvidos em
+6,8 mL de Cl2CH2 seco. 1,5 g (5,93 mmol, 1,5 eq) de iodo foram então adicionados
+durante um período de 30 min. Por fim adicionou-se a solução de 1 g (1,95 mmol) do
+composto 7 em 5 mL de Cl2CH2, e a reação foi deixada overnight a temperatura
+ambiente sob atmosfera inerte. A mistura foi lavada com tiossulfato de sódio e
+purificada em coluna do tipo flash utilizando gradiente do eluente AcOEt:Hex, de 0%
+a 80%, para obter 0,856 g (60%) do produto na forma de sólido branco.
+RMN 1H (500 MHz, CD3OD) δ (ppm) = 7,38-7,28 (m, 5H); 5,12 (s, 2H); 4,47 (t, 1H);
+3,75 (s, 3H); 3,57 (dd, J = 10 e 4 Hz, 1H); 3,48 (dd, J = 10 e 7, 1H).
+RMN
+
+13C
+
+(125 MHz, CD3OD) δ (ppm) = 169,7; 155,4; 136,0; 128,6; 128,3; 128,1;
+
+67,3; 54,1; 53,1.
+
+40
+
+2-((benziloxi)carbonilamino)-3-(1H-indol-5-il)propanoato de (S)-metila 9
+
+Em um balão previamente seco e sob atmosfera de argônio adicionou-se 270
+mg (4,13 mmol, 3 eq) de zinco ativado e 97,40 mg (0,4 mmol, 0,3 eq) de iodo. O
+balão foi aquecido de modo que os grãos de iodo sublimassem em seguida resfriado
+até a temperatura ambiente para a adição de 0,7 mL de DMF seco. Uma solução
+contendo 500 mg (1,37 mmol) do composto 8 em 0,7 mL de DMF foi então
+adicionada e a mistura foi deixada em agitação por 5 min a temperatura ambiente,
+seguida de mais 45 min a 30 °C. Adicionou-se então a solução de 324 mg (1,65
+mmol, 1,2 eq) de 5-bromoindol em 0,4 mL de DMF, 28,2 mg (0,069 mmol, 0,005 eq)
+de S-Phos e 25,2 mg (0,027 mmol, 0,02 eq) de Pd 2(dba)3. A reação foi deixada sob
+agitação a 50 °C overnight e em seguida lavada com 10 mL de solução saturada de
+cloreto de sódio e extraída com AcOEt (3x8 mL). A fase orgânica foi lavada uma
+última vez com 10 mL de solução saturada de cloreto de sódio e concentrada a
+pressão reduzida. Foi, por fim, purificada em coluna do tipo flash utilizando gradiente
+do eluente AcOEt:Hex, de 10% a 50%, para obter 258 mg (46,9%) do produto puro,
+um viscoso óleo amarelo.
+RMN 1H (400 MHz, CDCl3) δ (ppm) = 8,27 (s, 1H); 7,35-7,24 (m, 7H); 7,15 (t, 1H);
+6,89 (d, J = 8 Hz, 1H) 6,46 (m, 1H); 5,23 (s, 1H); 5,08 (s, 2H); 4,68 (q, 1H); 3,70 (s,
+3H); 3,19 (m, 2H).
+RMN
+
+13C
+
+(125 MHz, CDCl3) δ (ppm) = 172,5; 155,9; 136,5; 135,2; 128,6; 128,3;
+
+128,2; 128,2; 126,9; 127,7; 123,4; 121,4; 111,4; 102,6; 67,0; 55,4; 52,4; 38,4.
+
+41
+
+2-amino-3-(1H-indol-5-il)propanoato de (S)-metila 10
+
+Em um balão de 25 mL, transferiu-se 214,64 mg (3,34 mmol, 1 eq) de
+Pd(OH)2/C 20% e adicionou-se uma solução de 1,32 g (3,34 mmol) do composto 9
+em 14 mL de MeOH seco. A solução foi posta sob atmosfera de hidrogênio e
+deixada em agitação por 16 h a temperatura ambiente. Após este período a mistura
+foi filtrada com celite e o solvente evaporado a pressão reduzida, resultando em
+0,612 mg (84%) de um óleo verde escuro de alta viscosidade.
+RMN 1H (500 MHz, CDCl3) δ (ppm) = 8,17 (s, 1H); 7,46 (s, 1H); 7,33 (d, J = 8 Hz,
+1H); 7,20 (t, 1H); 7,01 (dd, J = 10 Hz, 1H); 6,50 (m, 1H); 3,78 (m, 1H); 3,73 (s, 3H);
+3,21 (dd, J = 14 e 5 Hz, 1H); 2,94 (dd, J = 14 e 8 Hz, 1H).
+RMN
+
+13C
+
+(125 MHz, CDCl3) δ (ppm) = 175,8; 175,1; 128,4; 128,3; 124,7; 123,5;
+
+121,4; 111,3; 102,6; 56,4; 52,1; 41,4.
+
+Ácido (S)-3-(1H-indol-5-il)-2-(((R)-2,2,2-trifluoro-1-feniletil)amino)propanoico 11
+
+Em um viel foram dissolvidos 50 mg (0,229 mmol) do composto 10 mais 73
+mg (0,527 mmol, 2,3 eq) de K2CO3 em MeOH seco. Após adição de 39,8 mg (0,229
+mmol, 1 eq, 32 µL) de trifluoroacetofenona a reação foi deixada em agitação e
+atmosfera de argônio durante 18 h a 50 ºC. Em seguida a mistura foi filtrada para
+retirar o K2CO3 e o filtrado foi seco a atmosfera reduzida para retirada do solvente. O
+sólido resultante foi redissolvido em THF seco, seguido da adição de 43,33 mg (1,15
+mmol, 5 eq) de NaBH4 anidro. A reação foi deixada overnight sob atmosfera de
+42
+
+argônio e temperatura ambiente. O solvente foi evaporado sob pressão reduzida,
+adicionou-se 3 mL de água destilada e extraiu-se com AcOEt (3x4mL). A fase
+aquosa foi acidificada com solução de HCl até pH 2, quando uma segunda extração
+com AcOEt (4x4mL) foi realizada. As fases orgânicas das duas extrações foram
+juntadas, secas com Na2SO4 e tiveram o solvente evaporado em rotaevaporador. A
+purificação foi feita em coluna do tipo flash utilizando AcOEt:Hex 50%. O rendimento
+da reação foi de 47% (38,7 mg).
+RMN 1H (500 MHz, CDCl3) δ (ppm) = 8,01 (s, 1H); 7,33-7,20 (m, 7H); 7,13 (t, J = 7,8
+Hz, 2H); 6,99 (d, J = 7,6 Hz, 2H); 6,88 (d, J = 8.3 Hz, 2H); 6,37 (d, J = 2.6 Hz, 1H);
+3,23 (m, 1H); 3,12 (dd, J = 14 e 5 Hz, 1H), 2.92 – 2.83 (m, 1H).
+RMN
+
+13C
+
+(125 MHz, CDCl3) δ (ppm) = 171,2; 135,2; 129,2; 128,6; 128,4; 128,2;
+
+128,0; 127,5; 126,5; 124,9; 123,0; 121,2; 111,6; 102,8; 60,7; 38,8.
+
+(S)-N(1-cianociclopropil)-3-(1H-indol-5-il)-2-(((R)-2,2,2-trifluoro-1feniletil)amino)propranamida 2
+
+Em um frasco de 5 mL, 27 mg (0,075 mmol) do composto 11 foi dissolvido em
+1 mL de DMF seco. Em seguida adicionou-se 9,78 mg (0,082 mmol, 1,1 eq) de
+ciclopropilaminonitrila, 42,77 mg (0,112 mmol, 1,5 eq) de HATU e 14,54 mg (0,112
+mmol, 1,5 eq, 19,6 µL) de DIPEA. A solução foi deixada a temperatura ambiente por
+24 h sob agitação e atmosfera de argônio. Completado o tempo de reação, 5 mL de
+solução de HCl foram adicionados e extraiu-se com AcOEt (6x4mL). A fase orgânica
+foi extraída uma segunda vez com NaCl (2x6mL). A solução foi seca com Na2SO4 e
+o solvente foi evaporado sob pressão reduzida. A purificação foi realizada com
+coluna do tipo flash utilizando solução de AcOEt:Hex de 30% a 70% como eluente.
+O produto obtido foi um óleo amarelado semitransparente. O rendimento da reação
+foi de 63% (20,1 mg).
+43
+
+RMN 1H (500 MHz, CDCl3) δ (ppm) = 8,02 (d, J = 8 Hz, 1H); 7,29–7,24 (m, 3H); 7,22
+(d, J = 3 Hz, 1H); 7,13 (t, J = 8 Hz, 1H); 6,99 (d, J = 8 Hz, 2H); 6,88 (d, J = 8 Hz, 1H);
+6,37 (s, 1H); 3,23 (dd, J = 8 e 5 Hz, 1H); 3,12 (dd, J = 13 e 5 Hz, 1H); 2,87 (dd, J =
+13 e 8 Hz, 1H).
+RMN
+
+13C
+
+(125 MHz, CDCl3) δ (ppm) = 174,2; 135,1; 129,0; 128,5; 128,4; 127,8;
+
+126,6; 125,0; 122,9; 121,0; 119,8; 111,6; 102,5; 62,0; 39,3; 20,1; 17,0; 16,4.
+
+5.3 Procedimentos para o preparo do catalisador Pd2(dba)3
+
+Dibenzilidenoacetona (dba)
+
+Em um balão de 50 mL foram transferidos 15 mL de água destilada nos quais
+foram dissolvidos 1,5 g de cloreto de sódio. A solução foi mantida em agitação num
+banho ligeiramente gelado e 11,8 mL de etanol foram adicionados. Quando a
+solução voltou a temperatura ambiente adicionou-se metade da solução de 3 g (3
+mL, 28,8 mmol, 2 eq) de benzaldeído destilado em 0,85 g (1,07 mL, 14,6 mmol, 1
+eq) de acetona, observando a formação de um precipitado amarelo. A mistura foi
+agitada por 50 min e então adicionou-se o restante da solução de benzaldeído e
+acetona. A agitação foi mantida por mais 30 min, seguindo-se a filtração da
+suspensão e lavagem do floculado amarelo com água destilada até que se obtivesse
+um filtrado transparente. O sólido foi recristalizado com AcOEt. A massa final obtida
+foi de 1,786 g (52%), sendo o produto um sólido amarelo.
+
+44
+
+Tris(dibenzilidenoacetona)dipaládio (0)
+
+Em um balão de 25 mL foram transferidos 334,5 mg (1,49 mmol) de acetato
+de paládio (II) e 122,2 mg (1,49 mmol, 1 eq), de acetato de sódio, além de 16,8 mL
+de MeOH. A reação foi agitada a 40 °C por 3 h, observando-se a formação de um
+precipitado marrom. A mistura foi filtrada e o sólido lavado com MeOH e água
+destilada. O produto foi arrastado para fora do filtro utilizando clorofórmio e seco a
+pressão reduzida. O sólido resultante deste processo foi dissolvido em 7 mL de
+clorofórmio destilado e 25 mL de acetona e deixado a -18 °C overnight. Os cristais
+obtidos foram filtrados à vácuo e lavados com 20 mL de acetona gelada. Obteve-se
+0,372 mg (41%) de cristais roxo escuros de Pd2(dba)3.
+
+45
+
+6. REFERÊNCIAS
+
+1 TORTORA, G. J.; FUNKE, B. R.; CASE, C. L.; Microbiologia. Editora Artmed,
+Porto Alegre, 10ª ed., 2012.
+2 COURA, J. R.; PEREIRA, B. J. Chagas disease. What is known and what should
+be improved: a systemic review. Revista da Sociedade Brasileira de Medicina
+Tropical, v. 45 (3), p. 286-296, 2012.
+3 CIMERMAN, S.; CIMERMAN, B.; Medicina Tropical. Editora Atheneu, São Paulo,
+2003.
+4 BROOKS, G. F.; et all.; Microbiologia médica de Jawetz, Melnick e Adelberg.
+AMGH Editora Ltda., Porto Alegra, 25ª ed., 2012.
+5 COURA, J. R.; DIAS, J. C. P. Epidemiology, control and surveillance of Chagas
+disease - 100 years after its discovery. Memórias do Instituto Oswaldo Cruz, v.
+104 (Suppl. I), p. 31-40, 2009.
+6 MONTANARI, C. A. Química Medicinal: Métodos e Fundamentos em
+Planejamento de Fármacos. Editora da Universidade de São Paulo, São Paulo,
+2011.
+7 ALBERTS, B.; et. all.; Molecular Biology of the Cell. Garlan Science, Nova York,
+5ª ed., 2008.
+8 DIAS, J. P. C.; SILVEIRA, A. C.; SCHOFIELD, C. J. The Impact of Chagas disease
+control in Latin America - A Review. Memórias do Instituto Oswaldo Cruz, v. 97
+(5), p. 603-612, 2002.
+9 COURA, J. R. Chagas disease:what is known and what is needed – a background
+article. Memórias do Instituto Oswaldo Cruz, v. 102 (suppl. I), p. 113-122, 2007.
+10 ZINGALES, B. Trypanosoma cruzi: um parasita, dois parasitas ou vários parasitas
+da doença de chagas? Revista da Biologia, v. 6b, p. 44-48, 2011.
+11 VINHAES, M. C.; DIAS, J. C. P. Doença de Chagas no Brasil. Cadernos de
+Saúde Pública, Rio de Janeiro, v. 16 (Sup. 2), p. 7-12, 2000.
+46
+
+12 ROBERTS, L. S.; JANOVY, J.; Gerald D. Schmidt and Larry S. Robert’s
+foundations of parasitology. McGraw-Hill, Nova York, 7ª ed., 1937.
+13 COURA, J. R.; CASTRO, S. L. A Critical Review on Chagas Disease
+Chemotherapy. Memórias do Instituto Oswaldo Cruz, v. 97 (1), p. 3-24, 2002.
+14 OLIVEIRA, M. F.; et all. Tratamento etiológico da doença de Chagas no Brasil.
+Revista de Patologia Tropical, v. 37 (3), p. 209-228, 2008.
+15 COURA, J. R.; PEREIRA, B. J. Chronic phase of Chagas disease: why should be
+treated? A comprehensive review. Memórias do Instituto Oswaldo Cruz, v. 106 (6),
+p. 641-645, 2011.
+16 JORGE, T. C. A.; CASTRO, S. L. Doença de Chagas: manual para
+experimentação animal [online]. Editora Fiocruz, Rio de Janeiro, 2000.
+17 GONZÁLEZ, M.; et all. Enfermedad de chagas: Estratégias en la busqueda de
+nuevos medicamentos. Una visión iberoamericana. Laboratorios Silanes e
+Ridimedchag-cyted, México, 2012.
+18 GIORDANENGO, L. et all. Cruzipain, a major Trypanosoma cruzi antigen,
+conditions the host immune response in favor of parasite. European Journal of
+Immunology. v. 32, p. 1003-1011, 2002.
+19 EAKIN, A. E.; et all. The sequence, organization, and expression of the major
+cysteine protease (Cruzain) from Trypanosoma cruzi. Journal of Biological
+Chemistry, v. 267, n. 11, p. 7411-7420, 1992.
+20 LEUNG, D.; ABBENANTE, G.; FAIRLIE, D. P. Protease inhibitors: current status
+and future prospects. Journal of Medicinal Chemistry, v. 43, n. 3, p. 305–41, 2000.
+21 WILLIAMS, D. A.; LEMKE, T. L. Foye’s Principles of Medicinal Chemistry.
+Editora Lippincott Williams & Wilkins, 5ª ed., 2002.
+22 GREENSPAN, P. D.; et all. Identification of Dipeptidyl Nitriles as Potent and
+Selective Inhibitors of Cathepsin B through Structure-Based Drug Design. Journal of
+Medicinal Chemistry, v. 44, p. 4524-4534, 2001.
+
+47
+
+23 AVELAR, L. A. A.; MONTANARI, C. A.; et all. Molecular Design, Synthesis and
+Trypanocidal Activity of Dipeptidyl Nitriles as Cruzain Inhibitors. PLoS Neglected
+Tropical Diseases, v. 90 (7): e0003916. doi:10.1371/journal.pntd.0003916, 2015.
+24 YAO, S. Q.; HE, C. Y.; et all. Design, Synthesis and Biological Evaluation of
+Potent Azadipeptide Nitrile Inhibitors and Activity-Based Probes as Promising AntiTrypanosoma brucei Agents. Chemistry European Journal, v. 18, p. 6528-6541,
+2012.
+25 OTTO, H. H.; SCHIRMEISTER, T. Cysteine proteases and their inhibitors.
+Chemical Reviews, v. 97, p. 133-171, 1997.
+26 LÖSER, R.; SCHILLING, K.; DIMMIG, E.; GÜTSCHOW, M. Interaction of papainlike cysteine proteases with dipeptide-derived nitriles. Journal of Medicinal
+Chemistry, v. 48, n. 24, p. 7688–707, 2005.
+27 WARD, Y. D.; et all. Design and Synthesis of Dipeptide Nitriles as Reversible and
+Potent Cathepsin S Inhibitors. Journal of Medicinal Chemistry, v. 45, p. 5471-5482,
+2002.
+28 BEAULIEU, C; et all. Identification of potent and reversible cruzipain inhibitors for
+the treatment of Chagas disease. Bioorganic & Medicinal Chemistry letters, v. 20,
+n. 24, p. 7444–9, 2010.
+29 STOCH, S. A.; ZAJIC, S.; et all. Effect of the Cathepsin K Inhibitor Odanacatib on
+Bone Resorption Biomarkers in Healthy Postmenopausal Women: Two Double-Blind,
+Randomized, Placebo-Controlled Phase I Studies. Clinical Pharmacology &
+Therapeutics, v. 86, n. 2, p. 175-182, 2009.
+30 MERCK AND CO., INC. Chen, C.; Devine, P.; Foster, B.; Hughes, G.; O’Shea, P.
+Diastereoselective reductive amination process. US nº 20060030731 A1, 29 jul.
+2005, 9 fev. 2006.
+31 ONYX THERAPEUTICS, INC. (United States). Mcminn, D.; Johnson, H.; Bowers,
+S.; Moebius, D. C. Tripeptide epoxy ketone protease inhibitors. US nº
+WO2014152134 A1, 14 mar. 2013, 25 set. 2014.
+
+48
+
+32 HUGHES, G.; DEVINE, P. N.; NABER, J. R.; et all.; Diastereoselective reductive
+amination of aryl trifluoromethyl ketones and α-amino esters. Angewandte Chemie,
+v. 46, p. 1839-1842, 2007.
+33 VELOSO, D. P.; TEIXEIRA, R. R.; BARBOSA, L. C. A. Reações de acoplamento
+cruzado de organossilanos catalisadas por paládio: aspectos históricos, sintéticos e
+mecanísticos. Química Nova, v. 30, n. 7, p. 1704-1720, 2007.
+34 MCGRATH, M. E.; EAKIN, A. E.; et all. The crystal structure of Cruzain, a
+therapeutic target for Chagas’s disease. Journal of Molecular Biology, v. 247, p.
+251-259, 1995.
+
+49
+
+APÊNDICE
+
+(R)-2-amino-3-(1H-indol-3-il)propanoato de metila 3
+RMN 1H (500 MHz, CD3OD)
+
+RMN 13C (125 MHz, CD3OD)
+
+50
+
+Ácido (R)-3-((1H-indol-3-il)-2(((S)-2,2,2-trifluoro-1feniletil)amino)propanoico 5
+RMN 1H (500 MHz, CDCl3)
+
+RMN 13C (125 MHz, CDCl3)
+
+51
+
+(R)-N-(1-cianociclopropil)-3-(1H-indol-3-il)-2(((S)-2,2,2-trifluoro-1feniletil)amino)propanamida 1
+RMN 1H (500 MHz, CDCl3)
+
+RMN 13C (125 MHz, CDCl3)
+
+52
+
+Ácido (S)-2-((benziloxi)carbonilamino)-3-hidroxipropanoico 6
+RMN 1H (400 MHz, CD3OD)
+
+RMN 13C (100 MHz, CD3OD)
+
+53
+
+2-((benziloxi)carbonilamino)-3-hidroxipropanoato de (S)-metila 7
+RMN 1H (500 MHz, CD3OD)
+
+RMN 13C (100 MHz, CD3OD)
+
+54
+
+2-((benziloxi)carbonilamino)-3-iodopropanoato de (R)-metila 8
+RMN 1H (500 MHz, CD3OD)
+
+RMN 13C (125 MHz, CD3OD)
+
+55
+
+2-((benziloxi)carbonilamino)-3-(1H-indol-5-il)propanoato de (S)-metila 9
+RMN 1H (400 MHz, CDCl3)
+
+RMN 13C (125 MHz, CDCl3)
+
+56
+
+2-amino-3-(1H-indol-5-il)propanoato de (S)-metila 10
+RMN 1H (500 MHz, CDCl3)
+
+RMN 13C (125 MHz, CDCl3)
+
+57
+
+Ácido (S)-3-(1H-indol-5-il)-2-(((R)-2,2,2-trifluoro-1-feniletil)amino)propanoico 11
+RMN 1H (500 MHz, CDCl3)
+
+RMN 13C (125 MHz, CDCl3)
+
+58
+
+(S)-N(1-cianociclopropil)-3-(1H-indol-5-il)-2-(((R)-2,2,2-trifluoro-1feniletil)amino)propranamida 2
+RMN 1H (500 MHz, CDCl3)
+
+RMN 13C (125 MHz, CDCl3)
+
+59
+
+

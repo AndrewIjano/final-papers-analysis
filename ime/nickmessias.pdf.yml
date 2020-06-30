@@ -1,0 +1,22 @@
+# Final project info
+
+contra_cp: no
+c_citacao: no 
+dedictria: no
+agradecim: yes
+resumo_ab: yes
+kw: yes
+l_figuras: no
+l_tabelas: no
+l_abr_sig: no
+l_quadros: no
+n_sub_sec:
+n_ssb_sec:
+n_sss_sec:
+tem_anexo: no
+ini: Introdução
+secoes:
+ - Decisões de Desenvolvimento
+ - Estrutura da Implementação
+end: Conclusão
+ref: Referências

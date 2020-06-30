@@ -1,0 +1,4971 @@
+GESTÃO DE RESÍDUOS EM SITUAÇÃO EMERGENCIAL DE BENS IMÓVEIS TOMBADOS
+ESTUDO DE CASO: PÓS INCÊNDIO DO MUSEU DA LÍNGUA PORTUGUESA
+
+Júlia Ramos Polli
+Orientadora Profª Drª Fabiana Lopes de Oliveira
+Trabalho Final de Graduação
+FAU USP 2017
+
+Faculdade de Arquitetura e Urbanismo
+Universidade de São Paulo
+Trabalho Final de Graduação
+Júlia Ramos Polli
+São Paulo, 06 de julho de 2017
+
+Orientadora
+Profª Fabiana Lopes de Oliveira
+Banca examinadora
+Profª Beatriz Kuhl
+Prof. Sergio Cirelli Angulo
+Engª Aparecida Soukef
+
+O mundo não evoluirá para além de seu estado atual de crise
+usando o mesmo pensamento que criou essa situação.
+- Albert Einstein
+
+RESUMO
+Este Trabalho Final de Graduação descreve e analisa qualitativamente a gestão
+de resíduos realizada no Museu da Língua Portuguesa após o incêndio ocorrido
+em dezembro de 2015. Serão abordados os serviços emergenciais realizados e
+a primeira etapa de sua restauração (esquadrias e fachada), pela necessidade
+de um tratamento adequado desses resíduos, dado o valor que possuem
+por se tratar de uma edificação tombada. A análise abrange as atividades
+realizadas no canteiro de obras e sua inserção dentro da lógica urbana, devido
+à importância de se considerar o impacto das medidas realizadas no contexto
+ambiental atualmente observado.
+Palavras-chave: gestão de
+desenvolvimento sustentável
+
+resíduos,
+
+museu
+
+da
+
+língua
+
+portuguesa,
+
+AGRADECIMENTOS
+Aos meus pais, minha base e maior inspiração. Obrigada por serem os
+percursores da minha educação, pelo apoio incondicional ao meu crescimento
+e por acreditarem comigo nesse sonho, nesse privilégio.
+A minha orientadora, exemplo de dedicação. Obrigada por me guiar dentro do
+caminho de tantos aprendizados, pela paciência ao longo da caminhada e por
+sempre instigar novos olhares.
+À equipe da obra do Museu da Língua Portuguesa: Augusto, Cida, Juana e
+Renato, sem os quais este trabalho não seria possível.
+Ao professor Sergio, pelas trocas acolhedoras no início deste percurso.
+A FAU e Poli, pelo amadurecimento intrínseco às oportunidades oferecidas.
+Aos meus amigos, vocês são a família que São Paulo me deu. Em especial Bru,
+Gui, Lari, Mari, Paola e Ra, por estarem sempre presentes. Obrigada por tantas
+alegrias e conhecimentos compartilhados, vocês tornaram minha formação
+algo muito mais especial do que imaginaria ser. Ao Pedrinho, Trigo, Ton e Jess,
+pelo apoio de sempre. A Pet e Ca, por me provarem que a distância é uma
+palavra sem força quando se procura a verdadeira amizade.
+Em especial, ao Igor. Estar com você é despertar o mais puro sentimento.
+Obrigada por todo carinho e incentivo, por tornar leve todos os momentos.
+
+SUMÁRIO
+
+1
+
+2
+
+3
+
+4
+
+INTRODUÇÃO
+Apresentação do Tema
+Objetivo e Metodologia
+Construção do Tema
+Estruturação do Trabalho
+Resíduos x Ambiente
+Afinal, o que é gestão de resíduos?
+CONTEXTO SOCIOAMBIENTAL
+O avanço na legislação brasileira
+e a Política Nacional dos Resíduos Sólidos
+A gestão de resíduos em São Paulo			
+A participação do canteiro de obras dentro
+da logística reversa					
+
+5
+11
+12
+12
+13
+14
+16
+
+18
+21
+24
+
+ESTUDO DE CASO: MUSEU DA LÍNGUA PORTUGUESA
+Introdução
+O edifício: cronologia arquitetônica
+Sistema Construtivo
+Sistema de Proteção Contra Incêndio
+
+32
+34
+45
+47
+
+Etapa I: Serviços emergenciais
+Plano de Gestão de Resíduos
+Destinação final dos resíduos
+Análise
+
+50
+58
+62
+
+Etapa II: Primeira fase da restauração
+Contextualização
+Plano de Gestão de Resíduos
+Destinação final dos resíduos
+Análise
+
+63
+64
+74
+75
+
+O CANTEIRO DE OBRAS E A CONSTRUÇÃO SUSTENTÁVEL
+Impactos e aspectos ambientais no canteiro de obras
+Classificação dos resíduos da construção civil
+Certificações ambientais				
+
+25
+27
+28
+
+6
+
+CONSIDERAÇÕES						76
+
+REFERÊNCIAS
+
+29
+
+7
+
+BIBLIOGRAFIA						
+
+79
+
+1.1
+
+1.2
+
+1.3
+
+1.1
+
+Museu da Língua Portuguesa antes do incêndio de 2015.
+Fonte: “Memória Viva e Reinventada”, reportagem presente na revista aU Arquitetura e Urbanismo
+ano 21 nº146, maio de 2006.
+
+1.2
+
+Cobertura do Museu sendo devastada pelas chamas durante o incêndio de 2015.
+Fonte: http://www1.folha.uol.com.br/cotidiano/2016/03/1748437-restauracao-do-museu-de-linguaportuguesa-deve-custar-r-18-mi.shtml.
+Acesso em 20.11.2016.
+
+1.3
+
+1
+INTRODUÇÃO
+APRESENTAÇÃO DO TEMA
+
+Primeiro contexto de estudo: retirada dos escombros e ações emergenciais pós
+incêndio de 2015. Na foto, treliças de madeira da cobertura sendo retiradas com
+auxílio de guindaste.
+Fonte: foto fornecida pela empresa, tirada dia 08.03.2016
+
+1.4
+
+Segundo contexto de estudo: restauração das fachadas e esquadrias. Na imagem,
+fachada repleta de andaimes por conta das atividades de restauração.
+Fonte: foto tirada em visita realizada dia 17.03.2017
+
+Este Trabalho Final de Graduação, de propósito exploratório e
+caráter qualitativo, foi desenvolvido por meio de um estudo teórico,
+envolvendo revisão bibliográfica nacional e internacional e um
+consequente exercício de observação em campo. Elaborá-lo foi
+um processo de investigação, cujas conclusões pretendem mostrar
+a validade e efetividade de se considerar a gestão de resíduos no
+canteiro, sejam quais forem as peculiaridades da obra executada.
+A discussão se concentra no acompanhamento da gestão de
+resíduos em dois momentos do Museu da Língua Portguesa (MLP),
+edfiício tombado como patrimônio histórico localizado no centro
+da cidade de São Paulo: contexto emergencial pós incêndio de
+dezembro de 2015 e primeira etapa de sua consecutiva restauração,
+que envolve suas esquadrias e fachadas.
+O primeiro contexto compreende a retirada dos escombros e a
+realização de mínimas intervenções no edifício para assegurar sua
+segurança estrutural até que as obras de restauração se iniciassem.
+Já o segundo, a primeira etapa da retauração, envolvendo um
+levantamento de danos e consequente restauro das esquadrias
+danificadas e das fachadas do edifício
+Por se tratar de um bem tombado, vale destacar o valor histórico
+e cultural dos resíduos gerados em ambos os contextos, os quais
+não poderiam simplesmente ser descartados, mas sim analisados
+para possível reaproveitamento.
+
+1.4
+
+11
+
+OBJETIVO E METODOLOGIA
+
+Este trabalho tem como objetivo descrever e discutir a gestão de
+resíduos realizada no MLP nos dois contextos acompanhados. Serão
+analisadas as atividades realizadas, dado o valor que estes resíduos
+representam por se tratar de uma edificação tombada, com valor
+cultural e histórico imensuráveis para a sociedade.
+Como metodologia da análise, foram realizados estudos teóricos
+combinados com experiências em campo, levantamento de dados
+e entrevistas feitas com os profissionais responsáveis. Com esta
+base, serão detalhados os planos elaborados para a gestão de
+resíduos utilizados no Museu e em sequencia o que foi efetivamente
+realizado. Serão identificados e quantificados também os resíduos
+gerados e analisadas as possibilidades de reutilização, considerando
+suas singularidades e valores.
+Dessa forma, será possível verificar que a adequada estruturação
+da gestão de resíduos em edifícios com valor histórico, mesmo em
+situações emergenciais, tem condição de proporcionar novos usos
+que considerem o valor dos materiais envolvidos e mitigar danos
+ao meio ambiente, refletindo, no espaço urbano, a sustentabilidade
+ambiental.
+
+12
+
+CONSTRUÇÃO DO TEMA
+
+Inicialmente estava definido apenas o tema a ser estudado, a
+gestão de resíduos. Essa escolha ocorreu após o acompanhamento
+de tantas obras durante a graduação e a observação que apenas
+uma pequena parcela delas considerava o assunto com a devida
+seriedade, mesmo diante da pertinência atual de tantas discussões
+acerca da sustentabilidade.
+Para iniciar o raciocínio teórico, foi reconhecida a necessidade
+de se investigar processos de gestão em canteiros já realizados a fim
+de ter ciência do que já foi feito e tentar evoluir nas contribuições.
+Em sequência, utilizá-los conjuntamente com as próprias percepções
+construídas ao longo do processo da dupla formação FAU-POLI e
+das visitas no canteiro escolhido como estudo de caso.
+Desse modo, através do olhar embasado teoricamente e crítica
+pessoal, enquanto agente externo aos lugares estudados, os
+significados foram estruturados, juntamente com as singularidades
+dos locais, as experiências vividas e as percepções consequentes com
+o objetivo de utilizá-las como indicadores de uma realidade singular
+para a reflexão.
+
+1.5
+
+Representação gráfica da estruturação do trabalho.
+
+ESTRUTURAÇÃO DO TRABALHO
+
+O trabalho fundamenta-se na combinação de estudos teóricos,
+envolvendo uma revisão bibliográfica, com experiências em campo.
+Estas condensam realidades observadas nas visitas técnicas ao
+canteiro de obra escolhido juntamente com entrevistas a profissionais
+envolvidos com o tema em questão. A figura 3 ilustra as etapas do
+trabalho, cujo detalhamento é apresentado a seguir.
+A revisão bibliográfica foi composta de abrangente bibliografia,
+incluindo livros, teses, artigos, manuais, cartilhas de órgão públicos,
+outras publicações, além de leis, normas e certificações, todos
+utilizados como referenciais técnicas nos assuntos abordados ao
+longo do texto a fim de contextualizar, justificar e fundamentar a
+discussão em estudo.
+
+REVISÃO
+BIBLIOGRÁFICA
+
+ESTUDO
+EXPLORATÓRIO
+
+Esfera nacional
+Cidade de São Paulo
+Canteiro de Obras
+
+Definição do estudo de caso
+
+Referências
+
+Levantamento de dados
+Visitas de
+acompanhamento
+
+No capítulo 2, o assunto envolve a esfera nacional no âmbito
+legislativo e se afunila até atingir o espaço urbano da cidade de
+São Paulo, local do estudo de caso deste trabalho. Será detalhada
+como ocorre a gestão de resíduos no ambiente urbano e suas interrelações com as esferas social, econômica e ambiental.
+De maneira complementar, no capítulo 3 a discussão se volta
+ao foco do assunto, o canteiro de obras. Pretende-se aqui destacar
+os impactos ambientais ali presentes, no que tange a geração,
+o consumo e as perdas. E o aprofundamento nos resíduos da
+construção civil, em sua classificação e possibilidades de reutilização
+e reciclagem.
+
+Análise da gestão de resíduos
+realizada no MLP nos dois contextos:
+emergencial e 1ª etapa da restauração
+
+1.5
+
+13
+
+RESÍDUOS x AMBIENTE
+
+As referências estudadas vêm em sequência no capítulo 4. Após
+a revisão bibliográfica, o trabalho tem continuidade com o estudo
+de caso, explorado no capítulo 5. Inicalmente, foi levantada a
+cronologia arquitetônica do edifício, com o estudo de seu projeto,
+suas modificações e restaurações, para melhor compreensão do seu
+sistema construtivo, materiais e consequentemente dos resíduos
+gerados. Em sequência, são analisadas as gestões dos resíduos nos
+dois contextos definidos.
+Durante as visitas e entrevistas realizadas, optou-se por conduzílas de maneira livre (obedecendo sempre ao conteúdo mínimo a ser
+coletado), permitindo ao entrevistado maior liberdade para expor
+opiniões e informações, de modo a enriquecer o conteúdo.
+Por fim, o capítulo 6 apresenta as considerações finais acerca
+do trabalho conduzido. Seguem ainda, ao final, as referências
+bibliográficas.
+
+Segundo o IBGE (Instituto Brasileiro de Geografia e Estatística),
+em poucas décadas a população urbana atingiu os atuais 84%
+da população brasileira. Essa urbanização acelerada e o rápido
+adensamento das cidades de médio e grande porte trouxe consigo
+o avanço significativo das atividades construtivas e da cadeia de
+negócios no setor da construção civil. Ferramenta indispensável
+para o progresso e desenvolvimento econômico, a indústria da
+construção civil ocupa posição de destaque na economia nacional
+quando considerada a significativa parcela do Produto Interno Bruto
+(PIB) do país pela qual é responsável e também pelo contingente de
+pessoas que emprega direta ou indiretamente.
+Por outro lado, esta mesma indústria é responsável por cerca
+de 50% do CO² lançado na atmosfera, pelo consumo aproximado
+de 75% de todos os recursos naturais e por quase metade da
+quantidade dos resíduos sólidos gerados no mundo (JOHN, 2000).
+Esses e outros motivos tornam a indústria da construção civil uma
+das maiores vilãs na geração de impactos ambientais negativos,
+aparecendo como o principal gerador de resíduos de construção,
+restauração e demolição de toda a sociedade (estimativas apontam
+para uma produção mundial entre 2 e 3 bilhões de toneladas/ano).
+Os resíduos de construção e demolição (RCD) são parte dos resíduos sólidos urbanos (RSU) que incluem também os resíduos
+domiciliares. RCDs são gerados em expressivos volumes, não
+
+14
+
+1.6
+
+Grau de impacto das diferentes tendências nas atividades da construção civil.
+
+Globalização
+
+Fonte: John (2001)
+
+Informática
+
+Parcerias
+
+%
+
+Renovação
+Meio Ambiente
+Normalização
+Pré-projeto e planejamento
+
+1.6
+
+recebem solução adequada na maioria das vezes, impactam o
+ambiente urbano e constituem local propício à proliferação de
+vetores de doenças, aspectos que irão intensificar os problemas de
+saneamento nas áreas urbanas (PINTO, 1999).
+Não é de hoje que a pauta da sustentabilidade está em alta.
+É um conceito que deve ser entendido como uma conciliação de
+três aspectos: o ambiental, econômico e sociocultural. Do contrário,
+o desenvolvimento sustentável não é atingido: o desafio é atender
+a evolução econômica, atendendo às expectativas da sociedade e
+mantendo o ambiente sadio para essas e futuras gerações.
+A escassez na qual o mundo se encontra exige urgência nos
+planejamentos e ações. Diversos setores devem se integrar, como
+economia e design, para que o desenvolvimento sustentável seja
+atingido. Os autores Braungart, M. & McDonough, W. (2002), no
+livro “cradle to cradle” (traduzindo, do berço ao berço) defende que
+as mudanças devem estar intrínsecas à sociedade de tal maneira que
+não exista mais o conceito de “lixo”: tudo pode ser reaproveitado,
+há sempre uma nova oportunidade de reutilização e/ou reciclagem.
+Voltando à construção civil, torna-se evidente, portanto, a
+necessidade do investimento em melhorias nos materiais e métodos
+utilizados para que os impactos ambientais, a serem detalhados
+melhor no capítulo 3, não continuem tão devastadores.
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Para ilustrar melhor a inter-relação e dependência entre a construção civil e o meio ambiente, o gráfico 1.6 ilustra o grau de impacto
+das diferentes tendências nas atividades da construção civil. A questão
+ambiental aparece como a segunda tendência mais importante,
+o que evidencia que toda atividade humana requer um ambiente
+construído de modo saudável para o ambiente. Assim, é notório o
+reconhecimento do papel fundamental do setor da construção para
+a realização de práticas alinhadas ao desenvolvimento sustentável.
+Assim, torna-se necessário lançar atenção a toda atividade
+produtiva que envolva a geração de resíduos de construção civil pelo
+binário da urgência na preocupação com as questões ambientais já
+salientadas junto com as potencialidades que os resíduos oferecem.
+Apesar deste trabalho analisar essencialmente a gestão de resíduos
+no canteiros de obras, é importante salientar que o pensamento
+sustentável se estenda além do espaço físico do edifício: todas as
+etapas da cadeia produtiva dos materiais devem ser consideradas
+juntamente com as questões ambientais regionais envolvidas.
+Cabe, portanto, ao arquiteto e urbanista duas novas demandas:
+incentivar, em primeiro lugar, a não geração, através do conhecimento
+de materiais com menor impacto ambiental e métodos construtivos
+que gerem menos resíduos e (re) criar a partir do existente,
+enxergando a sustentabilidade não como um obstáculo, mas
+sim como uma oportunidade, provendo adequada orientação à
+viabilidade ambiental das edificações.
+		
+15
+
+AFINAL, O QUE É GESTÃO DE RESÍDUOS?
+
+Ao longo do desenvolvimento do trabalho, percebeu-se a
+necessidade de se montar um glossário a fim de sintetizar definições
+importantes para o tema em estudo, apresentadas a seguir.
+Resíduos da Construção Civil (RCC) | Constituem aqueles
+provenientes de construções, reformas, reparos e demolições
+de obras de construção civil, e os resultantes da preparação e da
+escavação de terrenos, tais como, tijolos, blocos cerâmicos, concreto
+em geral, solos, rochas, metais, resinas, colas, tintas, madeiras e
+compensados, forros, argamassa, gesso, telhas, pavimento asfáltico,
+vidros, plásticos, tubulações, fiação elétrica etc., comumente
+chamados de entulhos de obras, caliça ou metralha, segundo a
+Resolução nº 307/2002 do Conselho Nacional do Meio Ambiente
+(CONAMA) e suas alterações.
+Fonte: Lei nº 12.305/10, Política Nacional de Resíduos Sólidos (PNRS) e publicação
+Gestão Ambiental de Resíduos da Construção Civil. Avanços Institucionais e Melhorias
+técnicas. SindusCon – SP, 2015
+
+Gestão de resíduos | A gestão de resíduos inclui todas as ações
+voltadas à busca de soluções para os resíduos sólidos, de forma a
+considerar as dimensões política, econômica, ambiental, cultural e
+social, com controle social e sob a premissa do desenvolvimento
+sustentável. Inclui os planos nacional, estaduais, microrregionais,
+intermunicipais, municipais e os de gestão em obras. Ela envolve
+todos os tipos de resíduos (oriundos de serviços de saúde,
+construção civil, domiciliares, mineração, portos, aeroportos e
+fronteiras, industriais, dentre outros). Cabe salientar que o foco neste
+16
+
+trabalho são os de construção civil, os quais representam um grande
+problema ambiental, especialmente pela disposição inadequada em
+córregos, terrenos baldios e beira de estradas. Nas cidades de médio
+e grande portes no Brasil, esses constituem mais de 50% da massa
+dos resíduos urbanos.
+Fonte: Lei nº 12.305/10, Política Nacional de Resíduos Sólidos (PNRS) e Sinduscon –
+SP, 2005.
+
+Gerenciamento de resíduos | Conjunto de ações exercidas, direta
+ou indiretamente, nas etapas de coleta, transporte, transbordo,
+tratamento e destinação final ambientalmente adequada dos resíduos
+sólidos e disposição final ambientalmente adequada dos rejeitos, de
+acordo com plano municipal de gestão integrada de resíduos sólidos
+ou com plano de gerenciamento de resíduos sólidos.
+Fonte: Lei nº 12.305/10, Política Nacional de Resíduos Sólidos (PNRS).
+
+Logística Reversa | Instrumento de desenvolvimento econômico
+e social caracterizado por um conjunto de ações, procedimentos e
+meios destinados a viabilizar a coleta e a restituição dos resíduos
+sólidos ao setor empresarial, para reaproveitamento, em seu ciclo ou
+em outros ciclos produtivos, ou outra destinação final ambientalmente
+adequada. Um exemplo de sua aplicação é a reciclagem de resíduos
+inertes, classe A, para a produção de agregados reciclados para uso
+em pavimentação ou em aplicações de concreto não estrutural.
+Fonte: Lei nº 12.305/10, Política Nacional de Resíduos Sólidos (PNRS) e publicação
+Gestão Ambiental de Resíduos da Construção Civil. Avanços Institucionais e Melhorias
+técnicas. SindusCon – SP, 2015
+
+Responsabilidade Compartilhada | A Política Nacional de Resíduos
+Sólidos oficializou a responsabilidade compartilhada de toda a
+sociedade na gestão dos resíduos sólidos urbanos. A cada setor
+foram atribuídos diferentes papéis a fim de solucionar ou mitigar
+os problemas relacionados aos resíduos sólidos. São objetivos da
+responsabilidade compartilhada: redução da geração de resíduos
+sólidos; redução do desperdício de materiais; redução da poluição;
+redução dos danos ambientais; estímulo ao desenvolvimento de
+mercados, produção e consumo de produtos derivados de materiais
+reciclados e recicláveis. Esses objetivos envolvem a sociedade na
+discussão de temas como a reavaliação dos padrões de consumo,
+reciclagem de materiais, oportunidade de novos negócios com viés
+socioambiental, ecodesign, diminuição dos impactos ambientais
+inerentes ao modo de vida atual e inclusão social.
+Fonte: Lei nº 12.305/10, Política Nacional de Resíduos Sólidos (PNRS)
+
+Destinação Final Ambientalmente Adequada | Compreende
+a destinação de resíduo que inclui a reutilização, a reciclagem, a
+compostagem, a recuperação e o aproveitamento energético ou
+outras destinações admitidas pelos órgãos competentes do Sisnama,
+do SNV e do Suasa, entre elas a disposição final, observando normas
+operacionais específicas de modo a evitar danos ou riscos à saúde
+pública e à segurança e a minimizar os impactos ambientais adversos.
+Fonte: Lei nº 12.305/10, Política Nacional de Resíduos Sólidos (PNRS).
+
+Aterro de resíduos da construção civil e de resíduos inertes |
+Instalação onde são empregadas técnicas e princípios adequados de
+engenharia para a correta disposição tanto de resíduos da construção
+civil classe A, conforme classificação da Resolução CONAMA no 307,
+como de resíduos inertes no solo, de maneira tal que não venham a
+causar danos à saúde pública e/ou ao meio ambiente, confinandoos e reduzindo-os ao menor volume possível, com o objetivo de
+reservar os materiais previamente segregados, de forma a possibilitar
+seu uso futuro e/ou a futura utilização da área aterrada para outros
+fins, previamente definidos.
+Fonte: Pesquisa Nacional de Saneamento Básico 2008. IBGE.
+
+Triagem de recicláveis | Separação, por tipos, dos materiais
+resultantes da coleta, seguida de seus adequados acondicionamento
+e estocagem, bem como de sua periódica comercialização,
+operação esta que pode ou não ser precedida de algum tipo de
+reprocessamento de natureza industrial, destinado a agregar valor
+aos resíduos recuperados.
+Fonte: Pesquisa Nacional de Saneamento Básico 2008. IBGE.
+
+Perdas | São definidas como qualquer recurso que se gasta
+na execução de um produto ou prestação de serviço além do
+estritamente necessário (mão-de-obra, material, etc). Uma questão
+importante, decorrente da definição de perda apresentada é a
+situação de referência adotada para quantificar a perda. Para este
+trabalho, as perdas abordadas ser definidas como a diferença entre o
+17
+
+2
+CONTEXTO SOCIOAMBIENTAL
+O AVANÇO NA LEGISLAÇÃO BRASILEIRA E A
+POLÍTICA NACIONAL DOS RESÍDUOS SÓLIDOS
+
+consumo real de material e o consumo teórico, este último definido
+em um referencial ideal. A classificação dos tipos de perdas materiais
+possíveis em uma obra é um conhecimento fundamental para
+organizar e planejar possíveis alternativas para reduzir o desperdício
+de material.
+• Perdas por furto ou extravio, podem acontecer no recebimento
+de menos material que o acordado ou até menos na ocorrência de
+furtos dos estoques da obra;
+• Perdas incorporadas, consistem nas perdas de material que
+permanecem na obra, não gerando entulho para o meio ambiente.
+Por exemplo, a argamassa que é despejada dentro dos blocos, por
+falhas na execução, são resíduos que permanecem na obra, não
+caracterizando uma agressão ao meio externo a ela.
+• Resíduos, são todas as perdas que efetivamente viram resíduos e
+sairão da obra para serem descartadas ou reutilizadas da maneira
+que o empreendedor achar mais conveniente. Esse é o tipo de perda
+que o presente trabalho abordará, uma vez que são os resíduos que
+geram maiores impactos ambientais, sociais e econômicos para a
+sociedade.
+Fonte: VARGAS, C.L.S. Avaliação de perdas em obras: aplicação de metodologia
+expedita. Encontro Nacional de Engenharia de Produção, Gramado, 1997. SOUZA,
+U.E.L. Perdas de materiais nos canteiros de obra: a quebra do mito. Qualidade na
+Construção, 1998.
+
+		
+
+18
+
+No conjunto de iniciativas necessárias para o avanço da construção
+sustentável no país, a gestão de resíduos é, provavelmente, a que
+mais rápido pode oferecer resultados significativos. Assim, é notória
+a importância e a necessidade de um ordenamento das questões
+relacionadas à gestão de resíduos. No Brasil, esse ordenamento
+resultou na publicação de leis e políticas públicas que discorrem
+sobre princípios, objetivos, instrumentos e diretrizes relativas ao
+assunto.
+O “marco legal” que traz à tona as questões dos resíduos de
+construção no Brasil é a Resolução CONAMA 307 aprovada em
+junho de 2002. Ela estabelece como objetivo prioritário a não
+geração de resíduos da construção civil, e, secundariamente, a
+redução, a reciclagem e a destinação final adequada dos mesmos.
+Ela apresenta também um modelo de gestão na qual são definidas
+responsabilidades para os agentes envolvidos: geradores,
+transportadores, áreas de destinação e municípios, cabendo a estes
+a elaboração do plano municipal estabelecendo diretrizes, critérios e
+procedimentos para os agentes envolvidos.
+Após a aprovação em 2002, a Resolução 307 passa por alterações,
+a primeira em agosto de 2004 inserindo o resíduo de amianto na
+classificação como resíduos Classe D, resíduos estes que requerem
+cuidados na sua destinação (CONAMA 348/2004), a segunda em maio
+de 2008 (CONAMA 431/2008) que altera a classificação do resíduo
+de gesso da Classe C para a Classe B, uma terceira em janeiro de
+
+2012, cujas alterações vão desde a modificação e inclusão de novas
+definições à mudança do prazo para os municípios e Distrito Federal
+se ajustarem à nova regulamentação (CONAMA 448/2012). E por
+fim, a Resolução 469, que passa a considerar na classe B embalagens
+vazias de tintas, cujo revestimento interno apresenta apenas filme
+seco de tinta, sem acúmulo de resíduo de tinta líquida.
+Segundo o relatório Resíduos da Construção Civil e o Estado
+de São Paulo, há consenso de que a Resolução CONAMA 307 da
+maneira em que foi concebida em 2002 é um instrumento modelo
+a ser adotado para a gestão de outros tipos de resíduos por conta
+da classificação que apresenta, a ser detalhada no capítulo 3. É uma
+iniciativa que modifica definitivamente a construção civil.
+Outro marco importante e que vem impulsionar a Resolução
+CONAMA 307 é a aprovação da Política Nacional de Resíduos
+Sólidos em agosto e do seu decreto regulamentador em dezembro
+de 2010. Ela traz uma nova perspectiva ao cenário nacional, pois
+além de visar à regulamentação da gestão adequada de resíduos,
+a lei também levanta questões para o desenvolvimento econômico
+e social relacionados à gestão, bem como para a manutenção
+da qualidade ambiental. Ela disciplina a gestão dos resíduos de
+construção de maneira diferenciada das regras para a indústria em
+geral e à semelhança do que é determinado para resíduos sólidos
+urbanos. Um aspecto fundamental de seu decreto regulamentador é
+que a gestão de resíduos de construção deve ser tratada de acordo
+
+com as regulamentações específicas do Sistema Nacional de Meio
+Ambiente (Sisnama), o qual inclui as resoluções CONAMA.
+Em paralelo, é elaborada também a Política Nacional de Saneamento Básico, em 2007. Apresenta uma análise situacional do
+saneamento básico no Brasil, em que uma das vertentes é o manejo
+de resíduos sólidos. Inova o país ao propor a responsabilidade
+compartilhada pelo ciclo de vida dos produtos e a logística reversa de
+retorno de materiais, a prevenção, precaução, redução, reutilização
+e reciclagem, metas de redução de disposição final de resíduos em
+aterros sanitários e a disposição final ambientalmente adequada dos
+rejeitos em aterros sanitários. São descritos também cenários de
+estudo com metas de curto, médio e longo prazo, por macrorregião
+do país com suas projeções de investimento e macrodiretrizes,
+estratégias para a materialização efetiva, eficaz e eficiente do plano.
+A cadeia produtiva da construção tem ainda se engajado no estudo das possibilidades de reaproveitamento e reciclagem dos
+resíduos, e na criação de negócios relacionados à cadeia da
+reciclagem. Exemplo disso é o uso de agregado reciclado em obras
+de pavimentação. É necessário, todavia, maior empenho na busca
+de soluções para outros tipos de resíduos para atender à logística
+reversa, que começa a ser instalada no país.
+Uma das principais necessidades detectadas pelo setor é a criação de ferramentas que auxiliem os gestores públicos e privados a
+
+19
+
+Política Nacional de
+Resíduos Sólidos
+
+Resolução
+CONAMA 348
+
+2002
+
+Resolução
+CONAMA 307
+2.1
+
+2004
+
+2007
+
+Política Nacional de
+Saneamento Básico
+
+2011
+
+Resolução
+CONAMA 431
+
+2012
+
+2015
+
+Resolução
+CONAMA 469
+
+Linha do tempo com as principais publicações brasileiras relacionadas à
+gestão de resíduos.
+
+cumprirem suas atribuições definidas em legislações e normas e,
+também, no levantamento de informações que possam ser utilizadas
+na melhoria dos processos produtivos, identificação de oportunidades
+de novos negócios e no planejamento dos municípios, de forma a
+atender às demandas dos grandes e pequenos geradores.
+Percebe-se o interesse crescente de municípios em informatizar
+o seu sistema de gerenciamento de resíduos da construção, de forma
+a facilitar a identificação de pontos de descarte irregular, áreas de
+destinação não licenciadas, transportadores e obras não legalizadas.
+Como exemplos de cidades que estão implantando sistemas online
+de gerenciamento de resíduos da construção, podemos citar: São
+José dos Campos, Jundiaí, São Carlos, Taubaté, Pindamonhangaba,
+Americana, Praia Grande, Araraquara, Bauru e Piracicaba, no Estado
+de São Paulo. Essas cidades já percebem os benefícios do uso de
+ferramentas informatizadas, principalmente os relacionados à
+agilidade dos processos, desburocratização e fiscalização. Eliminação
+de pontos de descarte irregular, de transportadores informais e de
+áreas de destinação não licenciadas, reduzem muito os custos da
+gestão pública e a insegurança dos geradores na contratação destes
+serviços.
+Entendendo como fundamental instrumento de gestão, o
+SindusCon-SP, a Secretaria Estadual de Meio Ambiente a e
+1
+Companhia Ambiental do Estado de São Paulo (Cetesb) firmaram
+parceria para o desenvolvimento e implantação do Sistema Estadual
+
+20
+
+2010
+
+Resolução
+CONAMA 448
+
+(1) A Companhia Ambiental do Estado de São Paulo – CETESB é a agência do Governo do Estado
+responsável pelo controle, fiscalização, monitoramento e licenciamento de atividades geradoras
+de poluição, com a preocupação fundamental de preservar e recuperar a qualidade das águas,
+do ar e do solo.
+Fonte: http://www.cetesb.sp.gov.br/institucional/historico/. Acesso em 17.06.2017.
+
+de Gerenciamento online de Resíduos Sólidos (SIGOR) – Modulo
+Construção Civil. 2
+Considerado inovador por sua abrangência e funcionalidades,
+o Sigor tem o objetivo de gerenciar as informações referentes aos
+fluxos de resíduos sólidos no Estado de São Paulo, da geração à
+destinação final, incluindo o transporte, bem como o de centralizar
+e facilitar o acesso às informações referentes aos resíduos gerados
+localmente.
+Por meio do SIGOR, a Cetesb e as Prefeituras, dentro de suas
+competências, validarão os cadastros das áreas de destinação,
+dos transportadores e os planos de gerenciamento de resíduos
+elaborados pelos geradores. Desta forma, o Sigor propiciará agilidade
+e desburocratização de procedimentos administrativos.
+O Brasil está mudando o modo de lidar com a gestão de resíduos
+e, neste cenário, abrem-se espaços sólidos e promissores para a
+participação da iniciativa privada. Torna-se evidente a necessidade
+ainda de amplos investimentos em marketing e no combate à
+resistência que ainda persiste ao uso do resíduo reciclado. O foco
+não deve ser perdido: o manejo adequado dos resíduos traz notória
+melhoria da qualidade de vida e dos impactos ambientais nos centros
+urbanos, seja qual for a esfera analisada e o tamanho da medida a
+ser implementada.
+(2) O Sistema Estadual de Gerenciamento Online de Resíduos Sólidos – SIGOR é uma ferramenta
+que auxilia no monitoramento da gestão dos resíduos sólidos desde sua geração até sua destinação final, incluindo o transporte e destinações intermediárias e permite o gerenciamento das
+informações referentes aos fluxos de resíduos sólidos no Estado de São Paulo.
+Fonte: http://cetesb.sp.gov.br/sigor/sobre-o-sigor/. Acesso em 17.06.2017
+
+2.2
+
+Composição dos resíduos coletados sob responsabilidade pública.
+
+Volumosos
+3,1%
+
+Fonte: PGIRS - 2014
+
+Outros
+1,2%
+
+RCC
+21,4%
+
+Total
+20,1 mil
+ton diárias
+
+A GESTÃO DE RESÍDUOS EM SÃO PAULO
+
+Saneamento
+14,9%
+
+2.2
+
+Com 5,8% da população do país – 12,04 milhões de habitantes
+em 2016 – São Paulo é a sexta cidade mais populosa do mundo.
+Contribuiu em 2011 com aproximadamente 12% do PIB nacional,
+abrigando o maior parque industrial do país e seu centro financeiro
+mais dinâmico, o que torna a cidade também um importante polo
+comercial do país.
+Entretanto, há alguns anos as taxas de crescimento geométrico
+anual da população do município vêm apresentando comportamento
+decrescente - de 3,7% da década anterior a 1990, foi para 0,8% no
+último período (2000 a 2010). As projeções de evolução da população
+elaboradas pela Secretaria Municipal de Desenvolvimento Urbano –
+SMDU apontam para um crescimento de 1,5 milhão de habitantes de
+2012 a 2040, quando a cidade chegaria a 12,7 milhões de habitantes.
+Apesar das taxas de crescimento projetadas estarem mais modestas para os próximos anos, deve continuar acontecendo um processo
+de ascensão social de camadas da população ainda à margem do
+mercado, que por sua vez tenderá a gerar, para as próximas décadas,
+uma maior demanda por infraestrutura, por novas obras construtivas,
+o que gerará, por consequência, uma quantidade maior de resíduos.
+A cidade gera volumes expressivos de resíduos, de várias origens,
+e parcela significativa deles é manejada sob responsabilidade
+pública. Em 2012 foram coletadas 20,1 mil toneladas por dia de
+resíduos sólidos. O gráfico 2.2 ilustra a composição dos resíduos
+
+Domiciliar
+52,2%
+
+Limpeza
+5,7%
+
+Feiras
+1,5%
+
+coletados. Percebe-se que o volume dos resíduos da construção civil
+é o segundo maior, evidenciando sua significativa representatividade
+dentro do total.
+Para fazer frente aos desafios impostos para a gestão e
+gerenciamento desse complexo cenário de geração de resíduos, a
+cidade possui uma complexa rede de coleta. Pelao recorte deste
+trabalho, o foco será dado à maneira de como são tratados os RCC.
+O PGIRS³ (Plano de Gerenciamento Integrado de Resíduos Sólidos)
+da cidade de São Paulo, um dos mais importantes instrumentos da
+PNRS, desevolvido pela Prefeitura em 2014, salienta que os resíduos
+Classe A e Classe B são predominantes. Eles representam em torno de
+80% e 18%, respectivamente, do volume total produzido, enquanto
+4
+os resíduos Classe C e D correspondem aos 2% restantes .
+Vale salientar que os resíduos classe A são resíduos recicláveis
+e passíveis de reutilização provenientes de construção, demolição,
+reformas, pavimentação, de obras de infraestrutura, inclusive solos
+provenientes de terraplanagem, além de tijolos, blocos, telhas, placas
+de revestimento, argamassa e concreto; e os de Classe B, resíduos
+recicláveis formados por plásticos, papel, metais, vidros e madeiras
+em geral, incluindo gesso.
+A rede de coleta deste tipo de resíduo é organizada nas seguintes estruturas: Ecopontos, (pontos de entregas voluntárias para
+(3) O Plano de Gestão Integrada de Resíduos Sólidos - PGIRS - estabelece, para todos os atores
+envolvidos com os resíduos sólidos, a partir da situação atual da gestão dos resíduos sólidos,
+como se pretende atuar para atingir os objetivos da PNRS.
+(4) Classes presentes na classficação CONAMA, a ser detalhada no capítulo 3 deste TFG.
+
+21
+
+pequenos geradores), ATTs (Áreas de Transbordo e Triagem), Usinas
+de Reciclagem e Aterros Sanitários.
+Infelizmente apenas 25% da quantidade de resíduos produzida
+é disposta adequadamente, o que equivale a 133 mil ton/ano,
+aproximadamente, de acordo com o PGIRS.
+O Ecoponto consiste em um equipamento público aberto à
+população para o descarte gratuito de até 1m³ de entulhos,
+madeiras, podas de árvores, grandes objetos e resíduos passíveis de
+reciclagem, com estrutura apropriada para recepcionar resíduos de
+pequenas reformas e obras de reparos de pequeno porte, já triados,
+que são mantidos no local de forma segregada para destinação
+apropriada.
+
+São seis ATTs funcionando em São Paulo para recepção de resíduos gerados em obras privadas conforme informa dados da
+6
+Prefeitura. Para os resíduos provenientes da limpeza corretiva de
+pontos de deposição irregular são utilizadas áreas de triagem nos
+próprios aterros para onde os resíduos são levados.
+
+A cidade de São Paulo conta hoje com 98 Ecopontos, conforme
+informa o site da Amlurb (Autoridade Municipal de Limpeza Urbana).
+O mapa 2.3 é o mais atualizado que ilustra sua disposição pelo
+território da cidade. A quantidade, segundo os dados disponíveis,
+cresceu mais de 70% nos últimos 4 anos.
+
+Atualmente a cidade deposita os resíduos recolhidos dos pontos
+viciados e dos Ecopontos em três áreas de destinação final, Riuma,
+CDR Pedreira e Lumina, que além de funcionarem como ATT,
+funcionam como aterros sanitários e dispõem de unidades de
+reciclagem dos resíduos classe A (por obrigação contratual devem
+reciclar no mínimo 10% dos RCC recebidos). 7
+
+Neles, caçambas estacionárias recebem os resíduos Classe A, e os
+demais tipos de resíduos são separados em baias próprias, inclusive
+resíduos volumosos. Periodicamente os resíduos são encaminhados
+para destinação, seja para reciclagem e reaproveitamento, seja para
+disposição final.
+
+Em se tratando de custos, o valor de manejo dos RCC considerados
+de responsabilidade pública inclui os custos de remoção e transporte
+dos resíduos dispostos de forma irregular nos logradouros públicos,
+o transporte dos RCC levados por munícipes aos Ecopontos, a
+operação dos Ecopontos e a destinação aos aterros, cujo custo inclui
+
+5
+
+22
+
+A região de São Paulo também abrange ATTs, Áreas de Transbordo e Triagem, localizadas geralmente na periferia, que recebem o
+material recolhido para que seja feita a triagem dos diferentes resíduos
+e seu armazenamento temporário, até que possa ser destinado de
+forma adequada. O RCC (concreto, argamassa, alvenaria, dentre
+outros) é encaminhado para aterros de inertes, o rejeito é levado
+para aterros sanitários e o resíduo reaproveitável é comercializado.
+
+(5, 6 e 7) Informações disponíveis em:
+http://capital.sp.gov.br/cidadao/rua-e-bairro/lixo/area-de-transbordo-e-triagem-att
+Acesso em 24.05.2017
+
+2.3
+
+Disposição dos Ecopontos e Aterros que atendem a cidade de São Paulo.
+
+Orgânicos
+1,0%
+
+Fonte: PGIRS - 2014
+
+2.4
+
+Outros
+4,0%
+
+Composição média dos entulhos depositados em aterros de São Paulo.
+Fonte: Brito Filho (2009)
+
+Argamassas
+25,0%
+
+Solo
+32,0%
+
+Concreto
+8,0%
+Cerâmicos
+30,0%
+
+2.4
+
+a triagem dos resíduos das deposições irregulares.
+Dentro dos resíduos coletados, a composição média dos RCC
+depositados nos aterros de São Paulo pode ser observada no gráfico
+2.4. Se devidamente triados e armazenados, da parcela passível de
+reutilização e reciclagem, é possível o reaproveitamento alcançar
+85%. Trata-se de uma oportunidade bastante significativa.
+A demanda por um mundo cada vez mais sustentável exige que
+se olhe para a construção civil de forma crítica. Claramente, caso
+a estrutura existente atualmente na cidade de São Paulo fosse
+suficiente, 75% em média dos resíduos não seria disposto em locais
+irregulares. É preciso repensá-la. É preciso com urgência raciocinar
+de maneira sistêmica, considerando todas as etapas geradoras de
+resíduos dentro da cadeia produtiva do material e os objetivos a
+serem atingidos. É preciso estar sempre a favor da tecnologia,
+automatizar, informatizar, tornar os processos mais simples, realizar
+testes de novas metodologias já em vigor em outras localidades,
+repensar o dimensionamento do sistema de coleta e destinação,
+investir na diminuição da geração para que o alcance de uma
+construção cada vez mais sustentável esteja intrínseco à cultura da
+sociedade paulistana.
+
+2.3
+
+23
+
+2.5 e 2.6 Produção de agregados reciclados na UVR Grajaú.
+Fonte: fotos de Leonardo Resende, aluno e colega da Eng. Civil da Escola Politécnica.
+Visita realizada em 18.05.2016 como complementação do conteúdo estudado
+na disciplina PCC 3556.
+
+A PARTICIPAÇÃO DO CANTEIRO DE OBRAS
+DENTRO DA LOGISTICA REVERSA
+
+2.5
+
+Como mostrado no capítulo 1, a indústria da construção civil é
+a atividade humana mais impactante sobre o meio ambiente. Todas
+as etapas de um empreendimento – construção, uso, manutenção
+e demolição – são relevantes no que diz respeito ao consumo de
+recursos e geração de resíduos.
+
+construção sustentável.
+
+O canteiro de obras, segundo Maia e Souza (2003), é local no qual
+se dispõe todos os recursos de produção (mão de obra, materiais
+e equipamentos), organizados e distribuídos de forma a apoiar e
+a realizar os trabalhos de construção, observando os requisitos de
+gestão, racionalização, produtividade e segurança/conforto dos
+operários.
+
+• Definição de locais adequados de destinação final dos resíduos;
+• Utilização de materiais reciclados e/ou de origem certificada;
+• Reutilização de resíduos na própria obra;
+• Uso de matérias-primas que contribuam com a ecoeficiência do
+processo;
+• Redução do consumo e minimização de perdas;
+• Prever a geração de resíduos perigosos e impactos irreversíveis
+para controlar a agressão ao meio ambiente;
+• Educação ambiental: conscientização dos envolvidos no processo.
+
+Esse espaço configura-se como o universo de estudo deste
+trabalho, e não pode ser encarado de maneira alguma isolado ao
+contexto da cidade em que se insere, pois pensa-lo de maneira
+isolada é ignorar que ele está inserido em toda uma lógica urbana e
+que as práticas nele realizadas não interferem no ambiente ao redor.
+A logística reversa está diretamente relacionada com a lógica
+urbana em que o canteiro está inserido. Isso acontece pois ela induz
+que a responsabilidade pelo tratamento adequado dos resíduos e
+rejeitos seja compartilhada entre a sociedade, o poder público e o
+privado. Portanto, cabe ao arquiteto e aos engenheiros envolvidos
+pensar de maneira global ao aplicar suas ideias no âmbito do
+canteiro, mantendo sempre em mente a meta de se atingir uma
+
+24
+
+2.6
+
+Exemplos de medidas de gestão de resíduos a serem consideradas
+dentro do canteiro para melhor inserção do mesmo no processo de
+logística reversa:
+
+A título de complementação, uma prática realizada já em algumas
+ATTs de São Paulo é a produção de agregados reciclados com o
+entulho vindo dos canteiros de obras, reinserindo esses materiais na
+cadeia da construção civil. As fotos 2.5 e 2.6 ilustram essa produção
+na Central de Tratamento de Resíduos de Construção Civil Grajaú
+(UVR Grajaú).
+
+3
+O CANTEIRO DE OBRAS E A CONSTRUÇÃO CIVIL
+SUSTENTÁVEL
+IMPACTOS E ASPECTOS AMBIENTAIS NO CANTEIRO
+DE OBRAS
+
+A obtenção de um canteiro de obras mais sustentável é o foco
+desta pesquisa. Assim, serão estudados neste tópico aspectos e
+impactos ambientais provenientes das atividades praticadas nos
+canteiros.
+Cabe salientar a diferença entre aspecto e impacto ambiental.
+Os aspectos, segundo Sánchez (2006), correspondem aos elementos
+das atividades, produtos ou serviços de uma organização que podem
+interagir com o meio ambiente (meio físico, biótico e antrópico).
+Correspondem, de maneira geral, às causas dos impactos. Já os
+impactos, correspondem à alteração de parâmetros ambientais, que
+resultam da modificação de um processo natural ou social provocada
+pela ação humana.
+Na página seguinte, há um quadro que ilustra os aspectos ambientais derivados das atividades desenvolvidas nos canteiros de
+obras. Ele foi segmentado em quatro temas principais: Recursos,
+Incômodos e Poluições, Resíduos e Infraestrutura do Canteiro de
+Obras.
+O primeiro tema, Recursos, trata, dentro dos limites de decisão
+que a equipe de obra pode ter, do consumo (compras e contratações)
+de recursos naturais e manufaturados e do consumo e desperdício
+de água e energia no canteiro.
+
+transformação da produção, incluindo: serviços preliminares,
+infraestrutura, estrutura, vedações, cobertura, revestimentos, pintura,
+pisos, sistemas prediais, redes e vias.
+O tema Resíduos, por sua vez, trata do manejo e da destinação
+dos resíduos, considerando as exigências da Resolução Conama 307,
+que é o principal foco deste estudo.
+Por fim, o tema Infraestrutura do Canteiro de Obras aborda,
+entre outros pontos, os procedimentos para que as construções
+provisórias do canteiro de obras sejam implementas e funcionem
+de modo a minimizarem os impactos ambientais decorrentes e para
+que as atividades desenvolvidas para ou durante a construção e o
+uso dessas instalações causem os menores impactos.
+A fim de aproximar melhor os aspectos aos agentes capazes
+de mitigar seus respectivos impactos, vale salientar que todos
+os aspectos descritos estão sob responsabilidade das empresas
+construtoras de edifícios.
+Como o estudo de caso deste trabalho trata-se de atividades
+decorrentes de um contexto emergencial em um edifício tombado,
+foram destacados nas tabelas os impactos e aspectos mais
+relacionados a essas peculiaridades.
+
+O segundo, Incômodos e Poluições, refere-se às atividades de
+
+25
+
+3.1
+
+Aspectos ambientais derivados das atividades desenvolvidas nos canteiros de obras.
+Fonte: Degani (2003).
+
+3.2
+
+Impactos ambientais consequentes das atividades das empresas construtoras.
+Fonte: Degani (2003).
+
+3.2
+
+3.1
+IMPACTOS AMBIENTAIS
+
+ASPECTOS AMBIENTAIS
+
+Alteração das propriedades físicas
+
+Consumo de recursos (inclui perda incorporada e embalagens)
+RECURSOS
+
+Consumo e desperdício de água
+
+SOLO
+
+Consumo e desperdício de energia
+Geração de resíduos perigosos
+Geração de resíduos sólidos
+Emissão de vibração
+Emissão de ruídos
+INCÔMODOS E
+POLUIÇÕES
+
+Lançamento de fragmentos
+Emissão de material particulado
+Risco de geração de faíscas onde há gases dispersos
+
+MEIO
+
+AR
+
+FÍSICO
+
+Escassez de água
+Interferências na fauna local
+MEIO BIÓTICO
+
+Alteração da qualidade paisagística
+Escassez de energia elétrica
+
+Queima de resíduos no canteiro
+Remoção de edificações
+
+Alteração nas condições de saúde
+
+Supressão de vegetação
+
+Incômodo para a comunidade
+
+Risco de desmoronamento
+
+Alteração no tráfego de vias locais
+
+Existência de ligações proviórias
+Esgotamento de águas servidas
+INFRAESTRUTURA
+
+Risco de perfuração de redes
+
+DO CANTEIRO DE
+
+Geração de energia no canteiro
+Existência de construções provisórias
+Impermeabilização de superfícies
+Ocupação da via pública
+
+26
+
+Interferências na flora local
+Alteração da dinâmica dos ecossistemas
+
+Destinação de resíduos (inclui descarte de recursos renováveis)
+Manejo e destinação de resíduos perigosos
+
+OBRAS
+
+Poluição sonora
+
+Alteração dos regimes de escoamento
+
+Manejo de materiais perigosos
+
+RESÍDUOS
+
+Deterioração da qualidade do ar
+
+Aumento da quantidade de sólidos
+ÁGUA Poluição das águas subterrâneas
+
+Renovação do ar
+
+Manejo de resíduos
+
+Indução de processos erosivos
+Esgotamento de reservas minerais
+
+Alterção da qualidade de águas superficiais
+
+Despreendimento de gases, fibras e outros
+
+Perda de materiais
+
+Contaminação química
+
+Pressão sobre serviços urbanos
+MEIO ANTRÓPICO
+
+Alterações nas condições de segurança
+Danos a bens edificados
+Aumento do volume de aterros de resíduos
+Geração de emprego e renda
+Aumento das despesas do município/empresa
+
+Armazenamento de materiais
+
+Interferência na drenagem urbana
+
+Circulação de materiais, equipamentos, máquinas e veículos
+
+Perda de solos férteis
+
+Manutenção e limpeza de ferramentas, equipamentos, máquinas e veículos
+
+Dinamização econômica
+
+3.3
+
+Em sequência, exemplos de resíduos classe A (entulho), Classe B
+(plástico), Classe C (manta asfáltica) e Classe D (tintas).
+
+CLASSIFICAÇÃO DOS RESÍDUOS DA CONSTRUÇÃO
+CIVIL
+3.3
+
+A classificação dos resíduos torna-se necessária para que, ao
+decorrer do trabalho, as terminologias fiquem claras de acordo com
+as definições aqui apresentadas.
+Adotou-se como base a classificação apresentada nas Resoluções
+CONAMA 307, 348 431 e 469. Ela apresenta uma subdivisão em
+quatro classes:
+• CLASSE A: são os resíduos reutilizáveis ou recicláveis como agregados, tais como:
+De construção, demolição, reformas e reparos de pavimentação
+e de outras obras de infraestrutura, inclusive solos provenientes
+de terraplanagem;
+De construção, demolição, reformas e reparos de edificações:
+componentes cerâmicos (tijolos, blocos, telhas, placas de revestimento etc.), argamassa e concreto;
+De processo de fabricação e/ou demolição de peças pré-moldadas em concreto (blocos, tubos, meio-fio etc.) produzidas nos
+canteiros de obras;
+• CLASSE B: são os resíduos recicláveis para outras destinações,
+tais como: plásticos, papel/papelão, metais, vidros, madeiras,
+gesso e latas de tinta vazias;
+• CLASSE C: são os resíduos para os quais não foram desenvolvidas
+
+tecnologias ou aplicações economicamente viáveis que permitam a
+sua reciclagem/recuperação;
+•CLASSE D: são resíduos perigosos oriundos do processo de construção, tais como tintas, solventes, óleos e outros ou aqueles
+contaminados ou prejudiciais à saúde oriundos de demolições,
+reformas e reparos de clínicas radiológicas, instalações industriais
+e outros, bem como telhas e demais objetos, e materiais que
+contenham amianto ou outros produtos nocivos à saúde.
+A partir dessa classificação e conforme dados apresentados também por Angulo (2005) o resíduo da construção civil (RCC) é
+composto predominantemente por resíduos Classe A (91% da
+massa), e cerca de 9% de Classe B. Não são consideradas significativas
+as quantidades de resíduos Classes C e D.
+O treinamento da mão de obra para efetuar a segregação
+dos RCC ainda no canteiro de obras e logo após, na triagem e
+processos seguintes, pode também contribuir para a redução da sua
+produção, porque permite a identificação mais clara das sobras de
+materiais, evitando o desperdício (SINDUSCON, 2011). A adequada
+classificação e separação dos resíduos possibilita a organização do
+local de trabalho e também um benefício econômico: é mais barato
+enviar às ATTs e aterros o material já triado. Além disso, facilita o
+processo de reciclagem e reutilização.
+
+27
+
+CERTIFICAÇÕES AMBIENTAIS
+
+Uma das maneiras de incentivar a busca pela sustentabilidade na
+construção civil é a adoção de sistemas de avaliação e classificação
+do desempenho ambiental e da sustentabilidade de edifícios. As
+metodologias também funcionam como orientação ao mercado
+quanto ao desempenho esperado para os edifícios.
+Dessa forma, diversos países desenvolveram metodologias que
+cobrem aspectos do empreendimento, desde suas relações com
+o local onde será implantado, até saúde e conforto dos usuários,
+incluindo preocupações como escolha de materiais, economia de
+energia e de água, poluições e incômodos (CARDOSO, 2006).
+Desde 2007 até 2015, 420 empreendimentos receberam
+certificação ambiental no Brasil, nos quatro sistemas de certificação
+que apresentam requisitos relacionados à gestão de resíduos nos
+canteiros de obras: LEED, AQUA e CASA AZUL, segundo a publicação
+Gestão Ambiental de Resíduos da Construção Civil (2015).
+Apesar de serem gerais e pouco abrangentes em relação à
+sustentabilidade, apresentam categorias sobre a gestão de resíduos.
+A seguir, foi destacado o que cada certificação apresenta sobre o
+tema em questão.
+• AQUA (2014)
+No que tange o tema deste trabalho, esta certificação apresenta
+apenas diretrizes: as obras devem adotar estratégias sobre os
+
+28
+
+processos construtivos para prevenir e minimizar a geração de
+resíduos, devem estimar a quantidade de resíduos produzidos
+nas diferentes etapas da obra, identificar corretamente o material
+e as cadeias locais de valorização dos resíduos disponíveis, controlar sua saída na obra e garantir a rastreabilidade e correto
+manuseio dos resíduos em termos de composição, transporte,
+destinação, triagem e gestão nas diferentes etapas da obra, dentre outros aspectos. Vale salientar que estabelece a obrigatoriedade de elaboração do plano de gerenciamento de RCC quando
+houver demolição prévia, com meta mínima de 40% de reciclagem dos RCC. Embora não explicite o dever da elaboração do
+plano de gerenciamento de RCC para a fase de construção, é
+requerido do empreendedor meta mínima de 30% de reciclagem
+dos RCC.
+• LEED – Leadership in Energy & Environmental Design (2009)
+O processo dessa certificação o empreendimento vai adquirindo
+pontos que qualificarão a categoria do edifício. Em relação à
+gestão de resíduos, obtém-se 1 ponto se for comprovado desvio
+de aterro acima de 50% do volume ou massa de resíduos gerados, e 2 pontos se o desvio de aterro superar 75%. Esclarecendo
+que desvio de aterro é o volume de resíduos que pode ser
+utilizado na própria obra ou encaminhado para outras formas
+de destinação que não os aterros, como a reciclagem. Não há
+nesta versão obrigatoriedade na elaboração e implantação do
+plano de gerenciamento de resíduos.
+
+4
+REFERÊNCIAS
+
+• SELO CASA AZUL (2010)
+O selo Casa Azul foi criado pela Caixa Econômica Federal para
+distinguir os projetos financiados pela instituição àqueles que
+adotam práticas de sustentabilidade ambiental mais compromissadas. Na categoria 4 - conservação de recursos materiais, a
+gestão dos RCC é obrigatória, exigindo-se a elaboração do
+plano de gerenciamento de RCC e a apresentação dos documentos comprobatórios da destinação dos respectivos resíduos
+gerados ao final da obra. Destaca-se também como prática social
+obrigatória, a educação para gestão dos RCC, para mobilização
+das equipes, objetivando a implantação das diretrizes do plano
+de gerenciamento de RCC.
+
+Não foram encontradas referências diretamente relacionadas
+com o tema em estudo, reaproveitamento dos resíduos em obras
+tombadas pelo valor intrínseco ao material na busca bibliográfica.
+Entretanto, foram encontradas diversas obras internacionais em
+que os resíduos foram amplamente reaproveitados, citadas abaixo.
+Dentre essas, apenas uma com reaproveitamento de resíduos
+contemplando o patrimônio histórico.
+HOSPITAL, ENDELL STREET, LONDRES
+O edifício, localizado em zona histórica de Londres, Convent
+Garden, foi construído no início do século XX. Por estar em uma área
+de conservação, exigiu-se a manutenção dos tijolos originais e parte
+da parede original nas fachadas norte e sul, por estarem alinhadas
+a outros edifícios da mesma época com características semelhantes.
+REPÚBLICA ESTUDANTIL SUECA, LINKÖPING
+Em 1997, a maior associação habitacional da cidade de Linköping
+decidiu construir uma nova república estudantil utilizando materiais
+de dois edifícios residenciais abandonados da década de 1960
+localizados em uma cidade próxima. Ambos estavam para ser
+demolidos por conta de uma significativa crise econômica na região.
+
+29
+
+4.1
+
+Edifício C. K. Choi.
+Fonte: http://maappsjacksonconference.blogspot.com.br. Acesso em 25.06.2017.
+
+4.1
+
+Eles foram construídos em concreto armado feito in loco e, para a
+construção da república, foram cortados com uma serra diamantada
+em pedaços manuseáveis. Materiais retirados de aproximadamente
+50 apartamentos grandes foram usados para fazer 22 dormitórios
+estudantis de menor tamanho. Os principais elementos reutilizados
+foram:
+• 73 componentes de paredes de concreto;
+• 41 vigas de concreto;
+• 30 m² de fundações de concreto;
+• 220 m² de tijolos de barro;
+• 600 m² de pisos de madeira;
+• 45 portas, 89 janelas 26 peitoris;
+Um importante fator para o sucesso desse projeto foi que a
+mesma construtora foi responsável pela demolição dos edifícios
+e construção da república. Uma análise do projeto confirmou que
+o impacto ambiental foi menor com o reuso do que se tivessem
+utilizado materiais e técnicas convencionais de construção.
+BEDZED, O PROJETO ENERGIA ZERO DE ESCRITÓRIOS E
+RESIDÊNCIAS, LONDRES
+O Projeto Energia Zero de Beddington (BedZED) é um projeto de
+uma vila residencial e de escritórios inaugurado em 2002 e localizado
+no sul da cidade, no qual foram utilizados inúmeros elementos e
+materiais reaproveitados de outras construções, dentre eles: aço
+
+30
+
+estrutural (95% do aço utilizado foi reaproveitado de locais de
+demolição relativamente próximos à obra), madeira reaproveitada
+para vigamento interno, assoalho e esquadrias (veio de um grande
+deposito de materiais, que garantiu e testou sua qualidade), placas
+de piso, estacas, lajes, portas e painéis compesados.
+O autor Addis B. (2010) no livro “Reuso de materiais e elementos
+de construção” destaca: todas as medidas implementadas no BedZED
+com o objetivo de encontrar e reutilizar materiais reaproveitados ou
+reciclados resultaram em uma economia tanto para o cliente quanto
+para a empreiteira. Um problema encontrado foi o cumprimento
+do cronograma. Por exemplo, a busca por madeira para a estrutura
+externa ultrapassou o tempo estipulado. O programa da obra tinha
+que ter um certo grau de flexiblidade, dado a dificuldade enfrentada
+de encontrar materiais adequados.
+EDIFÍCIO C. K. CHOI, UNIVERSIDADE DE BRITISH COLUMBIA,
+CANADÁ
+Ao realizar o projeto em 1996, a Universidade de British Columbia
+decidiu que o edifício C. K. Choi seria um modelo de construção
+sustentável. Estabeleceu-se que 50% do peso dos materiais de
+construção fosse de materiais reaproveitados ou reciclados e que
+os outros 50% fossem recicláveis. O programa de uso do edifício
+contemplou abrigar o Instituto de Pesquisa Asiática.
+
+4.2
+
+Edifício C. K. Choi: detalhe da madeira estrutural com marcas de sua
+utilização anterior.
+
+4.3
+
+Edifício C. K. Choi: madeira estrutural reaproveitada.
+Autoria das imagens 4.2 e 4.3: Winter J., dispostas na página 65 do livro Reuso de materiais e
+elementos de construção.
+
+4.2
+
+Para cada elemento de construção encontrado possível de
+reutilização, levava-se em conta uma série de opções para reúso e
+reciclagem e testava-se a viabilidade de cada uma delas. Por esse
+motivo, assim como na referência anterior, o projeto e o cronograma
+precisaram manter-se mais flexíveis.
+Como exemplos de materiais utilizados, para o sistema estrutural
+do edificio foram reutilizados postes e vigas de madeira após
+realizados testes de resistência. 65% dos elementos de madeira
+vieram de um prédio em demolição em outro lugar do campus da
+universidade. Já na fachada, a maioria das paredes de tijolo foi feita
+com tijolos de barro reaproveitados comprados de diversos lugares.
+Ensaios foram feitos quanto a resistência e durabilidade.
+Todas as portas de madeira e esquadrias de portas foram
+reaproveitadas de um edifício comercial que estava sendo
+transformado em um prédio residencial. O isolamento das paredes
+foi feito com fibras de celulose 100% recicladas, as divisórias, feitas
+com placas de gesso reciclado, que se mostraram ter menor custo. O
+revestimento interno foi feito com papel 100% reciclado.
+NOVA SEDE MUNDIAL DA DURACELL, CONNECTICUT
+A nova sede mundial da Duracell, na cidade de Connecticut,
+datada de 1995, abrange escritórios, um centro de conferências
+e laboratórios de pesquisa. Como parte do compromisso com a
+
+4.3
+
+sustentabilidade ambiental, o cliente comprometeu-se a atingir a
+certificação ambiental “ouro” conferida pelo LEED. A certificação
+LEED foi um ótimo estímulo para a equipe, segundo o mesmo autor.
+Muitos pontos foram obtidos porque eles se certificaram de
+que seria utilizado na obra o maior número possível de instalações
+reaproveitadas e materiais reciclados. O objetivo estabelecido de ter
+conteúdo reciclado em pelo menos 50% dos materiais foi atingido
+com o uso dos seguintes produtos: drenagem da fundação feita 50%
+de PVC reciclado, nos painéis acústicos de parede, 50% dos trilhos de
+suporte de vinil reciclados e 65% dos painéis reciclados, na proteção
+contra incêndios, 100% de vidro reciclado.
+
+Com essas referências, é possível concluir que, apesar de informações e orientações acerca dos resíduos possíveis de reutilização e
+daqueles oriundos da indústria da reciclagem não serem voltadas
+para atender às necessidades dos projetistas, mostra-se possível sua
+utilização tanto em pequena quanto em larga escala na construção
+civil. Fundações, contenções, estruturas, fachada, esquadrias e
+sistema elétrico, são alguns exemplos dos sistemas das edificações
+viáveis de se utilizar resíduos, desde que devidamente avaliados com
+base nas normas e legislações conforme o novo uso pretendido.
+
+31
+
+5
+ESTUDO DE CASO:
+MUSEU DA LÍNGUA PORTUGUESA
+INTRODUÇÃO
+
+O Museu da Língua Portuguesa (MLP) localiza-se no complexo
+arquitetônico da Estação da Luz, no centro da cidade de São Paulo.
+A Estação, projetada pelos ingleses, foi inaugurada em 1901. Sofreu
+um primeiro incêndio em 1946, sendo restaurada em sequência e
+reconhecida como patrimônio histórico, tombada como monumento
+de interesse histórico e arquitetônico em 1982 (Resolução de
+Tombamento 25 de 05.05.1982). O edifício restaurado passou a
+abrigar, além da estação ferroviária, o Museu, inaugurado em março
+de 2006, constituindo a primeira instituição cultural do mundo a ter
+como objeto a língua, no caso a portuguesa (TADDEI, 2012).
+Espaço cultural que tem grande valor, o Museu infelizmente
+encontra-se fechado para as obras de restauração desde o incêndio
+acidentalmente ocorrido em 21 de dezembro de 2015 em parte
+dos seus espaços internos. A área atingida foi grande, praticamente
+todo o edifício: os seus pavimentos foram afetados, com destaque
+para o terceiro, o mais elevado, cuja cobertura ficou totalmente
+comprometida. Seu acervo, que reunia as definições, os significados
+e os principais conteúdos relacionados às variações e histórias da
+língua portuguesa, apesar de ser digital, também sofreu significativas
+perdas, principalmente em suas estruturas expositivas.
+Após o incêndio, serviços emergenciais foram contratados para
+garantir a segurança estrutural da edificação, até que as obras de
+restauração se iniciassem. Pela necessidade da retirada adequada
+dos escombros dado o valor que estes resíduos representam por
+
+32
+
+se tratar de uma edificação tombada, estes serviços contemplaram
+também a gestão dos resíduos gerados, a ser o foco deste estudo,
+compostos principalmente por madeira, telhas, aço, esquadrias,
+fragmentos de concreto e argamassas.
+Não restam dúvidas que este acontecimento foi devastador para
+a cultura e arquitetura brasileiras. Foi um alerta para a necessidade
+de condições adequadas de segurança e de um plano emergencial
+para que as ações tomadas após calamidades conservem o valor
+preexistente.
+
+Localização do Museu da Língua Portuguesa (MLP).
+
+5.1
+
+ENTE
+S
+
+MARGINAL TIETÊ
+
+IRAD
+
+CPTM
+
+AV. T
+
+5.1
+
+MLP
+
+33
+
+O EDIFÍCIO: CRONOLOGIA ARQUITETÔNICA
+5.2
+
+Para melhor compreensão dos resíduos gerados no contexto do
+último incêndio, torna-se de grande importância e necessidade o
+estudo do projeto da edificação, de seu sistema construtivo e dos
+materiais nela presentes. Por se tratar de um edifício construído no
+início do século XX, será destacada sua cronologia arquitetônica
+para dar ênfase nas modificações a que foi submetido, nos materiais
+e componentes que abriga desde então.
+1.
+
+A construção do edifício da Estação da Luz
+
+O edifício que abriga a Estação da Luz foi implantado no antigo
+Campo da Luz, em terreno cedido pelo governo de São Paulo em
+1860 à São Paulo Railway, companhia que construiu a primeira
+ferrovia do estado. São Paulo prosperava economicamente graças
+ao cultivo do café, e, cada vez mais, tornava-se necessário criar e
+ampliar a rede de comunicações.
+Em 1860, utilizando-se de capitais ingleses, o Barão de Mauá,
+importante banqueiro e empresário industrial do século XIX, deu
+início à construção do leito da estrada “The São Paulo Railway”,
+partindo do Porto de Santos até Jundiaí, via São Paulo. “Técnicos
+britânicos venceram 793 metros de Serra, por meio de uma série
+de planos inclinados, com um declive de 10%, e locomotivas
+estacionárias para fazer descer e subir os trens”.8 A linha foi aberta
+ao tráfego em 1867.
+
+5.3
+
+A construção da estação foi dirigida pelo engenheiro F. Ford. Foi
+iniciada em 1898 e completada em 1901, com a particularidade de
+ter sido totalmente calculada, projetada e ter seus componentes,
+desde vigas estruturais até ornamentações, construídos na Inglaterra.
+O projeto é do arquiteto inglês Charles Henry Driver, que também
+projetou várias estações ferroviárias na Europa. A ornamentação em
+ferro fundido, as bandeiras sobre as portas em estilo art nouveau,
+as grades e mãos francesas que sustentam a marquise, as vigas da
+estrutura metálica, o grande arcabouço de aço, as arcadas, passarelas
+até os parafusos vieram das oficinas inglesas.
+Vale destacar que os tijolos são o único material que se tem
+registro de fabricação no Brasil. “Os tijolos, por exemplo, foram feitos
+aqui, em olarias que a própria SP Railway incentivava que fossem
+feitas”, afirma o arquiteto Lúcio Gomes Machado. 9
+A Estação da Luz simboliza a consolidação de uma nova ordem,
+que inseriu o estado de São Paulo no regime de produção arquitetônica
+internacional. Associa-se ao esforço de ocupar o interior do estado
+por intermédio da construção de uma imensa rede ferroviária. Pode
+ser considerada também a “segunda fundação da cidade”. A torre,
+o relógio e sua extensa fachada constituíram-se marcos do centro
+urbano, podendo ser vistos a centenas de metros de distância,
+impressionavam pelas suas dimensões: respectivamente, 52 m de
+altura e 157 m de comprimento.
+É um edifício que compõe a memória urbana da cidade, por
+
+34
+
+(8) Fonte: Encarte “Tombamento Estação da Luz” – CONDEPHAAT”, disponível no arquivo
+IPHAN/SP. Acesso em 16.10.2016
+
+(9) Fonte: http://www1.folha.uol.com.br/cotidiano/2015/12/1721696-incendio-de-grandesproporcoes-atinge-museu-da-lingua-portuguesa.shtml . Acesso em 20.11.2016.
+
+5.2
+
+Cartão postal de São Paulo da primeira metade do século XX.
+
+5.3
+
+Edifício da Estação da Luz em 1939.
+
+5.4
+
+Vista aérea da cobertura da Estação da Luz.
+
+5.5
+
+Torre do relógio.
+
+5.6
+
+Vista de um dos frontões com os nichos e adornos descaracterizados
+pela ação do tempo.
+Fonte das imagens 5.2 a 5.6: acervo fotográfico IPHAN/SP.
+
+5.4
+
+5.5
+
+representar um documento do período do grande desenvolvimento
+da lavoura do café, e também do início da industrialização. Do
+ponto de vista arquitetônico, introduz as conquistas que já haviam
+revolucionado as tendências estilísticas na Europa, privilegiando
+o conhecimento científico e o desenvolvimento tecnológico. Não
+havia nada comparado com a grandeza da Estação da Luz, o que fez
+dela um marco e um símbolo permanentes da cidade.
+2. 1946-1951
+As alterações mais evidentes no edifício em relação ao projeto
+original estão ligadas a um episódio trágico. Em 1946, um incêndio
+de grandes proporções atingiu toda a sua ala leste, o grande saguão
+central e a torre do relógio. A torre serviu de chaminé que, com a
+diferença de pressão, concentrou o fogo em seu interior, evitando
+assim que a ala oeste fosse destruída.
+Neste período em destaque foram executadas as obras de
+reconstrução da Estação. O novo projeto contemplou a inserção de
+mais um pavimento no lado leste. Implicou, também, na substituição
+de grande parte da cobertura, respeitando-se o material utilizado
+originalmente – zinco – no alteamento dos torreões, com o
+acréscimo de conjunto de janelas tipo basculantes no local da
+antiga balaustrada, gerando um andar intermediário. Essas obras
+se integraram a um plano de ampliação do edifício principal, a fim
+de torná-lo mais adequado às necessidades dos serviços que lá
+
+5.6
+
+aconteciam.
+Reconstruída e ampliada, a Estação da Luz apresentava em 1951
+pequenas reformas em sua estrutura. Também sofreu modificações
+o grande salão central, ganhando dois conjuntos de grossos pilares
+(8 colunas de concreto armado), novos pisos, nova iluminação e as
+alvenarias foram revestidas com argamassa raspada, de tonalidade
+10
+clara.
+Externamente, a reforma respeitou as características originais
+do edifício, reproduzindo a ornamentação e riqueza dos elementos
+originais. A cúpula da torre do relógio foi refeita e a gare ganhou
+uma plataforma central.
+3.
+
+1960 - 1980
+
+Nessas décadas, sobretudo na de 1970, foram realizadas sucessivas reformas, todas de pequeno porte, no corpo do edifício
+principal, em toda a gare e em vários ambientes internos da Estação,
+com inserção de elevadores em ambas as alas. Alguns anexos são
+construídos na plataforma e, no viaduto Couto Magalhães – lado
+Jundiaí – são feitos acréscimos e novas edificações.
+4.
+
+1980-2000
+
+Década que acontece seu tombamento (05.05.1982), foi subme(10) Fonte: Boletim Ferroviário – REDEFESA, 1967, disponível no arquivo IPHAN/
+SP. Acesso em 16.10.2016.
+
+35
+
+5.7
+
+Entrada do MLP no seu ano de inauguração, 2006.
+
+5.8
+
+Fachada restaurada, com novo projeto de iluminação em 2004.
+Fonte das imagens 5.7 e 5.8: “Memória Viva e Reinventada”, reportagem presente na revista aU
+Arquitetura e Urbanismo ano 21 nº146, maio de 2006.
+
+5.7
+
+tido a pequenas reformas para adequação do edifício às normas
+vigentes de segurança e para atender ao tráfego existente. A
+fachada foi submetida a pequenas intervenções para melhorar seu
+estado de conservação e diminuir os fenômenos de degradação nela
+observados.
+
+arquitetônico de Pedro e Paulo Mendes da Rocha conseguiu criar
+espaços para receber a mais alta tecnologia, ao mesmo tempo
+preservando a edificação centenária. Respeitando integralmente a
+fisionomia externa da construção, os arquitetos dotaram o prédio
+de infraestrutura moderna, sistema de ar condicionado e elevadores.
+
+5. 2000-2014: a instalação do Museu da Língua Portuguesa
+
+O desafio foi viabilizar a instalação do museu em um espaço
+estreito e comprido, um retângulo de 14 x 120m, compartimentado
+em salas administrativas. A solução foi remover as paredes divisórias,
+liberando os espaços da ala leste para o museu. A ala oeste acolhe
+um centro educacional de pesquisa da língua portuguesa. Toda
+restaurada, essa ala teve sua configuração original mantida.
+
+Um museu sem precedentes no mundo todo foi o que São
+Paulo ganhou com a reconversão do edifício da Estação da Luz.
+Sua idealização começou em meados do ano 2000, pela Secretaria
+de Cultura do Estado de São Paulo e Fundação Roberto Marinho.
+Inaugurado em março de 2006, o Museu da Língua Portuguesa
+ocupa os espaços onde até então funcionavam os escritórios
+administrativos da estação. Foi concebido dentro de um novo
+conceito, totalmente virtual, empregando formas diferenciadas de
+comunicação com o público – filmes, módulos interativos, leituras e
+audiovisuais –, entre outros recursos de última geração.
+A Estação da Luz ocupa uma área de 7.470 m², dos quais 4.333
+m² foram cedidos pela CPTM (Companhia Paulista de Trens
+Metropolitanos) à Secretaria Estadual da Cultura para instalação
+do MLP. O saguão central, os subsolos e a gare permanecem
+propriedade da CPTM.
+11
+
+A um custo de 37 milhões de reais aproximadamente, o projeto
+
+36
+
+5.8
+
+Em 2003 e 2004, dentro do processo de reconversão do edifício,
+as coberturas e as fachadas foram inteiramente restauradas,
+respeitando-se os mínimos detalhes construtivos. Com sua
+fisionomia original recuperada e contando com nova iluminação,
+foi inaugurada nas comemorações dos 450 anos de São Paulo, em
+janeiro de 2004. Foram restaurados 4.230 m² de fachada, 2.550
+m² de cobertura, 178 esquadrias, 400 elementos artísticos 12, como
+rosáceas, folhas de acanto, balaústres e pináculos e até mesmo a
+caixa do grande relógio.
+No terceiro pavimento projetaram um auditório com capacidade
+de 166 lugares. Para que este pudesse ocupar toda a largura do
+prédio, foi necessário eliminar os pilares internos e substituir o sistema
+
+5.9
+
+Incêndio de 2015: cobertura do edifício sendo
+devastada pelas chamas.
+
+5.10
+
+Vista aérea do MLP após o incêndio, degradação fica evidente
+Fonte das imagens 5.9 e 5.10: http://www1.folha.uol.com.
+br/cotidiano/2016/03/1748437-restauracao-do-museu-delingua-portuguesa-deve-custar-r-18-mi.shtml.
+Acesso em 20.11.2016.
+
+5.9
+
+de tesouras que neles se apoiavam. Preservar as janelas originais da
+edificação foi outra providência dos arquitetos, que precisaram criar
+um sistema de painéis pivotantes de vedação isolados da fachada.
+Vale salientar também as melhorias feitas na edificação no aspecto
+da infraestrutura. Para preparar a Estação da Luz aos novos usos foi
+necessário ampliar o número de banheiros e instalação de sistemas
+de ar condicionado. Além disso, o edifício teve que receber calhas
+para acomodar todo o cabeamento necessário para fazer funcionar
+muitos computadores, telões e monitores. Foram 63 mil metros de
+cabos de força, 17 mil metros de eletrodutos, 3 mil metros de cabos
+de vídeo e outros 3,5 mil metros de áudio, além de 1,1 mil metros
+13
+de fibra
+óptica.
+Cada solução para adaptar o edifício aos novos usos foi
+acompanhada e aprovada por três níveis de órgãos de preservação:
+federal, estadual e municipal. “Foi criado um grupo de trabalho
+muito feliz, em que cada uma das três instâncias de preservação
+designou dois de seus técnicos, que acompanharam todo o processo,
+contribuindo, inclusive, para que o resultado fosse mais cuidadoso
+em relação aos aspectos a serem preservados, o que gerou um
+diálogo muito interessante, rico e solidário”, afirmou o arquiteto
+14
+Pedro Mendes da Rocha.
+O Museu, portanto, funcionou durante quase 10 anos, desde
+sua inauguração, em 2006 até o final de 2015, quando aconteceu
+(11,12,13 e 14) Fonte: “Memória Viva e Reinventada”, reportagem presente na revista aU Arquitetura e Urbanismo ano 21 nº146, maio de 2006.
+
+5.10
+
+o segundo incêndio, a ser comentado em sequência. Nas páginas
+39 a 41 há o projeto do MLP: as plantas dos pavimentos com seus
+respectivos ambientes.
+6. 2015 - Atualmente
+O segundo incêndio que marcou a história do Edifício da Estação
+da Luz aconteceu na tarde do dia 21 de dezembro de 2015, meses
+antes do museu completar uma década de existência. Ele teve início
+com um curto circuito, gerado a partir da troca de uma lâmpada
+no corredor do primeiro andar. Um bombeiro civil que trabalhava
+no local morreu combatendo as chamas. A área comprometida foi
+grande, praticamente todo o museu e todos os pavimentos foram
+afetados. As chamas não afetaram a estrutura da estação de trem
+local.
+O maior dano foi à arquitetura da Estação da Luz, uma vez
+que todo acervo do museu é digital. As plantas nas páginas 42 a 44
+evidenciam a intensidade dos danos em cada pavimento. A maior
+destruição foi no terceiro pavimento, cuja cobertura foi totalmente
+perdida pelo fogo, além de suas esquadrias e revestimentos,
+altamente danificados, vide imagens 5.9 e 5.10.
+Desde então, o Museu encontra-se interditado, sem qualquer
+atividade. Os serviços emergenciais pós-incêndio começaram
+em dezembro de 2015, terminando em agosto seguinte. A
+
+37
+
+empresa responsável fez as intervenções necessárias para que a
+segurança estrutural da edificação fosse assegurada e os resíduos,
+adequadamente geridos.
+Por se tratar de um bem tombado, mesmo com a emergência dos
+serviços, os resíduos não poderiam simplesmente ser descartados,
+mas sim analisados para possível reaproveitamento. Quanto à
+estabilidade da estrutura foram reforçados alguns pilares que
+tiveram suas seções afetadas pelo fogo, impermeabilizaram as lajes
+do último pavimento, pois ficaram expostas devido à total perda
+cobertura (trama e telhas), instalaram sistemas de drenagens de
+água pluvial e construíram uma cobertura provisória para proteção
+dessas áreas e prevenção de infiltrações.
+Atualmente, o edifício está passando pelas obras de restauração
+das fachadas e esquadrias, com previsão de término em novembro
+de 2017. Caberá aos arquitetos e demais profissionais selecionados
+salvaguardar e usufruir dos potenciais que essa edificação possui.
+
+38
+
+PRAÇA DA LUZ
+
+4
+
+2
+1
+
+ESTAÇÃO DE TREM
+
+2
+
+3
+
+2
+
+4
+4
+
+3
+3
+
+6
+5
+0
+
+5
+
+10
+
+25
+
+PLANTA PRIMEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+PROJETO ANTERIOR AO INCÊNDIO
+
+1
+2
+3
+4
+5
+6
+
+elevadores da ala oeste
+núcleo da educação
+banheiros
+administração
+sala de exposições temporárias
+elevadores / árvore da língua
+39
+
+PRAÇA DA LUZ
+
+2
+1
+
+4
+
+5
+
+7
+
+3
+
+8
+
+4
+
+6
+3
+
+3
+
+ESTAÇÃO DE TREM
+0
+
+5
+
+10
+
+25
+
+PLANTA SEGUNDO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+PROJETO ANTERIOR AO INCÊNDIO
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+elevadores da ala oeste
+beco das palavras
+grande galeria
+banheiros
+história da língua portuguesa
+palavras cruzadas
+edição de imagens
+elevadores / árvore da língua
+40
+
+PRAÇA DA LUZ
+
+1
+
+ESTAÇÃO DE TREM
+
+2
+
+3
+
+4
+
+0
+
+5
+
+10
+
+25
+
+PLANTA TERCEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+PROJETO ANTERIOR AO INCÊNDIO
+
+1
+2
+3
+4
+
+praça da língua
+auditório
+banheiros
+elevadores / árvore da língua
+
+41
+
+INTENSIDADE DOS DANOS NAS ÁREAS ATINGIDAS
+
+Fuligem no teto do saguão.
+
+Local onde o incêndio começou.
+
+Critério adotado para a análise:
+ALTA
+
+Destruição de componentes estruturais,
+vedações, esquadrias e sistemas prediais;
+Destruição de vedações, esquadrias e
+sistemas prediais;
+Destruição de esquadrias e sistemas pediais;
+
+BAIXA
+
+Fuligem e sujidades;
+Ausência de qualquer alteração causada
+pelo incêndio.
+
+PRAÇA DA LUZ
+Fotos cedidas pela empresa.
+
+ESTAÇÃO DE TREM
+
+0
+
+5
+
+10
+
+25
+
+PLANTA PRIMEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+42
+
+INTENSIDADE DOS DANOS NAS ÁREAS ATINGIDAS
+
+Ambientes totalmente danificados.
+
+Critério adotado para a análise:
+ALTA
+
+Destruição de componentes estruturais,
+vedações, esquadrias e sistemas prediais;
+Destruição de vedações, esquadrias e
+sistemas prediais;
+Destruição de esquadrias e sistemas pediais;
+
+BAIXA
+
+Fuligem e sujidades;
+Ausência de qualquer alteração causada
+pelo incêndio.
+
+PRAÇA DA LUZ
+
+Fotos cedidas pela empresa.
+
+ESTAÇÃO DE TREM
+0
+
+Fogo sobe pelo vão de circulação, atingindo
+rapidamente o segundo pavimento.
+
+5
+
+10
+
+25
+
+PLANTA SEGUNDO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+43
+
+INTENSIDADE DOS DANOS NAS ÁREAS ATINGIDAS
+
+Cobertura e elementos estruturais totalmente destuídos.
+
+Critério adotado para a análise:
+ALTA
+
+Destruição de componentes estruturais,
+vedações, esquadrias e sistemas prediais;
+Destruição de vedações, esquadrias e
+sistemas prediais;
+Destruição de esquadrias e sistemas pediais;
+
+BAIXA
+
+Fuligem e sujidades;
+Ausência de qualquer alteração causada
+pelo incêndio.
+Fotos cedidas pela empresa.
+
+PRAÇA DA LUZ
+
+ESTAÇÃO DE TREM
+
+0
+
+5
+
+10
+
+25
+
+PLANTA TERCEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+44
+
+5.11
+
+Treliças de madeira compondo a estrutura de sustentação da cobertura no último pavimento, ambiente intitulado Praça da Língua.
+Fonte : “Memória Viva e Reinventada”, reportagem presente na revista aU Arquitetura e
+Urbanismo ano 21 nº146.
+
+5.12
+
+Corte transversal do edifício que abriga o MLP. Destaque para
+elementos estruturais em concreto armado.
+Fonte : Desenho intitulado “Arquitetura - Concepção Funcional – Cortes Transversais C-C e
+D-D”, elaborado pela Companhia Paulista de Trens Metropolitanos, disponível no acervo
+iconográfico do IPHAN/SP.
+
+SISTEMA CONSTRUTIVO
+5.11
+
+A parcela do edifício que abriga o MLP, não distintamente do
+restante do complexo da Estação da Luz, carrega intrinsicamente em
+seu sistema construtivo componentes e materiais desses 116 anos
+de existência.
+ESTRUTURA A estrutura (vigas, pilares e lajes) mescla concepções
+em concreto armado com alvenaria estrutural, esta segunda
+composta de tijolos de barro cozido, assentados com argamassa de
+15
+saibro e cimento.
+VEDAÇÃO A vedação, majoritariamente, é composta por alvenaria
+de tijolos aparentes. Vale o destaque das novas divisões internas
+que foram adicionadas para as instalações do museu feitas com
+montantes metálicos e painéis de gesso acartonado (drywall).
+No período anterior ao primeiro incêndio, todas as alvenarias,
+interna e externamente, eram desprovidas de revestimento. Os
+únicos elementos que receberam revestimento foram as molduras
+dos arcos das quatro torres, dos arcos da estrutura de sustentação
+das escadas centrais de acesso e as bases das colunas.
+Entretanto, um mapeamento feito nas últimas décadas do século
+XX identificou dois tipos de acabamentos nas alvenarias: tijolos à
+vista e revestimentos de massa corrida.
+O memorial descritivo do projeto do museu, disponível no
+(15) Areia grossa em cuja composição entram grânulos maiores de pedra. Como agregado, se
+situa entre a areia e o cascalho.
+
+5.12
+
+45
+
+IPHAN/SP indica as seguintes vedações para o primeiro e terceiro
+pavimentos: paredes em chapas metálicas estruturadas. Para o
+segundo pavimento, paredes em chapas metálicas estruturadas com
+pintura esmalte fosco.
+COBERTURA A estrutura de sustentação da cobertura foi feita de
+treliças em madeira, cobertas por telhas de zinco e telhas de barro tipo
+“francesa”. Estavam presentes também calhas, rufos e condutores,
+segundo evidenciam os detalhes das plantas presentes no arquivo
+do IPHAN/SP (Instituto do Patrimônio Histórico e Artístico Nacional).
+FORROS Plantas datadas de 1988, do projeto de reforma e restauro
+16
+da Estação da Luz, indicam nos três pavimentos que correspondem
+à instalação do museu a presença de três tipos de forros: chapas
+metálicas onduladas, grelhas de alumínio com tratamento acústico
+e grelhas de alumínio. O gesso também foi utilizado em seus
+respectivos acabamentos.
+
+JANELAS Nas janelas, o predomínio é das coníferas, das quais a
+18
+mais frequente é o pinus, de origem europeia. Todas passaram por
+restauração no projeto do museu. As etapas comtempladas foram:
+retirada do excesso de verniz oxidado das madeiras, reintegração
+pontual das partes faltantes ou comprometidas, imunização,
+preparação, reaplicação de verniz e complementação das ferragens
+faltantes. Os vidros são, em sua maioria, simples e em locais
+específicos voltados para o ambiente externo, temperados.
+
+PORTAS
+O material predominante encontrado nas portas é a
+madeira das seguintes espécies Cabriuva Vermelha ou Balsamo,
+Arariba e Amendoim,17 espécies nobres muito procuradas para a
+fabricação de objetos que demandam estabilidade dimensional.
+
+PISOS As mesmas plantas destacadas no item “forros” identificam
+os seguintes pisos nas áreas que correspondem às dependências do
+museu: piso de alta resistência polido (espessura 8mm, monolítico
+com juntas plásticas), piso de alta resistência antiderrapante
+(espessura 10mm, monolítico com juntas plásticas), tábuas de
+madeira ipê, ladrilho hidráulico, bloco de granito apicoados, carpetes,
+piso vinílico em terminais de computadores e em escadas, piso em
+chapa metálica corrugada.
+
+Destas espécies, a de maior densidade e resistência mecânica é
+
+Visitas e registros fotográficos mais recentes disponíveis no IPHAN/
+
+ESQUADRIAS
+
+46
+
+a Cabriuva Vermelha. Em todas as portas que foram inspecionadas
+no Relatório de Mapeamento Gráfico e Fotográfico de Danos,
+disponível para consulta no IPHAN/SP, esta é a espécie empregada
+nos montantes e travessas das portas, peças que asseguram o
+desempenho estrutural, enquanto que as almofadas e enxertos são
+de Amendoim ou Arariba.
+
+(16) Elaboradas pelo Departamento de Estudos e Projetos da Superintendência de Trens Urbanos
+de São Paulo – STU – SP, disponíveis no IPHAN/SP.
+
+(17 e 18) Fonte: “Relatório de mapeamento gráfico e fotográfico de danos – Estação da Luz”,
+elaborado pelo escritório Restarq - Arquitetura, Restauração e Arte Ltda, disponível no arquivo
+IPHAN/SP, acesso em 16.10.2016.
+
+5.13
+
+Entrada do elevador ala oeste. Destaque para a ornamentação em
+ferro fundido na bandeira da porta e para a alvenaria aparente.
+Fonte : “Memória Viva e Reinventada”, reportagem presente na revista aU Arquitetura e
+Urbanismo ano 21 nº146.
+
+SISTEMA DE PROTEÇÃO CONTRA INCÊNDIO
+
+5.13
+
+SP evidenciam sua permanência até a data do último incêndio.
+PINTURA O memorial descritivo indica, para todos os pavimentos,
+paredes com acabamentos em pintura látex acrílica fosca.
+ELEMENTOS ORIGINAIS A riqueza dos elementos originais ainda
+encontrados no edifício – ornamentos intrínsecos à arquitetura, tais
+como lustres e as portas em madeira com bandeiras superiores em
+ferro fundido – e a simetria da composição apontam para cuidados
+especiais na linguagem formal e nas soluções técnicas, preservados
+nos tantos processos de reforma e restauração pelos quais o edifício
+foi submetido. Vale destacar a potencialidade destes elementos
+preservados, que deverão ser explorados e valorizados na restauração
+após este incêndio.
+
+Como o contexto da gestão dos resíduos analisado neste estudo
+de caso advém de uma situação de incêndio, será descrito o sistema
+de proteção contra incêndio passivo existente no museu. O seu
+19
+projeto, segundo a ficha técnica presente na revista aU , é de autoria
+de Nestor Caiuby.
+As medidas de segurança contra incêndio exigidas nas edificações,
+de acordo com o Regulamento de Segurança Contra Incêndio do
+20
+Corpo de Bombeiros da Polícia Militar de São Paulo (CBPMESP)
+são especificadas levando em consideração as características da
+edificação quanto à área construída, a altura, o tipo de ocupação do
+prédio e a época de construção.
+As tabelas de exigências indicam quais medidas são necessárias
+em determinada ocupação, em função das características. O Museu
+se enquadra na categoria F-1, definida por locais onde há objetos de
+valor inestimável e exemplificada por museus, centro de documentos
+históricos, galerias de arte, bibliotecas e assemelhados, conforme
+mostra a tabela 5.14.
+As especificações para essa categoria estão listadas na tabela 5.15.
+Todos os pavimentos possuem alturas entre 3,5 m e 5 m, exceto o
+terceiro que possui uma parcela com 13m, conforme destacado no
+corte da figura 5.14. Portanto, para o museu há dois conjuntos de
+medidas de segurança: H ≤ 6 e 12 < H ≤ 23.
+
+(19) Fonte: “Memória Viva e Reinventada”, reportagem presente na revista aU Arquitetura e
+Urbanismo ano 21 nº146, maio de 2006.
+
+(20) Disponíveis em: http://www.corpodebombeiros.sp.gov.br/internetcb/site/Instrucoes_regularizacao.php. Acesso em 22.11.2016.
+
+47
+
+5.14
+
+Corte longitudinal do MLP anteriormente ao incêndio.
+Fonte : “Memória Viva e Reinventada”, reportagem presente na revista aU Arquitetura e
+Urbanismo ano 21 nº146.
+
+5.14
+
+As especificações são: hidrantes e mangotinhos, extintores,
+sinalização de emergência, detecção de incêndio, alarme de
+incêndio, iluminação de emergência, brigada de incêndio, plano
+de emergência, saídas de emergência, controle de materiais de
+acabamento, segurança estrutural contra incêndio e acesso de
+viatura na edificação.
+As plantas com o sistema de proteção contra incêndio do MLP
+mais recentes em relação à data da calamidade são de 09 de julho
+de 2015 e contém o posicionamento dos hidrantes, mangotinhos e
+extintores com as distâncias de instalação definidas na NBR 12.693.21
+Também contemplam o sistema de sinalização e as especificações
+dos materiais de acabamento, conforme a Instrução Técnica nº
+10/2015 do Corpo de Bombeiros. 22
+
+48
+
+(21) NBR 12.693:2013 - Sistemas de proteção por extintores de incêndio.
+(22) Instrução técnica nº 10/2015. Controle de materiais de acabamento e revestimento.
+
+5.15
+
+Anexos do Regulamento de Segurança contra Incêndio - Tabela 1 Classificação das Edificações e Áreas de Risco Quanto à Ocupação.
+
+5.16
+
+Anexos do Regulamento de Segurança contra Incêndio - Tabela 6F.1 Edificações de divisão F-1 e F-2 com área superior a 750m² ou altura
+superior a 12m.
+
+Disponível em: www.legislacao.sp.gov.br. Acesso em 22/11/2016.
+
+Disponível em: www.legislacao.sp.gov.br. Acesso em 22/11/2016.
+
+Grupo
+
+E
+
+F
+
+Ocupação/Uso
+
+Educacional e
+cultura física
+
+Local de Reunião
+de
+Público
+
+Divisão
+
+Descrição
+
+E-1
+
+Escola em geral
+
+E-2
+
+Escola especial
+
+Exemplos
+Escolas de primeiro, segundo e terceiro graus,
+cursos supletivos e pré-universitário e
+assemelhados
+Escolas de artes e artesanato, de línguas, de
+cultura geral, de cultura estrangeira, escolas
+religiosas e assemelhados
+Locais de ensino e/ou práticas de artes
+marciais, natação, ginástica (artística, dança,
+musculação e outros) esportes coletivos (tênis,
+futebol e outros que não estejam incluídos em
+F-3), sauna, casas de fisioterapia e
+assemelhados. Sem arquibancadas.
+
+E-3
+
+Espaço para cultura física
+
+E-4
+
+Centro de treinamento
+profissional
+
+Escolas profissionais em geral
+
+E-5
+
+Pré-escola
+
+Creches, escolas maternais, jardins de infância
+
+E-6
+
+Escola para portadores de
+deficiências
+
+Escolas para excepcionais, deficientes visuais
+e auditivos e assemelhados
+
+F-1
+
+Local onde há objeto de
+valor inestimável
+
+F-2
+
+Local religioso e velório
+
+F-3
+
+Centro esportivo e de
+exibição
+
+F-4
+
+Estação e terminal de
+passageiro
+
+F-5
+
+Arte cênica e auditório
+
+F-6
+
+Clubes sociais e diversão
+
+Museus, centro de documentos históricos,
+galerias de arte, bibliotecas e assemelhados
+Igrejas, capelas, sinagogas, mesquitas,
+templos, cemitérios, crematórios, necrotérios,
+salas de funerais e assemelhados
+Arenas em geral, estádios, ginásios, piscinas,
+rodeios, autódromos, sambódromos, pista de
+patinação e assemelhados. Todos com
+arquibancadas
+Estações rodoferroviárias e marítimas, portos,
+metrô, aeroportos, heliponto, estações de
+transbordo em geral e assemelhados
+Teatros em geral, cinemas, óperas, auditórios
+de estúdios de rádio e televisão, auditórios em
+geral e assemelhados
+Boates, clubes em geral, salões de baile,
+restaurantes dançantes, clubes sociais, bingo,
+bilhares, tiro ao alvo, boliche e assemelhados
+
+F-7
+
+Construção provisória
+
+Circos e assemelhados
+
+F-8
+
+Local para refeição
+
+Restaurantes, lanchonetes, bares, cafés,
+refeitórios, cantinas e assemelhados
+
+F-9
+
+Recreação pública
+
+Jardim zoológico, parques recreativos e
+assemelhados
+
+F-10
+
+Exposição de objetos ou
+animais
+
+Salões e salas para exposição de objetos ou
+animais. Edificações permanentes
+
+Grupo de ocupação
+e uso
+
+GRUPO F – LOCAIS DE REUNIÃO DE PÚBLICO
+F-1 (museu...)
+
+F-2 (igrejas...)
+
+Classificação quanto à altura
+
+Classificação quanto à altura
+
+(em metros)
+
+(em metros)
+
+Divisão
+Medidas de
+Segurança contra
+Incêndio
+Acesso de Viatura na
+Edificação
+Segurança Estrutural
+contra Incêndio
+Compartimentação
+Vertical
+Controle de Materiais
+de Acabamento
+Saídas de
+Emergência
+
+Térrea H  6
+
+6 < H 12 < 23 < Acima Térre
+6 < H 12 < 23 < Acima
+H6
+a
+ 12 H  23 H  30 de 30
+ 12 H  23 H  30 de 30
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+-
+
+-
+
+-
+
+X2
+
+X3
+
+X7
+
+-
+
+-
+
+-
+
+X1
+
+X3
+
+X7
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X5
+
+Plano de Emergência
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+X4
+
+Brigada de Incêndio
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Iluminação de
+Emergência
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Alarme de Incêndio
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Detecção de Incêndio
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+-
+
+-
+
+-
+
+-
+
+X
+
+X
+
+Sinalização de
+Emergência
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+-
+
+-
+
+-
+
+-
+
+-
+
+X
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+X6
+
+-
+
+-
+
+-
+
+-
+
+-
+
+X6
+
+Extintores
+Hidrante e
+Mangotinhos
+Chuveiros
+Automáticos
+Controle de Fumaça
+
+49
+
+ETAPA I: SERVIÇOS EMERGENCIAIS
+PLANO DE GESTÃO DE RESÍDUOS
+Descrição do Plano
+
+Coube à empresa responsável pela execução dos serviços
+emergenciais pós-incêndio a elaboração e aprovação do plano que
+contemplou a gestão e o gerenciamento dos resíduos dessa fase
+no Museu da Língua Portuguesa. O plano apresenta as diretrizes a
+serem adotadas pela equipe na gestão dos RCC no que diz respeito
+a dois aspectos: remoção de rescaldo do remanescente e limpeza e
+proteções emergenciais no MLP.
+O plano define os possíveis resíduos de construção a serem
+encontrados nesta fase da obra emergencial pós-incêndio,
+especificando diretrizes para o seu correto armazenamento e
+destinação, como mostra a tabela 5.17. E, para os resíduos a serem
+gerados nas dependências do canteiro, especifica diretrizes para a
+redução da sua geração, são eles: cartuchos vazios de impressora,
+lixo de varrição, máquinas e equipamentos contaminados com óleo
+e graxa, metais, óleos usados, papel e papelão, pilhas e baterias,
+plástico, resíduo alimentar, resíduo de EPI (Equipamento de Proteção
+Individual), resíduo de madeira, lâmpadas fluorescentes, vidros.
+Também estabelece procedimentos e orienta as ações e recursos
+materiais a serem utilizados no dia-a-dia da obra de forma a gerenciar
+adequadamente os resíduos e efluentes gerados. Em todas as ações,
+salienta:
+“(...) deverá ser privilegiada a minimização/racionalização de recursos
+naturais, visando, prioritariamente a não geração de resíduos e,
+quando isto não for possível, a redução, reutilização, a reciclagem
+
+50
+
+quando isto não for possível, a redução, reutilização, a reciclagem e
+a destinação final dos mesmos.“ 23
+Esses são os princípios primordiais de uma gestão de resíduos
+eficaz: não envolve apenas a proposição de ações imediatas, mas
+também aspectos que incentivem a não geração e, quando isso for
+inevitável, que uma adequada destinação final aconteça, com ações
+voltadas para seu máximo reaproveitamento e reciclagem.
+O plano segue a classificação dos resíduos definida pela Resolução
+CONAMA 307, a qual os RCC dessa fase seriam submetidos. Esta
+classificação está contemplada neste trabalho, no capítulo 3, pág. 27.
+Na tabela 5.17 estão descritos os possíveis resíduos da limpeza
+do espaço baseados no sistema construtivo do museu e seus
+respectivos armazenamentos e destinações. Vale salientar que a
+identificação dos componentes que constituem esses materiais
+(coluna “exemplificação”) é de extrema importância, pois facilita sua
+identificação e consequentemente, as etapas seguintes do processo
+de gestão (armazenamento e destinação, por exemplo). Também
+foram definidos equipamentos tanto para o transporte interno
+(carrinho de mão, jericas) quanto para o armazenamento fora do
+canteiro (caçambas, baias e contêineres).
+Pode-se dizer que um dos benefícios de um plano de gestão
+de resíduos, mesmo em uma situação emergencial, é a identificação
+(23) Programa de Gerenciamento de Resíduos da Construção Civil (PGRCC) – Obra Emergencial
+Museu da Língua Portuguesa, p.03
+
+5.17
+
+Diretrizes para os RCC.
+Fonte: Programa de Gerenciamento de Resíduos da Construção Civil
+(PGRCC) – Obra Emergencial Museu da Língua Portuguesa, p.08.
+
+5.17
+
+Diretrizes
+Exemplificação
+
+Madeira
+
+Metais
+
+Entulho
+Cerâmico
+
+Armazenamento
+
+Destinação
+
+-
+
+Os resíduos de madeira
+deverão ser armazenados
+em baias ou caçambas
+devidamente identificadas.
+
+Deverão ser descartados por
+empresas transportadoras
+devidamente credenciadas
+junto ao órgão ambiental e,
+preferencialmente, terão como
+destino final olarias, padarias e
+confeitarias que utilizam a
+madeira como combustível para
+seus fornos.
+
+Sucata metálica:
+pedaços de
+ferramentas e
+equipamentos,
+aparas, pedaços de
+tubos, de chapas e
+vergalhões, arames,
+pregos, latas vazias.
+
+Serão armazenados em
+baias ou caçambas
+devidamente identificadas e
+sinalizadas quanto aos
+riscos de acidentes. Sempre
+que possível e quando o
+volume de resíduo assim o
+justifique, a sucata metálica
+deverá ser selecionada e
+estocada por tipo de metal
+que a constitui.
+
+A sucata deverá ser descartada
+por empresa transportadora
+devidamente credenciada junto
+ao órgão ambiental e
+preferencialmente, terão como
+destino final usinas metalúrgicas
+que reaproveitam este resíduo
+como matéria prima para sua
+produção.
+
+Deverão ser estocados em
+caçambas devidamente
+identificadas.
+
+O entulho cerâmico deverá ser
+descartado por empresa
+transportadora credenciada
+junto ao órgão ambiental e
+preferencialmente, terão como
+destino final entidades que
+procedem a reutilização,
+mediante a reciclagem como
+agregados ou áreas utilizadas
+pela Prefeitura Municipal.
+
+Constitui sobras de
+tijolos, telhas de
+fibrocimento,
+concretos, pisos e
+azulejos, ardósia e
+argamassas.
+
+de componentes que podem ser reutilizados e reciclados após sua
+saída da obra, como foi descrito na coluna “destinação” da tabela.
+Para a madeira, por exemplo, foi destacada a revenda como
+combustível para fornos de estabelecimentos comerciais; para os
+metais, revenda para usinas metalúrgicas que reaproveitem esse
+resíduo como matéria prima, e para o entulho cerâmico, destinação
+para entidades que pratiquem sua reciclagem como agregados ou
+para entidades autorizadas pela Prefeitura.
+Por fim, é destacado que o descarte dos três tipos de resíduos deve
+ser feito por empresas transportadoras devidamente credenciadas
+junto ao órgão ambiental. Apesar de ser uma diretriz obrigatória,
+é de importância ímpar por impedir e não incentivar o transporte
+ilegal e consequentemente o despejo em locais inapropriados dos
+resíduos, evitando assim todos os danos e riscos à saúde pública
+decorrentes.
+São especificadas também diretrizes para o manuseio dos resíduos
+gerados, cabendo à empresa contratada os cuidados desde o ponto
+de geração até a área de armazenamento temporário dentro do MLP
+e posteriormente, por empresa de transporte licenciada e aprovada
+pelo órgão ambiental.
+Além disso, o plano expõe os documentos legais, controles de
+movimentações e licenças ambientais necessários para garantir que
+
+51
+
+5.18
+
+Cronograma de implantação do plano.
+Fonte: Programa de Gerenciamento de Resíduos da Construção Civil (PGRCC) –
+Obra Emergencial Museu da Língua Portuguesa, p.13.
+
+os resíduos tivessem um descarte adequado desde a sua geração
+até a chegada ao receptor. São eles: CTR (Controle de Transporte
+de Resíduos), Certificado de Destinação Final de Resíduos (emitido
+pelo local de disposição final) e Auto de Licença de Funcionamento
+(para as empresas transportadoras), destacando que o descarte dos
+três tipos de resíduos deve ser feito por empresas transportadoras
+devidamente credenciadas junto ao órgão ambiental.
+Salienta também a necessidade de verificação do estado de
+conservação e utilização dos meios a serem utilizados no transporte
+antes do início da atividade, de forma a não permitir vazamentos
+ou derramamentos do resíduo do local de disposição até o local de
+disposição temporária.
+O plano apresenta ainda a necessidade de educação ambiental
+com todos os funcionários e destaca a importância de obedecerem
+rigorosamente às regras estabelecidas pelo setor de SST (Segurança
+e Saúde do Trabalho) quanto ao uso de EPIs. E por último, descreve
+o cronograma de implantação do plano (tabela 5.18), definido
+de fevereiro a abril de 2016. A gestão dos resíduos referentes ao
+incêndio foi iniciada ao final de dezembro de 2015 e concluída na
+primeira quinzena de maio de 2016, quinze dias depois do previsto.
+O plano de Gestão de Resíduos elaborado aborda os conceitos
+definidos pela Política Nacional dos Resíduos Sólidos, e cumpre
+todos os aspectos legais exigidos pelas normas vigentes: NBR
+
+52
+
+24
+
+10.004, NBR 11.174, NBR 12.235 e Resolução CONAMA nº 307 e
+nº 469. Contemplou os possíveis resíduos a serem coletados, como
+deveriam ser armazenados e sua correta destinação final.
+
+5.18
+
+2016
+JAN
+
+FEV
+
+MAR
+
+ABR
+
+MAI
+
+JUN
+
+Elaboração do PGRCC
+Envio do PGRCC para
+avaliação e aprovação
+da fiscalização
+Distribuição de
+coletores e caçambas
+no ponto de geração
+de resíduos
+Coleta dos resíduos no
+ponto de geração
+Armazenamento dos
+resíduos
+Destinação final dos
+resíduos
+Retirada dos coletores
+e caçambas
+(24) NBR 10.004 - Resíduos sólidos – Classificação, NBR 11.174 - Armazenamento de resíduos
+classes II - não inertes e III - inertes, NBR 12.235 - Armazenamento de resíduos sólidos
+perigosos.
+
+Disposição mensal de resíduos que saíram do MLP por tipo de
+material.
+
+Volume de resíduo - m³
+
+5.19
+
+Fonte dos dados: Controles de Movimentações cedidos pela empresa contratada de
+dezembro de 2015 a maio de 2016.
+
+PLANO DE GESTÃO DE RESÍDUOS
+O que foi executado
+
+700
+600
+500
+400
+300
+200
+100
+0
+
+Vidro
+Papel
+Madeira
+Gesso
+Aço
+Concreto
+
+5.19
+
+A aprovação do plano de gestão de resíduos aconteceu somente
+em março de 2016, após o início dos serviços. Porém, devido ao
+caráter emergencial da obra, onde havia riscos de desmoronamento
+e instabilidade estrutural de alguns pilares, foi necessária a retirada
+de alguns escombros antes da aprovação do plano. Essa situação é
+evidenciada no gráfico 5.19, onde se observam retiradas pontuais
+necessárias em dezembro, janeiro e fevereiro, sendo que a partir da
+aprovação houve o maior volume. Em março foram retirados 613 m³,
+o que corresponde a 61% do total de resíduos transportados para
+fora da obra.
+Observa-se também no gráfico 5.19 que os tipos de resíduos
+identificados no contexto pós-incêndio - argamassa, concreto,
+ferro, gesso, madeira, papel e vidro - foram superiores aos tipos de
+resíduos previstos no plano (tabela 5.17).
+Desde o início houve a prática de separação, armazenamento e
+manuseio dos resíduos. Os resíduos eram separados nos respectivos
+pavimentos por tipo de material e depois conduzidos às caçambas
+e baias dispostas no térreo com a ajuda de pequenos guindastes e
+tubos de descarga de resíduos.
+Embora estes equipamentos não tenham sido contemplados no
+plano de gestão de resíduos inicialmente foi necessário seu uso no
+transporte interno de material, pois os que foram contemplados
+(carrinho de mão e jericas) não foram satisfatórios para atender à
+
+necessidade da obra. Nas páginas seguintes, as atividades ligadas
+à gestão dos resíduos estão evidenciadas nas plantas de cada
+pavimento.
+Em suma, a gestão dos resíduos gerados pelo incêndio aconteceu
+do final de dezembro até início de maio e as demais atividades, de
+janeiro a agosto de 2016. Totalizou, aproximadamente, a geração de
+1.000 m³ de resíduos distribuídos conforme o gráfico 5.20.
+Foram destinados 240 m³ de madeira sem condição de
+aproveitamento aos aterros. Além desse volume, uma pequena
+quantidade de vigas de madeira permaneceu armazenada na obra
+e apenas 17,3 m³ será reutilizado na restauração das esquadrias do
+Museu, como batentes.
+Essa quantidade de resíduos gerada é reflexo do que foi destruído com o incêndio nos três pavimentos ocupados pelo MLP. O
+último pavimento foi o mais atingido em área e nível de danos e
+teve suas vedações, esquadrias, tubulações que compunham os
+sistemas prediais totalmente destruídos. Sua cobertura foi altamente
+comprometida e somente algumas treliças de madeira, com seções
+maiores, não foram queimadas completamente, podendo ser
+reaproveitadas.
+No primeiro pavimento, a única ala danificada foi onde o incêndio
+se iniciou, os pilares e vigas tiveram suas seções desgastadas pelo
+
+53
+
+Formatado: Fonte: 12 pt
+
+Papel
+3,1%
+Vidro
+0,4%
+Aço
+46,4%
+
+5.20
+
+Argamassa
+4,0%
+
+Composição dos resíduos da obra.
+Fonte dos dados: Controles de Movimentações cedidos pela empresa contratada de
+dezembro de 2015 a maio de 2016.
+
+Gesso
+5,7%
+
+Total
+1.009 m³
+
+Concreto
+16,7%
+
+Madeira
+23,8%
+
+5.20
+
+fogo, e as vedações, esquadrias e tubulações, totalmente destruídas.
+As demais alas, por não pertencerem ao Museu, e sim à estação
+ferroviária, só apresentaram sujidades em suas paredes devido à
+fumaça.
+Por fim, no segundo pavimento, a ala mais comprometida foi a
+superior à que se iniciou o incêndio, provavelmente por conta da
+existência, em sua lateral, de vãos de circulação (elevador e escadas),
+que permitiram a rápida subida do fogo. Os danos foram diminuindo
+gradualmente para as demais alas, devido à compartimentação
+com paredes divisórias que contribuíram para o retardamento da
+chegada do fogo. Como já salientado, as plantas nas páginas 42 a 44
+evidenciam a intensidade dos danos em cada pavimento.
+A compreensão do sistema construtivo permite concluir que o
+aço foi o resíduo gerado em maior quantidade devido aos montantes
+metálicos das vedações internas e forros do museu, utilizados
+majoritariamente em sua construção, sem contar o aço presente nos
+equipamentos, mobiliários, tubulações e ferragens.
+Em segundo lugar, a madeira, por conta de toda a estrutura
+da cobertura (trama e tesouras) serem compostas desse material.
+O concreto define-se pelos fragmentos de concreto armado
+gerados pelos componentes estruturais e a argamassa provém dos
+revestimentos. O vidro, das esquadrias e o papel, do próprio acervo
+do museu e suas respectivas instalações.
+
+54
+
+Um ponto importante a ser mencionado diz respeito aos
+resíduos perigosos. Eles são citados no plano, entretanto, os que
+foram observados no pós-incêndio não se encontram descritos
+nos controles dos resíduos retirados, nem no plano de gestão
+desenvolvido. O plano contempla, em sua maioria, itens observados
+em áreas administrativas de canteiros e em construções, como
+materiais contaminados com óleos e graxas, pilhas, baterias e
+cartuchos de impressora, nada específico ao caso do incêndio
+observado. Pelo acompanhamento realizado no MPL, foi possível
+observar os resíduos perigosos: plásticos e vidros contaminados
+com tintas.
+Portanto, as etapas realizadas na gestão de resíduos no
+MLP podem ser enumeradas na sequência: geração, classificação atendendo à Resolução CONAMA 307, separação, armazenamento,
+transporte até as caçambas no térreo, descarte, reciclagem ou
+reaproveitamento. O fluxograma 5.23, na página 62, contempla
+essas informações. Vale destacar que pequena parte dos resíduos
+armazenados permaneceram no local para futura reutilização, são
+eles: algumas vigas de madeira da cobertura com seções maiores,
+que sofreram degradação apenas na camada mais externa, e
+esquadrias de madeira que não foram totalmente danificadas.
+
+Guindaste contratado para auxílio no transporte dos resíduos até as caçambas.
+Foi usado para transportar caçambas inteiras, as treliças de madeira da cobertura e resíduos metálicos.
+
+Transporte entre pavimentos até o térreo:
+tubulação temporária para descida dos resíduos
+localizada no vão dos elevadores.
+
+PROJEÇÃO DO TÉRREO
+
+PRAÇA DA LUZ
+
+0
+
+ESTAÇÃO DE TREM
+
+Sucata metálica
+
+Papel
+
+Sucata metálica e madeira
+
+Sucata metálica
+
+5
+
+10
+
+25
+
+PLANTA PRIMEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+ARMAZENAMENTO E FLUXO DE
+TRANSPORTE DOS RESÍDUOS
+Local de estacionamento
+do guindaste
+Local de estacionamento
+das caçambas e conteiners
+Transporte e armazenamento dos resíduos nas caçambas e conteiner
+Transporte: manual, carriolas e guindaste.
+
+Tubo provisório montado
+para descida dos resíduos
+Fluxo de transporte dos
+resíduos no pavimento
+
+Fotos cedidas pela empresa.
+55
+
+PRAÇA DA LUZ
+
+Tubulação temporária para descida dos resíduos localizada
+no vão dos elevadores.
+
+ESTAÇÃO DE TREM
+0
+
+5
+
+10
+
+25
+
+PLANTA SEGUNDO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+ARMAZENAMENTO E FLUXO DE
+TRANSPORTE DOS RESÍDUOS
+Fluxo de transporte dos
+resíduos no pavimento
+
+Retirada do revestimento e dos respectivos suportes
+metálicos para descarte.
+
+Fotos cedidas pela empresa.
+
+56
+
+Içamento de treliças de madeira e caçambas pelo guindaste.
+
+Tubulação temporária para descida dos
+resíduos localizada no vão dos eleva-
+
+PRAÇA DA LUZ
+
+0
+
+ESTAÇÃO DE TREM
+
+5
+
+10
+
+25
+
+PLANTA TERCEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+ARMAZENAMENTO E FLUXO DE
+TRANSPORTE DOS RESÍDUOS
+Fluxo de transporte dos
+resíduos no pavimento
+Seperação e armazenamento dos resíduos por tipo de
+material, prévios ao transporte para o térreo.
+
+Fotos cedidas pela empresa.
+57
+
+Posicionamento dos locais de destinação, quantidade de resíduo
+recebido e respectivas distâncias do MLP.
+
+5.22
+
+Composição e quantidade dos resíduos por local de destinação.
+
+volume de resíduo - m³
+
+5.21
+
+400
+
+380 m³
+Argamassa
+
+343 m³
+
+350
+
+286 m³
+
+300
+250
+
+Aço
+
+200
+
+Gesso
+
+150
+
+Destinação final dos resíduos
+
+Madeira
+
+100
+
+Papel
+
+50
+
+5.22
+
+Após os resíduos saírem da obra, a legislação em São Paulo
+demanda a sua destinação para aterros sanitários, que são locais
+aprovados por órgãos ambientais a receber, de forma planejada,
+resíduos sólidos urbanos. São nesses aterros que os resíduos são
+triados, armazenados, dispostos e encaminhados, quando possível,
+à reciclagem. Na maioria das vezes os aterros estão localizados em
+áreas afastadas das cidades, por demandarem grande espaço e para
+que os gases e líquidos oriundos de determinados tipos de resíduos
+não apresentem risco à população.
+Os resíduos da construção civil produzidos no MLP são classificados como pertencentes às classes II-A e II-B, pela NBR 10.004. Dois
+aterros aptos a receberem essa classificação foram utilizados pelas
+transportadoras como locais de destinação final desses resíduos: a
+ATT – 1 (Área de Transbordo e Triagem), localizada em Diadema,
+município próximo a São Paulo, a 25.5 km do Museu e a ATT - 2,
+na Zona Norte de São Paulo, a 22,1 km do Museu. Também foi
+contemplada uma empresa de revenda de ferro, aço e metais, no
+Jardim Sapopemba, região metropolitana de São Paulo, a 20.8 km
+do Museu, identificada como Empresa - 1. O mapa 5.21 mostra a
+localização das ATTs e da Empresa – 1, suas respectivas distâncias
+do MLP e as quantidades de resíduos que receberam referentes ao
+incêndio.
+O gráfico 5.22 evidencia quais foram os resíduos enviados para os
+locais de destinação e suas respectivas quantidades. A diferença da
+
+68
+
+Concreto
+
+Vidro
+
+0
+ATT - 1
+
+ATT - 2
+
+Empresa - 1
+
+quantidade de resíduos enviada para as ATTs é de apenas 43 m³ de
+resíduos. Foram realizados dois contratos, a ATT-2 foi quem recebeu
+os resíduos no período emergencial, anterior à aprovação do plano
+de Gestão, de dezembro a fevereiro, e a ATT-1, de março a maio.
+O procedimento realizado pelas ATTs logo que recebem as
+caçambas é: avaliar a qualidade dos resíduos ao despejá-los próximo
+ao local de armazenamento dos mesmos, conforme o material.
+Realizar, em sequência uma triagem para selecionar o que pode ser
+reaproveitado e o que vai para descarte.
+As opções oferecidas para reaproveitamento são: reciclagem (para
+o gesso e resíduos inertes) com revenda posterior e para os demais
+resíduos a revenda direta, como por exemplo, madeira (matéria
+prima para compensados), ferro (matéria prima para fabricação
+de aço), plástico, papel e vidro (esses três últimos enviados para
+cooperativas de reciclagem). A ATT-1 disponibilizou os novos usos
+dados aos resíduos, as principais entidades recicladoras e os preços
+de revenda, como mostra a tabela 5.24.
+Depois de realizada a triagem, os resíduos que não foram descartados são direcionados para a reciclagem. Tanto o gesso quanto
+os resíduos inertes passam pelo britador, sendo posteriormente
+revendidos para novos usos. O gesso, para a fabricação de
+placas drywall e de cimento Portland e os resíduos inertes, para
+argamassas e concretos não estruturais e para bases e sub-bases de
+
+5.21
+
+343 m³
+22,1 km
+
+20,8 km
+286 m³
+MLP
+ATT - 1
+ATT - 2
+Empresa - 1
+
+25,5 km
+
+380 m³
+
+59
+
+5.23
+
+Fluxograma da gestão de resíduos no MLP.
+
+Etapas que ocorreram entre dezembro de
+2015 e maio de 2016.
+Reutilização da madeira na restauração das
+esquadrias. Realizada entre dezembro de
+2016 a novembro de 2017.
+
+5.23
+
+Indústria da
+Construção Civil
+pavimentações.
+Este fluxo na imagem 5.23 evidencia a eficácia de um
+ciclo fechado dentro da indústria da construção civil, de uma obra
+que considerou a escolha de locais de destinação que
+retornam ao mercado os materiais descartados como
+novas matérias primas, potencializando suas capacidades
+de reutilização através de uma adequada triagem e
+reciclagem.
+
+Museu da Língua
+Portuguesa
+
+1 Geração dos
+Resíduos
+
+Incêndio
+21.12.2015
+
+2 Classificação
+3 Separação
+5 Reutilização
+
+4 Armazenamento
+5 Transporte
+
+6a Descarte
+
+6b Reutilização
+ou Reciclagem
+7 Revenda
+
+60
+
+5.24
+
+Novos usos dados aos principais materiais recebidos na ATT - 1.
+principais empresas recicladoras e preços de revenda.
+
+5.25
+
+Pilha de resíduos classe A a serem britados na ATT - 1.
+
+5.26
+
+Britador móvel: processa os materiais para a geração de brita e areia.
+
+5.27
+
+Agregados reciclados produzidos na ATT - 1.
+
+5.28
+
+Triagem manual.
+
+5.25
+
+Fonte: informações e imagens obtidas em visita realizada na ATT em 17.11.2016.
+
+5.24
+
+Novo uso
+
+Principal reciclador
+
+Preço de revenda
+
+Ferro
+
+Matéria prima para aço
+(Gerdau).
+
+C.J. Sucata
+
+R$ 0,21 / kg
+
+Gesso
+
+Matéria prima para placas de
+gesso acartonado (drywall),
+I
+base para Cimento Portland.
+
+Reciclagem na
+própria ATT
+
+R$ 68 / ton
+
+Madeira Compensados.
+
+Made Vila Reciclagem de
+Madeira
+
+R$ 0
+
+Papel
+
+Papel reciclado.
+
+Aparas São Judas Soluções e Logística
+de Resíduos
+Recicláveis
+
+R$ 0,11 / kg
+
+Embalagens e tubos.
+
+Aparas São Judas Soluções e Logística
+de Resíduos
+Recicláveis
+
+R$ 0,25 / kg
+
+Reciclagem na
+própria ATT
+
+R$ 41 / ton
+
+Plástico
+
+Fabricação de concreto não
+Resíduos
+estrutural, obras de
+Classe A
+pavimentação e terraplenagem.
+
+(I) Outros usos: esculturas, base para massa de reboco.
+(II) Enviada para esse reciclador para tratamento, sem valor comercial.
+
+5.26
+
+II
+
+5.27
+
+5.28
+
+61
+
+Análise
+
+Compreende-se a emergência da situação e a urgência dos serviços, mas para um bem tombado e com a importância do MLP
+um plano de gestão de resíduos genérico que não contemple os
+materiais de época pode não ser tão eficiente no reaproveitamento
+dos materiais. Apesar do tempo escasso, um plano de gerenciamento
+e gestão de resíduos conseguiu ser elaborado e colocado em prática
+de maneira eficiente nesta primeira etapa de análise.
+A logística dentro da obra aconteceu com os cuidados e
+equipamentos previstos. O descarte posterior também seguiu as
+diretrizes do plano: os dois aterros da destinação, ATT-1 e ATT-2
+atendem às normas ambientais e trabalham também com revenda e
+reciclagem. Pela documentação analisada o único resíduo revendido
+foi o aço, que proporcionou um benefício econômico para o Museu.
+Espera-se que a Empresa-1 tenha utilizado esses resíduos em outros
+ciclos produtivos, contemplando a logística reversa.
+Por se tratar de um edifício tombado, os resíduos gerados com
+o incêndio possuem igual valor a qualquer um de seus materiais
+e componentes íntegros, portanto, da mesma maneira devem ser
+preservados e salvaguardados, buscando o reaproveitamento dos
+mesmos. Apesar disso, o plano de gestão de resíduos apresentado
+não contemplou a possibilidade de reaproveitamento na própria
+obra dos possíveis resíduos a serem encontrados pós-incêndio. A
+decisão de reaproveitar as madeiras em melhores condições e os
+tijolos maciços foi tomada durante a execução das atividades de
+
+62
+
+limpeza e rescaldo do remanescente. O que pode ser o motivo da
+baixa porcentagem de reaproveitamento de resíduos.
+Não é possível afirmar se a quantidade de resíduos retirados
+e/ou reaproveitados no MLP é excessiva ou não devido à situação
+particular que o edifício estava submetido, e também, à emergência
+nos serviços preliminares para estabilizar a estrutura e limpeza. Mas,
+por ser uma obra tombada não se deve deixar de preservar qualquer
+material que esteja em condições de ser reaproveitado.
+Apesar de o manuseio de resíduos incinerados ser característico
+pela liberação de gases, partículas e fragmentos que podem causar
+danos à saúde, os funcionários trabalharam devidamente equipados
+e realizaram as atividades de acordo com as instruções recebidas.
+Atualmente, o desafio da indústria da construção civil é inverter
+a lógica prevalecente e investir cada vez mais no reaproveitamento,
+na reciclagem e na redução da produção excessiva de resíduos,
+sem desconsiderar a peculiaridade de cada caso. Apesar do valor
+histórico presente nos materiais gerados não ter sido devidamente
+contemplado na gestão dos resíduos, igualmente suas respectivas
+possibilidades de reutilização, essa obra no MLP destinou os resíduos
+para locais legalizados e praticantes da revenda e reciclagem,
+proporcionando, minimamente, a reinserção desses materiais no
+ciclo da construção civil.
+
+5.29
+5.30
+5.31
+5.32
+
+Raspagem de esquadria em restauração com auxílio do
+calor.
+Preenchimento das falhas da esquadria com massa para
+correção.
+Madeiras recuperadas do incêndio, antes de serem trata
+das.
+Montagem final da esquadria.
+
+ETAPA II: PRIMEIRA FASE DA RESTAURAÇÃO
+Contextualização
+
+Para melhor compreensão do plano de Gestão de Resíduos desta
+etapa do estudo, torna-se importante e necessário compreender
+a dinâmica do canteiro de obras dessa fase da restauração e as
+atividades desenvolvidas.
+A fachada está sendo restaurada devido às sujidades, fissuras,
+fragmentações e descolamentos causadas pelo incêndio de 2015. O
+procedimento realizado consiste nas etapas:
+• Limpeza, através de lavagem;
+• Teste de percusão, para identificação de partes ocas;
+• Estudo de coloração;
+• Preenchimento das fissuras e desníveis com argamassa;
+• Pintura.
+A argamassa é fabricada no canteiro (pavimento térreo, como
+indicado na planta da página 73, com materiais comprados. As
+quantidades de cada material variam de acordo com o traço
+pretendido. São utilizados areia média ou fina, água, cimento CPII
+e cal hidratada.
+Em relação às esquadrias de madeira, serão restauradas 191 e
+outras 101, reproduzidas. Para tal, serão utilizados além dos 17,3
+m³ de madeira recuperada do incêndio mais 5,9 m³ de madeira
+25
+comprada certificada pelo FSC . Assim, as madeiras reaproveitadas
+representam cerca de 75% do volume de madeira que será
+incorporada ao empreendimento no restauro das esquadrias e
+
+5.29
+
+5.30
+
+5.31
+
+5.32
+
+as madeiras compradas representam 25%. O procedimento para
+restauração das esquadrias abrange:
+• Raspagem, com auxílio de altas temperaturas, das esquadrias
+a serem recuperadas, vide imagem 5.29;
+• Para o preenchimento das falhas, são realizados:
+- colagem de partes estruturais, com a utilização de compound injeção e serragem ou pó de serra se necessário;
+- para enxertos não estruturais, cola branca, pó de serra e
+pequenos fragmentos de madeira;
+- para preenchimentos de imperfeições, massa f12 (5.30);
+• Utilização de lixas para uniformização da superfície;
+• Fabricação de batentes, para aquelas que necessitam:
+retirada da camada danificada pelo incêndio das madeiras
+recuperadas através de cortes e posterior montagem das
+peças seguindo as etapas acima;
+• Montagem da esquadria (5.32).
+No térreo, estão armazenadas as madeiras recuperadas do
+incêndio, também estão localizadas as baias dos resíduos, caçambas
+e a argamassadeira. Contém os vestiários, refeitório (instalações pré
+fabricadas provisórias) e as estações de trabalho e sala de reunião
+da equipe de engenheiros e outros funcionários dentro do edifício
+do MLP. Um importante procedimento também é realizado no
+térreo, a lavagem dos pincéis, a ser melhor detalhado na página 70.
+A marcenaria fica no primeiro pavimento e a área de pintura fica no
+terceiro, o que pode ser melhor observado nas plantas nas páginas
+71 a 73.
+
+(25) A certificação FSC (Forest Stewardship Council) é um sistema de garantia que identifica
+produtos originados de um adequado manejo florestal.
+
+63
+
+5.33
+
+Tijolinhos de cerâmica oriundos da vedação e revestimento do MLP.
+
+PLANO DE GESTÃO DE RESÍDUOS
+Descrição do Plano
+5.33
+
+A mesma empresa responsável pela realização dos serviços da
+etapa I está executando a primeira etapa da restauração da parcela
+do edifício que corresponde ao MLP. Essa restauração compreende
+o restauro das fachadas e das esquadrias.
+Assim como o plano da etapa anterior, este define diretrizes a serem
+adotadas para a gestão dos resíduos gerados no período da obra. O
+plano contempla os seguintes aspectos: identificação e classificação
+dos resíduos predominantes, empresas contratadas para remoção
+dos resíduos, locais de destinação previstos, sinalização do canteiro
+de obras e distribuição dos dispositivos de coleta e procedimentos
+para redução, reutilização e reciclagem dos resíduos. Todas essas
+ações fazem parte dos princípios básicos para uma gestão eficiente.
+“Em todas as ações relativas a gestão de resíduos deverá ser
+privilegiada a minimização/racionalização dos recursos, visando
+prioritariamente a não geração de resíduos e, quando isto não for
+possível, a redução, a reutilização, a reciclagem e a destinação final
+adequada dos mesmos.” 26
+Após apresentação dos dados gerais do empreendimento, da
+empresa e outras informações básicas, o plano segue detalhando
+a classificação dos resíduos presente na Resolução CONAMA
+307 e na NBR 10.004:2004. 27 Em sequência, descreve os resíduos
+previstos de geração com as respectivas classificações dentro da
+NBR e Resolução, como mostra a tabela 5.34. As duas classificações
+
+64
+
+(26) Programa de Gerenciamento de Resíduos da Construção Civil - Obra de Restauração das
+Fachadas e Esquadrias do Museu da Língua Portuguesa, p.4.
+(27) A classificação presente na Resolução CONAMA encontra-se descrita na página 27. Já a
+NBR 10.004 classifica os resíduos em: Resíduos Classe I – Perigosos, Resíduos Classe II – Não
+
+são usadas conjuntamente: a classificação CONAMA é utilizada
+prioritariamente para direcionar os resíduos a serem encaminhados
+para a reciclagem ou descarte e a NBR, para a identificação dos
+resíduos perigosos. Diferente do plano da etapa anterior, os resíduos
+aqui previstos estão mais coerentes com as atividades realizadas
+nesta etapa da obra.
+São especificadas diretrizes para cada resíduo previsto de geração. Essas diretrizes envolvem o tipo de recipiente que devem ser
+armazenados e a sua correta identificação, sinalização e posterior
+descarte. Tendo em vista que se trata de uma obra de restauração, foi
+salientado a prioridade para a sua reutilização sempre que possível,
+28
+fato este ausente no plano anterior. Para os entulhos, por exemplo,
+foi descrito que haverá reutilização de parcela a ser descartada, como
+alguns tijolos maciços cerâmicos remanescentes, como mostra a
+imagem 5.33. Igualmente para as madeiras armazenadas do período
+pós incêndio, que terão sua qualidade avaliada para o reuso na
+restauração das esquadrias (em destaque na tabela 5.31).
+Nesta ocasião, a previsão de reaproveitamento do significativo
+material da construção está sendo realizado desde o início dos
+serviços e, principalemnete, previsto no plano de gestão de resíduos,
+um grande passo para conduzir sua reutilização no decorrer das
+atividades e nas etapas seguintes.
+É feita, em sequência, uma estimativa da quantidade total de
+Perigosos (Classe II A – Não Inertes e Classe II B – Inertes).
+(28) O plano define como entulho cerâmico sobras de tijolos, concretos, pisos,
+
+azulejos e argamassas.
+
+5.34
+
+Classificação dos tipos de resíduos previstos de geração nesta etapa
+da obra segundo a NBR 10.004 e Resolução CONAMA 307.
+Fonte: informações transcritas do Programa de Gerenciamento de Resíduos da Construção
+Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua Portuguesa,
+páginas 6 e 23.
+
+5.35
+
+Resíduos previstos de geração por tipo e quantidade.
+Fonte: informações transcritas do Programa de Gerenciamento de Resíduos da Construção
+Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua Portuguesa,
+página 8.
+
+5.34
+Tipo de Resíduo
+Borra de tinta
+
+NBR 10.004 CONAMA 307
+I
+D
+
+Embalagens metálicas de 200l contaminadas
+
+I
+
+D
+
+Embalagens plásticas de 200l contaminadas
+
+I
+
+D
+
+EPIs, estopas, trapos e uniformes usados contaminados
+Lâmpadas usadas
+
+I
+I
+
+D
+D
+
+Óleos lubrificantes
+Pincéis, rolos e outros utensílios contaminados
+
+I
+I
+
+D
+D
+
+Resíduos químicos líquidos
+
+I
+
+D
+
+Solvente
+
+I
+
+D
+
+EPIs não contaminados
+Lata de tinta vazia
+
+II - A
+II - A
+
+C
+B
+
+Lixas
+Madeira
+
+II - A
+II - A
+
+C
+B
+
+Metal (aço, alumínio, cobre, férreos, luminárias, pregos, telhas, verga-lhões)
+Não recicláveis: guardanapo, papel higiênico, lixo de varrição
+
+II - A
+II - A
+
+B
+C
+
+Orgânicos: restos de alimentos
+Papel/papelão, caixas, embalagens e folhas
+Plásticos, acessórios, telas e tubos
+
+II - A
+II - A
+II - A
+
+C
+B
+B
+
+Entulho
+
+II - B
+
+A
+
+Vidro
+
+II - B
+
+B
+
+5.35
+
+Tipo de Resíduo Quantidade (m³)
+Entulho
+300
+Lâmpadas
+0,2
+Madeira
+180
+Resíduos Perigosos
+15
+Metais
+20
+Papel/papelão
+30
+Plásticos
+30
+Resíduos de EPIs
+2
+Vidros
+5
+Total
+582,2
+
+resíduos a ser gerada durante o período da obra, que soma 582,2
+m³. As quantidades por tipo de resíduo encontram-se detalhadas na
+tabela 5.35. Dado que a obra já está na metade e o valor total gerado
+até o início do mês de junho corresponde a 19% do valor previsto,
+provavelmente ao final desta etapa, a geração não terá alcançado os
+582,2 m³ previstos.
+A obra possui como meta desviar de aterros sanitários 75% dos
+resíduos gerados. Isso é uma das diretrizes adotadas para que essa
+29
+etapa da restauração atinja a certificação LEED . Para atingi-la, são
+sugeridas no plano as medidas de redução da geração descritas na
+tabela 5.36., medidas de reutilização, tabela 5.37, e reciclagem, tabela
+5.38. E também identificados possíveis resíduos a serem desviados
+dos aterros, são eles: entulho, madeira, plásticos, metais, papel/
+papelão.
+Vale destacar, como mostrado na tabela 5.36, que para os
+resíduos do tipo entulhos cerâmicos é conclusivo que o plano
+considera sua utilização na fabricação da própria argamassa a ser
+utilizada na restauração das fachadas quando descreve: “Reutilizar a
+argamassa e o concreto excedente no processo”.
+
+(29) A obra pretende atingir a categoria Prata (Silver) da certificação LEED, totalizando 56 pontos. Para tal, as especificações que está atingindo são: prevenção e controle à poluição ambiental
+da obra, gestão dos resíduos da obra, monitoramento e controle dos resíduos, controle da qualidade interna do ar, créditos de materiais sustentáveis e créditos de materiais de baixa emissão.
+
+65
+
+5.36
+
+Medidas de redução de geração de resíduos.
+Fonte: informações transcritas do Programa de Gerenciamento de Resíduos da Construção
+Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua Portuguesa,
+páginas 11 e 12.
+
+Tipo de Resíduo
+
+Medidas de Redução
+
+Entulho cerâmico
+
+1- Otimizar a produção de argamassa e concreto a fim de evitar e gerar sobras;
+2-Reutilizar a argamassa e o concreto excedente no processo;
+3-Executar a atividade de armazenamento de tijolos e blocos com o máximo de cuidado para evitar quebras;
+4- Manter os projetos atualizados a fim de evitar retrabalho e quebras desnecessárias.
+
+Resíduos provenientes de varrição
+
+Material contaminado com óleo e
+graxa
+Material contaminado com tinta
+
+1-Conscientização dos funcionários sobre a importância da organização das áreas de trabalho, com o intuito de evitar que
+materiais fiquem desordenados pelo canteiro e acabem se tornando resíduos.
+1-Realizar manutenção periódica nas maquinas e equipamentos a fim de detectar possíveis defeitos ou desgastes em
+componentes que possam causar vazamentos e derramamentos durante a execução das atividades.
+1-Priorizar materiais à base de água (quando possível) para facilitar a limpeza de pinceis, brochas, etc;
+2-Conscientizar pintores para uso consciente dos materiais e forma de aplicação minimizando a possibilidade de
+derramamento;
+3- Calcule quanto vai usar de tinta e compre apenas o necessário;
+4- Use as tintas até o fim. Não deixar restos de tinta na embalagem para que essas possam ser consideradas como resíduos
+recicláveis;
+5- Tampe bem a lata para o produto não ressecar ou se estragar.
+
+Metais
+
+1-Conscientização dos funcionários para execução de suas atividades com atenção evitando o desperdício de materiais;
+2- As peças do prédio que forem removidas e passíveis de reutilização devem ser encaminhadas para o cliente.
+
+Papel e papelão
+
+1-Utilizar folhas como rascunho;
+2-Copiar documento extenso na frente e no verso da folha ou folhas de rascunho;
+3-Somente imprimir folhas novas para documento realmente importantes ou na falta de folhas de rascunho.
+
+Plástico
+
+1-Realizar uso consciente dos copos descartáveis;
+2-Trocar copos descartáveis por copos retráteis, sempre que possível.
+
+Resíduos de madeira
+
+1-Avaliar a qualidade da madeira que foi removida e proceder à reutilização daquela em boas condições;
+2-Comprar masseiras plásticas para evitar a confecção de masseiras de madeira/Buscar alternativas para plataformas de
+outro material;
+3- Conscientização dos funcionários empregados para execução de suas atividades com atenção evitando o corte
+desnecessário de madeira/sobras.
+
+66
+
+Resíduos de EPI
+
+1-Comprar EPIs de boa qualidade para evitar a necessidade de troca.
+
+Vidros
+
+1-Alertar os funcionários para, ao manusear materiais de vidro, tomar cuidado para minimizar a possibilidade de quebra.
+
+5.37
+
+Medidas de reutilização de resíduos.
+Fonte: informações transcritas do Programa de Gerenciamento de Resíduos da Construção
+Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua Portuguesa,
+páginas 12 e 13.
+
+Tipo de Resíduo
+
+Medidas de Reutilização
+
+Revestimentos de parede ou
+pavimentação das construções
+pré-existentes
+
+Bases para as instalações provisórias, pavimentação e revestimentos finais.
+
+Cacos de revestimentos de piso ou
+parede das construções préRevestimentos em mosaico, revestimentos das instalações provisórias.
+existentes
+Louças, metais, esquadrias e telhas
+
+Aproveitamento de sobras de tintas de mesmo tipo para fazer uma cor cinza;
+
+Tintas
+
+Doar a sobra de tinta.
+
+Resíduos Inertes
+Resíduos recicláveis (metais e
+madeira)
+
+5.38
+
+Aproveitamento nas instalações provisórias ou até mesmo na própria construção
+
+Enchimento de valas
+Aproveitamento de embalagens para acondicionamento de outros materiais, sempre que não houver risco de contaminação ou alteração das características do
+novo material acondicionado;
+Aproveitamento para confecção de sinalizações, construções provisórias para estoque de materiais e baias de para resíduos, como cercas e portões.
+
+Medidas de reciclagem de resíduos.
+Fonte: informações transcritas do Programa de Gerenciamento de Resíduos da Construção
+Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua Portuguesa,
+páginas 13 e 14.
+
+Tipo de Resíduo
+Resíduo de Classe I (perigosos) Classe D
+
+Resíduos de Classe IIB (inertes) Classe A
+Resíduos de Classe IIA (recicláveis)
+- Classe B
+
+Medidas de Reciclagem
+Para lavagens dos pinceis contaminados por tinta à base de água, poderá ser empregado tratamento floculante que possibilita a decantação das partículas de
+tinta e sua remoção em forma de borra. A borra será descartada como resíduo perigoso e a água poderá ser reutilizada no mesmo processo. As latas de tinta
+serão encaminhadas para reciclagem conforme orienta a resolução CONAMA 469/2015. Os materias contaminados por solventes, verniz ou óleo serão
+destinados como resíduo perigoso.
+Britagem de resíduos de concreto, pedras, cerâmicas e argamassas para confecção de agregados a serem utilizados no canteiro para enchimento de valas,
+argamassa, blocos de vedação, meio fios e outros elementos que não tenham exigências estruturais.
+Processamento de reciclagem que permita o uso do resíduo como matéria-prima de um novo processo produtivo, como a reciclagem da madeira que não
+puder ser reaproveitada na obra. Reutilização da madeira queimada do proprio enpreendimento realizando a raspagem das mesmas.
+Reciclagem de papel/papelão, plástico, metais e vidro.
+
+67
+
+5.39
+
+Cronograma de implantação do plano.
+
+2016
+
+Fonte: informações transcritas do Programa de Gerenciamento de Resíduos da Construção
+Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua Portuguesa,
+página 25.
+
+JAN FEV MAR ABR MAI JUN JUL AGO SET OUT
+Elaboração do PGR
+Envio do PGR para
+avaliação e aprovação
+da fiscalização
+Distribuição de
+coletores e caçambas
+no ponto de geração
+de resíduos
+Coleta dos resíduos no
+ponto de geração
+Armazenamento dos
+resíduos
+
+5.39
+
+Destinação final dos
+resíduos
+
+Para a segregação, são definidos os recipientes: sacos plásticos,
+tambores metálicos, bombonas, big-bags, baias e caçambas; e seus
+respectivos acessórios, como adesivos de sinalização, suportes e usos
+de cobertura quando recomendável, dentre outros. É apresentada
+uma tabela de cores para identificação dos resíduos conforme o
+material. Já em relação ao manuseio dos resíduos gerados, é indicado
+a utilização de carrinhos de mão e jericas previamente avaliados
+quanto ao estado de conservação, e o cumprimento rigoroso das
+diretrizes estabelecidas para segurança.
+
+papelão.
+
+Para o armazenamento, salienta que os recipientes utilizados
+serão avaliados quanto ao estado de conservação considerando
+sua resistência, tempo de armazenamento e condições climáticas.
+Define, para resíduos de classe IIA e IIB, caçambas estacionárias com
+tampa ou baias devidamente cobertas, e para resíduos perigosos
+(classe I), contêineres e/ou tambores em áreas cobertas, bem
+ventiladas e com superfície à base de concreto ou outro material
+que impeça a lixiviação e percolação da substância para o solo e as
+águas subterrâneas.
+
+Por fim, exemplifica os eventos de treinamento e sensibilização
+a serem realizados com os trabalhadores com focos no uso racional
+de recursos, impactos e cuidados relacionados ao resíduos perigosos
+e coleta seletiva. E apresenta o cronograma da obra, reproduzido
+na tabela 5.39, definido de janeiro de 2016 a outubro de 2017. Essa
+etapa da restauração foi iniciada em meados de dezembro de 2016
+(montagem de andaime e instalação de canteiro) e está prevista para
+ser concluída ao final de outubro de 2017.
+
+O plano continua definindo diretrizes em relação à disposição
+final dos resíduos, documentos legais e licenças ambientais. Salienta:
+“A destinação final dos resíduos, independente do tipo, deverá
+ser controlada e enviada preferencialmente para reciclagem.” 31
+Define, para cada resíduo, o local de destinação e os possíveis
+tratamentos ao qual serão submetidos, sejam eles reciclagem,
+incineração, disposição em aterros, dentre outros.
+
+Em relação aos resíduos perigosos, vale
+destacar que descreve
+30
+que deverão ser disponibilizadas as FISPQs dos produtos químicos
+cujos resíduos estarão armazenados. O plano ainda define qual
+recipiente deverá ser utilizado para armazenamento de cada resíduo
+perigoso. Por exemplo, para borras de tintas, define tambores
+metálicos de 200 L, e para lâmpadas, preferencialmente caixas de
+
+68
+
+(30) A FISPQ (Ficha de Informações de Segurança de Produtos Químicos) é um documento
+que contém informações sobre os componentes, misturas e substâncias químicas que possui
+determinado produto. Também apresenta informações sobre os riscos inerentes e medidas de
+transporte, primeiros socorros, dentre outras.
+
+(31) Programa de Gerenciamento de Resíduos da Construção Civil - Obra de Restauração das
+Fachadas e Esquadrias do Museu da Língua Portuguesa, página 22.
+
+Disposição mensal de resíduos que saíram do MLP por tipo de
+material.
+
+Volume de resíduo - m³
+
+5.40
+
+Fonte dos dados: Controles de Movimentações cedidos pela empresa contratada de
+janeiro de 2017 ao dia 08 de junho de 2017.
+
+35
+
+Resíduo não
+reciclável
+
+30
+
+Plástico
+
+25
+
+Papel
+
+20
+15
+
+PLANO DE GESTÃO DE RESÍDUOS
+Execução atual
+
+Carvão
+
+10
+
+Entulho
+
+5
+
+Madeira
+
+0
+
+5.40
+
+Diferente do plano da etapa anterior de análise, este plano
+conseguiu ser elaborado e aprovado em consonância com o início
+da obra. As esquadrias a serem recuperadas e madeiras provenientes
+do incêndio começaram a ser avaliadas quanto à possibilidade de
+uso no início do ano, por isso há uma única retirada pontual em
+janeiro de madeira, encaminhada para reciclagem. Essa situação
+é evidenciada no gráfico 5.40, sendo que a partir de fevereiro,
+seguindo o cronograma, houve o crescimento do volume por conta
+do início oficial de todas as atividades relacionadas à restauração
+das esquadrias.
+O maior volume de madeira foi retirado em fevereiro, quando
+foram realizadas a maior quantidade de peças a partir das madeiras
+compradas e das recuperadas. No mesmo gráfico, os 5 m³ de carvão
+retirados no mesmo mês são os resíduos das madeiras recuperadas
+do incêndio. Os resíduos referentes à restauração da fachada só
+alcançaram volume para serem retirados da obra em abril.
+Somente em maio obteve-se um volume apto ao descarte de
+papel e papelão, provenientes das embalagens dos componentes
+da argamassa. Nesse mesmo mês se observa o maior volume de
+entulho gerado, devido ao ritmo maior de trabalho na restauração
+das fachadas. Vale salientar que a última retirada contabilizada neste
+trabalho foi feita dia 08 de junho, portanto o volume mostrado em
+junho não corresponde ao volume total gerado no mês.
+
+Janeiro/2017 Fevereiro/2017 Março/2017
+
+Abril/2017
+
+Maio/2017
+
+Junho/2017
+
+A geração, portanto, do início da obra até este ponto totalizou
+110 m³, como mostra o gráfico 5.41. A madeira foi o resíduo gerado
+em maior quantidade até agora, 60 m³, por conta do volume
+significativo desse material envolvido. A restauração da fachada, que
+é um trabalho mais minucioso e que não demanda materiais com
+dimensões comparáveis às madeiras das esquadrias, ocupa com seus
+30 m³ de resíduos gerados, a segunda maior geração.
+Os resíduos não recicláveis presentes no gráfico são os resíduos
+provenientes da obra que os funcionários não conseguiram enviar
+para reciclagem, como plásticos sujos e isopor sujo, por exemplo.
+São materiais que as empresas de reciclagem não aceitam.
+Apesar de já se ter conhecimento das condições da madeira
+proveniente do incêndio por conta da sua reutilização e demais
+colocações relacionadas ao assunto presentes no plano, observa-se
+também, comparando a tabela 5.34 com o gráfico 5.41, que a geração
+do resíduo carvão não foi prevista. O mesmo raciocínio pode ser
+estendido aos resíduos não recicláveis: a grande maioria das obras
+geram esse tipo de resíduo e igualmente não estão presentes no
+plano.
+Com relação à separação, ao armazenamento e manuseio dos
+resíduos, a preocupação se mantém da etapa anterior com uma
+adequada realização dessas atividades. Os resíduos da restauração
+das esquadrias são armazenados no próprio pavimento das
+
+69
+
+Plástico
+2,3%
+
+5.42
+
+Local de armazenamento dos resíduos perigosos.
+Foto tirada em visita realizada dia 17 de março de 2017.
+
+Total
+110 m³
+Entulho
+27,3%
+
+5.41
+
+atividades. A serragem, em sacos plásticos e as madeiras, empilhadas.
+São direcionadas para o térreo com o auxílio de carrinhos de mão.
+Os resíduos das fachadas são armazenados próximos aos locais
+de trabalho, no interior dos pavimentos, e transportados ao térreo
+da mesma maneira que os anteriores e através de um elevador
+provisório. Embora o elevador não tenha sido contemplado no
+plano de gestão de resíduos seu uso é necessário para o transporte
+interno do entulho, pois os que foram contemplados (carrinho de
+mão e jericas) não esão sendo atualmente satisfatórios para atender
+às necessidades da obra.
+Um ponto igualmente importante diz respeito aos resíduos
+perigosos, todos os resíduos gerados desta categoria até então estão
+previstos no plano. Eles ainda não foram retirados da obra. Estão
+depositados em uma baia coberta, protegida, em local ventilado e
+com acesso restrito, com base de concreto para não contaminar o
+solo no caso de vazamentos, como mostra a imagem 5.42 Portanto,
+estão devidamente armazenados e sinalizados. O plano contempla
+esse assunto de maneira bastante coerente com a legislação.
+A atividade de pintura das fachadas teve início no final de junho.
+Pela sua significância e importância ambiental, vale descrever aqui
+também o procedimento realizado de lava pincéis. Seu objetivo é
+a diminuição da quantidade de resíduo perigoso proveniente do
+efluente do processo de lavagem. Um coagulante de base orgânica
+32
+é utilizado para possibilitar a floculação e decantação da tinta,
+
+(32) Processo de formação de partículas sólidas.
+
+70
+
+Composição dos resíduos da obra.
+Fonte dos dados: Controles de Movimentações cedidos pela empresa contratada de
+janeiro de 2017 ao dia 08 de junho de 2017.
+
+Resíduo não reciclável
+9,1%
+
+Papel
+2,3%
+
+Madeira
+54,5%
+
+5.41
+
+Carvão
+4,5%
+
+5.42
+33
+
+possibilitando sua separação da água, formando uma borra . A borra
+será destinada como resíduo perigoso e a água, reutilizada para
+nova lavagem de pincéis, diminuindo assim a quantidade de resíduo
+contaminado gerado34.
+Assim, fazendo uma estimativa, a atividade de pintura da fachada
+acontecerá durante 5 meses com 6 pintores trabalhando. Supondo
+que a lavagem dos pincéis seja feita 2 vezes por dia e que se gaste
+3 litros de água para cada lavagem, a obra estaria gerando 36 litros
+de efluente por dia, 720 litros por mês (contando somente os dias de
+semana) e 3.600 litros ao final dos 5 meses, isso daria 18 bombonas
+de 200 litros cheias que teriam que ser destinadas como resíduo
+perigoso.
+Por fim, outro ponto importante a ser mencionado diz respeito à
+execução da argamassa. Apesar do plano descrever a reutilização da
+argamassa excedente no processo, como salientado na página 71,
+até então isso não foi feito. Nenhum dos materiais utilizados em seu
+preparo contemplam esse aspecto.
+Nas páginas seguintes, as atividades ligadas à gestão dos resíduos
+estão evidenciadas nas plantas dos pavimentos envolvidos nessa
+etapa.
+
+(33) Substância consistente passível de descarte.
+(34) Este procedimento é aplicavel apenas para tintas à base de água.
+
+Observação: esta planta foi elaborada pela empresa responsável por essa etapa da obra .
+
+PLANTA PAVIMENTO TERREO
+MUSEU DA LÍNGUA PORTUGUESA
+Local de estacionamento
+das caçambas.
+planta sem escala
+
+H
+
+KID
+
+12
+
+17
+
+412
+
+KID
+
+2
+
+41
+
+H2
+
+H2
+
+KID
+
+2
+
+41
+
+H2
+
+KID
+
+METAL
+
+PRAÇA DA LUZ
+
+Baias de resíduos.
+Armazenamento de madeira.
+Fotos: do autor.
+
+• • •• • • • ••• •• •• • • • • • • • • • • • • • • • •
+
+0
+
+Revisão
+
+Lava pincéis.
+
+Descrição
+
+Resíduos perigosos.
+
+01/02/2017
+
+Data
+
+Verificado
+
+Aprovado
+
+71
+
+PRAÇA DA LUZ
+
+ESTAÇÃO DE TREM
+
+0
+
+5
+
+10
+
+25
+
+PLANTA PRIMEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+ARMAZENAMENTO E FLUXO DE
+TRANSPORTE DOS RESÍDUOS
+Marcenaria e armazenamento de madeira e
+serragem
+Raspagem com auxílio de
+altas temperaturas
+Local de descida dos
+resíduos
+Fluxo de transporte dos
+resíduos no pavimento
+Foto: do autor.
+72
+
+PRAÇA DA LUZ
+
+0
+
+ESTAÇÃO DE TREM
+
+5
+
+10
+
+25
+
+PLANTA TERCEIRO PAVIMENTO
+MUSEU DA LÍNGUA PORTUGUESA
+
+ARMAZENAMENTO E FLUXO DE
+TRANSPORTE DOS RESÍDUOS
+Pintura das esquadrias
+Preenchimento das falhas e
+lixamento das esquadrias
+Local de descida dos
+resíduos
+Fotos: do autor
+
+Pintura.
+
+Lixamento das esquadrias.
+
+Fluxo de transporte dos
+resíduos no pavimento
+
+73
+
+Composição e quantidade dos resíduos por local de destinação.
+Fonte dos dados: Controles de Movimentações cedidos pela empresa contratada de
+janeiro de 2017 ao dia 08 de junho de 2017 e Programa de Gerenciamento de Resíduos da
+Construção Civil - Obra de Restauração das Fachadas e Esquadrias do Museu da Língua
+Portuguesa, p.24.
+
+5.44
+
+Posicionamento dos locais de destinação, quantidades de resíduo
+recebido e respectivas distâncias do MLP.
+
+Destinação final dos resíduos
+
+volume de resíduo - m³
+
+5.43
+
+70
+
+Madeira
+
+60
+
+Entulho
+
+50
+
+Carvão
+
+40
+30
+
+Papel
+
+20
+
+Plástico
+
+10
+
+Resíduo não
+reciclável
+
+0
+ATT - 1
+
+5.43
+
+Nesta restauração, os locais de destinação foram quatro, dois deles recicladoras e duas ATTs, a mesmas presentes na etapa anterior
+deste trabalho. A distribuição dos resíduos conforme o local está
+mostrada no gráfico 5.43. Para a ATT-1 são destinados exclusivamente
+entulhos, que são britados e revendidos posteriormente ao mercado
+da construção civil, como detalhado anteriormente. A finalidade
+única do direcionamento dos resíduos para a ATT-2, carvão e
+resíduos não recicláveis, nesta etapa é a disposição final.
+Uma das recicladoras é responsável pelo processamento de
+papel e plástico, localiza-se relativamente próxima ao MLP, 5,6km,
+no Alto do Pari, região ainda central de São Paulo. A recicladora de
+madeira, localizada em Guarulhos, cerca de 22 km do MLP, produz
+cavacos que serão revendidos como combustíveis para produção de
+energia renovável. O mapa 5.44 mostra a localização das ATTs e das
+Recicladoras, suas respectivas distâncias do MLP e as quantidades
+de resíduos que receberam referentes a essa etapa da obra.
+A execução dessas destinações e ações que remetam à responsabilidade ambiental, impulsionada pela meta de desviar dos aterros
+75% dos resíduos gerados, é uma das maiores excelências desta
+etapa da obra. Essa meta hoje alcança os 86%. A logística reversa
+praticada com os resíduos gerados, atrelada à reutilização da madeira
+no próprio canteiro são medidas que contribuem para mitigação de
+diversos aspectos ambientais, como todos aqueles relacionados à
+produção e consumo de recursos desnecessários, poluição do ar,
+despejos inadequados, dentre outros.
+74
+
+ATT - 2
+
+5.44
+
+Recicladora
+madeira
+
+Recicladora
+papel e plástico
+
+22,1 km
+
+15 m³
+
+21,9 km
+
+60 m³
+
+5,6 km
+5 m³
+
+MLP
+ATT - 1
+ATT - 2
+Recicladora madeira
+Recicladora papel/plastico
+
+25,5 km
+
+30 m³
+
+Análise
+Pode-se dizer que esta etapa da obra está realizando com excelência a gestão dos resíduos gerados. Um plano significativamente
+detalhado e abrangente foi elaborado e está sendo praticado de
+acordo com o cronograma previsto.
+Os resíduos gerados com o incêndio estão sendo devidamente
+reaproveitados nas esquadrias e grande quantidade dos demais
+resíduos produzidos, encaminhados para locais que reciclam e
+reinserem os materiais novamente no ciclo produtivo da construção
+civil, contemplando a logística reversa. O valor presente nos resíduos
+gerados com o incêndio, por se tratar de um edifício tombado, foi
+devidamente reconhecido nesta etapa e a reutilização, contemplada.
+Vale destacar aqui que a serragem produzida nas atividades
+da marcenaria, está sendo reutilizada no preenchimento das falhas
+nas peças das esquadrias, apesar de em pequenas quantidades
+sob demanda. Possui igual valor, pois é oriunda dos componentes
+íntegros do edifício. Essa decisão de reutilização foi tomada após a
+execução do plano, por isso não está presente em seu descritivo.
+
+tenha definido a reutilização da argamassa, esta até então não é
+tratada e reutilizada no processo de restauração da fachada.
+Em relação à quantidade de resíduos gerada nessa etapa
+da restauração até o dia 8 de junho, pode-se afirmar que
+é proporcionalmente inferior à prevista no plano. Salvo o
+acontecimento de situações emergenciais, claramente os 582,2 m³
+não serão alcançados ao final desta fase da obra. A obra já avança
+para seu período mediano e apenas 19% do previsto foi gerado.
+Um dos fatores de incentivo a essa baixa geração, como já
+salientado, está relacionado com a certificação LEED almejada. A
+preocupação ambiental intrínseca a essas medidas executadas
+vale o destaque pela urgência que ações nesse aspecto devem ser
+realizadas e pelos benefícios que propiciam em todas as esferas.
+
+Apesar do plano não ter contemplado com totalidade os meios
+definidos para manuseio e transporte interno dos resíduos, todas
+as atividades envolvidas na gestão e logística dentro da obra são
+realizadas com os cuidados previstos.
+
+A descrição de medidas específicas e relacionadas aos resíduos
+efetivamente produzidos aproxima mais este plano desenvolvido
+das atividades realizadas na obra do que o plano realizado na
+situação emergencial. O detalhamento de diretrizes de redução de
+geração, reutilização e reciclagem além de ampliar as possibilidades
+do que pode ser feito e contemplar o valor histórico dos resíduos
+produzidos, igualmente proporciona benefícios ambientais,
+econômicos e sociais.
+
+Ainda que estejam sendo direcionados corretamente para a ATT2, que atende as normas ambientais, o plano também não abrangeu
+todos os resíduos gerados até então: o carvão e os resíduos não
+recicláveis não foram contemplados. Em contrapartida, embora
+
+Acompanhando esse raciocínio, as precauções tomadas com os
+resíduos perigosos e a realização do procedimento de lavagem dos
+pincéis são da mesma maneira importantes para o beneficiamento
+que a obra procura atingir.
+
+75
+
+6
+CONSIDERAÇÕES
+
+A (DES)VALORIZAÇÃO DOS RESÍDUOS
+O edifício que abriga o MLP, localizado na estação da Luz, desde sua
+inauguração tem um significado muito persistente para a memória
+da cidade. É um marco do desenvolvimento dos transportes, fruto
+da prosperidade das atividades cafeeiras e início da industrialização.
+Os materiais e componentes nele utilizados, tanto aqueles advindos
+das oficinas inglesas quanto os produzidos no Brasil, são um reflexo
+da arquitetura da época e devem ser preservados e salvaguardados.
+O valor intrínseco ao edifício foi reconhecido, culminando em
+seu tombamento em 1982. O tombamento implica em proteção, por
+meio da legislação, do bem imóvel. Ou seja, ele torna-se protegido
+contra ações que possam descaracterizá-lo dos seus valores
+histórico, cultural, arquitetônico ou destruí-lo. O incêndio ocorrido
+acidentalmente em dezembro de 2015 na parcela do edifício
+abrigada pelo MLP causou danos e destruiu permanentemente
+grande parcela da sua estrutura, revestimentos, esquadrias, sistemas
+prediais, componentes originais e outros materiais.
+Portanto, toda e qualquer intervenção realizada após o incêndio,
+mesmo em caráter emergencial, deve considerar o restauro e o
+reaproveitamendo máximo dos resíduos em condições de reutilização
+ao invés da completa substituição dos materiais envolvidos. Esse
+princípio por si só já contribui para a redução da geração de
+resíduos em qualquer obra de restauração. Assim, tornou-se de
+
+76
+
+extrema necessidade a realização de uma gestão de resíduos nesse
+contexto emergencial que considerasse em maior instância o valor
+dos materiais ali presentes por se tratar de um bem tombado.
+O plano de gestão e gerenciamento de resíduos elaborado
+na primeira etapa de análise não contemplou inicialmente o
+reaproveitamento dos possíveis resíduos a serem encontrados pósincêndio. Sabe-se que essa tarefa não é fácil. De uma abrangência
+genérica, não envolveu as peculiaridade dos materiais e componentes
+ali presentes. O contexto da situação também dificulta a previsão do
+que poderá ser reutilizado após um incêndio, mas a premissa de se
+considerar a análise para reaproveitamento e reciclagem deve estar
+em qualquer plano de gestão e gerenciamento de resíduos em uma
+obra tombada.
+Infelizmente poucas ações relacionadas a salvaguardar materiais
+em condições de reutilização foram realizadas. As ações de
+reaproveitamento que foram feitas, devido à urgência e dinamismo
+da obra, aconteceram durante a remoção do rescaldo do
+remanescente, e ainda assim conseguiram armazenar para o posterior
+reaproveitamento 17,3 m³ de madeira oriunda da cobertura (trama e
+treliças), que está sendo reutilizada na primeira fase de restauração
+das esquadrias, e tijolos maciços cerâmicos, armazenados para
+futuro reuso.
+Portanto, a ênfase torna-se necessária: a perda relacionada ao
+
+6.1
+
+Perfil ambiental referente ao aço reaproveitado versus aço novo.
+Fonte: BioReginal Reclaimed. Disponível no livro Reuso de materiais e elementos de
+construção, p. 97.
+
+6.1
+
+descarte impróprio de resíduos pertencentes a bens imóveis
+tombados é imensurável e não condiz com os princípios da
+preservação do patrimônio e restauração. É o valor dos materiais
+que torna-se perdido, juntamente com a referência a uma época
+e à história. É urgente a necessidade de mudança na perspectiva
+e abordagem dos resíduos sob essas condições e a realização
+de planejamentos e adequadas diretrizes ao decorrer da vida útil
+do edifício para que em situações emergenciais a execução de
+medidas impróprias sejam evitadas e o valor da edificação seja
+adequadamente preservado.
+Uma possível sugestão de ação seria, após o incêndio, ao realizarse a separação dos resíduos por material e o seu armazenamento,
+aproveitando esse momento de triagem para uma primeira avaliação
+das condições dos componentes e materiais para possibilidades de
+reutilização.
+PROPOSIÇÃO E EXECUÇÃO DE MEDIDAS SUSTENTÁVEIS
+Um outro fator importante a ser destacado é a abrangência de
+medidas de promoção da sustentabilidade. A escassez de recursos
+apresentada no início deste trabalho remete à urgência de ações
+nesse sentido. Tanto a primeira etapa analisada quanto a segunda
+destinaram os resíduos para ATTs e recicladoras que atendem às
+normas vigentes e praticam a reinserção dos resíduos após o
+processamento da reciclagem novamente na indústria da construção
+
+civil como novas matérias primas, contemplando a logística reversa.
+Os benefícios ambientais atrelados a essas ações são inúmeros.
+A revenda praticada também proporciona um beneficiamento
+econômico às partes envolvidas.
+Por exemplo, para ilustrar os benefícios ambientais do reuso do
+aço, pode-se observar o gráfico 6.1. Nele são destacados os pontos
+ambientais atrelados à produção de um aço novo em detrimento
+ao seu reaproveitamento. Os aspectos e impactos ambientais
+evitados com a reutilização são visíveis, o que pode ser extrapolado
+aos demais materiais em que o reaproveitamento foi contemplado,
+como a madeira.
+Na etapa referente à restauração das esquadrias e fachadas, a
+busca por atingir a pontuação para obtenção da certificação LEED
+também está se mostrando um ótimo estímulo adotado para garantir
+a execução de diretrizes ambientais. Dentre elas, a gestão dos
+resíduos perigosos realizada de maneira extremamente condizente
+com as normas e legislação. Vale salientar que na primeira etapa
+de gestão analisada os resíduos perigosos não foram corretamente
+previstos.
+Apesar do tema deste trabalho, a fiscalização e ações visando
+à conservação do meio ambiente e a promoção de práticas
+sustentáveis não devem ser exclusivas às gestão de resíduos. Os
+consumos de água e energia, as perdas, as condições de trabalho,
+
+77
+
+a geração de ruídos e gases poluentes, são aspectos que também
+devem ser gerenciados de forma sistêmica, para que os impactos
+sejam efetivamente mitigados e o desenvolvimento sustentável
+possa ser promovido.
+Partindo do princípio que ações estimulam mudanças culturais de
+forma mais rápida do que a legislação por si só, as análises contidas
+neste trabalho visam a evolução de algumas práticas em canteiros
+de obra, observando pontos com possibilidades de melhoria para
+com a criação de novos paradigmas.
+Exercícios de avaliação do impacto ambiental das atividades
+realizadas em comparação com o ganho obtido com a adoção
+de medidas sustentáveis, a busca por informações da origem e
+dos processos de produção dos materiais utilizados na execução
+da obra, podem ser bons indicadores para o desenvolvimento
+de uma consciência cada vez mais sustentável considerando as
+peculiaridades de cada obra e coerente com o contexto atual de
+escassez. A multidisciplinaridade da temática convoca arquitetos,
+engenheiros, gestores ambientais, químicos e demais profissionais
+a trabalharem conjuntamente no desenvolvimento de medidas
+sistêmicas e não isoladas.
+
+78
+
+7
+BIBLIOGRAFIA
+
+ADDIS, B. Reuso de materias e elementos de construção. Editora
+Oficina de Textos. São Paulo, 2010.
+ANGULO, S. C.; CARELI, E. D.; MIRANDA, L. F. R. A reciclagem de
+resíduos de construção e demolição no Brasil: 1986-2008. Artigo
+publicado pelo periódico Ambiente Construído, Porto Alegre, v. 9, n.
+1, p. 57-71, jan/mar. 2009.
+ANGULO, S. C. Caracterização de agregados de resíduos de
+construção e demolição reciclados e a influência de suas
+características no comportamento mecânico dos concretos. 2005.
+149 f. Tese (Doutorado em Engenharia Civil) – Escola Politécnica da
+Universidade de São Paulo, São Paulo, 2005.
+ASSOCIÇÃO BRASIELEIRA DE NORMAS TÉCNICAS. NBR 10.004:
+Resíduos sólidos – Classificação. Rio de Janeiro, 2004.
+ARAÚJO, V. M. Práticas recomendadas para a gestão mais sustentável
+de canteiros de obras. Dissertação (mestrado) – Escola Politécnica da
+Universidade de São Paulo. São Paulo, 2009.
+CARDOSO, F. F. Redução de impactos ambientais dos canteiros de
+obras: exigências das metodologias de avaliação da sustentabilidade
+de edifícios. In: XI Encontro Nacional de Tecnologia do Ambiente
+Construído: A Construção do Futuro (ENTAC 2006). Florianópolis.
+23-25 agosto 2006.
+CONAMA – Conselho Nacional do Meio Ambiente. Resolução
+Conama 307. Brasília, 2002. Disponível em http://www.mma.gov.br/
+
+port/conama.
+CONAMA – Conselho Nacional do Meio Ambiente. Resolução
+Conama 348. Brasília, 2004. Disponível em http://www.mma.gov.br/
+port/conama.
+CONAMA – Conselho Nacional do Meio Ambiente. Resolução
+Conama 431. Brasília, 2011. Disponível em http://www.mma.gov.br/
+port/conama
+CONAMA – Conselho Nacional do Meio Ambiente. Resolução
+Conama 448. Brasília, 2012. Disponível em http://www.mma.gov.br/
+port/conama
+CONAMA – Conselho Nacional do Meio Ambiente. Resolução
+Conama 469. Brasília, 2015. Disponível em http://www.mma.gov.br/
+port/conama
+DEGANI, C. M. Sistemas de gestão ambiental em empresas
+construtoras de edifícios. Dissertação (Mestrado) – Escola Politécnica
+da Universidade de São Paulo. São Paulo, 2003.
+GESTÃO AMBIENTAL DE RESÍDUOS DA CONSTRUÇÃO CIVIL:
+AVANÇOS INSTITUCIONAIS E MELHORIAS TÉCNICAS. Publicação
+elaborada pelo Sindicato da Construção – SindusCon. São Paulo,
+2015.
+HAAS, W; HEINZ, M.; KRAUSMANN, F.; WIEDENHOFER, D. How
+circular is the global economy?. Artigo publicado pelo Wiley
+79
+
+Periodicals, Journal of Industrial Ecology. Disponível em: http://www.
+wileyonlinelibrary.com/journal/jie. Acesso em 04 de março de 2016.
+IBGE – Instituto Brasileiro de Geografia e Estatística. Disponível em
+http://www.ibge.gov.br/. Último acesso em: 03 de junho de 2016.
+JACOBI, P; BESEN, G. Gestão de resíduos sólidos em São Paulo:
+desafios da sustentabilidade. Iniciação Científica CNPQ. Faculdade
+de Saúde Pública da Universidade de São Paulo. 2011.
+JOHN, V. M. Reciclagem de resíduos na construção civil: contribuição
+à metodologia de pesquisa e desenvolvimento. Dissertação (livre
+docência) - Escola Politécnica da Universidade de São Paulo. São
+Paulo, 2000.
+MAIA, A. C. Método para conceber o arranjo físico dos elementos
+do canteiro de edifícios – fase criativa. São Paulo, 2003. 236p. Tese
+(mestrado) – Escola Politécnica da Universidade de São Paulo.
+MANUAL DE GERENCIAMENTO INTEGRADO DE RESÍDUOS SÓLIDOS.
+Publicação elaborada pelo Instituto Brasileiro de Administração
+Municipal – IBAM. Rio de Janeiro, 2001.
+PANORAMA DOS RESÍDUOS SÓLIDOS NO BRASIL: 2014. Publicação
+elaborada pela Associação Brasileira de Empresas de Limpeza
+Pública e Resíduos Especiais – ABRELPE. São Paulo, 2014.
+PESQUISA NACIONAL DE SANEAMENTO BÁSICO - 2008. Publicação
+elaborada pelo IBGE. Rio de Janeiro, 2010.
+80
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DA CIDADE
+DE SÃO PAULO. Comitê Intersecretarial para a Política Municipal de
+Resíduos Sólidos. Prefeitura Municipal de São Paulo. 2014.
+PINTO, T. P. Metodologia para gestão diferenciada de resíduos
+sólidos na construção urbana. Dissertação (doutorado) - Escola
+Politécnica da Universidade de São Paulo. São Paulo, 1999.
+PINTO, T.P. Perdas de materiais em processos construtivos
+tradicionais. São Carlos, 1989. Departamento de Engenharia Civil,
+Universidade Federal de São Carlos – UFSCar. /Datilografado/
+POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS. Lei nº 12.305, de agosto
+de 2010. 2ª Edição. Disponível em Biblioteca Digital da Câmara dos
+Deputados: http://bd.camara.gov.br. Brasília, 2012.
+POLÍTICA NACIONAL DE SANEAMENTO BÁSICO. Lei Nº 11.445, de
+5 de janeiro de 2007. Disponível em: http://www.planalto.gov.br/
+ccivil_03/_ato2007-2010/2007/lei/l11445.htm
+PROCESSO AQUA. Construção sustentável. Referencial técnico de
+certificação. São Paulo, 2009.
+RESÍDUOS DA CONSTRUÇÃO CIVIL E O ESTADO DE SÃO PAULO.
+Publicação elaborada pelo Sindicato da Insdústria da Construção Civil
+do Estado de São Paulo - SindusCon-SP e pelo Governo do Estado
+de São Paulo - Secretaria do Meio Ambiente. São Paulo - SP, 2012.
+SÁNCHEZ, L. E. Avaliação de Impacto Ambiental: Conceitos e
+
+Métodos. São Paulo: Oficina de Textos. 2006.
+SELO CASA AZUL. Boas práticas para habitação mais Sustentável.
+São Paulo, 2010.
+SELO CASA AZUL. Boas práticas para habitação mais Sustentável.
+São Paulo, 2010.
+SOIBELMAN, L. As perdas de materiais na construção de edificações:
+Sua incidência e controle. Dissertação (Mestrado) – Curso de Pósgraduação em Engenharia Civil, Universidade Federal do Rio Grande
+do Sul. Porto Alegre, 1993
+SOUZA, U.E.L. Perdas de materiais nos canteiros de obra: a quebra
+do mito. Qualidade na Construção, 1998.
+TADDEI, A. M. S. M. Língua, patrimônio, museu. 36º Encontro Anual
+da Anpocs GT 19 Memória social, museus e patrimônios: novas
+construções de sentido e experiências de transdisciplinaridade.
+Águas de Lindóia, 2012. Disponível em: <http://www.anpocs.
+org/portal/index.php?option=com_docman&task=doc_
+view&gid=8056&Itemid=76>. Acesso em 28 julho.2016.
+USGBC. LEED Reference Guide for Green Building Design and
+Construction. USGBC: Washington, 2009.
+VARGAS, C.L.S. Avaliação de perdas em obras: aplicação de
+metodologia expedita. Encontro Nacional de Engenharia de
+Produção, Gramado, 1997.
+81
+
+
